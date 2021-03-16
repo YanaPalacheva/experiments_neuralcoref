@@ -22,7 +22,7 @@ NeuralCoref's developer provide [instruction](https://github.com/YanaPalacheva/n
    cd rucoref_29.10.2015/parsed_testset_neuralcoref
    cat */*.v4_gold_conll >> train.russian.v4_gold_conll
    ~~~~  
-   For convenience, we provide ready-to-use dataset in this repository: 
+   For convenience, we provide ready-to-use dataset in this repository: [train.russian.v4_gold_conll](https://github.com/YanaPalacheva/experiments_neuralcoref/blob/master/train.russian.v4_gold_conll)
 - Next, clone the original NeuralCoref repository (we strongly recommend to do it in a virtual environment (venv or conda), python>=3.6):
    ~~~~  
    git clone https://github.com/huggingface/neuralcoref.git
