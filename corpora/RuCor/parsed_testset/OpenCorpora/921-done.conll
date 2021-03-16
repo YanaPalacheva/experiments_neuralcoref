@@ -1,0 +1,1044 @@
+# newdoc id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad
+# newpar id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p1
+# par_text = Шведы не любят Бергмана. Даже после смерти. В США его рекламируют как порнографа. Нет пророка в своем отечестве. Но нет его и выше. А что, у нас в России не так, что ли? Вот и Ландау сделали секс-машиной.
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p1-s1
+# text = Шведы не любят Бергмана.
+1	Шведы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=204|RuCor_group_id=412918|RuCor_link_id=0|Shift=0
+2	не	_	_	_	_	_	_	_	Shift=6
+3	любят	_	_	_	_	_	_	_	Shift=9
+4	Бергмана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=208|RuCor_group_id=412897|RuCor_link_id=0|Shift=15|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=23
+
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p1-s2
+# text = Даже после смерти.
+1	Даже	_	_	_	_	_	_	_	Shift=25
+2	после	_	_	_	_	_	_	_	Shift=30
+3	смерти	_	_	_	_	_	_	_	Shift=36|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=42
+
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p1-s3
+# text = В США его рекламируют как порнографа.
+1	В	_	_	_	_	_	_	_	Shift=44
+2	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=202|RuCor_group_id=412930|RuCor_link_id=0|Shift=46
+3	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=208|RuCor_group_id=412898|RuCor_link_id=412897|Shift=50
+4	рекламируют	_	_	_	_	_	_	_	Shift=54
+5	как	_	_	_	_	_	_	_	Shift=66
+6	порнографа	_	_	_	_	_	_	_	Shift=70|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=80
+
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p1-s4
+# text = Нет пророка в своем отечестве.
+1	Нет	_	_	_	_	_	_	_	Shift=82
+2	пророка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=207|RuCor_group_id=412899|RuCor_link_id=0|Shift=86
+3	в	_	_	_	_	_	_	_	Shift=94
+4	своем	_	_	_	_	_	_	_	Shift=96
+5	отечестве	_	_	_	_	_	_	_	Shift=102|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=111
+
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p1-s5
+# text = Но нет его и выше.
+1	Но	_	_	_	_	_	_	_	Shift=113
+2	нет	_	_	_	_	_	_	_	Shift=116
+3	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=207|RuCor_group_id=412900|RuCor_link_id=412899|Shift=120
+4	и	_	_	_	_	_	_	_	Shift=124
+5	выше	_	_	_	_	_	_	_	Shift=126|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=130
+
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p1-s6
+# text = А что, у нас в России не так, что ли?
+1	А	_	_	_	_	_	_	_	Shift=132
+2	что	_	_	_	_	_	_	_	Shift=134|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=137
+4	у	_	_	_	_	_	_	_	Shift=139
+5	нас	_	_	_	_	_	_	_	Shift=141
+6	в	_	_	_	_	_	_	_	Shift=145
+7	России	_	_	_	_	_	_	_	Shift=147
+8	не	_	_	_	_	_	_	_	Shift=154
+9	так	_	_	_	_	_	_	_	Shift=157|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=160
+11	что	_	_	_	_	_	_	_	Shift=162
+12	ли	_	_	_	_	_	_	_	Shift=166|SpaceAfter=No
+13	?	_	_	_	_	_	_	_	Shift=168
+
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p1-s7
+# text = Вот и Ландау сделали секс - машиной.
+1	Вот	_	_	_	_	_	_	_	Shift=170
+2	и	_	_	_	_	_	_	_	Shift=174
+3	Ландау	_	_	_	_	_	_	_	Shift=176
+4	сделали	_	_	_	_	_	_	_	Shift=183
+5	секс	_	_	_	_	_	_	_	Shift=191
+6	-	_	_	_	_	_	_	_	Shift=195
+7	машиной	_	_	_	_	_	_	_	Shift=196|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=203
+
+# newpar id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p2
+# par_text = Ингмар Бергман скончался год назад, под скорбный хор всего прогрессивного человечества. Из которого его соотечественники, всегда безразличные к своему «гению места», себя, похоже, исключили напрочь.
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p2-s1
+# text = Ингмар Бергман скончался год назад, под скорбный хор всего прогрессивного человечества.
+1	Ингмар	_	_	_	_	_	_	_	RuCor_chain_id=208|RuCor_group_id=412901|Shift=205
+2	Бергман	_	_	_	_	_	_	_	RuCor_chain_id=208|RuCor_group_id=412901|Shift=212
+3	скончался	_	_	_	_	_	_	_	Shift=220
+4	год	_	_	_	_	_	_	_	Shift=230
+5	назад	_	_	_	_	_	_	_	Shift=234|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=239
+7	под	_	_	_	_	_	_	_	Shift=241
+8	скорбный	_	_	_	_	_	_	_	Shift=245
+9	хор	_	_	_	_	_	_	_	Shift=254
+10	всего	_	_	_	_	_	_	_	Shift=258
+11	прогрессивного	_	_	_	_	_	_	_	RuCor_chain_id=206|RuCor_group_id=412906|Shift=264
+12	человечества	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=206|RuCor_group_id=412906|RuCor_link_id=0|Shift=279|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=291
+
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p2-s2
+# text = Из которого его соотечественники, всегда безразличные к своему ``гению места'', себя, похоже, исключили напрочь.
+1	Из	_	_	_	_	_	_	_	Shift=293
+2	которого	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=206|RuCor_group_id=412907|RuCor_link_id=412906|Shift=296
+3	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=204|RuCor_group_id=412903|RuCor_link_id=412901|Shift=305
+4	соотечественники	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=204|RuCor_group_id=412903|RuCor_link_id=412918|Shift=309|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=325
+6	всегда	_	_	_	_	_	_	_	Shift=327
+7	безразличные	_	_	_	_	_	_	_	Shift=334
+8	к	_	_	_	_	_	_	_	Shift=347
+9	своему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=204|RuCor_group_id=412904|RuCor_link_id=412903|Shift=349
+10	``	_	_	_	_	_	_	_	Shift=356|SpaceAfter=No
+11	гению	_	_	_	_	_	_	_	Shift=357
+12	места	_	_	_	_	_	_	_	Shift=363|SpaceAfter=No
+13	''	_	_	_	_	_	_	_	Shift=368|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=369
+15	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=204|RuCor_group_id=412905|RuCor_link_id=412903|Shift=371|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=375
+17	похоже	_	_	_	_	_	_	_	Shift=377|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=383
+19	исключили	_	_	_	_	_	_	_	Shift=385
+20	напрочь	_	_	_	_	_	_	_	Shift=395|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=402
+
+# newpar id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p3
+# par_text = Во-первых, долгие месяцы препирались, не желая выдавать необходимую сумму на расшифровку его архивов. Во-вторых, во всеуслышание заявляли, что, мол, у них, кроме Бергмана, и своих забот хватает.
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p3-s1
+# text = Во-первых, долгие месяцы препирались, не желая выдавать необходимую сумму на расшифровку его архивов.
+1	Во-первых	_	_	_	_	_	_	_	Shift=404|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=413
+3	долгие	_	_	_	_	_	_	_	Shift=415
+4	месяцы	_	_	_	_	_	_	_	Shift=422
+5	препирались	_	_	_	_	_	_	_	Shift=429|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=440
+7	не	_	_	_	_	_	_	_	Shift=442
+8	желая	_	_	_	_	_	_	_	Shift=445
+9	выдавать	_	_	_	_	_	_	_	Shift=451
+10	необходимую	_	_	_	_	_	_	_	Shift=460
+11	сумму	_	_	_	_	_	_	_	Shift=472
+12	на	_	_	_	_	_	_	_	Shift=478
+13	расшифровку	_	_	_	_	_	_	_	Shift=481
+14	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=208|RuCor_group_id=412908|RuCor_link_id=412901|Shift=493
+15	архивов	_	_	_	_	_	_	_	Shift=497|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=504
+
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p3-s2
+# text = Во-вторых, во всеуслышание заявляли, что, мол, у них, кроме Бергмана, и своих забот хватает.
+1	Во-вторых	_	_	_	_	_	_	_	Shift=506|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=515
+3	во	_	_	_	_	_	_	_	Shift=517
+4	всеуслышание	_	_	_	_	_	_	_	Shift=520
+5	заявляли	_	_	_	_	_	_	_	Shift=533|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=541
+7	что	_	_	_	_	_	_	_	Shift=543|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=546
+9	мол	_	_	_	_	_	_	_	Shift=548|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=551
+11	у	_	_	_	_	_	_	_	Shift=553
+12	них	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=204|RuCor_group_id=412909|RuCor_link_id=412903|Shift=555|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=558
+14	кроме	_	_	_	_	_	_	_	Shift=560
+15	Бергмана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=208|RuCor_group_id=412911|RuCor_link_id=412901|Shift=566|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=574
+17	и	_	_	_	_	_	_	_	Shift=576
+18	своих	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=204|RuCor_group_id=412910|RuCor_link_id=412909|Shift=578
+19	забот	_	_	_	_	_	_	_	Shift=584
+20	хватает	_	_	_	_	_	_	_	Shift=590|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=597
+
+# newpar id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p4
+# par_text = Охотно верим...
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p4-s1
+# text = Охотно верим...
+1	Охотно	_	_	_	_	_	_	_	Shift=599
+2	верим	_	_	_	_	_	_	_	Shift=606|SpaceAfter=No
+3	...	_	_	_	_	_	_	_	Shift=611
+
+# newpar id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p5
+# par_text = Тем более что, как любит говорить наша Кира Муратова, в нем не хватает «варварства», присовокупляя, что он ей-де «надоел».
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p5-s1
+# text = Тем более что, как любит говорить наша Кира Муратова, в нем не хватает ``варварства'', присовокупляя, что он ей - де ``надоел''.
+1	Тем	_	_	_	_	_	_	_	Shift=615
+2	более	_	_	_	_	_	_	_	Shift=619
+3	что	_	_	_	_	_	_	_	Shift=625|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=628
+5	как	_	_	_	_	_	_	_	Shift=630
+6	любит	_	_	_	_	_	_	_	Shift=634
+7	говорить	_	_	_	_	_	_	_	Shift=640
+8	наша	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=193|RuCor_group_id=412964|RuCor_link_id=0|Shift=649
+9	Кира	_	_	_	_	_	_	_	RuCor_chain_id=205|RuCor_group_id=412914|Shift=654
+10	Муратова	_	_	_	_	_	_	_	RuCor_chain_id=205|RuCor_group_id=412914|Shift=659|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=667
+12	в	_	_	_	_	_	_	_	Shift=669
+13	нем	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=208|RuCor_group_id=412912|RuCor_link_id=412911|Shift=671
+14	не	_	_	_	_	_	_	_	Shift=675
+15	хватает	_	_	_	_	_	_	_	Shift=678
+16	``	_	_	_	_	_	_	_	Shift=686|SpaceAfter=No
+17	варварства	_	_	_	_	_	_	_	Shift=687|SpaceAfter=No
+18	''	_	_	_	_	_	_	_	Shift=697|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=698
+20	присовокупляя	_	_	_	_	_	_	_	Shift=700|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=713
+22	что	_	_	_	_	_	_	_	Shift=715
+23	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=208|RuCor_group_id=412913|RuCor_link_id=412912|Shift=719
+24	ей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=205|RuCor_group_id=412915|RuCor_link_id=412914|Shift=722
+25	-	_	_	_	_	_	_	_	Shift=724
+26	де	_	_	_	_	_	_	_	Shift=725
+27	``	_	_	_	_	_	_	_	Shift=728|SpaceAfter=No
+28	надоел	_	_	_	_	_	_	_	Shift=729|SpaceAfter=No
+29	''	_	_	_	_	_	_	_	Shift=735|SpaceAfter=No
+30	.	_	_	_	_	_	_	_	Shift=736
+
+# newpar id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p6
+# par_text = Соотечественники же, разные прочие шведы, вторят ей, обвиняя Бергмана в том, что он «искажает» национальный характер и что в Швеции уже почти не осталось взыскующих истины пасторов и таинственных туманов.
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p6-s1
+# text = Соотечественники же, разные прочие шведы, вторят ей, обвиняя Бергмана в том, что он ``искажает'' национальный характер и что в Швеции уже почти не осталось взыскующих истины пасторов и таинственных туманов.
+1	Соотечественники	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=204|RuCor_group_id=412916|RuCor_link_id=412903|Shift=738
+2	же	_	_	_	_	_	_	_	Shift=755|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=757
+4	разные	_	_	_	_	_	_	_	RuCor_chain_id=204|RuCor_group_id=412917|Shift=759
+5	прочие	_	_	_	_	_	_	_	RuCor_chain_id=204|RuCor_group_id=412917|Shift=766
+6	шведы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=appo|RuCor_attrs_type=coref|RuCor_chain_id=204|RuCor_group_id=412917|RuCor_link_id=412916|Shift=773|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=778
+8	вторят	_	_	_	_	_	_	_	Shift=780
+9	ей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=205|RuCor_group_id=412919|RuCor_link_id=412914|Shift=787|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=789
+11	обвиняя	_	_	_	_	_	_	_	Shift=791
+12	Бергмана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=208|RuCor_group_id=412920|RuCor_link_id=412911|Shift=799
+13	в	_	_	_	_	_	_	_	Shift=808
+14	том	_	_	_	_	_	_	_	Shift=810|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=813
+16	что	_	_	_	_	_	_	_	Shift=815
+17	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=208|RuCor_group_id=412921|RuCor_link_id=412920|Shift=819
+18	``	_	_	_	_	_	_	_	Shift=822|SpaceAfter=No
+19	искажает	_	_	_	_	_	_	_	Shift=823|SpaceAfter=No
+20	''	_	_	_	_	_	_	_	Shift=831
+21	национальный	_	_	_	_	_	_	_	Shift=833
+22	характер	_	_	_	_	_	_	_	Shift=846
+23	и	_	_	_	_	_	_	_	Shift=855
+24	что	_	_	_	_	_	_	_	Shift=857
+25	в	_	_	_	_	_	_	_	Shift=861
+26	Швеции	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=203|RuCor_group_id=412922|RuCor_link_id=0|Shift=863
+27	уже	_	_	_	_	_	_	_	Shift=870
+28	почти	_	_	_	_	_	_	_	Shift=874
+29	не	_	_	_	_	_	_	_	Shift=880
+30	осталось	_	_	_	_	_	_	_	Shift=883
+31	взыскующих	_	_	_	_	_	_	_	Shift=892
+32	истины	_	_	_	_	_	_	_	Shift=903
+33	пасторов	_	_	_	_	_	_	_	Shift=910
+34	и	_	_	_	_	_	_	_	Shift=919
+35	таинственных	_	_	_	_	_	_	_	Shift=921
+36	туманов	_	_	_	_	_	_	_	Shift=934|SpaceAfter=No
+37	.	_	_	_	_	_	_	_	Shift=941
+
+# newpar id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p7
+# par_text = И что Швеция не такая уж одухотворенная страна, какой он ее видел: кризис гуманизма здесь проходит в такой благоприятствующей обывателю атмосфере, что почти и незаметен.
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p7-s1
+# text = И что Швеция не такая уж одухотворенная страна, какой он ее видел: кризис гуманизма здесь проходит в такой благоприятствующей обывателю атмосфере, что почти и незаметен.
+1	И	_	_	_	_	_	_	_	Shift=943
+2	что	_	_	_	_	_	_	_	Shift=945
+3	Швеция	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=203|RuCor_group_id=412923|RuCor_link_id=412922|Shift=949
+4	не	_	_	_	_	_	_	_	Shift=956
+5	такая	_	_	_	_	_	_	_	Shift=959
+6	уж	_	_	_	_	_	_	_	Shift=965
+7	одухотворенная	_	_	_	_	_	_	_	Shift=968
+8	страна	_	_	_	_	_	_	_	Shift=983|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=989
+10	какой	_	_	_	_	_	_	_	Shift=991
+11	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=208|RuCor_group_id=412924|RuCor_link_id=412920|Shift=997
+12	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=203|RuCor_group_id=412925|RuCor_link_id=412923|Shift=1000
+13	видел	_	_	_	_	_	_	_	Shift=1003|SpaceAfter=No
+14	:	_	_	_	_	_	_	_	Shift=1008
+15	кризис	_	_	_	_	_	_	_	Shift=1010
+16	гуманизма	_	_	_	_	_	_	_	Shift=1017
+17	здесь	_	_	_	_	_	_	_	Shift=1027
+18	проходит	_	_	_	_	_	_	_	Shift=1033
+19	в	_	_	_	_	_	_	_	Shift=1042
+20	такой	_	_	_	_	_	_	_	Shift=1044
+21	благоприятствующей	_	_	_	_	_	_	_	Shift=1050
+22	обывателю	_	_	_	_	_	_	_	Shift=1069
+23	атмосфере	_	_	_	_	_	_	_	Shift=1079|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=1088
+25	что	_	_	_	_	_	_	_	Shift=1090
+26	почти	_	_	_	_	_	_	_	Shift=1094
+27	и	_	_	_	_	_	_	_	Shift=1100
+28	незаметен	_	_	_	_	_	_	_	Shift=1102|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	Shift=1111
+
+# newpar id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p8
+# par_text = Опять-таки верим, охотно верим.
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p8-s1
+# text = Опять-таки верим, охотно верим.
+1	Опять-таки	_	_	_	_	_	_	_	Shift=1113
+2	верим	_	_	_	_	_	_	_	Shift=1124|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1129
+4	охотно	_	_	_	_	_	_	_	Shift=1131
+5	верим	_	_	_	_	_	_	_	Shift=1138|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=1143
+
+# newpar id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p9
+# par_text = Однако даже шведы, из двух символов своей страны, потребительского и гуманитарного, из «Вольво» и Бергмана, отдающие предпочтение первому, не дотумкались до американского изобретения 50-летней давности.
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p9-s1
+# text = Однако даже шведы, из двух символов своей страны, потребительского и гуманитарного, из ``Вольво'' и Бергмана, отдающие предпочтение первому, не дотумкались до американского изобретения 50-летней давности.
+1	Однако	_	_	_	_	_	_	_	Shift=1145
+2	даже	_	_	_	_	_	_	_	Shift=1152
+3	шведы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=204|RuCor_group_id=412926|RuCor_link_id=412916|Shift=1157|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1162
+5	из	_	_	_	_	_	_	_	Shift=1164
+6	двух	_	_	_	_	_	_	_	Shift=1167
+7	символов	_	_	_	_	_	_	_	Shift=1172
+8	своей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=203|RuCor_group_id=412928|RuCor_link_id=412926|Shift=1181
+9	страны	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=203|RuCor_group_id=412928|RuCor_link_id=412923|Shift=1187|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=1193
+11	потребительского	_	_	_	_	_	_	_	Shift=1195
+12	и	_	_	_	_	_	_	_	Shift=1212
+13	гуманитарного	_	_	_	_	_	_	_	Shift=1214|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=1227
+15	из	_	_	_	_	_	_	_	Shift=1229
+16	``	_	_	_	_	_	_	_	Shift=1232|SpaceAfter=No
+17	Вольво	_	_	_	_	_	_	_	Shift=1233|SpaceAfter=No
+18	''	_	_	_	_	_	_	_	Shift=1239
+19	и	_	_	_	_	_	_	_	Shift=1241
+20	Бергмана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=208|RuCor_group_id=412929|RuCor_link_id=412920|Shift=1243|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=1251
+22	отдающие	_	_	_	_	_	_	_	Shift=1253
+23	предпочтение	_	_	_	_	_	_	_	Shift=1262
+24	первому	_	_	_	_	_	_	_	Shift=1275|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=1282
+26	не	_	_	_	_	_	_	_	Shift=1284
+27	дотумкались	_	_	_	_	_	_	_	Shift=1287
+28	до	_	_	_	_	_	_	_	Shift=1299
+29	американского	_	_	_	_	_	_	_	Shift=1302
+30	изобретения	_	_	_	_	_	_	_	Shift=1316
+31	50-летней	_	_	_	_	_	_	_	Shift=1328
+32	давности	_	_	_	_	_	_	_	Shift=1338|SpaceAfter=No
+33	.	_	_	_	_	_	_	_	Shift=1346
+
+# newpar id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p10
+# par_text = Как выяснилось — если верить интернет-сообщениям, конечно, — в Америке давным-давно, еще в 50-х, Бергмана рекламировали для зрителей как… порнорежиссера.
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p10-s1
+# text = Как выяснилось - если верить интернет - сообщениям, конечно, - в Америке давным-давно, еще в 50-х, Бергмана рекламировали для зрителей как... порнорежиссера.
+1	Как	_	_	_	_	_	_	_	Shift=1348
+2	выяснилось	_	_	_	_	_	_	_	Shift=1352
+3	-	_	_	_	_	_	_	_	Shift=1363
+4	если	_	_	_	_	_	_	_	Shift=1365
+5	верить	_	_	_	_	_	_	_	Shift=1370
+6	интернет	_	_	_	_	_	_	_	Shift=1377
+7	-	_	_	_	_	_	_	_	Shift=1385
+8	сообщениям	_	_	_	_	_	_	_	Shift=1386|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1396
+10	конечно	_	_	_	_	_	_	_	Shift=1398|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=1405
+12	-	_	_	_	_	_	_	_	Shift=1407
+13	в	_	_	_	_	_	_	_	Shift=1409
+14	Америке	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=202|RuCor_group_id=412931|RuCor_link_id=412930|Shift=1411
+15	давным-давно	_	_	_	_	_	_	_	Shift=1419|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=1431
+17	еще	_	_	_	_	_	_	_	Shift=1433
+18	в	_	_	_	_	_	_	_	Shift=1437
+19	50-х	_	_	_	_	_	_	_	Shift=1439|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=1443
+21	Бергмана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=208|RuCor_group_id=412932|RuCor_link_id=412929|Shift=1445
+22	рекламировали	_	_	_	_	_	_	_	Shift=1454
+23	для	_	_	_	_	_	_	_	Shift=1468
+24	зрителей	_	_	_	_	_	_	_	Shift=1472
+25	как	_	_	_	_	_	_	_	Shift=1481|SpaceAfter=No
+26	...	_	_	_	_	_	_	_	Shift=1484
+27	порнорежиссера	_	_	_	_	_	_	_	Shift=1486|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=1500
+
+# newpar id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p11
+# par_text = Ну в мягком варианте, конечно…
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p11-s1
+# text = Ну в мягком варианте, конечно...
+1	Ну	_	_	_	_	_	_	_	Shift=1502
+2	в	_	_	_	_	_	_	_	Shift=1505
+3	мягком	_	_	_	_	_	_	_	Shift=1507
+4	варианте	_	_	_	_	_	_	_	Shift=1514|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1522
+6	конечно	_	_	_	_	_	_	_	Shift=1524|SpaceAfter=No
+7	...	_	_	_	_	_	_	_	Shift=1531
+
+# newpar id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p12
+# par_text = В сглаженном…
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p12-s1
+# text = В сглаженном...
+1	В	_	_	_	_	_	_	_	Shift=1533
+2	сглаженном	_	_	_	_	_	_	_	Shift=1535|SpaceAfter=No
+3	...	_	_	_	_	_	_	_	Shift=1545
+
+# newpar id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p13
+# par_text = И все же.
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p13-s1
+# text = И все же.
+1	И	_	_	_	_	_	_	_	Shift=1547
+2	все	_	_	_	_	_	_	_	Shift=1549
+3	же	_	_	_	_	_	_	_	Shift=1553|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=1555
+
+# newpar id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p14
+# par_text = Учитывая, что полвека назад откровенная сцена женской мастурбации (как в бергмановском «Молчании») или обнаженное женское тело считались признаком чуть ли не порно, американские прокатчики этим широко пользовались.
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p14-s1
+# text = Учитывая, что полвека назад откровенная сцена женской мастурбации (как в бергмановском ``Молчании'') или обнаженное женское тело считались признаком чуть ли не порно, американские прокатчики этим широко пользовались.
+1	Учитывая	_	_	_	_	_	_	_	Shift=1557|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=1565
+3	что	_	_	_	_	_	_	_	Shift=1567
+4	полвека	_	_	_	_	_	_	_	Shift=1571
+5	назад	_	_	_	_	_	_	_	Shift=1579
+6	откровенная	_	_	_	_	_	_	_	Shift=1585
+7	сцена	_	_	_	_	_	_	_	Shift=1597
+8	женской	_	_	_	_	_	_	_	Shift=1603
+9	мастурбации	_	_	_	_	_	_	_	Shift=1611
+10	(	_	_	_	_	_	_	_	Shift=1623|SpaceAfter=No
+11	как	_	_	_	_	_	_	_	Shift=1624
+12	в	_	_	_	_	_	_	_	Shift=1628
+13	бергмановском	_	_	_	_	_	_	_	RuCor_chain_id=194|RuCor_group_id=412960|Shift=1630
+14	``	_	_	_	_	_	_	_	RuCor_chain_id=194|RuCor_group_id=412960|Shift=1644|SpaceAfter=No
+15	Молчании	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=194|RuCor_group_id=412960|RuCor_link_id=0|Shift=1645|SpaceAfter=No
+16	''	_	_	_	_	_	_	_	RuCor_chain_id=194|RuCor_group_id=412960|Shift=1653|SpaceAfter=No
+17	)	_	_	_	_	_	_	_	RuCor_chain_id=194|RuCor_group_id=412960|Shift=1654
+18	или	_	_	_	_	_	_	_	Shift=1656
+19	обнаженное	_	_	_	_	_	_	_	Shift=1660
+20	женское	_	_	_	_	_	_	_	Shift=1671
+21	тело	_	_	_	_	_	_	_	Shift=1679
+22	считались	_	_	_	_	_	_	_	Shift=1684
+23	признаком	_	_	_	_	_	_	_	Shift=1694
+24	чуть	_	_	_	_	_	_	_	Shift=1704
+25	ли	_	_	_	_	_	_	_	Shift=1709
+26	не	_	_	_	_	_	_	_	Shift=1712
+27	порно	_	_	_	_	_	_	_	Shift=1715|SpaceAfter=No
+28	,	_	_	_	_	_	_	_	Shift=1720
+29	американские	_	_	_	_	_	_	_	Shift=1722
+30	прокатчики	_	_	_	_	_	_	_	Shift=1735
+31	этим	_	_	_	_	_	_	_	Shift=1746
+32	широко	_	_	_	_	_	_	_	Shift=1751
+33	пользовались	_	_	_	_	_	_	_	Shift=1758|SpaceAfter=No
+34	.	_	_	_	_	_	_	_	Shift=1770
+
+# newpar id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p15
+# par_text = Протаскивая Бергмана сквозь препоны и рогатки цензуры в качестве «второстепенного» автора, исследующего человеческий низ, а не, скажем так, верх.
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p15-s1
+# text = Протаскивая Бергмана сквозь препоны и рогатки цензуры в качестве ``второстепенного'' автора, исследующего человеческий низ, а не, скажем так, верх.
+1	Протаскивая	_	_	_	_	_	_	_	Shift=1772
+2	Бергмана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=208|RuCor_group_id=412933|RuCor_link_id=412932|Shift=1784
+3	сквозь	_	_	_	_	_	_	_	Shift=1793
+4	препоны	_	_	_	_	_	_	_	Shift=1800
+5	и	_	_	_	_	_	_	_	Shift=1808
+6	рогатки	_	_	_	_	_	_	_	Shift=1810
+7	цензуры	_	_	_	_	_	_	_	Shift=1818
+8	в	_	_	_	_	_	_	_	Shift=1826
+9	качестве	_	_	_	_	_	_	_	Shift=1828
+10	``	_	_	_	_	_	_	_	Shift=1837|SpaceAfter=No
+11	второстепенного	_	_	_	_	_	_	_	Shift=1838|SpaceAfter=No
+12	''	_	_	_	_	_	_	_	Shift=1853
+13	автора	_	_	_	_	_	_	_	Shift=1855|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=1861
+15	исследующего	_	_	_	_	_	_	_	Shift=1863
+16	человеческий	_	_	_	_	_	_	_	Shift=1876
+17	низ	_	_	_	_	_	_	_	Shift=1889|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=1892
+19	а	_	_	_	_	_	_	_	Shift=1894
+20	не	_	_	_	_	_	_	_	Shift=1896|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=1898
+22	скажем	_	_	_	_	_	_	_	Shift=1900
+23	так	_	_	_	_	_	_	_	Shift=1907|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=1910
+25	верх	_	_	_	_	_	_	_	Shift=1912|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=1916
+
+# newpar id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p16
+# par_text = Таким образом приобщая самые отсталые слои населения к высоким образцам культуры…
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p16-s1
+# text = Таким образом приобщая самые отсталые слои населения к высоким образцам культуры...
+1	Таким	_	_	_	_	_	_	_	Shift=1918
+2	образом	_	_	_	_	_	_	_	Shift=1924
+3	приобщая	_	_	_	_	_	_	_	Shift=1932
+4	самые	_	_	_	_	_	_	_	Shift=1941
+5	отсталые	_	_	_	_	_	_	_	Shift=1947
+6	слои	_	_	_	_	_	_	_	Shift=1956
+7	населения	_	_	_	_	_	_	_	Shift=1961
+8	к	_	_	_	_	_	_	_	Shift=1971
+9	высоким	_	_	_	_	_	_	_	Shift=1973
+10	образцам	_	_	_	_	_	_	_	Shift=1981
+11	культуры	_	_	_	_	_	_	_	Shift=1990|SpaceAfter=No
+12	...	_	_	_	_	_	_	_	Shift=1998
+
+# newpar id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p17
+# par_text = Хм…
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p17-s1
+# text = Хм...
+1	Хм	_	_	_	_	_	_	_	Shift=2000|SpaceAfter=No
+2	...	_	_	_	_	_	_	_	Shift=2002
+
+# newpar id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p18
+# par_text = Забавно, забавно…
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p18-s1
+# text = Забавно, забавно...
+1	Забавно	_	_	_	_	_	_	_	Shift=2004|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=2011
+3	забавно	_	_	_	_	_	_	_	Shift=2013|SpaceAfter=No
+4	...	_	_	_	_	_	_	_	Shift=2020
+
+# newpar id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p19
+# par_text = Получается, если бы наши застойные геронтократы, долгие годы катившие бочку на «социально безответственного пессимиста» Бергмана, больше думали о кассе, мы бы еще полвека назад увидели большинство его шедевров. Неисповедимы пути не только Господни, но и пути, которые прокладывает к нам большой художник.
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p19-s1
+# text = Получается, если бы наши застойные геронтократы, долгие годы катившие бочку на ``социально безответственного пессимиста'' Бергмана, больше думали о кассе, мы бы еще полвека назад увидели большинство его шедевров.
+1	Получается	_	_	_	_	_	_	_	Shift=2022|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=2032
+3	если	_	_	_	_	_	_	_	Shift=2034
+4	бы	_	_	_	_	_	_	_	Shift=2039
+5	наши	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=193|RuCor_group_id=412965|RuCor_link_id=412964|Shift=2042
+6	застойные	_	_	_	_	_	_	_	Shift=2047
+7	геронтократы	_	_	_	_	_	_	_	Shift=2057|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=2069
+9	долгие	_	_	_	_	_	_	_	Shift=2071
+10	годы	_	_	_	_	_	_	_	Shift=2078
+11	катившие	_	_	_	_	_	_	_	Shift=2083
+12	бочку	_	_	_	_	_	_	_	Shift=2092
+13	на	_	_	_	_	_	_	_	Shift=2098
+14	``	_	_	_	_	_	_	_	RuCor_chain_id=208|RuCor_group_id=412934|Shift=2101|SpaceAfter=No
+15	социально	_	_	_	_	_	_	_	RuCor_chain_id=208|RuCor_group_id=412934|Shift=2102
+16	безответственного	_	_	_	_	_	_	_	RuCor_chain_id=208|RuCor_group_id=412934|Shift=2112
+17	пессимиста	_	_	_	_	_	_	_	RuCor_chain_id=208|RuCor_group_id=412934|Shift=2130|SpaceAfter=No
+18	''	_	_	_	_	_	_	_	RuCor_chain_id=208|RuCor_group_id=412934|Shift=2140
+19	Бергмана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=208|RuCor_group_id=412934|RuCor_link_id=412932|Shift=2142|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=2150
+21	больше	_	_	_	_	_	_	_	Shift=2152
+22	думали	_	_	_	_	_	_	_	Shift=2159
+23	о	_	_	_	_	_	_	_	Shift=2166
+24	кассе	_	_	_	_	_	_	_	Shift=2168|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=2173
+26	мы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=193|RuCor_group_id=412963|RuCor_link_id=412965|Shift=2175
+27	бы	_	_	_	_	_	_	_	Shift=2178
+28	еще	_	_	_	_	_	_	_	Shift=2181
+29	полвека	_	_	_	_	_	_	_	Shift=2185
+30	назад	_	_	_	_	_	_	_	Shift=2193
+31	увидели	_	_	_	_	_	_	_	Shift=2199
+32	большинство	_	_	_	_	_	_	_	Shift=2207
+33	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=208|RuCor_group_id=412935|RuCor_link_id=412934|Shift=2219
+34	шедевров	_	_	_	_	_	_	_	Shift=2223|SpaceAfter=No
+35	.	_	_	_	_	_	_	_	Shift=2231
+
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p19-s2
+# text = Неисповедимы пути не только Господни, но и пути, которые прокладывает к нам большой художник.
+1	Неисповедимы	_	_	_	_	_	_	_	Shift=2233
+2	пути	_	_	_	_	_	_	_	Shift=2246
+3	не	_	_	_	_	_	_	_	Shift=2251
+4	только	_	_	_	_	_	_	_	Shift=2254
+5	Господни	_	_	_	_	_	_	_	Shift=2261|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=2269
+7	но	_	_	_	_	_	_	_	Shift=2271
+8	и	_	_	_	_	_	_	_	Shift=2274
+9	пути	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=201|RuCor_group_id=412937|RuCor_link_id=0|Shift=2276|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=2280
+11	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=201|RuCor_group_id=412936|RuCor_link_id=412937|Shift=2282
+12	прокладывает	_	_	_	_	_	_	_	Shift=2290
+13	к	_	_	_	_	_	_	_	Shift=2303
+14	нам	_	_	_	_	_	_	_	Shift=2305
+15	большой	_	_	_	_	_	_	_	Shift=2309
+16	художник	_	_	_	_	_	_	_	Shift=2317|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=2325
+
+# newpar id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p20
+# par_text = Возможно, и многоуважаемая Кира Георгиевна, видевшая «Земляничную поляну» во ВГИКе (других его картин даже там не было), ознакомившись с другими его произведениями, сочла бы его «неоварваром».
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p20-s1
+# text = Возможно, и многоуважаемая Кира Георгиевна, видевшая ``Земляничную поляну'' во ВГИКе (других его картин даже там не было), ознакомившись с другими его произведениями, сочла бы его ``неоварваром''.
+1	Возможно	_	_	_	_	_	_	_	Shift=2327|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=2335
+3	и	_	_	_	_	_	_	_	Shift=2337
+4	многоуважаемая	_	_	_	_	_	_	_	RuCor_chain_id=205|RuCor_group_id=412938|Shift=2339
+5	Кира	_	_	_	_	_	_	_	RuCor_chain_id=205|RuCor_group_id=412938|Shift=2354
+6	Георгиевна	_	_	_	_	_	_	_	RuCor_chain_id=205|RuCor_group_id=412938|Shift=2359|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=2369
+8	видевшая	_	_	_	_	_	_	_	Shift=2371
+9	``	_	_	_	_	_	_	_	Shift=2380|SpaceAfter=No
+10	Земляничную	_	_	_	_	_	_	_	Shift=2381
+11	поляну	_	_	_	_	_	_	_	Shift=2393|SpaceAfter=No
+12	''	_	_	_	_	_	_	_	Shift=2399
+13	во	_	_	_	_	_	_	_	Shift=2401
+14	ВГИКе	_	_	_	_	_	_	_	Shift=2404
+15	(	_	_	_	_	_	_	_	Shift=2410|SpaceAfter=No
+16	других	_	_	_	_	_	_	_	Shift=2411
+17	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=208|RuCor_group_id=412939|RuCor_link_id=412935|Shift=2418
+18	картин	_	_	_	_	_	_	_	Shift=2422
+19	даже	_	_	_	_	_	_	_	Shift=2429
+20	там	_	_	_	_	_	_	_	Shift=2434
+21	не	_	_	_	_	_	_	_	Shift=2438
+22	было	_	_	_	_	_	_	_	Shift=2441|SpaceAfter=No
+23	)	_	_	_	_	_	_	_	Shift=2445|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=2446
+25	ознакомившись	_	_	_	_	_	_	_	Shift=2448
+26	с	_	_	_	_	_	_	_	Shift=2462
+27	другими	_	_	_	_	_	_	_	Shift=2464
+28	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=208|RuCor_group_id=412940|RuCor_link_id=412939|Shift=2472
+29	произведениями	_	_	_	_	_	_	_	Shift=2476|SpaceAfter=No
+30	,	_	_	_	_	_	_	_	Shift=2490
+31	сочла	_	_	_	_	_	_	_	Shift=2492
+32	бы	_	_	_	_	_	_	_	Shift=2498
+33	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=208|RuCor_group_id=412941|RuCor_link_id=412940|Shift=2501
+34	``	_	_	_	_	_	_	_	Shift=2505|SpaceAfter=No
+35	неоварваром	_	_	_	_	_	_	_	Shift=2506|SpaceAfter=No
+36	''	_	_	_	_	_	_	_	Shift=2517|SpaceAfter=No
+37	.	_	_	_	_	_	_	_	Shift=2518
+
+# newpar id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p21
+# par_text = Хотя сейчас, когда вокруг все — варвары, бергмановское варварство, ясное дело, блекнет перед их напором.
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p21-s1
+# text = Хотя сейчас, когда вокруг все - варвары, бергмановское варварство, ясное дело, блекнет перед их напором.
+1	Хотя	_	_	_	_	_	_	_	Shift=2520
+2	сейчас	_	_	_	_	_	_	_	Shift=2525|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=2531
+4	когда	_	_	_	_	_	_	_	Shift=2533
+5	вокруг	_	_	_	_	_	_	_	Shift=2539
+6	все	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=200|RuCor_group_id=412942|RuCor_link_id=0|Shift=2546
+7	-	_	_	_	_	_	_	_	Shift=2550
+8	варвары	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=200|RuCor_group_id=412943|RuCor_link_id=412942|Shift=2552|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=2559
+10	бергмановское	_	_	_	_	_	_	_	Shift=2561
+11	варварство	_	_	_	_	_	_	_	Shift=2575|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=2585
+13	ясное	_	_	_	_	_	_	_	Shift=2587
+14	дело	_	_	_	_	_	_	_	Shift=2593|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=2597
+16	блекнет	_	_	_	_	_	_	_	Shift=2599
+17	перед	_	_	_	_	_	_	_	Shift=2607
+18	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=200|RuCor_group_id=412944|RuCor_link_id=412942|Shift=2613
+19	напором	_	_	_	_	_	_	_	Shift=2616|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=2623
+
+# newpar id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p22
+# par_text = Зато на место Фрейда встает Юнг, а если выражаться яснее, бергмановский «фрейдизм» отступает перед бергмановским же «юнгианством».
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p22-s1
+# text = Зато на место Фрейда встает Юнг, а если выражаться яснее, бергмановский ``фрейдизм'' отступает перед бергмановским же ``юнгианством''.
+1	Зато	_	_	_	_	_	_	_	Shift=2625
+2	на	_	_	_	_	_	_	_	Shift=2630
+3	место	_	_	_	_	_	_	_	Shift=2633
+4	Фрейда	_	_	_	_	_	_	_	Shift=2639
+5	встает	_	_	_	_	_	_	_	Shift=2646
+6	Юнг	_	_	_	_	_	_	_	Shift=2653|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=2656
+8	а	_	_	_	_	_	_	_	Shift=2658
+9	если	_	_	_	_	_	_	_	Shift=2660
+10	выражаться	_	_	_	_	_	_	_	Shift=2665
+11	яснее	_	_	_	_	_	_	_	Shift=2676|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=2681
+13	бергмановский	_	_	_	_	_	_	_	Shift=2683
+14	``	_	_	_	_	_	_	_	Shift=2697|SpaceAfter=No
+15	фрейдизм	_	_	_	_	_	_	_	Shift=2698|SpaceAfter=No
+16	''	_	_	_	_	_	_	_	Shift=2706
+17	отступает	_	_	_	_	_	_	_	Shift=2708
+18	перед	_	_	_	_	_	_	_	Shift=2718
+19	бергмановским	_	_	_	_	_	_	_	Shift=2724
+20	же	_	_	_	_	_	_	_	Shift=2738
+21	``	_	_	_	_	_	_	_	Shift=2741|SpaceAfter=No
+22	юнгианством	_	_	_	_	_	_	_	Shift=2742|SpaceAfter=No
+23	''	_	_	_	_	_	_	_	Shift=2753|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=2754
+
+# newpar id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p23
+# par_text = То бишь «верх» побеждает «низ»…
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p23-s1
+# text = То бишь ``верх'' побеждает ``низ''...
+1	То	_	_	_	_	_	_	_	Shift=2756
+2	бишь	_	_	_	_	_	_	_	Shift=2759
+3	``	_	_	_	_	_	_	_	Shift=2764|SpaceAfter=No
+4	верх	_	_	_	_	_	_	_	Shift=2765|SpaceAfter=No
+5	''	_	_	_	_	_	_	_	Shift=2769
+6	побеждает	_	_	_	_	_	_	_	Shift=2771
+7	``	_	_	_	_	_	_	_	Shift=2781|SpaceAfter=No
+8	низ	_	_	_	_	_	_	_	Shift=2782|SpaceAfter=No
+9	''	_	_	_	_	_	_	_	Shift=2785|SpaceAfter=No
+10	...	_	_	_	_	_	_	_	Shift=2786
+
+# newpar id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p24
+# par_text = И на первый план — прямо из тумана — выходит тот самый торжествующий пастор, озабоченный нашим скотством, неверием, глупостью, самодовольством и прочая, прочая, прочая.
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p24-s1
+# text = И на первый план - прямо из тумана - выходит тот самый торжествующий пастор, озабоченный нашим скотством, неверием, глупостью, самодовольством и прочая, прочая, прочая.
+1	И	_	_	_	_	_	_	_	Shift=2788
+2	на	_	_	_	_	_	_	_	Shift=2790
+3	первый	_	_	_	_	_	_	_	Shift=2793
+4	план	_	_	_	_	_	_	_	Shift=2800
+5	-	_	_	_	_	_	_	_	Shift=2805
+6	прямо	_	_	_	_	_	_	_	Shift=2807
+7	из	_	_	_	_	_	_	_	Shift=2813
+8	тумана	_	_	_	_	_	_	_	Shift=2816
+9	-	_	_	_	_	_	_	_	Shift=2823
+10	выходит	_	_	_	_	_	_	_	Shift=2825
+11	тот	_	_	_	_	_	_	_	Shift=2833
+12	самый	_	_	_	_	_	_	_	Shift=2837
+13	торжествующий	_	_	_	_	_	_	_	Shift=2843
+14	пастор	_	_	_	_	_	_	_	Shift=2857|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=2863
+16	озабоченный	_	_	_	_	_	_	_	Shift=2865
+17	нашим	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=193|RuCor_group_id=412966|RuCor_link_id=412963|Shift=2877
+18	скотством	_	_	_	_	_	_	_	Shift=2883|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=2892
+20	неверием	_	_	_	_	_	_	_	Shift=2894|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=2902
+22	глупостью	_	_	_	_	_	_	_	Shift=2904|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=2913
+24	самодовольством	_	_	_	_	_	_	_	Shift=2915
+25	и	_	_	_	_	_	_	_	Shift=2931
+26	прочая	_	_	_	_	_	_	_	Shift=2933|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=2939
+28	прочая	_	_	_	_	_	_	_	Shift=2941|SpaceAfter=No
+29	,	_	_	_	_	_	_	_	Shift=2947
+30	прочая	_	_	_	_	_	_	_	Shift=2949|SpaceAfter=No
+31	.	_	_	_	_	_	_	_	Shift=2955
+
+# newpar id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p25
+# par_text = На втором же плане остается та самая «мастурбация», которой так боялись в Госкино СССР. Однако не все так просто: и мастурбация, и проповедь — суть едины в том смысле, что человек есть единое целое.
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p25-s1
+# text = На втором же плане остается та самая ``мастурбация'', которой так боялись в Госкино СССР.
+1	На	_	_	_	_	_	_	_	Shift=2957
+2	втором	_	_	_	_	_	_	_	Shift=2960
+3	же	_	_	_	_	_	_	_	Shift=2967
+4	плане	_	_	_	_	_	_	_	Shift=2970
+5	остается	_	_	_	_	_	_	_	Shift=2976
+6	та	_	_	_	_	_	_	_	RuCor_chain_id=199|RuCor_group_id=412945|Shift=2985
+7	самая	_	_	_	_	_	_	_	RuCor_chain_id=199|RuCor_group_id=412945|Shift=2988
+8	``	_	_	_	_	_	_	_	RuCor_chain_id=199|RuCor_group_id=412945|Shift=2994|SpaceAfter=No
+9	мастурбация	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=199|RuCor_group_id=412945|RuCor_link_id=0|Shift=2995|SpaceAfter=No
+10	''	_	_	_	_	_	_	_	RuCor_chain_id=199|RuCor_group_id=412945|Shift=3006|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=3007
+12	которой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=199|RuCor_group_id=412946|RuCor_link_id=412945|Shift=3009
+13	так	_	_	_	_	_	_	_	Shift=3017
+14	боялись	_	_	_	_	_	_	_	Shift=3021
+15	в	_	_	_	_	_	_	_	Shift=3029
+16	Госкино	_	_	_	_	_	_	_	Shift=3031
+17	СССР	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=195|RuCor_group_id=412958|RuCor_link_id=0|Shift=3039|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=3043
+
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p25-s2
+# text = Однако не все так просто: и мастурбация, и проповедь - суть едины в том смысле, что человек есть единое целое.
+1	Однако	_	_	_	_	_	_	_	Shift=3045
+2	не	_	_	_	_	_	_	_	Shift=3052
+3	все	_	_	_	_	_	_	_	Shift=3055
+4	так	_	_	_	_	_	_	_	Shift=3059
+5	просто	_	_	_	_	_	_	_	Shift=3063|SpaceAfter=No
+6	:	_	_	_	_	_	_	_	Shift=3069
+7	и	_	_	_	_	_	_	_	Shift=3071
+8	мастурбация	_	_	_	_	_	_	_	Shift=3073|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=3084
+10	и	_	_	_	_	_	_	_	Shift=3086
+11	проповедь	_	_	_	_	_	_	_	Shift=3088
+12	-	_	_	_	_	_	_	_	Shift=3098
+13	суть	_	_	_	_	_	_	_	Shift=3100
+14	едины	_	_	_	_	_	_	_	Shift=3105
+15	в	_	_	_	_	_	_	_	Shift=3111
+16	том	_	_	_	_	_	_	_	Shift=3113
+17	смысле	_	_	_	_	_	_	_	Shift=3117|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=3123
+19	что	_	_	_	_	_	_	_	Shift=3125
+20	человек	_	_	_	_	_	_	_	Shift=3129
+21	есть	_	_	_	_	_	_	_	Shift=3137
+22	единое	_	_	_	_	_	_	_	Shift=3142
+23	целое	_	_	_	_	_	_	_	Shift=3149|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=3154
+
+# newpar id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p26
+# par_text = Бергман как раз и повествует о трагическом разрыве между Телом и Духом. Об утрате единства человеческого существа, подспудно сознающего этот разрыв как вселенскую катастрофу. И предвестие будущих, еще более ужасных катастроф.
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p26-s1
+# text = Бергман как раз и повествует о трагическом разрыве между Телом и Духом.
+1	Бергман	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=208|RuCor_group_id=412947|RuCor_link_id=412933|Shift=3156
+2	как	_	_	_	_	_	_	_	Shift=3164
+3	раз	_	_	_	_	_	_	_	Shift=3168
+4	и	_	_	_	_	_	_	_	Shift=3172
+5	повествует	_	_	_	_	_	_	_	Shift=3174
+6	о	_	_	_	_	_	_	_	Shift=3185
+7	трагическом	_	_	_	_	_	_	_	Shift=3187
+8	разрыве	_	_	_	_	_	_	_	Shift=3199
+9	между	_	_	_	_	_	_	_	Shift=3207
+10	Телом	_	_	_	_	_	_	_	Shift=3213
+11	и	_	_	_	_	_	_	_	Shift=3219
+12	Духом	_	_	_	_	_	_	_	Shift=3221|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=3226
+
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p26-s2
+# text = Об утрате единства человеческого существа, подспудно сознающего этот разрыв как вселенскую катастрофу.
+1	Об	_	_	_	_	_	_	_	Shift=3228
+2	утрате	_	_	_	_	_	_	_	Shift=3231
+3	единства	_	_	_	_	_	_	_	Shift=3238
+4	человеческого	_	_	_	_	_	_	_	Shift=3247
+5	существа	_	_	_	_	_	_	_	Shift=3261|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=3269
+7	подспудно	_	_	_	_	_	_	_	Shift=3271
+8	сознающего	_	_	_	_	_	_	_	Shift=3281
+9	этот	_	_	_	_	_	_	_	Shift=3292
+10	разрыв	_	_	_	_	_	_	_	Shift=3297
+11	как	_	_	_	_	_	_	_	Shift=3304
+12	вселенскую	_	_	_	_	_	_	_	Shift=3308
+13	катастрофу	_	_	_	_	_	_	_	Shift=3319|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=3329
+
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p26-s3
+# text = И предвестие будущих, еще более ужасных катастроф.
+1	И	_	_	_	_	_	_	_	Shift=3331
+2	предвестие	_	_	_	_	_	_	_	Shift=3333
+3	будущих	_	_	_	_	_	_	_	Shift=3344|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=3351
+5	еще	_	_	_	_	_	_	_	Shift=3353
+6	более	_	_	_	_	_	_	_	Shift=3357
+7	ужасных	_	_	_	_	_	_	_	Shift=3363
+8	катастроф	_	_	_	_	_	_	_	Shift=3371|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=3380
+
+# newpar id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p27
+# par_text = Так что сообщение о былых уловках американских прокатчиков пришлось как нельзя вовремя. Ибо фигура Бергмана, еще при жизни начавшая приобретать мифологические черты, начинает застывать, превращаться в камень, в тему для бесчисленных диссертаций, в золотую жилу для армии исследователей.
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p27-s1
+# text = Так что сообщение о былых уловках американских прокатчиков пришлось как нельзя вовремя.
+1	Так	_	_	_	_	_	_	_	Shift=3382
+2	что	_	_	_	_	_	_	_	Shift=3386
+3	сообщение	_	_	_	_	_	_	_	Shift=3390
+4	о	_	_	_	_	_	_	_	Shift=3400
+5	былых	_	_	_	_	_	_	_	Shift=3402
+6	уловках	_	_	_	_	_	_	_	Shift=3408
+7	американских	_	_	_	_	_	_	_	Shift=3416
+8	прокатчиков	_	_	_	_	_	_	_	Shift=3429
+9	пришлось	_	_	_	_	_	_	_	Shift=3441
+10	как	_	_	_	_	_	_	_	Shift=3450
+11	нельзя	_	_	_	_	_	_	_	Shift=3454
+12	вовремя	_	_	_	_	_	_	_	Shift=3461|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=3468
+
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p27-s2
+# text = Ибо фигура Бергмана, еще при жизни начавшая приобретать мифологические черты, начинает застывать, превращаться в камень, в тему для бесчисленных диссертаций, в золотую жилу для армии исследователей.
+1	Ибо	_	_	_	_	_	_	_	Shift=3470
+2	фигура	_	_	_	_	_	_	_	Shift=3474
+3	Бергмана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=208|RuCor_group_id=412948|RuCor_link_id=412947|Shift=3481|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=3489
+5	еще	_	_	_	_	_	_	_	Shift=3491
+6	при	_	_	_	_	_	_	_	Shift=3495
+7	жизни	_	_	_	_	_	_	_	Shift=3499
+8	начавшая	_	_	_	_	_	_	_	Shift=3505
+9	приобретать	_	_	_	_	_	_	_	Shift=3514
+10	мифологические	_	_	_	_	_	_	_	Shift=3526
+11	черты	_	_	_	_	_	_	_	Shift=3541|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=3546
+13	начинает	_	_	_	_	_	_	_	Shift=3548
+14	застывать	_	_	_	_	_	_	_	Shift=3557|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=3566
+16	превращаться	_	_	_	_	_	_	_	Shift=3568
+17	в	_	_	_	_	_	_	_	Shift=3581
+18	камень	_	_	_	_	_	_	_	Shift=3583|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=3589
+20	в	_	_	_	_	_	_	_	Shift=3591
+21	тему	_	_	_	_	_	_	_	Shift=3593
+22	для	_	_	_	_	_	_	_	Shift=3598
+23	бесчисленных	_	_	_	_	_	_	_	Shift=3602
+24	диссертаций	_	_	_	_	_	_	_	Shift=3615|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=3626
+26	в	_	_	_	_	_	_	_	Shift=3628
+27	золотую	_	_	_	_	_	_	_	Shift=3630
+28	жилу	_	_	_	_	_	_	_	Shift=3638
+29	для	_	_	_	_	_	_	_	Shift=3643
+30	армии	_	_	_	_	_	_	_	Shift=3647
+31	исследователей	_	_	_	_	_	_	_	Shift=3653|SpaceAfter=No
+32	.	_	_	_	_	_	_	_	Shift=3667
+
+# newpar id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p28
+# par_text = В этом контексте неожиданный поворот в сторону «порнографии», которую всегда расценивали как удар по культуре, сообщает Бергману некую «живинку».
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p28-s1
+# text = В этом контексте неожиданный поворот в сторону ``порнографии'', которую всегда расценивали как удар по культуре, сообщает Бергману некую ``живинку''.
+1	В	_	_	_	_	_	_	_	Shift=3669
+2	этом	_	_	_	_	_	_	_	Shift=3671
+3	контексте	_	_	_	_	_	_	_	Shift=3676
+4	неожиданный	_	_	_	_	_	_	_	Shift=3686
+5	поворот	_	_	_	_	_	_	_	Shift=3698
+6	в	_	_	_	_	_	_	_	Shift=3706
+7	сторону	_	_	_	_	_	_	_	Shift=3708
+8	``	_	_	_	_	_	_	_	RuCor_chain_id=198|RuCor_group_id=412949|Shift=3716|SpaceAfter=No
+9	порнографии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=198|RuCor_group_id=412949|RuCor_link_id=0|Shift=3717|SpaceAfter=No
+10	''	_	_	_	_	_	_	_	RuCor_chain_id=198|RuCor_group_id=412949|Shift=3728|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=3729
+12	которую	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=198|RuCor_group_id=412950|RuCor_link_id=412949|Shift=3731
+13	всегда	_	_	_	_	_	_	_	Shift=3739
+14	расценивали	_	_	_	_	_	_	_	Shift=3746
+15	как	_	_	_	_	_	_	_	Shift=3758
+16	удар	_	_	_	_	_	_	_	Shift=3762
+17	по	_	_	_	_	_	_	_	Shift=3767
+18	культуре	_	_	_	_	_	_	_	Shift=3770|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=3778
+20	сообщает	_	_	_	_	_	_	_	Shift=3780
+21	Бергману	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=208|RuCor_group_id=412951|RuCor_link_id=412947|Shift=3789
+22	некую	_	_	_	_	_	_	_	Shift=3798
+23	``	_	_	_	_	_	_	_	Shift=3804|SpaceAfter=No
+24	живинку	_	_	_	_	_	_	_	Shift=3805|SpaceAfter=No
+25	''	_	_	_	_	_	_	_	Shift=3812|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=3813
+
+# newpar id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p29
+# par_text = Это напоминает смешной эпизод из жизни другого столпа европейской культуры — Лукино Висконти. Когда он случайно подслушал разговор двух толстых полуграмотных американских продюсеров, один из которых, попыхивая трубкой, жаловался другому, что, мол, ничего не понял в «Смерти в Венеции».
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p29-s1
+# text = Это напоминает смешной эпизод из жизни другого столпа европейской культуры - Лукино Висконти.
+1	Это	_	_	_	_	_	_	_	Shift=3815
+2	напоминает	_	_	_	_	_	_	_	Shift=3819
+3	смешной	_	_	_	_	_	_	_	Shift=3830
+4	эпизод	_	_	_	_	_	_	_	Shift=3838
+5	из	_	_	_	_	_	_	_	Shift=3845
+6	жизни	_	_	_	_	_	_	_	Shift=3848
+7	другого	_	_	_	_	_	_	_	Shift=3854
+8	столпа	_	_	_	_	_	_	_	Shift=3862
+9	европейской	_	_	_	_	_	_	_	Shift=3869
+10	культуры	_	_	_	_	_	_	_	Shift=3881
+11	-	_	_	_	_	_	_	_	Shift=3890
+12	Лукино	_	_	_	_	_	_	_	RuCor_chain_id=197|RuCor_group_id=412952|Shift=3892
+13	Висконти	_	_	_	_	_	_	_	RuCor_chain_id=197|RuCor_group_id=412952|Shift=3899|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=3907
+
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p29-s2
+# text = Когда он случайно подслушал разговор двух толстых полуграмотных американских продюсеров, один из которых, попыхивая трубкой, жаловался другому, что, мол, ничего не понял в ``Смерти в Венеции''.
+1	Когда	_	_	_	_	_	_	_	Shift=3909
+2	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=197|RuCor_group_id=412953|RuCor_link_id=412952|Shift=3915
+3	случайно	_	_	_	_	_	_	_	Shift=3918
+4	подслушал	_	_	_	_	_	_	_	Shift=3927
+5	разговор	_	_	_	_	_	_	_	Shift=3937
+6	двух	_	_	_	_	_	_	_	RuCor_chain_id=209|RuCor_group_id=412896|Shift=3946
+7	толстых	_	_	_	_	_	_	_	RuCor_chain_id=209|RuCor_group_id=412896|Shift=3951
+8	полуграмотных	_	_	_	_	_	_	_	RuCor_chain_id=209|RuCor_group_id=412896|Shift=3959
+9	американских	_	_	_	_	_	_	_	RuCor_chain_id=209|RuCor_group_id=412896|Shift=3973
+10	продюсеров	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=209|RuCor_group_id=412896|RuCor_link_id=0|Shift=3986|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=3996
+12	один	_	_	_	_	_	_	_	Shift=3998
+13	из	_	_	_	_	_	_	_	Shift=4003
+14	которых	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=209|RuCor_group_id=412962|RuCor_link_id=412896|Shift=4006|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=4013
+16	попыхивая	_	_	_	_	_	_	_	Shift=4015
+17	трубкой	_	_	_	_	_	_	_	Shift=4025|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=4032
+19	жаловался	_	_	_	_	_	_	_	Shift=4034
+20	другому	_	_	_	_	_	_	_	Shift=4044|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=4051
+22	что	_	_	_	_	_	_	_	Shift=4053|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=4056
+24	мол	_	_	_	_	_	_	_	Shift=4058|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=4061
+26	ничего	_	_	_	_	_	_	_	Shift=4063
+27	не	_	_	_	_	_	_	_	Shift=4070
+28	понял	_	_	_	_	_	_	_	Shift=4073
+29	в	_	_	_	_	_	_	_	Shift=4079
+30	``	_	_	_	_	_	_	_	RuCor_chain_id=196|RuCor_group_id=412955|Shift=4081|SpaceAfter=No
+31	Смерти	_	_	_	_	_	_	_	RuCor_chain_id=196|RuCor_group_id=412955|Shift=4082
+32	в	_	_	_	_	_	_	_	RuCor_chain_id=196|RuCor_group_id=412955|Shift=4089
+33	Венеции	_	_	_	_	_	_	_	RuCor_chain_id=196|RuCor_group_id=412955|Shift=4091|SpaceAfter=No
+34	''	_	_	_	_	_	_	_	RuCor_chain_id=196|RuCor_group_id=412955|Shift=4098|SpaceAfter=No
+35	.	_	_	_	_	_	_	_	Shift=4099
+
+# newpar id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p30
+# par_text = Битых два часа, недоумевал толстяк, старикан пасет задницу пацана. И в чем тут прикол?
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p30-s1
+# text = Битых два часа, недоумевал толстяк, старикан пасет задницу пацана.
+1	Битых	_	_	_	_	_	_	_	Shift=4101
+2	два	_	_	_	_	_	_	_	Shift=4107
+3	часа	_	_	_	_	_	_	_	Shift=4111|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=4115
+5	недоумевал	_	_	_	_	_	_	_	Shift=4117
+6	толстяк	_	_	_	_	_	_	_	Shift=4128|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=4135
+8	старикан	_	_	_	_	_	_	_	Shift=4137
+9	пасет	_	_	_	_	_	_	_	Shift=4146
+10	задницу	_	_	_	_	_	_	_	Shift=4152
+11	пацана	_	_	_	_	_	_	_	Shift=4160|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=4166
+
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p30-s2
+# text = И в чем тут прикол?
+1	И	_	_	_	_	_	_	_	Shift=4168
+2	в	_	_	_	_	_	_	_	Shift=4170
+3	чем	_	_	_	_	_	_	_	Shift=4172
+4	тут	_	_	_	_	_	_	_	Shift=4176
+5	прикол	_	_	_	_	_	_	_	Shift=4180|SpaceAfter=No
+6	?	_	_	_	_	_	_	_	Shift=4186
+
+# newpar id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p31
+# par_text = Действительно, в чем?
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p31-s1
+# text = Действительно, в чем?
+1	Действительно	_	_	_	_	_	_	_	Shift=4188|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=4201
+3	в	_	_	_	_	_	_	_	Shift=4203
+4	чем	_	_	_	_	_	_	_	Shift=4205|SpaceAfter=No
+5	?	_	_	_	_	_	_	_	Shift=4208
+
+# newpar id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p32
+# par_text = Висконти повезло меньше: мысленно отправив «Смерть в Венеции» в гетто гей-кино, да еще с педофильским уклоном, фильм не купили.
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p32-s1
+# text = Висконти повезло меньше: мысленно отправив ``Смерть в Венеции'' в гетто гей-кино, да еще с педофильским уклоном, фильм не купили.
+1	Висконти	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=197|RuCor_group_id=412954|RuCor_link_id=412952|Shift=4210
+2	повезло	_	_	_	_	_	_	_	Shift=4219
+3	меньше	_	_	_	_	_	_	_	Shift=4227|SpaceAfter=No
+4	:	_	_	_	_	_	_	_	Shift=4233
+5	мысленно	_	_	_	_	_	_	_	Shift=4235
+6	отправив	_	_	_	_	_	_	_	Shift=4244
+7	``	_	_	_	_	_	_	_	RuCor_chain_id=196|RuCor_group_id=412956|Shift=4253|SpaceAfter=No
+8	Смерть	_	_	_	_	_	_	_	RuCor_chain_id=196|RuCor_group_id=412956|Shift=4254
+9	в	_	_	_	_	_	_	_	RuCor_chain_id=196|RuCor_group_id=412956|Shift=4261
+10	Венеции	_	_	_	_	_	_	_	RuCor_chain_id=196|RuCor_group_id=412956|Shift=4263|SpaceAfter=No
+11	''	_	_	_	_	_	_	_	RuCor_chain_id=196|RuCor_group_id=412956|Shift=4270
+12	в	_	_	_	_	_	_	_	Shift=4272
+13	гетто	_	_	_	_	_	_	_	Shift=4274
+14	гей-кино	_	_	_	_	_	_	_	Shift=4280|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=4288
+16	да	_	_	_	_	_	_	_	Shift=4290
+17	еще	_	_	_	_	_	_	_	Shift=4293
+18	с	_	_	_	_	_	_	_	Shift=4297
+19	педофильским	_	_	_	_	_	_	_	Shift=4299
+20	уклоном	_	_	_	_	_	_	_	Shift=4312|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=4319
+22	фильм	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=196|RuCor_group_id=412957|RuCor_link_id=412956|Shift=4321
+23	не	_	_	_	_	_	_	_	Shift=4327
+24	купили	_	_	_	_	_	_	_	Shift=4330|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=4336
+
+# newpar id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p33
+# par_text = Как в СССР не купили «Молчание», «Девичий источник», «Шепоты и крики», увидев в них исключительно порнографию.
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p33-s1
+# text = Как в СССР не купили ``Молчание'', ``Девичий источник'', ``Шепоты и крики'', увидев в них исключительно порнографию.
+1	Как	_	_	_	_	_	_	_	Shift=4338
+2	в	_	_	_	_	_	_	_	Shift=4342
+3	СССР	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=195|RuCor_group_id=412959|RuCor_link_id=412958|Shift=4344
+4	не	_	_	_	_	_	_	_	Shift=4349
+5	купили	_	_	_	_	_	_	_	Shift=4352
+6	``	_	_	_	_	_	_	_	RuCor_chain_id=194|RuCor_group_id=412961|Shift=4359|SpaceAfter=No
+7	Молчание	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=194|RuCor_group_id=412961|RuCor_link_id=412960|Shift=4360|SpaceAfter=No
+8	''	_	_	_	_	_	_	_	RuCor_chain_id=194|RuCor_group_id=412961|Shift=4368|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=4369
+10	``	_	_	_	_	_	_	_	Shift=4371|SpaceAfter=No
+11	Девичий	_	_	_	_	_	_	_	Shift=4372
+12	источник	_	_	_	_	_	_	_	Shift=4380|SpaceAfter=No
+13	''	_	_	_	_	_	_	_	Shift=4388|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=4389
+15	``	_	_	_	_	_	_	_	Shift=4391|SpaceAfter=No
+16	Шепоты	_	_	_	_	_	_	_	Shift=4392
+17	и	_	_	_	_	_	_	_	Shift=4399
+18	крики	_	_	_	_	_	_	_	Shift=4401|SpaceAfter=No
+19	''	_	_	_	_	_	_	_	Shift=4406|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=4407
+21	увидев	_	_	_	_	_	_	_	Shift=4409
+22	в	_	_	_	_	_	_	_	Shift=4416
+23	них	_	_	_	_	_	_	_	Shift=4418
+24	исключительно	_	_	_	_	_	_	_	Shift=4422
+25	порнографию	_	_	_	_	_	_	_	Shift=4436|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=4447
+
+# newpar id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p34
+# par_text = Такие вот дела.
+# sent_id = bd80ba7e-a9d4-4aa0-a61b-89b832a8ccad-p34-s1
+# text = Такие вот дела.
+1	Такие	_	_	_	_	_	_	_	Shift=4449
+2	вот	_	_	_	_	_	_	_	Shift=4455
+3	дела	_	_	_	_	_	_	_	Shift=4459|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	_
+

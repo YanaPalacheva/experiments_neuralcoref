@@ -1,0 +1,929 @@
+# newdoc id = d603db90-012e-4de4-b790-feabbf360ab6
+# newpar id = d603db90-012e-4de4-b790-feabbf360ab6-p1
+# par_text = Некоторое время я стоял, глядя на свои ладони, испачканные зеленью. У меня было какое-то странное ощущение. Временами, как порыв ветра, налетало сознание, что я сижу в комнате на диване, но стоило тряхнуть головой, и я снова оказывался у колодца. Потом это прошло. Я умылся отличной ледяной водой, залил радиатор и побрился. Старуха все не показывалась. Хотелось есть, и надо было идти в город к почтамту, где меня уже, может быть, ждали ребята. Я запер машину и вышел за ворота.
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p1-s1
+# text = Некоторое время я стоял, глядя на свои ладони, испачканные зеленью.
+1	Некоторое	_	_	_	_	_	_	_	Shift=0
+2	время	_	_	_	_	_	_	_	Shift=10
+3	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=151|RuCor_group_id=413112|RuCor_link_id=0|Shift=16
+4	стоял	_	_	_	_	_	_	_	Shift=18|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=23
+6	глядя	_	_	_	_	_	_	_	Shift=25
+7	на	_	_	_	_	_	_	_	Shift=31
+8	свои	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=151|RuCor_group_id=413113|RuCor_link_id=413112|Shift=34
+9	ладони	_	_	_	_	_	_	_	Shift=39|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=45
+11	испачканные	_	_	_	_	_	_	_	Shift=47
+12	зеленью	_	_	_	_	_	_	_	Shift=59|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=66
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p1-s2
+# text = У меня было какое-то странное ощущение.
+1	У	_	_	_	_	_	_	_	Shift=68
+2	меня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=151|RuCor_group_id=413114|RuCor_link_id=413113|Shift=70
+3	было	_	_	_	_	_	_	_	Shift=75
+4	какое-то	_	_	_	_	_	_	_	Shift=80
+5	странное	_	_	_	_	_	_	_	Shift=89
+6	ощущение	_	_	_	_	_	_	_	Shift=98|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=106
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p1-s3
+# text = Временами, как порыв ветра, налетало сознание, что я сижу в комнате на диване, но стоило тряхнуть головой, и я снова оказывался у колодца.
+1	Временами	_	_	_	_	_	_	_	Shift=108|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=117
+3	как	_	_	_	_	_	_	_	Shift=119
+4	порыв	_	_	_	_	_	_	_	Shift=123
+5	ветра	_	_	_	_	_	_	_	Shift=129|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=134
+7	налетало	_	_	_	_	_	_	_	Shift=136
+8	сознание	_	_	_	_	_	_	_	Shift=145|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=153
+10	что	_	_	_	_	_	_	_	Shift=155
+11	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=151|RuCor_group_id=413115|RuCor_link_id=413112|Shift=159
+12	сижу	_	_	_	_	_	_	_	Shift=161
+13	в	_	_	_	_	_	_	_	Shift=166
+14	комнате	_	_	_	_	_	_	_	Shift=168
+15	на	_	_	_	_	_	_	_	Shift=176
+16	диване	_	_	_	_	_	_	_	Shift=179|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=185
+18	но	_	_	_	_	_	_	_	Shift=187
+19	стоило	_	_	_	_	_	_	_	Shift=190
+20	тряхнуть	_	_	_	_	_	_	_	Shift=197
+21	головой	_	_	_	_	_	_	_	Shift=206|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=213
+23	и	_	_	_	_	_	_	_	Shift=215
+24	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=151|RuCor_group_id=413116|RuCor_link_id=413115|Shift=217
+25	снова	_	_	_	_	_	_	_	Shift=219
+26	оказывался	_	_	_	_	_	_	_	Shift=225
+27	у	_	_	_	_	_	_	_	Shift=236
+28	колодца	_	_	_	_	_	_	_	Shift=238|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	Shift=245
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p1-s4
+# text = Потом это прошло.
+1	Потом	_	_	_	_	_	_	_	Shift=247
+2	это	_	_	_	_	_	_	_	Shift=253
+3	прошло	_	_	_	_	_	_	_	Shift=257|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=263
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p1-s5
+# text = Я умылся отличной ледяной водой, залил радиатор и побрился.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=151|RuCor_group_id=413117|RuCor_link_id=413116|Shift=265
+2	умылся	_	_	_	_	_	_	_	Shift=267
+3	отличной	_	_	_	_	_	_	_	Shift=274
+4	ледяной	_	_	_	_	_	_	_	Shift=283
+5	водой	_	_	_	_	_	_	_	Shift=291|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=296
+7	залил	_	_	_	_	_	_	_	Shift=298
+8	радиатор	_	_	_	_	_	_	_	Shift=304
+9	и	_	_	_	_	_	_	_	Shift=313
+10	побрился	_	_	_	_	_	_	_	Shift=315|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=323
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p1-s6
+# text = Старуха все не показывалась.
+1	Старуха	_	_	_	_	_	_	_	Shift=325
+2	все	_	_	_	_	_	_	_	Shift=333
+3	не	_	_	_	_	_	_	_	Shift=337
+4	показывалась	_	_	_	_	_	_	_	Shift=340|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=352
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p1-s7
+# text = Хотелось есть, и надо было идти в город к почтамту, где меня уже, может быть, ждали ребята.
+1	Хотелось	_	_	_	_	_	_	_	Shift=354
+2	есть	_	_	_	_	_	_	_	Shift=363|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=367
+4	и	_	_	_	_	_	_	_	Shift=369
+5	надо	_	_	_	_	_	_	_	Shift=371
+6	было	_	_	_	_	_	_	_	Shift=376
+7	идти	_	_	_	_	_	_	_	Shift=381
+8	в	_	_	_	_	_	_	_	Shift=386
+9	город	_	_	_	_	_	_	_	Shift=388
+10	к	_	_	_	_	_	_	_	Shift=394
+11	почтамту	_	_	_	_	_	_	_	Shift=396|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=404
+13	где	_	_	_	_	_	_	_	Shift=406
+14	меня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=151|RuCor_group_id=413118|RuCor_link_id=413114|Shift=410
+15	уже	_	_	_	_	_	_	_	Shift=415|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=418
+17	может	_	_	_	_	_	_	_	Shift=420
+18	быть	_	_	_	_	_	_	_	Shift=426|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=430
+20	ждали	_	_	_	_	_	_	_	Shift=432
+21	ребята	_	_	_	_	_	_	_	Shift=438|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=444
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p1-s8
+# text = Я запер машину и вышел за ворота.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=151|RuCor_group_id=413119|RuCor_link_id=413118|Shift=446
+2	запер	_	_	_	_	_	_	_	Shift=448
+3	машину	_	_	_	_	_	_	_	Shift=454
+4	и	_	_	_	_	_	_	_	Shift=461
+5	вышел	_	_	_	_	_	_	_	Shift=463
+6	за	_	_	_	_	_	_	_	Shift=469
+7	ворота	_	_	_	_	_	_	_	Shift=472|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=478
+
+# newpar id = d603db90-012e-4de4-b790-feabbf360ab6-p2
+# par_text = Я неторопливо шел по улице Лукоморье, засунув руки в карманы серой гэдээровской курточки и глядя себе под ноги. В заднем кармане моих любимых джинсов, исполосованных "молниями", брякали старухины медяки. Я размышлял. Тощие брошюрки общества "Знание" приучили меня к мысли, что разговаривать животные не способны. Сказки с детства убеждали в обратном. Согласен я был, конечно, с брошюрками, потому что никогда в жизни не видел говорящих животных. Даже попугаев. Я знавал одного попугая, который мог рычать, как тигр, но по-человечески он не умел. И вот теперь -- щука, кот Василий и даже зеркало. Впрочем, неодушевленные предметы как раз разговаривают часто. И между прочим, это соображение никогда не пришло бы в голову, скажем, моему прадеду. С его, прадеда, точки зрения, говорящий кот -- вещь куда менее фантастическая, нежели деревянный полированный ящик, который хрипит, воет, музицирует и говорит на многих языках. С котом тоже более или менее ясно. А вот как разговаривает щука? У щуки нет легких. Это верно. Правда, у нее должен быть плавательный пузырь, функция коего, как мне известно, ихтиологам еще не окончательно ясна. Мой знакомый ихтиолог Женька Скоромахов полагает даже, что эта функция неясна совершенно, и, когда я пытаюсь аргументировать доводами из брошюрок общества "Знание", Женька рычит и плюется. Совершенно утрачивает присущий ему дар человеческой речи... У меня такое впечатление, что о возможностях животных мы знаем пока еще очень мало. Только недавно выяснилось, что рыбы и морские животные обмениваются под водой сигналами. Очень интересно пишут о дельфинах. Или, скажем, обезьяна Рафаил. Это я сам видел. Разговаривать она, правда, не умеет, но зато у нее выработали рефлекс: зеленый свет -- банан, красный свет -- электрический шок. И все было хорошо до тех пор, пока не включили красный и зеленый свет одновременно. Тогда Рафаил повел себя так же, как Женька, например. Он страшно обиделся. Он кинулся к окошечку, за которым сидел экспериментатор, и принялся, визжа и рыча, плеваться в это окошечко. И вообще есть анекдот -- одна обезьяна говорит другой: "Знаешь, что такое условный рефлекс? Это когда зазвонит звонок, и все эти квазиобезьяны в белых халатах побегут к нам с бананами и конфетами". Конечно, все это чрезвычайно непросто. Терминология не разработана. Когда в этих условиях пытаешься решать вопросы, связанные с психикой и потенциальными возможностями животных, чувствуешь себя совершенно бессильным. Но с другой стороны, когда тебе дают, скажем, ту же систему интегральных уравнений типа звездной статистики с неизвестными функциями под интегралом, то самочувствие не лучше. А поэтому главное -- думать. Как Паскаль: "Будем же учиться хорошо мыслить -- вот основной принцип морали".
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p2-s1
+# text = Я неторопливо шел по улице Лукоморье, засунув руки в карманы серой гэдээровской курточки и глядя себе под ноги.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=151|RuCor_group_id=413120|RuCor_link_id=413115|Shift=481
+2	неторопливо	_	_	_	_	_	_	_	Shift=483
+3	шел	_	_	_	_	_	_	_	Shift=495
+4	по	_	_	_	_	_	_	_	Shift=499
+5	улице	_	_	_	_	_	_	_	Shift=502
+6	Лукоморье	_	_	_	_	_	_	_	Shift=508|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=517
+8	засунув	_	_	_	_	_	_	_	Shift=519
+9	руки	_	_	_	_	_	_	_	Shift=527
+10	в	_	_	_	_	_	_	_	Shift=532
+11	карманы	_	_	_	_	_	_	_	Shift=534
+12	серой	_	_	_	_	_	_	_	Shift=542
+13	гэдээровской	_	_	_	_	_	_	_	Shift=548
+14	курточки	_	_	_	_	_	_	_	Shift=561
+15	и	_	_	_	_	_	_	_	Shift=570
+16	глядя	_	_	_	_	_	_	_	Shift=572
+17	себе	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=151|RuCor_group_id=413121|RuCor_link_id=413120|Shift=578
+18	под	_	_	_	_	_	_	_	Shift=583
+19	ноги	_	_	_	_	_	_	_	Shift=587|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=591
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p2-s2
+# text = В заднем кармане моих любимых джинсов, исполосованных ``молниями'', брякали старухины медяки.
+1	В	_	_	_	_	_	_	_	Shift=593
+2	заднем	_	_	_	_	_	_	_	Shift=595
+3	кармане	_	_	_	_	_	_	_	Shift=602
+4	моих	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=151|RuCor_group_id=413122|RuCor_link_id=413121|Shift=610
+5	любимых	_	_	_	_	_	_	_	Shift=615
+6	джинсов	_	_	_	_	_	_	_	Shift=623|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=630
+8	исполосованных	_	_	_	_	_	_	_	Shift=632
+9	``	_	_	_	_	_	_	_	Shift=647|SpaceAfter=No
+10	молниями	_	_	_	_	_	_	_	Shift=648|SpaceAfter=No
+11	''	_	_	_	_	_	_	_	Shift=656|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=657
+13	брякали	_	_	_	_	_	_	_	Shift=659
+14	старухины	_	_	_	_	_	_	_	Shift=667
+15	медяки	_	_	_	_	_	_	_	Shift=677|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=683
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p2-s3
+# text = Я размышлял.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=151|RuCor_group_id=413123|RuCor_link_id=413121|Shift=685
+2	размышлял	_	_	_	_	_	_	_	Shift=687|SpaceAfter=No
+3	.	_	_	_	_	_	_	_	Shift=696
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p2-s4
+# text = Тощие брошюрки общества ``Знание'' приучили меня к мысли, что разговаривать животные не способны.
+1	Тощие	_	_	_	_	_	_	_	RuCor_chain_id=143|RuCor_group_id=413149|Shift=698
+2	брошюрки	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=143|RuCor_group_id=413149|RuCor_link_id=0|Shift=704
+3	общества	_	_	_	_	_	_	_	RuCor_chain_id=143|RuCor_group_id=413149|Shift=713
+4	``	_	_	_	_	_	_	_	RuCor_chain_id=143|RuCor_group_id=413149|Shift=722|SpaceAfter=No
+5	Знание	_	_	_	_	_	_	_	RuCor_chain_id=143|RuCor_group_id=413149|Shift=723|SpaceAfter=No
+6	''	_	_	_	_	_	_	_	RuCor_chain_id=143|RuCor_group_id=413149|Shift=729
+7	приучили	_	_	_	_	_	_	_	Shift=731
+8	меня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=151|RuCor_group_id=413124|RuCor_link_id=413123|Shift=740
+9	к	_	_	_	_	_	_	_	Shift=745
+10	мысли	_	_	_	_	_	_	_	Shift=747|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=752
+12	что	_	_	_	_	_	_	_	Shift=754
+13	разговаривать	_	_	_	_	_	_	_	Shift=758
+14	животные	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=141|RuCor_group_id=413156|RuCor_link_id=0|Shift=772
+15	не	_	_	_	_	_	_	_	Shift=781
+16	способны	_	_	_	_	_	_	_	Shift=784|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=792
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p2-s5
+# text = Сказки с детства убеждали в обратном.
+1	Сказки	_	_	_	_	_	_	_	Shift=794
+2	с	_	_	_	_	_	_	_	Shift=801
+3	детства	_	_	_	_	_	_	_	Shift=803
+4	убеждали	_	_	_	_	_	_	_	Shift=811
+5	в	_	_	_	_	_	_	_	Shift=820
+6	обратном	_	_	_	_	_	_	_	Shift=822|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=830
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p2-s6
+# text = Согласен я был, конечно, с брошюрками, потому что никогда в жизни не видел говорящих животных.
+1	Согласен	_	_	_	_	_	_	_	Shift=832
+2	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=151|RuCor_group_id=413125|RuCor_link_id=413124|Shift=841
+3	был	_	_	_	_	_	_	_	Shift=843|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=846
+5	конечно	_	_	_	_	_	_	_	Shift=848|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=855
+7	с	_	_	_	_	_	_	_	Shift=857
+8	брошюрками	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=143|RuCor_group_id=413150|RuCor_link_id=413149|Shift=859|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=869
+10	потому	_	_	_	_	_	_	_	Shift=871
+11	что	_	_	_	_	_	_	_	Shift=878
+12	никогда	_	_	_	_	_	_	_	Shift=882
+13	в	_	_	_	_	_	_	_	Shift=890
+14	жизни	_	_	_	_	_	_	_	Shift=892
+15	не	_	_	_	_	_	_	_	Shift=898
+16	видел	_	_	_	_	_	_	_	Shift=901
+17	говорящих	_	_	_	_	_	_	_	Shift=907
+18	животных	_	_	_	_	_	_	_	Shift=917|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=925
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p2-s7
+# text = Даже попугаев.
+1	Даже	_	_	_	_	_	_	_	Shift=927
+2	попугаев	_	_	_	_	_	_	_	Shift=932|SpaceAfter=No
+3	.	_	_	_	_	_	_	_	Shift=940
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p2-s8
+# text = Я знавал одного попугая, который мог рычать, как тигр, но по-человечески он не умел.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=151|RuCor_group_id=413126|RuCor_link_id=413123|Shift=942
+2	знавал	_	_	_	_	_	_	_	Shift=944
+3	одного	_	_	_	_	_	_	_	Shift=951
+4	попугая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=150|RuCor_group_id=413127|RuCor_link_id=0|Shift=958|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=965
+6	который	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=150|RuCor_group_id=413128|RuCor_link_id=413127|Shift=967
+7	мог	_	_	_	_	_	_	_	Shift=975
+8	рычать	_	_	_	_	_	_	_	Shift=979|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=985
+10	как	_	_	_	_	_	_	_	Shift=987
+11	тигр	_	_	_	_	_	_	_	Shift=991|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=995
+13	но	_	_	_	_	_	_	_	Shift=997
+14	по-человечески	_	_	_	_	_	_	_	Shift=1000
+15	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=150|RuCor_group_id=413129|RuCor_link_id=413128|Shift=1015
+16	не	_	_	_	_	_	_	_	Shift=1018
+17	умел	_	_	_	_	_	_	_	Shift=1021|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=1025
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p2-s9
+# text = И вот теперь - щука, кот Василий и даже зеркало.
+1	И	_	_	_	_	_	_	_	Shift=1027
+2	вот	_	_	_	_	_	_	_	Shift=1029
+3	теперь	_	_	_	_	_	_	_	Shift=1033
+4	-	_	_	_	_	_	_	_	Shift=1040
+5	щука	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=146|RuCor_group_id=413139|RuCor_link_id=0|Shift=1043|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1047
+7	кот	_	_	_	_	_	_	_	RuCor_chain_id=145|RuCor_group_id=413140|Shift=1049
+8	Василий	_	_	_	_	_	_	_	RuCor_chain_id=145|RuCor_group_id=413140|Shift=1053
+9	и	_	_	_	_	_	_	_	Shift=1061
+10	даже	_	_	_	_	_	_	_	Shift=1063
+11	зеркало	_	_	_	_	_	_	_	Shift=1068|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=1075
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p2-s10
+# text = Впрочем, неодушевленные предметы как раз разговаривают часто.
+1	Впрочем	_	_	_	_	_	_	_	Shift=1077|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=1084
+3	неодушевленные	_	_	_	_	_	_	_	Shift=1086
+4	предметы	_	_	_	_	_	_	_	Shift=1101
+5	как	_	_	_	_	_	_	_	Shift=1110
+6	раз	_	_	_	_	_	_	_	Shift=1114
+7	разговаривают	_	_	_	_	_	_	_	Shift=1118
+8	часто	_	_	_	_	_	_	_	Shift=1132|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=1137
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p2-s11
+# text = И между прочим, это соображение никогда не пришло бы в голову, скажем, моему прадеду.
+1	И	_	_	_	_	_	_	_	Shift=1139
+2	между	_	_	_	_	_	_	_	Shift=1141
+3	прочим	_	_	_	_	_	_	_	Shift=1147|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1153
+5	это	_	_	_	_	_	_	_	Shift=1155
+6	соображение	_	_	_	_	_	_	_	Shift=1159
+7	никогда	_	_	_	_	_	_	_	Shift=1171
+8	не	_	_	_	_	_	_	_	Shift=1179
+9	пришло	_	_	_	_	_	_	_	Shift=1182
+10	бы	_	_	_	_	_	_	_	Shift=1189
+11	в	_	_	_	_	_	_	_	Shift=1192
+12	голову	_	_	_	_	_	_	_	Shift=1194|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=1200
+14	скажем	_	_	_	_	_	_	_	Shift=1202|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=1208
+16	моему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=149|RuCor_group_id=413131|RuCor_link_id=413126|Shift=1210
+17	прадеду	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=149|RuCor_group_id=413131|RuCor_link_id=0|Shift=1216|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=1223
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p2-s12
+# text = С его, прадеда, точки зрения, говорящий кот - вещь куда менее фантастическая, нежели деревянный полированный ящик, который хрипит, воет, музицирует и говорит на многих языках.
+1	С	_	_	_	_	_	_	_	Shift=1225
+2	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=149|RuCor_group_id=413132|RuCor_link_id=413131|Shift=1227|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1230
+4	прадеда	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=appo|RuCor_attrs_type=coref|RuCor_chain_id=149|RuCor_group_id=413133|RuCor_link_id=413132|Shift=1232|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1239
+6	точки	_	_	_	_	_	_	_	Shift=1241
+7	зрения	_	_	_	_	_	_	_	Shift=1247|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1253
+9	говорящий	_	_	_	_	_	_	_	RuCor_chain_id=145|RuCor_group_id=413137|Shift=1255
+10	кот	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=145|RuCor_group_id=413137|RuCor_link_id=413140|Shift=1265
+11	-	_	_	_	_	_	_	_	Shift=1269
+12	вещь	_	_	_	_	_	_	_	Shift=1272
+13	куда	_	_	_	_	_	_	_	Shift=1277
+14	менее	_	_	_	_	_	_	_	Shift=1282
+15	фантастическая	_	_	_	_	_	_	_	Shift=1288|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=1302
+17	нежели	_	_	_	_	_	_	_	Shift=1304
+18	деревянный	_	_	_	_	_	_	_	RuCor_chain_id=148|RuCor_group_id=413134|Shift=1311
+19	полированный	_	_	_	_	_	_	_	RuCor_chain_id=148|RuCor_group_id=413134|Shift=1322
+20	ящик	_	_	_	_	_	_	_	RuCor_chain_id=148|RuCor_group_id=413134|Shift=1335|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=1339
+22	который	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=148|RuCor_group_id=413135|RuCor_link_id=413134|Shift=1341
+23	хрипит	_	_	_	_	_	_	_	Shift=1349|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=1355
+25	воет	_	_	_	_	_	_	_	Shift=1357|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	Shift=1361
+27	музицирует	_	_	_	_	_	_	_	Shift=1363
+28	и	_	_	_	_	_	_	_	Shift=1374
+29	говорит	_	_	_	_	_	_	_	Shift=1376
+30	на	_	_	_	_	_	_	_	Shift=1384
+31	многих	_	_	_	_	_	_	_	Shift=1387
+32	языках	_	_	_	_	_	_	_	Shift=1394|SpaceAfter=No
+33	.	_	_	_	_	_	_	_	Shift=1400
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p2-s13
+# text = С котом тоже более или менее ясно.
+1	С	_	_	_	_	_	_	_	Shift=1402
+2	котом	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=145|RuCor_group_id=413138|RuCor_link_id=413137|Shift=1404
+3	тоже	_	_	_	_	_	_	_	Shift=1410
+4	более	_	_	_	_	_	_	_	Shift=1415
+5	или	_	_	_	_	_	_	_	Shift=1421
+6	менее	_	_	_	_	_	_	_	Shift=1425
+7	ясно	_	_	_	_	_	_	_	Shift=1431|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=1435
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p2-s14
+# text = А вот как разговаривает щука?
+1	А	_	_	_	_	_	_	_	Shift=1437
+2	вот	_	_	_	_	_	_	_	Shift=1439
+3	как	_	_	_	_	_	_	_	Shift=1443
+4	разговаривает	_	_	_	_	_	_	_	Shift=1447
+5	щука	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=146|RuCor_group_id=413141|RuCor_link_id=413139|Shift=1461|SpaceAfter=No
+6	?	_	_	_	_	_	_	_	Shift=1465
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p2-s15
+# text = У щуки нет легких.
+1	У	_	_	_	_	_	_	_	Shift=1467
+2	щуки	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=146|RuCor_group_id=413142|RuCor_link_id=413141|Shift=1469
+3	нет	_	_	_	_	_	_	_	Shift=1474
+4	легких	_	_	_	_	_	_	_	Shift=1478|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=1484
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p2-s16
+# text = Это верно.
+1	Это	_	_	_	_	_	_	_	Shift=1486
+2	верно	_	_	_	_	_	_	_	Shift=1490|SpaceAfter=No
+3	.	_	_	_	_	_	_	_	Shift=1495
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p2-s17
+# text = Правда, у нее должен быть плавательный пузырь, функция коего, как мне известно, ихтиологам еще не окончательно ясна.
+1	Правда	_	_	_	_	_	_	_	Shift=1497|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=1503
+3	у	_	_	_	_	_	_	_	Shift=1505
+4	нее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=146|RuCor_group_id=413143|RuCor_link_id=413142|Shift=1507
+5	должен	_	_	_	_	_	_	_	Shift=1511
+6	быть	_	_	_	_	_	_	_	Shift=1518
+7	плавательный	_	_	_	_	_	_	_	RuCor_chain_id=152|RuCor_group_id=413111|Shift=1523
+8	пузырь	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=152|RuCor_group_id=413111|RuCor_link_id=0|Shift=1536|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1542
+10	функция	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=144|RuCor_group_id=413146|RuCor_link_id=0|Shift=1544
+11	коего	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=152|RuCor_group_id=413110|RuCor_link_id=413111|Shift=1552|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=1557
+13	как	_	_	_	_	_	_	_	Shift=1559
+14	мне	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=151|RuCor_group_id=413144|RuCor_link_id=413126|Shift=1563
+15	известно	_	_	_	_	_	_	_	Shift=1567|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=1575
+17	ихтиологам	_	_	_	_	_	_	_	Shift=1577
+18	еще	_	_	_	_	_	_	_	Shift=1588
+19	не	_	_	_	_	_	_	_	Shift=1592
+20	окончательно	_	_	_	_	_	_	_	Shift=1595
+21	ясна	_	_	_	_	_	_	_	Shift=1608|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=1612
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p2-s18
+# text = Мой знакомый ихтиолог Женька Скоромахов полагает даже, что эта функция неясна совершенно, и, когда я пытаюсь аргументировать доводами из брошюрок общества ``Знание'', Женька рычит и плюется.
+1	Мой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=142|RuCor_group_id=413152|RuCor_link_id=413144|Shift=1614
+2	знакомый	_	_	_	_	_	_	_	RuCor_chain_id=142|RuCor_group_id=413152|Shift=1618
+3	ихтиолог	_	_	_	_	_	_	_	RuCor_chain_id=142|RuCor_group_id=413152|Shift=1627
+4	Женька	_	_	_	_	_	_	_	RuCor_chain_id=142|RuCor_group_id=413152|Shift=1636
+5	Скоромахов	_	_	_	_	_	_	_	RuCor_chain_id=142|RuCor_group_id=413152|Shift=1643
+6	полагает	_	_	_	_	_	_	_	Shift=1654
+7	даже	_	_	_	_	_	_	_	Shift=1663|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1667
+9	что	_	_	_	_	_	_	_	Shift=1669
+10	эта	_	_	_	_	_	_	_	RuCor_chain_id=144|RuCor_group_id=413147|Shift=1673
+11	функция	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=144|RuCor_group_id=413147|RuCor_link_id=413146|Shift=1677
+12	неясна	_	_	_	_	_	_	_	Shift=1685
+13	совершенно	_	_	_	_	_	_	_	Shift=1692|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=1702
+15	и	_	_	_	_	_	_	_	Shift=1704|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=1705
+17	когда	_	_	_	_	_	_	_	Shift=1707
+18	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=151|RuCor_group_id=413148|RuCor_link_id=413144|Shift=1713
+19	пытаюсь	_	_	_	_	_	_	_	Shift=1715
+20	аргументировать	_	_	_	_	_	_	_	Shift=1723
+21	доводами	_	_	_	_	_	_	_	Shift=1739
+22	из	_	_	_	_	_	_	_	Shift=1748
+23	брошюрок	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=143|RuCor_group_id=413151|RuCor_link_id=413150|Shift=1751
+24	общества	_	_	_	_	_	_	_	RuCor_chain_id=143|RuCor_group_id=413151|Shift=1760
+25	``	_	_	_	_	_	_	_	RuCor_chain_id=143|RuCor_group_id=413151|Shift=1769|SpaceAfter=No
+26	Знание	_	_	_	_	_	_	_	RuCor_chain_id=143|RuCor_group_id=413151|Shift=1770|SpaceAfter=No
+27	''	_	_	_	_	_	_	_	RuCor_chain_id=143|RuCor_group_id=413151|Shift=1776|SpaceAfter=No
+28	,	_	_	_	_	_	_	_	Shift=1777
+29	Женька	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=142|RuCor_group_id=413153|RuCor_link_id=413152|Shift=1779
+30	рычит	_	_	_	_	_	_	_	Shift=1786
+31	и	_	_	_	_	_	_	_	Shift=1792
+32	плюется	_	_	_	_	_	_	_	Shift=1794|SpaceAfter=No
+33	.	_	_	_	_	_	_	_	Shift=1801
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p2-s19
+# text = Совершенно утрачивает присущий ему дар человеческой речи...
+1	Совершенно	_	_	_	_	_	_	_	Shift=1803
+2	утрачивает	_	_	_	_	_	_	_	Shift=1814
+3	присущий	_	_	_	_	_	_	_	Shift=1825
+4	ему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=142|RuCor_group_id=413154|RuCor_link_id=413153|Shift=1834
+5	дар	_	_	_	_	_	_	_	Shift=1838
+6	человеческой	_	_	_	_	_	_	_	Shift=1842
+7	речи	_	_	_	_	_	_	_	Shift=1855|SpaceAfter=No
+8	...	_	_	_	_	_	_	_	Shift=1859
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p2-s20
+# text = У меня такое впечатление, что о возможностях животных мы знаем пока еще очень мало.
+1	У	_	_	_	_	_	_	_	Shift=1863
+2	меня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=151|RuCor_group_id=413155|RuCor_link_id=413148|Shift=1865
+3	такое	_	_	_	_	_	_	_	Shift=1870
+4	впечатление	_	_	_	_	_	_	_	Shift=1876|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1887
+6	что	_	_	_	_	_	_	_	Shift=1889
+7	о	_	_	_	_	_	_	_	Shift=1893
+8	возможностях	_	_	_	_	_	_	_	Shift=1895
+9	животных	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=141|RuCor_group_id=413157|RuCor_link_id=413156|Shift=1908
+10	мы	_	_	_	_	_	_	_	Shift=1917
+11	знаем	_	_	_	_	_	_	_	Shift=1920
+12	пока	_	_	_	_	_	_	_	Shift=1926
+13	еще	_	_	_	_	_	_	_	Shift=1931
+14	очень	_	_	_	_	_	_	_	Shift=1935
+15	мало	_	_	_	_	_	_	_	Shift=1941|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=1945
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p2-s21
+# text = Только недавно выяснилось, что рыбы и морские животные обмениваются под водой сигналами.
+1	Только	_	_	_	_	_	_	_	Shift=1947
+2	недавно	_	_	_	_	_	_	_	Shift=1954
+3	выяснилось	_	_	_	_	_	_	_	Shift=1962|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1972
+5	что	_	_	_	_	_	_	_	Shift=1974
+6	рыбы	_	_	_	_	_	_	_	Shift=1978
+7	и	_	_	_	_	_	_	_	Shift=1983
+8	морские	_	_	_	_	_	_	_	Shift=1985
+9	животные	_	_	_	_	_	_	_	Shift=1993
+10	обмениваются	_	_	_	_	_	_	_	Shift=2002
+11	под	_	_	_	_	_	_	_	Shift=2015
+12	водой	_	_	_	_	_	_	_	Shift=2019
+13	сигналами	_	_	_	_	_	_	_	Shift=2025|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=2034
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p2-s22
+# text = Очень интересно пишут о дельфинах.
+1	Очень	_	_	_	_	_	_	_	Shift=2036
+2	интересно	_	_	_	_	_	_	_	Shift=2042
+3	пишут	_	_	_	_	_	_	_	Shift=2052
+4	о	_	_	_	_	_	_	_	Shift=2058
+5	дельфинах	_	_	_	_	_	_	_	Shift=2060|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=2069
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p2-s23
+# text = Или, скажем, обезьяна Рафаил.
+1	Или	_	_	_	_	_	_	_	Shift=2071|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=2074
+3	скажем	_	_	_	_	_	_	_	Shift=2076|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2082
+5	обезьяна	_	_	_	_	_	_	_	RuCor_chain_id=140|RuCor_group_id=413159|Shift=2084
+6	Рафаил	_	_	_	_	_	_	_	RuCor_chain_id=140|RuCor_group_id=413159|Shift=2093|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=2099
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p2-s24
+# text = Это я сам видел.
+1	Это	_	_	_	_	_	_	_	Shift=2101
+2	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=151|RuCor_group_id=413158|RuCor_link_id=413148|Shift=2105
+3	сам	_	_	_	_	_	_	_	Shift=2107
+4	видел	_	_	_	_	_	_	_	Shift=2111|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=2116
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p2-s25
+# text = Разговаривать она, правда, не умеет, но зато у нее выработали рефлекс: зеленый свет - банан, красный свет - электрический шок.
+1	Разговаривать	_	_	_	_	_	_	_	Shift=2118
+2	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=140|RuCor_group_id=413160|RuCor_link_id=413159|Shift=2132|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=2135
+4	правда	_	_	_	_	_	_	_	Shift=2137|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=2143
+6	не	_	_	_	_	_	_	_	Shift=2145
+7	умеет	_	_	_	_	_	_	_	Shift=2148|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=2153
+9	но	_	_	_	_	_	_	_	Shift=2155
+10	зато	_	_	_	_	_	_	_	Shift=2158
+11	у	_	_	_	_	_	_	_	Shift=2163
+12	нее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=140|RuCor_group_id=413161|RuCor_link_id=413160|Shift=2165
+13	выработали	_	_	_	_	_	_	_	Shift=2169
+14	рефлекс	_	_	_	_	_	_	_	Shift=2180|SpaceAfter=No
+15	:	_	_	_	_	_	_	_	Shift=2187
+16	зеленый	_	_	_	_	_	_	_	Shift=2189
+17	свет	_	_	_	_	_	_	_	Shift=2197
+18	-	_	_	_	_	_	_	_	Shift=2202
+19	банан	_	_	_	_	_	_	_	Shift=2205|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=2210
+21	красный	_	_	_	_	_	_	_	Shift=2212
+22	свет	_	_	_	_	_	_	_	Shift=2220
+23	-	_	_	_	_	_	_	_	Shift=2225
+24	электрический	_	_	_	_	_	_	_	Shift=2228
+25	шок	_	_	_	_	_	_	_	Shift=2242|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=2245
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p2-s26
+# text = И все было хорошо до тех пор, пока не включили красный и зеленый свет одновременно.
+1	И	_	_	_	_	_	_	_	Shift=2247
+2	все	_	_	_	_	_	_	_	Shift=2249
+3	было	_	_	_	_	_	_	_	Shift=2253
+4	хорошо	_	_	_	_	_	_	_	Shift=2258
+5	до	_	_	_	_	_	_	_	Shift=2265
+6	тех	_	_	_	_	_	_	_	Shift=2268
+7	пор	_	_	_	_	_	_	_	Shift=2272|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=2275
+9	пока	_	_	_	_	_	_	_	Shift=2277
+10	не	_	_	_	_	_	_	_	Shift=2282
+11	включили	_	_	_	_	_	_	_	Shift=2285
+12	красный	_	_	_	_	_	_	_	Shift=2294
+13	и	_	_	_	_	_	_	_	Shift=2302
+14	зеленый	_	_	_	_	_	_	_	Shift=2304
+15	свет	_	_	_	_	_	_	_	Shift=2312
+16	одновременно	_	_	_	_	_	_	_	Shift=2317|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=2329
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p2-s27
+# text = Тогда Рафаил повел себя так же, как Женька, например.
+1	Тогда	_	_	_	_	_	_	_	Shift=2331
+2	Рафаил	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=|RuCor_attrs_type=coref|RuCor_chain_id=140|RuCor_group_id=413162|RuCor_link_id=413159|Shift=2337
+3	повел	_	_	_	_	_	_	_	Shift=2344
+4	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=140|RuCor_group_id=413163|RuCor_link_id=413162|Shift=2350
+5	так	_	_	_	_	_	_	_	Shift=2355
+6	же	_	_	_	_	_	_	_	Shift=2359|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=2361
+8	как	_	_	_	_	_	_	_	Shift=2363
+9	Женька	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=142|RuCor_group_id=413164|RuCor_link_id=413153|Shift=2367|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=2373
+11	например	_	_	_	_	_	_	_	Shift=2375|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=2383
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p2-s28
+# text = Он страшно обиделся.
+1	Он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=140|RuCor_group_id=413165|RuCor_link_id=413159|Shift=2385
+2	страшно	_	_	_	_	_	_	_	Shift=2388
+3	обиделся	_	_	_	_	_	_	_	Shift=2396|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=2404
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p2-s29
+# text = Он кинулся к окошечку, за которым сидел экспериментатор, и принялся, визжа и рыча, плеваться в это окошечко.
+1	Он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=140|RuCor_group_id=413166|RuCor_link_id=413165|Shift=2406
+2	кинулся	_	_	_	_	_	_	_	Shift=2409
+3	к	_	_	_	_	_	_	_	Shift=2417
+4	окошечку	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=139|RuCor_group_id=413167|RuCor_link_id=0|Shift=2419|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=2427
+6	за	_	_	_	_	_	_	_	Shift=2429
+7	которым	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=139|RuCor_group_id=413168|RuCor_link_id=413167|Shift=2432
+8	сидел	_	_	_	_	_	_	_	Shift=2440
+9	экспериментатор	_	_	_	_	_	_	_	Shift=2446|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=2461
+11	и	_	_	_	_	_	_	_	Shift=2463
+12	принялся	_	_	_	_	_	_	_	Shift=2465|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=2473
+14	визжа	_	_	_	_	_	_	_	Shift=2475
+15	и	_	_	_	_	_	_	_	Shift=2481
+16	рыча	_	_	_	_	_	_	_	Shift=2483|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=2487
+18	плеваться	_	_	_	_	_	_	_	Shift=2489
+19	в	_	_	_	_	_	_	_	Shift=2499
+20	это	_	_	_	_	_	_	_	RuCor_chain_id=139|RuCor_group_id=413169|Shift=2501
+21	окошечко	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=139|RuCor_group_id=413169|RuCor_link_id=413168|Shift=2505|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=2513
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p2-s30
+# text = И вообще есть анекдот - одна обезьяна говорит другой:'' Знаешь, что такое условный рефлекс?
+1	И	_	_	_	_	_	_	_	Shift=2515
+2	вообще	_	_	_	_	_	_	_	Shift=2517
+3	есть	_	_	_	_	_	_	_	Shift=2524
+4	анекдот	_	_	_	_	_	_	_	Shift=2529
+5	-	_	_	_	_	_	_	_	Shift=2537
+6	одна	_	_	_	_	_	_	_	Shift=2540
+7	обезьяна	_	_	_	_	_	_	_	Shift=2545
+8	говорит	_	_	_	_	_	_	_	Shift=2554
+9	другой	_	_	_	_	_	_	_	Shift=2562|SpaceAfter=No
+10	:	_	_	_	_	_	_	_	Shift=2568|SpaceAfter=No
+11	''	_	_	_	_	_	_	_	Shift=2570
+12	Знаешь	_	_	_	_	_	_	_	Shift=2571|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=2577
+14	что	_	_	_	_	_	_	_	Shift=2579
+15	такое	_	_	_	_	_	_	_	Shift=2583
+16	условный	_	_	_	_	_	_	_	Shift=2589
+17	рефлекс	_	_	_	_	_	_	_	Shift=2598|SpaceAfter=No
+18	?	_	_	_	_	_	_	_	Shift=2605
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p2-s31
+# text = Это когда зазвонит звонок, и все эти квазиобезьяны в белых халатах побегут к нам с бананами и конфетами''.
+1	Это	_	_	_	_	_	_	_	Shift=2607
+2	когда	_	_	_	_	_	_	_	Shift=2611
+3	зазвонит	_	_	_	_	_	_	_	Shift=2617
+4	звонок	_	_	_	_	_	_	_	Shift=2626|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=2632
+6	и	_	_	_	_	_	_	_	Shift=2634
+7	все	_	_	_	_	_	_	_	Shift=2636
+8	эти	_	_	_	_	_	_	_	Shift=2640
+9	квазиобезьяны	_	_	_	_	_	_	_	Shift=2644
+10	в	_	_	_	_	_	_	_	Shift=2658
+11	белых	_	_	_	_	_	_	_	Shift=2660
+12	халатах	_	_	_	_	_	_	_	Shift=2666
+13	побегут	_	_	_	_	_	_	_	Shift=2674
+14	к	_	_	_	_	_	_	_	Shift=2682
+15	нам	_	_	_	_	_	_	_	Shift=2684
+16	с	_	_	_	_	_	_	_	Shift=2688
+17	бананами	_	_	_	_	_	_	_	Shift=2690
+18	и	_	_	_	_	_	_	_	Shift=2699
+19	конфетами	_	_	_	_	_	_	_	Shift=2701|SpaceAfter=No
+20	''	_	_	_	_	_	_	_	Shift=2710|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=2711
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p2-s32
+# text = Конечно, все это чрезвычайно непросто.
+1	Конечно	_	_	_	_	_	_	_	Shift=2713|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=2720
+3	все	_	_	_	_	_	_	_	Shift=2722
+4	это	_	_	_	_	_	_	_	Shift=2726
+5	чрезвычайно	_	_	_	_	_	_	_	Shift=2730
+6	непросто	_	_	_	_	_	_	_	Shift=2742|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=2750
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p2-s33
+# text = Терминология не разработана.
+1	Терминология	_	_	_	_	_	_	_	Shift=2752
+2	не	_	_	_	_	_	_	_	Shift=2765
+3	разработана	_	_	_	_	_	_	_	Shift=2768|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=2779
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p2-s34
+# text = Когда в этих условиях пытаешься решать вопросы, связанные с психикой и потенциальными возможностями животных, чувствуешь себя совершенно бессильным.
+1	Когда	_	_	_	_	_	_	_	Shift=2781
+2	в	_	_	_	_	_	_	_	Shift=2787
+3	этих	_	_	_	_	_	_	_	Shift=2789
+4	условиях	_	_	_	_	_	_	_	Shift=2794
+5	пытаешься	_	_	_	_	_	_	_	Shift=2803
+6	решать	_	_	_	_	_	_	_	Shift=2813
+7	вопросы	_	_	_	_	_	_	_	Shift=2820|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=2827
+9	связанные	_	_	_	_	_	_	_	Shift=2829
+10	с	_	_	_	_	_	_	_	Shift=2839
+11	психикой	_	_	_	_	_	_	_	Shift=2841
+12	и	_	_	_	_	_	_	_	Shift=2850
+13	потенциальными	_	_	_	_	_	_	_	Shift=2852
+14	возможностями	_	_	_	_	_	_	_	Shift=2867
+15	животных	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=141|RuCor_group_id=413182|RuCor_link_id=413156|Shift=2881|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=2889
+17	чувствуешь	_	_	_	_	_	_	_	Shift=2891
+18	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=138|RuCor_group_id=413171|RuCor_link_id=413170|Shift=2902
+19	совершенно	_	_	_	_	_	_	_	Shift=2907
+20	бессильным	_	_	_	_	_	_	_	Shift=2918|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=2928
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p2-s35
+# text = Но с другой стороны, когда тебе дают, скажем, ту же систему интегральных уравнений типа звездной статистики с неизвестными функциями под интегралом, то самочувствие не лучше.
+1	Но	_	_	_	_	_	_	_	Shift=2930
+2	с	_	_	_	_	_	_	_	Shift=2933
+3	другой	_	_	_	_	_	_	_	Shift=2935
+4	стороны	_	_	_	_	_	_	_	Shift=2942|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=2949
+6	когда	_	_	_	_	_	_	_	Shift=2951
+7	тебе	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=138|RuCor_group_id=413170|RuCor_link_id=0|Shift=2957
+8	дают	_	_	_	_	_	_	_	Shift=2962|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=2966
+10	скажем	_	_	_	_	_	_	_	Shift=2968|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=2974
+12	ту	_	_	_	_	_	_	_	Shift=2976
+13	же	_	_	_	_	_	_	_	Shift=2979
+14	систему	_	_	_	_	_	_	_	Shift=2982
+15	интегральных	_	_	_	_	_	_	_	Shift=2990
+16	уравнений	_	_	_	_	_	_	_	Shift=3003
+17	типа	_	_	_	_	_	_	_	Shift=3013
+18	звездной	_	_	_	_	_	_	_	Shift=3018
+19	статистики	_	_	_	_	_	_	_	Shift=3027
+20	с	_	_	_	_	_	_	_	Shift=3038
+21	неизвестными	_	_	_	_	_	_	_	Shift=3040
+22	функциями	_	_	_	_	_	_	_	Shift=3053
+23	под	_	_	_	_	_	_	_	Shift=3063
+24	интегралом	_	_	_	_	_	_	_	Shift=3067|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=3077
+26	то	_	_	_	_	_	_	_	Shift=3079
+27	самочувствие	_	_	_	_	_	_	_	Shift=3082
+28	не	_	_	_	_	_	_	_	Shift=3095
+29	лучше	_	_	_	_	_	_	_	Shift=3098|SpaceAfter=No
+30	.	_	_	_	_	_	_	_	Shift=3103
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p2-s36
+# text = А поэтому главное - думать.
+1	А	_	_	_	_	_	_	_	Shift=3105
+2	поэтому	_	_	_	_	_	_	_	Shift=3107
+3	главное	_	_	_	_	_	_	_	Shift=3115
+4	-	_	_	_	_	_	_	_	Shift=3123
+5	думать	_	_	_	_	_	_	_	Shift=3126|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=3132
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p2-s37
+# text = Как Паскаль:'' Будем же учиться хорошо мыслить - вот основной принцип морали''.
+1	Как	_	_	_	_	_	_	_	Shift=3134
+2	Паскаль	_	_	_	_	_	_	_	Shift=3138|SpaceAfter=No
+3	:	_	_	_	_	_	_	_	Shift=3145|SpaceAfter=No
+4	''	_	_	_	_	_	_	_	Shift=3147
+5	Будем	_	_	_	_	_	_	_	Shift=3148
+6	же	_	_	_	_	_	_	_	Shift=3154
+7	учиться	_	_	_	_	_	_	_	Shift=3157
+8	хорошо	_	_	_	_	_	_	_	Shift=3165
+9	мыслить	_	_	_	_	_	_	_	Shift=3172
+10	-	_	_	_	_	_	_	_	Shift=3180
+11	вот	_	_	_	_	_	_	_	Shift=3183
+12	основной	_	_	_	_	_	_	_	Shift=3187
+13	принцип	_	_	_	_	_	_	_	Shift=3196
+14	морали	_	_	_	_	_	_	_	Shift=3204|SpaceAfter=No
+15	''	_	_	_	_	_	_	_	Shift=3210|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=3211
+
+# newpar id = d603db90-012e-4de4-b790-feabbf360ab6-p3
+# par_text = Я вышел на проспект Мира и остановился, привлеченный необычным зрелищем. По мостовой шел человек с детскими флажками в руках. За ним, шагах в десяти, с натужным ревом медленно полз большой белый МАЗ с гигантским дымящимся прицепом в виде серебристой цистерны. На цистерне было написано "Огнеопасно", справа и слева от нее так же медленно катились красные пожарные "газики", ощетиненные огнетушителями. Время от времени в ровный рев двигателя вмешивался какой-то новый звук, неприятно леденивший сердце, и тогда из люков цистерны вырывались желтые языки пламени. Лица пожарных под нахлобученными касками были мужественны и суровы. Вокруг кавалькады тучей носились ребятишки. Они пронзительно вопили: "Тилили-тилили, а дракона повезли!" Взрослые прохожие опасливо жались к заборам. На их лицах было написано явственное желание уберечь одежду от возможных повреждений.
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p3-s1
+# text = Я вышел на проспект Мира и остановился, привлеченный необычным зрелищем.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=151|RuCor_group_id=413172|RuCor_link_id=413155|Shift=3214
+2	вышел	_	_	_	_	_	_	_	Shift=3216
+3	на	_	_	_	_	_	_	_	Shift=3222
+4	проспект	_	_	_	_	_	_	_	Shift=3225
+5	Мира	_	_	_	_	_	_	_	Shift=3234
+6	и	_	_	_	_	_	_	_	Shift=3239
+7	остановился	_	_	_	_	_	_	_	Shift=3241|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=3252
+9	привлеченный	_	_	_	_	_	_	_	Shift=3254
+10	необычным	_	_	_	_	_	_	_	Shift=3267
+11	зрелищем	_	_	_	_	_	_	_	Shift=3277|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=3285
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p3-s2
+# text = По мостовой шел человек с детскими флажками в руках.
+1	По	_	_	_	_	_	_	_	Shift=3287
+2	мостовой	_	_	_	_	_	_	_	Shift=3290
+3	шел	_	_	_	_	_	_	_	Shift=3299
+4	человек	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=137|RuCor_group_id=413173|RuCor_link_id=0|Shift=3303
+5	с	_	_	_	_	_	_	_	Shift=3311
+6	детскими	_	_	_	_	_	_	_	Shift=3313
+7	флажками	_	_	_	_	_	_	_	Shift=3322
+8	в	_	_	_	_	_	_	_	Shift=3331
+9	руках	_	_	_	_	_	_	_	Shift=3333|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=3338
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p3-s3
+# text = За ним, шагах в десяти, с натужным ревом медленно полз большой белый МАЗ с гигантским дымящимся прицепом в виде серебристой цистерны.
+1	За	_	_	_	_	_	_	_	Shift=3340
+2	ним	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=137|RuCor_group_id=413174|RuCor_link_id=413173|Shift=3343|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=3346
+4	шагах	_	_	_	_	_	_	_	Shift=3348
+5	в	_	_	_	_	_	_	_	Shift=3354
+6	десяти	_	_	_	_	_	_	_	Shift=3356|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=3362
+8	с	_	_	_	_	_	_	_	Shift=3364
+9	натужным	_	_	_	_	_	_	_	Shift=3366
+10	ревом	_	_	_	_	_	_	_	Shift=3375
+11	медленно	_	_	_	_	_	_	_	Shift=3381
+12	полз	_	_	_	_	_	_	_	Shift=3390
+13	большой	_	_	_	_	_	_	_	Shift=3395
+14	белый	_	_	_	_	_	_	_	Shift=3403
+15	МАЗ	_	_	_	_	_	_	_	Shift=3409
+16	с	_	_	_	_	_	_	_	Shift=3413
+17	гигантским	_	_	_	_	_	_	_	Shift=3415
+18	дымящимся	_	_	_	_	_	_	_	Shift=3426
+19	прицепом	_	_	_	_	_	_	_	Shift=3436
+20	в	_	_	_	_	_	_	_	Shift=3445
+21	виде	_	_	_	_	_	_	_	Shift=3447
+22	серебристой	_	_	_	_	_	_	_	RuCor_chain_id=136|RuCor_group_id=413175|Shift=3452
+23	цистерны	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=136|RuCor_group_id=413175|RuCor_link_id=0|Shift=3464|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=3472
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p3-s4
+# text = На цистерне было написано ``Огнеопасно'', справа и слева от нее так же медленно катились красные пожарные ``газики'', ощетиненные огнетушителями.
+1	На	_	_	_	_	_	_	_	Shift=3474
+2	цистерне	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=136|RuCor_group_id=413176|RuCor_link_id=413175|Shift=3477
+3	было	_	_	_	_	_	_	_	Shift=3486
+4	написано	_	_	_	_	_	_	_	Shift=3491
+5	``	_	_	_	_	_	_	_	Shift=3500|SpaceAfter=No
+6	Огнеопасно	_	_	_	_	_	_	_	Shift=3501|SpaceAfter=No
+7	''	_	_	_	_	_	_	_	Shift=3511|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=3512
+9	справа	_	_	_	_	_	_	_	Shift=3514
+10	и	_	_	_	_	_	_	_	Shift=3521
+11	слева	_	_	_	_	_	_	_	Shift=3523
+12	от	_	_	_	_	_	_	_	Shift=3529
+13	нее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=136|RuCor_group_id=413177|RuCor_link_id=413176|Shift=3532
+14	так	_	_	_	_	_	_	_	Shift=3536
+15	же	_	_	_	_	_	_	_	Shift=3540
+16	медленно	_	_	_	_	_	_	_	Shift=3543
+17	катились	_	_	_	_	_	_	_	Shift=3552
+18	красные	_	_	_	_	_	_	_	Shift=3561
+19	пожарные	_	_	_	_	_	_	_	Shift=3569
+20	``	_	_	_	_	_	_	_	Shift=3578|SpaceAfter=No
+21	газики	_	_	_	_	_	_	_	Shift=3579|SpaceAfter=No
+22	''	_	_	_	_	_	_	_	Shift=3585|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=3586
+24	ощетиненные	_	_	_	_	_	_	_	Shift=3588
+25	огнетушителями	_	_	_	_	_	_	_	Shift=3600|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=3614
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p3-s5
+# text = Время от времени в ровный рев двигателя вмешивался какой-то новый звук, неприятно леденивший сердце, и тогда из люков цистерны вырывались желтые языки пламени.
+1	Время	_	_	_	_	_	_	_	Shift=3616
+2	от	_	_	_	_	_	_	_	Shift=3622
+3	времени	_	_	_	_	_	_	_	Shift=3625
+4	в	_	_	_	_	_	_	_	Shift=3633
+5	ровный	_	_	_	_	_	_	_	Shift=3635
+6	рев	_	_	_	_	_	_	_	Shift=3642
+7	двигателя	_	_	_	_	_	_	_	Shift=3646
+8	вмешивался	_	_	_	_	_	_	_	Shift=3656
+9	какой-то	_	_	_	_	_	_	_	Shift=3667
+10	новый	_	_	_	_	_	_	_	Shift=3676
+11	звук	_	_	_	_	_	_	_	Shift=3682|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=3686
+13	неприятно	_	_	_	_	_	_	_	Shift=3688
+14	леденивший	_	_	_	_	_	_	_	Shift=3698
+15	сердце	_	_	_	_	_	_	_	Shift=3709|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=3715
+17	и	_	_	_	_	_	_	_	Shift=3717
+18	тогда	_	_	_	_	_	_	_	Shift=3719
+19	из	_	_	_	_	_	_	_	Shift=3725
+20	люков	_	_	_	_	_	_	_	Shift=3728
+21	цистерны	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=136|RuCor_group_id=413178|RuCor_link_id=413175|Shift=3734
+22	вырывались	_	_	_	_	_	_	_	Shift=3743
+23	желтые	_	_	_	_	_	_	_	Shift=3754
+24	языки	_	_	_	_	_	_	_	Shift=3761
+25	пламени	_	_	_	_	_	_	_	Shift=3767|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=3774
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p3-s6
+# text = Лица пожарных под нахлобученными касками были мужественны и суровы.
+1	Лица	_	_	_	_	_	_	_	Shift=3776
+2	пожарных	_	_	_	_	_	_	_	Shift=3781
+3	под	_	_	_	_	_	_	_	Shift=3790
+4	нахлобученными	_	_	_	_	_	_	_	Shift=3794
+5	касками	_	_	_	_	_	_	_	Shift=3809
+6	были	_	_	_	_	_	_	_	Shift=3817
+7	мужественны	_	_	_	_	_	_	_	Shift=3822
+8	и	_	_	_	_	_	_	_	Shift=3834
+9	суровы	_	_	_	_	_	_	_	Shift=3836|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=3842
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p3-s7
+# text = Вокруг кавалькады тучей носились ребятишки.
+1	Вокруг	_	_	_	_	_	_	_	Shift=3844
+2	кавалькады	_	_	_	_	_	_	_	Shift=3851
+3	тучей	_	_	_	_	_	_	_	Shift=3862
+4	носились	_	_	_	_	_	_	_	Shift=3868
+5	ребятишки	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=135|RuCor_group_id=413179|RuCor_link_id=0|Shift=3877|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=3886
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p3-s8
+# text = Они пронзительно вопили: " Тилили-тилили, а дракона повезли! "
+1	Они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=135|RuCor_group_id=413180|RuCor_link_id=413179|Shift=3888
+2	пронзительно	_	_	_	_	_	_	_	Shift=3892
+3	вопили	_	_	_	_	_	_	_	Shift=3905|SpaceAfter=No
+4	:	_	_	_	_	_	_	_	Shift=3911
+5	``	_	_	_	_	_	_	_	QuotationStart="|Shift=3913
+6	Тилили-тилили	_	_	_	_	_	_	_	Shift=3914|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=3927
+8	а	_	_	_	_	_	_	_	Shift=3929
+9	дракона	_	_	_	_	_	_	_	Shift=3931
+10	повезли	_	_	_	_	_	_	_	Shift=3939|SpaceAfter=No
+11	!	_	_	_	_	_	_	_	Shift=3946
+12	''	_	_	_	_	_	_	_	QuotationEnd="|Shift=3947
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p3-s9
+# text = Взрослые прохожие опасливо жались к заборам.
+1	Взрослые	_	_	_	_	_	_	_	RuCor_chain_id=147|RuCor_group_id=413136|Shift=3949
+2	прохожие	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=147|RuCor_group_id=413136|RuCor_link_id=0|Shift=3958
+3	опасливо	_	_	_	_	_	_	_	Shift=3967
+4	жались	_	_	_	_	_	_	_	Shift=3976
+5	к	_	_	_	_	_	_	_	Shift=3983
+6	заборам	_	_	_	_	_	_	_	Shift=3985|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=3992
+
+# sent_id = d603db90-012e-4de4-b790-feabbf360ab6-p3-s10
+# text = На их лицах было написано явственное желание уберечь одежду от возможных повреждений.
+1	На	_	_	_	_	_	_	_	Shift=3994
+2	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=147|RuCor_group_id=413181|RuCor_link_id=413136|Shift=3997
+3	лицах	_	_	_	_	_	_	_	Shift=4000
+4	было	_	_	_	_	_	_	_	Shift=4006
+5	написано	_	_	_	_	_	_	_	Shift=4011
+6	явственное	_	_	_	_	_	_	_	Shift=4020
+7	желание	_	_	_	_	_	_	_	Shift=4031
+8	уберечь	_	_	_	_	_	_	_	Shift=4039
+9	одежду	_	_	_	_	_	_	_	Shift=4047
+10	от	_	_	_	_	_	_	_	Shift=4054
+11	возможных	_	_	_	_	_	_	_	Shift=4057
+12	повреждений	_	_	_	_	_	_	_	Shift=4067|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	_
+

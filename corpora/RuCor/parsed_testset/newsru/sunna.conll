@@ -1,0 +1,351 @@
+# newdoc id = 31efec2c-a31a-442d-9556-b9f66e8b8070
+# newpar id = 31efec2c-a31a-442d-9556-b9f66e8b8070-p1
+# par_text = Радикальная исламистская группировка "Ансар аль-Сунна" взяла на себя ответственность за взрывы в Волгограде, совершенные в декабре прошлого года. В видео, размещенном исламистами на одном из экстремистских сайтов, говорится о том, что "операцию" провели два смертника - некие Сулейман и Абдуррахман. Кроме того, утверждается, что боевики готовятся совершить новые теракты во время зимней Олимпиады в Сочи, передает Deutsche Welle.
+# sent_id = 31efec2c-a31a-442d-9556-b9f66e8b8070-p1-s1
+# text = Радикальная исламистская группировка ``Ансар аль - Сунна ``взяла на себя ответственность за взрывы в Волгограде, совершенные в декабре прошлого года.
+1	Радикальная	_	_	_	_	_	_	_	RuCor_chain_id=3318|RuCor_group_id=474491|Shift=0
+2	исламистская	_	_	_	_	_	_	_	RuCor_chain_id=3318|RuCor_group_id=474491|Shift=12
+3	группировка	_	_	_	_	_	_	_	RuCor_chain_id=3318|RuCor_group_id=474491|Shift=25
+4	``	_	_	_	_	_	_	_	RuCor_chain_id=3318|RuCor_group_id=474491|Shift=37|SpaceAfter=No
+5	Ансар	_	_	_	_	_	_	_	RuCor_chain_id=3318|RuCor_group_id=474491|Shift=38
+6	аль	_	_	_	_	_	_	_	RuCor_chain_id=3318|RuCor_group_id=474491|Shift=44
+7	-	_	_	_	_	_	_	_	RuCor_chain_id=3318|RuCor_group_id=474491|Shift=47
+8	Сунна	_	_	_	_	_	_	_	RuCor_chain_id=3318|RuCor_group_id=474491|Shift=48
+9	``	_	_	_	_	_	_	_	RuCor_chain_id=3318|RuCor_group_id=474491|Shift=53|SpaceAfter=No
+10	взяла	_	_	_	_	_	_	_	Shift=55
+11	на	_	_	_	_	_	_	_	Shift=61
+12	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=3318|RuCor_group_id=474492|RuCor_link_id=474491|Shift=64
+13	ответственность	_	_	_	_	_	_	_	Shift=69
+14	за	_	_	_	_	_	_	_	Shift=85
+15	взрывы	_	_	_	_	_	_	_	Shift=88
+16	в	_	_	_	_	_	_	_	Shift=95
+17	Волгограде	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3321|RuCor_group_id=474493|RuCor_link_id=474501|Shift=97|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=107
+19	совершенные	_	_	_	_	_	_	_	Shift=109
+20	в	_	_	_	_	_	_	_	Shift=121
+21	декабре	_	_	_	_	_	_	_	Shift=123
+22	прошлого	_	_	_	_	_	_	_	Shift=131
+23	года	_	_	_	_	_	_	_	Shift=140|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=144
+
+# sent_id = 31efec2c-a31a-442d-9556-b9f66e8b8070-p1-s2
+# text = В видео, размещенном исламистами на одном из экстремистских сайтов, говорится о том, что ``операцию'' провели два смертника - некие Сулейман и Абдуррахман.
+1	В	_	_	_	_	_	_	_	Shift=146
+2	видео	_	_	_	_	_	_	_	Shift=148|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=153
+4	размещенном	_	_	_	_	_	_	_	Shift=155
+5	исламистами	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3318|RuCor_group_id=474494|RuCor_link_id=474491|Shift=167
+6	на	_	_	_	_	_	_	_	Shift=179
+7	одном	_	_	_	_	_	_	_	Shift=182
+8	из	_	_	_	_	_	_	_	Shift=188
+9	экстремистских	_	_	_	_	_	_	_	Shift=191
+10	сайтов	_	_	_	_	_	_	_	Shift=206|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=212
+12	говорится	_	_	_	_	_	_	_	Shift=214
+13	о	_	_	_	_	_	_	_	Shift=224
+14	том	_	_	_	_	_	_	_	Shift=226|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=229
+16	что	_	_	_	_	_	_	_	Shift=231
+17	``	_	_	_	_	_	_	_	Shift=235|SpaceAfter=No
+18	операцию	_	_	_	_	_	_	_	Shift=236|SpaceAfter=No
+19	''	_	_	_	_	_	_	_	Shift=244
+20	провели	_	_	_	_	_	_	_	Shift=246
+21	два	_	_	_	_	_	_	_	Shift=254
+22	смертника	_	_	_	_	_	_	_	Shift=258
+23	-	_	_	_	_	_	_	_	Shift=268
+24	некие	_	_	_	_	_	_	_	Shift=270
+25	Сулейман	_	_	_	_	_	_	_	Shift=276
+26	и	_	_	_	_	_	_	_	Shift=285
+27	Абдуррахман	_	_	_	_	_	_	_	Shift=287|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=298
+
+# sent_id = 31efec2c-a31a-442d-9556-b9f66e8b8070-p1-s3
+# text = Кроме того, утверждается, что боевики готовятся совершить новые теракты во время зимней Олимпиады в Сочи, передает Deutsche Welle.
+1	Кроме	_	_	_	_	_	_	_	Shift=300
+2	того	_	_	_	_	_	_	_	Shift=306|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=310
+4	утверждается	_	_	_	_	_	_	_	Shift=312|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=324
+6	что	_	_	_	_	_	_	_	Shift=326
+7	боевики	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3318|RuCor_group_id=474495|RuCor_link_id=474494|Shift=330
+8	готовятся	_	_	_	_	_	_	_	Shift=338
+9	совершить	_	_	_	_	_	_	_	Shift=348
+10	новые	_	_	_	_	_	_	_	Shift=358
+11	теракты	_	_	_	_	_	_	_	Shift=364
+12	во	_	_	_	_	_	_	_	Shift=372
+13	время	_	_	_	_	_	_	_	Shift=375
+14	зимней	_	_	_	_	_	_	_	RuCor_chain_id=3319|RuCor_group_id=474496|Shift=381
+15	Олимпиады	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3319|RuCor_group_id=474496|RuCor_link_id=0|Shift=388
+16	в	_	_	_	_	_	_	_	RuCor_chain_id=3319|RuCor_group_id=474496|Shift=398
+17	Сочи	_	_	_	_	_	_	_	RuCor_chain_id=3319|RuCor_group_id=474496|Shift=400|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=404
+19	передает	_	_	_	_	_	_	_	Shift=406
+20	Deutsche	_	_	_	_	_	_	_	Shift=415
+21	Welle	_	_	_	_	_	_	_	Shift=424|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=429
+
+# newpar id = 31efec2c-a31a-442d-9556-b9f66e8b8070-p2
+# par_text = На видео боевики держат в руках автоматы. Их заявления сопровождаются демонстрацией фотографий с мест волгоградских терактов, взятых из прессы. В ролике также есть кадры, на которых неизвестные изготавливают взрывчатку, а позже едут в машине, держа в руках предмет, похожий на взрыватель.
+# sent_id = 31efec2c-a31a-442d-9556-b9f66e8b8070-p2-s1
+# text = На видео боевики держат в руках автоматы.
+1	На	_	_	_	_	_	_	_	Shift=431
+2	видео	_	_	_	_	_	_	_	Shift=434
+3	боевики	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3318|RuCor_group_id=474497|RuCor_link_id=474495|Shift=440
+4	держат	_	_	_	_	_	_	_	Shift=448
+5	в	_	_	_	_	_	_	_	Shift=455
+6	руках	_	_	_	_	_	_	_	Shift=457
+7	автоматы	_	_	_	_	_	_	_	Shift=463|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=471
+
+# sent_id = 31efec2c-a31a-442d-9556-b9f66e8b8070-p2-s2
+# text = Их заявления сопровождаются демонстрацией фотографий с мест волгоградских терактов, взятых из прессы.
+1	Их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3318|RuCor_group_id=474498|RuCor_link_id=474497|Shift=473
+2	заявления	_	_	_	_	_	_	_	Shift=476
+3	сопровождаются	_	_	_	_	_	_	_	Shift=486
+4	демонстрацией	_	_	_	_	_	_	_	Shift=501
+5	фотографий	_	_	_	_	_	_	_	Shift=515
+6	с	_	_	_	_	_	_	_	Shift=526
+7	мест	_	_	_	_	_	_	_	Shift=528
+8	волгоградских	_	_	_	_	_	_	_	Shift=533
+9	терактов	_	_	_	_	_	_	_	Shift=547|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=555
+11	взятых	_	_	_	_	_	_	_	Shift=557
+12	из	_	_	_	_	_	_	_	Shift=564
+13	прессы	_	_	_	_	_	_	_	Shift=567|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=573
+
+# sent_id = 31efec2c-a31a-442d-9556-b9f66e8b8070-p2-s3
+# text = В ролике также есть кадры, на которых неизвестные изготавливают взрывчатку, а позже едут в машине, держа в руках предмет, похожий на взрыватель.
+1	В	_	_	_	_	_	_	_	Shift=575
+2	ролике	_	_	_	_	_	_	_	Shift=577
+3	также	_	_	_	_	_	_	_	Shift=584
+4	есть	_	_	_	_	_	_	_	Shift=590
+5	кадры	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3320|RuCor_group_id=474499|RuCor_link_id=0|Shift=595|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=600
+7	на	_	_	_	_	_	_	_	Shift=602
+8	которых	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=3320|RuCor_group_id=474500|RuCor_link_id=474499|Shift=605
+9	неизвестные	_	_	_	_	_	_	_	Shift=613
+10	изготавливают	_	_	_	_	_	_	_	Shift=625
+11	взрывчатку	_	_	_	_	_	_	_	Shift=639|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=649
+13	а	_	_	_	_	_	_	_	Shift=651
+14	позже	_	_	_	_	_	_	_	Shift=653
+15	едут	_	_	_	_	_	_	_	Shift=659
+16	в	_	_	_	_	_	_	_	Shift=664
+17	машине	_	_	_	_	_	_	_	Shift=666|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=672
+19	держа	_	_	_	_	_	_	_	Shift=674
+20	в	_	_	_	_	_	_	_	Shift=680
+21	руках	_	_	_	_	_	_	_	Shift=682
+22	предмет	_	_	_	_	_	_	_	Shift=688|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=695
+24	похожий	_	_	_	_	_	_	_	Shift=697
+25	на	_	_	_	_	_	_	_	Shift=705
+26	взрыватель	_	_	_	_	_	_	_	Shift=708|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=718
+
+# newpar id = 31efec2c-a31a-442d-9556-b9f66e8b8070-p3
+# par_text = В результате двух взрывов, прогремевших в Волгограде 29 и 30 декабря 2013 года, погибли более 30 человек. Ранее в СМИ появились сообщения о том, что волгоградские смертники приехали в город из Дагестана. Один из них - Аскер Самедов - являлся активным членом буйнакской террористической группировки, которая имела отношение и к первому теракту в Волгограде осенью прошлого года. Между тем группировка "Ансар аль-Сунна" была основана в сентябре 2003 года. Она базируется в северном и центральном Ираке и, не исключено, что в действительности она не имеет ни малейшего отношения к терактам в Волгограде, отмечает РБК.
+# sent_id = 31efec2c-a31a-442d-9556-b9f66e8b8070-p3-s1
+# text = В результате двух взрывов, прогремевших в Волгограде 29 и 30 декабря 2013 года, погибли более 30 человек.
+1	В	_	_	_	_	_	_	_	Shift=720
+2	результате	_	_	_	_	_	_	_	Shift=722
+3	двух	_	_	_	_	_	_	_	Shift=733
+4	взрывов	_	_	_	_	_	_	_	Shift=738|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=745
+6	прогремевших	_	_	_	_	_	_	_	Shift=747
+7	в	_	_	_	_	_	_	_	Shift=760
+8	Волгограде	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3321|RuCor_group_id=474501|RuCor_link_id=0|Shift=762
+9	29	_	_	_	_	_	_	_	Shift=773
+10	и	_	_	_	_	_	_	_	Shift=776
+11	30	_	_	_	_	_	_	_	Shift=778
+12	декабря	_	_	_	_	_	_	_	Shift=781
+13	2013	_	_	_	_	_	_	_	Shift=789
+14	года	_	_	_	_	_	_	_	Shift=794|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=798
+16	погибли	_	_	_	_	_	_	_	Shift=800
+17	более	_	_	_	_	_	_	_	Shift=808
+18	30	_	_	_	_	_	_	_	Shift=814
+19	человек	_	_	_	_	_	_	_	Shift=817|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=824
+
+# sent_id = 31efec2c-a31a-442d-9556-b9f66e8b8070-p3-s2
+# text = Ранее в СМИ появились сообщения о том, что волгоградские смертники приехали в город из Дагестана.
+1	Ранее	_	_	_	_	_	_	_	Shift=826
+2	в	_	_	_	_	_	_	_	Shift=832
+3	СМИ	_	_	_	_	_	_	_	Shift=834
+4	появились	_	_	_	_	_	_	_	Shift=838
+5	сообщения	_	_	_	_	_	_	_	Shift=848
+6	о	_	_	_	_	_	_	_	Shift=858
+7	том	_	_	_	_	_	_	_	Shift=860|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=863
+9	что	_	_	_	_	_	_	_	Shift=865
+10	волгоградские	_	_	_	_	_	_	_	RuCor_chain_id=3322|RuCor_group_id=474502|Shift=869
+11	смертники	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3322|RuCor_group_id=474502|RuCor_link_id=0|Shift=883
+12	приехали	_	_	_	_	_	_	_	Shift=893
+13	в	_	_	_	_	_	_	_	Shift=902
+14	город	_	_	_	_	_	_	_	Shift=904
+15	из	_	_	_	_	_	_	_	Shift=910
+16	Дагестана	_	_	_	_	_	_	_	Shift=913|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=922
+
+# sent_id = 31efec2c-a31a-442d-9556-b9f66e8b8070-p3-s3
+# text = Один из них - Аскер Самедов - являлся активным членом буйнакской террористической группировки, которая имела отношение и к первому теракту в Волгограде осенью прошлого года.
+1	Один	_	_	_	_	_	_	_	Shift=924
+2	из	_	_	_	_	_	_	_	Shift=929
+3	них	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3322|RuCor_group_id=474503|RuCor_link_id=474502|Shift=932
+4	-	_	_	_	_	_	_	_	Shift=936
+5	Аскер	_	_	_	_	_	_	_	Shift=938
+6	Самедов	_	_	_	_	_	_	_	Shift=944
+7	-	_	_	_	_	_	_	_	Shift=952
+8	являлся	_	_	_	_	_	_	_	Shift=954
+9	активным	_	_	_	_	_	_	_	Shift=962
+10	членом	_	_	_	_	_	_	_	Shift=971
+11	буйнакской	_	_	_	_	_	_	_	RuCor_chain_id=3323|RuCor_group_id=474504|Shift=978
+12	террористической	_	_	_	_	_	_	_	RuCor_chain_id=3323|RuCor_group_id=474504|Shift=989
+13	группировки	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3323|RuCor_group_id=474504|RuCor_link_id=0|Shift=1006|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=1017
+15	которая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=3323|RuCor_group_id=474505|RuCor_link_id=474504|Shift=1019
+16	имела	_	_	_	_	_	_	_	Shift=1027
+17	отношение	_	_	_	_	_	_	_	Shift=1033
+18	и	_	_	_	_	_	_	_	Shift=1043
+19	к	_	_	_	_	_	_	_	Shift=1045
+20	первому	_	_	_	_	_	_	_	Shift=1047
+21	теракту	_	_	_	_	_	_	_	Shift=1055
+22	в	_	_	_	_	_	_	_	Shift=1063
+23	Волгограде	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3321|RuCor_group_id=474506|RuCor_link_id=474501|Shift=1065
+24	осенью	_	_	_	_	_	_	_	Shift=1076
+25	прошлого	_	_	_	_	_	_	_	Shift=1083
+26	года	_	_	_	_	_	_	_	Shift=1092|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=1096
+
+# sent_id = 31efec2c-a31a-442d-9556-b9f66e8b8070-p3-s4
+# text = Между тем группировка ``Ансар аль - Сунна ``была основана в сентябре 2003 года.
+1	Между	_	_	_	_	_	_	_	Shift=1098
+2	тем	_	_	_	_	_	_	_	Shift=1104
+3	группировка	_	_	_	_	_	_	_	RuCor_chain_id=3318|RuCor_group_id=474507|Shift=1108
+4	``	_	_	_	_	_	_	_	RuCor_chain_id=3318|RuCor_group_id=474507|Shift=1120|SpaceAfter=No
+5	Ансар	_	_	_	_	_	_	_	RuCor_chain_id=3318|RuCor_group_id=474507|Shift=1121
+6	аль	_	_	_	_	_	_	_	RuCor_chain_id=3318|RuCor_group_id=474507|Shift=1127
+7	-	_	_	_	_	_	_	_	RuCor_chain_id=3318|RuCor_group_id=474507|Shift=1130
+8	Сунна	_	_	_	_	_	_	_	RuCor_chain_id=3318|RuCor_group_id=474507|Shift=1131
+9	``	_	_	_	_	_	_	_	RuCor_chain_id=3318|RuCor_group_id=474507|Shift=1136|SpaceAfter=No
+10	была	_	_	_	_	_	_	_	Shift=1138
+11	основана	_	_	_	_	_	_	_	Shift=1143
+12	в	_	_	_	_	_	_	_	Shift=1152
+13	сентябре	_	_	_	_	_	_	_	Shift=1154
+14	2003	_	_	_	_	_	_	_	Shift=1163
+15	года	_	_	_	_	_	_	_	Shift=1168|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=1172
+
+# sent_id = 31efec2c-a31a-442d-9556-b9f66e8b8070-p3-s5
+# text = Она базируется в северном и центральном Ираке и, не исключено, что в действительности она не имеет ни малейшего отношения к терактам в Волгограде, отмечает РБК.
+1	Она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3318|RuCor_group_id=474508|RuCor_link_id=474507|Shift=1174
+2	базируется	_	_	_	_	_	_	_	Shift=1178
+3	в	_	_	_	_	_	_	_	Shift=1189
+4	северном	_	_	_	_	_	_	_	Shift=1191
+5	и	_	_	_	_	_	_	_	Shift=1200
+6	центральном	_	_	_	_	_	_	_	Shift=1202
+7	Ираке	_	_	_	_	_	_	_	Shift=1214
+8	и	_	_	_	_	_	_	_	Shift=1220|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1221
+10	не	_	_	_	_	_	_	_	Shift=1223
+11	исключено	_	_	_	_	_	_	_	Shift=1226|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=1235
+13	что	_	_	_	_	_	_	_	Shift=1237
+14	в	_	_	_	_	_	_	_	Shift=1241
+15	действительности	_	_	_	_	_	_	_	Shift=1243
+16	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3318|RuCor_group_id=474509|RuCor_link_id=474508|Shift=1260
+17	не	_	_	_	_	_	_	_	Shift=1264
+18	имеет	_	_	_	_	_	_	_	Shift=1267
+19	ни	_	_	_	_	_	_	_	Shift=1273
+20	малейшего	_	_	_	_	_	_	_	Shift=1276
+21	отношения	_	_	_	_	_	_	_	Shift=1286
+22	к	_	_	_	_	_	_	_	Shift=1296
+23	терактам	_	_	_	_	_	_	_	Shift=1298
+24	в	_	_	_	_	_	_	_	Shift=1307
+25	Волгограде	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3321|RuCor_group_id=474510|RuCor_link_id=474506|Shift=1309|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	Shift=1319
+27	отмечает	_	_	_	_	_	_	_	Shift=1321
+28	РБК	_	_	_	_	_	_	_	Shift=1330|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	Shift=1333
+
+# newpar id = 31efec2c-a31a-442d-9556-b9f66e8b8070-p4
+# par_text = - Западная пресса: "Самая большая опасность для Игр может исходить от еще не известных исламистов"
+# sent_id = 31efec2c-a31a-442d-9556-b9f66e8b8070-p4-s1
+# text = - Западная пресса:'' Самая большая опасность для Игр может исходить от еще не известных исламистов''
+1	-	_	_	_	_	_	_	_	Shift=1335
+2	Западная	_	_	_	_	_	_	_	Shift=1337
+3	пресса	_	_	_	_	_	_	_	Shift=1346|SpaceAfter=No
+4	:	_	_	_	_	_	_	_	Shift=1352|SpaceAfter=No
+5	''	_	_	_	_	_	_	_	Shift=1354
+6	Самая	_	_	_	_	_	_	_	Shift=1355
+7	большая	_	_	_	_	_	_	_	Shift=1361
+8	опасность	_	_	_	_	_	_	_	Shift=1369
+9	для	_	_	_	_	_	_	_	Shift=1379
+10	Игр	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3319|RuCor_group_id=474511|RuCor_link_id=474496|Shift=1383
+11	может	_	_	_	_	_	_	_	Shift=1387
+12	исходить	_	_	_	_	_	_	_	Shift=1393
+13	от	_	_	_	_	_	_	_	Shift=1402
+14	еще	_	_	_	_	_	_	_	Shift=1405
+15	не	_	_	_	_	_	_	_	Shift=1409
+16	известных	_	_	_	_	_	_	_	Shift=1412
+17	исламистов	_	_	_	_	_	_	_	Shift=1422|SpaceAfter=No
+18	''	_	_	_	_	_	_	_	Shift=1432
+
+# newpar id = 31efec2c-a31a-442d-9556-b9f66e8b8070-p5
+# par_text = В то же время главный редактор сайта "Агентура.ru" Андрей Солдатов предполагает, что российские СМИ, сообщившие об "иракской группировке "Ансар аль-Сунна", скорее всего, ошибаются. Он полагает, что эта группировка - новая и базируется на Кавказе <...>
+# sent_id = 31efec2c-a31a-442d-9556-b9f66e8b8070-p5-s1
+# text = В то же время главный редактор сайта ``Агентура.ru'' Андрей Солдатов предполагает, что российские СМИ, сообщившие об ``иракской группировке ``Ансар аль - Сунна ``, скорее всего, ошибаются.
+1	В	_	_	_	_	_	_	_	Shift=1434
+2	то	_	_	_	_	_	_	_	Shift=1436
+3	же	_	_	_	_	_	_	_	Shift=1439
+4	время	_	_	_	_	_	_	_	Shift=1442
+5	главный	_	_	_	_	_	_	_	RuCor_chain_id=3324|RuCor_group_id=474512|Shift=1448
+6	редактор	_	_	_	_	_	_	_	RuCor_chain_id=3324|RuCor_group_id=474512|Shift=1456
+7	сайта	_	_	_	_	_	_	_	RuCor_chain_id=3324|RuCor_group_id=474512|Shift=1465
+8	``	_	_	_	_	_	_	_	RuCor_chain_id=3324|RuCor_group_id=474512|Shift=1471|SpaceAfter=No
+9	Агентура.ru	_	_	_	_	_	_	_	RuCor_chain_id=3324|RuCor_group_id=474512|Shift=1472|SpaceAfter=No
+10	''	_	_	_	_	_	_	_	RuCor_chain_id=3324|RuCor_group_id=474512|Shift=1483
+11	Андрей	_	_	_	_	_	_	_	RuCor_chain_id=3324|RuCor_group_id=474512|Shift=1485
+12	Солдатов	_	_	_	_	_	_	_	RuCor_chain_id=3324|RuCor_group_id=474512|Shift=1492
+13	предполагает	_	_	_	_	_	_	_	Shift=1501|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=1513
+15	что	_	_	_	_	_	_	_	Shift=1515
+16	российские	_	_	_	_	_	_	_	Shift=1519
+17	СМИ	_	_	_	_	_	_	_	Shift=1530|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=1533
+19	сообщившие	_	_	_	_	_	_	_	Shift=1535
+20	об	_	_	_	_	_	_	_	Shift=1546
+21	``	_	_	_	_	_	_	_	RuCor_chain_id=3318|RuCor_group_id=474513|Shift=1549|SpaceAfter=No
+22	иракской	_	_	_	_	_	_	_	RuCor_chain_id=3318|RuCor_group_id=474513|Shift=1550
+23	группировке	_	_	_	_	_	_	_	RuCor_chain_id=3318|RuCor_group_id=474513|Shift=1559
+24	``	_	_	_	_	_	_	_	RuCor_chain_id=3318|RuCor_group_id=474513|Shift=1571|SpaceAfter=No
+25	Ансар	_	_	_	_	_	_	_	RuCor_chain_id=3318|RuCor_group_id=474513|Shift=1572
+26	аль	_	_	_	_	_	_	_	RuCor_chain_id=3318|RuCor_group_id=474513|Shift=1578
+27	-	_	_	_	_	_	_	_	RuCor_chain_id=3318|RuCor_group_id=474513|Shift=1581
+28	Сунна	_	_	_	_	_	_	_	RuCor_chain_id=3318|RuCor_group_id=474513|Shift=1582
+29	``	_	_	_	_	_	_	_	RuCor_chain_id=3318|RuCor_group_id=474513|Shift=1587|SpaceAfter=No
+30	,	_	_	_	_	_	_	_	Shift=1588
+31	скорее	_	_	_	_	_	_	_	Shift=1590
+32	всего	_	_	_	_	_	_	_	Shift=1597|SpaceAfter=No
+33	,	_	_	_	_	_	_	_	Shift=1602
+34	ошибаются	_	_	_	_	_	_	_	Shift=1604|SpaceAfter=No
+35	.	_	_	_	_	_	_	_	Shift=1613
+
+# sent_id = 31efec2c-a31a-442d-9556-b9f66e8b8070-p5-s2
+# text = Он полагает, что эта группировка - новая и базируется на Кавказе <...>
+1	Он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3324|RuCor_group_id=474514|RuCor_link_id=474512|Shift=1615
+2	полагает	_	_	_	_	_	_	_	Shift=1618|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1626
+4	что	_	_	_	_	_	_	_	Shift=1628
+5	эта	_	_	_	_	_	_	_	RuCor_chain_id=3318|RuCor_group_id=474515|Shift=1632
+6	группировка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3318|RuCor_group_id=474515|RuCor_link_id=474513|Shift=1636
+7	-	_	_	_	_	_	_	_	Shift=1648
+8	новая	_	_	_	_	_	_	_	Shift=1650
+9	и	_	_	_	_	_	_	_	Shift=1656
+10	базируется	_	_	_	_	_	_	_	Shift=1658
+11	на	_	_	_	_	_	_	_	Shift=1669
+12	Кавказе	_	_	_	_	_	_	_	Shift=1672
+12.1	_	_	_	_	_	_	_	_	EntityUnk=<...>
+

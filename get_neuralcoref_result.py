@@ -91,7 +91,7 @@ neuralcoref.add_to_pipe(nlp)
 # path_out = '.\\scorer\\response_ontonotes'
 # ending_cut = -7
 
-path_conllu = '.\\OntoNotes\\plain'
+path_conllu = '.\\corpora\\OntoNotes\\plain'
 path_out = '.\\scorer\\cort\\response_ontonotes'
 ending_cut = -7
 

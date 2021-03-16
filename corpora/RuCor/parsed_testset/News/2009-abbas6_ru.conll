@@ -1,0 +1,1020 @@
+# newdoc id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48
+# newpar id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p1
+# par_text = КЕМБРИДЖ – В долине Сват происходит невиданное ранее по жестокости противостояние пакистанской армии и Талибана; Пакистану приходится буквально бороться за свои жизненные принципы. Похоже, что в этот раз армия одержит победу, в отличие от своей недавней нерешительной конфронтации с силами Талибана в соседних племенных областях.
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p1-s1
+# text = КЕМБРИДЖ - В долине Сват происходит невиданное ранее по жестокости противостояние пакистанской армии и Талибана.
+1	КЕМБРИДЖ	_	_	_	_	_	_	_	Shift=6
+2	-	_	_	_	_	_	_	_	_
+3	В	_	_	_	_	_	_	_	Shift=17
+4	долине	_	_	_	_	_	_	_	RuCor_chain_id=97|RuCor_group_id=413337|Shift=19
+5	Сват	_	_	_	_	_	_	_	RuCor_chain_id=97|RuCor_group_id=413337|Shift=26
+6	происходит	_	_	_	_	_	_	_	Shift=31
+7	невиданное	_	_	_	_	_	_	_	Shift=42
+8	ранее	_	_	_	_	_	_	_	Shift=53
+9	по	_	_	_	_	_	_	_	Shift=59
+10	жестокости	_	_	_	_	_	_	_	Shift=62
+11	противостояние	_	_	_	_	_	_	_	Shift=73
+12	пакистанской	_	_	_	_	_	_	_	RuCor_chain_id=104|RuCor_group_id=413316|Shift=88
+13	армии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=104|RuCor_group_id=413316|RuCor_link_id=0|Shift=101
+14	и	_	_	_	_	_	_	_	Shift=107
+15	Талибана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=103|RuCor_group_id=413319|RuCor_link_id=0|Shift=109|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=117
+
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p1-s2
+# text = Пакистану приходится буквально бороться за свои жизненные принципы.
+1	Пакистану	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=105|RuCor_group_id=413314|RuCor_link_id=0|Shift=119
+2	приходится	_	_	_	_	_	_	_	Shift=129
+3	буквально	_	_	_	_	_	_	_	Shift=140
+4	бороться	_	_	_	_	_	_	_	Shift=150
+5	за	_	_	_	_	_	_	_	Shift=159
+6	свои	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=105|RuCor_group_id=413315|RuCor_link_id=413314|Shift=162
+7	жизненные	_	_	_	_	_	_	_	Shift=167
+8	принципы	_	_	_	_	_	_	_	Shift=177|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=185
+
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p1-s3
+# text = Похоже, что в этот раз армия одержит победу, в отличие от своей недавней нерешительной конфронтации с силами Талибана в соседних племенных областях.
+1	Похоже	_	_	_	_	_	_	_	Shift=187|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=193
+3	что	_	_	_	_	_	_	_	Shift=195
+4	в	_	_	_	_	_	_	_	Shift=199
+5	этот	_	_	_	_	_	_	_	Shift=201
+6	раз	_	_	_	_	_	_	_	Shift=206
+7	армия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=104|RuCor_group_id=413317|RuCor_link_id=413316|Shift=210
+8	одержит	_	_	_	_	_	_	_	Shift=216
+9	победу	_	_	_	_	_	_	_	Shift=224|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=230
+11	в	_	_	_	_	_	_	_	Shift=232
+12	отличие	_	_	_	_	_	_	_	Shift=234
+13	от	_	_	_	_	_	_	_	Shift=242
+14	своей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=104|RuCor_group_id=413318|RuCor_link_id=413317|Shift=245
+15	недавней	_	_	_	_	_	_	_	Shift=251
+16	нерешительной	_	_	_	_	_	_	_	Shift=260
+17	конфронтации	_	_	_	_	_	_	_	Shift=274
+18	с	_	_	_	_	_	_	_	Shift=287
+19	силами	_	_	_	_	_	_	_	Shift=289
+20	Талибана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=103|RuCor_group_id=413320|RuCor_link_id=413319|Shift=296
+21	в	_	_	_	_	_	_	_	Shift=305
+22	соседних	_	_	_	_	_	_	_	Shift=307
+23	племенных	_	_	_	_	_	_	_	Shift=316
+24	областях	_	_	_	_	_	_	_	Shift=326|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=334
+
+# newpar id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p2
+# par_text = Члены Талибана сейчас находится в бегах, некоторые из них сбрили бороды, некоторые носят паранджу, чтобы их не узнали и не уничтожили. Причина всего этого довольно проста: жители всего Пакистана все больше поддерживают действия армии. Эта поддержка сохраняется, несмотря на свою чудовищную гуманитарную цену: более 1,5 миллиона внутренних беженцев.
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p2-s1
+# text = Члены Талибана сейчас находится в бегах, некоторые из них сбрили бороды, некоторые носят паранджу, чтобы их не узнали и не уничтожили.
+1	Члены	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=102|RuCor_group_id=413322|RuCor_link_id=0|Shift=336
+2	Талибана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=103|RuCor_group_id=413321|RuCor_link_id=413320|Shift=342
+3	сейчас	_	_	_	_	_	_	_	Shift=351
+4	находится	_	_	_	_	_	_	_	Shift=358
+5	в	_	_	_	_	_	_	_	Shift=368
+6	бегах	_	_	_	_	_	_	_	Shift=370|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=375
+8	некоторые	_	_	_	_	_	_	_	Shift=377
+9	из	_	_	_	_	_	_	_	Shift=387
+10	них	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=102|RuCor_group_id=413323|RuCor_link_id=413322|Shift=390
+11	сбрили	_	_	_	_	_	_	_	Shift=394
+12	бороды	_	_	_	_	_	_	_	Shift=401|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=407
+14	некоторые	_	_	_	_	_	_	_	Shift=409
+15	носят	_	_	_	_	_	_	_	Shift=419
+16	паранджу	_	_	_	_	_	_	_	Shift=425|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=433
+18	чтобы	_	_	_	_	_	_	_	Shift=435
+19	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=102|RuCor_group_id=413324|RuCor_link_id=413323|Shift=441
+20	не	_	_	_	_	_	_	_	Shift=444
+21	узнали	_	_	_	_	_	_	_	Shift=447
+22	и	_	_	_	_	_	_	_	Shift=454
+23	не	_	_	_	_	_	_	_	Shift=456
+24	уничтожили	_	_	_	_	_	_	_	Shift=459|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=469
+
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p2-s2
+# text = Причина всего этого довольно проста: жители всего Пакистана все больше поддерживают действия армии.
+1	Причина	_	_	_	_	_	_	_	Shift=471
+2	всего	_	_	_	_	_	_	_	Shift=479
+3	этого	_	_	_	_	_	_	_	Shift=485
+4	довольно	_	_	_	_	_	_	_	Shift=491
+5	проста	_	_	_	_	_	_	_	Shift=500|SpaceAfter=No
+6	:	_	_	_	_	_	_	_	Shift=506
+7	жители	_	_	_	_	_	_	_	Shift=508
+8	всего	_	_	_	_	_	_	_	Shift=515
+9	Пакистана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=105|RuCor_group_id=413325|RuCor_link_id=413315|Shift=521
+10	все	_	_	_	_	_	_	_	Shift=531
+11	больше	_	_	_	_	_	_	_	Shift=535
+12	поддерживают	_	_	_	_	_	_	_	Shift=542
+13	действия	_	_	_	_	_	_	_	Shift=555
+14	армии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=104|RuCor_group_id=413326|RuCor_link_id=413318|Shift=564|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=569
+
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p2-s3
+# text = Эта поддержка сохраняется, несмотря на свою чудовищную гуманитарную цену: более 1, 5 миллиона внутренних беженцев.
+1	Эта	_	_	_	_	_	_	_	RuCor_chain_id=101|RuCor_group_id=413327|Shift=571
+2	поддержка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=101|RuCor_group_id=413327|RuCor_link_id=0|Shift=575
+3	сохраняется	_	_	_	_	_	_	_	Shift=585|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=596
+5	несмотря	_	_	_	_	_	_	_	Shift=598
+6	на	_	_	_	_	_	_	_	Shift=607
+7	свою	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=101|RuCor_group_id=413328|RuCor_link_id=413327|Shift=610
+8	чудовищную	_	_	_	_	_	_	_	Shift=615
+9	гуманитарную	_	_	_	_	_	_	_	Shift=626
+10	цену	_	_	_	_	_	_	_	Shift=639|SpaceAfter=No
+11	:	_	_	_	_	_	_	_	Shift=643
+12	более	_	_	_	_	_	_	_	Shift=645
+13	1	_	_	_	_	_	_	_	Shift=651|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=652
+15	5	_	_	_	_	_	_	_	Shift=653
+16	миллиона	_	_	_	_	_	_	_	Shift=655
+17	внутренних	_	_	_	_	_	_	_	Shift=664
+18	беженцев	_	_	_	_	_	_	_	Shift=675|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=683
+
+# newpar id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p3
+# par_text = Этому раунду борьбы предшествовало спокойствие тех времен, когда правительство стремилось прекратить военные действия в племенных областях Пакистана путем переговоров с лидером Талибана Суфи Мохаммедом. Достигнутое соглашение привело к установлению в регионе определенной версии закона шариата в обмен на обязательство со стороны боевиков сложить оружие, и оно было одобрено относительно либеральной Национальной партией Авами (ANP), правящей в Северо-западной приграничной провинции (СЗПП), где расположен Сват.
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p3-s1
+# text = Этому раунду борьбы предшествовало спокойствие тех времен, когда правительство стремилось прекратить военные действия в племенных областях Пакистана путем переговоров с лидером Талибана Суфи Мохаммедом.
+1	Этому	_	_	_	_	_	_	_	Shift=685
+2	раунду	_	_	_	_	_	_	_	Shift=691
+3	борьбы	_	_	_	_	_	_	_	Shift=698
+4	предшествовало	_	_	_	_	_	_	_	Shift=705
+5	спокойствие	_	_	_	_	_	_	_	Shift=720
+6	тех	_	_	_	_	_	_	_	Shift=732
+7	времен	_	_	_	_	_	_	_	Shift=736|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=742
+9	когда	_	_	_	_	_	_	_	Shift=744
+10	правительство	_	_	_	_	_	_	_	Shift=750
+11	стремилось	_	_	_	_	_	_	_	Shift=764
+12	прекратить	_	_	_	_	_	_	_	Shift=775
+13	военные	_	_	_	_	_	_	_	Shift=786
+14	действия	_	_	_	_	_	_	_	Shift=794
+15	в	_	_	_	_	_	_	_	Shift=803
+16	племенных	_	_	_	_	_	_	_	Shift=805
+17	областях	_	_	_	_	_	_	_	Shift=815
+18	Пакистана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=105|RuCor_group_id=413329|RuCor_link_id=413325|Shift=824
+19	путем	_	_	_	_	_	_	_	Shift=834
+20	переговоров	_	_	_	_	_	_	_	Shift=840
+21	с	_	_	_	_	_	_	_	Shift=852
+22	лидером	_	_	_	_	_	_	_	RuCor_chain_id=95|RuCor_group_id=413346|Shift=854
+23	Талибана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=103|RuCor_group_id=413330|RuCor_link_id=413321|Shift=862
+24	Суфи	_	_	_	_	_	_	_	RuCor_chain_id=95|RuCor_group_id=413346|Shift=871
+25	Мохаммедом	_	_	_	_	_	_	_	RuCor_chain_id=95|RuCor_group_id=413346|Shift=876|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=886
+
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p3-s2
+# text = Достигнутое соглашение привело к установлению в регионе определенной версии закона шариата в обмен на обязательство со стороны боевиков сложить оружие, и оно было одобрено относительно либеральной Национальной партией Авами (ANP), правящей в Северо-западной приграничной провинции (СЗПП), где расположен Сват.
+1	Достигнутое	_	_	_	_	_	_	_	RuCor_chain_id=100|RuCor_group_id=413331|Shift=888
+2	соглашение	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=100|RuCor_group_id=413331|RuCor_link_id=0|Shift=900
+3	привело	_	_	_	_	_	_	_	Shift=911
+4	к	_	_	_	_	_	_	_	Shift=919
+5	установлению	_	_	_	_	_	_	_	Shift=921
+6	в	_	_	_	_	_	_	_	Shift=934
+7	регионе	_	_	_	_	_	_	_	Shift=936
+8	определенной	_	_	_	_	_	_	_	Shift=944
+9	версии	_	_	_	_	_	_	_	Shift=957
+10	закона	_	_	_	_	_	_	_	Shift=964
+11	шариата	_	_	_	_	_	_	_	Shift=971
+12	в	_	_	_	_	_	_	_	Shift=979
+13	обмен	_	_	_	_	_	_	_	Shift=981
+14	на	_	_	_	_	_	_	_	Shift=987
+15	обязательство	_	_	_	_	_	_	_	Shift=990
+16	со	_	_	_	_	_	_	_	Shift=1004
+17	стороны	_	_	_	_	_	_	_	Shift=1007
+18	боевиков	_	_	_	_	_	_	_	Shift=1015
+19	сложить	_	_	_	_	_	_	_	Shift=1024
+20	оружие	_	_	_	_	_	_	_	Shift=1032|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=1038
+22	и	_	_	_	_	_	_	_	Shift=1040
+23	оно	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=100|RuCor_group_id=413332|RuCor_link_id=413331|Shift=1042
+24	было	_	_	_	_	_	_	_	Shift=1046
+25	одобрено	_	_	_	_	_	_	_	Shift=1051
+26	относительно	_	_	_	_	_	_	_	RuCor_chain_id=99|RuCor_group_id=413333|Shift=1060
+27	либеральной	_	_	_	_	_	_	_	RuCor_chain_id=99|RuCor_group_id=413333|Shift=1073
+28	Национальной	_	_	_	_	_	_	_	RuCor_chain_id=99|RuCor_group_id=413333|Shift=1085
+29	партией	_	_	_	_	_	_	_	RuCor_chain_id=99|RuCor_group_id=413333|Shift=1098
+30	Авами	_	_	_	_	_	_	_	RuCor_chain_id=99|RuCor_group_id=413333|Shift=1106
+31	(	_	_	_	_	_	_	_	Shift=1112|SpaceAfter=No
+32	ANP	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=appo|RuCor_attrs_type=coref|RuCor_chain_id=99|RuCor_group_id=413334|RuCor_link_id=413333|Shift=1113|SpaceAfter=No
+33	)	_	_	_	_	_	_	_	Shift=1116|SpaceAfter=No
+34	,	_	_	_	_	_	_	_	Shift=1117
+35	правящей	_	_	_	_	_	_	_	Shift=1119
+36	в	_	_	_	_	_	_	_	Shift=1128
+37	Северо-западной	_	_	_	_	_	_	_	Shift=1130
+38	приграничной	_	_	_	_	_	_	_	RuCor_chain_id=98|RuCor_group_id=413335|Shift=1146
+39	провинции	_	_	_	_	_	_	_	RuCor_chain_id=98|RuCor_group_id=413335|Shift=1159
+40	(	_	_	_	_	_	_	_	Shift=1169|SpaceAfter=No
+41	СЗПП	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=98|RuCor_group_id=413336|RuCor_link_id=413335|Shift=1170|SpaceAfter=No
+42	)	_	_	_	_	_	_	_	Shift=1174|SpaceAfter=No
+43	,	_	_	_	_	_	_	_	Shift=1175
+44	где	_	_	_	_	_	_	_	Shift=1177
+45	расположен	_	_	_	_	_	_	_	Shift=1181
+46	Сват	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=97|RuCor_group_id=413338|RuCor_link_id=413337|Shift=1192|SpaceAfter=No
+47	.	_	_	_	_	_	_	_	Shift=1196
+
+# newpar id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p4
+# par_text = Однако сдержанные гарантии Талибана были отвергнуты после двух инцидентов, которые продемонстрировали его истинное лицо. Во-первых, частные новостные каналы показали на всю страну снятый на сотовый телефон видеоролик с общественным телесным наказанием 17-летней девочки из Свата. Общественность смогла увидеть, что в действительности означает правосудие Талибана.
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p4-s1
+# text = Однако сдержанные гарантии Талибана были отвергнуты после двух инцидентов, которые продемонстрировали его истинное лицо.
+1	Однако	_	_	_	_	_	_	_	Shift=1198
+2	сдержанные	_	_	_	_	_	_	_	Shift=1205
+3	гарантии	_	_	_	_	_	_	_	Shift=1216
+4	Талибана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=103|RuCor_group_id=413339|RuCor_link_id=413330|Shift=1225
+5	были	_	_	_	_	_	_	_	Shift=1234
+6	отвергнуты	_	_	_	_	_	_	_	Shift=1239
+7	после	_	_	_	_	_	_	_	Shift=1250
+8	двух	_	_	_	_	_	_	_	RuCor_chain_id=96|RuCor_group_id=413340|Shift=1256
+9	инцидентов	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=96|RuCor_group_id=413340|RuCor_link_id=0|Shift=1261|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=1271
+11	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=96|RuCor_group_id=413341|RuCor_link_id=413340|Shift=1273
+12	продемонстрировали	_	_	_	_	_	_	_	Shift=1281
+13	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=103|RuCor_group_id=413342|RuCor_link_id=413339|Shift=1300
+14	истинное	_	_	_	_	_	_	_	Shift=1304
+15	лицо	_	_	_	_	_	_	_	Shift=1313|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=1317
+
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p4-s2
+# text = Во-первых, частные новостные каналы показали на всю страну снятый на сотовый телефон видеоролик с общественным телесным наказанием 17-летней девочки из Свата.
+1	Во-первых	_	_	_	_	_	_	_	Shift=1319|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=1328
+3	частные	_	_	_	_	_	_	_	Shift=1330
+4	новостные	_	_	_	_	_	_	_	Shift=1338
+5	каналы	_	_	_	_	_	_	_	Shift=1348
+6	показали	_	_	_	_	_	_	_	Shift=1355
+7	на	_	_	_	_	_	_	_	Shift=1364
+8	всю	_	_	_	_	_	_	_	RuCor_chain_id=105|RuCor_group_id=413343|Shift=1367
+9	страну	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=105|RuCor_group_id=413343|RuCor_link_id=413329|Shift=1371
+10	снятый	_	_	_	_	_	_	_	Shift=1378
+11	на	_	_	_	_	_	_	_	Shift=1385
+12	сотовый	_	_	_	_	_	_	_	Shift=1388
+13	телефон	_	_	_	_	_	_	_	Shift=1396
+14	видеоролик	_	_	_	_	_	_	_	Shift=1404
+15	с	_	_	_	_	_	_	_	Shift=1415
+16	общественным	_	_	_	_	_	_	_	Shift=1417
+17	телесным	_	_	_	_	_	_	_	Shift=1430
+18	наказанием	_	_	_	_	_	_	_	Shift=1439
+19	17-летней	_	_	_	_	_	_	_	Shift=1450
+20	девочки	_	_	_	_	_	_	_	Shift=1460
+21	из	_	_	_	_	_	_	_	Shift=1468
+22	Свата	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=97|RuCor_group_id=413344|RuCor_link_id=413338|Shift=1471|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=1476
+
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p4-s3
+# text = Общественность смогла увидеть, что в действительности означает правосудие Талибана.
+1	Общественность	_	_	_	_	_	_	_	Shift=1478
+2	смогла	_	_	_	_	_	_	_	Shift=1493
+3	увидеть	_	_	_	_	_	_	_	Shift=1500|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1507
+5	что	_	_	_	_	_	_	_	Shift=1509
+6	в	_	_	_	_	_	_	_	Shift=1513
+7	действительности	_	_	_	_	_	_	_	Shift=1515
+8	означает	_	_	_	_	_	_	_	Shift=1532
+9	правосудие	_	_	_	_	_	_	_	Shift=1541
+10	Талибана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=103|RuCor_group_id=413345|RuCor_link_id=413342|Shift=1552|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=1560
+
+# newpar id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p5
+# par_text = Затем Мохаммед дал интервью телеканалу GEO TV, в котором он объяснил свои политические взгляды. Согласно Мохаммеду, демократия является чем-то неисламским, как и конституция и судебная власть Пакистана, к тому же ислам запрещает женщинам получать образование или покидать свои дома, кроме как для выполнения Хаджа в Мекку.
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p5-s1
+# text = Затем Мохаммед дал интервью телеканалу GEO TV, в котором он объяснил свои политические взгляды.
+1	Затем	_	_	_	_	_	_	_	Shift=1562
+2	Мохаммед	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=95|RuCor_group_id=413347|RuCor_link_id=413346|Shift=1568
+3	дал	_	_	_	_	_	_	_	Shift=1577
+4	интервью	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=94|RuCor_group_id=413348|RuCor_link_id=0|Shift=1581
+5	телеканалу	_	_	_	_	_	_	_	Shift=1590
+6	GEO	_	_	_	_	_	_	_	Shift=1601
+7	TV	_	_	_	_	_	_	_	Shift=1605|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1607
+9	в	_	_	_	_	_	_	_	Shift=1609
+10	котором	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=94|RuCor_group_id=413349|RuCor_link_id=413348|Shift=1611
+11	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=95|RuCor_group_id=413350|RuCor_link_id=413347|Shift=1619
+12	объяснил	_	_	_	_	_	_	_	Shift=1622
+13	свои	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=95|RuCor_group_id=413351|RuCor_link_id=413350|Shift=1631
+14	политические	_	_	_	_	_	_	_	Shift=1636
+15	взгляды	_	_	_	_	_	_	_	Shift=1649|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=1656
+
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p5-s2
+# text = Согласно Мохаммеду, демократия является чем-то неисламским, как и конституция и судебная власть Пакистана, к тому же ислам запрещает женщинам получать образование или покидать свои дома, кроме как для выполнения Хаджа в Мекку.
+1	Согласно	_	_	_	_	_	_	_	Shift=1658
+2	Мохаммеду	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=95|RuCor_group_id=413352|RuCor_link_id=413351|Shift=1667|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1676
+4	демократия	_	_	_	_	_	_	_	Shift=1678
+5	является	_	_	_	_	_	_	_	Shift=1689
+6	чем-то	_	_	_	_	_	_	_	Shift=1698
+7	неисламским	_	_	_	_	_	_	_	Shift=1705|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1716
+9	как	_	_	_	_	_	_	_	Shift=1718
+10	и	_	_	_	_	_	_	_	Shift=1722
+11	конституция	_	_	_	_	_	_	_	Shift=1724
+12	и	_	_	_	_	_	_	_	Shift=1736
+13	судебная	_	_	_	_	_	_	_	Shift=1738
+14	власть	_	_	_	_	_	_	_	Shift=1747
+15	Пакистана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=105|RuCor_group_id=413353|RuCor_link_id=413343|Shift=1754|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=1763
+17	к	_	_	_	_	_	_	_	Shift=1765
+18	тому	_	_	_	_	_	_	_	Shift=1767
+19	же	_	_	_	_	_	_	_	Shift=1772
+20	ислам	_	_	_	_	_	_	_	Shift=1775
+21	запрещает	_	_	_	_	_	_	_	Shift=1781
+22	женщинам	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=93|RuCor_group_id=413354|RuCor_link_id=0|Shift=1791
+23	получать	_	_	_	_	_	_	_	Shift=1800
+24	образование	_	_	_	_	_	_	_	Shift=1809
+25	или	_	_	_	_	_	_	_	Shift=1821
+26	покидать	_	_	_	_	_	_	_	Shift=1825
+27	свои	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=93|RuCor_group_id=413355|RuCor_link_id=413354|Shift=1834
+28	дома	_	_	_	_	_	_	_	Shift=1839|SpaceAfter=No
+29	,	_	_	_	_	_	_	_	Shift=1843
+30	кроме	_	_	_	_	_	_	_	Shift=1845
+31	как	_	_	_	_	_	_	_	Shift=1851
+32	для	_	_	_	_	_	_	_	Shift=1855
+33	выполнения	_	_	_	_	_	_	_	Shift=1859
+34	Хаджа	_	_	_	_	_	_	_	Shift=1870
+35	в	_	_	_	_	_	_	_	Shift=1876
+36	Мекку	_	_	_	_	_	_	_	Shift=1878|SpaceAfter=No
+37	.	_	_	_	_	_	_	_	Shift=1883
+
+# newpar id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p6
+# par_text = Религиозные консерваторы были ошеломлены. Лидеры религиозных партий моментально стали осуждать взгляды Мохаммеда. Пакистанские СМИ напомнили всем известное высказывание Мохаммеда Икбаля, поэта-философа, который придумал идею независимого мусульманского государства в Пакистане. «Религия муллы», - сказал он, - «является анархией от имени Аллаха».
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p6-s1
+# text = Религиозные консерваторы были ошеломлены.
+1	Религиозные	_	_	_	_	_	_	_	Shift=1885
+2	консерваторы	_	_	_	_	_	_	_	Shift=1897
+3	были	_	_	_	_	_	_	_	Shift=1910
+4	ошеломлены	_	_	_	_	_	_	_	Shift=1915|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=1925
+
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p6-s2
+# text = Лидеры религиозных партий моментально стали осуждать взгляды Мохаммеда.
+1	Лидеры	_	_	_	_	_	_	_	Shift=1927
+2	религиозных	_	_	_	_	_	_	_	Shift=1934
+3	партий	_	_	_	_	_	_	_	Shift=1946
+4	моментально	_	_	_	_	_	_	_	Shift=1953
+5	стали	_	_	_	_	_	_	_	Shift=1965
+6	осуждать	_	_	_	_	_	_	_	Shift=1971
+7	взгляды	_	_	_	_	_	_	_	Shift=1980
+8	Мохаммеда	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=95|RuCor_group_id=413356|RuCor_link_id=413352|Shift=1988|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=1997
+
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p6-s3
+# text = Пакистанские СМИ напомнили всем известное высказывание Мохаммеда Икбаля, поэта - философа, который придумал идею независимого мусульманского государства в Пакистане.
+1	Пакистанские	_	_	_	_	_	_	_	Shift=1999
+2	СМИ	_	_	_	_	_	_	_	Shift=2012
+3	напомнили	_	_	_	_	_	_	_	Shift=2016
+4	всем	_	_	_	_	_	_	_	Shift=2026
+5	известное	_	_	_	_	_	_	_	Shift=2031
+6	высказывание	_	_	_	_	_	_	_	Shift=2041
+7	Мохаммеда	_	_	_	_	_	_	_	RuCor_chain_id=92|RuCor_group_id=413357|Shift=2054
+8	Икбаля	_	_	_	_	_	_	_	RuCor_chain_id=92|RuCor_group_id=413357|Shift=2064|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=2070
+10	поэта	_	_	_	_	_	_	_	RuCor_chain_id=92|RuCor_group_id=413358|Shift=2072
+11	-	_	_	_	_	_	_	_	RuCor_chain_id=92|RuCor_group_id=413358|Shift=2077
+12	философа	_	_	_	_	_	_	_	RuCor_chain_id=92|RuCor_group_id=413358|Shift=2078|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=2086
+14	который	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=92|RuCor_group_id=413359|RuCor_link_id=413358|Shift=2088
+15	придумал	_	_	_	_	_	_	_	Shift=2096
+16	идею	_	_	_	_	_	_	_	Shift=2105
+17	независимого	_	_	_	_	_	_	_	Shift=2110
+18	мусульманского	_	_	_	_	_	_	_	Shift=2123
+19	государства	_	_	_	_	_	_	_	Shift=2138
+20	в	_	_	_	_	_	_	_	Shift=2150
+21	Пакистане	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=105|RuCor_group_id=413360|RuCor_link_id=413353|Shift=2152|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=2161
+
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p6-s4
+# text = ``Религия муллы'', - сказал он, - ``является анархией от имени Аллаха''.
+1	``	_	_	_	_	_	_	_	Shift=2163|SpaceAfter=No
+2	Религия	_	_	_	_	_	_	_	Shift=2164
+3	муллы	_	_	_	_	_	_	_	Shift=2172|SpaceAfter=No
+4	''	_	_	_	_	_	_	_	Shift=2177|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=2178
+6	-	_	_	_	_	_	_	_	Shift=2180
+7	сказал	_	_	_	_	_	_	_	Shift=2182
+8	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=92|RuCor_group_id=413361|RuCor_link_id=413359|Shift=2189|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=2191
+10	-	_	_	_	_	_	_	_	Shift=2193
+11	``	_	_	_	_	_	_	_	Shift=2195|SpaceAfter=No
+12	является	_	_	_	_	_	_	_	Shift=2196
+13	анархией	_	_	_	_	_	_	_	Shift=2205
+14	от	_	_	_	_	_	_	_	Shift=2214
+15	имени	_	_	_	_	_	_	_	Shift=2217
+16	Аллаха	_	_	_	_	_	_	_	Shift=2223|SpaceAfter=No
+17	''	_	_	_	_	_	_	_	Shift=2229|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=2230
+
+# newpar id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p7
+# par_text = Тем не менее, дело не может считаться завершенным, пока оно не завершилось - и в ближайшей перспективе многое зависит от способности государства удержать власть в области Сват и восстановить там гражданские институты. Хотя даже в том случае, если государству удастся добиться успеха, восстановив контроль над Сватом, это будет лишь первым шагом. Талибан распространен по всей СЗПП и Зоне Племен. Бойцы «Панджабского Талибана», ведущие в Кашмире борьбу против Индии, продолжают курсировать между центром Пенджаба и Северо-Западными территориями, представляя собой еще одну серьезную проблему правительственной власти.
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p7-s1
+# text = Тем не менее, дело не может считаться завершенным, пока оно не завершилось - и в ближайшей перспективе многое зависит от способности государства удержать власть в области Сват и восстановить там гражданские институты.
+1	Тем	_	_	_	_	_	_	_	Shift=2232
+2	не	_	_	_	_	_	_	_	Shift=2236
+3	менее	_	_	_	_	_	_	_	Shift=2239|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2244
+5	дело	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=91|RuCor_group_id=413362|RuCor_link_id=0|Shift=2246
+6	не	_	_	_	_	_	_	_	Shift=2251
+7	может	_	_	_	_	_	_	_	Shift=2254
+8	считаться	_	_	_	_	_	_	_	Shift=2260
+9	завершенным	_	_	_	_	_	_	_	Shift=2270|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=2281
+11	пока	_	_	_	_	_	_	_	Shift=2283
+12	оно	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=91|RuCor_group_id=413363|RuCor_link_id=413362|Shift=2288
+13	не	_	_	_	_	_	_	_	Shift=2292
+14	завершилось	_	_	_	_	_	_	_	Shift=2295
+15	-	_	_	_	_	_	_	_	Shift=2307
+16	и	_	_	_	_	_	_	_	Shift=2309
+17	в	_	_	_	_	_	_	_	Shift=2311
+18	ближайшей	_	_	_	_	_	_	_	Shift=2313
+19	перспективе	_	_	_	_	_	_	_	Shift=2323
+20	многое	_	_	_	_	_	_	_	Shift=2335
+21	зависит	_	_	_	_	_	_	_	Shift=2342
+22	от	_	_	_	_	_	_	_	Shift=2350
+23	способности	_	_	_	_	_	_	_	Shift=2353
+24	государства	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=105|RuCor_group_id=413364|RuCor_link_id=413360|Shift=2365
+25	удержать	_	_	_	_	_	_	_	Shift=2377
+26	власть	_	_	_	_	_	_	_	Shift=2386
+27	в	_	_	_	_	_	_	_	Shift=2393
+28	области	_	_	_	_	_	_	_	RuCor_chain_id=97|RuCor_group_id=413365|Shift=2395
+29	Сват	_	_	_	_	_	_	_	RuCor_chain_id=97|RuCor_group_id=413365|Shift=2403
+30	и	_	_	_	_	_	_	_	Shift=2408
+31	восстановить	_	_	_	_	_	_	_	Shift=2410
+32	там	_	_	_	_	_	_	_	Shift=2423
+33	гражданские	_	_	_	_	_	_	_	Shift=2427
+34	институты	_	_	_	_	_	_	_	Shift=2439|SpaceAfter=No
+35	.	_	_	_	_	_	_	_	Shift=2448
+
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p7-s2
+# text = Хотя даже в том случае, если государству удастся добиться успеха, восстановив контроль над Сватом, это будет лишь первым шагом.
+1	Хотя	_	_	_	_	_	_	_	Shift=2450
+2	даже	_	_	_	_	_	_	_	Shift=2455
+3	в	_	_	_	_	_	_	_	Shift=2460
+4	том	_	_	_	_	_	_	_	Shift=2462
+5	случае	_	_	_	_	_	_	_	Shift=2466|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=2472
+7	если	_	_	_	_	_	_	_	Shift=2474
+8	государству	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=105|RuCor_group_id=413366|RuCor_link_id=413364|Shift=2479
+9	удастся	_	_	_	_	_	_	_	Shift=2491
+10	добиться	_	_	_	_	_	_	_	Shift=2499
+11	успеха	_	_	_	_	_	_	_	Shift=2508|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=2514
+13	восстановив	_	_	_	_	_	_	_	Shift=2516
+14	контроль	_	_	_	_	_	_	_	Shift=2528
+15	над	_	_	_	_	_	_	_	Shift=2537
+16	Сватом	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=97|RuCor_group_id=413367|RuCor_link_id=413365|Shift=2541|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=2547
+18	это	_	_	_	_	_	_	_	Shift=2549
+19	будет	_	_	_	_	_	_	_	Shift=2553
+20	лишь	_	_	_	_	_	_	_	Shift=2559
+21	первым	_	_	_	_	_	_	_	Shift=2564
+22	шагом	_	_	_	_	_	_	_	Shift=2571|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=2576
+
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p7-s3
+# text = Талибан распространен по всей СЗПП и Зоне Племен.
+1	Талибан	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=103|RuCor_group_id=413368|RuCor_link_id=413345|Shift=2578
+2	распространен	_	_	_	_	_	_	_	Shift=2586
+3	по	_	_	_	_	_	_	_	Shift=2600
+4	всей	_	_	_	_	_	_	_	Shift=2603
+5	СЗПП	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=98|RuCor_group_id=413369|RuCor_link_id=413336|Shift=2608
+6	и	_	_	_	_	_	_	_	Shift=2613
+7	Зоне	_	_	_	_	_	_	_	Shift=2615
+8	Племен	_	_	_	_	_	_	_	Shift=2620|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=2626
+
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p7-s4
+# text = Бойцы ``Панджабского Талибана'', ведущие в Кашмире борьбу против Индии, продолжают курсировать между центром Пенджаба и Северо-Западными территориями, представляя собой еще одну серьезную проблему правительственной власти.
+1	Бойцы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=90|RuCor_group_id=413370|RuCor_link_id=0|Shift=2628
+2	``	_	_	_	_	_	_	_	RuCor_chain_id=90|RuCor_group_id=413370|Shift=2634|SpaceAfter=No
+3	Панджабского	_	_	_	_	_	_	_	RuCor_chain_id=90|RuCor_group_id=413370|Shift=2635
+4	Талибана	_	_	_	_	_	_	_	RuCor_chain_id=90|RuCor_group_id=413370|Shift=2648|SpaceAfter=No
+5	''	_	_	_	_	_	_	_	RuCor_chain_id=90|RuCor_group_id=413370|Shift=2656|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=2657
+7	ведущие	_	_	_	_	_	_	_	Shift=2659
+8	в	_	_	_	_	_	_	_	Shift=2667
+9	Кашмире	_	_	_	_	_	_	_	Shift=2669
+10	борьбу	_	_	_	_	_	_	_	Shift=2677
+11	против	_	_	_	_	_	_	_	Shift=2684
+12	Индии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=87|RuCor_group_id=413385|RuCor_link_id=0|Shift=2691|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=2696
+14	продолжают	_	_	_	_	_	_	_	Shift=2698
+15	курсировать	_	_	_	_	_	_	_	Shift=2709
+16	между	_	_	_	_	_	_	_	Shift=2721
+17	центром	_	_	_	_	_	_	_	Shift=2727
+18	Пенджаба	_	_	_	_	_	_	_	Shift=2735
+19	и	_	_	_	_	_	_	_	Shift=2744
+20	Северо-Западными	_	_	_	_	_	_	_	Shift=2746
+21	территориями	_	_	_	_	_	_	_	Shift=2763|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=2775
+23	представляя	_	_	_	_	_	_	_	Shift=2777
+24	собой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=90|RuCor_group_id=413371|RuCor_link_id=413370|Shift=2789
+25	еще	_	_	_	_	_	_	_	Shift=2795
+26	одну	_	_	_	_	_	_	_	Shift=2799
+27	серьезную	_	_	_	_	_	_	_	Shift=2804
+28	проблему	_	_	_	_	_	_	_	Shift=2814
+29	правительственной	_	_	_	_	_	_	_	RuCor_chain_id=105|RuCor_group_id=413372|Shift=2823
+30	власти	_	_	_	_	_	_	_	RuCor_attrs_ref=meton|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=105|RuCor_group_id=413372|RuCor_link_id=413366|Shift=2841|SpaceAfter=No
+31	.	_	_	_	_	_	_	_	Shift=2847
+
+# newpar id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p8
+# par_text = Однако в долгосрочном периоде наиболее важное значение имеет вопрос - смогут ли мусульмане Южной Азии сократить общее распространение «талибанизации»? Ответ на этот вопрос зависит от различных мусульманских сообществ региона, а не только от самого Пакистана.
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p8-s1
+# text = Однако в долгосрочном периоде наиболее важное значение имеет вопрос - смогут ли мусульмане Южной Азии сократить общее распространение ``талибанизации''?
+1	Однако	_	_	_	_	_	_	_	Shift=2849
+2	в	_	_	_	_	_	_	_	Shift=2856
+3	долгосрочном	_	_	_	_	_	_	_	Shift=2858
+4	периоде	_	_	_	_	_	_	_	Shift=2871
+5	наиболее	_	_	_	_	_	_	_	Shift=2879
+6	важное	_	_	_	_	_	_	_	Shift=2888
+7	значение	_	_	_	_	_	_	_	Shift=2895
+8	имеет	_	_	_	_	_	_	_	Shift=2904
+9	вопрос	_	_	_	_	_	_	_	Shift=2910
+10	-	_	_	_	_	_	_	_	Shift=2917
+11	смогут	_	_	_	_	_	_	_	Shift=2919
+12	ли	_	_	_	_	_	_	_	Shift=2926
+13	мусульмане	_	_	_	_	_	_	_	Shift=2929
+14	Южной	_	_	_	_	_	_	_	RuCor_chain_id=89|RuCor_group_id=413373|Shift=2940
+15	Азии	_	_	_	_	_	_	_	RuCor_chain_id=89|RuCor_group_id=413373|Shift=2946
+16	сократить	_	_	_	_	_	_	_	Shift=2951
+17	общее	_	_	_	_	_	_	_	Shift=2961
+18	распространение	_	_	_	_	_	_	_	Shift=2967
+19	``	_	_	_	_	_	_	_	Shift=2983|SpaceAfter=No
+20	талибанизации	_	_	_	_	_	_	_	Shift=2984|SpaceAfter=No
+21	''	_	_	_	_	_	_	_	Shift=2997|SpaceAfter=No
+22	?	_	_	_	_	_	_	_	Shift=2998
+
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p8-s2
+# text = Ответ на этот вопрос зависит от различных мусульманских сообществ региона, а не только от самого Пакистана.
+1	Ответ	_	_	_	_	_	_	_	Shift=3000
+2	на	_	_	_	_	_	_	_	Shift=3006
+3	этот	_	_	_	_	_	_	_	Shift=3009
+4	вопрос	_	_	_	_	_	_	_	Shift=3014
+5	зависит	_	_	_	_	_	_	_	Shift=3021
+6	от	_	_	_	_	_	_	_	Shift=3029
+7	различных	_	_	_	_	_	_	_	Shift=3032
+8	мусульманских	_	_	_	_	_	_	_	Shift=3042
+9	сообществ	_	_	_	_	_	_	_	Shift=3056
+10	региона	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=89|RuCor_group_id=413374|RuCor_link_id=413373|Shift=3066|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=3073
+12	а	_	_	_	_	_	_	_	Shift=3075
+13	не	_	_	_	_	_	_	_	Shift=3077
+14	только	_	_	_	_	_	_	_	Shift=3080
+15	от	_	_	_	_	_	_	_	Shift=3087
+16	самого	_	_	_	_	_	_	_	Shift=3090
+17	Пакистана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=105|RuCor_group_id=413375|RuCor_link_id=413372|Shift=3097|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=3106
+
+# newpar id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p9
+# par_text = В этом году выборы состоятся в Афганистане. Свободное и прозрачное голосование будет иметь особое значение в формировании доверия к афганскому правительству. В Пакистане переход к демократии после долгих лет военного режима все еще не осуществлен полностью. Тем не менее, огромная надежда слышится в резонансе пакистанских СМИ, а так же в энергии, с которой правовое сообщество в прошлом марте восстановило в должности Верховного судью Ифтихара Мохаммеда Чоудри.
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p9-s1
+# text = В этом году выборы состоятся в Афганистане.
+1	В	_	_	_	_	_	_	_	Shift=3108
+2	этом	_	_	_	_	_	_	_	Shift=3110
+3	году	_	_	_	_	_	_	_	Shift=3115
+4	выборы	_	_	_	_	_	_	_	Shift=3120
+5	состоятся	_	_	_	_	_	_	_	Shift=3127
+6	в	_	_	_	_	_	_	_	Shift=3137
+7	Афганистане	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=86|RuCor_group_id=413387|RuCor_link_id=0|Shift=3139|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=3150
+
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p9-s2
+# text = Свободное и прозрачное голосование будет иметь особое значение в формировании доверия к афганскому правительству.
+1	Свободное	_	_	_	_	_	_	_	Shift=3152
+2	и	_	_	_	_	_	_	_	Shift=3162
+3	прозрачное	_	_	_	_	_	_	_	Shift=3164
+4	голосование	_	_	_	_	_	_	_	Shift=3175
+5	будет	_	_	_	_	_	_	_	Shift=3187
+6	иметь	_	_	_	_	_	_	_	Shift=3193
+7	особое	_	_	_	_	_	_	_	Shift=3199
+8	значение	_	_	_	_	_	_	_	Shift=3206
+9	в	_	_	_	_	_	_	_	Shift=3215
+10	формировании	_	_	_	_	_	_	_	Shift=3217
+11	доверия	_	_	_	_	_	_	_	Shift=3230
+12	к	_	_	_	_	_	_	_	Shift=3238
+13	афганскому	_	_	_	_	_	_	_	Shift=3240
+14	правительству	_	_	_	_	_	_	_	Shift=3251|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=3264
+
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p9-s3
+# text = В Пакистане переход к демократии после долгих лет военного режима все еще не осуществлен полностью.
+1	В	_	_	_	_	_	_	_	Shift=3266
+2	Пакистане	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=105|RuCor_group_id=413376|RuCor_link_id=413375|Shift=3268
+3	переход	_	_	_	_	_	_	_	Shift=3278
+4	к	_	_	_	_	_	_	_	Shift=3286
+5	демократии	_	_	_	_	_	_	_	Shift=3288
+6	после	_	_	_	_	_	_	_	Shift=3299
+7	долгих	_	_	_	_	_	_	_	Shift=3305
+8	лет	_	_	_	_	_	_	_	Shift=3312
+9	военного	_	_	_	_	_	_	_	Shift=3316
+10	режима	_	_	_	_	_	_	_	Shift=3325
+11	все	_	_	_	_	_	_	_	Shift=3332
+12	еще	_	_	_	_	_	_	_	Shift=3336
+13	не	_	_	_	_	_	_	_	Shift=3340
+14	осуществлен	_	_	_	_	_	_	_	Shift=3343
+15	полностью	_	_	_	_	_	_	_	Shift=3355|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=3364
+
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p9-s4
+# text = Тем не менее, огромная надежда слышится в резонансе пакистанских СМИ, а так же в энергии, с которой правовое сообщество в прошлом марте восстановило в должности Верховного судью Ифтихара Мохаммеда Чоудри.
+1	Тем	_	_	_	_	_	_	_	Shift=3366
+2	не	_	_	_	_	_	_	_	Shift=3370
+3	менее	_	_	_	_	_	_	_	Shift=3373|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=3378
+5	огромная	_	_	_	_	_	_	_	Shift=3380
+6	надежда	_	_	_	_	_	_	_	Shift=3389
+7	слышится	_	_	_	_	_	_	_	Shift=3397
+8	в	_	_	_	_	_	_	_	Shift=3406
+9	резонансе	_	_	_	_	_	_	_	Shift=3408
+10	пакистанских	_	_	_	_	_	_	_	Shift=3418
+11	СМИ	_	_	_	_	_	_	_	Shift=3431|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=3434
+13	а	_	_	_	_	_	_	_	Shift=3436
+14	так	_	_	_	_	_	_	_	Shift=3438
+15	же	_	_	_	_	_	_	_	Shift=3442
+16	в	_	_	_	_	_	_	_	Shift=3445
+17	энергии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=88|RuCor_group_id=413377|RuCor_link_id=0|Shift=3447|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=3454
+19	с	_	_	_	_	_	_	_	Shift=3456
+20	которой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=88|RuCor_group_id=413378|RuCor_link_id=413377|Shift=3458
+21	правовое	_	_	_	_	_	_	_	Shift=3466
+22	сообщество	_	_	_	_	_	_	_	Shift=3475
+23	в	_	_	_	_	_	_	_	Shift=3486
+24	прошлом	_	_	_	_	_	_	_	Shift=3488
+25	марте	_	_	_	_	_	_	_	Shift=3496
+26	восстановило	_	_	_	_	_	_	_	Shift=3502
+27	в	_	_	_	_	_	_	_	Shift=3515
+28	должности	_	_	_	_	_	_	_	Shift=3517
+29	Верховного	_	_	_	_	_	_	_	Shift=3527
+30	судью	_	_	_	_	_	_	_	Shift=3538
+31	Ифтихара	_	_	_	_	_	_	_	Shift=3544
+32	Мохаммеда	_	_	_	_	_	_	_	Shift=3553
+33	Чоудри	_	_	_	_	_	_	_	Shift=3563|SpaceAfter=No
+34	.	_	_	_	_	_	_	_	Shift=3569
+
+# newpar id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p10
+# par_text = Затем, у Пакистана есть армия – «супер-политическая партия» страны. Отношения Пакистана с Индией, Афганистаном и Соединенными Штатами в значительной степени зависят от вооруженных сил. Командующий армией Ашфак Кияни пока не проявил интереса к захвату власти в государстве, как это делал его предшественник генерал Первез Мушарраф. Но армия должна фактически подчиниться политическому лидерству Пакистана. Армейская команда должна, наконец, признать, что постоянные военные вмешательства не принесли стране ничего хорошего.
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p10-s1
+# text = Затем, у Пакистана есть армия - ``супер - политическая партия'' страны.
+1	Затем	_	_	_	_	_	_	_	Shift=3571|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=3576
+3	у	_	_	_	_	_	_	_	Shift=3578
+4	Пакистана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=105|RuCor_group_id=413379|RuCor_link_id=413376|Shift=3580
+5	есть	_	_	_	_	_	_	_	Shift=3590
+6	армия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=104|RuCor_group_id=413380|RuCor_link_id=413326|Shift=3595
+7	-	_	_	_	_	_	_	_	_
+8	``	_	_	_	_	_	_	_	RuCor_chain_id=104|RuCor_group_id=413381|Shift=3603|SpaceAfter=No
+9	супер	_	_	_	_	_	_	_	RuCor_chain_id=104|RuCor_group_id=413381|Shift=3604
+10	-	_	_	_	_	_	_	_	RuCor_chain_id=104|RuCor_group_id=413381|Shift=3609
+11	политическая	_	_	_	_	_	_	_	RuCor_chain_id=104|RuCor_group_id=413381|Shift=3610
+12	партия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=appo|RuCor_attrs_type=coref|RuCor_chain_id=104|RuCor_group_id=413381|RuCor_link_id=413380|Shift=3623|SpaceAfter=No
+13	''	_	_	_	_	_	_	_	RuCor_chain_id=104|RuCor_group_id=413381|Shift=3629
+14	страны	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=105|RuCor_group_id=413382|RuCor_link_id=413379|Shift=3631|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=3637
+
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p10-s2
+# text = Отношения Пакистана с Индией, Афганистаном и Соединенными Штатами в значительной степени зависят от вооруженных сил.
+1	Отношения	_	_	_	_	_	_	_	Shift=3639
+2	Пакистана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=105|RuCor_group_id=413383|RuCor_link_id=413382|Shift=3649
+3	с	_	_	_	_	_	_	_	Shift=3659
+4	Индией	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=87|RuCor_group_id=413384|RuCor_link_id=413385|Shift=3661|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=3667
+6	Афганистаном	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=86|RuCor_group_id=413386|RuCor_link_id=413387|Shift=3669
+7	и	_	_	_	_	_	_	_	Shift=3682
+8	Соединенными	_	_	_	_	_	_	_	RuCor_chain_id=80|RuCor_group_id=413407|Shift=3684
+9	Штатами	_	_	_	_	_	_	_	RuCor_chain_id=80|RuCor_group_id=413407|Shift=3697
+10	в	_	_	_	_	_	_	_	Shift=3705
+11	значительной	_	_	_	_	_	_	_	Shift=3707
+12	степени	_	_	_	_	_	_	_	Shift=3720
+13	зависят	_	_	_	_	_	_	_	Shift=3728
+14	от	_	_	_	_	_	_	_	Shift=3736
+15	вооруженных	_	_	_	_	_	_	_	Shift=3739
+16	сил	_	_	_	_	_	_	_	Shift=3751|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=3754
+
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p10-s3
+# text = Командующий армией Ашфак Кияни пока не проявил интереса к захвату власти в государстве, как это делал его предшественник генерал Первез Мушарраф.
+1	Командующий	_	_	_	_	_	_	_	RuCor_chain_id=85|RuCor_group_id=413390|Shift=3756
+2	армией	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=104|RuCor_group_id=413388|RuCor_link_id=413381|Shift=3768
+3	Ашфак	_	_	_	_	_	_	_	RuCor_chain_id=85|RuCor_group_id=413390|Shift=3775
+4	Кияни	_	_	_	_	_	_	_	RuCor_chain_id=85|RuCor_group_id=413390|Shift=3781
+5	пока	_	_	_	_	_	_	_	Shift=3787
+6	не	_	_	_	_	_	_	_	Shift=3792
+7	проявил	_	_	_	_	_	_	_	Shift=3795
+8	интереса	_	_	_	_	_	_	_	Shift=3803
+9	к	_	_	_	_	_	_	_	Shift=3812
+10	захвату	_	_	_	_	_	_	_	Shift=3814
+11	власти	_	_	_	_	_	_	_	Shift=3822
+12	в	_	_	_	_	_	_	_	Shift=3829
+13	государстве	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=105|RuCor_group_id=413389|RuCor_link_id=413383|Shift=3831|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=3842
+15	как	_	_	_	_	_	_	_	Shift=3844
+16	это	_	_	_	_	_	_	_	Shift=3848
+17	делал	_	_	_	_	_	_	_	Shift=3852
+18	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=85|RuCor_group_id=413391|RuCor_link_id=413390|Shift=3858
+19	предшественник	_	_	_	_	_	_	_	Shift=3862
+20	генерал	_	_	_	_	_	_	_	Shift=3877
+21	Первез	_	_	_	_	_	_	_	Shift=3885
+22	Мушарраф	_	_	_	_	_	_	_	Shift=3892|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=3900
+
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p10-s4
+# text = Но армия должна фактически подчиниться политическому лидерству Пакистана.
+1	Но	_	_	_	_	_	_	_	Shift=3902
+2	армия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=104|RuCor_group_id=413392|RuCor_link_id=413388|Shift=3905
+3	должна	_	_	_	_	_	_	_	Shift=3911
+4	фактически	_	_	_	_	_	_	_	Shift=3918
+5	подчиниться	_	_	_	_	_	_	_	Shift=3929
+6	политическому	_	_	_	_	_	_	_	Shift=3941
+7	лидерству	_	_	_	_	_	_	_	Shift=3955
+8	Пакистана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=105|RuCor_group_id=413393|RuCor_link_id=413389|Shift=3965|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=3974
+
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p10-s5
+# text = Армейская команда должна, наконец, признать, что постоянные военные вмешательства не принесли стране ничего хорошего.
+1	Армейская	_	_	_	_	_	_	_	Shift=3976
+2	команда	_	_	_	_	_	_	_	Shift=3986
+3	должна	_	_	_	_	_	_	_	Shift=3994|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=4000
+5	наконец	_	_	_	_	_	_	_	Shift=4002|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=4009
+7	признать	_	_	_	_	_	_	_	Shift=4011|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=4019
+9	что	_	_	_	_	_	_	_	Shift=4021
+10	постоянные	_	_	_	_	_	_	_	Shift=4025
+11	военные	_	_	_	_	_	_	_	Shift=4036
+12	вмешательства	_	_	_	_	_	_	_	Shift=4044
+13	не	_	_	_	_	_	_	_	Shift=4058
+14	принесли	_	_	_	_	_	_	_	Shift=4061
+15	стране	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=105|RuCor_group_id=413394|RuCor_link_id=413393|Shift=4070
+16	ничего	_	_	_	_	_	_	_	Shift=4077
+17	хорошего	_	_	_	_	_	_	_	Shift=4084|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=4092
+
+# newpar id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p11
+# par_text = Наиболее примечательным является тот факт, что даже перед лицом военного положения и политического убийства пакистанцы не отказались от своей мечты о демократии. Живой пример этому - Афзал Лала, политик-пуштун, относящийся к Национальной партии Авами, который, несмотря на все угрозы со стороны кровожадной пакистанской группы Терик-е-Талибан, оставался в Свате во время недавних сражений.
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p11-s1
+# text = Наиболее примечательным является тот факт, что даже перед лицом военного положения и политического убийства пакистанцы не отказались от своей мечты о демократии.
+1	Наиболее	_	_	_	_	_	_	_	Shift=4094
+2	примечательным	_	_	_	_	_	_	_	Shift=4103
+3	является	_	_	_	_	_	_	_	Shift=4118
+4	тот	_	_	_	_	_	_	_	Shift=4127
+5	факт	_	_	_	_	_	_	_	Shift=4131|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=4135
+7	что	_	_	_	_	_	_	_	Shift=4137
+8	даже	_	_	_	_	_	_	_	Shift=4141
+9	перед	_	_	_	_	_	_	_	Shift=4146
+10	лицом	_	_	_	_	_	_	_	Shift=4152
+11	военного	_	_	_	_	_	_	_	Shift=4158
+12	положения	_	_	_	_	_	_	_	Shift=4167
+13	и	_	_	_	_	_	_	_	Shift=4177
+14	политического	_	_	_	_	_	_	_	Shift=4179
+15	убийства	_	_	_	_	_	_	_	Shift=4193
+16	пакистанцы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=84|RuCor_group_id=413395|RuCor_link_id=0|Shift=4202
+17	не	_	_	_	_	_	_	_	Shift=4213
+18	отказались	_	_	_	_	_	_	_	Shift=4216
+19	от	_	_	_	_	_	_	_	Shift=4227
+20	своей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=84|RuCor_group_id=413396|RuCor_link_id=413395|Shift=4230
+21	мечты	_	_	_	_	_	_	_	Shift=4236
+22	о	_	_	_	_	_	_	_	Shift=4242
+23	демократии	_	_	_	_	_	_	_	Shift=4244|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=4254
+
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p11-s2
+# text = Живой пример этому - Афзал Лала, политик - пуштун, относящийся к Национальной партии Авами, который, несмотря на все угрозы со стороны кровожадной пакистанской группы Терик-е - Талибан, оставался в Свате во время недавних сражений.
+1	Живой	_	_	_	_	_	_	_	Shift=4256
+2	пример	_	_	_	_	_	_	_	Shift=4262
+3	этому	_	_	_	_	_	_	_	Shift=4269
+4	-	_	_	_	_	_	_	_	Shift=4275
+5	Афзал	_	_	_	_	_	_	_	RuCor_chain_id=83|RuCor_group_id=413397|Shift=4277
+6	Лала	_	_	_	_	_	_	_	RuCor_chain_id=83|RuCor_group_id=413397|Shift=4283|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=4287
+8	политик	_	_	_	_	_	_	_	RuCor_chain_id=83|RuCor_group_id=413398|Shift=4289
+9	-	_	_	_	_	_	_	_	RuCor_chain_id=83|RuCor_group_id=413398|Shift=4296
+10	пуштун	_	_	_	_	_	_	_	RuCor_chain_id=83|RuCor_group_id=413398|Shift=4297|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=4303
+12	относящийся	_	_	_	_	_	_	_	Shift=4305
+13	к	_	_	_	_	_	_	_	Shift=4317
+14	Национальной	_	_	_	_	_	_	_	RuCor_chain_id=99|RuCor_group_id=413399|Shift=4319
+15	партии	_	_	_	_	_	_	_	RuCor_chain_id=99|RuCor_group_id=413399|Shift=4332
+16	Авами	_	_	_	_	_	_	_	RuCor_chain_id=99|RuCor_group_id=413399|Shift=4339|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=4344
+18	который	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=83|RuCor_group_id=413400|RuCor_link_id=413398|Shift=4346|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=4353
+20	несмотря	_	_	_	_	_	_	_	Shift=4355
+21	на	_	_	_	_	_	_	_	Shift=4364
+22	все	_	_	_	_	_	_	_	Shift=4367
+23	угрозы	_	_	_	_	_	_	_	Shift=4371
+24	со	_	_	_	_	_	_	_	Shift=4378
+25	стороны	_	_	_	_	_	_	_	Shift=4381
+26	кровожадной	_	_	_	_	_	_	_	Shift=4389
+27	пакистанской	_	_	_	_	_	_	_	Shift=4401
+28	группы	_	_	_	_	_	_	_	Shift=4414
+29	Терик-е	_	_	_	_	_	_	_	Shift=4421
+30	-	_	_	_	_	_	_	_	Shift=4426
+31	Талибан	_	_	_	_	_	_	_	Shift=4429|SpaceAfter=No
+32	,	_	_	_	_	_	_	_	Shift=4436
+33	оставался	_	_	_	_	_	_	_	Shift=4438
+34	в	_	_	_	_	_	_	_	Shift=4448
+35	Свате	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=97|RuCor_group_id=413401|RuCor_link_id=413367|Shift=4450
+36	во	_	_	_	_	_	_	_	Shift=4456
+37	время	_	_	_	_	_	_	_	Shift=4459
+38	недавних	_	_	_	_	_	_	_	Shift=4465
+39	сражений	_	_	_	_	_	_	_	Shift=4474|SpaceAfter=No
+40	.	_	_	_	_	_	_	_	Shift=4482
+
+# newpar id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p12
+# par_text = Демократия будет иметь судьбоносное значение, поскольку она приносит инвестиции в образование, здоровье и экономическое развитие, а это, в свою очередь, приносит пользу обычным избирателям. Талибанизация имеет успех в тех случаях, когда люди теряют веру в то, что современное государство сможет улучшить их жизни.
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p12-s1
+# text = Демократия будет иметь судьбоносное значение, поскольку она приносит инвестиции в образование, здоровье и экономическое развитие, а это, в свою очередь, приносит пользу обычным избирателям.
+1	Демократия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=82|RuCor_group_id=413402|RuCor_link_id=0|Shift=4484
+2	будет	_	_	_	_	_	_	_	Shift=4495
+3	иметь	_	_	_	_	_	_	_	Shift=4501
+4	судьбоносное	_	_	_	_	_	_	_	Shift=4507
+5	значение	_	_	_	_	_	_	_	Shift=4520|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=4528
+7	поскольку	_	_	_	_	_	_	_	Shift=4530
+8	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=82|RuCor_group_id=413403|RuCor_link_id=413402|Shift=4540
+9	приносит	_	_	_	_	_	_	_	Shift=4544
+10	инвестиции	_	_	_	_	_	_	_	Shift=4553
+11	в	_	_	_	_	_	_	_	Shift=4564
+12	образование	_	_	_	_	_	_	_	Shift=4566|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=4577
+14	здоровье	_	_	_	_	_	_	_	Shift=4579
+15	и	_	_	_	_	_	_	_	Shift=4588
+16	экономическое	_	_	_	_	_	_	_	Shift=4590
+17	развитие	_	_	_	_	_	_	_	Shift=4604|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=4612
+19	а	_	_	_	_	_	_	_	Shift=4614
+20	это	_	_	_	_	_	_	_	Shift=4616|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=4619
+22	в	_	_	_	_	_	_	_	Shift=4621
+23	свою	_	_	_	_	_	_	_	Shift=4623
+24	очередь	_	_	_	_	_	_	_	Shift=4628|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=4635
+26	приносит	_	_	_	_	_	_	_	Shift=4637
+27	пользу	_	_	_	_	_	_	_	Shift=4646
+28	обычным	_	_	_	_	_	_	_	Shift=4653
+29	избирателям	_	_	_	_	_	_	_	Shift=4661|SpaceAfter=No
+30	.	_	_	_	_	_	_	_	Shift=4672
+
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p12-s2
+# text = Талибанизация имеет успех в тех случаях, когда люди теряют веру в то, что современное государство сможет улучшить их жизни.
+1	Талибанизация	_	_	_	_	_	_	_	Shift=4674
+2	имеет	_	_	_	_	_	_	_	Shift=4688
+3	успех	_	_	_	_	_	_	_	Shift=4694
+4	в	_	_	_	_	_	_	_	Shift=4700
+5	тех	_	_	_	_	_	_	_	Shift=4702
+6	случаях	_	_	_	_	_	_	_	Shift=4706|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=4713
+8	когда	_	_	_	_	_	_	_	Shift=4715
+9	люди	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=81|RuCor_group_id=413404|RuCor_link_id=0|Shift=4721
+10	теряют	_	_	_	_	_	_	_	Shift=4726
+11	веру	_	_	_	_	_	_	_	Shift=4733
+12	в	_	_	_	_	_	_	_	Shift=4738
+13	то	_	_	_	_	_	_	_	Shift=4740|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=4742
+15	что	_	_	_	_	_	_	_	Shift=4744
+16	современное	_	_	_	_	_	_	_	Shift=4748
+17	государство	_	_	_	_	_	_	_	Shift=4760
+18	сможет	_	_	_	_	_	_	_	Shift=4772
+19	улучшить	_	_	_	_	_	_	_	Shift=4779
+20	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=81|RuCor_group_id=413405|RuCor_link_id=413404|Shift=4788
+21	жизни	_	_	_	_	_	_	_	Shift=4791|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=4796
+
+# newpar id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p13
+# par_text = Несмотря на то, что силам правопорядка необходимо срочное внимание, борьба с терроризмом никогда не была исключительно военным делом. Финансовые обязательства со стороны США и консорциума «друзей Пакистана» (Евросоюз, Китай и Япония) очень важны, но когда дело касается мудрых инвестиций в проекты развития, у Пакистана нет опыта, которым можно было бы гордиться. Эффективный контроль со стороны «доноров» и частного сектора Пакистана будет иметь наиболее важное значение. В обмен на помощь Пакистану должно быть выставлено лишь одно условие: первые полученные деньги должны быть потрачены на восстановление всех разрушенных бомбежкой школ для девочек в Свате. И если потребуется, армия должна начать осуществлять круглосуточную охрану этих школ.
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p13-s1
+# text = Несмотря на то, что силам правопорядка необходимо срочное внимание, борьба с терроризмом никогда не была исключительно военным делом.
+1	Несмотря	_	_	_	_	_	_	_	Shift=4798
+2	на	_	_	_	_	_	_	_	Shift=4807
+3	то	_	_	_	_	_	_	_	Shift=4810|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=4812
+5	что	_	_	_	_	_	_	_	Shift=4814
+6	силам	_	_	_	_	_	_	_	Shift=4818
+7	правопорядка	_	_	_	_	_	_	_	Shift=4824
+8	необходимо	_	_	_	_	_	_	_	Shift=4837
+9	срочное	_	_	_	_	_	_	_	Shift=4848
+10	внимание	_	_	_	_	_	_	_	Shift=4856|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=4864
+12	борьба	_	_	_	_	_	_	_	Shift=4866
+13	с	_	_	_	_	_	_	_	Shift=4873
+14	терроризмом	_	_	_	_	_	_	_	Shift=4875
+15	никогда	_	_	_	_	_	_	_	Shift=4887
+16	не	_	_	_	_	_	_	_	Shift=4895
+17	была	_	_	_	_	_	_	_	Shift=4898
+18	исключительно	_	_	_	_	_	_	_	Shift=4903
+19	военным	_	_	_	_	_	_	_	Shift=4917
+20	делом	_	_	_	_	_	_	_	Shift=4925|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=4930
+
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p13-s2
+# text = Финансовые обязательства со стороны США и консорциума ``друзей Пакистана'' (Евросоюз, Китай и Япония) очень важны, но когда дело касается мудрых инвестиций в проекты развития, у Пакистана нет опыта, которым можно было бы гордиться.
+1	Финансовые	_	_	_	_	_	_	_	Shift=4932
+2	обязательства	_	_	_	_	_	_	_	Shift=4943
+3	со	_	_	_	_	_	_	_	Shift=4957
+4	стороны	_	_	_	_	_	_	_	Shift=4960
+5	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=80|RuCor_group_id=413406|RuCor_link_id=413407|Shift=4968
+6	и	_	_	_	_	_	_	_	Shift=4972
+7	консорциума	_	_	_	_	_	_	_	Shift=4974
+8	``	_	_	_	_	_	_	_	Shift=4986|SpaceAfter=No
+9	друзей	_	_	_	_	_	_	_	Shift=4987
+10	Пакистана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=105|RuCor_group_id=413408|RuCor_link_id=413394|Shift=4994|SpaceAfter=No
+11	''	_	_	_	_	_	_	_	Shift=5003
+12	(	_	_	_	_	_	_	_	Shift=5005|SpaceAfter=No
+13	Евросоюз	_	_	_	_	_	_	_	Shift=5006|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=5014
+15	Китай	_	_	_	_	_	_	_	Shift=5016
+16	и	_	_	_	_	_	_	_	Shift=5022
+17	Япония	_	_	_	_	_	_	_	Shift=5024|SpaceAfter=No
+18	)	_	_	_	_	_	_	_	Shift=5030
+19	очень	_	_	_	_	_	_	_	Shift=5032
+20	важны	_	_	_	_	_	_	_	Shift=5038|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=5043
+22	но	_	_	_	_	_	_	_	Shift=5045
+23	когда	_	_	_	_	_	_	_	Shift=5048
+24	дело	_	_	_	_	_	_	_	Shift=5054
+25	касается	_	_	_	_	_	_	_	Shift=5059
+26	мудрых	_	_	_	_	_	_	_	Shift=5068
+27	инвестиций	_	_	_	_	_	_	_	Shift=5075
+28	в	_	_	_	_	_	_	_	Shift=5086
+29	проекты	_	_	_	_	_	_	_	Shift=5088
+30	развития	_	_	_	_	_	_	_	Shift=5096|SpaceAfter=No
+31	,	_	_	_	_	_	_	_	Shift=5104
+32	у	_	_	_	_	_	_	_	Shift=5106
+33	Пакистана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=105|RuCor_group_id=413409|RuCor_link_id=413408|Shift=5108
+34	нет	_	_	_	_	_	_	_	Shift=5118
+35	опыта	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=79|RuCor_group_id=413410|RuCor_link_id=0|Shift=5122|SpaceAfter=No
+36	,	_	_	_	_	_	_	_	Shift=5127
+37	которым	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=79|RuCor_group_id=413411|RuCor_link_id=413410|Shift=5129
+38	можно	_	_	_	_	_	_	_	Shift=5137
+39	было	_	_	_	_	_	_	_	Shift=5143
+40	бы	_	_	_	_	_	_	_	Shift=5148
+41	гордиться	_	_	_	_	_	_	_	Shift=5151|SpaceAfter=No
+42	.	_	_	_	_	_	_	_	Shift=5160
+
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p13-s3
+# text = Эффективный контроль со стороны ``доноров'' и частного сектора Пакистана будет иметь наиболее важное значение.
+1	Эффективный	_	_	_	_	_	_	_	Shift=5162
+2	контроль	_	_	_	_	_	_	_	Shift=5174
+3	со	_	_	_	_	_	_	_	Shift=5183
+4	стороны	_	_	_	_	_	_	_	Shift=5186
+5	``	_	_	_	_	_	_	_	Shift=5194|SpaceAfter=No
+6	доноров	_	_	_	_	_	_	_	Shift=5195|SpaceAfter=No
+7	''	_	_	_	_	_	_	_	Shift=5202
+8	и	_	_	_	_	_	_	_	Shift=5204
+9	частного	_	_	_	_	_	_	_	Shift=5206
+10	сектора	_	_	_	_	_	_	_	Shift=5215
+11	Пакистана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=105|RuCor_group_id=413412|RuCor_link_id=413409|Shift=5223
+12	будет	_	_	_	_	_	_	_	Shift=5233
+13	иметь	_	_	_	_	_	_	_	Shift=5239
+14	наиболее	_	_	_	_	_	_	_	Shift=5245
+15	важное	_	_	_	_	_	_	_	Shift=5254
+16	значение	_	_	_	_	_	_	_	Shift=5261|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=5269
+
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p13-s4
+# text = В обмен на помощь Пакистану должно быть выставлено лишь одно условие: первые полученные деньги должны быть потрачены на восстановление всех разрушенных бомбежкой школ для девочек в Свате.
+1	В	_	_	_	_	_	_	_	Shift=5271
+2	обмен	_	_	_	_	_	_	_	Shift=5273
+3	на	_	_	_	_	_	_	_	Shift=5279
+4	помощь	_	_	_	_	_	_	_	Shift=5282
+5	Пакистану	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=105|RuCor_group_id=413413|RuCor_link_id=413412|Shift=5289
+6	должно	_	_	_	_	_	_	_	Shift=5299
+7	быть	_	_	_	_	_	_	_	Shift=5306
+8	выставлено	_	_	_	_	_	_	_	Shift=5311
+9	лишь	_	_	_	_	_	_	_	Shift=5322
+10	одно	_	_	_	_	_	_	_	Shift=5327
+11	условие	_	_	_	_	_	_	_	Shift=5332|SpaceAfter=No
+12	:	_	_	_	_	_	_	_	Shift=5339
+13	первые	_	_	_	_	_	_	_	Shift=5341
+14	полученные	_	_	_	_	_	_	_	Shift=5348
+15	деньги	_	_	_	_	_	_	_	Shift=5359
+16	должны	_	_	_	_	_	_	_	Shift=5366
+17	быть	_	_	_	_	_	_	_	Shift=5373
+18	потрачены	_	_	_	_	_	_	_	Shift=5378
+19	на	_	_	_	_	_	_	_	Shift=5388
+20	восстановление	_	_	_	_	_	_	_	Shift=5391
+21	всех	_	_	_	_	_	_	_	RuCor_chain_id=78|RuCor_group_id=413416|Shift=5406
+22	разрушенных	_	_	_	_	_	_	_	RuCor_chain_id=78|RuCor_group_id=413416|Shift=5411
+23	бомбежкой	_	_	_	_	_	_	_	RuCor_chain_id=78|RuCor_group_id=413416|Shift=5423
+24	школ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=78|RuCor_group_id=413416|RuCor_link_id=0|Shift=5433
+25	для	_	_	_	_	_	_	_	RuCor_chain_id=78|RuCor_group_id=413416|Shift=5438
+26	девочек	_	_	_	_	_	_	_	RuCor_chain_id=78|RuCor_group_id=413416|Shift=5442
+27	в	_	_	_	_	_	_	_	RuCor_chain_id=78|RuCor_group_id=413416|Shift=5450
+28	Свате	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=97|RuCor_group_id=413414|RuCor_link_id=413401|Shift=5452|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	Shift=5457
+
+# sent_id = 70a38dd4-095e-4f3e-93f5-c7a28fae2f48-p13-s5
+# text = И если потребуется, армия должна начать осуществлять круглосуточную охрану этих школ.
+1	И	_	_	_	_	_	_	_	Shift=5459
+2	если	_	_	_	_	_	_	_	Shift=5461
+3	потребуется	_	_	_	_	_	_	_	Shift=5466|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=5477
+5	армия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=104|RuCor_group_id=413415|RuCor_link_id=413392|Shift=5479
+6	должна	_	_	_	_	_	_	_	Shift=5485
+7	начать	_	_	_	_	_	_	_	Shift=5492
+8	осуществлять	_	_	_	_	_	_	_	Shift=5499
+9	круглосуточную	_	_	_	_	_	_	_	Shift=5512
+10	охрану	_	_	_	_	_	_	_	Shift=5527
+11	этих	_	_	_	_	_	_	_	RuCor_chain_id=78|RuCor_group_id=413417|Shift=5534
+12	школ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=78|RuCor_group_id=413417|RuCor_link_id=413416|Shift=5539|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	_
+

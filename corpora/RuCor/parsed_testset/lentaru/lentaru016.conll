@@ -1,0 +1,250 @@
+# newdoc id = ca0a1dbb-f955-4558-a43e-a728d684110c
+# newpar id = ca0a1dbb-f955-4558-a43e-a728d684110c-p1
+# par_text = Экстремистская группировка «Исламское государство Ирака и Леванта» (ИГИЛ) обратилась за помощью к жителям города Фаллуджа (иракская провинция Анбар), сообщает Associated Press.
+# sent_id = ca0a1dbb-f955-4558-a43e-a728d684110c-p1-s1
+# text = Экстремистская группировка ``Исламское государство Ирака и Леванта'' (ИГИЛ) обратилась за помощью к жителям города Фаллуджа (иракская провинция Анбар), сообщает Associated Press.
+1	Экстремистская	_	_	_	_	_	_	_	RuCor_chain_id=3349|RuCor_group_id=474593|Shift=0
+2	группировка	_	_	_	_	_	_	_	RuCor_chain_id=3349|RuCor_group_id=474593|Shift=15
+3	``	_	_	_	_	_	_	_	RuCor_chain_id=3349|RuCor_group_id=474593|Shift=27|SpaceAfter=No
+4	Исламское	_	_	_	_	_	_	_	RuCor_chain_id=3349|RuCor_group_id=474593|Shift=28
+5	государство	_	_	_	_	_	_	_	RuCor_chain_id=3349|RuCor_group_id=474593|Shift=38
+6	Ирака	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3350|RuCor_group_id=474594|RuCor_link_id=0|Shift=50
+7	и	_	_	_	_	_	_	_	RuCor_chain_id=3349|RuCor_group_id=474593|Shift=56
+8	Леванта	_	_	_	_	_	_	_	RuCor_chain_id=3349|RuCor_group_id=474593|Shift=58|SpaceAfter=No
+9	''	_	_	_	_	_	_	_	RuCor_chain_id=3349|RuCor_group_id=474593|Shift=65
+10	(	_	_	_	_	_	_	_	Shift=67|SpaceAfter=No
+11	ИГИЛ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3349|RuCor_group_id=474595|RuCor_link_id=474593|Shift=68|SpaceAfter=No
+12	)	_	_	_	_	_	_	_	Shift=72
+13	обратилась	_	_	_	_	_	_	_	Shift=74
+14	за	_	_	_	_	_	_	_	Shift=85
+15	помощью	_	_	_	_	_	_	_	Shift=88
+16	к	_	_	_	_	_	_	_	Shift=96
+17	жителям	_	_	_	_	_	_	_	Shift=98
+18	города	_	_	_	_	_	_	_	RuCor_chain_id=3351|RuCor_group_id=474596|Shift=106
+19	Фаллуджа	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3351|RuCor_group_id=474596|RuCor_link_id=0|Shift=113
+20	(	_	_	_	_	_	_	_	Shift=122|SpaceAfter=No
+21	иракская	_	_	_	_	_	_	_	RuCor_chain_id=3352|RuCor_group_id=474597|Shift=123
+22	провинция	_	_	_	_	_	_	_	RuCor_chain_id=3352|RuCor_group_id=474597|Shift=132
+23	Анбар	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3352|RuCor_group_id=474597|RuCor_link_id=0|Shift=142|SpaceAfter=No
+24	)	_	_	_	_	_	_	_	Shift=147|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=148
+26	сообщает	_	_	_	_	_	_	_	Shift=150
+27	Associated	_	_	_	_	_	_	_	RuCor_chain_id=3353|RuCor_group_id=474598|Shift=159
+28	Press	_	_	_	_	_	_	_	RuCor_chain_id=3353|RuCor_group_id=474598|Shift=170|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	Shift=175
+
+# newpar id = ca0a1dbb-f955-4558-a43e-a728d684110c-p2
+# par_text = Как рассказали агентству очевидцы, на главных перекрестках города экстремисты раздают листовки, в которых просят местных жителей поддержать их деньгами «на джихад» и спальными местами в своих домах для отдыха боевиков.
+# sent_id = ca0a1dbb-f955-4558-a43e-a728d684110c-p2-s1
+# text = Как рассказали агентству очевидцы, на главных перекрестках города экстремисты раздают листовки, в которых просят местных жителей поддержать их деньгами ``на джихад'' и спальными местами в своих домах для отдыха боевиков.
+1	Как	_	_	_	_	_	_	_	Shift=177
+2	рассказали	_	_	_	_	_	_	_	Shift=181
+3	агентству	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3353|RuCor_group_id=474599|RuCor_link_id=474598|Shift=192
+4	очевидцы	_	_	_	_	_	_	_	Shift=202|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=210
+6	на	_	_	_	_	_	_	_	Shift=212
+7	главных	_	_	_	_	_	_	_	Shift=215
+8	перекрестках	_	_	_	_	_	_	_	Shift=223
+9	города	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3351|RuCor_group_id=474600|RuCor_link_id=474596|Shift=236
+10	экстремисты	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3349|RuCor_group_id=474601|RuCor_link_id=474595|Shift=243
+11	раздают	_	_	_	_	_	_	_	Shift=255
+12	листовки	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3354|RuCor_group_id=474602|RuCor_link_id=0|Shift=263|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=271
+14	в	_	_	_	_	_	_	_	Shift=273
+15	которых	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=3354|RuCor_group_id=474603|RuCor_link_id=474602|Shift=275
+16	просят	_	_	_	_	_	_	_	Shift=283
+17	местных	_	_	_	_	_	_	_	RuCor_chain_id=3355|RuCor_group_id=474604|Shift=290
+18	жителей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3355|RuCor_group_id=474604|RuCor_link_id=0|Shift=298
+19	поддержать	_	_	_	_	_	_	_	Shift=306
+20	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3349|RuCor_group_id=474605|RuCor_link_id=474601|Shift=317
+21	деньгами	_	_	_	_	_	_	_	Shift=320
+22	``	_	_	_	_	_	_	_	Shift=329|SpaceAfter=No
+23	на	_	_	_	_	_	_	_	Shift=330
+24	джихад	_	_	_	_	_	_	_	Shift=333|SpaceAfter=No
+25	''	_	_	_	_	_	_	_	Shift=339
+26	и	_	_	_	_	_	_	_	Shift=341
+27	спальными	_	_	_	_	_	_	_	Shift=343
+28	местами	_	_	_	_	_	_	_	Shift=353
+29	в	_	_	_	_	_	_	_	Shift=361
+30	своих	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=3355|RuCor_group_id=474606|RuCor_link_id=474604|Shift=363
+31	домах	_	_	_	_	_	_	_	Shift=369
+32	для	_	_	_	_	_	_	_	Shift=375
+33	отдыха	_	_	_	_	_	_	_	Shift=379
+34	боевиков	_	_	_	_	_	_	_	Shift=386|SpaceAfter=No
+35	.	_	_	_	_	_	_	_	Shift=394
+
+# newpar id = ca0a1dbb-f955-4558-a43e-a728d684110c-p3
+# par_text = Из-за радикальной исламистской идеологии и жестоких методов ведения борьбы ИГИЛ часто называют группировкой, связанной с «Аль-Каедой», хотя последняя официально отмежевалась от ИГИЛ. Есть ли между ними какая-то связь, точно не известно.
+# sent_id = ca0a1dbb-f955-4558-a43e-a728d684110c-p3-s1
+# text = Из-за радикальной исламистской идеологии и жестоких методов ведения борьбы ИГИЛ часто называют группировкой, связанной с ``Аль-Каедой ``, хотя последняя официально отмежевалась от ИГИЛ.
+1	Из-за	_	_	_	_	_	_	_	Shift=396
+2	радикальной	_	_	_	_	_	_	_	Shift=402
+3	исламистской	_	_	_	_	_	_	_	Shift=414
+4	идеологии	_	_	_	_	_	_	_	Shift=427
+5	и	_	_	_	_	_	_	_	Shift=437
+6	жестоких	_	_	_	_	_	_	_	Shift=439
+7	методов	_	_	_	_	_	_	_	Shift=448
+8	ведения	_	_	_	_	_	_	_	Shift=456
+9	борьбы	_	_	_	_	_	_	_	Shift=464
+10	ИГИЛ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3349|RuCor_group_id=474607|RuCor_link_id=474601|Shift=471
+11	часто	_	_	_	_	_	_	_	Shift=476
+12	называют	_	_	_	_	_	_	_	Shift=482
+13	группировкой	_	_	_	_	_	_	_	Shift=491|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=503
+15	связанной	_	_	_	_	_	_	_	Shift=505
+16	с	_	_	_	_	_	_	_	Shift=515
+17	``	_	_	_	_	_	_	_	Shift=517|SpaceAfter=No
+18	Аль-Каедой	_	_	_	_	_	_	_	Shift=518
+19	``	_	_	_	_	_	_	_	Shift=528|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=529
+21	хотя	_	_	_	_	_	_	_	Shift=531
+22	последняя	_	_	_	_	_	_	_	Shift=536
+23	официально	_	_	_	_	_	_	_	Shift=546
+24	отмежевалась	_	_	_	_	_	_	_	Shift=557
+25	от	_	_	_	_	_	_	_	Shift=570
+26	ИГИЛ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3349|RuCor_group_id=474608|RuCor_link_id=474607|Shift=573|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=577
+
+# sent_id = ca0a1dbb-f955-4558-a43e-a728d684110c-p3-s2
+# text = Есть ли между ними какая-то связь, точно не известно.
+1	Есть	_	_	_	_	_	_	_	Shift=579
+2	ли	_	_	_	_	_	_	_	Shift=584
+3	между	_	_	_	_	_	_	_	Shift=587
+4	ними	_	_	_	_	_	_	_	Shift=593
+5	какая-то	_	_	_	_	_	_	_	Shift=598
+6	связь	_	_	_	_	_	_	_	Shift=607|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=612
+8	точно	_	_	_	_	_	_	_	Shift=614
+9	не	_	_	_	_	_	_	_	Shift=620
+10	известно	_	_	_	_	_	_	_	Shift=623|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=631
+
+# newpar id = ca0a1dbb-f955-4558-a43e-a728d684110c-p4
+# par_text = Сейчас ситуацию в Фаллудже контролируют представители местных суннитских племен, которые, по некоторым данным, сотрудничают с ИГИЛ. Вокруг города размещены правительственные войска, уже предупредившие жителей Фаллуджи о возможном штурме.
+# sent_id = ca0a1dbb-f955-4558-a43e-a728d684110c-p4-s1
+# text = Сейчас ситуацию в Фаллудже контролируют представители местных суннитских племен, которые, по некоторым данным, сотрудничают с ИГИЛ.
+1	Сейчас	_	_	_	_	_	_	_	Shift=633
+2	ситуацию	_	_	_	_	_	_	_	Shift=640
+3	в	_	_	_	_	_	_	_	Shift=649
+4	Фаллудже	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3351|RuCor_group_id=474609|RuCor_link_id=474600|Shift=651
+5	контролируют	_	_	_	_	_	_	_	Shift=660
+6	представители	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3356|RuCor_group_id=474610|RuCor_link_id=0|Shift=673
+7	местных	_	_	_	_	_	_	_	RuCor_chain_id=3356|RuCor_group_id=474610|Shift=687
+8	суннитских	_	_	_	_	_	_	_	RuCor_chain_id=3356|RuCor_group_id=474610|Shift=695
+9	племен	_	_	_	_	_	_	_	RuCor_chain_id=3356|RuCor_group_id=474610|Shift=706|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=712
+11	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=3356|RuCor_group_id=474611|RuCor_link_id=474610|Shift=714|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=721
+13	по	_	_	_	_	_	_	_	Shift=723
+14	некоторым	_	_	_	_	_	_	_	Shift=726
+15	данным	_	_	_	_	_	_	_	Shift=736|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=742
+17	сотрудничают	_	_	_	_	_	_	_	Shift=744
+18	с	_	_	_	_	_	_	_	Shift=757
+19	ИГИЛ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3349|RuCor_group_id=474612|RuCor_link_id=474608|Shift=759|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=763
+
+# sent_id = ca0a1dbb-f955-4558-a43e-a728d684110c-p4-s2
+# text = Вокруг города размещены правительственные войска, уже предупредившие жителей Фаллуджи о возможном штурме.
+1	Вокруг	_	_	_	_	_	_	_	Shift=765
+2	города	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3351|RuCor_group_id=474613|RuCor_link_id=474609|Shift=772
+3	размещены	_	_	_	_	_	_	_	Shift=779
+4	правительственные	_	_	_	_	_	_	_	Shift=789
+5	войска	_	_	_	_	_	_	_	Shift=807|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=813
+7	уже	_	_	_	_	_	_	_	Shift=815
+8	предупредившие	_	_	_	_	_	_	_	Shift=819
+9	жителей	_	_	_	_	_	_	_	Shift=834
+10	Фаллуджи	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3351|RuCor_group_id=474614|RuCor_link_id=474613|Shift=842
+11	о	_	_	_	_	_	_	_	Shift=851
+12	возможном	_	_	_	_	_	_	_	Shift=853
+13	штурме	_	_	_	_	_	_	_	Shift=863|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=869
+
+# newpar id = ca0a1dbb-f955-4558-a43e-a728d684110c-p5
+# par_text = Власть в крупнейших городах провинции Анбар перешла под контроль проживающих там суннитов в результате восстания, произошедшего в начале 2014 года. Поводом для него стал разгон мирной акции протеста суннитов у города Рамади, а также арест шейха одного из влиятельных племен, работавшего депутатом парламента Ирака.
+# sent_id = ca0a1dbb-f955-4558-a43e-a728d684110c-p5-s1
+# text = Власть в крупнейших городах провинции Анбар перешла под контроль проживающих там суннитов в результате восстания, произошедшего в начале 2014 года.
+1	Власть	_	_	_	_	_	_	_	Shift=871
+2	в	_	_	_	_	_	_	_	Shift=878
+3	крупнейших	_	_	_	_	_	_	_	Shift=880
+4	городах	_	_	_	_	_	_	_	Shift=891
+5	провинции	_	_	_	_	_	_	_	RuCor_chain_id=3352|RuCor_group_id=474615|Shift=899
+6	Анбар	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3352|RuCor_group_id=474615|RuCor_link_id=474597|Shift=909
+7	перешла	_	_	_	_	_	_	_	Shift=915
+8	под	_	_	_	_	_	_	_	Shift=923
+9	контроль	_	_	_	_	_	_	_	Shift=927
+10	проживающих	_	_	_	_	_	_	_	Shift=936
+11	там	_	_	_	_	_	_	_	Shift=948
+12	суннитов	_	_	_	_	_	_	_	Shift=952
+13	в	_	_	_	_	_	_	_	Shift=961
+14	результате	_	_	_	_	_	_	_	Shift=963
+15	восстания	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3357|RuCor_group_id=474616|RuCor_link_id=0|Shift=974|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=983
+17	произошедшего	_	_	_	_	_	_	_	Shift=985
+18	в	_	_	_	_	_	_	_	Shift=999
+19	начале	_	_	_	_	_	_	_	Shift=1001
+20	2014	_	_	_	_	_	_	_	Shift=1008
+21	года	_	_	_	_	_	_	_	Shift=1013|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=1017
+
+# sent_id = ca0a1dbb-f955-4558-a43e-a728d684110c-p5-s2
+# text = Поводом для него стал разгон мирной акции протеста суннитов у города Рамади, а также арест шейха одного из влиятельных племен, работавшего депутатом парламента Ирака.
+1	Поводом	_	_	_	_	_	_	_	Shift=1019
+2	для	_	_	_	_	_	_	_	Shift=1027
+3	него	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=3357|RuCor_group_id=474617|RuCor_link_id=474616|Shift=1031
+4	стал	_	_	_	_	_	_	_	Shift=1036
+5	разгон	_	_	_	_	_	_	_	Shift=1041
+6	мирной	_	_	_	_	_	_	_	Shift=1048
+7	акции	_	_	_	_	_	_	_	Shift=1055
+8	протеста	_	_	_	_	_	_	_	Shift=1061
+9	суннитов	_	_	_	_	_	_	_	Shift=1070
+10	у	_	_	_	_	_	_	_	Shift=1079
+11	города	_	_	_	_	_	_	_	Shift=1081
+12	Рамади	_	_	_	_	_	_	_	Shift=1088|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=1094
+14	а	_	_	_	_	_	_	_	Shift=1096
+15	также	_	_	_	_	_	_	_	Shift=1098
+16	арест	_	_	_	_	_	_	_	Shift=1104
+17	шейха	_	_	_	_	_	_	_	Shift=1110
+18	одного	_	_	_	_	_	_	_	Shift=1116
+19	из	_	_	_	_	_	_	_	Shift=1123
+20	влиятельных	_	_	_	_	_	_	_	Shift=1126
+21	племен	_	_	_	_	_	_	_	Shift=1138|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=1144
+23	работавшего	_	_	_	_	_	_	_	Shift=1146
+24	депутатом	_	_	_	_	_	_	_	Shift=1158
+25	парламента	_	_	_	_	_	_	_	Shift=1168
+26	Ирака	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3350|RuCor_group_id=474618|RuCor_link_id=474594|Shift=1179|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=1184
+
+# newpar id = ca0a1dbb-f955-4558-a43e-a728d684110c-p6
+# par_text = Все последовавшие недели в Анбаре не прекращаются столкновения между правительственными силами и повстанцами. Жертвами этого противостояния уже стали десятки людей.
+# sent_id = ca0a1dbb-f955-4558-a43e-a728d684110c-p6-s1
+# text = Все последовавшие недели в Анбаре не прекращаются столкновения между правительственными силами и повстанцами.
+1	Все	_	_	_	_	_	_	_	Shift=1186
+2	последовавшие	_	_	_	_	_	_	_	Shift=1190
+3	недели	_	_	_	_	_	_	_	Shift=1204
+4	в	_	_	_	_	_	_	_	Shift=1211
+5	Анбаре	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3352|RuCor_group_id=474619|RuCor_link_id=474615|Shift=1213
+6	не	_	_	_	_	_	_	_	Shift=1220
+7	прекращаются	_	_	_	_	_	_	_	Shift=1223
+8	столкновения	_	_	_	_	_	_	_	Shift=1236
+9	между	_	_	_	_	_	_	_	Shift=1249
+10	правительственными	_	_	_	_	_	_	_	Shift=1255
+11	силами	_	_	_	_	_	_	_	Shift=1274
+12	и	_	_	_	_	_	_	_	Shift=1281
+13	повстанцами	_	_	_	_	_	_	_	Shift=1283|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=1294
+
+# sent_id = ca0a1dbb-f955-4558-a43e-a728d684110c-p6-s2
+# text = Жертвами этого противостояния уже стали десятки людей.
+1	Жертвами	_	_	_	_	_	_	_	Shift=1296
+2	этого	_	_	_	_	_	_	_	Shift=1305
+3	противостояния	_	_	_	_	_	_	_	Shift=1311
+4	уже	_	_	_	_	_	_	_	Shift=1326
+5	стали	_	_	_	_	_	_	_	Shift=1330
+6	десятки	_	_	_	_	_	_	_	Shift=1336
+7	людей	_	_	_	_	_	_	_	Shift=1344|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	_
+

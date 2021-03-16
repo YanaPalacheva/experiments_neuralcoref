@@ -1,0 +1,22 @@
+The poor man 's chip
+Future prospects also seem infinite for microarray chips , which are already widely used in laboratories and research establishments .
+Jerry Huang notes that DNA chips are an indispensable research tool in molecular biology .
+On one little biochip , tens of thousands of gene segments can be arranged to simultaneously detect the expression of tens of thousands of genes .
+In other words , whereas in the past researchers had to investigate each gene individually , today , using biochips , they can obtain test results for tens of thousands of genes at once .
+In particular , biochips not only can speed the pace of research , but can also replace laboratory animals such as rats and rabbits in many experiments , with tests being carried out directly on human genes on the chip .
+Thus as research tools biochips are not only convenient and quick , but also more humane .
+Dr. Konan Peck , an assistant research fellow at Academia Sinica 's Institute of Biomedical Sciences -LRB- IBMS -RRB- , says that biochips need to be made more widely available as a molecular biology research tool .
+With this in mind , Peck has developed nylon - based biochips which have been called " the poor man 's biochip , " since they cost a third less than glass chips .
+Apart from the material itself being cheaper , the nylon chips use a visible - spectrum colorimetric system to display results , so that they can be read using an ordinary optical scanner , which costs 50 - 70 % less than using a special laser detector .
+The nylon membrane biochips currently produced by TGS and U - Vision Biotech are all derived from the technology developed by Konan Peck .
+Cutting edge
+Can Taiwan really repeat its success in the semiconductor industry , to become a major production center for biochips ?
+BMEC director Johnsee Lee observes that the level of scientific and technical know - how required for biochip production is very high , so that the opportunities for contract manufacture are limited .
+However , due to Taiwan 's early entry into biochip research and development , and the high state of development of its semiconductor industry , the island is well supplied with relevant technology and skills .
+Thus , says Lee , " Taiwan should have opportunities to enter this field not merely as a contract manufacturer . "
+The potential and importance of biochips is plain to see , but in this new , interdisciplinary industry , there are still many obstacles and difficulties to overcome .
+Apart from the fact that the technology is not yet mature , and that generally accepted , mutually compatible international standards have not yet emerged , the biggest bottleneck for biochips at the moment is the many thousands of patents which have been taken out in the field , which limit the avenues available to each player .
+" Because this area is a patents minefield , it 's impossible to create a product which from start to finish does n't infringe on anyone else 's patents , " says Johnsee Lee .
+In his view , this problem may be resolved in the future by the exchange of patented technologies between players .
+In other words , at this stage companies must actively carry out research and development , and obtain international patents , in order to have bargaining chips in future negotiations .
+At present , the BMEC has over 10 patents pending in the areas of microfluidics biochips , chip surface processing technology and probe design and applications .

@@ -1,0 +1,333 @@
+# newdoc id = b4261485-9570-4b3a-924e-91a9b440709d
+# newpar id = b4261485-9570-4b3a-924e-91a9b440709d-p1
+# par_text = Прокуратура Крымской автономии обжаловала решение местного парламента, запретившего в регионе деятельность националистической партии «Свобода». Об этом в четверг, 30 января, сообщает «Крымская газета» со ссылкой на пресс-службу надзорного ведомства.
+# sent_id = b4261485-9570-4b3a-924e-91a9b440709d-p1-s1
+# text = Прокуратура Крымской автономии обжаловала решение местного парламента, запретившего в регионе деятельность националистической партии ``Свобода''.
+1	Прокуратура	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=512|RuCor_group_id=411521|RuCor_link_id=0|Shift=0
+2	Крымской	_	_	_	_	_	_	_	RuCor_chain_id=516|RuCor_group_id=411510|Shift=12
+3	автономии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=516|RuCor_group_id=411510|RuCor_link_id=0|Shift=21
+4	обжаловала	_	_	_	_	_	_	_	Shift=31
+5	решение	_	_	_	_	_	_	_	Shift=42
+6	местного	_	_	_	_	_	_	_	RuCor_chain_id=514|RuCor_group_id=411513|Shift=50
+7	парламента	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=514|RuCor_group_id=411513|RuCor_link_id=0|Shift=59|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=69
+9	запретившего	_	_	_	_	_	_	_	Shift=71
+10	в	_	_	_	_	_	_	_	Shift=84
+11	регионе	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=516|RuCor_group_id=411512|RuCor_link_id=411510|Shift=86
+12	деятельность	_	_	_	_	_	_	_	Shift=94
+13	националистической	_	_	_	_	_	_	_	RuCor_chain_id=515|RuCor_group_id=411511|Shift=107
+14	партии	_	_	_	_	_	_	_	RuCor_chain_id=515|RuCor_group_id=411511|Shift=126
+15	``	_	_	_	_	_	_	_	RuCor_chain_id=515|RuCor_group_id=411511|Shift=133|SpaceAfter=No
+16	Свобода	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=515|RuCor_group_id=411511|RuCor_link_id=0|Shift=134|SpaceAfter=No
+17	''	_	_	_	_	_	_	_	RuCor_chain_id=515|RuCor_group_id=411511|Shift=141|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=142
+
+# sent_id = b4261485-9570-4b3a-924e-91a9b440709d-p1-s2
+# text = Об этом в четверг, 30 января, сообщает ``Крымская газета'' со ссылкой на пресс-службу надзорного ведомства.
+1	Об	_	_	_	_	_	_	_	Shift=144
+2	этом	_	_	_	_	_	_	_	Shift=147
+3	в	_	_	_	_	_	_	_	Shift=152
+4	четверг	_	_	_	_	_	_	_	Shift=154|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=161
+6	30	_	_	_	_	_	_	_	Shift=163
+7	января	_	_	_	_	_	_	_	Shift=166|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=172
+9	сообщает	_	_	_	_	_	_	_	Shift=174
+10	``	_	_	_	_	_	_	_	RuCor_chain_id=513|RuCor_group_id=411517|Shift=183|SpaceAfter=No
+11	Крымская	_	_	_	_	_	_	_	RuCor_chain_id=513|RuCor_group_id=411517|Shift=184
+12	газета	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=513|RuCor_group_id=411517|RuCor_link_id=0|Shift=193|SpaceAfter=No
+13	''	_	_	_	_	_	_	_	RuCor_chain_id=513|RuCor_group_id=411517|Shift=199
+14	со	_	_	_	_	_	_	_	Shift=201
+15	ссылкой	_	_	_	_	_	_	_	Shift=204
+16	на	_	_	_	_	_	_	_	Shift=212
+17	пресс-службу	_	_	_	_	_	_	_	Shift=215
+18	надзорного	_	_	_	_	_	_	_	RuCor_chain_id=512|RuCor_group_id=411519|Shift=228
+19	ведомства	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=512|RuCor_group_id=411519|RuCor_link_id=411521|Shift=239|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=248
+
+# newpar id = b4261485-9570-4b3a-924e-91a9b440709d-p2
+# par_text = В прокуратуре отметили, что 29 января в парламент Крымской автономии было направлено представление с требованием отменить запрет на деятельность партии и использование ее символики. Издание не уточняет, с чем связано такое решение прокуратуры.
+# sent_id = b4261485-9570-4b3a-924e-91a9b440709d-p2-s1
+# text = В прокуратуре отметили, что 29 января в парламент Крымской автономии было направлено представление с требованием отменить запрет на деятельность партии и использование ее символики.
+1	В	_	_	_	_	_	_	_	Shift=250
+2	прокуратуре	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=512|RuCor_group_id=411554|RuCor_link_id=411521|Shift=252
+3	отметили	_	_	_	_	_	_	_	Shift=264|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=272
+5	что	_	_	_	_	_	_	_	Shift=274
+6	29	_	_	_	_	_	_	_	Shift=278
+7	января	_	_	_	_	_	_	_	Shift=281
+8	в	_	_	_	_	_	_	_	Shift=288
+9	парламент	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=514|RuCor_group_id=411514|RuCor_link_id=411513|Shift=290
+10	Крымской	_	_	_	_	_	_	_	RuCor_chain_id=514|RuCor_group_id=411514|Shift=300
+11	автономии	_	_	_	_	_	_	_	RuCor_chain_id=514|RuCor_group_id=411514|Shift=309
+12	было	_	_	_	_	_	_	_	Shift=319
+13	направлено	_	_	_	_	_	_	_	Shift=324
+14	представление	_	_	_	_	_	_	_	Shift=335
+15	с	_	_	_	_	_	_	_	Shift=349
+16	требованием	_	_	_	_	_	_	_	Shift=351
+17	отменить	_	_	_	_	_	_	_	Shift=363
+18	запрет	_	_	_	_	_	_	_	Shift=372
+19	на	_	_	_	_	_	_	_	Shift=379
+20	деятельность	_	_	_	_	_	_	_	Shift=382
+21	партии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=515|RuCor_group_id=411515|RuCor_link_id=411511|Shift=395
+22	и	_	_	_	_	_	_	_	Shift=402
+23	использование	_	_	_	_	_	_	_	Shift=404
+24	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=515|RuCor_group_id=411516|RuCor_link_id=411515|Shift=418
+25	символики	_	_	_	_	_	_	_	Shift=421|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=430
+
+# sent_id = b4261485-9570-4b3a-924e-91a9b440709d-p2-s2
+# text = Издание не уточняет, с чем связано такое решение прокуратуры.
+1	Издание	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=513|RuCor_group_id=411518|RuCor_link_id=411517|Shift=432
+2	не	_	_	_	_	_	_	_	Shift=440
+3	уточняет	_	_	_	_	_	_	_	Shift=443|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=451
+5	с	_	_	_	_	_	_	_	Shift=453
+6	чем	_	_	_	_	_	_	_	Shift=455
+7	связано	_	_	_	_	_	_	_	Shift=459
+8	такое	_	_	_	_	_	_	_	Shift=467
+9	решение	_	_	_	_	_	_	_	Shift=473
+10	прокуратуры	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=512|RuCor_group_id=411520|RuCor_link_id=411554|Shift=481|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=492
+
+# newpar id = b4261485-9570-4b3a-924e-91a9b440709d-p3
+# par_text = Крымский парламент постановил запретить «Свободу» на заседании 27 января. Депутаты сочли, что партия угрожает национальному согласию, общественной безопасности и правопорядку. Помимо «Свободы» вне закона были объявлены еще несколько организаций, которые депутаты охарактеризовали как радикальные.
+# sent_id = b4261485-9570-4b3a-924e-91a9b440709d-p3-s1
+# text = Крымский парламент постановил запретить ``Свободу'' на заседании 27 января.
+1	Крымский	_	_	_	_	_	_	_	RuCor_chain_id=514|RuCor_group_id=411522|Shift=494
+2	парламент	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=514|RuCor_group_id=411522|RuCor_link_id=411513|Shift=503
+3	постановил	_	_	_	_	_	_	_	Shift=513
+4	запретить	_	_	_	_	_	_	_	Shift=524
+5	``	_	_	_	_	_	_	_	RuCor_chain_id=515|RuCor_group_id=411523|Shift=534|SpaceAfter=No
+6	Свободу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=515|RuCor_group_id=411523|RuCor_link_id=411511|Shift=535|SpaceAfter=No
+7	''	_	_	_	_	_	_	_	RuCor_chain_id=515|RuCor_group_id=411523|Shift=542
+8	на	_	_	_	_	_	_	_	Shift=544
+9	заседании	_	_	_	_	_	_	_	Shift=547
+10	27	_	_	_	_	_	_	_	Shift=557
+11	января	_	_	_	_	_	_	_	Shift=560|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=566
+
+# sent_id = b4261485-9570-4b3a-924e-91a9b440709d-p3-s2
+# text = Депутаты сочли, что партия угрожает национальному согласию, общественной безопасности и правопорядку.
+1	Депутаты	_	_	_	_	_	_	_	RuCor_attrs_ref=meton|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=514|RuCor_group_id=411524|RuCor_link_id=411522|Shift=568
+2	сочли	_	_	_	_	_	_	_	Shift=577|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=582
+4	что	_	_	_	_	_	_	_	Shift=584
+5	партия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=515|RuCor_group_id=411525|RuCor_link_id=411511|Shift=588
+6	угрожает	_	_	_	_	_	_	_	Shift=595
+7	национальному	_	_	_	_	_	_	_	Shift=604
+8	согласию	_	_	_	_	_	_	_	Shift=618|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=626
+10	общественной	_	_	_	_	_	_	_	Shift=628
+11	безопасности	_	_	_	_	_	_	_	Shift=641
+12	и	_	_	_	_	_	_	_	Shift=654
+13	правопорядку	_	_	_	_	_	_	_	Shift=656|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=668
+
+# sent_id = b4261485-9570-4b3a-924e-91a9b440709d-p3-s3
+# text = Помимо ``Свободы'' вне закона были объявлены еще несколько организаций, которые депутаты охарактеризовали как радикальные.
+1	Помимо	_	_	_	_	_	_	_	Shift=670
+2	``	_	_	_	_	_	_	_	RuCor_chain_id=515|RuCor_group_id=411526|Shift=677|SpaceAfter=No
+3	Свободы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=515|RuCor_group_id=411526|RuCor_link_id=411523|Shift=678|SpaceAfter=No
+4	''	_	_	_	_	_	_	_	RuCor_chain_id=515|RuCor_group_id=411526|Shift=685
+5	вне	_	_	_	_	_	_	_	Shift=687
+6	закона	_	_	_	_	_	_	_	Shift=691
+7	были	_	_	_	_	_	_	_	Shift=698
+8	объявлены	_	_	_	_	_	_	_	Shift=703
+9	еще	_	_	_	_	_	_	_	Shift=713
+10	несколько	_	_	_	_	_	_	_	RuCor_chain_id=511|RuCor_group_id=411527|Shift=717
+11	организаций	_	_	_	_	_	_	_	RuCor_chain_id=511|RuCor_group_id=411527|Shift=727|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=738
+13	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=511|RuCor_group_id=411528|RuCor_link_id=411527|Shift=740
+14	депутаты	_	_	_	_	_	_	_	Shift=748
+15	охарактеризовали	_	_	_	_	_	_	_	Shift=757
+16	как	_	_	_	_	_	_	_	Shift=774
+17	радикальные	_	_	_	_	_	_	_	Shift=778|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=789
+
+# newpar id = b4261485-9570-4b3a-924e-91a9b440709d-p4
+# par_text = В свою очередь заместитель главы партии Юрий Сиротюк назвал решение властей Крыма незаконным. По его словам, депутаты превысили свои полномочия, поскольку решение о запрете всеукраинской партии не может приниматься на региональном уровне. Сиротюк добавил, что такое решение крымского парламента должно быть немедленно обжаловано прокуратурой.
+# sent_id = b4261485-9570-4b3a-924e-91a9b440709d-p4-s1
+# text = В свою очередь заместитель главы партии Юрий Сиротюк назвал решение властей Крыма незаконным.
+1	В	_	_	_	_	_	_	_	Shift=791
+2	свою	_	_	_	_	_	_	_	Shift=793
+3	очередь	_	_	_	_	_	_	_	Shift=798
+4	заместитель	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=510|RuCor_group_id=411530|RuCor_link_id=0|Shift=806
+5	главы	_	_	_	_	_	_	_	RuCor_chain_id=510|RuCor_group_id=411530|Shift=818
+6	партии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=515|RuCor_group_id=411529|RuCor_link_id=411526|Shift=824
+7	Юрий	_	_	_	_	_	_	_	RuCor_chain_id=510|RuCor_group_id=411530|Shift=831
+8	Сиротюк	_	_	_	_	_	_	_	RuCor_chain_id=510|RuCor_group_id=411530|Shift=836
+9	назвал	_	_	_	_	_	_	_	Shift=844
+10	решение	_	_	_	_	_	_	_	Shift=851
+11	властей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=514|RuCor_group_id=411531|RuCor_link_id=411524|Shift=859
+12	Крыма	_	_	_	_	_	_	_	RuCor_chain_id=514|RuCor_group_id=411531|Shift=867
+13	незаконным	_	_	_	_	_	_	_	Shift=873|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=883
+
+# sent_id = b4261485-9570-4b3a-924e-91a9b440709d-p4-s2
+# text = По его словам, депутаты превысили свои полномочия, поскольку решение о запрете всеукраинской партии не может приниматься на региональном уровне.
+1	По	_	_	_	_	_	_	_	Shift=885
+2	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=510|RuCor_group_id=411532|RuCor_link_id=411530|Shift=888
+3	словам	_	_	_	_	_	_	_	Shift=892|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=898
+5	депутаты	_	_	_	_	_	_	_	RuCor_attrs_ref=meton|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=514|RuCor_group_id=411533|RuCor_link_id=411531|Shift=900
+6	превысили	_	_	_	_	_	_	_	Shift=909
+7	свои	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=514|RuCor_group_id=411534|RuCor_link_id=411533|Shift=919
+8	полномочия	_	_	_	_	_	_	_	Shift=924|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=934
+10	поскольку	_	_	_	_	_	_	_	Shift=936
+11	решение	_	_	_	_	_	_	_	Shift=946
+12	о	_	_	_	_	_	_	_	Shift=954
+13	запрете	_	_	_	_	_	_	_	Shift=956
+14	всеукраинской	_	_	_	_	_	_	_	Shift=964
+15	партии	_	_	_	_	_	_	_	Shift=978
+16	не	_	_	_	_	_	_	_	Shift=985
+17	может	_	_	_	_	_	_	_	Shift=988
+18	приниматься	_	_	_	_	_	_	_	Shift=994
+19	на	_	_	_	_	_	_	_	Shift=1006
+20	региональном	_	_	_	_	_	_	_	Shift=1009
+21	уровне	_	_	_	_	_	_	_	Shift=1022|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=1028
+
+# sent_id = b4261485-9570-4b3a-924e-91a9b440709d-p4-s3
+# text = Сиротюк добавил, что такое решение крымского парламента должно быть немедленно обжаловано прокуратурой.
+1	Сиротюк	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=510|RuCor_group_id=411535|RuCor_link_id=411530|Shift=1030
+2	добавил	_	_	_	_	_	_	_	Shift=1038|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1045
+4	что	_	_	_	_	_	_	_	Shift=1047
+5	такое	_	_	_	_	_	_	_	Shift=1051
+6	решение	_	_	_	_	_	_	_	Shift=1057
+7	крымского	_	_	_	_	_	_	_	RuCor_chain_id=514|RuCor_group_id=411536|Shift=1065
+8	парламента	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=514|RuCor_group_id=411536|RuCor_link_id=411513|Shift=1075
+9	должно	_	_	_	_	_	_	_	Shift=1086
+10	быть	_	_	_	_	_	_	_	Shift=1093
+11	немедленно	_	_	_	_	_	_	_	Shift=1098
+12	обжаловано	_	_	_	_	_	_	_	Shift=1109
+13	прокуратурой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=512|RuCor_group_id=411537|RuCor_link_id=411521|Shift=1120|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=1132
+
+# newpar id = b4261485-9570-4b3a-924e-91a9b440709d-p5
+# par_text = Незадолго до запрета «Свободы» крымскими депутатами аналогичное решение было принято в нескольких областях на западе Украины в отношении правящей Партии регионов. Запретить правящую партию решили местные парламенты, в число которых входили и «свободовцы». В свою очередь крымский парламент подконтролен правящей партии.
+# sent_id = b4261485-9570-4b3a-924e-91a9b440709d-p5-s1
+# text = Незадолго до запрета ``Свободы'' крымскими депутатами аналогичное решение было принято в нескольких областях на западе Украины в отношении правящей Партии регионов.
+1	Незадолго	_	_	_	_	_	_	_	Shift=1134
+2	до	_	_	_	_	_	_	_	Shift=1144
+3	запрета	_	_	_	_	_	_	_	Shift=1147
+4	``	_	_	_	_	_	_	_	RuCor_chain_id=515|RuCor_group_id=411538|Shift=1155|SpaceAfter=No
+5	Свободы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=515|RuCor_group_id=411538|RuCor_link_id=411526|Shift=1156|SpaceAfter=No
+6	''	_	_	_	_	_	_	_	RuCor_chain_id=515|RuCor_group_id=411538|Shift=1163
+7	крымскими	_	_	_	_	_	_	_	RuCor_chain_id=514|RuCor_group_id=411539|Shift=1165
+8	депутатами	_	_	_	_	_	_	_	RuCor_attrs_ref=meton|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=514|RuCor_group_id=411539|RuCor_link_id=411536|Shift=1175
+9	аналогичное	_	_	_	_	_	_	_	Shift=1186
+10	решение	_	_	_	_	_	_	_	Shift=1198
+11	было	_	_	_	_	_	_	_	Shift=1206
+12	принято	_	_	_	_	_	_	_	Shift=1211
+13	в	_	_	_	_	_	_	_	Shift=1219
+14	нескольких	_	_	_	_	_	_	_	Shift=1221
+15	областях	_	_	_	_	_	_	_	Shift=1232
+16	на	_	_	_	_	_	_	_	Shift=1241
+17	западе	_	_	_	_	_	_	_	Shift=1244
+18	Украины	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=509|RuCor_group_id=411540|RuCor_link_id=0|Shift=1251
+19	в	_	_	_	_	_	_	_	Shift=1259
+20	отношении	_	_	_	_	_	_	_	Shift=1261
+21	правящей	_	_	_	_	_	_	_	RuCor_chain_id=508|RuCor_group_id=411542|Shift=1271
+22	Партии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=508|RuCor_group_id=411542|RuCor_link_id=0|Shift=1280
+23	регионов	_	_	_	_	_	_	_	RuCor_chain_id=508|RuCor_group_id=411542|Shift=1287|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=1295
+
+# sent_id = b4261485-9570-4b3a-924e-91a9b440709d-p5-s2
+# text = Запретить правящую партию решили местные парламенты, в число которых входили и ``свободовцы''.
+1	Запретить	_	_	_	_	_	_	_	Shift=1297
+2	правящую	_	_	_	_	_	_	_	RuCor_chain_id=508|RuCor_group_id=411543|Shift=1307
+3	партию	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=508|RuCor_group_id=411543|RuCor_link_id=411542|Shift=1316
+4	решили	_	_	_	_	_	_	_	Shift=1323
+5	местные	_	_	_	_	_	_	_	RuCor_chain_id=507|RuCor_group_id=411544|Shift=1330
+6	парламенты	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=507|RuCor_group_id=411544|RuCor_link_id=0|Shift=1338|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=1348
+8	в	_	_	_	_	_	_	_	Shift=1350
+9	число	_	_	_	_	_	_	_	Shift=1352
+10	которых	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=507|RuCor_group_id=411545|RuCor_link_id=411544|Shift=1358
+11	входили	_	_	_	_	_	_	_	Shift=1366
+12	и	_	_	_	_	_	_	_	Shift=1374
+13	``	_	_	_	_	_	_	_	Shift=1376|SpaceAfter=No
+14	свободовцы	_	_	_	_	_	_	_	Shift=1377|SpaceAfter=No
+15	''	_	_	_	_	_	_	_	Shift=1387|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=1388
+
+# sent_id = b4261485-9570-4b3a-924e-91a9b440709d-p5-s3
+# text = В свою очередь крымский парламент подконтролен правящей партии.
+1	В	_	_	_	_	_	_	_	Shift=1390
+2	свою	_	_	_	_	_	_	_	Shift=1392
+3	очередь	_	_	_	_	_	_	_	Shift=1397
+4	крымский	_	_	_	_	_	_	_	RuCor_chain_id=514|RuCor_group_id=411546|Shift=1405
+5	парламент	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=514|RuCor_group_id=411546|RuCor_link_id=411536|Shift=1414
+6	подконтролен	_	_	_	_	_	_	_	Shift=1424
+7	правящей	_	_	_	_	_	_	_	RuCor_chain_id=508|RuCor_group_id=411547|Shift=1437
+8	партии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=508|RuCor_group_id=411547|RuCor_link_id=411543|Shift=1446|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=1452
+
+# newpar id = b4261485-9570-4b3a-924e-91a9b440709d-p6
+# par_text = На Украине с ноября 2013 года продолжается политический кризис, причиной которого стал отказ руководства страны подписать соглашение об ассоциации с Евросоюзом. В середине января ситуация обострилась в связи с принятием нескольких законов, вызвавших недовольство оппозиции. В центре Киева начались беспорядки, которые потом перекинулись и на некоторые регионы страны.
+# sent_id = b4261485-9570-4b3a-924e-91a9b440709d-p6-s1
+# text = На Украине с ноября 2013 года продолжается политический кризис, причиной которого стал отказ руководства страны подписать соглашение об ассоциации с Евросоюзом.
+1	На	_	_	_	_	_	_	_	Shift=1454
+2	Украине	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=509|RuCor_group_id=411541|RuCor_link_id=411540|Shift=1457
+3	с	_	_	_	_	_	_	_	Shift=1465
+4	ноября	_	_	_	_	_	_	_	Shift=1467
+5	2013	_	_	_	_	_	_	_	Shift=1474
+6	года	_	_	_	_	_	_	_	Shift=1479
+7	продолжается	_	_	_	_	_	_	_	Shift=1484
+8	политический	_	_	_	_	_	_	_	RuCor_chain_id=506|RuCor_group_id=411548|Shift=1497
+9	кризис	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=506|RuCor_group_id=411548|RuCor_link_id=0|Shift=1510|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=1516
+11	причиной	_	_	_	_	_	_	_	Shift=1518
+12	которого	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=506|RuCor_group_id=411549|RuCor_link_id=411548|Shift=1527
+13	стал	_	_	_	_	_	_	_	Shift=1536
+14	отказ	_	_	_	_	_	_	_	Shift=1541
+15	руководства	_	_	_	_	_	_	_	Shift=1547
+16	страны	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=509|RuCor_group_id=411550|RuCor_link_id=411540|Shift=1559
+17	подписать	_	_	_	_	_	_	_	Shift=1566
+18	соглашение	_	_	_	_	_	_	_	Shift=1576
+19	об	_	_	_	_	_	_	_	Shift=1587
+20	ассоциации	_	_	_	_	_	_	_	Shift=1590
+21	с	_	_	_	_	_	_	_	Shift=1601
+22	Евросоюзом	_	_	_	_	_	_	_	Shift=1603|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=1613
+
+# sent_id = b4261485-9570-4b3a-924e-91a9b440709d-p6-s2
+# text = В середине января ситуация обострилась в связи с принятием нескольких законов, вызвавших недовольство оппозиции.
+1	В	_	_	_	_	_	_	_	Shift=1615
+2	середине	_	_	_	_	_	_	_	Shift=1617
+3	января	_	_	_	_	_	_	_	Shift=1626
+4	ситуация	_	_	_	_	_	_	_	Shift=1633
+5	обострилась	_	_	_	_	_	_	_	Shift=1642
+6	в	_	_	_	_	_	_	_	Shift=1654
+7	связи	_	_	_	_	_	_	_	Shift=1656
+8	с	_	_	_	_	_	_	_	Shift=1662
+9	принятием	_	_	_	_	_	_	_	Shift=1664
+10	нескольких	_	_	_	_	_	_	_	Shift=1674
+11	законов	_	_	_	_	_	_	_	Shift=1685|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=1692
+13	вызвавших	_	_	_	_	_	_	_	Shift=1694
+14	недовольство	_	_	_	_	_	_	_	Shift=1704
+15	оппозиции	_	_	_	_	_	_	_	Shift=1717|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=1726
+
+# sent_id = b4261485-9570-4b3a-924e-91a9b440709d-p6-s3
+# text = В центре Киева начались беспорядки, которые потом перекинулись и на некоторые регионы страны.
+1	В	_	_	_	_	_	_	_	Shift=1728
+2	центре	_	_	_	_	_	_	_	Shift=1730
+3	Киева	_	_	_	_	_	_	_	Shift=1737
+4	начались	_	_	_	_	_	_	_	Shift=1743
+5	беспорядки	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=505|RuCor_group_id=411551|RuCor_link_id=0|Shift=1752|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1762
+7	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=505|RuCor_group_id=411552|RuCor_link_id=411551|Shift=1764
+8	потом	_	_	_	_	_	_	_	Shift=1772
+9	перекинулись	_	_	_	_	_	_	_	Shift=1778
+10	и	_	_	_	_	_	_	_	Shift=1791
+11	на	_	_	_	_	_	_	_	Shift=1793
+12	некоторые	_	_	_	_	_	_	_	Shift=1796
+13	регионы	_	_	_	_	_	_	_	Shift=1806
+14	страны	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=509|RuCor_group_id=411553|RuCor_link_id=411540|Shift=1814|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	_
+

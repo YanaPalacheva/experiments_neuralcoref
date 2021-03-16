@@ -1,0 +1,5 @@
+Firmy wymienione poniżej ogłosiły zysk kwartalny, który różni się zasadniczo od średnich prognoz analityków.
+Firmy są obserwowane przez co najmniej trzech analityków i miały minimum 5-centową zmianę w zarobkach za akcję.
+Informacje o szacowanych i faktycznych wynikach dotyczących strat nie są podane.
+Różnica procentowa porównuje realny zysk z 30-dniowym szacunkiem, gdzie co najmniej trzech analityków wystawiło prognozy w ciągu ostatnich 30 dni.
+W przeciwnym razie realny zysk jest porównywany z 300-dniowym szacunkiem.

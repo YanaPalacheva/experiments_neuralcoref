@@ -1,0 +1,851 @@
+# newdoc id = 899db41e-26f4-4c90-be91-89fad7a8922f
+# newpar id = 899db41e-26f4-4c90-be91-89fad7a8922f-p1
+# par_text = В первый раз за два месяца с тех пор, как Виктор Бут был экстрадитрован из Таиланда в США, российскому бизнесмену, находящемуся в федеральной тюрьме Нью-Йорка, разрешили свидание с женой, сообщает NEWSru.com. «Вчера адвокат проинформировала меня, что тюремные власти наконец разрешили встречу, которая пройдет в понедельник днем, 24 января», — рассказала Алла Бут. «При этом свидание будет продолжаться три часа, а не как положено — в течение часа», — добавила она.
+# sent_id = 899db41e-26f4-4c90-be91-89fad7a8922f-p1-s1
+# text = В первый раз за два месяца с тех пор, как Виктор Бут был экстрадитрован из Таиланда в США, российскому бизнесмену, находящемуся в федеральной тюрьме Нью-Йорка, разрешили свидание с женой, сообщает NEWSru.com.
+1	В	_	_	_	_	_	_	_	Shift=0
+2	первый	_	_	_	_	_	_	_	Shift=2
+3	раз	_	_	_	_	_	_	_	Shift=9
+4	за	_	_	_	_	_	_	_	Shift=13
+5	два	_	_	_	_	_	_	_	Shift=16
+6	месяца	_	_	_	_	_	_	_	Shift=20
+7	с	_	_	_	_	_	_	_	Shift=27
+8	тех	_	_	_	_	_	_	_	Shift=29
+9	пор	_	_	_	_	_	_	_	Shift=33|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=36
+11	как	_	_	_	_	_	_	_	Shift=38
+12	Виктор	_	_	_	_	_	_	_	RuCor_chain_id=432|RuCor_group_id=411846|Shift=42
+13	Бут	_	_	_	_	_	_	_	RuCor_chain_id=432|RuCor_group_id=411846|Shift=49
+14	был	_	_	_	_	_	_	_	Shift=53
+15	экстрадитрован	_	_	_	_	_	_	_	Shift=57
+16	из	_	_	_	_	_	_	_	Shift=72
+17	Таиланда	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=422|RuCor_group_id=411897|RuCor_link_id=0|Shift=75
+18	в	_	_	_	_	_	_	_	Shift=84
+19	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=427|RuCor_group_id=411863|RuCor_link_id=0|Shift=86|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=89
+21	российскому	_	_	_	_	_	_	_	RuCor_chain_id=432|RuCor_group_id=411847|Shift=91
+22	бизнесмену	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=432|RuCor_group_id=411847|RuCor_link_id=411846|Shift=103|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=113
+24	находящемуся	_	_	_	_	_	_	_	Shift=115
+25	в	_	_	_	_	_	_	_	Shift=128
+26	федеральной	_	_	_	_	_	_	_	Shift=130
+27	тюрьме	_	_	_	_	_	_	_	Shift=142
+28	Нью-Йорка	_	_	_	_	_	_	_	Shift=149|SpaceAfter=No
+29	,	_	_	_	_	_	_	_	Shift=158
+30	разрешили	_	_	_	_	_	_	_	Shift=160
+31	свидание	_	_	_	_	_	_	_	Shift=170
+32	с	_	_	_	_	_	_	_	Shift=179
+33	женой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=431|RuCor_group_id=411848|RuCor_link_id=0|Shift=181|SpaceAfter=No
+34	,	_	_	_	_	_	_	_	Shift=186
+35	сообщает	_	_	_	_	_	_	_	Shift=188
+36	NEWSru.com	_	_	_	_	_	_	_	Shift=197|SpaceAfter=No
+37	.	_	_	_	_	_	_	_	Shift=207
+
+# sent_id = 899db41e-26f4-4c90-be91-89fad7a8922f-p1-s2
+# text = ``Вчера адвокат проинформировала меня, что тюремные власти наконец разрешили встречу, которая пройдет в понедельник днем, 24 января'', - рассказала Алла Бут.
+1	``	_	_	_	_	_	_	_	Shift=209|SpaceAfter=No
+2	Вчера	_	_	_	_	_	_	_	Shift=210
+3	адвокат	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=424|RuCor_group_id=411883|RuCor_link_id=0|Shift=216
+4	проинформировала	_	_	_	_	_	_	_	Shift=224
+5	меня	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=431|RuCor_group_id=411849|RuCor_link_id=411848|Shift=241|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=245
+7	что	_	_	_	_	_	_	_	Shift=247
+8	тюремные	_	_	_	_	_	_	_	RuCor_chain_id=426|RuCor_group_id=411868|Shift=251
+9	власти	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=426|RuCor_group_id=411868|RuCor_link_id=0|Shift=260
+10	наконец	_	_	_	_	_	_	_	Shift=267
+11	разрешили	_	_	_	_	_	_	_	Shift=275
+12	встречу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=430|RuCor_group_id=411850|RuCor_link_id=0|Shift=285|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=292
+14	которая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=430|RuCor_group_id=411851|RuCor_link_id=411850|Shift=294
+15	пройдет	_	_	_	_	_	_	_	Shift=302
+16	в	_	_	_	_	_	_	_	Shift=310
+17	понедельник	_	_	_	_	_	_	_	Shift=312
+18	днем	_	_	_	_	_	_	_	Shift=324|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=328
+20	24	_	_	_	_	_	_	_	Shift=330
+21	января	_	_	_	_	_	_	_	Shift=333|SpaceAfter=No
+22	''	_	_	_	_	_	_	_	Shift=339|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=340
+24	-	_	_	_	_	_	_	_	Shift=342
+25	рассказала	_	_	_	_	_	_	_	Shift=344
+26	Алла	_	_	_	_	_	_	_	RuCor_chain_id=431|RuCor_group_id=411852|Shift=355
+27	Бут	_	_	_	_	_	_	_	RuCor_chain_id=431|RuCor_group_id=411852|Shift=360|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=363
+
+# sent_id = 899db41e-26f4-4c90-be91-89fad7a8922f-p1-s3
+# text = ``При этом свидание будет продолжаться три часа, а не как положено - в течение часа'', - добавила она.
+1	``	_	_	_	_	_	_	_	Shift=365|SpaceAfter=No
+2	При	_	_	_	_	_	_	_	Shift=366
+3	этом	_	_	_	_	_	_	_	Shift=370
+4	свидание	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=430|RuCor_group_id=411853|RuCor_link_id=411850|Shift=375
+5	будет	_	_	_	_	_	_	_	Shift=384
+6	продолжаться	_	_	_	_	_	_	_	Shift=390
+7	три	_	_	_	_	_	_	_	Shift=403
+8	часа	_	_	_	_	_	_	_	Shift=407|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=411
+10	а	_	_	_	_	_	_	_	Shift=413
+11	не	_	_	_	_	_	_	_	Shift=415
+12	как	_	_	_	_	_	_	_	Shift=418
+13	положено	_	_	_	_	_	_	_	Shift=422
+14	-	_	_	_	_	_	_	_	Shift=431
+15	в	_	_	_	_	_	_	_	Shift=433
+16	течение	_	_	_	_	_	_	_	Shift=435
+17	часа	_	_	_	_	_	_	_	Shift=443|SpaceAfter=No
+18	''	_	_	_	_	_	_	_	Shift=447|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=448
+20	-	_	_	_	_	_	_	_	Shift=450
+21	добавила	_	_	_	_	_	_	_	Shift=452
+22	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=431|RuCor_group_id=411854|RuCor_link_id=411852|Shift=461|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=464
+
+# newpar id = 899db41e-26f4-4c90-be91-89fad7a8922f-p2
+# par_text = Как пояснила жена российского бизнесмена, такое относительно длительное свидание ей разрешили, учитывая, что на встречу с Виктором прибудут также его 16-летняя дочь Лиза и 74-летняя мать Раиса, приехавшие в США в начале января 2011 года. Алла Бут пока не знает, будут ли и последующие свидания с мужем продолжаться по три часа, или это лишь разовое «снисхождение» тюремных властей. Тем не менее супруга убеждена, что будущие встречи должны проходить «систематически, не реже одного раза в неделю и не менее одного часа».
+# sent_id = 899db41e-26f4-4c90-be91-89fad7a8922f-p2-s1
+# text = Как пояснила жена российского бизнесмена, такое относительно длительное свидание ей разрешили, учитывая, что на встречу с Виктором прибудут также его 16-летняя дочь Лиза и 74-летняя мать Раиса, приехавшие в США в начале января 2011 года.
+1	Как	_	_	_	_	_	_	_	Shift=466
+2	пояснила	_	_	_	_	_	_	_	Shift=470
+3	жена	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=431|RuCor_group_id=411855|RuCor_link_id=411852|Shift=479
+4	российского	_	_	_	_	_	_	_	RuCor_chain_id=431|RuCor_group_id=411855|Shift=484
+5	бизнесмена	_	_	_	_	_	_	_	RuCor_chain_id=431|RuCor_group_id=411855|Shift=496|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=506
+7	такое	_	_	_	_	_	_	_	Shift=508
+8	относительно	_	_	_	_	_	_	_	Shift=514
+9	длительное	_	_	_	_	_	_	_	Shift=527
+10	свидание	_	_	_	_	_	_	_	Shift=538
+11	ей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=431|RuCor_group_id=411856|RuCor_link_id=411855|Shift=547
+12	разрешили	_	_	_	_	_	_	_	Shift=550|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=559
+14	учитывая	_	_	_	_	_	_	_	Shift=561|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=569
+16	что	_	_	_	_	_	_	_	Shift=571
+17	на	_	_	_	_	_	_	_	Shift=575
+18	встречу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=430|RuCor_group_id=411858|RuCor_link_id=411850|Shift=578
+19	с	_	_	_	_	_	_	_	RuCor_chain_id=430|RuCor_group_id=411858|Shift=586
+20	Виктором	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=432|RuCor_group_id=411857|RuCor_link_id=411846|Shift=588
+21	прибудут	_	_	_	_	_	_	_	Shift=597
+22	также	_	_	_	_	_	_	_	Shift=606
+23	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=429|RuCor_group_id=411860|RuCor_link_id=411857|Shift=612
+24	16-летняя	_	_	_	_	_	_	_	Shift=616
+25	дочь	_	_	_	_	_	_	_	RuCor_chain_id=429|RuCor_group_id=411860|Shift=626
+26	Лиза	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=429|RuCor_group_id=411860|RuCor_link_id=0|Shift=631
+27	и	_	_	_	_	_	_	_	Shift=636
+28	74-летняя	_	_	_	_	_	_	_	Shift=638
+29	мать	_	_	_	_	_	_	_	RuCor_chain_id=428|RuCor_group_id=411862|Shift=648
+30	Раиса	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=428|RuCor_group_id=411862|RuCor_link_id=0|Shift=653|SpaceAfter=No
+31	,	_	_	_	_	_	_	_	Shift=658
+32	приехавшие	_	_	_	_	_	_	_	Shift=660
+33	в	_	_	_	_	_	_	_	Shift=671
+34	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=427|RuCor_group_id=411864|RuCor_link_id=411863|Shift=673
+35	в	_	_	_	_	_	_	_	Shift=677
+36	начале	_	_	_	_	_	_	_	Shift=679
+37	января	_	_	_	_	_	_	_	Shift=686
+38	2011	_	_	_	_	_	_	_	Shift=693
+39	года	_	_	_	_	_	_	_	Shift=698|SpaceAfter=No
+40	.	_	_	_	_	_	_	_	Shift=702
+
+# sent_id = 899db41e-26f4-4c90-be91-89fad7a8922f-p2-s2
+# text = Алла Бут пока не знает, будут ли и последующие свидания с мужем продолжаться по три часа, или это лишь разовое ``снисхождение'' тюремных властей.
+1	Алла	_	_	_	_	_	_	_	RuCor_chain_id=431|RuCor_group_id=411865|Shift=704
+2	Бут	_	_	_	_	_	_	_	RuCor_chain_id=431|RuCor_group_id=411865|Shift=709
+3	пока	_	_	_	_	_	_	_	Shift=713
+4	не	_	_	_	_	_	_	_	Shift=718
+5	знает	_	_	_	_	_	_	_	Shift=721|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=726
+7	будут	_	_	_	_	_	_	_	Shift=728
+8	ли	_	_	_	_	_	_	_	Shift=734
+9	и	_	_	_	_	_	_	_	Shift=737
+10	последующие	_	_	_	_	_	_	_	RuCor_chain_id=425|RuCor_group_id=411869|Shift=739
+11	свидания	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=425|RuCor_group_id=411869|RuCor_link_id=0|Shift=751
+12	с	_	_	_	_	_	_	_	Shift=760
+13	мужем	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=432|RuCor_group_id=411866|RuCor_link_id=411857|Shift=762
+14	продолжаться	_	_	_	_	_	_	_	Shift=768
+15	по	_	_	_	_	_	_	_	Shift=781
+16	три	_	_	_	_	_	_	_	Shift=784
+17	часа	_	_	_	_	_	_	_	Shift=788|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=792
+19	или	_	_	_	_	_	_	_	Shift=794
+20	это	_	_	_	_	_	_	_	Shift=798
+21	лишь	_	_	_	_	_	_	_	Shift=802
+22	разовое	_	_	_	_	_	_	_	Shift=807
+23	``	_	_	_	_	_	_	_	Shift=815|SpaceAfter=No
+24	снисхождение	_	_	_	_	_	_	_	Shift=816|SpaceAfter=No
+25	''	_	_	_	_	_	_	_	Shift=828
+26	тюремных	_	_	_	_	_	_	_	RuCor_chain_id=426|RuCor_group_id=411867|Shift=830
+27	властей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=426|RuCor_group_id=411867|RuCor_link_id=411868|Shift=839|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=846
+
+# sent_id = 899db41e-26f4-4c90-be91-89fad7a8922f-p2-s3
+# text = Тем не менее супруга убеждена, что будущие встречи должны проходить ``систематически, не реже одного раза в неделю и не менее одного часа''.
+1	Тем	_	_	_	_	_	_	_	Shift=848
+2	не	_	_	_	_	_	_	_	Shift=852
+3	менее	_	_	_	_	_	_	_	Shift=855
+4	супруга	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=431|RuCor_group_id=411861|RuCor_link_id=411865|Shift=861
+5	убеждена	_	_	_	_	_	_	_	Shift=869|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=877
+7	что	_	_	_	_	_	_	_	Shift=879
+8	будущие	_	_	_	_	_	_	_	RuCor_chain_id=425|RuCor_group_id=411870|Shift=883
+9	встречи	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=425|RuCor_group_id=411870|RuCor_link_id=411869|Shift=891
+10	должны	_	_	_	_	_	_	_	Shift=899
+11	проходить	_	_	_	_	_	_	_	Shift=906
+12	``	_	_	_	_	_	_	_	Shift=916|SpaceAfter=No
+13	систематически	_	_	_	_	_	_	_	Shift=917|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=931
+15	не	_	_	_	_	_	_	_	Shift=933
+16	реже	_	_	_	_	_	_	_	Shift=936
+17	одного	_	_	_	_	_	_	_	Shift=941
+18	раза	_	_	_	_	_	_	_	Shift=948
+19	в	_	_	_	_	_	_	_	Shift=953
+20	неделю	_	_	_	_	_	_	_	Shift=955
+21	и	_	_	_	_	_	_	_	Shift=962
+22	не	_	_	_	_	_	_	_	Shift=964
+23	менее	_	_	_	_	_	_	_	Shift=967
+24	одного	_	_	_	_	_	_	_	Shift=973
+25	часа	_	_	_	_	_	_	_	Shift=980|SpaceAfter=No
+26	''	_	_	_	_	_	_	_	Shift=984|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=985
+
+# newpar id = 899db41e-26f4-4c90-be91-89fad7a8922f-p3
+# par_text = Алла Бут посетовала, что на свидание ей ничего не разрешили взять с собой. «Утверждают, что это общепринятое правило, — пояснила она, — но ведь со времени экстрадиции мы не имели даже возможности поговорить с Виктором по телефону, и я не знаю, в чем он нуждается, какие у него проблемы». Бут рассказала, что супруга до сих пор «содержат в спецблоке для особо опасных преступников, поэтому никаких возможностей связаться с ним по телефону не было».
+# sent_id = 899db41e-26f4-4c90-be91-89fad7a8922f-p3-s1
+# text = Алла Бут посетовала, что на свидание ей ничего не разрешили взять с собой.
+1	Алла	_	_	_	_	_	_	_	RuCor_chain_id=431|RuCor_group_id=411871|Shift=987
+2	Бут	_	_	_	_	_	_	_	RuCor_chain_id=431|RuCor_group_id=411871|Shift=992
+3	посетовала	_	_	_	_	_	_	_	Shift=996|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1006
+5	что	_	_	_	_	_	_	_	Shift=1008
+6	на	_	_	_	_	_	_	_	Shift=1012
+7	свидание	_	_	_	_	_	_	_	Shift=1015
+8	ей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=431|RuCor_group_id=411872|RuCor_link_id=411861|Shift=1024
+9	ничего	_	_	_	_	_	_	_	Shift=1027
+10	не	_	_	_	_	_	_	_	Shift=1034
+11	разрешили	_	_	_	_	_	_	_	Shift=1037
+12	взять	_	_	_	_	_	_	_	Shift=1047
+13	с	_	_	_	_	_	_	_	Shift=1053
+14	собой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=431|RuCor_group_id=411873|RuCor_link_id=411872|Shift=1055|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=1060
+
+# sent_id = 899db41e-26f4-4c90-be91-89fad7a8922f-p3-s2
+# text = ``Утверждают, что это общепринятое правило, - пояснила она, - но ведь со времени экстрадиции мы не имели даже возможности поговорить с Виктором по телефону, и я не знаю, в чем он нуждается, какие у него проблемы''.
+1	``	_	_	_	_	_	_	_	Shift=1062|SpaceAfter=No
+2	Утверждают	_	_	_	_	_	_	_	Shift=1063|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1073
+4	что	_	_	_	_	_	_	_	Shift=1075
+5	это	_	_	_	_	_	_	_	Shift=1079
+6	общепринятое	_	_	_	_	_	_	_	Shift=1083
+7	правило	_	_	_	_	_	_	_	Shift=1096|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1103
+9	-	_	_	_	_	_	_	_	Shift=1105
+10	пояснила	_	_	_	_	_	_	_	Shift=1107
+11	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=431|RuCor_group_id=411874|RuCor_link_id=411873|Shift=1116|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=1119
+13	-	_	_	_	_	_	_	_	Shift=1121
+14	но	_	_	_	_	_	_	_	Shift=1123
+15	ведь	_	_	_	_	_	_	_	Shift=1126
+16	со	_	_	_	_	_	_	_	Shift=1131
+17	времени	_	_	_	_	_	_	_	Shift=1134
+18	экстрадиции	_	_	_	_	_	_	_	Shift=1142
+19	мы	_	_	_	_	_	_	_	Shift=1154
+20	не	_	_	_	_	_	_	_	Shift=1157
+21	имели	_	_	_	_	_	_	_	Shift=1160
+22	даже	_	_	_	_	_	_	_	Shift=1166
+23	возможности	_	_	_	_	_	_	_	Shift=1171
+24	поговорить	_	_	_	_	_	_	_	Shift=1183
+25	с	_	_	_	_	_	_	_	Shift=1194
+26	Виктором	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=432|RuCor_group_id=411875|RuCor_link_id=411866|Shift=1196
+27	по	_	_	_	_	_	_	_	Shift=1205
+28	телефону	_	_	_	_	_	_	_	Shift=1208|SpaceAfter=No
+29	,	_	_	_	_	_	_	_	Shift=1216
+30	и	_	_	_	_	_	_	_	Shift=1218
+31	я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=431|RuCor_group_id=411876|RuCor_link_id=411874|Shift=1220
+32	не	_	_	_	_	_	_	_	Shift=1222
+33	знаю	_	_	_	_	_	_	_	Shift=1225|SpaceAfter=No
+34	,	_	_	_	_	_	_	_	Shift=1229
+35	в	_	_	_	_	_	_	_	Shift=1231
+36	чем	_	_	_	_	_	_	_	Shift=1233
+37	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=432|RuCor_group_id=411877|RuCor_link_id=411875|Shift=1237
+38	нуждается	_	_	_	_	_	_	_	Shift=1240|SpaceAfter=No
+39	,	_	_	_	_	_	_	_	Shift=1249
+40	какие	_	_	_	_	_	_	_	Shift=1251
+41	у	_	_	_	_	_	_	_	Shift=1257
+42	него	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=432|RuCor_group_id=411878|RuCor_link_id=411875|Shift=1259
+43	проблемы	_	_	_	_	_	_	_	Shift=1264|SpaceAfter=No
+44	''	_	_	_	_	_	_	_	Shift=1272|SpaceAfter=No
+45	.	_	_	_	_	_	_	_	Shift=1273
+
+# sent_id = 899db41e-26f4-4c90-be91-89fad7a8922f-p3-s3
+# text = Бут рассказала, что супруга до сих пор ``содержат в спецблоке для особо опасных преступников, поэтому никаких возможностей связаться с ним по телефону не было''.
+1	Бут	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=431|RuCor_group_id=411879|RuCor_link_id=411874|Shift=1275
+2	рассказала	_	_	_	_	_	_	_	Shift=1279|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1289
+4	что	_	_	_	_	_	_	_	Shift=1291
+5	супруга	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=432|RuCor_group_id=411880|RuCor_link_id=411878|Shift=1295
+6	до	_	_	_	_	_	_	_	Shift=1303
+7	сих	_	_	_	_	_	_	_	Shift=1306
+8	пор	_	_	_	_	_	_	_	Shift=1310
+9	``	_	_	_	_	_	_	_	Shift=1314|SpaceAfter=No
+10	содержат	_	_	_	_	_	_	_	Shift=1315
+11	в	_	_	_	_	_	_	_	Shift=1324
+12	спецблоке	_	_	_	_	_	_	_	Shift=1326
+13	для	_	_	_	_	_	_	_	Shift=1336
+14	особо	_	_	_	_	_	_	_	Shift=1340
+15	опасных	_	_	_	_	_	_	_	Shift=1346
+16	преступников	_	_	_	_	_	_	_	Shift=1354|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=1366
+18	поэтому	_	_	_	_	_	_	_	Shift=1368
+19	никаких	_	_	_	_	_	_	_	Shift=1376
+20	возможностей	_	_	_	_	_	_	_	Shift=1384
+21	связаться	_	_	_	_	_	_	_	Shift=1397
+22	с	_	_	_	_	_	_	_	Shift=1407
+23	ним	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=432|RuCor_group_id=411881|RuCor_link_id=411880|Shift=1409
+24	по	_	_	_	_	_	_	_	Shift=1413
+25	телефону	_	_	_	_	_	_	_	Shift=1416
+26	не	_	_	_	_	_	_	_	Shift=1425
+27	было	_	_	_	_	_	_	_	Shift=1428|SpaceAfter=No
+28	''	_	_	_	_	_	_	_	Shift=1432|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	Shift=1433
+
+# newpar id = 899db41e-26f4-4c90-be91-89fad7a8922f-p4
+# par_text = Интересы Виктора Бута на сегодняшний день представляет прежний федеральный адвокат — Сабрина Шрофф. Однако всё последнее время Виктор встречался с другими правозащитниками, предлагающими ему свои услуги. «Это не значит, что он хочет поменять адвоката или недоволен ею, — пояснила Алла Бут. — Но мы пока не знаем ни здешней системы, ни всех юридических тонкостей, механизмов, законодательства, поэтому просто вынуждены собирать как можно больше информации от профессионалов». В то же время супруга не исключила того, что «в определенной ситуации, связанной с финансовыми условиями и другими факторами, придётся воспользоваться помощью и других юристов».
+# sent_id = 899db41e-26f4-4c90-be91-89fad7a8922f-p4-s1
+# text = Интересы Виктора Бута на сегодняшний день представляет прежний федеральный адвокат - Сабрина Шрофф.
+1	Интересы	_	_	_	_	_	_	_	Shift=1435
+2	Виктора	_	_	_	_	_	_	_	RuCor_chain_id=432|RuCor_group_id=411882|Shift=1444
+3	Бута	_	_	_	_	_	_	_	RuCor_chain_id=432|RuCor_group_id=411882|Shift=1452
+4	на	_	_	_	_	_	_	_	Shift=1457
+5	сегодняшний	_	_	_	_	_	_	_	Shift=1460
+6	день	_	_	_	_	_	_	_	Shift=1472
+7	представляет	_	_	_	_	_	_	_	Shift=1477
+8	прежний	_	_	_	_	_	_	_	RuCor_chain_id=424|RuCor_group_id=411884|Shift=1490
+9	федеральный	_	_	_	_	_	_	_	RuCor_chain_id=424|RuCor_group_id=411884|Shift=1498
+10	адвокат	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=appo|RuCor_attrs_type=coref|RuCor_chain_id=424|RuCor_group_id=411884|RuCor_link_id=411883|Shift=1510
+11	-	_	_	_	_	_	_	_	Shift=1518
+12	Сабрина	_	_	_	_	_	_	_	RuCor_chain_id=424|RuCor_group_id=411885|Shift=1520
+13	Шрофф	_	_	_	_	_	_	_	RuCor_chain_id=424|RuCor_group_id=411885|Shift=1528|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=1533
+
+# sent_id = 899db41e-26f4-4c90-be91-89fad7a8922f-p4-s2
+# text = Однако всё последнее время Виктор встречался с другими правозащитниками, предлагающими ему свои услуги.
+1	Однако	_	_	_	_	_	_	_	Shift=1535
+2	всё	_	_	_	_	_	_	_	Shift=1542
+3	последнее	_	_	_	_	_	_	_	Shift=1546
+4	время	_	_	_	_	_	_	_	Shift=1556
+5	Виктор	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=432|RuCor_group_id=411886|RuCor_link_id=411882|Shift=1562
+6	встречался	_	_	_	_	_	_	_	Shift=1569
+7	с	_	_	_	_	_	_	_	Shift=1580
+8	другими	_	_	_	_	_	_	_	RuCor_chain_id=423|RuCor_group_id=411887|Shift=1582
+9	правозащитниками	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=423|RuCor_group_id=411887|RuCor_link_id=0|Shift=1590|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=1606
+11	предлагающими	_	_	_	_	_	_	_	Shift=1608
+12	ему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=432|RuCor_group_id=411888|RuCor_link_id=411882|Shift=1622
+13	свои	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=423|RuCor_group_id=411889|RuCor_link_id=411887|Shift=1626
+14	услуги	_	_	_	_	_	_	_	Shift=1631|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=1637
+
+# sent_id = 899db41e-26f4-4c90-be91-89fad7a8922f-p4-s3
+# text = ``Это не значит, что он хочет поменять адвоката или недоволен ею, - пояснила Алла Бут. - Но мы пока не знаем ни здешней системы, ни всех юридических тонкостей, механизмов, законодательства, поэтому просто вынуждены собирать как можно больше информации от профессионалов''.
+1	``	_	_	_	_	_	_	_	Shift=1639|SpaceAfter=No
+2	Это	_	_	_	_	_	_	_	Shift=1640
+3	не	_	_	_	_	_	_	_	Shift=1644
+4	значит	_	_	_	_	_	_	_	Shift=1647|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1653
+6	что	_	_	_	_	_	_	_	Shift=1655
+7	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=432|RuCor_group_id=411890|RuCor_link_id=411888|Shift=1659
+8	хочет	_	_	_	_	_	_	_	Shift=1662
+9	поменять	_	_	_	_	_	_	_	Shift=1668
+10	адвоката	_	_	_	_	_	_	_	Shift=1677
+11	или	_	_	_	_	_	_	_	Shift=1686
+12	недоволен	_	_	_	_	_	_	_	Shift=1690
+13	ею	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=424|RuCor_group_id=411891|RuCor_link_id=411885|Shift=1700|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=1702
+15	-	_	_	_	_	_	_	_	Shift=1704
+16	пояснила	_	_	_	_	_	_	_	Shift=1706
+17	Алла	_	_	_	_	_	_	_	RuCor_chain_id=431|RuCor_group_id=411892|Shift=1715
+18	Бут.	_	_	_	_	_	_	_	Shift=1720
+19	-	_	_	_	_	_	_	_	Shift=1725
+20	Но	_	_	_	_	_	_	_	Shift=1727
+21	мы	_	_	_	_	_	_	_	Shift=1730
+22	пока	_	_	_	_	_	_	_	Shift=1733
+23	не	_	_	_	_	_	_	_	Shift=1738
+24	знаем	_	_	_	_	_	_	_	Shift=1741
+25	ни	_	_	_	_	_	_	_	Shift=1747
+26	здешней	_	_	_	_	_	_	_	Shift=1750
+27	системы	_	_	_	_	_	_	_	Shift=1758|SpaceAfter=No
+28	,	_	_	_	_	_	_	_	Shift=1765
+29	ни	_	_	_	_	_	_	_	Shift=1767
+30	всех	_	_	_	_	_	_	_	Shift=1770
+31	юридических	_	_	_	_	_	_	_	Shift=1775
+32	тонкостей	_	_	_	_	_	_	_	Shift=1787|SpaceAfter=No
+33	,	_	_	_	_	_	_	_	Shift=1796
+34	механизмов	_	_	_	_	_	_	_	Shift=1798|SpaceAfter=No
+35	,	_	_	_	_	_	_	_	Shift=1808
+36	законодательства	_	_	_	_	_	_	_	Shift=1810|SpaceAfter=No
+37	,	_	_	_	_	_	_	_	Shift=1826
+38	поэтому	_	_	_	_	_	_	_	Shift=1828
+39	просто	_	_	_	_	_	_	_	Shift=1836
+40	вынуждены	_	_	_	_	_	_	_	Shift=1843
+41	собирать	_	_	_	_	_	_	_	Shift=1853
+42	как	_	_	_	_	_	_	_	Shift=1862
+43	можно	_	_	_	_	_	_	_	Shift=1866
+44	больше	_	_	_	_	_	_	_	Shift=1872
+45	информации	_	_	_	_	_	_	_	Shift=1879
+46	от	_	_	_	_	_	_	_	Shift=1890
+47	профессионалов	_	_	_	_	_	_	_	Shift=1893|SpaceAfter=No
+48	''	_	_	_	_	_	_	_	Shift=1907|SpaceAfter=No
+49	.	_	_	_	_	_	_	_	Shift=1908
+
+# sent_id = 899db41e-26f4-4c90-be91-89fad7a8922f-p4-s4
+# text = В то же время супруга не исключила того, что ``в определенной ситуации, связанной с финансовыми условиями и другими факторами, придётся воспользоваться помощью и других юристов''.
+1	В	_	_	_	_	_	_	_	Shift=1910
+2	то	_	_	_	_	_	_	_	Shift=1912
+3	же	_	_	_	_	_	_	_	Shift=1915
+4	время	_	_	_	_	_	_	_	Shift=1918
+5	супруга	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=431|RuCor_group_id=411893|RuCor_link_id=411892|Shift=1924
+6	не	_	_	_	_	_	_	_	Shift=1932
+7	исключила	_	_	_	_	_	_	_	Shift=1935
+8	того	_	_	_	_	_	_	_	Shift=1945|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1949
+10	что	_	_	_	_	_	_	_	Shift=1951
+11	``	_	_	_	_	_	_	_	Shift=1955|SpaceAfter=No
+12	в	_	_	_	_	_	_	_	Shift=1956
+13	определенной	_	_	_	_	_	_	_	Shift=1958
+14	ситуации	_	_	_	_	_	_	_	Shift=1971|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=1979
+16	связанной	_	_	_	_	_	_	_	Shift=1981
+17	с	_	_	_	_	_	_	_	Shift=1991
+18	финансовыми	_	_	_	_	_	_	_	Shift=1993
+19	условиями	_	_	_	_	_	_	_	Shift=2005
+20	и	_	_	_	_	_	_	_	Shift=2015
+21	другими	_	_	_	_	_	_	_	Shift=2017
+22	факторами	_	_	_	_	_	_	_	Shift=2025|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=2034
+24	придётся	_	_	_	_	_	_	_	Shift=2036
+25	воспользоваться	_	_	_	_	_	_	_	Shift=2045
+26	помощью	_	_	_	_	_	_	_	Shift=2061
+27	и	_	_	_	_	_	_	_	Shift=2069
+28	других	_	_	_	_	_	_	_	Shift=2071
+29	юристов	_	_	_	_	_	_	_	Shift=2078|SpaceAfter=No
+30	''	_	_	_	_	_	_	_	Shift=2085|SpaceAfter=No
+31	.	_	_	_	_	_	_	_	Shift=2086
+
+# newpar id = 899db41e-26f4-4c90-be91-89fad7a8922f-p5
+# par_text = В пятницу, 21 января, на досудебных слушаниях по делу российского бизнесмена, обвиняемого в незаконной торговле оружием, Алла впервые с момента экстрадиции Виктора из Таиланда сможет увидеть супруга. «Мы не виделись с 15 ноября и планируем все вместе, втроём — с дочкой и мамой Виктора, — прийти в суд, — сказала она. — По крайней мере пока нам никто этого не запрещал». По её словам, данное заседание будет носить скорее технический характер — стороны огласят свои намерения, подадут ходатайства, а суд определит примерные сроки подготовки к процессу.
+# sent_id = 899db41e-26f4-4c90-be91-89fad7a8922f-p5-s1
+# text = В пятницу, 21 января, на досудебных слушаниях по делу российского бизнесмена, обвиняемого в незаконной торговле оружием, Алла впервые с момента экстрадиции Виктора из Таиланда сможет увидеть супруга.
+1	В	_	_	_	_	_	_	_	Shift=2088
+2	пятницу	_	_	_	_	_	_	_	Shift=2090|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=2097
+4	21	_	_	_	_	_	_	_	Shift=2099
+5	января	_	_	_	_	_	_	_	Shift=2102|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=2108
+7	на	_	_	_	_	_	_	_	Shift=2110
+8	досудебных	_	_	_	_	_	_	_	RuCor_chain_id=421|RuCor_group_id=411905|Shift=2113
+9	слушаниях	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=421|RuCor_group_id=411905|RuCor_link_id=0|Shift=2124
+10	по	_	_	_	_	_	_	_	RuCor_chain_id=421|RuCor_group_id=411905|Shift=2134
+11	делу	_	_	_	_	_	_	_	RuCor_chain_id=421|RuCor_group_id=411905|Shift=2137
+12	российского	_	_	_	_	_	_	_	RuCor_chain_id=432|RuCor_group_id=411894|Shift=2142
+13	бизнесмена	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=432|RuCor_group_id=411894|RuCor_link_id=411881|Shift=2154|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=2164
+15	обвиняемого	_	_	_	_	_	_	_	Shift=2166
+16	в	_	_	_	_	_	_	_	Shift=2178
+17	незаконной	_	_	_	_	_	_	_	Shift=2180
+18	торговле	_	_	_	_	_	_	_	Shift=2191
+19	оружием	_	_	_	_	_	_	_	Shift=2200|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=2207
+21	Алла	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=431|RuCor_group_id=411895|RuCor_link_id=411892|Shift=2209
+22	впервые	_	_	_	_	_	_	_	Shift=2214
+23	с	_	_	_	_	_	_	_	Shift=2222
+24	момента	_	_	_	_	_	_	_	Shift=2224
+25	экстрадиции	_	_	_	_	_	_	_	Shift=2232
+26	Виктора	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=432|RuCor_group_id=411896|RuCor_link_id=411882|Shift=2244
+27	из	_	_	_	_	_	_	_	Shift=2252
+28	Таиланда	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=422|RuCor_group_id=411898|RuCor_link_id=411897|Shift=2255
+29	сможет	_	_	_	_	_	_	_	Shift=2264
+30	увидеть	_	_	_	_	_	_	_	Shift=2271
+31	супруга	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=431|RuCor_group_id=411899|RuCor_link_id=411895|Shift=2279|SpaceAfter=No
+32	.	_	_	_	_	_	_	_	Shift=2286
+
+# sent_id = 899db41e-26f4-4c90-be91-89fad7a8922f-p5-s2
+# text = ``Мы не виделись с 15 ноября и планируем все вместе, втроём - с дочкой и мамой Виктора, - прийти в суд, - сказала она.
+1	``	_	_	_	_	_	_	_	Shift=2288|SpaceAfter=No
+2	Мы	_	_	_	_	_	_	_	Shift=2289
+3	не	_	_	_	_	_	_	_	Shift=2292
+4	виделись	_	_	_	_	_	_	_	Shift=2295
+5	с	_	_	_	_	_	_	_	Shift=2304
+6	15	_	_	_	_	_	_	_	Shift=2306
+7	ноября	_	_	_	_	_	_	_	Shift=2309
+8	и	_	_	_	_	_	_	_	Shift=2316
+9	планируем	_	_	_	_	_	_	_	Shift=2318
+10	все	_	_	_	_	_	_	_	Shift=2328
+11	вместе	_	_	_	_	_	_	_	Shift=2332|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=2338
+13	втроём	_	_	_	_	_	_	_	Shift=2340
+14	-	_	_	_	_	_	_	_	Shift=2347
+15	с	_	_	_	_	_	_	_	Shift=2349
+16	дочкой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=429|RuCor_group_id=411900|RuCor_link_id=411860|Shift=2351
+17	и	_	_	_	_	_	_	_	Shift=2358
+18	мамой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=428|RuCor_group_id=411901|RuCor_link_id=411862|Shift=2360
+19	Виктора	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=432|RuCor_group_id=411902|RuCor_link_id=411886|Shift=2366|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=2373
+21	-	_	_	_	_	_	_	_	Shift=2375
+22	прийти	_	_	_	_	_	_	_	Shift=2377
+23	в	_	_	_	_	_	_	_	Shift=2384
+24	суд	_	_	_	_	_	_	_	Shift=2386|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=2389
+26	-	_	_	_	_	_	_	_	Shift=2391
+27	сказала	_	_	_	_	_	_	_	Shift=2393
+28	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=431|RuCor_group_id=411903|RuCor_link_id=411895|Shift=2401|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	Shift=2404
+
+# sent_id = 899db41e-26f4-4c90-be91-89fad7a8922f-p5-s3
+# text = - По крайней мере пока нам никто этого не запрещал''.
+1	-	_	_	_	_	_	_	_	Shift=2406
+2	По	_	_	_	_	_	_	_	Shift=2408
+3	крайней	_	_	_	_	_	_	_	Shift=2411
+4	мере	_	_	_	_	_	_	_	Shift=2419
+5	пока	_	_	_	_	_	_	_	Shift=2424
+6	нам	_	_	_	_	_	_	_	Shift=2429
+7	никто	_	_	_	_	_	_	_	Shift=2433
+8	этого	_	_	_	_	_	_	_	Shift=2439
+9	не	_	_	_	_	_	_	_	Shift=2445
+10	запрещал	_	_	_	_	_	_	_	Shift=2448|SpaceAfter=No
+11	''	_	_	_	_	_	_	_	Shift=2456|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=2457
+
+# sent_id = 899db41e-26f4-4c90-be91-89fad7a8922f-p5-s4
+# text = По её словам, данное заседание будет носить скорее технический характер - стороны огласят свои намерения, подадут ходатайства, а суд определит примерные сроки подготовки к процессу.
+1	По	_	_	_	_	_	_	_	Shift=2459
+2	её	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=431|RuCor_group_id=411904|RuCor_link_id=411895|Shift=2462
+3	словам	_	_	_	_	_	_	_	Shift=2465|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2471
+5	данное	_	_	_	_	_	_	_	RuCor_chain_id=421|RuCor_group_id=411906|Shift=2473
+6	заседание	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=421|RuCor_group_id=411906|RuCor_link_id=411905|Shift=2480
+7	будет	_	_	_	_	_	_	_	Shift=2490
+8	носить	_	_	_	_	_	_	_	Shift=2496
+9	скорее	_	_	_	_	_	_	_	Shift=2503
+10	технический	_	_	_	_	_	_	_	Shift=2510
+11	характер	_	_	_	_	_	_	_	Shift=2522
+12	-	_	_	_	_	_	_	_	Shift=2531
+13	стороны	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=420|RuCor_group_id=411907|RuCor_link_id=0|Shift=2533
+14	огласят	_	_	_	_	_	_	_	Shift=2541
+15	свои	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=420|RuCor_group_id=411908|RuCor_link_id=411907|Shift=2549
+16	намерения	_	_	_	_	_	_	_	Shift=2554|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=2563
+18	подадут	_	_	_	_	_	_	_	Shift=2565
+19	ходатайства	_	_	_	_	_	_	_	Shift=2573|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=2584
+21	а	_	_	_	_	_	_	_	Shift=2586
+22	суд	_	_	_	_	_	_	_	Shift=2588
+23	определит	_	_	_	_	_	_	_	Shift=2592
+24	примерные	_	_	_	_	_	_	_	Shift=2602
+25	сроки	_	_	_	_	_	_	_	Shift=2612
+26	подготовки	_	_	_	_	_	_	_	Shift=2618
+27	к	_	_	_	_	_	_	_	Shift=2629
+28	процессу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=419|RuCor_group_id=411910|RuCor_link_id=0|Shift=2631|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	Shift=2639
+
+# newpar id = 899db41e-26f4-4c90-be91-89fad7a8922f-p6
+# par_text = В настоящее время супруга, дочь и мама Виктора Бута проживают в арендуемой в Нью-Йорке квартире. Как долго они смогут находиться здесь, во многом будет зависеть от графика проведения судебного процесса.
+# sent_id = 899db41e-26f4-4c90-be91-89fad7a8922f-p6-s1
+# text = В настоящее время супруга, дочь и мама Виктора Бута проживают в арендуемой в Нью-Йорке квартире.
+1	В	_	_	_	_	_	_	_	Shift=2641
+2	настоящее	_	_	_	_	_	_	_	Shift=2643
+3	время	_	_	_	_	_	_	_	Shift=2653
+4	супруга	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=418|RuCor_group_id=411916|RuCor_link_id=411852|Shift=2659|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	RuCor_chain_id=418|RuCor_group_id=411916|Shift=2666
+6	дочь	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=429|RuCor_group_id=411912|RuCor_link_id=411860|Shift=2668
+7	и	_	_	_	_	_	_	_	RuCor_chain_id=418|RuCor_group_id=411916|Shift=2673
+8	мама	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=428|RuCor_group_id=411913|RuCor_link_id=411862|Shift=2675
+9	Виктора	_	_	_	_	_	_	_	RuCor_chain_id=432|RuCor_group_id=411914|Shift=2680
+10	Бута	_	_	_	_	_	_	_	RuCor_chain_id=432|RuCor_group_id=411914|Shift=2688
+11	проживают	_	_	_	_	_	_	_	Shift=2693
+12	в	_	_	_	_	_	_	_	Shift=2703
+13	арендуемой	_	_	_	_	_	_	_	Shift=2705
+14	в	_	_	_	_	_	_	_	Shift=2716
+15	Нью-Йорке	_	_	_	_	_	_	_	Shift=2718
+16	квартире	_	_	_	_	_	_	_	Shift=2728|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=2736
+
+# sent_id = 899db41e-26f4-4c90-be91-89fad7a8922f-p6-s2
+# text = Как долго они смогут находиться здесь, во многом будет зависеть от графика проведения судебного процесса.
+1	Как	_	_	_	_	_	_	_	Shift=2738
+2	долго	_	_	_	_	_	_	_	Shift=2742
+3	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=418|RuCor_group_id=411915|RuCor_link_id=411916|Shift=2748
+4	смогут	_	_	_	_	_	_	_	Shift=2752
+5	находиться	_	_	_	_	_	_	_	Shift=2759
+6	здесь	_	_	_	_	_	_	_	Shift=2770|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=2775
+8	во	_	_	_	_	_	_	_	Shift=2777
+9	многом	_	_	_	_	_	_	_	Shift=2780
+10	будет	_	_	_	_	_	_	_	Shift=2787
+11	зависеть	_	_	_	_	_	_	_	Shift=2793
+12	от	_	_	_	_	_	_	_	Shift=2802
+13	графика	_	_	_	_	_	_	_	Shift=2805
+14	проведения	_	_	_	_	_	_	_	Shift=2813
+15	судебного	_	_	_	_	_	_	_	RuCor_chain_id=419|RuCor_group_id=411909|Shift=2824
+16	процесса	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=419|RuCor_group_id=411909|RuCor_link_id=411910|Shift=2834|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=2842
+
+# newpar id = 899db41e-26f4-4c90-be91-89fad7a8922f-p7
+# par_text = Виктор Бут был арестован в Бангкоке в марте 2008 года по запросу США. В ноябре 2010 года власти Таиланда экстрадировали Бута в США. Сейчас он содержится в следственном изоляторе федерального суда Южного округа Нью-Йорка. Буту 17 ноября 2010 года были предъявлены обвинения из четырёх пунктов. Ему вменяется «преступный сговор с целью убийства граждан США», «преступный сговор с целью убийства должностных лиц, находящихся на государственной службе», «преступный сговор с целью приобретения и продажи зенитных ракет» и «преступной сговор с целью поставок оружия террористическим группировкам».
+# sent_id = 899db41e-26f4-4c90-be91-89fad7a8922f-p7-s1
+# text = Виктор Бут был арестован в Бангкоке в марте 2008 года по запросу США.
+1	Виктор	_	_	_	_	_	_	_	RuCor_chain_id=432|RuCor_group_id=411917|Shift=2844
+2	Бут	_	_	_	_	_	_	_	RuCor_chain_id=432|RuCor_group_id=411917|Shift=2851
+3	был	_	_	_	_	_	_	_	Shift=2855
+4	арестован	_	_	_	_	_	_	_	Shift=2859
+5	в	_	_	_	_	_	_	_	Shift=2869
+6	Бангкоке	_	_	_	_	_	_	_	Shift=2871
+7	в	_	_	_	_	_	_	_	Shift=2880
+8	марте	_	_	_	_	_	_	_	Shift=2882
+9	2008	_	_	_	_	_	_	_	Shift=2888
+10	года	_	_	_	_	_	_	_	Shift=2893
+11	по	_	_	_	_	_	_	_	Shift=2898
+12	запросу	_	_	_	_	_	_	_	Shift=2901
+13	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=427|RuCor_group_id=411918|RuCor_link_id=411863|Shift=2909|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=2912
+
+# sent_id = 899db41e-26f4-4c90-be91-89fad7a8922f-p7-s2
+# text = В ноябре 2010 года власти Таиланда экстрадировали Бута в США.
+1	В	_	_	_	_	_	_	_	Shift=2914
+2	ноябре	_	_	_	_	_	_	_	Shift=2916
+3	2010	_	_	_	_	_	_	_	Shift=2923
+4	года	_	_	_	_	_	_	_	Shift=2928
+5	власти	_	_	_	_	_	_	_	Shift=2933
+6	Таиланда	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=422|RuCor_group_id=411919|RuCor_link_id=411897|Shift=2940
+7	экстрадировали	_	_	_	_	_	_	_	Shift=2949
+8	Бута	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=432|RuCor_group_id=411920|RuCor_link_id=411917|Shift=2964
+9	в	_	_	_	_	_	_	_	Shift=2969
+10	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=427|RuCor_group_id=411921|RuCor_link_id=411863|Shift=2971|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=2974
+
+# sent_id = 899db41e-26f4-4c90-be91-89fad7a8922f-p7-s3
+# text = Сейчас он содержится в следственном изоляторе федерального суда Южного округа Нью-Йорка.
+1	Сейчас	_	_	_	_	_	_	_	Shift=2976
+2	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=432|RuCor_group_id=411922|RuCor_link_id=411920|Shift=2983
+3	содержится	_	_	_	_	_	_	_	Shift=2986
+4	в	_	_	_	_	_	_	_	Shift=2997
+5	следственном	_	_	_	_	_	_	_	Shift=2999
+6	изоляторе	_	_	_	_	_	_	_	Shift=3012
+7	федерального	_	_	_	_	_	_	_	Shift=3022
+8	суда	_	_	_	_	_	_	_	Shift=3035
+9	Южного	_	_	_	_	_	_	_	Shift=3040
+10	округа	_	_	_	_	_	_	_	Shift=3047
+11	Нью-Йорка	_	_	_	_	_	_	_	Shift=3054|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=3063
+
+# sent_id = 899db41e-26f4-4c90-be91-89fad7a8922f-p7-s4
+# text = Буту 17 ноября 2010 года были предъявлены обвинения из четырёх пунктов.
+1	Буту	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=432|RuCor_group_id=411926|RuCor_link_id=411917|Shift=3065
+2	17	_	_	_	_	_	_	_	Shift=3070
+3	ноября	_	_	_	_	_	_	_	Shift=3073
+4	2010	_	_	_	_	_	_	_	Shift=3080
+5	года	_	_	_	_	_	_	_	Shift=3085
+6	были	_	_	_	_	_	_	_	Shift=3090
+7	предъявлены	_	_	_	_	_	_	_	Shift=3095
+8	обвинения	_	_	_	_	_	_	_	Shift=3107
+9	из	_	_	_	_	_	_	_	Shift=3117
+10	четырёх	_	_	_	_	_	_	_	Shift=3120
+11	пунктов	_	_	_	_	_	_	_	Shift=3128|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=3135
+
+# sent_id = 899db41e-26f4-4c90-be91-89fad7a8922f-p7-s5
+# text = Ему вменяется ``преступный сговор с целью убийства граждан США'', ``преступный сговор с целью убийства должностных лиц, находящихся на государственной службе'', ``преступный сговор с целью приобретения и продажи зенитных ракет'' и ``преступной сговор с целью поставок оружия террористическим группировкам''.
+1	Ему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=432|RuCor_group_id=411927|RuCor_link_id=411917|Shift=3137
+2	вменяется	_	_	_	_	_	_	_	Shift=3141
+3	``	_	_	_	_	_	_	_	Shift=3151|SpaceAfter=No
+4	преступный	_	_	_	_	_	_	_	Shift=3152
+5	сговор	_	_	_	_	_	_	_	Shift=3163
+6	с	_	_	_	_	_	_	_	Shift=3170
+7	целью	_	_	_	_	_	_	_	Shift=3172
+8	убийства	_	_	_	_	_	_	_	Shift=3178
+9	граждан	_	_	_	_	_	_	_	Shift=3187
+10	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=427|RuCor_group_id=411928|RuCor_link_id=411863|Shift=3195|SpaceAfter=No
+11	''	_	_	_	_	_	_	_	Shift=3198|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=3199
+13	``	_	_	_	_	_	_	_	Shift=3201|SpaceAfter=No
+14	преступный	_	_	_	_	_	_	_	Shift=3202
+15	сговор	_	_	_	_	_	_	_	Shift=3213
+16	с	_	_	_	_	_	_	_	Shift=3220
+17	целью	_	_	_	_	_	_	_	Shift=3222
+18	убийства	_	_	_	_	_	_	_	Shift=3228
+19	должностных	_	_	_	_	_	_	_	Shift=3237
+20	лиц	_	_	_	_	_	_	_	Shift=3249|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=3252
+22	находящихся	_	_	_	_	_	_	_	Shift=3254
+23	на	_	_	_	_	_	_	_	Shift=3266
+24	государственной	_	_	_	_	_	_	_	Shift=3269
+25	службе	_	_	_	_	_	_	_	Shift=3285|SpaceAfter=No
+26	''	_	_	_	_	_	_	_	Shift=3291|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=3292
+28	``	_	_	_	_	_	_	_	Shift=3294|SpaceAfter=No
+29	преступный	_	_	_	_	_	_	_	Shift=3295
+30	сговор	_	_	_	_	_	_	_	Shift=3306
+31	с	_	_	_	_	_	_	_	Shift=3313
+32	целью	_	_	_	_	_	_	_	Shift=3315
+33	приобретения	_	_	_	_	_	_	_	Shift=3321
+34	и	_	_	_	_	_	_	_	Shift=3334
+35	продажи	_	_	_	_	_	_	_	Shift=3336
+36	зенитных	_	_	_	_	_	_	_	Shift=3344
+37	ракет	_	_	_	_	_	_	_	Shift=3353|SpaceAfter=No
+38	''	_	_	_	_	_	_	_	Shift=3358
+39	и	_	_	_	_	_	_	_	Shift=3360
+40	``	_	_	_	_	_	_	_	Shift=3362|SpaceAfter=No
+41	преступной	_	_	_	_	_	_	_	Shift=3363
+42	сговор	_	_	_	_	_	_	_	Shift=3374
+43	с	_	_	_	_	_	_	_	Shift=3381
+44	целью	_	_	_	_	_	_	_	Shift=3383
+45	поставок	_	_	_	_	_	_	_	Shift=3389
+46	оружия	_	_	_	_	_	_	_	Shift=3398
+47	террористическим	_	_	_	_	_	_	_	Shift=3405
+48	группировкам	_	_	_	_	_	_	_	Shift=3422|SpaceAfter=No
+49	''	_	_	_	_	_	_	_	Shift=3434|SpaceAfter=No
+50	.	_	_	_	_	_	_	_	Shift=3435
+
+# newpar id = 899db41e-26f4-4c90-be91-89fad7a8922f-p8
+# par_text = Бут не признал себя виновным ни по одному из пунктов предъявленных ему обвинений. В случае осуждения 43-летнему россиянину грозит от 25 лет тюрьмы до пожизненного наказания.
+# sent_id = 899db41e-26f4-4c90-be91-89fad7a8922f-p8-s1
+# text = Бут не признал себя виновным ни по одному из пунктов предъявленных ему обвинений.
+1	Бут	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=432|RuCor_group_id=411929|RuCor_link_id=411917|Shift=3437
+2	не	_	_	_	_	_	_	_	Shift=3441
+3	признал	_	_	_	_	_	_	_	Shift=3444
+4	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=432|RuCor_group_id=411930|RuCor_link_id=411929|Shift=3452
+5	виновным	_	_	_	_	_	_	_	Shift=3457
+6	ни	_	_	_	_	_	_	_	Shift=3466
+7	по	_	_	_	_	_	_	_	Shift=3469
+8	одному	_	_	_	_	_	_	_	Shift=3472
+9	из	_	_	_	_	_	_	_	Shift=3479
+10	пунктов	_	_	_	_	_	_	_	Shift=3482
+11	предъявленных	_	_	_	_	_	_	_	Shift=3490
+12	ему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=432|RuCor_group_id=411931|RuCor_link_id=411929|Shift=3504
+13	обвинений	_	_	_	_	_	_	_	Shift=3508|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=3517
+
+# sent_id = 899db41e-26f4-4c90-be91-89fad7a8922f-p8-s2
+# text = В случае осуждения 43-летнему россиянину грозит от 25 лет тюрьмы до пожизненного наказания.
+1	В	_	_	_	_	_	_	_	Shift=3519
+2	случае	_	_	_	_	_	_	_	Shift=3521
+3	осуждения	_	_	_	_	_	_	_	Shift=3528
+4	43-летнему	_	_	_	_	_	_	_	Shift=3538
+5	россиянину	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=432|RuCor_group_id=411932|RuCor_link_id=411929|Shift=3549
+6	грозит	_	_	_	_	_	_	_	Shift=3560
+7	от	_	_	_	_	_	_	_	Shift=3567
+8	25	_	_	_	_	_	_	_	Shift=3570
+9	лет	_	_	_	_	_	_	_	Shift=3573
+10	тюрьмы	_	_	_	_	_	_	_	Shift=3577
+11	до	_	_	_	_	_	_	_	Shift=3584
+12	пожизненного	_	_	_	_	_	_	_	Shift=3587
+13	наказания	_	_	_	_	_	_	_	Shift=3600|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=3609
+
+# newpar id = 899db41e-26f4-4c90-be91-89fad7a8922f-p9
+# par_text = В начале января Бут сообщил, что отверг предложенную ему американскими властями сделку со следствием.
+# sent_id = 899db41e-26f4-4c90-be91-89fad7a8922f-p9-s1
+# text = В начале января Бут сообщил, что отверг предложенную ему американскими властями сделку со следствием.
+1	В	_	_	_	_	_	_	_	Shift=3611
+2	начале	_	_	_	_	_	_	_	Shift=3613
+3	января	_	_	_	_	_	_	_	Shift=3620
+4	Бут	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=432|RuCor_group_id=411933|RuCor_link_id=411929|Shift=3627
+5	сообщил	_	_	_	_	_	_	_	Shift=3631|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=3638
+7	что	_	_	_	_	_	_	_	Shift=3640
+8	отверг	_	_	_	_	_	_	_	Shift=3644
+9	предложенную	_	_	_	_	_	_	_	Shift=3651
+10	ему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=432|RuCor_group_id=411934|RuCor_link_id=411933|Shift=3664
+11	американскими	_	_	_	_	_	_	_	RuCor_chain_id=416|RuCor_group_id=411943|Shift=3668
+12	властями	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=416|RuCor_group_id=411943|RuCor_link_id=0|Shift=3682
+13	сделку	_	_	_	_	_	_	_	Shift=3691
+14	со	_	_	_	_	_	_	_	Shift=3698
+15	следствием	_	_	_	_	_	_	_	Shift=3701|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=3711
+
+# newpar id = 899db41e-26f4-4c90-be91-89fad7a8922f-p10
+# par_text = «Мне предлагали более мягкий приговор, меньший срок и возможность перевезти семью в США, если я расскажу всё, что знаю о своих связях в России и других странах. Но я ответил, что мне нечего им рассказать: я не знаю ничего о том, что их интересовало», — сказал Виктор Бут.
+# sent_id = 899db41e-26f4-4c90-be91-89fad7a8922f-p10-s1
+# text = ``Мне предлагали более мягкий приговор, меньший срок и возможность перевезти семью в США, если я расскажу всё, что знаю о своих связях в России и других странах.
+1	``	_	_	_	_	_	_	_	Shift=3713|SpaceAfter=No
+2	Мне	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=432|RuCor_group_id=411935|RuCor_link_id=411933|Shift=3714
+3	предлагали	_	_	_	_	_	_	_	Shift=3718
+4	более	_	_	_	_	_	_	_	Shift=3729
+5	мягкий	_	_	_	_	_	_	_	Shift=3735
+6	приговор	_	_	_	_	_	_	_	Shift=3742|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=3750
+8	меньший	_	_	_	_	_	_	_	Shift=3752
+9	срок	_	_	_	_	_	_	_	Shift=3760
+10	и	_	_	_	_	_	_	_	Shift=3765
+11	возможность	_	_	_	_	_	_	_	Shift=3767
+12	перевезти	_	_	_	_	_	_	_	Shift=3779
+13	семью	_	_	_	_	_	_	_	Shift=3789
+14	в	_	_	_	_	_	_	_	Shift=3795
+15	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=427|RuCor_group_id=411936|RuCor_link_id=411863|Shift=3797|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=3800
+17	если	_	_	_	_	_	_	_	Shift=3802
+18	я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=432|RuCor_group_id=411937|RuCor_link_id=411935|Shift=3807
+19	расскажу	_	_	_	_	_	_	_	Shift=3809
+20	всё	_	_	_	_	_	_	_	Shift=3818|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=3821
+22	что	_	_	_	_	_	_	_	Shift=3823
+23	знаю	_	_	_	_	_	_	_	Shift=3827
+24	о	_	_	_	_	_	_	_	Shift=3832
+25	своих	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=432|RuCor_group_id=411938|RuCor_link_id=411935|Shift=3834
+26	связях	_	_	_	_	_	_	_	Shift=3840
+27	в	_	_	_	_	_	_	_	Shift=3847
+28	России	_	_	_	_	_	_	_	Shift=3849
+29	и	_	_	_	_	_	_	_	Shift=3856
+30	других	_	_	_	_	_	_	_	Shift=3858
+31	странах	_	_	_	_	_	_	_	Shift=3865|SpaceAfter=No
+32	.	_	_	_	_	_	_	_	Shift=3872
+
+# sent_id = 899db41e-26f4-4c90-be91-89fad7a8922f-p10-s2
+# text = Но я ответил, что мне нечего им рассказать: я не знаю ничего о том, что их интересовало'', - сказал Виктор Бут.
+1	Но	_	_	_	_	_	_	_	Shift=3874
+2	я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=432|RuCor_group_id=411939|RuCor_link_id=411935|Shift=3877
+3	ответил	_	_	_	_	_	_	_	Shift=3879|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=3886
+5	что	_	_	_	_	_	_	_	Shift=3888
+6	мне	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=432|RuCor_group_id=411940|RuCor_link_id=411935|Shift=3892
+7	нечего	_	_	_	_	_	_	_	Shift=3896
+8	им	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=416|RuCor_group_id=411941|RuCor_link_id=411943|Shift=3903
+9	рассказать	_	_	_	_	_	_	_	Shift=3906|SpaceAfter=No
+10	:	_	_	_	_	_	_	_	Shift=3916
+11	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=432|RuCor_group_id=411942|RuCor_link_id=411935|Shift=3918
+12	не	_	_	_	_	_	_	_	Shift=3920
+13	знаю	_	_	_	_	_	_	_	Shift=3923
+14	ничего	_	_	_	_	_	_	_	Shift=3928
+15	о	_	_	_	_	_	_	_	Shift=3935
+16	том	_	_	_	_	_	_	_	Shift=3937|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=3940
+18	что	_	_	_	_	_	_	_	Shift=3942
+19	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=416|RuCor_group_id=411944|RuCor_link_id=411943|Shift=3946
+20	интересовало	_	_	_	_	_	_	_	Shift=3949|SpaceAfter=No
+21	''	_	_	_	_	_	_	_	Shift=3961|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=3962
+23	-	_	_	_	_	_	_	_	Shift=3964
+24	сказал	_	_	_	_	_	_	_	Shift=3966
+25	Виктор	_	_	_	_	_	_	_	RuCor_chain_id=432|RuCor_group_id=411945|Shift=3973
+26	Бут	_	_	_	_	_	_	_	RuCor_chain_id=432|RuCor_group_id=411945|Shift=3980|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=3983
+
+# newpar id = 899db41e-26f4-4c90-be91-89fad7a8922f-p11
+# par_text = Вместе с тем, по его словам, сейчас никакого давления со стороны американских властей он не ощущает.
+# sent_id = 899db41e-26f4-4c90-be91-89fad7a8922f-p11-s1
+# text = Вместе с тем, по его словам, сейчас никакого давления со стороны американских властей он не ощущает.
+1	Вместе	_	_	_	_	_	_	_	Shift=3985
+2	с	_	_	_	_	_	_	_	Shift=3992
+3	тем	_	_	_	_	_	_	_	Shift=3994|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=3997
+5	по	_	_	_	_	_	_	_	Shift=3999
+6	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=432|RuCor_group_id=411946|RuCor_link_id=411945|Shift=4002
+7	словам	_	_	_	_	_	_	_	Shift=4006|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=4012
+9	сейчас	_	_	_	_	_	_	_	Shift=4014
+10	никакого	_	_	_	_	_	_	_	Shift=4021
+11	давления	_	_	_	_	_	_	_	Shift=4030
+12	со	_	_	_	_	_	_	_	Shift=4039
+13	стороны	_	_	_	_	_	_	_	Shift=4042
+14	американских	_	_	_	_	_	_	_	RuCor_chain_id=416|RuCor_group_id=411947|Shift=4050
+15	властей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=416|RuCor_group_id=411947|RuCor_link_id=411943|Shift=4063
+16	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=432|RuCor_group_id=411948|RuCor_link_id=411945|Shift=4071
+17	не	_	_	_	_	_	_	_	Shift=4074
+18	ощущает	_	_	_	_	_	_	_	Shift=4077|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	_
+

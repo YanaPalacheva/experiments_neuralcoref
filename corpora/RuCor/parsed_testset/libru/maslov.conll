@@ -1,0 +1,465 @@
+# newdoc id = a2867ebb-a27a-4383-9e93-c33ba5ea28d4
+# newpar id = a2867ebb-a27a-4383-9e93-c33ba5ea28d4-p1
+# par_text = Седой старик сидел на камне и, словно вглядываясь, смотрел на звезды. Стараясь не нарушить тишины я приблизился и сел рядом. Наставник едва  слышно пошептал : "А все-таки малмокиане были правы..."Он усмехнулся  в бороду и обратил свой взор на меня: "Я еще не расказывал тебе о  Малмоке?"
+# sent_id = a2867ebb-a27a-4383-9e93-c33ba5ea28d4-p1-s1
+# text = Седой старик сидел на камне и, словно вглядываясь, смотрел на звезды.
+1	Седой	_	_	_	_	_	_	_	RuCor_chain_id=3603|RuCor_group_id=475814|Shift=1
+2	старик	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3603|RuCor_group_id=475814|RuCor_link_id=0|Shift=7
+3	сидел	_	_	_	_	_	_	_	Shift=14
+4	на	_	_	_	_	_	_	_	Shift=20
+5	камне	_	_	_	_	_	_	_	Shift=23
+6	и	_	_	_	_	_	_	_	Shift=29|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=30
+8	словно	_	_	_	_	_	_	_	Shift=32
+9	вглядываясь	_	_	_	_	_	_	_	Shift=39|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=50
+11	смотрел	_	_	_	_	_	_	_	Shift=52
+12	на	_	_	_	_	_	_	_	Shift=60
+13	звезды	_	_	_	_	_	_	_	Shift=63|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=69
+
+# sent_id = a2867ebb-a27a-4383-9e93-c33ba5ea28d4-p1-s2
+# text = Стараясь не нарушить тишины я приблизился и сел рядом.
+1	Стараясь	_	_	_	_	_	_	_	Shift=71
+2	не	_	_	_	_	_	_	_	Shift=80
+3	нарушить	_	_	_	_	_	_	_	Shift=83
+4	тишины	_	_	_	_	_	_	_	Shift=92
+5	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3604|RuCor_group_id=475815|RuCor_link_id=0|Shift=99
+6	приблизился	_	_	_	_	_	_	_	Shift=101
+7	и	_	_	_	_	_	_	_	Shift=113
+8	сел	_	_	_	_	_	_	_	Shift=115
+9	рядом	_	_	_	_	_	_	_	Shift=119|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=124
+
+# sent_id = a2867ebb-a27a-4383-9e93-c33ba5ea28d4-p1-s3
+# text = Наставник едва слышно пошептал: " А все-таки малмокиане были правы...
+1	Наставник	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3603|RuCor_group_id=475816|RuCor_link_id=475814|Shift=126
+2	едва	_	_	_	_	_	_	_	Shift=136
+3	слышно	_	_	_	_	_	_	_	Shift=142
+4	пошептал	_	_	_	_	_	_	_	Shift=149|SpaceAfter=No
+5	:	_	_	_	_	_	_	_	Shift=158
+6	``	_	_	_	_	_	_	_	QuotationStart="|Shift=160
+7	А	_	_	_	_	_	_	_	Shift=161
+8	все-таки	_	_	_	_	_	_	_	Shift=163
+9	малмокиане	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3605|RuCor_group_id=475817|RuCor_link_id=0|Shift=172
+10	были	_	_	_	_	_	_	_	Shift=183
+11	правы	_	_	_	_	_	_	_	Shift=188|SpaceAfter=No
+12	...	_	_	_	_	_	_	_	Shift=193
+
+# sent_id = a2867ebb-a27a-4383-9e93-c33ba5ea28d4-p1-s4
+# text = " Он усмехнулся в бороду и обратил свой взор на меня: " Я еще не расказывал тебе о Малмоке? "
+1	''	_	_	_	_	_	_	_	QuotationEnd="|Shift=196
+2	Он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3603|RuCor_group_id=475818|RuCor_link_id=475816|Shift=197
+3	усмехнулся	_	_	_	_	_	_	_	Shift=200
+4	в	_	_	_	_	_	_	_	Shift=212
+5	бороду	_	_	_	_	_	_	_	Shift=214
+6	и	_	_	_	_	_	_	_	Shift=221
+7	обратил	_	_	_	_	_	_	_	Shift=223
+8	свой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3603|RuCor_group_id=475819|RuCor_link_id=475816|Shift=231
+9	взор	_	_	_	_	_	_	_	Shift=236
+10	на	_	_	_	_	_	_	_	Shift=241
+11	меня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3604|RuCor_group_id=475820|RuCor_link_id=475815|Shift=244|SpaceAfter=No
+12	:	_	_	_	_	_	_	_	Shift=248
+13	``	_	_	_	_	_	_	_	QuotationStart="|Shift=250
+14	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3603|RuCor_group_id=475821|RuCor_link_id=475816|Shift=251
+15	еще	_	_	_	_	_	_	_	Shift=253
+16	не	_	_	_	_	_	_	_	Shift=257
+17	расказывал	_	_	_	_	_	_	_	Shift=260
+18	тебе	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3604|RuCor_group_id=475822|RuCor_link_id=475815|Shift=271
+19	о	_	_	_	_	_	_	_	Shift=276
+20	Малмоке	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3606|RuCor_group_id=475823|RuCor_link_id=0|Shift=279|SpaceAfter=No
+21	?	_	_	_	_	_	_	_	Shift=286
+22	''	_	_	_	_	_	_	_	QuotationEnd="|Shift=287
+
+# newpar id = a2867ebb-a27a-4383-9e93-c33ba5ea28d4-p2
+# par_text = - Нет, учитель.
+# sent_id = a2867ebb-a27a-4383-9e93-c33ba5ea28d4-p2-s1
+# text = - Нет, учитель.
+1	-	_	_	_	_	_	_	_	Shift=290
+2	Нет	_	_	_	_	_	_	_	Shift=292|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=295
+4	учитель	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3603|RuCor_group_id=475824|RuCor_link_id=475816|Shift=297|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=304
+
+# newpar id = a2867ebb-a27a-4383-9e93-c33ba5ea28d4-p3
+# par_text = - Малмок был одной из редких планет во Вселенной, где зародилась разумная жизнь. Малмокиане любили красоту в большей степени чем мы. Они не говорили, но пели. Это была очень красивая, гармоничная раса. По людским меркам они были высоки и очень стройны. Они слушали окружающую природу, разговаривали с ней и внимали ее просьбам. В покое и мире они спокойно развивались и от века к веку становились все мудрее и умнее. Они любили смотреть на звезды, любовались жизнью и пели об этом. Но время шло и их Малмокианское солнце старело... Малмокиане слишком поздно узнали об этом. Они были обречены. Был собран совет из самых мудрейших и оповестил планету о этой страшной новости. Каждому была дана его миссия, его маленькое дело. Вся планета всколыхнулась и заработала в одном новом, общем ритме созидая одну величайшую машину. Все те, кто был врагами, стали соратниками, кто был изгоем, стал одним из всех. Настал день и  настал час, когда Машина была создана. У каждого из них спросили, хочет ли он запуска Машины, и все ответили "Да". Каждый стал добрее и мудрее. И не нашлось бы малмокианина, который был бы недоволен выбором. Затем старейший привел в действие механизм... Сначала вся Малмокианская система сжалась в нейтронный шар, а затем произошел взрыв. Появилась сверхновая звезда. Я восхищаюсь таким подарком. Надо иметь очень большое сердце, чтобы подарить Галактике звезду.
+# sent_id = a2867ebb-a27a-4383-9e93-c33ba5ea28d4-p3-s1
+# text = - Малмок был одной из редких планет во Вселенной, где зародилась разумная жизнь.
+1	-	_	_	_	_	_	_	_	Shift=307
+2	Малмок	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3606|RuCor_group_id=475825|RuCor_link_id=475823|Shift=309
+3	был	_	_	_	_	_	_	_	Shift=316
+4	одной	_	_	_	_	_	_	_	RuCor_chain_id=3606|RuCor_group_id=475826|Shift=320
+5	из	_	_	_	_	_	_	_	RuCor_chain_id=3606|RuCor_group_id=475826|Shift=326
+6	редких	_	_	_	_	_	_	_	RuCor_chain_id=3606|RuCor_group_id=475826|Shift=329
+7	планет	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3606|RuCor_group_id=475826|RuCor_link_id=475823|Shift=336
+8	во	_	_	_	_	_	_	_	RuCor_chain_id=3606|RuCor_group_id=475826|Shift=343
+9	Вселенной	_	_	_	_	_	_	_	RuCor_chain_id=3606|RuCor_group_id=475826|Shift=346|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=355
+11	где	_	_	_	_	_	_	_	Shift=357
+12	зародилась	_	_	_	_	_	_	_	Shift=361
+13	разумная	_	_	_	_	_	_	_	Shift=372
+14	жизнь	_	_	_	_	_	_	_	Shift=381|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=386
+
+# sent_id = a2867ebb-a27a-4383-9e93-c33ba5ea28d4-p3-s2
+# text = Малмокиане любили красоту в большей степени чем мы.
+1	Малмокиане	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3605|RuCor_group_id=475827|RuCor_link_id=475817|Shift=388
+2	любили	_	_	_	_	_	_	_	Shift=399
+3	красоту	_	_	_	_	_	_	_	Shift=406
+4	в	_	_	_	_	_	_	_	Shift=414
+5	большей	_	_	_	_	_	_	_	Shift=416
+6	степени	_	_	_	_	_	_	_	Shift=424
+7	чем	_	_	_	_	_	_	_	Shift=432
+8	мы	_	_	_	_	_	_	_	Shift=436|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=438
+
+# sent_id = a2867ebb-a27a-4383-9e93-c33ba5ea28d4-p3-s3
+# text = Они не говорили, но пели.
+1	Они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3605|RuCor_group_id=475828|RuCor_link_id=475817|Shift=440
+2	не	_	_	_	_	_	_	_	Shift=444
+3	говорили	_	_	_	_	_	_	_	Shift=447|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=455
+5	но	_	_	_	_	_	_	_	Shift=457
+6	пели	_	_	_	_	_	_	_	Shift=460|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=464
+
+# sent_id = a2867ebb-a27a-4383-9e93-c33ba5ea28d4-p3-s4
+# text = Это была очень красивая, гармоничная раса.
+1	Это	_	_	_	_	_	_	_	Shift=466
+2	была	_	_	_	_	_	_	_	Shift=470
+3	очень	_	_	_	_	_	_	_	Shift=475
+4	красивая	_	_	_	_	_	_	_	Shift=481|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=489
+6	гармоничная	_	_	_	_	_	_	_	RuCor_chain_id=3605|RuCor_group_id=475829|Shift=491
+7	раса	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3605|RuCor_group_id=475829|RuCor_link_id=475828|Shift=503|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=507
+
+# sent_id = a2867ebb-a27a-4383-9e93-c33ba5ea28d4-p3-s5
+# text = По людским меркам они были высоки и очень стройны.
+1	По	_	_	_	_	_	_	_	Shift=509
+2	людским	_	_	_	_	_	_	_	Shift=512
+3	меркам	_	_	_	_	_	_	_	Shift=520
+4	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3605|RuCor_group_id=475830|RuCor_link_id=475817|Shift=527
+5	были	_	_	_	_	_	_	_	Shift=531
+6	высоки	_	_	_	_	_	_	_	Shift=536
+7	и	_	_	_	_	_	_	_	Shift=543
+8	очень	_	_	_	_	_	_	_	Shift=545
+9	стройны	_	_	_	_	_	_	_	Shift=551|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=558
+
+# sent_id = a2867ebb-a27a-4383-9e93-c33ba5ea28d4-p3-s6
+# text = Они слушали окружающую природу, разговаривали с ней и внимали ее просьбам.
+1	Они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3605|RuCor_group_id=475831|RuCor_link_id=475817|Shift=560
+2	слушали	_	_	_	_	_	_	_	Shift=564
+3	окружающую	_	_	_	_	_	_	_	RuCor_chain_id=3607|RuCor_group_id=475832|Shift=572
+4	природу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3607|RuCor_group_id=475832|RuCor_link_id=0|Shift=583|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=590
+6	разговаривали	_	_	_	_	_	_	_	Shift=592
+7	с	_	_	_	_	_	_	_	Shift=606
+8	ней	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=3607|RuCor_group_id=475833|RuCor_link_id=475832|Shift=608
+9	и	_	_	_	_	_	_	_	Shift=612
+10	внимали	_	_	_	_	_	_	_	Shift=614
+11	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=3607|RuCor_group_id=475834|RuCor_link_id=475832|Shift=622
+12	просьбам	_	_	_	_	_	_	_	Shift=625|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=633
+
+# sent_id = a2867ebb-a27a-4383-9e93-c33ba5ea28d4-p3-s7
+# text = В покое и мире они спокойно развивались и от века к веку становились все мудрее и умнее.
+1	В	_	_	_	_	_	_	_	Shift=635
+2	покое	_	_	_	_	_	_	_	Shift=637
+3	и	_	_	_	_	_	_	_	Shift=643
+4	мире	_	_	_	_	_	_	_	Shift=645
+5	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3605|RuCor_group_id=475835|RuCor_link_id=475817|Shift=650
+6	спокойно	_	_	_	_	_	_	_	Shift=654
+7	развивались	_	_	_	_	_	_	_	Shift=663
+8	и	_	_	_	_	_	_	_	Shift=675
+9	от	_	_	_	_	_	_	_	Shift=677
+10	века	_	_	_	_	_	_	_	Shift=680
+11	к	_	_	_	_	_	_	_	Shift=685
+12	веку	_	_	_	_	_	_	_	Shift=687
+13	становились	_	_	_	_	_	_	_	Shift=692
+14	все	_	_	_	_	_	_	_	Shift=704
+15	мудрее	_	_	_	_	_	_	_	Shift=708
+16	и	_	_	_	_	_	_	_	Shift=715
+17	умнее	_	_	_	_	_	_	_	Shift=717|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=722
+
+# sent_id = a2867ebb-a27a-4383-9e93-c33ba5ea28d4-p3-s8
+# text = Они любили смотреть на звезды, любовались жизнью и пели об этом.
+1	Они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3605|RuCor_group_id=475836|RuCor_link_id=475817|Shift=724
+2	любили	_	_	_	_	_	_	_	Shift=728
+3	смотреть	_	_	_	_	_	_	_	Shift=735
+4	на	_	_	_	_	_	_	_	Shift=744
+5	звезды	_	_	_	_	_	_	_	Shift=747|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=753
+7	любовались	_	_	_	_	_	_	_	Shift=755
+8	жизнью	_	_	_	_	_	_	_	Shift=766
+9	и	_	_	_	_	_	_	_	Shift=773
+10	пели	_	_	_	_	_	_	_	Shift=775
+11	об	_	_	_	_	_	_	_	Shift=780
+12	этом	_	_	_	_	_	_	_	Shift=783|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=787
+
+# sent_id = a2867ebb-a27a-4383-9e93-c33ba5ea28d4-p3-s9
+# text = Но время шло и их Малмокианское солнце старело...
+1	Но	_	_	_	_	_	_	_	Shift=789
+2	время	_	_	_	_	_	_	_	Shift=792
+3	шло	_	_	_	_	_	_	_	Shift=798
+4	и	_	_	_	_	_	_	_	Shift=802
+5	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3605|RuCor_group_id=475837|RuCor_link_id=475817|Shift=804
+6	Малмокианское	_	_	_	_	_	_	_	Shift=807
+7	солнце	_	_	_	_	_	_	_	Shift=821
+8	старело	_	_	_	_	_	_	_	Shift=828|SpaceAfter=No
+9	...	_	_	_	_	_	_	_	Shift=835
+
+# sent_id = a2867ebb-a27a-4383-9e93-c33ba5ea28d4-p3-s10
+# text = Малмокиане слишком поздно узнали об этом.
+1	Малмокиане	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3605|RuCor_group_id=475838|RuCor_link_id=475817|Shift=839
+2	слишком	_	_	_	_	_	_	_	Shift=850
+3	поздно	_	_	_	_	_	_	_	Shift=858
+4	узнали	_	_	_	_	_	_	_	Shift=865
+5	об	_	_	_	_	_	_	_	Shift=872
+6	этом	_	_	_	_	_	_	_	Shift=875|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=879
+
+# sent_id = a2867ebb-a27a-4383-9e93-c33ba5ea28d4-p3-s11
+# text = Они были обречены.
+1	Они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3605|RuCor_group_id=475839|RuCor_link_id=475817|Shift=881
+2	были	_	_	_	_	_	_	_	Shift=885
+3	обречены	_	_	_	_	_	_	_	Shift=890|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=898
+
+# sent_id = a2867ebb-a27a-4383-9e93-c33ba5ea28d4-p3-s12
+# text = Был собран совет из самых мудрейших и оповестил планету о этой страшной новости.
+1	Был	_	_	_	_	_	_	_	Shift=900
+2	собран	_	_	_	_	_	_	_	Shift=904
+3	совет	_	_	_	_	_	_	_	Shift=911
+4	из	_	_	_	_	_	_	_	Shift=917
+5	самых	_	_	_	_	_	_	_	Shift=920
+6	мудрейших	_	_	_	_	_	_	_	Shift=926
+7	и	_	_	_	_	_	_	_	Shift=936
+8	оповестил	_	_	_	_	_	_	_	Shift=938
+9	планету	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3606|RuCor_group_id=475840|RuCor_link_id=475825|Shift=948
+10	о	_	_	_	_	_	_	_	Shift=956
+11	этой	_	_	_	_	_	_	_	Shift=958
+12	страшной	_	_	_	_	_	_	_	Shift=963
+13	новости	_	_	_	_	_	_	_	Shift=972|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=979
+
+# sent_id = a2867ebb-a27a-4383-9e93-c33ba5ea28d4-p3-s13
+# text = Каждому была дана его миссия, его маленькое дело.
+1	Каждому	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3608|RuCor_group_id=475841|RuCor_link_id=0|Shift=981
+2	была	_	_	_	_	_	_	_	Shift=989
+3	дана	_	_	_	_	_	_	_	Shift=994
+4	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=3608|RuCor_group_id=475842|RuCor_link_id=475841|Shift=999
+5	миссия	_	_	_	_	_	_	_	Shift=1003|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1009
+7	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=3608|RuCor_group_id=475843|RuCor_link_id=475842|Shift=1011
+8	маленькое	_	_	_	_	_	_	_	Shift=1015
+9	дело	_	_	_	_	_	_	_	Shift=1025|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=1029
+
+# sent_id = a2867ebb-a27a-4383-9e93-c33ba5ea28d4-p3-s14
+# text = Вся планета всколыхнулась и заработала в одном новом, общем ритме созидая одну величайшую машину.
+1	Вся	_	_	_	_	_	_	_	RuCor_chain_id=3606|RuCor_group_id=475844|Shift=1031
+2	планета	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3606|RuCor_group_id=475844|RuCor_link_id=475823|Shift=1035
+3	всколыхнулась	_	_	_	_	_	_	_	Shift=1043
+4	и	_	_	_	_	_	_	_	Shift=1057
+5	заработала	_	_	_	_	_	_	_	Shift=1059
+6	в	_	_	_	_	_	_	_	Shift=1070
+7	одном	_	_	_	_	_	_	_	Shift=1072
+8	новом	_	_	_	_	_	_	_	Shift=1078|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1083
+10	общем	_	_	_	_	_	_	_	Shift=1085
+11	ритме	_	_	_	_	_	_	_	Shift=1091
+12	созидая	_	_	_	_	_	_	_	Shift=1097
+13	одну	_	_	_	_	_	_	_	RuCor_chain_id=3609|RuCor_group_id=475845|Shift=1105
+14	величайшую	_	_	_	_	_	_	_	RuCor_chain_id=3609|RuCor_group_id=475845|Shift=1110
+15	машину	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3609|RuCor_group_id=475845|RuCor_link_id=0|Shift=1121|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=1127
+
+# sent_id = a2867ebb-a27a-4383-9e93-c33ba5ea28d4-p3-s15
+# text = Все те, кто был врагами, стали соратниками, кто был изгоем, стал одним из всех.
+1	Все	_	_	_	_	_	_	_	Shift=1129
+2	те	_	_	_	_	_	_	_	Shift=1133|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1135
+4	кто	_	_	_	_	_	_	_	Shift=1137
+5	был	_	_	_	_	_	_	_	Shift=1141
+6	врагами	_	_	_	_	_	_	_	Shift=1145|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=1152
+8	стали	_	_	_	_	_	_	_	Shift=1154
+9	соратниками	_	_	_	_	_	_	_	Shift=1160|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=1171
+11	кто	_	_	_	_	_	_	_	Shift=1173
+12	был	_	_	_	_	_	_	_	Shift=1177
+13	изгоем	_	_	_	_	_	_	_	Shift=1181|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=1187
+15	стал	_	_	_	_	_	_	_	Shift=1189
+16	одним	_	_	_	_	_	_	_	Shift=1194
+17	из	_	_	_	_	_	_	_	Shift=1200
+18	всех	_	_	_	_	_	_	_	Shift=1203|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=1207
+
+# sent_id = a2867ebb-a27a-4383-9e93-c33ba5ea28d4-p3-s16
+# text = Настал день и настал час, когда Машина была создана.
+1	Настал	_	_	_	_	_	_	_	Shift=1209
+2	день	_	_	_	_	_	_	_	Shift=1216
+3	и	_	_	_	_	_	_	_	Shift=1221
+4	настал	_	_	_	_	_	_	_	Shift=1224
+5	час	_	_	_	_	_	_	_	Shift=1231|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1234
+7	когда	_	_	_	_	_	_	_	Shift=1236
+8	Машина	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3609|RuCor_group_id=475846|RuCor_link_id=475845|Shift=1242
+9	была	_	_	_	_	_	_	_	Shift=1249
+10	создана	_	_	_	_	_	_	_	Shift=1254|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=1261
+
+# sent_id = a2867ebb-a27a-4383-9e93-c33ba5ea28d4-p3-s17
+# text = У каждого из них спросили, хочет ли он запуска Машины, и все ответили ``Да''.
+1	У	_	_	_	_	_	_	_	Shift=1263
+2	каждого	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3610|RuCor_group_id=475847|RuCor_link_id=0|Shift=1265
+3	из	_	_	_	_	_	_	_	RuCor_chain_id=3610|RuCor_group_id=475847|Shift=1273
+4	них	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3605|RuCor_group_id=475848|RuCor_link_id=475817|Shift=1276
+5	спросили	_	_	_	_	_	_	_	Shift=1280|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1288
+7	хочет	_	_	_	_	_	_	_	Shift=1290
+8	ли	_	_	_	_	_	_	_	Shift=1296
+9	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=3610|RuCor_group_id=475849|RuCor_link_id=475847|Shift=1299
+10	запуска	_	_	_	_	_	_	_	Shift=1302
+11	Машины	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3609|RuCor_group_id=475850|RuCor_link_id=475846|Shift=1310|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=1316
+13	и	_	_	_	_	_	_	_	Shift=1318
+14	все	_	_	_	_	_	_	_	Shift=1320
+15	ответили	_	_	_	_	_	_	_	Shift=1324
+16	``	_	_	_	_	_	_	_	Shift=1333|SpaceAfter=No
+17	Да	_	_	_	_	_	_	_	Shift=1334|SpaceAfter=No
+18	''	_	_	_	_	_	_	_	Shift=1336|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=1337
+
+# sent_id = a2867ebb-a27a-4383-9e93-c33ba5ea28d4-p3-s18
+# text = Каждый стал добрее и мудрее.
+1	Каждый	_	_	_	_	_	_	_	Shift=1339
+2	стал	_	_	_	_	_	_	_	Shift=1346
+3	добрее	_	_	_	_	_	_	_	Shift=1351
+4	и	_	_	_	_	_	_	_	Shift=1358
+5	мудрее	_	_	_	_	_	_	_	Shift=1360|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=1366
+
+# sent_id = a2867ebb-a27a-4383-9e93-c33ba5ea28d4-p3-s19
+# text = И не нашлось бы малмокианина, который был бы недоволен выбором.
+1	И	_	_	_	_	_	_	_	Shift=1368
+2	не	_	_	_	_	_	_	_	Shift=1370
+3	нашлось	_	_	_	_	_	_	_	Shift=1373
+4	бы	_	_	_	_	_	_	_	Shift=1381
+5	малмокианина	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3611|RuCor_group_id=475851|RuCor_link_id=0|Shift=1384|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1396
+7	который	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=3611|RuCor_group_id=475852|RuCor_link_id=475851|Shift=1398
+8	был	_	_	_	_	_	_	_	Shift=1406
+9	бы	_	_	_	_	_	_	_	Shift=1410
+10	недоволен	_	_	_	_	_	_	_	Shift=1413
+11	выбором	_	_	_	_	_	_	_	Shift=1423|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=1430
+
+# sent_id = a2867ebb-a27a-4383-9e93-c33ba5ea28d4-p3-s20
+# text = Затем старейший привел в действие механизм...
+1	Затем	_	_	_	_	_	_	_	Shift=1432
+2	старейший	_	_	_	_	_	_	_	Shift=1438
+3	привел	_	_	_	_	_	_	_	Shift=1448
+4	в	_	_	_	_	_	_	_	Shift=1455
+5	действие	_	_	_	_	_	_	_	Shift=1457
+6	механизм	_	_	_	_	_	_	_	Shift=1466|SpaceAfter=No
+7	...	_	_	_	_	_	_	_	Shift=1474
+
+# sent_id = a2867ebb-a27a-4383-9e93-c33ba5ea28d4-p3-s21
+# text = Сначала вся Малмокианская система сжалась в нейтронный шар, а затем произошел взрыв.
+1	Сначала	_	_	_	_	_	_	_	Shift=1478
+2	вся	_	_	_	_	_	_	_	Shift=1486
+3	Малмокианская	_	_	_	_	_	_	_	Shift=1490
+4	система	_	_	_	_	_	_	_	Shift=1504
+5	сжалась	_	_	_	_	_	_	_	Shift=1512
+6	в	_	_	_	_	_	_	_	Shift=1520
+7	нейтронный	_	_	_	_	_	_	_	Shift=1522
+8	шар	_	_	_	_	_	_	_	Shift=1533|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1536
+10	а	_	_	_	_	_	_	_	Shift=1538
+11	затем	_	_	_	_	_	_	_	Shift=1540
+12	произошел	_	_	_	_	_	_	_	Shift=1546
+13	взрыв	_	_	_	_	_	_	_	Shift=1556|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=1561
+
+# sent_id = a2867ebb-a27a-4383-9e93-c33ba5ea28d4-p3-s22
+# text = Появилась сверхновая звезда.
+1	Появилась	_	_	_	_	_	_	_	Shift=1563
+2	сверхновая	_	_	_	_	_	_	_	RuCor_chain_id=3612|RuCor_group_id=475853|Shift=1573
+3	звезда	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3612|RuCor_group_id=475853|RuCor_link_id=0|Shift=1584|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=1590
+
+# sent_id = a2867ebb-a27a-4383-9e93-c33ba5ea28d4-p3-s23
+# text = Я восхищаюсь таким подарком.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3603|RuCor_group_id=475854|RuCor_link_id=475816|Shift=1592
+2	восхищаюсь	_	_	_	_	_	_	_	Shift=1594
+3	таким	_	_	_	_	_	_	_	RuCor_chain_id=3612|RuCor_group_id=475855|Shift=1605
+4	подарком	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3612|RuCor_group_id=475855|RuCor_link_id=475853|Shift=1611|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=1619
+
+# sent_id = a2867ebb-a27a-4383-9e93-c33ba5ea28d4-p3-s24
+# text = Надо иметь очень большое сердце, чтобы подарить Галактике звезду.
+1	Надо	_	_	_	_	_	_	_	Shift=1621
+2	иметь	_	_	_	_	_	_	_	Shift=1626
+3	очень	_	_	_	_	_	_	_	Shift=1632
+4	большое	_	_	_	_	_	_	_	Shift=1638
+5	сердце	_	_	_	_	_	_	_	Shift=1646|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1652
+7	чтобы	_	_	_	_	_	_	_	Shift=1654
+8	подарить	_	_	_	_	_	_	_	Shift=1660
+9	Галактике	_	_	_	_	_	_	_	Shift=1669
+10	звезду	_	_	_	_	_	_	_	Shift=1679|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=1685
+
+# newpar id = a2867ebb-a27a-4383-9e93-c33ba5ea28d4-p4
+# par_text = Старик замолчал и опять обратил свой взор в звездное небо. Звезды сверкали и переливались как никогда красиво. И где-то там горел особенно ярко малмокианский подарок, словно дополняя и завершая полотно звездного неба.
+# sent_id = a2867ebb-a27a-4383-9e93-c33ba5ea28d4-p4-s1
+# text = Старик замолчал и опять обратил свой взор в звездное небо.
+1	Старик	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3603|RuCor_group_id=475856|RuCor_link_id=475814|Shift=1688
+2	замолчал	_	_	_	_	_	_	_	Shift=1695
+3	и	_	_	_	_	_	_	_	Shift=1704
+4	опять	_	_	_	_	_	_	_	Shift=1706
+5	обратил	_	_	_	_	_	_	_	Shift=1712
+6	свой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3603|RuCor_group_id=475857|RuCor_link_id=475856|Shift=1720
+7	взор	_	_	_	_	_	_	_	Shift=1725
+8	в	_	_	_	_	_	_	_	Shift=1730
+9	звездное	_	_	_	_	_	_	_	Shift=1732
+10	небо	_	_	_	_	_	_	_	Shift=1741|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=1745
+
+# sent_id = a2867ebb-a27a-4383-9e93-c33ba5ea28d4-p4-s2
+# text = Звезды сверкали и переливались как никогда красиво.
+1	Звезды	_	_	_	_	_	_	_	Shift=1747
+2	сверкали	_	_	_	_	_	_	_	Shift=1754
+3	и	_	_	_	_	_	_	_	Shift=1763
+4	переливались	_	_	_	_	_	_	_	Shift=1765
+5	как	_	_	_	_	_	_	_	Shift=1778
+6	никогда	_	_	_	_	_	_	_	Shift=1782
+7	красиво	_	_	_	_	_	_	_	Shift=1790|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=1797
+
+# sent_id = a2867ebb-a27a-4383-9e93-c33ba5ea28d4-p4-s3
+# text = И где-то там горел особенно ярко малмокианский подарок, словно дополняя и завершая полотно звездного неба.
+1	И	_	_	_	_	_	_	_	Shift=1799
+2	где-то	_	_	_	_	_	_	_	Shift=1801
+3	там	_	_	_	_	_	_	_	Shift=1808
+4	горел	_	_	_	_	_	_	_	Shift=1812
+5	особенно	_	_	_	_	_	_	_	Shift=1818
+6	ярко	_	_	_	_	_	_	_	Shift=1827
+7	малмокианский	_	_	_	_	_	_	_	RuCor_chain_id=3612|RuCor_group_id=475858|Shift=1832
+8	подарок	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3612|RuCor_group_id=475858|RuCor_link_id=475855|Shift=1846|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1853
+10	словно	_	_	_	_	_	_	_	Shift=1855
+11	дополняя	_	_	_	_	_	_	_	Shift=1862
+12	и	_	_	_	_	_	_	_	Shift=1871
+13	завершая	_	_	_	_	_	_	_	Shift=1873
+14	полотно	_	_	_	_	_	_	_	Shift=1882
+15	звездного	_	_	_	_	_	_	_	Shift=1890
+16	неба	_	_	_	_	_	_	_	Shift=1900|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	_
+

@@ -1,0 +1,702 @@
+# newdoc id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c
+# newpar id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p1
+# par_text = Мир подводит итоги стодневного пребывания Барака Обамы в кресле президента США.
+# sent_id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p1-s1
+# text = Мир подводит итоги стодневного пребывания Барака Обамы в кресле президента США.
+1	Мир	_	_	_	_	_	_	_	Shift=0
+2	подводит	_	_	_	_	_	_	_	Shift=4
+3	итоги	_	_	_	_	_	_	_	Shift=13
+4	стодневного	_	_	_	_	_	_	_	Shift=19
+5	пребывания	_	_	_	_	_	_	_	Shift=31
+6	Барака	_	_	_	_	_	_	_	RuCor_chain_id=1810|RuCor_group_id=468318|Shift=42
+7	Обамы	_	_	_	_	_	_	_	RuCor_chain_id=1810|RuCor_group_id=468318|Shift=49
+8	в	_	_	_	_	_	_	_	Shift=55
+9	кресле	_	_	_	_	_	_	_	Shift=57
+10	президента	_	_	_	_	_	_	_	Shift=64
+11	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1811|RuCor_group_id=468319|RuCor_link_id=0|Shift=75|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=78
+
+# newpar id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p2
+# par_text = Американские эксперты и IT-журналисты приходят к выводу, что нынешний президент их страны — самый технологически продвинутый.
+# sent_id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p2-s1
+# text = Американские эксперты и IT- журналисты приходят к выводу, что нынешний президент их страны - самый технологически продвинутый.
+1	Американские	_	_	_	_	_	_	_	RuCor_chain_id=1812|RuCor_group_id=468320|Shift=80
+2	эксперты	_	_	_	_	_	_	_	RuCor_chain_id=1812|RuCor_group_id=468320|Shift=93
+3	и	_	_	_	_	_	_	_	RuCor_chain_id=1812|RuCor_group_id=468320|Shift=102
+4	IT-	_	_	_	_	_	_	_	Shift=104
+5	журналисты	_	_	_	_	_	_	_	RuCor_chain_id=1812|RuCor_group_id=468320|Shift=107
+6	приходят	_	_	_	_	_	_	_	Shift=118
+7	к	_	_	_	_	_	_	_	Shift=127
+8	выводу	_	_	_	_	_	_	_	Shift=129|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=135
+10	что	_	_	_	_	_	_	_	Shift=137
+11	нынешний	_	_	_	_	_	_	_	RuCor_chain_id=1810|RuCor_group_id=468321|Shift=141
+12	президент	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1810|RuCor_group_id=468321|RuCor_link_id=468318|Shift=150
+13	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=1812|RuCor_group_id=468322|RuCor_link_id=468320|Shift=160
+14	страны	_	_	_	_	_	_	_	RuCor_chain_id=1810|RuCor_group_id=468321|Shift=163
+15	-	_	_	_	_	_	_	_	Shift=170
+16	самый	_	_	_	_	_	_	_	Shift=172
+17	технологически	_	_	_	_	_	_	_	Shift=178
+18	продвинутый	_	_	_	_	_	_	_	Shift=193|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=204
+
+# newpar id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p3
+# par_text = И это уже дает видимые результаты.
+# sent_id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p3-s1
+# text = И это уже дает видимые результаты.
+1	И	_	_	_	_	_	_	_	Shift=206
+2	это	_	_	_	_	_	_	_	Shift=208
+3	уже	_	_	_	_	_	_	_	Shift=212
+4	дает	_	_	_	_	_	_	_	Shift=216
+5	видимые	_	_	_	_	_	_	_	Shift=221
+6	результаты	_	_	_	_	_	_	_	Shift=229|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=239
+
+# newpar id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p4
+# par_text = Всего за 100 дней пребывания на посту президента США Обама, полагают американские эксперты и IT-журналисты, зарекомендовал себя как самый технологически компетентный президент США и один из самых «продвинутых» президентов мира.
+# sent_id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p4-s1
+# text = Всего за 100 дней пребывания на посту президента США Обама, полагают американские эксперты и IT- журналисты, зарекомендовал себя как самый технологически компетентный президент США и один из самых ``продвинутых'' президентов мира.
+1	Всего	_	_	_	_	_	_	_	Shift=241
+2	за	_	_	_	_	_	_	_	Shift=247
+3	100	_	_	_	_	_	_	_	Shift=250
+4	дней	_	_	_	_	_	_	_	Shift=254
+5	пребывания	_	_	_	_	_	_	_	Shift=259
+6	на	_	_	_	_	_	_	_	Shift=270
+7	посту	_	_	_	_	_	_	_	Shift=273
+8	президента	_	_	_	_	_	_	_	Shift=279
+9	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1811|RuCor_group_id=468323|RuCor_link_id=468319|Shift=290
+10	Обама	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1810|RuCor_group_id=468324|RuCor_link_id=468318|Shift=294|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=299
+12	полагают	_	_	_	_	_	_	_	Shift=301
+13	американские	_	_	_	_	_	_	_	Shift=310
+14	эксперты	_	_	_	_	_	_	_	Shift=323
+15	и	_	_	_	_	_	_	_	Shift=332
+16	IT-	_	_	_	_	_	_	_	Shift=334
+17	журналисты	_	_	_	_	_	_	_	Shift=337|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=347
+19	зарекомендовал	_	_	_	_	_	_	_	Shift=349
+20	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=1810|RuCor_group_id=468325|RuCor_link_id=468324|Shift=364
+21	как	_	_	_	_	_	_	_	Shift=369
+22	самый	_	_	_	_	_	_	_	Shift=373
+23	технологически	_	_	_	_	_	_	_	Shift=379
+24	компетентный	_	_	_	_	_	_	_	Shift=394
+25	президент	_	_	_	_	_	_	_	Shift=407
+26	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1811|RuCor_group_id=468326|RuCor_link_id=468323|Shift=417
+27	и	_	_	_	_	_	_	_	Shift=421
+28	один	_	_	_	_	_	_	_	Shift=423
+29	из	_	_	_	_	_	_	_	Shift=428
+30	самых	_	_	_	_	_	_	_	Shift=431
+31	``	_	_	_	_	_	_	_	Shift=437|SpaceAfter=No
+32	продвинутых	_	_	_	_	_	_	_	Shift=438|SpaceAfter=No
+33	''	_	_	_	_	_	_	_	Shift=449
+34	президентов	_	_	_	_	_	_	_	Shift=451
+35	мира	_	_	_	_	_	_	_	Shift=463|SpaceAfter=No
+36	.	_	_	_	_	_	_	_	Shift=467
+
+# newpar id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p5
+# par_text = Первый IT-проект президента — перезапуск портала WhiteHouse.gov, на котором всем простым американцам предложили задавать вопросы лично Бараку, его администрации и членам правительства.
+# sent_id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p5-s1
+# text = Первый IT- проект президента - перезапуск портала WhiteHouse.gov, на котором всем простым американцам предложили задавать вопросы лично Бараку, его администрации и членам правительства.
+1	Первый	_	_	_	_	_	_	_	Shift=469
+2	IT-	_	_	_	_	_	_	_	Shift=476
+3	проект	_	_	_	_	_	_	_	Shift=479
+4	президента	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1810|RuCor_group_id=468327|RuCor_link_id=468324|Shift=486
+5	-	_	_	_	_	_	_	_	Shift=497
+6	перезапуск	_	_	_	_	_	_	_	Shift=499
+7	портала	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1814|RuCor_group_id=468329|RuCor_link_id=0|Shift=510
+8	WhiteHouse.gov	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1814|RuCor_group_id=468329|RuCor_link_id=0|Shift=518|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=532
+10	на	_	_	_	_	_	_	_	Shift=534
+11	котором	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=1814|RuCor_group_id=468330|RuCor_link_id=468329|Shift=537
+12	всем	_	_	_	_	_	_	_	Shift=545
+13	простым	_	_	_	_	_	_	_	Shift=550
+14	американцам	_	_	_	_	_	_	_	Shift=558
+15	предложили	_	_	_	_	_	_	_	Shift=570
+16	задавать	_	_	_	_	_	_	_	Shift=581
+17	вопросы	_	_	_	_	_	_	_	Shift=590
+18	лично	_	_	_	_	_	_	_	Shift=598
+19	Бараку	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1810|RuCor_group_id=468332|RuCor_link_id=468327|Shift=604|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=610
+21	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1810|RuCor_group_id=468333|RuCor_link_id=468332|Shift=612
+22	администрации	_	_	_	_	_	_	_	Shift=616
+23	и	_	_	_	_	_	_	_	Shift=630
+24	членам	_	_	_	_	_	_	_	Shift=632
+25	правительства	_	_	_	_	_	_	_	Shift=639|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=652
+
+# newpar id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p6
+# par_text = Наличие таких возможностей, по мнению Обамы, — прямое доказательство открытости президента и признание им базового принципа демократии — открытости правительства.
+# sent_id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p6-s1
+# text = Наличие таких возможностей, по мнению Обамы, - прямое доказательство открытости президента и признание им базового принципа демократии - открытости правительства.
+1	Наличие	_	_	_	_	_	_	_	Shift=654
+2	таких	_	_	_	_	_	_	_	Shift=662
+3	возможностей	_	_	_	_	_	_	_	Shift=668|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=680
+5	по	_	_	_	_	_	_	_	Shift=682
+6	мнению	_	_	_	_	_	_	_	Shift=685
+7	Обамы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1810|RuCor_group_id=468334|RuCor_link_id=468324|Shift=692|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=697
+9	-	_	_	_	_	_	_	_	Shift=699
+10	прямое	_	_	_	_	_	_	_	Shift=701
+11	доказательство	_	_	_	_	_	_	_	Shift=708
+12	открытости	_	_	_	_	_	_	_	Shift=723
+13	президента	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1810|RuCor_group_id=468335|RuCor_link_id=468334|Shift=734
+14	и	_	_	_	_	_	_	_	Shift=745
+15	признание	_	_	_	_	_	_	_	Shift=747
+16	им	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1810|RuCor_group_id=468336|RuCor_link_id=468335|Shift=757
+17	базового	_	_	_	_	_	_	_	Shift=760
+18	принципа	_	_	_	_	_	_	_	Shift=769
+19	демократии	_	_	_	_	_	_	_	Shift=778
+20	-	_	_	_	_	_	_	_	Shift=789
+21	открытости	_	_	_	_	_	_	_	Shift=791
+22	правительства	_	_	_	_	_	_	_	Shift=802|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=815
+
+# newpar id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p7
+# par_text = Всего за время существования ресурса американцы сформировали 1,8 млн обращений к своему лидеру.
+# sent_id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p7-s1
+# text = Всего за время существования ресурса американцы сформировали 1, 8 млн обращений к своему лидеру.
+1	Всего	_	_	_	_	_	_	_	Shift=817
+2	за	_	_	_	_	_	_	_	Shift=823
+3	время	_	_	_	_	_	_	_	Shift=826
+4	существования	_	_	_	_	_	_	_	Shift=832
+5	ресурса	_	_	_	_	_	_	_	Shift=846
+6	американцы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1815|RuCor_group_id=468337|RuCor_link_id=0|Shift=854
+7	сформировали	_	_	_	_	_	_	_	Shift=865
+8	1	_	_	_	_	_	_	_	Shift=878|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=879
+10	8	_	_	_	_	_	_	_	Shift=880
+11	млн	_	_	_	_	_	_	_	Shift=882
+12	обращений	_	_	_	_	_	_	_	Shift=886
+13	к	_	_	_	_	_	_	_	Shift=896
+14	своему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=1815|RuCor_group_id=468339|RuCor_link_id=468337|Shift=898
+15	лидеру	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1810|RuCor_group_id=468338|RuCor_link_id=468335|Shift=905|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=911
+
+# newpar id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p8
+# par_text = Чаще всего американцы просили у президента легализовать марихуану, позаботиться об их «финансовой стабильности» и разобраться с бюджетом.
+# sent_id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p8-s1
+# text = Чаще всего американцы просили у президента легализовать марихуану, позаботиться об их ``финансовой стабильности'' и разобраться с бюджетом.
+1	Чаще	_	_	_	_	_	_	_	Shift=913
+2	всего	_	_	_	_	_	_	_	Shift=918
+3	американцы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1816|RuCor_group_id=468340|RuCor_link_id=0|Shift=924
+4	просили	_	_	_	_	_	_	_	Shift=935
+5	у	_	_	_	_	_	_	_	Shift=943
+6	президента	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1810|RuCor_group_id=468341|RuCor_link_id=468338|Shift=945
+7	легализовать	_	_	_	_	_	_	_	Shift=956
+8	марихуану	_	_	_	_	_	_	_	Shift=969|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=978
+10	позаботиться	_	_	_	_	_	_	_	Shift=980
+11	об	_	_	_	_	_	_	_	Shift=993
+12	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=1816|RuCor_group_id=468342|RuCor_link_id=468340|Shift=996
+13	``	_	_	_	_	_	_	_	Shift=999|SpaceAfter=No
+14	финансовой	_	_	_	_	_	_	_	Shift=1000
+15	стабильности	_	_	_	_	_	_	_	Shift=1011|SpaceAfter=No
+16	''	_	_	_	_	_	_	_	Shift=1023
+17	и	_	_	_	_	_	_	_	Shift=1025
+18	разобраться	_	_	_	_	_	_	_	Shift=1027
+19	с	_	_	_	_	_	_	_	Shift=1039
+20	бюджетом	_	_	_	_	_	_	_	Shift=1041|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=1049
+
+# newpar id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p9
+# par_text = Главное, что успел сделать Обама в сфере госуправления с точки зрения технологий, — постараться выйти на «новый уровень прозрачности» правительства перед народом, которая предполагает не только открытость государственных органов, но и реальную доступность информации об их деятельности.
+# sent_id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p9-s1
+# text = Главное, что успел сделать Обама в сфере госуправления с точки зрения технологий, - постараться выйти на ``новый уровень прозрачности'' правительства перед народом, которая предполагает не только открытость государственных органов, но и реальную доступность информации об их деятельности.
+1	Главное	_	_	_	_	_	_	_	Shift=1051|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=1058
+3	что	_	_	_	_	_	_	_	Shift=1060
+4	успел	_	_	_	_	_	_	_	Shift=1064
+5	сделать	_	_	_	_	_	_	_	Shift=1070
+6	Обама	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1810|RuCor_group_id=468343|RuCor_link_id=468334|Shift=1078
+7	в	_	_	_	_	_	_	_	Shift=1084
+8	сфере	_	_	_	_	_	_	_	Shift=1086
+9	госуправления	_	_	_	_	_	_	_	Shift=1092
+10	с	_	_	_	_	_	_	_	Shift=1106
+11	точки	_	_	_	_	_	_	_	Shift=1108
+12	зрения	_	_	_	_	_	_	_	Shift=1114
+13	технологий	_	_	_	_	_	_	_	Shift=1121|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=1131
+15	-	_	_	_	_	_	_	_	Shift=1133
+16	постараться	_	_	_	_	_	_	_	Shift=1135
+17	выйти	_	_	_	_	_	_	_	Shift=1147
+18	на	_	_	_	_	_	_	_	Shift=1153
+19	``	_	_	_	_	_	_	_	Shift=1156|SpaceAfter=No
+20	новый	_	_	_	_	_	_	_	Shift=1157
+21	уровень	_	_	_	_	_	_	_	Shift=1163
+22	прозрачности	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1817|RuCor_group_id=468344|RuCor_link_id=0|Shift=1171|SpaceAfter=No
+23	''	_	_	_	_	_	_	_	RuCor_chain_id=1817|RuCor_group_id=468344|Shift=1183
+24	правительства	_	_	_	_	_	_	_	RuCor_chain_id=1817|RuCor_group_id=468344|Shift=1185
+25	перед	_	_	_	_	_	_	_	RuCor_chain_id=1817|RuCor_group_id=468344|Shift=1199
+26	народом	_	_	_	_	_	_	_	RuCor_chain_id=1817|RuCor_group_id=468344|Shift=1205|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=1212
+28	которая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=1817|RuCor_group_id=468345|RuCor_link_id=468344|Shift=1214
+29	предполагает	_	_	_	_	_	_	_	Shift=1222
+30	не	_	_	_	_	_	_	_	Shift=1235
+31	только	_	_	_	_	_	_	_	Shift=1238
+32	открытость	_	_	_	_	_	_	_	Shift=1245
+33	государственных	_	_	_	_	_	_	_	RuCor_chain_id=1818|RuCor_group_id=468346|Shift=1256
+34	органов	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1818|RuCor_group_id=468346|RuCor_link_id=0|Shift=1272|SpaceAfter=No
+35	,	_	_	_	_	_	_	_	Shift=1279
+36	но	_	_	_	_	_	_	_	Shift=1281
+37	и	_	_	_	_	_	_	_	Shift=1284
+38	реальную	_	_	_	_	_	_	_	Shift=1286
+39	доступность	_	_	_	_	_	_	_	Shift=1295
+40	информации	_	_	_	_	_	_	_	Shift=1307
+41	об	_	_	_	_	_	_	_	Shift=1318
+42	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1818|RuCor_group_id=468347|RuCor_link_id=468346|Shift=1321
+43	деятельности	_	_	_	_	_	_	_	Shift=1324|SpaceAfter=No
+44	.	_	_	_	_	_	_	_	Shift=1336
+
+# newpar id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p10
+# par_text = В том числе и поэтому почти сразу после вступления в должность Барак Обама выступил с инициативой построения общенациональной сети Wi-Fi, чтобы каждый американец мог бесплатно выходить в интернет в любой точке страны.
+# sent_id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p10-s1
+# text = В том числе и поэтому почти сразу после вступления в должность Барак Обама выступил с инициативой построения общенациональной сети Wi-Fi, чтобы каждый американец мог бесплатно выходить в интернет в любой точке страны.
+1	В	_	_	_	_	_	_	_	Shift=1338
+2	том	_	_	_	_	_	_	_	Shift=1340
+3	числе	_	_	_	_	_	_	_	Shift=1344
+4	и	_	_	_	_	_	_	_	Shift=1350
+5	поэтому	_	_	_	_	_	_	_	Shift=1352
+6	почти	_	_	_	_	_	_	_	Shift=1360
+7	сразу	_	_	_	_	_	_	_	Shift=1366
+8	после	_	_	_	_	_	_	_	Shift=1372
+9	вступления	_	_	_	_	_	_	_	Shift=1378
+10	в	_	_	_	_	_	_	_	Shift=1389
+11	должность	_	_	_	_	_	_	_	Shift=1391
+12	Барак	_	_	_	_	_	_	_	RuCor_chain_id=1810|RuCor_group_id=468348|Shift=1401
+13	Обама	_	_	_	_	_	_	_	RuCor_chain_id=1810|RuCor_group_id=468348|Shift=1407
+14	выступил	_	_	_	_	_	_	_	Shift=1413
+15	с	_	_	_	_	_	_	_	Shift=1422
+16	инициативой	_	_	_	_	_	_	_	Shift=1424
+17	построения	_	_	_	_	_	_	_	Shift=1436
+18	общенациональной	_	_	_	_	_	_	_	Shift=1447
+19	сети	_	_	_	_	_	_	_	Shift=1464
+20	Wi-Fi	_	_	_	_	_	_	_	Shift=1469|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=1474
+22	чтобы	_	_	_	_	_	_	_	Shift=1476
+23	каждый	_	_	_	_	_	_	_	Shift=1482
+24	американец	_	_	_	_	_	_	_	Shift=1489
+25	мог	_	_	_	_	_	_	_	Shift=1500
+26	бесплатно	_	_	_	_	_	_	_	Shift=1504
+27	выходить	_	_	_	_	_	_	_	Shift=1514
+28	в	_	_	_	_	_	_	_	Shift=1523
+29	интернет	_	_	_	_	_	_	_	Shift=1525
+30	в	_	_	_	_	_	_	_	Shift=1534
+31	любой	_	_	_	_	_	_	_	Shift=1536
+32	точке	_	_	_	_	_	_	_	Shift=1542
+33	страны	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1811|RuCor_group_id=468349|RuCor_link_id=468319|Shift=1548|SpaceAfter=No
+34	.	_	_	_	_	_	_	_	Shift=1554
+
+# newpar id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p11
+# par_text = В начале марта Барак Обама назначил Вивека Кундру на ранее не существовавший в президентской администрации пост CIO, ответственного за IT-технологии в Белом доме.
+# sent_id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p11-s1
+# text = В начале марта Барак Обама назначил Вивека Кундру на ранее не существовавший в президентской администрации пост CIO, ответственного за IT- технологии в Белом доме.
+1	В	_	_	_	_	_	_	_	Shift=1556
+2	начале	_	_	_	_	_	_	_	Shift=1558
+3	марта	_	_	_	_	_	_	_	Shift=1565
+4	Барак	_	_	_	_	_	_	_	RuCor_chain_id=1810|RuCor_group_id=468350|Shift=1571
+5	Обама	_	_	_	_	_	_	_	RuCor_chain_id=1810|RuCor_group_id=468350|Shift=1577
+6	назначил	_	_	_	_	_	_	_	Shift=1583
+7	Вивека	_	_	_	_	_	_	_	RuCor_chain_id=1819|RuCor_group_id=468351|Shift=1592
+8	Кундру	_	_	_	_	_	_	_	RuCor_chain_id=1819|RuCor_group_id=468351|Shift=1599
+9	на	_	_	_	_	_	_	_	Shift=1606
+10	ранее	_	_	_	_	_	_	_	Shift=1609
+11	не	_	_	_	_	_	_	_	Shift=1615
+12	существовавший	_	_	_	_	_	_	_	Shift=1618
+13	в	_	_	_	_	_	_	_	Shift=1633
+14	президентской	_	_	_	_	_	_	_	Shift=1635
+15	администрации	_	_	_	_	_	_	_	Shift=1649
+16	пост	_	_	_	_	_	_	_	Shift=1663
+17	CIO	_	_	_	_	_	_	_	Shift=1668|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=1671
+19	ответственного	_	_	_	_	_	_	_	Shift=1673
+20	за	_	_	_	_	_	_	_	Shift=1688
+21	IT-	_	_	_	_	_	_	_	Shift=1691
+22	технологии	_	_	_	_	_	_	_	Shift=1694
+23	в	_	_	_	_	_	_	_	Shift=1705
+24	Белом	_	_	_	_	_	_	_	Shift=1707
+25	доме	_	_	_	_	_	_	_	Shift=1713|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=1717
+
+# newpar id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p12
+# par_text = Задача чиновника — «переосмыслить принципы взаимодействия общества и правительства в новом информационном пространстве».
+# sent_id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p12-s1
+# text = Задача чиновника - ``переосмыслить принципы взаимодействия общества и правительства в новом информационном пространстве''.
+1	Задача	_	_	_	_	_	_	_	Shift=1719
+2	чиновника	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1819|RuCor_group_id=468352|RuCor_link_id=468351|Shift=1726
+3	-	_	_	_	_	_	_	_	Shift=1736
+4	``	_	_	_	_	_	_	_	Shift=1738|SpaceAfter=No
+5	переосмыслить	_	_	_	_	_	_	_	Shift=1739
+6	принципы	_	_	_	_	_	_	_	Shift=1753
+7	взаимодействия	_	_	_	_	_	_	_	Shift=1762
+8	общества	_	_	_	_	_	_	_	Shift=1777
+9	и	_	_	_	_	_	_	_	Shift=1786
+10	правительства	_	_	_	_	_	_	_	Shift=1788
+11	в	_	_	_	_	_	_	_	Shift=1802
+12	новом	_	_	_	_	_	_	_	Shift=1804
+13	информационном	_	_	_	_	_	_	_	Shift=1810
+14	пространстве	_	_	_	_	_	_	_	Shift=1825|SpaceAfter=No
+15	''	_	_	_	_	_	_	_	Shift=1837|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=1838
+
+# newpar id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p13
+# par_text = Кундра уже создал ресурс data.gov, на котором любой американец может познакомиться с огромным количеством правительственных документов и высказать свои соображения по их поводу.
+# sent_id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p13-s1
+# text = Кундра уже создал ресурс data.gov, на котором любой американец может познакомиться с огромным количеством правительственных документов и высказать свои соображения по их поводу.
+1	Кундра	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1819|RuCor_group_id=468353|RuCor_link_id=468351|Shift=1840
+2	уже	_	_	_	_	_	_	_	Shift=1847
+3	создал	_	_	_	_	_	_	_	Shift=1851
+4	ресурс	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1820|RuCor_group_id=468354|RuCor_link_id=0|Shift=1858
+5	data.gov	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1820|RuCor_group_id=468354|RuCor_link_id=0|Shift=1865|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1873
+7	на	_	_	_	_	_	_	_	Shift=1875
+8	котором	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=1820|RuCor_group_id=468357|RuCor_link_id=468354|Shift=1878
+9	любой	_	_	_	_	_	_	_	RuCor_chain_id=1822|RuCor_group_id=468358|Shift=1886
+10	американец	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1822|RuCor_group_id=468358|RuCor_link_id=0|Shift=1892
+11	может	_	_	_	_	_	_	_	Shift=1903
+12	познакомиться	_	_	_	_	_	_	_	Shift=1909
+13	с	_	_	_	_	_	_	_	Shift=1923
+14	огромным	_	_	_	_	_	_	_	RuCor_chain_id=1823|RuCor_group_id=468359|Shift=1925
+15	количеством	_	_	_	_	_	_	_	RuCor_chain_id=1823|RuCor_group_id=468359|Shift=1934
+16	правительственных	_	_	_	_	_	_	_	RuCor_chain_id=1823|RuCor_group_id=468359|Shift=1946
+17	документов	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1823|RuCor_group_id=468359|RuCor_link_id=0|Shift=1964
+18	и	_	_	_	_	_	_	_	Shift=1975
+19	высказать	_	_	_	_	_	_	_	Shift=1977
+20	свои	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1822|RuCor_group_id=468360|RuCor_link_id=468358|Shift=1987
+21	соображения	_	_	_	_	_	_	_	Shift=1992
+22	по	_	_	_	_	_	_	_	Shift=2004
+23	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1823|RuCor_group_id=468361|RuCor_link_id=468359|Shift=2007
+24	поводу	_	_	_	_	_	_	_	Shift=2010|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=2016
+
+# newpar id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p14
+# par_text = Кундра уже завел для администрации аккаунты на вебдванольных сервисах социальных сетей и блогов Facebook, Twitter, MySpace, YouTube, Vimeo, Flickr и iTunes.
+# sent_id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p14-s1
+# text = Кундра уже завел для администрации аккаунты на вебдванольных сервисах социальных сетей и блогов Facebook, Twitter, MySpace, YouTube, Vimeo, Flickr и iTunes.
+1	Кундра	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1819|RuCor_group_id=468362|RuCor_link_id=468351|Shift=2018
+2	уже	_	_	_	_	_	_	_	Shift=2025
+3	завел	_	_	_	_	_	_	_	Shift=2029
+4	для	_	_	_	_	_	_	_	Shift=2035
+5	администрации	_	_	_	_	_	_	_	Shift=2039
+6	аккаунты	_	_	_	_	_	_	_	Shift=2053
+7	на	_	_	_	_	_	_	_	Shift=2062
+8	вебдванольных	_	_	_	_	_	_	_	Shift=2065
+9	сервисах	_	_	_	_	_	_	_	Shift=2079
+10	социальных	_	_	_	_	_	_	_	Shift=2088
+11	сетей	_	_	_	_	_	_	_	Shift=2099
+12	и	_	_	_	_	_	_	_	Shift=2105
+13	блогов	_	_	_	_	_	_	_	Shift=2107
+14	Facebook	_	_	_	_	_	_	_	Shift=2114|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=2122
+16	Twitter	_	_	_	_	_	_	_	Shift=2124|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=2131
+18	MySpace	_	_	_	_	_	_	_	Shift=2133|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=2140
+20	YouTube	_	_	_	_	_	_	_	Shift=2142|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=2149
+22	Vimeo	_	_	_	_	_	_	_	Shift=2151|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=2156
+24	Flickr	_	_	_	_	_	_	_	Shift=2158
+25	и	_	_	_	_	_	_	_	Shift=2165
+26	iTunes	_	_	_	_	_	_	_	Shift=2167|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=2173
+
+# newpar id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p15
+# par_text = Вивек Кундра, однако, не единственный помощник Обамы по IT-вопросам.
+# sent_id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p15-s1
+# text = Вивек Кундра, однако, не единственный помощник Обамы по IT- вопросам.
+1	Вивек	_	_	_	_	_	_	_	RuCor_chain_id=1819|RuCor_group_id=468363|Shift=2175
+2	Кундра	_	_	_	_	_	_	_	RuCor_chain_id=1819|RuCor_group_id=468363|Shift=2181|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=2187
+4	однако	_	_	_	_	_	_	_	Shift=2189|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=2195
+6	не	_	_	_	_	_	_	_	Shift=2197
+7	единственный	_	_	_	_	_	_	_	Shift=2200
+8	помощник	_	_	_	_	_	_	_	Shift=2213
+9	Обамы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1810|RuCor_group_id=468364|RuCor_link_id=468350|Shift=2222
+10	по	_	_	_	_	_	_	_	Shift=2228
+11	IT-	_	_	_	_	_	_	_	Shift=2231
+12	вопросам	_	_	_	_	_	_	_	Shift=2234|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=2242
+
+# newpar id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p16
+# par_text = Обама предложил исполнительному директору Google Эрику Шмидту (тот, кстати, принимал активное участие в предвыборной кампании Обамы, а Google выделяла миллионы долларов предвыборному штату) и директору по исследованиям и стратегическим решениям Microsoft Крейгу Манди войти в состав Совета по науке и технологиям при президенте США.
+# sent_id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p16-s1
+# text = Обама предложил исполнительному директору Google Эрику Шмидту (тот, кстати, принимал активное участие в предвыборной кампании Обамы, а Google выделяла миллионы долларов предвыборному штату) и директору по исследованиям и стратегическим решениям Microsoft Крейгу Манди войти в состав Совета по науке и технологиям при президенте США.
+1	Обама	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1810|RuCor_group_id=468365|RuCor_link_id=468350|Shift=2244
+2	предложил	_	_	_	_	_	_	_	Shift=2250
+3	исполнительному	_	_	_	_	_	_	_	RuCor_chain_id=1824|RuCor_group_id=468366|Shift=2260
+4	директору	_	_	_	_	_	_	_	RuCor_chain_id=1824|RuCor_group_id=468366|Shift=2276
+5	Google	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1825|RuCor_group_id=468367|RuCor_link_id=0|Shift=2286
+6	Эрику	_	_	_	_	_	_	_	RuCor_chain_id=1824|RuCor_group_id=468366|Shift=2293
+7	Шмидту	_	_	_	_	_	_	_	RuCor_chain_id=1824|RuCor_group_id=468366|Shift=2299
+8	(	_	_	_	_	_	_	_	Shift=2306|SpaceAfter=No
+9	тот	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1824|RuCor_group_id=468368|RuCor_link_id=468366|Shift=2307|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=2310
+11	кстати	_	_	_	_	_	_	_	Shift=2312|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=2318
+13	принимал	_	_	_	_	_	_	_	Shift=2320
+14	активное	_	_	_	_	_	_	_	Shift=2329
+15	участие	_	_	_	_	_	_	_	Shift=2338
+16	в	_	_	_	_	_	_	_	Shift=2346
+17	предвыборной	_	_	_	_	_	_	_	Shift=2348
+18	кампании	_	_	_	_	_	_	_	Shift=2361
+19	Обамы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1810|RuCor_group_id=468369|RuCor_link_id=468365|Shift=2370|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=2375
+21	а	_	_	_	_	_	_	_	Shift=2377
+22	Google	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1825|RuCor_group_id=468370|RuCor_link_id=468367|Shift=2379
+23	выделяла	_	_	_	_	_	_	_	Shift=2386
+24	миллионы	_	_	_	_	_	_	_	Shift=2395
+25	долларов	_	_	_	_	_	_	_	Shift=2404
+26	предвыборному	_	_	_	_	_	_	_	Shift=2413
+27	штату	_	_	_	_	_	_	_	Shift=2427|SpaceAfter=No
+28	)	_	_	_	_	_	_	_	Shift=2432
+29	и	_	_	_	_	_	_	_	Shift=2434
+30	директору	_	_	_	_	_	_	_	Shift=2436
+31	по	_	_	_	_	_	_	_	Shift=2446
+32	исследованиям	_	_	_	_	_	_	_	Shift=2449
+33	и	_	_	_	_	_	_	_	Shift=2463
+34	стратегическим	_	_	_	_	_	_	_	Shift=2465
+35	решениям	_	_	_	_	_	_	_	Shift=2480
+36	Microsoft	_	_	_	_	_	_	_	Shift=2489
+37	Крейгу	_	_	_	_	_	_	_	Shift=2499
+38	Манди	_	_	_	_	_	_	_	Shift=2506
+39	войти	_	_	_	_	_	_	_	Shift=2512
+40	в	_	_	_	_	_	_	_	Shift=2518
+41	состав	_	_	_	_	_	_	_	Shift=2520
+42	Совета	_	_	_	_	_	_	_	Shift=2527
+43	по	_	_	_	_	_	_	_	Shift=2534
+44	науке	_	_	_	_	_	_	_	Shift=2537
+45	и	_	_	_	_	_	_	_	Shift=2543
+46	технологиям	_	_	_	_	_	_	_	Shift=2545
+47	при	_	_	_	_	_	_	_	Shift=2557
+48	президенте	_	_	_	_	_	_	_	Shift=2561
+49	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1811|RuCor_group_id=468371|RuCor_link_id=468326|Shift=2572|SpaceAfter=No
+50	.	_	_	_	_	_	_	_	Shift=2575
+
+# newpar id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p17
+# par_text = До сих пор ни один президент США такой тесной дружбы с крупным IT-бизнесом не водил.
+# sent_id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p17-s1
+# text = До сих пор ни один президент США такой тесной дружбы с крупным IT- бизнесом не водил.
+1	До	_	_	_	_	_	_	_	Shift=2577
+2	сих	_	_	_	_	_	_	_	Shift=2580
+3	пор	_	_	_	_	_	_	_	Shift=2584
+4	ни	_	_	_	_	_	_	_	Shift=2588
+5	один	_	_	_	_	_	_	_	Shift=2591
+6	президент	_	_	_	_	_	_	_	Shift=2596
+7	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1811|RuCor_group_id=468372|RuCor_link_id=468371|Shift=2606
+8	такой	_	_	_	_	_	_	_	Shift=2610
+9	тесной	_	_	_	_	_	_	_	Shift=2616
+10	дружбы	_	_	_	_	_	_	_	Shift=2623
+11	с	_	_	_	_	_	_	_	Shift=2630
+12	крупным	_	_	_	_	_	_	_	Shift=2632
+13	IT-	_	_	_	_	_	_	_	Shift=2640
+14	бизнесом	_	_	_	_	_	_	_	Shift=2643
+15	не	_	_	_	_	_	_	_	Shift=2652
+16	водил	_	_	_	_	_	_	_	Shift=2655|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=2660
+
+# newpar id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p18
+# par_text = Стоит отметить, что Барак Обама проявил себя не только в сфере IT-технологий.
+# sent_id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p18-s1
+# text = Стоит отметить, что Барак Обама проявил себя не только в сфере IT- технологий.
+1	Стоит	_	_	_	_	_	_	_	Shift=2662
+2	отметить	_	_	_	_	_	_	_	Shift=2668|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=2676
+4	что	_	_	_	_	_	_	_	Shift=2678
+5	Барак	_	_	_	_	_	_	_	RuCor_chain_id=1810|RuCor_group_id=468373|Shift=2682
+6	Обама	_	_	_	_	_	_	_	RuCor_chain_id=1810|RuCor_group_id=468373|Shift=2688
+7	проявил	_	_	_	_	_	_	_	Shift=2694
+8	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=1810|RuCor_group_id=468374|RuCor_link_id=468373|Shift=2702
+9	не	_	_	_	_	_	_	_	Shift=2707
+10	только	_	_	_	_	_	_	_	Shift=2710
+11	в	_	_	_	_	_	_	_	Shift=2717
+12	сфере	_	_	_	_	_	_	_	Shift=2719
+13	IT-	_	_	_	_	_	_	_	Shift=2725
+14	технологий	_	_	_	_	_	_	_	Shift=2728|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=2738
+
+# newpar id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p19
+# par_text = Важной частью его предвыборной программы, которую он начал реализовывать, став президентом, была реформа американской энергетики.
+# sent_id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p19-s1
+# text = Важной частью его предвыборной программы, которую он начал реализовывать, став президентом, была реформа американской энергетики.
+1	Важной	_	_	_	_	_	_	_	Shift=2740
+2	частью	_	_	_	_	_	_	_	Shift=2747
+3	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1826|RuCor_group_id=468376|RuCor_link_id=468373|Shift=2754
+4	предвыборной	_	_	_	_	_	_	_	RuCor_chain_id=1826|RuCor_group_id=468376|Shift=2758
+5	программы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1826|RuCor_group_id=468376|RuCor_link_id=0|Shift=2771|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=2780
+7	которую	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=1826|RuCor_group_id=468377|RuCor_link_id=468376|Shift=2782
+8	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1810|RuCor_group_id=468378|RuCor_link_id=468375|Shift=2790
+9	начал	_	_	_	_	_	_	_	Shift=2793
+10	реализовывать	_	_	_	_	_	_	_	Shift=2799|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=2812
+12	став	_	_	_	_	_	_	_	Shift=2814
+13	президентом	_	_	_	_	_	_	_	Shift=2819|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=2830
+15	была	_	_	_	_	_	_	_	Shift=2832
+16	реформа	_	_	_	_	_	_	_	Shift=2837
+17	американской	_	_	_	_	_	_	_	RuCor_chain_id=1827|RuCor_group_id=468379|Shift=2845
+18	энергетики	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1827|RuCor_group_id=468379|RuCor_link_id=0|Shift=2858|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=2868
+
+# newpar id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p20
+# par_text = С точки зрения Обамы, именно этой отрасли суждено вывести мир из глубочайшего экономического кризиса.
+# sent_id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p20-s1
+# text = С точки зрения Обамы, именно этой отрасли суждено вывести мир из глубочайшего экономического кризиса.
+1	С	_	_	_	_	_	_	_	Shift=2870
+2	точки	_	_	_	_	_	_	_	Shift=2872
+3	зрения	_	_	_	_	_	_	_	Shift=2878
+4	Обамы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1810|RuCor_group_id=468380|RuCor_link_id=468373|Shift=2885|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=2890
+6	именно	_	_	_	_	_	_	_	Shift=2892
+7	этой	_	_	_	_	_	_	_	RuCor_chain_id=1827|RuCor_group_id=468381|Shift=2899
+8	отрасли	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1827|RuCor_group_id=468381|RuCor_link_id=468379|Shift=2904
+9	суждено	_	_	_	_	_	_	_	Shift=2912
+10	вывести	_	_	_	_	_	_	_	Shift=2920
+11	мир	_	_	_	_	_	_	_	Shift=2928
+12	из	_	_	_	_	_	_	_	Shift=2932
+13	глубочайшего	_	_	_	_	_	_	_	Shift=2935
+14	экономического	_	_	_	_	_	_	_	Shift=2948
+15	кризиса	_	_	_	_	_	_	_	Shift=2963|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=2970
+
+# newpar id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p21
+# par_text = За 100 дней Обама успел и представить программу по развитию энергетики, и сделать шаги по ее воплощению в жизнь.
+# sent_id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p21-s1
+# text = За 100 дней Обама успел и представить программу по развитию энергетики, и сделать шаги по ее воплощению в жизнь.
+1	За	_	_	_	_	_	_	_	Shift=2972
+2	100	_	_	_	_	_	_	_	Shift=2975
+3	дней	_	_	_	_	_	_	_	Shift=2979
+4	Обама	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1810|RuCor_group_id=468382|RuCor_link_id=468380|Shift=2984
+5	успел	_	_	_	_	_	_	_	Shift=2990
+6	и	_	_	_	_	_	_	_	Shift=2996
+7	представить	_	_	_	_	_	_	_	Shift=2998
+8	программу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1828|RuCor_group_id=468383|RuCor_link_id=0|Shift=3010
+9	по	_	_	_	_	_	_	_	RuCor_chain_id=1828|RuCor_group_id=468383|Shift=3020
+10	развитию	_	_	_	_	_	_	_	RuCor_chain_id=1828|RuCor_group_id=468383|Shift=3023
+11	энергетики	_	_	_	_	_	_	_	RuCor_chain_id=1828|RuCor_group_id=468383|Shift=3032|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=3042
+13	и	_	_	_	_	_	_	_	Shift=3044
+14	сделать	_	_	_	_	_	_	_	Shift=3046
+15	шаги	_	_	_	_	_	_	_	Shift=3054
+16	по	_	_	_	_	_	_	_	Shift=3059
+17	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1828|RuCor_group_id=468384|RuCor_link_id=468383|Shift=3062
+18	воплощению	_	_	_	_	_	_	_	Shift=3065
+19	в	_	_	_	_	_	_	_	Shift=3076
+20	жизнь	_	_	_	_	_	_	_	Shift=3078|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=3083
+
+# newpar id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p22
+# par_text = Программа предполагает полный разворот энергетической отрасли США в сторону использования возобновляемых источников энергии.
+# sent_id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p22-s1
+# text = Программа предполагает полный разворот энергетической отрасли США в сторону использования возобновляемых источников энергии.
+1	Программа	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1828|RuCor_group_id=468385|RuCor_link_id=468383|Shift=3085
+2	предполагает	_	_	_	_	_	_	_	Shift=3095
+3	полный	_	_	_	_	_	_	_	Shift=3108
+4	разворот	_	_	_	_	_	_	_	Shift=3115
+5	энергетической	_	_	_	_	_	_	_	Shift=3124
+6	отрасли	_	_	_	_	_	_	_	Shift=3139
+7	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1811|RuCor_group_id=468386|RuCor_link_id=468372|Shift=3147
+8	в	_	_	_	_	_	_	_	Shift=3151
+9	сторону	_	_	_	_	_	_	_	Shift=3153
+10	использования	_	_	_	_	_	_	_	Shift=3161
+11	возобновляемых	_	_	_	_	_	_	_	Shift=3175
+12	источников	_	_	_	_	_	_	_	Shift=3190
+13	энергии	_	_	_	_	_	_	_	Shift=3201|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=3208
+
+# newpar id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p23
+# par_text = По плану уже к 2025 году четверть всей электроэнергии, которая потребляется США, должна быть добыта из альтернативных источников.
+# sent_id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p23-s1
+# text = По плану уже к 2025 году четверть всей электроэнергии, которая потребляется США, должна быть добыта из альтернативных источников.
+1	По	_	_	_	_	_	_	_	Shift=3210
+2	плану	_	_	_	_	_	_	_	Shift=3213
+3	уже	_	_	_	_	_	_	_	Shift=3219
+4	к	_	_	_	_	_	_	_	Shift=3223
+5	2025	_	_	_	_	_	_	_	Shift=3225
+6	году	_	_	_	_	_	_	_	Shift=3230
+7	четверть	_	_	_	_	_	_	_	Shift=3235
+8	всей	_	_	_	_	_	_	_	RuCor_chain_id=1829|RuCor_group_id=468387|Shift=3244
+9	электроэнергии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1829|RuCor_group_id=468387|RuCor_link_id=0|Shift=3249|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=3263
+11	которая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=1829|RuCor_group_id=468388|RuCor_link_id=468387|Shift=3265
+12	потребляется	_	_	_	_	_	_	_	Shift=3273
+13	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1811|RuCor_group_id=468389|RuCor_link_id=468372|Shift=3286|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=3289
+15	должна	_	_	_	_	_	_	_	Shift=3291
+16	быть	_	_	_	_	_	_	_	Shift=3298
+17	добыта	_	_	_	_	_	_	_	Shift=3303
+18	из	_	_	_	_	_	_	_	Shift=3310
+19	альтернативных	_	_	_	_	_	_	_	Shift=3313
+20	источников	_	_	_	_	_	_	_	Shift=3328|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=3338
+
+# newpar id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p24
+# par_text = Сейчас в энергобалансе США энергия, полученная от солнца и ветра, составляет всего лишь 2%.
+# sent_id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p24-s1
+# text = Сейчас в энергобалансе США энергия, полученная от солнца и ветра, составляет всего лишь 2 %.
+1	Сейчас	_	_	_	_	_	_	_	Shift=3340
+2	в	_	_	_	_	_	_	_	Shift=3347
+3	энергобалансе	_	_	_	_	_	_	_	Shift=3349
+4	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1811|RuCor_group_id=468390|RuCor_link_id=468372|Shift=3363
+5	энергия	_	_	_	_	_	_	_	Shift=3367|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=3374
+7	полученная	_	_	_	_	_	_	_	Shift=3376
+8	от	_	_	_	_	_	_	_	Shift=3387
+9	солнца	_	_	_	_	_	_	_	Shift=3390
+10	и	_	_	_	_	_	_	_	Shift=3397
+11	ветра	_	_	_	_	_	_	_	Shift=3399|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=3404
+13	составляет	_	_	_	_	_	_	_	Shift=3406
+14	всего	_	_	_	_	_	_	_	Shift=3417
+15	лишь	_	_	_	_	_	_	_	Shift=3423
+16	2	_	_	_	_	_	_	_	Shift=3428
+17	%	_	_	_	_	_	_	_	Shift=3429|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=3430
+
+# newpar id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p25
+# par_text = Принятие решения об организации в рамках министерства энергетики сети центров передовых энергетических исследований в области энергетики и начало работы Агентства передовых исследований в области энергетики (ARPA-E) — одни из первых серьезных шагов по достижению поставленной Обамой цели.
+# sent_id = 7af6d0c7-688a-42ec-a523-7fa88d56da4c-p25-s1
+# text = Принятие решения об организации в рамках министерства энергетики сети центров передовых энергетических исследований в области энергетики и начало работы Агентства передовых исследований в области энергетики (ARPA-E) - одни из первых серьезных шагов по достижению поставленной Обамой цели.
+1	Принятие	_	_	_	_	_	_	_	Shift=3432
+2	решения	_	_	_	_	_	_	_	Shift=3441
+3	об	_	_	_	_	_	_	_	Shift=3449
+4	организации	_	_	_	_	_	_	_	Shift=3452
+5	в	_	_	_	_	_	_	_	Shift=3464
+6	рамках	_	_	_	_	_	_	_	Shift=3466
+7	министерства	_	_	_	_	_	_	_	Shift=3473
+8	энергетики	_	_	_	_	_	_	_	Shift=3486
+9	сети	_	_	_	_	_	_	_	Shift=3497
+10	центров	_	_	_	_	_	_	_	Shift=3502
+11	передовых	_	_	_	_	_	_	_	Shift=3510
+12	энергетических	_	_	_	_	_	_	_	Shift=3520
+13	исследований	_	_	_	_	_	_	_	Shift=3535
+14	в	_	_	_	_	_	_	_	Shift=3548
+15	области	_	_	_	_	_	_	_	Shift=3550
+16	энергетики	_	_	_	_	_	_	_	Shift=3558
+17	и	_	_	_	_	_	_	_	Shift=3569
+18	начало	_	_	_	_	_	_	_	Shift=3571
+19	работы	_	_	_	_	_	_	_	Shift=3578
+20	Агентства	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1830|RuCor_group_id=468391|RuCor_link_id=0|Shift=3585
+21	передовых	_	_	_	_	_	_	_	RuCor_chain_id=1830|RuCor_group_id=468391|Shift=3595
+22	исследований	_	_	_	_	_	_	_	RuCor_chain_id=1830|RuCor_group_id=468391|Shift=3605
+23	в	_	_	_	_	_	_	_	RuCor_chain_id=1830|RuCor_group_id=468391|Shift=3618
+24	области	_	_	_	_	_	_	_	RuCor_chain_id=1830|RuCor_group_id=468391|Shift=3620
+25	энергетики	_	_	_	_	_	_	_	RuCor_chain_id=1830|RuCor_group_id=468391|Shift=3628
+26	(	_	_	_	_	_	_	_	Shift=3639|SpaceAfter=No
+27	ARPA-E	_	_	_	_	_	_	_	Shift=3640|SpaceAfter=No
+28	)	_	_	_	_	_	_	_	Shift=3646
+29	-	_	_	_	_	_	_	_	Shift=3648
+30	одни	_	_	_	_	_	_	_	Shift=3650
+31	из	_	_	_	_	_	_	_	Shift=3655
+32	первых	_	_	_	_	_	_	_	Shift=3658
+33	серьезных	_	_	_	_	_	_	_	Shift=3665
+34	шагов	_	_	_	_	_	_	_	Shift=3675
+35	по	_	_	_	_	_	_	_	Shift=3681
+36	достижению	_	_	_	_	_	_	_	Shift=3684
+37	поставленной	_	_	_	_	_	_	_	Shift=3695
+38	Обамой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1810|RuCor_group_id=468393|RuCor_link_id=468373|Shift=3708
+39	цели	_	_	_	_	_	_	_	Shift=3715|SpaceAfter=No
+40	.	_	_	_	_	_	_	_	_
+

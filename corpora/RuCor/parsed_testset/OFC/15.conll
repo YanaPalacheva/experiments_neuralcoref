@@ -1,0 +1,1427 @@
+# newdoc id = c896d482-2f96-4ab1-a868-5b677bb470a4
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p1
+# par_text = 3 декабря пройдет очередное заседание суда, на котором будет решаться судьба очередного ЖЖ-преступника.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p1-s1
+# text = 3 декабря пройдет очередное заседание суда, на котором будет решаться судьба очередного ЖЖ-преступника.
+1	3	_	_	_	_	_	_	_	Shift=0
+2	декабря	_	_	_	_	_	_	_	Shift=2
+3	пройдет	_	_	_	_	_	_	_	Shift=10
+4	очередное	_	_	_	_	_	_	_	RuCor_chain_id=1918|RuCor_group_id=468705|Shift=18
+5	заседание	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1918|RuCor_group_id=468705|RuCor_link_id=0|Shift=28
+6	суда	_	_	_	_	_	_	_	RuCor_chain_id=1918|RuCor_group_id=468705|Shift=38|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=42
+8	на	_	_	_	_	_	_	_	Shift=44
+9	котором	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=1918|RuCor_group_id=468706|RuCor_link_id=468705|Shift=47
+10	будет	_	_	_	_	_	_	_	Shift=55
+11	решаться	_	_	_	_	_	_	_	Shift=61
+12	судьба	_	_	_	_	_	_	_	Shift=70
+13	очередного	_	_	_	_	_	_	_	RuCor_chain_id=1919|RuCor_group_id=468707|Shift=77
+14	ЖЖ-преступника	_	_	_	_	_	_	_	Shift=88|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=102
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p2
+# par_text = Точнее, преступницы.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p2-s1
+# text = Точнее, преступницы.
+1	Точнее	_	_	_	_	_	_	_	Shift=104|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=110
+3	преступницы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1919|RuCor_group_id=468708|RuCor_link_id=0|Shift=112|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=123
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p3
+# par_text = 27-летняя Наталья Вотякова не писала гадостей про сотрудников правоохранительных органов, не рассказывала в своем блоге о подготовке к убийству, не собиралась выступать в роли шахидки.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p3-s1
+# text = 27-летняя Наталья Вотякова не писала гадостей про сотрудников правоохранительных органов, не рассказывала в своем блоге о подготовке к убийству, не собиралась выступать в роли шахидки.
+1	27-летняя	_	_	_	_	_	_	_	Shift=125
+2	Наталья	_	_	_	_	_	_	_	RuCor_chain_id=1919|RuCor_group_id=468709|Shift=135
+3	Вотякова	_	_	_	_	_	_	_	RuCor_chain_id=1919|RuCor_group_id=468709|Shift=143
+4	не	_	_	_	_	_	_	_	Shift=152
+5	писала	_	_	_	_	_	_	_	Shift=155
+6	гадостей	_	_	_	_	_	_	_	Shift=162
+7	про	_	_	_	_	_	_	_	Shift=171
+8	сотрудников	_	_	_	_	_	_	_	Shift=175
+9	правоохранительных	_	_	_	_	_	_	_	Shift=187
+10	органов	_	_	_	_	_	_	_	Shift=206|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=213
+12	не	_	_	_	_	_	_	_	Shift=215
+13	рассказывала	_	_	_	_	_	_	_	Shift=218
+14	в	_	_	_	_	_	_	_	Shift=231
+15	своем	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1919|RuCor_group_id=468711|RuCor_link_id=468709|Shift=233
+16	блоге	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1920|RuCor_group_id=468710|RuCor_link_id=0|Shift=239
+17	о	_	_	_	_	_	_	_	Shift=245
+18	подготовке	_	_	_	_	_	_	_	Shift=247
+19	к	_	_	_	_	_	_	_	Shift=258
+20	убийству	_	_	_	_	_	_	_	Shift=260|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=268
+22	не	_	_	_	_	_	_	_	Shift=270
+23	собиралась	_	_	_	_	_	_	_	Shift=273
+24	выступать	_	_	_	_	_	_	_	Shift=284
+25	в	_	_	_	_	_	_	_	Shift=294
+26	роли	_	_	_	_	_	_	_	Shift=296
+27	шахидки	_	_	_	_	_	_	_	Shift=301|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=308
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p4
+# par_text = Она просто неудачно подписала фотографию соперницы.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p4-s1
+# text = Она просто неудачно подписала фотографию соперницы.
+1	Она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1919|RuCor_group_id=468712|RuCor_link_id=468709|Shift=310
+2	просто	_	_	_	_	_	_	_	Shift=314
+3	неудачно	_	_	_	_	_	_	_	Shift=321
+4	подписала	_	_	_	_	_	_	_	Shift=330
+5	фотографию	_	_	_	_	_	_	_	Shift=340
+6	соперницы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1921|RuCor_group_id=468713|RuCor_link_id=0|Shift=351|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=360
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p5
+# par_text = Теперь Вотяковой грозит полгода тюрьмы или штраф в 120 тыс. рублей.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p5-s1
+# text = Теперь Вотяковой грозит полгода тюрьмы или штраф в 120 тыс. рублей.
+1	Теперь	_	_	_	_	_	_	_	Shift=362
+2	Вотяковой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1919|RuCor_group_id=468714|RuCor_link_id=468712|Shift=369
+3	грозит	_	_	_	_	_	_	_	Shift=379
+4	полгода	_	_	_	_	_	_	_	Shift=386
+5	тюрьмы	_	_	_	_	_	_	_	Shift=394
+6	или	_	_	_	_	_	_	_	Shift=401
+7	штраф	_	_	_	_	_	_	_	Shift=405
+8	в	_	_	_	_	_	_	_	Shift=411
+9	120	_	_	_	_	_	_	_	Shift=413
+10	тыс.	_	_	_	_	_	_	_	Shift=417
+11	рублей	_	_	_	_	_	_	_	Shift=422|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=428
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p6
+# par_text = По ходатайству пострадавшей стороны судебный процесс решено проводить в закрытом режиме.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p6-s1
+# text = По ходатайству пострадавшей стороны судебный процесс решено проводить в закрытом режиме.
+1	По	_	_	_	_	_	_	_	Shift=430
+2	ходатайству	_	_	_	_	_	_	_	Shift=433
+3	пострадавшей	_	_	_	_	_	_	_	Shift=445
+4	стороны	_	_	_	_	_	_	_	Shift=458
+5	судебный	_	_	_	_	_	_	_	Shift=466
+6	процесс	_	_	_	_	_	_	_	Shift=475
+7	решено	_	_	_	_	_	_	_	Shift=483
+8	проводить	_	_	_	_	_	_	_	Shift=490
+9	в	_	_	_	_	_	_	_	Shift=500
+10	закрытом	_	_	_	_	_	_	_	Shift=502
+11	режиме	_	_	_	_	_	_	_	Shift=511|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=517
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p7
+# par_text = А в качестве обоснования этой просьбы было предоставлено обсуждение этого по всем параметрам неприятного дела в ЖЖ.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p7-s1
+# text = А в качестве обоснования этой просьбы было предоставлено обсуждение этого по всем параметрам неприятного дела в ЖЖ.
+1	А	_	_	_	_	_	_	_	Shift=519
+2	в	_	_	_	_	_	_	_	Shift=521
+3	качестве	_	_	_	_	_	_	_	Shift=523
+4	обоснования	_	_	_	_	_	_	_	Shift=532
+5	этой	_	_	_	_	_	_	_	Shift=544
+6	просьбы	_	_	_	_	_	_	_	Shift=549
+7	было	_	_	_	_	_	_	_	Shift=557
+8	предоставлено	_	_	_	_	_	_	_	Shift=562
+9	обсуждение	_	_	_	_	_	_	_	Shift=576
+10	этого	_	_	_	_	_	_	_	Shift=587
+11	по	_	_	_	_	_	_	_	Shift=593
+12	всем	_	_	_	_	_	_	_	Shift=596
+13	параметрам	_	_	_	_	_	_	_	Shift=601
+14	неприятного	_	_	_	_	_	_	_	Shift=612
+15	дела	_	_	_	_	_	_	_	Shift=624
+16	в	_	_	_	_	_	_	_	Shift=629
+17	ЖЖ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1922|RuCor_group_id=468715|RuCor_link_id=0|Shift=631|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=633
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p8
+# par_text = Суть дела в том, что в конце лета жительница Горно-Алтайска Наталья Вотякова узнала о том, что у ее мужа есть любовница.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p8-s1
+# text = Суть дела в том, что в конце лета жительница Горно-Алтайска Наталья Вотякова узнала о том, что у ее мужа есть любовница.
+1	Суть	_	_	_	_	_	_	_	Shift=635
+2	дела	_	_	_	_	_	_	_	Shift=640
+3	в	_	_	_	_	_	_	_	Shift=645
+4	том	_	_	_	_	_	_	_	Shift=647|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=650
+6	что	_	_	_	_	_	_	_	Shift=652
+7	в	_	_	_	_	_	_	_	Shift=656
+8	конце	_	_	_	_	_	_	_	Shift=658
+9	лета	_	_	_	_	_	_	_	Shift=664
+10	жительница	_	_	_	_	_	_	_	RuCor_chain_id=1919|RuCor_group_id=468716|Shift=669
+11	Горно-Алтайска	_	_	_	_	_	_	_	Shift=680
+12	Наталья	_	_	_	_	_	_	_	RuCor_chain_id=1919|RuCor_group_id=468716|Shift=695
+13	Вотякова	_	_	_	_	_	_	_	RuCor_chain_id=1919|RuCor_group_id=468716|Shift=703
+14	узнала	_	_	_	_	_	_	_	Shift=712
+15	о	_	_	_	_	_	_	_	Shift=719
+16	том	_	_	_	_	_	_	_	Shift=721|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=724
+18	что	_	_	_	_	_	_	_	Shift=726
+19	у	_	_	_	_	_	_	_	Shift=730
+20	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1919|RuCor_group_id=468719|RuCor_link_id=468716|Shift=732
+21	мужа	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1924|RuCor_group_id=468718|RuCor_link_id=0|Shift=735
+22	есть	_	_	_	_	_	_	_	Shift=740
+23	любовница	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1921|RuCor_group_id=468720|RuCor_link_id=468713|Shift=745|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=754
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p9
+# par_text = Масла в огонь подлили два аспекта: любовница, Валентина Фефелова, была беременна, а у коварного супруга нашли венерическое заболевание.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p9-s1
+# text = Масла в огонь подлили два аспекта: любовница, Валентина Фефелова, была беременна, а у коварного супруга нашли венерическое заболевание.
+1	Масла	_	_	_	_	_	_	_	Shift=756
+2	в	_	_	_	_	_	_	_	Shift=762
+3	огонь	_	_	_	_	_	_	_	Shift=764
+4	подлили	_	_	_	_	_	_	_	Shift=770
+5	два	_	_	_	_	_	_	_	Shift=778
+6	аспекта	_	_	_	_	_	_	_	Shift=782|SpaceAfter=No
+7	:	_	_	_	_	_	_	_	Shift=789
+8	любовница	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1921|RuCor_group_id=468721|RuCor_link_id=468720|Shift=791|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=800
+10	Валентина	_	_	_	_	_	_	_	RuCor_chain_id=1921|RuCor_group_id=468722|Shift=802
+11	Фефелова	_	_	_	_	_	_	_	RuCor_chain_id=1921|RuCor_group_id=468722|Shift=812|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=820
+13	была	_	_	_	_	_	_	_	Shift=822
+14	беременна	_	_	_	_	_	_	_	Shift=827|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=836
+16	а	_	_	_	_	_	_	_	Shift=838
+17	у	_	_	_	_	_	_	_	Shift=840
+18	коварного	_	_	_	_	_	_	_	RuCor_chain_id=1924|RuCor_group_id=468723|Shift=842
+19	супруга	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1924|RuCor_group_id=468723|RuCor_link_id=468718|Shift=852
+20	нашли	_	_	_	_	_	_	_	Shift=860
+21	венерическое	_	_	_	_	_	_	_	Shift=866
+22	заболевание	_	_	_	_	_	_	_	Shift=879|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=890
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p10
+# par_text = Наталья решила действовать в духе века высоких технологий.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p10-s1
+# text = Наталья решила действовать в духе века высоких технологий.
+1	Наталья	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1919|RuCor_group_id=468724|RuCor_link_id=468716|Shift=892
+2	решила	_	_	_	_	_	_	_	Shift=900
+3	действовать	_	_	_	_	_	_	_	Shift=907
+4	в	_	_	_	_	_	_	_	Shift=919
+5	духе	_	_	_	_	_	_	_	Shift=921
+6	века	_	_	_	_	_	_	_	Shift=926
+7	высоких	_	_	_	_	_	_	_	Shift=931
+8	технологий	_	_	_	_	_	_	_	Shift=939|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=949
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p11
+# par_text = Для начала сходила познакомиться с соперницей, работавшей в аппарате избирательной комиссии республики, где скромным бухгалтером трудился и неверный муж.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p11-s1
+# text = Для начала сходила познакомиться с соперницей, работавшей в аппарате избирательной комиссии республики, где скромным бухгалтером трудился и неверный муж.
+1	Для	_	_	_	_	_	_	_	Shift=951
+2	начала	_	_	_	_	_	_	_	Shift=955
+3	сходила	_	_	_	_	_	_	_	Shift=962
+4	познакомиться	_	_	_	_	_	_	_	Shift=970
+5	с	_	_	_	_	_	_	_	Shift=984
+6	соперницей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1921|RuCor_group_id=468725|RuCor_link_id=468722|Shift=986|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=996
+8	работавшей	_	_	_	_	_	_	_	Shift=998
+9	в	_	_	_	_	_	_	_	Shift=1009
+10	аппарате	_	_	_	_	_	_	_	Shift=1011
+11	избирательной	_	_	_	_	_	_	_	Shift=1020
+12	комиссии	_	_	_	_	_	_	_	Shift=1034
+13	республики	_	_	_	_	_	_	_	Shift=1043|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=1053
+15	где	_	_	_	_	_	_	_	Shift=1055
+16	скромным	_	_	_	_	_	_	_	Shift=1059
+17	бухгалтером	_	_	_	_	_	_	_	Shift=1068
+18	трудился	_	_	_	_	_	_	_	Shift=1080
+19	и	_	_	_	_	_	_	_	Shift=1089
+20	неверный	_	_	_	_	_	_	_	RuCor_chain_id=1924|RuCor_group_id=468726|Shift=1091
+21	муж	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1924|RuCor_group_id=468726|RuCor_link_id=468723|Shift=1100|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=1103
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p12
+# par_text = Далее, как принято говорить, показания свидетелей расходятся.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p12-s1
+# text = Далее, как принято говорить, показания свидетелей расходятся.
+1	Далее	_	_	_	_	_	_	_	Shift=1106|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=1111
+3	как	_	_	_	_	_	_	_	Shift=1113
+4	принято	_	_	_	_	_	_	_	Shift=1117
+5	говорить	_	_	_	_	_	_	_	Shift=1125|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1133
+7	показания	_	_	_	_	_	_	_	Shift=1135
+8	свидетелей	_	_	_	_	_	_	_	Shift=1145
+9	расходятся	_	_	_	_	_	_	_	Shift=1156|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=1166
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p13
+# par_text = По версии Натальи, Валентина начала сыпать соль на рану, в подробностях рассказывая, как долго они с Вотяковым ждали этого ребенка.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p13-s1
+# text = По версии Натальи, Валентина начала сыпать соль на рану, в подробностях рассказывая, как долго они с Вотяковым ждали этого ребенка.
+1	По	_	_	_	_	_	_	_	Shift=1168
+2	версии	_	_	_	_	_	_	_	Shift=1171
+3	Натальи	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1919|RuCor_group_id=468727|RuCor_link_id=468716|Shift=1178|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1185
+5	Валентина	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1921|RuCor_group_id=468728|RuCor_link_id=468722|Shift=1187
+6	начала	_	_	_	_	_	_	_	Shift=1197
+7	сыпать	_	_	_	_	_	_	_	Shift=1204
+8	соль	_	_	_	_	_	_	_	Shift=1211
+9	на	_	_	_	_	_	_	_	Shift=1216
+10	рану	_	_	_	_	_	_	_	Shift=1219|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=1223
+12	в	_	_	_	_	_	_	_	Shift=1225
+13	подробностях	_	_	_	_	_	_	_	Shift=1227
+14	рассказывая	_	_	_	_	_	_	_	Shift=1240|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=1251
+16	как	_	_	_	_	_	_	_	Shift=1253
+17	долго	_	_	_	_	_	_	_	Shift=1257
+18	они	_	_	_	_	_	_	_	Shift=1263
+19	с	_	_	_	_	_	_	_	Shift=1267
+20	Вотяковым	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1924|RuCor_group_id=468729|RuCor_link_id=468718|Shift=1269
+21	ждали	_	_	_	_	_	_	_	Shift=1279
+22	этого	_	_	_	_	_	_	_	Shift=1285
+23	ребенка	_	_	_	_	_	_	_	Shift=1291|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=1298
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p14
+# par_text = Вариант Валентины более лаконичен: «Пришла незнакомая тетка, зачем-то стала расспрашивать меня о коллеге, особо напирая на несуществующие отношения с ним».
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p14-s1
+# text = Вариант Валентины более лаконичен: ``Пришла незнакомая тетка, зачем-то стала расспрашивать меня о коллеге, особо напирая на несуществующие отношения с ним''.
+1	Вариант	_	_	_	_	_	_	_	Shift=1300
+2	Валентины	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1921|RuCor_group_id=468730|RuCor_link_id=468728|Shift=1308
+3	более	_	_	_	_	_	_	_	Shift=1318
+4	лаконичен	_	_	_	_	_	_	_	Shift=1324|SpaceAfter=No
+5	:	_	_	_	_	_	_	_	Shift=1333
+6	``	_	_	_	_	_	_	_	Shift=1335|SpaceAfter=No
+7	Пришла	_	_	_	_	_	_	_	Shift=1336
+8	незнакомая	_	_	_	_	_	_	_	RuCor_chain_id=1919|RuCor_group_id=468731|Shift=1343
+9	тетка	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1919|RuCor_group_id=468731|RuCor_link_id=468727|Shift=1354|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=1359
+11	зачем-то	_	_	_	_	_	_	_	Shift=1361
+12	стала	_	_	_	_	_	_	_	Shift=1370
+13	расспрашивать	_	_	_	_	_	_	_	Shift=1376
+14	меня	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1921|RuCor_group_id=468732|RuCor_link_id=468730|Shift=1390
+15	о	_	_	_	_	_	_	_	Shift=1395
+16	коллеге	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1924|RuCor_group_id=468733|RuCor_link_id=468729|Shift=1397|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=1404
+18	особо	_	_	_	_	_	_	_	Shift=1406
+19	напирая	_	_	_	_	_	_	_	Shift=1412
+20	на	_	_	_	_	_	_	_	Shift=1420
+21	несуществующие	_	_	_	_	_	_	_	Shift=1423
+22	отношения	_	_	_	_	_	_	_	Shift=1438
+23	с	_	_	_	_	_	_	_	Shift=1448
+24	ним	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1924|RuCor_group_id=468734|RuCor_link_id=468733|Shift=1450|SpaceAfter=No
+25	''	_	_	_	_	_	_	_	Shift=1453|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=1454
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p15
+# par_text = Как бы то ни было, взбешенная Наталья сфотографировала разлучницу, вылила на нее чашку кофе и с чувством выполненного долга удалилась.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p15-s1
+# text = Как бы то ни было, взбешенная Наталья сфотографировала разлучницу, вылила на нее чашку кофе и с чувством выполненного долга удалилась.
+1	Как	_	_	_	_	_	_	_	Shift=1456
+2	бы	_	_	_	_	_	_	_	Shift=1460
+3	то	_	_	_	_	_	_	_	Shift=1463
+4	ни	_	_	_	_	_	_	_	Shift=1466
+5	было	_	_	_	_	_	_	_	Shift=1469|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1473
+7	взбешенная	_	_	_	_	_	_	_	RuCor_chain_id=1919|RuCor_group_id=468735|Shift=1475
+8	Наталья	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1919|RuCor_group_id=468735|RuCor_link_id=468731|Shift=1486
+9	сфотографировала	_	_	_	_	_	_	_	Shift=1494
+10	разлучницу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1921|RuCor_group_id=468736|RuCor_link_id=468728|Shift=1511|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=1521
+12	вылила	_	_	_	_	_	_	_	Shift=1523
+13	на	_	_	_	_	_	_	_	Shift=1530
+14	нее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1921|RuCor_group_id=468737|RuCor_link_id=468736|Shift=1533
+15	чашку	_	_	_	_	_	_	_	Shift=1537
+16	кофе	_	_	_	_	_	_	_	Shift=1543
+17	и	_	_	_	_	_	_	_	Shift=1548
+18	с	_	_	_	_	_	_	_	Shift=1550
+19	чувством	_	_	_	_	_	_	_	Shift=1552
+20	выполненного	_	_	_	_	_	_	_	Shift=1561
+21	долга	_	_	_	_	_	_	_	Shift=1574
+22	удалилась	_	_	_	_	_	_	_	Shift=1580|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=1589
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p16
+# par_text = А через несколько дней в своем блоге опубликовала фотографию Валентины с подписью: «Алтай, секс, минет, петтинг, анал, орал классический, спросить Валентину Фефелову» — с заботливо приписанными сотовым и рабочим телефонами соперницы.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p16-s1
+# text = А через несколько дней в своем блоге опубликовала фотографию Валентины с подписью: ``Алтай, секс, минет, петтинг, анал, орал классический, спросить Валентину Фефелову'' - с заботливо приписанными сотовым и рабочим телефонами соперницы.
+1	А	_	_	_	_	_	_	_	Shift=1591
+2	через	_	_	_	_	_	_	_	Shift=1593
+3	несколько	_	_	_	_	_	_	_	Shift=1599
+4	дней	_	_	_	_	_	_	_	Shift=1609
+5	в	_	_	_	_	_	_	_	Shift=1614
+6	своем	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1919|RuCor_group_id=468739|RuCor_link_id=468735|Shift=1616
+7	блоге	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1920|RuCor_group_id=468738|RuCor_link_id=468710|Shift=1622
+8	опубликовала	_	_	_	_	_	_	_	Shift=1628
+9	фотографию	_	_	_	_	_	_	_	Shift=1641
+10	Валентины	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1921|RuCor_group_id=468740|RuCor_link_id=468728|Shift=1652
+11	с	_	_	_	_	_	_	_	Shift=1662
+12	подписью	_	_	_	_	_	_	_	Shift=1664|SpaceAfter=No
+13	:	_	_	_	_	_	_	_	Shift=1672
+14	``	_	_	_	_	_	_	_	Shift=1674|SpaceAfter=No
+15	Алтай	_	_	_	_	_	_	_	Shift=1675|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=1680
+17	секс	_	_	_	_	_	_	_	Shift=1682|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=1686
+19	минет	_	_	_	_	_	_	_	Shift=1688|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=1693
+21	петтинг	_	_	_	_	_	_	_	Shift=1695|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=1702
+23	анал	_	_	_	_	_	_	_	Shift=1704|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=1708
+25	орал	_	_	_	_	_	_	_	Shift=1710
+26	классический	_	_	_	_	_	_	_	Shift=1715|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=1727
+28	спросить	_	_	_	_	_	_	_	Shift=1729
+29	Валентину	_	_	_	_	_	_	_	RuCor_chain_id=1921|RuCor_group_id=468741|Shift=1738
+30	Фефелову	_	_	_	_	_	_	_	RuCor_chain_id=1921|RuCor_group_id=468741|Shift=1748|SpaceAfter=No
+31	''	_	_	_	_	_	_	_	Shift=1756
+32	-	_	_	_	_	_	_	_	Shift=1758
+33	с	_	_	_	_	_	_	_	Shift=1760
+34	заботливо	_	_	_	_	_	_	_	Shift=1762
+35	приписанными	_	_	_	_	_	_	_	Shift=1772
+36	сотовым	_	_	_	_	_	_	_	Shift=1785
+37	и	_	_	_	_	_	_	_	Shift=1793
+38	рабочим	_	_	_	_	_	_	_	Shift=1795
+39	телефонами	_	_	_	_	_	_	_	Shift=1803
+40	соперницы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1921|RuCor_group_id=468742|RuCor_link_id=468741|Shift=1814|SpaceAfter=No
+41	.	_	_	_	_	_	_	_	Shift=1823
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p17
+# par_text = Так бы и висела эта злобная, но так радовавшая сердце Натальи запись, если бы на объявление «Кому продажной любви?» не вышел знакомый обеих женщин Александр Тарышкин.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p17-s1
+# text = Так бы и висела эта злобная, но так радовавшая сердце Натальи запись, если бы на объявление « Кому продажной любви? »
+1	Так	_	_	_	_	_	_	_	Shift=1825
+2	бы	_	_	_	_	_	_	_	Shift=1829
+3	и	_	_	_	_	_	_	_	Shift=1832
+4	висела	_	_	_	_	_	_	_	Shift=1834
+5	эта	_	_	_	_	_	_	_	Shift=1841
+6	злобная	_	_	_	_	_	_	_	Shift=1845|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=1852
+8	но	_	_	_	_	_	_	_	Shift=1854
+9	так	_	_	_	_	_	_	_	Shift=1857
+10	радовавшая	_	_	_	_	_	_	_	Shift=1861
+11	сердце	_	_	_	_	_	_	_	Shift=1872
+12	Натальи	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1919|RuCor_group_id=468743|RuCor_link_id=468735|Shift=1879
+13	запись	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1925|RuCor_group_id=468744|RuCor_link_id=0|Shift=1887|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=1893
+15	если	_	_	_	_	_	_	_	Shift=1895
+16	бы	_	_	_	_	_	_	_	Shift=1900
+17	на	_	_	_	_	_	_	_	Shift=1903
+18	объявление	_	_	_	_	_	_	_	Shift=1906
+19	``	_	_	_	_	_	_	_	QuotationStart=«|Shift=1917
+20	Кому	_	_	_	_	_	_	_	Shift=1918
+21	продажной	_	_	_	_	_	_	_	Shift=1923
+22	любви	_	_	_	_	_	_	_	Shift=1933|SpaceAfter=No
+23	?	_	_	_	_	_	_	_	Shift=1938
+24	''	_	_	_	_	_	_	_	QuotationEnd=»|Shift=1939
+
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p17-s2
+# text = не вышел знакомый обеих женщин Александр Тарышкин.
+1	не	_	_	_	_	_	_	_	Shift=1941
+2	вышел	_	_	_	_	_	_	_	Shift=1944
+3	знакомый	_	_	_	_	_	_	_	RuCor_chain_id=1926|RuCor_group_id=468745|Shift=1950
+4	обеих	_	_	_	_	_	_	_	RuCor_chain_id=1926|RuCor_group_id=468745|Shift=1959
+5	женщин	_	_	_	_	_	_	_	RuCor_chain_id=1926|RuCor_group_id=468745|Shift=1965
+6	Александр	_	_	_	_	_	_	_	RuCor_chain_id=1926|RuCor_group_id=468745|Shift=1972
+7	Тарышкин	_	_	_	_	_	_	_	RuCor_chain_id=1926|RuCor_group_id=468745|Shift=1982|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=1990
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p18
+# par_text = Мужчина «обрадовал» новостью ни о чем не подозревавшую Валентину, которая пожаловалась в администрацию «Живого журнала», а заодно отнесла заявление в милицию.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p18-s1
+# text = Мужчина ``обрадовал'' новостью ни о чем не подозревавшую Валентину, которая пожаловалась в администрацию ``Живого журнала'', а заодно отнесла заявление в милицию.
+1	Мужчина	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1926|RuCor_group_id=468746|RuCor_link_id=468745|Shift=1992
+2	``	_	_	_	_	_	_	_	Shift=2000|SpaceAfter=No
+3	обрадовал	_	_	_	_	_	_	_	Shift=2001|SpaceAfter=No
+4	''	_	_	_	_	_	_	_	Shift=2010
+5	новостью	_	_	_	_	_	_	_	Shift=2012
+6	ни	_	_	_	_	_	_	_	Shift=2021
+7	о	_	_	_	_	_	_	_	Shift=2024
+8	чем	_	_	_	_	_	_	_	Shift=2026
+9	не	_	_	_	_	_	_	_	Shift=2030
+10	подозревавшую	_	_	_	_	_	_	_	Shift=2033
+11	Валентину	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1921|RuCor_group_id=468747|RuCor_link_id=468740|Shift=2047|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=2056
+13	которая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=1921|RuCor_group_id=468748|RuCor_link_id=468747|Shift=2058
+14	пожаловалась	_	_	_	_	_	_	_	Shift=2066
+15	в	_	_	_	_	_	_	_	Shift=2079
+16	администрацию	_	_	_	_	_	_	_	Shift=2081
+17	``	_	_	_	_	_	_	_	RuCor_chain_id=1922|RuCor_group_id=468749|Shift=2095|SpaceAfter=No
+18	Живого	_	_	_	_	_	_	_	RuCor_chain_id=1922|RuCor_group_id=468749|Shift=2096
+19	журнала	_	_	_	_	_	_	_	RuCor_chain_id=1922|RuCor_group_id=468749|Shift=2103|SpaceAfter=No
+20	''	_	_	_	_	_	_	_	RuCor_chain_id=1922|RuCor_group_id=468749|Shift=2110|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=2111
+22	а	_	_	_	_	_	_	_	Shift=2113
+23	заодно	_	_	_	_	_	_	_	Shift=2115
+24	отнесла	_	_	_	_	_	_	_	Shift=2122
+25	заявление	_	_	_	_	_	_	_	Shift=2130
+26	в	_	_	_	_	_	_	_	Shift=2140
+27	милицию	_	_	_	_	_	_	_	Shift=2142|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=2149
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p19
+# par_text = Злополучный пост был снят, а на Наталью завели уголовное дело по статье 129 «Клевета, то есть распространение заведомо ложных сведений, порочащих честь и достоинство другого лица или подрывающих его репутацию, содержащихся в средствах массовой информации».
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p19-s1
+# text = Злополучный пост был снят, а на Наталью завели уголовное дело по статье 129 ``Клевета, то есть распространение заведомо ложных сведений, порочащих честь и достоинство другого лица или подрывающих его репутацию, содержащихся в средствах массовой информации''.
+1	Злополучный	_	_	_	_	_	_	_	RuCor_chain_id=1925|RuCor_group_id=468750|Shift=2151
+2	пост	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1925|RuCor_group_id=468750|RuCor_link_id=468744|Shift=2163
+3	был	_	_	_	_	_	_	_	Shift=2168
+4	снят	_	_	_	_	_	_	_	Shift=2172|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=2176
+6	а	_	_	_	_	_	_	_	Shift=2178
+7	на	_	_	_	_	_	_	_	Shift=2180
+8	Наталью	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1919|RuCor_group_id=468751|RuCor_link_id=468743|Shift=2183
+9	завели	_	_	_	_	_	_	_	Shift=2191
+10	уголовное	_	_	_	_	_	_	_	Shift=2198
+11	дело	_	_	_	_	_	_	_	Shift=2208
+12	по	_	_	_	_	_	_	_	Shift=2213
+13	статье	_	_	_	_	_	_	_	Shift=2216
+14	129	_	_	_	_	_	_	_	Shift=2223
+15	``	_	_	_	_	_	_	_	Shift=2227|SpaceAfter=No
+16	Клевета	_	_	_	_	_	_	_	Shift=2228|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=2235
+18	то	_	_	_	_	_	_	_	Shift=2237
+19	есть	_	_	_	_	_	_	_	Shift=2240
+20	распространение	_	_	_	_	_	_	_	Shift=2245
+21	заведомо	_	_	_	_	_	_	_	Shift=2261
+22	ложных	_	_	_	_	_	_	_	Shift=2270
+23	сведений	_	_	_	_	_	_	_	Shift=2277|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=2285
+25	порочащих	_	_	_	_	_	_	_	Shift=2287
+26	честь	_	_	_	_	_	_	_	Shift=2297
+27	и	_	_	_	_	_	_	_	Shift=2303
+28	достоинство	_	_	_	_	_	_	_	Shift=2305
+29	другого	_	_	_	_	_	_	_	RuCor_chain_id=1927|RuCor_group_id=468752|Shift=2317
+30	лица	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1927|RuCor_group_id=468752|RuCor_link_id=0|Shift=2325
+31	или	_	_	_	_	_	_	_	Shift=2330
+32	подрывающих	_	_	_	_	_	_	_	Shift=2334
+33	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=1927|RuCor_group_id=468753|RuCor_link_id=468752|Shift=2346
+34	репутацию	_	_	_	_	_	_	_	Shift=2350|SpaceAfter=No
+35	,	_	_	_	_	_	_	_	Shift=2359
+36	содержащихся	_	_	_	_	_	_	_	Shift=2361
+37	в	_	_	_	_	_	_	_	Shift=2374
+38	средствах	_	_	_	_	_	_	_	Shift=2376
+39	массовой	_	_	_	_	_	_	_	Shift=2386
+40	информации	_	_	_	_	_	_	_	Shift=2395|SpaceAfter=No
+41	''	_	_	_	_	_	_	_	Shift=2405|SpaceAfter=No
+42	.	_	_	_	_	_	_	_	Shift=2406
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p20
+# par_text = Расследование превратилось в совсем уж некрасивую разборку.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p20-s1
+# text = Расследование превратилось в совсем уж некрасивую разборку.
+1	Расследование	_	_	_	_	_	_	_	Shift=2408
+2	превратилось	_	_	_	_	_	_	_	Shift=2422
+3	в	_	_	_	_	_	_	_	Shift=2435
+4	совсем	_	_	_	_	_	_	_	Shift=2437
+5	уж	_	_	_	_	_	_	_	Shift=2444
+6	некрасивую	_	_	_	_	_	_	_	Shift=2447
+7	разборку	_	_	_	_	_	_	_	Shift=2458|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=2466
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p21
+# par_text = Валентина играла роль оскорбленной невинности, утверждая, что адюльтер и беременность — плод воображения четы Вотяковых.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p21-s1
+# text = Валентина играла роль оскорбленной невинности, утверждая, что адюльтер и беременность - плод воображения четы Вотяковых.
+1	Валентина	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1921|RuCor_group_id=468754|RuCor_link_id=468741|Shift=2468
+2	играла	_	_	_	_	_	_	_	Shift=2478
+3	роль	_	_	_	_	_	_	_	Shift=2485
+4	оскорбленной	_	_	_	_	_	_	_	Shift=2490
+5	невинности	_	_	_	_	_	_	_	Shift=2503|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=2513
+7	утверждая	_	_	_	_	_	_	_	Shift=2515|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=2524
+9	что	_	_	_	_	_	_	_	Shift=2526
+10	адюльтер	_	_	_	_	_	_	_	Shift=2530
+11	и	_	_	_	_	_	_	_	Shift=2539
+12	беременность	_	_	_	_	_	_	_	Shift=2541
+13	-	_	_	_	_	_	_	_	Shift=2554
+14	плод	_	_	_	_	_	_	_	Shift=2556
+15	воображения	_	_	_	_	_	_	_	Shift=2561
+16	четы	_	_	_	_	_	_	_	Shift=2573
+17	Вотяковых	_	_	_	_	_	_	_	Shift=2578|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=2587
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p22
+# par_text = Наталья в свою очередь давила на жалость, объясняя свой поступок состоянием аффекта, а также боязнью за семью.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p22-s1
+# text = Наталья в свою очередь давила на жалость, объясняя свой поступок состоянием аффекта, а также боязнью за семью.
+1	Наталья	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1919|RuCor_group_id=468755|RuCor_link_id=468751|Shift=2589
+2	в	_	_	_	_	_	_	_	Shift=2597
+3	свою	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=1919|RuCor_group_id=468756|RuCor_link_id=468755|Shift=2599
+4	очередь	_	_	_	_	_	_	_	Shift=2604
+5	давила	_	_	_	_	_	_	_	Shift=2612
+6	на	_	_	_	_	_	_	_	Shift=2619
+7	жалость	_	_	_	_	_	_	_	Shift=2622|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=2629
+9	объясняя	_	_	_	_	_	_	_	Shift=2631
+10	свой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=1919|RuCor_group_id=468757|RuCor_link_id=468755|Shift=2640
+11	поступок	_	_	_	_	_	_	_	Shift=2645
+12	состоянием	_	_	_	_	_	_	_	Shift=2654
+13	аффекта	_	_	_	_	_	_	_	Shift=2665|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=2672
+15	а	_	_	_	_	_	_	_	Shift=2674
+16	также	_	_	_	_	_	_	_	Shift=2676
+17	боязнью	_	_	_	_	_	_	_	Shift=2682
+18	за	_	_	_	_	_	_	_	Shift=2690
+19	семью	_	_	_	_	_	_	_	Shift=2693|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=2698
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p23
+# par_text = «Следствие не стало устанавливать, была ли любовная связь между г-жой Фефеловой и мужем подсудимой,
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p23-s1
+# text = ``Следствие не стало устанавливать, была ли любовная связь между Фефеловой и мужем подсудимой,
+1	``	_	_	_	_	_	_	_	Shift=2700|SpaceAfter=No
+2	Следствие	_	_	_	_	_	_	_	Shift=2701
+3	не	_	_	_	_	_	_	_	Shift=2711
+4	стало	_	_	_	_	_	_	_	Shift=2714
+5	устанавливать	_	_	_	_	_	_	_	Shift=2720|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=2733
+7	была	_	_	_	_	_	_	_	Shift=2735
+8	ли	_	_	_	_	_	_	_	Shift=2740
+9	любовная	_	_	_	_	_	_	_	Shift=2743
+10	связь	_	_	_	_	_	_	_	Shift=2752
+11	между	_	_	_	_	_	_	_	Shift=2758
+12	госпожой	_	_	_	_	_	_	_	Shift=2764|Shortcut=г-жой
+13	Фефеловой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1921|RuCor_group_id=468758|RuCor_link_id=468741|Shift=2770
+14	и	_	_	_	_	_	_	_	Shift=2780
+15	мужем	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1924|RuCor_group_id=468759|RuCor_link_id=468723|Shift=2782
+16	подсудимой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1919|RuCor_group_id=468760|RuCor_link_id=468757|Shift=2788|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=2798
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p24
+# par_text = — рассказал «Часкору» член правления правозащитной комиссии «Мемориал» Эрнест Мезак.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p24-s1
+# text = - рассказал ``Часкору'' член правления правозащитной комиссии ``Мемориал'' Эрнест Мезак.
+1	-	_	_	_	_	_	_	_	Shift=2800
+2	рассказал	_	_	_	_	_	_	_	Shift=2802
+3	``	_	_	_	_	_	_	_	Shift=2812|SpaceAfter=No
+4	Часкору	_	_	_	_	_	_	_	Shift=2813|SpaceAfter=No
+5	''	_	_	_	_	_	_	_	Shift=2820
+6	член	_	_	_	_	_	_	_	RuCor_chain_id=1928|RuCor_group_id=468761|Shift=2822
+7	правления	_	_	_	_	_	_	_	RuCor_chain_id=1928|RuCor_group_id=468761|Shift=2827
+8	правозащитной	_	_	_	_	_	_	_	RuCor_chain_id=1928|RuCor_group_id=468761|Shift=2837
+9	комиссии	_	_	_	_	_	_	_	RuCor_chain_id=1928|RuCor_group_id=468761|Shift=2851
+10	``	_	_	_	_	_	_	_	RuCor_chain_id=1928|RuCor_group_id=468761|Shift=2860|SpaceAfter=No
+11	Мемориал	_	_	_	_	_	_	_	RuCor_chain_id=1928|RuCor_group_id=468761|Shift=2861|SpaceAfter=No
+12	''	_	_	_	_	_	_	_	RuCor_chain_id=1928|RuCor_group_id=468761|Shift=2869
+13	Эрнест	_	_	_	_	_	_	_	RuCor_chain_id=1928|RuCor_group_id=468761|Shift=2871
+14	Мезак	_	_	_	_	_	_	_	RuCor_chain_id=1928|RuCor_group_id=468761|Shift=2878|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=2883
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p25
+# par_text = — Хотя, конечно, это существенный аспект дела.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p25-s1
+# text = - Хотя, конечно, это существенный аспект дела.
+1	-	_	_	_	_	_	_	_	Shift=2885
+2	Хотя	_	_	_	_	_	_	_	Shift=2887|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=2891
+4	конечно	_	_	_	_	_	_	_	Shift=2893|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=2900
+6	это	_	_	_	_	_	_	_	Shift=2902
+7	существенный	_	_	_	_	_	_	_	Shift=2906
+8	аспект	_	_	_	_	_	_	_	Shift=2919
+9	дела	_	_	_	_	_	_	_	Shift=2926|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=2930
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p26
+# par_text = Ведь аморальное поведение потерпевшей — это обстоятельство, смягчающее наказание г-жи Вотяковой».
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p26-s1
+# text = Ведь аморальное поведение потерпевшей - это обстоятельство, смягчающее наказание Вотяковой''.
+1	Ведь	_	_	_	_	_	_	_	Shift=2932
+2	аморальное	_	_	_	_	_	_	_	Shift=2937
+3	поведение	_	_	_	_	_	_	_	Shift=2948
+4	потерпевшей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1921|RuCor_group_id=468762|RuCor_link_id=468758|Shift=2958
+5	-	_	_	_	_	_	_	_	Shift=2970
+6	это	_	_	_	_	_	_	_	Shift=2972
+7	обстоятельство	_	_	_	_	_	_	_	Shift=2976|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=2990
+9	смягчающее	_	_	_	_	_	_	_	Shift=2992
+10	наказание	_	_	_	_	_	_	_	Shift=3003
+11	госпожи	_	_	_	_	_	_	_	Shift=3013|Shortcut=г-жи
+12	Вотяковой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1919|RuCor_group_id=468763|RuCor_link_id=468755|Shift=3018|SpaceAfter=No
+13	''	_	_	_	_	_	_	_	Shift=3027|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=3028
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p27
+# par_text = Тем не менее обидчице уже пообещали небо в алмазах.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p27-s1
+# text = Тем не менее обидчице уже пообещали небо в алмазах.
+1	Тем	_	_	_	_	_	_	_	Shift=3030
+2	не	_	_	_	_	_	_	_	Shift=3034
+3	менее	_	_	_	_	_	_	_	Shift=3037
+4	обидчице	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1919|RuCor_group_id=468764|RuCor_link_id=468763|Shift=3043
+5	уже	_	_	_	_	_	_	_	Shift=3052
+6	пообещали	_	_	_	_	_	_	_	Shift=3056
+7	небо	_	_	_	_	_	_	_	Shift=3066
+8	в	_	_	_	_	_	_	_	Shift=3071
+9	алмазах	_	_	_	_	_	_	_	Shift=3073|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=3080
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p28
+# par_text = По закону ей грозит либо полгода тюрьмы, либо крупный штраф.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p28-s1
+# text = По закону ей грозит либо полгода тюрьмы, либо крупный штраф.
+1	По	_	_	_	_	_	_	_	Shift=3082
+2	закону	_	_	_	_	_	_	_	Shift=3085
+3	ей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1919|RuCor_group_id=468765|RuCor_link_id=468764|Shift=3092
+4	грозит	_	_	_	_	_	_	_	Shift=3095
+5	либо	_	_	_	_	_	_	_	Shift=3102
+6	полгода	_	_	_	_	_	_	_	Shift=3107
+7	тюрьмы	_	_	_	_	_	_	_	Shift=3115|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=3121
+9	либо	_	_	_	_	_	_	_	Shift=3123
+10	крупный	_	_	_	_	_	_	_	Shift=3128
+11	штраф	_	_	_	_	_	_	_	Shift=3136|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=3141
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p29
+# par_text = Кто прав в этой истории, а кто виноват — следствие покажет.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p29-s1
+# text = Кто прав в этой истории, а кто виноват - следствие покажет.
+1	Кто	_	_	_	_	_	_	_	Shift=3144
+2	прав	_	_	_	_	_	_	_	Shift=3148
+3	в	_	_	_	_	_	_	_	Shift=3153
+4	этой	_	_	_	_	_	_	_	Shift=3155
+5	истории	_	_	_	_	_	_	_	Shift=3160|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=3167
+7	а	_	_	_	_	_	_	_	Shift=3169
+8	кто	_	_	_	_	_	_	_	Shift=3171
+9	виноват	_	_	_	_	_	_	_	Shift=3175
+10	-	_	_	_	_	_	_	_	Shift=3183
+11	следствие	_	_	_	_	_	_	_	Shift=3185
+12	покажет	_	_	_	_	_	_	_	Shift=3195|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=3202
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p30
+# par_text = Правозащитники убеждены: обвинять Наталью нельзя.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p30-s1
+# text = Правозащитники убеждены: обвинять Наталью нельзя.
+1	Правозащитники	_	_	_	_	_	_	_	Shift=3204
+2	убеждены	_	_	_	_	_	_	_	Shift=3219|SpaceAfter=No
+3	:	_	_	_	_	_	_	_	Shift=3227
+4	обвинять	_	_	_	_	_	_	_	Shift=3229
+5	Наталью	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1919|RuCor_group_id=468766|RuCor_link_id=468755|Shift=3238
+6	нельзя	_	_	_	_	_	_	_	Shift=3246|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=3252
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p31
+# par_text = «В чем она виновна?
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p31-s1
+# text = ``В чем она виновна?
+1	``	_	_	_	_	_	_	_	Shift=3254|SpaceAfter=No
+2	В	_	_	_	_	_	_	_	Shift=3255
+3	чем	_	_	_	_	_	_	_	Shift=3257
+4	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1919|RuCor_group_id=468767|RuCor_link_id=468766|Shift=3261
+5	виновна	_	_	_	_	_	_	_	Shift=3265|SpaceAfter=No
+6	?	_	_	_	_	_	_	_	Shift=3272
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p32
+# par_text = В клевете или в оскорблении?
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p32-s1
+# text = В клевете или в оскорблении?
+1	В	_	_	_	_	_	_	_	Shift=3274
+2	клевете	_	_	_	_	_	_	_	Shift=3276
+3	или	_	_	_	_	_	_	_	Shift=3284
+4	в	_	_	_	_	_	_	_	Shift=3288
+5	оскорблении	_	_	_	_	_	_	_	Shift=3290|SpaceAfter=No
+6	?	_	_	_	_	_	_	_	Shift=3301
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p33
+# par_text = Спорный текст процессуальные оппоненты трактуют по-разному.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p33-s1
+# text = Спорный текст процессуальные оппоненты трактуют по-разному.
+1	Спорный	_	_	_	_	_	_	_	Shift=3303
+2	текст	_	_	_	_	_	_	_	Shift=3311
+3	процессуальные	_	_	_	_	_	_	_	Shift=3317
+4	оппоненты	_	_	_	_	_	_	_	Shift=3332
+5	трактуют	_	_	_	_	_	_	_	Shift=3342
+6	по-разному	_	_	_	_	_	_	_	Shift=3351|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=3361
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p34
+# par_text = Потерпевшая считает, что ее обвинили в оказании секс-услуг за деньги, то есть имело место утверждение о факте,
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p34-s1
+# text = Потерпевшая считает, что ее обвинили в оказании секс-услуг за деньги, то есть имело место утверждение о факте,
+1	Потерпевшая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1921|RuCor_group_id=468768|RuCor_link_id=468762|Shift=3363
+2	считает	_	_	_	_	_	_	_	Shift=3375|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=3382
+4	что	_	_	_	_	_	_	_	Shift=3384
+5	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1921|RuCor_group_id=468769|RuCor_link_id=468754|Shift=3388
+6	обвинили	_	_	_	_	_	_	_	Shift=3391
+7	в	_	_	_	_	_	_	_	Shift=3400
+8	оказании	_	_	_	_	_	_	_	Shift=3402
+9	секс-услуг	_	_	_	_	_	_	_	Shift=3411
+10	за	_	_	_	_	_	_	_	Shift=3422
+11	деньги	_	_	_	_	_	_	_	Shift=3425|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=3431
+13	то	_	_	_	_	_	_	_	Shift=3433
+14	есть	_	_	_	_	_	_	_	Shift=3436
+15	имело	_	_	_	_	_	_	_	Shift=3441
+16	место	_	_	_	_	_	_	_	Shift=3447
+17	утверждение	_	_	_	_	_	_	_	Shift=3453
+18	о	_	_	_	_	_	_	_	Shift=3465
+19	факте	_	_	_	_	_	_	_	Shift=3467|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=3472
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p35
+# par_text = — рассуждает Эрнест Мезак.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p35-s1
+# text = - рассуждает Эрнест Мезак.
+1	-	_	_	_	_	_	_	_	Shift=3474
+2	рассуждает	_	_	_	_	_	_	_	Shift=3476
+3	Эрнест	_	_	_	_	_	_	_	RuCor_chain_id=1928|RuCor_group_id=468770|Shift=3487
+4	Мезак	_	_	_	_	_	_	_	RuCor_chain_id=1928|RuCor_group_id=468770|Shift=3494|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=3499
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p36
+# par_text = — Подсудимая говорит, что она просто негативно оценивала любовницу мужа, то есть высказывала свое частное мнение.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p36-s1
+# text = - Подсудимая говорит, что она просто негативно оценивала любовницу мужа, то есть высказывала свое частное мнение.
+1	-	_	_	_	_	_	_	_	Shift=3501
+2	Подсудимая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1919|RuCor_group_id=468771|RuCor_link_id=468765|Shift=3503
+3	говорит	_	_	_	_	_	_	_	Shift=3514|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=3521
+5	что	_	_	_	_	_	_	_	Shift=3523
+6	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1919|RuCor_group_id=468772|RuCor_link_id=468771|Shift=3527
+7	просто	_	_	_	_	_	_	_	Shift=3531
+8	негативно	_	_	_	_	_	_	_	Shift=3538
+9	оценивала	_	_	_	_	_	_	_	Shift=3548
+10	любовницу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1921|RuCor_group_id=468773|RuCor_link_id=468769|Shift=3558
+11	мужа	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1924|RuCor_group_id=468774|RuCor_link_id=468759|Shift=3568|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=3572
+13	то	_	_	_	_	_	_	_	Shift=3574
+14	есть	_	_	_	_	_	_	_	Shift=3577
+15	высказывала	_	_	_	_	_	_	_	Shift=3582
+16	свое	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1919|RuCor_group_id=468775|RuCor_link_id=468771|Shift=3594
+17	частное	_	_	_	_	_	_	_	Shift=3599
+18	мнение	_	_	_	_	_	_	_	Shift=3607|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=3613
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p37
+# par_text = Мнение может быть преступным, если оно кого-то унижает и выражено в неприличной форме.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p37-s1
+# text = Мнение может быть преступным, если оно кого-то унижает и выражено в неприличной форме.
+1	Мнение	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1929|RuCor_group_id=468776|RuCor_link_id=0|Shift=3615
+2	может	_	_	_	_	_	_	_	Shift=3622
+3	быть	_	_	_	_	_	_	_	Shift=3628
+4	преступным	_	_	_	_	_	_	_	Shift=3633|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=3643
+6	если	_	_	_	_	_	_	_	Shift=3645
+7	оно	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1929|RuCor_group_id=468777|RuCor_link_id=468776|Shift=3650
+8	кого-то	_	_	_	_	_	_	_	Shift=3654
+9	унижает	_	_	_	_	_	_	_	Shift=3662
+10	и	_	_	_	_	_	_	_	Shift=3670
+11	выражено	_	_	_	_	_	_	_	Shift=3672
+12	в	_	_	_	_	_	_	_	Shift=3681
+13	неприличной	_	_	_	_	_	_	_	Shift=3683
+14	форме	_	_	_	_	_	_	_	Shift=3695|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=3700
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p38
+# par_text = Но, чтобы оценить неприличность сообщения Натальи Вотяковой в ЖЖ, надо прежде установить, насколько морально вела себя потерпевшая.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p38-s1
+# text = Но, чтобы оценить неприличность сообщения Натальи Вотяковой в ЖЖ, надо прежде установить, насколько морально вела себя потерпевшая.
+1	Но	_	_	_	_	_	_	_	Shift=3702|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=3704
+3	чтобы	_	_	_	_	_	_	_	Shift=3706
+4	оценить	_	_	_	_	_	_	_	Shift=3712
+5	неприличность	_	_	_	_	_	_	_	Shift=3720
+6	сообщения	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1925|RuCor_group_id=468778|RuCor_link_id=468750|Shift=3734
+7	Натальи	_	_	_	_	_	_	_	RuCor_chain_id=1919|RuCor_group_id=468779|Shift=3744
+8	Вотяковой	_	_	_	_	_	_	_	RuCor_chain_id=1919|RuCor_group_id=468779|Shift=3752
+9	в	_	_	_	_	_	_	_	Shift=3762
+10	ЖЖ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1920|RuCor_group_id=468780|RuCor_link_id=468738|Shift=3764|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=3766
+12	надо	_	_	_	_	_	_	_	Shift=3768
+13	прежде	_	_	_	_	_	_	_	Shift=3773
+14	установить	_	_	_	_	_	_	_	Shift=3780|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=3790
+16	насколько	_	_	_	_	_	_	_	Shift=3792
+17	морально	_	_	_	_	_	_	_	Shift=3802
+18	вела	_	_	_	_	_	_	_	Shift=3811
+19	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=1921|RuCor_group_id=468781|RuCor_link_id=468782|Shift=3816
+20	потерпевшая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1921|RuCor_group_id=468782|RuCor_link_id=468758|Shift=3821|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=3832
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p39
+# par_text = Судьям Горно-Алтайска есть над чем подумать».
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p39-s1
+# text = Судьям Горно-Алтайска есть над чем подумать''.
+1	Судьям	_	_	_	_	_	_	_	Shift=3834
+2	Горно-Алтайска	_	_	_	_	_	_	_	Shift=3841
+3	есть	_	_	_	_	_	_	_	Shift=3856
+4	над	_	_	_	_	_	_	_	Shift=3861
+5	чем	_	_	_	_	_	_	_	Shift=3865
+6	подумать	_	_	_	_	_	_	_	Shift=3869|SpaceAfter=No
+7	''	_	_	_	_	_	_	_	Shift=3877|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=3878
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p40
+# par_text = Интересен другой момент.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p40-s1
+# text = Интересен другой момент.
+1	Интересен	_	_	_	_	_	_	_	Shift=3880
+2	другой	_	_	_	_	_	_	_	Shift=3890
+3	момент	_	_	_	_	_	_	_	Shift=3897|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=3903
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p41
+# par_text = Раньше в уголовных делах с веб-корнями пострадавшей стороной выступали в основном силовые структуры.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p41-s1
+# text = Раньше в уголовных делах с веб-корнями пострадавшей стороной выступали в основном силовые структуры.
+1	Раньше	_	_	_	_	_	_	_	Shift=3905
+2	в	_	_	_	_	_	_	_	Shift=3912
+3	уголовных	_	_	_	_	_	_	_	Shift=3914
+4	делах	_	_	_	_	_	_	_	Shift=3924
+5	с	_	_	_	_	_	_	_	Shift=3930
+6	веб-корнями	_	_	_	_	_	_	_	Shift=3932
+7	пострадавшей	_	_	_	_	_	_	_	Shift=3944
+8	стороной	_	_	_	_	_	_	_	Shift=3957
+9	выступали	_	_	_	_	_	_	_	Shift=3966
+10	в	_	_	_	_	_	_	_	Shift=3976
+11	основном	_	_	_	_	_	_	_	Shift=3978
+12	силовые	_	_	_	_	_	_	_	Shift=3987
+13	структуры	_	_	_	_	_	_	_	Shift=3995|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=4004
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p42
+# par_text = Это были или милиционеры, которым сыктывкарский блогер Савва Терентьев пожелал «смерти в мучительном огне», или сотрудники ФСБ, буквально воспринявшие написанный Дмитрием Ширинкиным текст о намерении пойти и забрать с собой на тот свет студентов одного из вузов.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p42-s1
+# text = Это были или милиционеры, которым сыктывкарский блогер Савва Терентьев пожелал ``смерти в мучительном огне'', или сотрудники ФСБ, буквально воспринявшие написанный Дмитрием Ширинкиным текст о намерении пойти и забрать с собой на тот свет студентов одного из вузов.
+1	Это	_	_	_	_	_	_	_	Shift=4006
+2	были	_	_	_	_	_	_	_	Shift=4010
+3	или	_	_	_	_	_	_	_	Shift=4015
+4	милиционеры	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1930|RuCor_group_id=468784|RuCor_link_id=0|Shift=4019|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=4030
+6	которым	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=1930|RuCor_group_id=468785|RuCor_link_id=468784|Shift=4032
+7	сыктывкарский	_	_	_	_	_	_	_	RuCor_chain_id=1931|RuCor_group_id=468786|Shift=4040
+8	блогер	_	_	_	_	_	_	_	RuCor_chain_id=1931|RuCor_group_id=468786|Shift=4054
+9	Савва	_	_	_	_	_	_	_	RuCor_chain_id=1931|RuCor_group_id=468786|Shift=4061
+10	Терентьев	_	_	_	_	_	_	_	RuCor_chain_id=1931|RuCor_group_id=468786|Shift=4067
+11	пожелал	_	_	_	_	_	_	_	Shift=4077
+12	``	_	_	_	_	_	_	_	Shift=4085|SpaceAfter=No
+13	смерти	_	_	_	_	_	_	_	Shift=4086
+14	в	_	_	_	_	_	_	_	Shift=4093
+15	мучительном	_	_	_	_	_	_	_	Shift=4095
+16	огне	_	_	_	_	_	_	_	Shift=4107|SpaceAfter=No
+17	''	_	_	_	_	_	_	_	Shift=4111|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=4112
+19	или	_	_	_	_	_	_	_	Shift=4114
+20	сотрудники	_	_	_	_	_	_	_	Shift=4118
+21	ФСБ	_	_	_	_	_	_	_	Shift=4129|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=4132
+23	буквально	_	_	_	_	_	_	_	Shift=4134
+24	воспринявшие	_	_	_	_	_	_	_	Shift=4144
+25	написанный	_	_	_	_	_	_	_	Shift=4157
+26	Дмитрием	_	_	_	_	_	_	_	RuCor_chain_id=1932|RuCor_group_id=468787|Shift=4168
+27	Ширинкиным	_	_	_	_	_	_	_	RuCor_chain_id=1932|RuCor_group_id=468787|Shift=4177
+28	текст	_	_	_	_	_	_	_	Shift=4188
+29	о	_	_	_	_	_	_	_	Shift=4194
+30	намерении	_	_	_	_	_	_	_	Shift=4196
+31	пойти	_	_	_	_	_	_	_	Shift=4206
+32	и	_	_	_	_	_	_	_	Shift=4212
+33	забрать	_	_	_	_	_	_	_	Shift=4214
+34	с	_	_	_	_	_	_	_	Shift=4222
+35	собой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=1932|RuCor_group_id=468788|RuCor_link_id=468787|Shift=4224
+36	на	_	_	_	_	_	_	_	Shift=4230
+37	тот	_	_	_	_	_	_	_	Shift=4233
+38	свет	_	_	_	_	_	_	_	Shift=4237
+39	студентов	_	_	_	_	_	_	_	Shift=4242
+40	одного	_	_	_	_	_	_	_	Shift=4252
+41	из	_	_	_	_	_	_	_	Shift=4259
+42	вузов	_	_	_	_	_	_	_	Shift=4262|SpaceAfter=No
+43	.	_	_	_	_	_	_	_	Shift=4267
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p43
+# par_text = Теперь интернет всё чаще стал выступать как орудие бытовой мести.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p43-s1
+# text = Теперь интернет всё чаще стал выступать как орудие бытовой мести.
+1	Теперь	_	_	_	_	_	_	_	Shift=4269
+2	интернет	_	_	_	_	_	_	_	Shift=4276
+3	всё	_	_	_	_	_	_	_	Shift=4285
+4	чаще	_	_	_	_	_	_	_	Shift=4289
+5	стал	_	_	_	_	_	_	_	Shift=4294
+6	выступать	_	_	_	_	_	_	_	Shift=4299
+7	как	_	_	_	_	_	_	_	Shift=4309
+8	орудие	_	_	_	_	_	_	_	Shift=4313
+9	бытовой	_	_	_	_	_	_	_	Shift=4320
+10	мести	_	_	_	_	_	_	_	Shift=4328|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=4333
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p44
+# par_text = В прошлом году 19-летняя жительница Магнитогорска поместила на сайт знакомств «Мамба» фотографию своей подруги, приписав, что девушка оказывает «сексуальные услуги в извращенной форме».
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p44-s1
+# text = В прошлом году 19-летняя жительница Магнитогорска поместила на сайт знакомств ``Мамба'' фотографию своей подруги, приписав, что девушка оказывает ``сексуальные услуги в извращенной форме''.
+1	В	_	_	_	_	_	_	_	Shift=4335
+2	прошлом	_	_	_	_	_	_	_	Shift=4337
+3	году	_	_	_	_	_	_	_	Shift=4345
+4	19-летняя	_	_	_	_	_	_	_	Shift=4350
+5	жительница	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1933|RuCor_group_id=468789|RuCor_link_id=0|Shift=4360
+6	Магнитогорска	_	_	_	_	_	_	_	RuCor_chain_id=1933|RuCor_group_id=468789|Shift=4371
+7	поместила	_	_	_	_	_	_	_	Shift=4385
+8	на	_	_	_	_	_	_	_	Shift=4395
+9	сайт	_	_	_	_	_	_	_	Shift=4398
+10	знакомств	_	_	_	_	_	_	_	Shift=4403
+11	``	_	_	_	_	_	_	_	Shift=4413|SpaceAfter=No
+12	Мамба	_	_	_	_	_	_	_	Shift=4414|SpaceAfter=No
+13	''	_	_	_	_	_	_	_	Shift=4419
+14	фотографию	_	_	_	_	_	_	_	Shift=4421
+15	своей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1934|RuCor_group_id=468791|RuCor_link_id=468789|Shift=4432
+16	подруги	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1934|RuCor_group_id=468791|RuCor_link_id=0|Shift=4438|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=4445
+18	приписав	_	_	_	_	_	_	_	Shift=4447|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=4455
+20	что	_	_	_	_	_	_	_	Shift=4457
+21	девушка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1934|RuCor_group_id=468792|RuCor_link_id=468791|Shift=4461
+22	оказывает	_	_	_	_	_	_	_	Shift=4469
+23	``	_	_	_	_	_	_	_	Shift=4479|SpaceAfter=No
+24	сексуальные	_	_	_	_	_	_	_	Shift=4480
+25	услуги	_	_	_	_	_	_	_	Shift=4492
+26	в	_	_	_	_	_	_	_	Shift=4499
+27	извращенной	_	_	_	_	_	_	_	Shift=4501
+28	форме	_	_	_	_	_	_	_	Shift=4513|SpaceAfter=No
+29	''	_	_	_	_	_	_	_	Shift=4518|SpaceAfter=No
+30	.	_	_	_	_	_	_	_	Shift=4519
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p45
+# par_text = Правда, уголовное дело было вскоре прекращено, а помирившуюся с подругой клеветницу отпустили.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p45-s1
+# text = Правда, уголовное дело было вскоре прекращено, а помирившуюся с подругой клеветницу отпустили.
+1	Правда	_	_	_	_	_	_	_	Shift=4521|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=4527
+3	уголовное	_	_	_	_	_	_	_	Shift=4529
+4	дело	_	_	_	_	_	_	_	Shift=4539
+5	было	_	_	_	_	_	_	_	Shift=4544
+6	вскоре	_	_	_	_	_	_	_	Shift=4549
+7	прекращено	_	_	_	_	_	_	_	Shift=4556|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=4566
+9	а	_	_	_	_	_	_	_	Shift=4568
+10	помирившуюся	_	_	_	_	_	_	_	Shift=4570
+11	с	_	_	_	_	_	_	_	Shift=4583
+12	подругой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1934|RuCor_group_id=468793|RuCor_link_id=468791|Shift=4585
+13	клеветницу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1933|RuCor_group_id=468794|RuCor_link_id=468789|Shift=4594
+14	отпустили	_	_	_	_	_	_	_	Shift=4605|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=4614
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p46
+# par_text = Но в деле Вотяковой мелкое интернет-хулиганство может закончиться далеко не мелким наказанием.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p46-s1
+# text = Но в деле Вотяковой мелкое интернет-хулиганство может закончиться далеко не мелким наказанием.
+1	Но	_	_	_	_	_	_	_	Shift=4616
+2	в	_	_	_	_	_	_	_	Shift=4619
+3	деле	_	_	_	_	_	_	_	Shift=4621
+4	Вотяковой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1919|RuCor_group_id=468795|RuCor_link_id=468779|Shift=4626
+5	мелкое	_	_	_	_	_	_	_	Shift=4636
+6	интернет-хулиганство	_	_	_	_	_	_	_	Shift=4643
+7	может	_	_	_	_	_	_	_	Shift=4664
+8	закончиться	_	_	_	_	_	_	_	Shift=4670
+9	далеко	_	_	_	_	_	_	_	Shift=4682
+10	не	_	_	_	_	_	_	_	Shift=4689
+11	мелким	_	_	_	_	_	_	_	Shift=4692
+12	наказанием	_	_	_	_	_	_	_	Shift=4699|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=4709
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p47
+# par_text = Впрочем, показательная казнь, если таковая и случится, вряд ли принесет облегчение хотя бы одной стороне, считает Эрнест Мезак:
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p47-s1
+# text = Впрочем, показательная казнь, если таковая и случится, вряд ли принесет облегчение хотя бы одной стороне, считает Эрнест Мезак:
+1	Впрочем	_	_	_	_	_	_	_	Shift=4711|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=4718
+3	показательная	_	_	_	_	_	_	_	Shift=4720
+4	казнь	_	_	_	_	_	_	_	Shift=4734|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=4739
+6	если	_	_	_	_	_	_	_	Shift=4741
+7	таковая	_	_	_	_	_	_	_	Shift=4746
+8	и	_	_	_	_	_	_	_	Shift=4754
+9	случится	_	_	_	_	_	_	_	Shift=4756|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=4764
+11	вряд	_	_	_	_	_	_	_	Shift=4766
+12	ли	_	_	_	_	_	_	_	Shift=4771
+13	принесет	_	_	_	_	_	_	_	Shift=4774
+14	облегчение	_	_	_	_	_	_	_	Shift=4783
+15	хотя	_	_	_	_	_	_	_	Shift=4794
+16	бы	_	_	_	_	_	_	_	Shift=4799
+17	одной	_	_	_	_	_	_	_	Shift=4802
+18	стороне	_	_	_	_	_	_	_	Shift=4808|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=4815
+20	считает	_	_	_	_	_	_	_	Shift=4817
+21	Эрнест	_	_	_	_	_	_	_	RuCor_chain_id=1928|RuCor_group_id=468796|Shift=4825
+22	Мезак	_	_	_	_	_	_	_	RuCor_chain_id=1928|RuCor_group_id=468796|Shift=4832|SpaceAfter=No
+23	:	_	_	_	_	_	_	_	Shift=4837
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p48
+# par_text = «Несколько лет назад эксперты ОБСЕ обсуждали перспективы борьбы с «языком вражды» в интернете.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p48-s1
+# text = ``Несколько лет назад эксперты ОБСЕ обсуждали перспективы борьбы с ``языком вражды'' в интернете.
+1	``	_	_	_	_	_	_	_	Shift=4839|SpaceAfter=No
+2	Несколько	_	_	_	_	_	_	_	Shift=4840
+3	лет	_	_	_	_	_	_	_	Shift=4850
+4	назад	_	_	_	_	_	_	_	Shift=4854
+5	эксперты	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1935|RuCor_group_id=468797|RuCor_link_id=0|Shift=4860
+6	ОБСЕ	_	_	_	_	_	_	_	RuCor_chain_id=1935|RuCor_group_id=468797|Shift=4869
+7	обсуждали	_	_	_	_	_	_	_	Shift=4874
+8	перспективы	_	_	_	_	_	_	_	Shift=4884
+9	борьбы	_	_	_	_	_	_	_	Shift=4896
+10	с	_	_	_	_	_	_	_	Shift=4903
+11	``	_	_	_	_	_	_	_	Shift=4905|SpaceAfter=No
+12	языком	_	_	_	_	_	_	_	Shift=4906
+13	вражды	_	_	_	_	_	_	_	Shift=4913|SpaceAfter=No
+14	''	_	_	_	_	_	_	_	Shift=4919
+15	в	_	_	_	_	_	_	_	Shift=4921
+16	интернете	_	_	_	_	_	_	_	Shift=4923|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=4932
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p49
+# par_text = И кто-то из них высказал мудрую мысль: не каждый владелец малопосещаемого националистического сайта достоин того, чтобы его замечала государственная машина.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p49-s1
+# text = И кто-то из них высказал мудрую мысль: не каждый владелец малопосещаемого националистического сайта достоин того, чтобы его замечала государственная машина.
+1	И	_	_	_	_	_	_	_	Shift=4934
+2	кто-то	_	_	_	_	_	_	_	Shift=4936
+3	из	_	_	_	_	_	_	_	Shift=4943
+4	них	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1935|RuCor_group_id=468798|RuCor_link_id=468797|Shift=4946
+5	высказал	_	_	_	_	_	_	_	Shift=4950
+6	мудрую	_	_	_	_	_	_	_	Shift=4959
+7	мысль	_	_	_	_	_	_	_	Shift=4966|SpaceAfter=No
+8	:	_	_	_	_	_	_	_	Shift=4971
+9	не	_	_	_	_	_	_	_	Shift=4973
+10	каждый	_	_	_	_	_	_	_	RuCor_chain_id=1936|RuCor_group_id=468799|Shift=4976
+11	владелец	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1936|RuCor_group_id=468799|RuCor_link_id=0|Shift=4983
+12	малопосещаемого	_	_	_	_	_	_	_	RuCor_chain_id=1936|RuCor_group_id=468799|Shift=4992
+13	националистического	_	_	_	_	_	_	_	RuCor_chain_id=1936|RuCor_group_id=468799|Shift=5008
+14	сайта	_	_	_	_	_	_	_	RuCor_chain_id=1936|RuCor_group_id=468799|Shift=5028
+15	достоин	_	_	_	_	_	_	_	Shift=5034
+16	того	_	_	_	_	_	_	_	Shift=5042|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=5046
+18	чтобы	_	_	_	_	_	_	_	Shift=5048
+19	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1936|RuCor_group_id=468800|RuCor_link_id=468799|Shift=5054
+20	замечала	_	_	_	_	_	_	_	Shift=5058
+21	государственная	_	_	_	_	_	_	_	Shift=5067
+22	машина	_	_	_	_	_	_	_	Shift=5083|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=5089
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p50
+# par_text = Наши власти эту рекомендацию проигнорировали, и теперь каждый в России знает, что надо делать с «неверными ментами».
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p50-s1
+# text = Наши власти эту рекомендацию проигнорировали, и теперь каждый в России знает, что надо делать с ``неверными ментами''.
+1	Наши	_	_	_	_	_	_	_	Shift=5091
+2	власти	_	_	_	_	_	_	_	Shift=5096
+3	эту	_	_	_	_	_	_	_	Shift=5103
+4	рекомендацию	_	_	_	_	_	_	_	Shift=5107
+5	проигнорировали	_	_	_	_	_	_	_	Shift=5120|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=5135
+7	и	_	_	_	_	_	_	_	Shift=5137
+8	теперь	_	_	_	_	_	_	_	Shift=5139
+9	каждый	_	_	_	_	_	_	_	Shift=5146
+10	в	_	_	_	_	_	_	_	Shift=5153
+11	России	_	_	_	_	_	_	_	Shift=5155
+12	знает	_	_	_	_	_	_	_	Shift=5162|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=5167
+14	что	_	_	_	_	_	_	_	Shift=5169
+15	надо	_	_	_	_	_	_	_	Shift=5173
+16	делать	_	_	_	_	_	_	_	Shift=5178
+17	с	_	_	_	_	_	_	_	Shift=5185
+18	``	_	_	_	_	_	_	_	Shift=5187|SpaceAfter=No
+19	неверными	_	_	_	_	_	_	_	Shift=5188
+20	ментами	_	_	_	_	_	_	_	Shift=5198|SpaceAfter=No
+21	''	_	_	_	_	_	_	_	Shift=5205|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=5206
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p51
+# par_text = На те же грабли наступила новоиспеченная алтайская юристка Валентина Фефелова, которая, похоже, забыла, что право не всегда может выполнять функцию регулятора общественных отношений».
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p51-s1
+# text = На те же грабли наступила новоиспеченная алтайская юристка Валентина Фефелова, которая, похоже, забыла, что право не всегда может выполнять функцию регулятора общественных отношений''.
+1	На	_	_	_	_	_	_	_	Shift=5208
+2	те	_	_	_	_	_	_	_	Shift=5211
+3	же	_	_	_	_	_	_	_	Shift=5214
+4	грабли	_	_	_	_	_	_	_	Shift=5217
+5	наступила	_	_	_	_	_	_	_	Shift=5224
+6	новоиспеченная	_	_	_	_	_	_	_	RuCor_chain_id=1921|RuCor_group_id=468801|Shift=5234
+7	алтайская	_	_	_	_	_	_	_	RuCor_chain_id=1921|RuCor_group_id=468801|Shift=5249
+8	юристка	_	_	_	_	_	_	_	RuCor_chain_id=1921|RuCor_group_id=468801|Shift=5259
+9	Валентина	_	_	_	_	_	_	_	RuCor_chain_id=1921|RuCor_group_id=468801|Shift=5267
+10	Фефелова	_	_	_	_	_	_	_	RuCor_chain_id=1921|RuCor_group_id=468801|Shift=5277|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=5285
+12	которая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=1921|RuCor_group_id=468802|RuCor_link_id=468801|Shift=5287|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=5294
+14	похоже	_	_	_	_	_	_	_	Shift=5296|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=5302
+16	забыла	_	_	_	_	_	_	_	Shift=5304|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=5310
+18	что	_	_	_	_	_	_	_	Shift=5312
+19	право	_	_	_	_	_	_	_	Shift=5316
+20	не	_	_	_	_	_	_	_	Shift=5322
+21	всегда	_	_	_	_	_	_	_	Shift=5325
+22	может	_	_	_	_	_	_	_	Shift=5332
+23	выполнять	_	_	_	_	_	_	_	Shift=5338
+24	функцию	_	_	_	_	_	_	_	Shift=5348
+25	регулятора	_	_	_	_	_	_	_	Shift=5356
+26	общественных	_	_	_	_	_	_	_	Shift=5367
+27	отношений	_	_	_	_	_	_	_	Shift=5380|SpaceAfter=No
+28	''	_	_	_	_	_	_	_	Shift=5389|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	Shift=5390
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p52
+# par_text = Есть и еще один, не менее примечательный момент в этом деле: обвинение, как и в случае с Саввой Терентьевым и Дмитрием Ширинкиным, изначально рассматривает пост с ЖЖ как распространение ложных сведений в СМИ, то есть приравнивает ЖЖ к СМИ.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p52-s1
+# text = Есть и еще один, не менее примечательный момент в этом деле: обвинение, как и в случае с Саввой Терентьевым и Дмитрием Ширинкиным, изначально рассматривает пост с ЖЖ как распространение ложных сведений в СМИ, то есть приравнивает ЖЖ к СМИ.
+1	Есть	_	_	_	_	_	_	_	Shift=5392
+2	и	_	_	_	_	_	_	_	Shift=5397
+3	еще	_	_	_	_	_	_	_	Shift=5399
+4	один	_	_	_	_	_	_	_	Shift=5403|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=5407
+6	не	_	_	_	_	_	_	_	Shift=5409
+7	менее	_	_	_	_	_	_	_	Shift=5412
+8	примечательный	_	_	_	_	_	_	_	Shift=5418
+9	момент	_	_	_	_	_	_	_	Shift=5433
+10	в	_	_	_	_	_	_	_	Shift=5440
+11	этом	_	_	_	_	_	_	_	Shift=5442
+12	деле	_	_	_	_	_	_	_	Shift=5447|SpaceAfter=No
+13	:	_	_	_	_	_	_	_	Shift=5451
+14	обвинение	_	_	_	_	_	_	_	Shift=5453|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=5462
+16	как	_	_	_	_	_	_	_	Shift=5464
+17	и	_	_	_	_	_	_	_	Shift=5468
+18	в	_	_	_	_	_	_	_	Shift=5470
+19	случае	_	_	_	_	_	_	_	Shift=5472
+20	с	_	_	_	_	_	_	_	Shift=5479
+21	Саввой	_	_	_	_	_	_	_	RuCor_chain_id=1931|RuCor_group_id=468803|Shift=5481
+22	Терентьевым	_	_	_	_	_	_	_	RuCor_chain_id=1931|RuCor_group_id=468803|Shift=5488
+23	и	_	_	_	_	_	_	_	Shift=5500
+24	Дмитрием	_	_	_	_	_	_	_	RuCor_chain_id=1932|RuCor_group_id=468804|Shift=5502
+25	Ширинкиным	_	_	_	_	_	_	_	RuCor_chain_id=1932|RuCor_group_id=468804|Shift=5511|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	Shift=5521
+27	изначально	_	_	_	_	_	_	_	Shift=5523
+28	рассматривает	_	_	_	_	_	_	_	Shift=5534
+29	пост	_	_	_	_	_	_	_	Shift=5548
+30	с	_	_	_	_	_	_	_	Shift=5553
+31	ЖЖ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1920|RuCor_group_id=468805|RuCor_link_id=468806|Shift=5555
+32	как	_	_	_	_	_	_	_	Shift=5558
+33	распространение	_	_	_	_	_	_	_	Shift=5562
+34	ложных	_	_	_	_	_	_	_	Shift=5578
+35	сведений	_	_	_	_	_	_	_	Shift=5585
+36	в	_	_	_	_	_	_	_	Shift=5594
+37	СМИ	_	_	_	_	_	_	_	Shift=5596|SpaceAfter=No
+38	,	_	_	_	_	_	_	_	Shift=5599
+39	то	_	_	_	_	_	_	_	Shift=5601
+40	есть	_	_	_	_	_	_	_	Shift=5604
+41	приравнивает	_	_	_	_	_	_	_	Shift=5609
+42	ЖЖ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1920|RuCor_group_id=468806|RuCor_link_id=468780|Shift=5622
+43	к	_	_	_	_	_	_	_	Shift=5625
+44	СМИ	_	_	_	_	_	_	_	Shift=5627|SpaceAfter=No
+45	.	_	_	_	_	_	_	_	Shift=5630
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p53
+# par_text = Защита эту версию опровергает.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p53-s1
+# text = Защита эту версию опровергает.
+1	Защита	_	_	_	_	_	_	_	Shift=5632
+2	эту	_	_	_	_	_	_	_	Shift=5639
+3	версию	_	_	_	_	_	_	_	Shift=5643
+4	опровергает	_	_	_	_	_	_	_	Shift=5650|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=5661
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p54
+# par_text = Кроме того, стороны по-разному трактуют и подпись под фото.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p54-s1
+# text = Кроме того, стороны по-разному трактуют и подпись под фото.
+1	Кроме	_	_	_	_	_	_	_	Shift=5663
+2	того	_	_	_	_	_	_	_	Shift=5669|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=5673
+4	стороны	_	_	_	_	_	_	_	Shift=5675
+5	по-разному	_	_	_	_	_	_	_	Shift=5683
+6	трактуют	_	_	_	_	_	_	_	Shift=5694
+7	и	_	_	_	_	_	_	_	Shift=5703
+8	подпись	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1937|RuCor_group_id=468807|RuCor_link_id=0|Shift=5705
+9	под	_	_	_	_	_	_	_	RuCor_chain_id=1937|RuCor_group_id=468807|Shift=5713
+10	фото	_	_	_	_	_	_	_	RuCor_chain_id=1937|RuCor_group_id=468807|Shift=5717|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=5721
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p55
+# par_text = Обвинение рассматривает ее как клевету, а защита — как частное мнение.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p55-s1
+# text = Обвинение рассматривает ее как клевету, а защита - как частное мнение.
+1	Обвинение	_	_	_	_	_	_	_	Shift=5723
+2	рассматривает	_	_	_	_	_	_	_	Shift=5733
+3	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1937|RuCor_group_id=468808|RuCor_link_id=468807|Shift=5747
+4	как	_	_	_	_	_	_	_	Shift=5750
+5	клевету	_	_	_	_	_	_	_	Shift=5754|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=5761
+7	а	_	_	_	_	_	_	_	Shift=5763
+8	защита	_	_	_	_	_	_	_	Shift=5765
+9	-	_	_	_	_	_	_	_	Shift=5772
+10	как	_	_	_	_	_	_	_	Shift=5774
+11	частное	_	_	_	_	_	_	_	Shift=5778
+12	мнение	_	_	_	_	_	_	_	Shift=5786|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=5792
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p56
+# par_text = В случае если защита выиграет дело, все будет хорошо, а вот если нет — штраф может быть самым высоким (арест подсудимой не грозит, так как не назначается женщинам с детьми до 14 лет).
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p56-s1
+# text = В случае если защита выиграет дело, все будет хорошо, а вот если нет - штраф может быть самым высоким (арест подсудимой не грозит, так как не назначается женщинам с детьми до 14 лет).
+1	В	_	_	_	_	_	_	_	Shift=5794
+2	случае	_	_	_	_	_	_	_	Shift=5796
+3	если	_	_	_	_	_	_	_	Shift=5803
+4	защита	_	_	_	_	_	_	_	Shift=5808
+5	выиграет	_	_	_	_	_	_	_	Shift=5815
+6	дело	_	_	_	_	_	_	_	Shift=5824|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=5828
+8	все	_	_	_	_	_	_	_	Shift=5830
+9	будет	_	_	_	_	_	_	_	Shift=5834
+10	хорошо	_	_	_	_	_	_	_	Shift=5840|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=5846
+12	а	_	_	_	_	_	_	_	Shift=5848
+13	вот	_	_	_	_	_	_	_	Shift=5850
+14	если	_	_	_	_	_	_	_	Shift=5854
+15	нет	_	_	_	_	_	_	_	Shift=5859
+16	-	_	_	_	_	_	_	_	Shift=5863
+17	штраф	_	_	_	_	_	_	_	Shift=5865
+18	может	_	_	_	_	_	_	_	Shift=5871
+19	быть	_	_	_	_	_	_	_	Shift=5877
+20	самым	_	_	_	_	_	_	_	Shift=5882
+21	высоким	_	_	_	_	_	_	_	Shift=5888
+22	(	_	_	_	_	_	_	_	Shift=5896|SpaceAfter=No
+23	арест	_	_	_	_	_	_	_	Shift=5897
+24	подсудимой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1919|RuCor_group_id=468809|RuCor_link_id=468795|Shift=5903
+25	не	_	_	_	_	_	_	_	Shift=5914
+26	грозит	_	_	_	_	_	_	_	Shift=5917|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=5923
+28	так	_	_	_	_	_	_	_	Shift=5925
+29	как	_	_	_	_	_	_	_	Shift=5929
+30	не	_	_	_	_	_	_	_	Shift=5933
+31	назначается	_	_	_	_	_	_	_	Shift=5936
+32	женщинам	_	_	_	_	_	_	_	Shift=5948
+33	с	_	_	_	_	_	_	_	Shift=5957
+34	детьми	_	_	_	_	_	_	_	Shift=5959
+35	до	_	_	_	_	_	_	_	Shift=5966
+36	14	_	_	_	_	_	_	_	Shift=5969
+37	лет	_	_	_	_	_	_	_	Shift=5972|SpaceAfter=No
+38	)	_	_	_	_	_	_	_	Shift=5975|SpaceAfter=No
+39	.	_	_	_	_	_	_	_	Shift=5976
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p57
+# par_text = В соответствии со ст. 129 ч. 2 УК РФ неважно, где содержалась клевета — в СМИ (что неверно само по себе, поскольку ЖЖ не СМИ) или ином публичном выступлении, хоть на заборе написано.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p57-s1
+# text = В соответствии со ст. 129 ч. 2 УК РФ неважно, где содержалась клевета - в СМИ (что неверно само по себе, поскольку ЖЖ не СМИ) или ином публичном выступлении, хоть на заборе написано.
+1	В	_	_	_	_	_	_	_	Shift=5978
+2	соответствии	_	_	_	_	_	_	_	Shift=5980
+3	со	_	_	_	_	_	_	_	Shift=5993
+4	ст.	_	_	_	_	_	_	_	Shift=5996
+5	129	_	_	_	_	_	_	_	Shift=6000
+6	ч.	_	_	_	_	_	_	_	Shift=6004
+7	2	_	_	_	_	_	_	_	Shift=6007
+8	УК	_	_	_	_	_	_	_	Shift=6009
+9	РФ	_	_	_	_	_	_	_	Shift=6012
+10	неважно	_	_	_	_	_	_	_	Shift=6015|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=6022
+12	где	_	_	_	_	_	_	_	Shift=6024
+13	содержалась	_	_	_	_	_	_	_	Shift=6028
+14	клевета	_	_	_	_	_	_	_	Shift=6040
+15	-	_	_	_	_	_	_	_	Shift=6048
+16	в	_	_	_	_	_	_	_	Shift=6050
+17	СМИ	_	_	_	_	_	_	_	Shift=6052
+18	(	_	_	_	_	_	_	_	Shift=6056|SpaceAfter=No
+19	что	_	_	_	_	_	_	_	Shift=6057
+20	неверно	_	_	_	_	_	_	_	Shift=6061
+21	само	_	_	_	_	_	_	_	Shift=6069
+22	по	_	_	_	_	_	_	_	Shift=6074
+23	себе	_	_	_	_	_	_	_	Shift=6077|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=6081
+25	поскольку	_	_	_	_	_	_	_	Shift=6083
+26	ЖЖ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1920|RuCor_group_id=468810|RuCor_link_id=468806|Shift=6093
+27	не	_	_	_	_	_	_	_	Shift=6096
+28	СМИ	_	_	_	_	_	_	_	Shift=6099|SpaceAfter=No
+29	)	_	_	_	_	_	_	_	Shift=6102
+30	или	_	_	_	_	_	_	_	Shift=6104
+31	ином	_	_	_	_	_	_	_	Shift=6108
+32	публичном	_	_	_	_	_	_	_	Shift=6113
+33	выступлении	_	_	_	_	_	_	_	Shift=6123|SpaceAfter=No
+34	,	_	_	_	_	_	_	_	Shift=6134
+35	хоть	_	_	_	_	_	_	_	Shift=6136
+36	на	_	_	_	_	_	_	_	Shift=6141
+37	заборе	_	_	_	_	_	_	_	Shift=6144
+38	написано	_	_	_	_	_	_	_	Shift=6151|SpaceAfter=No
+39	.	_	_	_	_	_	_	_	Shift=6159
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p58
+# par_text = Поэтому апелляция к небольшой посещаемости блога бессмысленна.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p58-s1
+# text = Поэтому апелляция к небольшой посещаемости блога бессмысленна.
+1	Поэтому	_	_	_	_	_	_	_	Shift=6161
+2	апелляция	_	_	_	_	_	_	_	Shift=6169
+3	к	_	_	_	_	_	_	_	Shift=6179
+4	небольшой	_	_	_	_	_	_	_	Shift=6181
+5	посещаемости	_	_	_	_	_	_	_	Shift=6191
+6	блога	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1920|RuCor_group_id=468811|RuCor_link_id=468738|Shift=6204
+7	бессмысленна	_	_	_	_	_	_	_	Shift=6210|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=6222
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p59
+# par_text = Дело Вотяковой — Фефеловой как минимум четвертое в Рунете, когда пользователя судят за написанное в онлайновом дневнике.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p59-s1
+# text = Дело Вотяковой - Фефеловой как минимум четвертое в Рунете, когда пользователя судят за написанное в онлайновом дневнике.
+1	Дело	_	_	_	_	_	_	_	Shift=6224
+2	Вотяковой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1919|RuCor_group_id=468812|RuCor_link_id=468795|Shift=6229
+3	-	_	_	_	_	_	_	_	Shift=6239
+4	Фефеловой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1921|RuCor_group_id=468813|RuCor_link_id=468758|Shift=6241
+5	как	_	_	_	_	_	_	_	Shift=6251
+6	минимум	_	_	_	_	_	_	_	Shift=6255
+7	четвертое	_	_	_	_	_	_	_	Shift=6263
+8	в	_	_	_	_	_	_	_	Shift=6273
+9	Рунете	_	_	_	_	_	_	_	Shift=6275|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=6281
+11	когда	_	_	_	_	_	_	_	Shift=6283
+12	пользователя	_	_	_	_	_	_	_	Shift=6289
+13	судят	_	_	_	_	_	_	_	Shift=6302
+14	за	_	_	_	_	_	_	_	Shift=6308
+15	написанное	_	_	_	_	_	_	_	Shift=6311
+16	в	_	_	_	_	_	_	_	Shift=6322
+17	онлайновом	_	_	_	_	_	_	_	Shift=6324
+18	дневнике	_	_	_	_	_	_	_	Shift=6335|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=6343
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p60
+# par_text = Фактически сегодня мы имеем ситуацию, в которой, что бы ты ни написал в ЖЖ, всё может обернуться против тебя самого.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p60-s1
+# text = Фактически сегодня мы имеем ситуацию, в которой, что бы ты ни написал в ЖЖ, всё может обернуться против тебя самого.
+1	Фактически	_	_	_	_	_	_	_	Shift=6345
+2	сегодня	_	_	_	_	_	_	_	Shift=6356
+3	мы	_	_	_	_	_	_	_	Shift=6364
+4	имеем	_	_	_	_	_	_	_	Shift=6367
+5	ситуацию	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1938|RuCor_group_id=468814|RuCor_link_id=0|Shift=6373|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=6381
+7	в	_	_	_	_	_	_	_	Shift=6383
+8	которой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=1938|RuCor_group_id=468815|RuCor_link_id=468814|Shift=6385|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=6392
+10	что	_	_	_	_	_	_	_	Shift=6394
+11	бы	_	_	_	_	_	_	_	Shift=6398
+12	ты	_	_	_	_	_	_	_	Shift=6401
+13	ни	_	_	_	_	_	_	_	Shift=6404
+14	написал	_	_	_	_	_	_	_	Shift=6407
+15	в	_	_	_	_	_	_	_	Shift=6415
+16	ЖЖ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1920|RuCor_group_id=468816|RuCor_link_id=468810|Shift=6417|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=6419
+18	всё	_	_	_	_	_	_	_	Shift=6421
+19	может	_	_	_	_	_	_	_	Shift=6425
+20	обернуться	_	_	_	_	_	_	_	Shift=6431
+21	против	_	_	_	_	_	_	_	Shift=6442
+22	тебя	_	_	_	_	_	_	_	Shift=6449
+23	самого	_	_	_	_	_	_	_	Shift=6454|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=6460
+
+# newpar id = c896d482-2f96-4ab1-a868-5b677bb470a4-p61
+# par_text = Обращено ли послание к властям предержащим, кругу близких знакомых или даже к самому себе — в порядке бреда.
+# sent_id = c896d482-2f96-4ab1-a868-5b677bb470a4-p61-s1
+# text = Обращено ли послание к властям предержащим, кругу близких знакомых или даже к самому себе - в порядке бреда.
+1	Обращено	_	_	_	_	_	_	_	Shift=6462
+2	ли	_	_	_	_	_	_	_	Shift=6471
+3	послание	_	_	_	_	_	_	_	Shift=6474
+4	к	_	_	_	_	_	_	_	Shift=6483
+5	властям	_	_	_	_	_	_	_	Shift=6485
+6	предержащим	_	_	_	_	_	_	_	Shift=6493|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=6504
+8	кругу	_	_	_	_	_	_	_	Shift=6506
+9	близких	_	_	_	_	_	_	_	Shift=6512
+10	знакомых	_	_	_	_	_	_	_	Shift=6520
+11	или	_	_	_	_	_	_	_	Shift=6529
+12	даже	_	_	_	_	_	_	_	Shift=6533
+13	к	_	_	_	_	_	_	_	Shift=6538
+14	самому	_	_	_	_	_	_	_	Shift=6540
+15	себе	_	_	_	_	_	_	_	Shift=6547
+16	-	_	_	_	_	_	_	_	Shift=6552
+17	в	_	_	_	_	_	_	_	Shift=6554
+18	порядке	_	_	_	_	_	_	_	Shift=6556
+19	бреда	_	_	_	_	_	_	_	Shift=6564|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	_
+

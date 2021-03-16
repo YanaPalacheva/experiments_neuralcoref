@@ -1,0 +1,2126 @@
+# newdoc id = c012b70c-e16c-4818-b7b3-b3634fc9893a
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p1
+# par_text = Ознакомившись с эмоциональным материалом молодого автора фонда Бёлля , редактор раздела « Корреспонденция » ещё раз отметила лукавую улыбку провидения : в борьбе за свои права женщины добились лишь учтивой галочки в календаре — и снова недовольны .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p1-s1
+# text = Ознакомившись с эмоциональным материалом молодого автора фонда Бёлля, редактор раздела ``Корреспонденция ``ещё раз отметила лукавую улыбку провидения: в борьбе за свои права женщины добились лишь учтивой галочки в календаре - и снова недовольны.
+1	Ознакомившись	_	_	_	_	_	_	_	Shift=0
+2	с	_	_	_	_	_	_	_	Shift=14
+3	эмоциональным	_	_	_	_	_	_	_	Shift=16
+4	материалом	_	_	_	_	_	_	_	Shift=30
+5	молодого	_	_	_	_	_	_	_	Shift=41
+6	автора	_	_	_	_	_	_	_	Shift=50
+7	фонда	_	_	_	_	_	_	_	Shift=57
+8	Бёлля	_	_	_	_	_	_	_	Shift=63|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=69
+10	редактор	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2397|RuCor_group_id=470731|RuCor_link_id=0|Shift=71
+11	раздела	_	_	_	_	_	_	_	RuCor_chain_id=2397|RuCor_group_id=470731|Shift=80
+12	``	_	_	_	_	_	_	_	RuCor_chain_id=2397|RuCor_group_id=470731|Shift=88|SpaceAfter=No
+13	Корреспонденция	_	_	_	_	_	_	_	RuCor_chain_id=2397|RuCor_group_id=470731|Shift=90
+14	``	_	_	_	_	_	_	_	RuCor_chain_id=2397|RuCor_group_id=470731|Shift=106|SpaceAfter=No
+15	ещё	_	_	_	_	_	_	_	Shift=108
+16	раз	_	_	_	_	_	_	_	Shift=112
+17	отметила	_	_	_	_	_	_	_	Shift=116
+18	лукавую	_	_	_	_	_	_	_	Shift=125
+19	улыбку	_	_	_	_	_	_	_	Shift=133
+20	провидения	_	_	_	_	_	_	_	Shift=140|SpaceAfter=No
+21	:	_	_	_	_	_	_	_	Shift=151
+22	в	_	_	_	_	_	_	_	Shift=153
+23	борьбе	_	_	_	_	_	_	_	Shift=155
+24	за	_	_	_	_	_	_	_	Shift=162
+25	свои	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=2398|RuCor_group_id=470732|RuCor_link_id=0|Shift=165
+26	права	_	_	_	_	_	_	_	Shift=170
+27	женщины	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2399|RuCor_group_id=470733|RuCor_link_id=0|Shift=176
+28	добились	_	_	_	_	_	_	_	Shift=184
+29	лишь	_	_	_	_	_	_	_	Shift=193
+30	учтивой	_	_	_	_	_	_	_	Shift=198
+31	галочки	_	_	_	_	_	_	_	Shift=206
+32	в	_	_	_	_	_	_	_	Shift=214
+33	календаре	_	_	_	_	_	_	_	Shift=216
+34	-	_	_	_	_	_	_	_	Shift=226
+35	и	_	_	_	_	_	_	_	Shift=228
+36	снова	_	_	_	_	_	_	_	Shift=230
+37	недовольны	_	_	_	_	_	_	_	Shift=236|SpaceAfter=No
+38	.	_	_	_	_	_	_	_	Shift=247
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p2
+# par_text = А значит , есть за что бороться !
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p2-s1
+# text = А значит, есть за что бороться!
+1	А	_	_	_	_	_	_	_	Shift=249
+2	значит	_	_	_	_	_	_	_	Shift=251|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=258
+4	есть	_	_	_	_	_	_	_	Shift=260
+5	за	_	_	_	_	_	_	_	Shift=265
+6	что	_	_	_	_	_	_	_	Shift=268
+7	бороться	_	_	_	_	_	_	_	Shift=272|SpaceAfter=No
+8	!	_	_	_	_	_	_	_	Shift=281
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p3
+# par_text = Подвявшие мимозы , поникшие тюльпаны ...
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p3-s1
+# text = Подвявшие мимозы, поникшие тюльпаны...
+1	Подвявшие	_	_	_	_	_	_	_	Shift=283
+2	мимозы	_	_	_	_	_	_	_	Shift=293|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=300
+4	поникшие	_	_	_	_	_	_	_	Shift=302
+5	тюльпаны	_	_	_	_	_	_	_	Shift=311|SpaceAfter=No
+6	...	_	_	_	_	_	_	_	Shift=320
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p4
+# par_text = Уставшие мужчины столпились как бараны .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p4-s1
+# text = Уставшие мужчины столпились как бараны.
+1	Уставшие	_	_	_	_	_	_	_	Shift=324
+2	мужчины	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2400|RuCor_group_id=470735|RuCor_link_id=0|Shift=333
+3	столпились	_	_	_	_	_	_	_	Shift=341
+4	как	_	_	_	_	_	_	_	Shift=352
+5	бараны	_	_	_	_	_	_	_	Shift=356|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=363
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p5
+# par_text = И мнут в руках подарки , и комкают обёртки , и думают :
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p5-s1
+# text = И мнут в руках подарки, и комкают обёртки, и думают:
+1	И	_	_	_	_	_	_	_	Shift=365
+2	мнут	_	_	_	_	_	_	_	Shift=367
+3	в	_	_	_	_	_	_	_	Shift=372
+4	руках	_	_	_	_	_	_	_	Shift=374
+5	подарки	_	_	_	_	_	_	_	Shift=380|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=388
+7	и	_	_	_	_	_	_	_	Shift=390
+8	комкают	_	_	_	_	_	_	_	Shift=392
+9	обёртки	_	_	_	_	_	_	_	Shift=400|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=408
+11	и	_	_	_	_	_	_	_	Shift=410
+12	думают	_	_	_	_	_	_	_	Shift=412|SpaceAfter=No
+13	:	_	_	_	_	_	_	_	Shift=419
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p6
+# par_text = « Когда же возьмут подарки тётки ? »
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p6-s1
+# text = ``Когда же возьмут подарки тётки?''
+1	``	_	_	_	_	_	_	_	Shift=421|SpaceAfter=No
+2	Когда	_	_	_	_	_	_	_	Shift=423
+3	же	_	_	_	_	_	_	_	Shift=429
+4	возьмут	_	_	_	_	_	_	_	Shift=432
+5	подарки	_	_	_	_	_	_	_	Shift=440
+6	тётки	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2399|RuCor_group_id=470736|RuCor_link_id=470733|Shift=448|SpaceAfter=No
+7	?	_	_	_	_	_	_	_	Shift=454|SpaceAfter=No
+8	''	_	_	_	_	_	_	_	Shift=456
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p7
+# par_text = А ведь ещё ( вот свинство ) и речь толкать придётся .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p7-s1
+# text = А ведь ещё (вот свинство) и речь толкать придётся.
+1	А	_	_	_	_	_	_	_	Shift=458
+2	ведь	_	_	_	_	_	_	_	Shift=460
+3	ещё	_	_	_	_	_	_	_	Shift=465
+4	(	_	_	_	_	_	_	_	Shift=469|SpaceAfter=No
+5	вот	_	_	_	_	_	_	_	Shift=471
+6	свинство	_	_	_	_	_	_	_	Shift=475|SpaceAfter=No
+7	)	_	_	_	_	_	_	_	Shift=484
+8	и	_	_	_	_	_	_	_	Shift=486
+9	речь	_	_	_	_	_	_	_	Shift=488
+10	толкать	_	_	_	_	_	_	_	Shift=493
+11	придётся	_	_	_	_	_	_	_	Shift=501|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=510
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p8
+# par_text = А может , чмокать в щёчку ...
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p8-s1
+# text = А может, чмокать в щёчку...
+1	А	_	_	_	_	_	_	_	Shift=512
+2	может	_	_	_	_	_	_	_	Shift=514|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=520
+4	чмокать	_	_	_	_	_	_	_	Shift=522
+5	в	_	_	_	_	_	_	_	Shift=530
+6	щёчку	_	_	_	_	_	_	_	Shift=532|SpaceAfter=No
+7	...	_	_	_	_	_	_	_	Shift=538
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p9
+# par_text = « Ну вот , сейчас начнётся ... »
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p9-s1
+# text = ``Ну вот, сейчас начнётся... ``
+1	``	_	_	_	_	_	_	_	Shift=542|SpaceAfter=No
+2	Ну	_	_	_	_	_	_	_	Shift=544
+3	вот	_	_	_	_	_	_	_	Shift=547|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=551
+5	сейчас	_	_	_	_	_	_	_	Shift=553
+6	начнётся	_	_	_	_	_	_	_	Shift=560|SpaceAfter=No
+7	...	_	_	_	_	_	_	_	Shift=569
+8	``	_	_	_	_	_	_	_	Shift=573|SpaceAfter=No
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p10
+# par_text = Но невдомёк беднягам , что тёткам тоже гадко ...
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p10-s1
+# text = Но невдомёк беднягам, что тёткам тоже гадко...
+1	Но	_	_	_	_	_	_	_	Shift=575
+2	невдомёк	_	_	_	_	_	_	_	Shift=578
+3	беднягам	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2400|RuCor_group_id=470737|RuCor_link_id=470735|Shift=587|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=596
+5	что	_	_	_	_	_	_	_	Shift=598
+6	тёткам	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2399|RuCor_group_id=470738|RuCor_link_id=470736|Shift=602
+7	тоже	_	_	_	_	_	_	_	Shift=609
+8	гадко	_	_	_	_	_	_	_	Shift=614|SpaceAfter=No
+9	...	_	_	_	_	_	_	_	Shift=620
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p11
+# par_text = Кому же оно нужно , Восьмое это марта !
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p11-s1
+# text = Кому же оно нужно, Восьмое это марта!
+1	Кому	_	_	_	_	_	_	_	Shift=624
+2	же	_	_	_	_	_	_	_	Shift=629
+3	оно	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2401|RuCor_group_id=470739|RuCor_link_id=0|Shift=632
+4	нужно	_	_	_	_	_	_	_	Shift=636|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=642
+6	Восьмое	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470740|Shift=644
+7	это	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470740|Shift=652
+8	марта	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470740|Shift=656|SpaceAfter=No
+9	!	_	_	_	_	_	_	_	Shift=662
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p12
+# par_text = Каждый современный человек с детства знает , что 8 Марта — это Международный женский день , когда мужчинам всех возрастов предписано чествовать женщин опять - таки всех возрастов и « баловать » их днём отдыха от домашних обязанностей .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p12-s1
+# text = Каждый современный человек с детства знает, что 8 Марта - это Международный женский день, когда мужчинам всех возрастов предписано чествовать женщин опять - таки всех возрастов и ``баловать ``их днём отдыха от домашних обязанностей.
+1	Каждый	_	_	_	_	_	_	_	Shift=664
+2	современный	_	_	_	_	_	_	_	Shift=671
+3	человек	_	_	_	_	_	_	_	Shift=683
+4	с	_	_	_	_	_	_	_	Shift=691
+5	детства	_	_	_	_	_	_	_	Shift=693
+6	знает	_	_	_	_	_	_	_	Shift=701|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=707
+8	что	_	_	_	_	_	_	_	Shift=709
+9	8	_	_	_	_	_	_	_	RuCor_chain_id=2402|RuCor_group_id=470741|Shift=713
+10	Марта	_	_	_	_	_	_	_	RuCor_chain_id=2402|RuCor_group_id=470741|Shift=715
+11	-	_	_	_	_	_	_	_	Shift=721
+12	это	_	_	_	_	_	_	_	Shift=723
+13	Международный	_	_	_	_	_	_	_	RuCor_chain_id=2402|RuCor_group_id=470743|Shift=727
+14	женский	_	_	_	_	_	_	_	RuCor_chain_id=2402|RuCor_group_id=470743|Shift=741
+15	день	_	_	_	_	_	_	_	RuCor_chain_id=2402|RuCor_group_id=470743|Shift=749|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=754
+17	когда	_	_	_	_	_	_	_	Shift=756
+18	мужчинам	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2403|RuCor_group_id=470745|RuCor_link_id=0|Shift=762
+19	всех	_	_	_	_	_	_	_	Shift=771
+20	возрастов	_	_	_	_	_	_	_	Shift=776
+21	предписано	_	_	_	_	_	_	_	Shift=786
+22	чествовать	_	_	_	_	_	_	_	Shift=797
+23	женщин	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2404|RuCor_group_id=470746|RuCor_link_id=0|Shift=808
+24	опять	_	_	_	_	_	_	_	RuCor_chain_id=2404|RuCor_group_id=470746|Shift=815
+25	-	_	_	_	_	_	_	_	RuCor_chain_id=2404|RuCor_group_id=470746|Shift=821
+26	таки	_	_	_	_	_	_	_	RuCor_chain_id=2404|RuCor_group_id=470746|Shift=823
+27	всех	_	_	_	_	_	_	_	RuCor_chain_id=2404|RuCor_group_id=470746|Shift=828
+28	возрастов	_	_	_	_	_	_	_	RuCor_chain_id=2404|RuCor_group_id=470746|Shift=833
+29	и	_	_	_	_	_	_	_	Shift=843
+30	``	_	_	_	_	_	_	_	Shift=845|SpaceAfter=No
+31	баловать	_	_	_	_	_	_	_	Shift=847
+32	``	_	_	_	_	_	_	_	Shift=856|SpaceAfter=No
+33	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2404|RuCor_group_id=470747|RuCor_link_id=470746|Shift=858
+34	днём	_	_	_	_	_	_	_	Shift=861
+35	отдыха	_	_	_	_	_	_	_	Shift=866
+36	от	_	_	_	_	_	_	_	Shift=873
+37	домашних	_	_	_	_	_	_	_	Shift=876
+38	обязанностей	_	_	_	_	_	_	_	Shift=885|SpaceAfter=No
+39	.	_	_	_	_	_	_	_	Shift=898
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p13
+# par_text = И праздник традиционно ассоциируется с чем-то весенним и светлым ( вероятно , потому , что выпадает на начало марта , когда уставшие от зимы люди радуются первому солнцу , а также потому , что он сопровождается дополнительным законным выходным ) .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p13-s1
+# text = И праздник традиционно ассоциируется с чем-то весенним и светлым (вероятно, потому, что выпадает на начало марта, когда уставшие от зимы люди радуются первому солнцу, а также потому, что он сопровождается дополнительным законным выходным).
+1	И	_	_	_	_	_	_	_	Shift=900
+2	праздник	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2401|RuCor_group_id=470748|RuCor_link_id=470742|Shift=902
+3	традиционно	_	_	_	_	_	_	_	Shift=911
+4	ассоциируется	_	_	_	_	_	_	_	Shift=923
+5	с	_	_	_	_	_	_	_	Shift=937
+6	чем-то	_	_	_	_	_	_	_	Shift=939
+7	весенним	_	_	_	_	_	_	_	Shift=946
+8	и	_	_	_	_	_	_	_	Shift=955
+9	светлым	_	_	_	_	_	_	_	Shift=957
+10	(	_	_	_	_	_	_	_	Shift=965|SpaceAfter=No
+11	вероятно	_	_	_	_	_	_	_	Shift=967|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=976
+13	потому	_	_	_	_	_	_	_	Shift=978|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=985
+15	что	_	_	_	_	_	_	_	Shift=987
+16	выпадает	_	_	_	_	_	_	_	Shift=991
+17	на	_	_	_	_	_	_	_	Shift=1000
+18	начало	_	_	_	_	_	_	_	Shift=1003
+19	марта	_	_	_	_	_	_	_	Shift=1010|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=1016
+21	когда	_	_	_	_	_	_	_	Shift=1018
+22	уставшие	_	_	_	_	_	_	_	Shift=1024
+23	от	_	_	_	_	_	_	_	Shift=1033
+24	зимы	_	_	_	_	_	_	_	Shift=1036
+25	люди	_	_	_	_	_	_	_	Shift=1041
+26	радуются	_	_	_	_	_	_	_	Shift=1046
+27	первому	_	_	_	_	_	_	_	Shift=1055
+28	солнцу	_	_	_	_	_	_	_	Shift=1063|SpaceAfter=No
+29	,	_	_	_	_	_	_	_	Shift=1070
+30	а	_	_	_	_	_	_	_	Shift=1072
+31	также	_	_	_	_	_	_	_	Shift=1074
+32	потому	_	_	_	_	_	_	_	Shift=1080|SpaceAfter=No
+33	,	_	_	_	_	_	_	_	Shift=1087
+34	что	_	_	_	_	_	_	_	Shift=1089
+35	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2401|RuCor_group_id=470749|RuCor_link_id=470748|Shift=1093
+36	сопровождается	_	_	_	_	_	_	_	Shift=1096
+37	дополнительным	_	_	_	_	_	_	_	Shift=1111
+38	законным	_	_	_	_	_	_	_	Shift=1126
+39	выходным	_	_	_	_	_	_	_	Shift=1135|SpaceAfter=No
+40	)	_	_	_	_	_	_	_	Shift=1144|SpaceAfter=No
+41	.	_	_	_	_	_	_	_	Shift=1146
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p14
+# par_text = Однако современный , лишённый всякой политической окраски Женский день мало похож на своего исторического « предка » , который отнюдь не может похвастаться такими радужными коннотациями .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p14-s1
+# text = Однако современный, лишённый всякой политической окраски Женский день мало похож на своего исторического ``предка ``, который отнюдь не может похвастаться такими радужными коннотациями.
+1	Однако	_	_	_	_	_	_	_	Shift=1148
+2	современный	_	_	_	_	_	_	_	Shift=1155|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1167
+4	лишённый	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470750|Shift=1169
+5	всякой	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470750|Shift=1178
+6	политической	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470750|Shift=1185
+7	окраски	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470750|Shift=1198
+8	Женский	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470750|Shift=1206
+9	день	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470750|Shift=1214
+10	мало	_	_	_	_	_	_	_	Shift=1219
+11	похож	_	_	_	_	_	_	_	Shift=1224
+12	на	_	_	_	_	_	_	_	Shift=1230
+13	своего	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2405|RuCor_group_id=470752|RuCor_link_id=470750|Shift=1233
+14	исторического	_	_	_	_	_	_	_	RuCor_chain_id=2405|RuCor_group_id=470752|Shift=1240
+15	``	_	_	_	_	_	_	_	RuCor_chain_id=2405|RuCor_group_id=470752|Shift=1254|SpaceAfter=No
+16	предка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2405|RuCor_group_id=470752|RuCor_link_id=0|Shift=1256
+17	``	_	_	_	_	_	_	_	RuCor_chain_id=2405|RuCor_group_id=470752|Shift=1263|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=1265
+19	который	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2405|RuCor_group_id=470753|RuCor_link_id=470752|Shift=1267
+20	отнюдь	_	_	_	_	_	_	_	Shift=1275
+21	не	_	_	_	_	_	_	_	Shift=1282
+22	может	_	_	_	_	_	_	_	Shift=1285
+23	похвастаться	_	_	_	_	_	_	_	Shift=1291
+24	такими	_	_	_	_	_	_	_	Shift=1304
+25	радужными	_	_	_	_	_	_	_	Shift=1311
+26	коннотациями	_	_	_	_	_	_	_	Shift=1321|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=1334
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p15
+# par_text = Международный женский день своими корнями уходит в долгую борьбу женщин за участие в жизни общества наравне с мужчинами .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p15-s1
+# text = Международный женский день своими корнями уходит в долгую борьбу женщин за участие в жизни общества наравне с мужчинами.
+1	Международный	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470754|Shift=1336
+2	женский	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470754|Shift=1350
+3	день	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470754|Shift=1358
+4	своими	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2401|RuCor_group_id=470755|RuCor_link_id=470754|Shift=1363
+5	корнями	_	_	_	_	_	_	_	Shift=1370
+6	уходит	_	_	_	_	_	_	_	Shift=1378
+7	в	_	_	_	_	_	_	_	Shift=1385
+8	долгую	_	_	_	_	_	_	_	Shift=1387
+9	борьбу	_	_	_	_	_	_	_	Shift=1394
+10	женщин	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2399|RuCor_group_id=470756|RuCor_link_id=470733|Shift=1401
+11	за	_	_	_	_	_	_	_	Shift=1408
+12	участие	_	_	_	_	_	_	_	Shift=1411
+13	в	_	_	_	_	_	_	_	Shift=1419
+14	жизни	_	_	_	_	_	_	_	Shift=1421
+15	общества	_	_	_	_	_	_	_	Shift=1427
+16	наравне	_	_	_	_	_	_	_	Shift=1436
+17	с	_	_	_	_	_	_	_	Shift=1444
+18	мужчинами	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2400|RuCor_group_id=470757|RuCor_link_id=470735|Shift=1446|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=1456
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p16
+# par_text = Считается , что всё началось в 1857 году « маршем пустых кастрюль » , когда в Нью-Йорке работницы текстильной промышленности собрались на манифестацию с требованиями равной с мужчинами оплаты труда и улучшения рабочих условий .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p16-s1
+# text = Считается, что всё началось в 1857 году ``маршем пустых кастрюль ``, когда в Нью-Йорке работницы текстильной промышленности собрались на манифестацию с требованиями равной с мужчинами оплаты труда и улучшения рабочих условий.
+1	Считается	_	_	_	_	_	_	_	Shift=1458|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=1468
+3	что	_	_	_	_	_	_	_	Shift=1470
+4	всё	_	_	_	_	_	_	_	Shift=1474
+5	началось	_	_	_	_	_	_	_	Shift=1478
+6	в	_	_	_	_	_	_	_	Shift=1487
+7	1857	_	_	_	_	_	_	_	Shift=1489
+8	году	_	_	_	_	_	_	_	Shift=1494
+9	``	_	_	_	_	_	_	_	Shift=1499|SpaceAfter=No
+10	маршем	_	_	_	_	_	_	_	Shift=1501
+11	пустых	_	_	_	_	_	_	_	Shift=1508
+12	кастрюль	_	_	_	_	_	_	_	Shift=1515
+13	``	_	_	_	_	_	_	_	Shift=1524|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=1526
+15	когда	_	_	_	_	_	_	_	Shift=1528
+16	в	_	_	_	_	_	_	_	Shift=1534
+17	Нью-Йорке	_	_	_	_	_	_	_	Shift=1536
+18	работницы	_	_	_	_	_	_	_	Shift=1546
+19	текстильной	_	_	_	_	_	_	_	Shift=1556
+20	промышленности	_	_	_	_	_	_	_	Shift=1568
+21	собрались	_	_	_	_	_	_	_	Shift=1583
+22	на	_	_	_	_	_	_	_	Shift=1593
+23	манифестацию	_	_	_	_	_	_	_	Shift=1596
+24	с	_	_	_	_	_	_	_	Shift=1609
+25	требованиями	_	_	_	_	_	_	_	Shift=1611
+26	равной	_	_	_	_	_	_	_	Shift=1624
+27	с	_	_	_	_	_	_	_	Shift=1631
+28	мужчинами	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2400|RuCor_group_id=470758|RuCor_link_id=470757|Shift=1633
+29	оплаты	_	_	_	_	_	_	_	Shift=1643
+30	труда	_	_	_	_	_	_	_	Shift=1650
+31	и	_	_	_	_	_	_	_	Shift=1656
+32	улучшения	_	_	_	_	_	_	_	Shift=1658
+33	рабочих	_	_	_	_	_	_	_	Shift=1668
+34	условий	_	_	_	_	_	_	_	Shift=1676|SpaceAfter=No
+35	.	_	_	_	_	_	_	_	Shift=1684
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p17
+# par_text = В 1910 году Клара Цеткин предложила учредить Международный женский день 8 марта в честь « марша пустых кастрюль » .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p17-s1
+# text = В 1910 году Клара Цеткин предложила учредить Международный женский день 8 марта в честь ``марша пустых кастрюль ``.
+1	В	_	_	_	_	_	_	_	Shift=1686
+2	1910	_	_	_	_	_	_	_	Shift=1688
+3	году	_	_	_	_	_	_	_	Shift=1693
+4	Клара	_	_	_	_	_	_	_	Shift=1698
+5	Цеткин	_	_	_	_	_	_	_	Shift=1704
+6	предложила	_	_	_	_	_	_	_	Shift=1711
+7	учредить	_	_	_	_	_	_	_	Shift=1722
+8	Международный	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470759|Shift=1731
+9	женский	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470759|Shift=1745
+10	день	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470759|Shift=1753
+11	8	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470759|Shift=1758
+12	марта	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470759|Shift=1760
+13	в	_	_	_	_	_	_	_	Shift=1766
+14	честь	_	_	_	_	_	_	_	Shift=1768
+15	``	_	_	_	_	_	_	_	Shift=1774|SpaceAfter=No
+16	марша	_	_	_	_	_	_	_	Shift=1776
+17	пустых	_	_	_	_	_	_	_	Shift=1782
+18	кастрюль	_	_	_	_	_	_	_	Shift=1789
+19	``	_	_	_	_	_	_	_	Shift=1798|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=1800
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p18
+# par_text = Только вот собственно праздником этот день не был .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p18-s1
+# text = Только вот собственно праздником этот день не был.
+1	Только	_	_	_	_	_	_	_	Shift=1802
+2	вот	_	_	_	_	_	_	_	Shift=1809
+3	собственно	_	_	_	_	_	_	_	Shift=1813
+4	праздником	_	_	_	_	_	_	_	Shift=1824
+5	этот	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470760|Shift=1835
+6	день	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2401|RuCor_group_id=470760|RuCor_link_id=470759|Shift=1840
+7	не	_	_	_	_	_	_	_	Shift=1845
+8	был	_	_	_	_	_	_	_	Shift=1848|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=1852
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p19
+# par_text = Имелось в виду , что женщины в этот день будут привлекать общественное внимание к своим проблемам , устраивая манифестации и митинги для борьбы с неравноправием и дискриминацией .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p19-s1
+# text = Имелось в виду, что женщины в этот день будут привлекать общественное внимание к своим проблемам, устраивая манифестации и митинги для борьбы с неравноправием и дискриминацией.
+1	Имелось	_	_	_	_	_	_	_	Shift=1854
+2	в	_	_	_	_	_	_	_	Shift=1862
+3	виду	_	_	_	_	_	_	_	Shift=1864|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1869
+5	что	_	_	_	_	_	_	_	Shift=1871
+6	женщины	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2406|RuCor_group_id=470761|RuCor_link_id=0|Shift=1875
+7	в	_	_	_	_	_	_	_	Shift=1883
+8	этот	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470762|Shift=1885
+9	день	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2401|RuCor_group_id=470762|RuCor_link_id=470760|Shift=1890
+10	будут	_	_	_	_	_	_	_	Shift=1895
+11	привлекать	_	_	_	_	_	_	_	Shift=1901
+12	общественное	_	_	_	_	_	_	_	Shift=1912
+13	внимание	_	_	_	_	_	_	_	Shift=1925
+14	к	_	_	_	_	_	_	_	Shift=1934
+15	своим	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2406|RuCor_group_id=470763|RuCor_link_id=470761|Shift=1936
+16	проблемам	_	_	_	_	_	_	_	Shift=1942|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=1952
+18	устраивая	_	_	_	_	_	_	_	Shift=1954
+19	манифестации	_	_	_	_	_	_	_	Shift=1964
+20	и	_	_	_	_	_	_	_	Shift=1977
+21	митинги	_	_	_	_	_	_	_	Shift=1979
+22	для	_	_	_	_	_	_	_	Shift=1987
+23	борьбы	_	_	_	_	_	_	_	Shift=1991
+24	с	_	_	_	_	_	_	_	Shift=1998
+25	неравноправием	_	_	_	_	_	_	_	Shift=2000
+26	и	_	_	_	_	_	_	_	Shift=2015
+27	дискриминацией	_	_	_	_	_	_	_	Shift=2017|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=2032
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p20
+# par_text = В России история Женского дня начинается с 1913 года , и только в 1965-м 8 Марта официально становится выходным днём и начинает приобретать современные черты .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p20-s1
+# text = В России история Женского дня начинается с 1913 года, и только в 1965-м 8 Марта официально становится выходным днём и начинает приобретать современные черты.
+1	В	_	_	_	_	_	_	_	Shift=2034
+2	России	_	_	_	_	_	_	_	Shift=2036
+3	история	_	_	_	_	_	_	_	Shift=2043
+4	Женского	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470764|Shift=2051
+5	дня	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470764|Shift=2060
+6	начинается	_	_	_	_	_	_	_	Shift=2064
+7	с	_	_	_	_	_	_	_	Shift=2075
+8	1913	_	_	_	_	_	_	_	Shift=2077
+9	года	_	_	_	_	_	_	_	Shift=2082|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=2087
+11	и	_	_	_	_	_	_	_	Shift=2089
+12	только	_	_	_	_	_	_	_	Shift=2091
+13	в	_	_	_	_	_	_	_	Shift=2098
+14	1965-м	_	_	_	_	_	_	_	Shift=2100
+15	8	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470765|Shift=2107
+16	Марта	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470765|Shift=2109
+17	официально	_	_	_	_	_	_	_	Shift=2115
+18	становится	_	_	_	_	_	_	_	Shift=2126
+19	выходным	_	_	_	_	_	_	_	Shift=2137
+20	днём	_	_	_	_	_	_	_	Shift=2146
+21	и	_	_	_	_	_	_	_	Shift=2151
+22	начинает	_	_	_	_	_	_	_	Shift=2153
+23	приобретать	_	_	_	_	_	_	_	Shift=2162
+24	современные	_	_	_	_	_	_	_	Shift=2174
+25	черты	_	_	_	_	_	_	_	Shift=2186|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=2192
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p21
+# par_text = Сегодня большинство воспринимает 8 Марта как своеобразный второй этап 23 Февраля , когда традиционно поздравляют всех мужчин .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p21-s1
+# text = Сегодня большинство воспринимает 8 Марта как своеобразный второй этап 23 Февраля, когда традиционно поздравляют всех мужчин.
+1	Сегодня	_	_	_	_	_	_	_	Shift=2194
+2	большинство	_	_	_	_	_	_	_	Shift=2202
+3	воспринимает	_	_	_	_	_	_	_	Shift=2214
+4	8	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470766|Shift=2227
+5	Марта	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470766|Shift=2229
+6	как	_	_	_	_	_	_	_	Shift=2235
+7	своеобразный	_	_	_	_	_	_	_	Shift=2239
+8	второй	_	_	_	_	_	_	_	Shift=2252
+9	этап	_	_	_	_	_	_	_	Shift=2259
+10	23	_	_	_	_	_	_	_	RuCor_chain_id=2407|RuCor_group_id=470767|Shift=2264
+11	Февраля	_	_	_	_	_	_	_	RuCor_chain_id=2407|RuCor_group_id=470767|Shift=2267|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=2275
+13	когда	_	_	_	_	_	_	_	Shift=2277
+14	традиционно	_	_	_	_	_	_	_	Shift=2283
+15	поздравляют	_	_	_	_	_	_	_	Shift=2295
+16	всех	_	_	_	_	_	_	_	Shift=2307
+17	мужчин	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2400|RuCor_group_id=470768|RuCor_link_id=470757|Shift=2312|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=2319
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p22
+# par_text = Так и существуют в календаре Мужской и Женский день как « дань обоим полам » ( по выражению одного из студентов , среди которых Ивановский центр гендерных исследований проводил опрос , пытаясь выяснить отношение молодёжи к этим праздникам ) .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p22-s1
+# text = Так и существуют в календаре Мужской и Женский день как ``дань обоим полам ``(по выражению одного из студентов, среди которых Ивановский центр гендерных исследований проводил опрос, пытаясь выяснить отношение молодёжи к этим праздникам).
+1	Так	_	_	_	_	_	_	_	Shift=2321
+2	и	_	_	_	_	_	_	_	Shift=2325
+3	существуют	_	_	_	_	_	_	_	Shift=2327
+4	в	_	_	_	_	_	_	_	Shift=2338
+5	календаре	_	_	_	_	_	_	_	Shift=2340
+6	Мужской	_	_	_	_	_	_	_	Shift=2350
+7	и	_	_	_	_	_	_	_	Shift=2358
+8	Женский	_	_	_	_	_	_	_	Shift=2360
+9	день	_	_	_	_	_	_	_	Shift=2368
+10	как	_	_	_	_	_	_	_	Shift=2373
+11	``	_	_	_	_	_	_	_	Shift=2377|SpaceAfter=No
+12	дань	_	_	_	_	_	_	_	Shift=2379
+13	обоим	_	_	_	_	_	_	_	Shift=2384
+14	полам	_	_	_	_	_	_	_	Shift=2390
+15	``	_	_	_	_	_	_	_	Shift=2396|SpaceAfter=No
+16	(	_	_	_	_	_	_	_	Shift=2398|SpaceAfter=No
+17	по	_	_	_	_	_	_	_	Shift=2400
+18	выражению	_	_	_	_	_	_	_	Shift=2403
+19	одного	_	_	_	_	_	_	_	Shift=2413
+20	из	_	_	_	_	_	_	_	Shift=2420
+21	студентов	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2408|RuCor_group_id=470769|RuCor_link_id=0|Shift=2423|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=2433
+23	среди	_	_	_	_	_	_	_	Shift=2435
+24	которых	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2408|RuCor_group_id=470770|RuCor_link_id=470769|Shift=2441
+25	Ивановский	_	_	_	_	_	_	_	Shift=2449
+26	центр	_	_	_	_	_	_	_	Shift=2460
+27	гендерных	_	_	_	_	_	_	_	Shift=2466
+28	исследований	_	_	_	_	_	_	_	Shift=2476
+29	проводил	_	_	_	_	_	_	_	Shift=2489
+30	опрос	_	_	_	_	_	_	_	Shift=2498|SpaceAfter=No
+31	,	_	_	_	_	_	_	_	Shift=2504
+32	пытаясь	_	_	_	_	_	_	_	Shift=2506
+33	выяснить	_	_	_	_	_	_	_	Shift=2514
+34	отношение	_	_	_	_	_	_	_	Shift=2523
+35	молодёжи	_	_	_	_	_	_	_	Shift=2533
+36	к	_	_	_	_	_	_	_	Shift=2542
+37	этим	_	_	_	_	_	_	_	Shift=2544
+38	праздникам	_	_	_	_	_	_	_	Shift=2549|SpaceAfter=No
+39	)	_	_	_	_	_	_	_	Shift=2560|SpaceAfter=No
+40	.	_	_	_	_	_	_	_	Shift=2562
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p23
+# par_text = Для многих и 23 Февраля , и 8 Марта — это ритуальный обмен подарками , который мало влияет на взаимоотношения ( хотя может их испортить , если ритуал не соблюдён ) .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p23-s1
+# text = Для многих и 23 Февраля, и 8 Марта - это ритуальный обмен подарками, который мало влияет на взаимоотношения (хотя может их испортить, если ритуал не соблюдён).
+1	Для	_	_	_	_	_	_	_	Shift=2564
+2	многих	_	_	_	_	_	_	_	Shift=2568
+3	и	_	_	_	_	_	_	_	Shift=2575
+4	23	_	_	_	_	_	_	_	RuCor_chain_id=2407|RuCor_group_id=470771|Shift=2577
+5	Февраля	_	_	_	_	_	_	_	RuCor_chain_id=2407|RuCor_group_id=470771|Shift=2580|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=2588
+7	и	_	_	_	_	_	_	_	Shift=2590
+8	8	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470772|Shift=2592
+9	Марта	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470772|Shift=2594
+10	-	_	_	_	_	_	_	_	Shift=2600
+11	это	_	_	_	_	_	_	_	Shift=2602
+12	ритуальный	_	_	_	_	_	_	_	RuCor_chain_id=2409|RuCor_group_id=470773|Shift=2606
+13	обмен	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2409|RuCor_group_id=470773|RuCor_link_id=0|Shift=2617
+14	подарками	_	_	_	_	_	_	_	RuCor_chain_id=2409|RuCor_group_id=470773|Shift=2623|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=2633
+16	который	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2409|RuCor_group_id=470774|RuCor_link_id=470773|Shift=2635
+17	мало	_	_	_	_	_	_	_	Shift=2643
+18	влияет	_	_	_	_	_	_	_	Shift=2648
+19	на	_	_	_	_	_	_	_	Shift=2655
+20	взаимоотношения	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2410|RuCor_group_id=470775|RuCor_link_id=0|Shift=2658
+21	(	_	_	_	_	_	_	_	Shift=2674|SpaceAfter=No
+22	хотя	_	_	_	_	_	_	_	Shift=2676
+23	может	_	_	_	_	_	_	_	Shift=2681
+24	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2410|RuCor_group_id=470776|RuCor_link_id=470775|Shift=2687
+25	испортить	_	_	_	_	_	_	_	Shift=2690|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	Shift=2700
+27	если	_	_	_	_	_	_	_	Shift=2702
+28	ритуал	_	_	_	_	_	_	_	Shift=2707
+29	не	_	_	_	_	_	_	_	Shift=2714
+30	соблюдён	_	_	_	_	_	_	_	Shift=2717|SpaceAfter=No
+31	)	_	_	_	_	_	_	_	Shift=2726|SpaceAfter=No
+32	.	_	_	_	_	_	_	_	Shift=2728
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p24
+# par_text = Некоторые из опрошенных не видят смысла в празднике 8 Марта , по крайней мере в нынешнем варианте .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p24-s1
+# text = Некоторые из опрошенных не видят смысла в празднике 8 Марта, по крайней мере в нынешнем варианте.
+1	Некоторые	_	_	_	_	_	_	_	Shift=2730
+2	из	_	_	_	_	_	_	_	Shift=2740
+3	опрошенных	_	_	_	_	_	_	_	Shift=2743
+4	не	_	_	_	_	_	_	_	Shift=2754
+5	видят	_	_	_	_	_	_	_	Shift=2757
+6	смысла	_	_	_	_	_	_	_	Shift=2763
+7	в	_	_	_	_	_	_	_	Shift=2770
+8	празднике	_	_	_	_	_	_	_	Shift=2772
+9	8	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470777|Shift=2782
+10	Марта	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470777|Shift=2784|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=2790
+12	по	_	_	_	_	_	_	_	Shift=2792
+13	крайней	_	_	_	_	_	_	_	Shift=2795
+14	мере	_	_	_	_	_	_	_	Shift=2803
+15	в	_	_	_	_	_	_	_	Shift=2808
+16	нынешнем	_	_	_	_	_	_	_	Shift=2810
+17	варианте	_	_	_	_	_	_	_	Shift=2819|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=2828
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p25
+# par_text = И воспринимают его как ещё один законный выходной , правда « предусматривающий дарение подарков » и распевание дифирамбов прекрасной даме .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p25-s1
+# text = И воспринимают его как ещё один законный выходной, правда ``предусматривающий дарение подарков ``и распевание дифирамбов прекрасной даме.
+1	И	_	_	_	_	_	_	_	Shift=2830
+2	воспринимают	_	_	_	_	_	_	_	Shift=2832
+3	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2401|RuCor_group_id=470778|RuCor_link_id=470777|Shift=2845
+4	как	_	_	_	_	_	_	_	Shift=2849
+5	ещё	_	_	_	_	_	_	_	Shift=2853
+6	один	_	_	_	_	_	_	_	Shift=2857
+7	законный	_	_	_	_	_	_	_	Shift=2862
+8	выходной	_	_	_	_	_	_	_	Shift=2871|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=2880
+10	правда	_	_	_	_	_	_	_	Shift=2882
+11	``	_	_	_	_	_	_	_	Shift=2889|SpaceAfter=No
+12	предусматривающий	_	_	_	_	_	_	_	Shift=2891
+13	дарение	_	_	_	_	_	_	_	Shift=2909
+14	подарков	_	_	_	_	_	_	_	Shift=2917
+15	``	_	_	_	_	_	_	_	Shift=2926|SpaceAfter=No
+16	и	_	_	_	_	_	_	_	Shift=2928
+17	распевание	_	_	_	_	_	_	_	Shift=2930
+18	дифирамбов	_	_	_	_	_	_	_	Shift=2941
+19	прекрасной	_	_	_	_	_	_	_	Shift=2952
+20	даме	_	_	_	_	_	_	_	Shift=2963|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=2968
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p26
+# par_text = И ещё как повод собраться всей семьёй .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p26-s1
+# text = И ещё как повод собраться всей семьёй.
+1	И	_	_	_	_	_	_	_	Shift=2970
+2	ещё	_	_	_	_	_	_	_	Shift=2972
+3	как	_	_	_	_	_	_	_	Shift=2976
+4	повод	_	_	_	_	_	_	_	Shift=2980
+5	собраться	_	_	_	_	_	_	_	Shift=2986
+6	всей	_	_	_	_	_	_	_	Shift=2996
+7	семьёй	_	_	_	_	_	_	_	Shift=3001|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=3008
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p27
+# par_text = То есть смысл праздника изменился кардинально — парадокс , но от дня борьбы женщин за равные с мужчинами права мы пришли фактически к празднованию на государственном уровне дня сексистских стереотипов .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p27-s1
+# text = То есть смысл праздника изменился кардинально - парадокс, но от дня борьбы женщин за равные с мужчинами права мы пришли фактически к празднованию на государственном уровне дня сексистских стереотипов.
+1	То	_	_	_	_	_	_	_	Shift=3010
+2	есть	_	_	_	_	_	_	_	Shift=3013
+3	смысл	_	_	_	_	_	_	_	Shift=3018
+4	праздника	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2401|RuCor_group_id=470779|RuCor_link_id=470778|Shift=3024
+5	изменился	_	_	_	_	_	_	_	Shift=3034
+6	кардинально	_	_	_	_	_	_	_	Shift=3044
+7	-	_	_	_	_	_	_	_	Shift=3056
+8	парадокс	_	_	_	_	_	_	_	Shift=3058|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=3067
+10	но	_	_	_	_	_	_	_	Shift=3069
+11	от	_	_	_	_	_	_	_	Shift=3072
+12	дня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2401|RuCor_group_id=470780|RuCor_link_id=470779|Shift=3075
+13	борьбы	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470780|Shift=3079
+14	женщин	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2399|RuCor_group_id=470781|RuCor_link_id=470756|Shift=3086
+15	за	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470780|Shift=3093
+16	равные	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470780|Shift=3096
+17	с	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470780|Shift=3103
+18	мужчинами	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2400|RuCor_group_id=470782|RuCor_link_id=470768|Shift=3105
+19	права	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470780|Shift=3115
+20	мы	_	_	_	_	_	_	_	Shift=3121
+21	пришли	_	_	_	_	_	_	_	Shift=3124
+22	фактически	_	_	_	_	_	_	_	Shift=3131
+23	к	_	_	_	_	_	_	_	Shift=3142
+24	празднованию	_	_	_	_	_	_	_	Shift=3144
+25	на	_	_	_	_	_	_	_	Shift=3157
+26	государственном	_	_	_	_	_	_	_	Shift=3160
+27	уровне	_	_	_	_	_	_	_	Shift=3176
+28	дня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2401|RuCor_group_id=470783|RuCor_link_id=470780|Shift=3183
+29	сексистских	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470783|Shift=3187
+30	стереотипов	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470783|Shift=3199|SpaceAfter=No
+31	.	_	_	_	_	_	_	_	Shift=3211
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p28
+# par_text = Да и само существование Женского дня календаря в современном виде подчёркивает его сексистский характер .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p28-s1
+# text = Да и само существование Женского дня календаря в современном виде подчёркивает его сексистский характер.
+1	Да	_	_	_	_	_	_	_	Shift=3213
+2	и	_	_	_	_	_	_	_	Shift=3216
+3	само	_	_	_	_	_	_	_	Shift=3218
+4	существование	_	_	_	_	_	_	_	Shift=3223
+5	Женского	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470784|Shift=3237
+6	дня	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470784|Shift=3246
+7	календаря	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470784|Shift=3250
+8	в	_	_	_	_	_	_	_	Shift=3260
+9	современном	_	_	_	_	_	_	_	Shift=3262
+10	виде	_	_	_	_	_	_	_	Shift=3274
+11	подчёркивает	_	_	_	_	_	_	_	Shift=3279
+12	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2401|RuCor_group_id=470785|RuCor_link_id=470784|Shift=3292
+13	сексистский	_	_	_	_	_	_	_	Shift=3296
+14	характер	_	_	_	_	_	_	_	Shift=3308|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=3317
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p29
+# par_text = И 23 Февраля не оправдание : День защитника Отечества по сути гендерно нейтральный праздник , касающийся именно тех , кто служил в армии , независимо от пола , поскольку даже в нашей армии служат не только мужчины , а многие из них в ней никогда и не служили .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p29-s1
+# text = И 23 Февраля не оправдание: День защитника Отечества по сути гендерно нейтральный праздник, касающийся именно тех, кто служил в армии, независимо от пола, поскольку даже в нашей армии служат не только мужчины, а многие из них в ней никогда и не служили.
+1	И	_	_	_	_	_	_	_	Shift=3319
+2	23	_	_	_	_	_	_	_	RuCor_chain_id=2407|RuCor_group_id=470786|Shift=3321
+3	Февраля	_	_	_	_	_	_	_	RuCor_chain_id=2407|RuCor_group_id=470786|Shift=3324
+4	не	_	_	_	_	_	_	_	Shift=3332
+5	оправдание	_	_	_	_	_	_	_	Shift=3335|SpaceAfter=No
+6	:	_	_	_	_	_	_	_	Shift=3346
+7	День	_	_	_	_	_	_	_	RuCor_chain_id=2407|RuCor_group_id=470787|Shift=3348
+8	защитника	_	_	_	_	_	_	_	RuCor_chain_id=2407|RuCor_group_id=470787|Shift=3353
+9	Отечества	_	_	_	_	_	_	_	RuCor_chain_id=2407|RuCor_group_id=470787|Shift=3363
+10	по	_	_	_	_	_	_	_	Shift=3373
+11	сути	_	_	_	_	_	_	_	Shift=3376
+12	гендерно	_	_	_	_	_	_	_	Shift=3381
+13	нейтральный	_	_	_	_	_	_	_	Shift=3390
+14	праздник	_	_	_	_	_	_	_	Shift=3402|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=3411
+16	касающийся	_	_	_	_	_	_	_	Shift=3413
+17	именно	_	_	_	_	_	_	_	Shift=3424
+18	тех	_	_	_	_	_	_	_	Shift=3431|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=3435
+20	кто	_	_	_	_	_	_	_	Shift=3437
+21	служил	_	_	_	_	_	_	_	Shift=3441
+22	в	_	_	_	_	_	_	_	Shift=3448
+23	армии	_	_	_	_	_	_	_	Shift=3450|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=3456
+25	независимо	_	_	_	_	_	_	_	Shift=3458
+26	от	_	_	_	_	_	_	_	Shift=3469
+27	пола	_	_	_	_	_	_	_	Shift=3472|SpaceAfter=No
+28	,	_	_	_	_	_	_	_	Shift=3477
+29	поскольку	_	_	_	_	_	_	_	Shift=3479
+30	даже	_	_	_	_	_	_	_	Shift=3489
+31	в	_	_	_	_	_	_	_	Shift=3494
+32	нашей	_	_	_	_	_	_	_	RuCor_chain_id=2411|RuCor_group_id=470788|Shift=3496
+33	армии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2411|RuCor_group_id=470788|RuCor_link_id=0|Shift=3502
+34	служат	_	_	_	_	_	_	_	Shift=3508
+35	не	_	_	_	_	_	_	_	Shift=3515
+36	только	_	_	_	_	_	_	_	Shift=3518
+37	мужчины	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2412|RuCor_group_id=470789|RuCor_link_id=0|Shift=3525|SpaceAfter=No
+38	,	_	_	_	_	_	_	_	Shift=3533
+39	а	_	_	_	_	_	_	_	Shift=3535
+40	многие	_	_	_	_	_	_	_	Shift=3537
+41	из	_	_	_	_	_	_	_	Shift=3544
+42	них	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2412|RuCor_group_id=470790|RuCor_link_id=470789|Shift=3547
+43	в	_	_	_	_	_	_	_	Shift=3551
+44	ней	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2411|RuCor_group_id=470791|RuCor_link_id=470788|Shift=3553
+45	никогда	_	_	_	_	_	_	_	Shift=3557
+46	и	_	_	_	_	_	_	_	Shift=3565
+47	не	_	_	_	_	_	_	_	Shift=3567
+48	служили	_	_	_	_	_	_	_	Shift=3570|SpaceAfter=No
+49	.	_	_	_	_	_	_	_	Shift=3578
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p30
+# par_text = За что я не люблю 8 Марта ?
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p30-s1
+# text = За что я не люблю 8 Марта?
+1	За	_	_	_	_	_	_	_	Shift=3580
+2	что	_	_	_	_	_	_	_	Shift=3583
+3	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2397|RuCor_group_id=470792|RuCor_link_id=470731|Shift=3587
+4	не	_	_	_	_	_	_	_	Shift=3589
+5	люблю	_	_	_	_	_	_	_	Shift=3592
+6	8	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470793|Shift=3598
+7	Марта	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470793|Shift=3600|SpaceAfter=No
+8	?	_	_	_	_	_	_	_	Shift=3606
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p31
+# par_text = За то , что в этот день тебе особенно настойчиво напоминают о твоём « месте » , освобождая на целый день ради праздника от домашних дел .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p31-s1
+# text = За то, что в этот день тебе особенно настойчиво напоминают о твоём ``месте ``, освобождая на целый день ради праздника от домашних дел.
+1	За	_	_	_	_	_	_	_	Shift=3608
+2	то	_	_	_	_	_	_	_	Shift=3611|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=3614
+4	что	_	_	_	_	_	_	_	Shift=3616
+5	в	_	_	_	_	_	_	_	Shift=3620
+6	этот	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470794|Shift=3622
+7	день	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2401|RuCor_group_id=470794|RuCor_link_id=470793|Shift=3627
+8	тебе	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2413|RuCor_group_id=470795|RuCor_link_id=0|Shift=3632
+9	особенно	_	_	_	_	_	_	_	Shift=3637
+10	настойчиво	_	_	_	_	_	_	_	Shift=3646
+11	напоминают	_	_	_	_	_	_	_	Shift=3657
+12	о	_	_	_	_	_	_	_	Shift=3668
+13	твоём	_	_	_	_	_	_	_	Shift=3670
+14	``	_	_	_	_	_	_	_	Shift=3676|SpaceAfter=No
+15	месте	_	_	_	_	_	_	_	Shift=3678
+16	``	_	_	_	_	_	_	_	Shift=3684|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=3686
+18	освобождая	_	_	_	_	_	_	_	Shift=3688
+19	на	_	_	_	_	_	_	_	Shift=3699
+20	целый	_	_	_	_	_	_	_	Shift=3702
+21	день	_	_	_	_	_	_	_	Shift=3708
+22	ради	_	_	_	_	_	_	_	Shift=3713
+23	праздника	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2401|RuCor_group_id=470796|RuCor_link_id=470794|Shift=3718
+24	от	_	_	_	_	_	_	_	Shift=3728
+25	домашних	_	_	_	_	_	_	_	Shift=3731
+26	дел	_	_	_	_	_	_	_	Shift=3740|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=3744
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p32
+# par_text = За то , что не дают забыть о твоих гендерных рамках : ты должна ( правда , непонятно , кому должна ) быть заботливой , ласковой , нежной , красивой , терпеливой , понимающей , хорошей мамой , если ты уже выросла , а если нет , то в будущем стать заботливой женой и хозяйкой и нарожать побольше детей , чтобы обеспечить расширенное воспроизводство населения .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p32-s1
+# text = За то, что не дают забыть о твоих гендерных рамках: ты должна (правда, непонятно, кому должна) быть заботливой, ласковой, нежной, красивой, терпеливой, понимающей, хорошей мамой, если ты уже выросла, а если нет, то в будущем стать заботливой женой и хозяйкой и нарожать побольше детей, чтобы обеспечить расширенное воспроизводство населения.
+1	За	_	_	_	_	_	_	_	Shift=3746
+2	то	_	_	_	_	_	_	_	Shift=3749|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=3752
+4	что	_	_	_	_	_	_	_	Shift=3754
+5	не	_	_	_	_	_	_	_	Shift=3758
+6	дают	_	_	_	_	_	_	_	Shift=3761
+7	забыть	_	_	_	_	_	_	_	Shift=3766
+8	о	_	_	_	_	_	_	_	Shift=3773
+9	твоих	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2413|RuCor_group_id=470797|RuCor_link_id=470795|Shift=3775
+10	гендерных	_	_	_	_	_	_	_	Shift=3781
+11	рамках	_	_	_	_	_	_	_	Shift=3791|SpaceAfter=No
+12	:	_	_	_	_	_	_	_	Shift=3798
+13	ты	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2413|RuCor_group_id=470798|RuCor_link_id=470797|Shift=3800
+14	должна	_	_	_	_	_	_	_	Shift=3803
+15	(	_	_	_	_	_	_	_	Shift=3810|SpaceAfter=No
+16	правда	_	_	_	_	_	_	_	Shift=3812|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=3819
+18	непонятно	_	_	_	_	_	_	_	Shift=3821|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=3831
+20	кому	_	_	_	_	_	_	_	Shift=3833
+21	должна	_	_	_	_	_	_	_	Shift=3838|SpaceAfter=No
+22	)	_	_	_	_	_	_	_	Shift=3845
+23	быть	_	_	_	_	_	_	_	Shift=3847
+24	заботливой	_	_	_	_	_	_	_	Shift=3852|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=3863
+26	ласковой	_	_	_	_	_	_	_	Shift=3865|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=3874
+28	нежной	_	_	_	_	_	_	_	Shift=3876|SpaceAfter=No
+29	,	_	_	_	_	_	_	_	Shift=3883
+30	красивой	_	_	_	_	_	_	_	Shift=3885|SpaceAfter=No
+31	,	_	_	_	_	_	_	_	Shift=3894
+32	терпеливой	_	_	_	_	_	_	_	Shift=3896|SpaceAfter=No
+33	,	_	_	_	_	_	_	_	Shift=3907
+34	понимающей	_	_	_	_	_	_	_	Shift=3909|SpaceAfter=No
+35	,	_	_	_	_	_	_	_	Shift=3920
+36	хорошей	_	_	_	_	_	_	_	Shift=3922
+37	мамой	_	_	_	_	_	_	_	Shift=3930|SpaceAfter=No
+38	,	_	_	_	_	_	_	_	Shift=3936
+39	если	_	_	_	_	_	_	_	Shift=3938
+40	ты	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2413|RuCor_group_id=470799|RuCor_link_id=470797|Shift=3943
+41	уже	_	_	_	_	_	_	_	Shift=3946
+42	выросла	_	_	_	_	_	_	_	Shift=3950|SpaceAfter=No
+43	,	_	_	_	_	_	_	_	Shift=3958
+44	а	_	_	_	_	_	_	_	Shift=3960
+45	если	_	_	_	_	_	_	_	Shift=3962
+46	нет	_	_	_	_	_	_	_	Shift=3967|SpaceAfter=No
+47	,	_	_	_	_	_	_	_	Shift=3971
+48	то	_	_	_	_	_	_	_	Shift=3973
+49	в	_	_	_	_	_	_	_	Shift=3976
+50	будущем	_	_	_	_	_	_	_	Shift=3978
+51	стать	_	_	_	_	_	_	_	Shift=3986
+52	заботливой	_	_	_	_	_	_	_	Shift=3992
+53	женой	_	_	_	_	_	_	_	Shift=4003
+54	и	_	_	_	_	_	_	_	Shift=4009
+55	хозяйкой	_	_	_	_	_	_	_	Shift=4011
+56	и	_	_	_	_	_	_	_	Shift=4020
+57	нарожать	_	_	_	_	_	_	_	Shift=4022
+58	побольше	_	_	_	_	_	_	_	Shift=4031
+59	детей	_	_	_	_	_	_	_	Shift=4040|SpaceAfter=No
+60	,	_	_	_	_	_	_	_	Shift=4046
+61	чтобы	_	_	_	_	_	_	_	Shift=4048
+62	обеспечить	_	_	_	_	_	_	_	Shift=4054
+63	расширенное	_	_	_	_	_	_	_	Shift=4065
+64	воспроизводство	_	_	_	_	_	_	_	Shift=4077
+65	населения	_	_	_	_	_	_	_	Shift=4093|SpaceAfter=No
+66	.	_	_	_	_	_	_	_	Shift=4103
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p33
+# par_text = За это тебя провозгласят настоящей женщиной и подарят ветку мимозы , или несколько гвоздичек , или розочку …
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p33-s1
+# text = За это тебя провозгласят настоящей женщиной и подарят ветку мимозы, или несколько гвоздичек, или розочку...
+1	За	_	_	_	_	_	_	_	Shift=4105
+2	это	_	_	_	_	_	_	_	Shift=4108
+3	тебя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2413|RuCor_group_id=470800|RuCor_link_id=470799|Shift=4112
+4	провозгласят	_	_	_	_	_	_	_	Shift=4117
+5	настоящей	_	_	_	_	_	_	_	Shift=4130
+6	женщиной	_	_	_	_	_	_	_	Shift=4140
+7	и	_	_	_	_	_	_	_	Shift=4149
+8	подарят	_	_	_	_	_	_	_	Shift=4151
+9	ветку	_	_	_	_	_	_	_	Shift=4159
+10	мимозы	_	_	_	_	_	_	_	Shift=4165|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=4172
+12	или	_	_	_	_	_	_	_	Shift=4174
+13	несколько	_	_	_	_	_	_	_	Shift=4178
+14	гвоздичек	_	_	_	_	_	_	_	Shift=4188|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=4198
+16	или	_	_	_	_	_	_	_	Shift=4200
+17	розочку	_	_	_	_	_	_	_	Shift=4204|SpaceAfter=No
+18	...	_	_	_	_	_	_	_	Shift=4212
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p34
+# par_text = Не люблю за то , что уставшие от домашних хлопот мужчины будут с тоской и нетерпением ждать наступающего 9 марта , когда всё вернётся на круги своя , ты займёшь полагающееся тебе место и вымоешь оставшуюся с предыдущего праздничного вечера посуду .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p34-s1
+# text = Не люблю за то, что уставшие от домашних хлопот мужчины будут с тоской и нетерпением ждать наступающего 9 марта, когда всё вернётся на круги своя, ты займёшь полагающееся тебе место и вымоешь оставшуюся с предыдущего праздничного вечера посуду.
+1	Не	_	_	_	_	_	_	_	Shift=4214
+2	люблю	_	_	_	_	_	_	_	Shift=4217
+3	за	_	_	_	_	_	_	_	Shift=4223
+4	то	_	_	_	_	_	_	_	Shift=4226|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=4229
+6	что	_	_	_	_	_	_	_	Shift=4231
+7	уставшие	_	_	_	_	_	_	_	Shift=4235
+8	от	_	_	_	_	_	_	_	Shift=4244
+9	домашних	_	_	_	_	_	_	_	Shift=4247
+10	хлопот	_	_	_	_	_	_	_	Shift=4256
+11	мужчины	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2400|RuCor_group_id=470801|RuCor_link_id=470782|Shift=4263
+12	будут	_	_	_	_	_	_	_	Shift=4271
+13	с	_	_	_	_	_	_	_	Shift=4277
+14	тоской	_	_	_	_	_	_	_	Shift=4279
+15	и	_	_	_	_	_	_	_	Shift=4286
+16	нетерпением	_	_	_	_	_	_	_	Shift=4288
+17	ждать	_	_	_	_	_	_	_	Shift=4300
+18	наступающего	_	_	_	_	_	_	_	Shift=4306
+19	9	_	_	_	_	_	_	_	Shift=4319
+20	марта	_	_	_	_	_	_	_	Shift=4321|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=4327
+22	когда	_	_	_	_	_	_	_	Shift=4329
+23	всё	_	_	_	_	_	_	_	Shift=4335
+24	вернётся	_	_	_	_	_	_	_	Shift=4339
+25	на	_	_	_	_	_	_	_	Shift=4348
+26	круги	_	_	_	_	_	_	_	Shift=4351
+27	своя	_	_	_	_	_	_	_	Shift=4357|SpaceAfter=No
+28	,	_	_	_	_	_	_	_	Shift=4362
+29	ты	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2413|RuCor_group_id=470802|RuCor_link_id=470800|Shift=4364
+30	займёшь	_	_	_	_	_	_	_	Shift=4367
+31	полагающееся	_	_	_	_	_	_	_	Shift=4375
+32	тебе	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2413|RuCor_group_id=470803|RuCor_link_id=470800|Shift=4388
+33	место	_	_	_	_	_	_	_	Shift=4393
+34	и	_	_	_	_	_	_	_	Shift=4399
+35	вымоешь	_	_	_	_	_	_	_	Shift=4401
+36	оставшуюся	_	_	_	_	_	_	_	Shift=4409
+37	с	_	_	_	_	_	_	_	Shift=4420
+38	предыдущего	_	_	_	_	_	_	_	Shift=4422
+39	праздничного	_	_	_	_	_	_	_	Shift=4434
+40	вечера	_	_	_	_	_	_	_	Shift=4447
+41	посуду	_	_	_	_	_	_	_	Shift=4454|SpaceAfter=No
+42	.	_	_	_	_	_	_	_	Shift=4461
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p35
+# par_text = Но самое главное , что во всём этом чествовании нет искренности .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p35-s1
+# text = Но самое главное, что во всём этом чествовании нет искренности.
+1	Но	_	_	_	_	_	_	_	Shift=4463
+2	самое	_	_	_	_	_	_	_	Shift=4466
+3	главное	_	_	_	_	_	_	_	Shift=4472|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=4480
+5	что	_	_	_	_	_	_	_	Shift=4482
+6	во	_	_	_	_	_	_	_	Shift=4486
+7	всём	_	_	_	_	_	_	_	Shift=4489
+8	этом	_	_	_	_	_	_	_	Shift=4494
+9	чествовании	_	_	_	_	_	_	_	Shift=4499
+10	нет	_	_	_	_	_	_	_	Shift=4511
+11	искренности	_	_	_	_	_	_	_	Shift=4515|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=4527
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p36
+# par_text = Быть может , потому , что поздравлять особенно не за что — не за то же обстоятельство , в конце концов , что я родилась женщиной и у меня нет пресловутой Y-хромосомы ...
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p36-s1
+# text = Быть может, потому, что поздравлять особенно не за что - не за то же обстоятельство, в конце концов, что я родилась женщиной и у меня нет пресловутой Y- хромосомы...
+1	Быть	_	_	_	_	_	_	_	Shift=4529
+2	может	_	_	_	_	_	_	_	Shift=4534|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=4540
+4	потому	_	_	_	_	_	_	_	Shift=4542|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=4549
+6	что	_	_	_	_	_	_	_	Shift=4551
+7	поздравлять	_	_	_	_	_	_	_	Shift=4555
+8	особенно	_	_	_	_	_	_	_	Shift=4567
+9	не	_	_	_	_	_	_	_	Shift=4576
+10	за	_	_	_	_	_	_	_	Shift=4579
+11	что	_	_	_	_	_	_	_	Shift=4582
+12	-	_	_	_	_	_	_	_	Shift=4586
+13	не	_	_	_	_	_	_	_	Shift=4588
+14	за	_	_	_	_	_	_	_	Shift=4591
+15	то	_	_	_	_	_	_	_	Shift=4594
+16	же	_	_	_	_	_	_	_	Shift=4597
+17	обстоятельство	_	_	_	_	_	_	_	Shift=4600|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=4615
+19	в	_	_	_	_	_	_	_	Shift=4617
+20	конце	_	_	_	_	_	_	_	Shift=4619
+21	концов	_	_	_	_	_	_	_	Shift=4625|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=4632
+23	что	_	_	_	_	_	_	_	Shift=4634
+24	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2414|RuCor_group_id=470804|RuCor_link_id=0|Shift=4638
+25	родилась	_	_	_	_	_	_	_	Shift=4640
+26	женщиной	_	_	_	_	_	_	_	Shift=4649
+27	и	_	_	_	_	_	_	_	Shift=4658
+28	у	_	_	_	_	_	_	_	Shift=4660
+29	меня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2414|RuCor_group_id=470806|RuCor_link_id=470804|Shift=4662
+30	нет	_	_	_	_	_	_	_	Shift=4667
+31	пресловутой	_	_	_	_	_	_	_	Shift=4671
+32	Y-	_	_	_	_	_	_	_	Shift=4683
+33	хромосомы	_	_	_	_	_	_	_	Shift=4685|SpaceAfter=No
+34	...	_	_	_	_	_	_	_	Shift=4695
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p37
+# par_text = Почему-то особенно остро всё это чувствуется именно в Женский день , не оставляя места для радости .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p37-s1
+# text = Почему-то особенно остро всё это чувствуется именно в Женский день, не оставляя места для радости.
+1	Почему-то	_	_	_	_	_	_	_	Shift=4699
+2	особенно	_	_	_	_	_	_	_	Shift=4709
+3	остро	_	_	_	_	_	_	_	Shift=4718
+4	всё	_	_	_	_	_	_	_	Shift=4724
+5	это	_	_	_	_	_	_	_	Shift=4728
+6	чувствуется	_	_	_	_	_	_	_	Shift=4732
+7	именно	_	_	_	_	_	_	_	Shift=4744
+8	в	_	_	_	_	_	_	_	Shift=4751
+9	Женский	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470807|Shift=4753
+10	день	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470807|Shift=4761|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=4766
+12	не	_	_	_	_	_	_	_	Shift=4768
+13	оставляя	_	_	_	_	_	_	_	Shift=4771
+14	места	_	_	_	_	_	_	_	Shift=4780
+15	для	_	_	_	_	_	_	_	Shift=4786
+16	радости	_	_	_	_	_	_	_	Shift=4790|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=4798
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p38
+# par_text = Так и получается , что праздник фальшивый , особенно принимая во внимание то , что за пределами этого островка мнимого равноправия длиною в день лежат 364 дня отнюдь не женских , а вполне мужских , где ты и призвана претворять в жизнь все те пожелания , которые были получены тобой 8 Марта .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p38-s1
+# text = Так и получается, что праздник фальшивый, особенно принимая во внимание то, что за пределами этого островка мнимого равноправия длиною в день лежат 364 дня отнюдь не женских, а вполне мужских, где ты и призвана претворять в жизнь все те пожелания, которые были получены тобой 8 Марта.
+1	Так	_	_	_	_	_	_	_	Shift=4800
+2	и	_	_	_	_	_	_	_	Shift=4804
+3	получается	_	_	_	_	_	_	_	Shift=4806|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=4817
+5	что	_	_	_	_	_	_	_	Shift=4819
+6	праздник	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2401|RuCor_group_id=470808|RuCor_link_id=470807|Shift=4823
+7	фальшивый	_	_	_	_	_	_	_	Shift=4832|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=4842
+9	особенно	_	_	_	_	_	_	_	Shift=4844
+10	принимая	_	_	_	_	_	_	_	Shift=4853
+11	во	_	_	_	_	_	_	_	Shift=4862
+12	внимание	_	_	_	_	_	_	_	Shift=4865
+13	то	_	_	_	_	_	_	_	Shift=4874|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=4877
+15	что	_	_	_	_	_	_	_	Shift=4879
+16	за	_	_	_	_	_	_	_	Shift=4883
+17	пределами	_	_	_	_	_	_	_	Shift=4886
+18	этого	_	_	_	_	_	_	_	Shift=4896
+19	островка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2401|RuCor_group_id=470809|RuCor_link_id=470808|Shift=4902
+20	мнимого	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470809|Shift=4911
+21	равноправия	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470809|Shift=4919
+22	длиною	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470809|Shift=4931
+23	в	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470809|Shift=4938
+24	день	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470809|Shift=4940
+25	лежат	_	_	_	_	_	_	_	Shift=4945
+26	364	_	_	_	_	_	_	_	Shift=4951
+27	дня	_	_	_	_	_	_	_	Shift=4955
+28	отнюдь	_	_	_	_	_	_	_	Shift=4959
+29	не	_	_	_	_	_	_	_	Shift=4966
+30	женских	_	_	_	_	_	_	_	Shift=4969|SpaceAfter=No
+31	,	_	_	_	_	_	_	_	Shift=4977
+32	а	_	_	_	_	_	_	_	Shift=4979
+33	вполне	_	_	_	_	_	_	_	Shift=4981
+34	мужских	_	_	_	_	_	_	_	Shift=4988|SpaceAfter=No
+35	,	_	_	_	_	_	_	_	Shift=4996
+36	где	_	_	_	_	_	_	_	Shift=4998
+37	ты	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2413|RuCor_group_id=470810|RuCor_link_id=470803|Shift=5002
+38	и	_	_	_	_	_	_	_	Shift=5005
+39	призвана	_	_	_	_	_	_	_	Shift=5007
+40	претворять	_	_	_	_	_	_	_	Shift=5016
+41	в	_	_	_	_	_	_	_	Shift=5027
+42	жизнь	_	_	_	_	_	_	_	Shift=5029
+43	все	_	_	_	_	_	_	_	RuCor_chain_id=2415|RuCor_group_id=470811|Shift=5035
+44	те	_	_	_	_	_	_	_	RuCor_chain_id=2415|RuCor_group_id=470811|Shift=5039
+45	пожелания	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2415|RuCor_group_id=470811|RuCor_link_id=0|Shift=5042|SpaceAfter=No
+46	,	_	_	_	_	_	_	_	Shift=5052
+47	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2415|RuCor_group_id=470812|RuCor_link_id=470811|Shift=5054
+48	были	_	_	_	_	_	_	_	Shift=5062
+49	получены	_	_	_	_	_	_	_	Shift=5067
+50	тобой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2413|RuCor_group_id=470813|RuCor_link_id=470810|Shift=5076
+51	8	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470814|Shift=5082
+52	Марта	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470814|Shift=5084|SpaceAfter=No
+53	.	_	_	_	_	_	_	_	Shift=5090
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p39
+# par_text = Но это ещё полбеды , проблема в том , что в остальное время мы постоянно сталкиваемся с сексизмом и гендерными стереотипами .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p39-s1
+# text = Но это ещё полбеды, проблема в том, что в остальное время мы постоянно сталкиваемся с сексизмом и гендерными стереотипами.
+1	Но	_	_	_	_	_	_	_	Shift=5092
+2	это	_	_	_	_	_	_	_	Shift=5095
+3	ещё	_	_	_	_	_	_	_	Shift=5099
+4	полбеды	_	_	_	_	_	_	_	Shift=5103|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=5111
+6	проблема	_	_	_	_	_	_	_	Shift=5113
+7	в	_	_	_	_	_	_	_	Shift=5122
+8	том	_	_	_	_	_	_	_	Shift=5124|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=5128
+10	что	_	_	_	_	_	_	_	Shift=5130
+11	в	_	_	_	_	_	_	_	Shift=5134
+12	остальное	_	_	_	_	_	_	_	Shift=5136
+13	время	_	_	_	_	_	_	_	Shift=5146
+14	мы	_	_	_	_	_	_	_	Shift=5152
+15	постоянно	_	_	_	_	_	_	_	Shift=5155
+16	сталкиваемся	_	_	_	_	_	_	_	Shift=5165
+17	с	_	_	_	_	_	_	_	Shift=5178
+18	сексизмом	_	_	_	_	_	_	_	Shift=5180
+19	и	_	_	_	_	_	_	_	Shift=5190
+20	гендерными	_	_	_	_	_	_	_	Shift=5192
+21	стереотипами	_	_	_	_	_	_	_	Shift=5203|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=5216
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p40
+# par_text = До сих пор удел женщины — это домашний очаг , забота о детях и муже .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p40-s1
+# text = До сих пор удел женщины - это домашний очаг, забота о детях и муже.
+1	До	_	_	_	_	_	_	_	Shift=5218
+2	сих	_	_	_	_	_	_	_	Shift=5221
+3	пор	_	_	_	_	_	_	_	Shift=5225
+4	удел	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2416|RuCor_group_id=470815|RuCor_link_id=0|Shift=5229
+5	женщины	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2416|RuCor_group_id=470815|RuCor_link_id=0|Shift=5234
+6	-	_	_	_	_	_	_	_	Shift=5242
+7	это	_	_	_	_	_	_	_	Shift=5244
+8	домашний	_	_	_	_	_	_	_	RuCor_chain_id=2416|RuCor_group_id=470817|Shift=5248
+9	очаг	_	_	_	_	_	_	_	RuCor_chain_id=2416|RuCor_group_id=470817|Shift=5257|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	RuCor_chain_id=2416|RuCor_group_id=470817|Shift=5262
+11	забота	_	_	_	_	_	_	_	RuCor_chain_id=2416|RuCor_group_id=470817|Shift=5264
+12	о	_	_	_	_	_	_	_	RuCor_chain_id=2416|RuCor_group_id=470817|Shift=5271
+13	детях	_	_	_	_	_	_	_	RuCor_chain_id=2416|RuCor_group_id=470817|Shift=5273
+14	и	_	_	_	_	_	_	_	RuCor_chain_id=2416|RuCor_group_id=470817|Shift=5279
+15	муже	_	_	_	_	_	_	_	RuCor_chain_id=2416|RuCor_group_id=470817|Shift=5281|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=5286
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p41
+# par_text = Образование не главное , главное — удачно выйти замуж и нарожать детей , выполнив тем самым свою биологическую миссию .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p41-s1
+# text = Образование не главное, главное - удачно выйти замуж и нарожать детей, выполнив тем самым свою биологическую миссию.
+1	Образование	_	_	_	_	_	_	_	Shift=5288
+2	не	_	_	_	_	_	_	_	Shift=5300
+3	главное	_	_	_	_	_	_	_	Shift=5303|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=5311
+5	главное	_	_	_	_	_	_	_	Shift=5313
+6	-	_	_	_	_	_	_	_	Shift=5321
+7	удачно	_	_	_	_	_	_	_	Shift=5323
+8	выйти	_	_	_	_	_	_	_	Shift=5330
+9	замуж	_	_	_	_	_	_	_	Shift=5336
+10	и	_	_	_	_	_	_	_	Shift=5342
+11	нарожать	_	_	_	_	_	_	_	Shift=5344
+12	детей	_	_	_	_	_	_	_	Shift=5353|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=5359
+14	выполнив	_	_	_	_	_	_	_	Shift=5361
+15	тем	_	_	_	_	_	_	_	Shift=5370
+16	самым	_	_	_	_	_	_	_	Shift=5374
+17	свою	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=2417|RuCor_group_id=470818|RuCor_link_id=470816|Shift=5380
+18	биологическую	_	_	_	_	_	_	_	Shift=5385
+19	миссию	_	_	_	_	_	_	_	Shift=5399|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=5406
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p42
+# par_text = Ум , видимо , тоже не относится к числу женских добродетелей , вернее тот ум , который является достоянием мужчины .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p42-s1
+# text = Ум, видимо, тоже не относится к числу женских добродетелей, вернее тот ум, который является достоянием мужчины.
+1	Ум	_	_	_	_	_	_	_	Shift=5408|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=5411
+3	видимо	_	_	_	_	_	_	_	Shift=5413|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=5420
+5	тоже	_	_	_	_	_	_	_	Shift=5422
+6	не	_	_	_	_	_	_	_	Shift=5427
+7	относится	_	_	_	_	_	_	_	Shift=5430
+8	к	_	_	_	_	_	_	_	Shift=5440
+9	числу	_	_	_	_	_	_	_	Shift=5442
+10	женских	_	_	_	_	_	_	_	Shift=5448
+11	добродетелей	_	_	_	_	_	_	_	Shift=5456|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=5469
+13	вернее	_	_	_	_	_	_	_	Shift=5471
+14	тот	_	_	_	_	_	_	_	RuCor_chain_id=2418|RuCor_group_id=470819|Shift=5478
+15	ум	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2418|RuCor_group_id=470819|RuCor_link_id=0|Shift=5482|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=5485
+17	который	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2418|RuCor_group_id=470820|RuCor_link_id=470819|Shift=5487
+18	является	_	_	_	_	_	_	_	Shift=5495
+19	достоянием	_	_	_	_	_	_	_	Shift=5504
+20	мужчины	_	_	_	_	_	_	_	Shift=5515|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=5523
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p43
+# par_text = Для женщины необходимы житейская мудрость и хитрость .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p43-s1
+# text = Для женщины необходимы житейская мудрость и хитрость.
+1	Для	_	_	_	_	_	_	_	Shift=5525
+2	женщины	_	_	_	_	_	_	_	Shift=5529
+3	необходимы	_	_	_	_	_	_	_	Shift=5537
+4	житейская	_	_	_	_	_	_	_	Shift=5548
+5	мудрость	_	_	_	_	_	_	_	Shift=5558
+6	и	_	_	_	_	_	_	_	Shift=5567
+7	хитрость	_	_	_	_	_	_	_	Shift=5569|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=5578
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p44
+# par_text = Один мой знакомый однажды рассказал , что нужно делать , если случилось так , что ты умна .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p44-s1
+# text = Один мой знакомый однажды рассказал, что нужно делать, если случилось так, что ты умна.
+1	Один	_	_	_	_	_	_	_	Shift=5580
+2	мой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2397|RuCor_group_id=470821|RuCor_link_id=470792|Shift=5585
+3	знакомый	_	_	_	_	_	_	_	Shift=5589
+4	однажды	_	_	_	_	_	_	_	Shift=5598
+5	рассказал	_	_	_	_	_	_	_	Shift=5606|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=5616
+7	что	_	_	_	_	_	_	_	Shift=5618
+8	нужно	_	_	_	_	_	_	_	Shift=5622
+9	делать	_	_	_	_	_	_	_	Shift=5628|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=5635
+11	если	_	_	_	_	_	_	_	Shift=5637
+12	случилось	_	_	_	_	_	_	_	Shift=5642
+13	так	_	_	_	_	_	_	_	Shift=5652|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=5656
+15	что	_	_	_	_	_	_	_	Shift=5658
+16	ты	_	_	_	_	_	_	_	Shift=5662
+17	умна	_	_	_	_	_	_	_	Shift=5665|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=5670
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p45
+# par_text = Совет прост — прячь , маскируй и не демонстрируй свой ум мужчинам , иначе беда .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p45-s1
+# text = Совет прост - прячь, маскируй и не демонстрируй свой ум мужчинам, иначе беда.
+1	Совет	_	_	_	_	_	_	_	Shift=5672
+2	прост	_	_	_	_	_	_	_	Shift=5678
+3	-	_	_	_	_	_	_	_	Shift=5684
+4	прячь	_	_	_	_	_	_	_	Shift=5686|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=5692
+6	маскируй	_	_	_	_	_	_	_	Shift=5694
+7	и	_	_	_	_	_	_	_	Shift=5703
+8	не	_	_	_	_	_	_	_	Shift=5705
+9	демонстрируй	_	_	_	_	_	_	_	Shift=5708
+10	свой	_	_	_	_	_	_	_	Shift=5721
+11	ум	_	_	_	_	_	_	_	Shift=5726
+12	мужчинам	_	_	_	_	_	_	_	Shift=5729|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=5738
+14	иначе	_	_	_	_	_	_	_	Shift=5740
+15	беда	_	_	_	_	_	_	_	Shift=5746|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=5751
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p46
+# par_text = Также настоящая женщина должна быть внешне привлекательной : глянцевые женские журналы учат нас , что надеть , чтобы понравиться мужчинам , какой сделать макияж , чтобы понравиться мужчинам , как причесаться , чтобы понравиться мужчинам , как вести беседу , чтобы понравиться мужчинам , вообще как себя вести , чтобы , опять же , понравиться мужчинам .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p46-s1
+# text = Также настоящая женщина должна быть внешне привлекательной: глянцевые женские журналы учат нас, что надеть, чтобы понравиться мужчинам, какой сделать макияж, чтобы понравиться мужчинам, как причесаться, чтобы понравиться мужчинам, как вести беседу, чтобы понравиться мужчинам, вообще как себя вести, чтобы, опять же, понравиться мужчинам.
+1	Также	_	_	_	_	_	_	_	Shift=5753
+2	настоящая	_	_	_	_	_	_	_	Shift=5759
+3	женщина	_	_	_	_	_	_	_	Shift=5769
+4	должна	_	_	_	_	_	_	_	Shift=5777
+5	быть	_	_	_	_	_	_	_	Shift=5784
+6	внешне	_	_	_	_	_	_	_	Shift=5789
+7	привлекательной	_	_	_	_	_	_	_	Shift=5796|SpaceAfter=No
+8	:	_	_	_	_	_	_	_	Shift=5812
+9	глянцевые	_	_	_	_	_	_	_	Shift=5814
+10	женские	_	_	_	_	_	_	_	Shift=5824
+11	журналы	_	_	_	_	_	_	_	Shift=5832
+12	учат	_	_	_	_	_	_	_	Shift=5840
+13	нас	_	_	_	_	_	_	_	Shift=5845|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=5849
+15	что	_	_	_	_	_	_	_	Shift=5851
+16	надеть	_	_	_	_	_	_	_	Shift=5855|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=5862
+18	чтобы	_	_	_	_	_	_	_	Shift=5864
+19	понравиться	_	_	_	_	_	_	_	Shift=5870
+20	мужчинам	_	_	_	_	_	_	_	Shift=5882|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=5891
+22	какой	_	_	_	_	_	_	_	Shift=5893
+23	сделать	_	_	_	_	_	_	_	Shift=5899
+24	макияж	_	_	_	_	_	_	_	Shift=5907|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=5914
+26	чтобы	_	_	_	_	_	_	_	Shift=5916
+27	понравиться	_	_	_	_	_	_	_	Shift=5922
+28	мужчинам	_	_	_	_	_	_	_	Shift=5934|SpaceAfter=No
+29	,	_	_	_	_	_	_	_	Shift=5943
+30	как	_	_	_	_	_	_	_	Shift=5945
+31	причесаться	_	_	_	_	_	_	_	Shift=5949|SpaceAfter=No
+32	,	_	_	_	_	_	_	_	Shift=5961
+33	чтобы	_	_	_	_	_	_	_	Shift=5963
+34	понравиться	_	_	_	_	_	_	_	Shift=5969
+35	мужчинам	_	_	_	_	_	_	_	Shift=5981|SpaceAfter=No
+36	,	_	_	_	_	_	_	_	Shift=5990
+37	как	_	_	_	_	_	_	_	Shift=5992
+38	вести	_	_	_	_	_	_	_	Shift=5996
+39	беседу	_	_	_	_	_	_	_	Shift=6002|SpaceAfter=No
+40	,	_	_	_	_	_	_	_	Shift=6009
+41	чтобы	_	_	_	_	_	_	_	Shift=6011
+42	понравиться	_	_	_	_	_	_	_	Shift=6017
+43	мужчинам	_	_	_	_	_	_	_	Shift=6029|SpaceAfter=No
+44	,	_	_	_	_	_	_	_	Shift=6038
+45	вообще	_	_	_	_	_	_	_	Shift=6040
+46	как	_	_	_	_	_	_	_	Shift=6047
+47	себя	_	_	_	_	_	_	_	Shift=6051
+48	вести	_	_	_	_	_	_	_	Shift=6056|SpaceAfter=No
+49	,	_	_	_	_	_	_	_	Shift=6062
+50	чтобы	_	_	_	_	_	_	_	Shift=6064|SpaceAfter=No
+51	,	_	_	_	_	_	_	_	Shift=6070
+52	опять	_	_	_	_	_	_	_	Shift=6072
+53	же	_	_	_	_	_	_	_	Shift=6078|SpaceAfter=No
+54	,	_	_	_	_	_	_	_	Shift=6081
+55	понравиться	_	_	_	_	_	_	_	Shift=6083
+56	мужчинам	_	_	_	_	_	_	_	Shift=6095|SpaceAfter=No
+57	.	_	_	_	_	_	_	_	Shift=6104
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p47
+# par_text = Да , работа — это тоже хорошо , но такая , которая бы не сильно отвлекала от основного предназначения .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p47-s1
+# text = Да, работа - это тоже хорошо, но такая, которая бы не сильно отвлекала от основного предназначения.
+1	Да	_	_	_	_	_	_	_	Shift=6106|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=6109
+3	работа	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2419|RuCor_group_id=470822|RuCor_link_id=0|Shift=6111
+4	-	_	_	_	_	_	_	_	Shift=6118
+5	это	_	_	_	_	_	_	_	Shift=6120
+6	тоже	_	_	_	_	_	_	_	Shift=6124
+7	хорошо	_	_	_	_	_	_	_	Shift=6129|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=6136
+9	но	_	_	_	_	_	_	_	Shift=6138
+10	такая	_	_	_	_	_	_	_	Shift=6141|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=6147
+12	которая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2419|RuCor_group_id=470823|RuCor_link_id=470822|Shift=6149
+13	бы	_	_	_	_	_	_	_	Shift=6157
+14	не	_	_	_	_	_	_	_	Shift=6160
+15	сильно	_	_	_	_	_	_	_	Shift=6163
+16	отвлекала	_	_	_	_	_	_	_	Shift=6170
+17	от	_	_	_	_	_	_	_	Shift=6180
+18	основного	_	_	_	_	_	_	_	Shift=6183
+19	предназначения	_	_	_	_	_	_	_	Shift=6193|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=6208
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p48
+# par_text = Так невольно и задумаешься иногда , что не очень-то хочется стремиться к идеалу « настоящей » женщины …
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p48-s1
+# text = Так невольно и задумаешься иногда, что не очень - то хочется стремиться к идеалу ``настоящей ``женщины...
+1	Так	_	_	_	_	_	_	_	Shift=6210
+2	невольно	_	_	_	_	_	_	_	Shift=6214
+3	и	_	_	_	_	_	_	_	Shift=6223
+4	задумаешься	_	_	_	_	_	_	_	Shift=6225
+5	иногда	_	_	_	_	_	_	_	Shift=6237|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=6244
+7	что	_	_	_	_	_	_	_	Shift=6246
+8	не	_	_	_	_	_	_	_	Shift=6250
+9	очень	_	_	_	_	_	_	_	Shift=6253
+10	-	_	_	_	_	_	_	_	Shift=6258
+11	то	_	_	_	_	_	_	_	Shift=6259
+12	хочется	_	_	_	_	_	_	_	Shift=6262
+13	стремиться	_	_	_	_	_	_	_	Shift=6270
+14	к	_	_	_	_	_	_	_	Shift=6281
+15	идеалу	_	_	_	_	_	_	_	Shift=6283
+16	``	_	_	_	_	_	_	_	Shift=6290|SpaceAfter=No
+17	настоящей	_	_	_	_	_	_	_	Shift=6292
+18	``	_	_	_	_	_	_	_	Shift=6302|SpaceAfter=No
+19	женщины	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2420|RuCor_group_id=470824|RuCor_link_id=0|Shift=6304|SpaceAfter=No
+20	...	_	_	_	_	_	_	_	Shift=6312
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p49
+# par_text = Однажды в транспорте по пути на работу стала невольным слушателем передачи в утреннем эфире одной из популярных радиостанций .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p49-s1
+# text = Однажды в транспорте по пути на работу стала невольным слушателем передачи в утреннем эфире одной из популярных радиостанций.
+1	Однажды	_	_	_	_	_	_	_	Shift=6314
+2	в	_	_	_	_	_	_	_	Shift=6322
+3	транспорте	_	_	_	_	_	_	_	Shift=6324
+4	по	_	_	_	_	_	_	_	Shift=6335
+5	пути	_	_	_	_	_	_	_	Shift=6338
+6	на	_	_	_	_	_	_	_	Shift=6343
+7	работу	_	_	_	_	_	_	_	Shift=6346
+8	стала	_	_	_	_	_	_	_	Shift=6353
+9	невольным	_	_	_	_	_	_	_	Shift=6359
+10	слушателем	_	_	_	_	_	_	_	Shift=6369
+11	передачи	_	_	_	_	_	_	_	Shift=6380
+12	в	_	_	_	_	_	_	_	Shift=6389
+13	утреннем	_	_	_	_	_	_	_	Shift=6391
+14	эфире	_	_	_	_	_	_	_	Shift=6400
+15	одной	_	_	_	_	_	_	_	Shift=6406
+16	из	_	_	_	_	_	_	_	Shift=6412
+17	популярных	_	_	_	_	_	_	_	Shift=6415
+18	радиостанций	_	_	_	_	_	_	_	Shift=6426|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=6439
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p50
+# par_text = Темой для обсуждения стало « истинное значение » женских слёз , искренни ли они , или же это ещё одна женская уловка с целью « раскрутить » мужчину на подарки или же просто для того , чтобы добиться своего .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p50-s1
+# text = Темой для обсуждения стало ``истинное значение ``женских слёз, искренни ли они, или же это ещё одна женская уловка с целью ``раскрутить ``мужчину на подарки или же просто для того, чтобы добиться своего.
+1	Темой	_	_	_	_	_	_	_	Shift=6441
+2	для	_	_	_	_	_	_	_	Shift=6447
+3	обсуждения	_	_	_	_	_	_	_	Shift=6451
+4	стало	_	_	_	_	_	_	_	Shift=6462
+5	``	_	_	_	_	_	_	_	Shift=6468|SpaceAfter=No
+6	истинное	_	_	_	_	_	_	_	Shift=6470
+7	значение	_	_	_	_	_	_	_	Shift=6479
+8	``	_	_	_	_	_	_	_	Shift=6488|SpaceAfter=No
+9	женских	_	_	_	_	_	_	_	RuCor_chain_id=2421|RuCor_group_id=470825|Shift=6490
+10	слёз	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2421|RuCor_group_id=470825|RuCor_link_id=0|Shift=6498|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=6503
+12	искренни	_	_	_	_	_	_	_	Shift=6505
+13	ли	_	_	_	_	_	_	_	Shift=6514
+14	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2421|RuCor_group_id=470826|RuCor_link_id=470825|Shift=6517|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=6521
+16	или	_	_	_	_	_	_	_	Shift=6523
+17	же	_	_	_	_	_	_	_	Shift=6527
+18	это	_	_	_	_	_	_	_	Shift=6530
+19	ещё	_	_	_	_	_	_	_	Shift=6534
+20	одна	_	_	_	_	_	_	_	Shift=6538
+21	женская	_	_	_	_	_	_	_	Shift=6543
+22	уловка	_	_	_	_	_	_	_	Shift=6551
+23	с	_	_	_	_	_	_	_	Shift=6558
+24	целью	_	_	_	_	_	_	_	Shift=6560
+25	``	_	_	_	_	_	_	_	Shift=6566|SpaceAfter=No
+26	раскрутить	_	_	_	_	_	_	_	Shift=6568
+27	``	_	_	_	_	_	_	_	Shift=6579|SpaceAfter=No
+28	мужчину	_	_	_	_	_	_	_	Shift=6581
+29	на	_	_	_	_	_	_	_	Shift=6589
+30	подарки	_	_	_	_	_	_	_	Shift=6592
+31	или	_	_	_	_	_	_	_	Shift=6600
+32	же	_	_	_	_	_	_	_	Shift=6604
+33	просто	_	_	_	_	_	_	_	Shift=6607
+34	для	_	_	_	_	_	_	_	Shift=6614
+35	того	_	_	_	_	_	_	_	Shift=6618|SpaceAfter=No
+36	,	_	_	_	_	_	_	_	Shift=6623
+37	чтобы	_	_	_	_	_	_	_	Shift=6625
+38	добиться	_	_	_	_	_	_	_	Shift=6631
+39	своего	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=2420|RuCor_group_id=470827|RuCor_link_id=470824|Shift=6640|SpaceAfter=No
+40	.	_	_	_	_	_	_	_	Shift=6647
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p51
+# par_text = Как и следовало ожидать , все мы плачем исключительно потому , что хотим получить новое колечко , шубу , машину , яхту и т . п . в зависимости от притязаний женщины и платёжеспособности мужчины .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p51-s1
+# text = Как и следовало ожидать, все мы плачем исключительно потому, что хотим получить новое колечко, шубу, машину, яхту и т.
+1	Как	_	_	_	_	_	_	_	Shift=6649
+2	и	_	_	_	_	_	_	_	Shift=6653
+3	следовало	_	_	_	_	_	_	_	Shift=6655
+4	ожидать	_	_	_	_	_	_	_	Shift=6665|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=6673
+6	все	_	_	_	_	_	_	_	Shift=6675
+7	мы	_	_	_	_	_	_	_	Shift=6679
+8	плачем	_	_	_	_	_	_	_	Shift=6682
+9	исключительно	_	_	_	_	_	_	_	Shift=6689
+10	потому	_	_	_	_	_	_	_	Shift=6703|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=6710
+12	что	_	_	_	_	_	_	_	Shift=6712
+13	хотим	_	_	_	_	_	_	_	Shift=6716
+14	получить	_	_	_	_	_	_	_	Shift=6722
+15	новое	_	_	_	_	_	_	_	Shift=6731
+16	колечко	_	_	_	_	_	_	_	Shift=6737|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=6745
+18	шубу	_	_	_	_	_	_	_	Shift=6747|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=6752
+20	машину	_	_	_	_	_	_	_	Shift=6754|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=6761
+22	яхту	_	_	_	_	_	_	_	Shift=6763
+23	и	_	_	_	_	_	_	_	Shift=6768
+24	т	_	_	_	_	_	_	_	Shift=6770|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=6772
+
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p51-s2
+# text = п.
+1	п	_	_	_	_	_	_	_	Shift=6774|SpaceAfter=No
+2	.	_	_	_	_	_	_	_	Shift=6776
+
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p51-s3
+# text = в зависимости от притязаний женщины и платёжеспособности мужчины.
+1	в	_	_	_	_	_	_	_	Shift=6778
+2	зависимости	_	_	_	_	_	_	_	Shift=6780
+3	от	_	_	_	_	_	_	_	Shift=6792
+4	притязаний	_	_	_	_	_	_	_	Shift=6795
+5	женщины	_	_	_	_	_	_	_	Shift=6806
+6	и	_	_	_	_	_	_	_	Shift=6814
+7	платёжеспособности	_	_	_	_	_	_	_	Shift=6816
+8	мужчины	_	_	_	_	_	_	_	Shift=6835|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=6843
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p52
+# par_text = Дискриминация , в частности на рынке труда , цветёт махровым цветом , как пресловутые восьмомартовские мимозы .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p52-s1
+# text = Дискриминация, в частности на рынке труда, цветёт махровым цветом, как пресловутые восьмомартовские мимозы.
+1	Дискриминация	_	_	_	_	_	_	_	Shift=6845|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=6859
+3	в	_	_	_	_	_	_	_	Shift=6861
+4	частности	_	_	_	_	_	_	_	Shift=6863
+5	на	_	_	_	_	_	_	_	Shift=6873
+6	рынке	_	_	_	_	_	_	_	Shift=6876
+7	труда	_	_	_	_	_	_	_	Shift=6882|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=6888
+9	цветёт	_	_	_	_	_	_	_	Shift=6890
+10	махровым	_	_	_	_	_	_	_	Shift=6897
+11	цветом	_	_	_	_	_	_	_	Shift=6906|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=6913
+13	как	_	_	_	_	_	_	_	Shift=6915
+14	пресловутые	_	_	_	_	_	_	_	Shift=6919
+15	восьмомартовские	_	_	_	_	_	_	_	Shift=6931
+16	мимозы	_	_	_	_	_	_	_	Shift=6948|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=6955
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p53
+# par_text = Порой кажется , что женщине найти хорошую и перспективную работу крайне сложно .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p53-s1
+# text = Порой кажется, что женщине найти хорошую и перспективную работу крайне сложно.
+1	Порой	_	_	_	_	_	_	_	Shift=6957
+2	кажется	_	_	_	_	_	_	_	Shift=6963|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=6971
+4	что	_	_	_	_	_	_	_	Shift=6973
+5	женщине	_	_	_	_	_	_	_	Shift=6977
+6	найти	_	_	_	_	_	_	_	Shift=6985
+7	хорошую	_	_	_	_	_	_	_	Shift=6991
+8	и	_	_	_	_	_	_	_	Shift=6999
+9	перспективную	_	_	_	_	_	_	_	Shift=7001
+10	работу	_	_	_	_	_	_	_	Shift=7015
+11	крайне	_	_	_	_	_	_	_	Shift=7022
+12	сложно	_	_	_	_	_	_	_	Shift=7029|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=7036
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p54
+# par_text = Не замужем и без детей ?
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p54-s1
+# text = Не замужем и без детей?
+1	Не	_	_	_	_	_	_	_	Shift=7038
+2	замужем	_	_	_	_	_	_	_	Shift=7041
+3	и	_	_	_	_	_	_	_	Shift=7049
+4	без	_	_	_	_	_	_	_	Shift=7051
+5	детей	_	_	_	_	_	_	_	Shift=7055|SpaceAfter=No
+6	?	_	_	_	_	_	_	_	Shift=7061
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p55
+# par_text = Плохо , потому что выйдешь замуж , родишь и уйдёшь в декрет .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p55-s1
+# text = Плохо, потому что выйдешь замуж, родишь и уйдёшь в декрет.
+1	Плохо	_	_	_	_	_	_	_	Shift=7063|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=7069
+3	потому	_	_	_	_	_	_	_	Shift=7071
+4	что	_	_	_	_	_	_	_	Shift=7078
+5	выйдешь	_	_	_	_	_	_	_	Shift=7082
+6	замуж	_	_	_	_	_	_	_	Shift=7090|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=7096
+8	родишь	_	_	_	_	_	_	_	Shift=7098
+9	и	_	_	_	_	_	_	_	Shift=7105
+10	уйдёшь	_	_	_	_	_	_	_	Shift=7107
+11	в	_	_	_	_	_	_	_	Shift=7114
+12	декрет	_	_	_	_	_	_	_	Shift=7116|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=7123
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p56
+# par_text = Не замужем и с ребёнком ?
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p56-s1
+# text = Не замужем и с ребёнком?
+1	Не	_	_	_	_	_	_	_	Shift=7125
+2	замужем	_	_	_	_	_	_	_	Shift=7128
+3	и	_	_	_	_	_	_	_	Shift=7136
+4	с	_	_	_	_	_	_	_	Shift=7138
+5	ребёнком	_	_	_	_	_	_	_	Shift=7140|SpaceAfter=No
+6	?	_	_	_	_	_	_	_	Shift=7149
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p57
+# par_text = Опять плохо — постоянные больничные .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p57-s1
+# text = Опять плохо - постоянные больничные.
+1	Опять	_	_	_	_	_	_	_	Shift=7151
+2	плохо	_	_	_	_	_	_	_	Shift=7157
+3	-	_	_	_	_	_	_	_	Shift=7163
+4	постоянные	_	_	_	_	_	_	_	Shift=7165
+5	больничные	_	_	_	_	_	_	_	Shift=7176|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=7187
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p58
+# par_text = Замужем и дети есть ?
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p58-s1
+# text = Замужем и дети есть?
+1	Замужем	_	_	_	_	_	_	_	Shift=7189
+2	и	_	_	_	_	_	_	_	Shift=7197
+3	дети	_	_	_	_	_	_	_	Shift=7199
+4	есть	_	_	_	_	_	_	_	Shift=7204|SpaceAfter=No
+5	?	_	_	_	_	_	_	_	Shift=7209
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p59
+# par_text = Плохо , плохо , плохо ...
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p59-s1
+# text = Плохо, плохо, плохо...
+1	Плохо	_	_	_	_	_	_	_	Shift=7211|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=7217
+3	плохо	_	_	_	_	_	_	_	Shift=7219|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=7225
+5	плохо	_	_	_	_	_	_	_	Shift=7227|SpaceAfter=No
+6	...	_	_	_	_	_	_	_	Shift=7233
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p60
+# par_text = Чтобы занять высокую руководящую должность , женщине придётся потрудиться значительно больше , а добившись успеха , постоянно доказывать , что она достойна занимать её .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p60-s1
+# text = Чтобы занять высокую руководящую должность, женщине придётся потрудиться значительно больше, а добившись успеха, постоянно доказывать, что она достойна занимать её.
+1	Чтобы	_	_	_	_	_	_	_	Shift=7237
+2	занять	_	_	_	_	_	_	_	Shift=7243
+3	высокую	_	_	_	_	_	_	_	RuCor_chain_id=2422|RuCor_group_id=470828|Shift=7250
+4	руководящую	_	_	_	_	_	_	_	RuCor_chain_id=2422|RuCor_group_id=470828|Shift=7258
+5	должность	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2422|RuCor_group_id=470828|RuCor_link_id=0|Shift=7270|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=7280
+7	женщине	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2423|RuCor_group_id=470829|RuCor_link_id=0|Shift=7282
+8	придётся	_	_	_	_	_	_	_	Shift=7290
+9	потрудиться	_	_	_	_	_	_	_	Shift=7299
+10	значительно	_	_	_	_	_	_	_	Shift=7311
+11	больше	_	_	_	_	_	_	_	Shift=7323|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=7330
+13	а	_	_	_	_	_	_	_	Shift=7332
+14	добившись	_	_	_	_	_	_	_	Shift=7334
+15	успеха	_	_	_	_	_	_	_	Shift=7344|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=7351
+17	постоянно	_	_	_	_	_	_	_	Shift=7353
+18	доказывать	_	_	_	_	_	_	_	Shift=7363|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=7374
+20	что	_	_	_	_	_	_	_	Shift=7376
+21	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2423|RuCor_group_id=470830|RuCor_link_id=470829|Shift=7380
+22	достойна	_	_	_	_	_	_	_	Shift=7384
+23	занимать	_	_	_	_	_	_	_	Shift=7393
+24	её	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2422|RuCor_group_id=470831|RuCor_link_id=470828|Shift=7402|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=7405
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p61
+# par_text = Почему-то если мужчина делает успешную карьеру , значит он умён и обладает соответствующей компетенцией .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p61-s1
+# text = Почему-то если мужчина делает успешную карьеру, значит он умён и обладает соответствующей компетенцией.
+1	Почему-то	_	_	_	_	_	_	_	Shift=7407
+2	если	_	_	_	_	_	_	_	Shift=7417
+3	мужчина	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2424|RuCor_group_id=470832|RuCor_link_id=0|Shift=7422
+4	делает	_	_	_	_	_	_	_	Shift=7430
+5	успешную	_	_	_	_	_	_	_	Shift=7437
+6	карьеру	_	_	_	_	_	_	_	Shift=7446|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=7454
+8	значит	_	_	_	_	_	_	_	Shift=7456
+9	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2424|RuCor_group_id=470833|RuCor_link_id=470832|Shift=7463
+10	умён	_	_	_	_	_	_	_	Shift=7466
+11	и	_	_	_	_	_	_	_	Shift=7471
+12	обладает	_	_	_	_	_	_	_	Shift=7473
+13	соответствующей	_	_	_	_	_	_	_	Shift=7482
+14	компетенцией	_	_	_	_	_	_	_	Shift=7498|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=7511
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p62
+# par_text = Если женщина — то сразу возникают вопросы по поводу того , каким образом она добивается повышения …
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p62-s1
+# text = Если женщина - то сразу возникают вопросы по поводу того, каким образом она добивается повышения...
+1	Если	_	_	_	_	_	_	_	Shift=7513
+2	женщина	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2425|RuCor_group_id=470834|RuCor_link_id=0|Shift=7518
+3	-	_	_	_	_	_	_	_	Shift=7526
+4	то	_	_	_	_	_	_	_	Shift=7528
+5	сразу	_	_	_	_	_	_	_	Shift=7531
+6	возникают	_	_	_	_	_	_	_	Shift=7537
+7	вопросы	_	_	_	_	_	_	_	Shift=7547
+8	по	_	_	_	_	_	_	_	Shift=7555
+9	поводу	_	_	_	_	_	_	_	Shift=7558
+10	того	_	_	_	_	_	_	_	Shift=7565|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=7570
+12	каким	_	_	_	_	_	_	_	Shift=7572
+13	образом	_	_	_	_	_	_	_	Shift=7578
+14	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2425|RuCor_group_id=470835|RuCor_link_id=470834|Shift=7586
+15	добивается	_	_	_	_	_	_	_	Shift=7590
+16	повышения	_	_	_	_	_	_	_	Shift=7601|SpaceAfter=No
+17	...	_	_	_	_	_	_	_	Shift=7611
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p63
+# par_text = Спрашивается , чего я хочу ?
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p63-s1
+# text = Спрашивается, чего я хочу?
+1	Спрашивается	_	_	_	_	_	_	_	Shift=7613|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=7626
+3	чего	_	_	_	_	_	_	_	Shift=7628
+4	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2397|RuCor_group_id=470836|RuCor_link_id=470792|Shift=7633
+5	хочу	_	_	_	_	_	_	_	Shift=7635|SpaceAfter=No
+6	?	_	_	_	_	_	_	_	Shift=7640
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p64
+# par_text = Чтобы меня уважали как человека и личность 365 дней в году .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p64-s1
+# text = Чтобы меня уважали как человека и личность 365 дней в году.
+1	Чтобы	_	_	_	_	_	_	_	Shift=7642
+2	меня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2397|RuCor_group_id=470837|RuCor_link_id=470836|Shift=7648
+3	уважали	_	_	_	_	_	_	_	Shift=7653
+4	как	_	_	_	_	_	_	_	Shift=7661
+5	человека	_	_	_	_	_	_	_	Shift=7665
+6	и	_	_	_	_	_	_	_	Shift=7674
+7	личность	_	_	_	_	_	_	_	Shift=7676
+8	365	_	_	_	_	_	_	_	Shift=7685
+9	дней	_	_	_	_	_	_	_	Shift=7689
+10	в	_	_	_	_	_	_	_	Shift=7694
+11	году	_	_	_	_	_	_	_	Shift=7696|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=7701
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p65
+# par_text = При этом вовсе не обязательно дарить мне цветы и подарки каждый день , но неплохо получать каждый день помощь на кухне или по уходу за детьми .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p65-s1
+# text = При этом вовсе не обязательно дарить мне цветы и подарки каждый день, но неплохо получать каждый день помощь на кухне или по уходу за детьми.
+1	При	_	_	_	_	_	_	_	Shift=7703
+2	этом	_	_	_	_	_	_	_	Shift=7707
+3	вовсе	_	_	_	_	_	_	_	Shift=7712
+4	не	_	_	_	_	_	_	_	Shift=7718
+5	обязательно	_	_	_	_	_	_	_	Shift=7721
+6	дарить	_	_	_	_	_	_	_	Shift=7733
+7	мне	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2397|RuCor_group_id=470838|RuCor_link_id=470837|Shift=7740
+8	цветы	_	_	_	_	_	_	_	Shift=7744
+9	и	_	_	_	_	_	_	_	Shift=7750
+10	подарки	_	_	_	_	_	_	_	Shift=7752
+11	каждый	_	_	_	_	_	_	_	Shift=7760
+12	день	_	_	_	_	_	_	_	Shift=7767|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=7772
+14	но	_	_	_	_	_	_	_	Shift=7774
+15	неплохо	_	_	_	_	_	_	_	Shift=7777
+16	получать	_	_	_	_	_	_	_	Shift=7785
+17	каждый	_	_	_	_	_	_	_	Shift=7794
+18	день	_	_	_	_	_	_	_	Shift=7801
+19	помощь	_	_	_	_	_	_	_	Shift=7806
+20	на	_	_	_	_	_	_	_	Shift=7813
+21	кухне	_	_	_	_	_	_	_	Shift=7816
+22	или	_	_	_	_	_	_	_	Shift=7822
+23	по	_	_	_	_	_	_	_	Shift=7826
+24	уходу	_	_	_	_	_	_	_	Shift=7829
+25	за	_	_	_	_	_	_	_	Shift=7835
+26	детьми	_	_	_	_	_	_	_	Shift=7838|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=7845
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p66
+# par_text = Хочу иметь любимую работу , хочу сделать карьеру и чтобы при этом муж , если он будет зарабатывать меньше меня , не страдал от комплекса неполноценности и не кричал « Женщина , на кухню ! » .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p66-s1
+# text = Хочу иметь любимую работу, хочу сделать карьеру и чтобы при этом муж, если он будет зарабатывать меньше меня, не страдал от комплекса неполноценности и не кричал ``Женщина, на кухню!
+1	Хочу	_	_	_	_	_	_	_	Shift=7847
+2	иметь	_	_	_	_	_	_	_	Shift=7852
+3	любимую	_	_	_	_	_	_	_	Shift=7858
+4	работу	_	_	_	_	_	_	_	Shift=7866|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=7873
+6	хочу	_	_	_	_	_	_	_	Shift=7875
+7	сделать	_	_	_	_	_	_	_	Shift=7880
+8	карьеру	_	_	_	_	_	_	_	Shift=7888
+9	и	_	_	_	_	_	_	_	Shift=7896
+10	чтобы	_	_	_	_	_	_	_	Shift=7898
+11	при	_	_	_	_	_	_	_	Shift=7904
+12	этом	_	_	_	_	_	_	_	Shift=7908
+13	муж	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2426|RuCor_group_id=470839|RuCor_link_id=0|Shift=7913|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=7917
+15	если	_	_	_	_	_	_	_	Shift=7919
+16	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2426|RuCor_group_id=470840|RuCor_link_id=470839|Shift=7924
+17	будет	_	_	_	_	_	_	_	Shift=7927
+18	зарабатывать	_	_	_	_	_	_	_	Shift=7933
+19	меньше	_	_	_	_	_	_	_	Shift=7946
+20	меня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2397|RuCor_group_id=470841|RuCor_link_id=470838|Shift=7953|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=7958
+22	не	_	_	_	_	_	_	_	Shift=7960
+23	страдал	_	_	_	_	_	_	_	Shift=7963
+24	от	_	_	_	_	_	_	_	Shift=7971
+25	комплекса	_	_	_	_	_	_	_	Shift=7974
+26	неполноценности	_	_	_	_	_	_	_	Shift=7984
+27	и	_	_	_	_	_	_	_	Shift=8000
+28	не	_	_	_	_	_	_	_	Shift=8002
+29	кричал	_	_	_	_	_	_	_	Shift=8005
+30	``	_	_	_	_	_	_	_	Shift=8012|SpaceAfter=No
+31	Женщина	_	_	_	_	_	_	_	Shift=8014|SpaceAfter=No
+32	,	_	_	_	_	_	_	_	Shift=8022
+33	на	_	_	_	_	_	_	_	Shift=8024
+34	кухню	_	_	_	_	_	_	_	Shift=8027|SpaceAfter=No
+35	!	_	_	_	_	_	_	_	Shift=8033
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p67
+# par_text = Очень хочется , чтобы на работе учитывали мои профессиональные , а не чисто женские достоинства и чтобы мне не пришлось работать в три раза больше своих коллег мужского пола , чтобы оценили мои успехи .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p67-s1
+# text = Очень хочется, чтобы на работе учитывали мои профессиональные, а не чисто женские достоинства и чтобы мне не пришлось работать в три раза больше своих коллег мужского пола, чтобы оценили мои успехи.
+1	Очень	_	_	_	_	_	_	_	Shift=8039
+2	хочется	_	_	_	_	_	_	_	Shift=8045|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=8053
+4	чтобы	_	_	_	_	_	_	_	Shift=8055
+5	на	_	_	_	_	_	_	_	Shift=8061
+6	работе	_	_	_	_	_	_	_	Shift=8064
+7	учитывали	_	_	_	_	_	_	_	Shift=8071
+8	мои	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2397|RuCor_group_id=470842|RuCor_link_id=470841|Shift=8081
+9	профессиональные	_	_	_	_	_	_	_	Shift=8085|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=8102
+11	а	_	_	_	_	_	_	_	Shift=8104
+12	не	_	_	_	_	_	_	_	Shift=8106
+13	чисто	_	_	_	_	_	_	_	Shift=8109
+14	женские	_	_	_	_	_	_	_	Shift=8115
+15	достоинства	_	_	_	_	_	_	_	Shift=8123
+16	и	_	_	_	_	_	_	_	Shift=8135
+17	чтобы	_	_	_	_	_	_	_	Shift=8137
+18	мне	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2397|RuCor_group_id=470843|RuCor_link_id=470842|Shift=8143
+19	не	_	_	_	_	_	_	_	Shift=8147
+20	пришлось	_	_	_	_	_	_	_	Shift=8150
+21	работать	_	_	_	_	_	_	_	Shift=8159
+22	в	_	_	_	_	_	_	_	Shift=8168
+23	три	_	_	_	_	_	_	_	Shift=8170
+24	раза	_	_	_	_	_	_	_	Shift=8174
+25	больше	_	_	_	_	_	_	_	Shift=8179
+26	своих	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=2397|RuCor_group_id=470844|RuCor_link_id=470843|Shift=8186
+27	коллег	_	_	_	_	_	_	_	Shift=8192
+28	мужского	_	_	_	_	_	_	_	Shift=8199
+29	пола	_	_	_	_	_	_	_	Shift=8208|SpaceAfter=No
+30	,	_	_	_	_	_	_	_	Shift=8213
+31	чтобы	_	_	_	_	_	_	_	Shift=8215
+32	оценили	_	_	_	_	_	_	_	Shift=8221
+33	мои	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2397|RuCor_group_id=470845|RuCor_link_id=470843|Shift=8229
+34	успехи	_	_	_	_	_	_	_	Shift=8233|SpaceAfter=No
+35	.	_	_	_	_	_	_	_	Shift=8240
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p68
+# par_text = Устала слышать : « Она , оказывается , ещё и умная » !
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p68-s1
+# text = Устала слышать: ``Она, оказывается, ещё и умная ``!
+1	Устала	_	_	_	_	_	_	_	Shift=8242
+2	слышать	_	_	_	_	_	_	_	Shift=8249|SpaceAfter=No
+3	:	_	_	_	_	_	_	_	Shift=8257
+4	``	_	_	_	_	_	_	_	Shift=8259|SpaceAfter=No
+5	Она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2397|RuCor_group_id=470846|RuCor_link_id=470845|Shift=8261|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=8265
+7	оказывается	_	_	_	_	_	_	_	Shift=8267|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=8279
+9	ещё	_	_	_	_	_	_	_	Shift=8281
+10	и	_	_	_	_	_	_	_	Shift=8285
+11	умная	_	_	_	_	_	_	_	Shift=8287
+12	``	_	_	_	_	_	_	_	Shift=8293|SpaceAfter=No
+13	!	_	_	_	_	_	_	_	Shift=8295
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p69
+# par_text = Не комплимент это , не комплимент …
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p69-s1
+# text = Не комплимент это, не комплимент...
+1	Не	_	_	_	_	_	_	_	Shift=8297
+2	комплимент	_	_	_	_	_	_	_	Shift=8300
+3	это	_	_	_	_	_	_	_	Shift=8311|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=8315
+5	не	_	_	_	_	_	_	_	Shift=8317
+6	комплимент	_	_	_	_	_	_	_	Shift=8320|SpaceAfter=No
+7	...	_	_	_	_	_	_	_	Shift=8331
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p70
+# par_text = Очень хочется обойтись без харассмента ( сексуальные домогательства ) , который также является формой дискриминации .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p70-s1
+# text = Очень хочется обойтись без харассмента (сексуальные домогательства), который также является формой дискриминации.
+1	Очень	_	_	_	_	_	_	_	Shift=8333
+2	хочется	_	_	_	_	_	_	_	Shift=8339
+3	обойтись	_	_	_	_	_	_	_	Shift=8347
+4	без	_	_	_	_	_	_	_	Shift=8356
+5	харассмента	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2427|RuCor_group_id=470847|RuCor_link_id=0|Shift=8360
+6	(	_	_	_	_	_	_	_	Shift=8372|SpaceAfter=No
+7	сексуальные	_	_	_	_	_	_	_	RuCor_chain_id=2427|RuCor_group_id=470848|Shift=8374
+8	домогательства	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2427|RuCor_group_id=470848|RuCor_link_id=470847|Shift=8386|SpaceAfter=No
+9	)	_	_	_	_	_	_	_	Shift=8401|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=8403
+11	который	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=2427|RuCor_group_id=470849|RuCor_link_id=470848|Shift=8405
+12	также	_	_	_	_	_	_	_	Shift=8413
+13	является	_	_	_	_	_	_	_	Shift=8419
+14	формой	_	_	_	_	_	_	_	Shift=8428
+15	дискриминации	_	_	_	_	_	_	_	Shift=8435|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=8449
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p71
+# par_text = Это слово означает не только физическое насилие и нежелательные прикосновения , а также ещё неприличные шутки , оскорбительные высказывания .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p71-s1
+# text = Это слово означает не только физическое насилие и нежелательные прикосновения, а также ещё неприличные шутки, оскорбительные высказывания.
+1	Это	_	_	_	_	_	_	_	RuCor_chain_id=2427|RuCor_group_id=470850|Shift=8451
+2	слово	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2427|RuCor_group_id=470850|RuCor_link_id=470849|Shift=8455
+3	означает	_	_	_	_	_	_	_	Shift=8461
+4	не	_	_	_	_	_	_	_	Shift=8470
+5	только	_	_	_	_	_	_	_	Shift=8473
+6	физическое	_	_	_	_	_	_	_	Shift=8480
+7	насилие	_	_	_	_	_	_	_	Shift=8491
+8	и	_	_	_	_	_	_	_	Shift=8499
+9	нежелательные	_	_	_	_	_	_	_	Shift=8501
+10	прикосновения	_	_	_	_	_	_	_	Shift=8515|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=8529
+12	а	_	_	_	_	_	_	_	Shift=8531
+13	также	_	_	_	_	_	_	_	Shift=8533
+14	ещё	_	_	_	_	_	_	_	Shift=8539
+15	неприличные	_	_	_	_	_	_	_	Shift=8543
+16	шутки	_	_	_	_	_	_	_	Shift=8555|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=8561
+18	оскорбительные	_	_	_	_	_	_	_	Shift=8563
+19	высказывания	_	_	_	_	_	_	_	Shift=8578|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=8591
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p72
+# par_text = На Западе этот вопрос нашёл законодательное решение .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p72-s1
+# text = На Западе этот вопрос нашёл законодательное решение.
+1	На	_	_	_	_	_	_	_	Shift=8593
+2	Западе	_	_	_	_	_	_	_	Shift=8596
+3	этот	_	_	_	_	_	_	_	Shift=8603
+4	вопрос	_	_	_	_	_	_	_	Shift=8608
+5	нашёл	_	_	_	_	_	_	_	Shift=8615
+6	законодательное	_	_	_	_	_	_	_	Shift=8621
+7	решение	_	_	_	_	_	_	_	Shift=8637|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=8645
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p73
+# par_text = У нас же довольно часто подобное поведение со стороны мужчин воспринимается женщиной как свидетельство её привлекательности и поэтому едва ли не как желаемое явление .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p73-s1
+# text = У нас же довольно часто подобное поведение со стороны мужчин воспринимается женщиной как свидетельство её привлекательности и поэтому едва ли не как желаемое явление.
+1	У	_	_	_	_	_	_	_	Shift=8647
+2	нас	_	_	_	_	_	_	_	Shift=8649
+3	же	_	_	_	_	_	_	_	Shift=8653
+4	довольно	_	_	_	_	_	_	_	Shift=8656
+5	часто	_	_	_	_	_	_	_	Shift=8665
+6	подобное	_	_	_	_	_	_	_	RuCor_chain_id=2428|RuCor_group_id=470851|Shift=8671
+7	поведение	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2428|RuCor_group_id=470851|RuCor_link_id=0|Shift=8680
+8	со	_	_	_	_	_	_	_	RuCor_chain_id=2428|RuCor_group_id=470851|Shift=8690
+9	стороны	_	_	_	_	_	_	_	RuCor_chain_id=2428|RuCor_group_id=470851|Shift=8693
+10	мужчин	_	_	_	_	_	_	_	RuCor_chain_id=2428|RuCor_group_id=470851|Shift=8701
+11	воспринимается	_	_	_	_	_	_	_	Shift=8708
+12	женщиной	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2429|RuCor_group_id=470852|RuCor_link_id=0|Shift=8723
+13	как	_	_	_	_	_	_	_	Shift=8732
+14	свидетельство	_	_	_	_	_	_	_	Shift=8736
+15	её	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=2429|RuCor_group_id=470853|RuCor_link_id=470852|Shift=8750
+16	привлекательности	_	_	_	_	_	_	_	Shift=8753
+17	и	_	_	_	_	_	_	_	Shift=8771
+18	поэтому	_	_	_	_	_	_	_	Shift=8773
+19	едва	_	_	_	_	_	_	_	Shift=8781
+20	ли	_	_	_	_	_	_	_	Shift=8786
+21	не	_	_	_	_	_	_	_	Shift=8789
+22	как	_	_	_	_	_	_	_	Shift=8792
+23	желаемое	_	_	_	_	_	_	_	Shift=8796
+24	явление	_	_	_	_	_	_	_	Shift=8805|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=8813
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p74
+# par_text = Хочу не слышать сальных шуток и анекдотов от друзей , коллег , а также в интернете , по радио и со стороны прочих других СМИ .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p74-s1
+# text = Хочу не слышать сальных шуток и анекдотов от друзей, коллег, а также в интернете, по радио и со стороны прочих других СМИ.
+1	Хочу	_	_	_	_	_	_	_	Shift=8815
+2	не	_	_	_	_	_	_	_	Shift=8820
+3	слышать	_	_	_	_	_	_	_	Shift=8823
+4	сальных	_	_	_	_	_	_	_	Shift=8831
+5	шуток	_	_	_	_	_	_	_	Shift=8839
+6	и	_	_	_	_	_	_	_	Shift=8845
+7	анекдотов	_	_	_	_	_	_	_	Shift=8847
+8	от	_	_	_	_	_	_	_	Shift=8857
+9	друзей	_	_	_	_	_	_	_	Shift=8860|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=8867
+11	коллег	_	_	_	_	_	_	_	Shift=8869|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=8876
+13	а	_	_	_	_	_	_	_	Shift=8878
+14	также	_	_	_	_	_	_	_	Shift=8880
+15	в	_	_	_	_	_	_	_	Shift=8886
+16	интернете	_	_	_	_	_	_	_	Shift=8888|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=8898
+18	по	_	_	_	_	_	_	_	Shift=8900
+19	радио	_	_	_	_	_	_	_	Shift=8903
+20	и	_	_	_	_	_	_	_	Shift=8909
+21	со	_	_	_	_	_	_	_	Shift=8911
+22	стороны	_	_	_	_	_	_	_	Shift=8914
+23	прочих	_	_	_	_	_	_	_	Shift=8922
+24	других	_	_	_	_	_	_	_	Shift=8929
+25	СМИ	_	_	_	_	_	_	_	Shift=8936|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=8940
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p75
+# par_text = Особенно почему-то раздражают анекдоты про блондинку .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p75-s1
+# text = Особенно почему-то раздражают анекдоты про блондинку.
+1	Особенно	_	_	_	_	_	_	_	Shift=8942
+2	почему-то	_	_	_	_	_	_	_	Shift=8951
+3	раздражают	_	_	_	_	_	_	_	Shift=8961
+4	анекдоты	_	_	_	_	_	_	_	Shift=8972
+5	про	_	_	_	_	_	_	_	Shift=8981
+6	блондинку	_	_	_	_	_	_	_	Shift=8985|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=8995
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p76
+# par_text = Во-первых , надоело , потому что уже не смешно .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p76-s1
+# text = Во-первых, надоело, потому что уже не смешно.
+1	Во-первых	_	_	_	_	_	_	_	Shift=8997|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=9007
+3	надоело	_	_	_	_	_	_	_	Shift=9009|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=9017
+5	потому	_	_	_	_	_	_	_	Shift=9019
+6	что	_	_	_	_	_	_	_	Shift=9026
+7	уже	_	_	_	_	_	_	_	Shift=9030
+8	не	_	_	_	_	_	_	_	Shift=9034
+9	смешно	_	_	_	_	_	_	_	Shift=9037|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=9044
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p77
+# par_text = А во-вторых , почему , собственно , нет анекдотов про глупых блондинов ?
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p77-s1
+# text = А во-вторых, почему, собственно, нет анекдотов про глупых блондинов?
+1	А	_	_	_	_	_	_	_	Shift=9046
+2	во-вторых	_	_	_	_	_	_	_	Shift=9048|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=9058
+4	почему	_	_	_	_	_	_	_	Shift=9060|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=9067
+6	собственно	_	_	_	_	_	_	_	Shift=9069|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=9080
+8	нет	_	_	_	_	_	_	_	Shift=9082
+9	анекдотов	_	_	_	_	_	_	_	Shift=9086
+10	про	_	_	_	_	_	_	_	Shift=9096
+11	глупых	_	_	_	_	_	_	_	Shift=9100
+12	блондинов	_	_	_	_	_	_	_	Shift=9107|SpaceAfter=No
+13	?	_	_	_	_	_	_	_	Shift=9117
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p78
+# par_text = Хоть какое-то разнообразие было бы …
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p78-s1
+# text = Хоть какое-то разнообразие было бы...
+1	Хоть	_	_	_	_	_	_	_	Shift=9119
+2	какое-то	_	_	_	_	_	_	_	Shift=9124
+3	разнообразие	_	_	_	_	_	_	_	Shift=9133
+4	было	_	_	_	_	_	_	_	Shift=9146
+5	бы	_	_	_	_	_	_	_	Shift=9151|SpaceAfter=No
+6	...	_	_	_	_	_	_	_	Shift=9154
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p79
+# par_text = Хочу , чтобы меня не воспринимали как украшение стола и декоративный элемент прочих мероприятий .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p79-s1
+# text = Хочу, чтобы меня не воспринимали как украшение стола и декоративный элемент прочих мероприятий.
+1	Хочу	_	_	_	_	_	_	_	Shift=9156|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=9161
+3	чтобы	_	_	_	_	_	_	_	Shift=9163
+4	меня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2397|RuCor_group_id=470854|RuCor_link_id=470846|Shift=9169
+5	не	_	_	_	_	_	_	_	Shift=9174
+6	воспринимали	_	_	_	_	_	_	_	Shift=9177
+7	как	_	_	_	_	_	_	_	Shift=9190
+8	украшение	_	_	_	_	_	_	_	Shift=9194
+9	стола	_	_	_	_	_	_	_	Shift=9204
+10	и	_	_	_	_	_	_	_	Shift=9210
+11	декоративный	_	_	_	_	_	_	_	Shift=9212
+12	элемент	_	_	_	_	_	_	_	Shift=9225
+13	прочих	_	_	_	_	_	_	_	Shift=9233
+14	мероприятий	_	_	_	_	_	_	_	Shift=9240|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=9252
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p80
+# par_text = Хочу не бояться , когда иду одна по вечерней улице , да и не только по вечерней .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p80-s1
+# text = Хочу не бояться, когда иду одна по вечерней улице, да и не только по вечерней.
+1	Хочу	_	_	_	_	_	_	_	Shift=9254
+2	не	_	_	_	_	_	_	_	Shift=9259
+3	бояться	_	_	_	_	_	_	_	Shift=9262|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=9270
+5	когда	_	_	_	_	_	_	_	Shift=9272
+6	иду	_	_	_	_	_	_	_	Shift=9278
+7	одна	_	_	_	_	_	_	_	Shift=9282
+8	по	_	_	_	_	_	_	_	Shift=9287
+9	вечерней	_	_	_	_	_	_	_	Shift=9290
+10	улице	_	_	_	_	_	_	_	Shift=9299|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=9305
+12	да	_	_	_	_	_	_	_	Shift=9307
+13	и	_	_	_	_	_	_	_	Shift=9310
+14	не	_	_	_	_	_	_	_	Shift=9312
+15	только	_	_	_	_	_	_	_	Shift=9315
+16	по	_	_	_	_	_	_	_	Shift=9322
+17	вечерней	_	_	_	_	_	_	_	Shift=9325|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=9334
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p81
+# par_text = Меня бесит , когда кто-то заявляет , что жертва насилия сама же его ( насилие ) и спровоцировала , поскольку её юбка была короче , чем положено .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p81-s1
+# text = Меня бесит, когда кто-то заявляет, что жертва насилия сама же его (насилие) и спровоцировала, поскольку её юбка была короче, чем положено.
+1	Меня	_	_	_	_	_	_	_	Shift=9336
+2	бесит	_	_	_	_	_	_	_	Shift=9341|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=9347
+4	когда	_	_	_	_	_	_	_	Shift=9349
+5	кто-то	_	_	_	_	_	_	_	Shift=9355
+6	заявляет	_	_	_	_	_	_	_	Shift=9362|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=9371
+8	что	_	_	_	_	_	_	_	Shift=9373
+9	жертва	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2430|RuCor_group_id=470855|RuCor_link_id=0|Shift=9377
+10	насилия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2431|RuCor_group_id=470856|RuCor_link_id=0|Shift=9384
+11	сама	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=2430|RuCor_group_id=470857|RuCor_link_id=470855|Shift=9392
+12	же	_	_	_	_	_	_	_	Shift=9397
+13	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2431|RuCor_group_id=470858|RuCor_link_id=470856|Shift=9400
+14	(	_	_	_	_	_	_	_	Shift=9404|SpaceAfter=No
+15	насилие	_	_	_	_	_	_	_	Shift=9406|SpaceAfter=No
+16	)	_	_	_	_	_	_	_	Shift=9414
+17	и	_	_	_	_	_	_	_	Shift=9416
+18	спровоцировала	_	_	_	_	_	_	_	Shift=9418|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=9433
+20	поскольку	_	_	_	_	_	_	_	Shift=9435
+21	её	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=2430|RuCor_group_id=470859|RuCor_link_id=470857|Shift=9445
+22	юбка	_	_	_	_	_	_	_	Shift=9448
+23	была	_	_	_	_	_	_	_	Shift=9453
+24	короче	_	_	_	_	_	_	_	Shift=9458|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=9465
+26	чем	_	_	_	_	_	_	_	Shift=9467
+27	положено	_	_	_	_	_	_	_	Shift=9471|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=9480
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p82
+# par_text = Не слишком ли многого я хочу ?
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p82-s1
+# text = Не слишком ли многого я хочу?
+1	Не	_	_	_	_	_	_	_	Shift=9482
+2	слишком	_	_	_	_	_	_	_	Shift=9485
+3	ли	_	_	_	_	_	_	_	Shift=9493
+4	многого	_	_	_	_	_	_	_	Shift=9496
+5	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2397|RuCor_group_id=470860|RuCor_link_id=470854|Shift=9504
+6	хочу	_	_	_	_	_	_	_	Shift=9506|SpaceAfter=No
+7	?	_	_	_	_	_	_	_	Shift=9511
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p83
+# par_text = Думаю , что нет .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p83-s1
+# text = Думаю, что нет.
+1	Думаю	_	_	_	_	_	_	_	Shift=9513|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=9519
+3	что	_	_	_	_	_	_	_	Shift=9521
+4	нет	_	_	_	_	_	_	_	Shift=9525|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=9529
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p84
+# par_text = Мужчины же обладают этой привилегией — быть уважаемыми …
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p84-s1
+# text = Мужчины же обладают этой привилегией - быть уважаемыми...
+1	Мужчины	_	_	_	_	_	_	_	Shift=9531
+2	же	_	_	_	_	_	_	_	Shift=9539
+3	обладают	_	_	_	_	_	_	_	Shift=9542
+4	этой	_	_	_	_	_	_	_	Shift=9551
+5	привилегией	_	_	_	_	_	_	_	Shift=9556
+6	-	_	_	_	_	_	_	_	Shift=9568
+7	быть	_	_	_	_	_	_	_	Shift=9570
+8	уважаемыми	_	_	_	_	_	_	_	Shift=9575|SpaceAfter=No
+9	...	_	_	_	_	_	_	_	Shift=9586
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p85
+# par_text = И конец света не наступит , если начнут уважать и женщин .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p85-s1
+# text = И конец света не наступит, если начнут уважать и женщин.
+1	И	_	_	_	_	_	_	_	Shift=9588
+2	конец	_	_	_	_	_	_	_	Shift=9590
+3	света	_	_	_	_	_	_	_	Shift=9596
+4	не	_	_	_	_	_	_	_	Shift=9602
+5	наступит	_	_	_	_	_	_	_	Shift=9605|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=9614
+7	если	_	_	_	_	_	_	_	Shift=9616
+8	начнут	_	_	_	_	_	_	_	Shift=9621
+9	уважать	_	_	_	_	_	_	_	Shift=9628
+10	и	_	_	_	_	_	_	_	Shift=9636
+11	женщин	_	_	_	_	_	_	_	Shift=9638|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=9645
+
+# newpar id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p86
+# par_text = И не только 8 марта , а круглый год .
+# sent_id = c012b70c-e16c-4818-b7b3-b3634fc9893a-p86-s1
+# text = И не только 8 марта, а круглый год.
+1	И	_	_	_	_	_	_	_	Shift=9647
+2	не	_	_	_	_	_	_	_	Shift=9649
+3	только	_	_	_	_	_	_	_	Shift=9652
+4	8	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470861|Shift=9659
+5	марта	_	_	_	_	_	_	_	RuCor_chain_id=2401|RuCor_group_id=470861|Shift=9661|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=9667
+7	а	_	_	_	_	_	_	_	Shift=9669
+8	круглый	_	_	_	_	_	_	_	Shift=9671
+9	год	_	_	_	_	_	_	_	Shift=9679|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	_
+

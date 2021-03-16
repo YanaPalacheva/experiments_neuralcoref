@@ -1,0 +1,64 @@
+#begin document (paw/wsj_1945.pl); part 000
+paw/wsj_1945.pl	0	0	Firma	_	_	_	_	_	_	(1
+paw/wsj_1945.pl	0	1	T	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	2	.	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	3	Rowe	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	4	Price	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	5	Associates	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	6	Inc	_	_	_	_	_	_	1)
+paw/wsj_1945.pl	0	7	.	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	8	oznajmiła	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	9	,	_	_	_	_	_	_	(2
+paw/wsj_1945.pl	0	10	że	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	11	dyrektorowie	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	12	zarekomendowali	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	13	akcjonariuszom	_	_	_	_	_	_	(3)
+paw/wsj_1945.pl	0	14	wyrażenie	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	15	zgody	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	16	na	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	17	podział	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	18	akcji	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	19	według	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	20	zasady	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	21	„2-za-1	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	22	”	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	23	i	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	24	wzrost	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	25	liczby	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	26	statutowych	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	27	akcji	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	28	z	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	29	10	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	30	mln	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	31	do	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	32	25	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	33	mln	_	_	_	_	_	_	2)
+paw/wsj_1945.pl	0	34	.	_	_	_	_	_	_	-
+
+paw/wsj_1945.pl	0	0	Akcjonariusze	_	_	_	_	_	_	(3)
+paw/wsj_1945.pl	0	1	zagłosują	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	2	nad	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	3	propozycją	_	_	_	_	_	_	(2)
+paw/wsj_1945.pl	0	4	na	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	5	spotkaniu	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	6	13	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	7	grudnia	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	8	.	_	_	_	_	_	_	-
+
+paw/wsj_1945.pl	0	0	T	_	_	_	_	_	_	(1
+paw/wsj_1945.pl	0	1	.	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	2	Rowe	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	3	Price	_	_	_	_	_	_	1)
+paw/wsj_1945.pl	0	4	to	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	5	doradca	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	6	inwestycyjny	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	7	funduszy	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	8	wzajemnych	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	9	,	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	10	instytucji	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	11	i	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	12	osób	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	13	prywatnych	_	_	_	_	_	_	-
+paw/wsj_1945.pl	0	14	.	_	_	_	_	_	_	-
+
+#end document 

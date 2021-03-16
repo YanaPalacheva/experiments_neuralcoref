@@ -1,0 +1,1504 @@
+# newdoc id = c72bd931-6e1e-4948-9037-e8f728acbfef
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p1
+# par_text = Внутри 22-й Московской международной книжной выставки - ярмарки , проходившей в начале сентября 2009 года на ВВЦ , работала внутренняя выставка — « Книгабайт » , посвящённая электронному книгоизданию .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p1-s1
+# text = Внутри 22-й Московской международной книжной выставки - ярмарки, проходившей в начале сентября 2009 года на ВВЦ, работала внутренняя выставка - ``Книгабайт ``, посвящённая электронному книгоизданию.
+1	Внутри	_	_	_	_	_	_	_	Shift=0
+2	22-й	_	_	_	_	_	_	_	Shift=7
+3	Московской	_	_	_	_	_	_	_	Shift=12
+4	международной	_	_	_	_	_	_	_	Shift=23
+5	книжной	_	_	_	_	_	_	_	Shift=37
+6	выставки	_	_	_	_	_	_	_	Shift=45
+7	-	_	_	_	_	_	_	_	Shift=54
+8	ярмарки	_	_	_	_	_	_	_	Shift=56|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=64
+10	проходившей	_	_	_	_	_	_	_	Shift=66
+11	в	_	_	_	_	_	_	_	Shift=78
+12	начале	_	_	_	_	_	_	_	Shift=80
+13	сентября	_	_	_	_	_	_	_	Shift=87
+14	2009	_	_	_	_	_	_	_	Shift=96
+15	года	_	_	_	_	_	_	_	Shift=101
+16	на	_	_	_	_	_	_	_	Shift=106
+17	ВВЦ	_	_	_	_	_	_	_	Shift=109|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=113
+19	работала	_	_	_	_	_	_	_	Shift=115
+20	внутренняя	_	_	_	_	_	_	_	RuCor_chain_id=2677|RuCor_group_id=471768|Shift=124
+21	выставка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2677|RuCor_group_id=471768|RuCor_link_id=0|Shift=135
+22	-	_	_	_	_	_	_	_	Shift=144
+23	``	_	_	_	_	_	_	_	RuCor_chain_id=2677|RuCor_group_id=471769|Shift=146|SpaceAfter=No
+24	Книгабайт	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=appo|RuCor_attrs_type=coref|RuCor_chain_id=2677|RuCor_group_id=471769|RuCor_link_id=471768|Shift=148
+25	``	_	_	_	_	_	_	_	RuCor_chain_id=2677|RuCor_group_id=471769|Shift=158|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	Shift=160
+27	посвящённая	_	_	_	_	_	_	_	Shift=162
+28	электронному	_	_	_	_	_	_	_	Shift=174
+29	книгоизданию	_	_	_	_	_	_	_	Shift=187|SpaceAfter=No
+30	.	_	_	_	_	_	_	_	Shift=200
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p2
+# par_text = И хотя место экспозиция занимала скромное , да и участников у неё тоже немного , но по их бодрым , в отличие от большинства издателей , лицам было понятно — у них всё хорошо .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p2-s1
+# text = И хотя место экспозиция занимала скромное, да и участников у неё тоже немного, но по их бодрым, в отличие от большинства издателей, лицам было понятно - у них всё хорошо.
+1	И	_	_	_	_	_	_	_	Shift=202
+2	хотя	_	_	_	_	_	_	_	Shift=204
+3	место	_	_	_	_	_	_	_	Shift=209
+4	экспозиция	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2677|RuCor_group_id=471770|RuCor_link_id=471768|Shift=215
+5	занимала	_	_	_	_	_	_	_	Shift=226
+6	скромное	_	_	_	_	_	_	_	Shift=235|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=244
+8	да	_	_	_	_	_	_	_	Shift=246
+9	и	_	_	_	_	_	_	_	Shift=249
+10	участников	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2678|RuCor_group_id=471771|RuCor_link_id=0|Shift=251
+11	у	_	_	_	_	_	_	_	Shift=262
+12	неё	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2677|RuCor_group_id=471772|RuCor_link_id=471770|Shift=264
+13	тоже	_	_	_	_	_	_	_	Shift=268
+14	немного	_	_	_	_	_	_	_	Shift=273|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=281
+16	но	_	_	_	_	_	_	_	Shift=283
+17	по	_	_	_	_	_	_	_	Shift=286
+18	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2678|RuCor_group_id=471773|RuCor_link_id=471771|Shift=289
+19	бодрым	_	_	_	_	_	_	_	Shift=292|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=299
+21	в	_	_	_	_	_	_	_	Shift=301
+22	отличие	_	_	_	_	_	_	_	Shift=303
+23	от	_	_	_	_	_	_	_	Shift=311
+24	большинства	_	_	_	_	_	_	_	Shift=314
+25	издателей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2679|RuCor_group_id=471774|RuCor_link_id=0|Shift=326|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	Shift=336
+27	лицам	_	_	_	_	_	_	_	Shift=338
+28	было	_	_	_	_	_	_	_	Shift=344
+29	понятно	_	_	_	_	_	_	_	Shift=349
+30	-	_	_	_	_	_	_	_	Shift=357
+31	у	_	_	_	_	_	_	_	Shift=359
+32	них	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2678|RuCor_group_id=471775|RuCor_link_id=471773|Shift=361
+33	всё	_	_	_	_	_	_	_	Shift=365
+34	хорошо	_	_	_	_	_	_	_	Shift=369|SpaceAfter=No
+35	.	_	_	_	_	_	_	_	Shift=376
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p3
+# par_text = Крах целой отрасли начался без паники .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p3-s1
+# text = Крах целой отрасли начался без паники.
+1	Крах	_	_	_	_	_	_	_	Shift=378
+2	целой	_	_	_	_	_	_	_	Shift=383
+3	отрасли	_	_	_	_	_	_	_	Shift=389
+4	начался	_	_	_	_	_	_	_	Shift=397
+5	без	_	_	_	_	_	_	_	Shift=405
+6	паники	_	_	_	_	_	_	_	Shift=409|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=416
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p4
+# par_text = Особо тревожных нот тоже слышно не было .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p4-s1
+# text = Особо тревожных нот тоже слышно не было.
+1	Особо	_	_	_	_	_	_	_	Shift=418
+2	тревожных	_	_	_	_	_	_	_	Shift=424
+3	нот	_	_	_	_	_	_	_	Shift=434
+4	тоже	_	_	_	_	_	_	_	Shift=438
+5	слышно	_	_	_	_	_	_	_	Shift=443
+6	не	_	_	_	_	_	_	_	Shift=450
+7	было	_	_	_	_	_	_	_	Shift=453|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=458
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p5
+# par_text = Точнее , услышать что-либо было вообще сложно , поскольку издатели книг бумажных пустились во все тяжкие и , помимо традиционных встреч с известными авторами , устраивали на своих стендах песни и пляски народов СССР .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p5-s1
+# text = Точнее, услышать что-либо было вообще сложно, поскольку издатели книг бумажных пустились во все тяжкие и, помимо традиционных встреч с известными авторами, устраивали на своих стендах песни и пляски народов СССР.
+1	Точнее	_	_	_	_	_	_	_	Shift=460|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=467
+3	услышать	_	_	_	_	_	_	_	Shift=469
+4	что-либо	_	_	_	_	_	_	_	Shift=478
+5	было	_	_	_	_	_	_	_	Shift=487
+6	вообще	_	_	_	_	_	_	_	Shift=492
+7	сложно	_	_	_	_	_	_	_	Shift=499|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=506
+9	поскольку	_	_	_	_	_	_	_	Shift=508
+10	издатели	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2679|RuCor_group_id=471777|RuCor_link_id=471774|Shift=518
+11	книг	_	_	_	_	_	_	_	RuCor_chain_id=2679|RuCor_group_id=471777|Shift=527
+12	бумажных	_	_	_	_	_	_	_	RuCor_chain_id=2679|RuCor_group_id=471777|Shift=532
+13	пустились	_	_	_	_	_	_	_	Shift=541
+14	во	_	_	_	_	_	_	_	Shift=551
+15	все	_	_	_	_	_	_	_	Shift=554
+16	тяжкие	_	_	_	_	_	_	_	Shift=558
+17	и	_	_	_	_	_	_	_	Shift=565|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=567
+19	помимо	_	_	_	_	_	_	_	Shift=569
+20	традиционных	_	_	_	_	_	_	_	Shift=576
+21	встреч	_	_	_	_	_	_	_	Shift=589
+22	с	_	_	_	_	_	_	_	Shift=596
+23	известными	_	_	_	_	_	_	_	Shift=598
+24	авторами	_	_	_	_	_	_	_	Shift=609|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=618
+26	устраивали	_	_	_	_	_	_	_	Shift=620
+27	на	_	_	_	_	_	_	_	Shift=631
+28	своих	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=2680|RuCor_group_id=471778|RuCor_link_id=471776|Shift=634
+29	стендах	_	_	_	_	_	_	_	Shift=640
+30	песни	_	_	_	_	_	_	_	Shift=648
+31	и	_	_	_	_	_	_	_	Shift=654
+32	пляски	_	_	_	_	_	_	_	Shift=656
+33	народов	_	_	_	_	_	_	_	Shift=663
+34	СССР	_	_	_	_	_	_	_	Shift=671|SpaceAfter=No
+35	.	_	_	_	_	_	_	_	Shift=676
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p6
+# par_text = Мерное гудение установленной на стенде Xerox полноценной мини-типографии для печати книг по требованию казалось вполне мирным , а ритмичные звуки , издаваемые автоматическим книжным сканером , похожим одновременно на пыточные устройства маркиза де Сада и электрическую гильотину , погружали в печальные думы о судьбе книги .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p6-s1
+# text = Мерное гудение установленной на стенде Xerox полноценной мини-типографии для печати книг по требованию казалось вполне мирным, а ритмичные звуки, издаваемые автоматическим книжным сканером, похожим одновременно на пыточные устройства маркиза де Сада и электрическую гильотину, погружали в печальные думы о судьбе книги.
+1	Мерное	_	_	_	_	_	_	_	Shift=678
+2	гудение	_	_	_	_	_	_	_	Shift=685
+3	установленной	_	_	_	_	_	_	_	RuCor_chain_id=2681|RuCor_group_id=471779|Shift=693
+4	на	_	_	_	_	_	_	_	RuCor_chain_id=2681|RuCor_group_id=471779|Shift=707
+5	стенде	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2682|RuCor_group_id=471780|RuCor_link_id=0|Shift=710
+6	Xerox	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2683|RuCor_group_id=471781|RuCor_link_id=0|Shift=717
+7	полноценной	_	_	_	_	_	_	_	RuCor_chain_id=2681|RuCor_group_id=471779|Shift=723
+8	мини-типографии	_	_	_	_	_	_	_	Shift=735
+9	для	_	_	_	_	_	_	_	RuCor_chain_id=2681|RuCor_group_id=471779|Shift=751
+10	печати	_	_	_	_	_	_	_	RuCor_chain_id=2681|RuCor_group_id=471779|Shift=755
+11	книг	_	_	_	_	_	_	_	RuCor_chain_id=2681|RuCor_group_id=471779|Shift=762
+12	по	_	_	_	_	_	_	_	RuCor_chain_id=2681|RuCor_group_id=471779|Shift=767
+13	требованию	_	_	_	_	_	_	_	RuCor_chain_id=2681|RuCor_group_id=471779|Shift=770
+14	казалось	_	_	_	_	_	_	_	Shift=781
+15	вполне	_	_	_	_	_	_	_	Shift=790
+16	мирным	_	_	_	_	_	_	_	Shift=797|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=804
+18	а	_	_	_	_	_	_	_	Shift=806
+19	ритмичные	_	_	_	_	_	_	_	Shift=808
+20	звуки	_	_	_	_	_	_	_	Shift=818|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=824
+22	издаваемые	_	_	_	_	_	_	_	Shift=826
+23	автоматическим	_	_	_	_	_	_	_	RuCor_chain_id=2686|RuCor_group_id=471782|Shift=837
+24	книжным	_	_	_	_	_	_	_	RuCor_chain_id=2686|RuCor_group_id=471782|Shift=852
+25	сканером	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2686|RuCor_group_id=471782|RuCor_link_id=471789|Shift=860|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	Shift=869
+27	похожим	_	_	_	_	_	_	_	Shift=871
+28	одновременно	_	_	_	_	_	_	_	Shift=879
+29	на	_	_	_	_	_	_	_	Shift=892
+30	пыточные	_	_	_	_	_	_	_	Shift=895
+31	устройства	_	_	_	_	_	_	_	Shift=904
+32	маркиза	_	_	_	_	_	_	_	Shift=915
+33	де	_	_	_	_	_	_	_	Shift=923
+34	Сада	_	_	_	_	_	_	_	Shift=926
+35	и	_	_	_	_	_	_	_	Shift=931
+36	электрическую	_	_	_	_	_	_	_	Shift=933
+37	гильотину	_	_	_	_	_	_	_	Shift=947|SpaceAfter=No
+38	,	_	_	_	_	_	_	_	Shift=957
+39	погружали	_	_	_	_	_	_	_	Shift=959
+40	в	_	_	_	_	_	_	_	Shift=969
+41	печальные	_	_	_	_	_	_	_	Shift=971
+42	думы	_	_	_	_	_	_	_	Shift=981
+43	о	_	_	_	_	_	_	_	Shift=986
+44	судьбе	_	_	_	_	_	_	_	Shift=988
+45	книги	_	_	_	_	_	_	_	Shift=995|SpaceAfter=No
+46	.	_	_	_	_	_	_	_	Shift=1001
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p7
+# par_text = Вот коробка с фотоэлементами и лампами подсветки опускается к раскрытой книге , начинает подниматься , включая мигающую подсветку , страница автоматически переворачивается , коробка опускается снова .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p7-s1
+# text = Вот коробка с фотоэлементами и лампами подсветки опускается к раскрытой книге, начинает подниматься, включая мигающую подсветку, страница автоматически переворачивается, коробка опускается снова.
+1	Вот	_	_	_	_	_	_	_	Shift=1003
+2	коробка	_	_	_	_	_	_	_	Shift=1007
+3	с	_	_	_	_	_	_	_	Shift=1015
+4	фотоэлементами	_	_	_	_	_	_	_	Shift=1017
+5	и	_	_	_	_	_	_	_	Shift=1032
+6	лампами	_	_	_	_	_	_	_	Shift=1034
+7	подсветки	_	_	_	_	_	_	_	Shift=1042
+8	опускается	_	_	_	_	_	_	_	Shift=1052
+9	к	_	_	_	_	_	_	_	Shift=1063
+10	раскрытой	_	_	_	_	_	_	_	Shift=1065
+11	книге	_	_	_	_	_	_	_	Shift=1075|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=1081
+13	начинает	_	_	_	_	_	_	_	Shift=1083
+14	подниматься	_	_	_	_	_	_	_	Shift=1092|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=1104
+16	включая	_	_	_	_	_	_	_	Shift=1106
+17	мигающую	_	_	_	_	_	_	_	Shift=1114
+18	подсветку	_	_	_	_	_	_	_	Shift=1123|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=1133
+20	страница	_	_	_	_	_	_	_	Shift=1135
+21	автоматически	_	_	_	_	_	_	_	Shift=1144
+22	переворачивается	_	_	_	_	_	_	_	Shift=1158|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=1175
+24	коробка	_	_	_	_	_	_	_	Shift=1177
+25	опускается	_	_	_	_	_	_	_	Shift=1185
+26	снова	_	_	_	_	_	_	_	Shift=1196|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=1202
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p8
+# par_text = И так 1700 страниц в час .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p8-s1
+# text = И так 1700 страниц в час.
+1	И	_	_	_	_	_	_	_	Shift=1204
+2	так	_	_	_	_	_	_	_	Shift=1206
+3	1700	_	_	_	_	_	_	_	Shift=1210
+4	страниц	_	_	_	_	_	_	_	Shift=1215
+5	в	_	_	_	_	_	_	_	Shift=1223
+6	час	_	_	_	_	_	_	_	Shift=1225|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=1229
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p9
+# par_text = За 2 секунды — страница .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p9-s1
+# text = За 2 секунды - страница.
+1	За	_	_	_	_	_	_	_	Shift=1231
+2	2	_	_	_	_	_	_	_	Shift=1234
+3	секунды	_	_	_	_	_	_	_	Shift=1236
+4	-	_	_	_	_	_	_	_	Shift=1244
+5	страница	_	_	_	_	_	_	_	Shift=1246|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=1255
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p10
+# par_text = Теперь вы знаете , с какой скоростью умирают бумажные книги .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p10-s1
+# text = Теперь вы знаете, с какой скоростью умирают бумажные книги.
+1	Теперь	_	_	_	_	_	_	_	Shift=1257
+2	вы	_	_	_	_	_	_	_	Shift=1264
+3	знаете	_	_	_	_	_	_	_	Shift=1267|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1274
+5	с	_	_	_	_	_	_	_	Shift=1276
+6	какой	_	_	_	_	_	_	_	Shift=1278
+7	скоростью	_	_	_	_	_	_	_	Shift=1284
+8	умирают	_	_	_	_	_	_	_	Shift=1294
+9	бумажные	_	_	_	_	_	_	_	Shift=1302
+10	книги	_	_	_	_	_	_	_	Shift=1311|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=1317
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p11
+# par_text = На лицах представителей одного из участников « Книгабайта » — корпорации « Электронный архив » , которая трудится на ниве оцифровки всего , на чём есть буквы , — печали , однако , заметно не было .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p11-s1
+# text = На лицах представителей одного из участников ``Книгабайта ``- корпорации ``Электронный архив ``, которая трудится на ниве оцифровки всего, на чём есть буквы, - печали, однако, заметно не было.
+1	На	_	_	_	_	_	_	_	Shift=1319
+2	лицах	_	_	_	_	_	_	_	Shift=1322
+3	представителей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2684|RuCor_group_id=471783|RuCor_link_id=0|Shift=1328
+4	одного	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2685|RuCor_group_id=471784|RuCor_link_id=0|Shift=1343
+5	из	_	_	_	_	_	_	_	RuCor_chain_id=2685|RuCor_group_id=471784|Shift=1350
+6	участников	_	_	_	_	_	_	_	RuCor_chain_id=2685|RuCor_group_id=471784|Shift=1353
+7	``	_	_	_	_	_	_	_	RuCor_chain_id=2685|RuCor_group_id=471784|Shift=1364|SpaceAfter=No
+8	Книгабайта	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2677|RuCor_group_id=471785|RuCor_link_id=471772|Shift=1366
+9	``	_	_	_	_	_	_	_	RuCor_chain_id=2685|RuCor_group_id=471784|Shift=1377|SpaceAfter=No
+10	-	_	_	_	_	_	_	_	RuCor_chain_id=2684|RuCor_group_id=471783|Shift=1379
+11	корпорации	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2685|RuCor_group_id=471786|RuCor_link_id=471784|Shift=1381
+12	``	_	_	_	_	_	_	_	RuCor_chain_id=2685|RuCor_group_id=471786|Shift=1392|SpaceAfter=No
+13	Электронный	_	_	_	_	_	_	_	RuCor_chain_id=2685|RuCor_group_id=471786|Shift=1394
+14	архив	_	_	_	_	_	_	_	RuCor_chain_id=2685|RuCor_group_id=471786|Shift=1406
+15	``	_	_	_	_	_	_	_	RuCor_chain_id=2685|RuCor_group_id=471786|Shift=1412|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=1414
+17	которая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2685|RuCor_group_id=471787|RuCor_link_id=471786|Shift=1416
+18	трудится	_	_	_	_	_	_	_	Shift=1424
+19	на	_	_	_	_	_	_	_	Shift=1433
+20	ниве	_	_	_	_	_	_	_	Shift=1436
+21	оцифровки	_	_	_	_	_	_	_	Shift=1441
+22	всего	_	_	_	_	_	_	_	Shift=1451|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=1457
+24	на	_	_	_	_	_	_	_	Shift=1459
+25	чём	_	_	_	_	_	_	_	Shift=1462
+26	есть	_	_	_	_	_	_	_	Shift=1466
+27	буквы	_	_	_	_	_	_	_	Shift=1471|SpaceAfter=No
+28	,	_	_	_	_	_	_	_	Shift=1477
+29	-	_	_	_	_	_	_	_	Shift=1479
+30	печали	_	_	_	_	_	_	_	Shift=1481|SpaceAfter=No
+31	,	_	_	_	_	_	_	_	Shift=1488
+32	однако	_	_	_	_	_	_	_	Shift=1490|SpaceAfter=No
+33	,	_	_	_	_	_	_	_	Shift=1497
+34	заметно	_	_	_	_	_	_	_	Shift=1499
+35	не	_	_	_	_	_	_	_	Shift=1507
+36	было	_	_	_	_	_	_	_	Shift=1510|SpaceAfter=No
+37	.	_	_	_	_	_	_	_	Shift=1515
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p12
+# par_text = Они энергично засовывали новые и новые старые книги в нутро книжного сканера , бодро демонстрировали работу программы оцифровки и архивирования , гордо хвастались тем , что целиком оцифровали все диссертации в Российской государственной библиотеке , и поработали на Президентскую библиотеку , и оцифровали все издания XIX века в Архангельской областной библиотеке , и что-то там ( высоко поднятые брови ) по лицензии по работе с секретными документами …
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p12-s1
+# text = Они энергично засовывали новые и новые старые книги в нутро книжного сканера, бодро демонстрировали работу программы оцифровки и архивирования, гордо хвастались тем, что целиком оцифровали все диссертации в Российской государственной библиотеке, и поработали на Президентскую библиотеку, и оцифровали все издания XIX века в Архангельской областной библиотеке, и что-то там (высоко поднятые брови) по лицензии по работе с секретными документами...
+1	Они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2684|RuCor_group_id=471788|RuCor_link_id=471783|Shift=1517
+2	энергично	_	_	_	_	_	_	_	Shift=1521
+3	засовывали	_	_	_	_	_	_	_	Shift=1531
+4	новые	_	_	_	_	_	_	_	Shift=1542
+5	и	_	_	_	_	_	_	_	Shift=1548
+6	новые	_	_	_	_	_	_	_	Shift=1550
+7	старые	_	_	_	_	_	_	_	Shift=1556
+8	книги	_	_	_	_	_	_	_	Shift=1563
+9	в	_	_	_	_	_	_	_	Shift=1569
+10	нутро	_	_	_	_	_	_	_	Shift=1571
+11	книжного	_	_	_	_	_	_	_	RuCor_chain_id=2686|RuCor_group_id=471789|Shift=1577
+12	сканера	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2686|RuCor_group_id=471789|RuCor_link_id=0|Shift=1586|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=1594
+14	бодро	_	_	_	_	_	_	_	Shift=1596
+15	демонстрировали	_	_	_	_	_	_	_	Shift=1602
+16	работу	_	_	_	_	_	_	_	Shift=1618
+17	программы	_	_	_	_	_	_	_	Shift=1625
+18	оцифровки	_	_	_	_	_	_	_	Shift=1635
+19	и	_	_	_	_	_	_	_	Shift=1645
+20	архивирования	_	_	_	_	_	_	_	Shift=1647|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=1661
+22	гордо	_	_	_	_	_	_	_	Shift=1663
+23	хвастались	_	_	_	_	_	_	_	Shift=1669
+24	тем	_	_	_	_	_	_	_	Shift=1680|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=1684
+26	что	_	_	_	_	_	_	_	Shift=1686
+27	целиком	_	_	_	_	_	_	_	Shift=1690
+28	оцифровали	_	_	_	_	_	_	_	Shift=1698
+29	все	_	_	_	_	_	_	_	Shift=1709
+30	диссертации	_	_	_	_	_	_	_	Shift=1713
+31	в	_	_	_	_	_	_	_	Shift=1725
+32	Российской	_	_	_	_	_	_	_	Shift=1727
+33	государственной	_	_	_	_	_	_	_	Shift=1738
+34	библиотеке	_	_	_	_	_	_	_	Shift=1754|SpaceAfter=No
+35	,	_	_	_	_	_	_	_	Shift=1765
+36	и	_	_	_	_	_	_	_	Shift=1767
+37	поработали	_	_	_	_	_	_	_	Shift=1769
+38	на	_	_	_	_	_	_	_	Shift=1780
+39	Президентскую	_	_	_	_	_	_	_	Shift=1783
+40	библиотеку	_	_	_	_	_	_	_	Shift=1797|SpaceAfter=No
+41	,	_	_	_	_	_	_	_	Shift=1808
+42	и	_	_	_	_	_	_	_	Shift=1810
+43	оцифровали	_	_	_	_	_	_	_	Shift=1812
+44	все	_	_	_	_	_	_	_	Shift=1823
+45	издания	_	_	_	_	_	_	_	Shift=1827
+46	XIX	_	_	_	_	_	_	_	Shift=1835
+47	века	_	_	_	_	_	_	_	Shift=1839
+48	в	_	_	_	_	_	_	_	Shift=1844
+49	Архангельской	_	_	_	_	_	_	_	Shift=1846
+50	областной	_	_	_	_	_	_	_	Shift=1860
+51	библиотеке	_	_	_	_	_	_	_	Shift=1870|SpaceAfter=No
+52	,	_	_	_	_	_	_	_	Shift=1881
+53	и	_	_	_	_	_	_	_	Shift=1883
+54	что-то	_	_	_	_	_	_	_	Shift=1885
+55	там	_	_	_	_	_	_	_	Shift=1892
+56	(	_	_	_	_	_	_	_	Shift=1896|SpaceAfter=No
+57	высоко	_	_	_	_	_	_	_	Shift=1898
+58	поднятые	_	_	_	_	_	_	_	Shift=1905
+59	брови	_	_	_	_	_	_	_	Shift=1914|SpaceAfter=No
+60	)	_	_	_	_	_	_	_	Shift=1920
+61	по	_	_	_	_	_	_	_	Shift=1922
+62	лицензии	_	_	_	_	_	_	_	Shift=1925
+63	по	_	_	_	_	_	_	_	Shift=1934
+64	работе	_	_	_	_	_	_	_	Shift=1937
+65	с	_	_	_	_	_	_	_	Shift=1944
+66	секретными	_	_	_	_	_	_	_	Shift=1946
+67	документами	_	_	_	_	_	_	_	Shift=1957|SpaceAfter=No
+68	...	_	_	_	_	_	_	_	Shift=1969
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p13
+# par_text = И радость была на их лицах .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p13-s1
+# text = И радость была на их лицах.
+1	И	_	_	_	_	_	_	_	Shift=1971
+2	радость	_	_	_	_	_	_	_	Shift=1973
+3	была	_	_	_	_	_	_	_	Shift=1981
+4	на	_	_	_	_	_	_	_	Shift=1986
+5	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2684|RuCor_group_id=471790|RuCor_link_id=471788|Shift=1989
+6	лицах	_	_	_	_	_	_	_	Shift=1992|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=1998
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p14
+# par_text = Потому что к ним подходили не такие весёлые издатели и грустно интересовались , почём стоит оцифровать и их книги тоже .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p14-s1
+# text = Потому что к ним подходили не такие весёлые издатели и грустно интересовались, почём стоит оцифровать и их книги тоже.
+1	Потому	_	_	_	_	_	_	_	Shift=2000
+2	что	_	_	_	_	_	_	_	Shift=2007
+3	к	_	_	_	_	_	_	_	Shift=2011
+4	ним	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2684|RuCor_group_id=471791|RuCor_link_id=471790|Shift=2013
+5	подходили	_	_	_	_	_	_	_	Shift=2017
+6	не	_	_	_	_	_	_	_	Shift=2027
+7	такие	_	_	_	_	_	_	_	Shift=2030
+8	весёлые	_	_	_	_	_	_	_	Shift=2036
+9	издатели	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2679|RuCor_group_id=471792|RuCor_link_id=471777|Shift=2044
+10	и	_	_	_	_	_	_	_	Shift=2053
+11	грустно	_	_	_	_	_	_	_	Shift=2055
+12	интересовались	_	_	_	_	_	_	_	Shift=2063|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=2078
+14	почём	_	_	_	_	_	_	_	Shift=2080
+15	стоит	_	_	_	_	_	_	_	Shift=2086
+16	оцифровать	_	_	_	_	_	_	_	Shift=2092
+17	и	_	_	_	_	_	_	_	Shift=2103
+18	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=2687|RuCor_group_id=471794|RuCor_link_id=471793|Shift=2105
+19	книги	_	_	_	_	_	_	_	Shift=2108
+20	тоже	_	_	_	_	_	_	_	Shift=2114|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=2119
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p15
+# par_text = Было , правда , не очень понятно , почему грустят издатели — то ли им было жалко денег ( совсем недорого , кстати , по рубль двадцать за 2 секунды работы сканера ) , то ли они грустили , что Google с его сервисом Google Books далеко , то ли предчувствовали , что в этом сканере их жизнь и закончится .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p15-s1
+# text = Было, правда, не очень понятно, почему грустят издатели - то ли им было жалко денег (совсем недорого, кстати, по рубль двадцать за 2 секунды работы сканера), то ли они грустили, что Google с его сервисом Google Books далеко, то ли предчувствовали, что в этом сканере их жизнь и закончится.
+1	Было	_	_	_	_	_	_	_	Shift=2121|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=2126
+3	правда	_	_	_	_	_	_	_	Shift=2128|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2135
+5	не	_	_	_	_	_	_	_	Shift=2137
+6	очень	_	_	_	_	_	_	_	Shift=2140
+7	понятно	_	_	_	_	_	_	_	Shift=2146|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=2154
+9	почему	_	_	_	_	_	_	_	Shift=2156
+10	грустят	_	_	_	_	_	_	_	Shift=2163
+11	издатели	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2679|RuCor_group_id=471796|RuCor_link_id=471792|Shift=2171
+12	-	_	_	_	_	_	_	_	Shift=2180
+13	то	_	_	_	_	_	_	_	Shift=2182
+14	ли	_	_	_	_	_	_	_	Shift=2185
+15	им	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2688|RuCor_group_id=471797|RuCor_link_id=471795|Shift=2188
+16	было	_	_	_	_	_	_	_	Shift=2191
+17	жалко	_	_	_	_	_	_	_	Shift=2196
+18	денег	_	_	_	_	_	_	_	Shift=2202
+19	(	_	_	_	_	_	_	_	Shift=2208|SpaceAfter=No
+20	совсем	_	_	_	_	_	_	_	Shift=2210
+21	недорого	_	_	_	_	_	_	_	Shift=2217|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=2226
+23	кстати	_	_	_	_	_	_	_	Shift=2228|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=2235
+25	по	_	_	_	_	_	_	_	Shift=2237
+26	рубль	_	_	_	_	_	_	_	Shift=2240
+27	двадцать	_	_	_	_	_	_	_	Shift=2246
+28	за	_	_	_	_	_	_	_	Shift=2255
+29	2	_	_	_	_	_	_	_	Shift=2258
+30	секунды	_	_	_	_	_	_	_	Shift=2260
+31	работы	_	_	_	_	_	_	_	Shift=2268
+32	сканера	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2689|RuCor_group_id=471798|RuCor_link_id=0|Shift=2275|SpaceAfter=No
+33	)	_	_	_	_	_	_	_	Shift=2283|SpaceAfter=No
+34	,	_	_	_	_	_	_	_	Shift=2285
+35	то	_	_	_	_	_	_	_	Shift=2287
+36	ли	_	_	_	_	_	_	_	Shift=2290
+37	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2688|RuCor_group_id=471799|RuCor_link_id=471797|Shift=2293
+38	грустили	_	_	_	_	_	_	_	Shift=2297|SpaceAfter=No
+39	,	_	_	_	_	_	_	_	Shift=2306
+40	что	_	_	_	_	_	_	_	Shift=2308
+41	Google	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2690|RuCor_group_id=471800|RuCor_link_id=0|Shift=2312
+42	с	_	_	_	_	_	_	_	Shift=2319
+43	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2690|RuCor_group_id=471801|RuCor_link_id=471800|Shift=2321
+44	сервисом	_	_	_	_	_	_	_	Shift=2325
+45	Google	_	_	_	_	_	_	_	Shift=2334
+46	Books	_	_	_	_	_	_	_	Shift=2341
+47	далеко	_	_	_	_	_	_	_	Shift=2347|SpaceAfter=No
+48	,	_	_	_	_	_	_	_	Shift=2354
+49	то	_	_	_	_	_	_	_	Shift=2356
+50	ли	_	_	_	_	_	_	_	Shift=2359
+51	предчувствовали	_	_	_	_	_	_	_	Shift=2362|SpaceAfter=No
+52	,	_	_	_	_	_	_	_	Shift=2378
+53	что	_	_	_	_	_	_	_	Shift=2380
+54	в	_	_	_	_	_	_	_	Shift=2384
+55	этом	_	_	_	_	_	_	_	RuCor_chain_id=2689|RuCor_group_id=471802|Shift=2386
+56	сканере	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2689|RuCor_group_id=471802|RuCor_link_id=471798|Shift=2391
+57	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2688|RuCor_group_id=471803|RuCor_link_id=471795|Shift=2399
+58	жизнь	_	_	_	_	_	_	_	Shift=2402
+59	и	_	_	_	_	_	_	_	Shift=2408
+60	закончится	_	_	_	_	_	_	_	Shift=2410|SpaceAfter=No
+61	.	_	_	_	_	_	_	_	Shift=2421
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p16
+# par_text = В « Эларе » тоже чувствуют , что издатели никуда не денутся .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p16-s1
+# text = В ``Эларе ``тоже чувствуют, что издатели никуда не денутся.
+1	В	_	_	_	_	_	_	_	Shift=2423
+2	``	_	_	_	_	_	_	_	Shift=2425|SpaceAfter=No
+3	Эларе	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2685|RuCor_group_id=471804|RuCor_link_id=471786|Shift=2427
+4	``	_	_	_	_	_	_	_	Shift=2433|SpaceAfter=No
+5	тоже	_	_	_	_	_	_	_	Shift=2435
+6	чувствуют	_	_	_	_	_	_	_	Shift=2440|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=2450
+8	что	_	_	_	_	_	_	_	Shift=2452
+9	издатели	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2679|RuCor_group_id=471805|RuCor_link_id=471796|Shift=2456
+10	никуда	_	_	_	_	_	_	_	Shift=2465
+11	не	_	_	_	_	_	_	_	Shift=2472
+12	денутся	_	_	_	_	_	_	_	Shift=2475|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=2483
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p17
+# par_text = Не меньшей деловитостью отличались сотрудники Xerox .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p17-s1
+# text = Не меньшей деловитостью отличались сотрудники Xerox.
+1	Не	_	_	_	_	_	_	_	Shift=2485
+2	меньшей	_	_	_	_	_	_	_	Shift=2488
+3	деловитостью	_	_	_	_	_	_	_	Shift=2496
+4	отличались	_	_	_	_	_	_	_	Shift=2509
+5	сотрудники	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2691|RuCor_group_id=471806|RuCor_link_id=0|Shift=2520
+6	Xerox	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2683|RuCor_group_id=471807|RuCor_link_id=471811|Shift=2531|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=2537
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p18
+# par_text = Им было чем заняться : мини-типография жужжала и гудела , потому что к стенду Xerox подходили посетители выставки и не могли удержаться от участия в редком пока аттракционе .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p18-s1
+# text = Им было чем заняться: мини-типография жужжала и гудела, потому что к стенду Xerox подходили посетители выставки и не могли удержаться от участия в редком пока аттракционе.
+1	Им	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2691|RuCor_group_id=471808|RuCor_link_id=471806|Shift=2539
+2	было	_	_	_	_	_	_	_	Shift=2542
+3	чем	_	_	_	_	_	_	_	Shift=2547
+4	заняться	_	_	_	_	_	_	_	Shift=2551|SpaceAfter=No
+5	:	_	_	_	_	_	_	_	Shift=2560
+6	мини-типография	_	_	_	_	_	_	_	Shift=2562
+7	жужжала	_	_	_	_	_	_	_	Shift=2578
+8	и	_	_	_	_	_	_	_	Shift=2586
+9	гудела	_	_	_	_	_	_	_	Shift=2588|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=2595
+11	потому	_	_	_	_	_	_	_	Shift=2597
+12	что	_	_	_	_	_	_	_	Shift=2604
+13	к	_	_	_	_	_	_	_	Shift=2608
+14	стенду	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2682|RuCor_group_id=471810|RuCor_link_id=471780|Shift=2610
+15	Xerox	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2683|RuCor_group_id=471811|RuCor_link_id=471781|Shift=2617
+16	подходили	_	_	_	_	_	_	_	Shift=2623
+17	посетители	_	_	_	_	_	_	_	Shift=2633
+18	выставки	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2677|RuCor_group_id=471812|RuCor_link_id=471768|Shift=2644
+19	и	_	_	_	_	_	_	_	Shift=2653
+20	не	_	_	_	_	_	_	_	Shift=2655
+21	могли	_	_	_	_	_	_	_	Shift=2658
+22	удержаться	_	_	_	_	_	_	_	Shift=2664
+23	от	_	_	_	_	_	_	_	Shift=2675
+24	участия	_	_	_	_	_	_	_	Shift=2678
+25	в	_	_	_	_	_	_	_	Shift=2686
+26	редком	_	_	_	_	_	_	_	Shift=2688
+27	пока	_	_	_	_	_	_	_	Shift=2695
+28	аттракционе	_	_	_	_	_	_	_	Shift=2700|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	Shift=2712
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p19
+# par_text = Жмёшь на кнопку , платишь деньги , и через 15 — 20 минут получаешь ещё тёплую книжку .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p19-s1
+# text = Жмёшь на кнопку, платишь деньги, и через 15 - 20 минут получаешь ещё тёплую книжку.
+1	Жмёшь	_	_	_	_	_	_	_	Shift=2714
+2	на	_	_	_	_	_	_	_	Shift=2720
+3	кнопку	_	_	_	_	_	_	_	Shift=2723|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2730
+5	платишь	_	_	_	_	_	_	_	Shift=2732
+6	деньги	_	_	_	_	_	_	_	Shift=2740|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=2747
+8	и	_	_	_	_	_	_	_	Shift=2749
+9	через	_	_	_	_	_	_	_	Shift=2751
+10	15	_	_	_	_	_	_	_	Shift=2757
+11	-	_	_	_	_	_	_	_	Shift=2760
+12	20	_	_	_	_	_	_	_	Shift=2762
+13	минут	_	_	_	_	_	_	_	Shift=2765
+14	получаешь	_	_	_	_	_	_	_	Shift=2771
+15	ещё	_	_	_	_	_	_	_	Shift=2781
+16	тёплую	_	_	_	_	_	_	_	Shift=2785
+17	книжку	_	_	_	_	_	_	_	Shift=2792|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=2799
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p20
+# par_text = Совсем как настоящую , но напечатанную специально для тебя и в твоём присутствии .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p20-s1
+# text = Совсем как настоящую, но напечатанную специально для тебя и в твоём присутствии.
+1	Совсем	_	_	_	_	_	_	_	Shift=2801
+2	как	_	_	_	_	_	_	_	Shift=2808
+3	настоящую	_	_	_	_	_	_	_	Shift=2812|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2822
+5	но	_	_	_	_	_	_	_	Shift=2824
+6	напечатанную	_	_	_	_	_	_	_	Shift=2827
+7	специально	_	_	_	_	_	_	_	Shift=2840
+8	для	_	_	_	_	_	_	_	Shift=2851
+9	тебя	_	_	_	_	_	_	_	Shift=2855
+10	и	_	_	_	_	_	_	_	Shift=2860
+11	в	_	_	_	_	_	_	_	Shift=2862
+12	твоём	_	_	_	_	_	_	_	Shift=2864
+13	присутствии	_	_	_	_	_	_	_	Shift=2870|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=2882
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p21
+# par_text = Выбор был невелик — цифровые материалы для нескольких книг были предоставлены издательством « Альпина Паблишерз » .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p21-s1
+# text = Выбор был невелик - цифровые материалы для нескольких книг были предоставлены издательством ``Альпина Паблишерз ``.
+1	Выбор	_	_	_	_	_	_	_	Shift=2884
+2	был	_	_	_	_	_	_	_	Shift=2890
+3	невелик	_	_	_	_	_	_	_	Shift=2894
+4	-	_	_	_	_	_	_	_	Shift=2902
+5	цифровые	_	_	_	_	_	_	_	Shift=2904
+6	материалы	_	_	_	_	_	_	_	Shift=2913
+7	для	_	_	_	_	_	_	_	Shift=2923
+8	нескольких	_	_	_	_	_	_	_	Shift=2927
+9	книг	_	_	_	_	_	_	_	Shift=2938
+10	были	_	_	_	_	_	_	_	Shift=2943
+11	предоставлены	_	_	_	_	_	_	_	Shift=2948
+12	издательством	_	_	_	_	_	_	_	Shift=2962
+13	``	_	_	_	_	_	_	_	Shift=2976|SpaceAfter=No
+14	Альпина	_	_	_	_	_	_	_	Shift=2978
+15	Паблишерз	_	_	_	_	_	_	_	Shift=2986
+16	``	_	_	_	_	_	_	_	Shift=2996|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=2998
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p22
+# par_text = В общем , было даже не важно , какие книги можно заказать , главное — их можно было тут же получить .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p22-s1
+# text = В общем, было даже не важно, какие книги можно заказать, главное - их можно было тут же получить.
+1	В	_	_	_	_	_	_	_	Shift=3000
+2	общем	_	_	_	_	_	_	_	Shift=3002|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=3008
+4	было	_	_	_	_	_	_	_	Shift=3010
+5	даже	_	_	_	_	_	_	_	Shift=3015
+6	не	_	_	_	_	_	_	_	Shift=3020
+7	важно	_	_	_	_	_	_	_	Shift=3023|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=3029
+9	какие	_	_	_	_	_	_	_	RuCor_chain_id=2692|RuCor_group_id=471813|Shift=3031
+10	книги	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2692|RuCor_group_id=471813|RuCor_link_id=0|Shift=3037
+11	можно	_	_	_	_	_	_	_	Shift=3043
+12	заказать	_	_	_	_	_	_	_	Shift=3049|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=3058
+14	главное	_	_	_	_	_	_	_	Shift=3060
+15	-	_	_	_	_	_	_	_	Shift=3068
+16	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2692|RuCor_group_id=471814|RuCor_link_id=471813|Shift=3070
+17	можно	_	_	_	_	_	_	_	Shift=3073
+18	было	_	_	_	_	_	_	_	Shift=3079
+19	тут	_	_	_	_	_	_	_	Shift=3084
+20	же	_	_	_	_	_	_	_	Shift=3088
+21	получить	_	_	_	_	_	_	_	Shift=3091|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=3100
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p23
+# par_text = Мини-типография явно не походила на « букмашину » , но всё ещё впереди .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p23-s1
+# text = Мини-типография явно не походила на ``букмашину ``, но всё ещё впереди.
+1	Мини-типография	_	_	_	_	_	_	_	Shift=3102
+2	явно	_	_	_	_	_	_	_	Shift=3118
+3	не	_	_	_	_	_	_	_	Shift=3123
+4	походила	_	_	_	_	_	_	_	Shift=3126
+5	на	_	_	_	_	_	_	_	Shift=3135
+6	``	_	_	_	_	_	_	_	Shift=3138|SpaceAfter=No
+7	букмашину	_	_	_	_	_	_	_	Shift=3140
+8	``	_	_	_	_	_	_	_	Shift=3150|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=3152
+10	но	_	_	_	_	_	_	_	Shift=3154
+11	всё	_	_	_	_	_	_	_	Shift=3157
+12	ещё	_	_	_	_	_	_	_	Shift=3161
+13	впереди	_	_	_	_	_	_	_	Shift=3165|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=3173
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p24
+# par_text = В конце концов , кризис — самое подходящее время , чтобы задуматься над тем , стоит ли вкладывать деньги в тиражи , если нет никакой гарантии , что их кто-то купит .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p24-s1
+# text = В конце концов, кризис - самое подходящее время, чтобы задуматься над тем, стоит ли вкладывать деньги в тиражи, если нет никакой гарантии, что их кто-то купит.
+1	В	_	_	_	_	_	_	_	Shift=3175
+2	конце	_	_	_	_	_	_	_	Shift=3177
+3	концов	_	_	_	_	_	_	_	Shift=3183|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=3190
+5	кризис	_	_	_	_	_	_	_	Shift=3192
+6	-	_	_	_	_	_	_	_	Shift=3199
+7	самое	_	_	_	_	_	_	_	Shift=3201
+8	подходящее	_	_	_	_	_	_	_	Shift=3207
+9	время	_	_	_	_	_	_	_	Shift=3218|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=3224
+11	чтобы	_	_	_	_	_	_	_	Shift=3226
+12	задуматься	_	_	_	_	_	_	_	Shift=3232
+13	над	_	_	_	_	_	_	_	Shift=3243
+14	тем	_	_	_	_	_	_	_	Shift=3247|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=3251
+16	стоит	_	_	_	_	_	_	_	Shift=3253
+17	ли	_	_	_	_	_	_	_	Shift=3259
+18	вкладывать	_	_	_	_	_	_	_	Shift=3262
+19	деньги	_	_	_	_	_	_	_	Shift=3273
+20	в	_	_	_	_	_	_	_	Shift=3280
+21	тиражи	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2693|RuCor_group_id=471816|RuCor_link_id=0|Shift=3282|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=3289
+23	если	_	_	_	_	_	_	_	Shift=3291
+24	нет	_	_	_	_	_	_	_	Shift=3296
+25	никакой	_	_	_	_	_	_	_	Shift=3300
+26	гарантии	_	_	_	_	_	_	_	Shift=3308|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=3317
+28	что	_	_	_	_	_	_	_	Shift=3319
+29	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2693|RuCor_group_id=471817|RuCor_link_id=471816|Shift=3323
+30	кто-то	_	_	_	_	_	_	_	Shift=3326
+31	купит	_	_	_	_	_	_	_	Shift=3333|SpaceAfter=No
+32	.	_	_	_	_	_	_	_	Shift=3339
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p25
+# par_text = А так — по книжке — глядишь , издатель и окупит какие-то расходы .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p25-s1
+# text = А так - по книжке - глядишь, издатель и окупит какие-то расходы.
+1	А	_	_	_	_	_	_	_	Shift=3341
+2	так	_	_	_	_	_	_	_	Shift=3343
+3	-	_	_	_	_	_	_	_	Shift=3347
+4	по	_	_	_	_	_	_	_	Shift=3349
+5	книжке	_	_	_	_	_	_	_	Shift=3352
+6	-	_	_	_	_	_	_	_	Shift=3359
+7	глядишь	_	_	_	_	_	_	_	Shift=3361|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=3369
+9	издатель	_	_	_	_	_	_	_	Shift=3371
+10	и	_	_	_	_	_	_	_	Shift=3380
+11	окупит	_	_	_	_	_	_	_	Shift=3382
+12	какие-то	_	_	_	_	_	_	_	Shift=3389
+13	расходы	_	_	_	_	_	_	_	Shift=3398|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=3406
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p26
+# par_text = Оптимистичное настроение не покидало и участников пресс-конференции , которую вёл председатель оргкомитета « Книгабайта » Андрей Гельмиза .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p26-s1
+# text = Оптимистичное настроение не покидало и участников пресс-конференции, которую вёл председатель оргкомитета ``Книгабайта ``Андрей Гельмиза.
+1	Оптимистичное	_	_	_	_	_	_	_	Shift=3408
+2	настроение	_	_	_	_	_	_	_	Shift=3422
+3	не	_	_	_	_	_	_	_	Shift=3433
+4	покидало	_	_	_	_	_	_	_	Shift=3436
+5	и	_	_	_	_	_	_	_	Shift=3445
+6	участников	_	_	_	_	_	_	_	Shift=3447
+7	пресс-конференции	_	_	_	_	_	_	_	Shift=3458|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=3476
+9	которую	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2694|RuCor_group_id=471819|RuCor_link_id=471818|Shift=3478
+10	вёл	_	_	_	_	_	_	_	Shift=3486
+11	председатель	_	_	_	_	_	_	_	Shift=3490
+12	оргкомитета	_	_	_	_	_	_	_	Shift=3503
+13	``	_	_	_	_	_	_	_	RuCor_chain_id=2677|RuCor_group_id=471820|Shift=3515|SpaceAfter=No
+14	Книгабайта	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2677|RuCor_group_id=471820|RuCor_link_id=471785|Shift=3517
+15	``	_	_	_	_	_	_	_	RuCor_chain_id=2677|RuCor_group_id=471820|Shift=3528|SpaceAfter=No
+16	Андрей	_	_	_	_	_	_	_	Shift=3530
+17	Гельмиза	_	_	_	_	_	_	_	Shift=3537|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=3546
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p27
+# par_text = « За два года мы создали рынок электронных книг в России » , — с места в карьер начал Алексей Кузьмин , директор крупнейшего онлайнового магазина электронных книг « Литрес » .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p27-s1
+# text = ``За два года мы создали рынок электронных книг в России ``, - с места в карьер начал Алексей Кузьмин, директор крупнейшего онлайнового магазина электронных книг ``Литрес ``.
+1	``	_	_	_	_	_	_	_	Shift=3548|SpaceAfter=No
+2	За	_	_	_	_	_	_	_	Shift=3550
+3	два	_	_	_	_	_	_	_	Shift=3553
+4	года	_	_	_	_	_	_	_	Shift=3557
+5	мы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2695|RuCor_group_id=471821|RuCor_link_id=0|Shift=3562
+6	создали	_	_	_	_	_	_	_	Shift=3565
+7	рынок	_	_	_	_	_	_	_	Shift=3573
+8	электронных	_	_	_	_	_	_	_	Shift=3579
+9	книг	_	_	_	_	_	_	_	Shift=3591
+10	в	_	_	_	_	_	_	_	Shift=3596
+11	России	_	_	_	_	_	_	_	Shift=3598
+12	``	_	_	_	_	_	_	_	Shift=3605|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=3607
+14	-	_	_	_	_	_	_	_	Shift=3609
+15	с	_	_	_	_	_	_	_	Shift=3611
+16	места	_	_	_	_	_	_	_	Shift=3613
+17	в	_	_	_	_	_	_	_	Shift=3619
+18	карьер	_	_	_	_	_	_	_	Shift=3621
+19	начал	_	_	_	_	_	_	_	Shift=3628
+20	Алексей	_	_	_	_	_	_	_	RuCor_chain_id=2696|RuCor_group_id=471822|Shift=3634
+21	Кузьмин	_	_	_	_	_	_	_	RuCor_chain_id=2696|RuCor_group_id=471822|Shift=3642|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=3650
+23	директор	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2696|RuCor_group_id=471823|RuCor_link_id=471822|Shift=3652
+24	крупнейшего	_	_	_	_	_	_	_	RuCor_chain_id=2695|RuCor_group_id=471824|Shift=3661
+25	онлайнового	_	_	_	_	_	_	_	RuCor_chain_id=2695|RuCor_group_id=471824|Shift=3673
+26	магазина	_	_	_	_	_	_	_	RuCor_chain_id=2695|RuCor_group_id=471824|Shift=3685
+27	электронных	_	_	_	_	_	_	_	RuCor_chain_id=2695|RuCor_group_id=471824|Shift=3694
+28	книг	_	_	_	_	_	_	_	RuCor_chain_id=2695|RuCor_group_id=471824|Shift=3706
+29	``	_	_	_	_	_	_	_	RuCor_chain_id=2695|RuCor_group_id=471824|Shift=3711|SpaceAfter=No
+30	Литрес	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2695|RuCor_group_id=471824|RuCor_link_id=471821|Shift=3713
+31	``	_	_	_	_	_	_	_	RuCor_chain_id=2695|RuCor_group_id=471824|Shift=3720|SpaceAfter=No
+32	.	_	_	_	_	_	_	_	Shift=3722
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p28
+# par_text = « Литресу » и вправду есть чем гордиться .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p28-s1
+# text = ``Литресу ``и вправду есть чем гордиться.
+1	``	_	_	_	_	_	_	_	Shift=3724|SpaceAfter=No
+2	Литресу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2695|RuCor_group_id=471825|RuCor_link_id=471824|Shift=3726
+3	``	_	_	_	_	_	_	_	Shift=3734|SpaceAfter=No
+4	и	_	_	_	_	_	_	_	Shift=3736
+5	вправду	_	_	_	_	_	_	_	Shift=3738
+6	есть	_	_	_	_	_	_	_	Shift=3746
+7	чем	_	_	_	_	_	_	_	Shift=3751
+8	гордиться	_	_	_	_	_	_	_	Shift=3755|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=3765
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p29
+# par_text = За год продажи в магазине выросли в 5 раз .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p29-s1
+# text = За год продажи в магазине выросли в 5 раз.
+1	За	_	_	_	_	_	_	_	Shift=3767
+2	год	_	_	_	_	_	_	_	Shift=3770
+3	продажи	_	_	_	_	_	_	_	Shift=3774
+4	в	_	_	_	_	_	_	_	Shift=3782
+5	магазине	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2695|RuCor_group_id=471826|RuCor_link_id=471825|Shift=3784
+6	выросли	_	_	_	_	_	_	_	Shift=3793
+7	в	_	_	_	_	_	_	_	Shift=3801
+8	5	_	_	_	_	_	_	_	Shift=3803
+9	раз	_	_	_	_	_	_	_	Shift=3805|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=3809
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p30
+# par_text = Каждый день магазин продаёт около 5 тыс . книг .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p30-s1
+# text = Каждый день магазин продаёт около 5 тыс.
+1	Каждый	_	_	_	_	_	_	_	Shift=3811
+2	день	_	_	_	_	_	_	_	Shift=3818
+3	магазин	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2695|RuCor_group_id=471827|RuCor_link_id=471826|Shift=3823
+4	продаёт	_	_	_	_	_	_	_	Shift=3831
+5	около	_	_	_	_	_	_	_	Shift=3839
+6	5	_	_	_	_	_	_	_	Shift=3845
+7	тыс	_	_	_	_	_	_	_	Shift=3847|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=3851
+
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p30-s2
+# text = книг.
+1	книг	_	_	_	_	_	_	_	Shift=3853|SpaceAfter=No
+2	.	_	_	_	_	_	_	_	Shift=3858
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p31
+# par_text = При невеликой средней цене художественной книги ( это большая часть ассортимента в « Литресе » ) — 30 рублей — набирается приятная сумма , сравнимая с оборотами довольно большого книжного магазина .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p31-s1
+# text = При невеликой средней цене художественной книги (это большая часть ассортимента в ``Литресе ``) - 30 рублей - набирается приятная сумма, сравнимая с оборотами довольно большого книжного магазина.
+1	При	_	_	_	_	_	_	_	Shift=3860
+2	невеликой	_	_	_	_	_	_	_	Shift=3864
+3	средней	_	_	_	_	_	_	_	Shift=3874
+4	цене	_	_	_	_	_	_	_	Shift=3882
+5	художественной	_	_	_	_	_	_	_	Shift=3887
+6	книги	_	_	_	_	_	_	_	Shift=3902
+7	(	_	_	_	_	_	_	_	Shift=3908|SpaceAfter=No
+8	это	_	_	_	_	_	_	_	Shift=3910
+9	большая	_	_	_	_	_	_	_	Shift=3914
+10	часть	_	_	_	_	_	_	_	Shift=3922
+11	ассортимента	_	_	_	_	_	_	_	Shift=3928
+12	в	_	_	_	_	_	_	_	Shift=3941
+13	``	_	_	_	_	_	_	_	Shift=3943|SpaceAfter=No
+14	Литресе	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2695|RuCor_group_id=471828|RuCor_link_id=471827|Shift=3945
+15	``	_	_	_	_	_	_	_	Shift=3953|SpaceAfter=No
+16	)	_	_	_	_	_	_	_	Shift=3955
+17	-	_	_	_	_	_	_	_	Shift=3957
+18	30	_	_	_	_	_	_	_	Shift=3959
+19	рублей	_	_	_	_	_	_	_	Shift=3962
+20	-	_	_	_	_	_	_	_	Shift=3969
+21	набирается	_	_	_	_	_	_	_	Shift=3971
+22	приятная	_	_	_	_	_	_	_	Shift=3982
+23	сумма	_	_	_	_	_	_	_	Shift=3991|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=3997
+25	сравнимая	_	_	_	_	_	_	_	Shift=3999
+26	с	_	_	_	_	_	_	_	Shift=4009
+27	оборотами	_	_	_	_	_	_	_	Shift=4011
+28	довольно	_	_	_	_	_	_	_	Shift=4021
+29	большого	_	_	_	_	_	_	_	Shift=4030
+30	книжного	_	_	_	_	_	_	_	Shift=4039
+31	магазина	_	_	_	_	_	_	_	Shift=4048|SpaceAfter=No
+32	.	_	_	_	_	_	_	_	Shift=4057
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p32
+# par_text = Помимо продаж через свой сайт , « Литрес » вовсю развивает партнёрские программы с интернет-провайдерами и операторами мобильной связи .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p32-s1
+# text = Помимо продаж через свой сайт, ``Литрес ``вовсю развивает партнёрские программы с интернет-провайдерами и операторами мобильной связи.
+1	Помимо	_	_	_	_	_	_	_	Shift=4059
+2	продаж	_	_	_	_	_	_	_	Shift=4066
+3	через	_	_	_	_	_	_	_	Shift=4073
+4	свой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2695|RuCor_group_id=471829|RuCor_link_id=471830|Shift=4079
+5	сайт	_	_	_	_	_	_	_	Shift=4084|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=4089
+7	``	_	_	_	_	_	_	_	Shift=4091|SpaceAfter=No
+8	Литрес	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2695|RuCor_group_id=471830|RuCor_link_id=471828|Shift=4093
+9	``	_	_	_	_	_	_	_	Shift=4100|SpaceAfter=No
+10	вовсю	_	_	_	_	_	_	_	Shift=4102
+11	развивает	_	_	_	_	_	_	_	Shift=4108
+12	партнёрские	_	_	_	_	_	_	_	Shift=4118
+13	программы	_	_	_	_	_	_	_	Shift=4130
+14	с	_	_	_	_	_	_	_	Shift=4140
+15	интернет-провайдерами	_	_	_	_	_	_	_	Shift=4142
+16	и	_	_	_	_	_	_	_	Shift=4164
+17	операторами	_	_	_	_	_	_	_	Shift=4166
+18	мобильной	_	_	_	_	_	_	_	Shift=4178
+19	связи	_	_	_	_	_	_	_	Shift=4188|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=4194
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p33
+# par_text = Последние такие соглашения « Литрес » заключил с « Билайном » и МТС .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p33-s1
+# text = Последние такие соглашения ``Литрес ``заключил с ``Билайном ``и МТС.
+1	Последние	_	_	_	_	_	_	_	Shift=4196
+2	такие	_	_	_	_	_	_	_	Shift=4206
+3	соглашения	_	_	_	_	_	_	_	Shift=4212
+4	``	_	_	_	_	_	_	_	Shift=4223|SpaceAfter=No
+5	Литрес	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2695|RuCor_group_id=471831|RuCor_link_id=471830|Shift=4225
+6	``	_	_	_	_	_	_	_	Shift=4232|SpaceAfter=No
+7	заключил	_	_	_	_	_	_	_	Shift=4234
+8	с	_	_	_	_	_	_	_	Shift=4243
+9	``	_	_	_	_	_	_	_	Shift=4245|SpaceAfter=No
+10	Билайном	_	_	_	_	_	_	_	Shift=4247
+11	``	_	_	_	_	_	_	_	Shift=4256|SpaceAfter=No
+12	и	_	_	_	_	_	_	_	Shift=4258
+13	МТС	_	_	_	_	_	_	_	Shift=4260|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=4264
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p34
+# par_text = Схема продажи чрезвычайно занимательна и должна затронуть даже чёрствое сердце старого книжника — книги продаются , в сущности , побайтно : абонент сети , он же читатель , просто платит за скачанные байты .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p34-s1
+# text = Схема продажи чрезвычайно занимательна и должна затронуть даже чёрствое сердце старого книжника - книги продаются, в сущности, побайтно: абонент сети, он же читатель, просто платит за скачанные байты.
+1	Схема	_	_	_	_	_	_	_	Shift=4266
+2	продажи	_	_	_	_	_	_	_	Shift=4272
+3	чрезвычайно	_	_	_	_	_	_	_	Shift=4280
+4	занимательна	_	_	_	_	_	_	_	Shift=4292
+5	и	_	_	_	_	_	_	_	Shift=4305
+6	должна	_	_	_	_	_	_	_	Shift=4307
+7	затронуть	_	_	_	_	_	_	_	Shift=4314
+8	даже	_	_	_	_	_	_	_	Shift=4324
+9	чёрствое	_	_	_	_	_	_	_	Shift=4329
+10	сердце	_	_	_	_	_	_	_	Shift=4338
+11	старого	_	_	_	_	_	_	_	Shift=4345
+12	книжника	_	_	_	_	_	_	_	Shift=4353
+13	-	_	_	_	_	_	_	_	Shift=4362
+14	книги	_	_	_	_	_	_	_	Shift=4364
+15	продаются	_	_	_	_	_	_	_	Shift=4370|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=4380
+17	в	_	_	_	_	_	_	_	Shift=4382
+18	сущности	_	_	_	_	_	_	_	Shift=4384|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=4393
+20	побайтно	_	_	_	_	_	_	_	Shift=4395|SpaceAfter=No
+21	:	_	_	_	_	_	_	_	Shift=4404
+22	абонент	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2697|RuCor_group_id=471832|RuCor_link_id=0|Shift=4406
+23	сети	_	_	_	_	_	_	_	Shift=4414|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=4419
+25	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2697|RuCor_group_id=471833|RuCor_link_id=471832|Shift=4421
+26	же	_	_	_	_	_	_	_	Shift=4424
+27	читатель	_	_	_	_	_	_	_	Shift=4427|SpaceAfter=No
+28	,	_	_	_	_	_	_	_	Shift=4436
+29	просто	_	_	_	_	_	_	_	Shift=4438
+30	платит	_	_	_	_	_	_	_	Shift=4445
+31	за	_	_	_	_	_	_	_	Shift=4452
+32	скачанные	_	_	_	_	_	_	_	Shift=4455
+33	байты	_	_	_	_	_	_	_	Shift=4465|SpaceAfter=No
+34	.	_	_	_	_	_	_	_	Shift=4471
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p35
+# par_text = Гениальная бизнес-модель , которая не снилась ни Гуттенбергу , ни Сытину !
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p35-s1
+# text = Гениальная бизнес-модель, которая не снилась ни Гуттенбергу, ни Сытину!
+1	Гениальная	_	_	_	_	_	_	_	RuCor_chain_id=2698|RuCor_group_id=471834|Shift=4473
+2	бизнес-модель	_	_	_	_	_	_	_	Shift=4484|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=4498
+4	которая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2698|RuCor_group_id=471835|RuCor_link_id=471834|Shift=4500
+5	не	_	_	_	_	_	_	_	Shift=4508
+6	снилась	_	_	_	_	_	_	_	Shift=4511
+7	ни	_	_	_	_	_	_	_	Shift=4519
+8	Гуттенбергу	_	_	_	_	_	_	_	Shift=4522|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=4534
+10	ни	_	_	_	_	_	_	_	Shift=4536
+11	Сытину	_	_	_	_	_	_	_	Shift=4539|SpaceAfter=No
+12	!	_	_	_	_	_	_	_	Shift=4546
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p36
+# par_text = Они же тоже могли продавать книги за количество букв …
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p36-s1
+# text = Они же тоже могли продавать книги за количество букв...
+1	Они	_	_	_	_	_	_	_	Shift=4548
+2	же	_	_	_	_	_	_	_	Shift=4552
+3	тоже	_	_	_	_	_	_	_	Shift=4555
+4	могли	_	_	_	_	_	_	_	Shift=4560
+5	продавать	_	_	_	_	_	_	_	Shift=4566
+6	книги	_	_	_	_	_	_	_	Shift=4576
+7	за	_	_	_	_	_	_	_	Shift=4582
+8	количество	_	_	_	_	_	_	_	Shift=4585
+9	букв	_	_	_	_	_	_	_	Shift=4596|SpaceAfter=No
+10	...	_	_	_	_	_	_	_	Shift=4601
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p37
+# par_text = И где они теперь ?
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p37-s1
+# text = И где они теперь?
+1	И	_	_	_	_	_	_	_	Shift=4603
+2	где	_	_	_	_	_	_	_	Shift=4605
+3	они	_	_	_	_	_	_	_	Shift=4609
+4	теперь	_	_	_	_	_	_	_	Shift=4613|SpaceAfter=No
+5	?	_	_	_	_	_	_	_	Shift=4620
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p38
+# par_text = А « Литрес » тут , и , кажется , неплохо себя чувствует .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p38-s1
+# text = А ``Литрес ``тут, и, кажется, неплохо себя чувствует.
+1	А	_	_	_	_	_	_	_	Shift=4622
+2	``	_	_	_	_	_	_	_	Shift=4624|SpaceAfter=No
+3	Литрес	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2695|RuCor_group_id=471836|RuCor_link_id=471831|Shift=4626
+4	``	_	_	_	_	_	_	_	Shift=4633|SpaceAfter=No
+5	тут	_	_	_	_	_	_	_	Shift=4635|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=4639
+7	и	_	_	_	_	_	_	_	Shift=4641|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=4643
+9	кажется	_	_	_	_	_	_	_	Shift=4645|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=4653
+11	неплохо	_	_	_	_	_	_	_	Shift=4655
+12	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=2695|RuCor_group_id=471837|RuCor_link_id=471836|Shift=4663
+13	чувствует	_	_	_	_	_	_	_	Shift=4668|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=4678
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p39
+# par_text = Даже разрабатывает новый формат электронных книг , твёрдо держась старой русской традиции , чтобы всё было по-своему .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p39-s1
+# text = Даже разрабатывает новый формат электронных книг, твёрдо держась старой русской традиции, чтобы всё было по-своему.
+1	Даже	_	_	_	_	_	_	_	Shift=4680
+2	разрабатывает	_	_	_	_	_	_	_	Shift=4685
+3	новый	_	_	_	_	_	_	_	Shift=4699
+4	формат	_	_	_	_	_	_	_	Shift=4705
+5	электронных	_	_	_	_	_	_	_	Shift=4712
+6	книг	_	_	_	_	_	_	_	Shift=4724|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=4729
+8	твёрдо	_	_	_	_	_	_	_	Shift=4731
+9	держась	_	_	_	_	_	_	_	Shift=4738
+10	старой	_	_	_	_	_	_	_	Shift=4746
+11	русской	_	_	_	_	_	_	_	Shift=4753
+12	традиции	_	_	_	_	_	_	_	Shift=4761|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=4770
+14	чтобы	_	_	_	_	_	_	_	Shift=4772
+15	всё	_	_	_	_	_	_	_	Shift=4778
+16	было	_	_	_	_	_	_	_	Shift=4782
+17	по-своему	_	_	_	_	_	_	_	Shift=4787|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=4797
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p40
+# par_text = Разработанный российскими любителями электронных книг формат FB2 уже устарел , и вот на смену ему « Литрес » готовит новый — FB3 , который , конечно же , будет лучше и удобнее , чем формат EPUB , разработанный Международным форумом электронного книгоиздания и по неведомым причинам и по протекции IT-гигантов Adobe , Google и Sony претендующий на универсальность .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p40-s1
+# text = Разработанный российскими любителями электронных книг формат FB2 уже устарел, и вот на смену ему ``Литрес ``готовит новый - FB3, который, конечно же, будет лучше и удобнее, чем формат EPUB, разработанный Международным форумом электронного книгоиздания и по неведомым причинам и по протекции IT- гигантов Adobe, Google и Sony претендующий на универсальность.
+1	Разработанный	_	_	_	_	_	_	_	RuCor_chain_id=2699|RuCor_group_id=471838|Shift=4799
+2	российскими	_	_	_	_	_	_	_	RuCor_chain_id=2699|RuCor_group_id=471838|Shift=4813
+3	любителями	_	_	_	_	_	_	_	RuCor_chain_id=2699|RuCor_group_id=471838|Shift=4825
+4	электронных	_	_	_	_	_	_	_	RuCor_chain_id=2699|RuCor_group_id=471838|Shift=4836
+5	книг	_	_	_	_	_	_	_	RuCor_chain_id=2699|RuCor_group_id=471838|Shift=4848
+6	формат	_	_	_	_	_	_	_	RuCor_chain_id=2699|RuCor_group_id=471838|Shift=4853
+7	FB2	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2699|RuCor_group_id=471838|RuCor_link_id=0|Shift=4860
+8	уже	_	_	_	_	_	_	_	Shift=4864
+9	устарел	_	_	_	_	_	_	_	Shift=4868|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=4876
+11	и	_	_	_	_	_	_	_	Shift=4878
+12	вот	_	_	_	_	_	_	_	Shift=4880
+13	на	_	_	_	_	_	_	_	Shift=4884
+14	смену	_	_	_	_	_	_	_	Shift=4887
+15	ему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2699|RuCor_group_id=471839|RuCor_link_id=471838|Shift=4893
+16	``	_	_	_	_	_	_	_	Shift=4897|SpaceAfter=No
+17	Литрес	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2695|RuCor_group_id=471840|RuCor_link_id=471837|Shift=4899
+18	``	_	_	_	_	_	_	_	Shift=4906|SpaceAfter=No
+19	готовит	_	_	_	_	_	_	_	Shift=4908
+20	новый	_	_	_	_	_	_	_	Shift=4916
+21	-	_	_	_	_	_	_	_	Shift=4922
+22	FB3	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2700|RuCor_group_id=471841|RuCor_link_id=0|Shift=4924|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=4928
+24	который	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2700|RuCor_group_id=471842|RuCor_link_id=471841|Shift=4930|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=4938
+26	конечно	_	_	_	_	_	_	_	Shift=4940
+27	же	_	_	_	_	_	_	_	Shift=4948|SpaceAfter=No
+28	,	_	_	_	_	_	_	_	Shift=4951
+29	будет	_	_	_	_	_	_	_	Shift=4953
+30	лучше	_	_	_	_	_	_	_	Shift=4959
+31	и	_	_	_	_	_	_	_	Shift=4965
+32	удобнее	_	_	_	_	_	_	_	Shift=4967|SpaceAfter=No
+33	,	_	_	_	_	_	_	_	Shift=4975
+34	чем	_	_	_	_	_	_	_	Shift=4977
+35	формат	_	_	_	_	_	_	_	Shift=4981
+36	EPUB	_	_	_	_	_	_	_	Shift=4988|SpaceAfter=No
+37	,	_	_	_	_	_	_	_	Shift=4993
+38	разработанный	_	_	_	_	_	_	_	Shift=4995
+39	Международным	_	_	_	_	_	_	_	Shift=5009
+40	форумом	_	_	_	_	_	_	_	Shift=5023
+41	электронного	_	_	_	_	_	_	_	Shift=5031
+42	книгоиздания	_	_	_	_	_	_	_	Shift=5044
+43	и	_	_	_	_	_	_	_	Shift=5057
+44	по	_	_	_	_	_	_	_	Shift=5059
+45	неведомым	_	_	_	_	_	_	_	Shift=5062
+46	причинам	_	_	_	_	_	_	_	Shift=5072
+47	и	_	_	_	_	_	_	_	Shift=5081
+48	по	_	_	_	_	_	_	_	Shift=5083
+49	протекции	_	_	_	_	_	_	_	Shift=5086
+50	IT-	_	_	_	_	_	_	_	Shift=5096
+51	гигантов	_	_	_	_	_	_	_	Shift=5099
+52	Adobe	_	_	_	_	_	_	_	Shift=5108|SpaceAfter=No
+53	,	_	_	_	_	_	_	_	Shift=5114
+54	Google	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2690|RuCor_group_id=471843|RuCor_link_id=471800|Shift=5116
+55	и	_	_	_	_	_	_	_	Shift=5123
+56	Sony	_	_	_	_	_	_	_	Shift=5125
+57	претендующий	_	_	_	_	_	_	_	Shift=5130
+58	на	_	_	_	_	_	_	_	Shift=5143
+59	универсальность	_	_	_	_	_	_	_	Shift=5146|SpaceAfter=No
+60	.	_	_	_	_	_	_	_	Shift=5162
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p41
+# par_text = Оптимизм демонстрировал и крупный издательский бизнес .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p41-s1
+# text = Оптимизм демонстрировал и крупный издательский бизнес.
+1	Оптимизм	_	_	_	_	_	_	_	Shift=5164
+2	демонстрировал	_	_	_	_	_	_	_	Shift=5173
+3	и	_	_	_	_	_	_	_	Shift=5188
+4	крупный	_	_	_	_	_	_	_	Shift=5190
+5	издательский	_	_	_	_	_	_	_	Shift=5198
+6	бизнес	_	_	_	_	_	_	_	Shift=5211|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=5218
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p42
+# par_text = В ответ на вопрос ведущего , не боится ли он электронных книг , директор по электронной коммерции издательства « Эксмо » Сергей Анурьев со смехом отверг эти подозрения .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p42-s1
+# text = В ответ на вопрос ведущего, не боится ли он электронных книг, директор по электронной коммерции издательства ``Эксмо ``Сергей Анурьев со смехом отверг эти подозрения.
+1	В	_	_	_	_	_	_	_	Shift=5220
+2	ответ	_	_	_	_	_	_	_	Shift=5222
+3	на	_	_	_	_	_	_	_	Shift=5228
+4	вопрос	_	_	_	_	_	_	_	Shift=5231
+5	ведущего	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2701|RuCor_group_id=471844|RuCor_link_id=0|Shift=5238|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=5247
+7	не	_	_	_	_	_	_	_	Shift=5249
+8	боится	_	_	_	_	_	_	_	Shift=5252
+9	ли	_	_	_	_	_	_	_	Shift=5259
+10	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2701|RuCor_group_id=471845|RuCor_link_id=471844|Shift=5262
+11	электронных	_	_	_	_	_	_	_	Shift=5265
+12	книг	_	_	_	_	_	_	_	Shift=5277|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=5282
+14	директор	_	_	_	_	_	_	_	RuCor_chain_id=2701|RuCor_group_id=471846|Shift=5284
+15	по	_	_	_	_	_	_	_	RuCor_chain_id=2701|RuCor_group_id=471846|Shift=5293
+16	электронной	_	_	_	_	_	_	_	RuCor_chain_id=2701|RuCor_group_id=471846|Shift=5296
+17	коммерции	_	_	_	_	_	_	_	RuCor_chain_id=2701|RuCor_group_id=471846|Shift=5308
+18	издательства	_	_	_	_	_	_	_	RuCor_chain_id=2702|RuCor_group_id=471847|Shift=5318
+19	``	_	_	_	_	_	_	_	RuCor_chain_id=2702|RuCor_group_id=471847|Shift=5331|SpaceAfter=No
+20	Эксмо	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2702|RuCor_group_id=471847|RuCor_link_id=471849|Shift=5333
+21	``	_	_	_	_	_	_	_	RuCor_chain_id=2702|RuCor_group_id=471847|Shift=5339|SpaceAfter=No
+22	Сергей	_	_	_	_	_	_	_	RuCor_chain_id=2701|RuCor_group_id=471846|Shift=5341
+23	Анурьев	_	_	_	_	_	_	_	RuCor_chain_id=2701|RuCor_group_id=471846|Shift=5348
+24	со	_	_	_	_	_	_	_	Shift=5356
+25	смехом	_	_	_	_	_	_	_	Shift=5359
+26	отверг	_	_	_	_	_	_	_	Shift=5366
+27	эти	_	_	_	_	_	_	_	Shift=5373
+28	подозрения	_	_	_	_	_	_	_	Shift=5377|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	Shift=5388
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p43
+# par_text = Действительно , не « Литреса » же бояться « Эксмо » , если большая часть ассортимента « главного магазина электронных книг страны » формируется книгами именно этого издательства .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p43-s1
+# text = Действительно, не ``Литреса ``же бояться ``Эксмо ``, если большая часть ассортимента ``главного магазина электронных книг страны ``формируется книгами именно этого издательства.
+1	Действительно	_	_	_	_	_	_	_	Shift=5390|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=5404
+3	не	_	_	_	_	_	_	_	Shift=5406
+4	``	_	_	_	_	_	_	_	Shift=5409|SpaceAfter=No
+5	Литреса	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2695|RuCor_group_id=471848|RuCor_link_id=471837|Shift=5411
+6	``	_	_	_	_	_	_	_	Shift=5419|SpaceAfter=No
+7	же	_	_	_	_	_	_	_	Shift=5421
+8	бояться	_	_	_	_	_	_	_	Shift=5424
+9	``	_	_	_	_	_	_	_	Shift=5432|SpaceAfter=No
+10	Эксмо	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2702|RuCor_group_id=471849|RuCor_link_id=0|Shift=5434
+11	``	_	_	_	_	_	_	_	Shift=5440|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=5442
+13	если	_	_	_	_	_	_	_	Shift=5444
+14	большая	_	_	_	_	_	_	_	Shift=5449
+15	часть	_	_	_	_	_	_	_	Shift=5457
+16	ассортимента	_	_	_	_	_	_	_	Shift=5463
+17	``	_	_	_	_	_	_	_	Shift=5476|SpaceAfter=No
+18	главного	_	_	_	_	_	_	_	RuCor_chain_id=2695|RuCor_group_id=471850|Shift=5478
+19	магазина	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2695|RuCor_group_id=471850|RuCor_link_id=471848|Shift=5487
+20	электронных	_	_	_	_	_	_	_	RuCor_chain_id=2695|RuCor_group_id=471850|Shift=5496
+21	книг	_	_	_	_	_	_	_	RuCor_chain_id=2695|RuCor_group_id=471850|Shift=5508
+22	страны	_	_	_	_	_	_	_	RuCor_chain_id=2695|RuCor_group_id=471850|Shift=5513
+23	``	_	_	_	_	_	_	_	Shift=5520|SpaceAfter=No
+24	формируется	_	_	_	_	_	_	_	Shift=5522
+25	книгами	_	_	_	_	_	_	_	Shift=5534
+26	именно	_	_	_	_	_	_	_	Shift=5542
+27	этого	_	_	_	_	_	_	_	RuCor_chain_id=2702|RuCor_group_id=471851|Shift=5549
+28	издательства	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2702|RuCor_group_id=471851|RuCor_link_id=471849|Shift=5555|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	Shift=5568
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p44
+# par_text = Этот рынок , отметил издатель , растёт экстенсивно , но пока он очень мал .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p44-s1
+# text = Этот рынок, отметил издатель, растёт экстенсивно, но пока он очень мал.
+1	Этот	_	_	_	_	_	_	_	RuCor_chain_id=2703|RuCor_group_id=471852|Shift=5570
+2	рынок	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2703|RuCor_group_id=471852|RuCor_link_id=0|Shift=5575|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=5581
+4	отметил	_	_	_	_	_	_	_	Shift=5583
+5	издатель	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2701|RuCor_group_id=471853|RuCor_link_id=471846|Shift=5591|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=5600
+7	растёт	_	_	_	_	_	_	_	Shift=5602
+8	экстенсивно	_	_	_	_	_	_	_	Shift=5609|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=5621
+10	но	_	_	_	_	_	_	_	Shift=5623
+11	пока	_	_	_	_	_	_	_	Shift=5626
+12	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2703|RuCor_group_id=471854|RuCor_link_id=471852|Shift=5631
+13	очень	_	_	_	_	_	_	_	Shift=5634
+14	мал	_	_	_	_	_	_	_	Shift=5640|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=5644
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p45
+# par_text = В обороте « Эксмо » , признался Сергей Анурьев , электронные книги составляют не более нескольких долей процента .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p45-s1
+# text = В обороте ``Эксмо ``, признался Сергей Анурьев, электронные книги составляют не более нескольких долей процента.
+1	В	_	_	_	_	_	_	_	Shift=5646
+2	обороте	_	_	_	_	_	_	_	Shift=5648
+3	``	_	_	_	_	_	_	_	Shift=5656|SpaceAfter=No
+4	Эксмо	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2702|RuCor_group_id=471855|RuCor_link_id=471851|Shift=5658
+5	``	_	_	_	_	_	_	_	Shift=5664|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=5666
+7	признался	_	_	_	_	_	_	_	Shift=5668
+8	Сергей	_	_	_	_	_	_	_	RuCor_chain_id=2701|RuCor_group_id=471856|Shift=5678
+9	Анурьев	_	_	_	_	_	_	_	RuCor_chain_id=2701|RuCor_group_id=471856|Shift=5685|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=5693
+11	электронные	_	_	_	_	_	_	_	Shift=5695
+12	книги	_	_	_	_	_	_	_	Shift=5707
+13	составляют	_	_	_	_	_	_	_	Shift=5713
+14	не	_	_	_	_	_	_	_	Shift=5724
+15	более	_	_	_	_	_	_	_	Shift=5727
+16	нескольких	_	_	_	_	_	_	_	Shift=5733
+17	долей	_	_	_	_	_	_	_	Shift=5744
+18	процента	_	_	_	_	_	_	_	Shift=5750|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=5759
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p46
+# par_text = Но надежда на то , что эта доля станет больше , у « Эксмо » есть .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p46-s1
+# text = Но надежда на то, что эта доля станет больше, у ``Эксмо ``есть.
+1	Но	_	_	_	_	_	_	_	Shift=5761
+2	надежда	_	_	_	_	_	_	_	Shift=5764
+3	на	_	_	_	_	_	_	_	Shift=5772
+4	то	_	_	_	_	_	_	_	Shift=5775|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=5778
+6	что	_	_	_	_	_	_	_	Shift=5780
+7	эта	_	_	_	_	_	_	_	Shift=5784
+8	доля	_	_	_	_	_	_	_	Shift=5788
+9	станет	_	_	_	_	_	_	_	Shift=5793
+10	больше	_	_	_	_	_	_	_	Shift=5800|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=5807
+12	у	_	_	_	_	_	_	_	Shift=5809
+13	``	_	_	_	_	_	_	_	Shift=5811|SpaceAfter=No
+14	Эксмо	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2702|RuCor_group_id=471857|RuCor_link_id=471855|Shift=5813
+15	``	_	_	_	_	_	_	_	Shift=5819|SpaceAfter=No
+16	есть	_	_	_	_	_	_	_	Shift=5821|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=5826
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p47
+# par_text = Надежды « Эксмо » пока не очень склонны разделять издательства помельче .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p47-s1
+# text = Надежды ``Эксмо ``пока не очень склонны разделять издательства помельче.
+1	Надежды	_	_	_	_	_	_	_	Shift=5828
+2	``	_	_	_	_	_	_	_	Shift=5836|SpaceAfter=No
+3	Эксмо	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2702|RuCor_group_id=471858|RuCor_link_id=471857|Shift=5838
+4	``	_	_	_	_	_	_	_	Shift=5844|SpaceAfter=No
+5	пока	_	_	_	_	_	_	_	Shift=5846
+6	не	_	_	_	_	_	_	_	Shift=5851
+7	очень	_	_	_	_	_	_	_	Shift=5854
+8	склонны	_	_	_	_	_	_	_	Shift=5860
+9	разделять	_	_	_	_	_	_	_	Shift=5868
+10	издательства	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2704|RuCor_group_id=471859|RuCor_link_id=0|Shift=5878
+11	помельче	_	_	_	_	_	_	_	RuCor_chain_id=2704|RuCor_group_id=471859|Shift=5891|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=5900
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p48
+# par_text = Их отношение к электронным книгам пока опасливо-пренебрежительное : пираты сопрут или денег не светит .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p48-s1
+# text = Их отношение к электронным книгам пока опасливо - пренебрежительное: пираты сопрут или денег не светит.
+1	Их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=2704|RuCor_group_id=471860|RuCor_link_id=471859|Shift=5902
+2	отношение	_	_	_	_	_	_	_	Shift=5905
+3	к	_	_	_	_	_	_	_	Shift=5915
+4	электронным	_	_	_	_	_	_	_	Shift=5917
+5	книгам	_	_	_	_	_	_	_	Shift=5929
+6	пока	_	_	_	_	_	_	_	Shift=5936
+7	опасливо	_	_	_	_	_	_	_	Shift=5941
+8	-	_	_	_	_	_	_	_	Shift=5949
+9	пренебрежительное	_	_	_	_	_	_	_	Shift=5950|SpaceAfter=No
+10	:	_	_	_	_	_	_	_	Shift=5968
+11	пираты	_	_	_	_	_	_	_	Shift=5970
+12	сопрут	_	_	_	_	_	_	_	Shift=5977
+13	или	_	_	_	_	_	_	_	Shift=5984
+14	денег	_	_	_	_	_	_	_	Shift=5988
+15	не	_	_	_	_	_	_	_	Shift=5994
+16	светит	_	_	_	_	_	_	_	Shift=5997|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=6004
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p49
+# par_text = Или и то и другое .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p49-s1
+# text = Или и то и другое.
+1	Или	_	_	_	_	_	_	_	Shift=6006
+2	и	_	_	_	_	_	_	_	Shift=6010
+3	то	_	_	_	_	_	_	_	Shift=6012
+4	и	_	_	_	_	_	_	_	Shift=6015
+5	другое	_	_	_	_	_	_	_	Shift=6017|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=6024
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p50
+# par_text = Правда , пиратства , судя по всему , настоящие электронные книготорговцы не боятся .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p50-s1
+# text = Правда, пиратства, судя по всему, настоящие электронные книготорговцы не боятся.
+1	Правда	_	_	_	_	_	_	_	Shift=6026|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=6033
+3	пиратства	_	_	_	_	_	_	_	Shift=6035|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=6045
+5	судя	_	_	_	_	_	_	_	Shift=6047
+6	по	_	_	_	_	_	_	_	Shift=6052
+7	всему	_	_	_	_	_	_	_	Shift=6055|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=6061
+9	настоящие	_	_	_	_	_	_	_	Shift=6063
+10	электронные	_	_	_	_	_	_	_	Shift=6073
+11	книготорговцы	_	_	_	_	_	_	_	Shift=6085
+12	не	_	_	_	_	_	_	_	Shift=6099
+13	боятся	_	_	_	_	_	_	_	Shift=6102|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=6109
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p51
+# par_text = Отвечая на вопрос « Частного корреспондента » о сущности революционной сделки , которую « Литрес » заключил с « Либрусек » , популярной в интернете пиратской библиотекой русскоязычных книг , базирующейся в Эквадоре , Алексей Кузьмин сказал :
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p51-s1
+# text = Отвечая на вопрос ``Частного корреспондента ``о сущности революционной сделки, которую ``Литрес ``заключил с ``Либрусек ``, популярной в интернете пиратской библиотекой русскоязычных книг, базирующейся в Эквадоре, Алексей Кузьмин сказал:
+1	Отвечая	_	_	_	_	_	_	_	Shift=6111
+2	на	_	_	_	_	_	_	_	Shift=6119
+3	вопрос	_	_	_	_	_	_	_	Shift=6122
+4	``	_	_	_	_	_	_	_	Shift=6129|SpaceAfter=No
+5	Частного	_	_	_	_	_	_	_	Shift=6131
+6	корреспондента	_	_	_	_	_	_	_	Shift=6140
+7	``	_	_	_	_	_	_	_	Shift=6155|SpaceAfter=No
+8	о	_	_	_	_	_	_	_	Shift=6157
+9	сущности	_	_	_	_	_	_	_	Shift=6159
+10	революционной	_	_	_	_	_	_	_	RuCor_chain_id=2705|RuCor_group_id=471861|Shift=6168
+11	сделки	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2705|RuCor_group_id=471861|RuCor_link_id=0|Shift=6182|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=6189
+13	которую	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2705|RuCor_group_id=471862|RuCor_link_id=471861|Shift=6191
+14	``	_	_	_	_	_	_	_	Shift=6199|SpaceAfter=No
+15	Литрес	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2695|RuCor_group_id=471863|RuCor_link_id=471848|Shift=6201
+16	``	_	_	_	_	_	_	_	Shift=6208|SpaceAfter=No
+17	заключил	_	_	_	_	_	_	_	Shift=6210
+18	с	_	_	_	_	_	_	_	Shift=6219
+19	``	_	_	_	_	_	_	_	Shift=6221|SpaceAfter=No
+20	Либрусек	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2706|RuCor_group_id=471864|RuCor_link_id=0|Shift=6223
+21	``	_	_	_	_	_	_	_	Shift=6232|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=6234
+23	популярной	_	_	_	_	_	_	_	RuCor_chain_id=2706|RuCor_group_id=471865|Shift=6236
+24	в	_	_	_	_	_	_	_	RuCor_chain_id=2706|RuCor_group_id=471865|Shift=6247
+25	интернете	_	_	_	_	_	_	_	RuCor_chain_id=2706|RuCor_group_id=471865|Shift=6249
+26	пиратской	_	_	_	_	_	_	_	RuCor_chain_id=2706|RuCor_group_id=471865|Shift=6259
+27	библиотекой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2706|RuCor_group_id=471865|RuCor_link_id=471864|Shift=6269
+28	русскоязычных	_	_	_	_	_	_	_	RuCor_chain_id=2706|RuCor_group_id=471865|Shift=6281
+29	книг	_	_	_	_	_	_	_	RuCor_chain_id=2706|RuCor_group_id=471865|Shift=6295|SpaceAfter=No
+30	,	_	_	_	_	_	_	_	Shift=6300
+31	базирующейся	_	_	_	_	_	_	_	Shift=6302
+32	в	_	_	_	_	_	_	_	Shift=6315
+33	Эквадоре	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2707|RuCor_group_id=471866|RuCor_link_id=0|Shift=6317|SpaceAfter=No
+34	,	_	_	_	_	_	_	_	Shift=6326
+35	Алексей	_	_	_	_	_	_	_	RuCor_chain_id=2696|RuCor_group_id=471867|Shift=6328
+36	Кузьмин	_	_	_	_	_	_	_	RuCor_chain_id=2696|RuCor_group_id=471867|Shift=6336
+37	сказал	_	_	_	_	_	_	_	Shift=6344|SpaceAfter=No
+38	:	_	_	_	_	_	_	_	Shift=6351
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p52
+# par_text = « Основные потери у нас от Эквадора на новинках .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p52-s1
+# text = ``Основные потери у нас от Эквадора на новинках.
+1	``	_	_	_	_	_	_	_	Shift=6353|SpaceAfter=No
+2	Основные	_	_	_	_	_	_	_	Shift=6355
+3	потери	_	_	_	_	_	_	_	Shift=6364
+4	у	_	_	_	_	_	_	_	Shift=6371
+5	нас	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2695|RuCor_group_id=471868|RuCor_link_id=471863|Shift=6373
+6	от	_	_	_	_	_	_	_	Shift=6377
+7	Эквадора	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2707|RuCor_group_id=471869|RuCor_link_id=471866|Shift=6380
+8	на	_	_	_	_	_	_	_	Shift=6389
+9	новинках	_	_	_	_	_	_	_	Shift=6392|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=6401
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p53
+# par_text = Первые недели две идёт вал продаж .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p53-s1
+# text = Первые недели две идёт вал продаж.
+1	Первые	_	_	_	_	_	_	_	Shift=6403
+2	недели	_	_	_	_	_	_	_	Shift=6410
+3	две	_	_	_	_	_	_	_	Shift=6417
+4	идёт	_	_	_	_	_	_	_	Shift=6421
+5	вал	_	_	_	_	_	_	_	Shift=6426
+6	продаж	_	_	_	_	_	_	_	Shift=6430|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=6437
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p54
+# par_text = И теперь мы даём им информацию о новых книгах — автор , название и т . д . — заранее .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p54-s1
+# text = И теперь мы даём им информацию о новых книгах - автор, название и т.
+1	И	_	_	_	_	_	_	_	Shift=6439
+2	теперь	_	_	_	_	_	_	_	Shift=6441
+3	мы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2695|RuCor_group_id=471870|RuCor_link_id=471868|Shift=6448
+4	даём	_	_	_	_	_	_	_	Shift=6451
+5	им	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2706|RuCor_group_id=471871|RuCor_link_id=471864|Shift=6456
+6	информацию	_	_	_	_	_	_	_	Shift=6459
+7	о	_	_	_	_	_	_	_	Shift=6470
+8	новых	_	_	_	_	_	_	_	RuCor_chain_id=2708|RuCor_group_id=471872|Shift=6472
+9	книгах	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2708|RuCor_group_id=471872|RuCor_link_id=471873|Shift=6478
+10	-	_	_	_	_	_	_	_	Shift=6485
+11	автор	_	_	_	_	_	_	_	Shift=6487|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=6493
+13	название	_	_	_	_	_	_	_	Shift=6495
+14	и	_	_	_	_	_	_	_	Shift=6504
+15	т	_	_	_	_	_	_	_	Shift=6506|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=6508
+
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p54-s2
+# text = д.
+1	д	_	_	_	_	_	_	_	Shift=6510|SpaceAfter=No
+2	.	_	_	_	_	_	_	_	Shift=6512
+
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p54-s3
+# text = - заранее.
+1	-	_	_	_	_	_	_	_	Shift=6514
+2	заранее	_	_	_	_	_	_	_	Shift=6516|SpaceAfter=No
+3	.	_	_	_	_	_	_	_	Shift=6524
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p55
+# par_text = Всё это обрабатывается , и если эти книги кто-то закачивает на « Либрусек » , то их скачивание блокируется на 28 дней » .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p55-s1
+# text = Всё это обрабатывается, и если эти книги кто-то закачивает на ``Либрусек ``, то их скачивание блокируется на 28 дней ``.
+1	Всё	_	_	_	_	_	_	_	Shift=6526
+2	это	_	_	_	_	_	_	_	Shift=6530
+3	обрабатывается	_	_	_	_	_	_	_	Shift=6534|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=6549
+5	и	_	_	_	_	_	_	_	Shift=6551
+6	если	_	_	_	_	_	_	_	Shift=6553
+7	эти	_	_	_	_	_	_	_	RuCor_chain_id=2708|RuCor_group_id=471873|Shift=6558
+8	книги	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2708|RuCor_group_id=471873|RuCor_link_id=0|Shift=6562
+9	кто-то	_	_	_	_	_	_	_	Shift=6568
+10	закачивает	_	_	_	_	_	_	_	Shift=6575
+11	на	_	_	_	_	_	_	_	Shift=6586
+12	``	_	_	_	_	_	_	_	Shift=6589|SpaceAfter=No
+13	Либрусек	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2706|RuCor_group_id=471875|RuCor_link_id=471864|Shift=6591
+14	``	_	_	_	_	_	_	_	Shift=6600|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=6602
+16	то	_	_	_	_	_	_	_	Shift=6604
+17	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=2709|RuCor_group_id=471876|RuCor_link_id=471874|Shift=6607
+18	скачивание	_	_	_	_	_	_	_	Shift=6610
+19	блокируется	_	_	_	_	_	_	_	Shift=6621
+20	на	_	_	_	_	_	_	_	Shift=6633
+21	28	_	_	_	_	_	_	_	Shift=6636
+22	дней	_	_	_	_	_	_	_	Shift=6639
+23	``	_	_	_	_	_	_	_	Shift=6644|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=6646
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p56
+# par_text = После этого , судя по всему , « Литрес » умывает руки , терпеливые и экономные читатели электронных книг идут на « Либрусек » .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p56-s1
+# text = После этого, судя по всему, ``Литрес ``умывает руки, терпеливые и экономные читатели электронных книг идут на ``Либрусек ``.
+1	После	_	_	_	_	_	_	_	Shift=6648
+2	этого	_	_	_	_	_	_	_	Shift=6654|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=6660
+4	судя	_	_	_	_	_	_	_	Shift=6662
+5	по	_	_	_	_	_	_	_	Shift=6667
+6	всему	_	_	_	_	_	_	_	Shift=6670|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=6676
+8	``	_	_	_	_	_	_	_	Shift=6678|SpaceAfter=No
+9	Литрес	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2695|RuCor_group_id=471877|RuCor_link_id=471863|Shift=6680
+10	``	_	_	_	_	_	_	_	Shift=6687|SpaceAfter=No
+11	умывает	_	_	_	_	_	_	_	Shift=6689
+12	руки	_	_	_	_	_	_	_	Shift=6697|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=6702
+14	терпеливые	_	_	_	_	_	_	_	Shift=6704
+15	и	_	_	_	_	_	_	_	Shift=6715
+16	экономные	_	_	_	_	_	_	_	Shift=6717
+17	читатели	_	_	_	_	_	_	_	Shift=6727
+18	электронных	_	_	_	_	_	_	_	Shift=6736
+19	книг	_	_	_	_	_	_	_	Shift=6748
+20	идут	_	_	_	_	_	_	_	Shift=6753
+21	на	_	_	_	_	_	_	_	Shift=6758
+22	``	_	_	_	_	_	_	_	Shift=6761|SpaceAfter=No
+23	Либрусек	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2706|RuCor_group_id=471878|RuCor_link_id=471864|Shift=6763
+24	``	_	_	_	_	_	_	_	Shift=6772|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=6774
+
+# newpar id = c72bd931-6e1e-4948-9037-e8f728acbfef-p57
+# par_text = А издателям , которые нынче больше страдают от кризиса , чем от пиратов , остаётся , видимо , дожидаться того дня , когда они поймут , что кризис бумажного книгоиздания уже не кончится никогда .
+# sent_id = c72bd931-6e1e-4948-9037-e8f728acbfef-p57-s1
+# text = А издателям, которые нынче больше страдают от кризиса, чем от пиратов, остаётся, видимо, дожидаться того дня, когда они поймут, что кризис бумажного книгоиздания уже не кончится никогда.
+1	А	_	_	_	_	_	_	_	Shift=6776
+2	издателям	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2710|RuCor_group_id=471879|RuCor_link_id=0|Shift=6778|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=6788
+4	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=2710|RuCor_group_id=471880|RuCor_link_id=471879|Shift=6790
+5	нынче	_	_	_	_	_	_	_	Shift=6798
+6	больше	_	_	_	_	_	_	_	Shift=6804
+7	страдают	_	_	_	_	_	_	_	Shift=6811
+8	от	_	_	_	_	_	_	_	Shift=6820
+9	кризиса	_	_	_	_	_	_	_	Shift=6823|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=6831
+11	чем	_	_	_	_	_	_	_	Shift=6833
+12	от	_	_	_	_	_	_	_	Shift=6837
+13	пиратов	_	_	_	_	_	_	_	Shift=6840|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=6848
+15	остаётся	_	_	_	_	_	_	_	Shift=6850|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=6859
+17	видимо	_	_	_	_	_	_	_	Shift=6861|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=6868
+19	дожидаться	_	_	_	_	_	_	_	Shift=6870
+20	того	_	_	_	_	_	_	_	Shift=6881
+21	дня	_	_	_	_	_	_	_	Shift=6886|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=6890
+23	когда	_	_	_	_	_	_	_	Shift=6892
+24	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2710|RuCor_group_id=471881|RuCor_link_id=471880|Shift=6898
+25	поймут	_	_	_	_	_	_	_	Shift=6902|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	Shift=6909
+27	что	_	_	_	_	_	_	_	Shift=6911
+28	кризис	_	_	_	_	_	_	_	Shift=6915
+29	бумажного	_	_	_	_	_	_	_	Shift=6922
+30	книгоиздания	_	_	_	_	_	_	_	Shift=6932
+31	уже	_	_	_	_	_	_	_	Shift=6945
+32	не	_	_	_	_	_	_	_	Shift=6949
+33	кончится	_	_	_	_	_	_	_	Shift=6952
+34	никогда	_	_	_	_	_	_	_	Shift=6961|SpaceAfter=No
+35	.	_	_	_	_	_	_	_	_
+

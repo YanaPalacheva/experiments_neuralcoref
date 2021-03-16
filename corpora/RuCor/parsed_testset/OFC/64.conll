@@ -1,0 +1,712 @@
+# newdoc id = f8190523-1fcd-4de2-962f-96c3d563aab2
+# newpar id = f8190523-1fcd-4de2-962f-96c3d563aab2-p1
+# par_text = Новости о грядущей эмиссии в США обвалили доллар и подняли цену золота .
+# sent_id = f8190523-1fcd-4de2-962f-96c3d563aab2-p1-s1
+# text = Новости о грядущей эмиссии в США обвалили доллар и подняли цену золота.
+1	Новости	_	_	_	_	_	_	_	Shift=0
+2	о	_	_	_	_	_	_	_	Shift=8
+3	грядущей	_	_	_	_	_	_	_	Shift=10
+4	эмиссии	_	_	_	_	_	_	_	Shift=19
+5	в	_	_	_	_	_	_	_	Shift=27
+6	США	_	_	_	_	_	_	_	Shift=29
+7	обвалили	_	_	_	_	_	_	_	Shift=33
+8	доллар	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2173|RuCor_group_id=469758|RuCor_link_id=0|Shift=42
+9	и	_	_	_	_	_	_	_	Shift=49
+10	подняли	_	_	_	_	_	_	_	Shift=51
+11	цену	_	_	_	_	_	_	_	Shift=59
+12	золота	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2174|RuCor_group_id=469759|RuCor_link_id=0|Shift=64|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=71
+
+# newpar id = f8190523-1fcd-4de2-962f-96c3d563aab2-p2
+# par_text = При этом рост количества долларов пока не зафиксирован .
+# sent_id = f8190523-1fcd-4de2-962f-96c3d563aab2-p2-s1
+# text = При этом рост количества долларов пока не зафиксирован.
+1	При	_	_	_	_	_	_	_	Shift=73
+2	этом	_	_	_	_	_	_	_	Shift=77
+3	рост	_	_	_	_	_	_	_	Shift=82
+4	количества	_	_	_	_	_	_	_	Shift=87
+5	долларов	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2173|RuCor_group_id=469760|RuCor_link_id=469758|Shift=98
+6	пока	_	_	_	_	_	_	_	Shift=107
+7	не	_	_	_	_	_	_	_	Shift=112
+8	зафиксирован	_	_	_	_	_	_	_	Shift=115|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=128
+
+# newpar id = f8190523-1fcd-4de2-962f-96c3d563aab2-p3
+# par_text = Со швейцарским франком ситуация противоположная : стало известно , что в феврале денежная масса Швейцарии увеличилась на 3,5 % , однако биржевой курс франка и его покупательная способность за неделю выросли .
+# sent_id = f8190523-1fcd-4de2-962f-96c3d563aab2-p3-s1
+# text = Со швейцарским франком ситуация противоположная: стало известно, что в феврале денежная масса Швейцарии увеличилась на 3, 5 %, однако биржевой курс франка и его покупательная способность за неделю выросли.
+1	Со	_	_	_	_	_	_	_	Shift=130
+2	швейцарским	_	_	_	_	_	_	_	RuCor_chain_id=2176|RuCor_group_id=469761|Shift=133
+3	франком	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2176|RuCor_group_id=469761|RuCor_link_id=469763|Shift=145
+4	ситуация	_	_	_	_	_	_	_	Shift=153
+5	противоположная	_	_	_	_	_	_	_	Shift=162|SpaceAfter=No
+6	:	_	_	_	_	_	_	_	Shift=178
+7	стало	_	_	_	_	_	_	_	Shift=180
+8	известно	_	_	_	_	_	_	_	Shift=186|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=195
+10	что	_	_	_	_	_	_	_	Shift=197
+11	в	_	_	_	_	_	_	_	Shift=201
+12	феврале	_	_	_	_	_	_	_	Shift=203
+13	денежная	_	_	_	_	_	_	_	Shift=211
+14	масса	_	_	_	_	_	_	_	Shift=220
+15	Швейцарии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2175|RuCor_group_id=469762|RuCor_link_id=0|Shift=226
+16	увеличилась	_	_	_	_	_	_	_	Shift=236
+17	на	_	_	_	_	_	_	_	Shift=248
+18	3	_	_	_	_	_	_	_	Shift=251|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=252
+20	5	_	_	_	_	_	_	_	Shift=253
+21	%	_	_	_	_	_	_	_	Shift=255|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=257
+23	однако	_	_	_	_	_	_	_	Shift=259
+24	биржевой	_	_	_	_	_	_	_	Shift=266
+25	курс	_	_	_	_	_	_	_	Shift=275
+26	франка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2176|RuCor_group_id=469763|RuCor_link_id=0|Shift=280
+27	и	_	_	_	_	_	_	_	Shift=287
+28	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2176|RuCor_group_id=469764|RuCor_link_id=469763|Shift=289
+29	покупательная	_	_	_	_	_	_	_	Shift=293
+30	способность	_	_	_	_	_	_	_	Shift=307
+31	за	_	_	_	_	_	_	_	Shift=319
+32	неделю	_	_	_	_	_	_	_	Shift=322
+33	выросли	_	_	_	_	_	_	_	Shift=329|SpaceAfter=No
+34	.	_	_	_	_	_	_	_	Shift=337
+
+# newpar id = f8190523-1fcd-4de2-962f-96c3d563aab2-p4
+# par_text = Во время кризиса словно почва уходит из-под ног .
+# sent_id = f8190523-1fcd-4de2-962f-96c3d563aab2-p4-s1
+# text = Во время кризиса словно почва уходит из-под ног.
+1	Во	_	_	_	_	_	_	_	Shift=339
+2	время	_	_	_	_	_	_	_	Shift=342
+3	кризиса	_	_	_	_	_	_	_	Shift=348
+4	словно	_	_	_	_	_	_	_	Shift=356
+5	почва	_	_	_	_	_	_	_	Shift=363
+6	уходит	_	_	_	_	_	_	_	Shift=369
+7	из-под	_	_	_	_	_	_	_	Shift=376
+8	ног	_	_	_	_	_	_	_	Shift=383|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=387
+
+# newpar id = f8190523-1fcd-4de2-962f-96c3d563aab2-p5
+# par_text = Привычные ценовые ориентиры превращаются в какие-то бессмысленные фантастические цифры .
+# sent_id = f8190523-1fcd-4de2-962f-96c3d563aab2-p5-s1
+# text = Привычные ценовые ориентиры превращаются в какие-то бессмысленные фантастические цифры.
+1	Привычные	_	_	_	_	_	_	_	Shift=389
+2	ценовые	_	_	_	_	_	_	_	Shift=399
+3	ориентиры	_	_	_	_	_	_	_	Shift=407
+4	превращаются	_	_	_	_	_	_	_	Shift=417
+5	в	_	_	_	_	_	_	_	Shift=430
+6	какие-то	_	_	_	_	_	_	_	Shift=432
+7	бессмысленные	_	_	_	_	_	_	_	Shift=441
+8	фантастические	_	_	_	_	_	_	_	Shift=455
+9	цифры	_	_	_	_	_	_	_	Shift=470|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=476
+
+# newpar id = f8190523-1fcd-4de2-962f-96c3d563aab2-p6
+# par_text = Всё обваливается , и о возможных пределах этого обвала можно только гадать .
+# sent_id = f8190523-1fcd-4de2-962f-96c3d563aab2-p6-s1
+# text = Всё обваливается, и о возможных пределах этого обвала можно только гадать.
+1	Всё	_	_	_	_	_	_	_	Shift=478
+2	обваливается	_	_	_	_	_	_	_	Shift=482|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=495
+4	и	_	_	_	_	_	_	_	Shift=497
+5	о	_	_	_	_	_	_	_	Shift=499
+6	возможных	_	_	_	_	_	_	_	Shift=501
+7	пределах	_	_	_	_	_	_	_	Shift=511
+8	этого	_	_	_	_	_	_	_	Shift=520
+9	обвала	_	_	_	_	_	_	_	Shift=526
+10	можно	_	_	_	_	_	_	_	Shift=533
+11	только	_	_	_	_	_	_	_	Shift=539
+12	гадать	_	_	_	_	_	_	_	Shift=546|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=553
+
+# newpar id = f8190523-1fcd-4de2-962f-96c3d563aab2-p7
+# par_text = Акции « Газпрома » обесценились в три с лишним раза .
+# sent_id = f8190523-1fcd-4de2-962f-96c3d563aab2-p7-s1
+# text = Акции ``Газпрома ``обесценились в три с лишним раза.
+1	Акции	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2177|RuCor_group_id=469765|RuCor_link_id=0|Shift=555
+2	``	_	_	_	_	_	_	_	RuCor_chain_id=2177|RuCor_group_id=469765|Shift=561|SpaceAfter=No
+3	Газпрома	_	_	_	_	_	_	_	RuCor_chain_id=2177|RuCor_group_id=469765|Shift=563
+4	``	_	_	_	_	_	_	_	RuCor_chain_id=2177|RuCor_group_id=469765|Shift=572|SpaceAfter=No
+5	обесценились	_	_	_	_	_	_	_	Shift=574
+6	в	_	_	_	_	_	_	_	Shift=587
+7	три	_	_	_	_	_	_	_	Shift=589
+8	с	_	_	_	_	_	_	_	Shift=593
+9	лишним	_	_	_	_	_	_	_	Shift=595
+10	раза	_	_	_	_	_	_	_	Shift=602|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=607
+
+# newpar id = f8190523-1fcd-4de2-962f-96c3d563aab2-p8
+# par_text = А могут ли они упасть еще дальше : в 10 , в 30 , в 100 раз ?
+# sent_id = f8190523-1fcd-4de2-962f-96c3d563aab2-p8-s1
+# text = А могут ли они упасть еще дальше: в 10, в 30, в 100 раз?
+1	А	_	_	_	_	_	_	_	Shift=609
+2	могут	_	_	_	_	_	_	_	Shift=611
+3	ли	_	_	_	_	_	_	_	Shift=617
+4	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2177|RuCor_group_id=469766|RuCor_link_id=469765|Shift=620
+5	упасть	_	_	_	_	_	_	_	Shift=624
+6	еще	_	_	_	_	_	_	_	Shift=631
+7	дальше	_	_	_	_	_	_	_	Shift=635|SpaceAfter=No
+8	:	_	_	_	_	_	_	_	Shift=642
+9	в	_	_	_	_	_	_	_	Shift=644
+10	10	_	_	_	_	_	_	_	Shift=646|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=649
+12	в	_	_	_	_	_	_	_	Shift=651
+13	30	_	_	_	_	_	_	_	Shift=653|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=656
+15	в	_	_	_	_	_	_	_	Shift=658
+16	100	_	_	_	_	_	_	_	Shift=660
+17	раз	_	_	_	_	_	_	_	Shift=664|SpaceAfter=No
+18	?	_	_	_	_	_	_	_	Shift=668
+
+# newpar id = f8190523-1fcd-4de2-962f-96c3d563aab2-p9
+# par_text = Чего стоит ожидать от мировых валют при наихудшем раскладе и как понять , действительно ли сложившийся расклад — наихудший ?
+# sent_id = f8190523-1fcd-4de2-962f-96c3d563aab2-p9-s1
+# text = Чего стоит ожидать от мировых валют при наихудшем раскладе и как понять, действительно ли сложившийся расклад - наихудший?
+1	Чего	_	_	_	_	_	_	_	Shift=670
+2	стоит	_	_	_	_	_	_	_	Shift=675
+3	ожидать	_	_	_	_	_	_	_	Shift=681
+4	от	_	_	_	_	_	_	_	Shift=689
+5	мировых	_	_	_	_	_	_	_	Shift=692
+6	валют	_	_	_	_	_	_	_	Shift=700
+7	при	_	_	_	_	_	_	_	Shift=706
+8	наихудшем	_	_	_	_	_	_	_	Shift=710
+9	раскладе	_	_	_	_	_	_	_	Shift=720
+10	и	_	_	_	_	_	_	_	Shift=729
+11	как	_	_	_	_	_	_	_	Shift=731
+12	понять	_	_	_	_	_	_	_	Shift=735|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=742
+14	действительно	_	_	_	_	_	_	_	Shift=744
+15	ли	_	_	_	_	_	_	_	Shift=758
+16	сложившийся	_	_	_	_	_	_	_	Shift=761
+17	расклад	_	_	_	_	_	_	_	Shift=773
+18	-	_	_	_	_	_	_	_	Shift=781
+19	наихудший	_	_	_	_	_	_	_	Shift=783|SpaceAfter=No
+20	?	_	_	_	_	_	_	_	Shift=793
+
+# newpar id = f8190523-1fcd-4de2-962f-96c3d563aab2-p10
+# par_text = Вероятен ли , например , крах американского доллара ?
+# sent_id = f8190523-1fcd-4de2-962f-96c3d563aab2-p10-s1
+# text = Вероятен ли, например, крах американского доллара?
+1	Вероятен	_	_	_	_	_	_	_	Shift=795
+2	ли	_	_	_	_	_	_	_	Shift=804|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=807
+4	например	_	_	_	_	_	_	_	Shift=809|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=818
+6	крах	_	_	_	_	_	_	_	Shift=820
+7	американского	_	_	_	_	_	_	_	RuCor_chain_id=2173|RuCor_group_id=469767|Shift=825
+8	доллара	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2173|RuCor_group_id=469767|RuCor_link_id=469760|Shift=839|SpaceAfter=No
+9	?	_	_	_	_	_	_	_	Shift=847
+
+# newpar id = f8190523-1fcd-4de2-962f-96c3d563aab2-p11
+# par_text = И что в существующих условиях можно называть крахом ?
+# sent_id = f8190523-1fcd-4de2-962f-96c3d563aab2-p11-s1
+# text = И что в существующих условиях можно называть крахом?
+1	И	_	_	_	_	_	_	_	Shift=849
+2	что	_	_	_	_	_	_	_	Shift=851
+3	в	_	_	_	_	_	_	_	Shift=855
+4	существующих	_	_	_	_	_	_	_	Shift=857
+5	условиях	_	_	_	_	_	_	_	Shift=870
+6	можно	_	_	_	_	_	_	_	Shift=879
+7	называть	_	_	_	_	_	_	_	Shift=885
+8	крахом	_	_	_	_	_	_	_	Shift=894|SpaceAfter=No
+9	?	_	_	_	_	_	_	_	Shift=901
+
+# newpar id = f8190523-1fcd-4de2-962f-96c3d563aab2-p12
+# par_text = Чтобы помочь читателям , размышляющим над этими вопросами , мы начинаем рассчитывать и публиковать специальные показатели , измеряющие величину разрыва между текущей стоимостью самых популярных финансовых активов и оценкой , которую им мог бы дать наиболее скептический и консервативный аналитик .
+# sent_id = f8190523-1fcd-4de2-962f-96c3d563aab2-p12-s1
+# text = Чтобы помочь читателям, размышляющим над этими вопросами, мы начинаем рассчитывать и публиковать специальные показатели, измеряющие величину разрыва между текущей стоимостью самых популярных финансовых активов и оценкой, которую им мог бы дать наиболее скептический и консервативный аналитик.
+1	Чтобы	_	_	_	_	_	_	_	Shift=903
+2	помочь	_	_	_	_	_	_	_	Shift=909
+3	читателям	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2178|RuCor_group_id=469768|RuCor_link_id=0|Shift=916|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=926
+5	размышляющим	_	_	_	_	_	_	_	Shift=928
+6	над	_	_	_	_	_	_	_	Shift=941
+7	этими	_	_	_	_	_	_	_	Shift=945
+8	вопросами	_	_	_	_	_	_	_	Shift=951|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=961
+10	мы	_	_	_	_	_	_	_	Shift=963
+11	начинаем	_	_	_	_	_	_	_	Shift=966
+12	рассчитывать	_	_	_	_	_	_	_	Shift=975
+13	и	_	_	_	_	_	_	_	Shift=988
+14	публиковать	_	_	_	_	_	_	_	Shift=990
+15	специальные	_	_	_	_	_	_	_	Shift=1002
+16	показатели	_	_	_	_	_	_	_	Shift=1014|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=1025
+18	измеряющие	_	_	_	_	_	_	_	Shift=1027
+19	величину	_	_	_	_	_	_	_	Shift=1038
+20	разрыва	_	_	_	_	_	_	_	Shift=1047
+21	между	_	_	_	_	_	_	_	Shift=1055
+22	текущей	_	_	_	_	_	_	_	Shift=1061
+23	стоимостью	_	_	_	_	_	_	_	Shift=1069
+24	самых	_	_	_	_	_	_	_	Shift=1080
+25	популярных	_	_	_	_	_	_	_	Shift=1086
+26	финансовых	_	_	_	_	_	_	_	Shift=1097
+27	активов	_	_	_	_	_	_	_	Shift=1108
+28	и	_	_	_	_	_	_	_	Shift=1116
+29	оценкой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2179|RuCor_group_id=469769|RuCor_link_id=0|Shift=1118|SpaceAfter=No
+30	,	_	_	_	_	_	_	_	Shift=1126
+31	которую	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2179|RuCor_group_id=469770|RuCor_link_id=469769|Shift=1128
+32	им	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2178|RuCor_group_id=469771|RuCor_link_id=469768|Shift=1136
+33	мог	_	_	_	_	_	_	_	Shift=1139
+34	бы	_	_	_	_	_	_	_	Shift=1143
+35	дать	_	_	_	_	_	_	_	Shift=1146
+36	наиболее	_	_	_	_	_	_	_	Shift=1151
+37	скептический	_	_	_	_	_	_	_	Shift=1160
+38	и	_	_	_	_	_	_	_	Shift=1173
+39	консервативный	_	_	_	_	_	_	_	Shift=1175
+40	аналитик	_	_	_	_	_	_	_	Shift=1190|SpaceAfter=No
+41	.	_	_	_	_	_	_	_	Shift=1199
+
+# newpar id = f8190523-1fcd-4de2-962f-96c3d563aab2-p13
+# par_text = Ведь во время кризисов обычно выигрывает тот , кто опирается на самые мрачные и пессимистичные прогнозы .
+# sent_id = f8190523-1fcd-4de2-962f-96c3d563aab2-p13-s1
+# text = Ведь во время кризисов обычно выигрывает тот, кто опирается на самые мрачные и пессимистичные прогнозы.
+1	Ведь	_	_	_	_	_	_	_	Shift=1201
+2	во	_	_	_	_	_	_	_	Shift=1206
+3	время	_	_	_	_	_	_	_	Shift=1209
+4	кризисов	_	_	_	_	_	_	_	Shift=1215
+5	обычно	_	_	_	_	_	_	_	Shift=1224
+6	выигрывает	_	_	_	_	_	_	_	Shift=1231
+7	тот	_	_	_	_	_	_	_	Shift=1242|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1246
+9	кто	_	_	_	_	_	_	_	Shift=1248
+10	опирается	_	_	_	_	_	_	_	Shift=1252
+11	на	_	_	_	_	_	_	_	Shift=1262
+12	самые	_	_	_	_	_	_	_	Shift=1265
+13	мрачные	_	_	_	_	_	_	_	Shift=1271
+14	и	_	_	_	_	_	_	_	Shift=1279
+15	пессимистичные	_	_	_	_	_	_	_	Shift=1281
+16	прогнозы	_	_	_	_	_	_	_	Shift=1296|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=1305
+
+# newpar id = f8190523-1fcd-4de2-962f-96c3d563aab2-p14
+# par_text = Валютный глубиномер .
+# sent_id = f8190523-1fcd-4de2-962f-96c3d563aab2-p14-s1
+# text = Валютный глубиномер.
+1	Валютный	_	_	_	_	_	_	_	Shift=1307
+2	глубиномер	_	_	_	_	_	_	_	Shift=1316|SpaceAfter=No
+3	.	_	_	_	_	_	_	_	Shift=1327
+
+# newpar id = f8190523-1fcd-4de2-962f-96c3d563aab2-p15
+# par_text = Индекс золотого дна
+# sent_id = f8190523-1fcd-4de2-962f-96c3d563aab2-p15-s1
+# text = Индекс золотого дна
+1	Индекс	_	_	_	_	_	_	_	Shift=1329
+2	золотого	_	_	_	_	_	_	_	Shift=1336
+3	дна	_	_	_	_	_	_	_	Shift=1345
+
+# newpar id = f8190523-1fcd-4de2-962f-96c3d563aab2-p16
+# par_text = После того как Бен Бернанке заявил , что ФРС направит 1050 млрд долларов на скупку ипотечных бумаг и долгосрочных американских облигаций ( это произошло 18 марта ) , доллар упал и относительно золота , и относительно прочих валют .
+# sent_id = f8190523-1fcd-4de2-962f-96c3d563aab2-p16-s1
+# text = После того как Бен Бернанке заявил, что ФРС направит 1050 млрд долларов на скупку ипотечных бумаг и долгосрочных американских облигаций (это произошло 18 марта), доллар упал и относительно золота, и относительно прочих валют.
+1	После	_	_	_	_	_	_	_	Shift=1349
+2	того	_	_	_	_	_	_	_	Shift=1355
+3	как	_	_	_	_	_	_	_	Shift=1360
+4	Бен	_	_	_	_	_	_	_	Shift=1364
+5	Бернанке	_	_	_	_	_	_	_	Shift=1368
+6	заявил	_	_	_	_	_	_	_	Shift=1377|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=1384
+8	что	_	_	_	_	_	_	_	Shift=1386
+9	ФРС	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2180|RuCor_group_id=469772|RuCor_link_id=0|Shift=1390
+10	направит	_	_	_	_	_	_	_	Shift=1394
+11	1050	_	_	_	_	_	_	_	Shift=1403
+12	млрд	_	_	_	_	_	_	_	Shift=1408
+13	долларов	_	_	_	_	_	_	_	Shift=1413
+14	на	_	_	_	_	_	_	_	Shift=1422
+15	скупку	_	_	_	_	_	_	_	Shift=1425
+16	ипотечных	_	_	_	_	_	_	_	Shift=1432
+17	бумаг	_	_	_	_	_	_	_	Shift=1442
+18	и	_	_	_	_	_	_	_	Shift=1448
+19	долгосрочных	_	_	_	_	_	_	_	Shift=1450
+20	американских	_	_	_	_	_	_	_	Shift=1463
+21	облигаций	_	_	_	_	_	_	_	Shift=1476
+22	(	_	_	_	_	_	_	_	Shift=1486|SpaceAfter=No
+23	это	_	_	_	_	_	_	_	Shift=1488
+24	произошло	_	_	_	_	_	_	_	Shift=1492
+25	18	_	_	_	_	_	_	_	Shift=1502
+26	марта	_	_	_	_	_	_	_	Shift=1505|SpaceAfter=No
+27	)	_	_	_	_	_	_	_	Shift=1511|SpaceAfter=No
+28	,	_	_	_	_	_	_	_	Shift=1513
+29	доллар	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2181|RuCor_group_id=469773|RuCor_link_id=0|Shift=1515
+30	упал	_	_	_	_	_	_	_	Shift=1522
+31	и	_	_	_	_	_	_	_	Shift=1527
+32	относительно	_	_	_	_	_	_	_	Shift=1529
+33	золота	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2174|RuCor_group_id=469775|RuCor_link_id=469759|Shift=1542|SpaceAfter=No
+34	,	_	_	_	_	_	_	_	Shift=1549
+35	и	_	_	_	_	_	_	_	Shift=1551
+36	относительно	_	_	_	_	_	_	_	Shift=1553
+37	прочих	_	_	_	_	_	_	_	Shift=1566
+38	валют	_	_	_	_	_	_	_	Shift=1573|SpaceAfter=No
+39	.	_	_	_	_	_	_	_	Shift=1579
+
+# newpar id = f8190523-1fcd-4de2-962f-96c3d563aab2-p17
+# par_text = За неделю унция золота подорожала с 921,6 до 952,1 доллара .
+# sent_id = f8190523-1fcd-4de2-962f-96c3d563aab2-p17-s1
+# text = За неделю унция золота подорожала с 921, 6 до 952, 1 доллара.
+1	За	_	_	_	_	_	_	_	Shift=1581
+2	неделю	_	_	_	_	_	_	_	Shift=1584
+3	унция	_	_	_	_	_	_	_	Shift=1591
+4	золота	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2174|RuCor_group_id=469776|RuCor_link_id=469775|Shift=1597
+5	подорожала	_	_	_	_	_	_	_	Shift=1604
+6	с	_	_	_	_	_	_	_	Shift=1615
+7	921	_	_	_	_	_	_	_	Shift=1617|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1620
+9	6	_	_	_	_	_	_	_	Shift=1621
+10	до	_	_	_	_	_	_	_	Shift=1623
+11	952	_	_	_	_	_	_	_	Shift=1626|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=1629
+13	1	_	_	_	_	_	_	_	Shift=1630
+14	доллара	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2181|RuCor_group_id=469777|RuCor_link_id=469773|Shift=1632|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=1640
+
+# newpar id = f8190523-1fcd-4de2-962f-96c3d563aab2-p18
+# par_text = Однако увеличение количества долларов , ожидаемое рынками , пока не зафиксировано .
+# sent_id = f8190523-1fcd-4de2-962f-96c3d563aab2-p18-s1
+# text = Однако увеличение количества долларов, ожидаемое рынками, пока не зафиксировано.
+1	Однако	_	_	_	_	_	_	_	Shift=1642
+2	увеличение	_	_	_	_	_	_	_	Shift=1649
+3	количества	_	_	_	_	_	_	_	Shift=1660
+4	долларов	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2182|RuCor_group_id=469778|RuCor_link_id=469774|Shift=1671|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1680
+6	ожидаемое	_	_	_	_	_	_	_	Shift=1682
+7	рынками	_	_	_	_	_	_	_	Shift=1692|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1700
+9	пока	_	_	_	_	_	_	_	Shift=1702
+10	не	_	_	_	_	_	_	_	Shift=1707
+11	зафиксировано	_	_	_	_	_	_	_	Shift=1710|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=1724
+
+# newpar id = f8190523-1fcd-4de2-962f-96c3d563aab2-p19
+# par_text = Наоборот , свежие данные от ФРС показывают уменьшение денежной массы : на 9 марта М1 был равен 1534 млрд долларов .
+# sent_id = f8190523-1fcd-4de2-962f-96c3d563aab2-p19-s1
+# text = Наоборот, свежие данные от ФРС показывают уменьшение денежной массы: на 9 марта М1 был равен 1534 млрд долларов.
+1	Наоборот	_	_	_	_	_	_	_	Shift=1726|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=1735
+3	свежие	_	_	_	_	_	_	_	Shift=1737
+4	данные	_	_	_	_	_	_	_	Shift=1744
+5	от	_	_	_	_	_	_	_	Shift=1751
+6	ФРС	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2180|RuCor_group_id=469779|RuCor_link_id=469772|Shift=1754
+7	показывают	_	_	_	_	_	_	_	Shift=1758
+8	уменьшение	_	_	_	_	_	_	_	Shift=1769
+9	денежной	_	_	_	_	_	_	_	Shift=1780
+10	массы	_	_	_	_	_	_	_	Shift=1789|SpaceAfter=No
+11	:	_	_	_	_	_	_	_	Shift=1795
+12	на	_	_	_	_	_	_	_	Shift=1797
+13	9	_	_	_	_	_	_	_	Shift=1800
+14	марта	_	_	_	_	_	_	_	Shift=1802
+15	М1	_	_	_	_	_	_	_	Shift=1808
+16	был	_	_	_	_	_	_	_	Shift=1811
+17	равен	_	_	_	_	_	_	_	Shift=1815
+18	1534	_	_	_	_	_	_	_	Shift=1821
+19	млрд	_	_	_	_	_	_	_	Shift=1826
+20	долларов	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2182|RuCor_group_id=469780|RuCor_link_id=469778|Shift=1831|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=1840
+
+# newpar id = f8190523-1fcd-4de2-962f-96c3d563aab2-p20
+# par_text = Таким образом , золотое содержание тысячи долларов поднялось до 5,3 грамма .
+# sent_id = f8190523-1fcd-4de2-962f-96c3d563aab2-p20-s1
+# text = Таким образом, золотое содержание тысячи долларов поднялось до 5, 3 грамма.
+1	Таким	_	_	_	_	_	_	_	Shift=1842
+2	образом	_	_	_	_	_	_	_	Shift=1848|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1856
+4	золотое	_	_	_	_	_	_	_	Shift=1858
+5	содержание	_	_	_	_	_	_	_	Shift=1866
+6	тысячи	_	_	_	_	_	_	_	Shift=1877
+7	долларов	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2182|RuCor_group_id=469781|RuCor_link_id=469780|Shift=1884
+8	поднялось	_	_	_	_	_	_	_	Shift=1893
+9	до	_	_	_	_	_	_	_	Shift=1903
+10	5	_	_	_	_	_	_	_	Shift=1906|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=1907
+12	3	_	_	_	_	_	_	_	Shift=1908
+13	грамма	_	_	_	_	_	_	_	Shift=1910|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=1917
+
+# newpar id = f8190523-1fcd-4de2-962f-96c3d563aab2-p21
+# par_text = Когда покупательная способность валюты на рынке падает , а ее реальная обеспеченность золотом растет , это объясняется негативными ожиданиями и приближает курс валюты к « золотому дну » .
+# sent_id = f8190523-1fcd-4de2-962f-96c3d563aab2-p21-s1
+# text = Когда покупательная способность валюты на рынке падает, а ее реальная обеспеченность золотом растет, это объясняется негативными ожиданиями и приближает курс валюты к ``золотому дну ``.
+1	Когда	_	_	_	_	_	_	_	Shift=1919
+2	покупательная	_	_	_	_	_	_	_	Shift=1925
+3	способность	_	_	_	_	_	_	_	Shift=1939
+4	валюты	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2183|RuCor_group_id=469782|RuCor_link_id=0|Shift=1951
+5	на	_	_	_	_	_	_	_	Shift=1958
+6	рынке	_	_	_	_	_	_	_	Shift=1961
+7	падает	_	_	_	_	_	_	_	Shift=1967|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1974
+9	а	_	_	_	_	_	_	_	Shift=1976
+10	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=2183|RuCor_group_id=469783|RuCor_link_id=469782|Shift=1978
+11	реальная	_	_	_	_	_	_	_	Shift=1981
+12	обеспеченность	_	_	_	_	_	_	_	Shift=1990
+13	золотом	_	_	_	_	_	_	_	Shift=2005
+14	растет	_	_	_	_	_	_	_	Shift=2013|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=2020
+16	это	_	_	_	_	_	_	_	Shift=2022
+17	объясняется	_	_	_	_	_	_	_	Shift=2026
+18	негативными	_	_	_	_	_	_	_	Shift=2038
+19	ожиданиями	_	_	_	_	_	_	_	Shift=2050
+20	и	_	_	_	_	_	_	_	Shift=2061
+21	приближает	_	_	_	_	_	_	_	Shift=2063
+22	курс	_	_	_	_	_	_	_	Shift=2074
+23	валюты	_	_	_	_	_	_	_	Shift=2079
+24	к	_	_	_	_	_	_	_	Shift=2086
+25	``	_	_	_	_	_	_	_	Shift=2088|SpaceAfter=No
+26	золотому	_	_	_	_	_	_	_	Shift=2090
+27	дну	_	_	_	_	_	_	_	Shift=2099
+28	``	_	_	_	_	_	_	_	Shift=2103|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	Shift=2105
+
+# newpar id = f8190523-1fcd-4de2-962f-96c3d563aab2-p22
+# par_text = Итак , американский доллар немного утонул , и его потенциал падения уменьшился с 84,75 до 83,77 % .
+# sent_id = f8190523-1fcd-4de2-962f-96c3d563aab2-p22-s1
+# text = Итак, американский доллар немного утонул, и его потенциал падения уменьшился с 84, 75 до 83, 77 %.
+1	Итак	_	_	_	_	_	_	_	Shift=2107|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=2112
+3	американский	_	_	_	_	_	_	_	RuCor_chain_id=2182|RuCor_group_id=469784|Shift=2114
+4	доллар	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2182|RuCor_group_id=469784|RuCor_link_id=469781|Shift=2127
+5	немного	_	_	_	_	_	_	_	Shift=2134
+6	утонул	_	_	_	_	_	_	_	Shift=2142|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=2149
+8	и	_	_	_	_	_	_	_	Shift=2151
+9	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2182|RuCor_group_id=469785|RuCor_link_id=469784|Shift=2153
+10	потенциал	_	_	_	_	_	_	_	Shift=2157
+11	падения	_	_	_	_	_	_	_	Shift=2167
+12	уменьшился	_	_	_	_	_	_	_	Shift=2175
+13	с	_	_	_	_	_	_	_	Shift=2186
+14	84	_	_	_	_	_	_	_	Shift=2188|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=2190
+16	75	_	_	_	_	_	_	_	Shift=2191
+17	до	_	_	_	_	_	_	_	Shift=2194
+18	83	_	_	_	_	_	_	_	Shift=2197|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=2199
+20	77	_	_	_	_	_	_	_	Shift=2200
+21	%	_	_	_	_	_	_	_	Shift=2203|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=2205
+
+# newpar id = f8190523-1fcd-4de2-962f-96c3d563aab2-p23
+# par_text = Таблица 1 .
+# sent_id = f8190523-1fcd-4de2-962f-96c3d563aab2-p23-s1
+# text = Таблица 1.
+1	Таблица	_	_	_	_	_	_	_	Shift=2207
+2	1	_	_	_	_	_	_	_	Shift=2215|SpaceAfter=No
+3	.	_	_	_	_	_	_	_	Shift=2217
+
+# newpar id = f8190523-1fcd-4de2-962f-96c3d563aab2-p24
+# par_text = Цена золота на Нью-Йоркской товарной бирже
+# sent_id = f8190523-1fcd-4de2-962f-96c3d563aab2-p24-s1
+# text = Цена золота на Нью-Йоркской товарной бирже
+1	Цена	_	_	_	_	_	_	_	Shift=2219
+2	золота	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2174|RuCor_group_id=469786|RuCor_link_id=469776|Shift=2224
+3	на	_	_	_	_	_	_	_	Shift=2231
+4	Нью-Йоркской	_	_	_	_	_	_	_	Shift=2234
+5	товарной	_	_	_	_	_	_	_	Shift=2247
+6	бирже	_	_	_	_	_	_	_	Shift=2256
+
+# newpar id = f8190523-1fcd-4de2-962f-96c3d563aab2-p25
+# par_text = Помимо ФРС , на этой неделе новые данные о денежной массе опубликовал Банк Швейцарии .
+# sent_id = f8190523-1fcd-4de2-962f-96c3d563aab2-p25-s1
+# text = Помимо ФРС, на этой неделе новые данные о денежной массе опубликовал Банк Швейцарии.
+1	Помимо	_	_	_	_	_	_	_	Shift=2262
+2	ФРС	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2180|RuCor_group_id=469787|RuCor_link_id=469772|Shift=2269|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=2273
+4	на	_	_	_	_	_	_	_	Shift=2275
+5	этой	_	_	_	_	_	_	_	Shift=2278
+6	неделе	_	_	_	_	_	_	_	Shift=2283
+7	новые	_	_	_	_	_	_	_	Shift=2290
+8	данные	_	_	_	_	_	_	_	Shift=2296
+9	о	_	_	_	_	_	_	_	Shift=2303
+10	денежной	_	_	_	_	_	_	_	Shift=2305
+11	массе	_	_	_	_	_	_	_	Shift=2314
+12	опубликовал	_	_	_	_	_	_	_	Shift=2320
+13	Банк	_	_	_	_	_	_	_	Shift=2332
+14	Швейцарии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2175|RuCor_group_id=469788|RuCor_link_id=469762|Shift=2337|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=2347
+
+# newpar id = f8190523-1fcd-4de2-962f-96c3d563aab2-p26
+# par_text = За февраль в этой стране агрегат М1 вырос на 3,5 % — с 343 до 355 млрд франков .
+# sent_id = f8190523-1fcd-4de2-962f-96c3d563aab2-p26-s1
+# text = За февраль в этой стране агрегат М1 вырос на 3, 5 % - с 343 до 355 млрд франков.
+1	За	_	_	_	_	_	_	_	Shift=2349
+2	февраль	_	_	_	_	_	_	_	Shift=2352
+3	в	_	_	_	_	_	_	_	Shift=2360
+4	этой	_	_	_	_	_	_	_	RuCor_chain_id=2175|RuCor_group_id=469789|Shift=2362
+5	стране	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2175|RuCor_group_id=469789|RuCor_link_id=469788|Shift=2367
+6	агрегат	_	_	_	_	_	_	_	Shift=2374
+7	М1	_	_	_	_	_	_	_	Shift=2382
+8	вырос	_	_	_	_	_	_	_	Shift=2385
+9	на	_	_	_	_	_	_	_	Shift=2391
+10	3	_	_	_	_	_	_	_	Shift=2394|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=2395
+12	5	_	_	_	_	_	_	_	Shift=2396
+13	%	_	_	_	_	_	_	_	Shift=2398
+14	-	_	_	_	_	_	_	_	Shift=2400
+15	с	_	_	_	_	_	_	_	Shift=2402
+16	343	_	_	_	_	_	_	_	Shift=2404
+17	до	_	_	_	_	_	_	_	Shift=2408
+18	355	_	_	_	_	_	_	_	Shift=2411
+19	млрд	_	_	_	_	_	_	_	Shift=2415
+20	франков	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2176|RuCor_group_id=469790|RuCor_link_id=469764|Shift=2420|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=2428
+
+# newpar id = f8190523-1fcd-4de2-962f-96c3d563aab2-p27
+# par_text = Соответственно золотое содержание тысячи франков упало с 3,03 до 2,93 грамма .
+# sent_id = f8190523-1fcd-4de2-962f-96c3d563aab2-p27-s1
+# text = Соответственно золотое содержание тысячи франков упало с 3, 03 до 2, 93 грамма.
+1	Соответственно	_	_	_	_	_	_	_	Shift=2430
+2	золотое	_	_	_	_	_	_	_	Shift=2445
+3	содержание	_	_	_	_	_	_	_	Shift=2453
+4	тысячи	_	_	_	_	_	_	_	Shift=2464
+5	франков	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2176|RuCor_group_id=469791|RuCor_link_id=469790|Shift=2471
+6	упало	_	_	_	_	_	_	_	Shift=2479
+7	с	_	_	_	_	_	_	_	Shift=2485
+8	3	_	_	_	_	_	_	_	Shift=2487|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=2488
+10	03	_	_	_	_	_	_	_	Shift=2489
+11	до	_	_	_	_	_	_	_	Shift=2492
+12	2	_	_	_	_	_	_	_	Shift=2495|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=2496
+14	93	_	_	_	_	_	_	_	Shift=2497
+15	грамма	_	_	_	_	_	_	_	Shift=2500|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=2507
+
+# newpar id = f8190523-1fcd-4de2-962f-96c3d563aab2-p28
+# par_text = При этом швейцарский франк особенно сильно поднялся относительно доллара : неделю назад курс был равен 1,186 , а сейчас — 1,13 .
+# sent_id = f8190523-1fcd-4de2-962f-96c3d563aab2-p28-s1
+# text = При этом швейцарский франк особенно сильно поднялся относительно доллара: неделю назад курс был равен 1, 186, а сейчас - 1, 13.
+1	При	_	_	_	_	_	_	_	Shift=2509
+2	этом	_	_	_	_	_	_	_	Shift=2513
+3	швейцарский	_	_	_	_	_	_	_	RuCor_chain_id=2176|RuCor_group_id=469792|Shift=2518
+4	франк	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2176|RuCor_group_id=469792|RuCor_link_id=469791|Shift=2530
+5	особенно	_	_	_	_	_	_	_	Shift=2536
+6	сильно	_	_	_	_	_	_	_	Shift=2545
+7	поднялся	_	_	_	_	_	_	_	Shift=2552
+8	относительно	_	_	_	_	_	_	_	Shift=2561
+9	доллара	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2182|RuCor_group_id=469793|RuCor_link_id=469784|Shift=2574|SpaceAfter=No
+10	:	_	_	_	_	_	_	_	Shift=2582
+11	неделю	_	_	_	_	_	_	_	Shift=2584
+12	назад	_	_	_	_	_	_	_	Shift=2591
+13	курс	_	_	_	_	_	_	_	Shift=2597
+14	был	_	_	_	_	_	_	_	Shift=2602
+15	равен	_	_	_	_	_	_	_	Shift=2606
+16	1	_	_	_	_	_	_	_	Shift=2612|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=2613
+18	186	_	_	_	_	_	_	_	Shift=2614|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=2618
+20	а	_	_	_	_	_	_	_	Shift=2620
+21	сейчас	_	_	_	_	_	_	_	Shift=2622
+22	-	_	_	_	_	_	_	_	Shift=2629
+23	1	_	_	_	_	_	_	_	Shift=2631|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=2632
+25	13	_	_	_	_	_	_	_	Shift=2633|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=2636
+
+# newpar id = f8190523-1fcd-4de2-962f-96c3d563aab2-p29
+# par_text = Таким образом , ожидания в отношении этой валюты благоприятны , она всплыла , и ее потенциал падения вырос с 89,34 до 89,87 % .
+# sent_id = f8190523-1fcd-4de2-962f-96c3d563aab2-p29-s1
+# text = Таким образом, ожидания в отношении этой валюты благоприятны, она всплыла, и ее потенциал падения вырос с 89, 34 до 89, 87 %.
+1	Таким	_	_	_	_	_	_	_	Shift=2638
+2	образом	_	_	_	_	_	_	_	Shift=2644|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=2652
+4	ожидания	_	_	_	_	_	_	_	Shift=2654
+5	в	_	_	_	_	_	_	_	Shift=2663
+6	отношении	_	_	_	_	_	_	_	Shift=2665
+7	этой	_	_	_	_	_	_	_	RuCor_chain_id=2176|RuCor_group_id=469794|Shift=2675
+8	валюты	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2176|RuCor_group_id=469794|RuCor_link_id=469792|Shift=2680
+9	благоприятны	_	_	_	_	_	_	_	Shift=2687|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=2700
+11	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2176|RuCor_group_id=469795|RuCor_link_id=469794|Shift=2702
+12	всплыла	_	_	_	_	_	_	_	Shift=2706|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=2714
+14	и	_	_	_	_	_	_	_	Shift=2716
+15	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2176|RuCor_group_id=469796|RuCor_link_id=469795|Shift=2718
+16	потенциал	_	_	_	_	_	_	_	Shift=2721
+17	падения	_	_	_	_	_	_	_	Shift=2731
+18	вырос	_	_	_	_	_	_	_	Shift=2739
+19	с	_	_	_	_	_	_	_	Shift=2745
+20	89	_	_	_	_	_	_	_	Shift=2747|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=2749
+22	34	_	_	_	_	_	_	_	Shift=2750
+23	до	_	_	_	_	_	_	_	Shift=2753
+24	89	_	_	_	_	_	_	_	Shift=2756|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=2758
+26	87	_	_	_	_	_	_	_	Shift=2759
+27	%	_	_	_	_	_	_	_	Shift=2762|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=2764
+
+# newpar id = f8190523-1fcd-4de2-962f-96c3d563aab2-p30
+# par_text = Таблица 2 .
+# sent_id = f8190523-1fcd-4de2-962f-96c3d563aab2-p30-s1
+# text = Таблица 2.
+1	Таблица	_	_	_	_	_	_	_	Shift=2766
+2	2	_	_	_	_	_	_	_	Shift=2774|SpaceAfter=No
+3	.	_	_	_	_	_	_	_	Shift=2776
+
+# newpar id = f8190523-1fcd-4de2-962f-96c3d563aab2-p31
+# par_text = Золотое содержание и потенциалы падения некоторых валют
+# sent_id = f8190523-1fcd-4de2-962f-96c3d563aab2-p31-s1
+# text = Золотое содержание и потенциалы падения некоторых валют
+1	Золотое	_	_	_	_	_	_	_	Shift=2778
+2	содержание	_	_	_	_	_	_	_	Shift=2786
+3	и	_	_	_	_	_	_	_	Shift=2797
+4	потенциалы	_	_	_	_	_	_	_	Shift=2799
+5	падения	_	_	_	_	_	_	_	Shift=2810
+6	некоторых	_	_	_	_	_	_	_	Shift=2818
+7	валют	_	_	_	_	_	_	_	Shift=2828
+
+# newpar id = f8190523-1fcd-4de2-962f-96c3d563aab2-p32
+# par_text = У остальных валют покупательная способность остается в целом стабильной .
+# sent_id = f8190523-1fcd-4de2-962f-96c3d563aab2-p32-s1
+# text = У остальных валют покупательная способность остается в целом стабильной.
+1	У	_	_	_	_	_	_	_	Shift=2834
+2	остальных	_	_	_	_	_	_	_	Shift=2836
+3	валют	_	_	_	_	_	_	_	Shift=2846
+4	покупательная	_	_	_	_	_	_	_	Shift=2852
+5	способность	_	_	_	_	_	_	_	Shift=2866
+6	остается	_	_	_	_	_	_	_	Shift=2878
+7	в	_	_	_	_	_	_	_	Shift=2887
+8	целом	_	_	_	_	_	_	_	Shift=2889
+9	стабильной	_	_	_	_	_	_	_	Shift=2895|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=2906
+
+# newpar id = f8190523-1fcd-4de2-962f-96c3d563aab2-p33
+# par_text = Фунт и евро немного укрепились , а иена слегка упала , но это незначительные движения .
+# sent_id = f8190523-1fcd-4de2-962f-96c3d563aab2-p33-s1
+# text = Фунт и евро немного укрепились, а иена слегка упала, но это незначительные движения.
+1	Фунт	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2184|RuCor_group_id=469797|RuCor_link_id=0|Shift=2908
+2	и	_	_	_	_	_	_	_	Shift=2913
+3	евро	_	_	_	_	_	_	_	Shift=2915
+4	немного	_	_	_	_	_	_	_	Shift=2920
+5	укрепились	_	_	_	_	_	_	_	Shift=2928|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=2939
+7	а	_	_	_	_	_	_	_	Shift=2941
+8	иена	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2185|RuCor_group_id=469798|RuCor_link_id=0|Shift=2943
+9	слегка	_	_	_	_	_	_	_	Shift=2948
+10	упала	_	_	_	_	_	_	_	Shift=2955|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=2961
+12	но	_	_	_	_	_	_	_	Shift=2963
+13	это	_	_	_	_	_	_	_	Shift=2966
+14	незначительные	_	_	_	_	_	_	_	Shift=2970
+15	движения	_	_	_	_	_	_	_	Shift=2985|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=2994
+
+# newpar id = f8190523-1fcd-4de2-962f-96c3d563aab2-p34
+# par_text = Наименьшим потенциалом падения по-прежнему обладают американский доллар и швейцарский франк , наибольшим — японская иена и фунт стерлингов .
+# sent_id = f8190523-1fcd-4de2-962f-96c3d563aab2-p34-s1
+# text = Наименьшим потенциалом падения по-прежнему обладают американский доллар и швейцарский франк, наибольшим - японская иена и фунт стерлингов.
+1	Наименьшим	_	_	_	_	_	_	_	Shift=2996
+2	потенциалом	_	_	_	_	_	_	_	Shift=3007
+3	падения	_	_	_	_	_	_	_	Shift=3019
+4	по-прежнему	_	_	_	_	_	_	_	Shift=3027
+5	обладают	_	_	_	_	_	_	_	Shift=3039
+6	американский	_	_	_	_	_	_	_	RuCor_chain_id=2182|RuCor_group_id=469799|Shift=3048
+7	доллар	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2182|RuCor_group_id=469799|RuCor_link_id=469793|Shift=3061
+8	и	_	_	_	_	_	_	_	Shift=3068
+9	швейцарский	_	_	_	_	_	_	_	RuCor_chain_id=2176|RuCor_group_id=469800|Shift=3070
+10	франк	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2176|RuCor_group_id=469800|RuCor_link_id=469796|Shift=3082|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=3088
+12	наибольшим	_	_	_	_	_	_	_	Shift=3090
+13	-	_	_	_	_	_	_	_	Shift=3101
+14	японская	_	_	_	_	_	_	_	RuCor_chain_id=2185|RuCor_group_id=469801|Shift=3103
+15	иена	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2185|RuCor_group_id=469801|RuCor_link_id=469798|Shift=3112
+16	и	_	_	_	_	_	_	_	Shift=3117
+17	фунт	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2184|RuCor_group_id=469802|RuCor_link_id=469797|Shift=3119
+18	стерлингов	_	_	_	_	_	_	_	RuCor_chain_id=2184|RuCor_group_id=469802|Shift=3124|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	_
+

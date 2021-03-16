@@ -1,0 +1,1138 @@
+# newdoc id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7
+# newpar id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p1
+# par_text = В преддверии публикации на « Часкоре » отрывков из документальной книги Альдо Нове переводчик и литературный критик Михаил Визель рассуждает о жанре non-fiction , « юных каннибалах » и « новых бедных » .
+# sent_id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p1-s1
+# text = В преддверии публикации на ``Часкоре ``отрывков из документальной книги Альдо Нове переводчик и литературный критик Михаил Визель рассуждает о жанре non-fiction, ``юных каннибалах ``и ``новых бедных ``.
+1	В	_	_	_	_	_	_	_	Shift=0
+2	преддверии	_	_	_	_	_	_	_	Shift=2
+3	публикации	_	_	_	_	_	_	_	Shift=13
+4	на	_	_	_	_	_	_	_	Shift=24
+5	``	_	_	_	_	_	_	_	Shift=27|SpaceAfter=No
+6	Часкоре	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2711|RuCor_group_id=471882|RuCor_link_id=0|Shift=29
+7	``	_	_	_	_	_	_	_	Shift=37|SpaceAfter=No
+8	отрывков	_	_	_	_	_	_	_	Shift=39
+9	из	_	_	_	_	_	_	_	Shift=48
+10	документальной	_	_	_	_	_	_	_	RuCor_chain_id=2712|RuCor_group_id=471883|Shift=51
+11	книги	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2712|RuCor_group_id=471883|RuCor_link_id=0|Shift=66
+12	Альдо	_	_	_	_	_	_	_	RuCor_chain_id=2713|RuCor_group_id=471884|Shift=72
+13	Нове	_	_	_	_	_	_	_	RuCor_chain_id=2713|RuCor_group_id=471884|Shift=78
+14	переводчик	_	_	_	_	_	_	_	Shift=83
+15	и	_	_	_	_	_	_	_	Shift=94
+16	литературный	_	_	_	_	_	_	_	Shift=96
+17	критик	_	_	_	_	_	_	_	Shift=109
+18	Михаил	_	_	_	_	_	_	_	Shift=116
+19	Визель	_	_	_	_	_	_	_	Shift=123
+20	рассуждает	_	_	_	_	_	_	_	Shift=130
+21	о	_	_	_	_	_	_	_	Shift=141
+22	жанре	_	_	_	_	_	_	_	Shift=143
+23	non-fiction	_	_	_	_	_	_	_	Shift=149|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=161
+25	``	_	_	_	_	_	_	_	RuCor_chain_id=2714|RuCor_group_id=471885|Shift=163|SpaceAfter=No
+26	юных	_	_	_	_	_	_	_	RuCor_chain_id=2714|RuCor_group_id=471885|Shift=165
+27	каннибалах	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2714|RuCor_group_id=471885|RuCor_link_id=0|Shift=170
+28	``	_	_	_	_	_	_	_	RuCor_chain_id=2714|RuCor_group_id=471885|Shift=181|SpaceAfter=No
+29	и	_	_	_	_	_	_	_	Shift=183
+30	``	_	_	_	_	_	_	_	RuCor_chain_id=2715|RuCor_group_id=471886|Shift=185|SpaceAfter=No
+31	новых	_	_	_	_	_	_	_	RuCor_chain_id=2715|RuCor_group_id=471886|Shift=187
+32	бедных	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2715|RuCor_group_id=471886|RuCor_link_id=0|Shift=193
+33	``	_	_	_	_	_	_	_	RuCor_chain_id=2715|RuCor_group_id=471886|Shift=200|SpaceAfter=No
+34	.	_	_	_	_	_	_	_	Shift=202
+
+# newpar id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p2
+# par_text = В мае 2006 года престижнейшее итальянское издательство « Эйнауди » выпустило книгу , которая при всём желании не могла бы затеряться среди новинок , хотя , как известно , на прилавках итальянских книжных магазинов затеряться проще , чем на каких бы то ни было : столько там изумительно оформленных и изданных книг .
+# sent_id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p2-s1
+# text = В мае 2006 года престижнейшее итальянское издательство ``Эйнауди ``выпустило книгу, которая при всём желании не могла бы затеряться среди новинок, хотя, как известно, на прилавках итальянских книжных магазинов затеряться проще, чем на каких бы то ни было: столько там изумительно оформленных и изданных книг.
+1	В	_	_	_	_	_	_	_	Shift=204
+2	мае	_	_	_	_	_	_	_	Shift=206
+3	2006	_	_	_	_	_	_	_	Shift=210
+4	года	_	_	_	_	_	_	_	Shift=215
+5	престижнейшее	_	_	_	_	_	_	_	Shift=220
+6	итальянское	_	_	_	_	_	_	_	Shift=234
+7	издательство	_	_	_	_	_	_	_	Shift=246
+8	``	_	_	_	_	_	_	_	Shift=259|SpaceAfter=No
+9	Эйнауди	_	_	_	_	_	_	_	Shift=261
+10	``	_	_	_	_	_	_	_	Shift=269|SpaceAfter=No
+11	выпустило	_	_	_	_	_	_	_	Shift=271
+12	книгу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2712|RuCor_group_id=471887|RuCor_link_id=471883|Shift=281|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=287
+14	которая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=2712|RuCor_group_id=471888|RuCor_link_id=471887|Shift=289
+15	при	_	_	_	_	_	_	_	Shift=297
+16	всём	_	_	_	_	_	_	_	Shift=301
+17	желании	_	_	_	_	_	_	_	Shift=306
+18	не	_	_	_	_	_	_	_	Shift=314
+19	могла	_	_	_	_	_	_	_	Shift=317
+20	бы	_	_	_	_	_	_	_	Shift=323
+21	затеряться	_	_	_	_	_	_	_	Shift=326
+22	среди	_	_	_	_	_	_	_	Shift=337
+23	новинок	_	_	_	_	_	_	_	Shift=343|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=351
+25	хотя	_	_	_	_	_	_	_	Shift=353|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	Shift=358
+27	как	_	_	_	_	_	_	_	Shift=360
+28	известно	_	_	_	_	_	_	_	Shift=364|SpaceAfter=No
+29	,	_	_	_	_	_	_	_	Shift=373
+30	на	_	_	_	_	_	_	_	Shift=375
+31	прилавках	_	_	_	_	_	_	_	Shift=378
+32	итальянских	_	_	_	_	_	_	_	Shift=388
+33	книжных	_	_	_	_	_	_	_	Shift=400
+34	магазинов	_	_	_	_	_	_	_	Shift=408
+35	затеряться	_	_	_	_	_	_	_	Shift=418
+36	проще	_	_	_	_	_	_	_	Shift=429|SpaceAfter=No
+37	,	_	_	_	_	_	_	_	Shift=435
+38	чем	_	_	_	_	_	_	_	Shift=437
+39	на	_	_	_	_	_	_	_	Shift=441
+40	каких	_	_	_	_	_	_	_	Shift=444
+41	бы	_	_	_	_	_	_	_	Shift=450
+42	то	_	_	_	_	_	_	_	Shift=453
+43	ни	_	_	_	_	_	_	_	Shift=456
+44	было	_	_	_	_	_	_	_	Shift=459|SpaceAfter=No
+45	:	_	_	_	_	_	_	_	Shift=464
+46	столько	_	_	_	_	_	_	_	Shift=466
+47	там	_	_	_	_	_	_	_	Shift=474
+48	изумительно	_	_	_	_	_	_	_	Shift=478
+49	оформленных	_	_	_	_	_	_	_	Shift=490
+50	и	_	_	_	_	_	_	_	Shift=502
+51	изданных	_	_	_	_	_	_	_	Shift=504
+52	книг	_	_	_	_	_	_	_	Shift=513|SpaceAfter=No
+53	.	_	_	_	_	_	_	_	Shift=518
+
+# newpar id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p3
+# par_text = Но слишком уж вываливающимся , неудобным во всех смыслах было её название : « Mi chiamo Roberta , ho 40 anni , guadagno 250 euro al mese ...» , то есть « Меня зовут Роберта , мне 40 лет , я получаю 250 евро в месяц » .
+# sent_id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p3-s1
+# text = Но слишком уж вываливающимся, неудобным во всех смыслах было её название: « Mi chiamo Roberta, ho 40 anni, guadagno 250 euro al mese...
+1	Но	_	_	_	_	_	_	_	Shift=520
+2	слишком	_	_	_	_	_	_	_	Shift=523
+3	уж	_	_	_	_	_	_	_	Shift=531
+4	вываливающимся	_	_	_	_	_	_	_	Shift=534|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=549
+6	неудобным	_	_	_	_	_	_	_	Shift=551
+7	во	_	_	_	_	_	_	_	Shift=561
+8	всех	_	_	_	_	_	_	_	Shift=564
+9	смыслах	_	_	_	_	_	_	_	Shift=569
+10	было	_	_	_	_	_	_	_	Shift=577
+11	её	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2712|RuCor_group_id=471889|RuCor_link_id=471888|Shift=582
+12	название	_	_	_	_	_	_	_	Shift=585|SpaceAfter=No
+13	:	_	_	_	_	_	_	_	Shift=594
+14	``	_	_	_	_	_	_	_	QuotationStart=«|Shift=596
+15	Mi	_	_	_	_	_	_	_	Shift=598
+16	chiamo	_	_	_	_	_	_	_	Shift=601
+17	Roberta	_	_	_	_	_	_	_	Shift=608|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=616
+19	ho	_	_	_	_	_	_	_	Shift=618
+20	40	_	_	_	_	_	_	_	Shift=621
+21	anni	_	_	_	_	_	_	_	Shift=624|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=629
+23	guadagno	_	_	_	_	_	_	_	Shift=631
+24	250	_	_	_	_	_	_	_	Shift=640
+25	euro	_	_	_	_	_	_	_	Shift=644
+26	al	_	_	_	_	_	_	_	Shift=649
+27	mese	_	_	_	_	_	_	_	Shift=652|SpaceAfter=No
+28	...	_	_	_	_	_	_	_	Shift=657
+
+# sent_id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p3-s2
+# text = », то есть ``Меня зовут Роберта, мне 40 лет, я получаю 250 евро в месяц ``.
+1	''	_	_	_	_	_	_	_	QuotationEnd=»|Shift=660|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=662
+3	то	_	_	_	_	_	_	_	Shift=664
+4	есть	_	_	_	_	_	_	_	Shift=667
+5	``	_	_	_	_	_	_	_	RuCor_chain_id=2712|RuCor_group_id=471890|Shift=672|SpaceAfter=No
+6	Меня	_	_	_	_	_	_	_	RuCor_chain_id=2712|RuCor_group_id=471890|Shift=674
+7	зовут	_	_	_	_	_	_	_	RuCor_chain_id=2712|RuCor_group_id=471890|Shift=679
+8	Роберта	_	_	_	_	_	_	_	RuCor_chain_id=2712|RuCor_group_id=471890|Shift=685|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	RuCor_chain_id=2712|RuCor_group_id=471890|Shift=693
+10	мне	_	_	_	_	_	_	_	RuCor_chain_id=2712|RuCor_group_id=471890|Shift=695
+11	40	_	_	_	_	_	_	_	RuCor_chain_id=2712|RuCor_group_id=471890|Shift=699
+12	лет	_	_	_	_	_	_	_	RuCor_chain_id=2712|RuCor_group_id=471890|Shift=702|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	RuCor_chain_id=2712|RuCor_group_id=471890|Shift=706
+14	я	_	_	_	_	_	_	_	RuCor_chain_id=2712|RuCor_group_id=471890|Shift=708
+15	получаю	_	_	_	_	_	_	_	RuCor_chain_id=2712|RuCor_group_id=471890|Shift=710
+16	250	_	_	_	_	_	_	_	RuCor_chain_id=2712|RuCor_group_id=471890|Shift=718
+17	евро	_	_	_	_	_	_	_	RuCor_chain_id=2712|RuCor_group_id=471890|Shift=722
+18	в	_	_	_	_	_	_	_	RuCor_chain_id=2712|RuCor_group_id=471890|Shift=727
+19	месяц	_	_	_	_	_	_	_	RuCor_chain_id=2712|RuCor_group_id=471890|Shift=729
+20	``	_	_	_	_	_	_	_	RuCor_chain_id=2712|RuCor_group_id=471890|Shift=735|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=737
+
+# newpar id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p4
+# par_text = Впрочем , автор этой книги уже успел приучить публику к тому , что от него надо ждать чего-то возмутительного .
+# sent_id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p4-s1
+# text = Впрочем, автор этой книги уже успел приучить публику к тому, что от него надо ждать чего-то возмутительного.
+1	Впрочем	_	_	_	_	_	_	_	Shift=739|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=747
+3	автор	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2716|RuCor_group_id=471891|RuCor_link_id=0|Shift=749
+4	этой	_	_	_	_	_	_	_	RuCor_chain_id=2712|RuCor_group_id=471892|Shift=755
+5	книги	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2712|RuCor_group_id=471892|RuCor_link_id=471889|Shift=760
+6	уже	_	_	_	_	_	_	_	Shift=766
+7	успел	_	_	_	_	_	_	_	Shift=770
+8	приучить	_	_	_	_	_	_	_	Shift=776
+9	публику	_	_	_	_	_	_	_	Shift=785
+10	к	_	_	_	_	_	_	_	Shift=793
+11	тому	_	_	_	_	_	_	_	Shift=795|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=800
+13	что	_	_	_	_	_	_	_	Shift=802
+14	от	_	_	_	_	_	_	_	Shift=806
+15	него	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2716|RuCor_group_id=471893|RuCor_link_id=471891|Shift=809
+16	надо	_	_	_	_	_	_	_	Shift=814
+17	ждать	_	_	_	_	_	_	_	Shift=819
+18	чего-то	_	_	_	_	_	_	_	Shift=825
+19	возмутительного	_	_	_	_	_	_	_	Shift=833|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=849
+
+# newpar id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p5
+# par_text = И неожиданного .
+# sent_id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p5-s1
+# text = И неожиданного.
+1	И	_	_	_	_	_	_	_	Shift=851
+2	неожиданного	_	_	_	_	_	_	_	Shift=853|SpaceAfter=No
+3	.	_	_	_	_	_	_	_	Shift=866
+
+# newpar id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p6
+# par_text = 39-летний на тот момент ломбардец Антонелло Чентанин , пишущий под именем Альдо Нове ( то есть буквально — Альдо Девятка ) , получил широкую известность десятью годами ранее , выпустив книгу « Супервубинда » .
+# sent_id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p6-s1
+# text = 39-летний на тот момент ломбардец Антонелло Чентанин, пишущий под именем Альдо Нове (то есть буквально - Альдо Девятка), получил широкую известность десятью годами ранее, выпустив книгу ``Супервубинда ``.
+1	39-летний	_	_	_	_	_	_	_	Shift=868
+2	на	_	_	_	_	_	_	_	Shift=878
+3	тот	_	_	_	_	_	_	_	Shift=881
+4	момент	_	_	_	_	_	_	_	Shift=885
+5	ломбардец	_	_	_	_	_	_	_	RuCor_chain_id=2713|RuCor_group_id=471894|Shift=892
+6	Антонелло	_	_	_	_	_	_	_	RuCor_chain_id=2713|RuCor_group_id=471894|Shift=902
+7	Чентанин	_	_	_	_	_	_	_	RuCor_chain_id=2713|RuCor_group_id=471894|Shift=912|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=921
+9	пишущий	_	_	_	_	_	_	_	Shift=923
+10	под	_	_	_	_	_	_	_	Shift=931
+11	именем	_	_	_	_	_	_	_	Shift=935
+12	Альдо	_	_	_	_	_	_	_	RuCor_chain_id=2717|RuCor_group_id=471896|Shift=942
+13	Нове	_	_	_	_	_	_	_	RuCor_chain_id=2717|RuCor_group_id=471896|Shift=948
+14	(	_	_	_	_	_	_	_	Shift=953|SpaceAfter=No
+15	то	_	_	_	_	_	_	_	Shift=955
+16	есть	_	_	_	_	_	_	_	Shift=958
+17	буквально	_	_	_	_	_	_	_	Shift=963
+18	-	_	_	_	_	_	_	_	Shift=973
+19	Альдо	_	_	_	_	_	_	_	RuCor_chain_id=2717|RuCor_group_id=471897|Shift=975
+20	Девятка	_	_	_	_	_	_	_	RuCor_chain_id=2717|RuCor_group_id=471897|Shift=981|SpaceAfter=No
+21	)	_	_	_	_	_	_	_	Shift=989|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=991
+23	получил	_	_	_	_	_	_	_	Shift=993
+24	широкую	_	_	_	_	_	_	_	Shift=1001
+25	известность	_	_	_	_	_	_	_	Shift=1009
+26	десятью	_	_	_	_	_	_	_	Shift=1021
+27	годами	_	_	_	_	_	_	_	Shift=1029
+28	ранее	_	_	_	_	_	_	_	Shift=1036|SpaceAfter=No
+29	,	_	_	_	_	_	_	_	Shift=1042
+30	выпустив	_	_	_	_	_	_	_	Shift=1044
+31	книгу	_	_	_	_	_	_	_	RuCor_chain_id=2718|RuCor_group_id=471898|Shift=1053
+32	``	_	_	_	_	_	_	_	RuCor_chain_id=2718|RuCor_group_id=471898|Shift=1059|SpaceAfter=No
+33	Супервубинда	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2718|RuCor_group_id=471898|RuCor_link_id=471899|Shift=1061
+34	``	_	_	_	_	_	_	_	RuCor_chain_id=2718|RuCor_group_id=471898|Shift=1074|SpaceAfter=No
+35	.	_	_	_	_	_	_	_	Shift=1076
+
+# newpar id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p7
+# par_text = « Супервубинда » — собрание коротких чернушных страшилок , в которых взбесившаяся реальность , неотличимая от компьютерных игр и выпусков мировых теленовостей , кровила , потела , испускала резкие звуки и запахи .
+# sent_id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p7-s1
+# text = ``Супервубинда ``- собрание коротких чернушных страшилок, в которых взбесившаяся реальность, неотличимая от компьютерных игр и выпусков мировых теленовостей, кровила, потела, испускала резкие звуки и запахи.
+1	``	_	_	_	_	_	_	_	Shift=1078|SpaceAfter=No
+2	Супервубинда	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2718|RuCor_group_id=471899|RuCor_link_id=0|Shift=1080
+3	``	_	_	_	_	_	_	_	Shift=1093|SpaceAfter=No
+4	-	_	_	_	_	_	_	_	Shift=1095
+5	собрание	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2718|RuCor_group_id=471900|RuCor_link_id=471899|Shift=1097
+6	коротких	_	_	_	_	_	_	_	RuCor_chain_id=2719|RuCor_group_id=471901|Shift=1106
+7	чернушных	_	_	_	_	_	_	_	RuCor_chain_id=2719|RuCor_group_id=471901|Shift=1115
+8	страшилок	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2719|RuCor_group_id=471901|RuCor_link_id=0|Shift=1125|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1135
+10	в	_	_	_	_	_	_	_	Shift=1137
+11	которых	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2719|RuCor_group_id=471902|RuCor_link_id=471901|Shift=1139
+12	взбесившаяся	_	_	_	_	_	_	_	Shift=1147
+13	реальность	_	_	_	_	_	_	_	Shift=1160|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=1171
+15	неотличимая	_	_	_	_	_	_	_	Shift=1173
+16	от	_	_	_	_	_	_	_	Shift=1185
+17	компьютерных	_	_	_	_	_	_	_	Shift=1188
+18	игр	_	_	_	_	_	_	_	Shift=1201
+19	и	_	_	_	_	_	_	_	Shift=1205
+20	выпусков	_	_	_	_	_	_	_	Shift=1207
+21	мировых	_	_	_	_	_	_	_	Shift=1216
+22	теленовостей	_	_	_	_	_	_	_	Shift=1224|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=1237
+24	кровила	_	_	_	_	_	_	_	Shift=1239|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=1247
+26	потела	_	_	_	_	_	_	_	Shift=1249|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=1256
+28	испускала	_	_	_	_	_	_	_	Shift=1258
+29	резкие	_	_	_	_	_	_	_	Shift=1268
+30	звуки	_	_	_	_	_	_	_	Shift=1275
+31	и	_	_	_	_	_	_	_	Shift=1281
+32	запахи	_	_	_	_	_	_	_	Shift=1283|SpaceAfter=No
+33	.	_	_	_	_	_	_	_	Shift=1290
+
+# newpar id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p8
+# par_text = Итальянские критики , убаюканные ( после смерти в 1985 году Итало Кальвино и 1990-м — Альберто Моравиа ) учёнейшим эрудитом Умберто Эко , изысканным сказочником Алессандро Барикко и подобными утончёнными господами , ошалели — ничего подобного они не видели со времён футуристических скандалов !
+# sent_id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p8-s1
+# text = Итальянские критики, убаюканные (после смерти в 1985 году Итало Кальвино и 1990-м - Альберто Моравиа) учёнейшим эрудитом Умберто Эко, изысканным сказочником Алессандро Барикко и подобными утончёнными господами, ошалели - ничего подобного они не видели со времён футуристических скандалов!
+1	Итальянские	_	_	_	_	_	_	_	RuCor_chain_id=2720|RuCor_group_id=471903|Shift=1292
+2	критики	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2720|RuCor_group_id=471903|RuCor_link_id=0|Shift=1304|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1312
+4	убаюканные	_	_	_	_	_	_	_	Shift=1314
+5	(	_	_	_	_	_	_	_	Shift=1325|SpaceAfter=No
+6	после	_	_	_	_	_	_	_	Shift=1327
+7	смерти	_	_	_	_	_	_	_	Shift=1333
+8	в	_	_	_	_	_	_	_	Shift=1340
+9	1985	_	_	_	_	_	_	_	Shift=1342
+10	году	_	_	_	_	_	_	_	Shift=1347
+11	Итало	_	_	_	_	_	_	_	Shift=1352
+12	Кальвино	_	_	_	_	_	_	_	Shift=1358
+13	и	_	_	_	_	_	_	_	Shift=1367
+14	1990-м	_	_	_	_	_	_	_	Shift=1369
+15	-	_	_	_	_	_	_	_	Shift=1373
+16	Альберто	_	_	_	_	_	_	_	Shift=1378
+17	Моравиа	_	_	_	_	_	_	_	Shift=1387|SpaceAfter=No
+18	)	_	_	_	_	_	_	_	Shift=1395
+19	учёнейшим	_	_	_	_	_	_	_	Shift=1397
+20	эрудитом	_	_	_	_	_	_	_	Shift=1407
+21	Умберто	_	_	_	_	_	_	_	Shift=1416
+22	Эко	_	_	_	_	_	_	_	Shift=1424|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=1428
+24	изысканным	_	_	_	_	_	_	_	Shift=1430
+25	сказочником	_	_	_	_	_	_	_	Shift=1441
+26	Алессандро	_	_	_	_	_	_	_	Shift=1453
+27	Барикко	_	_	_	_	_	_	_	Shift=1464
+28	и	_	_	_	_	_	_	_	Shift=1472
+29	подобными	_	_	_	_	_	_	_	Shift=1474
+30	утончёнными	_	_	_	_	_	_	_	Shift=1484
+31	господами	_	_	_	_	_	_	_	Shift=1496|SpaceAfter=No
+32	,	_	_	_	_	_	_	_	Shift=1506
+33	ошалели	_	_	_	_	_	_	_	Shift=1508
+34	-	_	_	_	_	_	_	_	Shift=1516
+35	ничего	_	_	_	_	_	_	_	Shift=1518
+36	подобного	_	_	_	_	_	_	_	Shift=1525
+37	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2720|RuCor_group_id=471904|RuCor_link_id=471903|Shift=1535
+38	не	_	_	_	_	_	_	_	Shift=1539
+39	видели	_	_	_	_	_	_	_	Shift=1542
+40	со	_	_	_	_	_	_	_	Shift=1549
+41	времён	_	_	_	_	_	_	_	Shift=1552
+42	футуристических	_	_	_	_	_	_	_	Shift=1559
+43	скандалов	_	_	_	_	_	_	_	Shift=1575|SpaceAfter=No
+44	!	_	_	_	_	_	_	_	Shift=1585
+
+# newpar id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p9
+# par_text = И окрестили новейшее течение — а кроме самого Нове , в него « подтянулись » ещё несколько ярких городских парней , в первую очередь Николо Амманити и Тициано Скарпа , — gioventú cannibale , то есть « молодые каннибалы » , или « юные людоеды » .
+# sent_id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p9-s1
+# text = И окрестили новейшее течение - а кроме самого Нове, в него ``подтянулись ``ещё несколько ярких городских парней, в первую очередь Николо Амманити и Тициано Скарпа, - gioventú cannibale, то есть ``молодые каннибалы ``, или ``юные людоеды ``.
+1	И	_	_	_	_	_	_	_	Shift=1587
+2	окрестили	_	_	_	_	_	_	_	Shift=1589
+3	новейшее	_	_	_	_	_	_	_	RuCor_chain_id=2721|RuCor_group_id=471905|Shift=1599
+4	течение	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2721|RuCor_group_id=471905|RuCor_link_id=0|Shift=1608
+5	-	_	_	_	_	_	_	_	Shift=1616
+6	а	_	_	_	_	_	_	_	Shift=1618
+7	кроме	_	_	_	_	_	_	_	Shift=1620
+8	самого	_	_	_	_	_	_	_	RuCor_chain_id=2713|RuCor_group_id=471906|Shift=1626
+9	Нове	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2713|RuCor_group_id=471906|RuCor_link_id=471895|Shift=1633|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=1638
+11	в	_	_	_	_	_	_	_	Shift=1640
+12	него	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2721|RuCor_group_id=471907|RuCor_link_id=471905|Shift=1642
+13	``	_	_	_	_	_	_	_	Shift=1647|SpaceAfter=No
+14	подтянулись	_	_	_	_	_	_	_	Shift=1649
+15	``	_	_	_	_	_	_	_	Shift=1661|SpaceAfter=No
+16	ещё	_	_	_	_	_	_	_	Shift=1663
+17	несколько	_	_	_	_	_	_	_	Shift=1667
+18	ярких	_	_	_	_	_	_	_	Shift=1677
+19	городских	_	_	_	_	_	_	_	Shift=1683
+20	парней	_	_	_	_	_	_	_	Shift=1693|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=1700
+22	в	_	_	_	_	_	_	_	Shift=1702
+23	первую	_	_	_	_	_	_	_	Shift=1704
+24	очередь	_	_	_	_	_	_	_	Shift=1711
+25	Николо	_	_	_	_	_	_	_	Shift=1719
+26	Амманити	_	_	_	_	_	_	_	Shift=1726
+27	и	_	_	_	_	_	_	_	Shift=1735
+28	Тициано	_	_	_	_	_	_	_	Shift=1737
+29	Скарпа	_	_	_	_	_	_	_	Shift=1745|SpaceAfter=No
+30	,	_	_	_	_	_	_	_	Shift=1752
+31	-	_	_	_	_	_	_	_	Shift=1754
+31.1	_	_	_	_	_	_	_	_	EntityUnk=gioventú|Shift=1756
+32	cannibale	_	_	_	_	_	_	_	Shift=1765|SpaceAfter=No
+33	,	_	_	_	_	_	_	_	Shift=1775
+34	то	_	_	_	_	_	_	_	Shift=1777
+35	есть	_	_	_	_	_	_	_	Shift=1780
+36	``	_	_	_	_	_	_	_	RuCor_chain_id=2714|RuCor_group_id=471908|Shift=1785|SpaceAfter=No
+37	молодые	_	_	_	_	_	_	_	RuCor_chain_id=2714|RuCor_group_id=471908|Shift=1787
+38	каннибалы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2714|RuCor_group_id=471908|RuCor_link_id=471885|Shift=1795
+39	``	_	_	_	_	_	_	_	RuCor_chain_id=2714|RuCor_group_id=471908|Shift=1805|SpaceAfter=No
+40	,	_	_	_	_	_	_	_	Shift=1807
+41	или	_	_	_	_	_	_	_	Shift=1809
+42	``	_	_	_	_	_	_	_	RuCor_chain_id=2714|RuCor_group_id=471909|Shift=1813|SpaceAfter=No
+43	юные	_	_	_	_	_	_	_	RuCor_chain_id=2714|RuCor_group_id=471909|Shift=1815
+44	людоеды	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2714|RuCor_group_id=471909|RuCor_link_id=471908|Shift=1820
+45	``	_	_	_	_	_	_	_	RuCor_chain_id=2714|RuCor_group_id=471909|Shift=1828|SpaceAfter=No
+46	.	_	_	_	_	_	_	_	Shift=1830
+
+# newpar id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p10
+# par_text = Русская публика тоже по достоинству оценила « Супервубинду » , которой очень повезло с русским переводчиком — Геннадий Киселёв , перевоссоздавая её , вплотную подошёл к грани , отделяющей перевод от оригинального русского текста …
+# sent_id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p10-s1
+# text = Русская публика тоже по достоинству оценила ``Супервубинду ``, которой очень повезло с русским переводчиком - Геннадий Киселёв, перевоссоздавая её, вплотную подошёл к грани, отделяющей перевод от оригинального русского текста...
+1	Русская	_	_	_	_	_	_	_	Shift=1832
+2	публика	_	_	_	_	_	_	_	Shift=1840
+3	тоже	_	_	_	_	_	_	_	Shift=1848
+4	по	_	_	_	_	_	_	_	Shift=1853
+5	достоинству	_	_	_	_	_	_	_	Shift=1856
+6	оценила	_	_	_	_	_	_	_	Shift=1868
+7	``	_	_	_	_	_	_	_	Shift=1876|SpaceAfter=No
+8	Супервубинду	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2718|RuCor_group_id=471910|RuCor_link_id=471900|Shift=1878
+9	``	_	_	_	_	_	_	_	Shift=1891|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=1893
+11	которой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=2718|RuCor_group_id=471911|RuCor_link_id=471910|Shift=1895
+12	очень	_	_	_	_	_	_	_	Shift=1903
+13	повезло	_	_	_	_	_	_	_	Shift=1909
+14	с	_	_	_	_	_	_	_	Shift=1917
+15	русским	_	_	_	_	_	_	_	Shift=1919
+16	переводчиком	_	_	_	_	_	_	_	Shift=1927
+17	-	_	_	_	_	_	_	_	Shift=1940
+18	Геннадий	_	_	_	_	_	_	_	RuCor_chain_id=2722|RuCor_group_id=471912|Shift=1942
+19	Киселёв	_	_	_	_	_	_	_	RuCor_chain_id=2722|RuCor_group_id=471912|Shift=1951|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=1959
+21	перевоссоздавая	_	_	_	_	_	_	_	Shift=1961
+22	её	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2718|RuCor_group_id=471913|RuCor_link_id=471911|Shift=1977|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=1980
+24	вплотную	_	_	_	_	_	_	_	Shift=1982
+25	подошёл	_	_	_	_	_	_	_	Shift=1991
+26	к	_	_	_	_	_	_	_	Shift=1999
+27	грани	_	_	_	_	_	_	_	Shift=2001|SpaceAfter=No
+28	,	_	_	_	_	_	_	_	Shift=2007
+29	отделяющей	_	_	_	_	_	_	_	Shift=2009
+30	перевод	_	_	_	_	_	_	_	Shift=2020
+31	от	_	_	_	_	_	_	_	Shift=2028
+32	оригинального	_	_	_	_	_	_	_	Shift=2031
+33	русского	_	_	_	_	_	_	_	Shift=2045
+34	текста	_	_	_	_	_	_	_	Shift=2054|SpaceAfter=No
+35	...	_	_	_	_	_	_	_	Shift=2061
+
+# newpar id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p11
+# par_text = Впрочем , автор этих строк , совершенно независимо от Киселёва и одновременно с ним , тоже перевёл один из ключевых « каннибальских » рассказов Нове — « Любовная жизнь » .
+# sent_id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p11-s1
+# text = Впрочем, автор этих строк, совершенно независимо от Киселёва и одновременно с ним, тоже перевёл один из ключевых ``каннибальских ``рассказов Нове - ``Любовная жизнь ``.
+1	Впрочем	_	_	_	_	_	_	_	Shift=2063|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=2071
+3	автор	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2723|RuCor_group_id=471914|RuCor_link_id=471918|Shift=2073
+4	этих	_	_	_	_	_	_	_	RuCor_chain_id=2723|RuCor_group_id=471914|Shift=2079
+5	строк	_	_	_	_	_	_	_	RuCor_chain_id=2723|RuCor_group_id=471914|Shift=2084|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=2090
+7	совершенно	_	_	_	_	_	_	_	Shift=2092
+8	независимо	_	_	_	_	_	_	_	Shift=2103
+9	от	_	_	_	_	_	_	_	Shift=2114
+10	Киселёва	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2722|RuCor_group_id=471915|RuCor_link_id=0|Shift=2117
+11	и	_	_	_	_	_	_	_	Shift=2126
+12	одновременно	_	_	_	_	_	_	_	Shift=2128
+13	с	_	_	_	_	_	_	_	Shift=2141
+14	ним	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2722|RuCor_group_id=471916|RuCor_link_id=471915|Shift=2143|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=2147
+16	тоже	_	_	_	_	_	_	_	Shift=2149
+17	перевёл	_	_	_	_	_	_	_	Shift=2154
+18	один	_	_	_	_	_	_	_	Shift=2162
+19	из	_	_	_	_	_	_	_	Shift=2167
+20	ключевых	_	_	_	_	_	_	_	Shift=2170
+21	``	_	_	_	_	_	_	_	Shift=2179|SpaceAfter=No
+22	каннибальских	_	_	_	_	_	_	_	Shift=2181
+23	``	_	_	_	_	_	_	_	Shift=2195|SpaceAfter=No
+24	рассказов	_	_	_	_	_	_	_	Shift=2197
+25	Нове	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2713|RuCor_group_id=471917|RuCor_link_id=471906|Shift=2207
+26	-	_	_	_	_	_	_	_	Shift=2212
+27	``	_	_	_	_	_	_	_	Shift=2214|SpaceAfter=No
+28	Любовная	_	_	_	_	_	_	_	Shift=2216
+29	жизнь	_	_	_	_	_	_	_	Shift=2225
+30	``	_	_	_	_	_	_	_	Shift=2231|SpaceAfter=No
+31	.	_	_	_	_	_	_	_	Shift=2233
+
+# newpar id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p12
+# par_text = Неудивительно , что , оказавшись в мае 2006 года в Генуе , я немедленно купил новую книгу Нове , и столь же неудивительно , что с « моим » , то есть « каннибальским » , этот Нове имеет мало общего .
+# sent_id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p12-s1
+# text = Неудивительно, что, оказавшись в мае 2006 года в Генуе, я немедленно купил новую книгу Нове, и столь же неудивительно, что с ``моим ``, то есть ``каннибальским ``, этот Нове имеет мало общего.
+1	Неудивительно	_	_	_	_	_	_	_	Shift=2235|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=2249
+3	что	_	_	_	_	_	_	_	Shift=2251|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2255
+5	оказавшись	_	_	_	_	_	_	_	Shift=2257
+6	в	_	_	_	_	_	_	_	Shift=2268
+7	мае	_	_	_	_	_	_	_	Shift=2270
+8	2006	_	_	_	_	_	_	_	Shift=2274
+9	года	_	_	_	_	_	_	_	Shift=2279
+10	в	_	_	_	_	_	_	_	Shift=2284
+11	Генуе	_	_	_	_	_	_	_	Shift=2286|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=2292
+13	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2723|RuCor_group_id=471918|RuCor_link_id=471922|Shift=2294
+14	немедленно	_	_	_	_	_	_	_	Shift=2296
+15	купил	_	_	_	_	_	_	_	Shift=2307
+16	новую	_	_	_	_	_	_	_	RuCor_chain_id=2712|RuCor_group_id=471919|Shift=2313
+17	книгу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2712|RuCor_group_id=471919|RuCor_link_id=471892|Shift=2319
+18	Нове	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2713|RuCor_group_id=471920|RuCor_link_id=471917|Shift=2325|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=2330
+20	и	_	_	_	_	_	_	_	Shift=2332
+21	столь	_	_	_	_	_	_	_	Shift=2334
+22	же	_	_	_	_	_	_	_	Shift=2340
+23	неудивительно	_	_	_	_	_	_	_	Shift=2343|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=2357
+25	что	_	_	_	_	_	_	_	Shift=2359
+26	с	_	_	_	_	_	_	_	Shift=2363
+27	``	_	_	_	_	_	_	_	Shift=2365|SpaceAfter=No
+28	моим	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2723|RuCor_group_id=471921|RuCor_link_id=471918|Shift=2367
+29	``	_	_	_	_	_	_	_	Shift=2372|SpaceAfter=No
+30	,	_	_	_	_	_	_	_	Shift=2374
+31	то	_	_	_	_	_	_	_	Shift=2376
+32	есть	_	_	_	_	_	_	_	Shift=2379
+33	``	_	_	_	_	_	_	_	Shift=2384|SpaceAfter=No
+34	каннибальским	_	_	_	_	_	_	_	Shift=2386
+35	``	_	_	_	_	_	_	_	Shift=2400|SpaceAfter=No
+36	,	_	_	_	_	_	_	_	Shift=2402
+37	этот	_	_	_	_	_	_	_	Shift=2404
+38	Нове	_	_	_	_	_	_	_	Shift=2409
+39	имеет	_	_	_	_	_	_	_	Shift=2414
+40	мало	_	_	_	_	_	_	_	Shift=2420
+41	общего	_	_	_	_	_	_	_	Shift=2425|SpaceAfter=No
+42	.	_	_	_	_	_	_	_	Shift=2432
+
+# newpar id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p13
+# par_text = Я , в общем , ждал этого , потому что знал , что он ( как и прочие повзрослевшие « каннибалы » ) давно преодолел юношеское искушение гипернатурализма .
+# sent_id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p13-s1
+# text = Я, в общем, ждал этого, потому что знал, что он (как и прочие повзрослевшие ``каннибалы ``) давно преодолел юношеское искушение гипернатурализма.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2723|RuCor_group_id=471922|RuCor_link_id=0|Shift=2434|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=2436
+3	в	_	_	_	_	_	_	_	Shift=2438
+4	общем	_	_	_	_	_	_	_	Shift=2440|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=2446
+6	ждал	_	_	_	_	_	_	_	Shift=2448
+7	этого	_	_	_	_	_	_	_	Shift=2453|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=2459
+9	потому	_	_	_	_	_	_	_	Shift=2461
+10	что	_	_	_	_	_	_	_	Shift=2468
+11	знал	_	_	_	_	_	_	_	Shift=2472|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=2477
+13	что	_	_	_	_	_	_	_	Shift=2479
+14	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2713|RuCor_group_id=471923|RuCor_link_id=471920|Shift=2483
+15	(	_	_	_	_	_	_	_	Shift=2486|SpaceAfter=No
+16	как	_	_	_	_	_	_	_	Shift=2488
+17	и	_	_	_	_	_	_	_	Shift=2492
+18	прочие	_	_	_	_	_	_	_	Shift=2494
+19	повзрослевшие	_	_	_	_	_	_	_	Shift=2501
+20	``	_	_	_	_	_	_	_	Shift=2515|SpaceAfter=No
+21	каннибалы	_	_	_	_	_	_	_	Shift=2517
+22	``	_	_	_	_	_	_	_	Shift=2527|SpaceAfter=No
+23	)	_	_	_	_	_	_	_	Shift=2529
+24	давно	_	_	_	_	_	_	_	Shift=2531
+25	преодолел	_	_	_	_	_	_	_	Shift=2537
+26	юношеское	_	_	_	_	_	_	_	Shift=2547
+27	искушение	_	_	_	_	_	_	_	Shift=2557
+28	гипернатурализма	_	_	_	_	_	_	_	Shift=2567|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	Shift=2584
+
+# newpar id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p14
+# par_text = Но Альдо всё равно удалось меня удивить и озадачить .
+# sent_id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p14-s1
+# text = Но Альдо всё равно удалось меня удивить и озадачить.
+1	Но	_	_	_	_	_	_	_	Shift=2586
+2	Альдо	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2713|RuCor_group_id=471924|RuCor_link_id=471923|Shift=2589
+3	всё	_	_	_	_	_	_	_	Shift=2595
+4	равно	_	_	_	_	_	_	_	Shift=2599
+5	удалось	_	_	_	_	_	_	_	Shift=2605
+6	меня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2723|RuCor_group_id=471925|RuCor_link_id=471922|Shift=2613
+7	удивить	_	_	_	_	_	_	_	Shift=2618
+8	и	_	_	_	_	_	_	_	Shift=2626
+9	озадачить	_	_	_	_	_	_	_	Shift=2628|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=2638
+
+# newpar id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p15
+# par_text = Подписанная его именем книга — это , собственно , не книга , а сборник интервью , взятых Нове по заданию коммунистической ( ! ) газеты Liberazione у « новых бедных » — итальянцев в возрасте от 28 до 45 лет , принадлежащих к самым разным социальным слоям и группам — от дизайнера до овцевода .
+# sent_id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p15-s1
+# text = Подписанная его именем книга - это, собственно, не книга, а сборник интервью, взятых Нове по заданию коммунистической (!)
+1	Подписанная	_	_	_	_	_	_	_	RuCor_chain_id=2712|RuCor_group_id=471926|Shift=2640
+2	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2713|RuCor_group_id=471927|RuCor_link_id=471924|Shift=2652
+3	именем	_	_	_	_	_	_	_	RuCor_chain_id=2712|RuCor_group_id=471926|Shift=2656
+4	книга	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2712|RuCor_group_id=471926|RuCor_link_id=471919|Shift=2663
+5	-	_	_	_	_	_	_	_	Shift=2669
+6	это	_	_	_	_	_	_	_	Shift=2671|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=2675
+8	собственно	_	_	_	_	_	_	_	Shift=2677|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=2688
+10	не	_	_	_	_	_	_	_	RuCor_chain_id=2712|RuCor_group_id=471928|Shift=2690
+11	книга	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2712|RuCor_group_id=471928|RuCor_link_id=471926|Shift=2693|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=2699
+13	а	_	_	_	_	_	_	_	Shift=2701
+14	сборник	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2712|RuCor_group_id=471929|RuCor_link_id=471928|Shift=2703
+15	интервью	_	_	_	_	_	_	_	RuCor_chain_id=2712|RuCor_group_id=471929|Shift=2711|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=2720
+17	взятых	_	_	_	_	_	_	_	Shift=2722
+18	Нове	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2713|RuCor_group_id=471930|RuCor_link_id=471927|Shift=2729
+19	по	_	_	_	_	_	_	_	Shift=2734
+20	заданию	_	_	_	_	_	_	_	Shift=2737
+21	коммунистической	_	_	_	_	_	_	_	Shift=2745
+22	(	_	_	_	_	_	_	_	Shift=2762|SpaceAfter=No
+23	!	_	_	_	_	_	_	_	Shift=2764|SpaceAfter=No
+24	)	_	_	_	_	_	_	_	Shift=2766
+
+# sent_id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p15-s2
+# text = газеты Liberazione у ``новых бедных ``- итальянцев в возрасте от 28 до 45 лет, принадлежащих к самым разным социальным слоям и группам - от дизайнера до овцевода.
+1	газеты	_	_	_	_	_	_	_	Shift=2768
+2	Liberazione	_	_	_	_	_	_	_	Shift=2775
+3	у	_	_	_	_	_	_	_	Shift=2787
+4	``	_	_	_	_	_	_	_	RuCor_chain_id=2715|RuCor_group_id=471931|Shift=2789|SpaceAfter=No
+5	новых	_	_	_	_	_	_	_	RuCor_chain_id=2715|RuCor_group_id=471931|Shift=2791
+6	бедных	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2715|RuCor_group_id=471931|RuCor_link_id=471886|Shift=2797
+7	``	_	_	_	_	_	_	_	RuCor_chain_id=2715|RuCor_group_id=471931|Shift=2804|SpaceAfter=No
+8	-	_	_	_	_	_	_	_	Shift=2806
+9	итальянцев	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2724|RuCor_group_id=471932|RuCor_link_id=0|Shift=2808
+10	в	_	_	_	_	_	_	_	RuCor_chain_id=2724|RuCor_group_id=471932|Shift=2819
+11	возрасте	_	_	_	_	_	_	_	RuCor_chain_id=2724|RuCor_group_id=471932|Shift=2821
+12	от	_	_	_	_	_	_	_	RuCor_chain_id=2724|RuCor_group_id=471932|Shift=2830
+13	28	_	_	_	_	_	_	_	RuCor_chain_id=2724|RuCor_group_id=471932|Shift=2833
+14	до	_	_	_	_	_	_	_	RuCor_chain_id=2724|RuCor_group_id=471932|Shift=2836
+15	45	_	_	_	_	_	_	_	RuCor_chain_id=2724|RuCor_group_id=471932|Shift=2839
+16	лет	_	_	_	_	_	_	_	RuCor_chain_id=2724|RuCor_group_id=471932|Shift=2842|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=2846
+18	принадлежащих	_	_	_	_	_	_	_	Shift=2848
+19	к	_	_	_	_	_	_	_	Shift=2862
+20	самым	_	_	_	_	_	_	_	Shift=2864
+21	разным	_	_	_	_	_	_	_	Shift=2870
+22	социальным	_	_	_	_	_	_	_	Shift=2877
+23	слоям	_	_	_	_	_	_	_	Shift=2888
+24	и	_	_	_	_	_	_	_	Shift=2894
+25	группам	_	_	_	_	_	_	_	Shift=2896
+26	-	_	_	_	_	_	_	_	Shift=2904
+27	от	_	_	_	_	_	_	_	Shift=2906
+28	дизайнера	_	_	_	_	_	_	_	Shift=2909
+29	до	_	_	_	_	_	_	_	Shift=2919
+30	овцевода	_	_	_	_	_	_	_	Shift=2922|SpaceAfter=No
+31	.	_	_	_	_	_	_	_	Shift=2931
+
+# newpar id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p16
+# par_text = Всех их объединяет одно : они , как и обещает название книги , работают за гроши , перебиваясь от месяца к месяцу .
+# sent_id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p16-s1
+# text = Всех их объединяет одно: они, как и обещает название книги, работают за гроши, перебиваясь от месяца к месяцу.
+1	Всех	_	_	_	_	_	_	_	RuCor_chain_id=2724|RuCor_group_id=471933|Shift=2933
+2	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2724|RuCor_group_id=471933|RuCor_link_id=471932|Shift=2938
+3	объединяет	_	_	_	_	_	_	_	Shift=2941
+4	одно	_	_	_	_	_	_	_	Shift=2952|SpaceAfter=No
+5	:	_	_	_	_	_	_	_	Shift=2957
+6	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2724|RuCor_group_id=471934|RuCor_link_id=471933|Shift=2959|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=2963
+8	как	_	_	_	_	_	_	_	Shift=2965
+9	и	_	_	_	_	_	_	_	Shift=2969
+10	обещает	_	_	_	_	_	_	_	Shift=2971
+11	название	_	_	_	_	_	_	_	Shift=2979
+12	книги	_	_	_	_	_	_	_	Shift=2988|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=2994
+14	работают	_	_	_	_	_	_	_	Shift=2996
+15	за	_	_	_	_	_	_	_	Shift=3005
+16	гроши	_	_	_	_	_	_	_	Shift=3008|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=3014
+18	перебиваясь	_	_	_	_	_	_	_	Shift=3016
+19	от	_	_	_	_	_	_	_	Shift=3028
+20	месяца	_	_	_	_	_	_	_	Shift=3031
+21	к	_	_	_	_	_	_	_	Shift=3038
+22	месяцу	_	_	_	_	_	_	_	Shift=3040|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=3047
+
+# newpar id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p17
+# par_text = Хотя вроде бы не глупы , не ленивы , не подвержены разрушительным вредным привычкам ; они даже честные и совестливые — и не в этом ли всё дело ?
+# sent_id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p17-s1
+# text = Хотя вроде бы не глупы, не ленивы, не подвержены разрушительным вредным привычкам.
+1	Хотя	_	_	_	_	_	_	_	Shift=3049
+2	вроде	_	_	_	_	_	_	_	Shift=3054
+3	бы	_	_	_	_	_	_	_	Shift=3060
+4	не	_	_	_	_	_	_	_	Shift=3063
+5	глупы	_	_	_	_	_	_	_	Shift=3066|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=3072
+7	не	_	_	_	_	_	_	_	Shift=3074
+8	ленивы	_	_	_	_	_	_	_	Shift=3077|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=3084
+10	не	_	_	_	_	_	_	_	Shift=3086
+11	подвержены	_	_	_	_	_	_	_	Shift=3089
+12	разрушительным	_	_	_	_	_	_	_	Shift=3100
+13	вредным	_	_	_	_	_	_	_	Shift=3115
+14	привычкам	_	_	_	_	_	_	_	Shift=3123|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=3133
+
+# sent_id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p17-s2
+# text = они даже честные и совестливые - и не в этом ли всё дело?
+1	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2724|RuCor_group_id=471935|RuCor_link_id=471934|Shift=3135
+2	даже	_	_	_	_	_	_	_	Shift=3139
+3	честные	_	_	_	_	_	_	_	Shift=3144
+4	и	_	_	_	_	_	_	_	Shift=3152
+5	совестливые	_	_	_	_	_	_	_	Shift=3154
+6	-	_	_	_	_	_	_	_	Shift=3166
+7	и	_	_	_	_	_	_	_	Shift=3168
+8	не	_	_	_	_	_	_	_	Shift=3170
+9	в	_	_	_	_	_	_	_	Shift=3173
+10	этом	_	_	_	_	_	_	_	Shift=3175
+11	ли	_	_	_	_	_	_	_	Shift=3180
+12	всё	_	_	_	_	_	_	_	Shift=3183
+13	дело	_	_	_	_	_	_	_	Shift=3187|SpaceAfter=No
+14	?	_	_	_	_	_	_	_	Shift=3192
+
+# newpar id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p18
+# par_text = Когда известный писатель « смиряется » до роли интервьюера и выпускает социально заряженную документальную книгу , потому что считает это более важным , чем собственный фикшн , — это случай нечастый , но не уникальный .
+# sent_id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p18-s1
+# text = Когда известный писатель ``смиряется ``до роли интервьюера и выпускает социально заряженную документальную книгу, потому что считает это более важным, чем собственный фикшн, - это случай нечастый, но не уникальный.
+1	Когда	_	_	_	_	_	_	_	Shift=3194
+2	известный	_	_	_	_	_	_	_	Shift=3200
+3	писатель	_	_	_	_	_	_	_	Shift=3210
+4	``	_	_	_	_	_	_	_	Shift=3219|SpaceAfter=No
+5	смиряется	_	_	_	_	_	_	_	Shift=3221
+6	``	_	_	_	_	_	_	_	Shift=3231|SpaceAfter=No
+7	до	_	_	_	_	_	_	_	Shift=3233
+8	роли	_	_	_	_	_	_	_	Shift=3236
+9	интервьюера	_	_	_	_	_	_	_	Shift=3241
+10	и	_	_	_	_	_	_	_	Shift=3253
+11	выпускает	_	_	_	_	_	_	_	Shift=3255
+12	социально	_	_	_	_	_	_	_	Shift=3265
+13	заряженную	_	_	_	_	_	_	_	Shift=3275
+14	документальную	_	_	_	_	_	_	_	Shift=3286
+15	книгу	_	_	_	_	_	_	_	Shift=3301|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=3307
+17	потому	_	_	_	_	_	_	_	Shift=3309
+18	что	_	_	_	_	_	_	_	Shift=3316
+19	считает	_	_	_	_	_	_	_	Shift=3320
+20	это	_	_	_	_	_	_	_	Shift=3328
+21	более	_	_	_	_	_	_	_	Shift=3332
+22	важным	_	_	_	_	_	_	_	Shift=3338|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=3345
+24	чем	_	_	_	_	_	_	_	Shift=3347
+25	собственный	_	_	_	_	_	_	_	Shift=3351
+26	фикшн	_	_	_	_	_	_	_	Shift=3363|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=3369
+28	-	_	_	_	_	_	_	_	Shift=3371
+29	это	_	_	_	_	_	_	_	Shift=3373
+30	случай	_	_	_	_	_	_	_	Shift=3377
+31	нечастый	_	_	_	_	_	_	_	Shift=3384|SpaceAfter=No
+32	,	_	_	_	_	_	_	_	Shift=3393
+33	но	_	_	_	_	_	_	_	Shift=3395
+34	не	_	_	_	_	_	_	_	Shift=3398
+35	уникальный	_	_	_	_	_	_	_	Shift=3401|SpaceAfter=No
+36	.	_	_	_	_	_	_	_	Shift=3412
+
+# newpar id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p19
+# par_text = Можно вспомнить и « Подземку » Харуки Мураками ( собрание интервью с жертвами зариновой атаки в токийском метро ) , и « Грешников » Ильи Стогова ( беседы с оставшимися в живых персонажами питерской клубной тусовки 90-х ) , не говоря уж про хемингуэевские репортажи - памфлеты из охваченной гражданской войной Испании и американскую « новую журналистику » , догадавшуюся , что необычные персонажи эффективнее , когда они сысканы в жизни , а не выдуманы и не обобщены .
+# sent_id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p19-s1
+# text = Можно вспомнить и ``Подземку ``Харуки Мураками (собрание интервью с жертвами зариновой атаки в токийском метро), и ``Грешников ``Ильи Стогова (беседы с оставшимися в живых персонажами питерской клубной тусовки 90-х), не говоря уж про хемингуэевские репортажи - памфлеты из охваченной гражданской войной Испании и американскую ``новую журналистику ``, догадавшуюся, что необычные персонажи эффективнее, когда они сысканы в жизни, а не выдуманы и не обобщены.
+1	Можно	_	_	_	_	_	_	_	Shift=3414
+2	вспомнить	_	_	_	_	_	_	_	Shift=3420
+3	и	_	_	_	_	_	_	_	Shift=3430
+4	``	_	_	_	_	_	_	_	Shift=3432|SpaceAfter=No
+5	Подземку	_	_	_	_	_	_	_	Shift=3434
+6	``	_	_	_	_	_	_	_	Shift=3443|SpaceAfter=No
+7	Харуки	_	_	_	_	_	_	_	Shift=3445
+8	Мураками	_	_	_	_	_	_	_	Shift=3452
+9	(	_	_	_	_	_	_	_	Shift=3461|SpaceAfter=No
+10	собрание	_	_	_	_	_	_	_	Shift=3463
+11	интервью	_	_	_	_	_	_	_	Shift=3472
+12	с	_	_	_	_	_	_	_	Shift=3481
+13	жертвами	_	_	_	_	_	_	_	Shift=3483
+14	зариновой	_	_	_	_	_	_	_	Shift=3492
+15	атаки	_	_	_	_	_	_	_	Shift=3502
+16	в	_	_	_	_	_	_	_	Shift=3508
+17	токийском	_	_	_	_	_	_	_	Shift=3510
+18	метро	_	_	_	_	_	_	_	Shift=3520|SpaceAfter=No
+19	)	_	_	_	_	_	_	_	Shift=3526|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=3528
+21	и	_	_	_	_	_	_	_	Shift=3530
+22	``	_	_	_	_	_	_	_	Shift=3532|SpaceAfter=No
+23	Грешников	_	_	_	_	_	_	_	Shift=3534
+24	``	_	_	_	_	_	_	_	Shift=3544|SpaceAfter=No
+25	Ильи	_	_	_	_	_	_	_	Shift=3546
+26	Стогова	_	_	_	_	_	_	_	Shift=3551
+27	(	_	_	_	_	_	_	_	Shift=3559|SpaceAfter=No
+28	беседы	_	_	_	_	_	_	_	Shift=3561
+29	с	_	_	_	_	_	_	_	Shift=3568
+30	оставшимися	_	_	_	_	_	_	_	Shift=3570
+31	в	_	_	_	_	_	_	_	Shift=3582
+32	живых	_	_	_	_	_	_	_	Shift=3584
+33	персонажами	_	_	_	_	_	_	_	Shift=3590
+34	питерской	_	_	_	_	_	_	_	Shift=3602
+35	клубной	_	_	_	_	_	_	_	Shift=3612
+36	тусовки	_	_	_	_	_	_	_	Shift=3620
+37	90-х	_	_	_	_	_	_	_	Shift=3628|SpaceAfter=No
+38	)	_	_	_	_	_	_	_	Shift=3633|SpaceAfter=No
+39	,	_	_	_	_	_	_	_	Shift=3635
+40	не	_	_	_	_	_	_	_	Shift=3637
+41	говоря	_	_	_	_	_	_	_	Shift=3640
+42	уж	_	_	_	_	_	_	_	Shift=3647
+43	про	_	_	_	_	_	_	_	Shift=3650
+44	хемингуэевские	_	_	_	_	_	_	_	Shift=3654
+45	репортажи	_	_	_	_	_	_	_	Shift=3669
+46	-	_	_	_	_	_	_	_	Shift=3679
+47	памфлеты	_	_	_	_	_	_	_	Shift=3681
+48	из	_	_	_	_	_	_	_	Shift=3690
+49	охваченной	_	_	_	_	_	_	_	Shift=3693
+50	гражданской	_	_	_	_	_	_	_	Shift=3704
+51	войной	_	_	_	_	_	_	_	Shift=3716
+52	Испании	_	_	_	_	_	_	_	Shift=3723
+53	и	_	_	_	_	_	_	_	Shift=3731
+54	американскую	_	_	_	_	_	_	_	Shift=3733
+55	``	_	_	_	_	_	_	_	Shift=3746|SpaceAfter=No
+56	новую	_	_	_	_	_	_	_	Shift=3748
+57	журналистику	_	_	_	_	_	_	_	Shift=3754
+58	``	_	_	_	_	_	_	_	Shift=3767|SpaceAfter=No
+59	,	_	_	_	_	_	_	_	Shift=3769
+60	догадавшуюся	_	_	_	_	_	_	_	Shift=3771|SpaceAfter=No
+61	,	_	_	_	_	_	_	_	Shift=3784
+62	что	_	_	_	_	_	_	_	Shift=3786
+63	необычные	_	_	_	_	_	_	_	RuCor_chain_id=2725|RuCor_group_id=471936|Shift=3790
+64	персонажи	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2725|RuCor_group_id=471936|RuCor_link_id=0|Shift=3800
+65	эффективнее	_	_	_	_	_	_	_	Shift=3810|SpaceAfter=No
+66	,	_	_	_	_	_	_	_	Shift=3822
+67	когда	_	_	_	_	_	_	_	Shift=3824
+68	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2725|RuCor_group_id=471937|RuCor_link_id=471936|Shift=3830
+69	сысканы	_	_	_	_	_	_	_	Shift=3834
+70	в	_	_	_	_	_	_	_	Shift=3842
+71	жизни	_	_	_	_	_	_	_	Shift=3844|SpaceAfter=No
+72	,	_	_	_	_	_	_	_	Shift=3850
+73	а	_	_	_	_	_	_	_	Shift=3852
+74	не	_	_	_	_	_	_	_	Shift=3854
+75	выдуманы	_	_	_	_	_	_	_	Shift=3857
+76	и	_	_	_	_	_	_	_	Shift=3866
+77	не	_	_	_	_	_	_	_	Shift=3868
+78	обобщены	_	_	_	_	_	_	_	Shift=3871|SpaceAfter=No
+79	.	_	_	_	_	_	_	_	Shift=3880
+
+# newpar id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p20
+# par_text = Но « Роберта … » выделяется и здесь .
+# sent_id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p20-s1
+# text = Но ``Роберта... ``выделяется и здесь.
+1	Но	_	_	_	_	_	_	_	Shift=3882
+2	``	_	_	_	_	_	_	_	RuCor_chain_id=2712|RuCor_group_id=471938|Shift=3885|SpaceAfter=No
+3	Роберта	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2712|RuCor_group_id=471938|RuCor_link_id=471926|Shift=3887|SpaceAfter=No
+4	...	_	_	_	_	_	_	_	RuCor_chain_id=2712|RuCor_group_id=471938|Shift=3895
+5	``	_	_	_	_	_	_	_	RuCor_chain_id=2712|RuCor_group_id=471938|Shift=3897|SpaceAfter=No
+6	выделяется	_	_	_	_	_	_	_	Shift=3899
+7	и	_	_	_	_	_	_	_	Shift=3910
+8	здесь	_	_	_	_	_	_	_	Shift=3912|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=3918
+
+# newpar id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p21
+# par_text = В ней не просто приводятся подлинные истории .
+# sent_id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p21-s1
+# text = В ней не просто приводятся подлинные истории.
+1	В	_	_	_	_	_	_	_	Shift=3920
+2	ней	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2712|RuCor_group_id=471939|RuCor_link_id=471938|Shift=3922
+3	не	_	_	_	_	_	_	_	Shift=3926
+4	просто	_	_	_	_	_	_	_	Shift=3929
+5	приводятся	_	_	_	_	_	_	_	Shift=3936
+6	подлинные	_	_	_	_	_	_	_	Shift=3947
+7	истории	_	_	_	_	_	_	_	Shift=3957|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=3965
+
+# newpar id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p22
+# par_text = В этой книги Нове — и позже , в Москве , он сам подтвердил мне , что это было его сознательное намерение , — зафиксировал поразительную тенденцию .
+# sent_id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p22-s1
+# text = В этой книги Нове - и позже, в Москве, он сам подтвердил мне, что это было его сознательное намерение, - зафиксировал поразительную тенденцию.
+1	В	_	_	_	_	_	_	_	Shift=3967
+2	этой	_	_	_	_	_	_	_	RuCor_chain_id=2712|RuCor_group_id=471940|Shift=3969
+3	книги	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2712|RuCor_group_id=471940|RuCor_link_id=471939|Shift=3974
+4	Нове	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2713|RuCor_group_id=471941|RuCor_link_id=471927|Shift=3980
+5	-	_	_	_	_	_	_	_	Shift=3985
+6	и	_	_	_	_	_	_	_	Shift=3987
+7	позже	_	_	_	_	_	_	_	Shift=3989|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=3995
+9	в	_	_	_	_	_	_	_	Shift=3997
+10	Москве	_	_	_	_	_	_	_	Shift=3999|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=4006
+12	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2713|RuCor_group_id=471942|RuCor_link_id=471941|Shift=4008
+13	сам	_	_	_	_	_	_	_	RuCor_chain_id=2713|RuCor_group_id=471942|Shift=4011
+14	подтвердил	_	_	_	_	_	_	_	Shift=4015
+15	мне	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2723|RuCor_group_id=471943|RuCor_link_id=471925|Shift=4026|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=4030
+17	что	_	_	_	_	_	_	_	Shift=4032
+18	это	_	_	_	_	_	_	_	Shift=4036
+19	было	_	_	_	_	_	_	_	Shift=4040
+20	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2713|RuCor_group_id=471944|RuCor_link_id=471942|Shift=4045
+21	сознательное	_	_	_	_	_	_	_	Shift=4049
+22	намерение	_	_	_	_	_	_	_	Shift=4062|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=4072
+24	-	_	_	_	_	_	_	_	Shift=4074
+25	зафиксировал	_	_	_	_	_	_	_	Shift=4076
+26	поразительную	_	_	_	_	_	_	_	Shift=4089
+27	тенденцию	_	_	_	_	_	_	_	Shift=4103|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=4113
+
+# newpar id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p23
+# par_text = Впервые , наверное , со времён Возрождения в Италии ( и в Европе ? ) сложилась ситуация , когда поколение детей живёт хуже , чем поколение их родителей .
+# sent_id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p23-s1
+# text = Впервые, наверное, со времён Возрождения в Италии (и в Европе?)
+1	Впервые	_	_	_	_	_	_	_	Shift=4115|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=4123
+3	наверное	_	_	_	_	_	_	_	Shift=4125|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=4134
+5	со	_	_	_	_	_	_	_	Shift=4136
+6	времён	_	_	_	_	_	_	_	Shift=4139
+7	Возрождения	_	_	_	_	_	_	_	Shift=4146
+8	в	_	_	_	_	_	_	_	Shift=4158
+9	Италии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2726|RuCor_group_id=471945|RuCor_link_id=0|Shift=4160
+10	(	_	_	_	_	_	_	_	Shift=4167|SpaceAfter=No
+11	и	_	_	_	_	_	_	_	Shift=4169
+12	в	_	_	_	_	_	_	_	Shift=4171
+13	Европе	_	_	_	_	_	_	_	Shift=4173|SpaceAfter=No
+14	?	_	_	_	_	_	_	_	Shift=4180|SpaceAfter=No
+15	)	_	_	_	_	_	_	_	Shift=4182
+
+# sent_id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p23-s2
+# text = сложилась ситуация, когда поколение детей живёт хуже, чем поколение их родителей.
+1	сложилась	_	_	_	_	_	_	_	Shift=4184
+2	ситуация	_	_	_	_	_	_	_	Shift=4194|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=4203
+4	когда	_	_	_	_	_	_	_	Shift=4205
+5	поколение	_	_	_	_	_	_	_	Shift=4211
+6	детей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2727|RuCor_group_id=471946|RuCor_link_id=471947|Shift=4221
+7	живёт	_	_	_	_	_	_	_	Shift=4227
+8	хуже	_	_	_	_	_	_	_	Shift=4233|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=4238
+10	чем	_	_	_	_	_	_	_	Shift=4240
+11	поколение	_	_	_	_	_	_	_	Shift=4244
+12	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=2727|RuCor_group_id=471947|RuCor_link_id=0|Shift=4254
+13	родителей	_	_	_	_	_	_	_	Shift=4257|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=4267
+
+# newpar id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p24
+# par_text = Родители нынешних 35 — 45-летних могли рассчитывать на социальную защиту ( доступные детские сады , санатории , квалифицированная бесплатная медицина ) , на доступное жильё , на твёрдую пенсию .
+# sent_id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p24-s1
+# text = Родители нынешних 35 - 45-летних могли рассчитывать на социальную защиту (доступные детские сады, санатории, квалифицированная бесплатная медицина), на доступное жильё, на твёрдую пенсию.
+1	Родители	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2728|RuCor_group_id=471948|RuCor_link_id=0|Shift=4269
+2	нынешних	_	_	_	_	_	_	_	RuCor_chain_id=2728|RuCor_group_id=471948|Shift=4278
+3	35	_	_	_	_	_	_	_	RuCor_chain_id=2728|RuCor_group_id=471948|Shift=4287
+4	-	_	_	_	_	_	_	_	RuCor_chain_id=2728|RuCor_group_id=471948|Shift=4290
+5	45-летних	_	_	_	_	_	_	_	Shift=4292
+6	могли	_	_	_	_	_	_	_	Shift=4302
+7	рассчитывать	_	_	_	_	_	_	_	Shift=4308
+8	на	_	_	_	_	_	_	_	Shift=4321
+9	социальную	_	_	_	_	_	_	_	Shift=4324
+10	защиту	_	_	_	_	_	_	_	Shift=4335
+11	(	_	_	_	_	_	_	_	Shift=4342|SpaceAfter=No
+12	доступные	_	_	_	_	_	_	_	Shift=4344
+13	детские	_	_	_	_	_	_	_	Shift=4354
+14	сады	_	_	_	_	_	_	_	Shift=4362|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=4367
+16	санатории	_	_	_	_	_	_	_	Shift=4369|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=4379
+18	квалифицированная	_	_	_	_	_	_	_	Shift=4381
+19	бесплатная	_	_	_	_	_	_	_	Shift=4399
+20	медицина	_	_	_	_	_	_	_	Shift=4410|SpaceAfter=No
+21	)	_	_	_	_	_	_	_	Shift=4419|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=4421
+23	на	_	_	_	_	_	_	_	Shift=4423
+24	доступное	_	_	_	_	_	_	_	Shift=4426
+25	жильё	_	_	_	_	_	_	_	Shift=4436|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	Shift=4442
+27	на	_	_	_	_	_	_	_	Shift=4444
+28	твёрдую	_	_	_	_	_	_	_	Shift=4447
+29	пенсию	_	_	_	_	_	_	_	Shift=4455|SpaceAfter=No
+30	.	_	_	_	_	_	_	_	Shift=4462
+
+# newpar id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p25
+# par_text = Сейчас для их выросших детей своя отдельная квартира — вещь куда менее доступная ( если только не досталась по наследству от тех же родителей или бабушек-дедушек ) , и , как говорится , в случае чего рассчитывать им приходится только на себя .
+# sent_id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p25-s1
+# text = Сейчас для их выросших детей своя отдельная квартира - вещь куда менее доступная (если только не досталась по наследству от тех же родителей или бабушек - дедушек), и, как говорится, в случае чего рассчитывать им приходится только на себя.
+1	Сейчас	_	_	_	_	_	_	_	Shift=4464
+2	для	_	_	_	_	_	_	_	Shift=4471
+3	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=2728|RuCor_group_id=471950|RuCor_link_id=471948|Shift=4475
+4	выросших	_	_	_	_	_	_	_	RuCor_chain_id=2729|RuCor_group_id=471949|Shift=4478
+5	детей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2729|RuCor_group_id=471949|RuCor_link_id=0|Shift=4487
+6	своя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=2729|RuCor_group_id=471951|RuCor_link_id=471949|Shift=4493
+7	отдельная	_	_	_	_	_	_	_	Shift=4498
+8	квартира	_	_	_	_	_	_	_	Shift=4508
+9	-	_	_	_	_	_	_	_	Shift=4517
+10	вещь	_	_	_	_	_	_	_	Shift=4519
+11	куда	_	_	_	_	_	_	_	Shift=4524
+12	менее	_	_	_	_	_	_	_	Shift=4529
+13	доступная	_	_	_	_	_	_	_	Shift=4535
+14	(	_	_	_	_	_	_	_	Shift=4545|SpaceAfter=No
+15	если	_	_	_	_	_	_	_	Shift=4547
+16	только	_	_	_	_	_	_	_	Shift=4552
+17	не	_	_	_	_	_	_	_	Shift=4559
+18	досталась	_	_	_	_	_	_	_	Shift=4562
+19	по	_	_	_	_	_	_	_	Shift=4572
+20	наследству	_	_	_	_	_	_	_	Shift=4575
+21	от	_	_	_	_	_	_	_	Shift=4586
+22	тех	_	_	_	_	_	_	_	Shift=4589
+23	же	_	_	_	_	_	_	_	Shift=4593
+24	родителей	_	_	_	_	_	_	_	Shift=4596
+25	или	_	_	_	_	_	_	_	Shift=4606
+26	бабушек	_	_	_	_	_	_	_	Shift=4610
+27	-	_	_	_	_	_	_	_	Shift=4617
+28	дедушек	_	_	_	_	_	_	_	Shift=4618|SpaceAfter=No
+29	)	_	_	_	_	_	_	_	Shift=4626|SpaceAfter=No
+30	,	_	_	_	_	_	_	_	Shift=4628
+31	и	_	_	_	_	_	_	_	Shift=4630|SpaceAfter=No
+32	,	_	_	_	_	_	_	_	Shift=4632
+33	как	_	_	_	_	_	_	_	Shift=4634
+34	говорится	_	_	_	_	_	_	_	Shift=4638|SpaceAfter=No
+35	,	_	_	_	_	_	_	_	Shift=4648
+36	в	_	_	_	_	_	_	_	Shift=4650
+37	случае	_	_	_	_	_	_	_	Shift=4652
+38	чего	_	_	_	_	_	_	_	Shift=4659
+39	рассчитывать	_	_	_	_	_	_	_	Shift=4664
+40	им	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2729|RuCor_group_id=471952|RuCor_link_id=471949|Shift=4677
+41	приходится	_	_	_	_	_	_	_	Shift=4680
+42	только	_	_	_	_	_	_	_	Shift=4691
+43	на	_	_	_	_	_	_	_	Shift=4698
+44	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=2729|RuCor_group_id=471953|RuCor_link_id=471952|Shift=4701|SpaceAfter=No
+45	.	_	_	_	_	_	_	_	Shift=4706
+
+# newpar id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p26
+# par_text = И только в большом городе — в маленьких городах нормальной работы за нормальные деньги нет и не предвидится .
+# sent_id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p26-s1
+# text = И только в большом городе - в маленьких городах нормальной работы за нормальные деньги нет и не предвидится.
+1	И	_	_	_	_	_	_	_	Shift=4708
+2	только	_	_	_	_	_	_	_	Shift=4710
+3	в	_	_	_	_	_	_	_	Shift=4717
+4	большом	_	_	_	_	_	_	_	Shift=4719
+5	городе	_	_	_	_	_	_	_	Shift=4727
+6	-	_	_	_	_	_	_	_	Shift=4734
+7	в	_	_	_	_	_	_	_	Shift=4736
+8	маленьких	_	_	_	_	_	_	_	Shift=4738
+9	городах	_	_	_	_	_	_	_	Shift=4748
+10	нормальной	_	_	_	_	_	_	_	Shift=4756
+11	работы	_	_	_	_	_	_	_	Shift=4767
+12	за	_	_	_	_	_	_	_	Shift=4774
+13	нормальные	_	_	_	_	_	_	_	Shift=4777
+14	деньги	_	_	_	_	_	_	_	Shift=4788
+15	нет	_	_	_	_	_	_	_	Shift=4795
+16	и	_	_	_	_	_	_	_	Shift=4799
+17	не	_	_	_	_	_	_	_	Shift=4801
+18	предвидится	_	_	_	_	_	_	_	Shift=4804|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=4816
+
+# newpar id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p27
+# par_text = Нам в России более чем знакома эта ситуация , не правда ли ?
+# sent_id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p27-s1
+# text = Нам в России более чем знакома эта ситуация, не правда ли?
+1	Нам	_	_	_	_	_	_	_	Shift=4818
+2	в	_	_	_	_	_	_	_	Shift=4822
+3	России	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2730|RuCor_group_id=471954|RuCor_link_id=0|Shift=4824
+4	более	_	_	_	_	_	_	_	Shift=4831
+5	чем	_	_	_	_	_	_	_	Shift=4837
+6	знакома	_	_	_	_	_	_	_	Shift=4841
+7	эта	_	_	_	_	_	_	_	RuCor_chain_id=2731|RuCor_group_id=471955|Shift=4849
+8	ситуация	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2731|RuCor_group_id=471955|RuCor_link_id=471956|Shift=4853|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=4862
+10	не	_	_	_	_	_	_	_	Shift=4864
+11	правда	_	_	_	_	_	_	_	Shift=4867
+12	ли	_	_	_	_	_	_	_	Shift=4874|SpaceAfter=No
+13	?	_	_	_	_	_	_	_	Shift=4877
+
+# newpar id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p28
+# par_text = И в наступивший кризис она ещё заострилась .
+# sent_id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p28-s1
+# text = И в наступивший кризис она ещё заострилась.
+1	И	_	_	_	_	_	_	_	Shift=4879
+2	в	_	_	_	_	_	_	_	Shift=4881
+3	наступивший	_	_	_	_	_	_	_	Shift=4883
+4	кризис	_	_	_	_	_	_	_	Shift=4895
+5	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2731|RuCor_group_id=471956|RuCor_link_id=0|Shift=4902
+6	ещё	_	_	_	_	_	_	_	Shift=4906
+7	заострилась	_	_	_	_	_	_	_	Shift=4910|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=4922
+
+# newpar id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p29
+# par_text = Но ведь книга всё-таки 2006 года , а интервью , в неё вошедшие , брались ещё раньше , в 2004 — 2005 годах .
+# sent_id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p29-s1
+# text = Но ведь книга всё-таки 2006 года, а интервью, в неё вошедшие, брались ещё раньше, в 2004 - 2005 годах.
+1	Но	_	_	_	_	_	_	_	Shift=4924
+2	ведь	_	_	_	_	_	_	_	Shift=4927
+3	книга	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2732|RuCor_group_id=471957|RuCor_link_id=0|Shift=4932
+4	всё-таки	_	_	_	_	_	_	_	Shift=4938
+5	2006	_	_	_	_	_	_	_	Shift=4947
+6	года	_	_	_	_	_	_	_	Shift=4952|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=4957
+8	а	_	_	_	_	_	_	_	Shift=4959
+9	интервью	_	_	_	_	_	_	_	Shift=4961|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=4970
+11	в	_	_	_	_	_	_	_	Shift=4972
+12	неё	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2732|RuCor_group_id=471958|RuCor_link_id=471957|Shift=4974
+13	вошедшие	_	_	_	_	_	_	_	Shift=4978|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=4987
+15	брались	_	_	_	_	_	_	_	Shift=4989
+16	ещё	_	_	_	_	_	_	_	Shift=4997
+17	раньше	_	_	_	_	_	_	_	Shift=5001|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=5008
+19	в	_	_	_	_	_	_	_	Shift=5010
+20	2004	_	_	_	_	_	_	_	Shift=5012
+21	-	_	_	_	_	_	_	_	Shift=5017
+22	2005	_	_	_	_	_	_	_	Shift=5019
+23	годах	_	_	_	_	_	_	_	Shift=5024|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=5030
+
+# newpar id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p30
+# par_text = Важнее другое : Италия всегда шла в авангарде общеевропейских тенденций .
+# sent_id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p30-s1
+# text = Важнее другое: Италия всегда шла в авангарде общеевропейских тенденций.
+1	Важнее	_	_	_	_	_	_	_	Shift=5032
+2	другое	_	_	_	_	_	_	_	Shift=5039|SpaceAfter=No
+3	:	_	_	_	_	_	_	_	Shift=5046
+4	Италия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2726|RuCor_group_id=471959|RuCor_link_id=471945|Shift=5048
+5	всегда	_	_	_	_	_	_	_	Shift=5055
+6	шла	_	_	_	_	_	_	_	Shift=5062
+7	в	_	_	_	_	_	_	_	Shift=5066
+8	авангарде	_	_	_	_	_	_	_	Shift=5068
+9	общеевропейских	_	_	_	_	_	_	_	Shift=5078
+10	тенденций	_	_	_	_	_	_	_	Shift=5094|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=5104
+
+# newpar id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p31
+# par_text = Возрождению , чтобы добраться до России , понадобилось не одно столетие .
+# sent_id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p31-s1
+# text = Возрождению, чтобы добраться до России, понадобилось не одно столетие.
+1	Возрождению	_	_	_	_	_	_	_	Shift=5106|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=5118
+3	чтобы	_	_	_	_	_	_	_	Shift=5120
+4	добраться	_	_	_	_	_	_	_	Shift=5126
+5	до	_	_	_	_	_	_	_	Shift=5136
+6	России	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2730|RuCor_group_id=471960|RuCor_link_id=471954|Shift=5139|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=5146
+8	понадобилось	_	_	_	_	_	_	_	Shift=5148
+9	не	_	_	_	_	_	_	_	Shift=5161
+10	одно	_	_	_	_	_	_	_	Shift=5164
+11	столетие	_	_	_	_	_	_	_	Shift=5169|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=5178
+
+# newpar id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p32
+# par_text = Но в XXI веке всё происходит гораздо быстрее .
+# sent_id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p32-s1
+# text = Но в XXI веке всё происходит гораздо быстрее.
+1	Но	_	_	_	_	_	_	_	Shift=5180
+2	в	_	_	_	_	_	_	_	Shift=5183
+3	XXI	_	_	_	_	_	_	_	Shift=5185
+4	веке	_	_	_	_	_	_	_	Shift=5189
+5	всё	_	_	_	_	_	_	_	Shift=5194
+6	происходит	_	_	_	_	_	_	_	Shift=5198
+7	гораздо	_	_	_	_	_	_	_	Shift=5209
+8	быстрее	_	_	_	_	_	_	_	Shift=5217|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=5225
+
+# newpar id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p33
+# par_text = Так что , боюсь , кризис здесь ни при чём .
+# sent_id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p33-s1
+# text = Так что, боюсь, кризис здесь ни при чём.
+1	Так	_	_	_	_	_	_	_	Shift=5227
+2	что	_	_	_	_	_	_	_	Shift=5231|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=5235
+4	боюсь	_	_	_	_	_	_	_	Shift=5237|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=5243
+6	кризис	_	_	_	_	_	_	_	Shift=5245
+7	здесь	_	_	_	_	_	_	_	Shift=5252
+8	ни	_	_	_	_	_	_	_	Shift=5258
+9	при	_	_	_	_	_	_	_	Shift=5261
+10	чём	_	_	_	_	_	_	_	Shift=5265|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=5269
+
+# newpar id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p34
+# par_text = А следующей книгой Нове оказалась классическая поэма , посвящённая Деве Марии .
+# sent_id = 96ccb77d-6ece-437f-8ed0-72a004c8d9f7-p34-s1
+# text = А следующей книгой Нове оказалась классическая поэма, посвящённая Деве Марии.
+1	А	_	_	_	_	_	_	_	Shift=5271
+2	следующей	_	_	_	_	_	_	_	Shift=5273
+3	книгой	_	_	_	_	_	_	_	Shift=5283
+4	Нове	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2713|RuCor_group_id=471961|RuCor_link_id=471941|Shift=5290
+5	оказалась	_	_	_	_	_	_	_	Shift=5295
+6	классическая	_	_	_	_	_	_	_	Shift=5305
+7	поэма	_	_	_	_	_	_	_	Shift=5318|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=5324
+9	посвящённая	_	_	_	_	_	_	_	Shift=5326
+10	Деве	_	_	_	_	_	_	_	Shift=5338
+11	Марии	_	_	_	_	_	_	_	Shift=5343|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	_
+

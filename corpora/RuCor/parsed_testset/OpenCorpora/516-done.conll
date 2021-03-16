@@ -1,0 +1,482 @@
+# newdoc id = 19ac60d8-9d02-44ac-a96b-949c5d367ce6
+# newpar id = 19ac60d8-9d02-44ac-a96b-949c5d367ce6-p1
+# par_text = Очень расстроился белорусский лидер из-за того, что Вашингтон забыл его позвать на саммит по ядерной безопасности. Александр Лукашенко обиделся настолько, что не сумел сдержаться и попенял России на то, что Москва не настояла на присутствии на столь знаковом мероприятии своего партнёра Минска. Более того, президент Белоруссии искренне сожалеет о том, что его предшественники на посту главы государства допустили «жесточайшую ошибку», разрешив вывод из страны ядерного оружия. По словам Лукашенко, владей он сейчас ядерным арсеналом, Запад не пренебрегал бы общением с ним. Более того, именно наличие в стране ядерного оружия, по мнению главы Белоруссии, гарантировало бы его стране безопасность.
+# sent_id = 19ac60d8-9d02-44ac-a96b-949c5d367ce6-p1-s1
+# text = Очень расстроился белорусский лидер из-за того, что Вашингтон забыл его позвать на саммит по ядерной безопасности.
+1	Очень	_	_	_	_	_	_	_	Shift=0
+2	расстроился	_	_	_	_	_	_	_	Shift=6
+3	белорусский	_	_	_	_	_	_	_	RuCor_chain_id=415|RuCor_group_id=411949|Shift=18
+4	лидер	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=415|RuCor_group_id=411949|RuCor_link_id=0|Shift=30
+5	из-за	_	_	_	_	_	_	_	Shift=36
+6	того	_	_	_	_	_	_	_	Shift=42|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=46
+8	что	_	_	_	_	_	_	_	Shift=48
+9	Вашингтон	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=410|RuCor_group_id=411979|RuCor_link_id=0|Shift=52
+10	забыл	_	_	_	_	_	_	_	Shift=62
+11	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=415|RuCor_group_id=412005|RuCor_link_id=411949|Shift=68
+12	позвать	_	_	_	_	_	_	_	Shift=72
+13	на	_	_	_	_	_	_	_	Shift=80
+14	саммит	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=412|RuCor_group_id=411958|RuCor_link_id=0|Shift=83
+15	по	_	_	_	_	_	_	_	RuCor_chain_id=412|RuCor_group_id=411958|Shift=90
+16	ядерной	_	_	_	_	_	_	_	RuCor_chain_id=412|RuCor_group_id=411958|Shift=93
+17	безопасности	_	_	_	_	_	_	_	RuCor_chain_id=412|RuCor_group_id=411958|Shift=101|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=113
+
+# sent_id = 19ac60d8-9d02-44ac-a96b-949c5d367ce6-p1-s2
+# text = Александр Лукашенко обиделся настолько, что не сумел сдержаться и попенял России на то, что Москва не настояла на присутствии на столь знаковом мероприятии своего партнёра Минска.
+1	Александр	_	_	_	_	_	_	_	RuCor_chain_id=415|RuCor_group_id=411950|Shift=115
+2	Лукашенко	_	_	_	_	_	_	_	RuCor_chain_id=415|RuCor_group_id=411950|Shift=125
+3	обиделся	_	_	_	_	_	_	_	Shift=135
+4	настолько	_	_	_	_	_	_	_	Shift=144|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=153
+6	что	_	_	_	_	_	_	_	Shift=155
+7	не	_	_	_	_	_	_	_	Shift=159
+8	сумел	_	_	_	_	_	_	_	Shift=162
+9	сдержаться	_	_	_	_	_	_	_	Shift=168
+10	и	_	_	_	_	_	_	_	Shift=179
+11	попенял	_	_	_	_	_	_	_	Shift=181
+12	России	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=409|RuCor_group_id=411982|RuCor_link_id=0|Shift=189
+13	на	_	_	_	_	_	_	_	Shift=196
+14	то	_	_	_	_	_	_	_	Shift=199|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=201
+16	что	_	_	_	_	_	_	_	Shift=203
+17	Москва	_	_	_	_	_	_	_	RuCor_attrs_ref=meton|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=411|RuCor_group_id=411977|RuCor_link_id=0|Shift=207
+18	не	_	_	_	_	_	_	_	Shift=214
+19	настояла	_	_	_	_	_	_	_	Shift=217
+20	на	_	_	_	_	_	_	_	Shift=226
+21	присутствии	_	_	_	_	_	_	_	Shift=229
+22	на	_	_	_	_	_	_	_	Shift=241
+23	столь	_	_	_	_	_	_	_	RuCor_chain_id=412|RuCor_group_id=411959|Shift=244
+24	знаковом	_	_	_	_	_	_	_	RuCor_chain_id=412|RuCor_group_id=411959|Shift=250
+25	мероприятии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=412|RuCor_group_id=411959|RuCor_link_id=411958|Shift=259
+26	своего	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=407|RuCor_group_id=411987|RuCor_link_id=411977|Shift=271
+27	партнёра	_	_	_	_	_	_	_	RuCor_chain_id=407|RuCor_group_id=411987|Shift=278
+28	Минска	_	_	_	_	_	_	_	RuCor_attrs_ref=meton|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=407|RuCor_group_id=411987|RuCor_link_id=0|Shift=287|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	Shift=293
+
+# sent_id = 19ac60d8-9d02-44ac-a96b-949c5d367ce6-p1-s3
+# text = Более того, президент Белоруссии искренне сожалеет о том, что его предшественники на посту главы государства допустили ``жесточайшую ошибку'', разрешив вывод из страны ядерного оружия.
+1	Более	_	_	_	_	_	_	_	Shift=295
+2	того	_	_	_	_	_	_	_	Shift=301|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=305
+4	президент	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=415|RuCor_group_id=411951|RuCor_link_id=411950|Shift=307
+5	Белоруссии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=413|RuCor_group_id=411956|RuCor_link_id=411957|Shift=317
+6	искренне	_	_	_	_	_	_	_	Shift=328
+7	сожалеет	_	_	_	_	_	_	_	Shift=337
+8	о	_	_	_	_	_	_	_	Shift=346
+9	том	_	_	_	_	_	_	_	Shift=348|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=351
+11	что	_	_	_	_	_	_	_	Shift=353
+12	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=415|RuCor_group_id=411967|RuCor_link_id=411951|Shift=357
+13	предшественники	_	_	_	_	_	_	_	Shift=361
+14	на	_	_	_	_	_	_	_	Shift=377
+15	посту	_	_	_	_	_	_	_	Shift=380
+16	главы	_	_	_	_	_	_	_	Shift=386
+17	государства	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=413|RuCor_group_id=411968|RuCor_link_id=411956|Shift=392
+18	допустили	_	_	_	_	_	_	_	Shift=404
+19	``	_	_	_	_	_	_	_	Shift=414|SpaceAfter=No
+20	жесточайшую	_	_	_	_	_	_	_	Shift=415
+21	ошибку	_	_	_	_	_	_	_	Shift=427|SpaceAfter=No
+22	''	_	_	_	_	_	_	_	Shift=433|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=434
+24	разрешив	_	_	_	_	_	_	_	Shift=436
+25	вывод	_	_	_	_	_	_	_	Shift=445
+26	из	_	_	_	_	_	_	_	Shift=451
+27	страны	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=413|RuCor_group_id=411960|RuCor_link_id=411968|Shift=454
+28	ядерного	_	_	_	_	_	_	_	RuCor_chain_id=414|RuCor_group_id=411952|Shift=461
+29	оружия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=414|RuCor_group_id=411952|RuCor_link_id=0|Shift=470|SpaceAfter=No
+30	.	_	_	_	_	_	_	_	Shift=476
+
+# sent_id = 19ac60d8-9d02-44ac-a96b-949c5d367ce6-p1-s4
+# text = По словам Лукашенко, владей он сейчас ядерным арсеналом, Запад не пренебрегал бы общением с ним.
+1	По	_	_	_	_	_	_	_	Shift=478
+2	словам	_	_	_	_	_	_	_	Shift=481
+3	Лукашенко	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=415|RuCor_group_id=411969|RuCor_link_id=411949|Shift=488|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=497
+5	владей	_	_	_	_	_	_	_	Shift=499
+6	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=415|RuCor_group_id=411970|RuCor_link_id=411969|Shift=506
+7	сейчас	_	_	_	_	_	_	_	Shift=509
+8	ядерным	_	_	_	_	_	_	_	RuCor_chain_id=414|RuCor_group_id=411953|Shift=516
+9	арсеналом	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=414|RuCor_group_id=411953|RuCor_link_id=411952|Shift=524|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=533
+11	Запад	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=408|RuCor_group_id=411986|RuCor_link_id=0|Shift=535
+12	не	_	_	_	_	_	_	_	Shift=541
+13	пренебрегал	_	_	_	_	_	_	_	Shift=544
+14	бы	_	_	_	_	_	_	_	Shift=556
+15	общением	_	_	_	_	_	_	_	Shift=559
+16	с	_	_	_	_	_	_	_	Shift=568
+17	ним	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=415|RuCor_group_id=411971|RuCor_link_id=411970|Shift=570|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=573
+
+# sent_id = 19ac60d8-9d02-44ac-a96b-949c5d367ce6-p1-s5
+# text = Более того, именно наличие в стране ядерного оружия, по мнению главы Белоруссии, гарантировало бы его стране безопасность.
+1	Более	_	_	_	_	_	_	_	Shift=575
+2	того	_	_	_	_	_	_	_	Shift=581|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=585
+4	именно	_	_	_	_	_	_	_	Shift=587
+5	наличие	_	_	_	_	_	_	_	Shift=594
+6	в	_	_	_	_	_	_	_	Shift=602
+7	стране	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=413|RuCor_group_id=411972|RuCor_link_id=411956|Shift=604
+8	ядерного	_	_	_	_	_	_	_	RuCor_chain_id=414|RuCor_group_id=411954|Shift=611
+9	оружия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=414|RuCor_group_id=411954|RuCor_link_id=411953|Shift=620|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=626
+11	по	_	_	_	_	_	_	_	Shift=628
+12	мнению	_	_	_	_	_	_	_	Shift=631
+13	главы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=415|RuCor_group_id=411955|RuCor_link_id=411951|Shift=638
+14	Белоруссии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=413|RuCor_group_id=411973|RuCor_link_id=411956|Shift=644|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=654
+16	гарантировало	_	_	_	_	_	_	_	Shift=656
+17	бы	_	_	_	_	_	_	_	Shift=670
+18	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=415|RuCor_group_id=411974|RuCor_link_id=411949|Shift=673
+19	стране	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=413|RuCor_group_id=411957|RuCor_link_id=0|Shift=677
+20	безопасность	_	_	_	_	_	_	_	Shift=684|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=696
+
+# newpar id = 19ac60d8-9d02-44ac-a96b-949c5d367ce6-p2
+# par_text = Тот факт, что Белый дом не выслал ему приглашения на саммит, Лукашенко назвал «безмозглой и тупой инерцией». Впрочем, заявил белорусский лидер, не очень-то ему и хотелось туда ехать. «Мне приятней на берегу Припяти вести с вами беседу, чем сидеть и париться в Вашингтоне», — цитирует РБК Александра Лукашенко. Что до отсутствия поддержки в этом вопросе России, то так друзья не поступают, посетовал президент.
+# sent_id = 19ac60d8-9d02-44ac-a96b-949c5d367ce6-p2-s1
+# text = Тот факт, что Белый дом не выслал ему приглашения на саммит, Лукашенко назвал ``безмозглой и тупой инерцией''.
+1	Тот	_	_	_	_	_	_	_	Shift=698
+2	факт	_	_	_	_	_	_	_	Shift=702|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=706
+4	что	_	_	_	_	_	_	_	Shift=708
+5	Белый	_	_	_	_	_	_	_	RuCor_chain_id=410|RuCor_group_id=411962|Shift=712
+6	дом	_	_	_	_	_	_	_	RuCor_chain_id=410|RuCor_group_id=411962|Shift=718
+7	не	_	_	_	_	_	_	_	Shift=722
+8	выслал	_	_	_	_	_	_	_	Shift=725
+9	ему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=415|RuCor_group_id=411963|RuCor_link_id=411949|Shift=732
+10	приглашения	_	_	_	_	_	_	_	Shift=736
+11	на	_	_	_	_	_	_	_	Shift=748
+12	саммит	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=412|RuCor_group_id=411975|RuCor_link_id=411958|Shift=751|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=757
+14	Лукашенко	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=415|RuCor_group_id=411961|RuCor_link_id=411963|Shift=759
+15	назвал	_	_	_	_	_	_	_	Shift=769
+16	``	_	_	_	_	_	_	_	Shift=776|SpaceAfter=No
+17	безмозглой	_	_	_	_	_	_	_	Shift=777
+18	и	_	_	_	_	_	_	_	Shift=788
+19	тупой	_	_	_	_	_	_	_	Shift=790
+20	инерцией	_	_	_	_	_	_	_	Shift=796|SpaceAfter=No
+21	''	_	_	_	_	_	_	_	Shift=804|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=805
+
+# sent_id = 19ac60d8-9d02-44ac-a96b-949c5d367ce6-p2-s2
+# text = Впрочем, заявил белорусский лидер, не очень - то ему и хотелось туда ехать.
+1	Впрочем	_	_	_	_	_	_	_	Shift=807|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=814
+3	заявил	_	_	_	_	_	_	_	Shift=816
+4	белорусский	_	_	_	_	_	_	_	RuCor_chain_id=415|RuCor_group_id=411964|Shift=823
+5	лидер	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=415|RuCor_group_id=411964|RuCor_link_id=411961|Shift=835|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=840
+7	не	_	_	_	_	_	_	_	Shift=842
+8	очень	_	_	_	_	_	_	_	Shift=845
+9	-	_	_	_	_	_	_	_	Shift=850
+10	то	_	_	_	_	_	_	_	Shift=851
+11	ему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=415|RuCor_group_id=411965|RuCor_link_id=411961|Shift=854
+12	и	_	_	_	_	_	_	_	Shift=858
+13	хотелось	_	_	_	_	_	_	_	Shift=860
+14	туда	_	_	_	_	_	_	_	Shift=869
+15	ехать	_	_	_	_	_	_	_	Shift=874|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=879
+
+# sent_id = 19ac60d8-9d02-44ac-a96b-949c5d367ce6-p2-s3
+# text = ``Мне приятней на берегу Припяти вести с вами беседу, чем сидеть и париться в Вашингтоне'', - цитирует РБК Александра Лукашенко.
+1	``	_	_	_	_	_	_	_	Shift=881|SpaceAfter=No
+2	Мне	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=415|RuCor_group_id=411966|RuCor_link_id=411965|Shift=882
+3	приятней	_	_	_	_	_	_	_	Shift=886
+4	на	_	_	_	_	_	_	_	Shift=895
+5	берегу	_	_	_	_	_	_	_	Shift=898
+6	Припяти	_	_	_	_	_	_	_	Shift=905
+7	вести	_	_	_	_	_	_	_	Shift=913
+8	с	_	_	_	_	_	_	_	Shift=919
+9	вами	_	_	_	_	_	_	_	Shift=921
+10	беседу	_	_	_	_	_	_	_	Shift=926|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=932
+12	чем	_	_	_	_	_	_	_	Shift=934
+13	сидеть	_	_	_	_	_	_	_	Shift=938
+14	и	_	_	_	_	_	_	_	Shift=945
+15	париться	_	_	_	_	_	_	_	Shift=947
+16	в	_	_	_	_	_	_	_	Shift=956
+17	Вашингтоне	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=410|RuCor_group_id=411978|RuCor_link_id=411979|Shift=958|SpaceAfter=No
+18	''	_	_	_	_	_	_	_	Shift=968|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=969
+20	-	_	_	_	_	_	_	_	Shift=971
+21	цитирует	_	_	_	_	_	_	_	Shift=973
+22	РБК	_	_	_	_	_	_	_	Shift=982
+23	Александра	_	_	_	_	_	_	_	RuCor_chain_id=415|RuCor_group_id=411980|Shift=986
+24	Лукашенко	_	_	_	_	_	_	_	RuCor_chain_id=415|RuCor_group_id=411980|Shift=997|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=1006
+
+# sent_id = 19ac60d8-9d02-44ac-a96b-949c5d367ce6-p2-s4
+# text = Что до отсутствия поддержки в этом вопросе России, то так друзья не поступают, посетовал президент.
+1	Что	_	_	_	_	_	_	_	Shift=1008
+2	до	_	_	_	_	_	_	_	Shift=1012
+3	отсутствия	_	_	_	_	_	_	_	Shift=1015
+4	поддержки	_	_	_	_	_	_	_	Shift=1026
+5	в	_	_	_	_	_	_	_	Shift=1036
+6	этом	_	_	_	_	_	_	_	Shift=1038
+7	вопросе	_	_	_	_	_	_	_	Shift=1043
+8	России	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=409|RuCor_group_id=411983|RuCor_link_id=411982|Shift=1051|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1057
+10	то	_	_	_	_	_	_	_	Shift=1059
+11	так	_	_	_	_	_	_	_	Shift=1062
+12	друзья	_	_	_	_	_	_	_	Shift=1066
+13	не	_	_	_	_	_	_	_	Shift=1073
+14	поступают	_	_	_	_	_	_	_	Shift=1076|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=1085
+16	посетовал	_	_	_	_	_	_	_	Shift=1087
+17	президент	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=415|RuCor_group_id=411981|RuCor_link_id=411980|Shift=1097|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=1106
+
+# newpar id = 19ac60d8-9d02-44ac-a96b-949c5d367ce6-p3
+# par_text = Александр Лукашенко также дал понять, что Запад совершенно напрасно не считается с Минском, считая его полностью безъядерным. В Белоруссии остаются значительные запасы высокообогащённого урана, и Минск сам будет решать, что ему с ним делать. «Я не буду скрывать: у нас остался высокообогащённый уран — сотни килограммов фактически уже оружейного и менее обогащённого. Мне некоторые говорят: вывозите этот уран. Хотите в Америку, мы вам заплатим, хотите в Россию. Я говорю: во-первых, почему вы нам диктуете, ведь это наш товар. Мы не собираемся делать грязные бомбы и не собираемся кому-то продавать. Мы в исследовательских целях используем этот уран. Меня сейчас припёрли к стенке, нож к горлу: «отдай»! Я говорю: уже отдал ядерное оружие. А что мы от этого имеем? Поэтому диктовать никому не позволено. Мы не банановая республика и можем сохранять, как уже лет 20 это делаем, этот ядерный материал. Мне говорят: ну раз ты против отдать этот уран, мы тебя не пригласим на саммит. Говорю: спасибо, я и не собирался ехать на этот саммит», — подытожил Лукашенко.
+# sent_id = 19ac60d8-9d02-44ac-a96b-949c5d367ce6-p3-s1
+# text = Александр Лукашенко также дал понять, что Запад совершенно напрасно не считается с Минском, считая его полностью безъядерным.
+1	Александр	_	_	_	_	_	_	_	RuCor_chain_id=415|RuCor_group_id=411984|Shift=1108
+2	Лукашенко	_	_	_	_	_	_	_	RuCor_chain_id=415|RuCor_group_id=411984|Shift=1118
+3	также	_	_	_	_	_	_	_	Shift=1128
+4	дал	_	_	_	_	_	_	_	Shift=1134
+5	понять	_	_	_	_	_	_	_	Shift=1138|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1144
+7	что	_	_	_	_	_	_	_	Shift=1146
+8	Запад	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=408|RuCor_group_id=411985|RuCor_link_id=411986|Shift=1150
+9	совершенно	_	_	_	_	_	_	_	Shift=1156
+10	напрасно	_	_	_	_	_	_	_	Shift=1167
+11	не	_	_	_	_	_	_	_	Shift=1176
+12	считается	_	_	_	_	_	_	_	Shift=1179
+13	с	_	_	_	_	_	_	_	Shift=1189
+14	Минском	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=407|RuCor_group_id=411988|RuCor_link_id=411987|Shift=1191|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=1198
+16	считая	_	_	_	_	_	_	_	Shift=1200
+17	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=407|RuCor_group_id=411989|RuCor_link_id=411988|Shift=1207
+18	полностью	_	_	_	_	_	_	_	Shift=1211
+19	безъядерным	_	_	_	_	_	_	_	Shift=1221|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=1232
+
+# sent_id = 19ac60d8-9d02-44ac-a96b-949c5d367ce6-p3-s2
+# text = В Белоруссии остаются значительные запасы высокообогащённого урана, и Минск сам будет решать, что ему с ним делать.
+1	В	_	_	_	_	_	_	_	Shift=1234
+2	Белоруссии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=413|RuCor_group_id=411990|RuCor_link_id=411956|Shift=1236
+3	остаются	_	_	_	_	_	_	_	Shift=1247
+4	значительные	_	_	_	_	_	_	_	Shift=1256
+5	запасы	_	_	_	_	_	_	_	Shift=1269
+6	высокообогащённого	_	_	_	_	_	_	_	RuCor_chain_id=405|RuCor_group_id=411994|Shift=1276
+7	урана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=405|RuCor_group_id=411994|RuCor_link_id=0|Shift=1295|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1300
+9	и	_	_	_	_	_	_	_	Shift=1302
+10	Минск	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=407|RuCor_group_id=411991|RuCor_link_id=411988|Shift=1304
+11	сам	_	_	_	_	_	_	_	Shift=1310
+12	будет	_	_	_	_	_	_	_	Shift=1314
+13	решать	_	_	_	_	_	_	_	Shift=1320|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=1326
+15	что	_	_	_	_	_	_	_	Shift=1328
+16	ему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=407|RuCor_group_id=411997|RuCor_link_id=411991|Shift=1332
+17	с	_	_	_	_	_	_	_	Shift=1336
+18	ним	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=405|RuCor_group_id=411996|RuCor_link_id=411994|Shift=1338
+19	делать	_	_	_	_	_	_	_	Shift=1342|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=1348
+
+# sent_id = 19ac60d8-9d02-44ac-a96b-949c5d367ce6-p3-s3
+# text = ``Я не буду скрывать: у нас остался высокообогащённый уран - сотни килограммов фактически уже оружейного и менее обогащённого.
+1	``	_	_	_	_	_	_	_	Shift=1350|SpaceAfter=No
+2	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=415|RuCor_group_id=411993|RuCor_link_id=411984|Shift=1351
+3	не	_	_	_	_	_	_	_	Shift=1353
+4	буду	_	_	_	_	_	_	_	Shift=1356
+5	скрывать	_	_	_	_	_	_	_	Shift=1361|SpaceAfter=No
+6	:	_	_	_	_	_	_	_	Shift=1369
+7	у	_	_	_	_	_	_	_	Shift=1371
+8	нас	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=406|RuCor_group_id=411992|RuCor_link_id=0|Shift=1373
+9	остался	_	_	_	_	_	_	_	Shift=1377
+10	высокообогащённый	_	_	_	_	_	_	_	RuCor_chain_id=405|RuCor_group_id=411995|Shift=1385
+11	уран	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=405|RuCor_group_id=411995|RuCor_link_id=411994|Shift=1403
+12	-	_	_	_	_	_	_	_	Shift=1408
+13	сотни	_	_	_	_	_	_	_	Shift=1410
+14	килограммов	_	_	_	_	_	_	_	Shift=1416
+15	фактически	_	_	_	_	_	_	_	Shift=1428
+16	уже	_	_	_	_	_	_	_	Shift=1439
+17	оружейного	_	_	_	_	_	_	_	Shift=1443
+18	и	_	_	_	_	_	_	_	Shift=1454
+19	менее	_	_	_	_	_	_	_	Shift=1456
+20	обогащённого	_	_	_	_	_	_	_	Shift=1462|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=1474
+
+# sent_id = 19ac60d8-9d02-44ac-a96b-949c5d367ce6-p3-s4
+# text = Мне некоторые говорят: вывозите этот уран.
+1	Мне	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=415|RuCor_group_id=411998|RuCor_link_id=411993|Shift=1476
+2	некоторые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=404|RuCor_group_id=412000|RuCor_link_id=0|Shift=1480
+3	говорят	_	_	_	_	_	_	_	Shift=1490|SpaceAfter=No
+4	:	_	_	_	_	_	_	_	Shift=1497
+5	вывозите	_	_	_	_	_	_	_	Shift=1499
+6	этот	_	_	_	_	_	_	_	RuCor_chain_id=405|RuCor_group_id=411999|Shift=1508
+7	уран	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=405|RuCor_group_id=411999|RuCor_link_id=411995|Shift=1513|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=1517
+
+# sent_id = 19ac60d8-9d02-44ac-a96b-949c5d367ce6-p3-s5
+# text = Хотите в Америку, мы вам заплатим, хотите в Россию.
+1	Хотите	_	_	_	_	_	_	_	Shift=1519
+2	в	_	_	_	_	_	_	_	Shift=1526
+3	Америку	_	_	_	_	_	_	_	Shift=1528|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1535
+5	мы	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=404|RuCor_group_id=412001|RuCor_link_id=412000|Shift=1537
+6	вам	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=406|RuCor_group_id=412002|RuCor_link_id=411992|Shift=1540
+7	заплатим	_	_	_	_	_	_	_	Shift=1544|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1552
+9	хотите	_	_	_	_	_	_	_	Shift=1554
+10	в	_	_	_	_	_	_	_	Shift=1561
+11	Россию	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=409|RuCor_group_id=412003|RuCor_link_id=411982|Shift=1563|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=1569
+
+# sent_id = 19ac60d8-9d02-44ac-a96b-949c5d367ce6-p3-s6
+# text = Я говорю: во-первых, почему вы нам диктуете, ведь это наш товар.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=415|RuCor_group_id=412004|RuCor_link_id=411993|Shift=1571
+2	говорю	_	_	_	_	_	_	_	Shift=1573|SpaceAfter=No
+3	:	_	_	_	_	_	_	_	Shift=1579
+4	во-первых	_	_	_	_	_	_	_	Shift=1581|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1590
+6	почему	_	_	_	_	_	_	_	Shift=1592
+7	вы	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=404|RuCor_group_id=412006|RuCor_link_id=412001|Shift=1599
+8	нам	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=406|RuCor_group_id=412007|RuCor_link_id=412002|Shift=1602
+9	диктуете	_	_	_	_	_	_	_	Shift=1606|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=1614
+11	ведь	_	_	_	_	_	_	_	Shift=1616
+12	это	_	_	_	_	_	_	_	Shift=1621
+13	наш	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=406|RuCor_group_id=412008|RuCor_link_id=412007|Shift=1625
+14	товар	_	_	_	_	_	_	_	Shift=1629|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=1634
+
+# sent_id = 19ac60d8-9d02-44ac-a96b-949c5d367ce6-p3-s7
+# text = Мы не собираемся делать грязные бомбы и не собираемся кому-то продавать.
+1	Мы	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=406|RuCor_group_id=412009|RuCor_link_id=412007|Shift=1636
+2	не	_	_	_	_	_	_	_	Shift=1639
+3	собираемся	_	_	_	_	_	_	_	Shift=1642
+4	делать	_	_	_	_	_	_	_	Shift=1653
+5	грязные	_	_	_	_	_	_	_	Shift=1660
+6	бомбы	_	_	_	_	_	_	_	Shift=1668
+7	и	_	_	_	_	_	_	_	Shift=1674
+8	не	_	_	_	_	_	_	_	Shift=1676
+9	собираемся	_	_	_	_	_	_	_	Shift=1679
+10	кому-то	_	_	_	_	_	_	_	Shift=1690
+11	продавать	_	_	_	_	_	_	_	Shift=1698|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=1707
+
+# sent_id = 19ac60d8-9d02-44ac-a96b-949c5d367ce6-p3-s8
+# text = Мы в исследовательских целях используем этот уран.
+1	Мы	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=406|RuCor_group_id=412010|RuCor_link_id=412009|Shift=1709
+2	в	_	_	_	_	_	_	_	Shift=1712
+3	исследовательских	_	_	_	_	_	_	_	Shift=1714
+4	целях	_	_	_	_	_	_	_	Shift=1732
+5	используем	_	_	_	_	_	_	_	Shift=1738
+6	этот	_	_	_	_	_	_	_	RuCor_chain_id=405|RuCor_group_id=412011|Shift=1749
+7	уран	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=405|RuCor_group_id=412011|RuCor_link_id=411999|Shift=1754|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=1758
+
+# sent_id = 19ac60d8-9d02-44ac-a96b-949c5d367ce6-p3-s9
+# text = Меня сейчас припёрли к стенке, нож к горлу: ``отдай''!
+1	Меня	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=415|RuCor_group_id=412012|RuCor_link_id=412004|Shift=1760
+2	сейчас	_	_	_	_	_	_	_	Shift=1765
+3	припёрли	_	_	_	_	_	_	_	Shift=1772
+4	к	_	_	_	_	_	_	_	Shift=1781
+5	стенке	_	_	_	_	_	_	_	Shift=1783|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1789
+7	нож	_	_	_	_	_	_	_	Shift=1791
+8	к	_	_	_	_	_	_	_	Shift=1795
+9	горлу	_	_	_	_	_	_	_	Shift=1797|SpaceAfter=No
+10	:	_	_	_	_	_	_	_	Shift=1802
+11	``	_	_	_	_	_	_	_	Shift=1804|SpaceAfter=No
+12	отдай	_	_	_	_	_	_	_	Shift=1805|SpaceAfter=No
+13	''	_	_	_	_	_	_	_	Shift=1810|SpaceAfter=No
+14	!	_	_	_	_	_	_	_	Shift=1811
+
+# sent_id = 19ac60d8-9d02-44ac-a96b-949c5d367ce6-p3-s10
+# text = Я говорю: уже отдал ядерное оружие.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=415|RuCor_group_id=412014|RuCor_link_id=412012|Shift=1813
+2	говорю	_	_	_	_	_	_	_	Shift=1815|SpaceAfter=No
+3	:	_	_	_	_	_	_	_	Shift=1821
+4	уже	_	_	_	_	_	_	_	Shift=1823
+5	отдал	_	_	_	_	_	_	_	Shift=1827
+6	ядерное	_	_	_	_	_	_	_	RuCor_chain_id=414|RuCor_group_id=412015|Shift=1833
+7	оружие	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=414|RuCor_group_id=412015|RuCor_link_id=411954|Shift=1841|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=1847
+
+# sent_id = 19ac60d8-9d02-44ac-a96b-949c5d367ce6-p3-s11
+# text = А что мы от этого имеем?
+1	А	_	_	_	_	_	_	_	Shift=1849
+2	что	_	_	_	_	_	_	_	Shift=1851
+3	мы	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=406|RuCor_group_id=412016|RuCor_link_id=412007|Shift=1855
+4	от	_	_	_	_	_	_	_	Shift=1858
+5	этого	_	_	_	_	_	_	_	Shift=1861
+6	имеем	_	_	_	_	_	_	_	Shift=1867|SpaceAfter=No
+7	?	_	_	_	_	_	_	_	Shift=1872
+
+# sent_id = 19ac60d8-9d02-44ac-a96b-949c5d367ce6-p3-s12
+# text = Поэтому диктовать никому не позволено.
+1	Поэтому	_	_	_	_	_	_	_	Shift=1874
+2	диктовать	_	_	_	_	_	_	_	Shift=1882
+3	никому	_	_	_	_	_	_	_	Shift=1892
+4	не	_	_	_	_	_	_	_	Shift=1899
+5	позволено	_	_	_	_	_	_	_	Shift=1902|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=1911
+
+# sent_id = 19ac60d8-9d02-44ac-a96b-949c5d367ce6-p3-s13
+# text = Мы не банановая республика и можем сохранять, как уже лет 20 это делаем, этот ядерный материал.
+1	Мы	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=406|RuCor_group_id=412017|RuCor_link_id=412016|Shift=1913
+2	не	_	_	_	_	_	_	_	Shift=1916
+3	банановая	_	_	_	_	_	_	_	Shift=1919
+4	республика	_	_	_	_	_	_	_	Shift=1929
+5	и	_	_	_	_	_	_	_	Shift=1940
+6	можем	_	_	_	_	_	_	_	Shift=1942
+7	сохранять	_	_	_	_	_	_	_	Shift=1948|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1957
+9	как	_	_	_	_	_	_	_	Shift=1959
+10	уже	_	_	_	_	_	_	_	Shift=1963
+11	лет	_	_	_	_	_	_	_	Shift=1967
+12	20	_	_	_	_	_	_	_	Shift=1971
+13	это	_	_	_	_	_	_	_	Shift=1974
+14	делаем	_	_	_	_	_	_	_	Shift=1978|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=1984
+16	этот	_	_	_	_	_	_	_	RuCor_chain_id=405|RuCor_group_id=412018|Shift=1986
+17	ядерный	_	_	_	_	_	_	_	RuCor_chain_id=405|RuCor_group_id=412018|Shift=1991
+18	материал	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=405|RuCor_group_id=412018|RuCor_link_id=412011|Shift=1999|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=2007
+
+# sent_id = 19ac60d8-9d02-44ac-a96b-949c5d367ce6-p3-s14
+# text = Мне говорят: ну раз ты против отдать этот уран, мы тебя не пригласим на саммит.
+1	Мне	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=415|RuCor_group_id=412013|RuCor_link_id=412014|Shift=2009
+2	говорят	_	_	_	_	_	_	_	Shift=2013|SpaceAfter=No
+3	:	_	_	_	_	_	_	_	Shift=2020
+4	ну	_	_	_	_	_	_	_	Shift=2022
+5	раз	_	_	_	_	_	_	_	Shift=2025
+6	ты	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=415|RuCor_group_id=412019|RuCor_link_id=412013|Shift=2029
+7	против	_	_	_	_	_	_	_	Shift=2032
+8	отдать	_	_	_	_	_	_	_	Shift=2039
+9	этот	_	_	_	_	_	_	_	RuCor_chain_id=405|RuCor_group_id=412020|Shift=2046
+10	уран	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=405|RuCor_group_id=412020|RuCor_link_id=412018|Shift=2051|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=2055
+12	мы	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=404|RuCor_group_id=412021|RuCor_link_id=412006|Shift=2057
+13	тебя	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=415|RuCor_group_id=412022|RuCor_link_id=412019|Shift=2060
+14	не	_	_	_	_	_	_	_	Shift=2065
+15	пригласим	_	_	_	_	_	_	_	Shift=2068
+16	на	_	_	_	_	_	_	_	Shift=2078
+17	саммит	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=412|RuCor_group_id=412024|RuCor_link_id=411975|Shift=2081|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=2087
+
+# sent_id = 19ac60d8-9d02-44ac-a96b-949c5d367ce6-p3-s15
+# text = Говорю: спасибо, я и не собирался ехать на этот саммит'', - подытожил Лукашенко.
+1	Говорю	_	_	_	_	_	_	_	Shift=2089|SpaceAfter=No
+2	:	_	_	_	_	_	_	_	Shift=2095
+3	спасибо	_	_	_	_	_	_	_	Shift=2097|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2104
+5	я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=415|RuCor_group_id=412023|RuCor_link_id=412022|Shift=2106
+6	и	_	_	_	_	_	_	_	Shift=2108
+7	не	_	_	_	_	_	_	_	Shift=2110
+8	собирался	_	_	_	_	_	_	_	Shift=2113
+9	ехать	_	_	_	_	_	_	_	Shift=2123
+10	на	_	_	_	_	_	_	_	Shift=2129
+11	этот	_	_	_	_	_	_	_	RuCor_chain_id=412|RuCor_group_id=412025|Shift=2132
+12	саммит	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=412|RuCor_group_id=412025|RuCor_link_id=411975|Shift=2137|SpaceAfter=No
+13	''	_	_	_	_	_	_	_	Shift=2143|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=2144
+15	-	_	_	_	_	_	_	_	Shift=2146
+16	подытожил	_	_	_	_	_	_	_	Shift=2148
+17	Лукашенко	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=415|RuCor_group_id=412026|RuCor_link_id=412023|Shift=2158|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	_
+

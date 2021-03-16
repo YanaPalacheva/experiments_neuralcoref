@@ -1,0 +1,347 @@
+# newdoc id = 1d136e07-e649-4c1e-b909-f9479b44b3d6
+# newpar id = 1d136e07-e649-4c1e-b909-f9479b44b3d6-p1
+# par_text = В понедельник 28 июня у здания мэрии Москвы на Тверской площади состоялась очередная несанкционированная акция протеста «День гнева», в этот раз направленная, главным образом, против политики московских и подмосковных властей.
+# sent_id = 1d136e07-e649-4c1e-b909-f9479b44b3d6-p1-s1
+# text = В понедельник 28 июня у здания мэрии Москвы на Тверской площади состоялась очередная несанкционированная акция протеста ``День гнева'', в этот раз направленная, главным образом, против политики московских и подмосковных властей.
+1	В	_	_	_	_	_	_	_	Shift=0
+2	понедельник	_	_	_	_	_	_	_	Shift=2
+3	28	_	_	_	_	_	_	_	Shift=14
+4	июня	_	_	_	_	_	_	_	Shift=17
+5	у	_	_	_	_	_	_	_	Shift=22
+6	здания	_	_	_	_	_	_	_	Shift=24
+7	мэрии	_	_	_	_	_	_	_	Shift=31
+8	Москвы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2670|RuCor_group_id=471745|RuCor_link_id=0|Shift=37
+9	на	_	_	_	_	_	_	_	Shift=44
+10	Тверской	_	_	_	_	_	_	_	Shift=47
+11	площади	_	_	_	_	_	_	_	Shift=56
+12	состоялась	_	_	_	_	_	_	_	Shift=64
+13	очередная	_	_	_	_	_	_	_	RuCor_chain_id=2671|RuCor_group_id=471746|Shift=75
+14	несанкционированная	_	_	_	_	_	_	_	RuCor_chain_id=2671|RuCor_group_id=471746|Shift=85
+15	акция	_	_	_	_	_	_	_	RuCor_chain_id=2671|RuCor_group_id=471746|Shift=105
+16	протеста	_	_	_	_	_	_	_	RuCor_chain_id=2671|RuCor_group_id=471746|Shift=111
+17	``	_	_	_	_	_	_	_	RuCor_chain_id=2671|RuCor_group_id=471746|Shift=120|SpaceAfter=No
+18	День	_	_	_	_	_	_	_	RuCor_chain_id=2671|RuCor_group_id=471746|Shift=121
+19	гнева	_	_	_	_	_	_	_	RuCor_chain_id=2671|RuCor_group_id=471746|Shift=126|SpaceAfter=No
+20	''	_	_	_	_	_	_	_	RuCor_chain_id=2671|RuCor_group_id=471746|Shift=131|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=132
+22	в	_	_	_	_	_	_	_	Shift=134
+23	этот	_	_	_	_	_	_	_	Shift=136
+24	раз	_	_	_	_	_	_	_	Shift=141
+25	направленная	_	_	_	_	_	_	_	Shift=145|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	Shift=157
+27	главным	_	_	_	_	_	_	_	Shift=159
+28	образом	_	_	_	_	_	_	_	Shift=167|SpaceAfter=No
+29	,	_	_	_	_	_	_	_	Shift=174
+30	против	_	_	_	_	_	_	_	Shift=176
+31	политики	_	_	_	_	_	_	_	Shift=183
+32	московских	_	_	_	_	_	_	_	Shift=192
+33	и	_	_	_	_	_	_	_	Shift=203
+34	подмосковных	_	_	_	_	_	_	_	Shift=205
+35	властей	_	_	_	_	_	_	_	Shift=218|SpaceAfter=No
+36	.	_	_	_	_	_	_	_	Shift=225
+
+# newpar id = 1d136e07-e649-4c1e-b909-f9479b44b3d6-p2
+# par_text = Среди требований, выдвигаемых организаторами акции: «немедленная отставка мэра Москвы Юрия Лужкова, расследование итогов его деятельности», «созыв московского общественного форума для обсуждения путей реформирования основных сфер жизнедеятельности в Москве», «восстановление прямых выборов глав регионов России», «роспуск нелегитимной Мосгордумы», отставка подмосковного губернатора Бориса Громова и др.
+# sent_id = 1d136e07-e649-4c1e-b909-f9479b44b3d6-p2-s1
+# text = Среди требований, выдвигаемых организаторами акции: ``немедленная отставка мэра Москвы Юрия Лужкова, расследование итогов его деятельности'', ``созыв московского общественного форума для обсуждения путей реформирования основных сфер жизнедеятельности в Москве'', ``восстановление прямых выборов глав регионов России'', ``роспуск нелегитимной Мосгордумы'', отставка подмосковного губернатора Бориса Громова и др.
+1	Среди	_	_	_	_	_	_	_	Shift=227
+2	требований	_	_	_	_	_	_	_	Shift=233|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=243
+4	выдвигаемых	_	_	_	_	_	_	_	Shift=245
+5	организаторами	_	_	_	_	_	_	_	Shift=257
+6	акции	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2671|RuCor_group_id=471747|RuCor_link_id=471746|Shift=272|SpaceAfter=No
+7	:	_	_	_	_	_	_	_	Shift=277
+8	``	_	_	_	_	_	_	_	Shift=279|SpaceAfter=No
+9	немедленная	_	_	_	_	_	_	_	Shift=280
+10	отставка	_	_	_	_	_	_	_	Shift=292
+11	мэра	_	_	_	_	_	_	_	RuCor_chain_id=2672|RuCor_group_id=471748|Shift=301
+12	Москвы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2670|RuCor_group_id=471749|RuCor_link_id=471745|Shift=306
+13	Юрия	_	_	_	_	_	_	_	RuCor_chain_id=2672|RuCor_group_id=471748|Shift=313
+14	Лужкова	_	_	_	_	_	_	_	RuCor_chain_id=2672|RuCor_group_id=471748|Shift=318|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=325
+16	расследование	_	_	_	_	_	_	_	Shift=327
+17	итогов	_	_	_	_	_	_	_	Shift=341
+18	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2672|RuCor_group_id=471750|RuCor_link_id=471748|Shift=348
+19	деятельности	_	_	_	_	_	_	_	Shift=352|SpaceAfter=No
+20	''	_	_	_	_	_	_	_	Shift=364|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=365
+22	``	_	_	_	_	_	_	_	Shift=367|SpaceAfter=No
+23	созыв	_	_	_	_	_	_	_	Shift=368
+24	московского	_	_	_	_	_	_	_	Shift=374
+25	общественного	_	_	_	_	_	_	_	Shift=386
+26	форума	_	_	_	_	_	_	_	Shift=400
+27	для	_	_	_	_	_	_	_	Shift=407
+28	обсуждения	_	_	_	_	_	_	_	Shift=411
+29	путей	_	_	_	_	_	_	_	Shift=422
+30	реформирования	_	_	_	_	_	_	_	Shift=428
+31	основных	_	_	_	_	_	_	_	Shift=443
+32	сфер	_	_	_	_	_	_	_	Shift=452
+33	жизнедеятельности	_	_	_	_	_	_	_	Shift=457
+34	в	_	_	_	_	_	_	_	Shift=475
+35	Москве	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2670|RuCor_group_id=471751|RuCor_link_id=471749|Shift=477|SpaceAfter=No
+36	''	_	_	_	_	_	_	_	Shift=483|SpaceAfter=No
+37	,	_	_	_	_	_	_	_	Shift=484
+38	``	_	_	_	_	_	_	_	Shift=486|SpaceAfter=No
+39	восстановление	_	_	_	_	_	_	_	Shift=487
+40	прямых	_	_	_	_	_	_	_	Shift=502
+41	выборов	_	_	_	_	_	_	_	Shift=509
+42	глав	_	_	_	_	_	_	_	Shift=517
+43	регионов	_	_	_	_	_	_	_	Shift=522
+44	России	_	_	_	_	_	_	_	Shift=531|SpaceAfter=No
+45	''	_	_	_	_	_	_	_	Shift=537|SpaceAfter=No
+46	,	_	_	_	_	_	_	_	Shift=538
+47	``	_	_	_	_	_	_	_	Shift=540|SpaceAfter=No
+48	роспуск	_	_	_	_	_	_	_	Shift=541
+49	нелегитимной	_	_	_	_	_	_	_	Shift=549
+50	Мосгордумы	_	_	_	_	_	_	_	Shift=562|SpaceAfter=No
+51	''	_	_	_	_	_	_	_	Shift=572|SpaceAfter=No
+52	,	_	_	_	_	_	_	_	Shift=573
+53	отставка	_	_	_	_	_	_	_	Shift=575
+54	подмосковного	_	_	_	_	_	_	_	Shift=584
+55	губернатора	_	_	_	_	_	_	_	Shift=598
+56	Бориса	_	_	_	_	_	_	_	Shift=610
+57	Громова	_	_	_	_	_	_	_	Shift=617
+58	и	_	_	_	_	_	_	_	Shift=625
+59	др	_	_	_	_	_	_	_	Shift=627|SpaceAfter=No
+60	.	_	_	_	_	_	_	_	Shift=629
+
+# newpar id = 1d136e07-e649-4c1e-b909-f9479b44b3d6-p3
+# par_text = Участникам акции предлагалось принести с собой лист бумаги или кусок ткани чёрного цвета, символизирующие «чёрную метку» для Юрия Лужкова.
+# sent_id = 1d136e07-e649-4c1e-b909-f9479b44b3d6-p3-s1
+# text = Участникам акции предлагалось принести с собой лист бумаги или кусок ткани чёрного цвета, символизирующие ``чёрную метку'' для Юрия Лужкова.
+1	Участникам	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2673|RuCor_group_id=471752|RuCor_link_id=0|Shift=631
+2	акции	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2671|RuCor_group_id=471753|RuCor_link_id=471747|Shift=642
+3	предлагалось	_	_	_	_	_	_	_	Shift=648
+4	принести	_	_	_	_	_	_	_	Shift=661
+5	с	_	_	_	_	_	_	_	Shift=670
+6	собой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=2673|RuCor_group_id=471754|RuCor_link_id=471752|Shift=672
+7	лист	_	_	_	_	_	_	_	Shift=678
+8	бумаги	_	_	_	_	_	_	_	Shift=683
+9	или	_	_	_	_	_	_	_	Shift=690
+10	кусок	_	_	_	_	_	_	_	Shift=694
+11	ткани	_	_	_	_	_	_	_	Shift=700
+12	чёрного	_	_	_	_	_	_	_	Shift=706
+13	цвета	_	_	_	_	_	_	_	Shift=714|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=719
+15	символизирующие	_	_	_	_	_	_	_	Shift=721
+16	``	_	_	_	_	_	_	_	Shift=737|SpaceAfter=No
+17	чёрную	_	_	_	_	_	_	_	Shift=738
+18	метку	_	_	_	_	_	_	_	Shift=745|SpaceAfter=No
+19	''	_	_	_	_	_	_	_	Shift=750
+20	для	_	_	_	_	_	_	_	Shift=752
+21	Юрия	_	_	_	_	_	_	_	RuCor_chain_id=2672|RuCor_group_id=471755|Shift=756
+22	Лужкова	_	_	_	_	_	_	_	RuCor_chain_id=2672|RuCor_group_id=471755|Shift=761|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=768
+
+# newpar id = 1d136e07-e649-4c1e-b909-f9479b44b3d6-p4
+# par_text = Начало акции было намечено на 19 часов; подчёркивалось, что она состоится несмотря на запрет властей.
+# sent_id = 1d136e07-e649-4c1e-b909-f9479b44b3d6-p4-s1
+# text = Начало акции было намечено на 19 часов.
+1	Начало	_	_	_	_	_	_	_	Shift=770
+2	акции	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2671|RuCor_group_id=471756|RuCor_link_id=471753|Shift=777
+3	было	_	_	_	_	_	_	_	Shift=783
+4	намечено	_	_	_	_	_	_	_	Shift=788
+5	на	_	_	_	_	_	_	_	Shift=797
+6	19	_	_	_	_	_	_	_	Shift=800
+7	часов	_	_	_	_	_	_	_	Shift=803|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=808
+
+# sent_id = 1d136e07-e649-4c1e-b909-f9479b44b3d6-p4-s2
+# text = подчёркивалось, что она состоится несмотря на запрет властей.
+1	подчёркивалось	_	_	_	_	_	_	_	Shift=810|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=824
+3	что	_	_	_	_	_	_	_	Shift=826
+4	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2671|RuCor_group_id=471757|RuCor_link_id=471756|Shift=830
+5	состоится	_	_	_	_	_	_	_	Shift=834
+6	несмотря	_	_	_	_	_	_	_	Shift=844
+7	на	_	_	_	_	_	_	_	Shift=853
+8	запрет	_	_	_	_	_	_	_	Shift=856
+9	властей	_	_	_	_	_	_	_	Shift=863|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=870
+
+# newpar id = 1d136e07-e649-4c1e-b909-f9479b44b3d6-p5
+# par_text = Освещающие акцию блоггеры сообщили, что автобусы с милицией стали занимать площадь у памятника Юрию Долгорукому ещё с 15 часов дня, центральная часть площади была огорожена.
+# sent_id = 1d136e07-e649-4c1e-b909-f9479b44b3d6-p5-s1
+# text = Освещающие акцию блоггеры сообщили, что автобусы с милицией стали занимать площадь у памятника Юрию Долгорукому ещё с 15 часов дня, центральная часть площади была огорожена.
+1	Освещающие	_	_	_	_	_	_	_	RuCor_chain_id=2674|RuCor_group_id=471758|Shift=872
+2	акцию	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2671|RuCor_group_id=471759|RuCor_link_id=471757|Shift=883
+3	блоггеры	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2674|RuCor_group_id=471758|RuCor_link_id=0|Shift=889
+4	сообщили	_	_	_	_	_	_	_	Shift=898|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=906
+6	что	_	_	_	_	_	_	_	Shift=908
+7	автобусы	_	_	_	_	_	_	_	Shift=912
+8	с	_	_	_	_	_	_	_	Shift=921
+9	милицией	_	_	_	_	_	_	_	Shift=923
+10	стали	_	_	_	_	_	_	_	Shift=932
+11	занимать	_	_	_	_	_	_	_	Shift=938
+12	площадь	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2675|RuCor_group_id=471760|RuCor_link_id=0|Shift=947
+13	у	_	_	_	_	_	_	_	RuCor_chain_id=2675|RuCor_group_id=471760|Shift=955
+14	памятника	_	_	_	_	_	_	_	RuCor_chain_id=2675|RuCor_group_id=471760|Shift=957
+15	Юрию	_	_	_	_	_	_	_	RuCor_chain_id=2675|RuCor_group_id=471760|Shift=967
+16	Долгорукому	_	_	_	_	_	_	_	RuCor_chain_id=2675|RuCor_group_id=471760|Shift=972
+17	ещё	_	_	_	_	_	_	_	Shift=984
+18	с	_	_	_	_	_	_	_	Shift=988
+19	15	_	_	_	_	_	_	_	Shift=990
+20	часов	_	_	_	_	_	_	_	Shift=993
+21	дня	_	_	_	_	_	_	_	Shift=999|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=1002
+23	центральная	_	_	_	_	_	_	_	Shift=1004
+24	часть	_	_	_	_	_	_	_	Shift=1016
+25	площади	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2675|RuCor_group_id=471761|RuCor_link_id=471760|Shift=1022
+26	была	_	_	_	_	_	_	_	Shift=1030
+27	огорожена	_	_	_	_	_	_	_	Shift=1035|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=1044
+
+# newpar id = 1d136e07-e649-4c1e-b909-f9479b44b3d6-p6
+# par_text = Ко времени начала акции вокруг огороженной территории собралось множество журналистов и прохожих, по мере прибытия самих участников акции милиция начала планомерно их задерживать и заталкивать в автобусы.
+# sent_id = 1d136e07-e649-4c1e-b909-f9479b44b3d6-p6-s1
+# text = Ко времени начала акции вокруг огороженной территории собралось множество журналистов и прохожих, по мере прибытия самих участников акции милиция начала планомерно их задерживать и заталкивать в автобусы.
+1	Ко	_	_	_	_	_	_	_	Shift=1046
+2	времени	_	_	_	_	_	_	_	Shift=1049
+3	начала	_	_	_	_	_	_	_	Shift=1057
+4	акции	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2671|RuCor_group_id=471762|RuCor_link_id=471759|Shift=1064
+5	вокруг	_	_	_	_	_	_	_	Shift=1070
+6	огороженной	_	_	_	_	_	_	_	Shift=1077
+7	территории	_	_	_	_	_	_	_	Shift=1089
+8	собралось	_	_	_	_	_	_	_	Shift=1100
+9	множество	_	_	_	_	_	_	_	Shift=1110
+10	журналистов	_	_	_	_	_	_	_	Shift=1120
+11	и	_	_	_	_	_	_	_	Shift=1132
+12	прохожих	_	_	_	_	_	_	_	Shift=1134|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=1142
+14	по	_	_	_	_	_	_	_	Shift=1144
+15	мере	_	_	_	_	_	_	_	Shift=1147
+16	прибытия	_	_	_	_	_	_	_	Shift=1152
+17	самих	_	_	_	_	_	_	_	RuCor_chain_id=2676|RuCor_group_id=471763|Shift=1161
+18	участников	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2676|RuCor_group_id=471763|RuCor_link_id=0|Shift=1167
+19	акции	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2671|RuCor_group_id=471764|RuCor_link_id=471762|Shift=1178
+20	милиция	_	_	_	_	_	_	_	Shift=1184
+21	начала	_	_	_	_	_	_	_	Shift=1192
+22	планомерно	_	_	_	_	_	_	_	Shift=1199
+23	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2676|RuCor_group_id=471765|RuCor_link_id=471763|Shift=1210
+24	задерживать	_	_	_	_	_	_	_	Shift=1213
+25	и	_	_	_	_	_	_	_	Shift=1225
+26	заталкивать	_	_	_	_	_	_	_	Shift=1227
+27	в	_	_	_	_	_	_	_	Shift=1239
+28	автобусы	_	_	_	_	_	_	_	Shift=1241|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	Shift=1249
+
+# newpar id = 1d136e07-e649-4c1e-b909-f9479b44b3d6-p7
+# par_text = Всего, по сообщениям блоггеров и СМИ, было задержано более 30 человек.
+# sent_id = 1d136e07-e649-4c1e-b909-f9479b44b3d6-p7-s1
+# text = Всего, по сообщениям блоггеров и СМИ, было задержано более 30 человек.
+1	Всего	_	_	_	_	_	_	_	Shift=1251|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=1256
+3	по	_	_	_	_	_	_	_	Shift=1258
+4	сообщениям	_	_	_	_	_	_	_	Shift=1261
+5	блоггеров	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2674|RuCor_group_id=471766|RuCor_link_id=471758|Shift=1272
+6	и	_	_	_	_	_	_	_	Shift=1282
+7	СМИ	_	_	_	_	_	_	_	Shift=1284|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1287
+9	было	_	_	_	_	_	_	_	Shift=1289
+10	задержано	_	_	_	_	_	_	_	Shift=1294
+11	более	_	_	_	_	_	_	_	Shift=1304
+12	30	_	_	_	_	_	_	_	Shift=1310
+13	человек	_	_	_	_	_	_	_	Shift=1313|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=1320
+
+# newpar id = 1d136e07-e649-4c1e-b909-f9479b44b3d6-p8
+# par_text = Пользователь ЖЖ zyalt сообщает, что среди задержанных оказался депутат муниципального собрания района Отрадное, сопредседатель московского отделения движения «Солидарность» Михаил Вельмакин, известный правозащитник Лев Пономарев, координатор движения «Левый фронт» Сергей Удальцов.
+# sent_id = 1d136e07-e649-4c1e-b909-f9479b44b3d6-p8-s1
+# text = Пользователь ЖЖ zyalt сообщает, что среди задержанных оказался депутат муниципального собрания района Отрадное, сопредседатель московского отделения движения ``Солидарность'' Михаил Вельмакин, известный правозащитник Лев Пономарев, координатор движения ``Левый фронт'' Сергей Удальцов.
+1	Пользователь	_	_	_	_	_	_	_	Shift=1322
+2	ЖЖ	_	_	_	_	_	_	_	Shift=1335
+3	zyalt	_	_	_	_	_	_	_	Shift=1338
+4	сообщает	_	_	_	_	_	_	_	Shift=1344|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1352
+6	что	_	_	_	_	_	_	_	Shift=1354
+7	среди	_	_	_	_	_	_	_	Shift=1358
+8	задержанных	_	_	_	_	_	_	_	Shift=1364
+9	оказался	_	_	_	_	_	_	_	Shift=1376
+10	депутат	_	_	_	_	_	_	_	Shift=1385
+11	муниципального	_	_	_	_	_	_	_	Shift=1393
+12	собрания	_	_	_	_	_	_	_	Shift=1408
+13	района	_	_	_	_	_	_	_	Shift=1417
+14	Отрадное	_	_	_	_	_	_	_	Shift=1424|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=1432
+16	сопредседатель	_	_	_	_	_	_	_	Shift=1434
+17	московского	_	_	_	_	_	_	_	Shift=1449
+18	отделения	_	_	_	_	_	_	_	Shift=1461
+19	движения	_	_	_	_	_	_	_	Shift=1471
+20	``	_	_	_	_	_	_	_	Shift=1480|SpaceAfter=No
+21	Солидарность	_	_	_	_	_	_	_	Shift=1481|SpaceAfter=No
+22	''	_	_	_	_	_	_	_	Shift=1493
+23	Михаил	_	_	_	_	_	_	_	Shift=1495
+24	Вельмакин	_	_	_	_	_	_	_	Shift=1502|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=1511
+26	известный	_	_	_	_	_	_	_	Shift=1513
+27	правозащитник	_	_	_	_	_	_	_	Shift=1523
+28	Лев	_	_	_	_	_	_	_	Shift=1537
+29	Пономарев	_	_	_	_	_	_	_	Shift=1541|SpaceAfter=No
+30	,	_	_	_	_	_	_	_	Shift=1550
+31	координатор	_	_	_	_	_	_	_	Shift=1552
+32	движения	_	_	_	_	_	_	_	Shift=1564
+33	``	_	_	_	_	_	_	_	Shift=1573|SpaceAfter=No
+34	Левый	_	_	_	_	_	_	_	Shift=1574
+35	фронт	_	_	_	_	_	_	_	Shift=1580|SpaceAfter=No
+36	''	_	_	_	_	_	_	_	Shift=1585
+37	Сергей	_	_	_	_	_	_	_	Shift=1587
+38	Удальцов	_	_	_	_	_	_	_	Shift=1594|SpaceAfter=No
+39	.	_	_	_	_	_	_	_	Shift=1602
+
+# newpar id = 1d136e07-e649-4c1e-b909-f9479b44b3d6-p9
+# par_text = Организаторами акции выступили движение «За права человека», Союз координационных советов (СКС), институт «Коллективное действие», «Жилищная солидарность», Движение общежитий Москвы, Движение в защиту Химкинского леса, движение «Московский совет», «Координационный совет пострадавших соинвесторов».
+# sent_id = 1d136e07-e649-4c1e-b909-f9479b44b3d6-p9-s1
+# text = Организаторами акции выступили движение ``За права человека'', Союз координационных советов (СКС), институт ``Коллективное действие'', ``Жилищная солидарность'', Движение общежитий Москвы, Движение в защиту Химкинского леса, движение ``Московский совет'', ``Координационный совет пострадавших соинвесторов''.
+1	Организаторами	_	_	_	_	_	_	_	Shift=1604
+2	акции	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2671|RuCor_group_id=471767|RuCor_link_id=471764|Shift=1619
+3	выступили	_	_	_	_	_	_	_	Shift=1625
+4	движение	_	_	_	_	_	_	_	Shift=1635
+5	``	_	_	_	_	_	_	_	Shift=1644|SpaceAfter=No
+6	За	_	_	_	_	_	_	_	Shift=1645
+7	права	_	_	_	_	_	_	_	Shift=1648
+8	человека	_	_	_	_	_	_	_	Shift=1654|SpaceAfter=No
+9	''	_	_	_	_	_	_	_	Shift=1662|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=1663
+11	Союз	_	_	_	_	_	_	_	Shift=1665
+12	координационных	_	_	_	_	_	_	_	Shift=1670
+13	советов	_	_	_	_	_	_	_	Shift=1686
+14	(	_	_	_	_	_	_	_	Shift=1694|SpaceAfter=No
+15	СКС	_	_	_	_	_	_	_	Shift=1695|SpaceAfter=No
+16	)	_	_	_	_	_	_	_	Shift=1698|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=1699
+18	институт	_	_	_	_	_	_	_	Shift=1701
+19	``	_	_	_	_	_	_	_	Shift=1710|SpaceAfter=No
+20	Коллективное	_	_	_	_	_	_	_	Shift=1711
+21	действие	_	_	_	_	_	_	_	Shift=1724|SpaceAfter=No
+22	''	_	_	_	_	_	_	_	Shift=1732|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=1733
+24	``	_	_	_	_	_	_	_	Shift=1735|SpaceAfter=No
+25	Жилищная	_	_	_	_	_	_	_	Shift=1736
+26	солидарность	_	_	_	_	_	_	_	Shift=1745|SpaceAfter=No
+27	''	_	_	_	_	_	_	_	Shift=1757|SpaceAfter=No
+28	,	_	_	_	_	_	_	_	Shift=1758
+29	Движение	_	_	_	_	_	_	_	Shift=1760
+30	общежитий	_	_	_	_	_	_	_	Shift=1769
+31	Москвы	_	_	_	_	_	_	_	Shift=1779|SpaceAfter=No
+32	,	_	_	_	_	_	_	_	Shift=1785
+33	Движение	_	_	_	_	_	_	_	Shift=1787
+34	в	_	_	_	_	_	_	_	Shift=1796
+35	защиту	_	_	_	_	_	_	_	Shift=1798
+36	Химкинского	_	_	_	_	_	_	_	Shift=1805
+37	леса	_	_	_	_	_	_	_	Shift=1817|SpaceAfter=No
+38	,	_	_	_	_	_	_	_	Shift=1821
+39	движение	_	_	_	_	_	_	_	Shift=1823
+40	``	_	_	_	_	_	_	_	Shift=1832|SpaceAfter=No
+41	Московский	_	_	_	_	_	_	_	Shift=1833
+42	совет	_	_	_	_	_	_	_	Shift=1844|SpaceAfter=No
+43	''	_	_	_	_	_	_	_	Shift=1849|SpaceAfter=No
+44	,	_	_	_	_	_	_	_	Shift=1850
+45	``	_	_	_	_	_	_	_	Shift=1852|SpaceAfter=No
+46	Координационный	_	_	_	_	_	_	_	Shift=1853
+47	совет	_	_	_	_	_	_	_	Shift=1869
+48	пострадавших	_	_	_	_	_	_	_	Shift=1875
+49	соинвесторов	_	_	_	_	_	_	_	Shift=1888|SpaceAfter=No
+50	''	_	_	_	_	_	_	_	SpaceAfter=No
+51	.	_	_	_	_	_	_	_	_
+

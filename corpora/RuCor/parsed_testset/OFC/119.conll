@@ -1,0 +1,726 @@
+# newdoc id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1
+# newpar id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p1
+# par_text = Всякий, кто впервые видит подлинники растиражированных по альбомам, иллюстрациям и постерам классических картин Сальвадора Дали, испытывает невероятное изумление.
+# sent_id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p1-s1
+# text = Всякий, кто впервые видит подлинники растиражированных по альбомам, иллюстрациям и постерам классических картин Сальвадора Дали, испытывает невероятное изумление.
+1	Всякий	_	_	_	_	_	_	_	Shift=0|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=6
+3	кто	_	_	_	_	_	_	_	Shift=8
+4	впервые	_	_	_	_	_	_	_	Shift=12
+5	видит	_	_	_	_	_	_	_	Shift=20
+6	подлинники	_	_	_	_	_	_	_	Shift=26
+7	растиражированных	_	_	_	_	_	_	_	Shift=37
+8	по	_	_	_	_	_	_	_	Shift=55
+9	альбомам	_	_	_	_	_	_	_	Shift=58|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=66
+11	иллюстрациям	_	_	_	_	_	_	_	Shift=68
+12	и	_	_	_	_	_	_	_	Shift=81
+13	постерам	_	_	_	_	_	_	_	Shift=83
+14	классических	_	_	_	_	_	_	_	Shift=92
+15	картин	_	_	_	_	_	_	_	Shift=105
+16	Сальвадора	_	_	_	_	_	_	_	RuCor_chain_id=2919|RuCor_group_id=472788|Shift=112
+17	Дали	_	_	_	_	_	_	_	RuCor_chain_id=2919|RuCor_group_id=472788|Shift=123|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=127
+19	испытывает	_	_	_	_	_	_	_	Shift=129
+20	невероятное	_	_	_	_	_	_	_	Shift=140
+21	изумление	_	_	_	_	_	_	_	Shift=152|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=161
+
+# newpar id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p2
+# par_text = Оказывается, все эти грандиозные пылающие жирафы и растёкшиеся часы размером не в полстены, как воображаешь себе, а едва с руку!
+# sent_id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p2-s1
+# text = Оказывается, все эти грандиозные пылающие жирафы и растёкшиеся часы размером не в полстены, как воображаешь себе, а едва с руку!
+1	Оказывается	_	_	_	_	_	_	_	Shift=163|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=174
+3	все	_	_	_	_	_	_	_	Shift=176
+4	эти	_	_	_	_	_	_	_	Shift=180
+5	грандиозные	_	_	_	_	_	_	_	Shift=184
+6	пылающие	_	_	_	_	_	_	_	Shift=196
+7	жирафы	_	_	_	_	_	_	_	Shift=205
+8	и	_	_	_	_	_	_	_	Shift=212
+9	растёкшиеся	_	_	_	_	_	_	_	Shift=214
+10	часы	_	_	_	_	_	_	_	Shift=226
+11	размером	_	_	_	_	_	_	_	Shift=231
+12	не	_	_	_	_	_	_	_	Shift=240
+13	в	_	_	_	_	_	_	_	Shift=243
+14	полстены	_	_	_	_	_	_	_	Shift=245|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=253
+16	как	_	_	_	_	_	_	_	Shift=255
+17	воображаешь	_	_	_	_	_	_	_	Shift=259
+18	себе	_	_	_	_	_	_	_	Shift=271|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=275
+20	а	_	_	_	_	_	_	_	Shift=277
+21	едва	_	_	_	_	_	_	_	Shift=279
+22	с	_	_	_	_	_	_	_	Shift=284
+23	руку	_	_	_	_	_	_	_	Shift=286|SpaceAfter=No
+24	!	_	_	_	_	_	_	_	Shift=290
+
+# newpar id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p3
+# par_text = Самое большее — в метр.
+# sent_id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p3-s1
+# text = Самое большее - в метр.
+1	Самое	_	_	_	_	_	_	_	Shift=292
+2	большее	_	_	_	_	_	_	_	Shift=298
+3	-	_	_	_	_	_	_	_	Shift=306
+4	в	_	_	_	_	_	_	_	Shift=308
+5	метр	_	_	_	_	_	_	_	Shift=310|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=314
+
+# newpar id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p4
+# par_text = Когда изумление проходит, понимаешь, что, во-первых, этого эффекта великий мистификатор и добивался, а во-вторых, этому несовпадению есть прагматичное объяснение.
+# sent_id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p4-s1
+# text = Когда изумление проходит, понимаешь, что, во-первых, этого эффекта великий мистификатор и добивался, а во-вторых, этому несовпадению есть прагматичное объяснение.
+1	Когда	_	_	_	_	_	_	_	Shift=316
+2	изумление	_	_	_	_	_	_	_	Shift=322
+3	проходит	_	_	_	_	_	_	_	Shift=332|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=340
+5	понимаешь	_	_	_	_	_	_	_	Shift=342|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=351
+7	что	_	_	_	_	_	_	_	Shift=353|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=356
+9	во-первых	_	_	_	_	_	_	_	Shift=358|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=367
+11	этого	_	_	_	_	_	_	_	Shift=369
+12	эффекта	_	_	_	_	_	_	_	Shift=375
+13	великий	_	_	_	_	_	_	_	RuCor_chain_id=2919|RuCor_group_id=472789|Shift=383
+14	мистификатор	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2919|RuCor_group_id=472789|RuCor_link_id=472788|Shift=391
+15	и	_	_	_	_	_	_	_	Shift=404
+16	добивался	_	_	_	_	_	_	_	Shift=406|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=415
+18	а	_	_	_	_	_	_	_	Shift=417
+19	во-вторых	_	_	_	_	_	_	_	Shift=419|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=428
+21	этому	_	_	_	_	_	_	_	Shift=430
+22	несовпадению	_	_	_	_	_	_	_	Shift=436
+23	есть	_	_	_	_	_	_	_	Shift=449
+24	прагматичное	_	_	_	_	_	_	_	Shift=454
+25	объяснение	_	_	_	_	_	_	_	Shift=467|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=477
+
+# newpar id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p5
+# par_text = Всё равно в картинах Дали всех интересует в первую очередь не проработка полутонов и чистота линии, а какая-то одна сюрреалистическая фишка, всякий раз новая, которая и привлекает зрителя, не давая ему заскучать.
+# sent_id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p5-s1
+# text = Всё равно в картинах Дали всех интересует в первую очередь не проработка полутонов и чистота линии, а какая-то одна сюрреалистическая фишка, всякий раз новая, которая и привлекает зрителя, не давая ему заскучать.
+1	Всё	_	_	_	_	_	_	_	Shift=479
+2	равно	_	_	_	_	_	_	_	Shift=483
+3	в	_	_	_	_	_	_	_	Shift=489
+4	картинах	_	_	_	_	_	_	_	Shift=491
+5	Дали	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2919|RuCor_group_id=472790|RuCor_link_id=472789|Shift=500
+6	всех	_	_	_	_	_	_	_	Shift=505
+7	интересует	_	_	_	_	_	_	_	Shift=510
+8	в	_	_	_	_	_	_	_	Shift=521
+9	первую	_	_	_	_	_	_	_	Shift=523
+10	очередь	_	_	_	_	_	_	_	Shift=530
+11	не	_	_	_	_	_	_	_	Shift=538
+12	проработка	_	_	_	_	_	_	_	Shift=541
+13	полутонов	_	_	_	_	_	_	_	Shift=552
+14	и	_	_	_	_	_	_	_	Shift=562
+15	чистота	_	_	_	_	_	_	_	Shift=564
+16	линии	_	_	_	_	_	_	_	Shift=572|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=577
+18	а	_	_	_	_	_	_	_	Shift=579
+19	какая-то	_	_	_	_	_	_	_	Shift=581
+20	одна	_	_	_	_	_	_	_	Shift=590
+21	сюрреалистическая	_	_	_	_	_	_	_	Shift=595
+22	фишка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2920|RuCor_group_id=472791|RuCor_link_id=0|Shift=613|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=618
+24	всякий	_	_	_	_	_	_	_	Shift=620
+25	раз	_	_	_	_	_	_	_	Shift=627
+26	новая	_	_	_	_	_	_	_	Shift=631|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=636
+28	которая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2920|RuCor_group_id=472792|RuCor_link_id=472791|Shift=638
+29	и	_	_	_	_	_	_	_	Shift=646
+30	привлекает	_	_	_	_	_	_	_	Shift=648
+31	зрителя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2921|RuCor_group_id=472793|RuCor_link_id=0|Shift=659|SpaceAfter=No
+32	,	_	_	_	_	_	_	_	Shift=666
+33	не	_	_	_	_	_	_	_	Shift=668
+34	давая	_	_	_	_	_	_	_	Shift=671
+35	ему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2921|RuCor_group_id=472794|RuCor_link_id=472793|Shift=677
+36	заскучать	_	_	_	_	_	_	_	Shift=681|SpaceAfter=No
+37	.	_	_	_	_	_	_	_	Shift=690
+
+# newpar id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p6
+# par_text = И только потом замечаешь, что не только с выдумкой, но и с техническим мастерством у эксцентричного мэтра всё в полнейшем порядке.
+# sent_id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p6-s1
+# text = И только потом замечаешь, что не только с выдумкой, но и с техническим мастерством у эксцентричного мэтра всё в полнейшем порядке.
+1	И	_	_	_	_	_	_	_	Shift=692
+2	только	_	_	_	_	_	_	_	Shift=694
+3	потом	_	_	_	_	_	_	_	Shift=701
+4	замечаешь	_	_	_	_	_	_	_	Shift=707|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=716
+6	что	_	_	_	_	_	_	_	Shift=718
+7	не	_	_	_	_	_	_	_	Shift=722
+8	только	_	_	_	_	_	_	_	Shift=725
+9	с	_	_	_	_	_	_	_	Shift=732
+10	выдумкой	_	_	_	_	_	_	_	Shift=734|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=742
+12	но	_	_	_	_	_	_	_	Shift=744
+13	и	_	_	_	_	_	_	_	Shift=747
+14	с	_	_	_	_	_	_	_	Shift=749
+15	техническим	_	_	_	_	_	_	_	Shift=751
+16	мастерством	_	_	_	_	_	_	_	Shift=763
+17	у	_	_	_	_	_	_	_	Shift=775
+18	эксцентричного	_	_	_	_	_	_	_	RuCor_chain_id=2919|RuCor_group_id=472795|Shift=777
+19	мэтра	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2919|RuCor_group_id=472795|RuCor_link_id=472789|Shift=792
+20	всё	_	_	_	_	_	_	_	Shift=798
+21	в	_	_	_	_	_	_	_	Shift=802
+22	полнейшем	_	_	_	_	_	_	_	Shift=804
+23	порядке	_	_	_	_	_	_	_	Shift=814|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=821
+
+# newpar id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p7
+# par_text = То же самое можно сказать и про короткие рассказы барселонца Кима Мунзо.
+# sent_id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p7-s1
+# text = То же самое можно сказать и про короткие рассказы барселонца Кима Мунзо.
+1	То	_	_	_	_	_	_	_	Shift=823
+2	же	_	_	_	_	_	_	_	Shift=826
+3	самое	_	_	_	_	_	_	_	Shift=829
+4	можно	_	_	_	_	_	_	_	Shift=835
+5	сказать	_	_	_	_	_	_	_	Shift=841
+6	и	_	_	_	_	_	_	_	Shift=849
+7	про	_	_	_	_	_	_	_	Shift=851
+8	короткие	_	_	_	_	_	_	_	RuCor_chain_id=2922|RuCor_group_id=472796|Shift=855
+9	рассказы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2922|RuCor_group_id=472796|RuCor_link_id=0|Shift=864
+10	барселонца	_	_	_	_	_	_	_	RuCor_chain_id=2923|RuCor_group_id=472797|Shift=873
+11	Кима	_	_	_	_	_	_	_	RuCor_chain_id=2923|RuCor_group_id=472797|Shift=884
+12	Мунзо	_	_	_	_	_	_	_	RuCor_chain_id=2923|RuCor_group_id=472797|Shift=889|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=894
+
+# newpar id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p8
+# par_text = Их лаконичность объясняется тем, что каждый из них написан ради некой сюрреалистической ситуации.
+# sent_id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p8-s1
+# text = Их лаконичность объясняется тем, что каждый из них написан ради некой сюрреалистической ситуации.
+1	Их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=2922|RuCor_group_id=472798|RuCor_link_id=472796|Shift=896
+2	лаконичность	_	_	_	_	_	_	_	Shift=899
+3	объясняется	_	_	_	_	_	_	_	Shift=912
+4	тем	_	_	_	_	_	_	_	Shift=924|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=927
+6	что	_	_	_	_	_	_	_	Shift=929
+7	каждый	_	_	_	_	_	_	_	Shift=933
+8	из	_	_	_	_	_	_	_	Shift=940
+9	них	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2922|RuCor_group_id=472799|RuCor_link_id=472798|Shift=943
+10	написан	_	_	_	_	_	_	_	Shift=947
+11	ради	_	_	_	_	_	_	_	Shift=955
+12	некой	_	_	_	_	_	_	_	Shift=960
+13	сюрреалистической	_	_	_	_	_	_	_	Shift=966
+14	ситуации	_	_	_	_	_	_	_	Shift=984|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=992
+
+# newpar id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p9
+# par_text = Так, открывается сборник трагикомичной любовной сценой: пылких любовников всё время прерывают звонками то в дверь, то по телефону и их любовный акт затягивается на несколько десятилетий.
+# sent_id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p9-s1
+# text = Так, открывается сборник трагикомичной любовной сценой: пылких любовников всё время прерывают звонками то в дверь, то по телефону и их любовный акт затягивается на несколько десятилетий.
+1	Так	_	_	_	_	_	_	_	Shift=994|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=997
+3	открывается	_	_	_	_	_	_	_	Shift=999
+4	сборник	_	_	_	_	_	_	_	Shift=1011
+5	трагикомичной	_	_	_	_	_	_	_	Shift=1019
+6	любовной	_	_	_	_	_	_	_	Shift=1033
+7	сценой	_	_	_	_	_	_	_	Shift=1042|SpaceAfter=No
+8	:	_	_	_	_	_	_	_	Shift=1048
+9	пылких	_	_	_	_	_	_	_	RuCor_chain_id=2924|RuCor_group_id=472800|Shift=1050
+10	любовников	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2924|RuCor_group_id=472800|RuCor_link_id=0|Shift=1057
+11	всё	_	_	_	_	_	_	_	Shift=1068
+12	время	_	_	_	_	_	_	_	Shift=1072
+13	прерывают	_	_	_	_	_	_	_	Shift=1078
+14	звонками	_	_	_	_	_	_	_	Shift=1088
+15	то	_	_	_	_	_	_	_	Shift=1097
+16	в	_	_	_	_	_	_	_	Shift=1100
+17	дверь	_	_	_	_	_	_	_	Shift=1102|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=1107
+19	то	_	_	_	_	_	_	_	Shift=1109
+20	по	_	_	_	_	_	_	_	Shift=1112
+21	телефону	_	_	_	_	_	_	_	Shift=1115
+22	и	_	_	_	_	_	_	_	Shift=1124
+23	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=2924|RuCor_group_id=472801|RuCor_link_id=472800|Shift=1126
+24	любовный	_	_	_	_	_	_	_	Shift=1129
+25	акт	_	_	_	_	_	_	_	Shift=1138
+26	затягивается	_	_	_	_	_	_	_	Shift=1142
+27	на	_	_	_	_	_	_	_	Shift=1155
+28	несколько	_	_	_	_	_	_	_	Shift=1158
+29	десятилетий	_	_	_	_	_	_	_	Shift=1168|SpaceAfter=No
+30	.	_	_	_	_	_	_	_	Shift=1179
+
+# newpar id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p10
+# par_text = Или другая любовная сцена, в купе поезда: мужчина и женщина испытывают друг к другу всё растущее влечение, но никак не могут объясниться, потому что у них на двоих семь языков, но ни одного общего.
+# sent_id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p10-s1
+# text = Или другая любовная сцена, в купе поезда: мужчина и женщина испытывают друг к другу всё растущее влечение, но никак не могут объясниться, потому что у них на двоих семь языков, но ни одного общего.
+1	Или	_	_	_	_	_	_	_	Shift=1181
+2	другая	_	_	_	_	_	_	_	Shift=1185
+3	любовная	_	_	_	_	_	_	_	Shift=1192
+4	сцена	_	_	_	_	_	_	_	Shift=1201|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1206
+6	в	_	_	_	_	_	_	_	Shift=1208
+7	купе	_	_	_	_	_	_	_	Shift=1210
+8	поезда	_	_	_	_	_	_	_	Shift=1215|SpaceAfter=No
+9	:	_	_	_	_	_	_	_	Shift=1221
+10	мужчина	_	_	_	_	_	_	_	RuCor_chain_id=2925|RuCor_group_id=472802|Shift=1223
+11	и	_	_	_	_	_	_	_	RuCor_chain_id=2925|RuCor_group_id=472802|Shift=1231
+12	женщина	_	_	_	_	_	_	_	RuCor_chain_id=2925|RuCor_group_id=472802|Shift=1233
+13	испытывают	_	_	_	_	_	_	_	Shift=1241
+14	друг	_	_	_	_	_	_	_	Shift=1252
+15	к	_	_	_	_	_	_	_	Shift=1257
+16	другу	_	_	_	_	_	_	_	Shift=1259
+17	всё	_	_	_	_	_	_	_	Shift=1265
+18	растущее	_	_	_	_	_	_	_	Shift=1269
+19	влечение	_	_	_	_	_	_	_	Shift=1278|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=1286
+21	но	_	_	_	_	_	_	_	Shift=1288
+22	никак	_	_	_	_	_	_	_	Shift=1291
+23	не	_	_	_	_	_	_	_	Shift=1297
+24	могут	_	_	_	_	_	_	_	Shift=1300
+25	объясниться	_	_	_	_	_	_	_	Shift=1306|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	Shift=1317
+27	потому	_	_	_	_	_	_	_	Shift=1319
+28	что	_	_	_	_	_	_	_	Shift=1326
+29	у	_	_	_	_	_	_	_	Shift=1330
+30	них	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2925|RuCor_group_id=472803|RuCor_link_id=472804|Shift=1332
+31	на	_	_	_	_	_	_	_	Shift=1336
+32	двоих	_	_	_	_	_	_	_	Shift=1339
+33	семь	_	_	_	_	_	_	_	Shift=1345
+34	языков	_	_	_	_	_	_	_	Shift=1350|SpaceAfter=No
+35	,	_	_	_	_	_	_	_	Shift=1356
+36	но	_	_	_	_	_	_	_	Shift=1358
+37	ни	_	_	_	_	_	_	_	Shift=1361
+38	одного	_	_	_	_	_	_	_	Shift=1364
+39	общего	_	_	_	_	_	_	_	Shift=1371|SpaceAfter=No
+40	.	_	_	_	_	_	_	_	Shift=1377
+
+# newpar id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p11
+# par_text = Наконец они приходят к пониманию, что им необходимо уединиться в вагонном туалете, но слишком поздно: его наглухо оккупирует их юная попутчица.
+# sent_id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p11-s1
+# text = Наконец они приходят к пониманию, что им необходимо уединиться в вагонном туалете, но слишком поздно: его наглухо оккупирует их юная попутчица.
+1	Наконец	_	_	_	_	_	_	_	Shift=1379
+2	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2926|RuCor_group_id=472805|RuCor_link_id=0|Shift=1387
+3	приходят	_	_	_	_	_	_	_	Shift=1391
+4	к	_	_	_	_	_	_	_	Shift=1400
+5	пониманию	_	_	_	_	_	_	_	Shift=1402|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1411
+7	что	_	_	_	_	_	_	_	Shift=1413
+8	им	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2926|RuCor_group_id=472806|RuCor_link_id=472805|Shift=1417
+9	необходимо	_	_	_	_	_	_	_	Shift=1420
+10	уединиться	_	_	_	_	_	_	_	Shift=1431
+11	в	_	_	_	_	_	_	_	Shift=1442
+12	вагонном	_	_	_	_	_	_	_	RuCor_chain_id=2927|RuCor_group_id=472807|Shift=1444
+13	туалете	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2927|RuCor_group_id=472807|RuCor_link_id=0|Shift=1453|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=1460
+15	но	_	_	_	_	_	_	_	Shift=1462
+16	слишком	_	_	_	_	_	_	_	Shift=1465
+17	поздно	_	_	_	_	_	_	_	Shift=1473|SpaceAfter=No
+18	:	_	_	_	_	_	_	_	Shift=1479
+19	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2927|RuCor_group_id=472808|RuCor_link_id=472807|Shift=1481
+20	наглухо	_	_	_	_	_	_	_	Shift=1485
+21	оккупирует	_	_	_	_	_	_	_	Shift=1493
+22	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=2928|RuCor_group_id=472810|RuCor_link_id=472804|Shift=1504
+23	юная	_	_	_	_	_	_	_	RuCor_chain_id=2928|RuCor_group_id=472810|Shift=1507
+24	попутчица	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2928|RuCor_group_id=472810|RuCor_link_id=472811|Shift=1512|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=1521
+
+# newpar id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p12
+# par_text = Она едет зайцем и должна спрятаться от проводника.
+# sent_id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p12-s1
+# text = Она едет зайцем и должна спрятаться от проводника.
+1	Она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2928|RuCor_group_id=472811|RuCor_link_id=0|Shift=1523
+2	едет	_	_	_	_	_	_	_	Shift=1527
+3	зайцем	_	_	_	_	_	_	_	Shift=1532
+4	и	_	_	_	_	_	_	_	Shift=1539
+5	должна	_	_	_	_	_	_	_	Shift=1541
+6	спрятаться	_	_	_	_	_	_	_	Shift=1548
+7	от	_	_	_	_	_	_	_	Shift=1559
+8	проводника	_	_	_	_	_	_	_	Shift=1562|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=1572
+
+# newpar id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p13
+# par_text = Правда, уже после того, как несостоявшаяся любовница сходит с поезда, рассказчик понимает, что девчонка солгала: из её рюкзачка выпадает билет.
+# sent_id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p13-s1
+# text = Правда, уже после того, как несостоявшаяся любовница сходит с поезда, рассказчик понимает, что девчонка солгала: из её рюкзачка выпадает билет.
+1	Правда	_	_	_	_	_	_	_	Shift=1574|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=1580
+3	уже	_	_	_	_	_	_	_	Shift=1582
+4	после	_	_	_	_	_	_	_	Shift=1586
+5	того	_	_	_	_	_	_	_	Shift=1592|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1596
+7	как	_	_	_	_	_	_	_	Shift=1598
+8	несостоявшаяся	_	_	_	_	_	_	_	Shift=1602
+9	любовница	_	_	_	_	_	_	_	Shift=1617
+10	сходит	_	_	_	_	_	_	_	Shift=1627
+11	с	_	_	_	_	_	_	_	Shift=1634
+12	поезда	_	_	_	_	_	_	_	Shift=1636|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=1642
+14	рассказчик	_	_	_	_	_	_	_	Shift=1644
+15	понимает	_	_	_	_	_	_	_	Shift=1655|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=1663
+17	что	_	_	_	_	_	_	_	Shift=1665
+18	девчонка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2928|RuCor_group_id=472812|RuCor_link_id=472811|Shift=1669
+19	солгала	_	_	_	_	_	_	_	Shift=1678|SpaceAfter=No
+20	:	_	_	_	_	_	_	_	Shift=1685
+21	из	_	_	_	_	_	_	_	Shift=1687
+22	её	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2928|RuCor_group_id=472813|RuCor_link_id=472812|Shift=1690
+23	рюкзачка	_	_	_	_	_	_	_	Shift=1693
+24	выпадает	_	_	_	_	_	_	_	Shift=1702
+25	билет	_	_	_	_	_	_	_	Shift=1711|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=1716
+
+# newpar id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p14
+# par_text = «Остроумно, но что же здесь сюрреалистического?»
+# sent_id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p14-s1
+# text = « Остроумно, но что же здесь сюрреалистического? »
+1	``	_	_	_	_	_	_	_	QuotationStart=«|Shift=1718
+2	Остроумно	_	_	_	_	_	_	_	Shift=1719|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1728
+4	но	_	_	_	_	_	_	_	Shift=1730
+5	что	_	_	_	_	_	_	_	Shift=1733
+6	же	_	_	_	_	_	_	_	Shift=1737
+7	здесь	_	_	_	_	_	_	_	Shift=1740
+8	сюрреалистического	_	_	_	_	_	_	_	Shift=1746|SpaceAfter=No
+9	?	_	_	_	_	_	_	_	Shift=1764
+10	''	_	_	_	_	_	_	_	QuotationEnd=»|Shift=1765
+
+# newpar id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p15
+# par_text = — спросите вы.
+# sent_id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p15-s1
+# text = - спросите вы.
+1	-	_	_	_	_	_	_	_	Shift=1767
+2	спросите	_	_	_	_	_	_	_	Shift=1769
+3	вы	_	_	_	_	_	_	_	Shift=1778|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=1780
+
+# newpar id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p16
+# par_text = Вроде бы ничего; только неожиданная деталь: дама сразу привлекла внимание героя «ногами цвета сомон», а цвет сомон — это то же самое, что лососёвый.
+# sent_id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p16-s1
+# text = Вроде бы ничего.
+1	Вроде	_	_	_	_	_	_	_	Shift=1782
+2	бы	_	_	_	_	_	_	_	Shift=1788
+3	ничего	_	_	_	_	_	_	_	Shift=1791|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=1797
+
+# sent_id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p16-s2
+# text = только неожиданная деталь: дама сразу привлекла внимание героя ``ногами цвета сомон'', а цвет сомон - это то же самое, что лососёвый.
+1	только	_	_	_	_	_	_	_	Shift=1799
+2	неожиданная	_	_	_	_	_	_	_	Shift=1806
+3	деталь	_	_	_	_	_	_	_	Shift=1818|SpaceAfter=No
+4	:	_	_	_	_	_	_	_	Shift=1824
+5	дама	_	_	_	_	_	_	_	Shift=1826
+6	сразу	_	_	_	_	_	_	_	Shift=1831
+7	привлекла	_	_	_	_	_	_	_	Shift=1837
+8	внимание	_	_	_	_	_	_	_	Shift=1847
+9	героя	_	_	_	_	_	_	_	Shift=1856
+10	``	_	_	_	_	_	_	_	Shift=1862|SpaceAfter=No
+11	ногами	_	_	_	_	_	_	_	Shift=1863
+12	цвета	_	_	_	_	_	_	_	Shift=1870
+13	сомон	_	_	_	_	_	_	_	Shift=1876|SpaceAfter=No
+14	''	_	_	_	_	_	_	_	Shift=1881|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=1882
+16	а	_	_	_	_	_	_	_	Shift=1884
+17	цвет	_	_	_	_	_	_	_	Shift=1886
+18	сомон	_	_	_	_	_	_	_	Shift=1891
+19	-	_	_	_	_	_	_	_	Shift=1897
+20	это	_	_	_	_	_	_	_	Shift=1899
+21	то	_	_	_	_	_	_	_	Shift=1903
+22	же	_	_	_	_	_	_	_	Shift=1906
+23	самое	_	_	_	_	_	_	_	Shift=1909|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=1914
+25	что	_	_	_	_	_	_	_	Shift=1916
+26	лососёвый	_	_	_	_	_	_	_	Shift=1920|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=1929
+
+# newpar id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p17
+# par_text = Попробуйте себе представить…
+# sent_id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p17-s1
+# text = Попробуйте себе представить...
+1	Попробуйте	_	_	_	_	_	_	_	Shift=1931
+2	себе	_	_	_	_	_	_	_	Shift=1942
+3	представить	_	_	_	_	_	_	_	Shift=1947|SpaceAfter=No
+4	...	_	_	_	_	_	_	_	Shift=1958
+
+# newpar id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p18
+# par_text = Да ещё невероятная, сновидческая насыщенность: столько событий и переживаний всего на девять страниц!
+# sent_id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p18-s1
+# text = Да ещё невероятная, сновидческая насыщенность: столько событий и переживаний всего на девять страниц!
+1	Да	_	_	_	_	_	_	_	Shift=1960
+2	ещё	_	_	_	_	_	_	_	Shift=1963
+3	невероятная	_	_	_	_	_	_	_	Shift=1967|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1978
+5	сновидческая	_	_	_	_	_	_	_	Shift=1980
+6	насыщенность	_	_	_	_	_	_	_	Shift=1993|SpaceAfter=No
+7	:	_	_	_	_	_	_	_	Shift=2005
+8	столько	_	_	_	_	_	_	_	Shift=2007
+9	событий	_	_	_	_	_	_	_	Shift=2015
+10	и	_	_	_	_	_	_	_	Shift=2023
+11	переживаний	_	_	_	_	_	_	_	Shift=2025
+12	всего	_	_	_	_	_	_	_	Shift=2037
+13	на	_	_	_	_	_	_	_	Shift=2043
+14	девять	_	_	_	_	_	_	_	Shift=2046
+15	страниц	_	_	_	_	_	_	_	Shift=2053|SpaceAfter=No
+16	!	_	_	_	_	_	_	_	Shift=2060
+
+# newpar id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p19
+# par_text = И таковы все рассказы Мунзо; только один занимает двадцать страниц, ну так он и называется «Семейная сага».
+# sent_id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p19-s1
+# text = И таковы все рассказы Мунзо.
+1	И	_	_	_	_	_	_	_	Shift=2062
+2	таковы	_	_	_	_	_	_	_	Shift=2064
+3	все	_	_	_	_	_	_	_	Shift=2071
+4	рассказы	_	_	_	_	_	_	_	Shift=2075
+5	Мунзо	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2923|RuCor_group_id=472814|RuCor_link_id=472797|Shift=2084|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=2089
+
+# sent_id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p19-s2
+# text = только один занимает двадцать страниц, ну так он и называется ``Семейная сага''.
+1	только	_	_	_	_	_	_	_	RuCor_chain_id=2929|RuCor_group_id=472815|Shift=2091
+2	один	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2929|RuCor_group_id=472815|RuCor_link_id=0|Shift=2098
+3	занимает	_	_	_	_	_	_	_	Shift=2103
+4	двадцать	_	_	_	_	_	_	_	Shift=2112
+5	страниц	_	_	_	_	_	_	_	Shift=2121|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=2128
+7	ну	_	_	_	_	_	_	_	Shift=2130
+8	так	_	_	_	_	_	_	_	Shift=2133
+9	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2929|RuCor_group_id=472816|RuCor_link_id=472815|Shift=2137
+10	и	_	_	_	_	_	_	_	Shift=2140
+11	называется	_	_	_	_	_	_	_	Shift=2142
+12	``	_	_	_	_	_	_	_	Shift=2153|SpaceAfter=No
+13	Семейная	_	_	_	_	_	_	_	Shift=2154
+14	сага	_	_	_	_	_	_	_	Shift=2163|SpaceAfter=No
+15	''	_	_	_	_	_	_	_	Shift=2167|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=2168
+
+# newpar id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p20
+# par_text = Полноформатный сборник рассказов современного иностранного автора — нечастый гость на российских книжных прилавках в последние годы.
+# sent_id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p20-s1
+# text = Полноформатный сборник рассказов современного иностранного автора - нечастый гость на российских книжных прилавках в последние годы.
+1	Полноформатный	_	_	_	_	_	_	_	Shift=2170
+2	сборник	_	_	_	_	_	_	_	Shift=2185
+3	рассказов	_	_	_	_	_	_	_	Shift=2193
+4	современного	_	_	_	_	_	_	_	Shift=2203
+5	иностранного	_	_	_	_	_	_	_	Shift=2216
+6	автора	_	_	_	_	_	_	_	Shift=2229
+7	-	_	_	_	_	_	_	_	Shift=2236
+8	нечастый	_	_	_	_	_	_	_	Shift=2238
+9	гость	_	_	_	_	_	_	_	Shift=2247
+10	на	_	_	_	_	_	_	_	Shift=2253
+11	российских	_	_	_	_	_	_	_	Shift=2256
+12	книжных	_	_	_	_	_	_	_	Shift=2267
+13	прилавках	_	_	_	_	_	_	_	Shift=2275
+14	в	_	_	_	_	_	_	_	Shift=2285
+15	последние	_	_	_	_	_	_	_	Shift=2287
+16	годы	_	_	_	_	_	_	_	Shift=2297|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=2301
+
+# newpar id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p21
+# par_text = Что же касается каталонской литературы, то мы только-только открываем её для себя (точнее, вычленяем из испанской) благодаря энтузиазму и усилиям живущей в этом благодатном краю переводчицы Нины Авровой-Раабен.
+# sent_id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p21-s1
+# text = Что же касается каталонской литературы, то мы только-только открываем её для себя (точнее, вычленяем из испанской) благодаря энтузиазму и усилиям живущей в этом благодатном краю переводчицы Нины Авровой-Раабен.
+1	Что	_	_	_	_	_	_	_	Shift=2303
+2	же	_	_	_	_	_	_	_	Shift=2307
+3	касается	_	_	_	_	_	_	_	Shift=2310
+4	каталонской	_	_	_	_	_	_	_	RuCor_chain_id=2930|RuCor_group_id=472817|Shift=2319
+5	литературы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2930|RuCor_group_id=472817|RuCor_link_id=0|Shift=2331|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=2341
+7	то	_	_	_	_	_	_	_	Shift=2343
+8	мы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2931|RuCor_group_id=472818|RuCor_link_id=0|Shift=2346
+9	только-только	_	_	_	_	_	_	_	Shift=2349
+10	открываем	_	_	_	_	_	_	_	Shift=2363
+11	её	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2930|RuCor_group_id=472819|RuCor_link_id=472817|Shift=2373
+12	для	_	_	_	_	_	_	_	Shift=2376
+13	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=2931|RuCor_group_id=472820|RuCor_link_id=472818|Shift=2380
+14	(	_	_	_	_	_	_	_	Shift=2385|SpaceAfter=No
+15	точнее	_	_	_	_	_	_	_	Shift=2386|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=2392
+17	вычленяем	_	_	_	_	_	_	_	Shift=2394
+18	из	_	_	_	_	_	_	_	Shift=2404
+19	испанской	_	_	_	_	_	_	_	Shift=2407|SpaceAfter=No
+20	)	_	_	_	_	_	_	_	Shift=2416
+21	благодаря	_	_	_	_	_	_	_	Shift=2418
+22	энтузиазму	_	_	_	_	_	_	_	Shift=2428
+23	и	_	_	_	_	_	_	_	Shift=2439
+24	усилиям	_	_	_	_	_	_	_	Shift=2441
+25	живущей	_	_	_	_	_	_	_	Shift=2449
+26	в	_	_	_	_	_	_	_	Shift=2457
+27	этом	_	_	_	_	_	_	_	Shift=2459
+28	благодатном	_	_	_	_	_	_	_	Shift=2464
+29	краю	_	_	_	_	_	_	_	Shift=2476
+30	переводчицы	_	_	_	_	_	_	_	Shift=2481
+31	Нины	_	_	_	_	_	_	_	Shift=2493
+32	Авровой-Раабен	_	_	_	_	_	_	_	Shift=2498|SpaceAfter=No
+33	.	_	_	_	_	_	_	_	Shift=2512
+
+# newpar id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p22
+# par_text = Хочется надеяться, что и то и другое начинание будут продолжены.
+# sent_id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p22-s1
+# text = Хочется надеяться, что и то и другое начинание будут продолжены.
+1	Хочется	_	_	_	_	_	_	_	Shift=2514
+2	надеяться	_	_	_	_	_	_	_	Shift=2522|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=2531
+4	что	_	_	_	_	_	_	_	Shift=2533
+5	и	_	_	_	_	_	_	_	Shift=2537
+6	то	_	_	_	_	_	_	_	Shift=2539
+7	и	_	_	_	_	_	_	_	Shift=2542
+8	другое	_	_	_	_	_	_	_	Shift=2544
+9	начинание	_	_	_	_	_	_	_	Shift=2551
+10	будут	_	_	_	_	_	_	_	Shift=2561
+11	продолжены	_	_	_	_	_	_	_	Shift=2567|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=2577
+
+# newpar id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p23
+# par_text = Критика:
+# sent_id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p23-s1
+# text = Критика:
+1	Критика	_	_	_	_	_	_	_	Shift=2579|SpaceAfter=No
+2	:	_	_	_	_	_	_	_	Shift=2586
+
+# newpar id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p24
+# par_text = Лиза Биргер («Weekend»):
+# sent_id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p24-s1
+# text = Лиза Биргер (``Weekend''):
+1	Лиза	_	_	_	_	_	_	_	Shift=2588
+2	Биргер	_	_	_	_	_	_	_	Shift=2593
+3	(	_	_	_	_	_	_	_	Shift=2600|SpaceAfter=No
+4	``	_	_	_	_	_	_	_	Shift=2601|SpaceAfter=No
+5	Weekend	_	_	_	_	_	_	_	Shift=2602|SpaceAfter=No
+6	''	_	_	_	_	_	_	_	Shift=2609|SpaceAfter=No
+7	)	_	_	_	_	_	_	_	Shift=2610|SpaceAfter=No
+8	:	_	_	_	_	_	_	_	Shift=2611
+
+# newpar id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p25
+# par_text = «Краткие, ни к чему не обязывающие рассказы — 86 подряд.
+# sent_id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p25-s1
+# text = ``Краткие, ни к чему не обязывающие рассказы - 86 подряд.
+1	``	_	_	_	_	_	_	_	Shift=2613|SpaceAfter=No
+2	Краткие	_	_	_	_	_	_	_	RuCor_chain_id=2932|RuCor_group_id=472821|Shift=2614|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	RuCor_chain_id=2932|RuCor_group_id=472821|Shift=2621
+4	ни	_	_	_	_	_	_	_	RuCor_chain_id=2932|RuCor_group_id=472821|Shift=2623
+5	к	_	_	_	_	_	_	_	RuCor_chain_id=2932|RuCor_group_id=472821|Shift=2626
+6	чему	_	_	_	_	_	_	_	RuCor_chain_id=2932|RuCor_group_id=472821|Shift=2628
+7	не	_	_	_	_	_	_	_	RuCor_chain_id=2932|RuCor_group_id=472821|Shift=2633
+8	обязывающие	_	_	_	_	_	_	_	RuCor_chain_id=2932|RuCor_group_id=472821|Shift=2636
+9	рассказы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2932|RuCor_group_id=472821|RuCor_link_id=0|Shift=2648
+10	-	_	_	_	_	_	_	_	Shift=2657
+11	86	_	_	_	_	_	_	_	Shift=2659
+12	подряд	_	_	_	_	_	_	_	Shift=2662|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=2668
+
+# newpar id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p26
+# par_text = Стиль Мунзо витиеватый, красочный и сочный.
+# sent_id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p26-s1
+# text = Стиль Мунзо витиеватый, красочный и сочный.
+1	Стиль	_	_	_	_	_	_	_	Shift=2670
+2	Мунзо	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2923|RuCor_group_id=472822|RuCor_link_id=472814|Shift=2676
+3	витиеватый	_	_	_	_	_	_	_	Shift=2682|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2692
+5	красочный	_	_	_	_	_	_	_	Shift=2694
+6	и	_	_	_	_	_	_	_	Shift=2704
+7	сочный	_	_	_	_	_	_	_	Shift=2706|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=2712
+
+# newpar id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p27
+# par_text = Бесцветный мир в них раскрашивается совсем новыми красками, как когда, обнажив возлюбленную, герой открывает «совершенно прозрачные груди, внутри которых произрастает вся тропическая флора — и пальмы, и талипоты, и хамеропсы — листья их колышут ассирийские ветры, египетские трамонтаны, амазонские муссоны, а в их зелени на фоне зреющих гранатов машут крыльями волнистые попугайчики, какаду, ара и голуби сотни тысяч расцветок».
+# sent_id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p27-s1
+# text = Бесцветный мир в них раскрашивается совсем новыми красками, как когда, обнажив возлюбленную, герой открывает ``совершенно прозрачные груди, внутри которых произрастает вся тропическая флора - и пальмы, и талипоты, и хамеропсы - листья их колышут ассирийские ветры, египетские трамонтаны, амазонские муссоны, а в их зелени на фоне зреющих гранатов машут крыльями волнистые попугайчики, какаду, ара и голуби сотни тысяч расцветок''.
+1	Бесцветный	_	_	_	_	_	_	_	Shift=2714
+2	мир	_	_	_	_	_	_	_	Shift=2725
+3	в	_	_	_	_	_	_	_	Shift=2729
+4	них	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2932|RuCor_group_id=472823|RuCor_link_id=472821|Shift=2731
+5	раскрашивается	_	_	_	_	_	_	_	Shift=2735
+6	совсем	_	_	_	_	_	_	_	Shift=2750
+7	новыми	_	_	_	_	_	_	_	Shift=2757
+8	красками	_	_	_	_	_	_	_	Shift=2764|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=2772
+10	как	_	_	_	_	_	_	_	Shift=2774
+11	когда	_	_	_	_	_	_	_	Shift=2778|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=2783
+13	обнажив	_	_	_	_	_	_	_	Shift=2785
+14	возлюбленную	_	_	_	_	_	_	_	Shift=2793|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=2805
+16	герой	_	_	_	_	_	_	_	Shift=2807
+17	открывает	_	_	_	_	_	_	_	Shift=2813
+18	``	_	_	_	_	_	_	_	Shift=2823|SpaceAfter=No
+19	совершенно	_	_	_	_	_	_	_	RuCor_chain_id=2933|RuCor_group_id=472824|Shift=2824
+20	прозрачные	_	_	_	_	_	_	_	RuCor_chain_id=2933|RuCor_group_id=472824|Shift=2835
+21	груди	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2933|RuCor_group_id=472824|RuCor_link_id=0|Shift=2846|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=2851
+23	внутри	_	_	_	_	_	_	_	Shift=2853
+24	которых	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2933|RuCor_group_id=472825|RuCor_link_id=472824|Shift=2860
+25	произрастает	_	_	_	_	_	_	_	Shift=2868
+26	вся	_	_	_	_	_	_	_	Shift=2881
+27	тропическая	_	_	_	_	_	_	_	Shift=2885
+28	флора	_	_	_	_	_	_	_	Shift=2897
+29	-	_	_	_	_	_	_	_	Shift=2903
+30	и	_	_	_	_	_	_	_	RuCor_chain_id=2934|RuCor_group_id=472826|Shift=2905
+31	пальмы	_	_	_	_	_	_	_	RuCor_chain_id=2934|RuCor_group_id=472826|Shift=2907|SpaceAfter=No
+32	,	_	_	_	_	_	_	_	RuCor_chain_id=2934|RuCor_group_id=472826|Shift=2913
+33	и	_	_	_	_	_	_	_	RuCor_chain_id=2934|RuCor_group_id=472826|Shift=2915
+34	талипоты	_	_	_	_	_	_	_	RuCor_chain_id=2934|RuCor_group_id=472826|Shift=2917|SpaceAfter=No
+35	,	_	_	_	_	_	_	_	RuCor_chain_id=2934|RuCor_group_id=472826|Shift=2925
+36	и	_	_	_	_	_	_	_	RuCor_chain_id=2934|RuCor_group_id=472826|Shift=2927
+37	хамеропсы	_	_	_	_	_	_	_	RuCor_chain_id=2934|RuCor_group_id=472826|Shift=2929
+38	-	_	_	_	_	_	_	_	Shift=2939
+39	листья	_	_	_	_	_	_	_	Shift=2941
+40	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2934|RuCor_group_id=472827|RuCor_link_id=472826|Shift=2948
+41	колышут	_	_	_	_	_	_	_	Shift=2951
+42	ассирийские	_	_	_	_	_	_	_	Shift=2959
+43	ветры	_	_	_	_	_	_	_	Shift=2971|SpaceAfter=No
+44	,	_	_	_	_	_	_	_	Shift=2976
+45	египетские	_	_	_	_	_	_	_	Shift=2978
+46	трамонтаны	_	_	_	_	_	_	_	Shift=2989|SpaceAfter=No
+47	,	_	_	_	_	_	_	_	Shift=2999
+48	амазонские	_	_	_	_	_	_	_	Shift=3001
+49	муссоны	_	_	_	_	_	_	_	Shift=3012|SpaceAfter=No
+50	,	_	_	_	_	_	_	_	Shift=3019
+51	а	_	_	_	_	_	_	_	Shift=3021
+52	в	_	_	_	_	_	_	_	Shift=3023
+53	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2934|RuCor_group_id=472828|RuCor_link_id=472826|Shift=3025
+54	зелени	_	_	_	_	_	_	_	Shift=3028
+55	на	_	_	_	_	_	_	_	Shift=3035
+56	фоне	_	_	_	_	_	_	_	Shift=3038
+57	зреющих	_	_	_	_	_	_	_	Shift=3043
+58	гранатов	_	_	_	_	_	_	_	Shift=3051
+59	машут	_	_	_	_	_	_	_	Shift=3060
+60	крыльями	_	_	_	_	_	_	_	Shift=3066
+61	волнистые	_	_	_	_	_	_	_	Shift=3075
+62	попугайчики	_	_	_	_	_	_	_	Shift=3085|SpaceAfter=No
+63	,	_	_	_	_	_	_	_	Shift=3096
+64	какаду	_	_	_	_	_	_	_	Shift=3098|SpaceAfter=No
+65	,	_	_	_	_	_	_	_	Shift=3104
+66	ара	_	_	_	_	_	_	_	Shift=3106
+67	и	_	_	_	_	_	_	_	Shift=3110
+68	голуби	_	_	_	_	_	_	_	Shift=3112
+69	сотни	_	_	_	_	_	_	_	Shift=3119
+70	тысяч	_	_	_	_	_	_	_	Shift=3125
+71	расцветок	_	_	_	_	_	_	_	Shift=3131|SpaceAfter=No
+72	''	_	_	_	_	_	_	_	Shift=3140|SpaceAfter=No
+73	.	_	_	_	_	_	_	_	Shift=3141
+
+# newpar id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p28
+# par_text = Всем этим так зачитываешься, что совершенно не обращаешь внимания на мелочи, вроде того, что с географической точки зрения египетские трамонтаны — это полная ерунда».
+# sent_id = ccc955ed-6814-4f54-ac35-3d60eff5b9b1-p28-s1
+# text = Всем этим так зачитываешься, что совершенно не обращаешь внимания на мелочи, вроде того, что с географической точки зрения египетские трамонтаны - это полная ерунда''.
+1	Всем	_	_	_	_	_	_	_	Shift=3143
+2	этим	_	_	_	_	_	_	_	Shift=3148
+3	так	_	_	_	_	_	_	_	Shift=3153
+4	зачитываешься	_	_	_	_	_	_	_	Shift=3157|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=3170
+6	что	_	_	_	_	_	_	_	Shift=3172
+7	совершенно	_	_	_	_	_	_	_	Shift=3176
+8	не	_	_	_	_	_	_	_	Shift=3187
+9	обращаешь	_	_	_	_	_	_	_	Shift=3190
+10	внимания	_	_	_	_	_	_	_	Shift=3200
+11	на	_	_	_	_	_	_	_	Shift=3209
+12	мелочи	_	_	_	_	_	_	_	Shift=3212|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=3218
+14	вроде	_	_	_	_	_	_	_	Shift=3220
+15	того	_	_	_	_	_	_	_	Shift=3226|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=3230
+17	что	_	_	_	_	_	_	_	Shift=3232
+18	с	_	_	_	_	_	_	_	Shift=3236
+19	географической	_	_	_	_	_	_	_	Shift=3238
+20	точки	_	_	_	_	_	_	_	Shift=3253
+21	зрения	_	_	_	_	_	_	_	Shift=3259
+22	египетские	_	_	_	_	_	_	_	Shift=3266
+23	трамонтаны	_	_	_	_	_	_	_	Shift=3277
+24	-	_	_	_	_	_	_	_	Shift=3288
+25	это	_	_	_	_	_	_	_	Shift=3290
+26	полная	_	_	_	_	_	_	_	Shift=3294
+27	ерунда	_	_	_	_	_	_	_	Shift=3301|SpaceAfter=No
+28	''	_	_	_	_	_	_	_	SpaceAfter=No
+29	.	_	_	_	_	_	_	_	_
+

@@ -1,0 +1,61 @@
+And %uh , I turned in my Master 's thesis back in May ,
+and I 'm actually presently working on , %um , several , %uh , articles oh , okay . Impressive . from it .
+yeah ,
+actually it turns out that one thing , one little bit in what I was doing , %uh , is going to turn out to be very important in the end . %uh , from what I had been reading in the literature .
+You see the one very annoying thing about all of this , was my advisor has been in France for a year and a half .
+yeah .
+And this made writing my thesis very annoying because you know there was n't much discussion .
+yeah .
+yup ,
+yup .
+But , %um Anyway , I had been kind of telling him that , you know , from my reading of the literature , I thought that this one little alteration I had made in my model was kind of clever and unique .
+mhm .
+And it made the one type of solution occur , which was seen experimentally ,
+but none of the other models %uh , had ?
+Yes .
+the- ,
+I 'm looking at , %um , multi mode lasers .
+And one of the things that they find experimentally are what they call anti phased , %uh , states , where if you look at the total intensity uh-huh . of the laser , you get an oscillation which is characterized by one frequency .
+Yes .
+okay .
+if you separate out the different modes of the laser mhm . and look at one of those , you get more than one frequency .
+okay .
+So what 's happening is that the modes are oscillating out of phase so that they completely mask each other 's Exactly . %hm . oscillations on these other frequencies .
+And %uh With a pretty simple model you can find that frequency in a transient ,
+but you ca n't find that frequency in a driven , %uh , frequency .
+You ca n't find so that it will sustain .
+okay .
+Yes .
+So yeah , that particular frequency according to most models damps out very quickly .
+And so you should n't actually really be able to ever see it .
+%hm .
+The only thing is , that , when you do the experiment you see it .
+Got it ,
+got it .
+I see .
+So , %um , I found a simple modification of the original formula , which unfortunately makes the solutions horrendously nasty . And in most cases , %uh , insoluble .
+But yeah . it gives a driving term .
+oh , okay .
+So , it actually creates a situation where you get the right sort of answer , you just ca n't always write it down very easily .
+Exactly .
+oh wow .
+so you 're pushing forward the bounds of theoretical laser , %uh , whatever it is science .
+But
+which , %um , is kind of interesting considering that that 's not really my thing . . Indeed . Indeed . being an experimentalist , not a theorist .
+%um Indeed . oh wow . oh , impressive . But
+so are you going to get an article in Nature or something ?
+%um , actually , I 'm not sure if we 're shooting for op- ,
+I think Optics Letters is probably the one that we 're shooting for , or else , perhaps , though I do n't think it 's quite that significant , would be Phys Rev Letters .
+%hm .
+But , %uh , we want to write a letter , and then a couple articles .
+yeah .
+%hm . impressive .
+And I do n't know how much you know about scientific literature ,
+but letters are much more prestigious than , articles .
+oh , okay .
+oh , I did n't realize that .
+okay .
+yeah ,
+so that 's why it 's actually a big deal is
+I mean , you know , writing a couple of articles based on your Master 's thesis , is , not at all unusual in Physics
+and yeah . %uh , it 's the fact that I would be writing a letter that is the impressive part of it all .

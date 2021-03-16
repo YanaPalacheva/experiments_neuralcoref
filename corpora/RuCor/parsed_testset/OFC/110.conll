@@ -1,0 +1,1520 @@
+# newdoc id = ac8dfcdd-94e8-42f3-b663-17974180380d
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p1
+# par_text = «Происхождение видов путём естественного отбора, или Сохранение благоприятных рас в борьбе за жизнь» — это лишь одна книга из обширного наследия Дарвина, но она, пожалуй, является самым знаменитым произведением современной науки.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p1-s1
+# text = ``Происхождение видов путём естественного отбора, или Сохранение благоприятных рас в борьбе за жизнь'' - это лишь одна книга из обширного наследия Дарвина, но она, пожалуй, является самым знаменитым произведением современной науки.
+1	``	_	_	_	_	_	_	_	RuCor_chain_id=2776|RuCor_group_id=472155|Shift=0|SpaceAfter=No
+2	Происхождение	_	_	_	_	_	_	_	RuCor_chain_id=2776|RuCor_group_id=472155|Shift=1
+3	видов	_	_	_	_	_	_	_	RuCor_chain_id=2776|RuCor_group_id=472155|Shift=15
+4	путём	_	_	_	_	_	_	_	RuCor_chain_id=2776|RuCor_group_id=472155|Shift=21
+5	естественного	_	_	_	_	_	_	_	RuCor_chain_id=2776|RuCor_group_id=472155|Shift=27
+6	отбора	_	_	_	_	_	_	_	RuCor_chain_id=2776|RuCor_group_id=472155|Shift=41|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	RuCor_chain_id=2776|RuCor_group_id=472155|Shift=47
+8	или	_	_	_	_	_	_	_	RuCor_chain_id=2776|RuCor_group_id=472155|Shift=49
+9	Сохранение	_	_	_	_	_	_	_	RuCor_chain_id=2776|RuCor_group_id=472155|Shift=53
+10	благоприятных	_	_	_	_	_	_	_	RuCor_chain_id=2776|RuCor_group_id=472155|Shift=64
+11	рас	_	_	_	_	_	_	_	RuCor_chain_id=2776|RuCor_group_id=472155|Shift=78
+12	в	_	_	_	_	_	_	_	RuCor_chain_id=2776|RuCor_group_id=472155|Shift=82
+13	борьбе	_	_	_	_	_	_	_	RuCor_chain_id=2776|RuCor_group_id=472155|Shift=84
+14	за	_	_	_	_	_	_	_	RuCor_chain_id=2776|RuCor_group_id=472155|Shift=91
+15	жизнь	_	_	_	_	_	_	_	RuCor_chain_id=2776|RuCor_group_id=472155|Shift=94|SpaceAfter=No
+16	''	_	_	_	_	_	_	_	RuCor_chain_id=2776|RuCor_group_id=472155|Shift=99
+17	-	_	_	_	_	_	_	_	Shift=101
+18	это	_	_	_	_	_	_	_	Shift=103
+19	лишь	_	_	_	_	_	_	_	Shift=107
+20	одна	_	_	_	_	_	_	_	RuCor_chain_id=2776|RuCor_group_id=472156|Shift=112
+21	книга	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2776|RuCor_group_id=472156|RuCor_link_id=472155|Shift=117
+22	из	_	_	_	_	_	_	_	RuCor_chain_id=2776|RuCor_group_id=472156|Shift=123
+23	обширного	_	_	_	_	_	_	_	RuCor_chain_id=2776|RuCor_group_id=472156|Shift=126
+24	наследия	_	_	_	_	_	_	_	RuCor_chain_id=2776|RuCor_group_id=472156|Shift=136
+25	Дарвина	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2777|RuCor_group_id=472157|RuCor_link_id=0|Shift=145|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	Shift=152
+27	но	_	_	_	_	_	_	_	Shift=154
+28	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2776|RuCor_group_id=472158|RuCor_link_id=472156|Shift=157|SpaceAfter=No
+29	,	_	_	_	_	_	_	_	Shift=160
+30	пожалуй	_	_	_	_	_	_	_	Shift=162|SpaceAfter=No
+31	,	_	_	_	_	_	_	_	Shift=169
+32	является	_	_	_	_	_	_	_	Shift=171
+33	самым	_	_	_	_	_	_	_	RuCor_chain_id=2776|RuCor_group_id=472159|Shift=180
+34	знаменитым	_	_	_	_	_	_	_	RuCor_chain_id=2776|RuCor_group_id=472159|Shift=186
+35	произведением	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2776|RuCor_group_id=472159|RuCor_link_id=472158|Shift=197
+36	современной	_	_	_	_	_	_	_	RuCor_chain_id=2776|RuCor_group_id=472159|Shift=211
+37	науки	_	_	_	_	_	_	_	RuCor_chain_id=2776|RuCor_group_id=472159|Shift=223|SpaceAfter=No
+38	.	_	_	_	_	_	_	_	Shift=228
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p2
+# par_text = По известности и интенсивности исторического воздействия с ней может конкурировать разве что работа Исаака Ньютона «Математические начала натуральной философии» (1687).
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p2-s1
+# text = По известности и интенсивности исторического воздействия с ней может конкурировать разве что работа Исаака Ньютона ``Математические начала натуральной философии'' (1687).
+1	По	_	_	_	_	_	_	_	Shift=230
+2	известности	_	_	_	_	_	_	_	Shift=233
+3	и	_	_	_	_	_	_	_	Shift=245
+4	интенсивности	_	_	_	_	_	_	_	Shift=247
+5	исторического	_	_	_	_	_	_	_	Shift=261
+6	воздействия	_	_	_	_	_	_	_	Shift=275
+7	с	_	_	_	_	_	_	_	Shift=287
+8	ней	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2776|RuCor_group_id=472160|RuCor_link_id=472158|Shift=289
+9	может	_	_	_	_	_	_	_	Shift=293
+10	конкурировать	_	_	_	_	_	_	_	Shift=299
+11	разве	_	_	_	_	_	_	_	Shift=313
+12	что	_	_	_	_	_	_	_	Shift=319
+13	работа	_	_	_	_	_	_	_	RuCor_chain_id=2778|RuCor_group_id=472161|Shift=323
+14	Исаака	_	_	_	_	_	_	_	RuCor_chain_id=2778|RuCor_group_id=472161|Shift=330
+15	Ньютона	_	_	_	_	_	_	_	RuCor_chain_id=2778|RuCor_group_id=472161|Shift=337
+16	``	_	_	_	_	_	_	_	RuCor_chain_id=2778|RuCor_group_id=472161|Shift=345|SpaceAfter=No
+17	Математические	_	_	_	_	_	_	_	RuCor_chain_id=2778|RuCor_group_id=472161|Shift=346
+18	начала	_	_	_	_	_	_	_	RuCor_chain_id=2778|RuCor_group_id=472161|Shift=361
+19	натуральной	_	_	_	_	_	_	_	RuCor_chain_id=2778|RuCor_group_id=472161|Shift=368
+20	философии	_	_	_	_	_	_	_	RuCor_chain_id=2778|RuCor_group_id=472161|Shift=380|SpaceAfter=No
+21	''	_	_	_	_	_	_	_	RuCor_chain_id=2778|RuCor_group_id=472161|Shift=389
+22	(	_	_	_	_	_	_	_	Shift=391|SpaceAfter=No
+23	1687	_	_	_	_	_	_	_	Shift=392|SpaceAfter=No
+24	)	_	_	_	_	_	_	_	Shift=396|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=397
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p3
+# par_text = Работа Ньютона революционизировала современную физику.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p3-s1
+# text = Работа Ньютона революционизировала современную физику.
+1	Работа	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2778|RuCor_group_id=472162|RuCor_link_id=472161|Shift=399
+2	Ньютона	_	_	_	_	_	_	_	RuCor_chain_id=2778|RuCor_group_id=472162|Shift=406
+3	революционизировала	_	_	_	_	_	_	_	Shift=414
+4	современную	_	_	_	_	_	_	_	Shift=434
+5	физику	_	_	_	_	_	_	_	Shift=446|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=452
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p4
+# par_text = Работа Дарвина произвела переворот в области наших знаний о живых организмах.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p4-s1
+# text = Работа Дарвина произвела переворот в области наших знаний о живых организмах.
+1	Работа	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2776|RuCor_group_id=472163|RuCor_link_id=472160|Shift=454
+2	Дарвина	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2777|RuCor_group_id=472164|RuCor_link_id=472157|Shift=461
+3	произвела	_	_	_	_	_	_	_	Shift=469
+4	переворот	_	_	_	_	_	_	_	Shift=479
+5	в	_	_	_	_	_	_	_	Shift=489
+6	области	_	_	_	_	_	_	_	Shift=491
+7	наших	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2797|RuCor_group_id=472165|RuCor_link_id=472219|Shift=499
+8	знаний	_	_	_	_	_	_	_	Shift=505
+9	о	_	_	_	_	_	_	_	Shift=512
+10	живых	_	_	_	_	_	_	_	Shift=514
+11	организмах	_	_	_	_	_	_	_	Shift=520|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=530
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p5
+# par_text = История воздействия «Происхождения видов» Дарвина — одна из самых сложных и неоднозначных.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p5-s1
+# text = История воздействия ``Происхождения видов'' Дарвина - одна из самых сложных и неоднозначных.
+1	История	_	_	_	_	_	_	_	Shift=532
+2	воздействия	_	_	_	_	_	_	_	Shift=540
+3	``	_	_	_	_	_	_	_	RuCor_chain_id=2776|RuCor_group_id=472166|Shift=552|SpaceAfter=No
+4	Происхождения	_	_	_	_	_	_	_	RuCor_chain_id=2776|RuCor_group_id=472166|Shift=553
+5	видов	_	_	_	_	_	_	_	RuCor_chain_id=2776|RuCor_group_id=472166|Shift=567|SpaceAfter=No
+6	''	_	_	_	_	_	_	_	RuCor_chain_id=2776|RuCor_group_id=472166|Shift=572
+7	Дарвина	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2777|RuCor_group_id=472167|RuCor_link_id=472164|Shift=574
+8	-	_	_	_	_	_	_	_	Shift=582
+9	одна	_	_	_	_	_	_	_	Shift=584
+10	из	_	_	_	_	_	_	_	Shift=589
+11	самых	_	_	_	_	_	_	_	Shift=592
+12	сложных	_	_	_	_	_	_	_	Shift=598
+13	и	_	_	_	_	_	_	_	Shift=606
+14	неоднозначных	_	_	_	_	_	_	_	Shift=608|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=621
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p6
+# par_text = Эта книга буквально расколола современную культуру: появились и продолжают существовать как яростные противники, так и яростные сторонники дарвинизма (само это слово поначалу использовалось как бранное).
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p6-s1
+# text = Эта книга буквально расколола современную культуру: появились и продолжают существовать как яростные противники, так и яростные сторонники дарвинизма (само это слово поначалу использовалось как бранное).
+1	Эта	_	_	_	_	_	_	_	RuCor_chain_id=2776|RuCor_group_id=472168|Shift=623
+2	книга	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2776|RuCor_group_id=472168|RuCor_link_id=472166|Shift=627
+3	буквально	_	_	_	_	_	_	_	Shift=633
+4	расколола	_	_	_	_	_	_	_	Shift=643
+5	современную	_	_	_	_	_	_	_	Shift=653
+6	культуру	_	_	_	_	_	_	_	Shift=665|SpaceAfter=No
+7	:	_	_	_	_	_	_	_	Shift=673
+8	появились	_	_	_	_	_	_	_	Shift=675
+9	и	_	_	_	_	_	_	_	Shift=685
+10	продолжают	_	_	_	_	_	_	_	Shift=687
+11	существовать	_	_	_	_	_	_	_	Shift=698
+12	как	_	_	_	_	_	_	_	Shift=711
+13	яростные	_	_	_	_	_	_	_	Shift=715
+14	противники	_	_	_	_	_	_	_	Shift=724|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=734
+16	так	_	_	_	_	_	_	_	Shift=736
+17	и	_	_	_	_	_	_	_	Shift=740
+18	яростные	_	_	_	_	_	_	_	Shift=742
+19	сторонники	_	_	_	_	_	_	_	Shift=751
+20	дарвинизма	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2779|RuCor_group_id=472169|RuCor_link_id=0|Shift=762
+21	(	_	_	_	_	_	_	_	Shift=773|SpaceAfter=No
+22	само	_	_	_	_	_	_	_	Shift=774
+23	это	_	_	_	_	_	_	_	Shift=779
+24	слово	_	_	_	_	_	_	_	Shift=783
+25	поначалу	_	_	_	_	_	_	_	Shift=789
+26	использовалось	_	_	_	_	_	_	_	Shift=798
+27	как	_	_	_	_	_	_	_	Shift=813
+28	бранное	_	_	_	_	_	_	_	Shift=817|SpaceAfter=No
+29	)	_	_	_	_	_	_	_	Shift=824|SpaceAfter=No
+30	.	_	_	_	_	_	_	_	Shift=825
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p7
+# par_text = На русский язык работа «Происхождение видов» была переведена уже в 1864 году.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p7-s1
+# text = На русский язык работа ``Происхождение видов'' была переведена уже в 1864 году.
+1	На	_	_	_	_	_	_	_	Shift=827
+2	русский	_	_	_	_	_	_	_	Shift=830
+3	язык	_	_	_	_	_	_	_	Shift=838
+4	работа	_	_	_	_	_	_	_	RuCor_chain_id=2776|RuCor_group_id=472170|Shift=843
+5	``	_	_	_	_	_	_	_	RuCor_chain_id=2776|RuCor_group_id=472170|Shift=850|SpaceAfter=No
+6	Происхождение	_	_	_	_	_	_	_	RuCor_chain_id=2776|RuCor_group_id=472170|Shift=851
+7	видов	_	_	_	_	_	_	_	RuCor_chain_id=2776|RuCor_group_id=472170|Shift=865|SpaceAfter=No
+8	''	_	_	_	_	_	_	_	RuCor_chain_id=2776|RuCor_group_id=472170|Shift=870
+9	была	_	_	_	_	_	_	_	Shift=872
+10	переведена	_	_	_	_	_	_	_	Shift=877
+11	уже	_	_	_	_	_	_	_	Shift=888
+12	в	_	_	_	_	_	_	_	Shift=892
+13	1864	_	_	_	_	_	_	_	Shift=894
+14	году	_	_	_	_	_	_	_	Shift=899|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=903
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p8
+# par_text = В России одним из первых активных пропагандистов дарвинизма был Дмитрий Писарев.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p8-s1
+# text = В России одним из первых активных пропагандистов дарвинизма был Дмитрий Писарев.
+1	В	_	_	_	_	_	_	_	Shift=905
+2	России	_	_	_	_	_	_	_	Shift=907
+3	одним	_	_	_	_	_	_	_	RuCor_chain_id=2780|RuCor_group_id=472171|Shift=914
+4	из	_	_	_	_	_	_	_	RuCor_chain_id=2780|RuCor_group_id=472171|Shift=920
+5	первых	_	_	_	_	_	_	_	RuCor_chain_id=2780|RuCor_group_id=472171|Shift=923
+6	активных	_	_	_	_	_	_	_	RuCor_chain_id=2780|RuCor_group_id=472171|Shift=930
+7	пропагандистов	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2780|RuCor_group_id=472171|RuCor_link_id=0|Shift=939
+8	дарвинизма	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2779|RuCor_group_id=472172|RuCor_link_id=472169|Shift=954
+9	был	_	_	_	_	_	_	_	Shift=965
+10	Дмитрий	_	_	_	_	_	_	_	RuCor_chain_id=2780|RuCor_group_id=472174|Shift=969
+11	Писарев	_	_	_	_	_	_	_	RuCor_chain_id=2780|RuCor_group_id=472174|Shift=977|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=984
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p9
+# par_text = Дарвинизм — это пример научной теории, которая в наибольшей степени стала жертвой разного рода популярных научных изложений и борьбы между разного рода вариантами такой популяризации.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p9-s1
+# text = Дарвинизм - это пример научной теории, которая в наибольшей степени стала жертвой разного рода популярных научных изложений и борьбы между разного рода вариантами такой популяризации.
+1	Дарвинизм	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2779|RuCor_group_id=472175|RuCor_link_id=472172|Shift=986
+2	-	_	_	_	_	_	_	_	Shift=996
+3	это	_	_	_	_	_	_	_	Shift=998
+4	пример	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2779|RuCor_group_id=472176|RuCor_link_id=472175|Shift=1002
+5	научной	_	_	_	_	_	_	_	RuCor_chain_id=2781|RuCor_group_id=472177|Shift=1009
+6	теории	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2781|RuCor_group_id=472177|RuCor_link_id=0|Shift=1017|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=1023
+8	которая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2781|RuCor_group_id=472178|RuCor_link_id=472177|Shift=1025
+9	в	_	_	_	_	_	_	_	Shift=1033
+10	наибольшей	_	_	_	_	_	_	_	Shift=1035
+11	степени	_	_	_	_	_	_	_	Shift=1046
+12	стала	_	_	_	_	_	_	_	Shift=1054
+13	жертвой	_	_	_	_	_	_	_	Shift=1060
+14	разного	_	_	_	_	_	_	_	Shift=1068
+15	рода	_	_	_	_	_	_	_	Shift=1076
+16	популярных	_	_	_	_	_	_	_	Shift=1081
+17	научных	_	_	_	_	_	_	_	Shift=1092
+18	изложений	_	_	_	_	_	_	_	Shift=1100
+19	и	_	_	_	_	_	_	_	Shift=1110
+20	борьбы	_	_	_	_	_	_	_	Shift=1112
+21	между	_	_	_	_	_	_	_	Shift=1119
+22	разного	_	_	_	_	_	_	_	Shift=1125
+23	рода	_	_	_	_	_	_	_	Shift=1133
+24	вариантами	_	_	_	_	_	_	_	Shift=1138
+25	такой	_	_	_	_	_	_	_	Shift=1149
+26	популяризации	_	_	_	_	_	_	_	Shift=1155|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=1168
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p10
+# par_text = Дарвин действовал как образцовый учёный: все его выводы строго ограничены тем эмпирическим материалом, на который он мог опираться как натуралист и путешественник.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p10-s1
+# text = Дарвин действовал как образцовый учёный: все его выводы строго ограничены тем эмпирическим материалом, на который он мог опираться как натуралист и путешественник.
+1	Дарвин	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2777|RuCor_group_id=472179|RuCor_link_id=472167|Shift=1170
+2	действовал	_	_	_	_	_	_	_	Shift=1177
+3	как	_	_	_	_	_	_	_	Shift=1188
+4	образцовый	_	_	_	_	_	_	_	Shift=1192
+5	учёный	_	_	_	_	_	_	_	Shift=1203|SpaceAfter=No
+6	:	_	_	_	_	_	_	_	Shift=1209
+7	все	_	_	_	_	_	_	_	Shift=1211
+8	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2777|RuCor_group_id=472180|RuCor_link_id=472179|Shift=1215
+9	выводы	_	_	_	_	_	_	_	Shift=1219
+10	строго	_	_	_	_	_	_	_	Shift=1226
+11	ограничены	_	_	_	_	_	_	_	Shift=1233
+12	тем	_	_	_	_	_	_	_	RuCor_chain_id=2782|RuCor_group_id=472181|Shift=1244
+13	эмпирическим	_	_	_	_	_	_	_	RuCor_chain_id=2782|RuCor_group_id=472181|Shift=1248
+14	материалом	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2782|RuCor_group_id=472181|RuCor_link_id=0|Shift=1261|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=1271
+16	на	_	_	_	_	_	_	_	Shift=1273
+17	который	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=2782|RuCor_group_id=472183|RuCor_link_id=472181|Shift=1276
+18	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2777|RuCor_group_id=472185|RuCor_link_id=472180|Shift=1284
+19	мог	_	_	_	_	_	_	_	Shift=1287
+20	опираться	_	_	_	_	_	_	_	Shift=1291
+21	как	_	_	_	_	_	_	_	Shift=1301
+22	натуралист	_	_	_	_	_	_	_	Shift=1305
+23	и	_	_	_	_	_	_	_	Shift=1316
+24	путешественник	_	_	_	_	_	_	_	Shift=1318|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=1332
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p11
+# par_text = Он не стремился выйти за пределы этих материалов и сформулировать какие-то более широкие обобщения.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p11-s1
+# text = Он не стремился выйти за пределы этих материалов и сформулировать какие-то более широкие обобщения.
+1	Он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2777|RuCor_group_id=472186|RuCor_link_id=472185|Shift=1334
+2	не	_	_	_	_	_	_	_	Shift=1337
+3	стремился	_	_	_	_	_	_	_	Shift=1340
+4	выйти	_	_	_	_	_	_	_	Shift=1350
+5	за	_	_	_	_	_	_	_	Shift=1356
+6	пределы	_	_	_	_	_	_	_	Shift=1359
+7	этих	_	_	_	_	_	_	_	RuCor_chain_id=2782|RuCor_group_id=472187|Shift=1367
+8	материалов	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2782|RuCor_group_id=472187|RuCor_link_id=472183|Shift=1372
+9	и	_	_	_	_	_	_	_	Shift=1383
+10	сформулировать	_	_	_	_	_	_	_	Shift=1385
+11	какие-то	_	_	_	_	_	_	_	Shift=1400
+12	более	_	_	_	_	_	_	_	Shift=1409
+13	широкие	_	_	_	_	_	_	_	Shift=1415
+14	обобщения	_	_	_	_	_	_	_	Shift=1423|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=1432
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p12
+# par_text = Дарвин прямо указывает на проблемы, которые не поддавались решению в его время.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p12-s1
+# text = Дарвин прямо указывает на проблемы, которые не поддавались решению в его время.
+1	Дарвин	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2777|RuCor_group_id=472188|RuCor_link_id=472186|Shift=1434
+2	прямо	_	_	_	_	_	_	_	Shift=1441
+3	указывает	_	_	_	_	_	_	_	Shift=1447
+4	на	_	_	_	_	_	_	_	Shift=1457
+5	проблемы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2784|RuCor_group_id=472189|RuCor_link_id=472190|Shift=1460|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1468
+7	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2784|RuCor_group_id=472190|RuCor_link_id=0|Shift=1470
+8	не	_	_	_	_	_	_	_	Shift=1478
+9	поддавались	_	_	_	_	_	_	_	Shift=1481
+10	решению	_	_	_	_	_	_	_	Shift=1493
+11	в	_	_	_	_	_	_	_	Shift=1501
+12	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2777|RuCor_group_id=472191|RuCor_link_id=472188|Shift=1503
+13	время	_	_	_	_	_	_	_	Shift=1507|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=1512
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p13
+# par_text = Например, до появления разработанной генетической теории камнем преткновения для дарвинизма была проблема изменчивости и наследственности.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p13-s1
+# text = Например, до появления разработанной генетической теории камнем преткновения для дарвинизма была проблема изменчивости и наследственности.
+1	Например	_	_	_	_	_	_	_	Shift=1514|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=1522
+3	до	_	_	_	_	_	_	_	Shift=1524
+4	появления	_	_	_	_	_	_	_	Shift=1527
+5	разработанной	_	_	_	_	_	_	_	Shift=1537
+6	генетической	_	_	_	_	_	_	_	Shift=1551
+7	теории	_	_	_	_	_	_	_	Shift=1564
+8	камнем	_	_	_	_	_	_	_	Shift=1571
+9	преткновения	_	_	_	_	_	_	_	Shift=1578
+10	для	_	_	_	_	_	_	_	Shift=1591
+11	дарвинизма	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2779|RuCor_group_id=472192|RuCor_link_id=472176|Shift=1595
+12	была	_	_	_	_	_	_	_	Shift=1606
+13	проблема	_	_	_	_	_	_	_	Shift=1611
+14	изменчивости	_	_	_	_	_	_	_	Shift=1620
+15	и	_	_	_	_	_	_	_	Shift=1633
+16	наследственности	_	_	_	_	_	_	_	Shift=1635|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=1651
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p14
+# par_text = Поэтому Дарвин до конца жизни колебался в вопросе о том, что более важно для динамики изменчивости — изменение среды обитания или изменения в самом организме (эта проблема в советское время составила существо конфликта между последователями Лысенко и генетиками).
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p14-s1
+# text = Поэтому Дарвин до конца жизни колебался в вопросе о том, что более важно для динамики изменчивости - изменение среды обитания или изменения в самом организме (эта проблема в советское время составила существо конфликта между последователями Лысенко и генетиками).
+1	Поэтому	_	_	_	_	_	_	_	Shift=1653
+2	Дарвин	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2777|RuCor_group_id=472193|RuCor_link_id=472188|Shift=1661
+3	до	_	_	_	_	_	_	_	Shift=1668
+4	конца	_	_	_	_	_	_	_	Shift=1671
+5	жизни	_	_	_	_	_	_	_	Shift=1677
+6	колебался	_	_	_	_	_	_	_	Shift=1683
+7	в	_	_	_	_	_	_	_	Shift=1693
+8	вопросе	_	_	_	_	_	_	_	Shift=1695
+9	о	_	_	_	_	_	_	_	Shift=1703
+10	том	_	_	_	_	_	_	_	Shift=1705|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=1708
+12	что	_	_	_	_	_	_	_	Shift=1710
+13	более	_	_	_	_	_	_	_	Shift=1714
+14	важно	_	_	_	_	_	_	_	Shift=1720
+15	для	_	_	_	_	_	_	_	Shift=1726
+16	динамики	_	_	_	_	_	_	_	Shift=1730
+17	изменчивости	_	_	_	_	_	_	_	Shift=1739
+18	-	_	_	_	_	_	_	_	Shift=1752
+19	изменение	_	_	_	_	_	_	_	Shift=1754
+20	среды	_	_	_	_	_	_	_	Shift=1764
+21	обитания	_	_	_	_	_	_	_	Shift=1770
+22	или	_	_	_	_	_	_	_	Shift=1779
+23	изменения	_	_	_	_	_	_	_	Shift=1783
+24	в	_	_	_	_	_	_	_	Shift=1793
+25	самом	_	_	_	_	_	_	_	Shift=1795
+26	организме	_	_	_	_	_	_	_	Shift=1801
+27	(	_	_	_	_	_	_	_	Shift=1811|SpaceAfter=No
+28	эта	_	_	_	_	_	_	_	Shift=1812
+29	проблема	_	_	_	_	_	_	_	Shift=1816
+30	в	_	_	_	_	_	_	_	Shift=1825
+31	советское	_	_	_	_	_	_	_	Shift=1827
+32	время	_	_	_	_	_	_	_	Shift=1837
+33	составила	_	_	_	_	_	_	_	Shift=1843
+34	существо	_	_	_	_	_	_	_	Shift=1853
+35	конфликта	_	_	_	_	_	_	_	Shift=1862
+36	между	_	_	_	_	_	_	_	Shift=1872
+37	последователями	_	_	_	_	_	_	_	Shift=1878
+38	Лысенко	_	_	_	_	_	_	_	Shift=1894
+39	и	_	_	_	_	_	_	_	Shift=1902
+40	генетиками	_	_	_	_	_	_	_	Shift=1904|SpaceAfter=No
+41	)	_	_	_	_	_	_	_	Shift=1914|SpaceAfter=No
+42	.	_	_	_	_	_	_	_	Shift=1915
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p15
+# par_text = В популярном восприятии революционный характер работы «Происхождение видов» состоит якобы в том, что там утверждается происхождение человека от обезьяны.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p15-s1
+# text = В популярном восприятии революционный характер работы ``Происхождение видов'' состоит якобы в том, что там утверждается происхождение человека от обезьяны.
+1	В	_	_	_	_	_	_	_	Shift=1917
+2	популярном	_	_	_	_	_	_	_	Shift=1919
+3	восприятии	_	_	_	_	_	_	_	Shift=1930
+4	революционный	_	_	_	_	_	_	_	Shift=1941
+5	характер	_	_	_	_	_	_	_	Shift=1955
+6	работы	_	_	_	_	_	_	_	RuCor_chain_id=2776|RuCor_group_id=472194|Shift=1964
+7	``	_	_	_	_	_	_	_	RuCor_chain_id=2776|RuCor_group_id=472194|Shift=1971|SpaceAfter=No
+8	Происхождение	_	_	_	_	_	_	_	RuCor_chain_id=2776|RuCor_group_id=472194|Shift=1972
+9	видов	_	_	_	_	_	_	_	RuCor_chain_id=2776|RuCor_group_id=472194|Shift=1986|SpaceAfter=No
+10	''	_	_	_	_	_	_	_	RuCor_chain_id=2776|RuCor_group_id=472194|Shift=1991
+11	состоит	_	_	_	_	_	_	_	Shift=1993
+12	якобы	_	_	_	_	_	_	_	Shift=2001
+13	в	_	_	_	_	_	_	_	Shift=2007
+14	том	_	_	_	_	_	_	_	Shift=2009|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=2012
+16	что	_	_	_	_	_	_	_	Shift=2014
+17	там	_	_	_	_	_	_	_	Shift=2018
+18	утверждается	_	_	_	_	_	_	_	Shift=2022
+19	происхождение	_	_	_	_	_	_	_	Shift=2035
+20	человека	_	_	_	_	_	_	_	Shift=2049
+21	от	_	_	_	_	_	_	_	Shift=2058
+22	обезьяны	_	_	_	_	_	_	_	Shift=2061|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=2069
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p16
+# par_text = Но это заблуждение: таких утверждений в работе нет.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p16-s1
+# text = Но это заблуждение: таких утверждений в работе нет.
+1	Но	_	_	_	_	_	_	_	Shift=2071
+2	это	_	_	_	_	_	_	_	Shift=2074
+3	заблуждение	_	_	_	_	_	_	_	Shift=2078|SpaceAfter=No
+4	:	_	_	_	_	_	_	_	Shift=2089
+5	таких	_	_	_	_	_	_	_	Shift=2091
+6	утверждений	_	_	_	_	_	_	_	Shift=2097
+7	в	_	_	_	_	_	_	_	Shift=2109
+8	работе	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2776|RuCor_group_id=472195|RuCor_link_id=472194|Shift=2111
+9	нет	_	_	_	_	_	_	_	Shift=2118|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=2121
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p17
+# par_text = Дарвин не стремился эпатировать публику.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p17-s1
+# text = Дарвин не стремился эпатировать публику.
+1	Дарвин	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2777|RuCor_group_id=472196|RuCor_link_id=472193|Shift=2123
+2	не	_	_	_	_	_	_	_	Shift=2130
+3	стремился	_	_	_	_	_	_	_	Shift=2133
+4	эпатировать	_	_	_	_	_	_	_	Shift=2143
+5	публику	_	_	_	_	_	_	_	Shift=2155|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=2162
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p18
+# par_text = В одном из писем Альфреду Уоллесу в 1857 году Дарвин замечает по этому поводу:
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p18-s1
+# text = В одном из писем Альфреду Уоллесу в 1857 году Дарвин замечает по этому поводу:
+1	В	_	_	_	_	_	_	_	Shift=2164
+2	одном	_	_	_	_	_	_	_	Shift=2166
+3	из	_	_	_	_	_	_	_	Shift=2172
+4	писем	_	_	_	_	_	_	_	Shift=2175
+5	Альфреду	_	_	_	_	_	_	_	RuCor_chain_id=2785|RuCor_group_id=472197|Shift=2181
+6	Уоллесу	_	_	_	_	_	_	_	RuCor_chain_id=2785|RuCor_group_id=472197|Shift=2190
+7	в	_	_	_	_	_	_	_	Shift=2198
+8	1857	_	_	_	_	_	_	_	Shift=2200
+9	году	_	_	_	_	_	_	_	Shift=2205
+10	Дарвин	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2777|RuCor_group_id=472198|RuCor_link_id=472196|Shift=2210
+11	замечает	_	_	_	_	_	_	_	Shift=2217
+12	по	_	_	_	_	_	_	_	Shift=2226
+13	этому	_	_	_	_	_	_	_	Shift=2229
+14	поводу	_	_	_	_	_	_	_	Shift=2235|SpaceAfter=No
+15	:	_	_	_	_	_	_	_	Shift=2241
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p19
+# par_text = «Вы спрашиваете, буду ли я обсуждать «человека».
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p19-s1
+# text = ``Вы спрашиваете, буду ли я обсуждать ``человека''.
+1	``	_	_	_	_	_	_	_	Shift=2243|SpaceAfter=No
+2	Вы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2785|RuCor_group_id=472199|RuCor_link_id=472197|Shift=2244
+3	спрашиваете	_	_	_	_	_	_	_	Shift=2247|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2258
+5	буду	_	_	_	_	_	_	_	Shift=2260
+6	ли	_	_	_	_	_	_	_	Shift=2265
+7	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2777|RuCor_group_id=472200|RuCor_link_id=472198|Shift=2268
+8	обсуждать	_	_	_	_	_	_	_	Shift=2270
+9	``	_	_	_	_	_	_	_	Shift=2280|SpaceAfter=No
+10	человека	_	_	_	_	_	_	_	Shift=2281|SpaceAfter=No
+11	''	_	_	_	_	_	_	_	Shift=2289|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=2290
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p20
+# par_text = Думаю обойти весь этот вопрос, с которым связано столько предрассудков, хотя я вполне допускаю, что это наивысшая и самая увлекательная проблема для натуралиста».
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p20-s1
+# text = Думаю обойти весь этот вопрос, с которым связано столько предрассудков, хотя я вполне допускаю, что это наивысшая и самая увлекательная проблема для натуралиста''.
+1	Думаю	_	_	_	_	_	_	_	Shift=2292
+2	обойти	_	_	_	_	_	_	_	Shift=2298
+3	весь	_	_	_	_	_	_	_	RuCor_chain_id=2786|RuCor_group_id=472201|Shift=2305
+4	этот	_	_	_	_	_	_	_	RuCor_chain_id=2786|RuCor_group_id=472201|Shift=2310
+5	вопрос	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2786|RuCor_group_id=472201|RuCor_link_id=0|Shift=2315|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=2321
+7	с	_	_	_	_	_	_	_	Shift=2323
+8	которым	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2786|RuCor_group_id=472202|RuCor_link_id=472201|Shift=2325
+9	связано	_	_	_	_	_	_	_	Shift=2333
+10	столько	_	_	_	_	_	_	_	Shift=2341
+11	предрассудков	_	_	_	_	_	_	_	Shift=2349|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=2362
+13	хотя	_	_	_	_	_	_	_	Shift=2364
+14	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2777|RuCor_group_id=472203|RuCor_link_id=472200|Shift=2369
+15	вполне	_	_	_	_	_	_	_	Shift=2371
+16	допускаю	_	_	_	_	_	_	_	Shift=2378|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=2386
+18	что	_	_	_	_	_	_	_	Shift=2388
+19	это	_	_	_	_	_	_	_	Shift=2392
+20	наивысшая	_	_	_	_	_	_	_	Shift=2396
+21	и	_	_	_	_	_	_	_	Shift=2406
+22	самая	_	_	_	_	_	_	_	Shift=2408
+23	увлекательная	_	_	_	_	_	_	_	Shift=2414
+24	проблема	_	_	_	_	_	_	_	Shift=2428
+25	для	_	_	_	_	_	_	_	Shift=2437
+26	натуралиста	_	_	_	_	_	_	_	Shift=2441|SpaceAfter=No
+27	''	_	_	_	_	_	_	_	Shift=2452|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=2453
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p21
+# par_text = Дарвин крайне аккуратно высказывался и по вопросу о том, что всё ныне живущее многообразие видов произошло от одного общего предка:
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p21-s1
+# text = Дарвин крайне аккуратно высказывался и по вопросу о том, что всё ныне живущее многообразие видов произошло от одного общего предка:
+1	Дарвин	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2777|RuCor_group_id=472204|RuCor_link_id=472200|Shift=2455
+2	крайне	_	_	_	_	_	_	_	Shift=2462
+3	аккуратно	_	_	_	_	_	_	_	Shift=2469
+4	высказывался	_	_	_	_	_	_	_	Shift=2479
+5	и	_	_	_	_	_	_	_	Shift=2492
+6	по	_	_	_	_	_	_	_	Shift=2494
+7	вопросу	_	_	_	_	_	_	_	Shift=2497
+8	о	_	_	_	_	_	_	_	Shift=2505
+9	том	_	_	_	_	_	_	_	Shift=2507|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=2510
+11	что	_	_	_	_	_	_	_	Shift=2512
+12	всё	_	_	_	_	_	_	_	Shift=2516
+13	ныне	_	_	_	_	_	_	_	Shift=2520
+14	живущее	_	_	_	_	_	_	_	Shift=2525
+15	многообразие	_	_	_	_	_	_	_	Shift=2533
+16	видов	_	_	_	_	_	_	_	Shift=2546
+17	произошло	_	_	_	_	_	_	_	Shift=2552
+18	от	_	_	_	_	_	_	_	Shift=2562
+19	одного	_	_	_	_	_	_	_	Shift=2565
+20	общего	_	_	_	_	_	_	_	Shift=2572
+21	предка	_	_	_	_	_	_	_	Shift=2579|SpaceAfter=No
+22	:	_	_	_	_	_	_	_	Shift=2585
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p22
+# par_text = «Аналогия заставила бы меня сделать ещё одни шаг — допустить, что все животные и растения происходят от одного общего прототипа.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p22-s1
+# text = ``Аналогия заставила бы меня сделать ещё одни шаг - допустить, что все животные и растения происходят от одного общего прототипа.
+1	``	_	_	_	_	_	_	_	Shift=2587|SpaceAfter=No
+2	Аналогия	_	_	_	_	_	_	_	Shift=2588
+3	заставила	_	_	_	_	_	_	_	Shift=2597
+4	бы	_	_	_	_	_	_	_	Shift=2607
+5	меня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2777|RuCor_group_id=472205|RuCor_link_id=472204|Shift=2610
+6	сделать	_	_	_	_	_	_	_	Shift=2615
+7	ещё	_	_	_	_	_	_	_	Shift=2623
+8	одни	_	_	_	_	_	_	_	Shift=2627
+9	шаг	_	_	_	_	_	_	_	Shift=2632
+10	-	_	_	_	_	_	_	_	Shift=2636
+11	допустить	_	_	_	_	_	_	_	Shift=2638|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=2647
+13	что	_	_	_	_	_	_	_	Shift=2649
+14	все	_	_	_	_	_	_	_	Shift=2653
+15	животные	_	_	_	_	_	_	_	Shift=2657
+16	и	_	_	_	_	_	_	_	Shift=2666
+17	растения	_	_	_	_	_	_	_	Shift=2668
+18	происходят	_	_	_	_	_	_	_	Shift=2677
+19	от	_	_	_	_	_	_	_	Shift=2688
+20	одного	_	_	_	_	_	_	_	Shift=2691
+21	общего	_	_	_	_	_	_	_	Shift=2698
+22	прототипа	_	_	_	_	_	_	_	Shift=2705|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=2714
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p23
+# par_text = Но аналогия может иногда быть неверным путеводителем».
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p23-s1
+# text = Но аналогия может иногда быть неверным путеводителем''.
+1	Но	_	_	_	_	_	_	_	Shift=2716
+2	аналогия	_	_	_	_	_	_	_	Shift=2719
+3	может	_	_	_	_	_	_	_	Shift=2728
+4	иногда	_	_	_	_	_	_	_	Shift=2734
+5	быть	_	_	_	_	_	_	_	Shift=2741
+6	неверным	_	_	_	_	_	_	_	Shift=2746
+7	путеводителем	_	_	_	_	_	_	_	Shift=2755|SpaceAfter=No
+8	''	_	_	_	_	_	_	_	Shift=2768|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=2769
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p24
+# par_text = Ещё одним популярным заблуждением является представление о том, что теория эволюции Дарвина антирелигиозна по своей сути.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p24-s1
+# text = Ещё одним популярным заблуждением является представление о том, что теория эволюции Дарвина антирелигиозна по своей сути.
+1	Ещё	_	_	_	_	_	_	_	Shift=2771
+2	одним	_	_	_	_	_	_	_	Shift=2775
+3	популярным	_	_	_	_	_	_	_	Shift=2781
+4	заблуждением	_	_	_	_	_	_	_	Shift=2792
+5	является	_	_	_	_	_	_	_	Shift=2805
+6	представление	_	_	_	_	_	_	_	Shift=2814
+7	о	_	_	_	_	_	_	_	Shift=2828
+8	том	_	_	_	_	_	_	_	Shift=2830|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=2833
+10	что	_	_	_	_	_	_	_	Shift=2835
+11	теория	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2779|RuCor_group_id=472206|RuCor_link_id=472192|Shift=2839
+12	эволюции	_	_	_	_	_	_	_	RuCor_chain_id=2779|RuCor_group_id=472206|Shift=2846
+13	Дарвина	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2777|RuCor_group_id=472207|RuCor_link_id=472205|Shift=2855
+14	антирелигиозна	_	_	_	_	_	_	_	Shift=2863
+15	по	_	_	_	_	_	_	_	Shift=2878
+16	своей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=2779|RuCor_group_id=472208|RuCor_link_id=472206|Shift=2881
+17	сути	_	_	_	_	_	_	_	Shift=2887|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=2891
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p25
+# par_text = Но свою теорию Дарвин рассматривал скорее как превознесение мудрости Творца, а не как проповедь атеизма.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p25-s1
+# text = Но свою теорию Дарвин рассматривал скорее как превознесение мудрости Творца, а не как проповедь атеизма.
+1	Но	_	_	_	_	_	_	_	Shift=2893
+2	свою	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=2779|RuCor_group_id=472210|RuCor_link_id=472207|Shift=2896
+3	теорию	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2779|RuCor_group_id=472210|RuCor_link_id=472206|Shift=2901
+4	Дарвин	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2777|RuCor_group_id=472211|RuCor_link_id=472207|Shift=2908
+5	рассматривал	_	_	_	_	_	_	_	Shift=2915
+6	скорее	_	_	_	_	_	_	_	Shift=2928
+7	как	_	_	_	_	_	_	_	Shift=2935
+8	превознесение	_	_	_	_	_	_	_	Shift=2939
+9	мудрости	_	_	_	_	_	_	_	Shift=2953
+10	Творца	_	_	_	_	_	_	_	Shift=2962|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=2968
+12	а	_	_	_	_	_	_	_	Shift=2970
+13	не	_	_	_	_	_	_	_	Shift=2972
+14	как	_	_	_	_	_	_	_	Shift=2975
+15	проповедь	_	_	_	_	_	_	_	Shift=2979
+16	атеизма	_	_	_	_	_	_	_	Shift=2989|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=2996
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p26
+# par_text = Свой труд он заканчивает словами:
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p26-s1
+# text = Свой труд он заканчивает словами:
+1	Свой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2776|RuCor_group_id=472213|RuCor_link_id=472209|Shift=2998
+2	труд	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2776|RuCor_group_id=472213|RuCor_link_id=472195|Shift=3003
+3	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2777|RuCor_group_id=472214|RuCor_link_id=472211|Shift=3008
+4	заканчивает	_	_	_	_	_	_	_	Shift=3011
+5	словами	_	_	_	_	_	_	_	Shift=3023|SpaceAfter=No
+6	:	_	_	_	_	_	_	_	Shift=3030
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p27
+# par_text = «Есть величие в этом воззрении, по которому жизнь с её различными проявлениями Творец первоначально вдохнул в одну или ограниченное число форм; и между тем как наша планета продолжает вращаться согласно неизменным законам тяготения, из такого простого начала развилось и продолжает развиваться бесконечное число самых прекрасных и самых изумительных форм».
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p27-s1
+# text = ``Есть величие в этом воззрении, по которому жизнь с её различными проявлениями Творец первоначально вдохнул в одну или ограниченное число форм.
+1	``	_	_	_	_	_	_	_	Shift=3032|SpaceAfter=No
+2	Есть	_	_	_	_	_	_	_	Shift=3033
+3	величие	_	_	_	_	_	_	_	Shift=3038
+4	в	_	_	_	_	_	_	_	Shift=3046
+5	этом	_	_	_	_	_	_	_	RuCor_chain_id=2787|RuCor_group_id=472215|Shift=3048
+6	воззрении	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2787|RuCor_group_id=472215|RuCor_link_id=0|Shift=3053|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=3062
+8	по	_	_	_	_	_	_	_	Shift=3064
+9	которому	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2787|RuCor_group_id=472216|RuCor_link_id=472215|Shift=3067
+10	жизнь	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2788|RuCor_group_id=472217|RuCor_link_id=0|Shift=3076
+11	с	_	_	_	_	_	_	_	Shift=3082
+12	её	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=2788|RuCor_group_id=472218|RuCor_link_id=472217|Shift=3084
+13	различными	_	_	_	_	_	_	_	Shift=3087
+14	проявлениями	_	_	_	_	_	_	_	Shift=3098
+15	Творец	_	_	_	_	_	_	_	Shift=3111
+16	первоначально	_	_	_	_	_	_	_	Shift=3118
+17	вдохнул	_	_	_	_	_	_	_	Shift=3132
+18	в	_	_	_	_	_	_	_	Shift=3140
+19	одну	_	_	_	_	_	_	_	Shift=3142
+20	или	_	_	_	_	_	_	_	Shift=3147
+21	ограниченное	_	_	_	_	_	_	_	Shift=3151
+22	число	_	_	_	_	_	_	_	Shift=3164
+23	форм	_	_	_	_	_	_	_	Shift=3170|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=3174
+
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p27-s2
+# text = и между тем как наша планета продолжает вращаться согласно неизменным законам тяготения, из такого простого начала развилось и продолжает развиваться бесконечное число самых прекрасных и самых изумительных форм''.
+1	и	_	_	_	_	_	_	_	Shift=3176
+2	между	_	_	_	_	_	_	_	Shift=3178
+3	тем	_	_	_	_	_	_	_	Shift=3184
+4	как	_	_	_	_	_	_	_	Shift=3188
+5	наша	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2797|RuCor_group_id=472219|RuCor_link_id=472245|Shift=3192
+6	планета	_	_	_	_	_	_	_	Shift=3197
+7	продолжает	_	_	_	_	_	_	_	Shift=3205
+8	вращаться	_	_	_	_	_	_	_	Shift=3216
+9	согласно	_	_	_	_	_	_	_	Shift=3226
+10	неизменным	_	_	_	_	_	_	_	Shift=3235
+11	законам	_	_	_	_	_	_	_	Shift=3246
+12	тяготения	_	_	_	_	_	_	_	Shift=3254|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=3263
+14	из	_	_	_	_	_	_	_	Shift=3265
+15	такого	_	_	_	_	_	_	_	Shift=3268
+16	простого	_	_	_	_	_	_	_	Shift=3275
+17	начала	_	_	_	_	_	_	_	Shift=3284
+18	развилось	_	_	_	_	_	_	_	Shift=3291
+19	и	_	_	_	_	_	_	_	Shift=3301
+20	продолжает	_	_	_	_	_	_	_	Shift=3303
+21	развиваться	_	_	_	_	_	_	_	Shift=3314
+22	бесконечное	_	_	_	_	_	_	_	Shift=3326
+23	число	_	_	_	_	_	_	_	Shift=3338
+24	самых	_	_	_	_	_	_	_	Shift=3344
+25	прекрасных	_	_	_	_	_	_	_	Shift=3350
+26	и	_	_	_	_	_	_	_	Shift=3361
+27	самых	_	_	_	_	_	_	_	Shift=3363
+28	изумительных	_	_	_	_	_	_	_	Shift=3369
+29	форм	_	_	_	_	_	_	_	Shift=3382|SpaceAfter=No
+30	''	_	_	_	_	_	_	_	Shift=3386|SpaceAfter=No
+31	.	_	_	_	_	_	_	_	Shift=3387
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p28
+# par_text = В этом виде религиозности нет ничего необычного ни для Нового времени, ни для Средневековья.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p28-s1
+# text = В этом виде религиозности нет ничего необычного ни для Нового времени, ни для Средневековья.
+1	В	_	_	_	_	_	_	_	Shift=3389
+2	этом	_	_	_	_	_	_	_	Shift=3391
+3	виде	_	_	_	_	_	_	_	Shift=3396
+4	религиозности	_	_	_	_	_	_	_	Shift=3401
+5	нет	_	_	_	_	_	_	_	Shift=3415
+6	ничего	_	_	_	_	_	_	_	Shift=3419
+7	необычного	_	_	_	_	_	_	_	Shift=3426
+8	ни	_	_	_	_	_	_	_	Shift=3437
+9	для	_	_	_	_	_	_	_	Shift=3440
+10	Нового	_	_	_	_	_	_	_	Shift=3444
+11	времени	_	_	_	_	_	_	_	Shift=3451|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=3458
+13	ни	_	_	_	_	_	_	_	Shift=3460
+14	для	_	_	_	_	_	_	_	Shift=3463
+15	Средневековья	_	_	_	_	_	_	_	Shift=3467|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=3480
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p29
+# par_text = Например, известная «бритва Оккама» (не следует умножать сущности без необходимости) имеет сходное и также сугубо христианское происхождение: разумный творец мира способен обойтись минимумом средств для достижения максимума результатов.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p29-s1
+# text = Например, известная ``бритва Оккама'' (не следует умножать сущности без необходимости) имеет сходное и также сугубо христианское происхождение: разумный творец мира способен обойтись минимумом средств для достижения максимума результатов.
+1	Например	_	_	_	_	_	_	_	Shift=3482|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=3490
+3	известная	_	_	_	_	_	_	_	Shift=3492
+4	``	_	_	_	_	_	_	_	Shift=3502|SpaceAfter=No
+5	бритва	_	_	_	_	_	_	_	Shift=3503
+6	Оккама	_	_	_	_	_	_	_	Shift=3510|SpaceAfter=No
+7	''	_	_	_	_	_	_	_	Shift=3516
+8	(	_	_	_	_	_	_	_	Shift=3518|SpaceAfter=No
+9	не	_	_	_	_	_	_	_	Shift=3519
+10	следует	_	_	_	_	_	_	_	Shift=3522
+11	умножать	_	_	_	_	_	_	_	Shift=3530
+12	сущности	_	_	_	_	_	_	_	Shift=3539
+13	без	_	_	_	_	_	_	_	Shift=3548
+14	необходимости	_	_	_	_	_	_	_	Shift=3552|SpaceAfter=No
+15	)	_	_	_	_	_	_	_	Shift=3565
+16	имеет	_	_	_	_	_	_	_	Shift=3567
+17	сходное	_	_	_	_	_	_	_	Shift=3573
+18	и	_	_	_	_	_	_	_	Shift=3581
+19	также	_	_	_	_	_	_	_	Shift=3583
+20	сугубо	_	_	_	_	_	_	_	Shift=3589
+21	христианское	_	_	_	_	_	_	_	Shift=3596
+22	происхождение	_	_	_	_	_	_	_	Shift=3609|SpaceAfter=No
+23	:	_	_	_	_	_	_	_	Shift=3622
+24	разумный	_	_	_	_	_	_	_	Shift=3624
+25	творец	_	_	_	_	_	_	_	Shift=3633
+26	мира	_	_	_	_	_	_	_	Shift=3640
+27	способен	_	_	_	_	_	_	_	Shift=3645
+28	обойтись	_	_	_	_	_	_	_	Shift=3654
+29	минимумом	_	_	_	_	_	_	_	Shift=3663
+30	средств	_	_	_	_	_	_	_	Shift=3673
+31	для	_	_	_	_	_	_	_	Shift=3681
+32	достижения	_	_	_	_	_	_	_	Shift=3685
+33	максимума	_	_	_	_	_	_	_	Shift=3696
+34	результатов	_	_	_	_	_	_	_	Shift=3706|SpaceAfter=No
+35	.	_	_	_	_	_	_	_	Shift=3717
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p30
+# par_text = И всё же теория естественного отбора Дарвина была действительно революционной.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p30-s1
+# text = И всё же теория естественного отбора Дарвина была действительно революционной.
+1	И	_	_	_	_	_	_	_	Shift=3719
+2	всё	_	_	_	_	_	_	_	Shift=3721
+3	же	_	_	_	_	_	_	_	Shift=3725
+4	теория	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2779|RuCor_group_id=472220|RuCor_link_id=472210|Shift=3728
+5	естественного	_	_	_	_	_	_	_	RuCor_chain_id=2779|RuCor_group_id=472220|Shift=3735
+6	отбора	_	_	_	_	_	_	_	RuCor_chain_id=2779|RuCor_group_id=472220|Shift=3749
+7	Дарвина	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2777|RuCor_group_id=472221|RuCor_link_id=472214|Shift=3756
+8	была	_	_	_	_	_	_	_	Shift=3764
+9	действительно	_	_	_	_	_	_	_	Shift=3769
+10	революционной	_	_	_	_	_	_	_	Shift=3783|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=3796
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p31
+# par_text = Смысл этой революции заключался в том, что Дарвину удалось решить проблему, которая до него решения действительно не имела.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p31-s1
+# text = Смысл этой революции заключался в том, что Дарвину удалось решить проблему, которая до него решения действительно не имела.
+1	Смысл	_	_	_	_	_	_	_	Shift=3798
+2	этой	_	_	_	_	_	_	_	Shift=3804
+3	революции	_	_	_	_	_	_	_	Shift=3809
+4	заключался	_	_	_	_	_	_	_	Shift=3819
+5	в	_	_	_	_	_	_	_	Shift=3830
+6	том	_	_	_	_	_	_	_	Shift=3832|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=3835
+8	что	_	_	_	_	_	_	_	Shift=3837
+9	Дарвину	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2777|RuCor_group_id=472222|RuCor_link_id=472221|Shift=3841
+10	удалось	_	_	_	_	_	_	_	Shift=3849
+11	решить	_	_	_	_	_	_	_	Shift=3857
+12	проблему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2789|RuCor_group_id=472223|RuCor_link_id=0|Shift=3864|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=3872
+14	которая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2789|RuCor_group_id=472224|RuCor_link_id=472223|Shift=3874
+15	до	_	_	_	_	_	_	_	Shift=3882
+16	него	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2777|RuCor_group_id=472225|RuCor_link_id=472222|Shift=3885
+17	решения	_	_	_	_	_	_	_	Shift=3890
+18	действительно	_	_	_	_	_	_	_	Shift=3898
+19	не	_	_	_	_	_	_	_	Shift=3912
+20	имела	_	_	_	_	_	_	_	Shift=3915|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=3920
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p32
+# par_text = Более того, даже весьма радикальные теоретики науки, например Иммануил Кант, не считали, что эта проблема может быть решена даже в принципе (по крайней мере к такому выводу он приходит в поздних своих произведениях, хотя в ранних ещё можно найти несколько более смелые предположения на этот счёт).
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p32-s1
+# text = Более того, даже весьма радикальные теоретики науки, например Иммануил Кант, не считали, что эта проблема может быть решена даже в принципе (по крайней мере к такому выводу он приходит в поздних своих произведениях, хотя в ранних ещё можно найти несколько более смелые предположения на этот счёт).
+1	Более	_	_	_	_	_	_	_	Shift=3922
+2	того	_	_	_	_	_	_	_	Shift=3928|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=3932
+4	даже	_	_	_	_	_	_	_	Shift=3934
+5	весьма	_	_	_	_	_	_	_	Shift=3939
+6	радикальные	_	_	_	_	_	_	_	Shift=3946
+7	теоретики	_	_	_	_	_	_	_	Shift=3958
+8	науки	_	_	_	_	_	_	_	Shift=3968|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=3973
+10	например	_	_	_	_	_	_	_	Shift=3975
+11	Иммануил	_	_	_	_	_	_	_	RuCor_chain_id=2790|RuCor_group_id=472226|Shift=3984
+12	Кант	_	_	_	_	_	_	_	RuCor_chain_id=2790|RuCor_group_id=472226|Shift=3993|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=3997
+14	не	_	_	_	_	_	_	_	Shift=3999
+15	считали	_	_	_	_	_	_	_	Shift=4002|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=4009
+17	что	_	_	_	_	_	_	_	Shift=4011
+18	эта	_	_	_	_	_	_	_	Shift=4015
+19	проблема	_	_	_	_	_	_	_	Shift=4019
+20	может	_	_	_	_	_	_	_	Shift=4028
+21	быть	_	_	_	_	_	_	_	Shift=4034
+22	решена	_	_	_	_	_	_	_	Shift=4039
+23	даже	_	_	_	_	_	_	_	Shift=4046
+24	в	_	_	_	_	_	_	_	Shift=4051
+25	принципе	_	_	_	_	_	_	_	Shift=4053
+26	(	_	_	_	_	_	_	_	Shift=4062|SpaceAfter=No
+27	по	_	_	_	_	_	_	_	Shift=4063
+28	крайней	_	_	_	_	_	_	_	Shift=4066
+29	мере	_	_	_	_	_	_	_	Shift=4074
+30	к	_	_	_	_	_	_	_	Shift=4079
+31	такому	_	_	_	_	_	_	_	Shift=4081
+32	выводу	_	_	_	_	_	_	_	Shift=4088
+33	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2790|RuCor_group_id=472227|RuCor_link_id=472226|Shift=4095
+34	приходит	_	_	_	_	_	_	_	Shift=4098
+35	в	_	_	_	_	_	_	_	Shift=4107
+36	поздних	_	_	_	_	_	_	_	Shift=4109
+37	своих	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=2790|RuCor_group_id=472228|RuCor_link_id=472227|Shift=4117
+38	произведениях	_	_	_	_	_	_	_	Shift=4123|SpaceAfter=No
+39	,	_	_	_	_	_	_	_	Shift=4136
+40	хотя	_	_	_	_	_	_	_	Shift=4138
+41	в	_	_	_	_	_	_	_	Shift=4143
+42	ранних	_	_	_	_	_	_	_	Shift=4145
+43	ещё	_	_	_	_	_	_	_	Shift=4152
+44	можно	_	_	_	_	_	_	_	Shift=4156
+45	найти	_	_	_	_	_	_	_	Shift=4162
+46	несколько	_	_	_	_	_	_	_	Shift=4168
+47	более	_	_	_	_	_	_	_	Shift=4178
+48	смелые	_	_	_	_	_	_	_	Shift=4184
+49	предположения	_	_	_	_	_	_	_	Shift=4191
+50	на	_	_	_	_	_	_	_	Shift=4205
+51	этот	_	_	_	_	_	_	_	Shift=4208
+52	счёт	_	_	_	_	_	_	_	Shift=4213|SpaceAfter=No
+53	)	_	_	_	_	_	_	_	Shift=4217|SpaceAfter=No
+54	.	_	_	_	_	_	_	_	Shift=4218
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p33
+# par_text = Речь идёт об устранении из сферы рассуждений о живой природе принципа целесообразности и замене его принципом причинно-следственных отношений.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p33-s1
+# text = Речь идёт об устранении из сферы рассуждений о живой природе принципа целесообразности и замене его принципом причинно-следственных отношений.
+1	Речь	_	_	_	_	_	_	_	Shift=4220
+2	идёт	_	_	_	_	_	_	_	Shift=4225
+3	об	_	_	_	_	_	_	_	Shift=4230
+4	устранении	_	_	_	_	_	_	_	Shift=4233
+5	из	_	_	_	_	_	_	_	Shift=4244
+6	сферы	_	_	_	_	_	_	_	Shift=4247
+7	рассуждений	_	_	_	_	_	_	_	Shift=4253
+8	о	_	_	_	_	_	_	_	Shift=4265
+9	живой	_	_	_	_	_	_	_	Shift=4267
+10	природе	_	_	_	_	_	_	_	Shift=4273
+11	принципа	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2791|RuCor_group_id=472229|RuCor_link_id=0|Shift=4281
+12	целесообразности	_	_	_	_	_	_	_	RuCor_chain_id=2791|RuCor_group_id=472229|Shift=4290
+13	и	_	_	_	_	_	_	_	Shift=4307
+14	замене	_	_	_	_	_	_	_	Shift=4309
+15	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2791|RuCor_group_id=472230|RuCor_link_id=472229|Shift=4316
+16	принципом	_	_	_	_	_	_	_	Shift=4320
+17	причинно-следственных	_	_	_	_	_	_	_	Shift=4330
+18	отношений	_	_	_	_	_	_	_	Shift=4352|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=4361
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p34
+# par_text = До Дарвина вопрос об особенностях живых существ можно было осмысленно поставить в форме «Зачем?» или «Для чего?».
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p34-s1
+# text = До Дарвина вопрос об особенностях живых существ можно было осмысленно поставить в форме « Зачем? »
+1	До	_	_	_	_	_	_	_	Shift=4363
+2	Дарвина	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2777|RuCor_group_id=472231|RuCor_link_id=472222|Shift=4366
+3	вопрос	_	_	_	_	_	_	_	Shift=4374
+4	об	_	_	_	_	_	_	_	Shift=4381
+5	особенностях	_	_	_	_	_	_	_	Shift=4384
+6	живых	_	_	_	_	_	_	_	Shift=4397
+7	существ	_	_	_	_	_	_	_	Shift=4403
+8	можно	_	_	_	_	_	_	_	Shift=4411
+9	было	_	_	_	_	_	_	_	Shift=4417
+10	осмысленно	_	_	_	_	_	_	_	Shift=4422
+11	поставить	_	_	_	_	_	_	_	Shift=4433
+12	в	_	_	_	_	_	_	_	Shift=4443
+13	форме	_	_	_	_	_	_	_	Shift=4445
+14	``	_	_	_	_	_	_	_	QuotationStart=«|Shift=4451
+15	Зачем	_	_	_	_	_	_	_	Shift=4452|SpaceAfter=No
+16	?	_	_	_	_	_	_	_	Shift=4457
+17	''	_	_	_	_	_	_	_	QuotationEnd=»|Shift=4458
+
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p34-s2
+# text = или « Для чего? ».
+1	или	_	_	_	_	_	_	_	Shift=4460
+2	``	_	_	_	_	_	_	_	QuotationStart=«|Shift=4464
+3	Для	_	_	_	_	_	_	_	Shift=4465
+4	чего	_	_	_	_	_	_	_	Shift=4469|SpaceAfter=No
+5	?	_	_	_	_	_	_	_	Shift=4473
+6	''	_	_	_	_	_	_	_	QuotationEnd=»|Shift=4474|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=4475
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p35
+# par_text = Как в известной сказке:
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p35-s1
+# text = Как в известной сказке:
+1	Как	_	_	_	_	_	_	_	Shift=4477
+2	в	_	_	_	_	_	_	_	Shift=4481
+3	известной	_	_	_	_	_	_	_	Shift=4483
+4	сказке	_	_	_	_	_	_	_	Shift=4493|SpaceAfter=No
+5	:	_	_	_	_	_	_	_	Shift=4499
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p36
+# par_text = «Зачем тебе, бабушка, такие большие уши?»
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p36-s1
+# text = « Зачем тебе, бабушка, такие большие уши? »
+1	``	_	_	_	_	_	_	_	QuotationStart=«|Shift=4501
+2	Зачем	_	_	_	_	_	_	_	Shift=4502
+3	тебе	_	_	_	_	_	_	_	Shift=4508|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=4512
+5	бабушка	_	_	_	_	_	_	_	Shift=4514|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=4521
+7	такие	_	_	_	_	_	_	_	Shift=4523
+8	большие	_	_	_	_	_	_	_	Shift=4529
+9	уши	_	_	_	_	_	_	_	Shift=4537|SpaceAfter=No
+10	?	_	_	_	_	_	_	_	Shift=4540
+11	''	_	_	_	_	_	_	_	QuotationEnd=»|Shift=4541
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p37
+# par_text = — «Чтобы лучше тебя слышать, детка».
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p37-s1
+# text = - ``Чтобы лучше тебя слышать, детка''.
+1	-	_	_	_	_	_	_	_	Shift=4543
+2	``	_	_	_	_	_	_	_	Shift=4545|SpaceAfter=No
+3	Чтобы	_	_	_	_	_	_	_	Shift=4546
+4	лучше	_	_	_	_	_	_	_	Shift=4552
+5	тебя	_	_	_	_	_	_	_	Shift=4558
+6	слышать	_	_	_	_	_	_	_	Shift=4563|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=4570
+8	детка	_	_	_	_	_	_	_	Shift=4572|SpaceAfter=No
+9	''	_	_	_	_	_	_	_	Shift=4577|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=4578
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p38
+# par_text = После Дарвина можно было осмысленно сформулировать вопрос «Почему?», поскольку он показал, как можно найти на него ответ.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p38-s1
+# text = После Дарвина можно было осмысленно сформулировать вопрос « Почему? »
+1	После	_	_	_	_	_	_	_	Shift=4580
+2	Дарвина	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2777|RuCor_group_id=472232|RuCor_link_id=472231|Shift=4586
+3	можно	_	_	_	_	_	_	_	Shift=4594
+4	было	_	_	_	_	_	_	_	Shift=4600
+5	осмысленно	_	_	_	_	_	_	_	Shift=4605
+6	сформулировать	_	_	_	_	_	_	_	Shift=4616
+7	вопрос	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2792|RuCor_group_id=472233|RuCor_link_id=0|Shift=4631
+8	``	_	_	_	_	_	_	_	QuotationStart=«|RuCor_chain_id=2792|RuCor_group_id=472233|Shift=4638
+9	Почему	_	_	_	_	_	_	_	RuCor_chain_id=2792|RuCor_group_id=472233|Shift=4639|SpaceAfter=No
+10	?	_	_	_	_	_	_	_	RuCor_chain_id=2792|RuCor_group_id=472233|Shift=4645
+11	''	_	_	_	_	_	_	_	QuotationEnd=»|RuCor_chain_id=2792|RuCor_group_id=472233|Shift=4646
+
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p38-s2
+# text = , поскольку он показал, как можно найти на него ответ.
+1	,	_	_	_	_	_	_	_	Shift=4647
+2	поскольку	_	_	_	_	_	_	_	Shift=4649
+3	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2777|RuCor_group_id=472234|RuCor_link_id=472232|Shift=4659
+4	показал	_	_	_	_	_	_	_	Shift=4662|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=4669
+6	как	_	_	_	_	_	_	_	Shift=4671
+7	можно	_	_	_	_	_	_	_	Shift=4675
+8	найти	_	_	_	_	_	_	_	Shift=4681
+9	на	_	_	_	_	_	_	_	Shift=4687
+10	него	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2792|RuCor_group_id=472235|RuCor_link_id=472233|Shift=4690
+11	ответ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2793|RuCor_group_id=472236|RuCor_link_id=0|Shift=4695|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=4700
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p39
+# par_text = Состоит он, грубо говоря, в следующем: изменяется среда обитания живых существ, которые способны к изменению и закреплению этих изменений.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p39-s1
+# text = Состоит он, грубо говоря, в следующем: изменяется среда обитания живых существ, которые способны к изменению и закреплению этих изменений.
+1	Состоит	_	_	_	_	_	_	_	Shift=4702
+2	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2793|RuCor_group_id=472237|RuCor_link_id=472236|Shift=4710|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=4712
+4	грубо	_	_	_	_	_	_	_	Shift=4714
+5	говоря	_	_	_	_	_	_	_	Shift=4720|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=4726
+7	в	_	_	_	_	_	_	_	Shift=4728
+8	следующем	_	_	_	_	_	_	_	Shift=4730|SpaceAfter=No
+9	:	_	_	_	_	_	_	_	Shift=4739
+10	изменяется	_	_	_	_	_	_	_	Shift=4741
+11	среда	_	_	_	_	_	_	_	Shift=4752
+12	обитания	_	_	_	_	_	_	_	Shift=4758
+13	живых	_	_	_	_	_	_	_	RuCor_chain_id=2794|RuCor_group_id=472238|Shift=4767
+14	существ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2794|RuCor_group_id=472238|RuCor_link_id=472239|Shift=4773|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=4780
+16	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2794|RuCor_group_id=472239|RuCor_link_id=0|Shift=4782
+17	способны	_	_	_	_	_	_	_	Shift=4790
+18	к	_	_	_	_	_	_	_	Shift=4799
+19	изменению	_	_	_	_	_	_	_	Shift=4801
+20	и	_	_	_	_	_	_	_	Shift=4811
+21	закреплению	_	_	_	_	_	_	_	Shift=4813
+22	этих	_	_	_	_	_	_	_	Shift=4825
+23	изменений	_	_	_	_	_	_	_	Shift=4830|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=4839
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p40
+# par_text = Те существа, которые лучше приспособились, выживают, а те, кто не приспособился, вымирают, так как живые существа борются между собой за существование.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p40-s1
+# text = Те существа, которые лучше приспособились, выживают, а те, кто не приспособился, вымирают, так как живые существа борются между собой за существование.
+1	Те	_	_	_	_	_	_	_	RuCor_chain_id=2795|RuCor_group_id=472240|Shift=4841
+2	существа	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2795|RuCor_group_id=472240|RuCor_link_id=0|Shift=4844|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=4852
+4	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2795|RuCor_group_id=472241|RuCor_link_id=472240|Shift=4854
+5	лучше	_	_	_	_	_	_	_	Shift=4862
+6	приспособились	_	_	_	_	_	_	_	Shift=4868|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=4882
+8	выживают	_	_	_	_	_	_	_	Shift=4884|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=4892
+10	а	_	_	_	_	_	_	_	Shift=4894
+11	те	_	_	_	_	_	_	_	Shift=4896|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=4898
+13	кто	_	_	_	_	_	_	_	Shift=4900
+14	не	_	_	_	_	_	_	_	Shift=4904
+15	приспособился	_	_	_	_	_	_	_	Shift=4907|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=4920
+17	вымирают	_	_	_	_	_	_	_	Shift=4922|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=4930
+19	так	_	_	_	_	_	_	_	Shift=4932
+20	как	_	_	_	_	_	_	_	Shift=4936
+21	живые	_	_	_	_	_	_	_	RuCor_chain_id=2796|RuCor_group_id=472242|Shift=4940
+22	существа	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2796|RuCor_group_id=472242|RuCor_link_id=0|Shift=4946
+23	борются	_	_	_	_	_	_	_	Shift=4955
+24	между	_	_	_	_	_	_	_	RuCor_chain_id=2796|RuCor_group_id=472243|Shift=4963
+25	собой	_	_	_	_	_	_	_	RuCor_attrs_ref=misc|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=2796|RuCor_group_id=472243|RuCor_link_id=472242|Shift=4969
+26	за	_	_	_	_	_	_	_	Shift=4975
+27	существование	_	_	_	_	_	_	_	Shift=4978|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=4991
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p41
+# par_text = Это не просто научная проблема: Дарвин революционно изменил наше восприятие мира — он по меньшей мере стал менее уютным.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p41-s1
+# text = Это не просто научная проблема: Дарвин революционно изменил наше восприятие мира - он по меньшей мере стал менее уютным.
+1	Это	_	_	_	_	_	_	_	Shift=4993
+2	не	_	_	_	_	_	_	_	Shift=4997
+3	просто	_	_	_	_	_	_	_	Shift=5000
+4	научная	_	_	_	_	_	_	_	Shift=5007
+5	проблема	_	_	_	_	_	_	_	Shift=5015|SpaceAfter=No
+6	:	_	_	_	_	_	_	_	Shift=5023
+7	Дарвин	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2777|RuCor_group_id=472244|RuCor_link_id=472232|Shift=5025
+8	революционно	_	_	_	_	_	_	_	Shift=5032
+9	изменил	_	_	_	_	_	_	_	Shift=5045
+10	наше	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2797|RuCor_group_id=472245|RuCor_link_id=0|Shift=5053
+11	восприятие	_	_	_	_	_	_	_	Shift=5058
+12	мира	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2798|RuCor_group_id=472246|RuCor_link_id=0|Shift=5069
+13	-	_	_	_	_	_	_	_	Shift=5074
+14	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2798|RuCor_group_id=472247|RuCor_link_id=472246|Shift=5076
+15	по	_	_	_	_	_	_	_	Shift=5079
+16	меньшей	_	_	_	_	_	_	_	Shift=5082
+17	мере	_	_	_	_	_	_	_	Shift=5090
+18	стал	_	_	_	_	_	_	_	Shift=5095
+19	менее	_	_	_	_	_	_	_	Shift=5100
+20	уютным	_	_	_	_	_	_	_	Shift=5106|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=5112
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p42
+# par_text = Если до этого окружающий нас универсум всё ещё воспринимался как целесообразно устроенный и даже целесообразно украшенный дом, то теперь он предстал как продукт и арена непримиримой борьбы за жизнь.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p42-s1
+# text = Если до этого окружающий нас универсум всё ещё воспринимался как целесообразно устроенный и даже целесообразно украшенный дом, то теперь он предстал как продукт и арена непримиримой борьбы за жизнь.
+1	Если	_	_	_	_	_	_	_	Shift=5114
+2	до	_	_	_	_	_	_	_	Shift=5119
+3	этого	_	_	_	_	_	_	_	Shift=5122
+4	окружающий	_	_	_	_	_	_	_	RuCor_chain_id=2799|RuCor_group_id=472248|Shift=5128
+5	нас	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2797|RuCor_group_id=472249|RuCor_link_id=472245|Shift=5139
+6	универсум	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2799|RuCor_group_id=472248|RuCor_link_id=0|Shift=5143
+7	всё	_	_	_	_	_	_	_	Shift=5153
+8	ещё	_	_	_	_	_	_	_	Shift=5157
+9	воспринимался	_	_	_	_	_	_	_	Shift=5161
+10	как	_	_	_	_	_	_	_	Shift=5175
+11	целесообразно	_	_	_	_	_	_	_	Shift=5179
+12	устроенный	_	_	_	_	_	_	_	Shift=5193
+13	и	_	_	_	_	_	_	_	Shift=5204
+14	даже	_	_	_	_	_	_	_	Shift=5206
+15	целесообразно	_	_	_	_	_	_	_	Shift=5211
+16	украшенный	_	_	_	_	_	_	_	Shift=5225
+17	дом	_	_	_	_	_	_	_	Shift=5236|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=5239
+19	то	_	_	_	_	_	_	_	Shift=5241
+20	теперь	_	_	_	_	_	_	_	Shift=5244
+21	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2799|RuCor_group_id=472250|RuCor_link_id=472248|Shift=5251
+22	предстал	_	_	_	_	_	_	_	Shift=5254
+23	как	_	_	_	_	_	_	_	Shift=5263
+24	продукт	_	_	_	_	_	_	_	Shift=5267
+25	и	_	_	_	_	_	_	_	Shift=5275
+26	арена	_	_	_	_	_	_	_	Shift=5277
+27	непримиримой	_	_	_	_	_	_	_	Shift=5283
+28	борьбы	_	_	_	_	_	_	_	Shift=5296
+29	за	_	_	_	_	_	_	_	Shift=5303
+30	жизнь	_	_	_	_	_	_	_	Shift=5306|SpaceAfter=No
+31	.	_	_	_	_	_	_	_	Shift=5311
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p43
+# par_text = В этом, однако, сам Дарвин усматривал некое особое достоинство:
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p43-s1
+# text = В этом, однако, сам Дарвин усматривал некое особое достоинство:
+1	В	_	_	_	_	_	_	_	Shift=5313
+2	этом	_	_	_	_	_	_	_	Shift=5315|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=5319
+4	однако	_	_	_	_	_	_	_	Shift=5321|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=5327
+6	сам	_	_	_	_	_	_	_	RuCor_chain_id=2777|RuCor_group_id=472251|Shift=5329
+7	Дарвин	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2777|RuCor_group_id=472251|RuCor_link_id=472244|Shift=5333
+8	усматривал	_	_	_	_	_	_	_	Shift=5340
+9	некое	_	_	_	_	_	_	_	Shift=5351
+10	особое	_	_	_	_	_	_	_	Shift=5357
+11	достоинство	_	_	_	_	_	_	_	Shift=5364|SpaceAfter=No
+12	:	_	_	_	_	_	_	_	Shift=5375
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p44
+# par_text = «Из борьбы в природе, из голода и смерти непосредственно вытекает самый высокий результат, какой ум в состоянии себе представить, — образование высших животных».
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p44-s1
+# text = ``Из борьбы в природе, из голода и смерти непосредственно вытекает самый высокий результат, какой ум в состоянии себе представить, - образование высших животных''.
+1	``	_	_	_	_	_	_	_	Shift=5377|SpaceAfter=No
+2	Из	_	_	_	_	_	_	_	Shift=5378
+3	борьбы	_	_	_	_	_	_	_	Shift=5381
+4	в	_	_	_	_	_	_	_	Shift=5388
+5	природе	_	_	_	_	_	_	_	Shift=5390|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=5397
+7	из	_	_	_	_	_	_	_	Shift=5399
+8	голода	_	_	_	_	_	_	_	Shift=5402
+9	и	_	_	_	_	_	_	_	Shift=5409
+10	смерти	_	_	_	_	_	_	_	Shift=5411
+11	непосредственно	_	_	_	_	_	_	_	Shift=5418
+12	вытекает	_	_	_	_	_	_	_	Shift=5434
+13	самый	_	_	_	_	_	_	_	Shift=5443
+14	высокий	_	_	_	_	_	_	_	Shift=5449
+15	результат	_	_	_	_	_	_	_	Shift=5457|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=5466
+17	какой	_	_	_	_	_	_	_	Shift=5468
+18	ум	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2800|RuCor_group_id=472252|RuCor_link_id=472253|Shift=5474
+19	в	_	_	_	_	_	_	_	Shift=5477
+20	состоянии	_	_	_	_	_	_	_	Shift=5479
+21	себе	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=2800|RuCor_group_id=472253|RuCor_link_id=0|Shift=5489
+22	представить	_	_	_	_	_	_	_	Shift=5494|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=5505
+24	-	_	_	_	_	_	_	_	Shift=5507
+25	образование	_	_	_	_	_	_	_	Shift=5509
+26	высших	_	_	_	_	_	_	_	Shift=5521
+27	животных	_	_	_	_	_	_	_	Shift=5528|SpaceAfter=No
+28	''	_	_	_	_	_	_	_	Shift=5536|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	Shift=5537
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p45
+# par_text = Тот тип религиозности, который представлял Дарвин, слишком абстрактен и сух, чтобы быть уютным.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p45-s1
+# text = Тот тип религиозности, который представлял Дарвин, слишком абстрактен и сух, чтобы быть уютным.
+1	Тот	_	_	_	_	_	_	_	RuCor_chain_id=2801|RuCor_group_id=472254|Shift=5539
+2	тип	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2801|RuCor_group_id=472254|RuCor_link_id=0|Shift=5543
+3	религиозности	_	_	_	_	_	_	_	RuCor_chain_id=2801|RuCor_group_id=472254|Shift=5547|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=5560
+5	который	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2801|RuCor_group_id=472255|RuCor_link_id=472254|Shift=5562
+6	представлял	_	_	_	_	_	_	_	Shift=5570
+7	Дарвин	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2777|RuCor_group_id=472256|RuCor_link_id=472251|Shift=5582|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=5588
+9	слишком	_	_	_	_	_	_	_	Shift=5590
+10	абстрактен	_	_	_	_	_	_	_	Shift=5598
+11	и	_	_	_	_	_	_	_	Shift=5609
+12	сух	_	_	_	_	_	_	_	Shift=5611|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=5614
+14	чтобы	_	_	_	_	_	_	_	Shift=5616
+15	быть	_	_	_	_	_	_	_	Shift=5622
+16	уютным	_	_	_	_	_	_	_	Shift=5627|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=5633
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p46
+# par_text = С другой стороны, дарвиновская теория не лишена особого рода экологического очарования: теперь в любом червячке и паучке мы можем видеть своего отдалённого родственника.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p46-s1
+# text = С другой стороны, дарвиновская теория не лишена особого рода экологического очарования: теперь в любом червячке и паучке мы можем видеть своего отдалённого родственника.
+1	С	_	_	_	_	_	_	_	Shift=5635
+2	другой	_	_	_	_	_	_	_	Shift=5637
+3	стороны	_	_	_	_	_	_	_	Shift=5644|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=5651
+5	дарвиновская	_	_	_	_	_	_	_	RuCor_chain_id=2779|RuCor_group_id=472257|Shift=5653
+6	теория	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2779|RuCor_group_id=472257|RuCor_link_id=472260|Shift=5666
+7	не	_	_	_	_	_	_	_	Shift=5673
+8	лишена	_	_	_	_	_	_	_	Shift=5676
+9	особого	_	_	_	_	_	_	_	Shift=5683
+10	рода	_	_	_	_	_	_	_	Shift=5691
+11	экологического	_	_	_	_	_	_	_	Shift=5696
+12	очарования	_	_	_	_	_	_	_	Shift=5711|SpaceAfter=No
+13	:	_	_	_	_	_	_	_	Shift=5721
+14	теперь	_	_	_	_	_	_	_	Shift=5723
+15	в	_	_	_	_	_	_	_	Shift=5730
+16	любом	_	_	_	_	_	_	_	Shift=5732
+17	червячке	_	_	_	_	_	_	_	Shift=5738
+18	и	_	_	_	_	_	_	_	Shift=5747
+19	паучке	_	_	_	_	_	_	_	Shift=5749
+20	мы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2797|RuCor_group_id=472258|RuCor_link_id=472245|Shift=5756
+21	можем	_	_	_	_	_	_	_	Shift=5759
+22	видеть	_	_	_	_	_	_	_	Shift=5765
+23	своего	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=2797|RuCor_group_id=472259|RuCor_link_id=472258|Shift=5772
+24	отдалённого	_	_	_	_	_	_	_	Shift=5779
+25	родственника	_	_	_	_	_	_	_	Shift=5791|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=5803
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p47
+# par_text = Принцип эволюционного естественного отбора был очень быстро распространён за пределы той области, в которой считал возможным использовать его сам Дарвин, то есть за пределы биологии.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p47-s1
+# text = Принцип эволюционного естественного отбора был очень быстро распространён за пределы той области, в которой считал возможным использовать его сам Дарвин, то есть за пределы биологии.
+1	Принцип	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2779|RuCor_group_id=472260|RuCor_link_id=472206|Shift=5805
+2	эволюционного	_	_	_	_	_	_	_	RuCor_chain_id=2779|RuCor_group_id=472260|Shift=5813
+3	естественного	_	_	_	_	_	_	_	RuCor_chain_id=2779|RuCor_group_id=472260|Shift=5827
+4	отбора	_	_	_	_	_	_	_	RuCor_chain_id=2779|RuCor_group_id=472260|Shift=5841
+5	был	_	_	_	_	_	_	_	Shift=5848
+6	очень	_	_	_	_	_	_	_	Shift=5852
+7	быстро	_	_	_	_	_	_	_	Shift=5858
+8	распространён	_	_	_	_	_	_	_	Shift=5865
+9	за	_	_	_	_	_	_	_	Shift=5879
+10	пределы	_	_	_	_	_	_	_	Shift=5882
+11	той	_	_	_	_	_	_	_	RuCor_chain_id=2802|RuCor_group_id=472261|Shift=5890
+12	области	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2802|RuCor_group_id=472261|RuCor_link_id=0|Shift=5894|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=5901
+14	в	_	_	_	_	_	_	_	Shift=5903
+15	которой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2802|RuCor_group_id=472262|RuCor_link_id=472261|Shift=5905
+16	считал	_	_	_	_	_	_	_	Shift=5913
+17	возможным	_	_	_	_	_	_	_	Shift=5920
+18	использовать	_	_	_	_	_	_	_	Shift=5930
+19	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2779|RuCor_group_id=472263|RuCor_link_id=472260|Shift=5943
+20	сам	_	_	_	_	_	_	_	RuCor_chain_id=2777|RuCor_group_id=472264|Shift=5947
+21	Дарвин	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2777|RuCor_group_id=472264|RuCor_link_id=472256|Shift=5951|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=5957
+23	то	_	_	_	_	_	_	_	Shift=5959
+24	есть	_	_	_	_	_	_	_	Shift=5962
+25	за	_	_	_	_	_	_	_	Shift=5967
+26	пределы	_	_	_	_	_	_	_	Shift=5970
+27	биологии	_	_	_	_	_	_	_	Shift=5978|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=5986
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p48
+# par_text = Герберт Спенсер первым распространил принцип естественной эволюции на человеческое общество.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p48-s1
+# text = Герберт Спенсер первым распространил принцип естественной эволюции на человеческое общество.
+1	Герберт	_	_	_	_	_	_	_	Shift=5988
+2	Спенсер	_	_	_	_	_	_	_	Shift=5996
+3	первым	_	_	_	_	_	_	_	Shift=6004
+4	распространил	_	_	_	_	_	_	_	Shift=6011
+5	принцип	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2779|RuCor_group_id=472265|RuCor_link_id=472260|Shift=6025
+6	естественной	_	_	_	_	_	_	_	RuCor_chain_id=2779|RuCor_group_id=472265|Shift=6033
+7	эволюции	_	_	_	_	_	_	_	RuCor_chain_id=2779|RuCor_group_id=472265|Shift=6046
+8	на	_	_	_	_	_	_	_	Shift=6055
+9	человеческое	_	_	_	_	_	_	_	Shift=6058
+10	общество	_	_	_	_	_	_	_	Shift=6071|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=6079
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p49
+# par_text = С социальным использованием дарвинизма всё обстоит, однако, не столь однозначно — именно здесь можно констатировать множество злоупотреблений вульгаризированным дарвинизмом.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p49-s1
+# text = С социальным использованием дарвинизма всё обстоит, однако, не столь однозначно - именно здесь можно констатировать множество злоупотреблений вульгаризированным дарвинизмом.
+1	С	_	_	_	_	_	_	_	Shift=6081
+2	социальным	_	_	_	_	_	_	_	Shift=6083
+3	использованием	_	_	_	_	_	_	_	Shift=6094
+4	дарвинизма	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2779|RuCor_group_id=472266|RuCor_link_id=472267|Shift=6109
+5	всё	_	_	_	_	_	_	_	Shift=6120
+6	обстоит	_	_	_	_	_	_	_	Shift=6124|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=6131
+8	однако	_	_	_	_	_	_	_	Shift=6133|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=6139
+10	не	_	_	_	_	_	_	_	Shift=6141
+11	столь	_	_	_	_	_	_	_	Shift=6144
+12	однозначно	_	_	_	_	_	_	_	Shift=6150
+13	-	_	_	_	_	_	_	_	Shift=6161
+14	именно	_	_	_	_	_	_	_	Shift=6163
+15	здесь	_	_	_	_	_	_	_	Shift=6170
+16	можно	_	_	_	_	_	_	_	Shift=6176
+17	констатировать	_	_	_	_	_	_	_	Shift=6182
+18	множество	_	_	_	_	_	_	_	Shift=6197
+19	злоупотреблений	_	_	_	_	_	_	_	Shift=6207
+20	вульгаризированным	_	_	_	_	_	_	_	Shift=6223
+21	дарвинизмом	_	_	_	_	_	_	_	Shift=6242|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=6253
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p50
+# par_text = Ряд самых известных афоризмов Ницше являются вариациями на тему дарвинизма: «Падающего толкни», — и весьма популярный нынче в России: «Что не убивает меня, то делает сильнее».
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p50-s1
+# text = Ряд самых известных афоризмов Ницше являются вариациями на тему дарвинизма: ``Падающего толкни'', - и весьма популярный нынче в России: ``Что не убивает меня, то делает сильнее''.
+1	Ряд	_	_	_	_	_	_	_	Shift=6255
+2	самых	_	_	_	_	_	_	_	Shift=6259
+3	известных	_	_	_	_	_	_	_	Shift=6265
+4	афоризмов	_	_	_	_	_	_	_	Shift=6275
+5	Ницше	_	_	_	_	_	_	_	Shift=6285
+6	являются	_	_	_	_	_	_	_	Shift=6291
+7	вариациями	_	_	_	_	_	_	_	Shift=6300
+8	на	_	_	_	_	_	_	_	Shift=6311
+9	тему	_	_	_	_	_	_	_	Shift=6314
+10	дарвинизма	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2779|RuCor_group_id=472267|RuCor_link_id=472260|Shift=6319|SpaceAfter=No
+11	:	_	_	_	_	_	_	_	Shift=6329
+12	``	_	_	_	_	_	_	_	Shift=6331|SpaceAfter=No
+13	Падающего	_	_	_	_	_	_	_	Shift=6332
+14	толкни	_	_	_	_	_	_	_	Shift=6342|SpaceAfter=No
+15	''	_	_	_	_	_	_	_	Shift=6348|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=6349
+17	-	_	_	_	_	_	_	_	Shift=6351
+18	и	_	_	_	_	_	_	_	Shift=6353
+19	весьма	_	_	_	_	_	_	_	Shift=6355
+20	популярный	_	_	_	_	_	_	_	Shift=6362
+21	нынче	_	_	_	_	_	_	_	Shift=6373
+22	в	_	_	_	_	_	_	_	Shift=6379
+23	России	_	_	_	_	_	_	_	Shift=6381|SpaceAfter=No
+24	:	_	_	_	_	_	_	_	Shift=6387
+25	``	_	_	_	_	_	_	_	Shift=6389|SpaceAfter=No
+26	Что	_	_	_	_	_	_	_	Shift=6390
+27	не	_	_	_	_	_	_	_	Shift=6394
+28	убивает	_	_	_	_	_	_	_	Shift=6397
+29	меня	_	_	_	_	_	_	_	Shift=6405|SpaceAfter=No
+30	,	_	_	_	_	_	_	_	Shift=6409
+31	то	_	_	_	_	_	_	_	Shift=6411
+32	делает	_	_	_	_	_	_	_	Shift=6414
+33	сильнее	_	_	_	_	_	_	_	Shift=6421|SpaceAfter=No
+34	''	_	_	_	_	_	_	_	Shift=6428|SpaceAfter=No
+35	.	_	_	_	_	_	_	_	Shift=6429
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p51
+# par_text = Теория естественного отбора использовалась для «обоснования» нацизма.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p51-s1
+# text = Теория естественного отбора использовалась для ``обоснования'' нацизма.
+1	Теория	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2779|RuCor_group_id=472268|RuCor_link_id=472267|Shift=6431
+2	естественного	_	_	_	_	_	_	_	RuCor_chain_id=2779|RuCor_group_id=472268|Shift=6438
+3	отбора	_	_	_	_	_	_	_	RuCor_chain_id=2779|RuCor_group_id=472268|Shift=6452
+4	использовалась	_	_	_	_	_	_	_	Shift=6459
+5	для	_	_	_	_	_	_	_	Shift=6474
+6	``	_	_	_	_	_	_	_	Shift=6478|SpaceAfter=No
+7	обоснования	_	_	_	_	_	_	_	Shift=6479|SpaceAfter=No
+8	''	_	_	_	_	_	_	_	Shift=6490
+9	нацизма	_	_	_	_	_	_	_	Shift=6492|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=6499
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p52
+# par_text = Существует и множество других разновидностей социал-дарвинизма.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p52-s1
+# text = Существует и множество других разновидностей социал-дарвинизма.
+1	Существует	_	_	_	_	_	_	_	Shift=6501
+2	и	_	_	_	_	_	_	_	Shift=6512
+3	множество	_	_	_	_	_	_	_	Shift=6514
+4	других	_	_	_	_	_	_	_	Shift=6524
+5	разновидностей	_	_	_	_	_	_	_	Shift=6531
+6	социал-дарвинизма	_	_	_	_	_	_	_	Shift=6546|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=6563
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p53
+# par_text = Неолиберальная экономическая модель, превозносящая преимущества свободной конкуренции, также по умолчанию опирается на некоторые элементы теории естественного отбора.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p53-s1
+# text = Неолиберальная экономическая модель, превозносящая преимущества свободной конкуренции, также по умолчанию опирается на некоторые элементы теории естественного отбора.
+1	Неолиберальная	_	_	_	_	_	_	_	Shift=6565
+2	экономическая	_	_	_	_	_	_	_	Shift=6580
+3	модель	_	_	_	_	_	_	_	Shift=6594|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=6600
+5	превозносящая	_	_	_	_	_	_	_	Shift=6602
+6	преимущества	_	_	_	_	_	_	_	Shift=6616
+7	свободной	_	_	_	_	_	_	_	Shift=6629
+8	конкуренции	_	_	_	_	_	_	_	Shift=6639|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=6650
+10	также	_	_	_	_	_	_	_	Shift=6652
+11	по	_	_	_	_	_	_	_	Shift=6658
+12	умолчанию	_	_	_	_	_	_	_	Shift=6661
+13	опирается	_	_	_	_	_	_	_	Shift=6671
+14	на	_	_	_	_	_	_	_	Shift=6681
+15	некоторые	_	_	_	_	_	_	_	Shift=6684
+16	элементы	_	_	_	_	_	_	_	Shift=6694
+17	теории	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2779|RuCor_group_id=472269|RuCor_link_id=472268|Shift=6703
+18	естественного	_	_	_	_	_	_	_	RuCor_chain_id=2779|RuCor_group_id=472269|Shift=6710
+19	отбора	_	_	_	_	_	_	_	RuCor_chain_id=2779|RuCor_group_id=472269|Shift=6724|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=6730
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p54
+# par_text = Теория Дарвина очень убедительна, что делает её привлекательной для риторического использования в самых разных областях.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p54-s1
+# text = Теория Дарвина очень убедительна, что делает её привлекательной для риторического использования в самых разных областях.
+1	Теория	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2779|RuCor_group_id=472270|RuCor_link_id=472267|Shift=6732
+2	Дарвина	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2777|RuCor_group_id=472271|RuCor_link_id=472256|Shift=6739
+3	очень	_	_	_	_	_	_	_	Shift=6747
+4	убедительна	_	_	_	_	_	_	_	Shift=6753|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=6764
+6	что	_	_	_	_	_	_	_	Shift=6766
+7	делает	_	_	_	_	_	_	_	Shift=6770
+8	её	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2779|RuCor_group_id=472272|RuCor_link_id=472270|Shift=6777
+9	привлекательной	_	_	_	_	_	_	_	Shift=6780
+10	для	_	_	_	_	_	_	_	Shift=6796
+11	риторического	_	_	_	_	_	_	_	Shift=6800
+12	использования	_	_	_	_	_	_	_	Shift=6814
+13	в	_	_	_	_	_	_	_	Shift=6828
+14	самых	_	_	_	_	_	_	_	Shift=6830
+15	разных	_	_	_	_	_	_	_	Shift=6836
+16	областях	_	_	_	_	_	_	_	Shift=6843|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=6851
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p55
+# par_text = Но всё же нельзя забывать, что она решает вполне определённую задачу: научное объяснение в биологии.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p55-s1
+# text = Но всё же нельзя забывать, что она решает вполне определённую задачу: научное объяснение в биологии.
+1	Но	_	_	_	_	_	_	_	Shift=6853
+2	всё	_	_	_	_	_	_	_	Shift=6856
+3	же	_	_	_	_	_	_	_	Shift=6860
+4	нельзя	_	_	_	_	_	_	_	Shift=6863
+5	забывать	_	_	_	_	_	_	_	Shift=6870|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=6878
+7	что	_	_	_	_	_	_	_	Shift=6880
+8	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2779|RuCor_group_id=472273|RuCor_link_id=472272|Shift=6884
+9	решает	_	_	_	_	_	_	_	Shift=6888
+10	вполне	_	_	_	_	_	_	_	Shift=6895
+11	определённую	_	_	_	_	_	_	_	Shift=6902
+12	задачу	_	_	_	_	_	_	_	Shift=6915|SpaceAfter=No
+13	:	_	_	_	_	_	_	_	Shift=6921
+14	научное	_	_	_	_	_	_	_	Shift=6923
+15	объяснение	_	_	_	_	_	_	_	Shift=6931
+16	в	_	_	_	_	_	_	_	Shift=6942
+17	биологии	_	_	_	_	_	_	_	Shift=6944|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=6952
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p56
+# par_text = А теория, которая не знает своих собственных границ, не имеет отношения к науке.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p56-s1
+# text = А теория, которая не знает своих собственных границ, не имеет отношения к науке.
+1	А	_	_	_	_	_	_	_	Shift=6954
+2	теория	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2803|RuCor_group_id=472274|RuCor_link_id=0|Shift=6956|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=6962
+4	которая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2803|RuCor_group_id=472275|RuCor_link_id=472274|Shift=6964
+5	не	_	_	_	_	_	_	_	Shift=6972
+6	знает	_	_	_	_	_	_	_	Shift=6975
+7	своих	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=2803|RuCor_group_id=472276|RuCor_link_id=472274|Shift=6981
+8	собственных	_	_	_	_	_	_	_	Shift=6987
+9	границ	_	_	_	_	_	_	_	Shift=6999|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=7005
+11	не	_	_	_	_	_	_	_	Shift=7007
+12	имеет	_	_	_	_	_	_	_	Shift=7010
+13	отношения	_	_	_	_	_	_	_	Shift=7016
+14	к	_	_	_	_	_	_	_	Shift=7026
+15	науке	_	_	_	_	_	_	_	Shift=7028|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=7033
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p57
+# par_text = Человеческое общество и культуру нельзя себе представить без принципа целесообразности — того принципа, с которым дарвинизм несовместим как таковой.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p57-s1
+# text = Человеческое общество и культуру нельзя себе представить без принципа целесообразности - того принципа, с которым дарвинизм несовместим как таковой.
+1	Человеческое	_	_	_	_	_	_	_	Shift=7035
+2	общество	_	_	_	_	_	_	_	Shift=7048
+3	и	_	_	_	_	_	_	_	Shift=7057
+4	культуру	_	_	_	_	_	_	_	Shift=7059
+5	нельзя	_	_	_	_	_	_	_	Shift=7068
+6	себе	_	_	_	_	_	_	_	Shift=7075
+7	представить	_	_	_	_	_	_	_	Shift=7080
+8	без	_	_	_	_	_	_	_	Shift=7092
+9	принципа	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2804|RuCor_group_id=472277|RuCor_link_id=0|Shift=7096
+10	целесообразности	_	_	_	_	_	_	_	RuCor_chain_id=2804|RuCor_group_id=472277|Shift=7105
+11	-	_	_	_	_	_	_	_	Shift=7122
+12	того	_	_	_	_	_	_	_	RuCor_chain_id=2804|RuCor_group_id=472278|Shift=7124
+13	принципа	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=appo|RuCor_attrs_type=coref|RuCor_chain_id=2804|RuCor_group_id=472278|RuCor_link_id=472277|Shift=7129|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=7137
+15	с	_	_	_	_	_	_	_	Shift=7139
+16	которым	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=2804|RuCor_group_id=472280|RuCor_link_id=472278|Shift=7141
+17	дарвинизм	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2779|RuCor_group_id=472282|RuCor_link_id=472265|Shift=7149
+18	несовместим	_	_	_	_	_	_	_	Shift=7159
+19	как	_	_	_	_	_	_	_	Shift=7171
+20	таковой	_	_	_	_	_	_	_	Shift=7175|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=7182
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p58
+# par_text = Конечно, мы являемся частью природы и во многих, очень многих вещах действуем так же, как множество собратьев наших меньших.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p58-s1
+# text = Конечно, мы являемся частью природы и во многих, очень многих вещах действуем так же, как множество собратьев наших меньших.
+1	Конечно	_	_	_	_	_	_	_	Shift=7184|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=7191
+3	мы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2797|RuCor_group_id=472283|RuCor_link_id=472258|Shift=7193
+4	являемся	_	_	_	_	_	_	_	Shift=7196
+5	частью	_	_	_	_	_	_	_	Shift=7205
+6	природы	_	_	_	_	_	_	_	Shift=7212
+7	и	_	_	_	_	_	_	_	Shift=7220
+8	во	_	_	_	_	_	_	_	Shift=7222
+9	многих	_	_	_	_	_	_	_	Shift=7225|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=7231
+11	очень	_	_	_	_	_	_	_	Shift=7233
+12	многих	_	_	_	_	_	_	_	Shift=7239
+13	вещах	_	_	_	_	_	_	_	Shift=7246
+14	действуем	_	_	_	_	_	_	_	Shift=7252
+15	так	_	_	_	_	_	_	_	Shift=7262
+16	же	_	_	_	_	_	_	_	Shift=7266|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=7268
+18	как	_	_	_	_	_	_	_	Shift=7270
+19	множество	_	_	_	_	_	_	_	Shift=7274
+20	собратьев	_	_	_	_	_	_	_	Shift=7284
+21	наших	_	_	_	_	_	_	_	Shift=7294
+22	меньших	_	_	_	_	_	_	_	Shift=7300|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=7307
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p59
+# par_text = Но всё же человек может ставить и преследовать определённые цели.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p59-s1
+# text = Но всё же человек может ставить и преследовать определённые цели.
+1	Но	_	_	_	_	_	_	_	Shift=7309
+2	всё	_	_	_	_	_	_	_	Shift=7312
+3	же	_	_	_	_	_	_	_	Shift=7316
+4	человек	_	_	_	_	_	_	_	Shift=7319
+5	может	_	_	_	_	_	_	_	Shift=7327
+6	ставить	_	_	_	_	_	_	_	Shift=7333
+7	и	_	_	_	_	_	_	_	Shift=7341
+8	преследовать	_	_	_	_	_	_	_	Shift=7343
+9	определённые	_	_	_	_	_	_	_	Shift=7356
+10	цели	_	_	_	_	_	_	_	Shift=7369|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=7373
+
+# newpar id = ac8dfcdd-94e8-42f3-b663-17974180380d-p60
+# par_text = А также существовать в универсуме смыслов, которые не могут быть полностью сведены к причинно-следственным отношениям.
+# sent_id = ac8dfcdd-94e8-42f3-b663-17974180380d-p60-s1
+# text = А также существовать в универсуме смыслов, которые не могут быть полностью сведены к причинно-следственным отношениям.
+1	А	_	_	_	_	_	_	_	Shift=7375
+2	также	_	_	_	_	_	_	_	Shift=7377
+3	существовать	_	_	_	_	_	_	_	Shift=7383
+4	в	_	_	_	_	_	_	_	Shift=7396
+5	универсуме	_	_	_	_	_	_	_	Shift=7398
+6	смыслов	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2806|RuCor_group_id=472284|RuCor_link_id=0|Shift=7409|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=7416
+8	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2806|RuCor_group_id=472285|RuCor_link_id=472284|Shift=7418
+9	не	_	_	_	_	_	_	_	Shift=7426
+10	могут	_	_	_	_	_	_	_	Shift=7429
+11	быть	_	_	_	_	_	_	_	Shift=7435
+12	полностью	_	_	_	_	_	_	_	Shift=7440
+13	сведены	_	_	_	_	_	_	_	Shift=7450
+14	к	_	_	_	_	_	_	_	Shift=7458
+15	причинно-следственным	_	_	_	_	_	_	_	Shift=7460
+16	отношениям	_	_	_	_	_	_	_	Shift=7482|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	_
+

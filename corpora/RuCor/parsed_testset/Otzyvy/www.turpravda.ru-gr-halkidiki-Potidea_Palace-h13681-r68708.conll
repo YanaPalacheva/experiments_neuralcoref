@@ -1,0 +1,522 @@
+# newdoc id = 3c08bc41-dacc-4639-bb09-580717210151
+# newpar id = 3c08bc41-dacc-4639-bb09-580717210151-p1
+# par_text = После отдыха мы все делимся со своими друзьями и родными впечатлениями о нем. Кто-то пишет отзывы об отелях, в которых отдыхали, кто-то о местах, где удалось побывать.
+# sent_id = 3c08bc41-dacc-4639-bb09-580717210151-p1-s1
+# text = После отдыха мы все делимся со своими друзьями и родными впечатлениями о нем. Кто-то пишет отзывы об отелях, в которых отдыхали, кто-то о местах, где удалось побывать.
+1	После	_	_	_	_	_	_	_	Shift=0
+2	отдыха	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1438|RuCor_group_id=415177|RuCor_link_id=0|Shift=6
+3	мы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1437|RuCor_group_id=415175|RuCor_link_id=0|Shift=13
+4	все	_	_	_	_	_	_	_	RuCor_chain_id=1437|RuCor_group_id=415175|Shift=16
+5	делимся	_	_	_	_	_	_	_	Shift=20
+6	со	_	_	_	_	_	_	_	Shift=28
+7	своими	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=1437|RuCor_group_id=415176|RuCor_link_id=415175|Shift=31
+8	друзьями	_	_	_	_	_	_	_	Shift=38
+9	и	_	_	_	_	_	_	_	Shift=47
+10	родными	_	_	_	_	_	_	_	Shift=49
+11	впечатлениями	_	_	_	_	_	_	_	Shift=57
+12	о	_	_	_	_	_	_	_	Shift=71
+13	нем.	_	_	_	_	_	_	_	Shift=73
+14	Кто-то	_	_	_	_	_	_	_	Shift=78
+15	пишет	_	_	_	_	_	_	_	Shift=85
+16	отзывы	_	_	_	_	_	_	_	Shift=91
+17	об	_	_	_	_	_	_	_	Shift=98
+18	отелях	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1439|RuCor_group_id=415179|RuCor_link_id=0|Shift=101|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=107
+20	в	_	_	_	_	_	_	_	Shift=109
+21	которых	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=1439|RuCor_group_id=415180|RuCor_link_id=415179|Shift=111
+22	отдыхали	_	_	_	_	_	_	_	Shift=119|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=127
+24	кто-то	_	_	_	_	_	_	_	Shift=129
+25	о	_	_	_	_	_	_	_	Shift=136
+26	местах	_	_	_	_	_	_	_	Shift=138|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=144
+28	где	_	_	_	_	_	_	_	Shift=146
+29	удалось	_	_	_	_	_	_	_	Shift=150
+30	побывать	_	_	_	_	_	_	_	Shift=158|SpaceAfter=No
+31	.	_	_	_	_	_	_	_	Shift=166
+
+# newpar id = 3c08bc41-dacc-4639-bb09-580717210151-p2
+# par_text = Вот и я хочу рассказать о таком замечательном месте.В мае (с 18.05.12 по 27.05.12) мы отдыхали в отеле «Potidea Palace» 4+. Отель замечательный, во всех возможных смыслах, особенно для семей с детьми.Но рассказ не о нем, а о Винном погребе «KAVA IDEA».
+# sent_id = 3c08bc41-dacc-4639-bb09-580717210151-p2-s1
+# text = Вот и я хочу рассказать о таком замечательном месте.
+1	Вот	_	_	_	_	_	_	_	Shift=168
+2	и	_	_	_	_	_	_	_	Shift=172
+3	я	_	_	_	_	_	_	_	Shift=174
+4	хочу	_	_	_	_	_	_	_	Shift=176
+5	рассказать	_	_	_	_	_	_	_	Shift=181
+6	о	_	_	_	_	_	_	_	Shift=192
+7	таком	_	_	_	_	_	_	_	Shift=194
+8	замечательном	_	_	_	_	_	_	_	Shift=200
+9	месте	_	_	_	_	_	_	_	Shift=214|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=219
+
+# sent_id = 3c08bc41-dacc-4639-bb09-580717210151-p2-s2
+# text = В мае (с 18.05.12 по 27.05.12) мы отдыхали в отеле ``Potidea Palace'' 4+.
+1	В	_	_	_	_	_	_	_	Shift=220
+2	мае	_	_	_	_	_	_	_	Shift=222
+3	(	_	_	_	_	_	_	_	Shift=226|SpaceAfter=No
+4	с	_	_	_	_	_	_	_	Shift=227
+5	18.05.12	_	_	_	_	_	_	_	Shift=229
+6	по	_	_	_	_	_	_	_	Shift=238
+7	27.05.12	_	_	_	_	_	_	_	Shift=241|SpaceAfter=No
+8	)	_	_	_	_	_	_	_	Shift=249
+9	мы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1437|RuCor_group_id=415181|RuCor_link_id=415176|Shift=251
+10	отдыхали	_	_	_	_	_	_	_	Shift=254
+11	в	_	_	_	_	_	_	_	Shift=263
+12	отеле	_	_	_	_	_	_	_	RuCor_chain_id=1440|RuCor_group_id=415182|Shift=265
+13	``	_	_	_	_	_	_	_	RuCor_chain_id=1440|RuCor_group_id=415182|Shift=271|SpaceAfter=No
+14	Potidea	_	_	_	_	_	_	_	RuCor_chain_id=1440|RuCor_group_id=415182|Shift=272
+15	Palace	_	_	_	_	_	_	_	RuCor_chain_id=1440|RuCor_group_id=415182|Shift=280|SpaceAfter=No
+16	''	_	_	_	_	_	_	_	RuCor_chain_id=1440|RuCor_group_id=415182|Shift=286
+17	4+	_	_	_	_	_	_	_	Shift=288|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=290
+
+# sent_id = 3c08bc41-dacc-4639-bb09-580717210151-p2-s3
+# text = Отель замечательный, во всех возможных смыслах, особенно для семей с детьми.
+1	Отель	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1440|RuCor_group_id=415183|RuCor_link_id=415182|Shift=292
+2	замечательный	_	_	_	_	_	_	_	Shift=298|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=311
+4	во	_	_	_	_	_	_	_	Shift=313
+5	всех	_	_	_	_	_	_	_	Shift=316
+6	возможных	_	_	_	_	_	_	_	Shift=321
+7	смыслах	_	_	_	_	_	_	_	Shift=331|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=338
+9	особенно	_	_	_	_	_	_	_	Shift=340
+10	для	_	_	_	_	_	_	_	Shift=349
+11	семей	_	_	_	_	_	_	_	Shift=353
+12	с	_	_	_	_	_	_	_	Shift=359
+13	детьми	_	_	_	_	_	_	_	Shift=361|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=367
+
+# sent_id = 3c08bc41-dacc-4639-bb09-580717210151-p2-s4
+# text = Но рассказ не о нем, а о Винном погребе ``KAVA IDEA''.
+1	Но	_	_	_	_	_	_	_	Shift=368
+2	рассказ	_	_	_	_	_	_	_	Shift=371
+3	не	_	_	_	_	_	_	_	Shift=379
+4	о	_	_	_	_	_	_	_	Shift=382
+5	нем	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1440|RuCor_group_id=415184|RuCor_link_id=415183|Shift=384|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=387
+7	а	_	_	_	_	_	_	_	Shift=389
+8	о	_	_	_	_	_	_	_	Shift=391
+9	Винном	_	_	_	_	_	_	_	RuCor_chain_id=1441|RuCor_group_id=415185|Shift=393
+10	погребе	_	_	_	_	_	_	_	RuCor_chain_id=1441|RuCor_group_id=415185|Shift=400
+11	``	_	_	_	_	_	_	_	RuCor_chain_id=1441|RuCor_group_id=415185|Shift=408|SpaceAfter=No
+12	KAVA	_	_	_	_	_	_	_	RuCor_chain_id=1441|RuCor_group_id=415185|Shift=409
+13	IDEA	_	_	_	_	_	_	_	RuCor_chain_id=1441|RuCor_group_id=415185|Shift=414|SpaceAfter=No
+14	''	_	_	_	_	_	_	_	RuCor_chain_id=1441|RuCor_group_id=415185|Shift=418|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=419
+
+# newpar id = 3c08bc41-dacc-4639-bb09-580717210151-p3
+# par_text = К сожалению многие узнают о нем лишь к концу отдыха и достаточно сильно сожалеют об этом, хотя он находится в 1 шаге от отеля, в магазине с сувенирами.Сразу за кассой находится вход в погреб, мимо него трудно пройти. Не поленитесь, спуститесь туда! Деревянная лестница проведет вас в легкий полумрак и, такую нужную в жаркий день, приятную прохладу.Весь интерьер выполнен из сочетания дерева и камня. В 2-х залах хранятся вина из самых разных уголков гостеприимной Греции.Когда ваши глаза немного привыкнут, не удивляйтесь тому количеству вин, которое вы увидите вокруг себя, на самом деле их еще больше. Всего в «KAVA IDEA» более 2500 видов различных вин.( «KAVA IDEA» входит в Книгу Рекордов за полное собрание греческих вин). Но не пугайтесь такого разнообразия, в нем вам помогут разобраться люди, которые живут погребом и принимают гостей, равно как у себя дома:Эврипид – Гуру этого места, человек, знающий о вине все, ну или почти все! Во время дегустации, от него вы узнаете много о происхождении вина, интересных истории о виноделах и их жизни, заряд положительных эмоций на оставшееся время.
+# sent_id = 3c08bc41-dacc-4639-bb09-580717210151-p3-s1
+# text = К сожалению многие узнают о нем лишь к концу отдыха и достаточно сильно сожалеют об этом, хотя он находится в 1 шаге от отеля, в магазине с сувенирами.
+1	К	_	_	_	_	_	_	_	Shift=421
+2	сожалению	_	_	_	_	_	_	_	Shift=423
+3	многие	_	_	_	_	_	_	_	Shift=433
+4	узнают	_	_	_	_	_	_	_	Shift=440
+5	о	_	_	_	_	_	_	_	Shift=447
+6	нем	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1441|RuCor_group_id=415186|RuCor_link_id=415185|Shift=449
+7	лишь	_	_	_	_	_	_	_	Shift=453
+8	к	_	_	_	_	_	_	_	Shift=458
+9	концу	_	_	_	_	_	_	_	Shift=460
+10	отдыха	_	_	_	_	_	_	_	Shift=466
+11	и	_	_	_	_	_	_	_	Shift=473
+12	достаточно	_	_	_	_	_	_	_	Shift=475
+13	сильно	_	_	_	_	_	_	_	Shift=486
+14	сожалеют	_	_	_	_	_	_	_	Shift=493
+15	об	_	_	_	_	_	_	_	Shift=502
+16	этом	_	_	_	_	_	_	_	Shift=505|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=509
+18	хотя	_	_	_	_	_	_	_	Shift=511
+19	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1441|RuCor_group_id=415187|RuCor_link_id=415186|Shift=516
+20	находится	_	_	_	_	_	_	_	Shift=519
+21	в	_	_	_	_	_	_	_	Shift=529
+22	1	_	_	_	_	_	_	_	Shift=531
+23	шаге	_	_	_	_	_	_	_	Shift=533
+24	от	_	_	_	_	_	_	_	Shift=538
+25	отеля	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1440|RuCor_group_id=415188|RuCor_link_id=415183|Shift=541|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	Shift=546
+27	в	_	_	_	_	_	_	_	Shift=548
+28	магазине	_	_	_	_	_	_	_	Shift=550
+29	с	_	_	_	_	_	_	_	Shift=559
+30	сувенирами	_	_	_	_	_	_	_	Shift=561|SpaceAfter=No
+31	.	_	_	_	_	_	_	_	Shift=571
+
+# sent_id = 3c08bc41-dacc-4639-bb09-580717210151-p3-s2
+# text = Сразу за кассой находится вход в погреб, мимо него трудно пройти.
+1	Сразу	_	_	_	_	_	_	_	Shift=572
+2	за	_	_	_	_	_	_	_	Shift=578
+3	кассой	_	_	_	_	_	_	_	Shift=581
+4	находится	_	_	_	_	_	_	_	Shift=588
+5	вход	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1442|RuCor_group_id=415189|RuCor_link_id=0|Shift=598
+6	в	_	_	_	_	_	_	_	RuCor_chain_id=1442|RuCor_group_id=415189|Shift=603
+7	погреб	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1448|RuCor_group_id=415206|RuCor_link_id=0|Shift=605|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=611
+9	мимо	_	_	_	_	_	_	_	Shift=613
+10	него	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1442|RuCor_group_id=415190|RuCor_link_id=415189|Shift=618
+11	трудно	_	_	_	_	_	_	_	Shift=623
+12	пройти	_	_	_	_	_	_	_	Shift=630|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=636
+
+# sent_id = 3c08bc41-dacc-4639-bb09-580717210151-p3-s3
+# text = Не поленитесь, спуститесь туда!
+1	Не	_	_	_	_	_	_	_	Shift=638
+2	поленитесь	_	_	_	_	_	_	_	Shift=641|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=651
+4	спуститесь	_	_	_	_	_	_	_	Shift=653
+5	туда	_	_	_	_	_	_	_	Shift=664|SpaceAfter=No
+6	!	_	_	_	_	_	_	_	Shift=668
+
+# sent_id = 3c08bc41-dacc-4639-bb09-580717210151-p3-s4
+# text = Деревянная лестница проведет вас в легкий полумрак и, такую нужную в жаркий день, приятную прохладу.
+1	Деревянная	_	_	_	_	_	_	_	Shift=670
+2	лестница	_	_	_	_	_	_	_	Shift=681
+3	проведет	_	_	_	_	_	_	_	Shift=690
+4	вас	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1443|RuCor_group_id=415191|RuCor_link_id=0|Shift=699
+5	в	_	_	_	_	_	_	_	Shift=703
+6	легкий	_	_	_	_	_	_	_	Shift=705
+7	полумрак	_	_	_	_	_	_	_	Shift=712
+8	и	_	_	_	_	_	_	_	Shift=721|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=722
+10	такую	_	_	_	_	_	_	_	Shift=724
+11	нужную	_	_	_	_	_	_	_	Shift=730
+12	в	_	_	_	_	_	_	_	Shift=737
+13	жаркий	_	_	_	_	_	_	_	Shift=739
+14	день	_	_	_	_	_	_	_	Shift=746|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=750
+16	приятную	_	_	_	_	_	_	_	Shift=752
+17	прохладу	_	_	_	_	_	_	_	Shift=761|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=769
+
+# sent_id = 3c08bc41-dacc-4639-bb09-580717210151-p3-s5
+# text = Весь интерьер выполнен из сочетания дерева и камня.
+1	Весь	_	_	_	_	_	_	_	Shift=770
+2	интерьер	_	_	_	_	_	_	_	Shift=776
+3	выполнен	_	_	_	_	_	_	_	Shift=785
+4	из	_	_	_	_	_	_	_	Shift=794
+5	сочетания	_	_	_	_	_	_	_	Shift=797
+6	дерева	_	_	_	_	_	_	_	Shift=807
+7	и	_	_	_	_	_	_	_	Shift=814
+8	камня	_	_	_	_	_	_	_	Shift=816|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=821
+
+# sent_id = 3c08bc41-dacc-4639-bb09-580717210151-p3-s6
+# text = В 2-х залах хранятся вина из самых разных уголков гостеприимной Греции.
+1	В	_	_	_	_	_	_	_	Shift=823
+2	2-х	_	_	_	_	_	_	_	Shift=825
+3	залах	_	_	_	_	_	_	_	Shift=829
+4	хранятся	_	_	_	_	_	_	_	Shift=835
+5	вина	_	_	_	_	_	_	_	Shift=844
+6	из	_	_	_	_	_	_	_	Shift=849
+7	самых	_	_	_	_	_	_	_	Shift=852
+8	разных	_	_	_	_	_	_	_	Shift=858
+9	уголков	_	_	_	_	_	_	_	Shift=865
+10	гостеприимной	_	_	_	_	_	_	_	Shift=873
+11	Греции	_	_	_	_	_	_	_	Shift=887|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=893
+
+# sent_id = 3c08bc41-dacc-4639-bb09-580717210151-p3-s7
+# text = Когда ваши глаза немного привыкнут, не удивляйтесь тому количеству вин, которое вы увидите вокруг себя, на самом деле их еще больше.
+1	Когда	_	_	_	_	_	_	_	Shift=894
+2	ваши	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1443|RuCor_group_id=415192|RuCor_link_id=415191|Shift=900
+3	глаза	_	_	_	_	_	_	_	Shift=905
+4	немного	_	_	_	_	_	_	_	Shift=911
+5	привыкнут	_	_	_	_	_	_	_	Shift=919|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=928
+7	не	_	_	_	_	_	_	_	Shift=930
+8	удивляйтесь	_	_	_	_	_	_	_	Shift=933
+9	тому	_	_	_	_	_	_	_	RuCor_chain_id=1444|RuCor_group_id=415193|Shift=945
+10	количеству	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1444|RuCor_group_id=415193|RuCor_link_id=0|Shift=950
+11	вин	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1445|RuCor_group_id=415198|RuCor_link_id=0|Shift=961|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=964
+13	которое	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=1444|RuCor_group_id=415194|RuCor_link_id=415193|Shift=966
+14	вы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1443|RuCor_group_id=415195|RuCor_link_id=415192|Shift=974
+15	увидите	_	_	_	_	_	_	_	Shift=977
+16	вокруг	_	_	_	_	_	_	_	Shift=985
+17	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=1443|RuCor_group_id=415196|RuCor_link_id=415195|Shift=992|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=996
+19	на	_	_	_	_	_	_	_	Shift=998
+20	самом	_	_	_	_	_	_	_	Shift=1001
+21	деле	_	_	_	_	_	_	_	Shift=1007
+22	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1445|RuCor_group_id=415199|RuCor_link_id=415198|Shift=1012
+23	еще	_	_	_	_	_	_	_	Shift=1015
+24	больше	_	_	_	_	_	_	_	Shift=1019|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=1025
+
+# sent_id = 3c08bc41-dacc-4639-bb09-580717210151-p3-s8
+# text = Всего в ``KAVA IDEA'' более 2500 видов различных вин. (``KAVA IDEA'' входит в Книгу Рекордов за полное собрание греческих вин).
+1	Всего	_	_	_	_	_	_	_	Shift=1027
+2	в	_	_	_	_	_	_	_	Shift=1033
+3	``	_	_	_	_	_	_	_	RuCor_chain_id=1441|RuCor_group_id=415197|Shift=1035|SpaceAfter=No
+4	KAVA	_	_	_	_	_	_	_	RuCor_chain_id=1441|RuCor_group_id=415197|Shift=1036
+5	IDEA	_	_	_	_	_	_	_	RuCor_chain_id=1441|RuCor_group_id=415197|Shift=1041|SpaceAfter=No
+6	''	_	_	_	_	_	_	_	RuCor_chain_id=1441|RuCor_group_id=415197|Shift=1045
+7	более	_	_	_	_	_	_	_	Shift=1047
+8	2500	_	_	_	_	_	_	_	Shift=1053
+9	видов	_	_	_	_	_	_	_	Shift=1058
+10	различных	_	_	_	_	_	_	_	Shift=1064
+11	вин.	_	_	_	_	_	_	_	Shift=1074
+12	(	_	_	_	_	_	_	_	Shift=1078|SpaceAfter=No
+13	``	_	_	_	_	_	_	_	RuCor_chain_id=1441|RuCor_group_id=415200|Shift=1080|SpaceAfter=No
+14	KAVA	_	_	_	_	_	_	_	RuCor_chain_id=1441|RuCor_group_id=415200|Shift=1081
+15	IDEA	_	_	_	_	_	_	_	RuCor_chain_id=1441|RuCor_group_id=415200|Shift=1086|SpaceAfter=No
+16	''	_	_	_	_	_	_	_	RuCor_chain_id=1441|RuCor_group_id=415200|Shift=1090
+17	входит	_	_	_	_	_	_	_	Shift=1092
+18	в	_	_	_	_	_	_	_	Shift=1099
+19	Книгу	_	_	_	_	_	_	_	Shift=1101
+20	Рекордов	_	_	_	_	_	_	_	Shift=1107
+21	за	_	_	_	_	_	_	_	Shift=1116
+22	полное	_	_	_	_	_	_	_	Shift=1119
+23	собрание	_	_	_	_	_	_	_	Shift=1126
+24	греческих	_	_	_	_	_	_	_	Shift=1135
+25	вин	_	_	_	_	_	_	_	Shift=1145|SpaceAfter=No
+26	)	_	_	_	_	_	_	_	Shift=1148|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=1149
+
+# sent_id = 3c08bc41-dacc-4639-bb09-580717210151-p3-s9
+# text = Но не пугайтесь такого разнообразия, в нем вам помогут разобраться люди, которые живут погребом и принимают гостей, равно как у себя дома: Эврипид - Гуру этого места, человек, знающий о вине все, ну или почти все!
+1	Но	_	_	_	_	_	_	_	Shift=1151
+2	не	_	_	_	_	_	_	_	Shift=1154
+3	пугайтесь	_	_	_	_	_	_	_	Shift=1157
+4	такого	_	_	_	_	_	_	_	RuCor_chain_id=1446|RuCor_group_id=415201|Shift=1167
+5	разнообразия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1446|RuCor_group_id=415201|RuCor_link_id=0|Shift=1174|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1186
+7	в	_	_	_	_	_	_	_	Shift=1188
+8	нем	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1446|RuCor_group_id=415202|RuCor_link_id=415201|Shift=1190
+9	вам	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1443|RuCor_group_id=415203|RuCor_link_id=415196|Shift=1194
+10	помогут	_	_	_	_	_	_	_	Shift=1198
+11	разобраться	_	_	_	_	_	_	_	Shift=1206
+12	люди	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1447|RuCor_group_id=415204|RuCor_link_id=0|Shift=1218|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=1222
+14	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=1447|RuCor_group_id=415205|RuCor_link_id=415204|Shift=1224
+15	живут	_	_	_	_	_	_	_	Shift=1232
+16	погребом	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1448|RuCor_group_id=415207|RuCor_link_id=415206|Shift=1238
+17	и	_	_	_	_	_	_	_	Shift=1247
+18	принимают	_	_	_	_	_	_	_	Shift=1249
+19	гостей	_	_	_	_	_	_	_	Shift=1259|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=1265
+21	равно	_	_	_	_	_	_	_	Shift=1267
+22	как	_	_	_	_	_	_	_	Shift=1273
+23	у	_	_	_	_	_	_	_	Shift=1277
+24	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=1447|RuCor_group_id=415208|RuCor_link_id=415205|Shift=1279
+25	дома	_	_	_	_	_	_	_	Shift=1284|SpaceAfter=No
+26	:	_	_	_	_	_	_	_	Shift=1288
+27	Эврипид	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1449|RuCor_group_id=415209|RuCor_link_id=0|Shift=1290
+28	-	_	_	_	_	_	_	_	_
+29	Гуру	_	_	_	_	_	_	_	Shift=1300
+30	этого	_	_	_	_	_	_	_	RuCor_chain_id=1441|RuCor_group_id=415212|Shift=1305
+31	места	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1441|RuCor_group_id=415212|RuCor_link_id=415200|Shift=1311|SpaceAfter=No
+32	,	_	_	_	_	_	_	_	Shift=1316
+33	человек	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=appo|RuCor_attrs_type=coref|RuCor_chain_id=1449|RuCor_group_id=415211|RuCor_link_id=415210|Shift=1318|SpaceAfter=No
+34	,	_	_	_	_	_	_	_	Shift=1325
+35	знающий	_	_	_	_	_	_	_	Shift=1327
+36	о	_	_	_	_	_	_	_	Shift=1335
+37	вине	_	_	_	_	_	_	_	Shift=1337
+38	все	_	_	_	_	_	_	_	Shift=1342|SpaceAfter=No
+39	,	_	_	_	_	_	_	_	Shift=1345
+40	ну	_	_	_	_	_	_	_	Shift=1347
+41	или	_	_	_	_	_	_	_	Shift=1350
+42	почти	_	_	_	_	_	_	_	Shift=1354
+43	все	_	_	_	_	_	_	_	Shift=1360|SpaceAfter=No
+44	!	_	_	_	_	_	_	_	Shift=1363
+
+# sent_id = 3c08bc41-dacc-4639-bb09-580717210151-p3-s10
+# text = Во время дегустации, от него вы узнаете много о происхождении вина, интересных истории о виноделах и их жизни, заряд положительных эмоций на оставшееся время.
+1	Во	_	_	_	_	_	_	_	Shift=1365
+2	время	_	_	_	_	_	_	_	Shift=1368
+3	дегустации	_	_	_	_	_	_	_	Shift=1374|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1384
+5	от	_	_	_	_	_	_	_	Shift=1386
+6	него	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1449|RuCor_group_id=415213|RuCor_link_id=415211|Shift=1389
+7	вы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1443|RuCor_group_id=415214|RuCor_link_id=415203|Shift=1394
+8	узнаете	_	_	_	_	_	_	_	Shift=1397
+9	много	_	_	_	_	_	_	_	Shift=1405
+10	о	_	_	_	_	_	_	_	Shift=1411
+11	происхождении	_	_	_	_	_	_	_	Shift=1413
+12	вина	_	_	_	_	_	_	_	Shift=1427|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=1431
+14	интересных	_	_	_	_	_	_	_	Shift=1433
+15	истории	_	_	_	_	_	_	_	Shift=1444
+16	о	_	_	_	_	_	_	_	Shift=1452
+17	виноделах	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1450|RuCor_group_id=415215|RuCor_link_id=0|Shift=1454
+18	и	_	_	_	_	_	_	_	Shift=1464
+19	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=1450|RuCor_group_id=415216|RuCor_link_id=415215|Shift=1466
+20	жизни	_	_	_	_	_	_	_	Shift=1469|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=1474
+22	заряд	_	_	_	_	_	_	_	Shift=1476
+23	положительных	_	_	_	_	_	_	_	Shift=1482
+24	эмоций	_	_	_	_	_	_	_	Shift=1496
+25	на	_	_	_	_	_	_	_	Shift=1503
+26	оставшееся	_	_	_	_	_	_	_	Shift=1506
+27	время	_	_	_	_	_	_	_	Shift=1517|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=1522
+
+# newpar id = 3c08bc41-dacc-4639-bb09-580717210151-p4
+# par_text = Георгий и Алексис – молодые сомелье, достойные ученики своего учителя. Всегда с улыбкой на лице расскажут о вине, порекомендуют напиток «для настроения» и «по поводу» и помогут определиться с выбором.Ценовая политика в «KAVA IDEA» вас тоже приятно удивит, цены на вино на столько лояльны, что вызывают некоторый ступор. За натуральный качественный продукт мы привыкли отдавать большие деньги, но тут этот закон не работает. Вам предлагают насладиться качеством и угостить им ваших друзей и родных дома, а не опустошить ваш кошелек. К тому же, бутылка хорошего вина всегда была отличным подарком!
+# sent_id = 3c08bc41-dacc-4639-bb09-580717210151-p4-s1
+# text = Георгий и Алексис - молодые сомелье, достойные ученики своего учителя.
+1	Георгий	_	_	_	_	_	_	_	RuCor_chain_id=1451|RuCor_group_id=415217|Shift=1524
+2	и	_	_	_	_	_	_	_	RuCor_chain_id=1451|RuCor_group_id=415217|Shift=1532
+3	Алексис	_	_	_	_	_	_	_	RuCor_chain_id=1451|RuCor_group_id=415217|Shift=1534
+4	-	_	_	_	_	_	_	_	_
+5	молодые	_	_	_	_	_	_	_	RuCor_chain_id=1451|RuCor_group_id=415218|Shift=1544
+6	сомелье	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1451|RuCor_group_id=415218|RuCor_link_id=415217|Shift=1552|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=1559
+8	достойные	_	_	_	_	_	_	_	RuCor_chain_id=1451|RuCor_group_id=415219|Shift=1561
+9	ученики	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=appo|RuCor_attrs_type=coref|RuCor_chain_id=1451|RuCor_group_id=415219|RuCor_link_id=415218|Shift=1571
+10	своего	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=1451|RuCor_group_id=415221|RuCor_link_id=415218|Shift=1579
+11	учителя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1449|RuCor_group_id=415220|RuCor_link_id=415213|Shift=1586|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=1593
+
+# sent_id = 3c08bc41-dacc-4639-bb09-580717210151-p4-s2
+# text = Всегда с улыбкой на лице расскажут о вине, порекомендуют напиток ``для настроения'' и ``по поводу'' и помогут определиться с выбором.
+1	Всегда	_	_	_	_	_	_	_	Shift=1595
+2	с	_	_	_	_	_	_	_	Shift=1602
+3	улыбкой	_	_	_	_	_	_	_	Shift=1604
+4	на	_	_	_	_	_	_	_	Shift=1612
+5	лице	_	_	_	_	_	_	_	Shift=1615
+6	расскажут	_	_	_	_	_	_	_	Shift=1620
+7	о	_	_	_	_	_	_	_	Shift=1630
+8	вине	_	_	_	_	_	_	_	Shift=1632|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1636
+10	порекомендуют	_	_	_	_	_	_	_	Shift=1638
+11	напиток	_	_	_	_	_	_	_	Shift=1652
+12	``	_	_	_	_	_	_	_	Shift=1660|SpaceAfter=No
+13	для	_	_	_	_	_	_	_	Shift=1661
+14	настроения	_	_	_	_	_	_	_	Shift=1665|SpaceAfter=No
+15	''	_	_	_	_	_	_	_	Shift=1675
+16	и	_	_	_	_	_	_	_	Shift=1677
+17	``	_	_	_	_	_	_	_	Shift=1679|SpaceAfter=No
+18	по	_	_	_	_	_	_	_	Shift=1680
+19	поводу	_	_	_	_	_	_	_	Shift=1683|SpaceAfter=No
+20	''	_	_	_	_	_	_	_	Shift=1689
+21	и	_	_	_	_	_	_	_	Shift=1691
+22	помогут	_	_	_	_	_	_	_	Shift=1693
+23	определиться	_	_	_	_	_	_	_	Shift=1701
+24	с	_	_	_	_	_	_	_	Shift=1714
+25	выбором	_	_	_	_	_	_	_	Shift=1716|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=1723
+
+# sent_id = 3c08bc41-dacc-4639-bb09-580717210151-p4-s3
+# text = Ценовая политика в ``KAVA IDEA'' вас тоже приятно удивит, цены на вино на столько лояльны, что вызывают некоторый ступор.
+1	Ценовая	_	_	_	_	_	_	_	Shift=1724
+2	политика	_	_	_	_	_	_	_	Shift=1732
+3	в	_	_	_	_	_	_	_	Shift=1741
+4	``	_	_	_	_	_	_	_	RuCor_chain_id=1441|RuCor_group_id=415222|Shift=1743|SpaceAfter=No
+5	KAVA	_	_	_	_	_	_	_	RuCor_chain_id=1441|RuCor_group_id=415222|Shift=1744
+6	IDEA	_	_	_	_	_	_	_	RuCor_chain_id=1441|RuCor_group_id=415222|Shift=1749|SpaceAfter=No
+7	''	_	_	_	_	_	_	_	RuCor_chain_id=1441|RuCor_group_id=415222|Shift=1753
+8	вас	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1443|RuCor_group_id=415223|RuCor_link_id=415214|Shift=1755
+9	тоже	_	_	_	_	_	_	_	Shift=1759
+10	приятно	_	_	_	_	_	_	_	Shift=1764
+11	удивит	_	_	_	_	_	_	_	Shift=1772|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=1778
+13	цены	_	_	_	_	_	_	_	Shift=1780
+14	на	_	_	_	_	_	_	_	Shift=1785
+15	вино	_	_	_	_	_	_	_	Shift=1788
+16	на	_	_	_	_	_	_	_	Shift=1793
+17	столько	_	_	_	_	_	_	_	Shift=1796
+18	лояльны	_	_	_	_	_	_	_	Shift=1804|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=1811
+20	что	_	_	_	_	_	_	_	Shift=1813
+21	вызывают	_	_	_	_	_	_	_	Shift=1817
+22	некоторый	_	_	_	_	_	_	_	Shift=1826
+23	ступор	_	_	_	_	_	_	_	Shift=1836|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=1842
+
+# sent_id = 3c08bc41-dacc-4639-bb09-580717210151-p4-s4
+# text = За натуральный качественный продукт мы привыкли отдавать большие деньги, но тут этот закон не работает.
+1	За	_	_	_	_	_	_	_	Shift=1844
+2	натуральный	_	_	_	_	_	_	_	Shift=1847
+3	качественный	_	_	_	_	_	_	_	Shift=1859
+4	продукт	_	_	_	_	_	_	_	Shift=1872
+5	мы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1437|RuCor_group_id=415224|RuCor_link_id=415181|Shift=1880
+6	привыкли	_	_	_	_	_	_	_	Shift=1883
+7	отдавать	_	_	_	_	_	_	_	Shift=1892
+8	большие	_	_	_	_	_	_	_	Shift=1901
+9	деньги	_	_	_	_	_	_	_	Shift=1909|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=1915
+11	но	_	_	_	_	_	_	_	Shift=1917
+12	тут	_	_	_	_	_	_	_	Shift=1920
+13	этот	_	_	_	_	_	_	_	Shift=1924
+14	закон	_	_	_	_	_	_	_	Shift=1929
+15	не	_	_	_	_	_	_	_	Shift=1935
+16	работает	_	_	_	_	_	_	_	Shift=1938|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=1946
+
+# sent_id = 3c08bc41-dacc-4639-bb09-580717210151-p4-s5
+# text = Вам предлагают насладиться качеством и угостить им ваших друзей и родных дома, а не опустошить ваш кошелек.
+1	Вам	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1443|RuCor_group_id=415225|RuCor_link_id=415223|Shift=1948
+2	предлагают	_	_	_	_	_	_	_	Shift=1952
+3	насладиться	_	_	_	_	_	_	_	Shift=1963
+4	качеством	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1452|RuCor_group_id=415226|RuCor_link_id=0|Shift=1975
+5	и	_	_	_	_	_	_	_	Shift=1985
+6	угостить	_	_	_	_	_	_	_	Shift=1987
+7	им	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1452|RuCor_group_id=415227|RuCor_link_id=415226|Shift=1996
+8	ваших	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1443|RuCor_group_id=415228|RuCor_link_id=415225|Shift=1999
+9	друзей	_	_	_	_	_	_	_	Shift=2005
+10	и	_	_	_	_	_	_	_	Shift=2012
+11	родных	_	_	_	_	_	_	_	Shift=2014
+12	дома	_	_	_	_	_	_	_	Shift=2021|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=2025
+14	а	_	_	_	_	_	_	_	Shift=2027
+15	не	_	_	_	_	_	_	_	Shift=2029
+16	опустошить	_	_	_	_	_	_	_	Shift=2032
+17	ваш	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1443|RuCor_group_id=415229|RuCor_link_id=415228|Shift=2043
+18	кошелек	_	_	_	_	_	_	_	Shift=2047|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=2054
+
+# sent_id = 3c08bc41-dacc-4639-bb09-580717210151-p4-s6
+# text = К тому же, бутылка хорошего вина всегда была отличным подарком!
+1	К	_	_	_	_	_	_	_	Shift=2056
+2	тому	_	_	_	_	_	_	_	Shift=2058
+3	же	_	_	_	_	_	_	_	Shift=2063|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2065
+5	бутылка	_	_	_	_	_	_	_	Shift=2067
+6	хорошего	_	_	_	_	_	_	_	Shift=2075
+7	вина	_	_	_	_	_	_	_	Shift=2084
+8	всегда	_	_	_	_	_	_	_	Shift=2089
+9	была	_	_	_	_	_	_	_	Shift=2096
+10	отличным	_	_	_	_	_	_	_	Shift=2101
+11	подарком	_	_	_	_	_	_	_	Shift=2110|SpaceAfter=No
+12	!	_	_	_	_	_	_	_	Shift=2118
+
+# newpar id = 3c08bc41-dacc-4639-bb09-580717210151-p5
+# par_text = Поверьте, однажды попав в этот винный погреб, вы не останетесь равнодушными и захотите возвращаться в него еще и еще, за положительными эмоциями, приятным общением и конечно же вкуснейшим вином!
+# sent_id = 3c08bc41-dacc-4639-bb09-580717210151-p5-s1
+# text = Поверьте, однажды попав в этот винный погреб, вы не останетесь равнодушными и захотите возвращаться в него еще и еще, за положительными эмоциями, приятным общением и конечно же вкуснейшим вином!
+1	Поверьте	_	_	_	_	_	_	_	Shift=2120|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=2128
+3	однажды	_	_	_	_	_	_	_	Shift=2130
+4	попав	_	_	_	_	_	_	_	Shift=2138
+5	в	_	_	_	_	_	_	_	Shift=2144
+6	этот	_	_	_	_	_	_	_	RuCor_chain_id=1448|RuCor_group_id=415230|Shift=2146
+7	винный	_	_	_	_	_	_	_	RuCor_chain_id=1448|RuCor_group_id=415230|Shift=2151
+8	погреб	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1448|RuCor_group_id=415230|RuCor_link_id=415207|Shift=2158|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=2164
+10	вы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1443|RuCor_group_id=415231|RuCor_link_id=415229|Shift=2166
+11	не	_	_	_	_	_	_	_	Shift=2169
+12	останетесь	_	_	_	_	_	_	_	Shift=2172
+13	равнодушными	_	_	_	_	_	_	_	Shift=2183
+14	и	_	_	_	_	_	_	_	Shift=2196
+15	захотите	_	_	_	_	_	_	_	Shift=2198
+16	возвращаться	_	_	_	_	_	_	_	Shift=2207
+17	в	_	_	_	_	_	_	_	Shift=2220
+18	него	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1448|RuCor_group_id=415232|RuCor_link_id=415230|Shift=2222
+19	еще	_	_	_	_	_	_	_	Shift=2227
+20	и	_	_	_	_	_	_	_	Shift=2231
+21	еще	_	_	_	_	_	_	_	Shift=2233|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=2236
+23	за	_	_	_	_	_	_	_	Shift=2238
+24	положительными	_	_	_	_	_	_	_	Shift=2241
+25	эмоциями	_	_	_	_	_	_	_	Shift=2256|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	Shift=2264
+27	приятным	_	_	_	_	_	_	_	Shift=2266
+28	общением	_	_	_	_	_	_	_	Shift=2275
+29	и	_	_	_	_	_	_	_	Shift=2284
+30	конечно	_	_	_	_	_	_	_	Shift=2286
+31	же	_	_	_	_	_	_	_	Shift=2294
+32	вкуснейшим	_	_	_	_	_	_	_	Shift=2297
+33	вином	_	_	_	_	_	_	_	Shift=2308|SpaceAfter=No
+34	!	_	_	_	_	_	_	_	_
+

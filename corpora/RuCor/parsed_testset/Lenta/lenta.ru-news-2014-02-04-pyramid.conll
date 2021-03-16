@@ -1,0 +1,483 @@
+# newdoc id = 869b762b-7079-4764-9c44-fed3b649f7e1
+# newpar id = 869b762b-7079-4764-9c44-fed3b649f7e1-p1
+# par_text = Археологи Института Востока Чикагского университета откопали в Египте ступенчатую пирамиду, возраст которой составляет около 4,6 тысячи лет, сообщает LiveScience. Пирамида находится неподалеку от древнего поселения Эдфу (около ста километров к югу от Луксора) и относится к так называемому «провинциальному» типу. По предварительным оценкам, откопанная пирамида на несколько десятилетий старше Великой пирамиды Гизы.
+# sent_id = 869b762b-7079-4764-9c44-fed3b649f7e1-p1-s1
+# text = Археологи Института Востока Чикагского университета откопали в Египте ступенчатую пирамиду, возраст которой составляет около 4, 6 тысячи лет, сообщает LiveScience.
+1	Археологи	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=438|RuCor_group_id=411822|RuCor_link_id=0|Shift=0
+2	Института	_	_	_	_	_	_	_	RuCor_chain_id=438|RuCor_group_id=411822|Shift=10
+3	Востока	_	_	_	_	_	_	_	RuCor_chain_id=438|RuCor_group_id=411822|Shift=20
+4	Чикагского	_	_	_	_	_	_	_	RuCor_chain_id=438|RuCor_group_id=411822|Shift=28
+5	университета	_	_	_	_	_	_	_	RuCor_chain_id=438|RuCor_group_id=411822|Shift=39
+6	откопали	_	_	_	_	_	_	_	Shift=52
+7	в	_	_	_	_	_	_	_	Shift=61
+8	Египте	_	_	_	_	_	_	_	Shift=63
+9	ступенчатую	_	_	_	_	_	_	_	RuCor_chain_id=442|RuCor_group_id=411799|Shift=70
+10	пирамиду	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=442|RuCor_group_id=411799|RuCor_link_id=0|Shift=82|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=90
+12	возраст	_	_	_	_	_	_	_	Shift=92
+13	которой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=442|RuCor_group_id=411800|RuCor_link_id=411799|Shift=100
+14	составляет	_	_	_	_	_	_	_	Shift=108
+15	около	_	_	_	_	_	_	_	Shift=119
+16	4	_	_	_	_	_	_	_	Shift=125|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=126
+18	6	_	_	_	_	_	_	_	Shift=127
+19	тысячи	_	_	_	_	_	_	_	Shift=129
+20	лет	_	_	_	_	_	_	_	Shift=136|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=139
+22	сообщает	_	_	_	_	_	_	_	Shift=141
+23	LiveScience	_	_	_	_	_	_	_	Shift=150|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=161
+
+# sent_id = 869b762b-7079-4764-9c44-fed3b649f7e1-p1-s2
+# text = Пирамида находится неподалеку от древнего поселения Эдфу (около ста километров к югу от Луксора) и относится к так называемому ``провинциальному'' типу.
+1	Пирамида	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=442|RuCor_group_id=411801|RuCor_link_id=411799|Shift=163
+2	находится	_	_	_	_	_	_	_	Shift=172
+3	неподалеку	_	_	_	_	_	_	_	Shift=182
+4	от	_	_	_	_	_	_	_	Shift=193
+5	древнего	_	_	_	_	_	_	_	RuCor_chain_id=441|RuCor_group_id=411802|Shift=196
+6	поселения	_	_	_	_	_	_	_	RuCor_chain_id=441|RuCor_group_id=411802|Shift=205
+7	Эдфу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=441|RuCor_group_id=411802|RuCor_link_id=0|Shift=215
+8	(	_	_	_	_	_	_	_	Shift=220|SpaceAfter=No
+9	около	_	_	_	_	_	_	_	Shift=221
+10	ста	_	_	_	_	_	_	_	Shift=227
+11	километров	_	_	_	_	_	_	_	Shift=231
+12	к	_	_	_	_	_	_	_	Shift=242
+13	югу	_	_	_	_	_	_	_	Shift=244
+14	от	_	_	_	_	_	_	_	Shift=248
+15	Луксора	_	_	_	_	_	_	_	Shift=251|SpaceAfter=No
+16	)	_	_	_	_	_	_	_	Shift=258
+17	и	_	_	_	_	_	_	_	Shift=260
+18	относится	_	_	_	_	_	_	_	Shift=262
+19	к	_	_	_	_	_	_	_	Shift=272
+20	так	_	_	_	_	_	_	_	Shift=274
+21	называемому	_	_	_	_	_	_	_	Shift=278
+22	``	_	_	_	_	_	_	_	Shift=290|SpaceAfter=No
+23	провинциальному	_	_	_	_	_	_	_	Shift=291|SpaceAfter=No
+24	''	_	_	_	_	_	_	_	Shift=306
+25	типу	_	_	_	_	_	_	_	Shift=308|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=312
+
+# sent_id = 869b762b-7079-4764-9c44-fed3b649f7e1-p1-s3
+# text = По предварительным оценкам, откопанная пирамида на несколько десятилетий старше Великой пирамиды Гизы.
+1	По	_	_	_	_	_	_	_	Shift=314
+2	предварительным	_	_	_	_	_	_	_	Shift=317
+3	оценкам	_	_	_	_	_	_	_	Shift=333|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=340
+5	откопанная	_	_	_	_	_	_	_	RuCor_chain_id=442|RuCor_group_id=411803|Shift=342
+6	пирамида	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=442|RuCor_group_id=411803|RuCor_link_id=411801|Shift=353
+7	на	_	_	_	_	_	_	_	Shift=362
+8	несколько	_	_	_	_	_	_	_	Shift=365
+9	десятилетий	_	_	_	_	_	_	_	Shift=375
+10	старше	_	_	_	_	_	_	_	Shift=387
+11	Великой	_	_	_	_	_	_	_	Shift=394
+12	пирамиды	_	_	_	_	_	_	_	Shift=402
+13	Гизы	_	_	_	_	_	_	_	Shift=411|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=415
+
+# newpar id = 869b762b-7079-4764-9c44-fed3b649f7e1-p2
+# par_text = При постройке ступенчатая пирамида в Эдфу была высотой 13 метров, однако за тысячелетия частично разрушилась. Теперь ее высота не превышает пяти метров. Она является одной из семи известных «провинциальных» пирамид, строившихся при фараоне Хуни (правил в 2635-2610 годах до нашей эры) или при фараоне Снефру (2610-2590 годы до нашей эры). О существовании пирамиды в Эдфу было известно давно, однако работы по ее раскопке были начаты только в 2010 году.
+# sent_id = 869b762b-7079-4764-9c44-fed3b649f7e1-p2-s1
+# text = При постройке ступенчатая пирамида в Эдфу была высотой 13 метров, однако за тысячелетия частично разрушилась.
+1	При	_	_	_	_	_	_	_	Shift=417
+2	постройке	_	_	_	_	_	_	_	Shift=421
+3	ступенчатая	_	_	_	_	_	_	_	RuCor_chain_id=442|RuCor_group_id=411804|Shift=431
+4	пирамида	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=442|RuCor_group_id=411804|RuCor_link_id=411803|Shift=443
+5	в	_	_	_	_	_	_	_	RuCor_chain_id=442|RuCor_group_id=411804|Shift=452
+6	Эдфу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=441|RuCor_group_id=411841|RuCor_link_id=411802|Shift=454
+7	была	_	_	_	_	_	_	_	Shift=459
+8	высотой	_	_	_	_	_	_	_	Shift=464
+9	13	_	_	_	_	_	_	_	Shift=472
+10	метров	_	_	_	_	_	_	_	Shift=475|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=481
+12	однако	_	_	_	_	_	_	_	Shift=483
+13	за	_	_	_	_	_	_	_	Shift=490
+14	тысячелетия	_	_	_	_	_	_	_	Shift=493
+15	частично	_	_	_	_	_	_	_	Shift=505
+16	разрушилась	_	_	_	_	_	_	_	Shift=514|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=525
+
+# sent_id = 869b762b-7079-4764-9c44-fed3b649f7e1-p2-s2
+# text = Теперь ее высота не превышает пяти метров.
+1	Теперь	_	_	_	_	_	_	_	Shift=527
+2	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=442|RuCor_group_id=411805|RuCor_link_id=411804|Shift=534
+3	высота	_	_	_	_	_	_	_	Shift=537
+4	не	_	_	_	_	_	_	_	Shift=544
+5	превышает	_	_	_	_	_	_	_	Shift=547
+6	пяти	_	_	_	_	_	_	_	Shift=557
+7	метров	_	_	_	_	_	_	_	Shift=562|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=568
+
+# sent_id = 869b762b-7079-4764-9c44-fed3b649f7e1-p2-s3
+# text = Она является одной из семи известных ``провинциальных'' пирамид, строившихся при фараоне Хуни (правил в 2635-2610 годах до нашей эры) или при фараоне Снефру (2610-2590 годы до нашей эры).
+1	Она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=442|RuCor_group_id=411806|RuCor_link_id=411805|Shift=570
+2	является	_	_	_	_	_	_	_	Shift=574
+3	одной	_	_	_	_	_	_	_	Shift=583
+4	из	_	_	_	_	_	_	_	Shift=589
+5	семи	_	_	_	_	_	_	_	Shift=592
+6	известных	_	_	_	_	_	_	_	Shift=597
+7	``	_	_	_	_	_	_	_	Shift=607|SpaceAfter=No
+8	провинциальных	_	_	_	_	_	_	_	Shift=608|SpaceAfter=No
+9	''	_	_	_	_	_	_	_	Shift=622
+10	пирамид	_	_	_	_	_	_	_	Shift=624|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=631
+12	строившихся	_	_	_	_	_	_	_	Shift=633
+13	при	_	_	_	_	_	_	_	Shift=645
+14	фараоне	_	_	_	_	_	_	_	Shift=649
+15	Хуни	_	_	_	_	_	_	_	Shift=657
+16	(	_	_	_	_	_	_	_	Shift=662|SpaceAfter=No
+17	правил	_	_	_	_	_	_	_	Shift=663
+18	в	_	_	_	_	_	_	_	Shift=670
+19	2635-2610	_	_	_	_	_	_	_	Shift=672
+20	годах	_	_	_	_	_	_	_	Shift=682
+21	до	_	_	_	_	_	_	_	Shift=688
+22	нашей	_	_	_	_	_	_	_	Shift=691
+23	эры	_	_	_	_	_	_	_	Shift=697|SpaceAfter=No
+24	)	_	_	_	_	_	_	_	Shift=700
+25	или	_	_	_	_	_	_	_	Shift=702
+26	при	_	_	_	_	_	_	_	Shift=706
+27	фараоне	_	_	_	_	_	_	_	Shift=710
+28	Снефру	_	_	_	_	_	_	_	Shift=718
+29	(	_	_	_	_	_	_	_	Shift=725|SpaceAfter=No
+30	2610-2590	_	_	_	_	_	_	_	Shift=726
+31	годы	_	_	_	_	_	_	_	Shift=736
+32	до	_	_	_	_	_	_	_	Shift=741
+33	нашей	_	_	_	_	_	_	_	Shift=744
+34	эры	_	_	_	_	_	_	_	Shift=750|SpaceAfter=No
+35	)	_	_	_	_	_	_	_	Shift=753|SpaceAfter=No
+36	.	_	_	_	_	_	_	_	Shift=754
+
+# sent_id = 869b762b-7079-4764-9c44-fed3b649f7e1-p2-s4
+# text = О существовании пирамиды в Эдфу было известно давно, однако работы по ее раскопке были начаты только в 2010 году.
+1	О	_	_	_	_	_	_	_	Shift=756
+2	существовании	_	_	_	_	_	_	_	Shift=758
+3	пирамиды	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=442|RuCor_group_id=411807|RuCor_link_id=411804|Shift=772
+4	в	_	_	_	_	_	_	_	Shift=781
+5	Эдфу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=441|RuCor_group_id=411842|RuCor_link_id=411802|Shift=783
+6	было	_	_	_	_	_	_	_	Shift=788
+7	известно	_	_	_	_	_	_	_	Shift=793
+8	давно	_	_	_	_	_	_	_	Shift=802|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=807
+10	однако	_	_	_	_	_	_	_	Shift=809
+11	работы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=440|RuCor_group_id=411809|RuCor_link_id=0|Shift=816
+12	по	_	_	_	_	_	_	_	RuCor_chain_id=440|RuCor_group_id=411809|Shift=823
+13	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=442|RuCor_group_id=411808|RuCor_link_id=411807|Shift=826
+14	раскопке	_	_	_	_	_	_	_	RuCor_chain_id=440|RuCor_group_id=411809|Shift=829
+15	были	_	_	_	_	_	_	_	Shift=838
+16	начаты	_	_	_	_	_	_	_	Shift=843
+17	только	_	_	_	_	_	_	_	Shift=850
+18	в	_	_	_	_	_	_	_	Shift=857
+19	2010	_	_	_	_	_	_	_	Shift=859
+20	году	_	_	_	_	_	_	_	Shift=864|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=868
+
+# newpar id = 869b762b-7079-4764-9c44-fed3b649f7e1-p3
+# par_text = Перед началом раскопок пирамида в Эдфу была покрыта толстым слоем песка, мусора и обломков ее же блоков, указывающих на то, что строение подверглось разграблению. Строение состоит из блоков песчаника, соединенных между собой глинистым раствором. Центральные блоки в строении установлены вертикально, в то время как внешние уложены по одной их стороне горизонтально друг на друга. Пирамида является трехступенчатой.
+# sent_id = 869b762b-7079-4764-9c44-fed3b649f7e1-p3-s1
+# text = Перед началом раскопок пирамида в Эдфу была покрыта толстым слоем песка, мусора и обломков ее же блоков, указывающих на то, что строение подверглось разграблению.
+1	Перед	_	_	_	_	_	_	_	Shift=870
+2	началом	_	_	_	_	_	_	_	Shift=876
+3	раскопок	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=440|RuCor_group_id=411810|RuCor_link_id=411809|Shift=884
+4	пирамида	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=442|RuCor_group_id=411811|RuCor_link_id=411808|Shift=893
+5	в	_	_	_	_	_	_	_	RuCor_chain_id=442|RuCor_group_id=411811|Shift=902
+6	Эдфу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=441|RuCor_group_id=411843|RuCor_link_id=411802|Shift=904
+7	была	_	_	_	_	_	_	_	Shift=909
+8	покрыта	_	_	_	_	_	_	_	Shift=914
+9	толстым	_	_	_	_	_	_	_	Shift=922
+10	слоем	_	_	_	_	_	_	_	Shift=930
+11	песка	_	_	_	_	_	_	_	Shift=936|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=941
+13	мусора	_	_	_	_	_	_	_	Shift=943
+14	и	_	_	_	_	_	_	_	Shift=950
+15	обломков	_	_	_	_	_	_	_	Shift=952
+16	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=442|RuCor_group_id=411812|RuCor_link_id=411811|Shift=961
+17	же	_	_	_	_	_	_	_	Shift=964
+18	блоков	_	_	_	_	_	_	_	Shift=967|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=973
+20	указывающих	_	_	_	_	_	_	_	Shift=975
+21	на	_	_	_	_	_	_	_	Shift=987
+22	то	_	_	_	_	_	_	_	Shift=990|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=992
+24	что	_	_	_	_	_	_	_	Shift=994
+25	строение	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=442|RuCor_group_id=411813|RuCor_link_id=411812|Shift=998
+26	подверглось	_	_	_	_	_	_	_	Shift=1007
+27	разграблению	_	_	_	_	_	_	_	Shift=1019|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=1031
+
+# sent_id = 869b762b-7079-4764-9c44-fed3b649f7e1-p3-s2
+# text = Строение состоит из блоков песчаника, соединенных между собой глинистым раствором.
+1	Строение	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=442|RuCor_group_id=411814|RuCor_link_id=411812|Shift=1033
+2	состоит	_	_	_	_	_	_	_	Shift=1042
+3	из	_	_	_	_	_	_	_	Shift=1050
+4	блоков	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=439|RuCor_group_id=411815|RuCor_link_id=0|Shift=1053
+5	песчаника	_	_	_	_	_	_	_	Shift=1060|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1069
+7	соединенных	_	_	_	_	_	_	_	Shift=1071
+8	между	_	_	_	_	_	_	_	Shift=1083
+9	собой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=439|RuCor_group_id=411816|RuCor_link_id=411815|Shift=1089
+10	глинистым	_	_	_	_	_	_	_	Shift=1095
+11	раствором	_	_	_	_	_	_	_	Shift=1105|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=1114
+
+# sent_id = 869b762b-7079-4764-9c44-fed3b649f7e1-p3-s3
+# text = Центральные блоки в строении установлены вертикально, в то время как внешние уложены по одной их стороне горизонтально друг на друга.
+1	Центральные	_	_	_	_	_	_	_	Shift=1116
+2	блоки	_	_	_	_	_	_	_	Shift=1128
+3	в	_	_	_	_	_	_	_	Shift=1134
+4	строении	_	_	_	_	_	_	_	Shift=1136
+5	установлены	_	_	_	_	_	_	_	Shift=1145
+6	вертикально	_	_	_	_	_	_	_	Shift=1157|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=1168
+8	в	_	_	_	_	_	_	_	Shift=1170
+9	то	_	_	_	_	_	_	_	Shift=1172
+10	время	_	_	_	_	_	_	_	Shift=1175
+11	как	_	_	_	_	_	_	_	Shift=1181
+12	внешние	_	_	_	_	_	_	_	Shift=1185
+13	уложены	_	_	_	_	_	_	_	Shift=1193
+14	по	_	_	_	_	_	_	_	Shift=1201
+15	одной	_	_	_	_	_	_	_	Shift=1204
+16	их	_	_	_	_	_	_	_	Shift=1210
+17	стороне	_	_	_	_	_	_	_	Shift=1213
+18	горизонтально	_	_	_	_	_	_	_	Shift=1221
+19	друг	_	_	_	_	_	_	_	Shift=1235
+20	на	_	_	_	_	_	_	_	Shift=1240
+21	друга	_	_	_	_	_	_	_	Shift=1243|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=1248
+
+# sent_id = 869b762b-7079-4764-9c44-fed3b649f7e1-p3-s4
+# text = Пирамида является трехступенчатой.
+1	Пирамида	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=442|RuCor_group_id=411817|RuCor_link_id=411812|Shift=1250
+2	является	_	_	_	_	_	_	_	Shift=1259
+3	трехступенчатой	_	_	_	_	_	_	_	Shift=1268|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=1283
+
+# newpar id = 869b762b-7079-4764-9c44-fed3b649f7e1-p4
+# par_text = По типу своей постройки пирамида в Эдфу аналогична такой же постройке фараона Джосера (правил в 2670-2640 годах до нашей эры). На внешних гранях пирамиды были обнаружены различные изображения, включая рисуночное письмо (свиток, сидящий человек, четырехногое животное, камыш и птица). По мнению археологов, эти надписи касаются захоронений детей, которые расположены у подножия пирамиды. Одна из надписей может означать «хозяйка дома» и указывать на мать одного и захороненных детей.
+# sent_id = 869b762b-7079-4764-9c44-fed3b649f7e1-p4-s1
+# text = По типу своей постройки пирамида в Эдфу аналогична такой же постройке фараона Джосера (правил в 2670-2640 годах до нашей эры).
+1	По	_	_	_	_	_	_	_	Shift=1285
+2	типу	_	_	_	_	_	_	_	Shift=1288
+3	своей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=442|RuCor_group_id=411818|RuCor_link_id=411817|Shift=1293
+4	постройки	_	_	_	_	_	_	_	Shift=1299
+5	пирамида	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=442|RuCor_group_id=411819|RuCor_link_id=411818|Shift=1309
+6	в	_	_	_	_	_	_	_	RuCor_chain_id=442|RuCor_group_id=411819|Shift=1318
+7	Эдфу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=441|RuCor_group_id=411844|RuCor_link_id=411802|Shift=1320
+8	аналогична	_	_	_	_	_	_	_	Shift=1325
+9	такой	_	_	_	_	_	_	_	Shift=1336
+10	же	_	_	_	_	_	_	_	Shift=1342
+11	постройке	_	_	_	_	_	_	_	Shift=1345
+12	фараона	_	_	_	_	_	_	_	Shift=1355
+13	Джосера	_	_	_	_	_	_	_	Shift=1363
+14	(	_	_	_	_	_	_	_	Shift=1371|SpaceAfter=No
+15	правил	_	_	_	_	_	_	_	Shift=1372
+16	в	_	_	_	_	_	_	_	Shift=1379
+17	2670-2640	_	_	_	_	_	_	_	Shift=1381
+18	годах	_	_	_	_	_	_	_	Shift=1391
+19	до	_	_	_	_	_	_	_	Shift=1397
+20	нашей	_	_	_	_	_	_	_	Shift=1400
+21	эры	_	_	_	_	_	_	_	Shift=1406|SpaceAfter=No
+22	)	_	_	_	_	_	_	_	Shift=1409|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=1410
+
+# sent_id = 869b762b-7079-4764-9c44-fed3b649f7e1-p4-s2
+# text = На внешних гранях пирамиды были обнаружены различные изображения, включая рисуночное письмо (свиток, сидящий человек, четырехногое животное, камыш и птица).
+1	На	_	_	_	_	_	_	_	Shift=1412
+2	внешних	_	_	_	_	_	_	_	Shift=1415
+3	гранях	_	_	_	_	_	_	_	Shift=1423
+4	пирамиды	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=442|RuCor_group_id=411820|RuCor_link_id=411819|Shift=1430
+5	были	_	_	_	_	_	_	_	Shift=1439
+6	обнаружены	_	_	_	_	_	_	_	Shift=1444
+7	различные	_	_	_	_	_	_	_	Shift=1455
+8	изображения	_	_	_	_	_	_	_	Shift=1465|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1476
+10	включая	_	_	_	_	_	_	_	Shift=1478
+11	рисуночное	_	_	_	_	_	_	_	RuCor_chain_id=436|RuCor_group_id=411826|Shift=1486
+12	письмо	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=436|RuCor_group_id=411826|RuCor_link_id=0|Shift=1497
+13	(	_	_	_	_	_	_	_	Shift=1504|SpaceAfter=No
+14	свиток	_	_	_	_	_	_	_	Shift=1505|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=1511
+16	сидящий	_	_	_	_	_	_	_	Shift=1513
+17	человек	_	_	_	_	_	_	_	Shift=1521|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=1528
+19	четырехногое	_	_	_	_	_	_	_	Shift=1530
+20	животное	_	_	_	_	_	_	_	Shift=1543|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=1551
+22	камыш	_	_	_	_	_	_	_	Shift=1553
+23	и	_	_	_	_	_	_	_	Shift=1559
+24	птица	_	_	_	_	_	_	_	Shift=1561|SpaceAfter=No
+25	)	_	_	_	_	_	_	_	Shift=1566|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=1567
+
+# sent_id = 869b762b-7079-4764-9c44-fed3b649f7e1-p4-s3
+# text = По мнению археологов, эти надписи касаются захоронений детей, которые расположены у подножия пирамиды.
+1	По	_	_	_	_	_	_	_	Shift=1569
+2	мнению	_	_	_	_	_	_	_	Shift=1572
+3	археологов	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=438|RuCor_group_id=411821|RuCor_link_id=411822|Shift=1579|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1589
+5	эти	_	_	_	_	_	_	_	RuCor_chain_id=436|RuCor_group_id=411827|Shift=1591
+6	надписи	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=436|RuCor_group_id=411827|RuCor_link_id=411826|Shift=1595
+7	касаются	_	_	_	_	_	_	_	Shift=1603
+8	захоронений	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=437|RuCor_group_id=411824|RuCor_link_id=0|Shift=1612
+9	детей	_	_	_	_	_	_	_	RuCor_chain_id=437|RuCor_group_id=411824|Shift=1624|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=1629
+11	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=437|RuCor_group_id=411825|RuCor_link_id=411824|Shift=1631
+12	расположены	_	_	_	_	_	_	_	Shift=1639
+13	у	_	_	_	_	_	_	_	Shift=1651
+14	подножия	_	_	_	_	_	_	_	Shift=1653
+15	пирамиды	_	_	_	_	_	_	_	Shift=1662|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=1670
+
+# sent_id = 869b762b-7079-4764-9c44-fed3b649f7e1-p4-s4
+# text = Одна из надписей может означать ``хозяйка дома'' и указывать на мать одного и захороненных детей.
+1	Одна	_	_	_	_	_	_	_	Shift=1672
+2	из	_	_	_	_	_	_	_	Shift=1677
+3	надписей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=436|RuCor_group_id=411828|RuCor_link_id=411826|Shift=1680
+4	может	_	_	_	_	_	_	_	Shift=1689
+5	означать	_	_	_	_	_	_	_	Shift=1695
+6	``	_	_	_	_	_	_	_	Shift=1704|SpaceAfter=No
+7	хозяйка	_	_	_	_	_	_	_	Shift=1705
+8	дома	_	_	_	_	_	_	_	Shift=1713|SpaceAfter=No
+9	''	_	_	_	_	_	_	_	Shift=1717
+10	и	_	_	_	_	_	_	_	Shift=1719
+11	указывать	_	_	_	_	_	_	_	Shift=1721
+12	на	_	_	_	_	_	_	_	Shift=1731
+13	мать	_	_	_	_	_	_	_	Shift=1734
+14	одного	_	_	_	_	_	_	_	Shift=1739
+15	и	_	_	_	_	_	_	_	Shift=1746
+16	захороненных	_	_	_	_	_	_	_	Shift=1748
+17	детей	_	_	_	_	_	_	_	Shift=1761|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=1766
+
+# newpar id = 869b762b-7079-4764-9c44-fed3b649f7e1-p5
+# par_text = Предназначение «провинциальных» пирамид до конца пока не ясно. Например, они могут быть памятниками, посвященными правящей династии. Шесть из семи известных таких пирамид имеют практически идентичные размеры: 18,4 метра в ширину и 18,6 метра в длину. Внутренних помещений они не имеют и, вероятно, не предназначались для захоронений. Возле восточной стороны пирамиды в Эдфу археологи нашли остатки прилавка, с которого велась торговля едой.
+# sent_id = 869b762b-7079-4764-9c44-fed3b649f7e1-p5-s1
+# text = Предназначение ``провинциальных'' пирамид до конца пока не ясно.
+1	Предназначение	_	_	_	_	_	_	_	Shift=1768
+2	``	_	_	_	_	_	_	_	RuCor_chain_id=435|RuCor_group_id=411829|Shift=1783|SpaceAfter=No
+3	провинциальных	_	_	_	_	_	_	_	RuCor_chain_id=435|RuCor_group_id=411829|Shift=1784|SpaceAfter=No
+4	''	_	_	_	_	_	_	_	RuCor_chain_id=435|RuCor_group_id=411829|Shift=1798
+5	пирамид	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=435|RuCor_group_id=411829|RuCor_link_id=0|Shift=1800
+6	до	_	_	_	_	_	_	_	Shift=1808
+7	конца	_	_	_	_	_	_	_	Shift=1811
+8	пока	_	_	_	_	_	_	_	Shift=1817
+9	не	_	_	_	_	_	_	_	Shift=1822
+10	ясно	_	_	_	_	_	_	_	Shift=1825|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=1829
+
+# sent_id = 869b762b-7079-4764-9c44-fed3b649f7e1-p5-s2
+# text = Например, они могут быть памятниками, посвященными правящей династии.
+1	Например	_	_	_	_	_	_	_	Shift=1831|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=1839
+3	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=435|RuCor_group_id=411830|RuCor_link_id=411829|Shift=1841
+4	могут	_	_	_	_	_	_	_	Shift=1845
+5	быть	_	_	_	_	_	_	_	Shift=1851
+6	памятниками	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=435|RuCor_group_id=411831|RuCor_link_id=411830|Shift=1856|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=1867
+8	посвященными	_	_	_	_	_	_	_	Shift=1869
+9	правящей	_	_	_	_	_	_	_	Shift=1882
+10	династии	_	_	_	_	_	_	_	Shift=1891|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=1899
+
+# sent_id = 869b762b-7079-4764-9c44-fed3b649f7e1-p5-s3
+# text = Шесть из семи известных таких пирамид имеют практически идентичные размеры: 18, 4 метра в ширину и 18, 6 метра в длину.
+1	Шесть	_	_	_	_	_	_	_	RuCor_chain_id=434|RuCor_group_id=411832|Shift=1901
+2	из	_	_	_	_	_	_	_	RuCor_chain_id=434|RuCor_group_id=411832|Shift=1907
+3	семи	_	_	_	_	_	_	_	RuCor_chain_id=434|RuCor_group_id=411832|Shift=1910
+4	известных	_	_	_	_	_	_	_	RuCor_chain_id=434|RuCor_group_id=411832|Shift=1915
+5	таких	_	_	_	_	_	_	_	RuCor_chain_id=434|RuCor_group_id=411832|Shift=1925
+6	пирамид	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=434|RuCor_group_id=411832|RuCor_link_id=0|Shift=1931
+7	имеют	_	_	_	_	_	_	_	Shift=1939
+8	практически	_	_	_	_	_	_	_	Shift=1945
+9	идентичные	_	_	_	_	_	_	_	Shift=1957
+10	размеры	_	_	_	_	_	_	_	Shift=1968|SpaceAfter=No
+11	:	_	_	_	_	_	_	_	Shift=1975
+12	18	_	_	_	_	_	_	_	Shift=1977|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=1979
+14	4	_	_	_	_	_	_	_	Shift=1980
+15	метра	_	_	_	_	_	_	_	Shift=1982
+16	в	_	_	_	_	_	_	_	Shift=1988
+17	ширину	_	_	_	_	_	_	_	Shift=1990
+18	и	_	_	_	_	_	_	_	Shift=1997
+19	18	_	_	_	_	_	_	_	Shift=1999|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=2001
+21	6	_	_	_	_	_	_	_	Shift=2002
+22	метра	_	_	_	_	_	_	_	Shift=2004
+23	в	_	_	_	_	_	_	_	Shift=2010
+24	длину	_	_	_	_	_	_	_	Shift=2012|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=2017
+
+# sent_id = 869b762b-7079-4764-9c44-fed3b649f7e1-p5-s4
+# text = Внутренних помещений они не имеют и, вероятно, не предназначались для захоронений.
+1	Внутренних	_	_	_	_	_	_	_	Shift=2019
+2	помещений	_	_	_	_	_	_	_	Shift=2030
+3	они	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=434|RuCor_group_id=411833|RuCor_link_id=411832|Shift=2040
+4	не	_	_	_	_	_	_	_	Shift=2044
+5	имеют	_	_	_	_	_	_	_	Shift=2047
+6	и	_	_	_	_	_	_	_	Shift=2053|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=2054
+8	вероятно	_	_	_	_	_	_	_	Shift=2056|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=2064
+10	не	_	_	_	_	_	_	_	Shift=2066
+11	предназначались	_	_	_	_	_	_	_	Shift=2069
+12	для	_	_	_	_	_	_	_	Shift=2085
+13	захоронений	_	_	_	_	_	_	_	Shift=2089|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=2100
+
+# sent_id = 869b762b-7079-4764-9c44-fed3b649f7e1-p5-s5
+# text = Возле восточной стороны пирамиды в Эдфу археологи нашли остатки прилавка, с которого велась торговля едой.
+1	Возле	_	_	_	_	_	_	_	Shift=2102
+2	восточной	_	_	_	_	_	_	_	Shift=2108
+3	стороны	_	_	_	_	_	_	_	Shift=2118
+4	пирамиды	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=442|RuCor_group_id=411834|RuCor_link_id=411819|Shift=2126
+5	в	_	_	_	_	_	_	_	RuCor_chain_id=442|RuCor_group_id=411834|Shift=2135
+6	Эдфу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=441|RuCor_group_id=411845|RuCor_link_id=411844|Shift=2137
+7	археологи	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=438|RuCor_group_id=411823|RuCor_link_id=411822|Shift=2142
+8	нашли	_	_	_	_	_	_	_	Shift=2152
+9	остатки	_	_	_	_	_	_	_	Shift=2158
+10	прилавка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=433|RuCor_group_id=411835|RuCor_link_id=0|Shift=2166|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=2174
+12	с	_	_	_	_	_	_	_	Shift=2176
+13	которого	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=433|RuCor_group_id=411836|RuCor_link_id=411835|Shift=2178
+14	велась	_	_	_	_	_	_	_	Shift=2187
+15	торговля	_	_	_	_	_	_	_	Shift=2194
+16	едой	_	_	_	_	_	_	_	Shift=2203|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=2207
+
+# newpar id = 869b762b-7079-4764-9c44-fed3b649f7e1-p6
+# par_text = Любопытно, что надписи на пирамиде и захоронения детей были сделаны уже спустя много лет после ее постройки. Так что, очевидно, изначально она предназначалась для других целей.
+# sent_id = 869b762b-7079-4764-9c44-fed3b649f7e1-p6-s1
+# text = Любопытно, что надписи на пирамиде и захоронения детей были сделаны уже спустя много лет после ее постройки.
+1	Любопытно	_	_	_	_	_	_	_	Shift=2209|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=2218
+3	что	_	_	_	_	_	_	_	Shift=2220
+4	надписи	_	_	_	_	_	_	_	Shift=2224
+5	на	_	_	_	_	_	_	_	Shift=2232
+6	пирамиде	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=442|RuCor_group_id=411837|RuCor_link_id=411817|Shift=2235
+7	и	_	_	_	_	_	_	_	Shift=2244
+8	захоронения	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=437|RuCor_group_id=411838|RuCor_link_id=411824|Shift=2246
+9	детей	_	_	_	_	_	_	_	RuCor_chain_id=437|RuCor_group_id=411838|Shift=2258
+10	были	_	_	_	_	_	_	_	Shift=2264
+11	сделаны	_	_	_	_	_	_	_	Shift=2269
+12	уже	_	_	_	_	_	_	_	Shift=2277
+13	спустя	_	_	_	_	_	_	_	Shift=2281
+14	много	_	_	_	_	_	_	_	Shift=2288
+15	лет	_	_	_	_	_	_	_	Shift=2294
+16	после	_	_	_	_	_	_	_	Shift=2298
+17	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=442|RuCor_group_id=411839|RuCor_link_id=411837|Shift=2304
+18	постройки	_	_	_	_	_	_	_	Shift=2307|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=2316
+
+# sent_id = 869b762b-7079-4764-9c44-fed3b649f7e1-p6-s2
+# text = Так что, очевидно, изначально она предназначалась для других целей.
+1	Так	_	_	_	_	_	_	_	Shift=2318
+2	что	_	_	_	_	_	_	_	Shift=2322|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=2325
+4	очевидно	_	_	_	_	_	_	_	Shift=2327|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=2335
+6	изначально	_	_	_	_	_	_	_	Shift=2337
+7	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=442|RuCor_group_id=411840|RuCor_link_id=411837|Shift=2348
+8	предназначалась	_	_	_	_	_	_	_	Shift=2352
+9	для	_	_	_	_	_	_	_	Shift=2368
+10	других	_	_	_	_	_	_	_	Shift=2372
+11	целей	_	_	_	_	_	_	_	Shift=2379|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	_
+

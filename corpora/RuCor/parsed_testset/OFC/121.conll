@@ -1,0 +1,2261 @@
+# newdoc id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p1
+# par_text = Глава столичного Управления наркоконтроля Вячеслав Давыдов поделился с общественностью новыми планами своего ведомства: в целях борьбы с распространением наркомании генерал-майор хочет, ни много ни мало, закрыть все московские клубы, работающие после полуночи.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p1-s1
+# text = Глава столичного Управления наркоконтроля Вячеслав Давыдов поделился с общественностью новыми планами своего ведомства: в целях борьбы с распространением наркомании генерал-майор хочет, ни много ни мало, закрыть все московские клубы, работающие после полуночи.
+1	Глава	_	_	_	_	_	_	_	RuCor_chain_id=2972|RuCor_group_id=472972|Shift=0
+2	столичного	_	_	_	_	_	_	_	RuCor_chain_id=2973|RuCor_group_id=472973|Shift=6
+3	Управления	_	_	_	_	_	_	_	RuCor_chain_id=2973|RuCor_group_id=472973|Shift=17
+4	наркоконтроля	_	_	_	_	_	_	_	RuCor_chain_id=2973|RuCor_group_id=472973|Shift=28
+5	Вячеслав	_	_	_	_	_	_	_	RuCor_chain_id=2972|RuCor_group_id=472972|Shift=42
+6	Давыдов	_	_	_	_	_	_	_	RuCor_chain_id=2972|RuCor_group_id=472972|Shift=51
+7	поделился	_	_	_	_	_	_	_	Shift=59
+8	с	_	_	_	_	_	_	_	Shift=69
+9	общественностью	_	_	_	_	_	_	_	Shift=71
+10	новыми	_	_	_	_	_	_	_	Shift=87
+11	планами	_	_	_	_	_	_	_	Shift=94
+12	своего	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2973|RuCor_group_id=472975|RuCor_link_id=0|Shift=102
+13	ведомства	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2973|RuCor_group_id=472975|RuCor_link_id=0|Shift=109|SpaceAfter=No
+14	:	_	_	_	_	_	_	_	Shift=118
+15	в	_	_	_	_	_	_	_	Shift=120
+16	целях	_	_	_	_	_	_	_	Shift=122
+17	борьбы	_	_	_	_	_	_	_	Shift=128
+18	с	_	_	_	_	_	_	_	Shift=135
+19	распространением	_	_	_	_	_	_	_	Shift=137
+20	наркомании	_	_	_	_	_	_	_	Shift=154
+21	генерал-майор	_	_	_	_	_	_	_	Shift=165
+22	хочет	_	_	_	_	_	_	_	Shift=179|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=184
+24	ни	_	_	_	_	_	_	_	Shift=186
+25	много	_	_	_	_	_	_	_	Shift=189
+26	ни	_	_	_	_	_	_	_	Shift=195
+27	мало	_	_	_	_	_	_	_	Shift=198|SpaceAfter=No
+28	,	_	_	_	_	_	_	_	Shift=202
+29	закрыть	_	_	_	_	_	_	_	Shift=204
+30	все	_	_	_	_	_	_	_	RuCor_chain_id=2974|RuCor_group_id=472977|Shift=212
+31	московские	_	_	_	_	_	_	_	RuCor_chain_id=2974|RuCor_group_id=472977|Shift=216
+32	клубы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2974|RuCor_group_id=472977|RuCor_link_id=0|Shift=227|SpaceAfter=No
+33	,	_	_	_	_	_	_	_	RuCor_chain_id=2974|RuCor_group_id=472977|Shift=232
+34	работающие	_	_	_	_	_	_	_	RuCor_chain_id=2974|RuCor_group_id=472977|Shift=234
+35	после	_	_	_	_	_	_	_	RuCor_chain_id=2974|RuCor_group_id=472977|Shift=245
+36	полуночи	_	_	_	_	_	_	_	RuCor_chain_id=2974|RuCor_group_id=472977|Shift=251|SpaceAfter=No
+37	.	_	_	_	_	_	_	_	Shift=259
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p2
+# par_text = «Непонятно, почему молодёжь именно ночью проводит своё время, почему бы не сделать (время работы ночных клубов) с 7 вечера до 12», — заявил Давыдов.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p2-s1
+# text = ``Непонятно, почему молодёжь именно ночью проводит своё время, почему бы не сделать (время работы ночных клубов) с 7 вечера до 12'', - заявил Давыдов.
+1	``	_	_	_	_	_	_	_	Shift=261|SpaceAfter=No
+2	Непонятно	_	_	_	_	_	_	_	Shift=262|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=271
+4	почему	_	_	_	_	_	_	_	Shift=273
+5	молодёжь	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2975|RuCor_group_id=472978|RuCor_link_id=0|Shift=280
+6	именно	_	_	_	_	_	_	_	Shift=289
+7	ночью	_	_	_	_	_	_	_	Shift=296
+8	проводит	_	_	_	_	_	_	_	Shift=302
+9	своё	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=2975|RuCor_group_id=472979|RuCor_link_id=472978|Shift=311
+10	время	_	_	_	_	_	_	_	Shift=316|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=321
+12	почему	_	_	_	_	_	_	_	Shift=323
+13	бы	_	_	_	_	_	_	_	Shift=330
+14	не	_	_	_	_	_	_	_	Shift=333
+15	сделать	_	_	_	_	_	_	_	Shift=336
+16	(	_	_	_	_	_	_	_	Shift=344|SpaceAfter=No
+17	время	_	_	_	_	_	_	_	Shift=345
+18	работы	_	_	_	_	_	_	_	Shift=351
+19	ночных	_	_	_	_	_	_	_	Shift=358
+20	клубов	_	_	_	_	_	_	_	Shift=365|SpaceAfter=No
+21	)	_	_	_	_	_	_	_	Shift=371
+22	с	_	_	_	_	_	_	_	Shift=373
+23	7	_	_	_	_	_	_	_	Shift=375
+24	вечера	_	_	_	_	_	_	_	Shift=377
+25	до	_	_	_	_	_	_	_	Shift=384
+26	12	_	_	_	_	_	_	_	Shift=387|SpaceAfter=No
+27	''	_	_	_	_	_	_	_	Shift=389|SpaceAfter=No
+28	,	_	_	_	_	_	_	_	Shift=390
+29	-	_	_	_	_	_	_	_	Shift=392
+30	заявил	_	_	_	_	_	_	_	Shift=394
+31	Давыдов	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2972|RuCor_group_id=472980|RuCor_link_id=472976|Shift=401|SpaceAfter=No
+32	.	_	_	_	_	_	_	_	Shift=408
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p3
+# par_text = Каким образом изменение работы клубов повлияет на борьбу с наркоманией, неясно.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p3-s1
+# text = Каким образом изменение работы клубов повлияет на борьбу с наркоманией, неясно.
+1	Каким	_	_	_	_	_	_	_	Shift=410
+2	образом	_	_	_	_	_	_	_	Shift=416
+3	изменение	_	_	_	_	_	_	_	Shift=424
+4	работы	_	_	_	_	_	_	_	Shift=434
+5	клубов	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2974|RuCor_group_id=472981|RuCor_link_id=472977|Shift=441
+6	повлияет	_	_	_	_	_	_	_	Shift=448
+7	на	_	_	_	_	_	_	_	Shift=457
+8	борьбу	_	_	_	_	_	_	_	Shift=460
+9	с	_	_	_	_	_	_	_	Shift=467
+10	наркоманией	_	_	_	_	_	_	_	Shift=469|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=480
+12	неясно	_	_	_	_	_	_	_	Shift=482|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=488
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p4
+# par_text = И ведь не всякому нейрохирургу придёт идея лечить мозг через межседалищное отверстие.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p4-s1
+# text = И ведь не всякому нейрохирургу придёт идея лечить мозг через межседалищное отверстие.
+1	И	_	_	_	_	_	_	_	Shift=490
+2	ведь	_	_	_	_	_	_	_	Shift=492
+3	не	_	_	_	_	_	_	_	Shift=497
+4	всякому	_	_	_	_	_	_	_	Shift=500
+5	нейрохирургу	_	_	_	_	_	_	_	Shift=508
+6	придёт	_	_	_	_	_	_	_	Shift=521
+7	идея	_	_	_	_	_	_	_	Shift=528
+8	лечить	_	_	_	_	_	_	_	Shift=533
+9	мозг	_	_	_	_	_	_	_	Shift=540
+10	через	_	_	_	_	_	_	_	Shift=545
+11	межседалищное	_	_	_	_	_	_	_	Shift=551
+12	отверстие	_	_	_	_	_	_	_	Shift=565|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=574
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p5
+# par_text = Как может изменить привычки наркомана отсутствие мест, где взрослые люди собираются, чтоб пообщаться, потанцевать, скинуть накопившееся напряжение: забыть на некоторое время о непогашенном кредите, отчётах начальству, выяснению отношений с близкими и не очень людьми; неполученной медали за заслуги перед отечеством, высшем образовании, уплывшим из-под носа контрактом — словом, скинуть то, что ежедневно тяготит, отдавшись воле ритмов и энергий.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p5-s1
+# text = Как может изменить привычки наркомана отсутствие мест, где взрослые люди собираются, чтоб пообщаться, потанцевать, скинуть накопившееся напряжение: забыть на некоторое время о непогашенном кредите, отчётах начальству, выяснению отношений с близкими и не очень людьми.
+1	Как	_	_	_	_	_	_	_	Shift=576
+2	может	_	_	_	_	_	_	_	Shift=580
+3	изменить	_	_	_	_	_	_	_	Shift=586
+4	привычки	_	_	_	_	_	_	_	Shift=595
+5	наркомана	_	_	_	_	_	_	_	Shift=604
+6	отсутствие	_	_	_	_	_	_	_	Shift=614
+7	мест	_	_	_	_	_	_	_	Shift=625|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=629
+9	где	_	_	_	_	_	_	_	Shift=631
+10	взрослые	_	_	_	_	_	_	_	Shift=635
+11	люди	_	_	_	_	_	_	_	Shift=644
+12	собираются	_	_	_	_	_	_	_	Shift=649|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=659
+14	чтоб	_	_	_	_	_	_	_	Shift=661
+15	пообщаться	_	_	_	_	_	_	_	Shift=666|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=676
+17	потанцевать	_	_	_	_	_	_	_	Shift=678|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=689
+19	скинуть	_	_	_	_	_	_	_	Shift=691
+20	накопившееся	_	_	_	_	_	_	_	Shift=699
+21	напряжение	_	_	_	_	_	_	_	Shift=712|SpaceAfter=No
+22	:	_	_	_	_	_	_	_	Shift=722
+23	забыть	_	_	_	_	_	_	_	Shift=724
+24	на	_	_	_	_	_	_	_	Shift=731
+25	некоторое	_	_	_	_	_	_	_	Shift=734
+26	время	_	_	_	_	_	_	_	Shift=744
+27	о	_	_	_	_	_	_	_	Shift=750
+28	непогашенном	_	_	_	_	_	_	_	Shift=752
+29	кредите	_	_	_	_	_	_	_	Shift=765|SpaceAfter=No
+30	,	_	_	_	_	_	_	_	Shift=772
+31	отчётах	_	_	_	_	_	_	_	Shift=774
+32	начальству	_	_	_	_	_	_	_	Shift=782|SpaceAfter=No
+33	,	_	_	_	_	_	_	_	Shift=792
+34	выяснению	_	_	_	_	_	_	_	Shift=794
+35	отношений	_	_	_	_	_	_	_	Shift=804
+36	с	_	_	_	_	_	_	_	Shift=814
+37	близкими	_	_	_	_	_	_	_	Shift=816
+38	и	_	_	_	_	_	_	_	Shift=825
+39	не	_	_	_	_	_	_	_	Shift=827
+40	очень	_	_	_	_	_	_	_	Shift=830
+41	людьми	_	_	_	_	_	_	_	Shift=836|SpaceAfter=No
+42	.	_	_	_	_	_	_	_	Shift=842
+
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p5-s2
+# text = неполученной медали за заслуги перед отечеством, высшем образовании, уплывшим из-под носа контрактом - словом, скинуть то, что ежедневно тяготит, отдавшись воле ритмов и энергий.
+1	неполученной	_	_	_	_	_	_	_	Shift=844
+2	медали	_	_	_	_	_	_	_	Shift=857
+3	за	_	_	_	_	_	_	_	Shift=864
+4	заслуги	_	_	_	_	_	_	_	Shift=867
+5	перед	_	_	_	_	_	_	_	Shift=875
+6	отечеством	_	_	_	_	_	_	_	Shift=881|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=891
+8	высшем	_	_	_	_	_	_	_	Shift=893
+9	образовании	_	_	_	_	_	_	_	Shift=900|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=911
+11	уплывшим	_	_	_	_	_	_	_	Shift=913
+12	из-под	_	_	_	_	_	_	_	Shift=922
+13	носа	_	_	_	_	_	_	_	Shift=929
+14	контрактом	_	_	_	_	_	_	_	Shift=934
+15	-	_	_	_	_	_	_	_	Shift=945
+16	словом	_	_	_	_	_	_	_	Shift=947|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=953
+18	скинуть	_	_	_	_	_	_	_	Shift=955
+19	то	_	_	_	_	_	_	_	Shift=963|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=965
+21	что	_	_	_	_	_	_	_	Shift=967
+22	ежедневно	_	_	_	_	_	_	_	Shift=971
+23	тяготит	_	_	_	_	_	_	_	Shift=981|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=988
+25	отдавшись	_	_	_	_	_	_	_	Shift=990
+26	воле	_	_	_	_	_	_	_	Shift=1000
+27	ритмов	_	_	_	_	_	_	_	Shift=1005
+28	и	_	_	_	_	_	_	_	Shift=1012
+29	энергий	_	_	_	_	_	_	_	Shift=1014|SpaceAfter=No
+30	.	_	_	_	_	_	_	_	Shift=1021
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p6
+# par_text = И главное, совершенно непонятно, при чём тут наркоманы?
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p6-s1
+# text = И главное, совершенно непонятно, при чём тут наркоманы?
+1	И	_	_	_	_	_	_	_	Shift=1023
+2	главное	_	_	_	_	_	_	_	Shift=1025|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1032
+4	совершенно	_	_	_	_	_	_	_	Shift=1034
+5	непонятно	_	_	_	_	_	_	_	Shift=1045|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1054
+7	при	_	_	_	_	_	_	_	Shift=1056
+8	чём	_	_	_	_	_	_	_	Shift=1060
+9	тут	_	_	_	_	_	_	_	Shift=1064
+10	наркоманы	_	_	_	_	_	_	_	Shift=1068|SpaceAfter=No
+11	?	_	_	_	_	_	_	_	Shift=1077
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p7
+# par_text = Разумеется, никто не собирается утверждать, что ни в одном московском ночном заведении не торгуют наркотиками.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p7-s1
+# text = Разумеется, никто не собирается утверждать, что ни в одном московском ночном заведении не торгуют наркотиками.
+1	Разумеется	_	_	_	_	_	_	_	Shift=1079|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=1089
+3	никто	_	_	_	_	_	_	_	Shift=1091
+4	не	_	_	_	_	_	_	_	Shift=1097
+5	собирается	_	_	_	_	_	_	_	Shift=1100
+6	утверждать	_	_	_	_	_	_	_	Shift=1111|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=1121
+8	что	_	_	_	_	_	_	_	Shift=1123
+9	ни	_	_	_	_	_	_	_	Shift=1127
+10	в	_	_	_	_	_	_	_	Shift=1130
+11	одном	_	_	_	_	_	_	_	Shift=1132
+12	московском	_	_	_	_	_	_	_	RuCor_chain_id=2974|RuCor_group_id=472983|Shift=1138
+13	ночном	_	_	_	_	_	_	_	RuCor_chain_id=2974|RuCor_group_id=472983|Shift=1149
+14	заведении	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2974|RuCor_group_id=472983|RuCor_link_id=472977|Shift=1156
+15	не	_	_	_	_	_	_	_	Shift=1166
+16	торгуют	_	_	_	_	_	_	_	Shift=1169
+17	наркотиками	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2977|RuCor_group_id=472984|RuCor_link_id=0|Shift=1177|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=1188
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p8
+# par_text = Но утверждать, что ими торгуют в ста процентах из них, тоже абсурдно.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p8-s1
+# text = Но утверждать, что ими торгуют в ста процентах из них, тоже абсурдно.
+1	Но	_	_	_	_	_	_	_	Shift=1190
+2	утверждать	_	_	_	_	_	_	_	Shift=1193|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1203
+4	что	_	_	_	_	_	_	_	Shift=1205
+5	ими	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2977|RuCor_group_id=472985|RuCor_link_id=472984|Shift=1209
+6	торгуют	_	_	_	_	_	_	_	Shift=1213
+7	в	_	_	_	_	_	_	_	Shift=1221
+8	ста	_	_	_	_	_	_	_	Shift=1223
+9	процентах	_	_	_	_	_	_	_	Shift=1227
+10	из	_	_	_	_	_	_	_	Shift=1237
+11	них	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2974|RuCor_group_id=472986|RuCor_link_id=472983|Shift=1240|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=1243
+13	тоже	_	_	_	_	_	_	_	Shift=1245
+14	абсурдно	_	_	_	_	_	_	_	Shift=1250|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=1258
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p9
+# par_text = В конце концов это работа Государственного управления по контролю за незаконным оборотом наркотиков: находить очаги распространения зла и локализовывать их.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p9-s1
+# text = В конце концов это работа Государственного управления по контролю за незаконным оборотом наркотиков: находить очаги распространения зла и локализовывать их.
+1	В	_	_	_	_	_	_	_	Shift=1260
+2	конце	_	_	_	_	_	_	_	Shift=1262
+3	концов	_	_	_	_	_	_	_	Shift=1268
+4	это	_	_	_	_	_	_	_	Shift=1275
+5	работа	_	_	_	_	_	_	_	Shift=1279
+6	Государственного	_	_	_	_	_	_	_	Shift=1286
+7	управления	_	_	_	_	_	_	_	Shift=1303
+8	по	_	_	_	_	_	_	_	Shift=1314
+9	контролю	_	_	_	_	_	_	_	Shift=1317
+10	за	_	_	_	_	_	_	_	Shift=1326
+11	незаконным	_	_	_	_	_	_	_	Shift=1329
+12	оборотом	_	_	_	_	_	_	_	Shift=1340
+13	наркотиков	_	_	_	_	_	_	_	Shift=1349|SpaceAfter=No
+14	:	_	_	_	_	_	_	_	Shift=1359
+15	находить	_	_	_	_	_	_	_	Shift=1361
+16	очаги	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2978|RuCor_group_id=472988|RuCor_link_id=0|Shift=1370
+17	распространения	_	_	_	_	_	_	_	RuCor_chain_id=2978|RuCor_group_id=472988|Shift=1376
+18	зла	_	_	_	_	_	_	_	RuCor_chain_id=2978|RuCor_group_id=472988|Shift=1392
+19	и	_	_	_	_	_	_	_	Shift=1396
+20	локализовывать	_	_	_	_	_	_	_	Shift=1398
+21	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2978|RuCor_group_id=472989|RuCor_link_id=472988|Shift=1413|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=1415
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p10
+# par_text = Закрывать одну дыру в надежде на то, что другая не образуется, довольно-таки наивно.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p10-s1
+# text = Закрывать одну дыру в надежде на то, что другая не образуется, довольно-таки наивно.
+1	Закрывать	_	_	_	_	_	_	_	Shift=1417
+2	одну	_	_	_	_	_	_	_	Shift=1427
+3	дыру	_	_	_	_	_	_	_	Shift=1432
+4	в	_	_	_	_	_	_	_	Shift=1437
+5	надежде	_	_	_	_	_	_	_	Shift=1439
+6	на	_	_	_	_	_	_	_	Shift=1447
+7	то	_	_	_	_	_	_	_	Shift=1450|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1452
+9	что	_	_	_	_	_	_	_	Shift=1454
+10	другая	_	_	_	_	_	_	_	Shift=1458
+11	не	_	_	_	_	_	_	_	Shift=1465
+12	образуется	_	_	_	_	_	_	_	Shift=1468|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=1478
+14	довольно-таки	_	_	_	_	_	_	_	Shift=1480
+15	наивно	_	_	_	_	_	_	_	Shift=1494|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=1500
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p11
+# par_text = Образуется, причём скоро.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p11-s1
+# text = Образуется, причём скоро.
+1	Образуется	_	_	_	_	_	_	_	Shift=1502|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=1512
+3	причём	_	_	_	_	_	_	_	Shift=1514
+4	скоро	_	_	_	_	_	_	_	Shift=1521|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=1526
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p12
+# par_text = Неужели господин Давыдов в самом деле не знает, в чём конкретно заключается причина неэффективности борьбы с наркоманией и запретительных мер в частности?
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p12-s1
+# text = Неужели господин Давыдов в самом деле не знает, в чём конкретно заключается причина неэффективности борьбы с наркоманией и запретительных мер в частности?
+1	Неужели	_	_	_	_	_	_	_	Shift=1528
+2	господин	_	_	_	_	_	_	_	RuCor_chain_id=2972|RuCor_group_id=472990|Shift=1536
+3	Давыдов	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2972|RuCor_group_id=472990|RuCor_link_id=472980|Shift=1545
+4	в	_	_	_	_	_	_	_	Shift=1553
+5	самом	_	_	_	_	_	_	_	Shift=1555
+6	деле	_	_	_	_	_	_	_	Shift=1561
+7	не	_	_	_	_	_	_	_	Shift=1566
+8	знает	_	_	_	_	_	_	_	Shift=1569|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1574
+10	в	_	_	_	_	_	_	_	Shift=1576
+11	чём	_	_	_	_	_	_	_	Shift=1578
+12	конкретно	_	_	_	_	_	_	_	Shift=1582
+13	заключается	_	_	_	_	_	_	_	Shift=1592
+14	причина	_	_	_	_	_	_	_	Shift=1604
+15	неэффективности	_	_	_	_	_	_	_	Shift=1612
+16	борьбы	_	_	_	_	_	_	_	Shift=1628
+17	с	_	_	_	_	_	_	_	Shift=1635
+18	наркоманией	_	_	_	_	_	_	_	Shift=1637
+19	и	_	_	_	_	_	_	_	Shift=1649
+20	запретительных	_	_	_	_	_	_	_	Shift=1651
+21	мер	_	_	_	_	_	_	_	Shift=1666
+22	в	_	_	_	_	_	_	_	Shift=1670
+23	частности	_	_	_	_	_	_	_	Shift=1672|SpaceAfter=No
+24	?	_	_	_	_	_	_	_	Shift=1681
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p13
+# par_text = Вот, скажем, коррупцию и казнокрадство сколько ни запрещай, сколько ни ужесточай меры по борьбе с этим социальным недугом — только хуже.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p13-s1
+# text = Вот, скажем, коррупцию и казнокрадство сколько ни запрещай, сколько ни ужесточай меры по борьбе с этим социальным недугом - только хуже.
+1	Вот	_	_	_	_	_	_	_	Shift=1683|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=1686
+3	скажем	_	_	_	_	_	_	_	Shift=1688|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1694
+5	коррупцию	_	_	_	_	_	_	_	Shift=1696
+6	и	_	_	_	_	_	_	_	Shift=1706
+7	казнокрадство	_	_	_	_	_	_	_	Shift=1708
+8	сколько	_	_	_	_	_	_	_	Shift=1722
+9	ни	_	_	_	_	_	_	_	Shift=1730
+10	запрещай	_	_	_	_	_	_	_	Shift=1733|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=1741
+12	сколько	_	_	_	_	_	_	_	Shift=1743
+13	ни	_	_	_	_	_	_	_	Shift=1751
+14	ужесточай	_	_	_	_	_	_	_	Shift=1754
+15	меры	_	_	_	_	_	_	_	Shift=1764
+16	по	_	_	_	_	_	_	_	Shift=1769
+17	борьбе	_	_	_	_	_	_	_	Shift=1772
+18	с	_	_	_	_	_	_	_	Shift=1779
+19	этим	_	_	_	_	_	_	_	Shift=1781
+20	социальным	_	_	_	_	_	_	_	Shift=1786
+21	недугом	_	_	_	_	_	_	_	Shift=1797
+22	-	_	_	_	_	_	_	_	Shift=1805
+23	только	_	_	_	_	_	_	_	Shift=1807
+24	хуже	_	_	_	_	_	_	_	Shift=1814|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=1818
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p14
+# par_text = Может быть, запретить чиновничий аппарат?
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p14-s1
+# text = Может быть, запретить чиновничий аппарат?
+1	Может	_	_	_	_	_	_	_	Shift=1820
+2	быть	_	_	_	_	_	_	_	Shift=1826|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1830
+4	запретить	_	_	_	_	_	_	_	Shift=1832
+5	чиновничий	_	_	_	_	_	_	_	Shift=1842
+6	аппарат	_	_	_	_	_	_	_	Shift=1853|SpaceAfter=No
+7	?	_	_	_	_	_	_	_	Shift=1860
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p15
+# par_text = Потому что ведь и головы рубили, и в Сибирь ссылали, и врагами народа назначали — всё божья роса.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p15-s1
+# text = Потому что ведь и головы рубили, и в Сибирь ссылали, и врагами народа назначали - всё божья роса.
+1	Потому	_	_	_	_	_	_	_	Shift=1862
+2	что	_	_	_	_	_	_	_	Shift=1869
+3	ведь	_	_	_	_	_	_	_	Shift=1873
+4	и	_	_	_	_	_	_	_	Shift=1878
+5	головы	_	_	_	_	_	_	_	Shift=1880
+6	рубили	_	_	_	_	_	_	_	Shift=1887|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=1893
+8	и	_	_	_	_	_	_	_	Shift=1895
+9	в	_	_	_	_	_	_	_	Shift=1897
+10	Сибирь	_	_	_	_	_	_	_	Shift=1899
+11	ссылали	_	_	_	_	_	_	_	Shift=1906|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=1913
+13	и	_	_	_	_	_	_	_	Shift=1915
+14	врагами	_	_	_	_	_	_	_	Shift=1917
+15	народа	_	_	_	_	_	_	_	Shift=1925
+16	назначали	_	_	_	_	_	_	_	Shift=1932
+17	-	_	_	_	_	_	_	_	Shift=1942
+18	всё	_	_	_	_	_	_	_	Shift=1944
+19	божья	_	_	_	_	_	_	_	Shift=1948
+20	роса	_	_	_	_	_	_	_	Shift=1954|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=1958
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p16
+# par_text = xemyjlb:
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p16-s1
+# text = xemyjlb:
+1	xemyjlb	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2979|RuCor_group_id=472991|RuCor_link_id=0|Shift=1960|SpaceAfter=No
+2	:	_	_	_	_	_	_	_	Shift=1967
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p17
+# par_text = «А типа до 24:00 наркотики не продают?
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p17-s1
+# text = ``А типа до 24:00 наркотики не продают?
+1	``	_	_	_	_	_	_	_	Shift=1969|SpaceAfter=No
+2	А	_	_	_	_	_	_	_	Shift=1970
+3	типа	_	_	_	_	_	_	_	Shift=1972
+4	до	_	_	_	_	_	_	_	Shift=1977
+5	24:00	_	_	_	_	_	_	_	Shift=1980
+6	наркотики	_	_	_	_	_	_	_	Shift=1986
+7	не	_	_	_	_	_	_	_	Shift=1996
+8	продают	_	_	_	_	_	_	_	Shift=1999|SpaceAfter=No
+9	?	_	_	_	_	_	_	_	Shift=2006
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p18
+# par_text = Лучше бы за подчинёнными следил, которые крышуют барыг.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p18-s1
+# text = Лучше бы за подчинёнными следил, которые крышуют барыг.
+1	Лучше	_	_	_	_	_	_	_	Shift=2008
+2	бы	_	_	_	_	_	_	_	Shift=2014
+3	за	_	_	_	_	_	_	_	Shift=2017
+4	подчинёнными	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2980|RuCor_group_id=472992|RuCor_link_id=0|Shift=2020
+5	следил	_	_	_	_	_	_	_	Shift=2033|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=2039
+7	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2980|RuCor_group_id=472993|RuCor_link_id=472992|Shift=2041
+8	крышуют	_	_	_	_	_	_	_	Shift=2049
+9	барыг	_	_	_	_	_	_	_	Shift=2057|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=2062
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p19
+# par_text = Хотя смысла отдыха в ночных клубах я не вижу».
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p19-s1
+# text = Хотя смысла отдыха в ночных клубах я не вижу''.
+1	Хотя	_	_	_	_	_	_	_	Shift=2064
+2	смысла	_	_	_	_	_	_	_	Shift=2069
+3	отдыха	_	_	_	_	_	_	_	Shift=2076
+4	в	_	_	_	_	_	_	_	Shift=2083
+5	ночных	_	_	_	_	_	_	_	Shift=2085
+6	клубах	_	_	_	_	_	_	_	Shift=2092
+7	я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2979|RuCor_group_id=472994|RuCor_link_id=472991|Shift=2099
+8	не	_	_	_	_	_	_	_	Shift=2101
+9	вижу	_	_	_	_	_	_	_	Shift=2104|SpaceAfter=No
+10	''	_	_	_	_	_	_	_	Shift=2108|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=2109
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p20
+# par_text = kn0pkaaaa:
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p20-s1
+# text = kn0pkaaaa:
+1	kn0pkaaaa	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2981|RuCor_group_id=472995|RuCor_link_id=0|Shift=2111|SpaceAfter=No
+2	:	_	_	_	_	_	_	_	Shift=2120
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p21
+# par_text = «Хаха! Закроют клубы, откроют что-нибудь ещё.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p21-s1
+# text = ``Хаха!
+1	``	_	_	_	_	_	_	_	Shift=2122|SpaceAfter=No
+2	Хаха	_	_	_	_	_	_	_	Shift=2123|SpaceAfter=No
+3	!	_	_	_	_	_	_	_	Shift=2127
+
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p21-s2
+# text = Закроют клубы, откроют что-нибудь ещё.
+1	Закроют	_	_	_	_	_	_	_	Shift=2129
+2	клубы	_	_	_	_	_	_	_	Shift=2137|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=2142
+4	откроют	_	_	_	_	_	_	_	Shift=2144
+5	что-нибудь	_	_	_	_	_	_	_	Shift=2152
+6	ещё	_	_	_	_	_	_	_	Shift=2163|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=2166
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p22
+# par_text = Кто захочет запорошить свой мозг, тот всегда найдёт возможность это сделать.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p22-s1
+# text = Кто захочет запорошить свой мозг, тот всегда найдёт возможность это сделать.
+1	Кто	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2982|RuCor_group_id=472996|RuCor_link_id=0|Shift=2168
+2	захочет	_	_	_	_	_	_	_	Shift=2172
+3	запорошить	_	_	_	_	_	_	_	Shift=2180
+4	свой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=2982|RuCor_group_id=472998|RuCor_link_id=472996|Shift=2191
+5	мозг	_	_	_	_	_	_	_	Shift=2196|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=2200
+7	тот	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2983|RuCor_group_id=472999|RuCor_link_id=472997|Shift=2202
+8	всегда	_	_	_	_	_	_	_	Shift=2206
+9	найдёт	_	_	_	_	_	_	_	Shift=2213
+10	возможность	_	_	_	_	_	_	_	Shift=2220
+11	это	_	_	_	_	_	_	_	Shift=2232
+12	сделать	_	_	_	_	_	_	_	Shift=2236|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=2243
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p23
+# par_text = Мне вообще очень нравятся граждане, которые считают, что в ночных клубах каждый второй — наркодилер.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p23-s1
+# text = Мне вообще очень нравятся граждане, которые считают, что в ночных клубах каждый второй - наркодилер.
+1	Мне	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2981|RuCor_group_id=473000|RuCor_link_id=472995|Shift=2245
+2	вообще	_	_	_	_	_	_	_	Shift=2249
+3	очень	_	_	_	_	_	_	_	Shift=2256
+4	нравятся	_	_	_	_	_	_	_	Shift=2262
+5	граждане	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2984|RuCor_group_id=473001|RuCor_link_id=0|Shift=2271|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=2279
+7	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2984|RuCor_group_id=473002|RuCor_link_id=473001|Shift=2281
+8	считают	_	_	_	_	_	_	_	Shift=2289|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=2296
+10	что	_	_	_	_	_	_	_	Shift=2298
+11	в	_	_	_	_	_	_	_	Shift=2302
+12	ночных	_	_	_	_	_	_	_	Shift=2304
+13	клубах	_	_	_	_	_	_	_	Shift=2311
+14	каждый	_	_	_	_	_	_	_	Shift=2318
+15	второй	_	_	_	_	_	_	_	Shift=2325
+16	-	_	_	_	_	_	_	_	Shift=2332
+17	наркодилер	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2985|RuCor_group_id=473003|RuCor_link_id=0|Shift=2334|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=2344
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p24
+# par_text = А в туалете, как бабки возле рынка они расставляют раскладушки, кладут сверху фанерку и выкладывают весь свой ассортимент».
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p24-s1
+# text = А в туалете, как бабки возле рынка они расставляют раскладушки, кладут сверху фанерку и выкладывают весь свой ассортимент''.
+1	А	_	_	_	_	_	_	_	Shift=2346
+2	в	_	_	_	_	_	_	_	Shift=2348
+3	туалете	_	_	_	_	_	_	_	Shift=2350|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2357
+5	как	_	_	_	_	_	_	_	Shift=2359
+6	бабки	_	_	_	_	_	_	_	Shift=2363
+7	возле	_	_	_	_	_	_	_	Shift=2369
+8	рынка	_	_	_	_	_	_	_	Shift=2375
+9	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2985|RuCor_group_id=473004|RuCor_link_id=473003|Shift=2381
+10	расставляют	_	_	_	_	_	_	_	Shift=2385
+11	раскладушки	_	_	_	_	_	_	_	Shift=2397|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=2408
+13	кладут	_	_	_	_	_	_	_	Shift=2410
+14	сверху	_	_	_	_	_	_	_	Shift=2417
+15	фанерку	_	_	_	_	_	_	_	Shift=2424
+16	и	_	_	_	_	_	_	_	Shift=2432
+17	выкладывают	_	_	_	_	_	_	_	Shift=2434
+18	весь	_	_	_	_	_	_	_	Shift=2446
+19	свой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=2985|RuCor_group_id=473006|RuCor_link_id=473004|Shift=2451
+20	ассортимент	_	_	_	_	_	_	_	Shift=2456|SpaceAfter=No
+21	''	_	_	_	_	_	_	_	Shift=2467|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=2468
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p25
+# par_text = egr07:
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p25-s1
+# text = egr07:
+1	egr07	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2986|RuCor_group_id=473008|RuCor_link_id=0|Shift=2470|SpaceAfter=No
+2	:	_	_	_	_	_	_	_	Shift=2475
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p26
+# par_text = «Предлагаю закрывать границу с афганистаном и таджикистаном с 21.00 и до 09.00, и наркотики исчезнут из России!
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p26-s1
+# text = ``Предлагаю закрывать границу с афганистаном и таджикистаном с 21.00 и до 09.00, и наркотики исчезнут из России!
+1	``	_	_	_	_	_	_	_	Shift=2477|SpaceAfter=No
+2	Предлагаю	_	_	_	_	_	_	_	Shift=2478
+3	закрывать	_	_	_	_	_	_	_	Shift=2488
+4	границу	_	_	_	_	_	_	_	Shift=2498
+5	с	_	_	_	_	_	_	_	Shift=2506
+6	афганистаном	_	_	_	_	_	_	_	Shift=2508
+7	и	_	_	_	_	_	_	_	Shift=2521
+8	таджикистаном	_	_	_	_	_	_	_	Shift=2523
+9	с	_	_	_	_	_	_	_	Shift=2537
+10	21.00	_	_	_	_	_	_	_	Shift=2539
+11	и	_	_	_	_	_	_	_	Shift=2545
+12	до	_	_	_	_	_	_	_	Shift=2547
+13	09.00	_	_	_	_	_	_	_	Shift=2550|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=2555
+15	и	_	_	_	_	_	_	_	Shift=2557
+16	наркотики	_	_	_	_	_	_	_	Shift=2559
+17	исчезнут	_	_	_	_	_	_	_	Shift=2569
+18	из	_	_	_	_	_	_	_	Shift=2578
+19	России	_	_	_	_	_	_	_	Shift=2581|SpaceAfter=No
+20	!	_	_	_	_	_	_	_	Shift=2587
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p27
+# par_text = Кто ходит в клубы, те преследуют свои определённые цели отдыха и не нужно им мешать!
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p27-s1
+# text = Кто ходит в клубы, те преследуют свои определённые цели отдыха и не нужно им мешать!
+1	Кто	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2987|RuCor_group_id=473009|RuCor_link_id=0|Shift=2589
+2	ходит	_	_	_	_	_	_	_	Shift=2593
+3	в	_	_	_	_	_	_	_	Shift=2599
+4	клубы	_	_	_	_	_	_	_	Shift=2601|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=2606
+6	те	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2987|RuCor_group_id=473010|RuCor_link_id=473009|Shift=2608
+7	преследуют	_	_	_	_	_	_	_	Shift=2611
+8	свои	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=2987|RuCor_group_id=473011|RuCor_link_id=473010|Shift=2622
+9	определённые	_	_	_	_	_	_	_	Shift=2627
+10	цели	_	_	_	_	_	_	_	Shift=2640
+11	отдыха	_	_	_	_	_	_	_	Shift=2645
+12	и	_	_	_	_	_	_	_	Shift=2652
+13	не	_	_	_	_	_	_	_	Shift=2654
+14	нужно	_	_	_	_	_	_	_	Shift=2657
+15	им	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2987|RuCor_group_id=473012|RuCor_link_id=473011|Shift=2663
+16	мешать	_	_	_	_	_	_	_	Shift=2666|SpaceAfter=No
+17	!	_	_	_	_	_	_	_	Shift=2672
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p28
+# par_text = Я ни разу не сталкивался с продажей наркотиков в клубе, ведь тебе же не выдают при входе любой наркотик на выбор, мне кажется, что продают наркоту только ярко выраженным наркоманам, а тем, кому всё же это нужно приходят со своим!»
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p28-s1
+# text = Я ни разу не сталкивался с продажей наркотиков в клубе, ведь тебе же не выдают при входе любой наркотик на выбор, мне кажется, что продают наркоту только ярко выраженным наркоманам, а тем, кому всё же это нужно приходят со своим!''
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2986|RuCor_group_id=473013|RuCor_link_id=473008|Shift=2674
+2	ни	_	_	_	_	_	_	_	Shift=2676
+3	разу	_	_	_	_	_	_	_	Shift=2679
+4	не	_	_	_	_	_	_	_	Shift=2684
+5	сталкивался	_	_	_	_	_	_	_	Shift=2687
+6	с	_	_	_	_	_	_	_	Shift=2699
+7	продажей	_	_	_	_	_	_	_	Shift=2701
+8	наркотиков	_	_	_	_	_	_	_	Shift=2710
+9	в	_	_	_	_	_	_	_	Shift=2721
+10	клубе	_	_	_	_	_	_	_	Shift=2723|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=2728
+12	ведь	_	_	_	_	_	_	_	Shift=2730
+13	тебе	_	_	_	_	_	_	_	Shift=2735
+14	же	_	_	_	_	_	_	_	Shift=2740
+15	не	_	_	_	_	_	_	_	Shift=2743
+16	выдают	_	_	_	_	_	_	_	Shift=2746
+17	при	_	_	_	_	_	_	_	Shift=2753
+18	входе	_	_	_	_	_	_	_	Shift=2757
+19	любой	_	_	_	_	_	_	_	Shift=2763
+20	наркотик	_	_	_	_	_	_	_	Shift=2769
+21	на	_	_	_	_	_	_	_	Shift=2778
+22	выбор	_	_	_	_	_	_	_	Shift=2781|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=2786
+24	мне	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2986|RuCor_group_id=473014|RuCor_link_id=473013|Shift=2788
+25	кажется	_	_	_	_	_	_	_	Shift=2792|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	Shift=2799
+27	что	_	_	_	_	_	_	_	Shift=2801
+28	продают	_	_	_	_	_	_	_	Shift=2805
+29	наркоту	_	_	_	_	_	_	_	Shift=2813
+30	только	_	_	_	_	_	_	_	Shift=2821
+31	ярко	_	_	_	_	_	_	_	Shift=2828
+32	выраженным	_	_	_	_	_	_	_	Shift=2833
+33	наркоманам	_	_	_	_	_	_	_	Shift=2844|SpaceAfter=No
+34	,	_	_	_	_	_	_	_	Shift=2854
+35	а	_	_	_	_	_	_	_	Shift=2856
+36	тем	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=dem|RuCor_attrs_type=anaph|RuCor_chain_id=2988|RuCor_group_id=473015|RuCor_link_id=0|Shift=2858|SpaceAfter=No
+37	,	_	_	_	_	_	_	_	Shift=2861
+38	кому	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2988|RuCor_group_id=473016|RuCor_link_id=473015|Shift=2863
+39	всё	_	_	_	_	_	_	_	Shift=2868
+40	же	_	_	_	_	_	_	_	Shift=2872
+41	это	_	_	_	_	_	_	_	Shift=2875
+42	нужно	_	_	_	_	_	_	_	Shift=2879
+43	приходят	_	_	_	_	_	_	_	Shift=2885
+44	со	_	_	_	_	_	_	_	Shift=2894
+45	своим	_	_	_	_	_	_	_	Shift=2897|SpaceAfter=No
+46	!	_	_	_	_	_	_	_	Shift=2902|SpaceAfter=No
+47	''	_	_	_	_	_	_	_	Shift=2903
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p29
+# par_text = jokermedia:
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p29-s1
+# text = jokermedia:
+1	jokermedia	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2989|RuCor_group_id=473017|RuCor_link_id=0|Shift=2905|SpaceAfter=No
+2	:	_	_	_	_	_	_	_	Shift=2915
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p30
+# par_text = «Вот ведь как в начале 90-х клубов практически не было, а наркотики были.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p30-s1
+# text = ``Вот ведь как в начале 90-х клубов практически не было, а наркотики были.
+1	``	_	_	_	_	_	_	_	Shift=2917|SpaceAfter=No
+2	Вот	_	_	_	_	_	_	_	Shift=2918
+3	ведь	_	_	_	_	_	_	_	Shift=2922
+4	как	_	_	_	_	_	_	_	Shift=2927
+5	в	_	_	_	_	_	_	_	Shift=2931
+6	начале	_	_	_	_	_	_	_	Shift=2933
+7	90-х	_	_	_	_	_	_	_	Shift=2940
+8	клубов	_	_	_	_	_	_	_	Shift=2945
+9	практически	_	_	_	_	_	_	_	Shift=2952
+10	не	_	_	_	_	_	_	_	Shift=2964
+11	было	_	_	_	_	_	_	_	Shift=2967|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=2971
+13	а	_	_	_	_	_	_	_	Shift=2973
+14	наркотики	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2990|RuCor_group_id=473018|RuCor_link_id=0|Shift=2975
+15	были	_	_	_	_	_	_	_	Shift=2985|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=2989
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p31
+# par_text = И по дворам-закоулкам-чердакам гопота ими ширялась.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p31-s1
+# text = И по дворам - закоулкам - чердакам гопота ими ширялась.
+1	И	_	_	_	_	_	_	_	Shift=2991
+2	по	_	_	_	_	_	_	_	Shift=2993
+3	дворам	_	_	_	_	_	_	_	Shift=2996
+4	-	_	_	_	_	_	_	_	Shift=3002
+5	закоулкам	_	_	_	_	_	_	_	Shift=3003
+6	-	_	_	_	_	_	_	_	Shift=3012
+7	чердакам	_	_	_	_	_	_	_	Shift=3013
+8	гопота	_	_	_	_	_	_	_	Shift=3022
+9	ими	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2990|RuCor_group_id=473019|RuCor_link_id=473018|Shift=3029
+10	ширялась	_	_	_	_	_	_	_	Shift=3033|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=3041
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p32
+# par_text = А сейчас нюхают и закидываются в клубах, но уже кулюторно.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p32-s1
+# text = А сейчас нюхают и закидываются в клубах, но уже кулюторно.
+1	А	_	_	_	_	_	_	_	Shift=3043
+2	сейчас	_	_	_	_	_	_	_	Shift=3045
+3	нюхают	_	_	_	_	_	_	_	Shift=3052
+4	и	_	_	_	_	_	_	_	Shift=3059
+5	закидываются	_	_	_	_	_	_	_	Shift=3061
+6	в	_	_	_	_	_	_	_	Shift=3074
+7	клубах	_	_	_	_	_	_	_	Shift=3076|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=3082
+9	но	_	_	_	_	_	_	_	Shift=3084
+10	уже	_	_	_	_	_	_	_	Shift=3087
+11	кулюторно	_	_	_	_	_	_	_	Shift=3091|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=3100
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p33
+# par_text = Хотя на периферии всё осталось как в 90-х.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p33-s1
+# text = Хотя на периферии всё осталось как в 90-х.
+1	Хотя	_	_	_	_	_	_	_	Shift=3102
+2	на	_	_	_	_	_	_	_	Shift=3107
+3	периферии	_	_	_	_	_	_	_	Shift=3110
+4	всё	_	_	_	_	_	_	_	Shift=3120
+5	осталось	_	_	_	_	_	_	_	Shift=3124
+6	как	_	_	_	_	_	_	_	Shift=3133
+7	в	_	_	_	_	_	_	_	Shift=3137
+8	90-х	_	_	_	_	_	_	_	Shift=3139|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=3143
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p34
+# par_text = Я так думаю, что условная популистская отмена клубов проблему наркоты ни разу не решит, а вот культуру ночных клубов просто переведёт в подпольный характер».
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p34-s1
+# text = Я так думаю, что условная популистская отмена клубов проблему наркоты ни разу не решит, а вот культуру ночных клубов просто переведёт в подпольный характер''.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2989|RuCor_group_id=473020|RuCor_link_id=473017|Shift=3145
+2	так	_	_	_	_	_	_	_	Shift=3147
+3	думаю	_	_	_	_	_	_	_	Shift=3151|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=3156
+5	что	_	_	_	_	_	_	_	Shift=3158
+6	условная	_	_	_	_	_	_	_	Shift=3162
+7	популистская	_	_	_	_	_	_	_	Shift=3171
+8	отмена	_	_	_	_	_	_	_	Shift=3184
+9	клубов	_	_	_	_	_	_	_	Shift=3191
+10	проблему	_	_	_	_	_	_	_	Shift=3198
+11	наркоты	_	_	_	_	_	_	_	Shift=3207
+12	ни	_	_	_	_	_	_	_	Shift=3215
+13	разу	_	_	_	_	_	_	_	Shift=3218
+14	не	_	_	_	_	_	_	_	Shift=3223
+15	решит	_	_	_	_	_	_	_	Shift=3226|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=3231
+17	а	_	_	_	_	_	_	_	Shift=3233
+18	вот	_	_	_	_	_	_	_	Shift=3235
+19	культуру	_	_	_	_	_	_	_	Shift=3239
+20	ночных	_	_	_	_	_	_	_	Shift=3248
+21	клубов	_	_	_	_	_	_	_	Shift=3255
+22	просто	_	_	_	_	_	_	_	Shift=3262
+23	переведёт	_	_	_	_	_	_	_	Shift=3269
+24	в	_	_	_	_	_	_	_	Shift=3279
+25	подпольный	_	_	_	_	_	_	_	Shift=3281
+26	характер	_	_	_	_	_	_	_	Shift=3292|SpaceAfter=No
+27	''	_	_	_	_	_	_	_	Shift=3300|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=3301
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p35
+# par_text = Если вспомнить времена, когда наше общество впервые услышало слово «наркотики», то окажется, что о ночных заведениях бывало известно лишь по рассказам тех, кто имел тогда ещё редкую возможность выезжать за границу.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p35-s1
+# text = Если вспомнить времена, когда наше общество впервые услышало слово ``наркотики'', то окажется, что о ночных заведениях бывало известно лишь по рассказам тех, кто имел тогда ещё редкую возможность выезжать за границу.
+1	Если	_	_	_	_	_	_	_	Shift=3303
+2	вспомнить	_	_	_	_	_	_	_	Shift=3308
+3	времена	_	_	_	_	_	_	_	Shift=3318|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=3325
+5	когда	_	_	_	_	_	_	_	Shift=3327
+6	наше	_	_	_	_	_	_	_	Shift=3333
+7	общество	_	_	_	_	_	_	_	Shift=3338
+8	впервые	_	_	_	_	_	_	_	Shift=3347
+9	услышало	_	_	_	_	_	_	_	Shift=3355
+10	слово	_	_	_	_	_	_	_	Shift=3364
+11	``	_	_	_	_	_	_	_	Shift=3370|SpaceAfter=No
+12	наркотики	_	_	_	_	_	_	_	Shift=3371|SpaceAfter=No
+13	''	_	_	_	_	_	_	_	Shift=3380|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=3381
+15	то	_	_	_	_	_	_	_	Shift=3383
+16	окажется	_	_	_	_	_	_	_	Shift=3386|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=3394
+18	что	_	_	_	_	_	_	_	Shift=3396
+19	о	_	_	_	_	_	_	_	Shift=3400
+20	ночных	_	_	_	_	_	_	_	Shift=3402
+21	заведениях	_	_	_	_	_	_	_	Shift=3409
+22	бывало	_	_	_	_	_	_	_	Shift=3420
+23	известно	_	_	_	_	_	_	_	Shift=3427
+24	лишь	_	_	_	_	_	_	_	Shift=3436
+25	по	_	_	_	_	_	_	_	Shift=3441
+26	рассказам	_	_	_	_	_	_	_	Shift=3444
+27	тех	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=dem|RuCor_attrs_type=anaph|RuCor_chain_id=2991|RuCor_group_id=473021|RuCor_link_id=0|Shift=3454|SpaceAfter=No
+28	,	_	_	_	_	_	_	_	Shift=3457
+29	кто	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2991|RuCor_group_id=473022|RuCor_link_id=473021|Shift=3459
+30	имел	_	_	_	_	_	_	_	Shift=3463
+31	тогда	_	_	_	_	_	_	_	Shift=3468
+32	ещё	_	_	_	_	_	_	_	Shift=3474
+33	редкую	_	_	_	_	_	_	_	Shift=3478
+34	возможность	_	_	_	_	_	_	_	Shift=3485
+35	выезжать	_	_	_	_	_	_	_	Shift=3497
+36	за	_	_	_	_	_	_	_	Shift=3506
+37	границу	_	_	_	_	_	_	_	Shift=3509|SpaceAfter=No
+38	.	_	_	_	_	_	_	_	Shift=3516
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p36
+# par_text = А о том, как искали удовольствий отечественные торчки, исчерпывающе изложено в романах Баяна Ширянова.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p36-s1
+# text = А о том, как искали удовольствий отечественные торчки, исчерпывающе изложено в романах Баяна Ширянова.
+1	А	_	_	_	_	_	_	_	Shift=3518
+2	о	_	_	_	_	_	_	_	Shift=3520
+3	том	_	_	_	_	_	_	_	Shift=3522|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=3525
+5	как	_	_	_	_	_	_	_	Shift=3527
+6	искали	_	_	_	_	_	_	_	Shift=3531
+7	удовольствий	_	_	_	_	_	_	_	Shift=3538
+8	отечественные	_	_	_	_	_	_	_	Shift=3551
+9	торчки	_	_	_	_	_	_	_	Shift=3565|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=3571
+11	исчерпывающе	_	_	_	_	_	_	_	Shift=3573
+12	изложено	_	_	_	_	_	_	_	Shift=3586
+13	в	_	_	_	_	_	_	_	Shift=3595
+14	романах	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2993|RuCor_group_id=473023|RuCor_link_id=473025|Shift=3597
+15	Баяна	_	_	_	_	_	_	_	RuCor_chain_id=2993|RuCor_group_id=473023|Shift=3605
+16	Ширянова	_	_	_	_	_	_	_	RuCor_chain_id=2993|RuCor_group_id=473023|Shift=3611|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=3619
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p37
+# par_text = Нисколько не пытаясь рекламировать произведения автора, преследуя лишь просветительские цели, хочется сообщить, что в трудах этих изложен быт наркоманов в самой неприглядной его сути и сдобрен всеми техническими и анатомическими подробностями.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p37-s1
+# text = Нисколько не пытаясь рекламировать произведения автора, преследуя лишь просветительские цели, хочется сообщить, что в трудах этих изложен быт наркоманов в самой неприглядной его сути и сдобрен всеми техническими и анатомическими подробностями.
+1	Нисколько	_	_	_	_	_	_	_	Shift=3621
+2	не	_	_	_	_	_	_	_	Shift=3631
+3	пытаясь	_	_	_	_	_	_	_	Shift=3634
+4	рекламировать	_	_	_	_	_	_	_	Shift=3642
+5	произведения	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2993|RuCor_group_id=473025|RuCor_link_id=0|Shift=3656
+6	автора	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2993|RuCor_group_id=473025|RuCor_link_id=473024|Shift=3669|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=3675
+8	преследуя	_	_	_	_	_	_	_	Shift=3677
+9	лишь	_	_	_	_	_	_	_	Shift=3687
+10	просветительские	_	_	_	_	_	_	_	Shift=3692
+11	цели	_	_	_	_	_	_	_	Shift=3709|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=3713
+13	хочется	_	_	_	_	_	_	_	Shift=3715
+14	сообщить	_	_	_	_	_	_	_	Shift=3723|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=3731
+16	что	_	_	_	_	_	_	_	Shift=3733
+17	в	_	_	_	_	_	_	_	Shift=3737
+18	трудах	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2993|RuCor_group_id=473027|RuCor_link_id=473023|Shift=3739
+19	этих	_	_	_	_	_	_	_	RuCor_chain_id=2993|RuCor_group_id=473027|Shift=3746
+20	изложен	_	_	_	_	_	_	_	Shift=3751
+21	быт	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2994|RuCor_group_id=473028|RuCor_link_id=0|Shift=3759
+22	наркоманов	_	_	_	_	_	_	_	RuCor_chain_id=2994|RuCor_group_id=473028|Shift=3763
+23	в	_	_	_	_	_	_	_	Shift=3774
+24	самой	_	_	_	_	_	_	_	Shift=3776
+25	неприглядной	_	_	_	_	_	_	_	Shift=3782
+26	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=2994|RuCor_group_id=473029|RuCor_link_id=473028|Shift=3795
+27	сути	_	_	_	_	_	_	_	Shift=3799
+28	и	_	_	_	_	_	_	_	Shift=3804
+29	сдобрен	_	_	_	_	_	_	_	Shift=3806
+30	всеми	_	_	_	_	_	_	_	Shift=3814
+31	техническими	_	_	_	_	_	_	_	Shift=3820
+32	и	_	_	_	_	_	_	_	Shift=3833
+33	анатомическими	_	_	_	_	_	_	_	Shift=3835
+34	подробностями	_	_	_	_	_	_	_	Shift=3850|SpaceAfter=No
+35	.	_	_	_	_	_	_	_	Shift=3863
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p38
+# par_text = На здравый взгляд, чтиво весьма полезное, хотя неприятное, как фильм ужасов.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p38-s1
+# text = На здравый взгляд, чтиво весьма полезное, хотя неприятное, как фильм ужасов.
+1	На	_	_	_	_	_	_	_	Shift=3865
+2	здравый	_	_	_	_	_	_	_	Shift=3868
+3	взгляд	_	_	_	_	_	_	_	Shift=3876|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=3882
+5	чтиво	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2993|RuCor_group_id=473030|RuCor_link_id=473025|Shift=3884
+6	весьма	_	_	_	_	_	_	_	Shift=3890
+7	полезное	_	_	_	_	_	_	_	Shift=3897|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=3905
+9	хотя	_	_	_	_	_	_	_	Shift=3907
+10	неприятное	_	_	_	_	_	_	_	Shift=3912|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=3922
+12	как	_	_	_	_	_	_	_	Shift=3924
+13	фильм	_	_	_	_	_	_	_	Shift=3928
+14	ужасов	_	_	_	_	_	_	_	Shift=3934|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=3940
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p39
+# par_text = В Сети можно найти отзывы об этих текстах в том духе, что после прочтения его книг многим захочется «в первый раз…»
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p39-s1
+# text = В Сети можно найти отзывы об этих текстах в том духе, что после прочтения его книг многим захочется ``в первый раз... ``
+1	В	_	_	_	_	_	_	_	Shift=3942
+2	Сети	_	_	_	_	_	_	_	Shift=3944
+3	можно	_	_	_	_	_	_	_	Shift=3949
+4	найти	_	_	_	_	_	_	_	Shift=3955
+5	отзывы	_	_	_	_	_	_	_	Shift=3961
+6	об	_	_	_	_	_	_	_	Shift=3968
+7	этих	_	_	_	_	_	_	_	RuCor_chain_id=2993|RuCor_group_id=473031|Shift=3971
+8	текстах	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2993|RuCor_group_id=473031|RuCor_link_id=473030|Shift=3976
+9	в	_	_	_	_	_	_	_	Shift=3984
+10	том	_	_	_	_	_	_	_	Shift=3986
+11	духе	_	_	_	_	_	_	_	Shift=3990|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=3994
+13	что	_	_	_	_	_	_	_	Shift=3996
+14	после	_	_	_	_	_	_	_	Shift=4000
+15	прочтения	_	_	_	_	_	_	_	Shift=4006
+16	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2993|RuCor_group_id=473033|RuCor_link_id=473024|Shift=4016
+17	книг	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2993|RuCor_group_id=473033|RuCor_link_id=473031|Shift=4020
+18	многим	_	_	_	_	_	_	_	Shift=4025
+19	захочется	_	_	_	_	_	_	_	Shift=4032
+20	``	_	_	_	_	_	_	_	Shift=4042|SpaceAfter=No
+21	в	_	_	_	_	_	_	_	Shift=4043
+22	первый	_	_	_	_	_	_	_	Shift=4045
+23	раз	_	_	_	_	_	_	_	Shift=4052|SpaceAfter=No
+24	...	_	_	_	_	_	_	_	Shift=4055
+25	``	_	_	_	_	_	_	_	Shift=4056|SpaceAfter=No
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p40
+# par_text = Если такие маргиналы и вправду существуют, то исправить их не удастся никакими запретами и увещеваниями.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p40-s1
+# text = Если такие маргиналы и вправду существуют, то исправить их не удастся никакими запретами и увещеваниями.
+1	Если	_	_	_	_	_	_	_	Shift=4058
+2	такие	_	_	_	_	_	_	_	RuCor_chain_id=2995|RuCor_group_id=473034|Shift=4063
+3	маргиналы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2995|RuCor_group_id=473034|RuCor_link_id=0|Shift=4069
+4	и	_	_	_	_	_	_	_	Shift=4079
+5	вправду	_	_	_	_	_	_	_	Shift=4081
+6	существуют	_	_	_	_	_	_	_	Shift=4089|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=4099
+8	то	_	_	_	_	_	_	_	Shift=4101
+9	исправить	_	_	_	_	_	_	_	Shift=4104
+10	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2995|RuCor_group_id=473035|RuCor_link_id=473034|Shift=4114
+11	не	_	_	_	_	_	_	_	Shift=4117
+12	удастся	_	_	_	_	_	_	_	Shift=4120
+13	никакими	_	_	_	_	_	_	_	Shift=4128
+14	запретами	_	_	_	_	_	_	_	Shift=4137
+15	и	_	_	_	_	_	_	_	Shift=4147
+16	увещеваниями	_	_	_	_	_	_	_	Shift=4149|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=4161
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p41
+# par_text = Рождённым для беспамятства жизнь во всём её многообразии не навяжешь.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p41-s1
+# text = Рождённым для беспамятства жизнь во всём её многообразии не навяжешь.
+1	Рождённым	_	_	_	_	_	_	_	Shift=4163
+2	для	_	_	_	_	_	_	_	Shift=4173
+3	беспамятства	_	_	_	_	_	_	_	Shift=4177
+4	жизнь	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2996|RuCor_group_id=473036|RuCor_link_id=0|Shift=4190
+5	во	_	_	_	_	_	_	_	Shift=4196
+6	всём	_	_	_	_	_	_	_	Shift=4199
+7	её	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=2996|RuCor_group_id=473037|RuCor_link_id=473036|Shift=4204
+8	многообразии	_	_	_	_	_	_	_	Shift=4207
+9	не	_	_	_	_	_	_	_	Shift=4220
+10	навяжешь	_	_	_	_	_	_	_	Shift=4223|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=4231
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p42
+# par_text = И умирать не запретишь.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p42-s1
+# text = И умирать не запретишь.
+1	И	_	_	_	_	_	_	_	Shift=4233
+2	умирать	_	_	_	_	_	_	_	Shift=4235
+3	не	_	_	_	_	_	_	_	Shift=4243
+4	запретишь	_	_	_	_	_	_	_	Shift=4246|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=4255
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p43
+# par_text = zverek300:
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p43-s1
+# text = zverek300:
+1	zverek300	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2997|RuCor_group_id=473038|RuCor_link_id=0|Shift=4257|SpaceAfter=No
+2	:	_	_	_	_	_	_	_	Shift=4266
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p44
+# par_text = «Наркотики — вещь личного предпочтения.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p44-s1
+# text = ``Наркотики - вещь личного предпочтения.
+1	``	_	_	_	_	_	_	_	Shift=4268|SpaceAfter=No
+2	Наркотики	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2998|RuCor_group_id=473039|RuCor_link_id=0|Shift=4269
+3	-	_	_	_	_	_	_	_	Shift=4279
+4	вещь	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2998|RuCor_group_id=473040|RuCor_link_id=473039|Shift=4281
+5	личного	_	_	_	_	_	_	_	RuCor_chain_id=2998|RuCor_group_id=473040|Shift=4286
+6	предпочтения	_	_	_	_	_	_	_	RuCor_chain_id=2998|RuCor_group_id=473040|Shift=4294|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=4306
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p45
+# par_text = Я не потребляю, мне и не предлагают.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p45-s1
+# text = Я не потребляю, мне и не предлагают.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2997|RuCor_group_id=473041|RuCor_link_id=473038|Shift=4308
+2	не	_	_	_	_	_	_	_	Shift=4310
+3	потребляю	_	_	_	_	_	_	_	Shift=4313|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=4322
+5	мне	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2997|RuCor_group_id=473042|RuCor_link_id=473041|Shift=4324
+6	и	_	_	_	_	_	_	_	Shift=4328
+7	не	_	_	_	_	_	_	_	Shift=4330
+8	предлагают	_	_	_	_	_	_	_	Shift=4333|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=4343
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p46
+# par_text = Вопрос выбора, в общем.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p46-s1
+# text = Вопрос выбора, в общем.
+1	Вопрос	_	_	_	_	_	_	_	Shift=4345
+2	выбора	_	_	_	_	_	_	_	Shift=4352|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=4358
+4	в	_	_	_	_	_	_	_	Shift=4360
+5	общем	_	_	_	_	_	_	_	Shift=4362|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=4367
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p47
+# par_text = Взрослые люди вполне могут определить, как жить и отчего умирать.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p47-s1
+# text = Взрослые люди вполне могут определить, как жить и отчего умирать.
+1	Взрослые	_	_	_	_	_	_	_	Shift=4369
+2	люди	_	_	_	_	_	_	_	Shift=4378
+3	вполне	_	_	_	_	_	_	_	Shift=4383
+4	могут	_	_	_	_	_	_	_	Shift=4390
+5	определить	_	_	_	_	_	_	_	Shift=4396|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=4406
+7	как	_	_	_	_	_	_	_	Shift=4408
+8	жить	_	_	_	_	_	_	_	Shift=4412
+9	и	_	_	_	_	_	_	_	Shift=4417
+10	отчего	_	_	_	_	_	_	_	Shift=4419
+11	умирать	_	_	_	_	_	_	_	Shift=4426|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=4433
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p48
+# par_text = Думаю что клубы это не единственное место распространения и потребления.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p48-s1
+# text = Думаю что клубы это не единственное место распространения и потребления.
+1	Думаю	_	_	_	_	_	_	_	Shift=4435
+2	что	_	_	_	_	_	_	_	Shift=4441
+3	клубы	_	_	_	_	_	_	_	Shift=4445
+4	это	_	_	_	_	_	_	_	Shift=4451
+5	не	_	_	_	_	_	_	_	Shift=4455
+6	единственное	_	_	_	_	_	_	_	Shift=4458
+7	место	_	_	_	_	_	_	_	Shift=4471
+8	распространения	_	_	_	_	_	_	_	Shift=4477
+9	и	_	_	_	_	_	_	_	Shift=4493
+10	потребления	_	_	_	_	_	_	_	Shift=4495|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=4506
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p49
+# par_text = Большинство наркоманов, насколько я представляю, еле на очередную дозу наскребают, вряд ли их доходов хватит для клубной жизни.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p49-s1
+# text = Большинство наркоманов, насколько я представляю, еле на очередную дозу наскребают, вряд ли их доходов хватит для клубной жизни.
+1	Большинство	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2999|RuCor_group_id=473043|RuCor_link_id=0|Shift=4508
+2	наркоманов	_	_	_	_	_	_	_	RuCor_chain_id=2999|RuCor_group_id=473043|Shift=4520|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=4530
+4	насколько	_	_	_	_	_	_	_	Shift=4532
+5	я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2997|RuCor_group_id=473044|RuCor_link_id=473042|Shift=4542
+6	представляю	_	_	_	_	_	_	_	Shift=4544|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=4555
+8	еле	_	_	_	_	_	_	_	Shift=4557
+9	на	_	_	_	_	_	_	_	Shift=4561
+10	очередную	_	_	_	_	_	_	_	Shift=4564
+11	дозу	_	_	_	_	_	_	_	Shift=4574
+12	наскребают	_	_	_	_	_	_	_	Shift=4579|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=4589
+14	вряд	_	_	_	_	_	_	_	Shift=4591
+15	ли	_	_	_	_	_	_	_	Shift=4596
+16	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=2999|RuCor_group_id=473045|RuCor_link_id=473043|Shift=4599
+17	доходов	_	_	_	_	_	_	_	Shift=4602
+18	хватит	_	_	_	_	_	_	_	Shift=4610
+19	для	_	_	_	_	_	_	_	Shift=4617
+20	клубной	_	_	_	_	_	_	_	Shift=4621
+21	жизни	_	_	_	_	_	_	_	Shift=4629|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=4634
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p50
+# par_text = Да и честно говоря, всё это круги по воде, все потребления в клубах — лишь конечный этап распространения, надо искать и уничтожать крупных поставщиков и т.п.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p50-s1
+# text = Да и честно говоря, всё это круги по воде, все потребления в клубах - лишь конечный этап распространения, надо искать и уничтожать крупных поставщиков и т. п.
+1	Да	_	_	_	_	_	_	_	Shift=4636
+2	и	_	_	_	_	_	_	_	Shift=4639
+3	честно	_	_	_	_	_	_	_	Shift=4641
+4	говоря	_	_	_	_	_	_	_	Shift=4648|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=4654
+6	всё	_	_	_	_	_	_	_	Shift=4656
+7	это	_	_	_	_	_	_	_	Shift=4660
+8	круги	_	_	_	_	_	_	_	Shift=4664
+9	по	_	_	_	_	_	_	_	Shift=4670
+10	воде	_	_	_	_	_	_	_	Shift=4673|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=4677
+12	все	_	_	_	_	_	_	_	Shift=4679
+13	потребления	_	_	_	_	_	_	_	Shift=4683
+14	в	_	_	_	_	_	_	_	Shift=4695
+15	клубах	_	_	_	_	_	_	_	Shift=4697
+16	-	_	_	_	_	_	_	_	Shift=4704
+17	лишь	_	_	_	_	_	_	_	Shift=4706
+18	конечный	_	_	_	_	_	_	_	Shift=4711
+19	этап	_	_	_	_	_	_	_	Shift=4720
+20	распространения	_	_	_	_	_	_	_	Shift=4725|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=4740
+22	надо	_	_	_	_	_	_	_	Shift=4742
+23	искать	_	_	_	_	_	_	_	Shift=4747
+24	и	_	_	_	_	_	_	_	Shift=4754
+25	уничтожать	_	_	_	_	_	_	_	Shift=4756
+26	крупных	_	_	_	_	_	_	_	Shift=4767
+27	поставщиков	_	_	_	_	_	_	_	Shift=4775
+28	и	_	_	_	_	_	_	_	Shift=4787
+29	т.	_	_	_	_	_	_	_	Shift=4789
+30	п	_	_	_	_	_	_	_	Shift=4791|SpaceAfter=No
+31	.	_	_	_	_	_	_	_	Shift=4792
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p51
+# par_text = А «подсесть» сейчас и в школе говорят не проблема, чего уж в клуб идти...».
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p51-s1
+# text = А ``подсесть'' сейчас и в школе говорят не проблема, чего уж в клуб идти... ``.
+1	А	_	_	_	_	_	_	_	Shift=4794
+2	``	_	_	_	_	_	_	_	Shift=4796|SpaceAfter=No
+3	подсесть	_	_	_	_	_	_	_	Shift=4797|SpaceAfter=No
+4	''	_	_	_	_	_	_	_	Shift=4805
+5	сейчас	_	_	_	_	_	_	_	Shift=4807
+6	и	_	_	_	_	_	_	_	Shift=4814
+7	в	_	_	_	_	_	_	_	Shift=4816
+8	школе	_	_	_	_	_	_	_	Shift=4818
+9	говорят	_	_	_	_	_	_	_	Shift=4824
+10	не	_	_	_	_	_	_	_	Shift=4832
+11	проблема	_	_	_	_	_	_	_	Shift=4835|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=4843
+13	чего	_	_	_	_	_	_	_	Shift=4845
+14	уж	_	_	_	_	_	_	_	Shift=4850
+15	в	_	_	_	_	_	_	_	Shift=4853
+16	клуб	_	_	_	_	_	_	_	Shift=4855
+17	идти	_	_	_	_	_	_	_	Shift=4860|SpaceAfter=No
+18	...	_	_	_	_	_	_	_	Shift=4864
+19	``	_	_	_	_	_	_	_	Shift=4867|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=4868
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p52
+# par_text = irdis:
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p52-s1
+# text = irdis:
+1	irdis	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3000|RuCor_group_id=473046|RuCor_link_id=0|Shift=4870|SpaceAfter=No
+2	:	_	_	_	_	_	_	_	Shift=4875
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p53
+# par_text = «Лично я убеждён, что взрослый человек вправе проводить свободное время, как ему захочется и делать со своим сознанием, что ему заблагорассудится.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p53-s1
+# text = ``Лично я убеждён, что взрослый человек вправе проводить свободное время, как ему захочется и делать со своим сознанием, что ему заблагорассудится.
+1	``	_	_	_	_	_	_	_	Shift=4877|SpaceAfter=No
+2	Лично	_	_	_	_	_	_	_	Shift=4878
+3	я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3000|RuCor_group_id=473047|RuCor_link_id=473046|Shift=4884
+4	убеждён	_	_	_	_	_	_	_	Shift=4886|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=4893
+6	что	_	_	_	_	_	_	_	Shift=4895
+7	взрослый	_	_	_	_	_	_	_	RuCor_chain_id=3001|RuCor_group_id=473048|Shift=4899
+8	человек	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3001|RuCor_group_id=473048|RuCor_link_id=0|Shift=4908
+9	вправе	_	_	_	_	_	_	_	Shift=4916
+10	проводить	_	_	_	_	_	_	_	Shift=4923
+11	свободное	_	_	_	_	_	_	_	Shift=4933
+12	время	_	_	_	_	_	_	_	Shift=4943|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=4948
+14	как	_	_	_	_	_	_	_	Shift=4950
+15	ему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=3001|RuCor_group_id=473049|RuCor_link_id=473048|Shift=4954
+16	захочется	_	_	_	_	_	_	_	Shift=4958
+17	и	_	_	_	_	_	_	_	Shift=4968
+18	делать	_	_	_	_	_	_	_	Shift=4970
+19	со	_	_	_	_	_	_	_	Shift=4977
+20	своим	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=3001|RuCor_group_id=473050|RuCor_link_id=473049|Shift=4980
+21	сознанием	_	_	_	_	_	_	_	Shift=4986|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=4995
+23	что	_	_	_	_	_	_	_	Shift=4997
+24	ему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=3001|RuCor_group_id=473051|RuCor_link_id=473050|Shift=5001
+25	заблагорассудится	_	_	_	_	_	_	_	Shift=5005|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=5022
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p54
+# par_text = А несовершеннолетних и так ночью в клубы не пускают.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p54-s1
+# text = А несовершеннолетних и так ночью в клубы не пускают.
+1	А	_	_	_	_	_	_	_	Shift=5024
+2	несовершеннолетних	_	_	_	_	_	_	_	Shift=5026
+3	и	_	_	_	_	_	_	_	Shift=5045
+4	так	_	_	_	_	_	_	_	Shift=5047
+5	ночью	_	_	_	_	_	_	_	Shift=5051
+6	в	_	_	_	_	_	_	_	Shift=5057
+7	клубы	_	_	_	_	_	_	_	Shift=5059
+8	не	_	_	_	_	_	_	_	Shift=5065
+9	пускают	_	_	_	_	_	_	_	Shift=5068|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=5075
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p55
+# par_text = Денис Драгунский не так давно написал для «Частного корреспондента» колонку, очень внятно описывающую проблему всех запретительных мер, направленных на борьбу с наркоманией, и их последствия на примере расширения списка рецептурных препаратов.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p55-s1
+# text = Денис Драгунский не так давно написал для ``Частного корреспондента'' колонку, очень внятно описывающую проблему всех запретительных мер, направленных на борьбу с наркоманией, и их последствия на примере расширения списка рецептурных препаратов.
+1	Денис	_	_	_	_	_	_	_	Shift=5077
+2	Драгунский	_	_	_	_	_	_	_	Shift=5083
+3	не	_	_	_	_	_	_	_	Shift=5094
+4	так	_	_	_	_	_	_	_	Shift=5097
+5	давно	_	_	_	_	_	_	_	Shift=5101
+6	написал	_	_	_	_	_	_	_	Shift=5107
+7	для	_	_	_	_	_	_	_	Shift=5115
+8	``	_	_	_	_	_	_	_	Shift=5119|SpaceAfter=No
+9	Частного	_	_	_	_	_	_	_	Shift=5120
+10	корреспондента	_	_	_	_	_	_	_	Shift=5129|SpaceAfter=No
+11	''	_	_	_	_	_	_	_	Shift=5143
+12	колонку	_	_	_	_	_	_	_	Shift=5145|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=5152
+14	очень	_	_	_	_	_	_	_	Shift=5154
+15	внятно	_	_	_	_	_	_	_	Shift=5160
+16	описывающую	_	_	_	_	_	_	_	Shift=5167
+17	проблему	_	_	_	_	_	_	_	Shift=5179
+18	всех	_	_	_	_	_	_	_	RuCor_chain_id=3002|RuCor_group_id=473052|Shift=5188
+19	запретительных	_	_	_	_	_	_	_	RuCor_chain_id=3002|RuCor_group_id=473052|Shift=5193
+20	мер	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3002|RuCor_group_id=473052|RuCor_link_id=473053|Shift=5208|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=5211
+22	направленных	_	_	_	_	_	_	_	Shift=5213
+23	на	_	_	_	_	_	_	_	Shift=5226
+24	борьбу	_	_	_	_	_	_	_	Shift=5229
+25	с	_	_	_	_	_	_	_	Shift=5236
+26	наркоманией	_	_	_	_	_	_	_	Shift=5238|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=5249
+28	и	_	_	_	_	_	_	_	Shift=5251
+29	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=3002|RuCor_group_id=473053|RuCor_link_id=0|Shift=5253
+30	последствия	_	_	_	_	_	_	_	Shift=5256
+31	на	_	_	_	_	_	_	_	Shift=5268
+32	примере	_	_	_	_	_	_	_	Shift=5271
+33	расширения	_	_	_	_	_	_	_	Shift=5279
+34	списка	_	_	_	_	_	_	_	Shift=5290
+35	рецептурных	_	_	_	_	_	_	_	Shift=5297
+36	препаратов	_	_	_	_	_	_	_	Shift=5309|SpaceAfter=No
+37	.	_	_	_	_	_	_	_	Shift=5319
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p56
+# par_text = Аптекаря не интересует, что там у вас: трахеит, бронхит, осложнённый бронхоэктазами, не спится вам, не пишется роман или вы просто нарик — давайте рецепт.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p56-s1
+# text = Аптекаря не интересует, что там у вас: трахеит, бронхит, осложнённый бронхоэктазами, не спится вам, не пишется роман или вы просто нарик - давайте рецепт.
+1	Аптекаря	_	_	_	_	_	_	_	Shift=5321
+2	не	_	_	_	_	_	_	_	Shift=5330
+3	интересует	_	_	_	_	_	_	_	Shift=5333|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=5343
+5	что	_	_	_	_	_	_	_	Shift=5345
+6	там	_	_	_	_	_	_	_	Shift=5349
+7	у	_	_	_	_	_	_	_	Shift=5353
+8	вас	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=3003|RuCor_group_id=473054|RuCor_link_id=0|Shift=5355|SpaceAfter=No
+9	:	_	_	_	_	_	_	_	Shift=5358
+10	трахеит	_	_	_	_	_	_	_	Shift=5360|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=5367
+12	бронхит	_	_	_	_	_	_	_	Shift=5369|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=5376
+14	осложнённый	_	_	_	_	_	_	_	Shift=5378
+15	бронхоэктазами	_	_	_	_	_	_	_	Shift=5390|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=5404
+17	не	_	_	_	_	_	_	_	Shift=5406
+18	спится	_	_	_	_	_	_	_	Shift=5409
+19	вам	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=3003|RuCor_group_id=473055|RuCor_link_id=473054|Shift=5416|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=5419
+21	не	_	_	_	_	_	_	_	Shift=5421
+22	пишется	_	_	_	_	_	_	_	Shift=5424
+23	роман	_	_	_	_	_	_	_	Shift=5432
+24	или	_	_	_	_	_	_	_	Shift=5438
+25	вы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=3003|RuCor_group_id=473056|RuCor_link_id=473055|Shift=5442
+26	просто	_	_	_	_	_	_	_	Shift=5445
+27	нарик	_	_	_	_	_	_	_	Shift=5452
+28	-	_	_	_	_	_	_	_	Shift=5458
+29	давайте	_	_	_	_	_	_	_	Shift=5460
+30	рецепт	_	_	_	_	_	_	_	Shift=5468|SpaceAfter=No
+31	.	_	_	_	_	_	_	_	Shift=5474
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p57
+# par_text = Причём последним все эти ограничения непреодолимыми трудностями вовсе не кажутся — они привыкли удовлетворять свои нужды подпольно, а уж в какую глубину заберётся это подполье, не так важно.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p57-s1
+# text = Причём последним все эти ограничения непреодолимыми трудностями вовсе не кажутся - они привыкли удовлетворять свои нужды подпольно, а уж в какую глубину заберётся это подполье, не так важно.
+1	Причём	_	_	_	_	_	_	_	Shift=5476
+2	последним	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3004|RuCor_group_id=473057|RuCor_link_id=0|Shift=5483
+3	все	_	_	_	_	_	_	_	Shift=5493
+4	эти	_	_	_	_	_	_	_	Shift=5497
+5	ограничения	_	_	_	_	_	_	_	Shift=5501
+6	непреодолимыми	_	_	_	_	_	_	_	Shift=5513
+7	трудностями	_	_	_	_	_	_	_	Shift=5528
+8	вовсе	_	_	_	_	_	_	_	Shift=5540
+9	не	_	_	_	_	_	_	_	Shift=5546
+10	кажутся	_	_	_	_	_	_	_	Shift=5549
+11	-	_	_	_	_	_	_	_	Shift=5557
+12	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=3004|RuCor_group_id=473058|RuCor_link_id=473057|Shift=5559
+13	привыкли	_	_	_	_	_	_	_	Shift=5563
+14	удовлетворять	_	_	_	_	_	_	_	Shift=5572
+15	свои	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=3004|RuCor_group_id=473059|RuCor_link_id=473058|Shift=5586
+16	нужды	_	_	_	_	_	_	_	Shift=5591
+17	подпольно	_	_	_	_	_	_	_	Shift=5597|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=5606
+19	а	_	_	_	_	_	_	_	Shift=5608
+20	уж	_	_	_	_	_	_	_	Shift=5610
+21	в	_	_	_	_	_	_	_	Shift=5613
+22	какую	_	_	_	_	_	_	_	Shift=5615
+23	глубину	_	_	_	_	_	_	_	Shift=5621
+24	заберётся	_	_	_	_	_	_	_	Shift=5629
+25	это	_	_	_	_	_	_	_	Shift=5639
+26	подполье	_	_	_	_	_	_	_	Shift=5643|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=5651
+28	не	_	_	_	_	_	_	_	Shift=5653
+29	так	_	_	_	_	_	_	_	Shift=5656
+30	важно	_	_	_	_	_	_	_	Shift=5660|SpaceAfter=No
+31	.	_	_	_	_	_	_	_	Shift=5665
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p58
+# par_text = Бланками рецептов можно разжиться у не слишком принципиального терапевта, да и аптекаря не сложно убедить, если есть нужда.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p58-s1
+# text = Бланками рецептов можно разжиться у не слишком принципиального терапевта, да и аптекаря не сложно убедить, если есть нужда.
+1	Бланками	_	_	_	_	_	_	_	Shift=5667
+2	рецептов	_	_	_	_	_	_	_	Shift=5676
+3	можно	_	_	_	_	_	_	_	Shift=5685
+4	разжиться	_	_	_	_	_	_	_	Shift=5691
+5	у	_	_	_	_	_	_	_	Shift=5701
+6	не	_	_	_	_	_	_	_	Shift=5703
+7	слишком	_	_	_	_	_	_	_	Shift=5706
+8	принципиального	_	_	_	_	_	_	_	Shift=5714
+9	терапевта	_	_	_	_	_	_	_	Shift=5730|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=5739
+11	да	_	_	_	_	_	_	_	Shift=5741
+12	и	_	_	_	_	_	_	_	Shift=5744
+13	аптекаря	_	_	_	_	_	_	_	Shift=5746
+14	не	_	_	_	_	_	_	_	Shift=5755
+15	сложно	_	_	_	_	_	_	_	Shift=5758
+16	убедить	_	_	_	_	_	_	_	Shift=5765|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=5772
+18	если	_	_	_	_	_	_	_	Shift=5774
+19	есть	_	_	_	_	_	_	_	Shift=5779
+20	нужда	_	_	_	_	_	_	_	Shift=5784|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=5789
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p59
+# par_text = А вот когда цилиарный аппарат ваших бронхов реально забит, то для начала покашляйте в кабинете у врача.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p59-s1
+# text = А вот когда цилиарный аппарат ваших бронхов реально забит, то для начала покашляйте в кабинете у врача.
+1	А	_	_	_	_	_	_	_	Shift=5791
+2	вот	_	_	_	_	_	_	_	Shift=5793
+3	когда	_	_	_	_	_	_	_	Shift=5797
+4	цилиарный	_	_	_	_	_	_	_	Shift=5803
+5	аппарат	_	_	_	_	_	_	_	Shift=5813
+6	ваших	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=3003|RuCor_group_id=473060|RuCor_link_id=473054|Shift=5821
+7	бронхов	_	_	_	_	_	_	_	Shift=5827
+8	реально	_	_	_	_	_	_	_	Shift=5835
+9	забит	_	_	_	_	_	_	_	Shift=5843|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=5848
+11	то	_	_	_	_	_	_	_	Shift=5850
+12	для	_	_	_	_	_	_	_	Shift=5853
+13	начала	_	_	_	_	_	_	_	Shift=5857
+14	покашляйте	_	_	_	_	_	_	_	Shift=5864
+15	в	_	_	_	_	_	_	_	Shift=5875
+16	кабинете	_	_	_	_	_	_	_	Shift=5877
+17	у	_	_	_	_	_	_	_	Shift=5886
+18	врача	_	_	_	_	_	_	_	Shift=5888|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=5893
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p60
+# par_text = По-любому на круг больше, но тому, у кого реально болит.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p60-s1
+# text = По-любому на круг больше, но тому, у кого реально болит.
+1	По-любому	_	_	_	_	_	_	_	Shift=5895
+2	на	_	_	_	_	_	_	_	Shift=5905
+3	круг	_	_	_	_	_	_	_	Shift=5908
+4	больше	_	_	_	_	_	_	_	Shift=5913|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=5919
+6	но	_	_	_	_	_	_	_	Shift=5921
+7	тому	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=dem|RuCor_attrs_type=anaph|RuCor_chain_id=3005|RuCor_group_id=473061|RuCor_link_id=0|Shift=5924|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=5928
+9	у	_	_	_	_	_	_	_	Shift=5930
+10	кого	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=3005|RuCor_group_id=473062|RuCor_link_id=473061|Shift=5932
+11	реально	_	_	_	_	_	_	_	Shift=5937
+12	болит	_	_	_	_	_	_	_	Shift=5945|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=5950
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p61
+# par_text = Исполнимость проекта господина Давыдова тоже вызывает сомнения.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p61-s1
+# text = Исполнимость проекта господина Давыдова тоже вызывает сомнения.
+1	Исполнимость	_	_	_	_	_	_	_	Shift=5952
+2	проекта	_	_	_	_	_	_	_	Shift=5965
+3	господина	_	_	_	_	_	_	_	RuCor_chain_id=2972|RuCor_group_id=473063|Shift=5973
+4	Давыдова	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2972|RuCor_group_id=473063|RuCor_link_id=472972|Shift=5983
+5	тоже	_	_	_	_	_	_	_	Shift=5992
+6	вызывает	_	_	_	_	_	_	_	Shift=5997
+7	сомнения	_	_	_	_	_	_	_	Shift=6006|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=6014
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p62
+# par_text = Пользователи интернета на ходу придумывают десятки вариантов обойти запрет.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p62-s1
+# text = Пользователи интернета на ходу придумывают десятки вариантов обойти запрет.
+1	Пользователи	_	_	_	_	_	_	_	Shift=6016
+2	интернета	_	_	_	_	_	_	_	Shift=6029
+3	на	_	_	_	_	_	_	_	Shift=6039
+4	ходу	_	_	_	_	_	_	_	Shift=6042
+5	придумывают	_	_	_	_	_	_	_	Shift=6047
+6	десятки	_	_	_	_	_	_	_	Shift=6059
+7	вариантов	_	_	_	_	_	_	_	Shift=6067
+8	обойти	_	_	_	_	_	_	_	Shift=6077
+9	запрет	_	_	_	_	_	_	_	Shift=6084|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=6090
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p63
+# par_text = И ведь найдут как — к гадалке не ходить.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p63-s1
+# text = И ведь найдут как - к гадалке не ходить.
+1	И	_	_	_	_	_	_	_	Shift=6092
+2	ведь	_	_	_	_	_	_	_	Shift=6094
+3	найдут	_	_	_	_	_	_	_	Shift=6099
+4	как	_	_	_	_	_	_	_	Shift=6106
+5	-	_	_	_	_	_	_	_	Shift=6110
+6	к	_	_	_	_	_	_	_	Shift=6112
+7	гадалке	_	_	_	_	_	_	_	Shift=6114
+8	не	_	_	_	_	_	_	_	Shift=6122
+9	ходить	_	_	_	_	_	_	_	Shift=6125|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=6131
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p64
+# par_text = gleb_tcherkasov:
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p64-s1
+# text = gleb_tcherkasov:
+1	gleb_tcherkasov	_	_	_	_	_	_	_	Shift=6133|SpaceAfter=No
+2	:	_	_	_	_	_	_	_	Shift=6148
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p65
+# par_text = «А ведь вполне попробуют сделать.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p65-s1
+# text = ``А ведь вполне попробуют сделать.
+1	``	_	_	_	_	_	_	_	Shift=6150|SpaceAfter=No
+2	А	_	_	_	_	_	_	_	Shift=6151
+3	ведь	_	_	_	_	_	_	_	Shift=6153
+4	вполне	_	_	_	_	_	_	_	Shift=6158
+5	попробуют	_	_	_	_	_	_	_	Shift=6165
+6	сделать	_	_	_	_	_	_	_	Shift=6175|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=6182
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p66
+# par_text = Оно и правильно — не время сейчас, не время!
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p66-s1
+# text = Оно и правильно - не время сейчас, не время!
+1	Оно	_	_	_	_	_	_	_	Shift=6184
+2	и	_	_	_	_	_	_	_	Shift=6188
+3	правильно	_	_	_	_	_	_	_	Shift=6190
+4	-	_	_	_	_	_	_	_	Shift=6200
+5	не	_	_	_	_	_	_	_	Shift=6202
+6	время	_	_	_	_	_	_	_	Shift=6205
+7	сейчас	_	_	_	_	_	_	_	Shift=6211|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=6217
+9	не	_	_	_	_	_	_	_	Shift=6219
+10	время	_	_	_	_	_	_	_	Shift=6222|SpaceAfter=No
+11	!	_	_	_	_	_	_	_	Shift=6227
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p67
+# par_text = Правда получится как с игровыми автоматами, игрового бизнеса нет, а автоматы есть
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p67-s1
+# text = Правда получится как с игровыми автоматами, игрового бизнеса нет, а автоматы есть
+1	Правда	_	_	_	_	_	_	_	Shift=6229
+2	получится	_	_	_	_	_	_	_	Shift=6236
+3	как	_	_	_	_	_	_	_	Shift=6246
+4	с	_	_	_	_	_	_	_	Shift=6250
+5	игровыми	_	_	_	_	_	_	_	Shift=6252
+6	автоматами	_	_	_	_	_	_	_	Shift=6261|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=6271
+8	игрового	_	_	_	_	_	_	_	Shift=6273
+9	бизнеса	_	_	_	_	_	_	_	Shift=6282
+10	нет	_	_	_	_	_	_	_	Shift=6290|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=6293
+12	а	_	_	_	_	_	_	_	Shift=6295
+13	автоматы	_	_	_	_	_	_	_	Shift=6297
+14	есть	_	_	_	_	_	_	_	Shift=6306
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p68
+# par_text = будет ночной клуб до 12 часов работающий, а дальше — ночной лекторий с напитками».
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p68-s1
+# text = будет ночной клуб до 12 часов работающий, а дальше - ночной лекторий с напитками''.
+1	будет	_	_	_	_	_	_	_	Shift=6311
+2	ночной	_	_	_	_	_	_	_	Shift=6317
+3	клуб	_	_	_	_	_	_	_	Shift=6324
+4	до	_	_	_	_	_	_	_	Shift=6329
+5	12	_	_	_	_	_	_	_	Shift=6332
+6	часов	_	_	_	_	_	_	_	Shift=6335
+7	работающий	_	_	_	_	_	_	_	Shift=6341|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=6351
+9	а	_	_	_	_	_	_	_	Shift=6353
+10	дальше	_	_	_	_	_	_	_	Shift=6355
+11	-	_	_	_	_	_	_	_	Shift=6362
+12	ночной	_	_	_	_	_	_	_	Shift=6364
+13	лекторий	_	_	_	_	_	_	_	Shift=6371
+14	с	_	_	_	_	_	_	_	Shift=6380
+15	напитками	_	_	_	_	_	_	_	Shift=6382|SpaceAfter=No
+16	''	_	_	_	_	_	_	_	Shift=6391|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=6392
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p69
+# par_text = dmitrygalkin:
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p69-s1
+# text = dmitrygalkin:
+1	dmitrygalkin	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3006|RuCor_group_id=473064|RuCor_link_id=0|Shift=6394|SpaceAfter=No
+2	:	_	_	_	_	_	_	_	Shift=6406
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p70
+# par_text = «Поразительно, что они пытаются регулировать жизнь в точности по образцу поздней советской власти, также не терпевшей ничего ночного и допускавшего только те ночные мероприятия, которые сохранились от более раннего периода в силу традиции (выпускной в школах с обязательной встречей рассвета или прощальный костёр в Артеке).
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p70-s1
+# text = ``Поразительно, что они пытаются регулировать жизнь в точности по образцу поздней советской власти, также не терпевшей ничего ночного и допускавшего только те ночные мероприятия, которые сохранились от более раннего периода в силу традиции (выпускной в школах с обязательной встречей рассвета или прощальный костёр в Артеке).
+1	``	_	_	_	_	_	_	_	Shift=6408|SpaceAfter=No
+2	Поразительно	_	_	_	_	_	_	_	Shift=6409|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=6421
+4	что	_	_	_	_	_	_	_	Shift=6423
+5	они	_	_	_	_	_	_	_	Shift=6427
+6	пытаются	_	_	_	_	_	_	_	Shift=6431
+7	регулировать	_	_	_	_	_	_	_	Shift=6440
+8	жизнь	_	_	_	_	_	_	_	Shift=6453
+9	в	_	_	_	_	_	_	_	Shift=6459
+10	точности	_	_	_	_	_	_	_	Shift=6461
+11	по	_	_	_	_	_	_	_	Shift=6470
+12	образцу	_	_	_	_	_	_	_	Shift=6473
+13	поздней	_	_	_	_	_	_	_	Shift=6481
+14	советской	_	_	_	_	_	_	_	Shift=6489
+15	власти	_	_	_	_	_	_	_	Shift=6499|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=6505
+17	также	_	_	_	_	_	_	_	Shift=6507
+18	не	_	_	_	_	_	_	_	Shift=6513
+19	терпевшей	_	_	_	_	_	_	_	Shift=6516
+20	ничего	_	_	_	_	_	_	_	Shift=6526
+21	ночного	_	_	_	_	_	_	_	Shift=6533
+22	и	_	_	_	_	_	_	_	Shift=6541
+23	допускавшего	_	_	_	_	_	_	_	Shift=6543
+24	только	_	_	_	_	_	_	_	Shift=6556
+25	те	_	_	_	_	_	_	_	RuCor_chain_id=3007|RuCor_group_id=473065|Shift=6563
+26	ночные	_	_	_	_	_	_	_	RuCor_chain_id=3007|RuCor_group_id=473065|Shift=6566
+27	мероприятия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3007|RuCor_group_id=473065|RuCor_link_id=0|Shift=6573|SpaceAfter=No
+28	,	_	_	_	_	_	_	_	Shift=6584
+29	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=3007|RuCor_group_id=473066|RuCor_link_id=473065|Shift=6586
+30	сохранились	_	_	_	_	_	_	_	Shift=6594
+31	от	_	_	_	_	_	_	_	Shift=6606
+32	более	_	_	_	_	_	_	_	Shift=6609
+33	раннего	_	_	_	_	_	_	_	Shift=6615
+34	периода	_	_	_	_	_	_	_	Shift=6623
+35	в	_	_	_	_	_	_	_	Shift=6631
+36	силу	_	_	_	_	_	_	_	Shift=6633
+37	традиции	_	_	_	_	_	_	_	Shift=6638
+38	(	_	_	_	_	_	_	_	Shift=6647|SpaceAfter=No
+39	выпускной	_	_	_	_	_	_	_	Shift=6648
+40	в	_	_	_	_	_	_	_	Shift=6658
+41	школах	_	_	_	_	_	_	_	Shift=6660
+42	с	_	_	_	_	_	_	_	Shift=6667
+43	обязательной	_	_	_	_	_	_	_	Shift=6669
+44	встречей	_	_	_	_	_	_	_	Shift=6682
+45	рассвета	_	_	_	_	_	_	_	Shift=6691
+46	или	_	_	_	_	_	_	_	Shift=6700
+47	прощальный	_	_	_	_	_	_	_	Shift=6704
+48	костёр	_	_	_	_	_	_	_	Shift=6715
+49	в	_	_	_	_	_	_	_	Shift=6722
+50	Артеке	_	_	_	_	_	_	_	Shift=6724|SpaceAfter=No
+51	)	_	_	_	_	_	_	_	Shift=6730|SpaceAfter=No
+52	.	_	_	_	_	_	_	_	Shift=6731
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p71
+# par_text = Это, как мне кажется, объясняется тем, что слабая бюрократия, не умеющая управлять основными социальными процессами, сосредотачивается на деталях и пытается сократить (во времени и пространстве) область, которую ей нужно контролировать».
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p71-s1
+# text = Это, как мне кажется, объясняется тем, что слабая бюрократия, не умеющая управлять основными социальными процессами, сосредотачивается на деталях и пытается сократить (во времени и пространстве) область, которую ей нужно контролировать''.
+1	Это	_	_	_	_	_	_	_	Shift=6733|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=6736
+3	как	_	_	_	_	_	_	_	Shift=6738
+4	мне	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3006|RuCor_group_id=473067|RuCor_link_id=473064|Shift=6742
+5	кажется	_	_	_	_	_	_	_	Shift=6746|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=6753
+7	объясняется	_	_	_	_	_	_	_	Shift=6755
+8	тем	_	_	_	_	_	_	_	Shift=6767|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=6770
+10	что	_	_	_	_	_	_	_	Shift=6772
+11	слабая	_	_	_	_	_	_	_	RuCor_chain_id=3008|RuCor_group_id=473068|Shift=6776
+12	бюрократия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3008|RuCor_group_id=473068|RuCor_link_id=0|Shift=6783|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=6793
+14	не	_	_	_	_	_	_	_	Shift=6795
+15	умеющая	_	_	_	_	_	_	_	Shift=6798
+16	управлять	_	_	_	_	_	_	_	Shift=6806
+17	основными	_	_	_	_	_	_	_	Shift=6816
+18	социальными	_	_	_	_	_	_	_	Shift=6826
+19	процессами	_	_	_	_	_	_	_	Shift=6838|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=6848
+21	сосредотачивается	_	_	_	_	_	_	_	Shift=6850
+22	на	_	_	_	_	_	_	_	Shift=6868
+23	деталях	_	_	_	_	_	_	_	Shift=6871
+24	и	_	_	_	_	_	_	_	Shift=6879
+25	пытается	_	_	_	_	_	_	_	Shift=6881
+26	сократить	_	_	_	_	_	_	_	Shift=6890
+27	(	_	_	_	_	_	_	_	Shift=6900|SpaceAfter=No
+28	во	_	_	_	_	_	_	_	Shift=6901
+29	времени	_	_	_	_	_	_	_	Shift=6904
+30	и	_	_	_	_	_	_	_	Shift=6912
+31	пространстве	_	_	_	_	_	_	_	Shift=6914|SpaceAfter=No
+32	)	_	_	_	_	_	_	_	Shift=6926
+33	область	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3009|RuCor_group_id=473069|RuCor_link_id=473070|Shift=6928|SpaceAfter=No
+34	,	_	_	_	_	_	_	_	Shift=6935
+35	которую	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=3009|RuCor_group_id=473070|RuCor_link_id=0|Shift=6937
+36	ей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=3008|RuCor_group_id=473071|RuCor_link_id=473068|Shift=6945
+37	нужно	_	_	_	_	_	_	_	Shift=6948
+38	контролировать	_	_	_	_	_	_	_	Shift=6954|SpaceAfter=No
+39	''	_	_	_	_	_	_	_	Shift=6968|SpaceAfter=No
+40	.	_	_	_	_	_	_	_	Shift=6969
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p72
+# par_text = dodger_37:
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p72-s1
+# text = dodger_37:
+1	dodger_37	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3010|RuCor_group_id=473072|RuCor_link_id=0|Shift=6971|SpaceAfter=No
+2	:	_	_	_	_	_	_	_	Shift=6980
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p73
+# par_text = «По «ночникам» ходит молодёжь, я до третьего курса института тоже тусил по ночным дискачам, потом просто вырос из этого, перебесился так сказать.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p73-s1
+# text = ``По ``ночникам'' ходит молодёжь, я до третьего курса института тоже тусил по ночным дискачам, потом просто вырос из этого, перебесился так сказать.
+1	``	_	_	_	_	_	_	_	Shift=6982|SpaceAfter=No
+2	По	_	_	_	_	_	_	_	Shift=6983
+3	``	_	_	_	_	_	_	_	Shift=6986|SpaceAfter=No
+4	ночникам	_	_	_	_	_	_	_	Shift=6987|SpaceAfter=No
+5	''	_	_	_	_	_	_	_	Shift=6995
+6	ходит	_	_	_	_	_	_	_	Shift=6997
+7	молодёжь	_	_	_	_	_	_	_	Shift=7003|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=7011
+9	я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3010|RuCor_group_id=473073|RuCor_link_id=473072|Shift=7013
+10	до	_	_	_	_	_	_	_	Shift=7015
+11	третьего	_	_	_	_	_	_	_	Shift=7018
+12	курса	_	_	_	_	_	_	_	Shift=7027
+13	института	_	_	_	_	_	_	_	Shift=7033
+14	тоже	_	_	_	_	_	_	_	Shift=7043
+15	тусил	_	_	_	_	_	_	_	Shift=7048
+16	по	_	_	_	_	_	_	_	Shift=7054
+17	ночным	_	_	_	_	_	_	_	Shift=7057
+18	дискачам	_	_	_	_	_	_	_	Shift=7064|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=7072
+20	потом	_	_	_	_	_	_	_	Shift=7074
+21	просто	_	_	_	_	_	_	_	Shift=7080
+22	вырос	_	_	_	_	_	_	_	Shift=7087
+23	из	_	_	_	_	_	_	_	Shift=7093
+24	этого	_	_	_	_	_	_	_	Shift=7096|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=7101
+26	перебесился	_	_	_	_	_	_	_	Shift=7103
+27	так	_	_	_	_	_	_	_	Shift=7115
+28	сказать	_	_	_	_	_	_	_	Shift=7119|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	Shift=7126
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p74
+# par_text = Я не знаю кто такой Давыдов, но мне кажется это такой же балабол как те кто клятвенно обещали закрыть в Москве все игровые клубы, они все прекрасно работают и даже новые открываются».
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p74-s1
+# text = Я не знаю кто такой Давыдов, но мне кажется это такой же балабол как те кто клятвенно обещали закрыть в Москве все игровые клубы, они все прекрасно работают и даже новые открываются''.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3010|RuCor_group_id=473074|RuCor_link_id=473073|Shift=7128
+2	не	_	_	_	_	_	_	_	Shift=7130
+3	знаю	_	_	_	_	_	_	_	Shift=7133
+4	кто	_	_	_	_	_	_	_	Shift=7138
+5	такой	_	_	_	_	_	_	_	Shift=7142
+6	Давыдов	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2972|RuCor_group_id=473075|RuCor_link_id=473063|Shift=7148|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=7155
+8	но	_	_	_	_	_	_	_	Shift=7157
+9	мне	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3010|RuCor_group_id=473076|RuCor_link_id=473074|Shift=7160
+10	кажется	_	_	_	_	_	_	_	Shift=7164
+11	это	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=dem|RuCor_attrs_type=anaph|RuCor_chain_id=3010|RuCor_group_id=473077|RuCor_link_id=473076|Shift=7172
+12	такой	_	_	_	_	_	_	_	Shift=7176
+13	же	_	_	_	_	_	_	_	Shift=7182
+14	балабол	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3010|RuCor_group_id=473078|RuCor_link_id=473077|Shift=7185
+15	как	_	_	_	_	_	_	_	Shift=7193
+16	те	_	_	_	_	_	_	_	Shift=7197
+17	кто	_	_	_	_	_	_	_	Shift=7200
+18	клятвенно	_	_	_	_	_	_	_	Shift=7204
+19	обещали	_	_	_	_	_	_	_	Shift=7214
+20	закрыть	_	_	_	_	_	_	_	Shift=7222
+21	в	_	_	_	_	_	_	_	Shift=7230
+22	Москве	_	_	_	_	_	_	_	Shift=7232
+23	все	_	_	_	_	_	_	_	Shift=7239
+24	игровые	_	_	_	_	_	_	_	Shift=7243
+25	клубы	_	_	_	_	_	_	_	Shift=7251|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	Shift=7256
+27	они	_	_	_	_	_	_	_	Shift=7258
+28	все	_	_	_	_	_	_	_	Shift=7262
+29	прекрасно	_	_	_	_	_	_	_	Shift=7266
+30	работают	_	_	_	_	_	_	_	Shift=7276
+31	и	_	_	_	_	_	_	_	Shift=7285
+32	даже	_	_	_	_	_	_	_	Shift=7287
+33	новые	_	_	_	_	_	_	_	Shift=7292
+34	открываются	_	_	_	_	_	_	_	Shift=7298|SpaceAfter=No
+35	''	_	_	_	_	_	_	_	Shift=7309|SpaceAfter=No
+36	.	_	_	_	_	_	_	_	Shift=7310
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p75
+# par_text = Блогер и шоумен Сергей Стиллавин, известный своим стремлением поддерживать смелые предложения сверху, и в этот раз проявил практичную солидарность.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p75-s1
+# text = Блогер и шоумен Сергей Стиллавин, известный своим стремлением поддерживать смелые предложения сверху, и в этот раз проявил практичную солидарность.
+1	Блогер	_	_	_	_	_	_	_	RuCor_chain_id=3011|RuCor_group_id=473079|Shift=7312
+2	и	_	_	_	_	_	_	_	RuCor_chain_id=3011|RuCor_group_id=473079|Shift=7319
+3	шоумен	_	_	_	_	_	_	_	RuCor_chain_id=3011|RuCor_group_id=473079|Shift=7321
+4	Сергей	_	_	_	_	_	_	_	RuCor_chain_id=3011|RuCor_group_id=473079|Shift=7328
+5	Стиллавин	_	_	_	_	_	_	_	RuCor_chain_id=3011|RuCor_group_id=473079|Shift=7335|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=7344
+7	известный	_	_	_	_	_	_	_	Shift=7346
+8	своим	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=3011|RuCor_group_id=473081|RuCor_link_id=473079|Shift=7356
+9	стремлением	_	_	_	_	_	_	_	Shift=7362
+10	поддерживать	_	_	_	_	_	_	_	Shift=7374
+11	смелые	_	_	_	_	_	_	_	Shift=7387
+12	предложения	_	_	_	_	_	_	_	Shift=7394
+13	сверху	_	_	_	_	_	_	_	Shift=7406|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=7412
+15	и	_	_	_	_	_	_	_	Shift=7414
+16	в	_	_	_	_	_	_	_	Shift=7416
+17	этот	_	_	_	_	_	_	_	Shift=7418
+18	раз	_	_	_	_	_	_	_	Shift=7423
+19	проявил	_	_	_	_	_	_	_	Shift=7427
+20	практичную	_	_	_	_	_	_	_	Shift=7435
+21	солидарность	_	_	_	_	_	_	_	Shift=7446|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=7458
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p76
+# par_text = Ночные клубы — безусловное зло, утверждает он и называет их «своднической индустрией».
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p76-s1
+# text = Ночные клубы - безусловное зло, утверждает он и называет их ``своднической индустрией''.
+1	Ночные	_	_	_	_	_	_	_	RuCor_chain_id=3013|RuCor_group_id=473082|Shift=7460
+2	клубы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3013|RuCor_group_id=473082|RuCor_link_id=0|Shift=7467
+3	-	_	_	_	_	_	_	_	Shift=7473
+4	безусловное	_	_	_	_	_	_	_	RuCor_chain_id=3013|RuCor_group_id=473085|Shift=7475
+5	зло	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3013|RuCor_group_id=473085|RuCor_link_id=473082|Shift=7487|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=7490
+7	утверждает	_	_	_	_	_	_	_	Shift=7492
+8	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3012|RuCor_group_id=473086|RuCor_link_id=473080|Shift=7503
+9	и	_	_	_	_	_	_	_	Shift=7506
+10	называет	_	_	_	_	_	_	_	Shift=7508
+11	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3013|RuCor_group_id=473087|RuCor_link_id=473082|Shift=7517
+12	``	_	_	_	_	_	_	_	Shift=7520|SpaceAfter=No
+13	своднической	_	_	_	_	_	_	_	Shift=7521
+14	индустрией	_	_	_	_	_	_	_	Shift=7534|SpaceAfter=No
+15	''	_	_	_	_	_	_	_	Shift=7544|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=7545
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p77
+# par_text = В том смысле, что толпы бесцельной молодёжи, прожигающей ночи напролёт, стремятся туда исключительно за сексом и наркотиками.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p77-s1
+# text = В том смысле, что толпы бесцельной молодёжи, прожигающей ночи напролёт, стремятся туда исключительно за сексом и наркотиками.
+1	В	_	_	_	_	_	_	_	Shift=7547
+2	том	_	_	_	_	_	_	_	Shift=7549
+3	смысле	_	_	_	_	_	_	_	Shift=7553|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=7559
+5	что	_	_	_	_	_	_	_	Shift=7561
+6	толпы	_	_	_	_	_	_	_	Shift=7565
+7	бесцельной	_	_	_	_	_	_	_	Shift=7571
+8	молодёжи	_	_	_	_	_	_	_	Shift=7582|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=7590
+10	прожигающей	_	_	_	_	_	_	_	Shift=7592
+11	ночи	_	_	_	_	_	_	_	Shift=7604
+12	напролёт	_	_	_	_	_	_	_	Shift=7609|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=7617
+14	стремятся	_	_	_	_	_	_	_	Shift=7619
+15	туда	_	_	_	_	_	_	_	Shift=7629
+16	исключительно	_	_	_	_	_	_	_	Shift=7634
+17	за	_	_	_	_	_	_	_	Shift=7648
+18	сексом	_	_	_	_	_	_	_	Shift=7651
+19	и	_	_	_	_	_	_	_	Shift=7658
+20	наркотиками	_	_	_	_	_	_	_	Shift=7660|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=7671
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p78
+# par_text = Орды дизайнеров ежесезонно выдают новые коллекции одежды именно с тем, чтоб бездельники отправились соперничать лейблами и ценниками в злачных местах.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p78-s1
+# text = Орды дизайнеров ежесезонно выдают новые коллекции одежды именно с тем, чтоб бездельники отправились соперничать лейблами и ценниками в злачных местах.
+1	Орды	_	_	_	_	_	_	_	Shift=7673
+2	дизайнеров	_	_	_	_	_	_	_	Shift=7678
+3	ежесезонно	_	_	_	_	_	_	_	Shift=7689
+4	выдают	_	_	_	_	_	_	_	Shift=7700
+5	новые	_	_	_	_	_	_	_	Shift=7707
+6	коллекции	_	_	_	_	_	_	_	Shift=7713
+7	одежды	_	_	_	_	_	_	_	Shift=7723
+8	именно	_	_	_	_	_	_	_	Shift=7730
+9	с	_	_	_	_	_	_	_	Shift=7737
+10	тем	_	_	_	_	_	_	_	Shift=7739|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=7742
+12	чтоб	_	_	_	_	_	_	_	Shift=7744
+13	бездельники	_	_	_	_	_	_	_	Shift=7749
+14	отправились	_	_	_	_	_	_	_	Shift=7761
+15	соперничать	_	_	_	_	_	_	_	Shift=7773
+16	лейблами	_	_	_	_	_	_	_	Shift=7785
+17	и	_	_	_	_	_	_	_	Shift=7794
+18	ценниками	_	_	_	_	_	_	_	Shift=7796
+19	в	_	_	_	_	_	_	_	Shift=7806
+20	злачных	_	_	_	_	_	_	_	Shift=7808
+21	местах	_	_	_	_	_	_	_	Shift=7816|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=7822
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p79
+# par_text = Буржуазный автопром только для того и существует, чтоб умасленные тела золотой молодёжи, похрустывая лоском, красиво выныривали из красивых тачек у входов в красивые клубы.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p79-s1
+# text = Буржуазный автопром только для того и существует, чтоб умасленные тела золотой молодёжи, похрустывая лоском, красиво выныривали из красивых тачек у входов в красивые клубы.
+1	Буржуазный	_	_	_	_	_	_	_	Shift=7824
+2	автопром	_	_	_	_	_	_	_	Shift=7835
+3	только	_	_	_	_	_	_	_	Shift=7844
+4	для	_	_	_	_	_	_	_	Shift=7851
+5	того	_	_	_	_	_	_	_	Shift=7855
+6	и	_	_	_	_	_	_	_	Shift=7860
+7	существует	_	_	_	_	_	_	_	Shift=7862|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=7872
+9	чтоб	_	_	_	_	_	_	_	Shift=7874
+10	умасленные	_	_	_	_	_	_	_	Shift=7879
+11	тела	_	_	_	_	_	_	_	Shift=7890
+12	золотой	_	_	_	_	_	_	_	Shift=7895
+13	молодёжи	_	_	_	_	_	_	_	Shift=7903|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=7911
+15	похрустывая	_	_	_	_	_	_	_	Shift=7913
+16	лоском	_	_	_	_	_	_	_	Shift=7925|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=7931
+18	красиво	_	_	_	_	_	_	_	Shift=7933
+19	выныривали	_	_	_	_	_	_	_	Shift=7941
+20	из	_	_	_	_	_	_	_	Shift=7952
+21	красивых	_	_	_	_	_	_	_	Shift=7955
+22	тачек	_	_	_	_	_	_	_	Shift=7964
+23	у	_	_	_	_	_	_	_	Shift=7970
+24	входов	_	_	_	_	_	_	_	Shift=7972
+25	в	_	_	_	_	_	_	_	Shift=7979
+26	красивые	_	_	_	_	_	_	_	Shift=7981
+27	клубы	_	_	_	_	_	_	_	Shift=7990|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=7995
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p80
+# par_text = Серёжа, составьте список заведений и передайте его лично в соответствующее ведомство.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p80-s1
+# text = Серёжа, составьте список заведений и передайте его лично в соответствующее ведомство.
+1	Серёжа	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3012|RuCor_group_id=473089|RuCor_link_id=473080|Shift=7997|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=8003
+3	составьте	_	_	_	_	_	_	_	Shift=8005
+4	список	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3015|RuCor_group_id=473090|RuCor_link_id=0|Shift=8015
+5	заведений	_	_	_	_	_	_	_	RuCor_chain_id=3015|RuCor_group_id=473090|Shift=8022
+6	и	_	_	_	_	_	_	_	Shift=8032
+7	передайте	_	_	_	_	_	_	_	Shift=8034
+8	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=3015|RuCor_group_id=473091|RuCor_link_id=473090|Shift=8044
+9	лично	_	_	_	_	_	_	_	Shift=8048
+10	в	_	_	_	_	_	_	_	Shift=8054
+11	соответствующее	_	_	_	_	_	_	_	Shift=8056
+12	ведомство	_	_	_	_	_	_	_	Shift=8072|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=8081
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p81
+# par_text = Вам будут признательны за сотрудничество!
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p81-s1
+# text = Вам будут признательны за сотрудничество!
+1	Вам	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3012|RuCor_group_id=473092|RuCor_link_id=473089|Shift=8083
+2	будут	_	_	_	_	_	_	_	Shift=8087
+3	признательны	_	_	_	_	_	_	_	Shift=8093
+4	за	_	_	_	_	_	_	_	Shift=8106
+5	сотрудничество	_	_	_	_	_	_	_	Shift=8109|SpaceAfter=No
+6	!	_	_	_	_	_	_	_	Shift=8123
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p82
+# par_text = Не многие клубы для обычной, серебряной, медной, а то и вовсе алюминиевой молодёжи способны похвастать простейшим — качественным горячим плей-листом.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p82-s1
+# text = Не многие клубы для обычной, серебряной, медной, а то и вовсе алюминиевой молодёжи способны похвастать простейшим - качественным горячим плей-листом.
+1	Не	_	_	_	_	_	_	_	Shift=8125
+2	многие	_	_	_	_	_	_	_	Shift=8128
+3	клубы	_	_	_	_	_	_	_	Shift=8135
+4	для	_	_	_	_	_	_	_	Shift=8141
+5	обычной	_	_	_	_	_	_	_	Shift=8145|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=8152
+7	серебряной	_	_	_	_	_	_	_	Shift=8154|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=8164
+9	медной	_	_	_	_	_	_	_	Shift=8166|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=8172
+11	а	_	_	_	_	_	_	_	Shift=8174
+12	то	_	_	_	_	_	_	_	Shift=8176
+13	и	_	_	_	_	_	_	_	Shift=8179
+14	вовсе	_	_	_	_	_	_	_	Shift=8181
+15	алюминиевой	_	_	_	_	_	_	_	Shift=8187
+16	молодёжи	_	_	_	_	_	_	_	Shift=8199
+17	способны	_	_	_	_	_	_	_	Shift=8208
+18	похвастать	_	_	_	_	_	_	_	Shift=8217
+19	простейшим	_	_	_	_	_	_	_	Shift=8228
+20	-	_	_	_	_	_	_	_	Shift=8239
+21	качественным	_	_	_	_	_	_	_	Shift=8241
+22	горячим	_	_	_	_	_	_	_	Shift=8254
+23	плей-листом	_	_	_	_	_	_	_	Shift=8262|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=8273
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p83
+# par_text = А уж заметить в меню строчку «У нас сегодня акция: «Две унции кокса по цене одной» не получится ни после пятой текилы, ни после восьмого тура ламбады.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p83-s1
+# text = А уж заметить в меню строчку ``У нас сегодня акция: ``Две унции кокса по цене одной'' не получится ни после пятой текилы, ни после восьмого тура ламбады.
+1	А	_	_	_	_	_	_	_	Shift=8275
+2	уж	_	_	_	_	_	_	_	Shift=8277
+3	заметить	_	_	_	_	_	_	_	Shift=8280
+4	в	_	_	_	_	_	_	_	Shift=8289
+5	меню	_	_	_	_	_	_	_	Shift=8291
+6	строчку	_	_	_	_	_	_	_	Shift=8296
+7	``	_	_	_	_	_	_	_	Shift=8304|SpaceAfter=No
+8	У	_	_	_	_	_	_	_	Shift=8305
+9	нас	_	_	_	_	_	_	_	Shift=8307
+10	сегодня	_	_	_	_	_	_	_	Shift=8311
+11	акция	_	_	_	_	_	_	_	Shift=8319|SpaceAfter=No
+12	:	_	_	_	_	_	_	_	Shift=8324
+13	``	_	_	_	_	_	_	_	Shift=8326|SpaceAfter=No
+14	Две	_	_	_	_	_	_	_	Shift=8327
+15	унции	_	_	_	_	_	_	_	Shift=8331
+16	кокса	_	_	_	_	_	_	_	Shift=8337
+17	по	_	_	_	_	_	_	_	Shift=8343
+18	цене	_	_	_	_	_	_	_	Shift=8346
+19	одной	_	_	_	_	_	_	_	Shift=8351|SpaceAfter=No
+20	''	_	_	_	_	_	_	_	Shift=8356
+21	не	_	_	_	_	_	_	_	Shift=8358
+22	получится	_	_	_	_	_	_	_	Shift=8361
+23	ни	_	_	_	_	_	_	_	Shift=8371
+24	после	_	_	_	_	_	_	_	Shift=8374
+25	пятой	_	_	_	_	_	_	_	Shift=8380
+26	текилы	_	_	_	_	_	_	_	Shift=8386|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=8392
+28	ни	_	_	_	_	_	_	_	Shift=8394
+29	после	_	_	_	_	_	_	_	Shift=8397
+30	восьмого	_	_	_	_	_	_	_	Shift=8403
+31	тура	_	_	_	_	_	_	_	Shift=8412
+32	ламбады	_	_	_	_	_	_	_	Shift=8417|SpaceAfter=No
+33	.	_	_	_	_	_	_	_	Shift=8424
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p84
+# par_text = Впрочем, жажду танцев как мотив посещения клубов господин Стиллавин учитывает, искренне иронизируя.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p84-s1
+# text = Впрочем, жажду танцев как мотив посещения клубов господин Стиллавин учитывает, искренне иронизируя.
+1	Впрочем	_	_	_	_	_	_	_	Shift=8426|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=8433
+3	жажду	_	_	_	_	_	_	_	Shift=8435
+4	танцев	_	_	_	_	_	_	_	Shift=8441
+5	как	_	_	_	_	_	_	_	Shift=8448
+6	мотив	_	_	_	_	_	_	_	Shift=8452
+7	посещения	_	_	_	_	_	_	_	Shift=8458
+8	клубов	_	_	_	_	_	_	_	Shift=8468
+9	господин	_	_	_	_	_	_	_	RuCor_chain_id=3012|RuCor_group_id=473093|Shift=8475
+10	Стиллавин	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3012|RuCor_group_id=473093|RuCor_link_id=473092|Shift=8484
+11	учитывает	_	_	_	_	_	_	_	Shift=8494|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=8503
+13	искренне	_	_	_	_	_	_	_	Shift=8505
+14	иронизируя	_	_	_	_	_	_	_	Shift=8514|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=8524
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p85
+# par_text = А в конце размышлений сетует, что при всей полезности инициативы господина Давыдова ему вряд ли что удастся.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p85-s1
+# text = А в конце размышлений сетует, что при всей полезности инициативы господина Давыдова ему вряд ли что удастся.
+1	А	_	_	_	_	_	_	_	Shift=8526
+2	в	_	_	_	_	_	_	_	Shift=8528
+3	конце	_	_	_	_	_	_	_	Shift=8530
+4	размышлений	_	_	_	_	_	_	_	Shift=8536
+5	сетует	_	_	_	_	_	_	_	Shift=8548|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=8554
+7	что	_	_	_	_	_	_	_	Shift=8556
+8	при	_	_	_	_	_	_	_	Shift=8560
+9	всей	_	_	_	_	_	_	_	Shift=8564
+10	полезности	_	_	_	_	_	_	_	Shift=8569
+11	инициативы	_	_	_	_	_	_	_	Shift=8580
+12	господина	_	_	_	_	_	_	_	RuCor_chain_id=2972|RuCor_group_id=473094|Shift=8591
+13	Давыдова	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2972|RuCor_group_id=473094|RuCor_link_id=473075|Shift=8601
+14	ему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2972|RuCor_group_id=473095|RuCor_link_id=473094|Shift=8610
+15	вряд	_	_	_	_	_	_	_	Shift=8614
+16	ли	_	_	_	_	_	_	_	Shift=8619
+17	что	_	_	_	_	_	_	_	Shift=8622
+18	удастся	_	_	_	_	_	_	_	Shift=8626|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=8633
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p86
+# par_text = Скажите спасибо создателю, едкий сатирик, — закроют ночные клубы, у вас станет меньше мест, вызывающих возвышающую жёлчность и брезгливую неприязнь.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p86-s1
+# text = Скажите спасибо создателю, едкий сатирик, - закроют ночные клубы, у вас станет меньше мест, вызывающих возвышающую жёлчность и брезгливую неприязнь.
+1	Скажите	_	_	_	_	_	_	_	Shift=8635
+2	спасибо	_	_	_	_	_	_	_	Shift=8643
+3	создателю	_	_	_	_	_	_	_	Shift=8651|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=8660
+5	едкий	_	_	_	_	_	_	_	Shift=8662
+6	сатирик	_	_	_	_	_	_	_	Shift=8668|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=8675
+8	-	_	_	_	_	_	_	_	Shift=8677
+9	закроют	_	_	_	_	_	_	_	Shift=8679
+10	ночные	_	_	_	_	_	_	_	Shift=8687
+11	клубы	_	_	_	_	_	_	_	Shift=8694|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=8699
+13	у	_	_	_	_	_	_	_	Shift=8701
+14	вас	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3012|RuCor_group_id=473096|RuCor_link_id=473093|Shift=8703
+15	станет	_	_	_	_	_	_	_	Shift=8707
+16	меньше	_	_	_	_	_	_	_	Shift=8714
+17	мест	_	_	_	_	_	_	_	Shift=8721|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=8725
+19	вызывающих	_	_	_	_	_	_	_	Shift=8727
+20	возвышающую	_	_	_	_	_	_	_	Shift=8738
+21	жёлчность	_	_	_	_	_	_	_	Shift=8750
+22	и	_	_	_	_	_	_	_	Shift=8760
+23	брезгливую	_	_	_	_	_	_	_	Shift=8762
+24	неприязнь	_	_	_	_	_	_	_	Shift=8773|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=8782
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p87
+# par_text = iukka:
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p87-s1
+# text = iukka:
+1	iukka	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3016|RuCor_group_id=473097|RuCor_link_id=0|Shift=8784|SpaceAfter=No
+2	:	_	_	_	_	_	_	_	Shift=8789
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p88
+# par_text = «Я не понимаю насколько девушка должна себя не уважать, что бы ходить в такие ночные клубы что бы быть снятой.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p88-s1
+# text = ``Я не понимаю насколько девушка должна себя не уважать, что бы ходить в такие ночные клубы что бы быть снятой.
+1	``	_	_	_	_	_	_	_	Shift=8791|SpaceAfter=No
+2	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3016|RuCor_group_id=473098|RuCor_link_id=473097|Shift=8792
+3	не	_	_	_	_	_	_	_	Shift=8794
+4	понимаю	_	_	_	_	_	_	_	Shift=8797
+5	насколько	_	_	_	_	_	_	_	Shift=8805
+6	девушка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3017|RuCor_group_id=473099|RuCor_link_id=0|Shift=8815
+7	должна	_	_	_	_	_	_	_	Shift=8823
+8	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=3017|RuCor_group_id=473100|RuCor_link_id=473099|Shift=8830
+9	не	_	_	_	_	_	_	_	Shift=8835
+10	уважать	_	_	_	_	_	_	_	Shift=8838|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=8845
+12	что	_	_	_	_	_	_	_	Shift=8847
+13	бы	_	_	_	_	_	_	_	Shift=8851
+14	ходить	_	_	_	_	_	_	_	Shift=8854
+15	в	_	_	_	_	_	_	_	Shift=8861
+16	такие	_	_	_	_	_	_	_	Shift=8863
+17	ночные	_	_	_	_	_	_	_	Shift=8869
+18	клубы	_	_	_	_	_	_	_	Shift=8876
+19	что	_	_	_	_	_	_	_	Shift=8882
+20	бы	_	_	_	_	_	_	_	Shift=8886
+21	быть	_	_	_	_	_	_	_	Shift=8889
+22	снятой	_	_	_	_	_	_	_	Shift=8894|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=8900
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p89
+# par_text = В России про другие клубы я не слышала, а сама предпочитаю не бывать.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p89-s1
+# text = В России про другие клубы я не слышала, а сама предпочитаю не бывать.
+1	В	_	_	_	_	_	_	_	Shift=8902
+2	России	_	_	_	_	_	_	_	Shift=8904
+3	про	_	_	_	_	_	_	_	Shift=8911
+4	другие	_	_	_	_	_	_	_	Shift=8915
+5	клубы	_	_	_	_	_	_	_	Shift=8922
+6	я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3016|RuCor_group_id=473101|RuCor_link_id=473098|Shift=8928
+7	не	_	_	_	_	_	_	_	Shift=8930
+8	слышала	_	_	_	_	_	_	_	Shift=8933|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=8940
+10	а	_	_	_	_	_	_	_	Shift=8942
+11	сама	_	_	_	_	_	_	_	Shift=8944
+12	предпочитаю	_	_	_	_	_	_	_	Shift=8949
+13	не	_	_	_	_	_	_	_	Shift=8961
+14	бывать	_	_	_	_	_	_	_	Shift=8964|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=8970
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p90
+# par_text = Спасибо, пары раз, когда меня затаскивали в клуб, мне хватило для получения незабываемого удовольствия от бега по клубу от непонятливых подвыпивших молодых людей.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p90-s1
+# text = Спасибо, пары раз, когда меня затаскивали в клуб, мне хватило для получения незабываемого удовольствия от бега по клубу от непонятливых подвыпивших молодых людей.
+1	Спасибо	_	_	_	_	_	_	_	Shift=8972|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=8979
+3	пары	_	_	_	_	_	_	_	Shift=8981
+4	раз	_	_	_	_	_	_	_	Shift=8986|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=8989
+6	когда	_	_	_	_	_	_	_	Shift=8991
+7	меня	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3016|RuCor_group_id=473102|RuCor_link_id=473101|Shift=8997
+8	затаскивали	_	_	_	_	_	_	_	Shift=9002
+9	в	_	_	_	_	_	_	_	Shift=9014
+10	клуб	_	_	_	_	_	_	_	Shift=9016|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=9020
+12	мне	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3016|RuCor_group_id=473103|RuCor_link_id=473102|Shift=9022
+13	хватило	_	_	_	_	_	_	_	Shift=9026
+14	для	_	_	_	_	_	_	_	Shift=9034
+15	получения	_	_	_	_	_	_	_	Shift=9038
+16	незабываемого	_	_	_	_	_	_	_	Shift=9048
+17	удовольствия	_	_	_	_	_	_	_	Shift=9062
+18	от	_	_	_	_	_	_	_	Shift=9075
+19	бега	_	_	_	_	_	_	_	Shift=9078
+20	по	_	_	_	_	_	_	_	Shift=9083
+21	клубу	_	_	_	_	_	_	_	Shift=9086
+22	от	_	_	_	_	_	_	_	Shift=9092
+23	непонятливых	_	_	_	_	_	_	_	Shift=9095
+24	подвыпивших	_	_	_	_	_	_	_	Shift=9108
+25	молодых	_	_	_	_	_	_	_	Shift=9120
+26	людей	_	_	_	_	_	_	_	Shift=9128|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=9133
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p91
+# par_text = Вообще бытует мнение, что в наших самых «пафосных» клубах, каких как Soho rooms или Pacha танцевать не принято.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p91-s1
+# text = Вообще бытует мнение, что в наших самых ``пафосных'' клубах, каких как Soho rooms или Pacha танцевать не принято.
+1	Вообще	_	_	_	_	_	_	_	Shift=9135
+2	бытует	_	_	_	_	_	_	_	Shift=9142
+3	мнение	_	_	_	_	_	_	_	Shift=9149|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=9155
+5	что	_	_	_	_	_	_	_	Shift=9157
+6	в	_	_	_	_	_	_	_	Shift=9161
+7	наших	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3018|RuCor_group_id=473104|RuCor_link_id=473105|Shift=9163
+8	самых	_	_	_	_	_	_	_	Shift=9169
+9	``	_	_	_	_	_	_	_	Shift=9175|SpaceAfter=No
+10	пафосных	_	_	_	_	_	_	_	Shift=9176|SpaceAfter=No
+11	''	_	_	_	_	_	_	_	Shift=9184
+12	клубах	_	_	_	_	_	_	_	Shift=9186|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=9192
+14	каких	_	_	_	_	_	_	_	Shift=9194
+15	как	_	_	_	_	_	_	_	Shift=9200
+16	Soho	_	_	_	_	_	_	_	Shift=9204
+17	rooms	_	_	_	_	_	_	_	Shift=9209
+18	или	_	_	_	_	_	_	_	Shift=9215
+19	Pacha	_	_	_	_	_	_	_	Shift=9219
+20	танцевать	_	_	_	_	_	_	_	Shift=9225
+21	не	_	_	_	_	_	_	_	Shift=9235
+22	принято	_	_	_	_	_	_	_	Shift=9238|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=9245
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p92
+# par_text = Это хорошо характеризует нашу «клубную культуру»
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p92-s1
+# text = Это хорошо характеризует нашу ``клубную культуру''
+1	Это	_	_	_	_	_	_	_	Shift=9247
+2	хорошо	_	_	_	_	_	_	_	Shift=9251
+3	характеризует	_	_	_	_	_	_	_	Shift=9258
+4	нашу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3018|RuCor_group_id=473105|RuCor_link_id=0|Shift=9272
+5	``	_	_	_	_	_	_	_	Shift=9277|SpaceAfter=No
+6	клубную	_	_	_	_	_	_	_	Shift=9278
+7	культуру	_	_	_	_	_	_	_	Shift=9286|SpaceAfter=No
+8	''	_	_	_	_	_	_	_	Shift=9294
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p93
+# par_text = Я бы хотела ходить в клубы потанцевать, но в итоге приходится танцевать только или дома для себя или в узкой компании друзей».
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p93-s1
+# text = Я бы хотела ходить в клубы потанцевать, но в итоге приходится танцевать только или дома для себя или в узкой компании друзей''.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3016|RuCor_group_id=473106|RuCor_link_id=473102|Shift=9296
+2	бы	_	_	_	_	_	_	_	Shift=9298
+3	хотела	_	_	_	_	_	_	_	Shift=9301
+4	ходить	_	_	_	_	_	_	_	Shift=9308
+5	в	_	_	_	_	_	_	_	Shift=9315
+6	клубы	_	_	_	_	_	_	_	Shift=9317
+7	потанцевать	_	_	_	_	_	_	_	Shift=9323|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=9334
+9	но	_	_	_	_	_	_	_	Shift=9336
+10	в	_	_	_	_	_	_	_	Shift=9339
+11	итоге	_	_	_	_	_	_	_	Shift=9341
+12	приходится	_	_	_	_	_	_	_	Shift=9347
+13	танцевать	_	_	_	_	_	_	_	Shift=9358
+14	только	_	_	_	_	_	_	_	Shift=9368
+15	или	_	_	_	_	_	_	_	Shift=9375
+16	дома	_	_	_	_	_	_	_	Shift=9379
+17	для	_	_	_	_	_	_	_	Shift=9384
+18	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=3016|RuCor_group_id=473107|RuCor_link_id=473106|Shift=9388
+19	или	_	_	_	_	_	_	_	Shift=9393
+20	в	_	_	_	_	_	_	_	Shift=9397
+21	узкой	_	_	_	_	_	_	_	Shift=9399
+22	компании	_	_	_	_	_	_	_	Shift=9405
+23	друзей	_	_	_	_	_	_	_	Shift=9414|SpaceAfter=No
+24	''	_	_	_	_	_	_	_	Shift=9420|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=9421
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p94
+# par_text = Танец сопровождал культурные традиции любого народа со времён первообщинного строя.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p94-s1
+# text = Танец сопровождал культурные традиции любого народа со времён первообщинного строя.
+1	Танец	_	_	_	_	_	_	_	Shift=9423
+2	сопровождал	_	_	_	_	_	_	_	Shift=9429
+3	культурные	_	_	_	_	_	_	_	Shift=9441
+4	традиции	_	_	_	_	_	_	_	Shift=9452
+5	любого	_	_	_	_	_	_	_	Shift=9461
+6	народа	_	_	_	_	_	_	_	Shift=9468
+7	со	_	_	_	_	_	_	_	Shift=9475
+8	времён	_	_	_	_	_	_	_	Shift=9478
+9	первообщинного	_	_	_	_	_	_	_	Shift=9485
+10	строя	_	_	_	_	_	_	_	Shift=9500|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=9505
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p95
+# par_text = Даже в те далёкие времена, когда слово «стресс» не приходило на ум ни одному деревянному или каменному божеству, танец был необходим человеку как способ высвобождения энергии, ухода в параллельные измерения сознания, где существуешь лишь ты, твоё тело и твой пульс, когда сознание полностью подчиняется чувственности.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p95-s1
+# text = Даже в те далёкие времена, когда слово ``стресс'' не приходило на ум ни одному деревянному или каменному божеству, танец был необходим человеку как способ высвобождения энергии, ухода в параллельные измерения сознания, где существуешь лишь ты, твоё тело и твой пульс, когда сознание полностью подчиняется чувственности.
+1	Даже	_	_	_	_	_	_	_	Shift=9507
+2	в	_	_	_	_	_	_	_	Shift=9512
+3	те	_	_	_	_	_	_	_	Shift=9514
+4	далёкие	_	_	_	_	_	_	_	Shift=9517
+5	времена	_	_	_	_	_	_	_	Shift=9525|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=9532
+7	когда	_	_	_	_	_	_	_	Shift=9534
+8	слово	_	_	_	_	_	_	_	Shift=9540
+9	``	_	_	_	_	_	_	_	Shift=9546|SpaceAfter=No
+10	стресс	_	_	_	_	_	_	_	Shift=9547|SpaceAfter=No
+11	''	_	_	_	_	_	_	_	Shift=9553
+12	не	_	_	_	_	_	_	_	Shift=9555
+13	приходило	_	_	_	_	_	_	_	Shift=9558
+14	на	_	_	_	_	_	_	_	Shift=9568
+15	ум	_	_	_	_	_	_	_	Shift=9571
+16	ни	_	_	_	_	_	_	_	Shift=9574
+17	одному	_	_	_	_	_	_	_	Shift=9577
+18	деревянному	_	_	_	_	_	_	_	Shift=9584
+19	или	_	_	_	_	_	_	_	Shift=9596
+20	каменному	_	_	_	_	_	_	_	Shift=9600
+21	божеству	_	_	_	_	_	_	_	Shift=9610|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=9618
+23	танец	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3019|RuCor_group_id=473108|RuCor_link_id=0|Shift=9620
+24	был	_	_	_	_	_	_	_	Shift=9626
+25	необходим	_	_	_	_	_	_	_	Shift=9630
+26	человеку	_	_	_	_	_	_	_	Shift=9640
+27	как	_	_	_	_	_	_	_	Shift=9649
+28	способ	_	_	_	_	_	_	_	Shift=9653
+29	высвобождения	_	_	_	_	_	_	_	Shift=9660
+30	энергии	_	_	_	_	_	_	_	Shift=9674|SpaceAfter=No
+31	,	_	_	_	_	_	_	_	Shift=9681
+32	ухода	_	_	_	_	_	_	_	Shift=9683
+33	в	_	_	_	_	_	_	_	Shift=9689
+34	параллельные	_	_	_	_	_	_	_	Shift=9691
+35	измерения	_	_	_	_	_	_	_	Shift=9704
+36	сознания	_	_	_	_	_	_	_	Shift=9714|SpaceAfter=No
+37	,	_	_	_	_	_	_	_	Shift=9722
+38	где	_	_	_	_	_	_	_	Shift=9724
+39	существуешь	_	_	_	_	_	_	_	Shift=9728
+40	лишь	_	_	_	_	_	_	_	Shift=9740
+41	ты	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3020|RuCor_group_id=473109|RuCor_link_id=473110|Shift=9745|SpaceAfter=No
+42	,	_	_	_	_	_	_	_	Shift=9747
+43	твоё	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3020|RuCor_group_id=473110|RuCor_link_id=473111|Shift=9749
+44	тело	_	_	_	_	_	_	_	Shift=9754
+45	и	_	_	_	_	_	_	_	Shift=9759
+46	твой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3020|RuCor_group_id=473111|RuCor_link_id=0|Shift=9761
+47	пульс	_	_	_	_	_	_	_	Shift=9766|SpaceAfter=No
+48	,	_	_	_	_	_	_	_	Shift=9771
+49	когда	_	_	_	_	_	_	_	Shift=9773
+50	сознание	_	_	_	_	_	_	_	Shift=9779
+51	полностью	_	_	_	_	_	_	_	Shift=9788
+52	подчиняется	_	_	_	_	_	_	_	Shift=9798
+53	чувственности	_	_	_	_	_	_	_	Shift=9810|SpaceAfter=No
+54	.	_	_	_	_	_	_	_	Shift=9823
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p96
+# par_text = Да-да, как и в сексе!
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p96-s1
+# text = Дада, как и в сексе!
+1	Дада	_	_	_	_	_	_	_	Shift=9825|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=9830
+3	как	_	_	_	_	_	_	_	Shift=9832
+4	и	_	_	_	_	_	_	_	Shift=9836
+5	в	_	_	_	_	_	_	_	Shift=9838
+6	сексе	_	_	_	_	_	_	_	Shift=9840|SpaceAfter=No
+7	!	_	_	_	_	_	_	_	Shift=9845
+
+# newpar id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p97
+# par_text = Он бывал религиозным обрядом, способом социального общения, коим остался до сих пор, способом самовыражения, спортивным состязанием и показательным видом искусства.
+# sent_id = 34230b2f-7957-4870-a8d3-6fe5f0b028fc-p97-s1
+# text = Он бывал религиозным обрядом, способом социального общения, коим остался до сих пор, способом самовыражения, спортивным состязанием и показательным видом искусства.
+1	Он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=3019|RuCor_group_id=473112|RuCor_link_id=473108|Shift=9847
+2	бывал	_	_	_	_	_	_	_	Shift=9850
+3	религиозным	_	_	_	_	_	_	_	Shift=9856
+4	обрядом	_	_	_	_	_	_	_	Shift=9868|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=9875
+6	способом	_	_	_	_	_	_	_	Shift=9877
+7	социального	_	_	_	_	_	_	_	Shift=9886
+8	общения	_	_	_	_	_	_	_	Shift=9898|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=9905
+10	коим	_	_	_	_	_	_	_	Shift=9907
+11	остался	_	_	_	_	_	_	_	Shift=9912
+12	до	_	_	_	_	_	_	_	Shift=9920
+13	сих	_	_	_	_	_	_	_	Shift=9923
+14	пор	_	_	_	_	_	_	_	Shift=9927|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=9930
+16	способом	_	_	_	_	_	_	_	Shift=9932
+17	самовыражения	_	_	_	_	_	_	_	Shift=9941|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=9954
+19	спортивным	_	_	_	_	_	_	_	Shift=9956
+20	состязанием	_	_	_	_	_	_	_	Shift=9967
+21	и	_	_	_	_	_	_	_	Shift=9979
+22	показательным	_	_	_	_	_	_	_	Shift=9981
+23	видом	_	_	_	_	_	_	_	Shift=9995
+24	искусства	_	_	_	_	_	_	_	Shift=10001|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	_
+

@@ -1,0 +1,568 @@
+# newdoc id = f14f11de-29b6-4259-867a-b9eccd430e39
+# newpar id = f14f11de-29b6-4259-867a-b9eccd430e39-p1
+# par_text = Совет ЕС выразил озабоченность последними событиями на Украине. Обсуждение этой темы в Брюсселе состоялось 20 января.
+# sent_id = f14f11de-29b6-4259-867a-b9eccd430e39-p1-s1
+# text = Совет ЕС выразил озабоченность последними событиями на Украине.
+1	Совет	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3466|RuCor_group_id=475123|RuCor_link_id=0|Shift=0
+2	ЕС	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3467|RuCor_group_id=475124|RuCor_link_id=0|Shift=6
+3	выразил	_	_	_	_	_	_	_	Shift=9
+4	озабоченность	_	_	_	_	_	_	_	Shift=17
+5	последними	_	_	_	_	_	_	_	Shift=31
+6	событиями	_	_	_	_	_	_	_	Shift=42
+7	на	_	_	_	_	_	_	_	Shift=52
+8	Украине	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3468|RuCor_group_id=475125|RuCor_link_id=0|Shift=55|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=62
+
+# sent_id = f14f11de-29b6-4259-867a-b9eccd430e39-p1-s2
+# text = Обсуждение этой темы в Брюсселе состоялось 20 января.
+1	Обсуждение	_	_	_	_	_	_	_	Shift=64
+2	этой	_	_	_	_	_	_	_	Shift=75
+3	темы	_	_	_	_	_	_	_	Shift=80
+4	в	_	_	_	_	_	_	_	Shift=85
+5	Брюсселе	_	_	_	_	_	_	_	Shift=87
+6	состоялось	_	_	_	_	_	_	_	Shift=96
+7	20	_	_	_	_	_	_	_	Shift=107
+8	января	_	_	_	_	_	_	_	Shift=110|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=116
+
+# newpar id = f14f11de-29b6-4259-867a-b9eccd430e39-p2
+# par_text = В заявлении, принятом по итогам обсуждения, представители ЕС призывают всех участников противостояния, развернувшегося в Киеве, к сдержанности. Они советуют властям уважать право людей на свободу собраний, а кроме того, рекомендуют отменить резонансные законопроекты, принятые недавно Верховной Радой (речь идет о документах, ужесточающих правила проведения массовых мероприятий и устанавливающих уголовную ответственность за угрозы в адрес власти, распространяемые через интернет).
+# sent_id = f14f11de-29b6-4259-867a-b9eccd430e39-p2-s1
+# text = В заявлении, принятом по итогам обсуждения, представители ЕС призывают всех участников противостояния, развернувшегося в Киеве, к сдержанности.
+1	В	_	_	_	_	_	_	_	Shift=118
+2	заявлении	_	_	_	_	_	_	_	Shift=120|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=129
+4	принятом	_	_	_	_	_	_	_	Shift=131
+5	по	_	_	_	_	_	_	_	Shift=140
+6	итогам	_	_	_	_	_	_	_	Shift=143
+7	обсуждения	_	_	_	_	_	_	_	Shift=150|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=160
+9	представители	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3469|RuCor_group_id=475126|RuCor_link_id=0|Shift=162
+10	ЕС	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3467|RuCor_group_id=475127|RuCor_link_id=475124|Shift=176
+11	призывают	_	_	_	_	_	_	_	Shift=179
+12	всех	_	_	_	_	_	_	_	Shift=189
+13	участников	_	_	_	_	_	_	_	Shift=194
+14	противостояния	_	_	_	_	_	_	_	Shift=205|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=219
+16	развернувшегося	_	_	_	_	_	_	_	Shift=221
+17	в	_	_	_	_	_	_	_	Shift=237
+18	Киеве	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3470|RuCor_group_id=475128|RuCor_link_id=0|Shift=239|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=244
+20	к	_	_	_	_	_	_	_	Shift=246
+21	сдержанности	_	_	_	_	_	_	_	Shift=248|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=260
+
+# sent_id = f14f11de-29b6-4259-867a-b9eccd430e39-p2-s2
+# text = Они советуют властям уважать право людей на свободу собраний, а кроме того, рекомендуют отменить резонансные законопроекты, принятые недавно Верховной Радой (речь идет о документах, ужесточающих правила проведения массовых мероприятий и устанавливающих уголовную ответственность за угрозы в адрес власти, распространяемые через интернет).
+1	Они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=3469|RuCor_group_id=475129|RuCor_link_id=475126|Shift=262
+2	советуют	_	_	_	_	_	_	_	Shift=266
+3	властям	_	_	_	_	_	_	_	Shift=275
+4	уважать	_	_	_	_	_	_	_	Shift=283
+5	право	_	_	_	_	_	_	_	Shift=291
+6	людей	_	_	_	_	_	_	_	Shift=297
+7	на	_	_	_	_	_	_	_	Shift=303
+8	свободу	_	_	_	_	_	_	_	Shift=306
+9	собраний	_	_	_	_	_	_	_	Shift=314|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=322
+11	а	_	_	_	_	_	_	_	Shift=324
+12	кроме	_	_	_	_	_	_	_	Shift=326
+13	того	_	_	_	_	_	_	_	Shift=332|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=336
+15	рекомендуют	_	_	_	_	_	_	_	Shift=338
+16	отменить	_	_	_	_	_	_	_	Shift=350
+17	резонансные	_	_	_	_	_	_	_	RuCor_chain_id=3471|RuCor_group_id=475130|Shift=359
+18	законопроекты	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3471|RuCor_group_id=475130|RuCor_link_id=0|Shift=371|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=384
+20	принятые	_	_	_	_	_	_	_	Shift=386
+21	недавно	_	_	_	_	_	_	_	Shift=395
+22	Верховной	_	_	_	_	_	_	_	RuCor_chain_id=3472|RuCor_group_id=475131|Shift=403
+23	Радой	_	_	_	_	_	_	_	RuCor_chain_id=3472|RuCor_group_id=475131|Shift=413
+24	(	_	_	_	_	_	_	_	Shift=419|SpaceAfter=No
+25	речь	_	_	_	_	_	_	_	Shift=420
+26	идет	_	_	_	_	_	_	_	Shift=425
+27	о	_	_	_	_	_	_	_	Shift=430
+28	документах	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3471|RuCor_group_id=475132|RuCor_link_id=475130|Shift=432|SpaceAfter=No
+29	,	_	_	_	_	_	_	_	Shift=442
+30	ужесточающих	_	_	_	_	_	_	_	Shift=444
+31	правила	_	_	_	_	_	_	_	Shift=457
+32	проведения	_	_	_	_	_	_	_	Shift=465
+33	массовых	_	_	_	_	_	_	_	Shift=476
+34	мероприятий	_	_	_	_	_	_	_	Shift=485
+35	и	_	_	_	_	_	_	_	Shift=497
+36	устанавливающих	_	_	_	_	_	_	_	Shift=499
+37	уголовную	_	_	_	_	_	_	_	Shift=515
+38	ответственность	_	_	_	_	_	_	_	Shift=525
+39	за	_	_	_	_	_	_	_	Shift=541
+40	угрозы	_	_	_	_	_	_	_	Shift=544
+41	в	_	_	_	_	_	_	_	Shift=551
+42	адрес	_	_	_	_	_	_	_	Shift=553
+43	власти	_	_	_	_	_	_	_	Shift=559|SpaceAfter=No
+44	,	_	_	_	_	_	_	_	Shift=565
+45	распространяемые	_	_	_	_	_	_	_	Shift=567
+46	через	_	_	_	_	_	_	_	Shift=584
+47	интернет	_	_	_	_	_	_	_	Shift=590|SpaceAfter=No
+48	)	_	_	_	_	_	_	_	Shift=598|SpaceAfter=No
+49	.	_	_	_	_	_	_	_	Shift=599
+
+# newpar id = f14f11de-29b6-4259-867a-b9eccd430e39-p3
+# par_text = По мнению Совета, эти законопроекты существенно ограничивают фундаментальные права украинцев, касающиеся собраний и СМИ, а также ограничивают деятельность организаций гражданского общества. ЕС в связи с этим призывает украинское руководство позаботиться об отмене этих законов и привести местное законодательство «в соответствие с международными обязательствами Украины».
+# sent_id = f14f11de-29b6-4259-867a-b9eccd430e39-p3-s1
+# text = По мнению Совета, эти законопроекты существенно ограничивают фундаментальные права украинцев, касающиеся собраний и СМИ, а также ограничивают деятельность организаций гражданского общества.
+1	По	_	_	_	_	_	_	_	Shift=601
+2	мнению	_	_	_	_	_	_	_	Shift=604
+3	Совета	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3466|RuCor_group_id=475133|RuCor_link_id=475123|Shift=611|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=617
+5	эти	_	_	_	_	_	_	_	RuCor_chain_id=3471|RuCor_group_id=475134|Shift=619
+6	законопроекты	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3471|RuCor_group_id=475134|RuCor_link_id=475130|Shift=623
+7	существенно	_	_	_	_	_	_	_	Shift=637
+8	ограничивают	_	_	_	_	_	_	_	Shift=649
+9	фундаментальные	_	_	_	_	_	_	_	Shift=662
+10	права	_	_	_	_	_	_	_	Shift=678
+11	украинцев	_	_	_	_	_	_	_	Shift=684|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=693
+13	касающиеся	_	_	_	_	_	_	_	Shift=695
+14	собраний	_	_	_	_	_	_	_	Shift=706
+15	и	_	_	_	_	_	_	_	Shift=715
+16	СМИ	_	_	_	_	_	_	_	Shift=717|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=720
+18	а	_	_	_	_	_	_	_	Shift=722
+19	также	_	_	_	_	_	_	_	Shift=724
+20	ограничивают	_	_	_	_	_	_	_	Shift=730
+21	деятельность	_	_	_	_	_	_	_	Shift=743
+22	организаций	_	_	_	_	_	_	_	Shift=756
+23	гражданского	_	_	_	_	_	_	_	Shift=768
+24	общества	_	_	_	_	_	_	_	Shift=781|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=789
+
+# sent_id = f14f11de-29b6-4259-867a-b9eccd430e39-p3-s2
+# text = ЕС в связи с этим призывает украинское руководство позаботиться об отмене этих законов и привести местное законодательство ``в соответствие с международными обязательствами Украины''.
+1	ЕС	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3467|RuCor_group_id=475135|RuCor_link_id=475127|Shift=791
+2	в	_	_	_	_	_	_	_	Shift=794
+3	связи	_	_	_	_	_	_	_	Shift=796
+4	с	_	_	_	_	_	_	_	Shift=802
+5	этим	_	_	_	_	_	_	_	Shift=804
+6	призывает	_	_	_	_	_	_	_	Shift=809
+7	украинское	_	_	_	_	_	_	_	RuCor_chain_id=3473|RuCor_group_id=475136|Shift=819
+8	руководство	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3473|RuCor_group_id=475136|RuCor_link_id=0|Shift=830
+9	позаботиться	_	_	_	_	_	_	_	Shift=842
+10	об	_	_	_	_	_	_	_	Shift=855
+11	отмене	_	_	_	_	_	_	_	Shift=858
+12	этих	_	_	_	_	_	_	_	RuCor_chain_id=3471|RuCor_group_id=475137|Shift=865
+13	законов	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3471|RuCor_group_id=475137|RuCor_link_id=475134|Shift=870
+14	и	_	_	_	_	_	_	_	Shift=878
+15	привести	_	_	_	_	_	_	_	Shift=880
+16	местное	_	_	_	_	_	_	_	Shift=889
+17	законодательство	_	_	_	_	_	_	_	Shift=897
+18	``	_	_	_	_	_	_	_	Shift=914|SpaceAfter=No
+19	в	_	_	_	_	_	_	_	Shift=915
+20	соответствие	_	_	_	_	_	_	_	Shift=917
+21	с	_	_	_	_	_	_	_	Shift=930
+22	международными	_	_	_	_	_	_	_	Shift=932
+23	обязательствами	_	_	_	_	_	_	_	Shift=947
+24	Украины	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3468|RuCor_group_id=475138|RuCor_link_id=475125|Shift=963|SpaceAfter=No
+25	''	_	_	_	_	_	_	_	Shift=970|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=971
+
+# newpar id = f14f11de-29b6-4259-867a-b9eccd430e39-p4
+# par_text = Ранее на события в Киеве отреагировало руководство США. Белый дом призвал к прекращению столкновений, возложив при этом ответственность за эскалацию конфликта на украинские власти, оказавшиеся «не в состоянии признать законные претензии своего народа». В США не исключили введения санкций против Украины.
+# sent_id = f14f11de-29b6-4259-867a-b9eccd430e39-p4-s1
+# text = Ранее на события в Киеве отреагировало руководство США.
+1	Ранее	_	_	_	_	_	_	_	Shift=973
+2	на	_	_	_	_	_	_	_	Shift=979
+3	события	_	_	_	_	_	_	_	Shift=982
+4	в	_	_	_	_	_	_	_	Shift=990
+5	Киеве	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3470|RuCor_group_id=475139|RuCor_link_id=475128|Shift=992
+6	отреагировало	_	_	_	_	_	_	_	Shift=998
+7	руководство	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3474|RuCor_group_id=475140|RuCor_link_id=0|Shift=1012
+8	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3475|RuCor_group_id=475141|RuCor_link_id=0|Shift=1024|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=1027
+
+# sent_id = f14f11de-29b6-4259-867a-b9eccd430e39-p4-s2
+# text = Белый дом призвал к прекращению столкновений, возложив при этом ответственность за эскалацию конфликта на украинские власти, оказавшиеся ``не в состоянии признать законные претензии своего народа''.
+1	Белый	_	_	_	_	_	_	_	RuCor_chain_id=3474|RuCor_group_id=475142|Shift=1029
+2	дом	_	_	_	_	_	_	_	RuCor_chain_id=3474|RuCor_group_id=475142|Shift=1035
+3	призвал	_	_	_	_	_	_	_	Shift=1039
+4	к	_	_	_	_	_	_	_	Shift=1047
+5	прекращению	_	_	_	_	_	_	_	Shift=1049
+6	столкновений	_	_	_	_	_	_	_	Shift=1061|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=1073
+8	возложив	_	_	_	_	_	_	_	Shift=1075
+9	при	_	_	_	_	_	_	_	Shift=1084
+10	этом	_	_	_	_	_	_	_	Shift=1088
+11	ответственность	_	_	_	_	_	_	_	Shift=1093
+12	за	_	_	_	_	_	_	_	Shift=1109
+13	эскалацию	_	_	_	_	_	_	_	Shift=1112
+14	конфликта	_	_	_	_	_	_	_	Shift=1122
+15	на	_	_	_	_	_	_	_	Shift=1132
+16	украинские	_	_	_	_	_	_	_	RuCor_chain_id=3473|RuCor_group_id=475143|Shift=1135
+17	власти	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3473|RuCor_group_id=475143|RuCor_link_id=475136|Shift=1146|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=1152
+19	оказавшиеся	_	_	_	_	_	_	_	Shift=1154
+20	``	_	_	_	_	_	_	_	Shift=1166|SpaceAfter=No
+21	не	_	_	_	_	_	_	_	Shift=1167
+22	в	_	_	_	_	_	_	_	Shift=1170
+23	состоянии	_	_	_	_	_	_	_	Shift=1172
+24	признать	_	_	_	_	_	_	_	Shift=1182
+25	законные	_	_	_	_	_	_	_	Shift=1191
+26	претензии	_	_	_	_	_	_	_	Shift=1200
+27	своего	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3473|RuCor_group_id=475144|RuCor_link_id=475143|Shift=1210
+28	народа	_	_	_	_	_	_	_	Shift=1217|SpaceAfter=No
+29	''	_	_	_	_	_	_	_	Shift=1223|SpaceAfter=No
+30	.	_	_	_	_	_	_	_	Shift=1224
+
+# sent_id = f14f11de-29b6-4259-867a-b9eccd430e39-p4-s3
+# text = В США не исключили введения санкций против Украины.
+1	В	_	_	_	_	_	_	_	Shift=1226
+2	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3475|RuCor_group_id=475145|RuCor_link_id=475141|Shift=1228
+3	не	_	_	_	_	_	_	_	Shift=1232
+4	исключили	_	_	_	_	_	_	_	Shift=1235
+5	введения	_	_	_	_	_	_	_	Shift=1245
+6	санкций	_	_	_	_	_	_	_	Shift=1254
+7	против	_	_	_	_	_	_	_	Shift=1262
+8	Украины	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3468|RuCor_group_id=475146|RuCor_link_id=475138|Shift=1269|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=1276
+
+# newpar id = f14f11de-29b6-4259-867a-b9eccd430e39-p5
+# par_text = В конце прошлой неделе Верховная Рада приняла ряд поправок в законодательство, которые оппозиция расценила как инструменты «диктатуры» и введения цензуры в стране. За соответствующие законопроекты голосовали депутаты от правящей Партии регионов и коммунисты. Позднее их подписал президент Украины Виктор Янукович.
+# sent_id = f14f11de-29b6-4259-867a-b9eccd430e39-p5-s1
+# text = В конце прошлой неделе Верховная Рада приняла ряд поправок в законодательство, которые оппозиция расценила как инструменты ``диктатуры'' и введения цензуры в стране.
+1	В	_	_	_	_	_	_	_	Shift=1278
+2	конце	_	_	_	_	_	_	_	Shift=1280
+3	прошлой	_	_	_	_	_	_	_	Shift=1286
+4	неделе	_	_	_	_	_	_	_	Shift=1294
+5	Верховная	_	_	_	_	_	_	_	RuCor_chain_id=3472|RuCor_group_id=475147|Shift=1301
+6	Рада	_	_	_	_	_	_	_	RuCor_chain_id=3472|RuCor_group_id=475147|Shift=1311
+7	приняла	_	_	_	_	_	_	_	Shift=1316
+8	ряд	_	_	_	_	_	_	_	Shift=1324
+9	поправок	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3471|RuCor_group_id=475148|RuCor_link_id=475134|Shift=1328
+10	в	_	_	_	_	_	_	_	RuCor_chain_id=3471|RuCor_group_id=475148|Shift=1337
+11	законодательство	_	_	_	_	_	_	_	RuCor_chain_id=3471|RuCor_group_id=475148|Shift=1339|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=1355
+13	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=3471|RuCor_group_id=475149|RuCor_link_id=475148|Shift=1357
+14	оппозиция	_	_	_	_	_	_	_	Shift=1365
+15	расценила	_	_	_	_	_	_	_	Shift=1375
+16	как	_	_	_	_	_	_	_	Shift=1385
+17	инструменты	_	_	_	_	_	_	_	Shift=1389
+18	``	_	_	_	_	_	_	_	Shift=1401|SpaceAfter=No
+19	диктатуры	_	_	_	_	_	_	_	Shift=1402|SpaceAfter=No
+20	''	_	_	_	_	_	_	_	Shift=1411
+21	и	_	_	_	_	_	_	_	Shift=1413
+22	введения	_	_	_	_	_	_	_	Shift=1415
+23	цензуры	_	_	_	_	_	_	_	Shift=1424
+24	в	_	_	_	_	_	_	_	Shift=1432
+25	стране	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3468|RuCor_group_id=475150|RuCor_link_id=475146|Shift=1434|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=1440
+
+# sent_id = f14f11de-29b6-4259-867a-b9eccd430e39-p5-s2
+# text = За соответствующие законопроекты голосовали депутаты от правящей Партии регионов и коммунисты.
+1	За	_	_	_	_	_	_	_	Shift=1442
+2	соответствующие	_	_	_	_	_	_	_	RuCor_chain_id=3471|RuCor_group_id=475151|Shift=1445
+3	законопроекты	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3471|RuCor_group_id=475151|RuCor_link_id=475134|Shift=1461
+4	голосовали	_	_	_	_	_	_	_	Shift=1475
+5	депутаты	_	_	_	_	_	_	_	Shift=1486
+6	от	_	_	_	_	_	_	_	Shift=1495
+7	правящей	_	_	_	_	_	_	_	Shift=1498
+8	Партии	_	_	_	_	_	_	_	Shift=1507
+9	регионов	_	_	_	_	_	_	_	Shift=1514
+10	и	_	_	_	_	_	_	_	Shift=1523
+11	коммунисты	_	_	_	_	_	_	_	Shift=1525|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=1535
+
+# sent_id = f14f11de-29b6-4259-867a-b9eccd430e39-p5-s3
+# text = Позднее их подписал президент Украины Виктор Янукович.
+1	Позднее	_	_	_	_	_	_	_	Shift=1537
+2	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3471|RuCor_group_id=475152|RuCor_link_id=475151|Shift=1545
+3	подписал	_	_	_	_	_	_	_	Shift=1548
+4	президент	_	_	_	_	_	_	_	Shift=1557
+5	Украины	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3468|RuCor_group_id=475153|RuCor_link_id=475146|Shift=1567
+6	Виктор	_	_	_	_	_	_	_	Shift=1575
+7	Янукович	_	_	_	_	_	_	_	Shift=1582|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=1590
+
+# newpar id = f14f11de-29b6-4259-867a-b9eccd430e39-p6
+# par_text = В частности, была введена уголовная ответственность за распространение в интернете призывов (а также за обоснование и оправдание соответствующей деятельности) к насильственной смене конституционного строя и препятствованию деятельности органов власти. В качестве наказаний были предусмотрены штрафы и лишение свободы сроком до трех лет.
+# sent_id = f14f11de-29b6-4259-867a-b9eccd430e39-p6-s1
+# text = В частности, была введена уголовная ответственность за распространение в интернете призывов (а также за обоснование и оправдание соответствующей деятельности) к насильственной смене конституционного строя и препятствованию деятельности органов власти.
+1	В	_	_	_	_	_	_	_	Shift=1592
+2	частности	_	_	_	_	_	_	_	Shift=1594|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1603
+4	была	_	_	_	_	_	_	_	Shift=1605
+5	введена	_	_	_	_	_	_	_	Shift=1610
+6	уголовная	_	_	_	_	_	_	_	Shift=1618
+7	ответственность	_	_	_	_	_	_	_	Shift=1628
+8	за	_	_	_	_	_	_	_	Shift=1644
+9	распространение	_	_	_	_	_	_	_	Shift=1647
+10	в	_	_	_	_	_	_	_	Shift=1663
+11	интернете	_	_	_	_	_	_	_	Shift=1665
+12	призывов	_	_	_	_	_	_	_	Shift=1675
+13	(	_	_	_	_	_	_	_	Shift=1684|SpaceAfter=No
+14	а	_	_	_	_	_	_	_	Shift=1685
+15	также	_	_	_	_	_	_	_	Shift=1687
+16	за	_	_	_	_	_	_	_	Shift=1693
+17	обоснование	_	_	_	_	_	_	_	Shift=1696
+18	и	_	_	_	_	_	_	_	Shift=1708
+19	оправдание	_	_	_	_	_	_	_	Shift=1710
+20	соответствующей	_	_	_	_	_	_	_	Shift=1721
+21	деятельности	_	_	_	_	_	_	_	Shift=1737|SpaceAfter=No
+22	)	_	_	_	_	_	_	_	Shift=1749
+23	к	_	_	_	_	_	_	_	Shift=1751
+24	насильственной	_	_	_	_	_	_	_	Shift=1753
+25	смене	_	_	_	_	_	_	_	Shift=1768
+26	конституционного	_	_	_	_	_	_	_	Shift=1774
+27	строя	_	_	_	_	_	_	_	Shift=1791
+28	и	_	_	_	_	_	_	_	Shift=1797
+29	препятствованию	_	_	_	_	_	_	_	Shift=1799
+30	деятельности	_	_	_	_	_	_	_	Shift=1815
+31	органов	_	_	_	_	_	_	_	Shift=1828
+32	власти	_	_	_	_	_	_	_	Shift=1836|SpaceAfter=No
+33	.	_	_	_	_	_	_	_	Shift=1842
+
+# sent_id = f14f11de-29b6-4259-867a-b9eccd430e39-p6-s2
+# text = В качестве наказаний были предусмотрены штрафы и лишение свободы сроком до трех лет.
+1	В	_	_	_	_	_	_	_	Shift=1844
+2	качестве	_	_	_	_	_	_	_	Shift=1846
+3	наказаний	_	_	_	_	_	_	_	Shift=1855
+4	были	_	_	_	_	_	_	_	Shift=1865
+5	предусмотрены	_	_	_	_	_	_	_	Shift=1870
+6	штрафы	_	_	_	_	_	_	_	Shift=1884
+7	и	_	_	_	_	_	_	_	Shift=1891
+8	лишение	_	_	_	_	_	_	_	Shift=1893
+9	свободы	_	_	_	_	_	_	_	Shift=1901
+10	сроком	_	_	_	_	_	_	_	Shift=1909
+11	до	_	_	_	_	_	_	_	Shift=1916
+12	трех	_	_	_	_	_	_	_	Shift=1919
+13	лет	_	_	_	_	_	_	_	Shift=1924|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=1927
+
+# newpar id = f14f11de-29b6-4259-867a-b9eccd430e39-p7
+# par_text = Кроме того, была введена уголовная ответственность за клевету, а Национальной комиссии по связи дали возможность принимать решения о блокировке интернет-ресурсов на основании «экспертных заключений» (без решения суда). Параллельно с этим были ужесточены правила проведения массовых мероприятий: в частности, митингующим запретили ставить палатки.
+# sent_id = f14f11de-29b6-4259-867a-b9eccd430e39-p7-s1
+# text = Кроме того, была введена уголовная ответственность за клевету, а Национальной комиссии по связи дали возможность принимать решения о блокировке интернет-ресурсов на основании ``экспертных заключений'' (без решения суда).
+1	Кроме	_	_	_	_	_	_	_	Shift=1929
+2	того	_	_	_	_	_	_	_	Shift=1935|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1939
+4	была	_	_	_	_	_	_	_	Shift=1941
+5	введена	_	_	_	_	_	_	_	Shift=1946
+6	уголовная	_	_	_	_	_	_	_	Shift=1954
+7	ответственность	_	_	_	_	_	_	_	Shift=1964
+8	за	_	_	_	_	_	_	_	Shift=1980
+9	клевету	_	_	_	_	_	_	_	Shift=1983|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=1990
+11	а	_	_	_	_	_	_	_	Shift=1992
+12	Национальной	_	_	_	_	_	_	_	Shift=1994
+13	комиссии	_	_	_	_	_	_	_	Shift=2007
+14	по	_	_	_	_	_	_	_	Shift=2016
+15	связи	_	_	_	_	_	_	_	Shift=2019
+16	дали	_	_	_	_	_	_	_	Shift=2025
+17	возможность	_	_	_	_	_	_	_	Shift=2030
+18	принимать	_	_	_	_	_	_	_	Shift=2042
+19	решения	_	_	_	_	_	_	_	Shift=2052
+20	о	_	_	_	_	_	_	_	Shift=2060
+21	блокировке	_	_	_	_	_	_	_	Shift=2062
+22	интернет-ресурсов	_	_	_	_	_	_	_	Shift=2073
+23	на	_	_	_	_	_	_	_	Shift=2091
+24	основании	_	_	_	_	_	_	_	Shift=2094
+25	``	_	_	_	_	_	_	_	Shift=2104|SpaceAfter=No
+26	экспертных	_	_	_	_	_	_	_	Shift=2105
+27	заключений	_	_	_	_	_	_	_	Shift=2116|SpaceAfter=No
+28	''	_	_	_	_	_	_	_	Shift=2126
+29	(	_	_	_	_	_	_	_	Shift=2128|SpaceAfter=No
+30	без	_	_	_	_	_	_	_	Shift=2129
+31	решения	_	_	_	_	_	_	_	Shift=2133
+32	суда	_	_	_	_	_	_	_	Shift=2141|SpaceAfter=No
+33	)	_	_	_	_	_	_	_	Shift=2145|SpaceAfter=No
+34	.	_	_	_	_	_	_	_	Shift=2146
+
+# sent_id = f14f11de-29b6-4259-867a-b9eccd430e39-p7-s2
+# text = Параллельно с этим были ужесточены правила проведения массовых мероприятий: в частности, митингующим запретили ставить палатки.
+1	Параллельно	_	_	_	_	_	_	_	Shift=2148
+2	с	_	_	_	_	_	_	_	Shift=2160
+3	этим	_	_	_	_	_	_	_	Shift=2162
+4	были	_	_	_	_	_	_	_	Shift=2167
+5	ужесточены	_	_	_	_	_	_	_	Shift=2172
+6	правила	_	_	_	_	_	_	_	Shift=2183
+7	проведения	_	_	_	_	_	_	_	Shift=2191
+8	массовых	_	_	_	_	_	_	_	Shift=2202
+9	мероприятий	_	_	_	_	_	_	_	Shift=2211|SpaceAfter=No
+10	:	_	_	_	_	_	_	_	Shift=2222
+11	в	_	_	_	_	_	_	_	Shift=2224
+12	частности	_	_	_	_	_	_	_	Shift=2226|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=2235
+14	митингующим	_	_	_	_	_	_	_	Shift=2237
+15	запретили	_	_	_	_	_	_	_	Shift=2249
+16	ставить	_	_	_	_	_	_	_	Shift=2259
+17	палатки	_	_	_	_	_	_	_	Shift=2267|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=2274
+
+# newpar id = f14f11de-29b6-4259-867a-b9eccd430e39-p8
+# par_text = Протест против «драконовских законов» оппозиция выразила на многотысячном «народном вече», состоявшемся в Киеве в воскресенье. Митинг позднее вылился в беспорядки, столкновения протестующих с милицией, которые продолжаются в центре города до сих пор. Число пострадавших с обеих сторон составило несколько сотен человек.
+# sent_id = f14f11de-29b6-4259-867a-b9eccd430e39-p8-s1
+# text = Протест против ``драконовских законов'' оппозиция выразила на многотысячном ``народном вече'', состоявшемся в Киеве в воскресенье.
+1	Протест	_	_	_	_	_	_	_	Shift=2276
+2	против	_	_	_	_	_	_	_	Shift=2284
+3	``	_	_	_	_	_	_	_	RuCor_chain_id=3471|RuCor_group_id=475154|Shift=2291|SpaceAfter=No
+4	драконовских	_	_	_	_	_	_	_	RuCor_chain_id=3471|RuCor_group_id=475154|Shift=2292
+5	законов	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3471|RuCor_group_id=475154|RuCor_link_id=475152|Shift=2305|SpaceAfter=No
+6	''	_	_	_	_	_	_	_	RuCor_chain_id=3471|RuCor_group_id=475154|Shift=2312
+7	оппозиция	_	_	_	_	_	_	_	Shift=2314
+8	выразила	_	_	_	_	_	_	_	Shift=2324
+9	на	_	_	_	_	_	_	_	Shift=2333
+10	многотысячном	_	_	_	_	_	_	_	RuCor_chain_id=3476|RuCor_group_id=475155|Shift=2336
+11	``	_	_	_	_	_	_	_	RuCor_chain_id=3476|RuCor_group_id=475155|Shift=2350|SpaceAfter=No
+12	народном	_	_	_	_	_	_	_	RuCor_chain_id=3476|RuCor_group_id=475155|Shift=2351
+13	вече	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3476|RuCor_group_id=475155|RuCor_link_id=0|Shift=2360|SpaceAfter=No
+14	''	_	_	_	_	_	_	_	RuCor_chain_id=3476|RuCor_group_id=475155|Shift=2364|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=2365
+16	состоявшемся	_	_	_	_	_	_	_	Shift=2367
+17	в	_	_	_	_	_	_	_	Shift=2380
+18	Киеве	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3470|RuCor_group_id=475156|RuCor_link_id=475139|Shift=2382
+19	в	_	_	_	_	_	_	_	Shift=2388
+20	воскресенье	_	_	_	_	_	_	_	Shift=2390|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=2401
+
+# sent_id = f14f11de-29b6-4259-867a-b9eccd430e39-p8-s2
+# text = Митинг позднее вылился в беспорядки, столкновения протестующих с милицией, которые продолжаются в центре города до сих пор. Число пострадавших с обеих сторон составило несколько сотен человек.
+1	Митинг	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3476|RuCor_group_id=475157|RuCor_link_id=475155|Shift=2403
+2	позднее	_	_	_	_	_	_	_	Shift=2410
+3	вылился	_	_	_	_	_	_	_	Shift=2418
+4	в	_	_	_	_	_	_	_	Shift=2426
+5	беспорядки	_	_	_	_	_	_	_	Shift=2428|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=2438
+7	столкновения	_	_	_	_	_	_	_	Shift=2440
+8	протестующих	_	_	_	_	_	_	_	Shift=2453
+9	с	_	_	_	_	_	_	_	Shift=2466
+10	милицией	_	_	_	_	_	_	_	Shift=2468|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=2476
+12	которые	_	_	_	_	_	_	_	Shift=2478
+13	продолжаются	_	_	_	_	_	_	_	Shift=2486
+14	в	_	_	_	_	_	_	_	Shift=2499
+15	центре	_	_	_	_	_	_	_	Shift=2501
+16	города	_	_	_	_	_	_	_	Shift=2508
+17	до	_	_	_	_	_	_	_	Shift=2515
+18	сих	_	_	_	_	_	_	_	Shift=2518
+19	пор.	_	_	_	_	_	_	_	Shift=2522
+20	Число	_	_	_	_	_	_	_	Shift=2527
+21	пострадавших	_	_	_	_	_	_	_	Shift=2533
+22	с	_	_	_	_	_	_	_	Shift=2546
+23	обеих	_	_	_	_	_	_	_	Shift=2548
+24	сторон	_	_	_	_	_	_	_	Shift=2554
+25	составило	_	_	_	_	_	_	_	Shift=2561
+26	несколько	_	_	_	_	_	_	_	Shift=2571
+27	сотен	_	_	_	_	_	_	_	Shift=2581
+28	человек	_	_	_	_	_	_	_	Shift=2587|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	Shift=2594
+
+# newpar id = f14f11de-29b6-4259-867a-b9eccd430e39-p9
+# par_text = 20 января депутат от оппозиционной «Батькивщины» Андрей Павловский заявил, что власти — в рамках предстоящих переговоров об урегулировании политического кризиса — якобы согласились не публиковать резонансные поправки в законодательство (чтобы те не вступили в силу). Однако немного позднее он написал в Facebook, что законопроекты все же будут опубликованы. Это подтвердил и один из авторов поправок, депутат от Партии регионов Владимир Олийнык. В официальных изданиях «Голос Украины» и «Урядовый курьер», со своей стороны, заявили, что окончательного подтверждения о публикации они пока не получали.
+# sent_id = f14f11de-29b6-4259-867a-b9eccd430e39-p9-s1
+# text = 20 января депутат от оппозиционной ``Батькивщины'' Андрей Павловский заявил, что власти - в рамках предстоящих переговоров об урегулировании политического кризиса - якобы согласились не публиковать резонансные поправки в законодательство (чтобы те не вступили в силу).
+1	20	_	_	_	_	_	_	_	Shift=2596
+2	января	_	_	_	_	_	_	_	Shift=2599
+3	депутат	_	_	_	_	_	_	_	RuCor_chain_id=3477|RuCor_group_id=475158|Shift=2606
+4	от	_	_	_	_	_	_	_	RuCor_chain_id=3477|RuCor_group_id=475158|Shift=2614
+5	оппозиционной	_	_	_	_	_	_	_	RuCor_chain_id=3477|RuCor_group_id=475158|Shift=2617
+6	``	_	_	_	_	_	_	_	RuCor_chain_id=3477|RuCor_group_id=475158|Shift=2631|SpaceAfter=No
+7	Батькивщины	_	_	_	_	_	_	_	RuCor_chain_id=3477|RuCor_group_id=475158|Shift=2632|SpaceAfter=No
+8	''	_	_	_	_	_	_	_	RuCor_chain_id=3477|RuCor_group_id=475158|Shift=2643
+9	Андрей	_	_	_	_	_	_	_	RuCor_chain_id=3477|RuCor_group_id=475158|Shift=2645
+10	Павловский	_	_	_	_	_	_	_	RuCor_chain_id=3477|RuCor_group_id=475158|Shift=2652
+11	заявил	_	_	_	_	_	_	_	Shift=2663|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=2669
+13	что	_	_	_	_	_	_	_	Shift=2671
+14	власти	_	_	_	_	_	_	_	Shift=2675
+15	-	_	_	_	_	_	_	_	Shift=2682
+16	в	_	_	_	_	_	_	_	Shift=2684
+17	рамках	_	_	_	_	_	_	_	Shift=2686
+18	предстоящих	_	_	_	_	_	_	_	Shift=2693
+19	переговоров	_	_	_	_	_	_	_	Shift=2705
+20	об	_	_	_	_	_	_	_	Shift=2717
+21	урегулировании	_	_	_	_	_	_	_	Shift=2720
+22	политического	_	_	_	_	_	_	_	Shift=2735
+23	кризиса	_	_	_	_	_	_	_	Shift=2749
+24	-	_	_	_	_	_	_	_	Shift=2757
+25	якобы	_	_	_	_	_	_	_	Shift=2759
+26	согласились	_	_	_	_	_	_	_	Shift=2765
+27	не	_	_	_	_	_	_	_	Shift=2777
+28	публиковать	_	_	_	_	_	_	_	Shift=2780
+29	резонансные	_	_	_	_	_	_	_	RuCor_chain_id=3471|RuCor_group_id=475159|Shift=2792
+30	поправки	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3471|RuCor_group_id=475159|RuCor_link_id=475148|Shift=2804
+31	в	_	_	_	_	_	_	_	RuCor_chain_id=3471|RuCor_group_id=475159|Shift=2813
+32	законодательство	_	_	_	_	_	_	_	RuCor_chain_id=3471|RuCor_group_id=475159|Shift=2815
+33	(	_	_	_	_	_	_	_	Shift=2832|SpaceAfter=No
+34	чтобы	_	_	_	_	_	_	_	Shift=2833
+35	те	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3471|RuCor_group_id=475160|RuCor_link_id=475159|Shift=2839
+36	не	_	_	_	_	_	_	_	Shift=2842
+37	вступили	_	_	_	_	_	_	_	Shift=2845
+38	в	_	_	_	_	_	_	_	Shift=2854
+39	силу	_	_	_	_	_	_	_	Shift=2856|SpaceAfter=No
+40	)	_	_	_	_	_	_	_	Shift=2860|SpaceAfter=No
+41	.	_	_	_	_	_	_	_	Shift=2861
+
+# sent_id = f14f11de-29b6-4259-867a-b9eccd430e39-p9-s2
+# text = Однако немного позднее он написал в Facebook, что законопроекты все же будут опубликованы.
+1	Однако	_	_	_	_	_	_	_	Shift=2863
+2	немного	_	_	_	_	_	_	_	Shift=2870
+3	позднее	_	_	_	_	_	_	_	Shift=2878
+4	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=3477|RuCor_group_id=475161|RuCor_link_id=475158|Shift=2886
+5	написал	_	_	_	_	_	_	_	Shift=2889
+6	в	_	_	_	_	_	_	_	Shift=2897
+7	Facebook	_	_	_	_	_	_	_	Shift=2899|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=2907
+9	что	_	_	_	_	_	_	_	Shift=2909
+10	законопроекты	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3471|RuCor_group_id=475162|RuCor_link_id=475151|Shift=2913
+11	все	_	_	_	_	_	_	_	Shift=2927
+12	же	_	_	_	_	_	_	_	Shift=2931
+13	будут	_	_	_	_	_	_	_	Shift=2934
+14	опубликованы	_	_	_	_	_	_	_	Shift=2940|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=2952
+
+# sent_id = f14f11de-29b6-4259-867a-b9eccd430e39-p9-s3
+# text = Это подтвердил и один из авторов поправок, депутат от Партии регионов Владимир Олийнык.
+1	Это	_	_	_	_	_	_	_	Shift=2954
+2	подтвердил	_	_	_	_	_	_	_	Shift=2958
+3	и	_	_	_	_	_	_	_	Shift=2969
+4	один	_	_	_	_	_	_	_	Shift=2971
+5	из	_	_	_	_	_	_	_	Shift=2976
+6	авторов	_	_	_	_	_	_	_	Shift=2979
+7	поправок	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3471|RuCor_group_id=475163|RuCor_link_id=475159|Shift=2987|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=2995
+9	депутат	_	_	_	_	_	_	_	Shift=2997
+10	от	_	_	_	_	_	_	_	Shift=3005
+11	Партии	_	_	_	_	_	_	_	Shift=3008
+12	регионов	_	_	_	_	_	_	_	Shift=3015
+13	Владимир	_	_	_	_	_	_	_	Shift=3024
+14	Олийнык	_	_	_	_	_	_	_	Shift=3033|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=3040
+
+# sent_id = f14f11de-29b6-4259-867a-b9eccd430e39-p9-s4
+# text = В официальных изданиях ``Голос Украины'' и ``Урядовый курьер'', со своей стороны, заявили, что окончательного подтверждения о публикации они пока не получали.
+1	В	_	_	_	_	_	_	_	Shift=3042
+2	официальных	_	_	_	_	_	_	_	Shift=3044
+3	изданиях	_	_	_	_	_	_	_	Shift=3056
+4	``	_	_	_	_	_	_	_	Shift=3065|SpaceAfter=No
+5	Голос	_	_	_	_	_	_	_	Shift=3066
+6	Украины	_	_	_	_	_	_	_	Shift=3072|SpaceAfter=No
+7	''	_	_	_	_	_	_	_	Shift=3079
+8	и	_	_	_	_	_	_	_	Shift=3081
+9	``	_	_	_	_	_	_	_	Shift=3083|SpaceAfter=No
+10	Урядовый	_	_	_	_	_	_	_	Shift=3084
+11	курьер	_	_	_	_	_	_	_	Shift=3093|SpaceAfter=No
+12	''	_	_	_	_	_	_	_	Shift=3099|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=3100
+14	со	_	_	_	_	_	_	_	Shift=3102
+15	своей	_	_	_	_	_	_	_	Shift=3105
+16	стороны	_	_	_	_	_	_	_	Shift=3111|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=3118
+18	заявили	_	_	_	_	_	_	_	Shift=3120|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=3127
+20	что	_	_	_	_	_	_	_	Shift=3129
+21	окончательного	_	_	_	_	_	_	_	Shift=3133
+22	подтверждения	_	_	_	_	_	_	_	Shift=3148
+23	о	_	_	_	_	_	_	_	Shift=3162
+24	публикации	_	_	_	_	_	_	_	Shift=3164
+25	они	_	_	_	_	_	_	_	Shift=3175
+26	пока	_	_	_	_	_	_	_	Shift=3179
+27	не	_	_	_	_	_	_	_	Shift=3184
+28	получали	_	_	_	_	_	_	_	Shift=3187|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	_
+

@@ -1,0 +1,1186 @@
+# newdoc id = 10274c60-ac80-4229-adca-d2cce724bdeb
+# newpar id = 10274c60-ac80-4229-adca-d2cce724bdeb-p1
+# par_text = НЬЮ-ЙОРК – Китай пережил 50-ю годовщину неудачного восстаия Тибета против китайской опрессии без особых протестов. Однако для того, чтобы не допустить демонстраций, правительству Китая пришлось наводнить Тибетское плато войсками и тайно удерживать сотни людей в секретных тюрьмах в целях «правового образования». Эти шаги свидетельствуют о том, что Тибет становится всё более серьёзной заботой китайских правителей, которую они ещё не нашли способ решить без того, чтобы не повредить своим позициям в Тибете и в мире.
+# sent_id = 10274c60-ac80-4229-adca-d2cce724bdeb-p1-s1
+# text = НЬЮ-ЙОРК - Китай пережил 50-ю годовщину неудачного восстаия Тибета против китайской опрессии без особых протестов.
+1	НЬЮ-ЙОРК	_	_	_	_	_	_	_	Shift=6
+2	-	_	_	_	_	_	_	_	Shift=9
+3	Китай	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1280|RuCor_group_id=414585|RuCor_link_id=0|Shift=17
+4	пережил	_	_	_	_	_	_	_	Shift=23
+5	50-ю	_	_	_	_	_	_	_	Shift=31
+6	годовщину	_	_	_	_	_	_	_	Shift=36
+7	неудачного	_	_	_	_	_	_	_	Shift=46
+8	восстаия	_	_	_	_	_	_	_	Shift=57
+9	Тибета	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1281|RuCor_group_id=414587|RuCor_link_id=0|Shift=66
+10	против	_	_	_	_	_	_	_	Shift=73
+11	китайской	_	_	_	_	_	_	_	Shift=80
+12	опрессии	_	_	_	_	_	_	_	Shift=90
+13	без	_	_	_	_	_	_	_	Shift=99
+14	особых	_	_	_	_	_	_	_	Shift=103
+15	протестов	_	_	_	_	_	_	_	Shift=110|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=119
+
+# sent_id = 10274c60-ac80-4229-adca-d2cce724bdeb-p1-s2
+# text = Однако для того, чтобы не допустить демонстраций, правительству Китая пришлось наводнить Тибетское плато войсками и тайно удерживать сотни людей в секретных тюрьмах в целях ``правового образования''.
+1	Однако	_	_	_	_	_	_	_	Shift=121
+2	для	_	_	_	_	_	_	_	Shift=128
+3	того	_	_	_	_	_	_	_	Shift=132|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=136
+5	чтобы	_	_	_	_	_	_	_	Shift=138
+6	не	_	_	_	_	_	_	_	Shift=144
+7	допустить	_	_	_	_	_	_	_	Shift=147
+8	демонстраций	_	_	_	_	_	_	_	Shift=157|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=169
+10	правительству	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1282|RuCor_group_id=414590|RuCor_link_id=0|Shift=171
+11	Китая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1280|RuCor_group_id=414586|RuCor_link_id=414585|Shift=185
+12	пришлось	_	_	_	_	_	_	_	Shift=191
+13	наводнить	_	_	_	_	_	_	_	Shift=200
+14	Тибетское	_	_	_	_	_	_	_	RuCor_chain_id=1281|RuCor_group_id=414588|Shift=210
+15	плато	_	_	_	_	_	_	_	RuCor_attrs_ref=meton|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1281|RuCor_group_id=414588|RuCor_link_id=414587|Shift=220
+16	войсками	_	_	_	_	_	_	_	Shift=226
+17	и	_	_	_	_	_	_	_	Shift=235
+18	тайно	_	_	_	_	_	_	_	Shift=237
+19	удерживать	_	_	_	_	_	_	_	Shift=243
+20	сотни	_	_	_	_	_	_	_	Shift=254
+21	людей	_	_	_	_	_	_	_	Shift=260
+22	в	_	_	_	_	_	_	_	Shift=266
+23	секретных	_	_	_	_	_	_	_	Shift=268
+24	тюрьмах	_	_	_	_	_	_	_	Shift=278
+25	в	_	_	_	_	_	_	_	Shift=286
+26	целях	_	_	_	_	_	_	_	Shift=288
+27	``	_	_	_	_	_	_	_	Shift=294|SpaceAfter=No
+28	правового	_	_	_	_	_	_	_	Shift=295
+29	образования	_	_	_	_	_	_	_	Shift=305|SpaceAfter=No
+30	''	_	_	_	_	_	_	_	Shift=316|SpaceAfter=No
+31	.	_	_	_	_	_	_	_	Shift=317
+
+# sent_id = 10274c60-ac80-4229-adca-d2cce724bdeb-p1-s3
+# text = Эти шаги свидетельствуют о том, что Тибет становится всё более серьёзной заботой китайских правителей, которую они ещё не нашли способ решить без того, чтобы не повредить своим позициям в Тибете и в мире.
+1	Эти	_	_	_	_	_	_	_	Shift=319
+2	шаги	_	_	_	_	_	_	_	Shift=323
+3	свидетельствуют	_	_	_	_	_	_	_	Shift=328
+4	о	_	_	_	_	_	_	_	Shift=344
+5	том	_	_	_	_	_	_	_	Shift=346|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=349
+7	что	_	_	_	_	_	_	_	Shift=351
+8	Тибет	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1281|RuCor_group_id=414589|RuCor_link_id=414588|Shift=355
+9	становится	_	_	_	_	_	_	_	Shift=361
+10	всё	_	_	_	_	_	_	_	RuCor_chain_id=1283|RuCor_group_id=414592|Shift=372
+11	более	_	_	_	_	_	_	_	RuCor_chain_id=1283|RuCor_group_id=414592|Shift=376
+12	серьёзной	_	_	_	_	_	_	_	RuCor_chain_id=1283|RuCor_group_id=414592|Shift=382
+13	заботой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1283|RuCor_group_id=414592|RuCor_link_id=0|Shift=392
+14	китайских	_	_	_	_	_	_	_	RuCor_chain_id=1282|RuCor_group_id=414591|Shift=400
+15	правителей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1282|RuCor_group_id=414591|RuCor_link_id=414590|Shift=410|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=420
+17	которую	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=1283|RuCor_group_id=414593|RuCor_link_id=414592|Shift=422
+18	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1282|RuCor_group_id=414594|RuCor_link_id=414591|Shift=430
+19	ещё	_	_	_	_	_	_	_	Shift=434
+20	не	_	_	_	_	_	_	_	Shift=438
+21	нашли	_	_	_	_	_	_	_	Shift=441
+22	способ	_	_	_	_	_	_	_	Shift=447
+23	решить	_	_	_	_	_	_	_	Shift=454
+24	без	_	_	_	_	_	_	_	Shift=461
+25	того	_	_	_	_	_	_	_	Shift=465|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	Shift=469
+27	чтобы	_	_	_	_	_	_	_	Shift=471
+28	не	_	_	_	_	_	_	_	Shift=477
+29	повредить	_	_	_	_	_	_	_	Shift=480
+30	своим	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1282|RuCor_group_id=414595|RuCor_link_id=414594|Shift=490
+31	позициям	_	_	_	_	_	_	_	Shift=496
+32	в	_	_	_	_	_	_	_	Shift=505
+33	Тибете	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1281|RuCor_group_id=414596|RuCor_link_id=414589|Shift=507
+34	и	_	_	_	_	_	_	_	Shift=514
+35	в	_	_	_	_	_	_	_	Shift=516
+36	мире	_	_	_	_	_	_	_	Shift=518|SpaceAfter=No
+37	.	_	_	_	_	_	_	_	Shift=522
+
+# newpar id = 10274c60-ac80-4229-adca-d2cce724bdeb-p2
+# par_text = Год тому назад, китайские и западные интеллектуалы соревновались в оспаривании общественной заинтересованности Тибетом, утверждая о наивном восприятии Тибета как воображаемой страны Шангри-Ла из фильма «Затерянный горизонт» 1937 года. Однако после более чем 150 актов протеста против китайской опрессии за последние 12 месяцев, заинтересованность в этой области кажется отнюдь не воображаемой. В самом деле, Тибет может скоро заменить Тайвань в качестве фактора региональной стабильности и важного пункта международных отношений. Области, населённые тибетцами, покрывают четвёртую часть Китая; и то, что такая обширная часть территории страны находится под вооружённым контролем и отрезана от внешнего мира, подрывает обоснованность претензий Коммунистической партии Китая на законность и статус международной силы.
+# sent_id = 10274c60-ac80-4229-adca-d2cce724bdeb-p2-s1
+# text = Год тому назад, китайские и западные интеллектуалы соревновались в оспаривании общественной заинтересованности Тибетом, утверждая о наивном восприятии Тибета как воображаемой страны Шангри-Ла из фильма ``Затерянный горизонт'' 1937 года.
+1	Год	_	_	_	_	_	_	_	Shift=525
+2	тому	_	_	_	_	_	_	_	Shift=529
+3	назад	_	_	_	_	_	_	_	Shift=534|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=539
+5	китайские	_	_	_	_	_	_	_	Shift=541
+6	и	_	_	_	_	_	_	_	Shift=551
+7	западные	_	_	_	_	_	_	_	Shift=553
+8	интеллектуалы	_	_	_	_	_	_	_	Shift=562
+9	соревновались	_	_	_	_	_	_	_	Shift=576
+10	в	_	_	_	_	_	_	_	Shift=590
+11	оспаривании	_	_	_	_	_	_	_	Shift=592
+12	общественной	_	_	_	_	_	_	_	Shift=604
+13	заинтересованности	_	_	_	_	_	_	_	Shift=617
+14	Тибетом	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1281|RuCor_group_id=414597|RuCor_link_id=414596|Shift=636|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=643
+16	утверждая	_	_	_	_	_	_	_	Shift=645
+17	о	_	_	_	_	_	_	_	Shift=655
+18	наивном	_	_	_	_	_	_	_	Shift=657
+19	восприятии	_	_	_	_	_	_	_	Shift=665
+20	Тибета	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1281|RuCor_group_id=414598|RuCor_link_id=414597|Shift=676
+21	как	_	_	_	_	_	_	_	Shift=683
+22	воображаемой	_	_	_	_	_	_	_	Shift=687
+23	страны	_	_	_	_	_	_	_	Shift=700
+24	Шангри-Ла	_	_	_	_	_	_	_	Shift=707
+25	из	_	_	_	_	_	_	_	Shift=717
+26	фильма	_	_	_	_	_	_	_	Shift=720
+27	``	_	_	_	_	_	_	_	Shift=727|SpaceAfter=No
+28	Затерянный	_	_	_	_	_	_	_	Shift=728
+29	горизонт	_	_	_	_	_	_	_	Shift=739|SpaceAfter=No
+30	''	_	_	_	_	_	_	_	Shift=747
+31	1937	_	_	_	_	_	_	_	Shift=749
+32	года	_	_	_	_	_	_	_	Shift=754|SpaceAfter=No
+33	.	_	_	_	_	_	_	_	Shift=758
+
+# sent_id = 10274c60-ac80-4229-adca-d2cce724bdeb-p2-s2
+# text = Однако после более чем 150 актов протеста против китайской опрессии за последние 12 месяцев, заинтересованность в этой области кажется отнюдь не воображаемой.
+1	Однако	_	_	_	_	_	_	_	Shift=760
+2	после	_	_	_	_	_	_	_	Shift=767
+3	более	_	_	_	_	_	_	_	Shift=773
+4	чем	_	_	_	_	_	_	_	Shift=779
+5	150	_	_	_	_	_	_	_	Shift=783
+6	актов	_	_	_	_	_	_	_	Shift=787
+7	протеста	_	_	_	_	_	_	_	Shift=793
+8	против	_	_	_	_	_	_	_	Shift=802
+9	китайской	_	_	_	_	_	_	_	Shift=809
+10	опрессии	_	_	_	_	_	_	_	Shift=819
+11	за	_	_	_	_	_	_	_	Shift=828
+12	последние	_	_	_	_	_	_	_	Shift=831
+13	12	_	_	_	_	_	_	_	Shift=841
+14	месяцев	_	_	_	_	_	_	_	Shift=844|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=851
+16	заинтересованность	_	_	_	_	_	_	_	Shift=853
+17	в	_	_	_	_	_	_	_	Shift=872
+18	этой	_	_	_	_	_	_	_	RuCor_chain_id=1281|RuCor_group_id=414599|Shift=874
+19	области	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1281|RuCor_group_id=414599|RuCor_link_id=414598|Shift=879
+20	кажется	_	_	_	_	_	_	_	Shift=887
+21	отнюдь	_	_	_	_	_	_	_	Shift=895
+22	не	_	_	_	_	_	_	_	Shift=902
+23	воображаемой	_	_	_	_	_	_	_	Shift=905|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=917
+
+# sent_id = 10274c60-ac80-4229-adca-d2cce724bdeb-p2-s3
+# text = В самом деле, Тибет может скоро заменить Тайвань в качестве фактора региональной стабильности и важного пункта международных отношений.
+1	В	_	_	_	_	_	_	_	Shift=919
+2	самом	_	_	_	_	_	_	_	Shift=921
+3	деле	_	_	_	_	_	_	_	Shift=927|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=931
+5	Тибет	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1281|RuCor_group_id=414600|RuCor_link_id=414599|Shift=933
+6	может	_	_	_	_	_	_	_	Shift=939
+7	скоро	_	_	_	_	_	_	_	Shift=945
+8	заменить	_	_	_	_	_	_	_	Shift=951
+9	Тайвань	_	_	_	_	_	_	_	Shift=960
+10	в	_	_	_	_	_	_	_	Shift=968
+11	качестве	_	_	_	_	_	_	_	Shift=970
+12	фактора	_	_	_	_	_	_	_	Shift=979
+13	региональной	_	_	_	_	_	_	_	Shift=987
+14	стабильности	_	_	_	_	_	_	_	Shift=1000
+15	и	_	_	_	_	_	_	_	Shift=1013
+16	важного	_	_	_	_	_	_	_	Shift=1015
+17	пункта	_	_	_	_	_	_	_	Shift=1023
+18	международных	_	_	_	_	_	_	_	Shift=1030
+19	отношений	_	_	_	_	_	_	_	Shift=1044|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=1053
+
+# sent_id = 10274c60-ac80-4229-adca-d2cce724bdeb-p2-s4
+# text = Области, населённые тибетцами, покрывают четвёртую часть Китая.
+1	Области	_	_	_	_	_	_	_	Shift=1055|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=1062
+3	населённые	_	_	_	_	_	_	_	Shift=1064
+4	тибетцами	_	_	_	_	_	_	_	Shift=1075|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1084
+6	покрывают	_	_	_	_	_	_	_	Shift=1086
+7	четвёртую	_	_	_	_	_	_	_	RuCor_chain_id=1284|RuCor_group_id=414601|Shift=1096
+8	часть	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1284|RuCor_group_id=414601|RuCor_link_id=414603|Shift=1106
+9	Китая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1280|RuCor_group_id=414602|RuCor_link_id=414586|Shift=1112|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=1117
+
+# sent_id = 10274c60-ac80-4229-adca-d2cce724bdeb-p2-s5
+# text = и то, что такая обширная часть территории страны находится под вооружённым контролем и отрезана от внешнего мира, подрывает обоснованность претензий Коммунистической партии Китая на законность и статус международной силы.
+1	и	_	_	_	_	_	_	_	Shift=1119
+2	то	_	_	_	_	_	_	_	Shift=1121|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1123
+4	что	_	_	_	_	_	_	_	Shift=1125
+5	такая	_	_	_	_	_	_	_	RuCor_chain_id=1284|RuCor_group_id=414603|Shift=1129
+6	обширная	_	_	_	_	_	_	_	RuCor_chain_id=1284|RuCor_group_id=414603|Shift=1135
+7	часть	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1284|RuCor_group_id=414603|RuCor_link_id=0|Shift=1144
+8	территории	_	_	_	_	_	_	_	RuCor_chain_id=1284|RuCor_group_id=414603|Shift=1150
+9	страны	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1280|RuCor_group_id=414604|RuCor_link_id=414602|Shift=1161
+10	находится	_	_	_	_	_	_	_	Shift=1168
+11	под	_	_	_	_	_	_	_	Shift=1178
+12	вооружённым	_	_	_	_	_	_	_	Shift=1182
+13	контролем	_	_	_	_	_	_	_	Shift=1194
+14	и	_	_	_	_	_	_	_	Shift=1204
+15	отрезана	_	_	_	_	_	_	_	Shift=1206
+16	от	_	_	_	_	_	_	_	Shift=1215
+17	внешнего	_	_	_	_	_	_	_	Shift=1218
+18	мира	_	_	_	_	_	_	_	Shift=1227|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=1231
+20	подрывает	_	_	_	_	_	_	_	Shift=1233
+21	обоснованность	_	_	_	_	_	_	_	Shift=1243
+22	претензий	_	_	_	_	_	_	_	Shift=1258
+23	Коммунистической	_	_	_	_	_	_	_	RuCor_chain_id=1282|RuCor_group_id=414607|Shift=1268
+24	партии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1282|RuCor_group_id=414607|RuCor_link_id=414595|Shift=1285
+25	Китая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1280|RuCor_group_id=414605|RuCor_link_id=414604|Shift=1292
+26	на	_	_	_	_	_	_	_	Shift=1298
+27	законность	_	_	_	_	_	_	_	Shift=1301
+28	и	_	_	_	_	_	_	_	Shift=1312
+29	статус	_	_	_	_	_	_	_	Shift=1314
+30	международной	_	_	_	_	_	_	_	Shift=1321
+31	силы	_	_	_	_	_	_	_	Shift=1335|SpaceAfter=No
+32	.	_	_	_	_	_	_	_	Shift=1339
+
+# newpar id = 10274c60-ac80-4229-adca-d2cce724bdeb-p3
+# par_text = Масштабы прошлогодних протестов в Тибете были крупнейшими за последние десятилетия. Среди участников были кочевники, фермеры и студенты, которые теоретически должны были бы испытывать наибольшую благодарность по отношению к Китаю за модернизацию тибетской экономики. Многие несли запрещённый национальный флаг Тибета, намекая на то, что они считали, что Тибет был отдельным государством в прошлом, и совершили примерно двадцать поджогов правительственных зданий. В одном случае демонстранты напали на китайских эмигрантов, что привело к 18 смертным исходам. Эти события трудно не рассматривать как угрозу китайскому правлению.
+# sent_id = 10274c60-ac80-4229-adca-d2cce724bdeb-p3-s1
+# text = Масштабы прошлогодних протестов в Тибете были крупнейшими за последние десятилетия.
+1	Масштабы	_	_	_	_	_	_	_	Shift=1342
+2	прошлогодних	_	_	_	_	_	_	_	Shift=1351
+3	протестов	_	_	_	_	_	_	_	Shift=1364
+4	в	_	_	_	_	_	_	_	Shift=1374
+5	Тибете	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1281|RuCor_group_id=414606|RuCor_link_id=414596|Shift=1376
+6	были	_	_	_	_	_	_	_	Shift=1383
+7	крупнейшими	_	_	_	_	_	_	_	Shift=1388
+8	за	_	_	_	_	_	_	_	Shift=1400
+9	последние	_	_	_	_	_	_	_	Shift=1403
+10	десятилетия	_	_	_	_	_	_	_	Shift=1413|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=1424
+
+# sent_id = 10274c60-ac80-4229-adca-d2cce724bdeb-p3-s2
+# text = Среди участников были кочевники, фермеры и студенты, которые теоретически должны были бы испытывать наибольшую благодарность по отношению к Китаю за модернизацию тибетской экономики.
+1	Среди	_	_	_	_	_	_	_	Shift=1426
+2	участников	_	_	_	_	_	_	_	Shift=1432
+3	были	_	_	_	_	_	_	_	Shift=1443
+4	кочевники	_	_	_	_	_	_	_	RuCor_chain_id=1285|RuCor_group_id=414608|Shift=1448|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	RuCor_chain_id=1285|RuCor_group_id=414608|Shift=1457
+6	фермеры	_	_	_	_	_	_	_	RuCor_chain_id=1285|RuCor_group_id=414608|Shift=1459
+7	и	_	_	_	_	_	_	_	RuCor_chain_id=1285|RuCor_group_id=414608|Shift=1467
+8	студенты	_	_	_	_	_	_	_	RuCor_chain_id=1285|RuCor_group_id=414608|Shift=1469|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1477
+10	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=1285|RuCor_group_id=414609|RuCor_link_id=414608|Shift=1479
+11	теоретически	_	_	_	_	_	_	_	Shift=1487
+12	должны	_	_	_	_	_	_	_	Shift=1500
+13	были	_	_	_	_	_	_	_	Shift=1507
+14	бы	_	_	_	_	_	_	_	Shift=1512
+15	испытывать	_	_	_	_	_	_	_	Shift=1515
+16	наибольшую	_	_	_	_	_	_	_	Shift=1526
+17	благодарность	_	_	_	_	_	_	_	Shift=1537
+18	по	_	_	_	_	_	_	_	Shift=1551
+19	отношению	_	_	_	_	_	_	_	Shift=1554
+20	к	_	_	_	_	_	_	_	Shift=1564
+21	Китаю	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1280|RuCor_group_id=414610|RuCor_link_id=414605|Shift=1566
+22	за	_	_	_	_	_	_	_	Shift=1572
+23	модернизацию	_	_	_	_	_	_	_	Shift=1575
+24	тибетской	_	_	_	_	_	_	_	Shift=1588
+25	экономики	_	_	_	_	_	_	_	Shift=1598|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=1607
+
+# sent_id = 10274c60-ac80-4229-adca-d2cce724bdeb-p3-s3
+# text = Многие несли запрещённый национальный флаг Тибета, намекая на то, что они считали, что Тибет был отдельным государством в прошлом, и совершили примерно двадцать поджогов правительственных зданий.
+1	Многие	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1286|RuCor_group_id=414612|RuCor_link_id=0|Shift=1609
+2	несли	_	_	_	_	_	_	_	Shift=1616
+3	запрещённый	_	_	_	_	_	_	_	Shift=1622
+4	национальный	_	_	_	_	_	_	_	Shift=1634
+5	флаг	_	_	_	_	_	_	_	Shift=1647
+6	Тибета	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1281|RuCor_group_id=414611|RuCor_link_id=414606|Shift=1652|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=1658
+8	намекая	_	_	_	_	_	_	_	Shift=1660
+9	на	_	_	_	_	_	_	_	Shift=1668
+10	то	_	_	_	_	_	_	_	Shift=1671|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=1673
+12	что	_	_	_	_	_	_	_	Shift=1675
+13	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1286|RuCor_group_id=414613|RuCor_link_id=414612|Shift=1679
+14	считали	_	_	_	_	_	_	_	Shift=1683|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=1690
+16	что	_	_	_	_	_	_	_	Shift=1692
+17	Тибет	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1281|RuCor_group_id=414614|RuCor_link_id=414611|Shift=1696
+18	был	_	_	_	_	_	_	_	Shift=1702
+19	отдельным	_	_	_	_	_	_	_	Shift=1706
+20	государством	_	_	_	_	_	_	_	Shift=1716
+21	в	_	_	_	_	_	_	_	Shift=1729
+22	прошлом	_	_	_	_	_	_	_	Shift=1731|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=1738
+24	и	_	_	_	_	_	_	_	Shift=1740
+25	совершили	_	_	_	_	_	_	_	Shift=1742
+26	примерно	_	_	_	_	_	_	_	Shift=1752
+27	двадцать	_	_	_	_	_	_	_	Shift=1761
+28	поджогов	_	_	_	_	_	_	_	Shift=1770
+29	правительственных	_	_	_	_	_	_	_	Shift=1779
+30	зданий	_	_	_	_	_	_	_	Shift=1797|SpaceAfter=No
+31	.	_	_	_	_	_	_	_	Shift=1803
+
+# sent_id = 10274c60-ac80-4229-adca-d2cce724bdeb-p3-s4
+# text = В одном случае демонстранты напали на китайских эмигрантов, что привело к 18 смертным исходам.
+1	В	_	_	_	_	_	_	_	Shift=1805
+2	одном	_	_	_	_	_	_	_	Shift=1807
+3	случае	_	_	_	_	_	_	_	Shift=1813
+4	демонстранты	_	_	_	_	_	_	_	Shift=1820
+5	напали	_	_	_	_	_	_	_	Shift=1833
+6	на	_	_	_	_	_	_	_	Shift=1840
+7	китайских	_	_	_	_	_	_	_	Shift=1843
+8	эмигрантов	_	_	_	_	_	_	_	Shift=1853|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1863
+10	что	_	_	_	_	_	_	_	Shift=1865
+11	привело	_	_	_	_	_	_	_	Shift=1869
+12	к	_	_	_	_	_	_	_	Shift=1877
+13	18	_	_	_	_	_	_	_	Shift=1879
+14	смертным	_	_	_	_	_	_	_	Shift=1882
+15	исходам	_	_	_	_	_	_	_	Shift=1891|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=1898
+
+# sent_id = 10274c60-ac80-4229-adca-d2cce724bdeb-p3-s5
+# text = Эти события трудно не рассматривать как угрозу китайскому правлению.
+1	Эти	_	_	_	_	_	_	_	Shift=1900
+2	события	_	_	_	_	_	_	_	Shift=1904
+3	трудно	_	_	_	_	_	_	_	Shift=1912
+4	не	_	_	_	_	_	_	_	Shift=1919
+5	рассматривать	_	_	_	_	_	_	_	Shift=1922
+6	как	_	_	_	_	_	_	_	Shift=1936
+7	угрозу	_	_	_	_	_	_	_	Shift=1940
+8	китайскому	_	_	_	_	_	_	_	Shift=1947
+9	правлению	_	_	_	_	_	_	_	Shift=1958|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=1967
+
+# newpar id = 10274c60-ac80-4229-adca-d2cce724bdeb-p4
+# par_text = Правительство отреагировало тем, что свалило ответственность за проблемы на провокации извне. Оно усилило войска, скрыло подробности обстоятельств гибели участников протестов, приговорило к пожизненному заключению активиста по образованию в вопросах СПИДА, копировавшего нелегальные диски из Индии, и на многие месяцы закрыло въезд иностранцам и журналистам. В ноябре представители китайских властей в прямой трансляции национального телевидения насмехались над предложениями о переговоров со стороны тибетских эмигрантов, высланных из страны. Они отменили европейский саммит из-за встречи президента Франции и Далай Ламы, и регулярно намекают на то, что все тибетцы – террористы.
+# sent_id = 10274c60-ac80-4229-adca-d2cce724bdeb-p4-s1
+# text = Правительство отреагировало тем, что свалило ответственность за проблемы на провокации извне.
+1	Правительство	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1282|RuCor_group_id=414615|RuCor_link_id=414607|Shift=1970
+2	отреагировало	_	_	_	_	_	_	_	Shift=1984
+3	тем	_	_	_	_	_	_	_	Shift=1998|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2001
+5	что	_	_	_	_	_	_	_	Shift=2003
+6	свалило	_	_	_	_	_	_	_	Shift=2007
+7	ответственность	_	_	_	_	_	_	_	Shift=2015
+8	за	_	_	_	_	_	_	_	Shift=2031
+9	проблемы	_	_	_	_	_	_	_	Shift=2034
+10	на	_	_	_	_	_	_	_	Shift=2043
+11	провокации	_	_	_	_	_	_	_	Shift=2046
+12	извне	_	_	_	_	_	_	_	Shift=2057|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=2062
+
+# sent_id = 10274c60-ac80-4229-adca-d2cce724bdeb-p4-s2
+# text = Оно усилило войска, скрыло подробности обстоятельств гибели участников протестов, приговорило к пожизненному заключению активиста по образованию в вопросах СПИДА, копировавшего нелегальные диски из Индии, и на многие месяцы закрыло въезд иностранцам и журналистам.
+1	Оно	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1282|RuCor_group_id=414616|RuCor_link_id=414615|Shift=2064
+2	усилило	_	_	_	_	_	_	_	Shift=2068
+3	войска	_	_	_	_	_	_	_	Shift=2076|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2082
+5	скрыло	_	_	_	_	_	_	_	Shift=2084
+6	подробности	_	_	_	_	_	_	_	Shift=2091
+7	обстоятельств	_	_	_	_	_	_	_	Shift=2103
+8	гибели	_	_	_	_	_	_	_	Shift=2117
+9	участников	_	_	_	_	_	_	_	Shift=2124
+10	протестов	_	_	_	_	_	_	_	Shift=2135|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=2144
+12	приговорило	_	_	_	_	_	_	_	Shift=2146
+13	к	_	_	_	_	_	_	_	Shift=2158
+14	пожизненному	_	_	_	_	_	_	_	Shift=2160
+15	заключению	_	_	_	_	_	_	_	Shift=2173
+16	активиста	_	_	_	_	_	_	_	Shift=2184
+17	по	_	_	_	_	_	_	_	Shift=2194
+18	образованию	_	_	_	_	_	_	_	Shift=2197
+19	в	_	_	_	_	_	_	_	Shift=2209
+20	вопросах	_	_	_	_	_	_	_	Shift=2211
+21	СПИДА	_	_	_	_	_	_	_	Shift=2220|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=2225
+23	копировавшего	_	_	_	_	_	_	_	Shift=2227
+24	нелегальные	_	_	_	_	_	_	_	Shift=2241
+25	диски	_	_	_	_	_	_	_	Shift=2253
+26	из	_	_	_	_	_	_	_	Shift=2259
+27	Индии	_	_	_	_	_	_	_	Shift=2262|SpaceAfter=No
+28	,	_	_	_	_	_	_	_	Shift=2267
+29	и	_	_	_	_	_	_	_	Shift=2269
+30	на	_	_	_	_	_	_	_	Shift=2271
+31	многие	_	_	_	_	_	_	_	Shift=2274
+32	месяцы	_	_	_	_	_	_	_	Shift=2281
+33	закрыло	_	_	_	_	_	_	_	Shift=2288
+34	въезд	_	_	_	_	_	_	_	Shift=2296
+35	иностранцам	_	_	_	_	_	_	_	Shift=2302
+36	и	_	_	_	_	_	_	_	Shift=2314
+37	журналистам	_	_	_	_	_	_	_	Shift=2316|SpaceAfter=No
+38	.	_	_	_	_	_	_	_	Shift=2327
+
+# sent_id = 10274c60-ac80-4229-adca-d2cce724bdeb-p4-s3
+# text = В ноябре представители китайских властей в прямой трансляции национального телевидения насмехались над предложениями о переговоров со стороны тибетских эмигрантов, высланных из страны.
+1	В	_	_	_	_	_	_	_	Shift=2329
+2	ноябре	_	_	_	_	_	_	_	Shift=2331
+3	представители	_	_	_	_	_	_	_	Shift=2338
+4	китайских	_	_	_	_	_	_	_	RuCor_chain_id=1282|RuCor_group_id=414618|Shift=2352
+5	властей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1282|RuCor_group_id=414618|RuCor_link_id=414616|Shift=2362
+6	в	_	_	_	_	_	_	_	Shift=2370
+7	прямой	_	_	_	_	_	_	_	Shift=2372
+8	трансляции	_	_	_	_	_	_	_	Shift=2379
+9	национального	_	_	_	_	_	_	_	Shift=2390
+10	телевидения	_	_	_	_	_	_	_	Shift=2404
+11	насмехались	_	_	_	_	_	_	_	Shift=2416
+12	над	_	_	_	_	_	_	_	Shift=2428
+13	предложениями	_	_	_	_	_	_	_	Shift=2432
+14	о	_	_	_	_	_	_	_	Shift=2446
+15	переговоров	_	_	_	_	_	_	_	Shift=2448
+16	со	_	_	_	_	_	_	_	Shift=2460
+17	стороны	_	_	_	_	_	_	_	Shift=2463
+18	тибетских	_	_	_	_	_	_	_	RuCor_chain_id=1289|RuCor_group_id=414626|Shift=2471
+19	эмигрантов	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1289|RuCor_group_id=414626|RuCor_link_id=0|Shift=2481|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=2491
+21	высланных	_	_	_	_	_	_	_	Shift=2493
+22	из	_	_	_	_	_	_	_	Shift=2503
+23	страны	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1280|RuCor_group_id=414617|RuCor_link_id=414610|Shift=2506|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=2512
+
+# sent_id = 10274c60-ac80-4229-adca-d2cce724bdeb-p4-s4
+# text = Они отменили европейский саммит из-за встречи президента Франции и Далай Ламы, и регулярно намекают на то, что все тибетцы - террористы.
+1	Они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1282|RuCor_group_id=414619|RuCor_link_id=414618|Shift=2514
+2	отменили	_	_	_	_	_	_	_	Shift=2518
+3	европейский	_	_	_	_	_	_	_	Shift=2527
+4	саммит	_	_	_	_	_	_	_	Shift=2539
+5	из-за	_	_	_	_	_	_	_	Shift=2546
+6	встречи	_	_	_	_	_	_	_	Shift=2552
+7	президента	_	_	_	_	_	_	_	Shift=2560
+8	Франции	_	_	_	_	_	_	_	Shift=2571
+9	и	_	_	_	_	_	_	_	Shift=2579
+10	Далай	_	_	_	_	_	_	_	RuCor_chain_id=1290|RuCor_group_id=414630|Shift=2581
+11	Ламы	_	_	_	_	_	_	_	RuCor_chain_id=1290|RuCor_group_id=414630|Shift=2587|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=2591
+13	и	_	_	_	_	_	_	_	Shift=2593
+14	регулярно	_	_	_	_	_	_	_	Shift=2595
+15	намекают	_	_	_	_	_	_	_	Shift=2605
+16	на	_	_	_	_	_	_	_	Shift=2614
+17	то	_	_	_	_	_	_	_	Shift=2617|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=2619
+19	что	_	_	_	_	_	_	_	Shift=2621
+20	все	_	_	_	_	_	_	_	Shift=2625
+21	тибетцы	_	_	_	_	_	_	_	Shift=2629
+22	-	_	_	_	_	_	_	_	_
+23	террористы	_	_	_	_	_	_	_	Shift=2639|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=2649
+
+# newpar id = 10274c60-ac80-4229-adca-d2cce724bdeb-p5
+# par_text = 28 марта тибетцы в Лхазе были вынуждены отмечать «день освобождения крепостных» для того, чтобы Китай мог оправдать своё вторжение, совершённое более 50 лет назад. Однако подобная терминология классовой борьбы служит напоминанием о культурной революции, и, поскольку подобные выражения были бы немыслимы в сегодняшнем континентальном Китае, только ещё больше изолирует Тибет.
+# sent_id = 10274c60-ac80-4229-adca-d2cce724bdeb-p5-s1
+# text = 28 марта тибетцы в Лхазе были вынуждены отмечать ``день освобождения крепостных'' для того, чтобы Китай мог оправдать своё вторжение, совершённое более 50 лет назад.
+1	28	_	_	_	_	_	_	_	Shift=2652
+2	марта	_	_	_	_	_	_	_	Shift=2655
+3	тибетцы	_	_	_	_	_	_	_	Shift=2661
+4	в	_	_	_	_	_	_	_	Shift=2669
+5	Лхазе	_	_	_	_	_	_	_	Shift=2671
+6	были	_	_	_	_	_	_	_	Shift=2677
+7	вынуждены	_	_	_	_	_	_	_	Shift=2682
+8	отмечать	_	_	_	_	_	_	_	Shift=2692
+9	``	_	_	_	_	_	_	_	Shift=2701|SpaceAfter=No
+10	день	_	_	_	_	_	_	_	Shift=2702
+11	освобождения	_	_	_	_	_	_	_	Shift=2707
+12	крепостных	_	_	_	_	_	_	_	Shift=2720|SpaceAfter=No
+13	''	_	_	_	_	_	_	_	Shift=2730
+14	для	_	_	_	_	_	_	_	Shift=2732
+15	того	_	_	_	_	_	_	_	Shift=2736|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=2740
+17	чтобы	_	_	_	_	_	_	_	Shift=2742
+18	Китай	_	_	_	_	_	_	_	RuCor_attrs_ref=meton|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1282|RuCor_group_id=414620|RuCor_link_id=414619|Shift=2748
+19	мог	_	_	_	_	_	_	_	Shift=2754
+20	оправдать	_	_	_	_	_	_	_	Shift=2758
+21	своё	_	_	_	_	_	_	_	Shift=2768
+22	вторжение	_	_	_	_	_	_	_	Shift=2773|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=2782
+24	совершённое	_	_	_	_	_	_	_	Shift=2784
+25	более	_	_	_	_	_	_	_	Shift=2796
+26	50	_	_	_	_	_	_	_	Shift=2802
+27	лет	_	_	_	_	_	_	_	Shift=2805
+28	назад	_	_	_	_	_	_	_	Shift=2809|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	Shift=2814
+
+# sent_id = 10274c60-ac80-4229-adca-d2cce724bdeb-p5-s2
+# text = Однако подобная терминология классовой борьбы служит напоминанием о культурной революции, и, поскольку подобные выражения были бы немыслимы в сегодняшнем континентальном Китае, только ещё больше изолирует Тибет.
+1	Однако	_	_	_	_	_	_	_	Shift=2816
+2	подобная	_	_	_	_	_	_	_	Shift=2823
+3	терминология	_	_	_	_	_	_	_	Shift=2832
+4	классовой	_	_	_	_	_	_	_	Shift=2845
+5	борьбы	_	_	_	_	_	_	_	Shift=2855
+6	служит	_	_	_	_	_	_	_	Shift=2862
+7	напоминанием	_	_	_	_	_	_	_	Shift=2869
+8	о	_	_	_	_	_	_	_	Shift=2882
+9	культурной	_	_	_	_	_	_	_	Shift=2884
+10	революции	_	_	_	_	_	_	_	Shift=2895|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=2904
+12	и	_	_	_	_	_	_	_	Shift=2906|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=2907
+14	поскольку	_	_	_	_	_	_	_	Shift=2909
+15	подобные	_	_	_	_	_	_	_	Shift=2919
+16	выражения	_	_	_	_	_	_	_	Shift=2928
+17	были	_	_	_	_	_	_	_	Shift=2938
+18	бы	_	_	_	_	_	_	_	Shift=2943
+19	немыслимы	_	_	_	_	_	_	_	Shift=2946
+20	в	_	_	_	_	_	_	_	Shift=2956
+21	сегодняшнем	_	_	_	_	_	_	_	RuCor_chain_id=1280|RuCor_group_id=414621|Shift=2958
+22	континентальном	_	_	_	_	_	_	_	RuCor_chain_id=1280|RuCor_group_id=414621|Shift=2970
+23	Китае	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1280|RuCor_group_id=414621|RuCor_link_id=414617|Shift=2986|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=2991
+25	только	_	_	_	_	_	_	_	Shift=2993
+26	ещё	_	_	_	_	_	_	_	Shift=3000
+27	больше	_	_	_	_	_	_	_	Shift=3004
+28	изолирует	_	_	_	_	_	_	_	Shift=3011
+29	Тибет	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1287|RuCor_group_id=414622|RuCor_link_id=0|Shift=3021|SpaceAfter=No
+30	.	_	_	_	_	_	_	_	Shift=3026
+
+# newpar id = 10274c60-ac80-4229-adca-d2cce724bdeb-p6
+# par_text = Несмотря на заявления обеих сторон о своей готовности к проведению диалога, их цели расходятся: эмигранты утвеождают, что переговоры должны быть основаны на их предложениях автономии, в то время как Китай заявляет, что обсуждение будет посвящено исключительно «личному статусу» Далай ламы – и его местожительству в Бейджине в случае его возвращения в Китай. Примитивные спарринговые матчи продолжаются, с недавним описанием Далай Ламой жизни тибетцев под правлением Китая как «ада на земле». Весьма вероятно, что он ссылался на жизнь в период правления Мао, а не на настоящее время, однако его замечания дали Китаю повод для дальнейших атак через средства массовой информации и накала политических страстей.
+# sent_id = 10274c60-ac80-4229-adca-d2cce724bdeb-p6-s1
+# text = Несмотря на заявления обеих сторон о своей готовности к проведению диалога, их цели расходятся: эмигранты утвеождают, что переговоры должны быть основаны на их предложениях автономии, в то время как Китай заявляет, что обсуждение будет посвящено исключительно ``личному статусу'' Далай ламы - и его местожительству в Бейджине в случае его возвращения в Китай.
+1	Несмотря	_	_	_	_	_	_	_	Shift=3029
+2	на	_	_	_	_	_	_	_	Shift=3038
+3	заявления	_	_	_	_	_	_	_	Shift=3041
+4	обеих	_	_	_	_	_	_	_	RuCor_chain_id=1288|RuCor_group_id=414623|Shift=3051
+5	сторон	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1288|RuCor_group_id=414623|RuCor_link_id=0|Shift=3057
+6	о	_	_	_	_	_	_	_	Shift=3064
+7	своей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1288|RuCor_group_id=414624|RuCor_link_id=414623|Shift=3066
+8	готовности	_	_	_	_	_	_	_	Shift=3072
+9	к	_	_	_	_	_	_	_	Shift=3083
+10	проведению	_	_	_	_	_	_	_	Shift=3085
+11	диалога	_	_	_	_	_	_	_	Shift=3096|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=3103
+13	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1288|RuCor_group_id=414625|RuCor_link_id=414624|Shift=3105
+14	цели	_	_	_	_	_	_	_	Shift=3108
+15	расходятся	_	_	_	_	_	_	_	Shift=3113|SpaceAfter=No
+16	:	_	_	_	_	_	_	_	Shift=3123
+17	эмигранты	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1289|RuCor_group_id=414627|RuCor_link_id=414626|Shift=3125
+18	утвеождают	_	_	_	_	_	_	_	Shift=3135|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=3145
+20	что	_	_	_	_	_	_	_	Shift=3147
+21	переговоры	_	_	_	_	_	_	_	Shift=3151
+22	должны	_	_	_	_	_	_	_	Shift=3162
+23	быть	_	_	_	_	_	_	_	Shift=3169
+24	основаны	_	_	_	_	_	_	_	Shift=3174
+25	на	_	_	_	_	_	_	_	Shift=3183
+26	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=1289|RuCor_group_id=414628|RuCor_link_id=414627|Shift=3186
+27	предложениях	_	_	_	_	_	_	_	Shift=3189
+28	автономии	_	_	_	_	_	_	_	Shift=3202|SpaceAfter=No
+29	,	_	_	_	_	_	_	_	Shift=3211
+30	в	_	_	_	_	_	_	_	Shift=3213
+31	то	_	_	_	_	_	_	_	Shift=3215
+32	время	_	_	_	_	_	_	_	Shift=3218
+33	как	_	_	_	_	_	_	_	Shift=3224
+34	Китай	_	_	_	_	_	_	_	RuCor_attrs_ref=meton|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1282|RuCor_group_id=414629|RuCor_link_id=414620|Shift=3228
+35	заявляет	_	_	_	_	_	_	_	Shift=3234|SpaceAfter=No
+36	,	_	_	_	_	_	_	_	Shift=3242
+37	что	_	_	_	_	_	_	_	Shift=3244
+38	обсуждение	_	_	_	_	_	_	_	Shift=3248
+39	будет	_	_	_	_	_	_	_	Shift=3259
+40	посвящено	_	_	_	_	_	_	_	Shift=3265
+41	исключительно	_	_	_	_	_	_	_	Shift=3275
+42	``	_	_	_	_	_	_	_	Shift=3289|SpaceAfter=No
+43	личному	_	_	_	_	_	_	_	Shift=3290
+44	статусу	_	_	_	_	_	_	_	Shift=3298|SpaceAfter=No
+45	''	_	_	_	_	_	_	_	Shift=3305
+46	Далай	_	_	_	_	_	_	_	RuCor_chain_id=1290|RuCor_group_id=414631|Shift=3307
+47	ламы	_	_	_	_	_	_	_	RuCor_chain_id=1290|RuCor_group_id=414631|Shift=3313
+48	-	_	_	_	_	_	_	_	_
+49	и	_	_	_	_	_	_	_	Shift=3320
+50	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1290|RuCor_group_id=414632|RuCor_link_id=414631|Shift=3322
+51	местожительству	_	_	_	_	_	_	_	Shift=3326
+52	в	_	_	_	_	_	_	_	Shift=3342
+53	Бейджине	_	_	_	_	_	_	_	Shift=3344
+54	в	_	_	_	_	_	_	_	Shift=3353
+55	случае	_	_	_	_	_	_	_	Shift=3355
+56	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1290|RuCor_group_id=414633|RuCor_link_id=414632|Shift=3362
+57	возвращения	_	_	_	_	_	_	_	Shift=3366
+58	в	_	_	_	_	_	_	_	Shift=3378
+59	Китай	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1280|RuCor_group_id=414634|RuCor_link_id=414621|Shift=3380|SpaceAfter=No
+60	.	_	_	_	_	_	_	_	Shift=3385
+
+# sent_id = 10274c60-ac80-4229-adca-d2cce724bdeb-p6-s2
+# text = Примитивные спарринговые матчи продолжаются, с недавним описанием Далай Ламой жизни тибетцев под правлением Китая как ``ада на земле''.
+1	Примитивные	_	_	_	_	_	_	_	Shift=3387
+2	спарринговые	_	_	_	_	_	_	_	Shift=3399
+3	матчи	_	_	_	_	_	_	_	Shift=3412
+4	продолжаются	_	_	_	_	_	_	_	Shift=3418|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=3430
+6	с	_	_	_	_	_	_	_	Shift=3432
+7	недавним	_	_	_	_	_	_	_	Shift=3434
+8	описанием	_	_	_	_	_	_	_	Shift=3443
+9	Далай	_	_	_	_	_	_	_	RuCor_chain_id=1290|RuCor_group_id=414635|Shift=3453
+10	Ламой	_	_	_	_	_	_	_	RuCor_chain_id=1290|RuCor_group_id=414635|Shift=3459
+11	жизни	_	_	_	_	_	_	_	Shift=3465
+12	тибетцев	_	_	_	_	_	_	_	Shift=3471
+13	под	_	_	_	_	_	_	_	Shift=3480
+14	правлением	_	_	_	_	_	_	_	Shift=3484
+15	Китая	_	_	_	_	_	_	_	RuCor_attrs_ref=meton|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1282|RuCor_group_id=414636|RuCor_link_id=414629|Shift=3495
+16	как	_	_	_	_	_	_	_	Shift=3501
+17	``	_	_	_	_	_	_	_	Shift=3505|SpaceAfter=No
+18	ада	_	_	_	_	_	_	_	Shift=3506
+19	на	_	_	_	_	_	_	_	Shift=3510
+20	земле	_	_	_	_	_	_	_	Shift=3513|SpaceAfter=No
+21	''	_	_	_	_	_	_	_	Shift=3518|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=3519
+
+# sent_id = 10274c60-ac80-4229-adca-d2cce724bdeb-p6-s3
+# text = Весьма вероятно, что он ссылался на жизнь в период правления Мао, а не на настоящее время, однако его замечания дали Китаю повод для дальнейших атак через средства массовой информации и накала политических страстей.
+1	Весьма	_	_	_	_	_	_	_	Shift=3521
+2	вероятно	_	_	_	_	_	_	_	Shift=3528|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=3536
+4	что	_	_	_	_	_	_	_	Shift=3538
+5	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1290|RuCor_group_id=414637|RuCor_link_id=414635|Shift=3542
+6	ссылался	_	_	_	_	_	_	_	Shift=3545
+7	на	_	_	_	_	_	_	_	Shift=3554
+8	жизнь	_	_	_	_	_	_	_	Shift=3557
+9	в	_	_	_	_	_	_	_	Shift=3563
+10	период	_	_	_	_	_	_	_	Shift=3565
+11	правления	_	_	_	_	_	_	_	Shift=3572
+12	Мао	_	_	_	_	_	_	_	Shift=3582|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=3585
+14	а	_	_	_	_	_	_	_	Shift=3587
+15	не	_	_	_	_	_	_	_	Shift=3589
+16	на	_	_	_	_	_	_	_	Shift=3592
+17	настоящее	_	_	_	_	_	_	_	Shift=3595
+18	время	_	_	_	_	_	_	_	Shift=3605|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=3610
+20	однако	_	_	_	_	_	_	_	Shift=3612
+21	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1290|RuCor_group_id=414638|RuCor_link_id=414637|Shift=3619
+22	замечания	_	_	_	_	_	_	_	Shift=3623
+23	дали	_	_	_	_	_	_	_	Shift=3633
+24	Китаю	_	_	_	_	_	_	_	RuCor_attrs_ref=meton|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1282|RuCor_group_id=414639|RuCor_link_id=414636|Shift=3638
+25	повод	_	_	_	_	_	_	_	Shift=3644
+26	для	_	_	_	_	_	_	_	Shift=3650
+27	дальнейших	_	_	_	_	_	_	_	Shift=3654
+28	атак	_	_	_	_	_	_	_	Shift=3665
+29	через	_	_	_	_	_	_	_	Shift=3670
+30	средства	_	_	_	_	_	_	_	Shift=3676
+31	массовой	_	_	_	_	_	_	_	Shift=3685
+32	информации	_	_	_	_	_	_	_	Shift=3694
+33	и	_	_	_	_	_	_	_	Shift=3705
+34	накала	_	_	_	_	_	_	_	Shift=3707
+35	политических	_	_	_	_	_	_	_	Shift=3714
+36	страстей	_	_	_	_	_	_	_	Shift=3727|SpaceAfter=No
+37	.	_	_	_	_	_	_	_	Shift=3735
+
+# newpar id = 10274c60-ac80-4229-adca-d2cce724bdeb-p7
+# par_text = Западные правительства обвинялись во вмешательстве, однако вряд ли какое-либо из них захочет портить отношения с Китаем, особенно в период экономического кризиса. В октябре прошлого года Дейвид Милибенд, министр иностранных дел Британии, был настолько озабочен сохранением добрых отношений с Китаем, что он оказался на грани отрицания автономии Тибета, признанной его предшественниками 100 лет назад. Однако иностранная заинтересованность в вопросах китайского присутствия в Тибете легко объяснима: Тибет является стратегической территорией, разделяющей две крупнейшие ядерные державы Азии. Поэтому удерживание контроля над этой территорией выгодно каждому.
+# sent_id = 10274c60-ac80-4229-adca-d2cce724bdeb-p7-s1
+# text = Западные правительства обвинялись во вмешательстве, однако вряд ли какое-либо из них захочет портить отношения с Китаем, особенно в период экономического кризиса.
+1	Западные	_	_	_	_	_	_	_	RuCor_chain_id=1291|RuCor_group_id=414640|Shift=3738
+2	правительства	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1291|RuCor_group_id=414640|RuCor_link_id=0|Shift=3747
+3	обвинялись	_	_	_	_	_	_	_	Shift=3761
+4	во	_	_	_	_	_	_	_	Shift=3772
+5	вмешательстве	_	_	_	_	_	_	_	Shift=3775|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=3788
+7	однако	_	_	_	_	_	_	_	Shift=3790
+8	вряд	_	_	_	_	_	_	_	Shift=3797
+9	ли	_	_	_	_	_	_	_	Shift=3802
+10	какое-либо	_	_	_	_	_	_	_	Shift=3805
+11	из	_	_	_	_	_	_	_	Shift=3816
+12	них	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1291|RuCor_group_id=414641|RuCor_link_id=414640|Shift=3819
+13	захочет	_	_	_	_	_	_	_	Shift=3823
+14	портить	_	_	_	_	_	_	_	Shift=3831
+15	отношения	_	_	_	_	_	_	_	Shift=3839
+16	с	_	_	_	_	_	_	_	Shift=3849
+17	Китаем	_	_	_	_	_	_	_	RuCor_attrs_ref=meton|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1282|RuCor_group_id=414642|RuCor_link_id=414639|Shift=3851|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=3857
+19	особенно	_	_	_	_	_	_	_	Shift=3859
+20	в	_	_	_	_	_	_	_	Shift=3868
+21	период	_	_	_	_	_	_	_	Shift=3870
+22	экономического	_	_	_	_	_	_	_	Shift=3877
+23	кризиса	_	_	_	_	_	_	_	Shift=3892|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=3899
+
+# sent_id = 10274c60-ac80-4229-adca-d2cce724bdeb-p7-s2
+# text = В октябре прошлого года Дейвид Милибенд, министр иностранных дел Британии, был настолько озабочен сохранением добрых отношений с Китаем, что он оказался на грани отрицания автономии Тибета, признанной его предшественниками 100 лет назад.
+1	В	_	_	_	_	_	_	_	Shift=3901
+2	октябре	_	_	_	_	_	_	_	Shift=3903
+3	прошлого	_	_	_	_	_	_	_	Shift=3911
+4	года	_	_	_	_	_	_	_	Shift=3920
+5	Дейвид	_	_	_	_	_	_	_	RuCor_chain_id=1292|RuCor_group_id=414643|Shift=3925
+6	Милибенд	_	_	_	_	_	_	_	RuCor_chain_id=1292|RuCor_group_id=414643|Shift=3932|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=3940
+8	министр	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=appo|RuCor_attrs_type=coref|RuCor_chain_id=1292|RuCor_group_id=414644|RuCor_link_id=414643|Shift=3942
+9	иностранных	_	_	_	_	_	_	_	RuCor_chain_id=1292|RuCor_group_id=414644|Shift=3950
+10	дел	_	_	_	_	_	_	_	RuCor_chain_id=1292|RuCor_group_id=414644|Shift=3962
+11	Британии	_	_	_	_	_	_	_	RuCor_chain_id=1292|RuCor_group_id=414644|Shift=3966|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=3974
+13	был	_	_	_	_	_	_	_	Shift=3976
+14	настолько	_	_	_	_	_	_	_	Shift=3980
+15	озабочен	_	_	_	_	_	_	_	Shift=3990
+16	сохранением	_	_	_	_	_	_	_	Shift=3999
+17	добрых	_	_	_	_	_	_	_	Shift=4011
+18	отношений	_	_	_	_	_	_	_	Shift=4018
+19	с	_	_	_	_	_	_	_	Shift=4028
+20	Китаем	_	_	_	_	_	_	_	RuCor_attrs_ref=meton|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1282|RuCor_group_id=414645|RuCor_link_id=414642|Shift=4030|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=4036
+22	что	_	_	_	_	_	_	_	Shift=4038
+23	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1292|RuCor_group_id=414647|RuCor_link_id=414644|Shift=4042
+24	оказался	_	_	_	_	_	_	_	Shift=4045
+25	на	_	_	_	_	_	_	_	Shift=4054
+26	грани	_	_	_	_	_	_	_	Shift=4057
+27	отрицания	_	_	_	_	_	_	_	Shift=4063
+28	автономии	_	_	_	_	_	_	_	Shift=4073
+29	Тибета	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1281|RuCor_group_id=414648|RuCor_link_id=414611|Shift=4083|SpaceAfter=No
+30	,	_	_	_	_	_	_	_	Shift=4089
+31	признанной	_	_	_	_	_	_	_	Shift=4091
+32	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1292|RuCor_group_id=414646|RuCor_link_id=414647|Shift=4102
+33	предшественниками	_	_	_	_	_	_	_	Shift=4106
+34	100	_	_	_	_	_	_	_	Shift=4124
+35	лет	_	_	_	_	_	_	_	Shift=4128
+36	назад	_	_	_	_	_	_	_	Shift=4132|SpaceAfter=No
+37	.	_	_	_	_	_	_	_	Shift=4137
+
+# sent_id = 10274c60-ac80-4229-adca-d2cce724bdeb-p7-s3
+# text = Однако иностранная заинтересованность в вопросах китайского присутствия в Тибете легко объяснима: Тибет является стратегической территорией, разделяющей две крупнейшие ядерные державы Азии.
+1	Однако	_	_	_	_	_	_	_	Shift=4139
+2	иностранная	_	_	_	_	_	_	_	Shift=4146
+3	заинтересованность	_	_	_	_	_	_	_	Shift=4158
+4	в	_	_	_	_	_	_	_	Shift=4177
+5	вопросах	_	_	_	_	_	_	_	Shift=4179
+6	китайского	_	_	_	_	_	_	_	Shift=4188
+7	присутствия	_	_	_	_	_	_	_	Shift=4199
+8	в	_	_	_	_	_	_	_	Shift=4211
+9	Тибете	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1281|RuCor_group_id=414649|RuCor_link_id=414648|Shift=4213
+10	легко	_	_	_	_	_	_	_	Shift=4220
+11	объяснима	_	_	_	_	_	_	_	Shift=4226|SpaceAfter=No
+12	:	_	_	_	_	_	_	_	Shift=4235
+13	Тибет	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1281|RuCor_group_id=414650|RuCor_link_id=414649|Shift=4237
+14	является	_	_	_	_	_	_	_	Shift=4243
+15	стратегической	_	_	_	_	_	_	_	Shift=4252
+16	территорией	_	_	_	_	_	_	_	Shift=4267|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=4278
+18	разделяющей	_	_	_	_	_	_	_	Shift=4280
+19	две	_	_	_	_	_	_	_	Shift=4292
+20	крупнейшие	_	_	_	_	_	_	_	Shift=4296
+21	ядерные	_	_	_	_	_	_	_	Shift=4307
+22	державы	_	_	_	_	_	_	_	Shift=4315
+23	Азии	_	_	_	_	_	_	_	Shift=4323|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=4327
+
+# sent_id = 10274c60-ac80-4229-adca-d2cce724bdeb-p7-s4
+# text = Поэтому удерживание контроля над этой территорией выгодно каждому.
+1	Поэтому	_	_	_	_	_	_	_	Shift=4329
+2	удерживание	_	_	_	_	_	_	_	Shift=4337
+3	контроля	_	_	_	_	_	_	_	Shift=4349
+4	над	_	_	_	_	_	_	_	Shift=4358
+5	этой	_	_	_	_	_	_	_	RuCor_chain_id=1281|RuCor_group_id=414651|Shift=4362
+6	территорией	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1281|RuCor_group_id=414651|RuCor_link_id=414650|Shift=4367
+7	выгодно	_	_	_	_	_	_	_	Shift=4379
+8	каждому	_	_	_	_	_	_	_	Shift=4387|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=4394
+
+# newpar id = 10274c60-ac80-4229-adca-d2cce724bdeb-p8
+# par_text = Китай может помочь разрядить растущее напряжение, признав обоснованность подобной заинтересованности. Далай Лама может сократить количество международных встреч и признать, что несмотря на общую тенденцию Китая к подавлению интеллектуальной и религиозной жизни в Тибете, развитие некоторых аспектов тибетской культуры (например, современного искусства, кинематографа и литературы) всё же остаётся относительно нормальным. Западные обозреватели могут согласиться с утверждениями эмигрантов о том, что их предложения в пользу автономии не являются безоговорочными требованиями и подлежат обсуждению, вместо того, чтобы отвергать их ещё до начала переговоров.
+# sent_id = 10274c60-ac80-4229-adca-d2cce724bdeb-p8-s1
+# text = Китай может помочь разрядить растущее напряжение, признав обоснованность подобной заинтересованности.
+1	Китай	_	_	_	_	_	_	_	RuCor_attrs_ref=meton|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1282|RuCor_group_id=414652|RuCor_link_id=414645|Shift=4397
+2	может	_	_	_	_	_	_	_	Shift=4403
+3	помочь	_	_	_	_	_	_	_	Shift=4409
+4	разрядить	_	_	_	_	_	_	_	Shift=4416
+5	растущее	_	_	_	_	_	_	_	Shift=4426
+6	напряжение	_	_	_	_	_	_	_	Shift=4435|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=4445
+8	признав	_	_	_	_	_	_	_	Shift=4447
+9	обоснованность	_	_	_	_	_	_	_	Shift=4455
+10	подобной	_	_	_	_	_	_	_	Shift=4470
+11	заинтересованности	_	_	_	_	_	_	_	Shift=4479|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=4497
+
+# sent_id = 10274c60-ac80-4229-adca-d2cce724bdeb-p8-s2
+# text = Далай Лама может сократить количество международных встреч и признать, что несмотря на общую тенденцию Китая к подавлению интеллектуальной и религиозной жизни в Тибете, развитие некоторых аспектов тибетской культуры (например, современного искусства, кинематографа и литературы) всё же остаётся относительно нормальным.
+1	Далай	_	_	_	_	_	_	_	RuCor_chain_id=1290|RuCor_group_id=414653|Shift=4499
+2	Лама	_	_	_	_	_	_	_	RuCor_chain_id=1290|RuCor_group_id=414653|Shift=4505
+3	может	_	_	_	_	_	_	_	Shift=4510
+4	сократить	_	_	_	_	_	_	_	Shift=4516
+5	количество	_	_	_	_	_	_	_	Shift=4526
+6	международных	_	_	_	_	_	_	_	Shift=4537
+7	встреч	_	_	_	_	_	_	_	Shift=4551
+8	и	_	_	_	_	_	_	_	Shift=4558
+9	признать	_	_	_	_	_	_	_	Shift=4560|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=4568
+11	что	_	_	_	_	_	_	_	Shift=4570
+12	несмотря	_	_	_	_	_	_	_	Shift=4574
+13	на	_	_	_	_	_	_	_	Shift=4583
+14	общую	_	_	_	_	_	_	_	Shift=4586
+15	тенденцию	_	_	_	_	_	_	_	Shift=4592
+16	Китая	_	_	_	_	_	_	_	RuCor_attrs_ref=meton|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1282|RuCor_group_id=414654|RuCor_link_id=414652|Shift=4602
+17	к	_	_	_	_	_	_	_	Shift=4608
+18	подавлению	_	_	_	_	_	_	_	Shift=4610
+19	интеллектуальной	_	_	_	_	_	_	_	Shift=4621
+20	и	_	_	_	_	_	_	_	Shift=4638
+21	религиозной	_	_	_	_	_	_	_	Shift=4640
+22	жизни	_	_	_	_	_	_	_	Shift=4652
+23	в	_	_	_	_	_	_	_	Shift=4658
+24	Тибете	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1281|RuCor_group_id=414655|RuCor_link_id=414651|Shift=4660|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=4666
+26	развитие	_	_	_	_	_	_	_	Shift=4668
+27	некоторых	_	_	_	_	_	_	_	Shift=4677
+28	аспектов	_	_	_	_	_	_	_	Shift=4687
+29	тибетской	_	_	_	_	_	_	_	Shift=4696
+30	культуры	_	_	_	_	_	_	_	Shift=4706
+31	(	_	_	_	_	_	_	_	Shift=4715|SpaceAfter=No
+32	например	_	_	_	_	_	_	_	Shift=4716|SpaceAfter=No
+33	,	_	_	_	_	_	_	_	Shift=4724
+34	современного	_	_	_	_	_	_	_	Shift=4726
+35	искусства	_	_	_	_	_	_	_	Shift=4739|SpaceAfter=No
+36	,	_	_	_	_	_	_	_	Shift=4748
+37	кинематографа	_	_	_	_	_	_	_	Shift=4750
+38	и	_	_	_	_	_	_	_	Shift=4764
+39	литературы	_	_	_	_	_	_	_	Shift=4766|SpaceAfter=No
+40	)	_	_	_	_	_	_	_	Shift=4776
+41	всё	_	_	_	_	_	_	_	Shift=4778
+42	же	_	_	_	_	_	_	_	Shift=4782
+43	остаётся	_	_	_	_	_	_	_	Shift=4785
+44	относительно	_	_	_	_	_	_	_	Shift=4794
+45	нормальным	_	_	_	_	_	_	_	Shift=4807|SpaceAfter=No
+46	.	_	_	_	_	_	_	_	Shift=4817
+
+# sent_id = 10274c60-ac80-4229-adca-d2cce724bdeb-p8-s3
+# text = Западные обозреватели могут согласиться с утверждениями эмигрантов о том, что их предложения в пользу автономии не являются безоговорочными требованиями и подлежат обсуждению, вместо того, чтобы отвергать их ещё до начала переговоров.
+1	Западные	_	_	_	_	_	_	_	Shift=4819
+2	обозреватели	_	_	_	_	_	_	_	Shift=4828
+3	могут	_	_	_	_	_	_	_	Shift=4841
+4	согласиться	_	_	_	_	_	_	_	Shift=4847
+5	с	_	_	_	_	_	_	_	Shift=4859
+6	утверждениями	_	_	_	_	_	_	_	Shift=4861
+7	эмигрантов	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1289|RuCor_group_id=414656|RuCor_link_id=414627|Shift=4875
+8	о	_	_	_	_	_	_	_	Shift=4886
+9	том	_	_	_	_	_	_	_	Shift=4888|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=4891
+11	что	_	_	_	_	_	_	_	Shift=4893
+12	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=1293|RuCor_group_id=414658|RuCor_link_id=414656|Shift=4897
+13	предложения	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1293|RuCor_group_id=414658|RuCor_link_id=0|Shift=4900
+14	в	_	_	_	_	_	_	_	Shift=4912
+15	пользу	_	_	_	_	_	_	_	Shift=4914
+16	автономии	_	_	_	_	_	_	_	Shift=4921
+17	не	_	_	_	_	_	_	_	Shift=4931
+18	являются	_	_	_	_	_	_	_	Shift=4934
+19	безоговорочными	_	_	_	_	_	_	_	Shift=4943
+20	требованиями	_	_	_	_	_	_	_	Shift=4959
+21	и	_	_	_	_	_	_	_	Shift=4972
+22	подлежат	_	_	_	_	_	_	_	Shift=4974
+23	обсуждению	_	_	_	_	_	_	_	Shift=4983|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=4993
+25	вместо	_	_	_	_	_	_	_	Shift=4995
+26	того	_	_	_	_	_	_	_	Shift=5002|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=5006
+28	чтобы	_	_	_	_	_	_	_	Shift=5008
+29	отвергать	_	_	_	_	_	_	_	Shift=5014
+30	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1293|RuCor_group_id=414659|RuCor_link_id=414658|Shift=5024
+31	ещё	_	_	_	_	_	_	_	Shift=5027
+32	до	_	_	_	_	_	_	_	Shift=5031
+33	начала	_	_	_	_	_	_	_	Shift=5034
+34	переговоров	_	_	_	_	_	_	_	Shift=5041|SpaceAfter=No
+35	.	_	_	_	_	_	_	_	Shift=5052
+
+# newpar id = 10274c60-ac80-4229-adca-d2cce724bdeb-p9
+# par_text = Всем сторонам было бы полезно уделить внимание двум тибетским представителям в Китае, которые осмелились высказать своё мнение в прошлом месяце. Находящийся на пенсии губернатор префектуры из Кардзе сообщил сингапурской газете «Заобао», что «правительству следует больше доверять своему народу, особенно тибетским монахам», а нынешний губернатор Тибета признал, что некоторые участники прошлогодних протестов «не были удовлетворены нашей политикой», вместо того, чтобы объявлять их врагами народа. Таким образом, китайские власти впервые признали тот факт, что их политика могла иметь связь с недавними протестами.
+# sent_id = 10274c60-ac80-4229-adca-d2cce724bdeb-p9-s1
+# text = Всем сторонам было бы полезно уделить внимание двум тибетским представителям в Китае, которые осмелились высказать своё мнение в прошлом месяце.
+1	Всем	_	_	_	_	_	_	_	Shift=5055
+2	сторонам	_	_	_	_	_	_	_	Shift=5060
+3	было	_	_	_	_	_	_	_	Shift=5069
+4	бы	_	_	_	_	_	_	_	Shift=5074
+5	полезно	_	_	_	_	_	_	_	Shift=5077
+6	уделить	_	_	_	_	_	_	_	Shift=5085
+7	внимание	_	_	_	_	_	_	_	Shift=5093
+8	двум	_	_	_	_	_	_	_	RuCor_chain_id=1294|RuCor_group_id=414661|Shift=5102
+9	тибетским	_	_	_	_	_	_	_	RuCor_chain_id=1294|RuCor_group_id=414661|Shift=5107
+10	представителям	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1294|RuCor_group_id=414661|RuCor_link_id=0|Shift=5117
+11	в	_	_	_	_	_	_	_	Shift=5132
+12	Китае	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1280|RuCor_group_id=414660|RuCor_link_id=414621|Shift=5134|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=5139
+14	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=1294|RuCor_group_id=414662|RuCor_link_id=414661|Shift=5141
+15	осмелились	_	_	_	_	_	_	_	Shift=5149
+16	высказать	_	_	_	_	_	_	_	Shift=5160
+17	своё	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1294|RuCor_group_id=414663|RuCor_link_id=414662|Shift=5170
+18	мнение	_	_	_	_	_	_	_	Shift=5175
+19	в	_	_	_	_	_	_	_	Shift=5182
+20	прошлом	_	_	_	_	_	_	_	Shift=5184
+21	месяце	_	_	_	_	_	_	_	Shift=5192|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=5198
+
+# sent_id = 10274c60-ac80-4229-adca-d2cce724bdeb-p9-s2
+# text = Находящийся на пенсии губернатор префектуры из Кардзе сообщил сингапурской газете ``Заобао'', что ``правительству следует больше доверять своему народу, особенно тибетским монахам'', а нынешний губернатор Тибета признал, что некоторые участники прошлогодних протестов ``не были удовлетворены нашей политикой'', вместо того, чтобы объявлять их врагами народа.
+1	Находящийся	_	_	_	_	_	_	_	Shift=5200
+2	на	_	_	_	_	_	_	_	Shift=5212
+3	пенсии	_	_	_	_	_	_	_	Shift=5215
+4	губернатор	_	_	_	_	_	_	_	Shift=5222
+5	префектуры	_	_	_	_	_	_	_	Shift=5233
+6	из	_	_	_	_	_	_	_	Shift=5244
+7	Кардзе	_	_	_	_	_	_	_	Shift=5247
+8	сообщил	_	_	_	_	_	_	_	Shift=5254
+9	сингапурской	_	_	_	_	_	_	_	Shift=5262
+10	газете	_	_	_	_	_	_	_	Shift=5275
+11	``	_	_	_	_	_	_	_	Shift=5282|SpaceAfter=No
+12	Заобао	_	_	_	_	_	_	_	Shift=5283|SpaceAfter=No
+13	''	_	_	_	_	_	_	_	Shift=5289|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=5290
+15	что	_	_	_	_	_	_	_	Shift=5292
+16	``	_	_	_	_	_	_	_	Shift=5296|SpaceAfter=No
+17	правительству	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1282|RuCor_group_id=414664|RuCor_link_id=414654|Shift=5297
+18	следует	_	_	_	_	_	_	_	Shift=5311
+19	больше	_	_	_	_	_	_	_	Shift=5319
+20	доверять	_	_	_	_	_	_	_	Shift=5326
+21	своему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1282|RuCor_group_id=414665|RuCor_link_id=414664|Shift=5335
+22	народу	_	_	_	_	_	_	_	Shift=5342|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=5348
+24	особенно	_	_	_	_	_	_	_	Shift=5350
+25	тибетским	_	_	_	_	_	_	_	Shift=5359
+26	монахам	_	_	_	_	_	_	_	Shift=5369|SpaceAfter=No
+27	''	_	_	_	_	_	_	_	Shift=5376|SpaceAfter=No
+28	,	_	_	_	_	_	_	_	Shift=5377
+29	а	_	_	_	_	_	_	_	Shift=5379
+30	нынешний	_	_	_	_	_	_	_	Shift=5381
+31	губернатор	_	_	_	_	_	_	_	Shift=5390
+32	Тибета	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1281|RuCor_group_id=414666|RuCor_link_id=414655|Shift=5401
+33	признал	_	_	_	_	_	_	_	Shift=5408|SpaceAfter=No
+34	,	_	_	_	_	_	_	_	Shift=5415
+35	что	_	_	_	_	_	_	_	Shift=5417
+36	некоторые	_	_	_	_	_	_	_	RuCor_chain_id=1295|RuCor_group_id=414668|Shift=5421
+37	участники	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1295|RuCor_group_id=414668|RuCor_link_id=0|Shift=5431
+38	прошлогодних	_	_	_	_	_	_	_	RuCor_chain_id=1295|RuCor_group_id=414668|Shift=5441
+39	протестов	_	_	_	_	_	_	_	RuCor_chain_id=1295|RuCor_group_id=414668|Shift=5454
+40	``	_	_	_	_	_	_	_	Shift=5464|SpaceAfter=No
+41	не	_	_	_	_	_	_	_	Shift=5465
+42	были	_	_	_	_	_	_	_	Shift=5468
+43	удовлетворены	_	_	_	_	_	_	_	Shift=5473
+44	нашей	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1282|RuCor_group_id=414667|RuCor_link_id=414665|Shift=5487
+45	политикой	_	_	_	_	_	_	_	Shift=5493|SpaceAfter=No
+46	''	_	_	_	_	_	_	_	Shift=5502|SpaceAfter=No
+47	,	_	_	_	_	_	_	_	Shift=5503
+48	вместо	_	_	_	_	_	_	_	Shift=5505
+49	того	_	_	_	_	_	_	_	Shift=5512|SpaceAfter=No
+50	,	_	_	_	_	_	_	_	Shift=5516
+51	чтобы	_	_	_	_	_	_	_	Shift=5518
+52	объявлять	_	_	_	_	_	_	_	Shift=5524
+53	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1295|RuCor_group_id=414669|RuCor_link_id=414668|Shift=5534
+54	врагами	_	_	_	_	_	_	_	Shift=5537
+55	народа	_	_	_	_	_	_	_	Shift=5545|SpaceAfter=No
+56	.	_	_	_	_	_	_	_	Shift=5551
+
+# sent_id = 10274c60-ac80-4229-adca-d2cce724bdeb-p9-s3
+# text = Таким образом, китайские власти впервые признали тот факт, что их политика могла иметь связь с недавними протестами.
+1	Таким	_	_	_	_	_	_	_	Shift=5553
+2	образом	_	_	_	_	_	_	_	Shift=5559|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=5566
+4	китайские	_	_	_	_	_	_	_	RuCor_chain_id=1282|RuCor_group_id=414670|Shift=5568
+5	власти	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1282|RuCor_group_id=414670|RuCor_link_id=414665|Shift=5578
+6	впервые	_	_	_	_	_	_	_	Shift=5585
+7	признали	_	_	_	_	_	_	_	Shift=5593
+8	тот	_	_	_	_	_	_	_	Shift=5602
+9	факт	_	_	_	_	_	_	_	Shift=5606|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=5610
+11	что	_	_	_	_	_	_	_	Shift=5612
+12	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1282|RuCor_group_id=414671|RuCor_link_id=414670|Shift=5616
+13	политика	_	_	_	_	_	_	_	Shift=5619
+14	могла	_	_	_	_	_	_	_	Shift=5628
+15	иметь	_	_	_	_	_	_	_	Shift=5634
+16	связь	_	_	_	_	_	_	_	Shift=5640
+17	с	_	_	_	_	_	_	_	Shift=5646
+18	недавними	_	_	_	_	_	_	_	Shift=5648
+19	протестами	_	_	_	_	_	_	_	Shift=5658|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=5668
+
+# newpar id = 10274c60-ac80-4229-adca-d2cce724bdeb-p10
+# par_text = До сих пор партия придерживалась более традиционной стратегии: на прошлой неделе она послала делегацию представителей в США (первая делегация, полностью состоящая из тибетцев – подобное обстоятельство, возможно, партии было бы неудобно признать), лидер которой, Шингтса Тензин Чоедак, был вынужден сообщить журналистам, что тибетцам предоставлена свобода вероисповедания.
+# sent_id = 10274c60-ac80-4229-adca-d2cce724bdeb-p10-s1
+# text = До сих пор партия придерживалась более традиционной стратегии: на прошлой неделе она послала делегацию представителей в США (первая делегация, полностью состоящая из тибетцев - подобное обстоятельство, возможно, партии было бы неудобно признать), лидер которой, Шингтса Тензин Чоедак, был вынужден сообщить журналистам, что тибетцам предоставлена свобода вероисповедания.
+1	До	_	_	_	_	_	_	_	Shift=5671
+2	сих	_	_	_	_	_	_	_	Shift=5674
+3	пор	_	_	_	_	_	_	_	Shift=5678
+4	партия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1282|RuCor_group_id=414672|RuCor_link_id=414671|Shift=5682
+5	придерживалась	_	_	_	_	_	_	_	Shift=5689
+6	более	_	_	_	_	_	_	_	Shift=5704
+7	традиционной	_	_	_	_	_	_	_	Shift=5710
+8	стратегии	_	_	_	_	_	_	_	Shift=5723|SpaceAfter=No
+9	:	_	_	_	_	_	_	_	Shift=5732
+10	на	_	_	_	_	_	_	_	Shift=5734
+11	прошлой	_	_	_	_	_	_	_	Shift=5737
+12	неделе	_	_	_	_	_	_	_	Shift=5745
+13	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1282|RuCor_group_id=414673|RuCor_link_id=414672|Shift=5752
+14	послала	_	_	_	_	_	_	_	Shift=5756
+15	делегацию	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1296|RuCor_group_id=414674|RuCor_link_id=0|Shift=5764
+16	представителей	_	_	_	_	_	_	_	RuCor_chain_id=1296|RuCor_group_id=414674|Shift=5774
+17	в	_	_	_	_	_	_	_	Shift=5789
+18	США	_	_	_	_	_	_	_	Shift=5791
+19	(	_	_	_	_	_	_	_	Shift=5795|SpaceAfter=No
+20	первая	_	_	_	_	_	_	_	RuCor_chain_id=1296|RuCor_group_id=414675|Shift=5796
+21	делегация	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=appo|RuCor_attrs_type=coref|RuCor_chain_id=1296|RuCor_group_id=414675|RuCor_link_id=414674|Shift=5803|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=5812
+23	полностью	_	_	_	_	_	_	_	Shift=5814
+24	состоящая	_	_	_	_	_	_	_	Shift=5824
+25	из	_	_	_	_	_	_	_	Shift=5834
+26	тибетцев	_	_	_	_	_	_	_	Shift=5837
+27	-	_	_	_	_	_	_	_	_
+28	подобное	_	_	_	_	_	_	_	Shift=5848
+29	обстоятельство	_	_	_	_	_	_	_	Shift=5857|SpaceAfter=No
+30	,	_	_	_	_	_	_	_	Shift=5871
+31	возможно	_	_	_	_	_	_	_	Shift=5873|SpaceAfter=No
+32	,	_	_	_	_	_	_	_	Shift=5881
+33	партии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1282|RuCor_group_id=414676|RuCor_link_id=414673|Shift=5883
+34	было	_	_	_	_	_	_	_	Shift=5890
+35	бы	_	_	_	_	_	_	_	Shift=5895
+36	неудобно	_	_	_	_	_	_	_	Shift=5898
+37	признать	_	_	_	_	_	_	_	Shift=5907|SpaceAfter=No
+38	)	_	_	_	_	_	_	_	Shift=5915|SpaceAfter=No
+39	,	_	_	_	_	_	_	_	Shift=5916
+40	лидер	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1297|RuCor_group_id=414678|RuCor_link_id=0|Shift=5918
+41	которой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=1296|RuCor_group_id=414677|RuCor_link_id=414675|Shift=5924|SpaceAfter=No
+42	,	_	_	_	_	_	_	_	Shift=5931
+43	Шингтса	_	_	_	_	_	_	_	RuCor_chain_id=1297|RuCor_group_id=414679|Shift=5933
+44	Тензин	_	_	_	_	_	_	_	RuCor_chain_id=1297|RuCor_group_id=414679|Shift=5941
+45	Чоедак	_	_	_	_	_	_	_	RuCor_chain_id=1297|RuCor_group_id=414679|Shift=5948|SpaceAfter=No
+46	,	_	_	_	_	_	_	_	Shift=5954
+47	был	_	_	_	_	_	_	_	Shift=5956
+48	вынужден	_	_	_	_	_	_	_	Shift=5960
+49	сообщить	_	_	_	_	_	_	_	Shift=5969
+50	журналистам	_	_	_	_	_	_	_	Shift=5978|SpaceAfter=No
+51	,	_	_	_	_	_	_	_	Shift=5989
+52	что	_	_	_	_	_	_	_	Shift=5991
+53	тибетцам	_	_	_	_	_	_	_	Shift=5995
+54	предоставлена	_	_	_	_	_	_	_	Shift=6004
+55	свобода	_	_	_	_	_	_	_	Shift=6018
+56	вероисповедания	_	_	_	_	_	_	_	Shift=6026|SpaceAfter=No
+57	.	_	_	_	_	_	_	_	Shift=6041
+
+# newpar id = 10274c60-ac80-4229-adca-d2cce724bdeb-p11
+# par_text = Как хорошо известно любому, кто недавно работал в Тибете, это утверждение не является правдивым: начиная по крайней мере с 1996 года, всем тибетцам, работающим на правительство и всем студентам в Тибете было запрещено практиковать обряды буддизма, несмотря на то, что китайские законы не позволяют препятствовать практике обрядов официальной религии.
+# sent_id = 10274c60-ac80-4229-adca-d2cce724bdeb-p11-s1
+# text = Как хорошо известно любому, кто недавно работал в Тибете, это утверждение не является правдивым: начиная по крайней мере с 1996 года, всем тибетцам, работающим на правительство и всем студентам в Тибете было запрещено практиковать обряды буддизма, несмотря на то, что китайские законы не позволяют препятствовать практике обрядов официальной религии.
+1	Как	_	_	_	_	_	_	_	Shift=6043
+2	хорошо	_	_	_	_	_	_	_	Shift=6047
+3	известно	_	_	_	_	_	_	_	Shift=6054
+4	любому	_	_	_	_	_	_	_	Shift=6063|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=6069
+6	кто	_	_	_	_	_	_	_	Shift=6071
+7	недавно	_	_	_	_	_	_	_	Shift=6075
+8	работал	_	_	_	_	_	_	_	Shift=6083
+9	в	_	_	_	_	_	_	_	Shift=6091
+10	Тибете	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1281|RuCor_group_id=414680|RuCor_link_id=414666|Shift=6093|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=6099
+12	это	_	_	_	_	_	_	_	Shift=6101
+13	утверждение	_	_	_	_	_	_	_	Shift=6105
+14	не	_	_	_	_	_	_	_	Shift=6117
+15	является	_	_	_	_	_	_	_	Shift=6120
+16	правдивым	_	_	_	_	_	_	_	Shift=6129|SpaceAfter=No
+17	:	_	_	_	_	_	_	_	Shift=6138
+18	начиная	_	_	_	_	_	_	_	Shift=6140
+19	по	_	_	_	_	_	_	_	Shift=6148
+20	крайней	_	_	_	_	_	_	_	Shift=6151
+21	мере	_	_	_	_	_	_	_	Shift=6159
+22	с	_	_	_	_	_	_	_	Shift=6164
+23	1996	_	_	_	_	_	_	_	Shift=6166
+24	года	_	_	_	_	_	_	_	Shift=6171|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=6175
+26	всем	_	_	_	_	_	_	_	Shift=6177
+27	тибетцам	_	_	_	_	_	_	_	Shift=6182|SpaceAfter=No
+28	,	_	_	_	_	_	_	_	Shift=6190
+29	работающим	_	_	_	_	_	_	_	Shift=6192
+30	на	_	_	_	_	_	_	_	Shift=6203
+31	правительство	_	_	_	_	_	_	_	Shift=6206
+32	и	_	_	_	_	_	_	_	Shift=6220
+33	всем	_	_	_	_	_	_	_	Shift=6222
+34	студентам	_	_	_	_	_	_	_	Shift=6227
+35	в	_	_	_	_	_	_	_	Shift=6237
+36	Тибете	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1281|RuCor_group_id=414681|RuCor_link_id=414680|Shift=6239
+37	было	_	_	_	_	_	_	_	Shift=6246
+38	запрещено	_	_	_	_	_	_	_	Shift=6251
+39	практиковать	_	_	_	_	_	_	_	Shift=6261
+40	обряды	_	_	_	_	_	_	_	Shift=6274
+41	буддизма	_	_	_	_	_	_	_	Shift=6281|SpaceAfter=No
+42	,	_	_	_	_	_	_	_	Shift=6289
+43	несмотря	_	_	_	_	_	_	_	Shift=6291
+44	на	_	_	_	_	_	_	_	Shift=6300
+45	то	_	_	_	_	_	_	_	Shift=6303|SpaceAfter=No
+46	,	_	_	_	_	_	_	_	Shift=6305
+47	что	_	_	_	_	_	_	_	Shift=6307
+48	китайские	_	_	_	_	_	_	_	Shift=6311
+49	законы	_	_	_	_	_	_	_	Shift=6321
+50	не	_	_	_	_	_	_	_	Shift=6328
+51	позволяют	_	_	_	_	_	_	_	Shift=6331
+52	препятствовать	_	_	_	_	_	_	_	Shift=6341
+53	практике	_	_	_	_	_	_	_	Shift=6356
+54	обрядов	_	_	_	_	_	_	_	Shift=6365
+55	официальной	_	_	_	_	_	_	_	Shift=6373
+56	религии	_	_	_	_	_	_	_	Shift=6385|SpaceAfter=No
+57	.	_	_	_	_	_	_	_	Shift=6392
+
+# newpar id = 10274c60-ac80-4229-adca-d2cce724bdeb-p12
+# par_text = Правительство Китая могло бы мгновенно улучшить положение, уволив чиновников, ответственных за проведение подобной незаконной политики, и принеся извинения тибетцам за то, что подобные оскорбления не принимались во внимание в течение 15 лет. Правительство также может начать пересмотр своей политики в Тибете, вместо усиления контроля и ограничений. До тех пор, стремление Китая добиться международного признания обречено на неудачу, и тибетский вопрос будет оставаться на повестке дня всего мира.
+# sent_id = 10274c60-ac80-4229-adca-d2cce724bdeb-p12-s1
+# text = Правительство Китая могло бы мгновенно улучшить положение, уволив чиновников, ответственных за проведение подобной незаконной политики, и принеся извинения тибетцам за то, что подобные оскорбления не принимались во внимание в течение 15 лет.
+1	Правительство	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1282|RuCor_group_id=414682|RuCor_link_id=414676|Shift=6395
+2	Китая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1280|RuCor_group_id=414683|RuCor_link_id=414660|Shift=6409
+3	могло	_	_	_	_	_	_	_	Shift=6415
+4	бы	_	_	_	_	_	_	_	Shift=6421
+5	мгновенно	_	_	_	_	_	_	_	Shift=6424
+6	улучшить	_	_	_	_	_	_	_	Shift=6434
+7	положение	_	_	_	_	_	_	_	Shift=6443|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=6452
+9	уволив	_	_	_	_	_	_	_	Shift=6454
+10	чиновников	_	_	_	_	_	_	_	Shift=6461|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=6471
+12	ответственных	_	_	_	_	_	_	_	Shift=6473
+13	за	_	_	_	_	_	_	_	Shift=6487
+14	проведение	_	_	_	_	_	_	_	Shift=6490
+15	подобной	_	_	_	_	_	_	_	Shift=6501
+16	незаконной	_	_	_	_	_	_	_	Shift=6510
+17	политики	_	_	_	_	_	_	_	Shift=6521|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=6529
+19	и	_	_	_	_	_	_	_	Shift=6531
+20	принеся	_	_	_	_	_	_	_	Shift=6533
+21	извинения	_	_	_	_	_	_	_	Shift=6541
+22	тибетцам	_	_	_	_	_	_	_	RuCor_attrs_ref=meton|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1281|RuCor_group_id=414684|RuCor_link_id=414681|Shift=6551
+23	за	_	_	_	_	_	_	_	Shift=6560
+24	то	_	_	_	_	_	_	_	Shift=6563|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=6565
+26	что	_	_	_	_	_	_	_	Shift=6567
+27	подобные	_	_	_	_	_	_	_	Shift=6571
+28	оскорбления	_	_	_	_	_	_	_	Shift=6580
+29	не	_	_	_	_	_	_	_	Shift=6592
+30	принимались	_	_	_	_	_	_	_	Shift=6595
+31	во	_	_	_	_	_	_	_	Shift=6607
+32	внимание	_	_	_	_	_	_	_	Shift=6610
+33	в	_	_	_	_	_	_	_	Shift=6619
+34	течение	_	_	_	_	_	_	_	Shift=6621
+35	15	_	_	_	_	_	_	_	Shift=6629
+36	лет	_	_	_	_	_	_	_	Shift=6632|SpaceAfter=No
+37	.	_	_	_	_	_	_	_	Shift=6635
+
+# sent_id = 10274c60-ac80-4229-adca-d2cce724bdeb-p12-s2
+# text = Правительство также может начать пересмотр своей политики в Тибете, вместо усиления контроля и ограничений.
+1	Правительство	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1282|RuCor_group_id=414685|RuCor_link_id=414682|Shift=6637
+2	также	_	_	_	_	_	_	_	Shift=6651
+3	может	_	_	_	_	_	_	_	Shift=6657
+4	начать	_	_	_	_	_	_	_	Shift=6663
+5	пересмотр	_	_	_	_	_	_	_	Shift=6670
+6	своей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1282|RuCor_group_id=414686|RuCor_link_id=414685|Shift=6680
+7	политики	_	_	_	_	_	_	_	Shift=6686
+8	в	_	_	_	_	_	_	_	Shift=6695
+9	Тибете	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1281|RuCor_group_id=414687|RuCor_link_id=414684|Shift=6697|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=6703
+11	вместо	_	_	_	_	_	_	_	Shift=6705
+12	усиления	_	_	_	_	_	_	_	Shift=6712
+13	контроля	_	_	_	_	_	_	_	Shift=6721
+14	и	_	_	_	_	_	_	_	Shift=6730
+15	ограничений	_	_	_	_	_	_	_	Shift=6732|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=6743
+
+# sent_id = 10274c60-ac80-4229-adca-d2cce724bdeb-p12-s3
+# text = До тех пор, стремление Китая добиться международного признания обречено на неудачу, и тибетский вопрос будет оставаться на повестке дня всего мира.
+1	До	_	_	_	_	_	_	_	Shift=6745
+2	тех	_	_	_	_	_	_	_	Shift=6748
+3	пор	_	_	_	_	_	_	_	Shift=6752|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=6755
+5	стремление	_	_	_	_	_	_	_	Shift=6757
+6	Китая	_	_	_	_	_	_	_	RuCor_attrs_ref=meton|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1282|RuCor_group_id=414688|RuCor_link_id=414686|Shift=6768
+7	добиться	_	_	_	_	_	_	_	Shift=6774
+8	международного	_	_	_	_	_	_	_	Shift=6783
+9	признания	_	_	_	_	_	_	_	Shift=6798
+10	обречено	_	_	_	_	_	_	_	Shift=6808
+11	на	_	_	_	_	_	_	_	Shift=6817
+12	неудачу	_	_	_	_	_	_	_	Shift=6820|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=6827
+14	и	_	_	_	_	_	_	_	Shift=6829
+15	тибетский	_	_	_	_	_	_	_	Shift=6831
+16	вопрос	_	_	_	_	_	_	_	Shift=6841
+17	будет	_	_	_	_	_	_	_	Shift=6848
+18	оставаться	_	_	_	_	_	_	_	Shift=6854
+19	на	_	_	_	_	_	_	_	Shift=6865
+20	повестке	_	_	_	_	_	_	_	Shift=6868
+21	дня	_	_	_	_	_	_	_	Shift=6877
+22	всего	_	_	_	_	_	_	_	Shift=6881
+23	мира	_	_	_	_	_	_	_	Shift=6887|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	_
+

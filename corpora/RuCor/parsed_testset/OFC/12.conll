@@ -1,0 +1,1487 @@
+# newdoc id = 3f41f78b-050c-465b-b510-be6347b2d72d
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p1
+# par_text = Агрессия НАТО против Югославии, случившаяся 10 лет назад (23 марта — 10 июня 1999 года), вызвала в России очень сильную эмоциональную реакцию и, как у нас водится, подверглась сильнейшей мифологизации.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p1-s1
+# text = Агрессия НАТО против Югославии, случившаяся 10 лет назад (23 марта - 10 июня 1999 года), вызвала в России очень сильную эмоциональную реакцию и, как у нас водится, подверглась сильнейшей мифологизации.
+1	Агрессия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1891|RuCor_group_id=468583|RuCor_link_id=0|Shift=0
+2	НАТО	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1892|RuCor_group_id=468584|RuCor_link_id=0|Shift=9
+3	против	_	_	_	_	_	_	_	RuCor_chain_id=1891|RuCor_group_id=468583|Shift=14
+4	Югославии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1893|RuCor_group_id=468585|RuCor_link_id=0|Shift=21|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=30
+6	случившаяся	_	_	_	_	_	_	_	Shift=32
+7	10	_	_	_	_	_	_	_	Shift=44
+8	лет	_	_	_	_	_	_	_	Shift=47
+9	назад	_	_	_	_	_	_	_	Shift=51
+10	(	_	_	_	_	_	_	_	Shift=57|SpaceAfter=No
+11	23	_	_	_	_	_	_	_	Shift=58
+12	марта	_	_	_	_	_	_	_	Shift=61
+13	-	_	_	_	_	_	_	_	Shift=67
+14	10	_	_	_	_	_	_	_	Shift=69
+15	июня	_	_	_	_	_	_	_	Shift=72
+16	1999	_	_	_	_	_	_	_	Shift=77
+17	года	_	_	_	_	_	_	_	Shift=82|SpaceAfter=No
+18	)	_	_	_	_	_	_	_	Shift=86|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=87
+20	вызвала	_	_	_	_	_	_	_	Shift=89
+21	в	_	_	_	_	_	_	_	Shift=97
+22	России	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1894|RuCor_group_id=468586|RuCor_link_id=0|Shift=99
+23	очень	_	_	_	_	_	_	_	Shift=106
+24	сильную	_	_	_	_	_	_	_	Shift=112
+25	эмоциональную	_	_	_	_	_	_	_	Shift=120
+26	реакцию	_	_	_	_	_	_	_	Shift=134
+27	и	_	_	_	_	_	_	_	Shift=142|SpaceAfter=No
+28	,	_	_	_	_	_	_	_	Shift=143
+29	как	_	_	_	_	_	_	_	Shift=145
+30	у	_	_	_	_	_	_	_	Shift=149
+31	нас	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1894|RuCor_group_id=468588|RuCor_link_id=468586|Shift=151
+32	водится	_	_	_	_	_	_	_	Shift=155|SpaceAfter=No
+33	,	_	_	_	_	_	_	_	Shift=162
+34	подверглась	_	_	_	_	_	_	_	Shift=164
+35	сильнейшей	_	_	_	_	_	_	_	Shift=176
+36	мифологизации	_	_	_	_	_	_	_	Shift=187|SpaceAfter=No
+37	.	_	_	_	_	_	_	_	Shift=200
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p2
+# par_text = В итоге, как это ни парадоксально, некоторые полезные выводы политического и военного характера не сделаны до сих пор.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p2-s1
+# text = В итоге, как это ни парадоксально, некоторые полезные выводы политического и военного характера не сделаны до сих пор.
+1	В	_	_	_	_	_	_	_	Shift=202
+2	итоге	_	_	_	_	_	_	_	Shift=204|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=209
+4	как	_	_	_	_	_	_	_	Shift=211
+5	это	_	_	_	_	_	_	_	Shift=215
+6	ни	_	_	_	_	_	_	_	Shift=219
+7	парадоксально	_	_	_	_	_	_	_	Shift=222|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=235
+9	некоторые	_	_	_	_	_	_	_	Shift=237
+10	полезные	_	_	_	_	_	_	_	Shift=247
+11	выводы	_	_	_	_	_	_	_	Shift=256
+12	политического	_	_	_	_	_	_	_	Shift=263
+13	и	_	_	_	_	_	_	_	Shift=277
+14	военного	_	_	_	_	_	_	_	Shift=279
+15	характера	_	_	_	_	_	_	_	Shift=288
+16	не	_	_	_	_	_	_	_	Shift=298
+17	сделаны	_	_	_	_	_	_	_	Shift=301
+18	до	_	_	_	_	_	_	_	Shift=309
+19	сих	_	_	_	_	_	_	_	Shift=312
+20	пор	_	_	_	_	_	_	_	Shift=316|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=319
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p3
+# par_text = В России до сих пор не принято обсуждать причины этой войны.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p3-s1
+# text = В России до сих пор не принято обсуждать причины этой войны.
+1	В	_	_	_	_	_	_	_	Shift=321
+2	России	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1895|RuCor_group_id=468589|RuCor_link_id=468587|Shift=323
+3	до	_	_	_	_	_	_	_	Shift=330
+4	сих	_	_	_	_	_	_	_	Shift=333
+5	пор	_	_	_	_	_	_	_	Shift=337
+6	не	_	_	_	_	_	_	_	Shift=341
+7	принято	_	_	_	_	_	_	_	Shift=344
+8	обсуждать	_	_	_	_	_	_	_	Shift=352
+9	причины	_	_	_	_	_	_	_	Shift=362
+10	этой	_	_	_	_	_	_	_	RuCor_chain_id=1891|RuCor_group_id=468590|Shift=370
+11	войны	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1891|RuCor_group_id=468590|RuCor_link_id=468583|Shift=375|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=380
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p4
+# par_text = Граждане нашей страны почти поголовно убедили самих себя, что Запад всегда воюет за нефть.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p4-s1
+# text = Граждане нашей страны почти поголовно убедили самих себя, что Запад всегда воюет за нефть.
+1	Граждане	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1896|RuCor_group_id=468591|RuCor_link_id=0|Shift=382
+2	нашей	_	_	_	_	_	_	_	RuCor_chain_id=1895|RuCor_group_id=468592|Shift=391
+3	страны	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1895|RuCor_group_id=468592|RuCor_link_id=468589|Shift=397
+4	почти	_	_	_	_	_	_	_	Shift=404
+5	поголовно	_	_	_	_	_	_	_	Shift=410
+6	убедили	_	_	_	_	_	_	_	Shift=420
+7	самих	_	_	_	_	_	_	_	RuCor_chain_id=1896|RuCor_group_id=468593|Shift=428
+8	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=1896|RuCor_group_id=468593|RuCor_link_id=468591|Shift=434|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=438
+10	что	_	_	_	_	_	_	_	Shift=440
+11	Запад	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1897|RuCor_group_id=468594|RuCor_link_id=0|Shift=444
+12	всегда	_	_	_	_	_	_	_	Shift=450
+13	воюет	_	_	_	_	_	_	_	Shift=457
+14	за	_	_	_	_	_	_	_	Shift=463
+15	нефть	_	_	_	_	_	_	_	Shift=466|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=471
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p5
+# par_text = Однако югославская война совсем никаким боком не лезет в нефтяную теорию.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p5-s1
+# text = Однако югославская война совсем никаким боком не лезет в нефтяную теорию.
+1	Однако	_	_	_	_	_	_	_	Shift=473
+2	югославская	_	_	_	_	_	_	_	RuCor_chain_id=1891|RuCor_group_id=468595|Shift=480
+3	война	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1891|RuCor_group_id=468595|RuCor_link_id=468590|Shift=492
+4	совсем	_	_	_	_	_	_	_	Shift=498
+5	никаким	_	_	_	_	_	_	_	Shift=505
+6	боком	_	_	_	_	_	_	_	Shift=513
+7	не	_	_	_	_	_	_	_	Shift=519
+8	лезет	_	_	_	_	_	_	_	Shift=522
+9	в	_	_	_	_	_	_	_	Shift=528
+10	нефтяную	_	_	_	_	_	_	_	Shift=530
+11	теорию	_	_	_	_	_	_	_	Shift=539|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=545
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p6
+# par_text = Здесь нет ни нефти, ни газа, ни даже какого-нибудь паршивенького транзитного трубопровода.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p6-s1
+# text = Здесь нет ни нефти, ни газа, ни даже какого-нибудь паршивенького транзитного трубопровода.
+1	Здесь	_	_	_	_	_	_	_	Shift=547
+2	нет	_	_	_	_	_	_	_	Shift=553
+3	ни	_	_	_	_	_	_	_	Shift=557
+4	нефти	_	_	_	_	_	_	_	Shift=560|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=565
+6	ни	_	_	_	_	_	_	_	Shift=567
+7	газа	_	_	_	_	_	_	_	Shift=570|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=574
+9	ни	_	_	_	_	_	_	_	Shift=576
+10	даже	_	_	_	_	_	_	_	Shift=579
+11	какого-нибудь	_	_	_	_	_	_	_	Shift=584
+12	паршивенького	_	_	_	_	_	_	_	Shift=598
+13	транзитного	_	_	_	_	_	_	_	Shift=612
+14	трубопровода	_	_	_	_	_	_	_	Shift=624|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=636
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p7
+# par_text = Не проходит и вспомогательная теория о получении «плацдарма на Балканах».
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p7-s1
+# text = Не проходит и вспомогательная теория о получении ``плацдарма на Балканах''.
+1	Не	_	_	_	_	_	_	_	Shift=638
+2	проходит	_	_	_	_	_	_	_	Shift=641
+3	и	_	_	_	_	_	_	_	Shift=650
+4	вспомогательная	_	_	_	_	_	_	_	Shift=652
+5	теория	_	_	_	_	_	_	_	Shift=668
+6	о	_	_	_	_	_	_	_	Shift=675
+7	получении	_	_	_	_	_	_	_	Shift=677
+8	``	_	_	_	_	_	_	_	Shift=687|SpaceAfter=No
+9	плацдарма	_	_	_	_	_	_	_	Shift=688
+10	на	_	_	_	_	_	_	_	Shift=698
+11	Балканах	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1898|RuCor_group_id=468596|RuCor_link_id=0|Shift=701|SpaceAfter=No
+12	''	_	_	_	_	_	_	_	Shift=709|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=710
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p8
+# par_text = У НАТО и без Югославии давно нет проблем с плацдармами на Балканах, тем более что территория и инфраструктура Косова в этом плане не дает им абсолютно ничего эксклюзивного.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p8-s1
+# text = У НАТО и без Югославии давно нет проблем с плацдармами на Балканах, тем более что территория и инфраструктура Косова в этом плане не дает им абсолютно ничего эксклюзивного.
+1	У	_	_	_	_	_	_	_	Shift=712
+2	НАТО	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1892|RuCor_group_id=468597|RuCor_link_id=468584|Shift=714
+3	и	_	_	_	_	_	_	_	Shift=719
+4	без	_	_	_	_	_	_	_	Shift=721
+5	Югославии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1893|RuCor_group_id=468598|RuCor_link_id=468585|Shift=725
+6	давно	_	_	_	_	_	_	_	Shift=735
+7	нет	_	_	_	_	_	_	_	Shift=741
+8	проблем	_	_	_	_	_	_	_	Shift=745
+9	с	_	_	_	_	_	_	_	Shift=753
+10	плацдармами	_	_	_	_	_	_	_	Shift=755
+11	на	_	_	_	_	_	_	_	Shift=767
+12	Балканах	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1898|RuCor_group_id=468599|RuCor_link_id=468596|Shift=770|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=778
+14	тем	_	_	_	_	_	_	_	Shift=780
+15	более	_	_	_	_	_	_	_	Shift=784
+16	что	_	_	_	_	_	_	_	Shift=790
+17	территория	_	_	_	_	_	_	_	Shift=794
+18	и	_	_	_	_	_	_	_	Shift=805
+19	инфраструктура	_	_	_	_	_	_	_	Shift=807
+20	Косова	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1899|RuCor_group_id=468600|RuCor_link_id=0|Shift=822
+21	в	_	_	_	_	_	_	_	Shift=829
+22	этом	_	_	_	_	_	_	_	Shift=831
+23	плане	_	_	_	_	_	_	_	Shift=836
+24	не	_	_	_	_	_	_	_	Shift=842
+25	дает	_	_	_	_	_	_	_	Shift=845
+26	им	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1892|RuCor_group_id=468601|RuCor_link_id=468597|Shift=850
+27	абсолютно	_	_	_	_	_	_	_	Shift=853
+28	ничего	_	_	_	_	_	_	_	Shift=863
+29	эксклюзивного	_	_	_	_	_	_	_	Shift=870|SpaceAfter=No
+30	.	_	_	_	_	_	_	_	Shift=883
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p9
+# par_text = Из-за этого приходится (за неимением других вариантов) верить в правдивость официальной западной версии — «гуманитарной интервенции».
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p9-s1
+# text = Из-за этого приходится (за неимением других вариантов) верить в правдивость официальной западной версии - ``гуманитарной интервенции''.
+1	Из-за	_	_	_	_	_	_	_	Shift=885
+2	этого	_	_	_	_	_	_	_	Shift=891
+3	приходится	_	_	_	_	_	_	_	Shift=897
+4	(	_	_	_	_	_	_	_	Shift=908|SpaceAfter=No
+5	за	_	_	_	_	_	_	_	Shift=909
+6	неимением	_	_	_	_	_	_	_	Shift=912
+7	других	_	_	_	_	_	_	_	Shift=922
+8	вариантов	_	_	_	_	_	_	_	Shift=929|SpaceAfter=No
+9	)	_	_	_	_	_	_	_	Shift=938
+10	верить	_	_	_	_	_	_	_	Shift=940
+11	в	_	_	_	_	_	_	_	Shift=947
+12	правдивость	_	_	_	_	_	_	_	Shift=949
+13	официальной	_	_	_	_	_	_	_	Shift=961
+14	западной	_	_	_	_	_	_	_	Shift=973
+15	версии	_	_	_	_	_	_	_	Shift=982
+16	-	_	_	_	_	_	_	_	Shift=989
+17	``	_	_	_	_	_	_	_	Shift=991|SpaceAfter=No
+18	гуманитарной	_	_	_	_	_	_	_	Shift=992
+19	интервенции	_	_	_	_	_	_	_	Shift=1005|SpaceAfter=No
+20	''	_	_	_	_	_	_	_	Shift=1016|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=1017
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p10
+# par_text = Запад сам себя психологически накачал, устроив многомесячную истерику по поводу «этнических чисток», совершаемых режимом Милошевича против «беззащитных» албанцев.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p10-s1
+# text = Запад сам себя психологически накачал, устроив многомесячную истерику по поводу ``этнических чисток'', совершаемых режимом Милошевича против ``беззащитных'' албанцев.
+1	Запад	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1897|RuCor_group_id=468602|RuCor_link_id=468594|Shift=1019
+2	сам	_	_	_	_	_	_	_	RuCor_chain_id=1897|RuCor_group_id=468603|Shift=1025
+3	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1897|RuCor_group_id=468603|RuCor_link_id=468602|Shift=1029
+4	психологически	_	_	_	_	_	_	_	Shift=1034
+5	накачал	_	_	_	_	_	_	_	Shift=1049|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1056
+7	устроив	_	_	_	_	_	_	_	Shift=1058
+8	многомесячную	_	_	_	_	_	_	_	Shift=1066
+9	истерику	_	_	_	_	_	_	_	Shift=1080
+10	по	_	_	_	_	_	_	_	Shift=1089
+11	поводу	_	_	_	_	_	_	_	Shift=1092
+12	``	_	_	_	_	_	_	_	Shift=1099|SpaceAfter=No
+13	этнических	_	_	_	_	_	_	_	Shift=1100
+14	чисток	_	_	_	_	_	_	_	Shift=1111|SpaceAfter=No
+15	''	_	_	_	_	_	_	_	Shift=1117|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=1118
+17	совершаемых	_	_	_	_	_	_	_	Shift=1120
+18	режимом	_	_	_	_	_	_	_	Shift=1132
+19	Милошевича	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1900|RuCor_group_id=468604|RuCor_link_id=0|Shift=1140
+20	против	_	_	_	_	_	_	_	Shift=1151
+21	``	_	_	_	_	_	_	_	Shift=1158|SpaceAfter=No
+22	беззащитных	_	_	_	_	_	_	_	Shift=1159|SpaceAfter=No
+23	''	_	_	_	_	_	_	_	Shift=1170
+24	албанцев	_	_	_	_	_	_	_	Shift=1172|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=1180
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p11
+# par_text = Нельзя сказать, что истерика не имела под собой совсем никаких оснований, но некоторые особенности противоположной стороны (албанских боевиков, представлявших собой смесь наркоторговцев, исламских экстремистов, а главным образом просто бандитов) как-то выпали из виду западных политиков и журналистов, утративших даже видимость объективности.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p11-s1
+# text = Нельзя сказать, что истерика не имела под собой совсем никаких оснований, но некоторые особенности противоположной стороны (албанских боевиков, представлявших собой смесь наркоторговцев, исламских экстремистов, а главным образом просто бандитов) как-то выпали из виду западных политиков и журналистов, утративших даже видимость объективности.
+1	Нельзя	_	_	_	_	_	_	_	Shift=1182
+2	сказать	_	_	_	_	_	_	_	Shift=1189|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1196
+4	что	_	_	_	_	_	_	_	Shift=1198
+5	истерика	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1901|RuCor_group_id=468605|RuCor_link_id=0|Shift=1202
+6	не	_	_	_	_	_	_	_	Shift=1211
+7	имела	_	_	_	_	_	_	_	Shift=1214
+8	под	_	_	_	_	_	_	_	Shift=1220
+9	собой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=1901|RuCor_group_id=468606|RuCor_link_id=468605|Shift=1224
+10	совсем	_	_	_	_	_	_	_	Shift=1230
+11	никаких	_	_	_	_	_	_	_	Shift=1237
+12	оснований	_	_	_	_	_	_	_	Shift=1245|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=1254
+14	но	_	_	_	_	_	_	_	Shift=1256
+15	некоторые	_	_	_	_	_	_	_	Shift=1259
+16	особенности	_	_	_	_	_	_	_	Shift=1269
+17	противоположной	_	_	_	_	_	_	_	Shift=1281
+18	стороны	_	_	_	_	_	_	_	Shift=1297
+19	(	_	_	_	_	_	_	_	Shift=1305|SpaceAfter=No
+20	албанских	_	_	_	_	_	_	_	RuCor_chain_id=1902|RuCor_group_id=468607|Shift=1306
+21	боевиков	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1902|RuCor_group_id=468607|RuCor_link_id=0|Shift=1316|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=1324
+23	представлявших	_	_	_	_	_	_	_	Shift=1326
+24	собой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=1902|RuCor_group_id=468608|RuCor_link_id=468607|Shift=1341
+25	смесь	_	_	_	_	_	_	_	Shift=1347
+26	наркоторговцев	_	_	_	_	_	_	_	Shift=1353|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=1367
+28	исламских	_	_	_	_	_	_	_	Shift=1369
+29	экстремистов	_	_	_	_	_	_	_	Shift=1379|SpaceAfter=No
+30	,	_	_	_	_	_	_	_	Shift=1391
+31	а	_	_	_	_	_	_	_	Shift=1393
+32	главным	_	_	_	_	_	_	_	Shift=1395
+33	образом	_	_	_	_	_	_	_	Shift=1403
+34	просто	_	_	_	_	_	_	_	Shift=1411
+35	бандитов	_	_	_	_	_	_	_	Shift=1418|SpaceAfter=No
+36	)	_	_	_	_	_	_	_	Shift=1426
+37	как-то	_	_	_	_	_	_	_	Shift=1428
+38	выпали	_	_	_	_	_	_	_	Shift=1435
+39	из	_	_	_	_	_	_	_	Shift=1442
+40	виду	_	_	_	_	_	_	_	Shift=1445
+41	западных	_	_	_	_	_	_	_	Shift=1450
+42	политиков	_	_	_	_	_	_	_	Shift=1459
+43	и	_	_	_	_	_	_	_	Shift=1469
+44	журналистов	_	_	_	_	_	_	_	Shift=1471|SpaceAfter=No
+45	,	_	_	_	_	_	_	_	Shift=1482
+46	утративших	_	_	_	_	_	_	_	Shift=1484
+47	даже	_	_	_	_	_	_	_	Shift=1495
+48	видимость	_	_	_	_	_	_	_	Shift=1500
+49	объективности	_	_	_	_	_	_	_	Shift=1510|SpaceAfter=No
+50	.	_	_	_	_	_	_	_	Shift=1523
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p12
+# par_text = Тем не менее агрессия, ставшая ошибкой и преступлением одновременно, была совершена из лучших побуждений.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p12-s1
+# text = Тем не менее агрессия, ставшая ошибкой и преступлением одновременно, была совершена из лучших побуждений.
+1	Тем	_	_	_	_	_	_	_	Shift=1525
+2	не	_	_	_	_	_	_	_	Shift=1529
+3	менее	_	_	_	_	_	_	_	Shift=1532
+4	агрессия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1891|RuCor_group_id=468609|RuCor_link_id=468590|Shift=1538|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1546
+6	ставшая	_	_	_	_	_	_	_	Shift=1548
+7	ошибкой	_	_	_	_	_	_	_	Shift=1556
+8	и	_	_	_	_	_	_	_	Shift=1564
+9	преступлением	_	_	_	_	_	_	_	Shift=1566
+10	одновременно	_	_	_	_	_	_	_	Shift=1580|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=1592
+12	была	_	_	_	_	_	_	_	Shift=1594
+13	совершена	_	_	_	_	_	_	_	Shift=1599
+14	из	_	_	_	_	_	_	_	Shift=1609
+15	лучших	_	_	_	_	_	_	_	Shift=1612
+16	побуждений	_	_	_	_	_	_	_	Shift=1619|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=1629
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p13
+# par_text = О том, что получилось сегодня из этих побуждений, «Частный корреспондент» уже писал в статье «Казус Косова».
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p13-s1
+# text = О том, что получилось сегодня из этих побуждений, ``Частный корреспондент'' уже писал в статье ``Казус Косова''.
+1	О	_	_	_	_	_	_	_	Shift=1631
+2	том	_	_	_	_	_	_	_	Shift=1633|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1636
+4	что	_	_	_	_	_	_	_	Shift=1638
+5	получилось	_	_	_	_	_	_	_	Shift=1642
+6	сегодня	_	_	_	_	_	_	_	Shift=1653
+7	из	_	_	_	_	_	_	_	Shift=1661
+8	этих	_	_	_	_	_	_	_	Shift=1664
+9	побуждений	_	_	_	_	_	_	_	Shift=1669|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=1679
+11	``	_	_	_	_	_	_	_	Shift=1681|SpaceAfter=No
+12	Частный	_	_	_	_	_	_	_	Shift=1682
+13	корреспондент	_	_	_	_	_	_	_	Shift=1690|SpaceAfter=No
+14	''	_	_	_	_	_	_	_	Shift=1703
+15	уже	_	_	_	_	_	_	_	Shift=1705
+16	писал	_	_	_	_	_	_	_	Shift=1709
+17	в	_	_	_	_	_	_	_	Shift=1715
+18	статье	_	_	_	_	_	_	_	Shift=1717
+19	``	_	_	_	_	_	_	_	Shift=1724|SpaceAfter=No
+20	Казус	_	_	_	_	_	_	_	Shift=1725
+21	Косова	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1899|RuCor_group_id=468610|RuCor_link_id=468600|Shift=1731|SpaceAfter=No
+22	''	_	_	_	_	_	_	_	Shift=1737|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=1738
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p14
+# par_text = Кроме того, в России привыкли видеть в НАТО чудовищную военную силу, готовую растерзать всё на своем пути.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p14-s1
+# text = Кроме того, в России привыкли видеть в НАТО чудовищную военную силу, готовую растерзать всё на своем пути.
+1	Кроме	_	_	_	_	_	_	_	Shift=1740
+2	того	_	_	_	_	_	_	_	Shift=1746|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1750
+4	в	_	_	_	_	_	_	_	Shift=1752
+5	России	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1895|RuCor_group_id=468611|RuCor_link_id=468589|Shift=1754
+6	привыкли	_	_	_	_	_	_	_	Shift=1761
+7	видеть	_	_	_	_	_	_	_	Shift=1770
+8	в	_	_	_	_	_	_	_	Shift=1777
+9	НАТО	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1892|RuCor_group_id=468612|RuCor_link_id=468597|Shift=1779
+10	чудовищную	_	_	_	_	_	_	_	RuCor_chain_id=1903|RuCor_group_id=468613|Shift=1784
+11	военную	_	_	_	_	_	_	_	RuCor_chain_id=1903|RuCor_group_id=468613|Shift=1795
+12	силу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1903|RuCor_group_id=468613|RuCor_link_id=0|Shift=1803|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=1807
+14	готовую	_	_	_	_	_	_	_	Shift=1809
+15	растерзать	_	_	_	_	_	_	_	Shift=1817
+16	всё	_	_	_	_	_	_	_	Shift=1828
+17	на	_	_	_	_	_	_	_	Shift=1832
+18	своем	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=1903|RuCor_group_id=468614|RuCor_link_id=468613|Shift=1835
+19	пути	_	_	_	_	_	_	_	Shift=1841|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=1845
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p15
+# par_text = Югославская агрессия, казалось бы, стала лучшим подтверждением данного мнения.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p15-s1
+# text = Югославская агрессия, казалось бы, стала лучшим подтверждением данного мнения.
+1	Югославская	_	_	_	_	_	_	_	RuCor_chain_id=1891|RuCor_group_id=468615|Shift=1847
+2	агрессия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1891|RuCor_group_id=468615|RuCor_link_id=468595|Shift=1859|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1867
+4	казалось	_	_	_	_	_	_	_	Shift=1869
+5	бы	_	_	_	_	_	_	_	Shift=1878|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1880
+7	стала	_	_	_	_	_	_	_	Shift=1882
+8	лучшим	_	_	_	_	_	_	_	Shift=1888
+9	подтверждением	_	_	_	_	_	_	_	Shift=1895
+10	данного	_	_	_	_	_	_	_	Shift=1910
+11	мнения	_	_	_	_	_	_	_	Shift=1918|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=1924
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p16
+# par_text = Правда, на фоне мифов и эмоций у нас и в этом плане кое-чего не заметили.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p16-s1
+# text = Правда, на фоне мифов и эмоций у нас и в этом плане кое-чего не заметили.
+1	Правда	_	_	_	_	_	_	_	Shift=1926|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=1932
+3	на	_	_	_	_	_	_	_	Shift=1934
+4	фоне	_	_	_	_	_	_	_	Shift=1937
+5	мифов	_	_	_	_	_	_	_	Shift=1942
+6	и	_	_	_	_	_	_	_	Shift=1948
+7	эмоций	_	_	_	_	_	_	_	Shift=1950
+8	у	_	_	_	_	_	_	_	Shift=1957
+9	нас	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1894|RuCor_group_id=468616|RuCor_link_id=468588|Shift=1959
+10	и	_	_	_	_	_	_	_	Shift=1963
+11	в	_	_	_	_	_	_	_	Shift=1965
+12	этом	_	_	_	_	_	_	_	Shift=1967
+13	плане	_	_	_	_	_	_	_	Shift=1972
+14	кое-чего	_	_	_	_	_	_	_	Shift=1978
+15	не	_	_	_	_	_	_	_	Shift=1987
+16	заметили	_	_	_	_	_	_	_	Shift=1990|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=1998
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p17
+# par_text = Во-первых, агрессии бы не случилось, если бы Югославия имела возможность дать достойный ответ.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p17-s1
+# text = Во-первых, агрессии бы не случилось, если бы Югославия имела возможность дать достойный ответ.
+1	Во-первых	_	_	_	_	_	_	_	Shift=2000|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=2009
+3	агрессии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1891|RuCor_group_id=468617|RuCor_link_id=468615|Shift=2011
+4	бы	_	_	_	_	_	_	_	Shift=2020
+5	не	_	_	_	_	_	_	_	Shift=2023
+6	случилось	_	_	_	_	_	_	_	Shift=2026|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=2035
+8	если	_	_	_	_	_	_	_	Shift=2037
+9	бы	_	_	_	_	_	_	_	Shift=2042
+10	Югославия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1893|RuCor_group_id=468618|RuCor_link_id=468598|Shift=2045
+11	имела	_	_	_	_	_	_	_	Shift=2055
+12	возможность	_	_	_	_	_	_	_	Shift=2061
+13	дать	_	_	_	_	_	_	_	Shift=2073
+14	достойный	_	_	_	_	_	_	_	Shift=2078
+15	ответ	_	_	_	_	_	_	_	Shift=2088|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=2093
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p18
+# par_text = Очень показательно, что Венгрия (единственная на тот момент страна — член НАТО, имевшая с Югославией общую сухопутную границу) лишь допустила на свои аэродромы американские самолеты-заправщики и спасательные вертолеты (то есть вспомогательные, но не боевые силы), а также вытребовала эскадрилью американских истребителей для выполнения (это было специально подчеркнуто венгерскими официальными лицами) исключительно задач ПВО.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p18-s1
+# text = Очень показательно, что Венгрия (единственная на тот момент страна - член НАТО, имевшая с Югославией общую сухопутную границу) лишь допустила на свои аэродромы американские самолеты - заправщики и спасательные вертолеты (то есть вспомогательные, но не боевые силы), а также вытребовала эскадрилью американских истребителей для выполнения (это было специально подчеркнуто венгерскими официальными лицами) исключительно задач ПВО.
+1	Очень	_	_	_	_	_	_	_	Shift=2095
+2	показательно	_	_	_	_	_	_	_	Shift=2101|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=2113
+4	что	_	_	_	_	_	_	_	Shift=2115
+5	Венгрия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1904|RuCor_group_id=468619|RuCor_link_id=0|Shift=2119
+6	(	_	_	_	_	_	_	_	Shift=2127|SpaceAfter=No
+7	единственная	_	_	_	_	_	_	_	RuCor_chain_id=1904|RuCor_group_id=468620|Shift=2128
+8	на	_	_	_	_	_	_	_	RuCor_chain_id=1904|RuCor_group_id=468620|Shift=2141
+9	тот	_	_	_	_	_	_	_	RuCor_chain_id=1904|RuCor_group_id=468620|Shift=2144
+10	момент	_	_	_	_	_	_	_	RuCor_chain_id=1904|RuCor_group_id=468620|Shift=2148
+11	страна	_	_	_	_	_	_	_	RuCor_chain_id=1904|RuCor_group_id=468620|Shift=2155
+12	-	_	_	_	_	_	_	_	RuCor_chain_id=1904|RuCor_group_id=468620|Shift=2162
+13	член	_	_	_	_	_	_	_	RuCor_chain_id=1904|RuCor_group_id=468620|Shift=2164
+14	НАТО	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1892|RuCor_group_id=468621|RuCor_link_id=468612|Shift=2169|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=2173
+16	имевшая	_	_	_	_	_	_	_	Shift=2175
+17	с	_	_	_	_	_	_	_	Shift=2183
+18	Югославией	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1893|RuCor_group_id=468622|RuCor_link_id=468618|Shift=2185
+19	общую	_	_	_	_	_	_	_	Shift=2196
+20	сухопутную	_	_	_	_	_	_	_	Shift=2202
+21	границу	_	_	_	_	_	_	_	Shift=2213|SpaceAfter=No
+22	)	_	_	_	_	_	_	_	Shift=2220
+23	лишь	_	_	_	_	_	_	_	Shift=2222
+24	допустила	_	_	_	_	_	_	_	Shift=2227
+25	на	_	_	_	_	_	_	_	Shift=2237
+26	свои	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1904|RuCor_group_id=468623|RuCor_link_id=468619|Shift=2240
+27	аэродромы	_	_	_	_	_	_	_	Shift=2245
+28	американские	_	_	_	_	_	_	_	Shift=2255
+29	самолеты	_	_	_	_	_	_	_	Shift=2268
+30	-	_	_	_	_	_	_	_	Shift=2276
+31	заправщики	_	_	_	_	_	_	_	Shift=2277
+32	и	_	_	_	_	_	_	_	Shift=2288
+33	спасательные	_	_	_	_	_	_	_	Shift=2290
+34	вертолеты	_	_	_	_	_	_	_	Shift=2303
+35	(	_	_	_	_	_	_	_	Shift=2313|SpaceAfter=No
+36	то	_	_	_	_	_	_	_	Shift=2314
+37	есть	_	_	_	_	_	_	_	Shift=2317
+38	вспомогательные	_	_	_	_	_	_	_	Shift=2322|SpaceAfter=No
+39	,	_	_	_	_	_	_	_	Shift=2337
+40	но	_	_	_	_	_	_	_	Shift=2339
+41	не	_	_	_	_	_	_	_	Shift=2342
+42	боевые	_	_	_	_	_	_	_	Shift=2345
+43	силы	_	_	_	_	_	_	_	Shift=2352|SpaceAfter=No
+44	)	_	_	_	_	_	_	_	Shift=2356|SpaceAfter=No
+45	,	_	_	_	_	_	_	_	Shift=2357
+46	а	_	_	_	_	_	_	_	Shift=2359
+47	также	_	_	_	_	_	_	_	Shift=2361
+48	вытребовала	_	_	_	_	_	_	_	Shift=2367
+49	эскадрилью	_	_	_	_	_	_	_	Shift=2379
+50	американских	_	_	_	_	_	_	_	Shift=2390
+51	истребителей	_	_	_	_	_	_	_	Shift=2403
+52	для	_	_	_	_	_	_	_	Shift=2416
+53	выполнения	_	_	_	_	_	_	_	Shift=2420
+54	(	_	_	_	_	_	_	_	Shift=2431|SpaceAfter=No
+55	это	_	_	_	_	_	_	_	Shift=2432
+56	было	_	_	_	_	_	_	_	Shift=2436
+57	специально	_	_	_	_	_	_	_	Shift=2441
+58	подчеркнуто	_	_	_	_	_	_	_	Shift=2452
+59	венгерскими	_	_	_	_	_	_	_	Shift=2464
+60	официальными	_	_	_	_	_	_	_	Shift=2476
+61	лицами	_	_	_	_	_	_	_	Shift=2489|SpaceAfter=No
+62	)	_	_	_	_	_	_	_	Shift=2495
+63	исключительно	_	_	_	_	_	_	_	Shift=2497
+64	задач	_	_	_	_	_	_	_	Shift=2511
+65	ПВО	_	_	_	_	_	_	_	Shift=2517|SpaceAfter=No
+66	.	_	_	_	_	_	_	_	Shift=2520
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p19
+# par_text = Венгрия вступила в НАТО всего за месяц до агрессии.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p19-s1
+# text = Венгрия вступила в НАТО всего за месяц до агрессии.
+1	Венгрия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1904|RuCor_group_id=468624|RuCor_link_id=468619|Shift=2522
+2	вступила	_	_	_	_	_	_	_	Shift=2530
+3	в	_	_	_	_	_	_	_	Shift=2539
+4	НАТО	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1892|RuCor_group_id=468625|RuCor_link_id=468612|Shift=2541
+5	всего	_	_	_	_	_	_	_	Shift=2546
+6	за	_	_	_	_	_	_	_	Shift=2552
+7	месяц	_	_	_	_	_	_	_	Shift=2555
+8	до	_	_	_	_	_	_	_	Shift=2561
+9	агрессии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1891|RuCor_group_id=468626|RuCor_link_id=468615|Shift=2564|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=2572
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p20
+# par_text = Как и все остальные новые члены альянса, она хотела, чтобы ее защищали, но не имела ни малейшего желания подвергать себя опасности.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p20-s1
+# text = Как и все остальные новые члены альянса, она хотела, чтобы ее защищали, но не имела ни малейшего желания подвергать себя опасности.
+1	Как	_	_	_	_	_	_	_	Shift=2574
+2	и	_	_	_	_	_	_	_	Shift=2578
+3	все	_	_	_	_	_	_	_	Shift=2580
+4	остальные	_	_	_	_	_	_	_	Shift=2584
+5	новые	_	_	_	_	_	_	_	Shift=2594
+6	члены	_	_	_	_	_	_	_	Shift=2600
+7	альянса	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1892|RuCor_group_id=468627|RuCor_link_id=468625|Shift=2606|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=2613
+9	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1904|RuCor_group_id=468628|RuCor_link_id=468624|Shift=2615
+10	хотела	_	_	_	_	_	_	_	Shift=2619|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=2625
+12	чтобы	_	_	_	_	_	_	_	Shift=2627
+13	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1904|RuCor_group_id=468629|RuCor_link_id=468624|Shift=2633
+14	защищали	_	_	_	_	_	_	_	Shift=2636|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=2644
+16	но	_	_	_	_	_	_	_	Shift=2646
+17	не	_	_	_	_	_	_	_	Shift=2649
+18	имела	_	_	_	_	_	_	_	Shift=2652
+19	ни	_	_	_	_	_	_	_	Shift=2658
+20	малейшего	_	_	_	_	_	_	_	Shift=2661
+21	желания	_	_	_	_	_	_	_	Shift=2671
+22	подвергать	_	_	_	_	_	_	_	Shift=2679
+23	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=1904|RuCor_group_id=468630|RuCor_link_id=468624|Shift=2690
+24	опасности	_	_	_	_	_	_	_	Shift=2695|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=2704
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p21
+# par_text = Не одни венгры страдали отсутствием энтузиазма.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p21-s1
+# text = Не одни венгры страдали отсутствием энтузиазма.
+1	Не	_	_	_	_	_	_	_	Shift=2707
+2	одни	_	_	_	_	_	_	_	Shift=2710
+3	венгры	_	_	_	_	_	_	_	RuCor_attrs_ref=misc|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1904|RuCor_group_id=468631|RuCor_link_id=468628|Shift=2715
+4	страдали	_	_	_	_	_	_	_	Shift=2722
+5	отсутствием	_	_	_	_	_	_	_	Shift=2731
+6	энтузиазма	_	_	_	_	_	_	_	Shift=2743|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=2753
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p22
+# par_text = Например, экипаж одного из норвежских тральщиков отказался отправляться к югославским берегам.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p22-s1
+# text = Например, экипаж одного из норвежских тральщиков отказался отправляться к югославским берегам.
+1	Например	_	_	_	_	_	_	_	Shift=2755|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=2763
+3	экипаж	_	_	_	_	_	_	_	Shift=2765
+4	одного	_	_	_	_	_	_	_	Shift=2772
+5	из	_	_	_	_	_	_	_	Shift=2779
+6	норвежских	_	_	_	_	_	_	_	Shift=2782
+7	тральщиков	_	_	_	_	_	_	_	Shift=2793
+8	отказался	_	_	_	_	_	_	_	Shift=2804
+9	отправляться	_	_	_	_	_	_	_	Shift=2814
+10	к	_	_	_	_	_	_	_	Shift=2827
+11	югославским	_	_	_	_	_	_	_	Shift=2829
+12	берегам	_	_	_	_	_	_	_	Shift=2841|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=2848
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p23
+# par_text = Хотя никакой войны на море в 1999 году не было вообще, поэтому поход тральщика в Адриатику больше напоминал бы круиз, но даже теоретическая опасность возмутила «викингов».
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p23-s1
+# text = Хотя никакой войны на море в 1999 году не было вообще, поэтому поход тральщика в Адриатику больше напоминал бы круиз, но даже теоретическая опасность возмутила ``викингов''.
+1	Хотя	_	_	_	_	_	_	_	Shift=2850
+2	никакой	_	_	_	_	_	_	_	Shift=2855
+3	войны	_	_	_	_	_	_	_	Shift=2863
+4	на	_	_	_	_	_	_	_	Shift=2869
+5	море	_	_	_	_	_	_	_	Shift=2872
+6	в	_	_	_	_	_	_	_	Shift=2877
+7	1999	_	_	_	_	_	_	_	Shift=2879
+8	году	_	_	_	_	_	_	_	Shift=2884
+9	не	_	_	_	_	_	_	_	Shift=2889
+10	было	_	_	_	_	_	_	_	Shift=2892
+11	вообще	_	_	_	_	_	_	_	Shift=2897|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=2903
+13	поэтому	_	_	_	_	_	_	_	Shift=2905
+14	поход	_	_	_	_	_	_	_	Shift=2913
+15	тральщика	_	_	_	_	_	_	_	Shift=2919
+16	в	_	_	_	_	_	_	_	Shift=2929
+17	Адриатику	_	_	_	_	_	_	_	Shift=2931
+18	больше	_	_	_	_	_	_	_	Shift=2941
+19	напоминал	_	_	_	_	_	_	_	Shift=2948
+20	бы	_	_	_	_	_	_	_	Shift=2958
+21	круиз	_	_	_	_	_	_	_	Shift=2961|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=2966
+23	но	_	_	_	_	_	_	_	Shift=2968
+24	даже	_	_	_	_	_	_	_	Shift=2971
+25	теоретическая	_	_	_	_	_	_	_	Shift=2976
+26	опасность	_	_	_	_	_	_	_	Shift=2990
+27	возмутила	_	_	_	_	_	_	_	Shift=3000
+28	``	_	_	_	_	_	_	_	Shift=3010|SpaceAfter=No
+29	викингов	_	_	_	_	_	_	_	Shift=3011|SpaceAfter=No
+30	''	_	_	_	_	_	_	_	Shift=3019|SpaceAfter=No
+31	.	_	_	_	_	_	_	_	Shift=3020
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p24
+# par_text = В целом, правда, старые члены НАТО вроде бы воевали активно.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p24-s1
+# text = В целом, правда, старые члены НАТО вроде бы воевали активно.
+1	В	_	_	_	_	_	_	_	Shift=3022
+2	целом	_	_	_	_	_	_	_	Shift=3024|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=3029
+4	правда	_	_	_	_	_	_	_	Shift=3031|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=3037
+6	старые	_	_	_	_	_	_	_	RuCor_chain_id=1905|RuCor_group_id=468632|Shift=3039
+7	члены	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1905|RuCor_group_id=468632|RuCor_link_id=0|Shift=3046
+8	НАТО	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1892|RuCor_group_id=468633|RuCor_link_id=468625|Shift=3052
+9	вроде	_	_	_	_	_	_	_	Shift=3057
+10	бы	_	_	_	_	_	_	_	Shift=3063
+11	воевали	_	_	_	_	_	_	_	Shift=3066
+12	активно	_	_	_	_	_	_	_	Shift=3074|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=3081
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p25
+# par_text = Именно потому, что достать их территории югославы не могли, да и ПВО сербов оказалась почти бессильной.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p25-s1
+# text = Именно потому, что достать их территории югославы не могли, да и ПВО сербов оказалась почти бессильной.
+1	Именно	_	_	_	_	_	_	_	Shift=3083
+2	потому	_	_	_	_	_	_	_	Shift=3090|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=3096
+4	что	_	_	_	_	_	_	_	Shift=3098
+5	достать	_	_	_	_	_	_	_	Shift=3102
+6	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1905|RuCor_group_id=468634|RuCor_link_id=468632|Shift=3110
+7	территории	_	_	_	_	_	_	_	Shift=3113
+8	югославы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1893|RuCor_group_id=468635|RuCor_link_id=468622|Shift=3124
+9	не	_	_	_	_	_	_	_	Shift=3133
+10	могли	_	_	_	_	_	_	_	Shift=3136|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=3141
+12	да	_	_	_	_	_	_	_	Shift=3143
+13	и	_	_	_	_	_	_	_	Shift=3146
+14	ПВО	_	_	_	_	_	_	_	Shift=3148
+15	сербов	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1906|RuCor_group_id=468636|RuCor_link_id=0|Shift=3152
+16	оказалась	_	_	_	_	_	_	_	Shift=3159
+17	почти	_	_	_	_	_	_	_	Shift=3169
+18	бессильной	_	_	_	_	_	_	_	Shift=3175|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=3185
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p26
+# par_text = По нашим СМИ до сих пор гуляет масса альтернативных списков огромных потерь, которые ВВС НАТО якобы понесли в югославском небе.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p26-s1
+# text = По нашим СМИ до сих пор гуляет масса альтернативных списков огромных потерь, которые ВВС НАТО якобы понесли в югославском небе.
+1	По	_	_	_	_	_	_	_	Shift=3187
+2	нашим	_	_	_	_	_	_	_	Shift=3190
+3	СМИ	_	_	_	_	_	_	_	Shift=3196
+4	до	_	_	_	_	_	_	_	Shift=3200
+5	сих	_	_	_	_	_	_	_	Shift=3203
+6	пор	_	_	_	_	_	_	_	Shift=3207
+7	гуляет	_	_	_	_	_	_	_	Shift=3211
+8	масса	_	_	_	_	_	_	_	Shift=3218
+9	альтернативных	_	_	_	_	_	_	_	RuCor_chain_id=1907|RuCor_group_id=468637|Shift=3224
+10	списков	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1907|RuCor_group_id=468637|RuCor_link_id=0|Shift=3239
+11	огромных	_	_	_	_	_	_	_	RuCor_chain_id=1908|RuCor_group_id=468638|Shift=3247
+12	потерь	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1908|RuCor_group_id=468638|RuCor_link_id=0|Shift=3256|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=3262
+14	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=1908|RuCor_group_id=468639|RuCor_link_id=468638|Shift=3264
+15	ВВС	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1909|RuCor_group_id=468640|RuCor_link_id=0|Shift=3272
+16	НАТО	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1892|RuCor_group_id=468641|RuCor_link_id=468633|Shift=3276
+17	якобы	_	_	_	_	_	_	_	Shift=3281
+18	понесли	_	_	_	_	_	_	_	Shift=3287
+19	в	_	_	_	_	_	_	_	Shift=3295
+20	югославском	_	_	_	_	_	_	_	Shift=3297
+21	небе	_	_	_	_	_	_	_	Shift=3309|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=3313
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p27
+# par_text = У этих списков есть, увы, один небольшой недостаток — полное отсутствие доказательств.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p27-s1
+# text = У этих списков есть, увы, один небольшой недостаток - полное отсутствие доказательств.
+1	У	_	_	_	_	_	_	_	Shift=3315
+2	этих	_	_	_	_	_	_	_	RuCor_chain_id=1907|RuCor_group_id=468642|Shift=3317
+3	списков	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1907|RuCor_group_id=468642|RuCor_link_id=468637|Shift=3322
+4	есть	_	_	_	_	_	_	_	Shift=3330|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=3334
+6	увы	_	_	_	_	_	_	_	Shift=3336|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=3339
+8	один	_	_	_	_	_	_	_	Shift=3341
+9	небольшой	_	_	_	_	_	_	_	Shift=3346
+10	недостаток	_	_	_	_	_	_	_	Shift=3356
+11	-	_	_	_	_	_	_	_	Shift=3367
+12	полное	_	_	_	_	_	_	_	Shift=3369
+13	отсутствие	_	_	_	_	_	_	_	Shift=3376
+14	доказательств	_	_	_	_	_	_	_	Shift=3387|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=3400
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p28
+# par_text = Хотя бы в виде фотографий сбитых самолетов и вертолетов.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p28-s1
+# text = Хотя бы в виде фотографий сбитых самолетов и вертолетов.
+1	Хотя	_	_	_	_	_	_	_	Shift=3402
+2	бы	_	_	_	_	_	_	_	Shift=3407
+3	в	_	_	_	_	_	_	_	Shift=3410
+4	виде	_	_	_	_	_	_	_	Shift=3412
+5	фотографий	_	_	_	_	_	_	_	Shift=3417
+6	сбитых	_	_	_	_	_	_	_	Shift=3428
+7	самолетов	_	_	_	_	_	_	_	Shift=3435
+8	и	_	_	_	_	_	_	_	Shift=3445
+9	вертолетов	_	_	_	_	_	_	_	Shift=3447|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=3457
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p29
+# par_text = Объяснения отсутствия этих фотографий настолько смехотворны, что нет смысла их повторять.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p29-s1
+# text = Объяснения отсутствия этих фотографий настолько смехотворны, что нет смысла их повторять.
+1	Объяснения	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1910|RuCor_group_id=468643|RuCor_link_id=0|Shift=3459
+2	отсутствия	_	_	_	_	_	_	_	RuCor_chain_id=1910|RuCor_group_id=468643|Shift=3470
+3	этих	_	_	_	_	_	_	_	RuCor_chain_id=1910|RuCor_group_id=468643|Shift=3481
+4	фотографий	_	_	_	_	_	_	_	RuCor_chain_id=1910|RuCor_group_id=468643|Shift=3486
+5	настолько	_	_	_	_	_	_	_	Shift=3497
+6	смехотворны	_	_	_	_	_	_	_	Shift=3507|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=3518
+8	что	_	_	_	_	_	_	_	Shift=3520
+9	нет	_	_	_	_	_	_	_	Shift=3524
+10	смысла	_	_	_	_	_	_	_	Shift=3528
+11	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1910|RuCor_group_id=468644|RuCor_link_id=468643|Shift=3535
+12	повторять	_	_	_	_	_	_	_	Shift=3538|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=3547
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p30
+# par_text = И здесь, как ни печально, приходится верить официальным данным НАТО о потере непосредственно над Югославией всего двух самолетов (F-117А и F-16С ВВС США).
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p30-s1
+# text = И здесь, как ни печально, приходится верить официальным данным НАТО о потере непосредственно над Югославией всего двух самолетов (F-117А и F-16С ВВС США).
+1	И	_	_	_	_	_	_	_	Shift=3549
+2	здесь	_	_	_	_	_	_	_	Shift=3551|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=3556
+4	как	_	_	_	_	_	_	_	Shift=3558
+5	ни	_	_	_	_	_	_	_	Shift=3562
+6	печально	_	_	_	_	_	_	_	Shift=3565|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=3573
+8	приходится	_	_	_	_	_	_	_	Shift=3575
+9	верить	_	_	_	_	_	_	_	Shift=3586
+10	официальным	_	_	_	_	_	_	_	Shift=3593
+11	данным	_	_	_	_	_	_	_	Shift=3605
+12	НАТО	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1892|RuCor_group_id=468645|RuCor_link_id=468641|Shift=3612
+13	о	_	_	_	_	_	_	_	Shift=3617
+14	потере	_	_	_	_	_	_	_	Shift=3619
+15	непосредственно	_	_	_	_	_	_	_	Shift=3626
+16	над	_	_	_	_	_	_	_	Shift=3642
+17	Югославией	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1893|RuCor_group_id=468646|RuCor_link_id=468598|Shift=3646
+18	всего	_	_	_	_	_	_	_	Shift=3657
+19	двух	_	_	_	_	_	_	_	Shift=3663
+20	самолетов	_	_	_	_	_	_	_	Shift=3668
+21	(	_	_	_	_	_	_	_	Shift=3678|SpaceAfter=No
+22	F-117А	_	_	_	_	_	_	_	Shift=3679
+23	и	_	_	_	_	_	_	_	Shift=3686
+24	F-16С	_	_	_	_	_	_	_	Shift=3688
+25	ВВС	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1912|RuCor_group_id=468648|RuCor_link_id=0|Shift=3694
+26	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1913|RuCor_group_id=468649|RuCor_link_id=0|Shift=3698|SpaceAfter=No
+27	)	_	_	_	_	_	_	_	Shift=3701|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=3702
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p31
+# par_text = Причем даже в гибели этих машин роль югославской ПВО неочевидна.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p31-s1
+# text = Причем даже в гибели этих машин роль югославской ПВО неочевидна.
+1	Причем	_	_	_	_	_	_	_	Shift=3704
+2	даже	_	_	_	_	_	_	_	Shift=3711
+3	в	_	_	_	_	_	_	_	Shift=3716
+4	гибели	_	_	_	_	_	_	_	Shift=3718
+5	этих	_	_	_	_	_	_	_	Shift=3725
+6	машин	_	_	_	_	_	_	_	Shift=3730
+7	роль	_	_	_	_	_	_	_	Shift=3736
+8	югославской	_	_	_	_	_	_	_	RuCor_chain_id=1914|RuCor_group_id=468650|Shift=3741
+9	ПВО	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1914|RuCor_group_id=468650|RuCor_link_id=0|Shift=3753
+10	неочевидна	_	_	_	_	_	_	_	Shift=3757|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=3767
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p32
+# par_text = Пляски сербов на обломках «невидимки» F-117 видел весь мир, однако до сих пор, по прошествии 10 лет, остается неясным, кто его сбил: то ли ЗРК С-125, то ли ЗРК «Куб», то ли истребитель МиГ-29.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p32-s1
+# text = Пляски сербов на обломках ``невидимки'' F-117 видел весь мир, однако до сих пор, по прошествии 10 лет, остается неясным, кто его сбил: то ли ЗРК С-125, то ли ЗРК ``Куб'', то ли истребитель МиГ-29.
+1	Пляски	_	_	_	_	_	_	_	Shift=3769
+2	сербов	_	_	_	_	_	_	_	RuCor_attrs_ref=misc|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1906|RuCor_group_id=468651|RuCor_link_id=468636|Shift=3776
+3	на	_	_	_	_	_	_	_	Shift=3783
+4	обломках	_	_	_	_	_	_	_	Shift=3786
+5	``	_	_	_	_	_	_	_	RuCor_chain_id=1911|RuCor_group_id=468652|Shift=3795|SpaceAfter=No
+6	невидимки	_	_	_	_	_	_	_	RuCor_chain_id=1911|RuCor_group_id=468652|Shift=3796|SpaceAfter=No
+7	''	_	_	_	_	_	_	_	RuCor_chain_id=1911|RuCor_group_id=468652|Shift=3805
+8	F-117	_	_	_	_	_	_	_	Shift=3807
+9	видел	_	_	_	_	_	_	_	Shift=3813
+10	весь	_	_	_	_	_	_	_	Shift=3819
+11	мир	_	_	_	_	_	_	_	Shift=3824|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=3827
+13	однако	_	_	_	_	_	_	_	Shift=3829
+14	до	_	_	_	_	_	_	_	Shift=3836
+15	сих	_	_	_	_	_	_	_	Shift=3839
+16	пор	_	_	_	_	_	_	_	Shift=3843|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=3846
+18	по	_	_	_	_	_	_	_	Shift=3848
+19	прошествии	_	_	_	_	_	_	_	Shift=3851
+20	10	_	_	_	_	_	_	_	Shift=3862
+21	лет	_	_	_	_	_	_	_	Shift=3865|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=3868
+23	остается	_	_	_	_	_	_	_	Shift=3870
+24	неясным	_	_	_	_	_	_	_	Shift=3879|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=3886
+26	кто	_	_	_	_	_	_	_	Shift=3888
+27	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1911|RuCor_group_id=468653|RuCor_link_id=468652|Shift=3892
+28	сбил	_	_	_	_	_	_	_	Shift=3896|SpaceAfter=No
+29	:	_	_	_	_	_	_	_	Shift=3900
+30	то	_	_	_	_	_	_	_	Shift=3902
+31	ли	_	_	_	_	_	_	_	Shift=3905
+32	ЗРК	_	_	_	_	_	_	_	Shift=3908
+33	С-125	_	_	_	_	_	_	_	Shift=3912|SpaceAfter=No
+34	,	_	_	_	_	_	_	_	Shift=3917
+35	то	_	_	_	_	_	_	_	Shift=3919
+36	ли	_	_	_	_	_	_	_	Shift=3922
+37	ЗРК	_	_	_	_	_	_	_	Shift=3925
+38	``	_	_	_	_	_	_	_	Shift=3929|SpaceAfter=No
+39	Куб	_	_	_	_	_	_	_	Shift=3930|SpaceAfter=No
+40	''	_	_	_	_	_	_	_	Shift=3933|SpaceAfter=No
+41	,	_	_	_	_	_	_	_	Shift=3934
+42	то	_	_	_	_	_	_	_	Shift=3936
+43	ли	_	_	_	_	_	_	_	Shift=3939
+44	истребитель	_	_	_	_	_	_	_	Shift=3942
+45	МиГ-29	_	_	_	_	_	_	_	Shift=3954|SpaceAfter=No
+46	.	_	_	_	_	_	_	_	Shift=3960
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p33
+# par_text = Поскольку времени для окончательного решения данного вопроса прошло более чем достаточно (неужели у югославов совсем отсутствовала аппаратура боевого документирования?), появляется подозрение, что и здесь верна официальная американская версия — самолет упал сам.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p33-s1
+# text = Поскольку времени для окончательного решения данного вопроса прошло более чем достаточно (неужели у югославов совсем отсутствовала аппаратура боевого документирования?)
+1	Поскольку	_	_	_	_	_	_	_	Shift=3962
+2	времени	_	_	_	_	_	_	_	Shift=3972
+3	для	_	_	_	_	_	_	_	Shift=3980
+4	окончательного	_	_	_	_	_	_	_	Shift=3984
+5	решения	_	_	_	_	_	_	_	Shift=3999
+6	данного	_	_	_	_	_	_	_	Shift=4007
+7	вопроса	_	_	_	_	_	_	_	Shift=4015
+8	прошло	_	_	_	_	_	_	_	Shift=4023
+9	более	_	_	_	_	_	_	_	Shift=4030
+10	чем	_	_	_	_	_	_	_	Shift=4036
+11	достаточно	_	_	_	_	_	_	_	Shift=4040
+12	(	_	_	_	_	_	_	_	Shift=4051|SpaceAfter=No
+13	неужели	_	_	_	_	_	_	_	Shift=4052
+14	у	_	_	_	_	_	_	_	Shift=4060
+15	югославов	_	_	_	_	_	_	_	RuCor_attrs_ref=misc|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1893|RuCor_group_id=468654|RuCor_link_id=468646|Shift=4062
+16	совсем	_	_	_	_	_	_	_	Shift=4072
+17	отсутствовала	_	_	_	_	_	_	_	Shift=4079
+18	аппаратура	_	_	_	_	_	_	_	Shift=4093
+19	боевого	_	_	_	_	_	_	_	Shift=4104
+20	документирования	_	_	_	_	_	_	_	Shift=4112|SpaceAfter=No
+21	?	_	_	_	_	_	_	_	Shift=4128|SpaceAfter=No
+22	)	_	_	_	_	_	_	_	Shift=4129
+
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p33-s2
+# text = , появляется подозрение, что и здесь верна официальная американская версия - самолет упал сам.
+1	,	_	_	_	_	_	_	_	Shift=4130
+2	появляется	_	_	_	_	_	_	_	Shift=4132
+3	подозрение	_	_	_	_	_	_	_	Shift=4143|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=4153
+5	что	_	_	_	_	_	_	_	Shift=4155
+6	и	_	_	_	_	_	_	_	Shift=4159
+7	здесь	_	_	_	_	_	_	_	Shift=4161
+8	верна	_	_	_	_	_	_	_	Shift=4167
+9	официальная	_	_	_	_	_	_	_	Shift=4173
+10	американская	_	_	_	_	_	_	_	Shift=4185
+11	версия	_	_	_	_	_	_	_	Shift=4198
+12	-	_	_	_	_	_	_	_	Shift=4205
+13	самолет	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1911|RuCor_group_id=468655|RuCor_link_id=468653|Shift=4207
+14	упал	_	_	_	_	_	_	_	Shift=4215
+15	сам	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=1911|RuCor_group_id=468656|RuCor_link_id=468655|Shift=4220|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=4223
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p34
+# par_text = F-117 обладает отвратительными аэродинамическими качествами, поэтому до десятка «невидимок» (из всего 59 серийных машин) разбилось без всякой войны (недаром в конце прошлого года этот самолет был снят с вооружения ВВС США).
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p34-s1
+# text = F-117 обладает отвратительными аэродинамическими качествами, поэтому до десятка ``невидимок'' (из всего 59 серийных машин) разбилось без всякой войны (недаром в конце прошлого года этот самолет был снят с вооружения ВВС США).
+1	F-117	_	_	_	_	_	_	_	Shift=4225
+2	обладает	_	_	_	_	_	_	_	Shift=4231
+3	отвратительными	_	_	_	_	_	_	_	Shift=4240
+4	аэродинамическими	_	_	_	_	_	_	_	Shift=4256
+5	качествами	_	_	_	_	_	_	_	Shift=4274|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=4284
+7	поэтому	_	_	_	_	_	_	_	Shift=4286
+8	до	_	_	_	_	_	_	_	Shift=4294
+9	десятка	_	_	_	_	_	_	_	Shift=4297
+10	``	_	_	_	_	_	_	_	Shift=4305|SpaceAfter=No
+11	невидимок	_	_	_	_	_	_	_	Shift=4306|SpaceAfter=No
+12	''	_	_	_	_	_	_	_	Shift=4315
+13	(	_	_	_	_	_	_	_	Shift=4317|SpaceAfter=No
+14	из	_	_	_	_	_	_	_	Shift=4318
+15	всего	_	_	_	_	_	_	_	Shift=4321
+16	59	_	_	_	_	_	_	_	Shift=4327
+17	серийных	_	_	_	_	_	_	_	Shift=4330
+18	машин	_	_	_	_	_	_	_	Shift=4339|SpaceAfter=No
+19	)	_	_	_	_	_	_	_	Shift=4344
+20	разбилось	_	_	_	_	_	_	_	Shift=4346
+21	без	_	_	_	_	_	_	_	Shift=4356
+22	всякой	_	_	_	_	_	_	_	Shift=4360
+23	войны	_	_	_	_	_	_	_	Shift=4367
+24	(	_	_	_	_	_	_	_	Shift=4373|SpaceAfter=No
+25	недаром	_	_	_	_	_	_	_	Shift=4374
+26	в	_	_	_	_	_	_	_	Shift=4382
+27	конце	_	_	_	_	_	_	_	Shift=4384
+28	прошлого	_	_	_	_	_	_	_	Shift=4390
+29	года	_	_	_	_	_	_	_	Shift=4399
+30	этот	_	_	_	_	_	_	_	RuCor_chain_id=1911|RuCor_group_id=468658|Shift=4404
+31	самолет	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1911|RuCor_group_id=468658|RuCor_link_id=468657|Shift=4409
+32	был	_	_	_	_	_	_	_	Shift=4417
+33	снят	_	_	_	_	_	_	_	Shift=4421
+34	с	_	_	_	_	_	_	_	Shift=4426
+35	вооружения	_	_	_	_	_	_	_	Shift=4428
+36	ВВС	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1912|RuCor_group_id=468659|RuCor_link_id=468648|Shift=4439
+37	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1913|RuCor_group_id=468660|RuCor_link_id=468649|Shift=4443|SpaceAfter=No
+38	)	_	_	_	_	_	_	_	Shift=4446|SpaceAfter=No
+39	.	_	_	_	_	_	_	_	Shift=4447
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p35
+# par_text = Однако даже такая низкая эффективность ПВО противника не обеспечила высокой эффективности натовской авиации (причем эта не слишком высокая эффективность — «заслуга» в первую очередь ВВС США, а применительно к европейцам термин «эффективность» просто не имел смысла: война в Югославии показала, что без американцев европейцы в военном плане не могут вообще ничего).
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p35-s1
+# text = Однако даже такая низкая эффективность ПВО противника не обеспечила высокой эффективности натовской авиации (причем эта не слишком высокая эффективность - ``заслуга'' в первую очередь ВВС США, а применительно к европейцам термин ``эффективность'' просто не имел смысла: война в Югославии показала, что без американцев европейцы в военном плане не могут вообще ничего).
+1	Однако	_	_	_	_	_	_	_	Shift=4449
+2	даже	_	_	_	_	_	_	_	Shift=4456
+3	такая	_	_	_	_	_	_	_	Shift=4461
+4	низкая	_	_	_	_	_	_	_	Shift=4467
+5	эффективность	_	_	_	_	_	_	_	Shift=4474
+6	ПВО	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1914|RuCor_group_id=468661|RuCor_link_id=468650|Shift=4488
+7	противника	_	_	_	_	_	_	_	RuCor_chain_id=1914|RuCor_group_id=468661|Shift=4492
+8	не	_	_	_	_	_	_	_	Shift=4503
+9	обеспечила	_	_	_	_	_	_	_	Shift=4506
+10	высокой	_	_	_	_	_	_	_	Shift=4517
+11	эффективности	_	_	_	_	_	_	_	Shift=4525
+12	натовской	_	_	_	_	_	_	_	RuCor_chain_id=1909|RuCor_group_id=468662|Shift=4539
+13	авиации	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1909|RuCor_group_id=468662|RuCor_link_id=468640|Shift=4549
+14	(	_	_	_	_	_	_	_	Shift=4557|SpaceAfter=No
+15	причем	_	_	_	_	_	_	_	Shift=4558
+16	эта	_	_	_	_	_	_	_	Shift=4565
+17	не	_	_	_	_	_	_	_	Shift=4569
+18	слишком	_	_	_	_	_	_	_	Shift=4572
+19	высокая	_	_	_	_	_	_	_	Shift=4580
+20	эффективность	_	_	_	_	_	_	_	Shift=4588
+21	-	_	_	_	_	_	_	_	Shift=4602
+22	``	_	_	_	_	_	_	_	Shift=4604|SpaceAfter=No
+23	заслуга	_	_	_	_	_	_	_	Shift=4605|SpaceAfter=No
+24	''	_	_	_	_	_	_	_	Shift=4612
+25	в	_	_	_	_	_	_	_	Shift=4614
+26	первую	_	_	_	_	_	_	_	Shift=4616
+27	очередь	_	_	_	_	_	_	_	Shift=4623
+28	ВВС	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1912|RuCor_group_id=468663|RuCor_link_id=468659|Shift=4631
+29	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1913|RuCor_group_id=468664|RuCor_link_id=468660|Shift=4635|SpaceAfter=No
+30	,	_	_	_	_	_	_	_	Shift=4638
+31	а	_	_	_	_	_	_	_	Shift=4640
+32	применительно	_	_	_	_	_	_	_	Shift=4642
+33	к	_	_	_	_	_	_	_	Shift=4656
+34	европейцам	_	_	_	_	_	_	_	Shift=4658
+35	термин	_	_	_	_	_	_	_	Shift=4669
+36	``	_	_	_	_	_	_	_	Shift=4676|SpaceAfter=No
+37	эффективность	_	_	_	_	_	_	_	Shift=4677|SpaceAfter=No
+38	''	_	_	_	_	_	_	_	Shift=4690
+39	просто	_	_	_	_	_	_	_	Shift=4692
+40	не	_	_	_	_	_	_	_	Shift=4699
+41	имел	_	_	_	_	_	_	_	Shift=4702
+42	смысла	_	_	_	_	_	_	_	Shift=4707|SpaceAfter=No
+43	:	_	_	_	_	_	_	_	Shift=4713
+44	война	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1891|RuCor_group_id=468665|RuCor_link_id=468626|Shift=4715
+45	в	_	_	_	_	_	_	_	RuCor_chain_id=1891|RuCor_group_id=468665|Shift=4721
+46	Югославии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1893|RuCor_group_id=468666|RuCor_link_id=468646|Shift=4723
+47	показала	_	_	_	_	_	_	_	Shift=4733|SpaceAfter=No
+48	,	_	_	_	_	_	_	_	Shift=4741
+49	что	_	_	_	_	_	_	_	Shift=4743
+50	без	_	_	_	_	_	_	_	Shift=4747
+51	американцев	_	_	_	_	_	_	_	Shift=4751
+52	европейцы	_	_	_	_	_	_	_	Shift=4763
+53	в	_	_	_	_	_	_	_	Shift=4773
+54	военном	_	_	_	_	_	_	_	Shift=4775
+55	плане	_	_	_	_	_	_	_	Shift=4783
+56	не	_	_	_	_	_	_	_	Shift=4789
+57	могут	_	_	_	_	_	_	_	Shift=4792
+58	вообще	_	_	_	_	_	_	_	Shift=4798
+59	ничего	_	_	_	_	_	_	_	Shift=4805|SpaceAfter=No
+60	)	_	_	_	_	_	_	_	Shift=4811|SpaceAfter=No
+61	.	_	_	_	_	_	_	_	Shift=4812
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p36
+# par_text = Если гражданские объекты (в первую очередь инфраструктуру) она бомбила успешно, то вооруженные силы Югославии (особенно сухопутные войска) практически никак не пострадали, что через год после окончания войны официально признало командование США (потери югославов в тяжелой технике составили менее 2%).
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p36-s1
+# text = Если гражданские объекты (в первую очередь инфраструктуру) она бомбила успешно, то вооруженные силы Югославии (особенно сухопутные войска) практически никак не пострадали, что через год после окончания войны официально признало командование США (потери югославов в тяжелой технике составили менее 2 %).
+1	Если	_	_	_	_	_	_	_	Shift=4814
+2	гражданские	_	_	_	_	_	_	_	Shift=4819
+3	объекты	_	_	_	_	_	_	_	Shift=4831
+4	(	_	_	_	_	_	_	_	Shift=4839|SpaceAfter=No
+5	в	_	_	_	_	_	_	_	Shift=4840
+6	первую	_	_	_	_	_	_	_	Shift=4842
+7	очередь	_	_	_	_	_	_	_	Shift=4849
+8	инфраструктуру	_	_	_	_	_	_	_	Shift=4857|SpaceAfter=No
+9	)	_	_	_	_	_	_	_	Shift=4871
+10	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1914|RuCor_group_id=468667|RuCor_link_id=468661|Shift=4873
+11	бомбила	_	_	_	_	_	_	_	Shift=4877
+12	успешно	_	_	_	_	_	_	_	Shift=4885|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=4892
+14	то	_	_	_	_	_	_	_	Shift=4894
+15	вооруженные	_	_	_	_	_	_	_	RuCor_chain_id=1915|RuCor_group_id=468668|Shift=4897
+16	силы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1915|RuCor_group_id=468668|RuCor_link_id=0|Shift=4909
+17	Югославии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1893|RuCor_group_id=468669|RuCor_link_id=468666|Shift=4914
+18	(	_	_	_	_	_	_	_	Shift=4924|SpaceAfter=No
+19	особенно	_	_	_	_	_	_	_	Shift=4925
+20	сухопутные	_	_	_	_	_	_	_	Shift=4934
+21	войска	_	_	_	_	_	_	_	Shift=4945|SpaceAfter=No
+22	)	_	_	_	_	_	_	_	Shift=4951
+23	практически	_	_	_	_	_	_	_	Shift=4953
+24	никак	_	_	_	_	_	_	_	Shift=4965
+25	не	_	_	_	_	_	_	_	Shift=4971
+26	пострадали	_	_	_	_	_	_	_	Shift=4974|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=4984
+28	что	_	_	_	_	_	_	_	Shift=4986
+29	через	_	_	_	_	_	_	_	Shift=4990
+30	год	_	_	_	_	_	_	_	Shift=4996
+31	после	_	_	_	_	_	_	_	Shift=5000
+32	окончания	_	_	_	_	_	_	_	Shift=5006
+33	войны	_	_	_	_	_	_	_	Shift=5016
+34	официально	_	_	_	_	_	_	_	Shift=5022
+35	признало	_	_	_	_	_	_	_	Shift=5033
+36	командование	_	_	_	_	_	_	_	Shift=5042
+37	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1913|RuCor_group_id=468670|RuCor_link_id=468660|Shift=5055
+38	(	_	_	_	_	_	_	_	Shift=5059|SpaceAfter=No
+39	потери	_	_	_	_	_	_	_	Shift=5060
+40	югославов	_	_	_	_	_	_	_	Shift=5067
+41	в	_	_	_	_	_	_	_	Shift=5077
+42	тяжелой	_	_	_	_	_	_	_	Shift=5079
+43	технике	_	_	_	_	_	_	_	Shift=5087
+44	составили	_	_	_	_	_	_	_	Shift=5095
+45	менее	_	_	_	_	_	_	_	Shift=5105
+46	2	_	_	_	_	_	_	_	Shift=5111
+47	%	_	_	_	_	_	_	_	Shift=5112|SpaceAfter=No
+48	)	_	_	_	_	_	_	_	Shift=5113|SpaceAfter=No
+49	.	_	_	_	_	_	_	_	Shift=5114
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p37
+# par_text = И если бы НАТО начало наземную операцию, мясорубка получилась бы страшная.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p37-s1
+# text = И если бы НАТО начало наземную операцию, мясорубка получилась бы страшная.
+1	И	_	_	_	_	_	_	_	Shift=5116
+2	если	_	_	_	_	_	_	_	Shift=5118
+3	бы	_	_	_	_	_	_	_	Shift=5123
+4	НАТО	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1892|RuCor_group_id=468671|RuCor_link_id=468645|Shift=5126
+5	начало	_	_	_	_	_	_	_	Shift=5131
+6	наземную	_	_	_	_	_	_	_	Shift=5138
+7	операцию	_	_	_	_	_	_	_	Shift=5147|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=5155
+9	мясорубка	_	_	_	_	_	_	_	Shift=5157
+10	получилась	_	_	_	_	_	_	_	Shift=5167
+11	бы	_	_	_	_	_	_	_	Shift=5178
+12	страшная	_	_	_	_	_	_	_	Shift=5181|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=5189
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p38
+# par_text = Однако натовцев спас обожествленный нашей патриотической общественностью Милошевич (ныне покойный), капитулировавший в самый неудачный момент.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p38-s1
+# text = Однако натовцев спас обожествленный нашей патриотической общественностью Милошевич (ныне покойный), капитулировавший в самый неудачный момент.
+1	Однако	_	_	_	_	_	_	_	Shift=5191
+2	натовцев	_	_	_	_	_	_	_	RuCor_attrs_ref=misc|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1892|RuCor_group_id=468672|RuCor_link_id=468671|Shift=5198
+3	спас	_	_	_	_	_	_	_	Shift=5207
+4	обожествленный	_	_	_	_	_	_	_	Shift=5212
+5	нашей	_	_	_	_	_	_	_	Shift=5227
+6	патриотической	_	_	_	_	_	_	_	Shift=5233
+7	общественностью	_	_	_	_	_	_	_	Shift=5248
+8	Милошевич	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1900|RuCor_group_id=468673|RuCor_link_id=468604|Shift=5264
+9	(	_	_	_	_	_	_	_	Shift=5274|SpaceAfter=No
+10	ныне	_	_	_	_	_	_	_	Shift=5275
+11	покойный	_	_	_	_	_	_	_	Shift=5280|SpaceAfter=No
+12	)	_	_	_	_	_	_	_	Shift=5288|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=5289
+14	капитулировавший	_	_	_	_	_	_	_	Shift=5291
+15	в	_	_	_	_	_	_	_	Shift=5308
+16	самый	_	_	_	_	_	_	_	Shift=5310
+17	неудачный	_	_	_	_	_	_	_	Shift=5316
+18	момент	_	_	_	_	_	_	_	Shift=5326|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=5332
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p39
+# par_text = К началу июня 1999 года США и компания были в очевидном тупике.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p39-s1
+# text = К началу июня 1999 года США и компания были в очевидном тупике.
+1	К	_	_	_	_	_	_	_	Shift=5335
+2	началу	_	_	_	_	_	_	_	Shift=5337
+3	июня	_	_	_	_	_	_	_	Shift=5344
+4	1999	_	_	_	_	_	_	_	Shift=5349
+5	года	_	_	_	_	_	_	_	Shift=5354
+6	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1916|RuCor_group_id=468675|RuCor_link_id=468664|Shift=5359
+7	и	_	_	_	_	_	_	_	RuCor_chain_id=1916|RuCor_group_id=468675|Shift=5363
+8	компания	_	_	_	_	_	_	_	RuCor_chain_id=1916|RuCor_group_id=468675|Shift=5365
+9	были	_	_	_	_	_	_	_	Shift=5374
+10	в	_	_	_	_	_	_	_	Shift=5379
+11	очевидном	_	_	_	_	_	_	_	Shift=5381
+12	тупике	_	_	_	_	_	_	_	Shift=5391|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=5397
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p40
+# par_text = Они уничтожили большинство назначенных целей, однако югославская армия уверенно контролировала Косово, практически выбив оттуда албанских боевиков.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p40-s1
+# text = Они уничтожили большинство назначенных целей, однако югославская армия уверенно контролировала Косово, практически выбив оттуда албанских боевиков.
+1	Они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1916|RuCor_group_id=468676|RuCor_link_id=468675|Shift=5399
+2	уничтожили	_	_	_	_	_	_	_	Shift=5403
+3	большинство	_	_	_	_	_	_	_	Shift=5414
+4	назначенных	_	_	_	_	_	_	_	Shift=5426
+5	целей	_	_	_	_	_	_	_	Shift=5438|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=5443
+7	однако	_	_	_	_	_	_	_	Shift=5445
+8	югославская	_	_	_	_	_	_	_	RuCor_chain_id=1915|RuCor_group_id=468677|Shift=5452
+9	армия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1915|RuCor_group_id=468677|RuCor_link_id=468668|Shift=5464
+10	уверенно	_	_	_	_	_	_	_	Shift=5470
+11	контролировала	_	_	_	_	_	_	_	Shift=5479
+12	Косово	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1899|RuCor_group_id=468678|RuCor_link_id=468610|Shift=5494|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=5500
+14	практически	_	_	_	_	_	_	_	Shift=5502
+15	выбив	_	_	_	_	_	_	_	Shift=5514
+16	оттуда	_	_	_	_	_	_	_	Shift=5520
+17	албанских	_	_	_	_	_	_	_	Shift=5527
+18	боевиков	_	_	_	_	_	_	_	Shift=5537|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=5545
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p41
+# par_text = Надо было либо свертывать операцию, не добившись поставленных задач, либо начинать наземное вторжение.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p41-s1
+# text = Надо было либо свертывать операцию, не добившись поставленных задач, либо начинать наземное вторжение.
+1	Надо	_	_	_	_	_	_	_	Shift=5547
+2	было	_	_	_	_	_	_	_	Shift=5552
+3	либо	_	_	_	_	_	_	_	Shift=5557
+4	свертывать	_	_	_	_	_	_	_	Shift=5562
+5	операцию	_	_	_	_	_	_	_	Shift=5573|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=5581
+7	не	_	_	_	_	_	_	_	Shift=5583
+8	добившись	_	_	_	_	_	_	_	Shift=5586
+9	поставленных	_	_	_	_	_	_	_	Shift=5596
+10	задач	_	_	_	_	_	_	_	Shift=5609|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=5614
+12	либо	_	_	_	_	_	_	_	Shift=5616
+13	начинать	_	_	_	_	_	_	_	Shift=5621
+14	наземное	_	_	_	_	_	_	_	Shift=5630
+15	вторжение	_	_	_	_	_	_	_	Shift=5639|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=5648
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p42
+# par_text = Первый вариант, видимо, привел бы к отставке всех правительств стран альянса.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p42-s1
+# text = Первый вариант, видимо, привел бы к отставке всех правительств стран альянса.
+1	Первый	_	_	_	_	_	_	_	Shift=5650
+2	вариант	_	_	_	_	_	_	_	Shift=5657|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=5664
+4	видимо	_	_	_	_	_	_	_	Shift=5666|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=5672
+6	привел	_	_	_	_	_	_	_	Shift=5674
+7	бы	_	_	_	_	_	_	_	Shift=5681
+8	к	_	_	_	_	_	_	_	Shift=5684
+9	отставке	_	_	_	_	_	_	_	Shift=5686
+10	всех	_	_	_	_	_	_	_	Shift=5695
+11	правительств	_	_	_	_	_	_	_	Shift=5700
+12	стран	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1917|RuCor_group_id=468679|RuCor_link_id=0|Shift=5713
+13	альянса	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1892|RuCor_group_id=468680|RuCor_link_id=468671|Shift=5719|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=5726
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p43
+# par_text = Второй означал бы бойню.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p43-s1
+# text = Второй означал бы бойню.
+1	Второй	_	_	_	_	_	_	_	Shift=5728
+2	означал	_	_	_	_	_	_	_	Shift=5735
+3	бы	_	_	_	_	_	_	_	Shift=5743
+4	бойню	_	_	_	_	_	_	_	Shift=5746|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=5751
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p44
+# par_text = Как уже было сказано, югославская армия почти не пострадала от воздушных атак, горно-лесистая местность очень способствовала бы успешной обороне.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p44-s1
+# text = Как уже было сказано, югославская армия почти не пострадала от воздушных атак, горно-лесистая местность очень способствовала бы успешной обороне.
+1	Как	_	_	_	_	_	_	_	Shift=5753
+2	уже	_	_	_	_	_	_	_	Shift=5757
+3	было	_	_	_	_	_	_	_	Shift=5761
+4	сказано	_	_	_	_	_	_	_	Shift=5766|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=5773
+6	югославская	_	_	_	_	_	_	_	RuCor_chain_id=1915|RuCor_group_id=468681|Shift=5775
+7	армия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1915|RuCor_group_id=468681|RuCor_link_id=468677|Shift=5787
+8	почти	_	_	_	_	_	_	_	Shift=5793
+9	не	_	_	_	_	_	_	_	Shift=5799
+10	пострадала	_	_	_	_	_	_	_	Shift=5802
+11	от	_	_	_	_	_	_	_	Shift=5813
+12	воздушных	_	_	_	_	_	_	_	Shift=5816
+13	атак	_	_	_	_	_	_	_	Shift=5826|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=5830
+15	горно-лесистая	_	_	_	_	_	_	_	Shift=5832
+16	местность	_	_	_	_	_	_	_	Shift=5847
+17	очень	_	_	_	_	_	_	_	Shift=5857
+18	способствовала	_	_	_	_	_	_	_	Shift=5863
+19	бы	_	_	_	_	_	_	_	Shift=5878
+20	успешной	_	_	_	_	_	_	_	Shift=5881
+21	обороне	_	_	_	_	_	_	_	Shift=5890|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=5897
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p45
+# par_text = Именно в этот момент Милошевич капитулировал.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p45-s1
+# text = Именно в этот момент Милошевич капитулировал.
+1	Именно	_	_	_	_	_	_	_	Shift=5899
+2	в	_	_	_	_	_	_	_	Shift=5906
+3	этот	_	_	_	_	_	_	_	Shift=5908
+4	момент	_	_	_	_	_	_	_	Shift=5913
+5	Милошевич	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1900|RuCor_group_id=468682|RuCor_link_id=468673|Shift=5920
+6	капитулировал	_	_	_	_	_	_	_	Shift=5930|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=5943
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p46
+# par_text = С военной точки зрения капитуляцию в такой ситуации нельзя назвать иначе как преступлением.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p46-s1
+# text = С военной точки зрения капитуляцию в такой ситуации нельзя назвать иначе как преступлением.
+1	С	_	_	_	_	_	_	_	Shift=5945
+2	военной	_	_	_	_	_	_	_	Shift=5947
+3	точки	_	_	_	_	_	_	_	Shift=5955
+4	зрения	_	_	_	_	_	_	_	Shift=5961
+5	капитуляцию	_	_	_	_	_	_	_	Shift=5968
+6	в	_	_	_	_	_	_	_	Shift=5980
+7	такой	_	_	_	_	_	_	_	Shift=5982
+8	ситуации	_	_	_	_	_	_	_	Shift=5988
+9	нельзя	_	_	_	_	_	_	_	Shift=5997
+10	назвать	_	_	_	_	_	_	_	Shift=6004
+11	иначе	_	_	_	_	_	_	_	Shift=6012
+12	как	_	_	_	_	_	_	_	Shift=6018
+13	преступлением	_	_	_	_	_	_	_	Shift=6022|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=6035
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p47
+# par_text = Либо надо было сдаваться сразу, в марте, когда страна еще не была разрушена, либо стоять до конца.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p47-s1
+# text = Либо надо было сдаваться сразу, в марте, когда страна еще не была разрушена, либо стоять до конца.
+1	Либо	_	_	_	_	_	_	_	Shift=6037
+2	надо	_	_	_	_	_	_	_	Shift=6042
+3	было	_	_	_	_	_	_	_	Shift=6047
+4	сдаваться	_	_	_	_	_	_	_	Shift=6052
+5	сразу	_	_	_	_	_	_	_	Shift=6062|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=6067
+7	в	_	_	_	_	_	_	_	Shift=6069
+8	марте	_	_	_	_	_	_	_	Shift=6071|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=6076
+10	когда	_	_	_	_	_	_	_	Shift=6078
+11	страна	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1893|RuCor_group_id=468683|RuCor_link_id=468666|Shift=6084
+12	еще	_	_	_	_	_	_	_	Shift=6091
+13	не	_	_	_	_	_	_	_	Shift=6095
+14	была	_	_	_	_	_	_	_	Shift=6098
+15	разрушена	_	_	_	_	_	_	_	Shift=6103|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=6112
+17	либо	_	_	_	_	_	_	_	Shift=6114
+18	стоять	_	_	_	_	_	_	_	Shift=6119
+19	до	_	_	_	_	_	_	_	Shift=6126
+20	конца	_	_	_	_	_	_	_	Shift=6129|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=6134
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p48
+# par_text = Но Милошевич сначала загнал противника в тупик, а затем сам же его оттуда вывел, попутно дав ему окончательно разрушить Сербию.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p48-s1
+# text = Но Милошевич сначала загнал противника в тупик, а затем сам же его оттуда вывел, попутно дав ему окончательно разрушить Сербию.
+1	Но	_	_	_	_	_	_	_	Shift=6136
+2	Милошевич	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1900|RuCor_group_id=468684|RuCor_link_id=468682|Shift=6139
+3	сначала	_	_	_	_	_	_	_	Shift=6149
+4	загнал	_	_	_	_	_	_	_	Shift=6157
+5	противника	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1892|RuCor_group_id=468685|RuCor_link_id=468671|Shift=6164
+6	в	_	_	_	_	_	_	_	Shift=6175
+7	тупик	_	_	_	_	_	_	_	Shift=6177|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=6182
+9	а	_	_	_	_	_	_	_	Shift=6184
+10	затем	_	_	_	_	_	_	_	Shift=6186
+11	сам	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=1900|RuCor_group_id=468686|RuCor_link_id=468684|Shift=6192
+12	же	_	_	_	_	_	_	_	Shift=6196
+13	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1892|RuCor_group_id=468687|RuCor_link_id=468685|Shift=6199
+14	оттуда	_	_	_	_	_	_	_	Shift=6203
+15	вывел	_	_	_	_	_	_	_	Shift=6210|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=6215
+17	попутно	_	_	_	_	_	_	_	Shift=6217
+18	дав	_	_	_	_	_	_	_	Shift=6225
+19	ему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1892|RuCor_group_id=468688|RuCor_link_id=468685|Shift=6229
+20	окончательно	_	_	_	_	_	_	_	Shift=6233
+21	разрушить	_	_	_	_	_	_	_	Shift=6246
+22	Сербию	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1906|RuCor_group_id=468689|RuCor_link_id=468636|Shift=6256|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=6262
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p49
+# par_text = Через две недели после окончания югославской кампании итальянский адмирал Гвидо Вентурони честно сказал, что в начале июня НАТО было уже на пределе своих возможностей, а европейцы без США вообще не способны проводить самостоятельные операции.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p49-s1
+# text = Через две недели после окончания югославской кампании итальянский адмирал Гвидо Вентурони честно сказал, что в начале июня НАТО было уже на пределе своих возможностей, а европейцы без США вообще не способны проводить самостоятельные операции.
+1	Через	_	_	_	_	_	_	_	Shift=6264
+2	две	_	_	_	_	_	_	_	Shift=6270
+3	недели	_	_	_	_	_	_	_	Shift=6274
+4	после	_	_	_	_	_	_	_	Shift=6281
+5	окончания	_	_	_	_	_	_	_	Shift=6287
+6	югославской	_	_	_	_	_	_	_	RuCor_chain_id=1891|RuCor_group_id=468690|Shift=6297
+7	кампании	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1891|RuCor_group_id=468690|RuCor_link_id=468617|Shift=6309
+8	итальянский	_	_	_	_	_	_	_	Shift=6318
+9	адмирал	_	_	_	_	_	_	_	Shift=6330
+10	Гвидо	_	_	_	_	_	_	_	Shift=6338
+11	Вентурони	_	_	_	_	_	_	_	Shift=6344
+12	честно	_	_	_	_	_	_	_	Shift=6354
+13	сказал	_	_	_	_	_	_	_	Shift=6361|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=6367
+15	что	_	_	_	_	_	_	_	Shift=6369
+16	в	_	_	_	_	_	_	_	Shift=6373
+17	начале	_	_	_	_	_	_	_	Shift=6375
+18	июня	_	_	_	_	_	_	_	Shift=6382
+19	НАТО	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1892|RuCor_group_id=468691|RuCor_link_id=468671|Shift=6387
+20	было	_	_	_	_	_	_	_	Shift=6392
+21	уже	_	_	_	_	_	_	_	Shift=6397
+22	на	_	_	_	_	_	_	_	Shift=6401
+23	пределе	_	_	_	_	_	_	_	Shift=6404
+24	своих	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1892|RuCor_group_id=468692|RuCor_link_id=468691|Shift=6412
+25	возможностей	_	_	_	_	_	_	_	Shift=6418|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	Shift=6430
+27	а	_	_	_	_	_	_	_	Shift=6432
+28	европейцы	_	_	_	_	_	_	_	Shift=6434
+29	без	_	_	_	_	_	_	_	Shift=6444
+30	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1913|RuCor_group_id=468693|RuCor_link_id=468674|Shift=6448
+31	вообще	_	_	_	_	_	_	_	Shift=6452
+32	не	_	_	_	_	_	_	_	Shift=6459
+33	способны	_	_	_	_	_	_	_	Shift=6462
+34	проводить	_	_	_	_	_	_	_	Shift=6471
+35	самостоятельные	_	_	_	_	_	_	_	Shift=6481
+36	операции	_	_	_	_	_	_	_	Shift=6497|SpaceAfter=No
+37	.	_	_	_	_	_	_	_	Shift=6505
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p50
+# par_text = Страны НАТО превосходили Югославию по суммарному экономическому потенциалу в 700 раз (а военные потенциалы были просто несопоставимы), однако через 2,5 месяца войны были на пределе возможностей!
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p50-s1
+# text = Страны НАТО превосходили Югославию по суммарному экономическому потенциалу в 700 раз (а военные потенциалы были просто несопоставимы), однако через 2, 5 месяца войны были на пределе возможностей!
+1	Страны	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1917|RuCor_group_id=468694|RuCor_link_id=468679|Shift=6507
+2	НАТО	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1892|RuCor_group_id=468695|RuCor_link_id=468680|Shift=6514
+3	превосходили	_	_	_	_	_	_	_	Shift=6519
+4	Югославию	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1893|RuCor_group_id=468696|RuCor_link_id=468669|Shift=6532
+5	по	_	_	_	_	_	_	_	Shift=6542
+6	суммарному	_	_	_	_	_	_	_	Shift=6545
+7	экономическому	_	_	_	_	_	_	_	Shift=6556
+8	потенциалу	_	_	_	_	_	_	_	Shift=6571
+9	в	_	_	_	_	_	_	_	Shift=6582
+10	700	_	_	_	_	_	_	_	Shift=6584
+11	раз	_	_	_	_	_	_	_	Shift=6588
+12	(	_	_	_	_	_	_	_	Shift=6592|SpaceAfter=No
+13	а	_	_	_	_	_	_	_	Shift=6593
+14	военные	_	_	_	_	_	_	_	Shift=6595
+15	потенциалы	_	_	_	_	_	_	_	Shift=6603
+16	были	_	_	_	_	_	_	_	Shift=6614
+17	просто	_	_	_	_	_	_	_	Shift=6619
+18	несопоставимы	_	_	_	_	_	_	_	Shift=6626|SpaceAfter=No
+19	)	_	_	_	_	_	_	_	Shift=6639|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=6640
+21	однако	_	_	_	_	_	_	_	Shift=6642
+22	через	_	_	_	_	_	_	_	Shift=6649
+23	2	_	_	_	_	_	_	_	Shift=6655|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=6656
+25	5	_	_	_	_	_	_	_	Shift=6657
+26	месяца	_	_	_	_	_	_	_	Shift=6659
+27	войны	_	_	_	_	_	_	_	Shift=6666
+28	были	_	_	_	_	_	_	_	Shift=6672
+29	на	_	_	_	_	_	_	_	Shift=6677
+30	пределе	_	_	_	_	_	_	_	Shift=6680
+31	возможностей	_	_	_	_	_	_	_	Shift=6688|SpaceAfter=No
+32	!	_	_	_	_	_	_	_	Shift=6700
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p51
+# par_text = Они практически не понесли потерь в ходе войны, однако их материальные расходы на эту войну оказались почти такими же, какой ущерб они нанесли Югославии.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p51-s1
+# text = Они практически не понесли потерь в ходе войны, однако их материальные расходы на эту войну оказались почти такими же, какой ущерб они нанесли Югославии.
+1	Они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1917|RuCor_group_id=468697|RuCor_link_id=468694|Shift=6702
+2	практически	_	_	_	_	_	_	_	Shift=6706
+3	не	_	_	_	_	_	_	_	Shift=6718
+4	понесли	_	_	_	_	_	_	_	Shift=6721
+5	потерь	_	_	_	_	_	_	_	Shift=6729
+6	в	_	_	_	_	_	_	_	Shift=6736
+7	ходе	_	_	_	_	_	_	_	Shift=6738
+8	войны	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1891|RuCor_group_id=468698|RuCor_link_id=468665|Shift=6743|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=6748
+10	однако	_	_	_	_	_	_	_	Shift=6750
+11	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1917|RuCor_group_id=468699|RuCor_link_id=468697|Shift=6757
+12	материальные	_	_	_	_	_	_	_	Shift=6760
+13	расходы	_	_	_	_	_	_	_	Shift=6773
+14	на	_	_	_	_	_	_	_	Shift=6781
+15	эту	_	_	_	_	_	_	_	RuCor_chain_id=1891|RuCor_group_id=468700|Shift=6784
+16	войну	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1891|RuCor_group_id=468700|RuCor_link_id=468698|Shift=6788
+17	оказались	_	_	_	_	_	_	_	Shift=6794
+18	почти	_	_	_	_	_	_	_	Shift=6804
+19	такими	_	_	_	_	_	_	_	Shift=6810
+20	же	_	_	_	_	_	_	_	Shift=6817|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=6819
+22	какой	_	_	_	_	_	_	_	Shift=6821
+23	ущерб	_	_	_	_	_	_	_	Shift=6827
+24	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1917|RuCor_group_id=468701|RuCor_link_id=468697|Shift=6833
+25	нанесли	_	_	_	_	_	_	_	Shift=6837
+26	Югославии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1893|RuCor_group_id=468702|RuCor_link_id=468696|Shift=6845|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=6854
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p52
+# par_text = В этом — обратная сторона высокотехнологичной войны и желания воевать без потерь.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p52-s1
+# text = В этом - обратная сторона высокотехнологичной войны и желания воевать без потерь.
+1	В	_	_	_	_	_	_	_	Shift=6856
+2	этом	_	_	_	_	_	_	_	Shift=6858
+3	-	_	_	_	_	_	_	_	Shift=6863
+4	обратная	_	_	_	_	_	_	_	Shift=6865
+5	сторона	_	_	_	_	_	_	_	Shift=6874
+6	высокотехнологичной	_	_	_	_	_	_	_	Shift=6882
+7	войны	_	_	_	_	_	_	_	Shift=6902
+8	и	_	_	_	_	_	_	_	Shift=6908
+9	желания	_	_	_	_	_	_	_	Shift=6910
+10	воевать	_	_	_	_	_	_	_	Shift=6918
+11	без	_	_	_	_	_	_	_	Shift=6926
+12	потерь	_	_	_	_	_	_	_	Shift=6930|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=6936
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p53
+# par_text = История с броском российских десантников в Приштину, заслуживающая отдельного описания, война в Афганистане лишь подтвердили выводы о крайне ограниченной дееспособности самого мощного в мире военного блока.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p53-s1
+# text = История с броском российских десантников в Приштину, заслуживающая отдельного описания, война в Афганистане лишь подтвердили выводы о крайне ограниченной дееспособности самого мощного в мире военного блока.
+1	История	_	_	_	_	_	_	_	Shift=6938
+2	с	_	_	_	_	_	_	_	Shift=6946
+3	броском	_	_	_	_	_	_	_	Shift=6948
+4	российских	_	_	_	_	_	_	_	Shift=6956
+5	десантников	_	_	_	_	_	_	_	Shift=6967
+6	в	_	_	_	_	_	_	_	Shift=6979
+7	Приштину	_	_	_	_	_	_	_	Shift=6981|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=6989
+9	заслуживающая	_	_	_	_	_	_	_	Shift=6991
+10	отдельного	_	_	_	_	_	_	_	Shift=7005
+11	описания	_	_	_	_	_	_	_	Shift=7016|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=7024
+13	война	_	_	_	_	_	_	_	Shift=7026
+14	в	_	_	_	_	_	_	_	Shift=7032
+15	Афганистане	_	_	_	_	_	_	_	Shift=7034
+16	лишь	_	_	_	_	_	_	_	Shift=7046
+17	подтвердили	_	_	_	_	_	_	_	Shift=7051
+18	выводы	_	_	_	_	_	_	_	Shift=7063
+19	о	_	_	_	_	_	_	_	Shift=7070
+20	крайне	_	_	_	_	_	_	_	Shift=7072
+21	ограниченной	_	_	_	_	_	_	_	Shift=7079
+22	дееспособности	_	_	_	_	_	_	_	Shift=7092
+23	самого	_	_	_	_	_	_	_	RuCor_chain_id=1892|RuCor_group_id=468703|Shift=7107
+24	мощного	_	_	_	_	_	_	_	RuCor_chain_id=1892|RuCor_group_id=468703|Shift=7114
+25	в	_	_	_	_	_	_	_	RuCor_chain_id=1892|RuCor_group_id=468703|Shift=7122
+26	мире	_	_	_	_	_	_	_	RuCor_chain_id=1892|RuCor_group_id=468703|Shift=7124
+27	военного	_	_	_	_	_	_	_	RuCor_chain_id=1892|RuCor_group_id=468703|Shift=7129
+28	блока	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1892|RuCor_group_id=468703|RuCor_link_id=468695|Shift=7138|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	Shift=7143
+
+# newpar id = 3f41f78b-050c-465b-b510-be6347b2d72d-p54
+# par_text = Хотя провести мир в ад по дороге, вымощенной благими намерениями, он еще может.
+# sent_id = 3f41f78b-050c-465b-b510-be6347b2d72d-p54-s1
+# text = Хотя провести мир в ад по дороге, вымощенной благими намерениями, он еще может.
+1	Хотя	_	_	_	_	_	_	_	Shift=7145
+2	провести	_	_	_	_	_	_	_	Shift=7150
+3	мир	_	_	_	_	_	_	_	Shift=7159
+4	в	_	_	_	_	_	_	_	Shift=7163
+5	ад	_	_	_	_	_	_	_	Shift=7165
+6	по	_	_	_	_	_	_	_	Shift=7168
+7	дороге	_	_	_	_	_	_	_	Shift=7171|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=7177
+9	вымощенной	_	_	_	_	_	_	_	Shift=7179
+10	благими	_	_	_	_	_	_	_	Shift=7190
+11	намерениями	_	_	_	_	_	_	_	Shift=7198|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=7209
+13	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1892|RuCor_group_id=468704|RuCor_link_id=468703|Shift=7211
+14	еще	_	_	_	_	_	_	_	Shift=7214
+15	может	_	_	_	_	_	_	_	Shift=7218|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	_
+

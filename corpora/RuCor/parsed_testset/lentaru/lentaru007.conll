@@ -1,0 +1,358 @@
+# newdoc id = e823160c-6527-4b2b-ac31-a96b15a2b5c7
+# newpar id = e823160c-6527-4b2b-ac31-a96b15a2b5c7-p1
+# par_text = Адвокат семьи убитого москвича Ивана Агафонова обжаловала в Верховном суде приговор спортсмену Расулу Мирзаеву, признанному виновным в убийстве. Об этом 20 января сообщает агентство «Интерфакс».
+# sent_id = e823160c-6527-4b2b-ac31-a96b15a2b5c7-p1-s1
+# text = Адвокат семьи убитого москвича Ивана Агафонова обжаловала в Верховном суде приговор спортсмену Расулу Мирзаеву, признанному виновным в убийстве.
+1	Адвокат	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3397|RuCor_group_id=474799|RuCor_link_id=0|Shift=0
+2	семьи	_	_	_	_	_	_	_	RuCor_chain_id=3397|RuCor_group_id=474799|Shift=8
+3	убитого	_	_	_	_	_	_	_	RuCor_chain_id=3398|RuCor_group_id=474800|Shift=14
+4	москвича	_	_	_	_	_	_	_	RuCor_chain_id=3398|RuCor_group_id=474800|Shift=22
+5	Ивана	_	_	_	_	_	_	_	RuCor_chain_id=3398|RuCor_group_id=474800|Shift=31
+6	Агафонова	_	_	_	_	_	_	_	RuCor_chain_id=3398|RuCor_group_id=474800|Shift=37
+7	обжаловала	_	_	_	_	_	_	_	Shift=47
+8	в	_	_	_	_	_	_	_	Shift=58
+9	Верховном	_	_	_	_	_	_	_	RuCor_chain_id=3399|RuCor_group_id=474801|Shift=60
+10	суде	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3399|RuCor_group_id=474801|RuCor_link_id=0|Shift=70
+11	приговор	_	_	_	_	_	_	_	Shift=75
+12	спортсмену	_	_	_	_	_	_	_	RuCor_chain_id=3400|RuCor_group_id=474802|Shift=84
+13	Расулу	_	_	_	_	_	_	_	RuCor_chain_id=3400|RuCor_group_id=474802|Shift=95
+14	Мирзаеву	_	_	_	_	_	_	_	RuCor_chain_id=3400|RuCor_group_id=474802|Shift=102|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=110
+16	признанному	_	_	_	_	_	_	_	Shift=112
+17	виновным	_	_	_	_	_	_	_	Shift=124
+18	в	_	_	_	_	_	_	_	Shift=133
+19	убийстве	_	_	_	_	_	_	_	Shift=135|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=143
+
+# sent_id = e823160c-6527-4b2b-ac31-a96b15a2b5c7-p1-s2
+# text = Об этом 20 января сообщает агентство ``Интерфакс''.
+1	Об	_	_	_	_	_	_	_	Shift=145
+2	этом	_	_	_	_	_	_	_	Shift=148
+3	20	_	_	_	_	_	_	_	Shift=153
+4	января	_	_	_	_	_	_	_	Shift=156
+5	сообщает	_	_	_	_	_	_	_	Shift=163
+6	агентство	_	_	_	_	_	_	_	Shift=172
+7	``	_	_	_	_	_	_	_	Shift=182|SpaceAfter=No
+8	Интерфакс	_	_	_	_	_	_	_	Shift=183|SpaceAfter=No
+9	''	_	_	_	_	_	_	_	Shift=192|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=193
+
+# newpar id = e823160c-6527-4b2b-ac31-a96b15a2b5c7-p2
+# par_text = «Сегодня мы направили жалобу в Верховный суд, где просим отменить все судебные решения по делу, как приговор, так и кассационное определение. Дело просим отправить на новое рассмотрение», — заявила адвокат Оксана Михалкина.
+# sent_id = e823160c-6527-4b2b-ac31-a96b15a2b5c7-p2-s1
+# text = ``Сегодня мы направили жалобу в Верховный суд, где просим отменить все судебные решения по делу, как приговор, так и кассационное определение.
+1	``	_	_	_	_	_	_	_	Shift=195|SpaceAfter=No
+2	Сегодня	_	_	_	_	_	_	_	Shift=196
+3	мы	_	_	_	_	_	_	_	Shift=204
+4	направили	_	_	_	_	_	_	_	Shift=207
+5	жалобу	_	_	_	_	_	_	_	Shift=217
+6	в	_	_	_	_	_	_	_	Shift=224
+7	Верховный	_	_	_	_	_	_	_	RuCor_chain_id=3399|RuCor_group_id=474803|Shift=226
+8	суд	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3399|RuCor_group_id=474803|RuCor_link_id=474801|Shift=236|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=239
+10	где	_	_	_	_	_	_	_	Shift=241
+11	просим	_	_	_	_	_	_	_	Shift=245
+12	отменить	_	_	_	_	_	_	_	Shift=252
+13	все	_	_	_	_	_	_	_	Shift=261
+14	судебные	_	_	_	_	_	_	_	Shift=265
+15	решения	_	_	_	_	_	_	_	Shift=274
+16	по	_	_	_	_	_	_	_	Shift=282
+17	делу	_	_	_	_	_	_	_	Shift=285|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=289
+19	как	_	_	_	_	_	_	_	Shift=291
+20	приговор	_	_	_	_	_	_	_	Shift=295|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=303
+22	так	_	_	_	_	_	_	_	Shift=305
+23	и	_	_	_	_	_	_	_	Shift=309
+24	кассационное	_	_	_	_	_	_	_	Shift=311
+25	определение	_	_	_	_	_	_	_	Shift=324|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=335
+
+# sent_id = e823160c-6527-4b2b-ac31-a96b15a2b5c7-p2-s2
+# text = Дело просим отправить на новое рассмотрение'', - заявила адвокат Оксана Михалкина.
+1	Дело	_	_	_	_	_	_	_	Shift=337
+2	просим	_	_	_	_	_	_	_	Shift=342
+3	отправить	_	_	_	_	_	_	_	Shift=349
+4	на	_	_	_	_	_	_	_	Shift=359
+5	новое	_	_	_	_	_	_	_	Shift=362
+6	рассмотрение	_	_	_	_	_	_	_	Shift=368|SpaceAfter=No
+7	''	_	_	_	_	_	_	_	Shift=380|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=381
+9	-	_	_	_	_	_	_	_	Shift=383
+10	заявила	_	_	_	_	_	_	_	Shift=385
+11	адвокат	_	_	_	_	_	_	_	RuCor_chain_id=3397|RuCor_group_id=474804|Shift=393
+12	Оксана	_	_	_	_	_	_	_	RuCor_chain_id=3397|RuCor_group_id=474804|Shift=401
+13	Михалкина	_	_	_	_	_	_	_	RuCor_chain_id=3397|RuCor_group_id=474804|Shift=408|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=417
+
+# newpar id = e823160c-6527-4b2b-ac31-a96b15a2b5c7-p3
+# par_text = 27 ноября 2012 года Замоскворецкий районный суд признал Мирзаева виновным по 109-й статье УК РФ (причинение смерти по неосторожности). Он был приговорен к двум годам ограничения свободы. Осужденного освободили в зале суда, так как день содержания в СИЗО засчитывается за два дня ограничения свободы. В январе 2013 года Мосгорсуд отклонил кассацию Михалкиной.
+# sent_id = e823160c-6527-4b2b-ac31-a96b15a2b5c7-p3-s1
+# text = 27 ноября 2012 года Замоскворецкий районный суд признал Мирзаева виновным по 109-й статье УК РФ (причинение смерти по неосторожности).
+1	27	_	_	_	_	_	_	_	Shift=419
+2	ноября	_	_	_	_	_	_	_	Shift=422
+3	2012	_	_	_	_	_	_	_	Shift=429
+4	года	_	_	_	_	_	_	_	Shift=434
+5	Замоскворецкий	_	_	_	_	_	_	_	Shift=439
+6	районный	_	_	_	_	_	_	_	Shift=454
+7	суд	_	_	_	_	_	_	_	Shift=463
+8	признал	_	_	_	_	_	_	_	Shift=467
+9	Мирзаева	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3400|RuCor_group_id=474805|RuCor_link_id=474802|Shift=475
+10	виновным	_	_	_	_	_	_	_	Shift=484
+11	по	_	_	_	_	_	_	_	Shift=493
+12	109-й	_	_	_	_	_	_	_	RuCor_chain_id=3401|RuCor_group_id=474806|Shift=496
+13	статье	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3401|RuCor_group_id=474806|RuCor_link_id=0|Shift=502
+14	УК	_	_	_	_	_	_	_	RuCor_chain_id=3401|RuCor_group_id=474806|Shift=509
+15	РФ	_	_	_	_	_	_	_	RuCor_chain_id=3401|RuCor_group_id=474806|Shift=512
+16	(	_	_	_	_	_	_	_	Shift=515|SpaceAfter=No
+17	причинение	_	_	_	_	_	_	_	Shift=516
+18	смерти	_	_	_	_	_	_	_	Shift=527
+19	по	_	_	_	_	_	_	_	Shift=534
+20	неосторожности	_	_	_	_	_	_	_	Shift=537|SpaceAfter=No
+21	)	_	_	_	_	_	_	_	Shift=551|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=552
+
+# sent_id = e823160c-6527-4b2b-ac31-a96b15a2b5c7-p3-s2
+# text = Он был приговорен к двум годам ограничения свободы.
+1	Он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3400|RuCor_group_id=474807|RuCor_link_id=474805|Shift=554
+2	был	_	_	_	_	_	_	_	Shift=557
+3	приговорен	_	_	_	_	_	_	_	Shift=561
+4	к	_	_	_	_	_	_	_	Shift=572
+5	двум	_	_	_	_	_	_	_	Shift=574
+6	годам	_	_	_	_	_	_	_	Shift=579
+7	ограничения	_	_	_	_	_	_	_	Shift=585
+8	свободы	_	_	_	_	_	_	_	Shift=597|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=604
+
+# sent_id = e823160c-6527-4b2b-ac31-a96b15a2b5c7-p3-s3
+# text = Осужденного освободили в зале суда, так как день содержания в СИЗО засчитывается за два дня ограничения свободы.
+1	Осужденного	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3400|RuCor_group_id=474808|RuCor_link_id=474807|Shift=606
+2	освободили	_	_	_	_	_	_	_	Shift=618
+3	в	_	_	_	_	_	_	_	Shift=629
+4	зале	_	_	_	_	_	_	_	Shift=631
+5	суда	_	_	_	_	_	_	_	Shift=636|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=640
+7	так	_	_	_	_	_	_	_	Shift=642
+8	как	_	_	_	_	_	_	_	Shift=646
+9	день	_	_	_	_	_	_	_	Shift=650
+10	содержания	_	_	_	_	_	_	_	Shift=655
+11	в	_	_	_	_	_	_	_	Shift=666
+12	СИЗО	_	_	_	_	_	_	_	Shift=668
+13	засчитывается	_	_	_	_	_	_	_	Shift=673
+14	за	_	_	_	_	_	_	_	Shift=687
+15	два	_	_	_	_	_	_	_	Shift=690
+16	дня	_	_	_	_	_	_	_	Shift=694
+17	ограничения	_	_	_	_	_	_	_	Shift=698
+18	свободы	_	_	_	_	_	_	_	Shift=710|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=717
+
+# sent_id = e823160c-6527-4b2b-ac31-a96b15a2b5c7-p3-s4
+# text = В январе 2013 года Мосгорсуд отклонил кассацию Михалкиной.
+1	В	_	_	_	_	_	_	_	Shift=719
+2	январе	_	_	_	_	_	_	_	Shift=721
+3	2013	_	_	_	_	_	_	_	Shift=728
+4	года	_	_	_	_	_	_	_	Shift=733
+5	Мосгорсуд	_	_	_	_	_	_	_	Shift=738
+6	отклонил	_	_	_	_	_	_	_	Shift=748
+7	кассацию	_	_	_	_	_	_	_	Shift=757
+8	Михалкиной	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3397|RuCor_group_id=474809|RuCor_link_id=474804|Shift=766|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=776
+
+# newpar id = e823160c-6527-4b2b-ac31-a96b15a2b5c7-p4
+# par_text = 25-летний Мирзаев и 19-летний Агафонов поссорились около московского клуба «Гараж» в августе 2011 года. Причиной конфликта стала попытка Агафонова познакомиться с подругой Мирзаева. Спортсмен ударил юношу кулаком в лицо, тот упал и ударился головой об асфальт. Позднее он умер в больнице.
+# sent_id = e823160c-6527-4b2b-ac31-a96b15a2b5c7-p4-s1
+# text = 25-летний Мирзаев и 19-летний Агафонов поссорились около московского клуба ``Гараж'' в августе 2011 года.
+1	25-летний	_	_	_	_	_	_	_	Shift=778
+2	Мирзаев	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3400|RuCor_group_id=474810|RuCor_link_id=474808|Shift=788
+3	и	_	_	_	_	_	_	_	Shift=796
+4	19-летний	_	_	_	_	_	_	_	Shift=798
+5	Агафонов	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3398|RuCor_group_id=474811|RuCor_link_id=474800|Shift=808
+6	поссорились	_	_	_	_	_	_	_	Shift=817
+7	около	_	_	_	_	_	_	_	Shift=829
+8	московского	_	_	_	_	_	_	_	Shift=835
+9	клуба	_	_	_	_	_	_	_	Shift=847
+10	``	_	_	_	_	_	_	_	Shift=853|SpaceAfter=No
+11	Гараж	_	_	_	_	_	_	_	Shift=854|SpaceAfter=No
+12	''	_	_	_	_	_	_	_	Shift=859
+13	в	_	_	_	_	_	_	_	Shift=861
+14	августе	_	_	_	_	_	_	_	Shift=863
+15	2011	_	_	_	_	_	_	_	Shift=871
+16	года	_	_	_	_	_	_	_	Shift=876|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=880
+
+# sent_id = e823160c-6527-4b2b-ac31-a96b15a2b5c7-p4-s2
+# text = Причиной конфликта стала попытка Агафонова познакомиться с подругой Мирзаева.
+1	Причиной	_	_	_	_	_	_	_	Shift=882
+2	конфликта	_	_	_	_	_	_	_	Shift=891
+3	стала	_	_	_	_	_	_	_	Shift=901
+4	попытка	_	_	_	_	_	_	_	Shift=907
+5	Агафонова	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3398|RuCor_group_id=474812|RuCor_link_id=474811|Shift=915
+6	познакомиться	_	_	_	_	_	_	_	Shift=925
+7	с	_	_	_	_	_	_	_	Shift=939
+8	подругой	_	_	_	_	_	_	_	Shift=941
+9	Мирзаева	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3400|RuCor_group_id=474813|RuCor_link_id=474810|Shift=950|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=958
+
+# sent_id = e823160c-6527-4b2b-ac31-a96b15a2b5c7-p4-s3
+# text = Спортсмен ударил юношу кулаком в лицо, тот упал и ударился головой об асфальт.
+1	Спортсмен	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3400|RuCor_group_id=474814|RuCor_link_id=474813|Shift=960
+2	ударил	_	_	_	_	_	_	_	Shift=970
+3	юношу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3398|RuCor_group_id=474815|RuCor_link_id=474812|Shift=977
+4	кулаком	_	_	_	_	_	_	_	Shift=983
+5	в	_	_	_	_	_	_	_	Shift=991
+6	лицо	_	_	_	_	_	_	_	Shift=993|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=997
+8	тот	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3398|RuCor_group_id=474816|RuCor_link_id=474815|Shift=999
+9	упал	_	_	_	_	_	_	_	Shift=1003
+10	и	_	_	_	_	_	_	_	Shift=1008
+11	ударился	_	_	_	_	_	_	_	Shift=1010
+12	головой	_	_	_	_	_	_	_	Shift=1019
+13	об	_	_	_	_	_	_	_	Shift=1027
+14	асфальт	_	_	_	_	_	_	_	Shift=1030|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=1037
+
+# sent_id = e823160c-6527-4b2b-ac31-a96b15a2b5c7-p4-s4
+# text = Позднее он умер в больнице.
+1	Позднее	_	_	_	_	_	_	_	Shift=1039
+2	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3398|RuCor_group_id=474817|RuCor_link_id=474816|Shift=1047
+3	умер	_	_	_	_	_	_	_	Shift=1050
+4	в	_	_	_	_	_	_	_	Shift=1055
+5	больнице	_	_	_	_	_	_	_	Shift=1057|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=1065
+
+# newpar id = e823160c-6527-4b2b-ac31-a96b15a2b5c7-p5
+# par_text = Юристы долгое время спорили, квалифицировать дело по 109-й статье или по более тяжкой четвертой части 111-й статьи (причинение тяжкого вреда здоровью, повлекшего смерть потерпевшего). Обычно в аналогичных случаях применяется 109-я статья, однако некоторые эксперты утверждали, что как спортсмен Мирзаев обязан был предвидеть последствия своих действий. Обвинение было несколько раз переквалифицировано, в рамках расследования провели большое количество экспертиз, давших противоречивые результаты о причине смерти (удар головой об асфальт или удар Мирзаева).
+# sent_id = e823160c-6527-4b2b-ac31-a96b15a2b5c7-p5-s1
+# text = Юристы долгое время спорили, квалифицировать дело по 109-й статье или по более тяжкой четвертой части 111-й статьи (причинение тяжкого вреда здоровью, повлекшего смерть потерпевшего).
+1	Юристы	_	_	_	_	_	_	_	Shift=1067
+2	долгое	_	_	_	_	_	_	_	Shift=1074
+3	время	_	_	_	_	_	_	_	Shift=1081
+4	спорили	_	_	_	_	_	_	_	Shift=1087|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1094
+6	квалифицировать	_	_	_	_	_	_	_	Shift=1096
+7	дело	_	_	_	_	_	_	_	Shift=1112
+8	по	_	_	_	_	_	_	_	Shift=1117
+9	109-й	_	_	_	_	_	_	_	RuCor_chain_id=3401|RuCor_group_id=474818|Shift=1120
+10	статье	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3401|RuCor_group_id=474818|RuCor_link_id=474806|Shift=1126
+11	или	_	_	_	_	_	_	_	Shift=1133
+12	по	_	_	_	_	_	_	_	Shift=1137
+13	более	_	_	_	_	_	_	_	Shift=1140
+14	тяжкой	_	_	_	_	_	_	_	Shift=1146
+15	четвертой	_	_	_	_	_	_	_	Shift=1153
+16	части	_	_	_	_	_	_	_	Shift=1163
+17	111-й	_	_	_	_	_	_	_	Shift=1169
+18	статьи	_	_	_	_	_	_	_	Shift=1175
+19	(	_	_	_	_	_	_	_	Shift=1182|SpaceAfter=No
+20	причинение	_	_	_	_	_	_	_	Shift=1183
+21	тяжкого	_	_	_	_	_	_	_	Shift=1194
+22	вреда	_	_	_	_	_	_	_	Shift=1202
+23	здоровью	_	_	_	_	_	_	_	Shift=1208|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=1216
+25	повлекшего	_	_	_	_	_	_	_	Shift=1218
+26	смерть	_	_	_	_	_	_	_	Shift=1229
+27	потерпевшего	_	_	_	_	_	_	_	Shift=1236|SpaceAfter=No
+28	)	_	_	_	_	_	_	_	Shift=1248|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	Shift=1249
+
+# sent_id = e823160c-6527-4b2b-ac31-a96b15a2b5c7-p5-s2
+# text = Обычно в аналогичных случаях применяется 109-я статья, однако некоторые эксперты утверждали, что как спортсмен Мирзаев обязан был предвидеть последствия своих действий.
+1	Обычно	_	_	_	_	_	_	_	Shift=1251
+2	в	_	_	_	_	_	_	_	Shift=1258
+3	аналогичных	_	_	_	_	_	_	_	Shift=1260
+4	случаях	_	_	_	_	_	_	_	Shift=1272
+5	применяется	_	_	_	_	_	_	_	Shift=1280
+6	109-я	_	_	_	_	_	_	_	Shift=1292
+7	статья	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3401|RuCor_group_id=474819|RuCor_link_id=474818|Shift=1298|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1304
+9	однако	_	_	_	_	_	_	_	Shift=1306
+10	некоторые	_	_	_	_	_	_	_	Shift=1313
+11	эксперты	_	_	_	_	_	_	_	Shift=1323
+12	утверждали	_	_	_	_	_	_	_	Shift=1332|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=1342
+14	что	_	_	_	_	_	_	_	Shift=1344
+15	как	_	_	_	_	_	_	_	Shift=1348
+16	спортсмен	_	_	_	_	_	_	_	Shift=1352
+17	Мирзаев	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3400|RuCor_group_id=474820|RuCor_link_id=474814|Shift=1362
+18	обязан	_	_	_	_	_	_	_	Shift=1370
+19	был	_	_	_	_	_	_	_	Shift=1377
+20	предвидеть	_	_	_	_	_	_	_	Shift=1381
+21	последствия	_	_	_	_	_	_	_	Shift=1392
+22	своих	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3400|RuCor_group_id=474821|RuCor_link_id=474820|Shift=1404
+23	действий	_	_	_	_	_	_	_	Shift=1410|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=1418
+
+# sent_id = e823160c-6527-4b2b-ac31-a96b15a2b5c7-p5-s3
+# text = Обвинение было несколько раз переквалифицировано, в рамках расследования провели большое количество экспертиз, давших противоречивые результаты о причине смерти (удар головой об асфальт или удар Мирзаева).
+1	Обвинение	_	_	_	_	_	_	_	Shift=1420
+2	было	_	_	_	_	_	_	_	Shift=1430
+3	несколько	_	_	_	_	_	_	_	Shift=1435
+4	раз	_	_	_	_	_	_	_	Shift=1445
+5	переквалифицировано	_	_	_	_	_	_	_	Shift=1449|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1468
+7	в	_	_	_	_	_	_	_	Shift=1470
+8	рамках	_	_	_	_	_	_	_	Shift=1472
+9	расследования	_	_	_	_	_	_	_	Shift=1479
+10	провели	_	_	_	_	_	_	_	Shift=1493
+11	большое	_	_	_	_	_	_	_	Shift=1501
+12	количество	_	_	_	_	_	_	_	Shift=1509
+13	экспертиз	_	_	_	_	_	_	_	Shift=1520|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=1529
+15	давших	_	_	_	_	_	_	_	Shift=1531
+16	противоречивые	_	_	_	_	_	_	_	Shift=1538
+17	результаты	_	_	_	_	_	_	_	Shift=1553
+18	о	_	_	_	_	_	_	_	Shift=1564
+19	причине	_	_	_	_	_	_	_	Shift=1566
+20	смерти	_	_	_	_	_	_	_	Shift=1574
+21	(	_	_	_	_	_	_	_	Shift=1581|SpaceAfter=No
+22	удар	_	_	_	_	_	_	_	Shift=1582
+23	головой	_	_	_	_	_	_	_	Shift=1587
+24	об	_	_	_	_	_	_	_	Shift=1595
+25	асфальт	_	_	_	_	_	_	_	Shift=1598
+26	или	_	_	_	_	_	_	_	Shift=1606
+27	удар	_	_	_	_	_	_	_	Shift=1610
+28	Мирзаева	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3400|RuCor_group_id=474822|RuCor_link_id=474821|Shift=1615|SpaceAfter=No
+29	)	_	_	_	_	_	_	_	Shift=1623|SpaceAfter=No
+30	.	_	_	_	_	_	_	_	Shift=1624
+
+# newpar id = e823160c-6527-4b2b-ac31-a96b15a2b5c7-p6
+# par_text = В марте 2013 года в Москве был вынесен приговор по делу о разбое, фигурантом которого на момент смерти являлся Агафонов. Двое его друзей получили три и четыре с половиной года колонии.
+# sent_id = e823160c-6527-4b2b-ac31-a96b15a2b5c7-p6-s1
+# text = В марте 2013 года в Москве был вынесен приговор по делу о разбое, фигурантом которого на момент смерти являлся Агафонов.
+1	В	_	_	_	_	_	_	_	Shift=1626
+2	марте	_	_	_	_	_	_	_	Shift=1628
+3	2013	_	_	_	_	_	_	_	Shift=1634
+4	года	_	_	_	_	_	_	_	Shift=1639
+5	в	_	_	_	_	_	_	_	Shift=1644
+6	Москве	_	_	_	_	_	_	_	Shift=1646
+7	был	_	_	_	_	_	_	_	Shift=1653
+8	вынесен	_	_	_	_	_	_	_	Shift=1657
+9	приговор	_	_	_	_	_	_	_	Shift=1665
+10	по	_	_	_	_	_	_	_	Shift=1674
+11	делу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3402|RuCor_group_id=474823|RuCor_link_id=0|Shift=1677
+12	о	_	_	_	_	_	_	_	RuCor_chain_id=3402|RuCor_group_id=474823|Shift=1682
+13	разбое	_	_	_	_	_	_	_	RuCor_chain_id=3402|RuCor_group_id=474823|Shift=1684|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=1690
+15	фигурантом	_	_	_	_	_	_	_	Shift=1692
+16	которого	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=3402|RuCor_group_id=474824|RuCor_link_id=474823|Shift=1703
+17	на	_	_	_	_	_	_	_	Shift=1712
+18	момент	_	_	_	_	_	_	_	Shift=1715
+19	смерти	_	_	_	_	_	_	_	Shift=1722
+20	являлся	_	_	_	_	_	_	_	Shift=1729
+21	Агафонов	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3398|RuCor_group_id=474825|RuCor_link_id=474817|Shift=1737|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=1745
+
+# sent_id = e823160c-6527-4b2b-ac31-a96b15a2b5c7-p6-s2
+# text = Двое его друзей получили три и четыре с половиной года колонии.
+1	Двое	_	_	_	_	_	_	_	Shift=1747
+2	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3398|RuCor_group_id=474826|RuCor_link_id=474825|Shift=1752
+3	друзей	_	_	_	_	_	_	_	Shift=1756
+4	получили	_	_	_	_	_	_	_	Shift=1763
+5	три	_	_	_	_	_	_	_	Shift=1772
+6	и	_	_	_	_	_	_	_	Shift=1776
+7	четыре	_	_	_	_	_	_	_	Shift=1778
+8	с	_	_	_	_	_	_	_	Shift=1785
+9	половиной	_	_	_	_	_	_	_	Shift=1787
+10	года	_	_	_	_	_	_	_	Shift=1797
+11	колонии	_	_	_	_	_	_	_	Shift=1802|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	_
+

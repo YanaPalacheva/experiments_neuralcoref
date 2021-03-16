@@ -1,0 +1,1985 @@
+# newdoc id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p1
+# par_text = Осенью можно будет увидеть в прокате фильм Оксаны Бычковой «Плюс один».
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p1-s1
+# text = Осенью можно будет увидеть в прокате фильм Оксаны Бычковой ``Плюс один''.
+1	Осенью	_	_	_	_	_	_	_	Shift=0
+2	можно	_	_	_	_	_	_	_	Shift=7
+3	будет	_	_	_	_	_	_	_	Shift=13
+4	увидеть	_	_	_	_	_	_	_	Shift=19
+5	в	_	_	_	_	_	_	_	Shift=27
+6	прокате	_	_	_	_	_	_	_	Shift=29
+7	фильм	_	_	_	_	_	_	_	RuCor_chain_id=1784|RuCor_group_id=468135|Shift=37
+8	Оксаны	_	_	_	_	_	_	_	RuCor_chain_id=1775|RuCor_group_id=468136|Shift=43
+9	Бычковой	_	_	_	_	_	_	_	RuCor_chain_id=1775|RuCor_group_id=468136|Shift=50
+10	``	_	_	_	_	_	_	_	RuCor_chain_id=1784|RuCor_group_id=468135|Shift=59|SpaceAfter=No
+11	Плюс	_	_	_	_	_	_	_	RuCor_chain_id=1784|RuCor_group_id=468135|Shift=60
+12	один	_	_	_	_	_	_	_	RuCor_chain_id=1784|RuCor_group_id=468135|Shift=65|SpaceAfter=No
+13	''	_	_	_	_	_	_	_	RuCor_chain_id=1784|RuCor_group_id=468135|Shift=69|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=70
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p2
+# par_text = Премьера состоялась 21 августа (96 мин. В ролях Павел Деревянко, Джетро Скиннер, Олег Долин, Мадлен Джабраилова, Юрий Колокольников, Евгений Цыганов).
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p2-s1
+# text = Премьера состоялась 21 августа (96 мин. В ролях Павел Деревянко, Джетро Скиннер, Олег Долин, Мадлен Джабраилова, Юрий Колокольников, Евгений Цыганов).
+1	Премьера	_	_	_	_	_	_	_	Shift=72
+2	состоялась	_	_	_	_	_	_	_	Shift=81
+3	21	_	_	_	_	_	_	_	Shift=92
+4	августа	_	_	_	_	_	_	_	Shift=95
+5	(	_	_	_	_	_	_	_	Shift=103|SpaceAfter=No
+6	96	_	_	_	_	_	_	_	Shift=104
+7	мин.	_	_	_	_	_	_	_	Shift=107
+8	В	_	_	_	_	_	_	_	Shift=112
+9	ролях	_	_	_	_	_	_	_	Shift=114
+10	Павел	_	_	_	_	_	_	_	Shift=120
+11	Деревянко	_	_	_	_	_	_	_	Shift=126|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=135
+13	Джетро	_	_	_	_	_	_	_	Shift=137
+14	Скиннер	_	_	_	_	_	_	_	Shift=144|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=151
+16	Олег	_	_	_	_	_	_	_	Shift=153
+17	Долин	_	_	_	_	_	_	_	Shift=158|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=163
+19	Мадлен	_	_	_	_	_	_	_	Shift=165
+20	Джабраилова	_	_	_	_	_	_	_	Shift=172|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=183
+22	Юрий	_	_	_	_	_	_	_	Shift=185
+23	Колокольников	_	_	_	_	_	_	_	Shift=190|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=203
+25	Евгений	_	_	_	_	_	_	_	Shift=205
+26	Цыганов	_	_	_	_	_	_	_	Shift=213|SpaceAfter=No
+27	)	_	_	_	_	_	_	_	Shift=220|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=221
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p3
+# par_text = Жанровое кино как элемент современного российского кинопроцесса практически отсутствует.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p3-s1
+# text = Жанровое кино как элемент современного российского кинопроцесса практически отсутствует.
+1	Жанровое	_	_	_	_	_	_	_	Shift=223
+2	кино	_	_	_	_	_	_	_	Shift=232
+3	как	_	_	_	_	_	_	_	Shift=237
+4	элемент	_	_	_	_	_	_	_	Shift=241
+5	современного	_	_	_	_	_	_	_	Shift=249
+6	российского	_	_	_	_	_	_	_	Shift=262
+7	кинопроцесса	_	_	_	_	_	_	_	Shift=274
+8	практически	_	_	_	_	_	_	_	Shift=287
+9	отсутствует	_	_	_	_	_	_	_	Shift=299|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=310
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p4
+# par_text = Несмотря на отдельные образцы.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p4-s1
+# text = Несмотря на отдельные образцы.
+1	Несмотря	_	_	_	_	_	_	_	Shift=312
+2	на	_	_	_	_	_	_	_	Shift=321
+3	отдельные	_	_	_	_	_	_	_	Shift=324
+4	образцы	_	_	_	_	_	_	_	Shift=334|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=341
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p5
+# par_text = Нет такого направления.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p5-s1
+# text = Нет такого направления.
+1	Нет	_	_	_	_	_	_	_	Shift=343
+2	такого	_	_	_	_	_	_	_	Shift=347
+3	направления	_	_	_	_	_	_	_	Shift=354|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=365
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p6
+# par_text = Основной жанр сегодня – фильм вообще.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p6-s1
+# text = Основной жанр сегодня - фильм вообще.
+1	Основной	_	_	_	_	_	_	_	Shift=367
+2	жанр	_	_	_	_	_	_	_	Shift=376
+3	сегодня	_	_	_	_	_	_	_	Shift=381
+4	-	_	_	_	_	_	_	_	_
+5	фильм	_	_	_	_	_	_	_	Shift=391
+6	вообще	_	_	_	_	_	_	_	Shift=397|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=403
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p7
+# par_text = Меж тем спрос именно на жанровое, оно же развлекательное, кино очень велик.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p7-s1
+# text = Меж тем спрос именно на жанровое, оно же развлекательное, кино очень велик.
+1	Меж	_	_	_	_	_	_	_	Shift=405
+2	тем	_	_	_	_	_	_	_	Shift=409
+3	спрос	_	_	_	_	_	_	_	Shift=413
+4	именно	_	_	_	_	_	_	_	Shift=419
+5	на	_	_	_	_	_	_	_	Shift=426
+6	жанровое	_	_	_	_	_	_	_	Shift=429|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=437
+8	оно	_	_	_	_	_	_	_	Shift=439
+9	же	_	_	_	_	_	_	_	Shift=443
+10	развлекательное	_	_	_	_	_	_	_	Shift=446|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=461
+12	кино	_	_	_	_	_	_	_	Shift=463
+13	очень	_	_	_	_	_	_	_	Shift=468
+14	велик	_	_	_	_	_	_	_	Shift=474|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=479
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p8
+# par_text = Как на фильмы ужасов, так и на романтические комедии.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p8-s1
+# text = Как на фильмы ужасов, так и на романтические комедии.
+1	Как	_	_	_	_	_	_	_	Shift=481
+2	на	_	_	_	_	_	_	_	Shift=485
+3	фильмы	_	_	_	_	_	_	_	Shift=488
+4	ужасов	_	_	_	_	_	_	_	Shift=495|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=501
+6	так	_	_	_	_	_	_	_	Shift=503
+7	и	_	_	_	_	_	_	_	Shift=507
+8	на	_	_	_	_	_	_	_	Shift=509
+9	романтические	_	_	_	_	_	_	_	Shift=512
+10	комедии	_	_	_	_	_	_	_	Shift=526|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=533
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p9
+# par_text = Ромкомы, если сокращенно.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p9-s1
+# text = Ромкомы, если сокращенно.
+1	Ромкомы	_	_	_	_	_	_	_	Shift=535|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=542
+3	если	_	_	_	_	_	_	_	Shift=544
+4	сокращенно	_	_	_	_	_	_	_	Shift=549|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=559
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p10
+# par_text = Кто нежнее
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p10-s1
+# text = Кто нежнее
+1	Кто	_	_	_	_	_	_	_	Shift=561
+2	нежнее	_	_	_	_	_	_	_	Shift=565
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p11
+# par_text = С одной стороны, в нашем кино нет традиции появления романтических комедий.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p11-s1
+# text = С одной стороны, в нашем кино нет традиции появления романтических комедий.
+1	С	_	_	_	_	_	_	_	Shift=572
+2	одной	_	_	_	_	_	_	_	Shift=574
+3	стороны	_	_	_	_	_	_	_	Shift=580|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=587
+5	в	_	_	_	_	_	_	_	Shift=589
+6	нашем	_	_	_	_	_	_	_	Shift=591
+7	кино	_	_	_	_	_	_	_	Shift=597
+8	нет	_	_	_	_	_	_	_	Shift=602
+9	традиции	_	_	_	_	_	_	_	Shift=606
+10	появления	_	_	_	_	_	_	_	Shift=615
+11	романтических	_	_	_	_	_	_	_	Shift=625
+12	комедий	_	_	_	_	_	_	_	Shift=639|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=646
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p12
+# par_text = И в советские времена не было.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p12-s1
+# text = И в советские времена не было.
+1	И	_	_	_	_	_	_	_	Shift=648
+2	в	_	_	_	_	_	_	_	Shift=650
+3	советские	_	_	_	_	_	_	_	Shift=652
+4	времена	_	_	_	_	_	_	_	Shift=662
+5	не	_	_	_	_	_	_	_	Shift=670
+6	было	_	_	_	_	_	_	_	Shift=673|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=677
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p13
+# par_text = Но с другой –можно уловить некоторые черты ромкомов в некоторых фильмах 40–60-х годов – тех же «Девчатах» или «Сердцах четырех».
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p13-s1
+# text = Но с другой - можно уловить некоторые черты ромкомов в некоторых фильмах 40 - 60-х годов - тех же ``Девчатах'' или ``Сердцах четырех''.
+1	Но	_	_	_	_	_	_	_	Shift=679
+2	с	_	_	_	_	_	_	_	Shift=682
+3	другой	_	_	_	_	_	_	_	Shift=684
+4	-	_	_	_	_	_	_	_	_
+5	можно	_	_	_	_	_	_	_	Shift=692
+6	уловить	_	_	_	_	_	_	_	Shift=698
+7	некоторые	_	_	_	_	_	_	_	Shift=706
+8	черты	_	_	_	_	_	_	_	Shift=716
+9	ромкомов	_	_	_	_	_	_	_	Shift=722
+10	в	_	_	_	_	_	_	_	Shift=731
+11	некоторых	_	_	_	_	_	_	_	Shift=733
+12	фильмах	_	_	_	_	_	_	_	Shift=743
+13	40	_	_	_	_	_	_	_	Shift=751
+14	-	_	_	_	_	_	_	_	_
+15	60-х	_	_	_	_	_	_	_	Shift=754
+16	годов	_	_	_	_	_	_	_	Shift=759
+17	-	_	_	_	_	_	_	_	_
+18	тех	_	_	_	_	_	_	_	Shift=767
+19	же	_	_	_	_	_	_	_	Shift=771
+20	``	_	_	_	_	_	_	_	Shift=774|SpaceAfter=No
+21	Девчатах	_	_	_	_	_	_	_	Shift=775|SpaceAfter=No
+22	''	_	_	_	_	_	_	_	Shift=783
+23	или	_	_	_	_	_	_	_	Shift=785
+24	``	_	_	_	_	_	_	_	Shift=789|SpaceAfter=No
+25	Сердцах	_	_	_	_	_	_	_	Shift=790
+26	четырех	_	_	_	_	_	_	_	Shift=798|SpaceAfter=No
+27	''	_	_	_	_	_	_	_	Shift=805|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=806
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p14
+# par_text = Там были и наивные нежные героини, и мужественные герои, и нужное сочетание лучезарной улыбчивости с трогательной серьезностью, и ощущение «все будет хорошо».
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p14-s1
+# text = Там были и наивные нежные героини, и мужественные герои, и нужное сочетание лучезарной улыбчивости с трогательной серьезностью, и ощущение ``все будет хорошо''.
+1	Там	_	_	_	_	_	_	_	Shift=808
+2	были	_	_	_	_	_	_	_	Shift=812
+3	и	_	_	_	_	_	_	_	Shift=817
+4	наивные	_	_	_	_	_	_	_	Shift=819
+5	нежные	_	_	_	_	_	_	_	Shift=827
+6	героини	_	_	_	_	_	_	_	Shift=834|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=841
+8	и	_	_	_	_	_	_	_	Shift=843
+9	мужественные	_	_	_	_	_	_	_	Shift=845
+10	герои	_	_	_	_	_	_	_	Shift=858|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=863
+12	и	_	_	_	_	_	_	_	Shift=865
+13	нужное	_	_	_	_	_	_	_	Shift=867
+14	сочетание	_	_	_	_	_	_	_	Shift=874
+15	лучезарной	_	_	_	_	_	_	_	Shift=884
+16	улыбчивости	_	_	_	_	_	_	_	Shift=895
+17	с	_	_	_	_	_	_	_	Shift=907
+18	трогательной	_	_	_	_	_	_	_	Shift=909
+19	серьезностью	_	_	_	_	_	_	_	Shift=922|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=934
+21	и	_	_	_	_	_	_	_	Shift=936
+22	ощущение	_	_	_	_	_	_	_	Shift=938
+23	``	_	_	_	_	_	_	_	Shift=947|SpaceAfter=No
+24	все	_	_	_	_	_	_	_	Shift=948
+25	будет	_	_	_	_	_	_	_	Shift=952
+26	хорошо	_	_	_	_	_	_	_	Shift=958|SpaceAfter=No
+27	''	_	_	_	_	_	_	_	Shift=964|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=965
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p15
+# par_text = Притворяются ромкомами и некоторые картины Эльдара Рязанова.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p15-s1
+# text = Притворяются ромкомами и некоторые картины Эльдара Рязанова.
+1	Притворяются	_	_	_	_	_	_	_	Shift=967
+2	ромкомами	_	_	_	_	_	_	_	Shift=980
+3	и	_	_	_	_	_	_	_	Shift=990
+4	некоторые	_	_	_	_	_	_	_	RuCor_chain_id=1758|RuCor_group_id=468137|Shift=992
+5	картины	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1758|RuCor_group_id=468137|RuCor_link_id=0|Shift=1002
+6	Эльдара	_	_	_	_	_	_	_	RuCor_chain_id=1758|RuCor_group_id=468137|Shift=1010
+7	Рязанова	_	_	_	_	_	_	_	RuCor_chain_id=1758|RuCor_group_id=468137|Shift=1018|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=1026
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p16
+# par_text = «Ирония судьбы», «Служебный роман» -- чем не образцы жанра?
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p16-s1
+# text = ``Ирония судьбы'', ``Служебный роман'' - чем не образцы жанра?
+1	``	_	_	_	_	_	_	_	Shift=1028|SpaceAfter=No
+2	Ирония	_	_	_	_	_	_	_	Shift=1029
+3	судьбы	_	_	_	_	_	_	_	Shift=1036|SpaceAfter=No
+4	''	_	_	_	_	_	_	_	Shift=1042|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1043
+6	``	_	_	_	_	_	_	_	Shift=1045|SpaceAfter=No
+7	Служебный	_	_	_	_	_	_	_	Shift=1046
+8	роман	_	_	_	_	_	_	_	Shift=1056|SpaceAfter=No
+9	''	_	_	_	_	_	_	_	Shift=1061
+10	-	_	_	_	_	_	_	_	Shift=1063
+11	чем	_	_	_	_	_	_	_	Shift=1066
+12	не	_	_	_	_	_	_	_	Shift=1070
+13	образцы	_	_	_	_	_	_	_	Shift=1073
+14	жанра	_	_	_	_	_	_	_	Shift=1081|SpaceAfter=No
+15	?	_	_	_	_	_	_	_	Shift=1086
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p17
+# par_text = Но они на поверку оказываются серьезнее и страшнее.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p17-s1
+# text = Но они на поверку оказываются серьезнее и страшнее.
+1	Но	_	_	_	_	_	_	_	Shift=1088
+2	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1758|RuCor_group_id=468138|RuCor_link_id=468137|Shift=1091
+3	на	_	_	_	_	_	_	_	Shift=1095
+4	поверку	_	_	_	_	_	_	_	Shift=1098
+5	оказываются	_	_	_	_	_	_	_	Shift=1106
+6	серьезнее	_	_	_	_	_	_	_	Shift=1118
+7	и	_	_	_	_	_	_	_	Shift=1128
+8	страшнее	_	_	_	_	_	_	_	Shift=1130|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=1138
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p18
+# par_text = Несмотря на хеппи-энд.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p18-s1
+# text = Несмотря на хеппи-энд.
+1	Несмотря	_	_	_	_	_	_	_	Shift=1140
+2	на	_	_	_	_	_	_	_	Shift=1149
+3	хеппи-энд	_	_	_	_	_	_	_	Shift=1152|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=1161
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p19
+# par_text = Который, кстати – непременное условие.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p19-s1
+# text = Который, кстати - непременное условие.
+1	Который	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=1759|RuCor_group_id=468140|RuCor_link_id=468139|Shift=1163|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=1170
+3	кстати	_	_	_	_	_	_	_	Shift=1172
+4	-	_	_	_	_	_	_	_	_
+5	непременное	_	_	_	_	_	_	_	Shift=1181
+6	условие	_	_	_	_	_	_	_	Shift=1193|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=1200
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p20
+# par_text = И такое же непременное отсутствие почти во всех ромкомах нового образца.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p20-s1
+# text = И такое же непременное отсутствие почти во всех ромкомах нового образца.
+1	И	_	_	_	_	_	_	_	Shift=1202
+2	такое	_	_	_	_	_	_	_	Shift=1204
+3	же	_	_	_	_	_	_	_	Shift=1210
+4	непременное	_	_	_	_	_	_	_	Shift=1213
+5	отсутствие	_	_	_	_	_	_	_	Shift=1225
+6	почти	_	_	_	_	_	_	_	Shift=1236
+7	во	_	_	_	_	_	_	_	Shift=1242
+8	всех	_	_	_	_	_	_	_	Shift=1245
+9	ромкомах	_	_	_	_	_	_	_	Shift=1250
+10	нового	_	_	_	_	_	_	_	Shift=1259
+11	образца	_	_	_	_	_	_	_	Shift=1266|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=1273
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p21
+# par_text = Сегодня в любом финале горечи больше, чем счастья и спокойствия.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p21-s1
+# text = Сегодня в любом финале горечи больше, чем счастья и спокойствия.
+1	Сегодня	_	_	_	_	_	_	_	Shift=1275
+2	в	_	_	_	_	_	_	_	Shift=1283
+3	любом	_	_	_	_	_	_	_	Shift=1285
+4	финале	_	_	_	_	_	_	_	Shift=1291
+5	горечи	_	_	_	_	_	_	_	Shift=1298
+6	больше	_	_	_	_	_	_	_	Shift=1305|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=1311
+8	чем	_	_	_	_	_	_	_	Shift=1313
+9	счастья	_	_	_	_	_	_	_	Shift=1317
+10	и	_	_	_	_	_	_	_	Shift=1325
+11	спокойствия	_	_	_	_	_	_	_	Shift=1327|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=1338
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p22
+# par_text = А любимее всего –финал открытый.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p22-s1
+# text = А любимее всего - финал открытый.
+1	А	_	_	_	_	_	_	_	Shift=1340
+2	любимее	_	_	_	_	_	_	_	Shift=1342
+3	всего	_	_	_	_	_	_	_	Shift=1350
+4	-	_	_	_	_	_	_	_	_
+5	финал	_	_	_	_	_	_	_	Shift=1357
+6	открытый	_	_	_	_	_	_	_	Shift=1363|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=1371
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p23
+# par_text = Мол, мы все сказали, а дальше сами додумывайте.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p23-s1
+# text = Мол, мы все сказали, а дальше сами додумывайте.
+1	Мол	_	_	_	_	_	_	_	Shift=1373|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=1376
+3	мы	_	_	_	_	_	_	_	Shift=1378
+4	все	_	_	_	_	_	_	_	Shift=1381
+5	сказали	_	_	_	_	_	_	_	Shift=1385|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1392
+7	а	_	_	_	_	_	_	_	Shift=1394
+8	дальше	_	_	_	_	_	_	_	Shift=1396
+9	сами	_	_	_	_	_	_	_	Shift=1403
+10	додумывайте	_	_	_	_	_	_	_	Shift=1408|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=1419
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p24
+# par_text = Расскажи мне о любви
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p24-s1
+# text = Расскажи мне о любви
+1	Расскажи	_	_	_	_	_	_	_	Shift=1421
+2	мне	_	_	_	_	_	_	_	Shift=1430
+3	о	_	_	_	_	_	_	_	Shift=1434
+4	любви	_	_	_	_	_	_	_	Shift=1436
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p25
+# par_text = Пресловутые отдельные образцы новых ромкомов заслуживают внимания именно своей отдельностью.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p25-s1
+# text = Пресловутые отдельные образцы новых ромкомов заслуживают внимания именно своей отдельностью.
+1	Пресловутые	_	_	_	_	_	_	_	RuCor_chain_id=1760|RuCor_group_id=468141|Shift=1442
+2	отдельные	_	_	_	_	_	_	_	RuCor_chain_id=1760|RuCor_group_id=468141|Shift=1454
+3	образцы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1760|RuCor_group_id=468141|RuCor_link_id=0|Shift=1464
+4	новых	_	_	_	_	_	_	_	RuCor_chain_id=1760|RuCor_group_id=468141|Shift=1472
+5	ромкомов	_	_	_	_	_	_	_	RuCor_chain_id=1760|RuCor_group_id=468141|Shift=1478
+6	заслуживают	_	_	_	_	_	_	_	Shift=1487
+7	внимания	_	_	_	_	_	_	_	Shift=1499
+8	именно	_	_	_	_	_	_	_	Shift=1508
+9	своей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=1760|RuCor_group_id=468142|RuCor_link_id=468141|Shift=1515
+10	отдельностью	_	_	_	_	_	_	_	Shift=1521|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=1533
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p26
+# par_text = Даже оторванностью.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p26-s1
+# text = Даже оторванностью.
+1	Даже	_	_	_	_	_	_	_	Shift=1535
+2	оторванностью	_	_	_	_	_	_	_	Shift=1540|SpaceAfter=No
+3	.	_	_	_	_	_	_	_	Shift=1553
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p27
+# par_text = Основная их проблема – узость потенциальной аудитории.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p27-s1
+# text = Основная их проблема - узость потенциальной аудитории.
+1	Основная	_	_	_	_	_	_	_	Shift=1555
+2	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1761|RuCor_group_id=468143|RuCor_link_id=0|Shift=1564
+3	проблема	_	_	_	_	_	_	_	Shift=1567
+4	-	_	_	_	_	_	_	_	_
+5	узость	_	_	_	_	_	_	_	Shift=1578
+6	потенциальной	_	_	_	_	_	_	_	Shift=1585
+7	аудитории	_	_	_	_	_	_	_	Shift=1599|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=1608
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p28
+# par_text = Западные образцы, которых, кстати, во много раз больше, но это отдельная тема, – адресованы самым разным зрителям.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p28-s1
+# text = Западные образцы, которых, кстати, во много раз больше, но это отдельная тема, - адресованы самым разным зрителям.
+1	Западные	_	_	_	_	_	_	_	RuCor_chain_id=1762|RuCor_group_id=468145|Shift=1610
+2	образцы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1762|RuCor_group_id=468145|RuCor_link_id=0|Shift=1619|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1626
+4	которых	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=1762|RuCor_group_id=468147|RuCor_link_id=468145|Shift=1628|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1635
+6	кстати	_	_	_	_	_	_	_	Shift=1637|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=1643
+8	во	_	_	_	_	_	_	_	Shift=1645
+9	много	_	_	_	_	_	_	_	Shift=1648
+10	раз	_	_	_	_	_	_	_	Shift=1654
+11	больше	_	_	_	_	_	_	_	Shift=1658|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=1664
+13	но	_	_	_	_	_	_	_	Shift=1666
+14	это	_	_	_	_	_	_	_	Shift=1669
+15	отдельная	_	_	_	_	_	_	_	Shift=1673
+16	тема	_	_	_	_	_	_	_	Shift=1683|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=1687
+18	-	_	_	_	_	_	_	_	_
+19	адресованы	_	_	_	_	_	_	_	Shift=1691
+20	самым	_	_	_	_	_	_	_	Shift=1702
+21	разным	_	_	_	_	_	_	_	Shift=1708
+22	зрителям	_	_	_	_	_	_	_	Shift=1715|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=1723
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p29
+# par_text = И по возрасту, и по вкусовым пристрастиям.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p29-s1
+# text = И по возрасту, и по вкусовым пристрастиям.
+1	И	_	_	_	_	_	_	_	Shift=1725
+2	по	_	_	_	_	_	_	_	Shift=1727
+3	возрасту	_	_	_	_	_	_	_	Shift=1730|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1738
+5	и	_	_	_	_	_	_	_	Shift=1740
+6	по	_	_	_	_	_	_	_	Shift=1742
+7	вкусовым	_	_	_	_	_	_	_	Shift=1745
+8	пристрастиям	_	_	_	_	_	_	_	Shift=1754|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=1766
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p30
+# par_text = Наши же режиссеры-сценаристы сочиняют свое кино исключительно для молоденьких девочек.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p30-s1
+# text = Наши же режиссеры - сценаристы сочиняют свое кино исключительно для молоденьких девочек.
+1	Наши	_	_	_	_	_	_	_	RuCor_chain_id=1764|RuCor_group_id=468149|Shift=1768
+2	же	_	_	_	_	_	_	_	RuCor_chain_id=1764|RuCor_group_id=468149|Shift=1773
+3	режиссеры	_	_	_	_	_	_	_	RuCor_chain_id=1764|RuCor_group_id=468149|Shift=1776
+4	-	_	_	_	_	_	_	_	RuCor_chain_id=1764|RuCor_group_id=468149|Shift=1785
+5	сценаристы	_	_	_	_	_	_	_	RuCor_chain_id=1764|RuCor_group_id=468149|Shift=1786
+6	сочиняют	_	_	_	_	_	_	_	Shift=1797
+7	свое	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=1764|RuCor_group_id=468150|RuCor_link_id=468149|Shift=1806
+8	кино	_	_	_	_	_	_	_	Shift=1811
+9	исключительно	_	_	_	_	_	_	_	Shift=1816
+10	для	_	_	_	_	_	_	_	Shift=1830
+11	молоденьких	_	_	_	_	_	_	_	RuCor_chain_id=1765|RuCor_group_id=468151|Shift=1834
+12	девочек	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1765|RuCor_group_id=468151|RuCor_link_id=0|Shift=1846|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=1853
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p31
+# par_text = Даже их представляя похожими.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p31-s1
+# text = Даже их представляя похожими.
+1	Даже	_	_	_	_	_	_	_	Shift=1855
+2	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1765|RuCor_group_id=468154|RuCor_link_id=468151|Shift=1860
+3	представляя	_	_	_	_	_	_	_	Shift=1863
+4	похожими	_	_	_	_	_	_	_	Shift=1875|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=1883
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p32
+# par_text = Перебарщивают с милыми глупостями.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p32-s1
+# text = Перебарщивают с милыми глупостями.
+1	Перебарщивают	_	_	_	_	_	_	_	Shift=1885
+2	с	_	_	_	_	_	_	_	Shift=1899
+3	милыми	_	_	_	_	_	_	_	Shift=1901
+4	глупостями	_	_	_	_	_	_	_	Shift=1908|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=1918
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p33
+# par_text = Пересахаривают.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p33-s1
+# text = Пересахаривают.
+1	Пересахаривают	_	_	_	_	_	_	_	Shift=1920|SpaceAfter=No
+2	.	_	_	_	_	_	_	_	Shift=1934
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p34
+# par_text = И сюжеты, и герои-героини такие сказочные, что им не веришь.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p34-s1
+# text = И сюжеты, и герои - героини такие сказочные, что им не веришь.
+1	И	_	_	_	_	_	_	_	Shift=1936
+2	сюжеты	_	_	_	_	_	_	_	Shift=1938|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1944
+4	и	_	_	_	_	_	_	_	Shift=1946
+5	герои	_	_	_	_	_	_	_	RuCor_chain_id=1767|RuCor_group_id=468155|Shift=1948
+6	-	_	_	_	_	_	_	_	RuCor_chain_id=1767|RuCor_group_id=468155|Shift=1953
+7	героини	_	_	_	_	_	_	_	RuCor_chain_id=1767|RuCor_group_id=468155|Shift=1954
+8	такие	_	_	_	_	_	_	_	Shift=1962
+9	сказочные	_	_	_	_	_	_	_	Shift=1968|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=1977
+11	что	_	_	_	_	_	_	_	Shift=1979
+12	им	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1767|RuCor_group_id=468156|RuCor_link_id=468155|Shift=1983
+13	не	_	_	_	_	_	_	_	Shift=1986
+14	веришь	_	_	_	_	_	_	_	Shift=1989|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=1995
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p35
+# par_text = Все идеально.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p35-s1
+# text = Все идеально.
+1	Все	_	_	_	_	_	_	_	Shift=1997
+2	идеально	_	_	_	_	_	_	_	Shift=2001|SpaceAfter=No
+3	.	_	_	_	_	_	_	_	Shift=2009
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p36
+# par_text = И злодеи не злые, и разлучники благородные.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p36-s1
+# text = И злодеи не злые, и разлучники благородные.
+1	И	_	_	_	_	_	_	_	Shift=2011
+2	злодеи	_	_	_	_	_	_	_	Shift=2013
+3	не	_	_	_	_	_	_	_	Shift=2020
+4	злые	_	_	_	_	_	_	_	Shift=2023|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=2027
+6	и	_	_	_	_	_	_	_	Shift=2029
+7	разлучники	_	_	_	_	_	_	_	Shift=2031
+8	благородные	_	_	_	_	_	_	_	Shift=2042|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=2053
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p37
+# par_text = По улицам бродят феи.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p37-s1
+# text = По улицам бродят феи.
+1	По	_	_	_	_	_	_	_	Shift=2055
+2	улицам	_	_	_	_	_	_	_	Shift=2058
+3	бродят	_	_	_	_	_	_	_	Shift=2065
+4	феи	_	_	_	_	_	_	_	Shift=2072|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=2075
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p38
+# par_text = Юноши – сплошь красавцы.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p38-s1
+# text = Юноши - сплошь красавцы.
+1	Юноши	_	_	_	_	_	_	_	Shift=2077
+2	-	_	_	_	_	_	_	_	_
+3	сплошь	_	_	_	_	_	_	_	Shift=2085
+4	красавцы	_	_	_	_	_	_	_	Shift=2092|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=2100
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p39
+# par_text = А героини свято верят в чудесную силу новой прически и спокойно бродят в одиночестве по ночному городу.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p39-s1
+# text = А героини свято верят в чудесную силу новой прически и спокойно бродят в одиночестве по ночному городу.
+1	А	_	_	_	_	_	_	_	Shift=2102
+2	героини	_	_	_	_	_	_	_	Shift=2104
+3	свято	_	_	_	_	_	_	_	Shift=2112
+4	верят	_	_	_	_	_	_	_	Shift=2118
+5	в	_	_	_	_	_	_	_	Shift=2124
+6	чудесную	_	_	_	_	_	_	_	Shift=2126
+7	силу	_	_	_	_	_	_	_	Shift=2135
+8	новой	_	_	_	_	_	_	_	Shift=2140
+9	прически	_	_	_	_	_	_	_	Shift=2146
+10	и	_	_	_	_	_	_	_	Shift=2155
+11	спокойно	_	_	_	_	_	_	_	Shift=2157
+12	бродят	_	_	_	_	_	_	_	Shift=2166
+13	в	_	_	_	_	_	_	_	Shift=2173
+14	одиночестве	_	_	_	_	_	_	_	Shift=2175
+15	по	_	_	_	_	_	_	_	Shift=2187
+16	ночному	_	_	_	_	_	_	_	Shift=2190
+17	городу	_	_	_	_	_	_	_	Shift=2198|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=2204
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p40
+# par_text = Блеск и счастье.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p40-s1
+# text = Блеск и счастье.
+1	Блеск	_	_	_	_	_	_	_	Shift=2206
+2	и	_	_	_	_	_	_	_	Shift=2212
+3	счастье	_	_	_	_	_	_	_	Shift=2214|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=2221
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p41
+# par_text = Сливочный крем и блестки.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p41-s1
+# text = Сливочный крем и блестки.
+1	Сливочный	_	_	_	_	_	_	_	Shift=2223
+2	крем	_	_	_	_	_	_	_	Shift=2233
+3	и	_	_	_	_	_	_	_	Shift=2238
+4	блестки	_	_	_	_	_	_	_	Shift=2240|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=2247
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p42
+# par_text = Реальность не присутствует даже в качестве приправы.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p42-s1
+# text = Реальность не присутствует даже в качестве приправы.
+1	Реальность	_	_	_	_	_	_	_	Shift=2249
+2	не	_	_	_	_	_	_	_	Shift=2260
+3	присутствует	_	_	_	_	_	_	_	Shift=2263
+4	даже	_	_	_	_	_	_	_	Shift=2276
+5	в	_	_	_	_	_	_	_	Shift=2281
+6	качестве	_	_	_	_	_	_	_	Shift=2283
+7	приправы	_	_	_	_	_	_	_	Shift=2292|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=2300
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p43
+# par_text = В результате, глядя на все это, совершенно не испытываешь эмоций.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p43-s1
+# text = В результате, глядя на все это, совершенно не испытываешь эмоций.
+1	В	_	_	_	_	_	_	_	Shift=2302
+2	результате	_	_	_	_	_	_	_	Shift=2304|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=2314
+4	глядя	_	_	_	_	_	_	_	Shift=2316
+5	на	_	_	_	_	_	_	_	Shift=2322
+6	все	_	_	_	_	_	_	_	Shift=2325
+7	это	_	_	_	_	_	_	_	Shift=2329|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=2332
+9	совершенно	_	_	_	_	_	_	_	Shift=2334
+10	не	_	_	_	_	_	_	_	Shift=2345
+11	испытываешь	_	_	_	_	_	_	_	Shift=2348
+12	эмоций	_	_	_	_	_	_	_	Shift=2360|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=2366
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p44
+# par_text = И кино, нацеленное на извлечение чувств из зрителя, наоборот, все чувства замораживает.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p44-s1
+# text = И кино, нацеленное на извлечение чувств из зрителя, наоборот, все чувства замораживает.
+1	И	_	_	_	_	_	_	_	Shift=2368
+2	кино	_	_	_	_	_	_	_	Shift=2370|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=2374
+4	нацеленное	_	_	_	_	_	_	_	Shift=2376
+5	на	_	_	_	_	_	_	_	Shift=2387
+6	извлечение	_	_	_	_	_	_	_	Shift=2390
+7	чувств	_	_	_	_	_	_	_	Shift=2401
+8	из	_	_	_	_	_	_	_	Shift=2408
+9	зрителя	_	_	_	_	_	_	_	Shift=2411|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=2418
+11	наоборот	_	_	_	_	_	_	_	Shift=2420|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=2428
+13	все	_	_	_	_	_	_	_	Shift=2430
+14	чувства	_	_	_	_	_	_	_	Shift=2434
+15	замораживает	_	_	_	_	_	_	_	Shift=2442|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=2454
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p45
+# par_text = Понятно, что ромком должен приукрашивать жизнь.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p45-s1
+# text = Понятно, что ромком должен приукрашивать жизнь.
+1	Понятно	_	_	_	_	_	_	_	Shift=2456|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=2463
+3	что	_	_	_	_	_	_	_	Shift=2465
+4	ромком	_	_	_	_	_	_	_	Shift=2469
+5	должен	_	_	_	_	_	_	_	Shift=2476
+6	приукрашивать	_	_	_	_	_	_	_	Shift=2483
+7	жизнь	_	_	_	_	_	_	_	Shift=2497|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=2502
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p46
+# par_text = Но совсем прощаться с достоверностью не годится.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p46-s1
+# text = Но совсем прощаться с достоверностью не годится.
+1	Но	_	_	_	_	_	_	_	Shift=2504
+2	совсем	_	_	_	_	_	_	_	Shift=2507
+3	прощаться	_	_	_	_	_	_	_	Shift=2514
+4	с	_	_	_	_	_	_	_	Shift=2524
+5	достоверностью	_	_	_	_	_	_	_	Shift=2526
+6	не	_	_	_	_	_	_	_	Shift=2541
+7	годится	_	_	_	_	_	_	_	Shift=2544|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=2551
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p47
+# par_text = Очарованные
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p47-s1
+# text = Очарованные
+1	Очарованные	_	_	_	_	_	_	_	Shift=2553
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p48
+# par_text = Как правило, местом действия «новые романтики» выбирают Петербург или Москву.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p48-s1
+# text = Как правило, местом действия ``новые романтики'' выбирают Петербург или Москву.
+1	Как	_	_	_	_	_	_	_	Shift=2565
+2	правило	_	_	_	_	_	_	_	Shift=2569|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=2576
+4	местом	_	_	_	_	_	_	_	Shift=2578
+5	действия	_	_	_	_	_	_	_	Shift=2585
+6	``	_	_	_	_	_	_	_	RuCor_chain_id=1769|RuCor_group_id=468158|Shift=2594|SpaceAfter=No
+7	новые	_	_	_	_	_	_	_	RuCor_chain_id=1769|RuCor_group_id=468158|Shift=2595
+8	романтики	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1769|RuCor_group_id=468158|RuCor_link_id=0|Shift=2601|SpaceAfter=No
+9	''	_	_	_	_	_	_	_	RuCor_chain_id=1769|RuCor_group_id=468158|Shift=2610
+10	выбирают	_	_	_	_	_	_	_	Shift=2612
+11	Петербург	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1770|RuCor_group_id=468159|RuCor_link_id=0|Shift=2621
+12	или	_	_	_	_	_	_	_	Shift=2631
+13	Москву	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1771|RuCor_group_id=468160|RuCor_link_id=0|Shift=2635|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=2641
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p49
+# par_text = Видимо, по их мнению, с людьми из других городов не может произойти ничего чувствительно-сентиментального.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p49-s1
+# text = Видимо, по их мнению, с людьми из других городов не может произойти ничего чувствительно-сентиментального.
+1	Видимо	_	_	_	_	_	_	_	Shift=2643|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=2649
+3	по	_	_	_	_	_	_	_	Shift=2651
+4	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=1769|RuCor_group_id=468162|RuCor_link_id=468158|Shift=2654
+5	мнению	_	_	_	_	_	_	_	Shift=2657|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=2663
+7	с	_	_	_	_	_	_	_	Shift=2665
+8	людьми	_	_	_	_	_	_	_	Shift=2667
+9	из	_	_	_	_	_	_	_	Shift=2674
+10	других	_	_	_	_	_	_	_	Shift=2677
+11	городов	_	_	_	_	_	_	_	Shift=2684
+12	не	_	_	_	_	_	_	_	Shift=2692
+13	может	_	_	_	_	_	_	_	Shift=2695
+14	произойти	_	_	_	_	_	_	_	Shift=2701
+15	ничего	_	_	_	_	_	_	_	Shift=2711
+16	чувствительно-сентиментального	_	_	_	_	_	_	_	Shift=2718|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=2748
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p50
+# par_text = Лирика оказывается неотделима от мегаполисного глянца.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p50-s1
+# text = Лирика оказывается неотделима от мегаполисного глянца.
+1	Лирика	_	_	_	_	_	_	_	Shift=2750
+2	оказывается	_	_	_	_	_	_	_	Shift=2757
+3	неотделима	_	_	_	_	_	_	_	Shift=2769
+4	от	_	_	_	_	_	_	_	Shift=2780
+5	мегаполисного	_	_	_	_	_	_	_	Shift=2783
+6	глянца	_	_	_	_	_	_	_	Shift=2797|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=2803
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p51
+# par_text = Широких улиц, мостов с огнями, больших магазинов.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p51-s1
+# text = Широких улиц, мостов с огнями, больших магазинов.
+1	Широких	_	_	_	_	_	_	_	Shift=2805
+2	улиц	_	_	_	_	_	_	_	Shift=2813|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=2817
+4	мостов	_	_	_	_	_	_	_	Shift=2819
+5	с	_	_	_	_	_	_	_	Shift=2826
+6	огнями	_	_	_	_	_	_	_	Shift=2828|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=2834
+8	больших	_	_	_	_	_	_	_	Shift=2836
+9	магазинов	_	_	_	_	_	_	_	Shift=2844|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=2853
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p52
+# par_text = Кафе.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p52-s1
+# text = Кафе.
+1	Кафе	_	_	_	_	_	_	_	Shift=2855|SpaceAfter=No
+2	.	_	_	_	_	_	_	_	Shift=2859
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p53
+# par_text = Нарядов.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p53-s1
+# text = Нарядов.
+1	Нарядов	_	_	_	_	_	_	_	Shift=2861|SpaceAfter=No
+2	.	_	_	_	_	_	_	_	Shift=2868
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p54
+# par_text = Мобильных телефонов.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p54-s1
+# text = Мобильных телефонов.
+1	Мобильных	_	_	_	_	_	_	_	Shift=2870
+2	телефонов	_	_	_	_	_	_	_	Shift=2880|SpaceAfter=No
+3	.	_	_	_	_	_	_	_	Shift=2889
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p55
+# par_text = Денег, в конце концов.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p55-s1
+# text = Денег, в конце концов.
+1	Денег	_	_	_	_	_	_	_	Shift=2891|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=2896
+3	в	_	_	_	_	_	_	_	Shift=2898
+4	конце	_	_	_	_	_	_	_	Shift=2900
+5	концов	_	_	_	_	_	_	_	Shift=2906|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=2912
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p56
+# par_text = С Петербургом ситуация удачнее: мрачный, красивый, очень атмосферный город одним присутствием в кадре настраивает на нужную волну.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p56-s1
+# text = С Петербургом ситуация удачнее: мрачный, красивый, очень атмосферный город одним присутствием в кадре настраивает на нужную волну.
+1	С	_	_	_	_	_	_	_	Shift=2914
+2	Петербургом	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1770|RuCor_group_id=468163|RuCor_link_id=468159|Shift=2916
+3	ситуация	_	_	_	_	_	_	_	Shift=2928
+4	удачнее	_	_	_	_	_	_	_	Shift=2937|SpaceAfter=No
+5	:	_	_	_	_	_	_	_	Shift=2944
+6	мрачный	_	_	_	_	_	_	_	RuCor_chain_id=1770|RuCor_group_id=468164|Shift=2946|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	RuCor_chain_id=1770|RuCor_group_id=468164|Shift=2953
+8	красивый	_	_	_	_	_	_	_	RuCor_chain_id=1770|RuCor_group_id=468164|Shift=2955|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	RuCor_chain_id=1770|RuCor_group_id=468164|Shift=2963
+10	очень	_	_	_	_	_	_	_	RuCor_chain_id=1770|RuCor_group_id=468164|Shift=2965
+11	атмосферный	_	_	_	_	_	_	_	RuCor_chain_id=1770|RuCor_group_id=468164|Shift=2971
+12	город	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1770|RuCor_group_id=468164|RuCor_link_id=468163|Shift=2983
+13	одним	_	_	_	_	_	_	_	Shift=2989
+14	присутствием	_	_	_	_	_	_	_	Shift=2995
+15	в	_	_	_	_	_	_	_	Shift=3008
+16	кадре	_	_	_	_	_	_	_	Shift=3010
+17	настраивает	_	_	_	_	_	_	_	Shift=3016
+18	на	_	_	_	_	_	_	_	Shift=3028
+19	нужную	_	_	_	_	_	_	_	Shift=3031
+20	волну	_	_	_	_	_	_	_	Shift=3038|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=3043
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p57
+# par_text = Очаровывает.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p57-s1
+# text = Очаровывает.
+1	Очаровывает	_	_	_	_	_	_	_	Shift=3045|SpaceAfter=No
+2	.	_	_	_	_	_	_	_	Shift=3056
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p58
+# par_text = Даже вне зависимости от того, что на его фоне вытворяют герои.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p58-s1
+# text = Даже вне зависимости от того, что на его фоне вытворяют герои.
+1	Даже	_	_	_	_	_	_	_	Shift=3058
+2	вне	_	_	_	_	_	_	_	Shift=3063
+3	зависимости	_	_	_	_	_	_	_	Shift=3067
+4	от	_	_	_	_	_	_	_	Shift=3079
+5	того	_	_	_	_	_	_	_	Shift=3082|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=3086
+7	что	_	_	_	_	_	_	_	Shift=3088
+8	на	_	_	_	_	_	_	_	Shift=3092
+9	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1770|RuCor_group_id=468165|RuCor_link_id=468164|Shift=3095
+10	фоне	_	_	_	_	_	_	_	Shift=3099
+11	вытворяют	_	_	_	_	_	_	_	Shift=3104
+12	герои	_	_	_	_	_	_	_	Shift=3114|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=3119
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p59
+# par_text = Москва же романтического ореола лишена.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p59-s1
+# text = Москва же романтического ореола лишена.
+1	Москва	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1771|RuCor_group_id=468166|RuCor_link_id=468160|Shift=3121
+2	же	_	_	_	_	_	_	_	Shift=3128
+3	романтического	_	_	_	_	_	_	_	Shift=3131
+4	ореола	_	_	_	_	_	_	_	Shift=3146
+5	лишена	_	_	_	_	_	_	_	Shift=3153|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=3159
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p60
+# par_text = Дикий ритм жизни, все большее архитектурное обезличивание.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p60-s1
+# text = Дикий ритм жизни, все большее архитектурное обезличивание.
+1	Дикий	_	_	_	_	_	_	_	Shift=3161
+2	ритм	_	_	_	_	_	_	_	Shift=3167
+3	жизни	_	_	_	_	_	_	_	Shift=3172|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=3177
+5	все	_	_	_	_	_	_	_	Shift=3179
+6	большее	_	_	_	_	_	_	_	Shift=3183
+7	архитектурное	_	_	_	_	_	_	_	Shift=3191
+8	обезличивание	_	_	_	_	_	_	_	Shift=3205|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=3218
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p61
+# par_text = Скорости.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p61-s1
+# text = Скорости.
+1	Скорости	_	_	_	_	_	_	_	Shift=3220|SpaceAfter=No
+2	.	_	_	_	_	_	_	_	Shift=3228
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p62
+# par_text = Жестокости.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p62-s1
+# text = Жестокости.
+1	Жестокости	_	_	_	_	_	_	_	Shift=3230|SpaceAfter=No
+2	.	_	_	_	_	_	_	_	Shift=3240
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p63
+# par_text = Какие уж тут любовные истории.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p63-s1
+# text = Какие уж тут любовные истории.
+1	Какие	_	_	_	_	_	_	_	Shift=3242
+2	уж	_	_	_	_	_	_	_	Shift=3248
+3	тут	_	_	_	_	_	_	_	Shift=3251
+4	любовные	_	_	_	_	_	_	_	RuCor_chain_id=1772|RuCor_group_id=468167|Shift=3255
+5	истории	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1772|RuCor_group_id=468167|RuCor_link_id=0|Shift=3264|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=3271
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p64
+# par_text = Если они и возникают, то хиленькие и слабенькие, как больные дети.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p64-s1
+# text = Если они и возникают, то хиленькие и слабенькие, как больные дети.
+1	Если	_	_	_	_	_	_	_	Shift=3273
+2	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1772|RuCor_group_id=468170|RuCor_link_id=468167|Shift=3278
+3	и	_	_	_	_	_	_	_	Shift=3282
+4	возникают	_	_	_	_	_	_	_	Shift=3284|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=3293
+6	то	_	_	_	_	_	_	_	Shift=3295
+7	хиленькие	_	_	_	_	_	_	_	Shift=3298
+8	и	_	_	_	_	_	_	_	Shift=3308
+9	слабенькие	_	_	_	_	_	_	_	Shift=3310|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=3320
+11	как	_	_	_	_	_	_	_	Shift=3322
+12	больные	_	_	_	_	_	_	_	Shift=3326
+13	дети	_	_	_	_	_	_	_	Shift=3334|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=3338
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p65
+# par_text = Петербург воспет двумя наиболее успешными ромкомами последних лет – «Питером FM» Оксаны Бычковой и «В ожидании чуда» Евгения Бедарева.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p65-s1
+# text = Петербург воспет двумя наиболее успешными ромкомами последних лет - ``Питером FM'' Оксаны Бычковой и ``В ожидании чуда'' Евгения Бедарева.
+1	Петербург	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1770|RuCor_group_id=468171|RuCor_link_id=468163|Shift=3340
+2	воспет	_	_	_	_	_	_	_	Shift=3350
+3	двумя	_	_	_	_	_	_	_	Shift=3357
+4	наиболее	_	_	_	_	_	_	_	Shift=3363
+5	успешными	_	_	_	_	_	_	_	Shift=3372
+6	ромкомами	_	_	_	_	_	_	_	Shift=3382
+7	последних	_	_	_	_	_	_	_	Shift=3392
+8	лет	_	_	_	_	_	_	_	Shift=3402
+9	-	_	_	_	_	_	_	_	_
+10	``	_	_	_	_	_	_	_	RuCor_chain_id=1774|RuCor_group_id=468172|Shift=3408|SpaceAfter=No
+11	Питером	_	_	_	_	_	_	_	RuCor_chain_id=1774|RuCor_group_id=468172|Shift=3409
+12	FM	_	_	_	_	_	_	_	RuCor_chain_id=1774|RuCor_group_id=468172|Shift=3417|SpaceAfter=No
+13	''	_	_	_	_	_	_	_	RuCor_chain_id=1774|RuCor_group_id=468172|Shift=3419
+14	Оксаны	_	_	_	_	_	_	_	RuCor_chain_id=1775|RuCor_group_id=468173|Shift=3421
+15	Бычковой	_	_	_	_	_	_	_	RuCor_chain_id=1775|RuCor_group_id=468173|Shift=3428
+16	и	_	_	_	_	_	_	_	Shift=3437
+17	``	_	_	_	_	_	_	_	RuCor_chain_id=1776|RuCor_group_id=468174|Shift=3439|SpaceAfter=No
+18	В	_	_	_	_	_	_	_	RuCor_chain_id=1776|RuCor_group_id=468174|Shift=3440
+19	ожидании	_	_	_	_	_	_	_	RuCor_chain_id=1776|RuCor_group_id=468174|Shift=3442
+20	чуда	_	_	_	_	_	_	_	RuCor_chain_id=1776|RuCor_group_id=468174|Shift=3451|SpaceAfter=No
+21	''	_	_	_	_	_	_	_	RuCor_chain_id=1776|RuCor_group_id=468174|Shift=3455
+22	Евгения	_	_	_	_	_	_	_	Shift=3457
+23	Бедарева	_	_	_	_	_	_	_	Shift=3465|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=3473
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p66
+# par_text = Перед этим была еще «Прогулка» Алексея Учителя, но поскольку там финал переворачивал всю историю вверх дном, фильм не подходит под этот жанр.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p66-s1
+# text = Перед этим была еще ``Прогулка'' Алексея Учителя, но поскольку там финал переворачивал всю историю вверх дном, фильм не подходит под этот жанр.
+1	Перед	_	_	_	_	_	_	_	Shift=3475
+2	этим	_	_	_	_	_	_	_	Shift=3481
+3	была	_	_	_	_	_	_	_	Shift=3486
+4	еще	_	_	_	_	_	_	_	Shift=3491
+5	``	_	_	_	_	_	_	_	Shift=3495|SpaceAfter=No
+6	Прогулка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1777|RuCor_group_id=468175|RuCor_link_id=0|Shift=3496|SpaceAfter=No
+7	''	_	_	_	_	_	_	_	RuCor_chain_id=1777|RuCor_group_id=468175|Shift=3504
+8	Алексея	_	_	_	_	_	_	_	RuCor_chain_id=1777|RuCor_group_id=468175|Shift=3506
+9	Учителя	_	_	_	_	_	_	_	RuCor_chain_id=1777|RuCor_group_id=468175|Shift=3514|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=3521
+11	но	_	_	_	_	_	_	_	Shift=3523
+12	поскольку	_	_	_	_	_	_	_	Shift=3526
+13	там	_	_	_	_	_	_	_	Shift=3536
+14	финал	_	_	_	_	_	_	_	Shift=3540
+15	переворачивал	_	_	_	_	_	_	_	Shift=3546
+16	всю	_	_	_	_	_	_	_	Shift=3560
+17	историю	_	_	_	_	_	_	_	Shift=3564
+18	вверх	_	_	_	_	_	_	_	Shift=3572
+19	дном	_	_	_	_	_	_	_	Shift=3578|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=3582
+21	фильм	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1777|RuCor_group_id=468176|RuCor_link_id=468175|Shift=3584
+22	не	_	_	_	_	_	_	_	Shift=3590
+23	подходит	_	_	_	_	_	_	_	Shift=3593
+24	под	_	_	_	_	_	_	_	Shift=3602
+25	этот	_	_	_	_	_	_	_	Shift=3606
+26	жанр	_	_	_	_	_	_	_	Shift=3611|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=3615
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p67
+# par_text = Он серьезнее.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p67-s1
+# text = Он серьезнее.
+1	Он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1777|RuCor_group_id=468177|RuCor_link_id=468175|Shift=3617
+2	серьезнее	_	_	_	_	_	_	_	Shift=3620|SpaceAfter=No
+3	.	_	_	_	_	_	_	_	Shift=3629
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p68
+# par_text = Фильм Бычковой, по-девичьи легкий, облачный, в меру веселый, вполне удался.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p68-s1
+# text = Фильм Бычковой, по-девичьи легкий, облачный, в меру веселый, вполне удался.
+1	Фильм	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1774|RuCor_group_id=468178|RuCor_link_id=468172|Shift=3631
+2	Бычковой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1775|RuCor_group_id=468179|RuCor_link_id=468173|Shift=3637|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	RuCor_chain_id=1774|RuCor_group_id=468178|Shift=3645
+4	по-девичьи	_	_	_	_	_	_	_	Shift=3647
+5	легкий	_	_	_	_	_	_	_	Shift=3658|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=3664
+7	облачный	_	_	_	_	_	_	_	Shift=3666|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=3674
+9	в	_	_	_	_	_	_	_	Shift=3676
+10	меру	_	_	_	_	_	_	_	Shift=3678
+11	веселый	_	_	_	_	_	_	_	Shift=3683|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=3690
+13	вполне	_	_	_	_	_	_	_	Shift=3692
+14	удался	_	_	_	_	_	_	_	Shift=3699|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=3705
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p69
+# par_text = От грамотно выстроенного визуального ряда (питерская романтика с окнами, выходящими на крышу, мостами и дворами-закоулками) до запоминающегося саундтрека.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p69-s1
+# text = От грамотно выстроенного визуального ряда (питерская романтика с окнами, выходящими на крышу, мостами и дворами - закоулками) до запоминающегося саундтрека.
+1	От	_	_	_	_	_	_	_	Shift=3707
+2	грамотно	_	_	_	_	_	_	_	Shift=3710
+3	выстроенного	_	_	_	_	_	_	_	Shift=3719
+4	визуального	_	_	_	_	_	_	_	Shift=3732
+5	ряда	_	_	_	_	_	_	_	Shift=3744
+6	(	_	_	_	_	_	_	_	Shift=3749|SpaceAfter=No
+7	питерская	_	_	_	_	_	_	_	Shift=3750
+8	романтика	_	_	_	_	_	_	_	Shift=3760
+9	с	_	_	_	_	_	_	_	Shift=3770
+10	окнами	_	_	_	_	_	_	_	Shift=3772|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=3778
+12	выходящими	_	_	_	_	_	_	_	Shift=3780
+13	на	_	_	_	_	_	_	_	Shift=3791
+14	крышу	_	_	_	_	_	_	_	Shift=3794|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=3799
+16	мостами	_	_	_	_	_	_	_	Shift=3801
+17	и	_	_	_	_	_	_	_	Shift=3809
+18	дворами	_	_	_	_	_	_	_	Shift=3811
+19	-	_	_	_	_	_	_	_	Shift=3818
+20	закоулками	_	_	_	_	_	_	_	Shift=3819|SpaceAfter=No
+21	)	_	_	_	_	_	_	_	Shift=3829
+22	до	_	_	_	_	_	_	_	Shift=3831
+23	запоминающегося	_	_	_	_	_	_	_	Shift=3834
+24	саундтрека	_	_	_	_	_	_	_	Shift=3850|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=3860
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p70
+# par_text = К тому же Бычкова собрала в картину отличных актеров разных поколений, которые радуют глаз качественной игрой.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p70-s1
+# text = К тому же Бычкова собрала в картину отличных актеров разных поколений, которые радуют глаз качественной игрой.
+1	К	_	_	_	_	_	_	_	Shift=3862
+2	тому	_	_	_	_	_	_	_	Shift=3864
+3	же	_	_	_	_	_	_	_	Shift=3869
+4	Бычкова	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1775|RuCor_group_id=468180|RuCor_link_id=468173|Shift=3872
+5	собрала	_	_	_	_	_	_	_	Shift=3880
+6	в	_	_	_	_	_	_	_	Shift=3888
+7	картину	_	_	_	_	_	_	_	Shift=3890
+8	отличных	_	_	_	_	_	_	_	RuCor_chain_id=1778|RuCor_group_id=468181|Shift=3898
+9	актеров	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1778|RuCor_group_id=468181|RuCor_link_id=0|Shift=3907
+10	разных	_	_	_	_	_	_	_	RuCor_chain_id=1778|RuCor_group_id=468181|Shift=3915
+11	поколений	_	_	_	_	_	_	_	RuCor_chain_id=1778|RuCor_group_id=468181|Shift=3922|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=3931
+13	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=1778|RuCor_group_id=468182|RuCor_link_id=468181|Shift=3933
+14	радуют	_	_	_	_	_	_	_	Shift=3941
+15	глаз	_	_	_	_	_	_	_	Shift=3948
+16	качественной	_	_	_	_	_	_	_	Shift=3953
+17	игрой	_	_	_	_	_	_	_	Shift=3966|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=3971
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p71
+# par_text = Да и атмосфера правильная.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p71-s1
+# text = Да и атмосфера правильная.
+1	Да	_	_	_	_	_	_	_	Shift=3973
+2	и	_	_	_	_	_	_	_	Shift=3976
+3	атмосфера	_	_	_	_	_	_	_	Shift=3978
+4	правильная	_	_	_	_	_	_	_	Shift=3988|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=3998
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p72
+# par_text = С «Чудом» не все так радужно.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p72-s1
+# text = С ``Чудом'' не все так радужно.
+1	С	_	_	_	_	_	_	_	Shift=4000
+2	``	_	_	_	_	_	_	_	RuCor_chain_id=1776|RuCor_group_id=468183|Shift=4002|SpaceAfter=No
+3	Чудом	_	_	_	_	_	_	_	RuCor_chain_id=1776|RuCor_group_id=468183|Shift=4003|SpaceAfter=No
+4	''	_	_	_	_	_	_	_	RuCor_chain_id=1776|RuCor_group_id=468183|Shift=4008
+5	не	_	_	_	_	_	_	_	Shift=4010
+6	все	_	_	_	_	_	_	_	Shift=4013
+7	так	_	_	_	_	_	_	_	Shift=4017
+8	радужно	_	_	_	_	_	_	_	Shift=4021|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=4028
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p73
+# par_text = И излишеств там хватило, и настроенческих перехлестов, и откровенных сценарных глупостей.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p73-s1
+# text = И излишеств там хватило, и настроенческих перехлестов, и откровенных сценарных глупостей.
+1	И	_	_	_	_	_	_	_	Shift=4030
+2	излишеств	_	_	_	_	_	_	_	Shift=4032
+3	там	_	_	_	_	_	_	_	Shift=4042
+4	хватило	_	_	_	_	_	_	_	Shift=4046|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=4053
+6	и	_	_	_	_	_	_	_	Shift=4055
+7	настроенческих	_	_	_	_	_	_	_	Shift=4057
+8	перехлестов	_	_	_	_	_	_	_	Shift=4072|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=4083
+10	и	_	_	_	_	_	_	_	Shift=4085
+11	откровенных	_	_	_	_	_	_	_	Shift=4087
+12	сценарных	_	_	_	_	_	_	_	Shift=4099
+13	глупостей	_	_	_	_	_	_	_	Shift=4109|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=4118
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p74
+# par_text = Зато повезло с исполнительницей главной роли: выпускница Щукинского училища Екатерина Копанова, рыжеволосая, сияющая девушка сделала добрую половину фильма.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p74-s1
+# text = Зато повезло с исполнительницей главной роли: выпускница Щукинского училища Екатерина Копанова, рыжеволосая, сияющая девушка сделала добрую половину фильма.
+1	Зато	_	_	_	_	_	_	_	Shift=4120
+2	повезло	_	_	_	_	_	_	_	Shift=4125
+3	с	_	_	_	_	_	_	_	Shift=4133
+4	исполнительницей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1779|RuCor_group_id=468184|RuCor_link_id=0|Shift=4135
+5	главной	_	_	_	_	_	_	_	RuCor_chain_id=1779|RuCor_group_id=468184|Shift=4152
+6	роли	_	_	_	_	_	_	_	RuCor_chain_id=1779|RuCor_group_id=468184|Shift=4160|SpaceAfter=No
+7	:	_	_	_	_	_	_	_	Shift=4164
+8	выпускница	_	_	_	_	_	_	_	RuCor_chain_id=1779|RuCor_group_id=468185|Shift=4166
+9	Щукинского	_	_	_	_	_	_	_	RuCor_chain_id=1779|RuCor_group_id=468185|Shift=4177
+10	училища	_	_	_	_	_	_	_	RuCor_chain_id=1779|RuCor_group_id=468185|Shift=4188
+11	Екатерина	_	_	_	_	_	_	_	RuCor_chain_id=1779|RuCor_group_id=468185|Shift=4196
+12	Копанова	_	_	_	_	_	_	_	RuCor_chain_id=1779|RuCor_group_id=468185|Shift=4206|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=4214
+14	рыжеволосая	_	_	_	_	_	_	_	RuCor_chain_id=1780|RuCor_group_id=468186|Shift=4216|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	RuCor_chain_id=1780|RuCor_group_id=468186|Shift=4227
+16	сияющая	_	_	_	_	_	_	_	RuCor_chain_id=1780|RuCor_group_id=468186|Shift=4229
+17	девушка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=appo|RuCor_attrs_type=coref|RuCor_chain_id=1780|RuCor_group_id=468186|RuCor_link_id=0|Shift=4237
+18	сделала	_	_	_	_	_	_	_	Shift=4245
+19	добрую	_	_	_	_	_	_	_	Shift=4253
+20	половину	_	_	_	_	_	_	_	Shift=4260
+21	фильма	_	_	_	_	_	_	_	Shift=4269|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=4275
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p75
+# par_text = Попытку снять нечто романтично-веселое предприняла еще одна девушка-режиссер, Анна Меликян.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p75-s1
+# text = Попытку снять нечто романтично - веселое предприняла еще одна девушка - режиссер, Анна Меликян.
+1	Попытку	_	_	_	_	_	_	_	Shift=4277
+2	снять	_	_	_	_	_	_	_	Shift=4285
+3	нечто	_	_	_	_	_	_	_	Shift=4291
+4	романтично	_	_	_	_	_	_	_	Shift=4297
+5	-	_	_	_	_	_	_	_	Shift=4307
+6	веселое	_	_	_	_	_	_	_	Shift=4308
+7	предприняла	_	_	_	_	_	_	_	Shift=4316
+8	еще	_	_	_	_	_	_	_	RuCor_chain_id=1781|RuCor_group_id=468187|Shift=4328
+9	одна	_	_	_	_	_	_	_	RuCor_chain_id=1781|RuCor_group_id=468187|Shift=4332
+10	девушка	_	_	_	_	_	_	_	RuCor_chain_id=1781|RuCor_group_id=468187|Shift=4337
+11	-	_	_	_	_	_	_	_	RuCor_chain_id=1781|RuCor_group_id=468187|Shift=4344
+12	режиссер	_	_	_	_	_	_	_	RuCor_chain_id=1781|RuCor_group_id=468187|Shift=4345|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=4353
+14	Анна	_	_	_	_	_	_	_	RuCor_chain_id=1781|RuCor_group_id=468188|Shift=4355
+15	Меликян	_	_	_	_	_	_	_	RuCor_chain_id=1781|RuCor_group_id=468188|Shift=4360|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=4367
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p76
+# par_text = Ее «Русалка» претендует на некое исключительное место в ряду прошлогодних картин.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p76-s1
+# text = Ее ``Русалка'' претендует на некое исключительное место в ряду прошлогодних картин.
+1	Ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1782|RuCor_group_id=468190|RuCor_link_id=468188|Shift=4369
+2	``	_	_	_	_	_	_	_	RuCor_chain_id=1782|RuCor_group_id=468190|Shift=4372|SpaceAfter=No
+3	Русалка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1782|RuCor_group_id=468190|RuCor_link_id=0|Shift=4373|SpaceAfter=No
+4	''	_	_	_	_	_	_	_	RuCor_chain_id=1782|RuCor_group_id=468190|Shift=4380
+5	претендует	_	_	_	_	_	_	_	Shift=4382
+6	на	_	_	_	_	_	_	_	Shift=4393
+7	некое	_	_	_	_	_	_	_	Shift=4396
+8	исключительное	_	_	_	_	_	_	_	Shift=4402
+9	место	_	_	_	_	_	_	_	Shift=4417
+10	в	_	_	_	_	_	_	_	Shift=4423
+11	ряду	_	_	_	_	_	_	_	Shift=4425
+12	прошлогодних	_	_	_	_	_	_	_	Shift=4430
+13	картин	_	_	_	_	_	_	_	Shift=4443|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=4449
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p77
+# par_text = Однако после просмотра о фильме хочется поскорее забыть.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p77-s1
+# text = Однако после просмотра о фильме хочется поскорее забыть.
+1	Однако	_	_	_	_	_	_	_	Shift=4451
+2	после	_	_	_	_	_	_	_	Shift=4458
+3	просмотра	_	_	_	_	_	_	_	Shift=4464
+4	о	_	_	_	_	_	_	_	Shift=4474
+5	фильме	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1782|RuCor_group_id=468191|RuCor_link_id=468190|Shift=4476
+6	хочется	_	_	_	_	_	_	_	Shift=4483
+7	поскорее	_	_	_	_	_	_	_	Shift=4491
+8	забыть	_	_	_	_	_	_	_	Shift=4500|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=4506
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p78
+# par_text = История о диковатой девушке, сознательно молчавшей все детство и посещавшей школу для даунов, а по приезде в столицу работающей ходячей рекламой и красящей волосы в зеленый цвет, чтобы привлечь понравившегося парня, выглядит претенциозно и беспомощно.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p78-s1
+# text = История о диковатой девушке, сознательно молчавшей все детство и посещавшей школу для даунов, а по приезде в столицу работающей ходячей рекламой и красящей волосы в зеленый цвет, чтобы привлечь понравившегося парня, выглядит претенциозно и беспомощно.
+1	История	_	_	_	_	_	_	_	Shift=4508
+2	о	_	_	_	_	_	_	_	Shift=4516
+3	диковатой	_	_	_	_	_	_	_	Shift=4518
+4	девушке	_	_	_	_	_	_	_	Shift=4528|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=4535
+6	сознательно	_	_	_	_	_	_	_	Shift=4537
+7	молчавшей	_	_	_	_	_	_	_	Shift=4549
+8	все	_	_	_	_	_	_	_	Shift=4559
+9	детство	_	_	_	_	_	_	_	Shift=4563
+10	и	_	_	_	_	_	_	_	Shift=4571
+11	посещавшей	_	_	_	_	_	_	_	Shift=4573
+12	школу	_	_	_	_	_	_	_	Shift=4584
+13	для	_	_	_	_	_	_	_	Shift=4590
+14	даунов	_	_	_	_	_	_	_	Shift=4594|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=4600
+16	а	_	_	_	_	_	_	_	Shift=4602
+17	по	_	_	_	_	_	_	_	Shift=4604
+18	приезде	_	_	_	_	_	_	_	Shift=4607
+19	в	_	_	_	_	_	_	_	Shift=4615
+20	столицу	_	_	_	_	_	_	_	Shift=4617
+21	работающей	_	_	_	_	_	_	_	Shift=4625
+22	ходячей	_	_	_	_	_	_	_	Shift=4636
+23	рекламой	_	_	_	_	_	_	_	Shift=4644
+24	и	_	_	_	_	_	_	_	Shift=4653
+25	красящей	_	_	_	_	_	_	_	Shift=4655
+26	волосы	_	_	_	_	_	_	_	Shift=4664
+27	в	_	_	_	_	_	_	_	Shift=4671
+28	зеленый	_	_	_	_	_	_	_	Shift=4673
+29	цвет	_	_	_	_	_	_	_	Shift=4681|SpaceAfter=No
+30	,	_	_	_	_	_	_	_	Shift=4685
+31	чтобы	_	_	_	_	_	_	_	Shift=4687
+32	привлечь	_	_	_	_	_	_	_	Shift=4693
+33	понравившегося	_	_	_	_	_	_	_	Shift=4702
+34	парня	_	_	_	_	_	_	_	Shift=4717|SpaceAfter=No
+35	,	_	_	_	_	_	_	_	Shift=4722
+36	выглядит	_	_	_	_	_	_	_	Shift=4724
+37	претенциозно	_	_	_	_	_	_	_	Shift=4733
+38	и	_	_	_	_	_	_	_	Shift=4746
+39	беспомощно	_	_	_	_	_	_	_	Shift=4748|SpaceAfter=No
+40	.	_	_	_	_	_	_	_	Shift=4758
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p79
+# par_text = Сочинения про «милых чудачек» стоит оставить французам.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p79-s1
+# text = Сочинения про ``милых чудачек'' стоит оставить французам.
+1	Сочинения	_	_	_	_	_	_	_	Shift=4760
+2	про	_	_	_	_	_	_	_	Shift=4770
+3	``	_	_	_	_	_	_	_	Shift=4774|SpaceAfter=No
+4	милых	_	_	_	_	_	_	_	Shift=4775
+5	чудачек	_	_	_	_	_	_	_	Shift=4781|SpaceAfter=No
+6	''	_	_	_	_	_	_	_	Shift=4788
+7	стоит	_	_	_	_	_	_	_	Shift=4790
+8	оставить	_	_	_	_	_	_	_	Shift=4796
+9	французам	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1783|RuCor_group_id=468192|RuCor_link_id=0|Shift=4805|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=4814
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p80
+# par_text = У них это выходит органичнее.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p80-s1
+# text = У них это выходит органичнее.
+1	У	_	_	_	_	_	_	_	Shift=4816
+2	них	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1783|RuCor_group_id=468193|RuCor_link_id=468192|Shift=4818
+3	это	_	_	_	_	_	_	_	Shift=4822
+4	выходит	_	_	_	_	_	_	_	Shift=4826
+5	органичнее	_	_	_	_	_	_	_	Shift=4834|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=4844
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p81
+# par_text = Третий лишний
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p81-s1
+# text = Третий лишний
+1	Третий	_	_	_	_	_	_	_	Shift=4846
+2	лишний	_	_	_	_	_	_	_	Shift=4853
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p82
+# par_text = Ожидания в свете первой удачной картины – закономерность.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p82-s1
+# text = Ожидания в свете первой удачной картины - закономерность.
+1	Ожидания	_	_	_	_	_	_	_	Shift=4860
+2	в	_	_	_	_	_	_	_	Shift=4869
+3	свете	_	_	_	_	_	_	_	Shift=4871
+4	первой	_	_	_	_	_	_	_	Shift=4877
+5	удачной	_	_	_	_	_	_	_	Shift=4884
+6	картины	_	_	_	_	_	_	_	Shift=4892
+7	-	_	_	_	_	_	_	_	_
+8	закономерность	_	_	_	_	_	_	_	Shift=4902|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=4916
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p83
+# par_text = После «Питера FM» от Оксаны Бычковой хотели истории в этом же ключе.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p83-s1
+# text = После ``Питера FM'' от Оксаны Бычковой хотели истории в этом же ключе.
+1	После	_	_	_	_	_	_	_	Shift=4918
+2	``	_	_	_	_	_	_	_	RuCor_chain_id=1774|RuCor_group_id=468194|Shift=4924|SpaceAfter=No
+3	Питера	_	_	_	_	_	_	_	RuCor_chain_id=1774|RuCor_group_id=468194|Shift=4925
+4	FM	_	_	_	_	_	_	_	RuCor_chain_id=1774|RuCor_group_id=468194|Shift=4932|SpaceAfter=No
+5	''	_	_	_	_	_	_	_	Shift=4934
+6	от	_	_	_	_	_	_	_	Shift=4936
+7	Оксаны	_	_	_	_	_	_	_	RuCor_chain_id=1775|RuCor_group_id=468195|Shift=4939
+8	Бычковой	_	_	_	_	_	_	_	RuCor_chain_id=1775|RuCor_group_id=468195|Shift=4946
+9	хотели	_	_	_	_	_	_	_	Shift=4955
+10	истории	_	_	_	_	_	_	_	Shift=4962
+11	в	_	_	_	_	_	_	_	Shift=4970
+12	этом	_	_	_	_	_	_	_	Shift=4972
+13	же	_	_	_	_	_	_	_	Shift=4977
+14	ключе	_	_	_	_	_	_	_	Shift=4980|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=4985
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p84
+# par_text = И на первый взгляд в новом фильме «Плюс один», на днях вышедшем в прокат, себе она не изменила.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p84-s1
+# text = И на первый взгляд в новом фильме ``Плюс один'', на днях вышедшем в прокат, себе она не изменила.
+1	И	_	_	_	_	_	_	_	Shift=4987
+2	на	_	_	_	_	_	_	_	Shift=4989
+3	первый	_	_	_	_	_	_	_	Shift=4992
+4	взгляд	_	_	_	_	_	_	_	Shift=4999
+5	в	_	_	_	_	_	_	_	Shift=5006
+6	новом	_	_	_	_	_	_	_	RuCor_chain_id=1784|RuCor_group_id=468196|Shift=5008
+7	фильме	_	_	_	_	_	_	_	RuCor_chain_id=1784|RuCor_group_id=468196|Shift=5014
+8	``	_	_	_	_	_	_	_	RuCor_chain_id=1784|RuCor_group_id=468196|Shift=5021|SpaceAfter=No
+9	Плюс	_	_	_	_	_	_	_	RuCor_chain_id=1784|RuCor_group_id=468196|Shift=5022
+10	один	_	_	_	_	_	_	_	RuCor_chain_id=1784|RuCor_group_id=468196|Shift=5027|SpaceAfter=No
+11	''	_	_	_	_	_	_	_	RuCor_chain_id=1784|RuCor_group_id=468196|Shift=5031|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=5032
+13	на	_	_	_	_	_	_	_	Shift=5034
+14	днях	_	_	_	_	_	_	_	Shift=5037
+15	вышедшем	_	_	_	_	_	_	_	Shift=5042
+16	в	_	_	_	_	_	_	_	Shift=5051
+17	прокат	_	_	_	_	_	_	_	Shift=5053|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=5059
+19	себе	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=1775|RuCor_group_id=468197|RuCor_link_id=468195|Shift=5061
+20	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1775|RuCor_group_id=468198|RuCor_link_id=468197|Shift=5066
+21	не	_	_	_	_	_	_	_	Shift=5070
+22	изменила	_	_	_	_	_	_	_	Shift=5073|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=5081
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p85
+# par_text = Только вот интонацию уж больно облегчила.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p85-s1
+# text = Только вот интонацию уж больно облегчила.
+1	Только	_	_	_	_	_	_	_	Shift=5083
+2	вот	_	_	_	_	_	_	_	Shift=5090
+3	интонацию	_	_	_	_	_	_	_	Shift=5094
+4	уж	_	_	_	_	_	_	_	Shift=5104
+5	больно	_	_	_	_	_	_	_	Shift=5107
+6	облегчила	_	_	_	_	_	_	_	Shift=5114|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=5123
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p86
+# par_text = Получилось кино, тающее, как дымка, еще до окончания финальных титров.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p86-s1
+# text = Получилось кино, тающее, как дымка, еще до окончания финальных титров.
+1	Получилось	_	_	_	_	_	_	_	Shift=5125
+2	кино	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1784|RuCor_group_id=468199|RuCor_link_id=468196|Shift=5136|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=5140
+4	тающее	_	_	_	_	_	_	_	Shift=5142|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=5148
+6	как	_	_	_	_	_	_	_	Shift=5150
+7	дымка	_	_	_	_	_	_	_	Shift=5154|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=5159
+9	еще	_	_	_	_	_	_	_	Shift=5161
+10	до	_	_	_	_	_	_	_	Shift=5165
+11	окончания	_	_	_	_	_	_	_	Shift=5168
+12	финальных	_	_	_	_	_	_	_	Shift=5178
+13	титров	_	_	_	_	_	_	_	Shift=5188|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=5194
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p87
+# par_text = Героиня фильма, переводчица Маша, проводит дни напролет в плотном коконе серых свитеров и бумаг.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p87-s1
+# text = Героиня фильма, переводчица Маша, проводит дни напролет в плотном коконе серых свитеров и бумаг.
+1	Героиня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1785|RuCor_group_id=468200|RuCor_link_id=468202|Shift=5196
+2	фильма	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1784|RuCor_group_id=468201|RuCor_link_id=468199|Shift=5204|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=5210
+4	переводчица	_	_	_	_	_	_	_	RuCor_chain_id=1785|RuCor_group_id=468202|Shift=5212
+5	Маша	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=appo|RuCor_attrs_type=coref|RuCor_chain_id=1785|RuCor_group_id=468202|RuCor_link_id=0|Shift=5224|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=5228
+7	проводит	_	_	_	_	_	_	_	Shift=5230
+8	дни	_	_	_	_	_	_	_	Shift=5239
+9	напролет	_	_	_	_	_	_	_	Shift=5243
+10	в	_	_	_	_	_	_	_	Shift=5252
+11	плотном	_	_	_	_	_	_	_	Shift=5254
+12	коконе	_	_	_	_	_	_	_	Shift=5262
+13	серых	_	_	_	_	_	_	_	Shift=5269
+14	свитеров	_	_	_	_	_	_	_	Shift=5275
+15	и	_	_	_	_	_	_	_	Shift=5284
+16	бумаг	_	_	_	_	_	_	_	Shift=5286|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=5291
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p88
+# par_text = Тихий мирок, где никому больше нет места.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p88-s1
+# text = Тихий мирок, где никому больше нет места.
+1	Тихий	_	_	_	_	_	_	_	Shift=5293
+2	мирок	_	_	_	_	_	_	_	Shift=5299|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=5304
+4	где	_	_	_	_	_	_	_	Shift=5306
+5	никому	_	_	_	_	_	_	_	Shift=5310
+6	больше	_	_	_	_	_	_	_	Shift=5317
+7	нет	_	_	_	_	_	_	_	Shift=5324
+8	места	_	_	_	_	_	_	_	Shift=5328|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=5333
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p89
+# par_text = И предложение сопровождать в московской поездке английского кукольника и клоуна, приехавшего отобрать артистов для своего шоу, застает ее врасплох.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p89-s1
+# text = И предложение сопровождать в московской поездке английского кукольника и клоуна, приехавшего отобрать артистов для своего шоу, застает ее врасплох.
+1	И	_	_	_	_	_	_	_	Shift=5335
+2	предложение	_	_	_	_	_	_	_	Shift=5337
+3	сопровождать	_	_	_	_	_	_	_	Shift=5349
+4	в	_	_	_	_	_	_	_	Shift=5362
+5	московской	_	_	_	_	_	_	_	Shift=5364
+6	поездке	_	_	_	_	_	_	_	Shift=5375
+7	английского	_	_	_	_	_	_	_	RuCor_chain_id=1786|RuCor_group_id=468203|Shift=5383
+8	кукольника	_	_	_	_	_	_	_	RuCor_chain_id=1786|RuCor_group_id=468203|Shift=5395
+9	и	_	_	_	_	_	_	_	RuCor_chain_id=1786|RuCor_group_id=468203|Shift=5406
+10	клоуна	_	_	_	_	_	_	_	RuCor_chain_id=1786|RuCor_group_id=468203|Shift=5408|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=5414
+12	приехавшего	_	_	_	_	_	_	_	Shift=5416
+13	отобрать	_	_	_	_	_	_	_	Shift=5428
+14	артистов	_	_	_	_	_	_	_	Shift=5437
+15	для	_	_	_	_	_	_	_	Shift=5446
+16	своего	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1786|RuCor_group_id=468204|RuCor_link_id=468203|Shift=5450
+17	шоу	_	_	_	_	_	_	_	Shift=5457|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=5460
+19	застает	_	_	_	_	_	_	_	Shift=5462
+20	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1785|RuCor_group_id=468205|RuCor_link_id=468202|Shift=5470
+21	врасплох	_	_	_	_	_	_	_	Shift=5473|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=5481
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p90
+# par_text = Ведь такие серьезные люди от работы не отказываются.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p90-s1
+# text = Ведь такие серьезные люди от работы не отказываются.
+1	Ведь	_	_	_	_	_	_	_	Shift=5483
+2	такие	_	_	_	_	_	_	_	Shift=5488
+3	серьезные	_	_	_	_	_	_	_	Shift=5494
+4	люди	_	_	_	_	_	_	_	Shift=5504
+5	от	_	_	_	_	_	_	_	Shift=5509
+6	работы	_	_	_	_	_	_	_	Shift=5512
+7	не	_	_	_	_	_	_	_	Shift=5519
+8	отказываются	_	_	_	_	_	_	_	Shift=5522|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=5534
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p91
+# par_text = Но и за рабочие рамки не желают выходить.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p91-s1
+# text = Но и за рабочие рамки не желают выходить.
+1	Но	_	_	_	_	_	_	_	Shift=5536
+2	и	_	_	_	_	_	_	_	Shift=5539
+3	за	_	_	_	_	_	_	_	Shift=5541
+4	рабочие	_	_	_	_	_	_	_	Shift=5544
+5	рамки	_	_	_	_	_	_	_	Shift=5552
+6	не	_	_	_	_	_	_	_	Shift=5558
+7	желают	_	_	_	_	_	_	_	Shift=5561
+8	выходить	_	_	_	_	_	_	_	Shift=5568|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=5576
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p92
+# par_text = А приходится.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p92-s1
+# text = А приходится.
+1	А	_	_	_	_	_	_	_	Shift=5578
+2	приходится	_	_	_	_	_	_	_	Shift=5580|SpaceAfter=No
+3	.	_	_	_	_	_	_	_	Shift=5590
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p93
+# par_text = Потому что заезжий Том Гринвуд, существо редкостного обаяния и такой же редкой раскрепощенности, неожиданно ею, Машей, увлекается.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p93-s1
+# text = Потому что заезжий Том Гринвуд, существо редкостного обаяния и такой же редкой раскрепощенности, неожиданно ею, Машей, увлекается.
+1	Потому	_	_	_	_	_	_	_	Shift=5592
+2	что	_	_	_	_	_	_	_	Shift=5599
+3	заезжий	_	_	_	_	_	_	_	RuCor_chain_id=1786|RuCor_group_id=468206|Shift=5603
+4	Том	_	_	_	_	_	_	_	RuCor_chain_id=1786|RuCor_group_id=468206|Shift=5611
+5	Гринвуд	_	_	_	_	_	_	_	RuCor_chain_id=1786|RuCor_group_id=468206|Shift=5615|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=5622
+7	существо	_	_	_	_	_	_	_	Shift=5624
+8	редкостного	_	_	_	_	_	_	_	Shift=5633
+9	обаяния	_	_	_	_	_	_	_	Shift=5645
+10	и	_	_	_	_	_	_	_	Shift=5653
+11	такой	_	_	_	_	_	_	_	Shift=5655
+12	же	_	_	_	_	_	_	_	Shift=5661
+13	редкой	_	_	_	_	_	_	_	Shift=5664
+14	раскрепощенности	_	_	_	_	_	_	_	Shift=5671|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=5687
+16	неожиданно	_	_	_	_	_	_	_	Shift=5689
+17	ею	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1785|RuCor_group_id=468207|RuCor_link_id=468205|Shift=5700|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=5702
+19	Машей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=appo|RuCor_attrs_type=coref|RuCor_chain_id=1785|RuCor_group_id=468208|RuCor_link_id=468207|Shift=5704|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=5709
+21	увлекается	_	_	_	_	_	_	_	Shift=5711|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=5721
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p94
+# par_text = Несмотря на ее беспросветное занудство.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p94-s1
+# text = Несмотря на ее беспросветное занудство.
+1	Несмотря	_	_	_	_	_	_	_	Shift=5723
+2	на	_	_	_	_	_	_	_	Shift=5732
+3	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1785|RuCor_group_id=468209|RuCor_link_id=468208|Shift=5735
+4	беспросветное	_	_	_	_	_	_	_	Shift=5738
+5	занудство	_	_	_	_	_	_	_	Shift=5752|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=5761
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p95
+# par_text = А может, и не увлекается, а просто резвится.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p95-s1
+# text = А может, и не увлекается, а просто резвится.
+1	А	_	_	_	_	_	_	_	Shift=5763
+2	может	_	_	_	_	_	_	_	Shift=5765|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=5770
+4	и	_	_	_	_	_	_	_	Shift=5772
+5	не	_	_	_	_	_	_	_	Shift=5774
+6	увлекается	_	_	_	_	_	_	_	Shift=5777|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=5787
+8	а	_	_	_	_	_	_	_	Shift=5789
+9	просто	_	_	_	_	_	_	_	Shift=5791
+10	резвится	_	_	_	_	_	_	_	Shift=5798|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=5806
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p96
+# par_text = Соблазняет.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p96-s1
+# text = Соблазняет.
+1	Соблазняет	_	_	_	_	_	_	_	Shift=5808|SpaceAfter=No
+2	.	_	_	_	_	_	_	_	Shift=5818
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p97
+# par_text = Шалит.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p97-s1
+# text = Шалит.
+1	Шалит	_	_	_	_	_	_	_	Shift=5820|SpaceAfter=No
+2	.	_	_	_	_	_	_	_	Shift=5825
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p98
+# par_text = Гринвуд – странное существо.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p98-s1
+# text = Гринвуд - странное существо.
+1	Гринвуд	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1786|RuCor_group_id=468210|RuCor_link_id=468206|Shift=5827
+2	-	_	_	_	_	_	_	_	_
+3	странное	_	_	_	_	_	_	_	Shift=5837
+4	существо	_	_	_	_	_	_	_	Shift=5846|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=5854
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p99
+# par_text = Фрик.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p99-s1
+# text = Фрик.
+1	Фрик	_	_	_	_	_	_	_	Shift=5856|SpaceAfter=No
+2	.	_	_	_	_	_	_	_	Shift=5860
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p100
+# par_text = Глаза нараспашку и он весь –нараспашку.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p100-s1
+# text = Глаза нараспашку и он весь - нараспашку.
+1	Глаза	_	_	_	_	_	_	_	Shift=5862
+2	нараспашку	_	_	_	_	_	_	_	Shift=5868
+3	и	_	_	_	_	_	_	_	Shift=5879
+4	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1786|RuCor_group_id=468211|RuCor_link_id=468210|Shift=5881
+5	весь	_	_	_	_	_	_	_	Shift=5884
+6	-	_	_	_	_	_	_	_	_
+7	нараспашку	_	_	_	_	_	_	_	Shift=5890|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=5900
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p101
+# par_text = Он любит всех вокруг: артистов, шофера, своего друга –ручную куклу Дигги.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p101-s1
+# text = Он любит всех вокруг: артистов, шофера, своего друга - ручную куклу Дигги.
+1	Он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1786|RuCor_group_id=468212|RuCor_link_id=468211|Shift=5902
+2	любит	_	_	_	_	_	_	_	Shift=5905
+3	всех	_	_	_	_	_	_	_	Shift=5911
+4	вокруг	_	_	_	_	_	_	_	Shift=5916|SpaceAfter=No
+5	:	_	_	_	_	_	_	_	Shift=5922
+6	артистов	_	_	_	_	_	_	_	Shift=5924|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=5932
+8	шофера	_	_	_	_	_	_	_	Shift=5934|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=5940
+10	своего	_	_	_	_	_	_	_	Shift=5942
+11	друга	_	_	_	_	_	_	_	Shift=5949
+12	-	_	_	_	_	_	_	_	_
+13	ручную	_	_	_	_	_	_	_	Shift=5956
+14	куклу	_	_	_	_	_	_	_	Shift=5963
+15	Дигги	_	_	_	_	_	_	_	Shift=5969|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=5974
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p102
+# par_text = И девушек.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p102-s1
+# text = И девушек.
+1	И	_	_	_	_	_	_	_	Shift=5976
+2	девушек	_	_	_	_	_	_	_	Shift=5978|SpaceAfter=No
+3	.	_	_	_	_	_	_	_	Shift=5985
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p103
+# par_text = Девушки – это красиво.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p103-s1
+# text = Девушки - это красиво.
+1	Девушки	_	_	_	_	_	_	_	Shift=5987
+2	-	_	_	_	_	_	_	_	_
+3	это	_	_	_	_	_	_	_	Shift=5997
+4	красиво	_	_	_	_	_	_	_	Shift=6001|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=6008
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p104
+# par_text = Девушки – это возможность хорошо провести время.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p104-s1
+# text = Девушки - это возможность хорошо провести время.
+1	Девушки	_	_	_	_	_	_	_	Shift=6010
+2	-	_	_	_	_	_	_	_	_
+3	это	_	_	_	_	_	_	_	Shift=6020
+4	возможность	_	_	_	_	_	_	_	Shift=6024
+5	хорошо	_	_	_	_	_	_	_	Shift=6036
+6	провести	_	_	_	_	_	_	_	Shift=6043
+7	время	_	_	_	_	_	_	_	Shift=6052|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=6057
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p105
+# par_text = Неудивительно, что к случившемуся с Машей интиму он относится так же: это приятно.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p105-s1
+# text = Неудивительно, что к случившемуся с Машей интиму он относится так же: это приятно.
+1	Неудивительно	_	_	_	_	_	_	_	Shift=6059|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=6072
+3	что	_	_	_	_	_	_	_	Shift=6074
+4	к	_	_	_	_	_	_	_	Shift=6078
+5	случившемуся	_	_	_	_	_	_	_	Shift=6080
+6	с	_	_	_	_	_	_	_	Shift=6093
+7	Машей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1785|RuCor_group_id=468213|RuCor_link_id=468208|Shift=6095
+8	интиму	_	_	_	_	_	_	_	Shift=6101
+9	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1786|RuCor_group_id=468214|RuCor_link_id=468212|Shift=6108
+10	относится	_	_	_	_	_	_	_	Shift=6111
+11	так	_	_	_	_	_	_	_	Shift=6121
+12	же	_	_	_	_	_	_	_	Shift=6125|SpaceAfter=No
+13	:	_	_	_	_	_	_	_	Shift=6127
+14	это	_	_	_	_	_	_	_	Shift=6129
+15	приятно	_	_	_	_	_	_	_	Shift=6133|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=6140
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p106
+# par_text = И все.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p106-s1
+# text = И все.
+1	И	_	_	_	_	_	_	_	Shift=6142
+2	все	_	_	_	_	_	_	_	Shift=6144|SpaceAfter=No
+3	.	_	_	_	_	_	_	_	Shift=6147
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p107
+# par_text = Хотя здесь режиссер начинает «плыть»: хочет, чтобы герой получился одновременно развлекающимся и не на шутку влюбленным.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p107-s1
+# text = Хотя здесь режиссер начинает ``плыть'': хочет, чтобы герой получился одновременно развлекающимся и не на шутку влюбленным.
+1	Хотя	_	_	_	_	_	_	_	Shift=6149
+2	здесь	_	_	_	_	_	_	_	Shift=6154
+3	режиссер	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1775|RuCor_group_id=468215|RuCor_link_id=468198|Shift=6160
+4	начинает	_	_	_	_	_	_	_	Shift=6169
+5	``	_	_	_	_	_	_	_	Shift=6178|SpaceAfter=No
+6	плыть	_	_	_	_	_	_	_	Shift=6179|SpaceAfter=No
+7	''	_	_	_	_	_	_	_	Shift=6184|SpaceAfter=No
+8	:	_	_	_	_	_	_	_	Shift=6185
+9	хочет	_	_	_	_	_	_	_	Shift=6187|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=6192
+11	чтобы	_	_	_	_	_	_	_	Shift=6194
+12	герой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1786|RuCor_group_id=468216|RuCor_link_id=468212|Shift=6200
+13	получился	_	_	_	_	_	_	_	Shift=6206
+14	одновременно	_	_	_	_	_	_	_	Shift=6216
+15	развлекающимся	_	_	_	_	_	_	_	Shift=6229
+16	и	_	_	_	_	_	_	_	Shift=6244
+17	не	_	_	_	_	_	_	_	Shift=6246
+18	на	_	_	_	_	_	_	_	Shift=6249
+19	шутку	_	_	_	_	_	_	_	Shift=6252
+20	влюбленным	_	_	_	_	_	_	_	Shift=6258|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=6268
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p108
+# par_text = В итоге получилось что-то невнятное.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p108-s1
+# text = В итоге получилось что-то невнятное.
+1	В	_	_	_	_	_	_	_	Shift=6270
+2	итоге	_	_	_	_	_	_	_	Shift=6272
+3	получилось	_	_	_	_	_	_	_	Shift=6278
+4	что-то	_	_	_	_	_	_	_	Shift=6289
+5	невнятное	_	_	_	_	_	_	_	Shift=6296|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=6305
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p109
+# par_text = Гринвуда играет его соотечественник Джетро Скиннер (получивший на нынешнем «Кинотавре» приз за лучшую мужскую роль).
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p109-s1
+# text = Гринвуда играет его соотечественник Джетро Скиннер (получивший на нынешнем ``Кинотавре'' приз за лучшую мужскую роль).
+1	Гринвуда	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1786|RuCor_group_id=468217|RuCor_link_id=468212|Shift=6307
+2	играет	_	_	_	_	_	_	_	Shift=6316
+3	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1787|RuCor_group_id=468219|RuCor_link_id=468217|Shift=6323
+4	соотечественник	_	_	_	_	_	_	_	RuCor_chain_id=1787|RuCor_group_id=468219|Shift=6327
+5	Джетро	_	_	_	_	_	_	_	RuCor_chain_id=1787|RuCor_group_id=468219|Shift=6343
+6	Скиннер	_	_	_	_	_	_	_	RuCor_chain_id=1787|RuCor_group_id=468219|Shift=6350
+7	(	_	_	_	_	_	_	_	Shift=6358|SpaceAfter=No
+8	получивший	_	_	_	_	_	_	_	Shift=6359
+9	на	_	_	_	_	_	_	_	Shift=6370
+10	нынешнем	_	_	_	_	_	_	_	Shift=6373
+11	``	_	_	_	_	_	_	_	Shift=6382|SpaceAfter=No
+12	Кинотавре	_	_	_	_	_	_	_	Shift=6383|SpaceAfter=No
+13	''	_	_	_	_	_	_	_	Shift=6392
+14	приз	_	_	_	_	_	_	_	Shift=6394
+15	за	_	_	_	_	_	_	_	Shift=6399
+16	лучшую	_	_	_	_	_	_	_	Shift=6402
+17	мужскую	_	_	_	_	_	_	_	Shift=6409
+18	роль	_	_	_	_	_	_	_	Shift=6417|SpaceAfter=No
+19	)	_	_	_	_	_	_	_	Shift=6421|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=6422
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p110
+# par_text = Органичный, как кошка.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p110-s1
+# text = Органичный, как кошка.
+1	Органичный	_	_	_	_	_	_	_	Shift=6424|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=6434
+3	как	_	_	_	_	_	_	_	Shift=6436
+4	кошка	_	_	_	_	_	_	_	Shift=6440|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=6445
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p111
+# par_text = Ради него стоит смотреть эту не самую интересную картину.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p111-s1
+# text = Ради него стоит смотреть эту не самую интересную картину.
+1	Ради	_	_	_	_	_	_	_	Shift=6447
+2	него	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1787|RuCor_group_id=468220|RuCor_link_id=468219|Shift=6452
+3	стоит	_	_	_	_	_	_	_	Shift=6457
+4	смотреть	_	_	_	_	_	_	_	Shift=6463
+5	эту	_	_	_	_	_	_	_	RuCor_chain_id=1784|RuCor_group_id=468221|Shift=6472
+6	не	_	_	_	_	_	_	_	RuCor_chain_id=1784|RuCor_group_id=468221|Shift=6476
+7	самую	_	_	_	_	_	_	_	RuCor_chain_id=1784|RuCor_group_id=468221|Shift=6479
+8	интересную	_	_	_	_	_	_	_	RuCor_chain_id=1784|RuCor_group_id=468221|Shift=6485
+9	картину	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1784|RuCor_group_id=468221|RuCor_link_id=468199|Shift=6496|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=6503
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p112
+# par_text = Все остальные, увы, блекнут на фоне чудесного англичанина.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p112-s1
+# text = Все остальные, увы, блекнут на фоне чудесного англичанина.
+1	Все	_	_	_	_	_	_	_	Shift=6505
+2	остальные	_	_	_	_	_	_	_	Shift=6509|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=6518
+4	увы	_	_	_	_	_	_	_	Shift=6520|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=6523
+6	блекнут	_	_	_	_	_	_	_	Shift=6525
+7	на	_	_	_	_	_	_	_	Shift=6533
+8	фоне	_	_	_	_	_	_	_	Shift=6536
+9	чудесного	_	_	_	_	_	_	_	RuCor_chain_id=1787|RuCor_group_id=468222|Shift=6541
+10	англичанина	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1787|RuCor_group_id=468222|RuCor_link_id=468219|Shift=6551|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=6562
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p113
+# par_text = Даже главная героиня.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p113-s1
+# text = Даже главная героиня.
+1	Даже	_	_	_	_	_	_	_	Shift=6564
+2	главная	_	_	_	_	_	_	_	RuCor_chain_id=1785|RuCor_group_id=468223|Shift=6569
+3	героиня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1785|RuCor_group_id=468223|RuCor_link_id=468213|Shift=6577|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=6584
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p114
+# par_text = Актриса «Мастерской Петра Фоменко» Мадлен Джабраилова на сцене – огонь и фейерверк.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p114-s1
+# text = Актриса ``Мастерской Петра Фоменко'' Мадлен Джабраилова на сцене - огонь и фейерверк.
+1	Актриса	_	_	_	_	_	_	_	RuCor_chain_id=1788|RuCor_group_id=468224|Shift=6586
+2	``	_	_	_	_	_	_	_	RuCor_chain_id=1788|RuCor_group_id=468224|Shift=6594|SpaceAfter=No
+3	Мастерской	_	_	_	_	_	_	_	RuCor_chain_id=1788|RuCor_group_id=468224|Shift=6595
+4	Петра	_	_	_	_	_	_	_	RuCor_chain_id=1788|RuCor_group_id=468224|Shift=6606
+5	Фоменко	_	_	_	_	_	_	_	RuCor_chain_id=1788|RuCor_group_id=468224|Shift=6612|SpaceAfter=No
+6	''	_	_	_	_	_	_	_	RuCor_chain_id=1788|RuCor_group_id=468224|Shift=6619
+7	Мадлен	_	_	_	_	_	_	_	RuCor_chain_id=1788|RuCor_group_id=468224|Shift=6621
+8	Джабраилова	_	_	_	_	_	_	_	RuCor_chain_id=1788|RuCor_group_id=468224|Shift=6628
+9	на	_	_	_	_	_	_	_	Shift=6640
+10	сцене	_	_	_	_	_	_	_	Shift=6643
+11	-	_	_	_	_	_	_	_	_
+12	огонь	_	_	_	_	_	_	_	Shift=6651
+13	и	_	_	_	_	_	_	_	Shift=6657
+14	фейерверк	_	_	_	_	_	_	_	Shift=6659|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=6668
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p115
+# par_text = Лукавая женственность и простодушное очарование.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p115-s1
+# text = Лукавая женственность и простодушное очарование.
+1	Лукавая	_	_	_	_	_	_	_	Shift=6670
+2	женственность	_	_	_	_	_	_	_	Shift=6678
+3	и	_	_	_	_	_	_	_	Shift=6692
+4	простодушное	_	_	_	_	_	_	_	Shift=6694
+5	очарование	_	_	_	_	_	_	_	Shift=6707|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=6717
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p116
+# par_text = А здесь, кажется, у нее отняли, погасили весь ее блеск.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p116-s1
+# text = А здесь, кажется, у нее отняли, погасили весь ее блеск.
+1	А	_	_	_	_	_	_	_	Shift=6719
+2	здесь	_	_	_	_	_	_	_	Shift=6721|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=6726
+4	кажется	_	_	_	_	_	_	_	Shift=6728|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=6735
+6	у	_	_	_	_	_	_	_	Shift=6737
+7	нее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1788|RuCor_group_id=468225|RuCor_link_id=468224|Shift=6739
+8	отняли	_	_	_	_	_	_	_	Shift=6743|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=6749
+10	погасили	_	_	_	_	_	_	_	Shift=6751
+11	весь	_	_	_	_	_	_	_	Shift=6760
+12	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1788|RuCor_group_id=468226|RuCor_link_id=468224|Shift=6765
+13	блеск	_	_	_	_	_	_	_	Shift=6768|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=6773
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p117
+# par_text = Слишком преуспели в изображении скучной одинокой девушки.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p117-s1
+# text = Слишком преуспели в изображении скучной одинокой девушки.
+1	Слишком	_	_	_	_	_	_	_	Shift=6775
+2	преуспели	_	_	_	_	_	_	_	Shift=6783
+3	в	_	_	_	_	_	_	_	Shift=6793
+4	изображении	_	_	_	_	_	_	_	Shift=6795
+5	скучной	_	_	_	_	_	_	_	RuCor_chain_id=1785|RuCor_group_id=468227|Shift=6807
+6	одинокой	_	_	_	_	_	_	_	RuCor_chain_id=1785|RuCor_group_id=468227|Shift=6815
+7	девушки	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1785|RuCor_group_id=468227|RuCor_link_id=468223|Shift=6824|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=6831
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p118
+# par_text = Еще одно разочарование – финал.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p118-s1
+# text = Еще одно разочарование - финал.
+1	Еще	_	_	_	_	_	_	_	Shift=6833
+2	одно	_	_	_	_	_	_	_	Shift=6837
+3	разочарование	_	_	_	_	_	_	_	Shift=6842
+4	-	_	_	_	_	_	_	_	_
+5	финал	_	_	_	_	_	_	_	Shift=6858|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=6863
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p119
+# par_text = Где Гринвуд улетает и не обещает вернуться, а героиня возвращается в свой дом.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p119-s1
+# text = Где Гринвуд улетает и не обещает вернуться, а героиня возвращается в свой дом.
+1	Где	_	_	_	_	_	_	_	Shift=6865
+2	Гринвуд	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1787|RuCor_group_id=468228|RuCor_link_id=468220|Shift=6869
+3	улетает	_	_	_	_	_	_	_	Shift=6877
+4	и	_	_	_	_	_	_	_	Shift=6885
+5	не	_	_	_	_	_	_	_	Shift=6887
+6	обещает	_	_	_	_	_	_	_	Shift=6890
+7	вернуться	_	_	_	_	_	_	_	Shift=6898|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=6907
+9	а	_	_	_	_	_	_	_	Shift=6909
+10	героиня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1785|RuCor_group_id=468229|RuCor_link_id=468227|Shift=6911
+11	возвращается	_	_	_	_	_	_	_	Shift=6919
+12	в	_	_	_	_	_	_	_	Shift=6932
+13	свой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1785|RuCor_group_id=468230|RuCor_link_id=468229|Shift=6934
+14	дом	_	_	_	_	_	_	_	Shift=6939|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=6942
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p120
+# par_text = И нет ощущения, что она счастлива, что сейчас она наденет платье с цветами, распахнет настежь окна, выбросит с балкона бумажные залежи.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p120-s1
+# text = И нет ощущения, что она счастлива, что сейчас она наденет платье с цветами, распахнет настежь окна, выбросит с балкона бумажные залежи.
+1	И	_	_	_	_	_	_	_	Shift=6944
+2	нет	_	_	_	_	_	_	_	Shift=6946
+3	ощущения	_	_	_	_	_	_	_	Shift=6950|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=6958
+5	что	_	_	_	_	_	_	_	Shift=6960
+6	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1785|RuCor_group_id=468231|RuCor_link_id=468229|Shift=6964
+7	счастлива	_	_	_	_	_	_	_	Shift=6968|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=6977
+9	что	_	_	_	_	_	_	_	Shift=6979
+10	сейчас	_	_	_	_	_	_	_	Shift=6983
+11	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1785|RuCor_group_id=468232|RuCor_link_id=468229|Shift=6990
+12	наденет	_	_	_	_	_	_	_	Shift=6994
+13	платье	_	_	_	_	_	_	_	Shift=7002
+14	с	_	_	_	_	_	_	_	Shift=7009
+15	цветами	_	_	_	_	_	_	_	Shift=7011|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=7018
+17	распахнет	_	_	_	_	_	_	_	Shift=7020
+18	настежь	_	_	_	_	_	_	_	Shift=7030
+19	окна	_	_	_	_	_	_	_	Shift=7038|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=7042
+21	выбросит	_	_	_	_	_	_	_	Shift=7044
+22	с	_	_	_	_	_	_	_	Shift=7053
+23	балкона	_	_	_	_	_	_	_	Shift=7055
+24	бумажные	_	_	_	_	_	_	_	Shift=7063
+25	залежи	_	_	_	_	_	_	_	Shift=7072|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=7078
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p121
+# par_text = Все останется по-прежнему.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p121-s1
+# text = Все останется по-прежнему.
+1	Все	_	_	_	_	_	_	_	Shift=7080
+2	останется	_	_	_	_	_	_	_	Shift=7084
+3	по-прежнему	_	_	_	_	_	_	_	Shift=7094|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=7105
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p122
+# par_text = А шанса на счастье может уже и не быть.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p122-s1
+# text = А шанса на счастье может уже и не быть.
+1	А	_	_	_	_	_	_	_	Shift=7107
+2	шанса	_	_	_	_	_	_	_	Shift=7109
+3	на	_	_	_	_	_	_	_	Shift=7115
+4	счастье	_	_	_	_	_	_	_	Shift=7118
+5	может	_	_	_	_	_	_	_	Shift=7126
+6	уже	_	_	_	_	_	_	_	Shift=7132
+7	и	_	_	_	_	_	_	_	Shift=7136
+8	не	_	_	_	_	_	_	_	Shift=7138
+9	быть	_	_	_	_	_	_	_	Shift=7141|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=7145
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p123
+# par_text = Потому что устоявшаяся жизнь так легко не меняется.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p123-s1
+# text = Потому что устоявшаяся жизнь так легко не меняется.
+1	Потому	_	_	_	_	_	_	_	Shift=7147
+2	что	_	_	_	_	_	_	_	Shift=7154
+3	устоявшаяся	_	_	_	_	_	_	_	Shift=7158
+4	жизнь	_	_	_	_	_	_	_	Shift=7170
+5	так	_	_	_	_	_	_	_	Shift=7176
+6	легко	_	_	_	_	_	_	_	Shift=7180
+7	не	_	_	_	_	_	_	_	Shift=7186
+8	меняется	_	_	_	_	_	_	_	Shift=7189|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=7197
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p124
+# par_text = Но для понимания этого у творческой группы «Плюс один» не хватило опыта.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p124-s1
+# text = Но для понимания этого у творческой группы ``Плюс один'' не хватило опыта.
+1	Но	_	_	_	_	_	_	_	Shift=7199
+2	для	_	_	_	_	_	_	_	Shift=7202
+3	понимания	_	_	_	_	_	_	_	Shift=7206
+4	этого	_	_	_	_	_	_	_	Shift=7216
+5	у	_	_	_	_	_	_	_	Shift=7222
+6	творческой	_	_	_	_	_	_	_	Shift=7224
+7	группы	_	_	_	_	_	_	_	Shift=7235
+8	``	_	_	_	_	_	_	_	RuCor_chain_id=1784|RuCor_group_id=468233|Shift=7242|SpaceAfter=No
+9	Плюс	_	_	_	_	_	_	_	RuCor_chain_id=1784|RuCor_group_id=468233|Shift=7243
+10	один	_	_	_	_	_	_	_	RuCor_chain_id=1784|RuCor_group_id=468233|Shift=7248|SpaceAfter=No
+11	''	_	_	_	_	_	_	_	RuCor_chain_id=1784|RuCor_group_id=468233|Shift=7252
+12	не	_	_	_	_	_	_	_	Shift=7254
+13	хватило	_	_	_	_	_	_	_	Shift=7257
+14	опыта	_	_	_	_	_	_	_	Shift=7265|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=7270
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p125
+# par_text = И фильм получился не о счастье, как гласит рекламный слоган, а о быстротечном романчике.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p125-s1
+# text = И фильм получился не о счастье, как гласит рекламный слоган, а о быстротечном романчике.
+1	И	_	_	_	_	_	_	_	Shift=7272
+2	фильм	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1784|RuCor_group_id=468234|RuCor_link_id=468233|Shift=7274
+3	получился	_	_	_	_	_	_	_	Shift=7280
+4	не	_	_	_	_	_	_	_	Shift=7290
+5	о	_	_	_	_	_	_	_	Shift=7293
+6	счастье	_	_	_	_	_	_	_	Shift=7295|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=7302
+8	как	_	_	_	_	_	_	_	Shift=7304
+9	гласит	_	_	_	_	_	_	_	Shift=7308
+10	рекламный	_	_	_	_	_	_	_	Shift=7315
+11	слоган	_	_	_	_	_	_	_	Shift=7325|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=7331
+13	а	_	_	_	_	_	_	_	Shift=7333
+14	о	_	_	_	_	_	_	_	Shift=7335
+15	быстротечном	_	_	_	_	_	_	_	Shift=7337
+16	романчике	_	_	_	_	_	_	_	Shift=7350|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=7359
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p126
+# par_text = Маленькой случайности.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p126-s1
+# text = Маленькой случайности.
+1	Маленькой	_	_	_	_	_	_	_	Shift=7361
+2	случайности	_	_	_	_	_	_	_	Shift=7371|SpaceAfter=No
+3	.	_	_	_	_	_	_	_	Shift=7382
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p127
+# par_text = Оставшейся в памяти, но ничего не изменившей.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p127-s1
+# text = Оставшейся в памяти, но ничего не изменившей.
+1	Оставшейся	_	_	_	_	_	_	_	Shift=7384
+2	в	_	_	_	_	_	_	_	Shift=7395
+3	памяти	_	_	_	_	_	_	_	Shift=7397|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=7403
+5	но	_	_	_	_	_	_	_	Shift=7405
+6	ничего	_	_	_	_	_	_	_	Shift=7408
+7	не	_	_	_	_	_	_	_	Shift=7415
+8	изменившей	_	_	_	_	_	_	_	Shift=7418|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=7428
+
+# newpar id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p128
+# par_text = Этого мало для целого фильма.
+# sent_id = 25ad9e13-8579-4b18-8689-7a8a1d4e7ee7-p128-s1
+# text = Этого мало для целого фильма.
+1	Этого	_	_	_	_	_	_	_	Shift=7430
+2	мало	_	_	_	_	_	_	_	Shift=7436
+3	для	_	_	_	_	_	_	_	Shift=7441
+4	целого	_	_	_	_	_	_	_	Shift=7445
+5	фильма	_	_	_	_	_	_	_	Shift=7452|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	_
+

@@ -1,5 +1,0 @@
-Níže uvedené společnosti oznámily čtvrtletní zisk radikálně odlišný od průměrných odhadů analytiků.
-Společnosti sledují nejméně tři analytikové a měly minimálně pěticentovou změnu vlastních výdělků na akcii.
-Odhadnuté a skutečné výsledky zahrnující ztráty jsou vynechány.
-Procentní rozdíl srovnává skutečný zisk s 30denním odhadem, pokud předpovědi za posledních 30 dnů dodali alespoň tři analytikové.
-Jinak se skutečný zisk srovnává s 300denním odhadem.

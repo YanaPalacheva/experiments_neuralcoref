@@ -1,0 +1,901 @@
+# newdoc id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d
+# newpar id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p1
+# par_text = ВАШИНГТОН, ОКРУГ КОЛУМБИЯ – На весенней встрече МВФ в этом месяце министры обнаружат организацию, которая вновь обрела уверенность в себе. Лондонский саммит Группы двадцати укрепил авторитет МВФ, в то же время утроив его ресурсы. Льготное финансирование в большем объёме будет доступно странам с низким уровнем дохода, и международная ликвидность увеличится засчёт выдачи 250 миллиардов долларов в расчётных единицах Фонда SDR (специальные права заимствования). Это расширило возможности МВФ, и дало надежду развивающимся странам, которые серьёзно пострадали от кризиса, ими не спровоцированного.
+# sent_id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p1-s1
+# text = ВАШИНГТОН, ОКРУГ КОЛУМБИЯ - На весенней встрече МВФ в этом месяце министры обнаружат организацию, которая вновь обрела уверенность в себе.
+1	ВАШИНГТОН	_	_	_	_	_	_	_	Shift=6|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=15
+3	ОКРУГ	_	_	_	_	_	_	_	Shift=17
+4	КОЛУМБИЯ	_	_	_	_	_	_	_	Shift=23
+5	-	_	_	_	_	_	_	_	_
+6	На	_	_	_	_	_	_	_	Shift=34
+7	весенней	_	_	_	_	_	_	_	Shift=37
+8	встрече	_	_	_	_	_	_	_	Shift=46
+9	МВФ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=0|RuCor_group_id=414140|RuCor_link_id=414141|Shift=54
+10	в	_	_	_	_	_	_	_	Shift=58
+11	этом	_	_	_	_	_	_	_	Shift=60
+12	месяце	_	_	_	_	_	_	_	Shift=65
+13	министры	_	_	_	_	_	_	_	Shift=72
+14	обнаружат	_	_	_	_	_	_	_	Shift=81
+15	организацию	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=0|RuCor_group_id=414141|RuCor_link_id=414140|Shift=91|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=102
+17	которая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=0|RuCor_group_id=414142|RuCor_link_id=414141|Shift=104
+18	вновь	_	_	_	_	_	_	_	Shift=112
+19	обрела	_	_	_	_	_	_	_	Shift=118
+20	уверенность	_	_	_	_	_	_	_	Shift=125
+21	в	_	_	_	_	_	_	_	Shift=137
+22	себе	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=0|RuCor_group_id=414143|RuCor_link_id=414142|Shift=139|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=143
+
+# sent_id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p1-s2
+# text = Лондонский саммит Группы двадцати укрепил авторитет МВФ, в то же время утроив его ресурсы.
+1	Лондонский	_	_	_	_	_	_	_	RuCor_chain_id=1180|RuCor_group_id=414152|Shift=145
+2	саммит	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1180|RuCor_group_id=414152|RuCor_link_id=0|Shift=156
+3	Группы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1182|RuCor_group_id=414156|RuCor_link_id=0|Shift=163
+4	двадцати	_	_	_	_	_	_	_	RuCor_chain_id=1182|RuCor_group_id=414156|Shift=170
+5	укрепил	_	_	_	_	_	_	_	Shift=179
+6	авторитет	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1191|RuCor_group_id=414201|RuCor_link_id=0|Shift=187
+7	МВФ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=0|RuCor_group_id=414144|RuCor_link_id=414143|Shift=197|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=200
+9	в	_	_	_	_	_	_	_	Shift=202
+10	то	_	_	_	_	_	_	_	Shift=204
+11	же	_	_	_	_	_	_	_	Shift=207
+12	время	_	_	_	_	_	_	_	Shift=210
+13	утроив	_	_	_	_	_	_	_	Shift=216
+14	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=0|RuCor_group_id=414145|RuCor_link_id=414144|Shift=223
+15	ресурсы	_	_	_	_	_	_	_	Shift=227|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=234
+
+# sent_id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p1-s3
+# text = Льготное финансирование в большем объёме будет доступно странам с низким уровнем дохода, и международная ликвидность увеличится засчёт выдачи 250 миллиардов долларов в расчётных единицах Фонда SDR (специальные права заимствования).
+1	Льготное	_	_	_	_	_	_	_	Shift=236
+2	финансирование	_	_	_	_	_	_	_	Shift=245
+3	в	_	_	_	_	_	_	_	Shift=260
+4	большем	_	_	_	_	_	_	_	Shift=262
+5	объёме	_	_	_	_	_	_	_	Shift=270
+6	будет	_	_	_	_	_	_	_	Shift=277
+7	доступно	_	_	_	_	_	_	_	Shift=283
+8	странам	_	_	_	_	_	_	_	Shift=292
+9	с	_	_	_	_	_	_	_	Shift=300
+10	низким	_	_	_	_	_	_	_	Shift=302
+11	уровнем	_	_	_	_	_	_	_	Shift=309
+12	дохода	_	_	_	_	_	_	_	Shift=317|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=323
+14	и	_	_	_	_	_	_	_	Shift=325
+15	международная	_	_	_	_	_	_	_	Shift=327
+16	ликвидность	_	_	_	_	_	_	_	Shift=341
+17	увеличится	_	_	_	_	_	_	_	Shift=353
+18	засчёт	_	_	_	_	_	_	_	Shift=364
+19	выдачи	_	_	_	_	_	_	_	Shift=371
+20	250	_	_	_	_	_	_	_	Shift=378
+21	миллиардов	_	_	_	_	_	_	_	Shift=382
+22	долларов	_	_	_	_	_	_	_	Shift=393
+23	в	_	_	_	_	_	_	_	Shift=402
+24	расчётных	_	_	_	_	_	_	_	Shift=404
+25	единицах	_	_	_	_	_	_	_	Shift=414
+26	Фонда	_	_	_	_	_	_	_	RuCor_chain_id=1190|RuCor_group_id=414197|Shift=423
+27	SDR	_	_	_	_	_	_	_	RuCor_chain_id=1190|RuCor_group_id=414197|Shift=429
+28	(	_	_	_	_	_	_	_	Shift=433|SpaceAfter=No
+29	специальные	_	_	_	_	_	_	_	RuCor_chain_id=1190|RuCor_group_id=414198|Shift=434
+30	права	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1190|RuCor_group_id=414198|RuCor_link_id=414197|Shift=446
+31	заимствования	_	_	_	_	_	_	_	RuCor_chain_id=1190|RuCor_group_id=414198|Shift=452|SpaceAfter=No
+32	)	_	_	_	_	_	_	_	Shift=465|SpaceAfter=No
+33	.	_	_	_	_	_	_	_	Shift=466
+
+# sent_id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p1-s4
+# text = Это расширило возможности МВФ, и дало надежду развивающимся странам, которые серьёзно пострадали от кризиса, ими не спровоцированного.
+1	Это	_	_	_	_	_	_	_	Shift=468
+2	расширило	_	_	_	_	_	_	_	Shift=472
+3	возможности	_	_	_	_	_	_	_	Shift=482
+4	МВФ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=0|RuCor_group_id=414146|RuCor_link_id=414145|Shift=494|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=497
+6	и	_	_	_	_	_	_	_	Shift=499
+7	дало	_	_	_	_	_	_	_	Shift=501
+8	надежду	_	_	_	_	_	_	_	Shift=506
+9	развивающимся	_	_	_	_	_	_	_	RuCor_chain_id=1179|RuCor_group_id=414147|Shift=514
+10	странам	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1179|RuCor_group_id=414147|RuCor_link_id=0|Shift=528|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=535
+12	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=1179|RuCor_group_id=414148|RuCor_link_id=414147|Shift=537
+13	серьёзно	_	_	_	_	_	_	_	Shift=545
+14	пострадали	_	_	_	_	_	_	_	Shift=554
+15	от	_	_	_	_	_	_	_	Shift=565
+16	кризиса	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1181|RuCor_group_id=414153|RuCor_link_id=0|Shift=568|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=575
+18	ими	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1179|RuCor_group_id=414149|RuCor_link_id=414148|Shift=577
+19	не	_	_	_	_	_	_	_	Shift=581
+20	спровоцированного	_	_	_	_	_	_	_	Shift=584|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=601
+
+# newpar id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p2
+# par_text = МВФ находится в идеальном положении для того, чтобы помочь своим членам преодолеть финансовую пропасть, образовавшуюся в результате кризиса. При подготовке к саммиту Группы двадцати доступ к кредитным лимитам Фонда увеличился и условия были упрощены. Вопреки предыдущей практике, Фонд представил новую беззалоговую кредитную линию для стран с успешно развивающейся экономикой. Мексика и Польша станут её первыми пользователями, и список ожидающих пополнят и другие страны. Эти более гибкие условия займов являются отражением нового имиджа МВФ. Негативные ассоциации, связанные с финансированием МВФ, останутся в прошлом.
+# sent_id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p2-s1
+# text = МВФ находится в идеальном положении для того, чтобы помочь своим членам преодолеть финансовую пропасть, образовавшуюся в результате кризиса.
+1	МВФ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=0|RuCor_group_id=414150|RuCor_link_id=414146|Shift=604
+2	находится	_	_	_	_	_	_	_	Shift=608
+3	в	_	_	_	_	_	_	_	Shift=618
+4	идеальном	_	_	_	_	_	_	_	Shift=620
+5	положении	_	_	_	_	_	_	_	Shift=630
+6	для	_	_	_	_	_	_	_	Shift=640
+7	того	_	_	_	_	_	_	_	Shift=644|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=648
+9	чтобы	_	_	_	_	_	_	_	Shift=650
+10	помочь	_	_	_	_	_	_	_	Shift=656
+11	своим	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=0|RuCor_group_id=414151|RuCor_link_id=414150|Shift=663
+12	членам	_	_	_	_	_	_	_	Shift=669
+13	преодолеть	_	_	_	_	_	_	_	Shift=676
+14	финансовую	_	_	_	_	_	_	_	Shift=687
+15	пропасть	_	_	_	_	_	_	_	Shift=698|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=706
+17	образовавшуюся	_	_	_	_	_	_	_	Shift=708
+18	в	_	_	_	_	_	_	_	Shift=723
+19	результате	_	_	_	_	_	_	_	Shift=725
+20	кризиса	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1181|RuCor_group_id=414154|RuCor_link_id=414153|Shift=736|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=743
+
+# sent_id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p2-s2
+# text = При подготовке к саммиту Группы двадцати доступ к кредитным лимитам Фонда увеличился и условия были упрощены.
+1	При	_	_	_	_	_	_	_	Shift=745
+2	подготовке	_	_	_	_	_	_	_	Shift=749
+3	к	_	_	_	_	_	_	_	Shift=760
+4	саммиту	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1180|RuCor_group_id=414155|RuCor_link_id=414152|Shift=762
+5	Группы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1182|RuCor_group_id=414157|RuCor_link_id=414156|Shift=770
+6	двадцати	_	_	_	_	_	_	_	RuCor_chain_id=1182|RuCor_group_id=414157|Shift=777
+7	доступ	_	_	_	_	_	_	_	Shift=786
+8	к	_	_	_	_	_	_	_	Shift=793
+9	кредитным	_	_	_	_	_	_	_	Shift=795
+10	лимитам	_	_	_	_	_	_	_	Shift=805
+11	Фонда	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=0|RuCor_group_id=414158|RuCor_link_id=414150|Shift=813
+12	увеличился	_	_	_	_	_	_	_	Shift=819
+13	и	_	_	_	_	_	_	_	Shift=830
+14	условия	_	_	_	_	_	_	_	Shift=832
+15	были	_	_	_	_	_	_	_	Shift=840
+16	упрощены	_	_	_	_	_	_	_	Shift=845|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=853
+
+# sent_id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p2-s3
+# text = Вопреки предыдущей практике, Фонд представил новую беззалоговую кредитную линию для стран с успешно развивающейся экономикой.
+1	Вопреки	_	_	_	_	_	_	_	Shift=855
+2	предыдущей	_	_	_	_	_	_	_	Shift=863
+3	практике	_	_	_	_	_	_	_	Shift=874|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=882
+5	Фонд	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=0|RuCor_group_id=414159|RuCor_link_id=414158|Shift=884
+6	представил	_	_	_	_	_	_	_	Shift=889
+7	новую	_	_	_	_	_	_	_	RuCor_chain_id=1183|RuCor_group_id=414160|Shift=900
+8	беззалоговую	_	_	_	_	_	_	_	RuCor_chain_id=1183|RuCor_group_id=414160|Shift=906
+9	кредитную	_	_	_	_	_	_	_	RuCor_chain_id=1183|RuCor_group_id=414160|Shift=919
+10	линию	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1183|RuCor_group_id=414160|RuCor_link_id=0|Shift=929
+11	для	_	_	_	_	_	_	_	RuCor_chain_id=1183|RuCor_group_id=414160|Shift=935
+12	стран	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1179|RuCor_group_id=414233|RuCor_link_id=414147|Shift=939
+13	с	_	_	_	_	_	_	_	RuCor_chain_id=1179|RuCor_group_id=414233|Shift=945
+14	успешно	_	_	_	_	_	_	_	RuCor_chain_id=1179|RuCor_group_id=414233|Shift=947
+15	развивающейся	_	_	_	_	_	_	_	RuCor_chain_id=1179|RuCor_group_id=414233|Shift=955
+16	экономикой	_	_	_	_	_	_	_	RuCor_chain_id=1179|RuCor_group_id=414233|Shift=969|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=979
+
+# sent_id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p2-s4
+# text = Мексика и Польша станут её первыми пользователями, и список ожидающих пополнят и другие страны.
+1	Мексика	_	_	_	_	_	_	_	Shift=981
+2	и	_	_	_	_	_	_	_	Shift=989
+3	Польша	_	_	_	_	_	_	_	Shift=991
+4	станут	_	_	_	_	_	_	_	Shift=998
+5	её	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1183|RuCor_group_id=414161|RuCor_link_id=414160|Shift=1005
+6	первыми	_	_	_	_	_	_	_	Shift=1008
+7	пользователями	_	_	_	_	_	_	_	Shift=1016|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1030
+9	и	_	_	_	_	_	_	_	Shift=1032
+10	список	_	_	_	_	_	_	_	Shift=1034
+11	ожидающих	_	_	_	_	_	_	_	Shift=1041
+12	пополнят	_	_	_	_	_	_	_	Shift=1051
+13	и	_	_	_	_	_	_	_	Shift=1060
+14	другие	_	_	_	_	_	_	_	Shift=1062
+15	страны	_	_	_	_	_	_	_	Shift=1069|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=1075
+
+# sent_id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p2-s5
+# text = Эти более гибкие условия займов являются отражением нового имиджа МВФ.
+1	Эти	_	_	_	_	_	_	_	Shift=1077
+2	более	_	_	_	_	_	_	_	Shift=1081
+3	гибкие	_	_	_	_	_	_	_	Shift=1087
+4	условия	_	_	_	_	_	_	_	Shift=1094
+5	займов	_	_	_	_	_	_	_	Shift=1102
+6	являются	_	_	_	_	_	_	_	Shift=1109
+7	отражением	_	_	_	_	_	_	_	Shift=1118
+8	нового	_	_	_	_	_	_	_	Shift=1129
+9	имиджа	_	_	_	_	_	_	_	Shift=1136
+10	МВФ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=0|RuCor_group_id=414162|RuCor_link_id=414159|Shift=1143|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=1146
+
+# sent_id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p2-s6
+# text = Негативные ассоциации, связанные с финансированием МВФ, останутся в прошлом.
+1	Негативные	_	_	_	_	_	_	_	Shift=1148
+2	ассоциации	_	_	_	_	_	_	_	Shift=1159|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1169
+4	связанные	_	_	_	_	_	_	_	Shift=1171
+5	с	_	_	_	_	_	_	_	Shift=1181
+6	финансированием	_	_	_	_	_	_	_	Shift=1183
+7	МВФ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=0|RuCor_group_id=414163|RuCor_link_id=414162|Shift=1199|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1202
+9	останутся	_	_	_	_	_	_	_	Shift=1204
+10	в	_	_	_	_	_	_	_	Shift=1214
+11	прошлом	_	_	_	_	_	_	_	Shift=1216|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=1223
+
+# newpar id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p3
+# par_text = Утвердив свою финансовую роль в условиях текущего кризиса, МВФ необходимо усилить свои позиции в качестве защитника открытой международной финансовой системы. МВФ был создан в целях предотвращения кризиса, подобного нынешнему, и его постигла неудача. Разумеется, предостережения поступали, однако управляющие, особенно в развитых странах, им не последовали.
+# sent_id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p3-s1
+# text = Утвердив свою финансовую роль в условиях текущего кризиса, МВФ необходимо усилить свои позиции в качестве защитника открытой международной финансовой системы.
+1	Утвердив	_	_	_	_	_	_	_	Shift=1226
+2	свою	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=0|RuCor_group_id=414164|RuCor_link_id=414163|Shift=1235
+3	финансовую	_	_	_	_	_	_	_	Shift=1240
+4	роль	_	_	_	_	_	_	_	Shift=1251
+5	в	_	_	_	_	_	_	_	Shift=1256
+6	условиях	_	_	_	_	_	_	_	Shift=1258
+7	текущего	_	_	_	_	_	_	_	RuCor_chain_id=1181|RuCor_group_id=414165|Shift=1267
+8	кризиса	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1181|RuCor_group_id=414165|RuCor_link_id=414153|Shift=1276|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1283
+10	МВФ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=0|RuCor_group_id=414167|RuCor_link_id=414164|Shift=1285
+11	необходимо	_	_	_	_	_	_	_	Shift=1289
+12	усилить	_	_	_	_	_	_	_	Shift=1300
+13	свои	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=0|RuCor_group_id=414166|RuCor_link_id=414167|Shift=1308
+14	позиции	_	_	_	_	_	_	_	Shift=1313
+15	в	_	_	_	_	_	_	_	Shift=1321
+16	качестве	_	_	_	_	_	_	_	Shift=1323
+17	защитника	_	_	_	_	_	_	_	Shift=1332
+18	открытой	_	_	_	_	_	_	_	Shift=1342
+19	международной	_	_	_	_	_	_	_	Shift=1351
+20	финансовой	_	_	_	_	_	_	_	Shift=1365
+21	системы	_	_	_	_	_	_	_	Shift=1376|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=1383
+
+# sent_id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p3-s2
+# text = МВФ был создан в целях предотвращения кризиса, подобного нынешнему, и его постигла неудача.
+1	МВФ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=0|RuCor_group_id=414168|RuCor_link_id=414166|Shift=1385
+2	был	_	_	_	_	_	_	_	Shift=1389
+3	создан	_	_	_	_	_	_	_	Shift=1393
+4	в	_	_	_	_	_	_	_	Shift=1400
+5	целях	_	_	_	_	_	_	_	Shift=1402
+6	предотвращения	_	_	_	_	_	_	_	Shift=1408
+7	кризиса	_	_	_	_	_	_	_	Shift=1423|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1430
+9	подобного	_	_	_	_	_	_	_	Shift=1432
+10	нынешнему	_	_	_	_	_	_	_	Shift=1442|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=1451
+12	и	_	_	_	_	_	_	_	Shift=1453
+13	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=0|RuCor_group_id=414169|RuCor_link_id=414168|Shift=1455
+14	постигла	_	_	_	_	_	_	_	Shift=1459
+15	неудача	_	_	_	_	_	_	_	Shift=1468|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=1475
+
+# sent_id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p3-s3
+# text = Разумеется, предостережения поступали, однако управляющие, особенно в развитых странах, им не последовали.
+1	Разумеется	_	_	_	_	_	_	_	Shift=1477|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=1487
+3	предостережения	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1184|RuCor_group_id=414170|RuCor_link_id=0|Shift=1489
+4	поступали	_	_	_	_	_	_	_	Shift=1505|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1514
+6	однако	_	_	_	_	_	_	_	Shift=1516
+7	управляющие	_	_	_	_	_	_	_	Shift=1523|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1534
+9	особенно	_	_	_	_	_	_	_	Shift=1536
+10	в	_	_	_	_	_	_	_	Shift=1545
+11	развитых	_	_	_	_	_	_	_	RuCor_chain_id=1192|RuCor_group_id=414206|Shift=1547
+12	странах	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1192|RuCor_group_id=414206|RuCor_link_id=0|Shift=1556|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=1563
+14	им	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1184|RuCor_group_id=414171|RuCor_link_id=414170|Shift=1565
+15	не	_	_	_	_	_	_	_	Shift=1568
+16	последовали	_	_	_	_	_	_	_	Shift=1571|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=1582
+
+# newpar id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p4
+# par_text = «Новый» МВФ должен стать организацией, способной на более тесный контакт со своими участниками, равномерно учитывающей интересы как развитых, так и развивающихся стран, и действующей в соответствии с условиями, диктуемыми моментом. Получив вторую жизнь, МВФ необходимо вновь завоевать центральное место в международной финансовой системе. Для этого Фонду необходимо сосредоточиться на трёх вопросах: совершенствовании контроля финансовой стабильности, усилении международного координирования и пересмотре процесса принятия решений.
+# sent_id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p4-s1
+# text = ``Новый'' МВФ должен стать организацией, способной на более тесный контакт со своими участниками, равномерно учитывающей интересы как развитых, так и развивающихся стран, и действующей в соответствии с условиями, диктуемыми моментом.
+1	``	_	_	_	_	_	_	_	RuCor_chain_id=0|RuCor_group_id=414172|Shift=1585|SpaceAfter=No
+2	Новый	_	_	_	_	_	_	_	RuCor_chain_id=0|RuCor_group_id=414172|Shift=1586|SpaceAfter=No
+3	''	_	_	_	_	_	_	_	RuCor_chain_id=0|RuCor_group_id=414172|Shift=1591
+4	МВФ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=0|RuCor_group_id=414172|RuCor_link_id=414169|Shift=1593
+5	должен	_	_	_	_	_	_	_	Shift=1597
+6	стать	_	_	_	_	_	_	_	Shift=1604
+7	организацией	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1185|RuCor_group_id=414173|RuCor_link_id=0|Shift=1610|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1622
+9	способной	_	_	_	_	_	_	_	Shift=1624
+10	на	_	_	_	_	_	_	_	Shift=1634
+11	более	_	_	_	_	_	_	_	Shift=1637
+12	тесный	_	_	_	_	_	_	_	Shift=1643
+13	контакт	_	_	_	_	_	_	_	Shift=1650
+14	со	_	_	_	_	_	_	_	Shift=1658
+15	своими	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=1185|RuCor_group_id=414174|RuCor_link_id=414173|Shift=1661
+16	участниками	_	_	_	_	_	_	_	Shift=1668|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=1679
+18	равномерно	_	_	_	_	_	_	_	Shift=1681
+19	учитывающей	_	_	_	_	_	_	_	Shift=1692
+20	интересы	_	_	_	_	_	_	_	Shift=1704
+21	как	_	_	_	_	_	_	_	Shift=1713
+22	развитых	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1192|RuCor_group_id=414207|RuCor_link_id=414206|Shift=1717|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=1725
+24	так	_	_	_	_	_	_	_	Shift=1727
+25	и	_	_	_	_	_	_	_	Shift=1731
+26	развивающихся	_	_	_	_	_	_	_	RuCor_chain_id=1179|RuCor_group_id=414208|Shift=1733
+27	стран	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1179|RuCor_group_id=414208|RuCor_link_id=414147|Shift=1747|SpaceAfter=No
+28	,	_	_	_	_	_	_	_	Shift=1752
+29	и	_	_	_	_	_	_	_	Shift=1754
+30	действующей	_	_	_	_	_	_	_	Shift=1756
+31	в	_	_	_	_	_	_	_	Shift=1768
+32	соответствии	_	_	_	_	_	_	_	Shift=1770
+33	с	_	_	_	_	_	_	_	Shift=1783
+34	условиями	_	_	_	_	_	_	_	Shift=1785|SpaceAfter=No
+35	,	_	_	_	_	_	_	_	Shift=1794
+36	диктуемыми	_	_	_	_	_	_	_	Shift=1796
+37	моментом	_	_	_	_	_	_	_	Shift=1807|SpaceAfter=No
+38	.	_	_	_	_	_	_	_	Shift=1815
+
+# sent_id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p4-s2
+# text = Получив вторую жизнь, МВФ необходимо вновь завоевать центральное место в международной финансовой системе.
+1	Получив	_	_	_	_	_	_	_	Shift=1817
+2	вторую	_	_	_	_	_	_	_	Shift=1825
+3	жизнь	_	_	_	_	_	_	_	Shift=1832|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1837
+5	МВФ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=0|RuCor_group_id=414175|RuCor_link_id=414172|Shift=1839
+6	необходимо	_	_	_	_	_	_	_	Shift=1843
+7	вновь	_	_	_	_	_	_	_	Shift=1854
+8	завоевать	_	_	_	_	_	_	_	Shift=1860
+9	центральное	_	_	_	_	_	_	_	Shift=1870
+10	место	_	_	_	_	_	_	_	Shift=1882
+11	в	_	_	_	_	_	_	_	Shift=1888
+12	международной	_	_	_	_	_	_	_	Shift=1890
+13	финансовой	_	_	_	_	_	_	_	Shift=1904
+14	системе	_	_	_	_	_	_	_	Shift=1915|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=1922
+
+# sent_id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p4-s3
+# text = Для этого Фонду необходимо сосредоточиться на трёх вопросах: совершенствовании контроля финансовой стабильности, усилении международного координирования и пересмотре процесса принятия решений.
+1	Для	_	_	_	_	_	_	_	Shift=1924
+2	этого	_	_	_	_	_	_	_	Shift=1928
+3	Фонду	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=0|RuCor_group_id=414176|RuCor_link_id=414175|Shift=1934
+4	необходимо	_	_	_	_	_	_	_	Shift=1940
+5	сосредоточиться	_	_	_	_	_	_	_	Shift=1951
+6	на	_	_	_	_	_	_	_	Shift=1967
+7	трёх	_	_	_	_	_	_	_	Shift=1970
+8	вопросах	_	_	_	_	_	_	_	Shift=1975|SpaceAfter=No
+9	:	_	_	_	_	_	_	_	Shift=1983
+10	совершенствовании	_	_	_	_	_	_	_	Shift=1985
+11	контроля	_	_	_	_	_	_	_	Shift=2003
+12	финансовой	_	_	_	_	_	_	_	Shift=2012
+13	стабильности	_	_	_	_	_	_	_	Shift=2023|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=2035
+15	усилении	_	_	_	_	_	_	_	Shift=2037
+16	международного	_	_	_	_	_	_	_	Shift=2046
+17	координирования	_	_	_	_	_	_	_	Shift=2061
+18	и	_	_	_	_	_	_	_	Shift=2077
+19	пересмотре	_	_	_	_	_	_	_	Shift=2079
+20	процесса	_	_	_	_	_	_	_	Shift=2090
+21	принятия	_	_	_	_	_	_	_	Shift=2099
+22	решений	_	_	_	_	_	_	_	Shift=2108|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=2115
+
+# newpar id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p5
+# par_text = Новый МВФ также должен играть более активную роль в обсуждении вопросов глобальной финансовой стабильности. Фонд должен устранить недостатки процесса контролирования финансовых организаций. Он может помочь сформировать более сильную глобальную систему контроля, которая необходима для того, чтобы сохранить преимущества глобальных финансовых рынков. МВФ также должен оказывать содействие в развитии новой модели финансового ландшафта будущего.
+# sent_id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p5-s1
+# text = Новый МВФ также должен играть более активную роль в обсуждении вопросов глобальной финансовой стабильности.
+1	Новый	_	_	_	_	_	_	_	RuCor_chain_id=0|RuCor_group_id=414177|Shift=2118
+2	МВФ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=0|RuCor_group_id=414177|RuCor_link_id=414176|Shift=2124
+3	также	_	_	_	_	_	_	_	Shift=2128
+4	должен	_	_	_	_	_	_	_	Shift=2134
+5	играть	_	_	_	_	_	_	_	Shift=2141
+6	более	_	_	_	_	_	_	_	Shift=2148
+7	активную	_	_	_	_	_	_	_	Shift=2154
+8	роль	_	_	_	_	_	_	_	Shift=2163
+9	в	_	_	_	_	_	_	_	Shift=2168
+10	обсуждении	_	_	_	_	_	_	_	Shift=2170
+11	вопросов	_	_	_	_	_	_	_	Shift=2181
+12	глобальной	_	_	_	_	_	_	_	Shift=2190
+13	финансовой	_	_	_	_	_	_	_	Shift=2201
+14	стабильности	_	_	_	_	_	_	_	Shift=2212|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=2224
+
+# sent_id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p5-s2
+# text = Фонд должен устранить недостатки процесса контролирования финансовых организаций.
+1	Фонд	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=0|RuCor_group_id=414178|RuCor_link_id=414177|Shift=2226
+2	должен	_	_	_	_	_	_	_	Shift=2231
+3	устранить	_	_	_	_	_	_	_	Shift=2238
+4	недостатки	_	_	_	_	_	_	_	Shift=2248
+5	процесса	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1187|RuCor_group_id=414183|RuCor_link_id=0|Shift=2259
+6	контролирования	_	_	_	_	_	_	_	RuCor_chain_id=1187|RuCor_group_id=414183|Shift=2268
+7	финансовых	_	_	_	_	_	_	_	RuCor_chain_id=1187|RuCor_group_id=414183|Shift=2284
+8	организаций	_	_	_	_	_	_	_	RuCor_chain_id=1187|RuCor_group_id=414183|Shift=2295|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=2306
+
+# sent_id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p5-s3
+# text = Он может помочь сформировать более сильную глобальную систему контроля, которая необходима для того, чтобы сохранить преимущества глобальных финансовых рынков.
+1	Он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=0|RuCor_group_id=414179|RuCor_link_id=414178|Shift=2308
+2	может	_	_	_	_	_	_	_	Shift=2311
+3	помочь	_	_	_	_	_	_	_	Shift=2317
+4	сформировать	_	_	_	_	_	_	_	Shift=2324
+5	более	_	_	_	_	_	_	_	RuCor_chain_id=1186|RuCor_group_id=414180|Shift=2337
+6	сильную	_	_	_	_	_	_	_	RuCor_chain_id=1186|RuCor_group_id=414180|Shift=2343
+7	глобальную	_	_	_	_	_	_	_	RuCor_chain_id=1186|RuCor_group_id=414180|Shift=2351
+8	систему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1186|RuCor_group_id=414180|RuCor_link_id=0|Shift=2362
+9	контроля	_	_	_	_	_	_	_	RuCor_chain_id=1186|RuCor_group_id=414180|Shift=2370|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=2378
+11	которая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=1186|RuCor_group_id=414181|RuCor_link_id=414180|Shift=2380
+12	необходима	_	_	_	_	_	_	_	Shift=2388
+13	для	_	_	_	_	_	_	_	Shift=2399
+14	того	_	_	_	_	_	_	_	Shift=2403|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=2407
+16	чтобы	_	_	_	_	_	_	_	Shift=2409
+17	сохранить	_	_	_	_	_	_	_	Shift=2415
+18	преимущества	_	_	_	_	_	_	_	Shift=2425
+19	глобальных	_	_	_	_	_	_	_	Shift=2438
+20	финансовых	_	_	_	_	_	_	_	Shift=2449
+21	рынков	_	_	_	_	_	_	_	Shift=2460|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=2466
+
+# sent_id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p5-s4
+# text = МВФ также должен оказывать содействие в развитии новой модели финансового ландшафта будущего.
+1	МВФ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=0|RuCor_group_id=414182|RuCor_link_id=414179|Shift=2468
+2	также	_	_	_	_	_	_	_	Shift=2472
+3	должен	_	_	_	_	_	_	_	Shift=2478
+4	оказывать	_	_	_	_	_	_	_	Shift=2485
+5	содействие	_	_	_	_	_	_	_	Shift=2495
+6	в	_	_	_	_	_	_	_	Shift=2506
+7	развитии	_	_	_	_	_	_	_	Shift=2508
+8	новой	_	_	_	_	_	_	_	Shift=2517
+9	модели	_	_	_	_	_	_	_	Shift=2523
+10	финансового	_	_	_	_	_	_	_	Shift=2530
+11	ландшафта	_	_	_	_	_	_	_	Shift=2542
+12	будущего	_	_	_	_	_	_	_	Shift=2552|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=2560
+
+# newpar id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p6
+# par_text = Таким образом, процесс контролирования, осуществляемый МВФ, должен включать в себя регулярное обновление режимов управления в систематически важных странах. Поступающие от Группы двадцати заблаговременные предупреждения должны носить специфический характер, и МВФ должен проверять, следуют ли управляющие советам Фонда.
+# sent_id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p6-s1
+# text = Таким образом, процесс контролирования, осуществляемый МВФ, должен включать в себя регулярное обновление режимов управления в систематически важных странах.
+1	Таким	_	_	_	_	_	_	_	Shift=2563
+2	образом	_	_	_	_	_	_	_	Shift=2569|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=2576
+4	процесс	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1187|RuCor_group_id=414184|RuCor_link_id=414183|Shift=2578
+5	контролирования	_	_	_	_	_	_	_	RuCor_chain_id=1187|RuCor_group_id=414184|Shift=2586|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=2601
+7	осуществляемый	_	_	_	_	_	_	_	Shift=2603
+8	МВФ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=0|RuCor_group_id=414185|RuCor_link_id=414182|Shift=2618|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=2621
+10	должен	_	_	_	_	_	_	_	Shift=2623
+11	включать	_	_	_	_	_	_	_	Shift=2630
+12	в	_	_	_	_	_	_	_	Shift=2639
+13	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=1187|RuCor_group_id=414186|RuCor_link_id=414184|Shift=2641
+14	регулярное	_	_	_	_	_	_	_	Shift=2646
+15	обновление	_	_	_	_	_	_	_	Shift=2657
+16	режимов	_	_	_	_	_	_	_	Shift=2668
+17	управления	_	_	_	_	_	_	_	Shift=2676
+18	в	_	_	_	_	_	_	_	Shift=2687
+19	систематически	_	_	_	_	_	_	_	Shift=2689
+20	важных	_	_	_	_	_	_	_	Shift=2704
+21	странах	_	_	_	_	_	_	_	Shift=2711|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=2718
+
+# sent_id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p6-s2
+# text = Поступающие от Группы двадцати заблаговременные предупреждения должны носить специфический характер, и МВФ должен проверять, следуют ли управляющие советам Фонда.
+1	Поступающие	_	_	_	_	_	_	_	Shift=2720
+2	от	_	_	_	_	_	_	_	Shift=2732
+3	Группы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1182|RuCor_group_id=414187|RuCor_link_id=414157|Shift=2735
+4	двадцати	_	_	_	_	_	_	_	RuCor_chain_id=1182|RuCor_group_id=414187|Shift=2742
+5	заблаговременные	_	_	_	_	_	_	_	Shift=2751
+6	предупреждения	_	_	_	_	_	_	_	Shift=2768
+7	должны	_	_	_	_	_	_	_	Shift=2783
+8	носить	_	_	_	_	_	_	_	Shift=2790
+9	специфический	_	_	_	_	_	_	_	Shift=2797
+10	характер	_	_	_	_	_	_	_	Shift=2811|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=2819
+12	и	_	_	_	_	_	_	_	Shift=2821
+13	МВФ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=0|RuCor_group_id=414188|RuCor_link_id=414185|Shift=2823
+14	должен	_	_	_	_	_	_	_	Shift=2827
+15	проверять	_	_	_	_	_	_	_	Shift=2834|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=2843
+17	следуют	_	_	_	_	_	_	_	Shift=2845
+18	ли	_	_	_	_	_	_	_	Shift=2853
+19	управляющие	_	_	_	_	_	_	_	Shift=2856
+20	советам	_	_	_	_	_	_	_	Shift=2868
+21	Фонда	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=0|RuCor_group_id=414189|RuCor_link_id=414188|Shift=2876|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=2881
+
+# newpar id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p7
+# par_text = Новому МВФ также необходимо вновь рассмотреть вопрос международного координирования. Требование Китая о создании нового денежного порядка создаёт условия для возобновления усилий по избежанию международного дисбаланса, послужившего коренной причиной текущего кризиса.
+# sent_id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p7-s1
+# text = Новому МВФ также необходимо вновь рассмотреть вопрос международного координирования.
+1	Новому	_	_	_	_	_	_	_	RuCor_chain_id=0|RuCor_group_id=414190|Shift=2884
+2	МВФ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=0|RuCor_group_id=414190|RuCor_link_id=414189|Shift=2891
+3	также	_	_	_	_	_	_	_	Shift=2895
+4	необходимо	_	_	_	_	_	_	_	Shift=2901
+5	вновь	_	_	_	_	_	_	_	Shift=2912
+6	рассмотреть	_	_	_	_	_	_	_	Shift=2918
+7	вопрос	_	_	_	_	_	_	_	Shift=2930
+8	международного	_	_	_	_	_	_	_	Shift=2937
+9	координирования	_	_	_	_	_	_	_	Shift=2952|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=2967
+
+# sent_id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p7-s2
+# text = Требование Китая о создании нового денежного порядка создаёт условия для возобновления усилий по избежанию международного дисбаланса, послужившего коренной причиной текущего кризиса.
+1	Требование	_	_	_	_	_	_	_	Shift=2969
+2	Китая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1188|RuCor_group_id=414192|RuCor_link_id=0|Shift=2980
+3	о	_	_	_	_	_	_	_	Shift=2986
+4	создании	_	_	_	_	_	_	_	Shift=2988
+5	нового	_	_	_	_	_	_	_	Shift=2997
+6	денежного	_	_	_	_	_	_	_	Shift=3004
+7	порядка	_	_	_	_	_	_	_	Shift=3014
+8	создаёт	_	_	_	_	_	_	_	Shift=3022
+9	условия	_	_	_	_	_	_	_	Shift=3030
+10	для	_	_	_	_	_	_	_	Shift=3038
+11	возобновления	_	_	_	_	_	_	_	Shift=3042
+12	усилий	_	_	_	_	_	_	_	Shift=3056
+13	по	_	_	_	_	_	_	_	Shift=3063
+14	избежанию	_	_	_	_	_	_	_	Shift=3066
+15	международного	_	_	_	_	_	_	_	Shift=3076
+16	дисбаланса	_	_	_	_	_	_	_	Shift=3091|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=3101
+18	послужившего	_	_	_	_	_	_	_	Shift=3103
+19	коренной	_	_	_	_	_	_	_	Shift=3116
+20	причиной	_	_	_	_	_	_	_	Shift=3125
+21	текущего	_	_	_	_	_	_	_	RuCor_chain_id=1181|RuCor_group_id=414191|Shift=3134
+22	кризиса	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1181|RuCor_group_id=414191|RuCor_link_id=414165|Shift=3143|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=3150
+
+# newpar id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p8
+# par_text = Во-первых, вопрос дефицита сбережений в США потребует решения в эффективной манере. Во-вторых, Китаю будет необходимо сделать свою валюту конвертируемой. В-третьих, позиция евро со временем усилится, поскольку к еврозоне присоединятся новые страны.
+# sent_id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p8-s1
+# text = Во-первых, вопрос дефицита сбережений в США потребует решения в эффективной манере.
+1	Во-первых	_	_	_	_	_	_	_	Shift=3153|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=3162
+3	вопрос	_	_	_	_	_	_	_	Shift=3164
+4	дефицита	_	_	_	_	_	_	_	Shift=3171
+5	сбережений	_	_	_	_	_	_	_	Shift=3180
+6	в	_	_	_	_	_	_	_	Shift=3191
+7	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1193|RuCor_group_id=414212|RuCor_link_id=0|Shift=3193
+8	потребует	_	_	_	_	_	_	_	Shift=3197
+9	решения	_	_	_	_	_	_	_	Shift=3207
+10	в	_	_	_	_	_	_	_	Shift=3215
+11	эффективной	_	_	_	_	_	_	_	Shift=3217
+12	манере	_	_	_	_	_	_	_	Shift=3229|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=3235
+
+# sent_id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p8-s2
+# text = Во-вторых, Китаю будет необходимо сделать свою валюту конвертируемой.
+1	Во-вторых	_	_	_	_	_	_	_	Shift=3237|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=3246
+3	Китаю	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1188|RuCor_group_id=414193|RuCor_link_id=414192|Shift=3248
+4	будет	_	_	_	_	_	_	_	Shift=3254
+5	необходимо	_	_	_	_	_	_	_	Shift=3260
+6	сделать	_	_	_	_	_	_	_	Shift=3271
+7	свою	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1188|RuCor_group_id=414194|RuCor_link_id=414193|Shift=3279
+8	валюту	_	_	_	_	_	_	_	Shift=3284
+9	конвертируемой	_	_	_	_	_	_	_	Shift=3291|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=3305
+
+# sent_id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p8-s3
+# text = В-третьих, позиция евро со временем усилится, поскольку к еврозоне присоединятся новые страны.
+1	В-третьих	_	_	_	_	_	_	_	Shift=3307|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=3316
+3	позиция	_	_	_	_	_	_	_	Shift=3318
+4	евро	_	_	_	_	_	_	_	Shift=3326
+5	со	_	_	_	_	_	_	_	Shift=3331
+6	временем	_	_	_	_	_	_	_	Shift=3334
+7	усилится	_	_	_	_	_	_	_	Shift=3343|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=3351
+9	поскольку	_	_	_	_	_	_	_	Shift=3353
+10	к	_	_	_	_	_	_	_	Shift=3363
+11	еврозоне	_	_	_	_	_	_	_	Shift=3365
+12	присоединятся	_	_	_	_	_	_	_	Shift=3374
+13	новые	_	_	_	_	_	_	_	Shift=3388
+14	страны	_	_	_	_	_	_	_	Shift=3394|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=3400
+
+# newpar id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p9
+# par_text = При наличии большего количества ключевых валют, перспектива истинно мультиполярной валютной системы, в которой SDR будет играть более заметную роль, начинает приобретать реальные очертания. Это сократит необходимость развивающихся стран накапливать крупные фонды в качестве гарантии против финансовой нестабильности.
+# sent_id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p9-s1
+# text = При наличии большего количества ключевых валют, перспектива истинно мультиполярной валютной системы, в которой SDR будет играть более заметную роль, начинает приобретать реальные очертания.
+1	При	_	_	_	_	_	_	_	Shift=3403
+2	наличии	_	_	_	_	_	_	_	Shift=3407
+3	большего	_	_	_	_	_	_	_	Shift=3415
+4	количества	_	_	_	_	_	_	_	Shift=3424
+5	ключевых	_	_	_	_	_	_	_	Shift=3435
+6	валют	_	_	_	_	_	_	_	Shift=3444|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=3449
+8	перспектива	_	_	_	_	_	_	_	Shift=3451
+9	истинно	_	_	_	_	_	_	_	RuCor_chain_id=1189|RuCor_group_id=414195|Shift=3463
+10	мультиполярной	_	_	_	_	_	_	_	RuCor_chain_id=1189|RuCor_group_id=414195|Shift=3471
+11	валютной	_	_	_	_	_	_	_	RuCor_chain_id=1189|RuCor_group_id=414195|Shift=3486
+12	системы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1189|RuCor_group_id=414195|RuCor_link_id=0|Shift=3495|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=3502
+14	в	_	_	_	_	_	_	_	Shift=3504
+15	которой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=1189|RuCor_group_id=414196|RuCor_link_id=414195|Shift=3506
+16	SDR	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1190|RuCor_group_id=414199|RuCor_link_id=414198|Shift=3514
+17	будет	_	_	_	_	_	_	_	Shift=3518
+18	играть	_	_	_	_	_	_	_	Shift=3524
+19	более	_	_	_	_	_	_	_	Shift=3531
+20	заметную	_	_	_	_	_	_	_	Shift=3537
+21	роль	_	_	_	_	_	_	_	Shift=3546|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=3550
+23	начинает	_	_	_	_	_	_	_	Shift=3552
+24	приобретать	_	_	_	_	_	_	_	Shift=3561
+25	реальные	_	_	_	_	_	_	_	Shift=3573
+26	очертания	_	_	_	_	_	_	_	Shift=3582|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=3591
+
+# sent_id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p9-s2
+# text = Это сократит необходимость развивающихся стран накапливать крупные фонды в качестве гарантии против финансовой нестабильности.
+1	Это	_	_	_	_	_	_	_	Shift=3593
+2	сократит	_	_	_	_	_	_	_	Shift=3597
+3	необходимость	_	_	_	_	_	_	_	Shift=3606
+4	развивающихся	_	_	_	_	_	_	_	RuCor_chain_id=1179|RuCor_group_id=414232|Shift=3620
+5	стран	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1179|RuCor_group_id=414232|RuCor_link_id=414208|Shift=3634
+6	накапливать	_	_	_	_	_	_	_	Shift=3640
+7	крупные	_	_	_	_	_	_	_	Shift=3652
+8	фонды	_	_	_	_	_	_	_	Shift=3660
+9	в	_	_	_	_	_	_	_	Shift=3666
+10	качестве	_	_	_	_	_	_	_	Shift=3668
+11	гарантии	_	_	_	_	_	_	_	Shift=3677
+12	против	_	_	_	_	_	_	_	Shift=3686
+13	финансовой	_	_	_	_	_	_	_	Shift=3693
+14	нестабильности	_	_	_	_	_	_	_	Shift=3704|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=3718
+
+# newpar id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p10
+# par_text = И, наконец, новому МВФ требуются структуры управления, больше соответствующие сегодняшней мировой действительности. Авторитет МВФ пострадал от создавшегося в прошлом мнения о том, что развитые страны, заправляя делами в Фонде, не прислушиваются к его советам.
+# sent_id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p10-s1
+# text = И, наконец, новому МВФ требуются структуры управления, больше соответствующие сегодняшней мировой действительности.
+1	И	_	_	_	_	_	_	_	Shift=3721|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=3722
+3	наконец	_	_	_	_	_	_	_	Shift=3724|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=3731
+5	новому	_	_	_	_	_	_	_	RuCor_chain_id=0|RuCor_group_id=414200|Shift=3733
+6	МВФ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=|RuCor_attrs_type=coref|RuCor_chain_id=0|RuCor_group_id=414200|RuCor_link_id=414190|Shift=3740
+7	требуются	_	_	_	_	_	_	_	Shift=3744
+8	структуры	_	_	_	_	_	_	_	Shift=3754
+9	управления	_	_	_	_	_	_	_	Shift=3764|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=3774
+11	больше	_	_	_	_	_	_	_	Shift=3776
+12	соответствующие	_	_	_	_	_	_	_	Shift=3783
+13	сегодняшней	_	_	_	_	_	_	_	Shift=3799
+14	мировой	_	_	_	_	_	_	_	Shift=3811
+15	действительности	_	_	_	_	_	_	_	Shift=3819|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=3835
+
+# sent_id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p10-s2
+# text = Авторитет МВФ пострадал от создавшегося в прошлом мнения о том, что развитые страны, заправляя делами в Фонде, не прислушиваются к его советам.
+1	Авторитет	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=|RuCor_attrs_type=anaph|RuCor_chain_id=1191|RuCor_group_id=414202|RuCor_link_id=414201|Shift=3837
+2	МВФ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=0|RuCor_group_id=414203|RuCor_link_id=414200|Shift=3847
+3	пострадал	_	_	_	_	_	_	_	Shift=3851
+4	от	_	_	_	_	_	_	_	Shift=3861
+5	создавшегося	_	_	_	_	_	_	_	Shift=3864
+6	в	_	_	_	_	_	_	_	Shift=3877
+7	прошлом	_	_	_	_	_	_	_	Shift=3879
+8	мнения	_	_	_	_	_	_	_	Shift=3887
+9	о	_	_	_	_	_	_	_	Shift=3894
+10	том	_	_	_	_	_	_	_	Shift=3896|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=3899
+12	что	_	_	_	_	_	_	_	Shift=3901
+13	развитые	_	_	_	_	_	_	_	RuCor_chain_id=1192|RuCor_group_id=414209|Shift=3905
+14	страны	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=|RuCor_attrs_type=anaph|RuCor_chain_id=1192|RuCor_group_id=414209|RuCor_link_id=414207|Shift=3914|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=3920
+16	заправляя	_	_	_	_	_	_	_	Shift=3922
+17	делами	_	_	_	_	_	_	_	Shift=3932
+18	в	_	_	_	_	_	_	_	Shift=3939
+19	Фонде	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=0|RuCor_group_id=414204|RuCor_link_id=414203|Shift=3941|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=3946
+21	не	_	_	_	_	_	_	_	Shift=3948
+22	прислушиваются	_	_	_	_	_	_	_	Shift=3951
+23	к	_	_	_	_	_	_	_	Shift=3966
+24	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=0|RuCor_group_id=414205|RuCor_link_id=414204|Shift=3968
+25	советам	_	_	_	_	_	_	_	Shift=3972|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=3979
+
+# newpar id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p11
+# par_text = Саммит Группы двадцати ознаменовал возвращение США к мультилатерализму. Этому принятию коллективной ответственности должен сопутствовать отказ США от права вето в МВФ через снижение требуемого количества голосующего большинства, так же как и отказ от прерогативы Европы на назначение управляющего директора. Одной из сильных сторон нынешней структуры управления МВФ является его представительная выборная система, которую следует перенять и Группе двадцати в целях исключения возможности дискриминирования.
+# sent_id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p11-s1
+# text = Саммит Группы двадцати ознаменовал возвращение США к мультилатерализму.
+1	Саммит	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=|RuCor_attrs_type=coref|RuCor_chain_id=1180|RuCor_group_id=414210|RuCor_link_id=414155|Shift=3982
+2	Группы	_	_	_	_	_	_	_	RuCor_chain_id=1182|RuCor_group_id=414211|RuCor_link_id=414187|Shift=3989
+3	двадцати	_	_	_	_	_	_	_	RuCor_chain_id=1182|RuCor_group_id=414211|Shift=3996
+4	ознаменовал	_	_	_	_	_	_	_	Shift=4005
+5	возвращение	_	_	_	_	_	_	_	Shift=4017
+6	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1193|RuCor_group_id=414213|RuCor_link_id=414212|Shift=4029
+7	к	_	_	_	_	_	_	_	Shift=4033
+8	мультилатерализму	_	_	_	_	_	_	_	Shift=4035|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=4052
+
+# sent_id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p11-s2
+# text = Этому принятию коллективной ответственности должен сопутствовать отказ США от права вето в МВФ через снижение требуемого количества голосующего большинства, так же как и отказ от прерогативы Европы на назначение управляющего директора.
+1	Этому	_	_	_	_	_	_	_	Shift=4054
+2	принятию	_	_	_	_	_	_	_	Shift=4060
+3	коллективной	_	_	_	_	_	_	_	Shift=4069
+4	ответственности	_	_	_	_	_	_	_	Shift=4082
+5	должен	_	_	_	_	_	_	_	Shift=4098
+6	сопутствовать	_	_	_	_	_	_	_	Shift=4105
+7	отказ	_	_	_	_	_	_	_	Shift=4119
+8	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1193|RuCor_group_id=414214|RuCor_link_id=414213|Shift=4125
+9	от	_	_	_	_	_	_	_	Shift=4129
+10	права	_	_	_	_	_	_	_	Shift=4132
+11	вето	_	_	_	_	_	_	_	Shift=4138
+12	в	_	_	_	_	_	_	_	Shift=4143
+13	МВФ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=0|RuCor_group_id=414215|RuCor_link_id=414205|Shift=4145
+14	через	_	_	_	_	_	_	_	Shift=4149
+15	снижение	_	_	_	_	_	_	_	Shift=4155
+16	требуемого	_	_	_	_	_	_	_	Shift=4164
+17	количества	_	_	_	_	_	_	_	Shift=4175
+18	голосующего	_	_	_	_	_	_	_	Shift=4186
+19	большинства	_	_	_	_	_	_	_	Shift=4198|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=4209
+21	так	_	_	_	_	_	_	_	Shift=4211
+22	же	_	_	_	_	_	_	_	Shift=4215
+23	как	_	_	_	_	_	_	_	Shift=4218
+24	и	_	_	_	_	_	_	_	Shift=4222
+25	отказ	_	_	_	_	_	_	_	Shift=4224
+26	от	_	_	_	_	_	_	_	Shift=4230
+27	прерогативы	_	_	_	_	_	_	_	Shift=4233
+28	Европы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1196|RuCor_group_id=414227|RuCor_link_id=0|Shift=4245
+29	на	_	_	_	_	_	_	_	Shift=4252
+30	назначение	_	_	_	_	_	_	_	Shift=4255
+31	управляющего	_	_	_	_	_	_	_	Shift=4266
+32	директора	_	_	_	_	_	_	_	Shift=4279|SpaceAfter=No
+33	.	_	_	_	_	_	_	_	Shift=4288
+
+# sent_id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p11-s3
+# text = Одной из сильных сторон нынешней структуры управления МВФ является его представительная выборная система, которую следует перенять и Группе двадцати в целях исключения возможности дискриминирования.
+1	Одной	_	_	_	_	_	_	_	Shift=4290
+2	из	_	_	_	_	_	_	_	Shift=4296
+3	сильных	_	_	_	_	_	_	_	Shift=4299
+4	сторон	_	_	_	_	_	_	_	Shift=4307
+5	нынешней	_	_	_	_	_	_	_	Shift=4314
+6	структуры	_	_	_	_	_	_	_	Shift=4323
+7	управления	_	_	_	_	_	_	_	Shift=4333
+8	МВФ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=0|RuCor_group_id=414216|RuCor_link_id=414215|Shift=4344
+9	является	_	_	_	_	_	_	_	Shift=4348
+10	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1194|RuCor_group_id=414218|RuCor_link_id=414216|Shift=4357
+11	представительная	_	_	_	_	_	_	_	RuCor_chain_id=1194|RuCor_group_id=414218|Shift=4361
+12	выборная	_	_	_	_	_	_	_	RuCor_chain_id=1194|RuCor_group_id=414218|Shift=4378
+13	система	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=|RuCor_attrs_type=anaph|RuCor_chain_id=1194|RuCor_group_id=414218|RuCor_link_id=0|Shift=4387|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=4394
+15	которую	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=1194|RuCor_group_id=414219|RuCor_link_id=414218|Shift=4396
+16	следует	_	_	_	_	_	_	_	Shift=4404
+17	перенять	_	_	_	_	_	_	_	Shift=4412
+18	и	_	_	_	_	_	_	_	Shift=4421
+19	Группе	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=|RuCor_attrs_type=coref|RuCor_chain_id=1182|RuCor_group_id=414220|RuCor_link_id=414211|Shift=4423
+20	двадцати	_	_	_	_	_	_	_	RuCor_chain_id=1182|RuCor_group_id=414220|Shift=4430
+21	в	_	_	_	_	_	_	_	Shift=4439
+22	целях	_	_	_	_	_	_	_	Shift=4441
+23	исключения	_	_	_	_	_	_	_	Shift=4447
+24	возможности	_	_	_	_	_	_	_	Shift=4458
+25	дискриминирования	_	_	_	_	_	_	_	Shift=4470|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=4487
+
+# newpar id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p12
+# par_text = Быстрый рост Китая, Индии и других стран с развивающейся экономикой должен сопровождаться усилением их влияния, которое может осуществиться посредством увеличения квоты, запланированного на 2011 год. Развитые страны, включая страны Европы, будут слегка ограничены в своём выборном влиянии. Усиление влияния развивающихся стран будет подразумевать и принятие большего количества международных обязательств, также и в финансовом отношении.
+# sent_id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p12-s1
+# text = Быстрый рост Китая, Индии и других стран с развивающейся экономикой должен сопровождаться усилением их влияния, которое может осуществиться посредством увеличения квоты, запланированного на 2011 год. Развитые страны, включая страны Европы, будут слегка ограничены в своём выборном влиянии.
+1	Быстрый	_	_	_	_	_	_	_	Shift=4490
+2	рост	_	_	_	_	_	_	_	Shift=4498
+3	Китая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1179|RuCor_group_id=414222|RuCor_link_id=414194|Shift=4503|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	RuCor_chain_id=1179|RuCor_group_id=414222|Shift=4508
+5	Индии	_	_	_	_	_	_	_	RuCor_chain_id=1179|RuCor_group_id=414222|Shift=4510
+6	и	_	_	_	_	_	_	_	RuCor_chain_id=1179|RuCor_group_id=414222|Shift=4516
+7	других	_	_	_	_	_	_	_	RuCor_chain_id=1179|RuCor_group_id=414222|Shift=4518
+8	стран	_	_	_	_	_	_	_	RuCor_chain_id=1179|RuCor_group_id=414222|Shift=4525
+9	с	_	_	_	_	_	_	_	RuCor_chain_id=1179|RuCor_group_id=414222|Shift=4531
+10	развивающейся	_	_	_	_	_	_	_	RuCor_chain_id=1179|RuCor_group_id=414222|Shift=4533
+11	экономикой	_	_	_	_	_	_	_	RuCor_chain_id=1179|RuCor_group_id=414222|Shift=4547
+12	должен	_	_	_	_	_	_	_	Shift=4558
+13	сопровождаться	_	_	_	_	_	_	_	Shift=4565
+14	усилением	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=|RuCor_attrs_type=anaph|RuCor_chain_id=1195|RuCor_group_id=414224|RuCor_link_id=0|Shift=4580
+15	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=1197|RuCor_group_id=414234|RuCor_link_id=414222|Shift=4590
+16	влияния	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=|RuCor_attrs_type=anaph|RuCor_chain_id=1197|RuCor_group_id=414234|RuCor_link_id=0|Shift=4593|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=4600
+18	которое	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=1195|RuCor_group_id=414225|RuCor_link_id=414224|Shift=4602
+19	может	_	_	_	_	_	_	_	Shift=4610
+20	осуществиться	_	_	_	_	_	_	_	Shift=4616
+21	посредством	_	_	_	_	_	_	_	Shift=4630
+22	увеличения	_	_	_	_	_	_	_	Shift=4642
+23	квоты	_	_	_	_	_	_	_	Shift=4653|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=4658
+25	запланированного	_	_	_	_	_	_	_	Shift=4660
+26	на	_	_	_	_	_	_	_	Shift=4677
+27	2011	_	_	_	_	_	_	_	Shift=4680
+28	год.	_	_	_	_	_	_	_	Shift=4685
+29	Развитые	_	_	_	_	_	_	_	RuCor_chain_id=1192|RuCor_group_id=414226|Shift=4690
+30	страны	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=|RuCor_attrs_type=anaph|RuCor_chain_id=1192|RuCor_group_id=414226|RuCor_link_id=414209|Shift=4699|SpaceAfter=No
+31	,	_	_	_	_	_	_	_	Shift=4705
+32	включая	_	_	_	_	_	_	_	Shift=4707
+33	страны	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=|RuCor_attrs_type=anaph|RuCor_chain_id=1198|RuCor_group_id=414235|RuCor_link_id=0|Shift=4715
+34	Европы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1196|RuCor_group_id=414228|RuCor_link_id=414227|Shift=4722|SpaceAfter=No
+35	,	_	_	_	_	_	_	_	Shift=4728
+36	будут	_	_	_	_	_	_	_	Shift=4730
+37	слегка	_	_	_	_	_	_	_	Shift=4736
+38	ограничены	_	_	_	_	_	_	_	Shift=4743
+39	в	_	_	_	_	_	_	_	Shift=4754
+40	своём	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=1192|RuCor_group_id=414229|RuCor_link_id=414226|Shift=4756
+41	выборном	_	_	_	_	_	_	_	Shift=4762
+42	влиянии	_	_	_	_	_	_	_	Shift=4771|SpaceAfter=No
+43	.	_	_	_	_	_	_	_	Shift=4778
+
+# sent_id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p12-s2
+# text = Усиление влияния развивающихся стран будет подразумевать и принятие большего количества международных обязательств, также и в финансовом отношении.
+1	Усиление	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=|RuCor_attrs_type=anaph|RuCor_chain_id=1195|RuCor_group_id=414230|RuCor_link_id=414224|Shift=4780
+2	влияния	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=|RuCor_attrs_type=anaph|RuCor_chain_id=1197|RuCor_group_id=414236|RuCor_link_id=414234|Shift=4789
+3	развивающихся	_	_	_	_	_	_	_	RuCor_chain_id=1179|RuCor_group_id=414231|Shift=4797
+4	стран	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=|RuCor_attrs_type=anaph|RuCor_chain_id=1179|RuCor_group_id=414231|RuCor_link_id=414223|Shift=4811
+5	будет	_	_	_	_	_	_	_	Shift=4817
+6	подразумевать	_	_	_	_	_	_	_	Shift=4823
+7	и	_	_	_	_	_	_	_	Shift=4837
+8	принятие	_	_	_	_	_	_	_	Shift=4839
+9	большего	_	_	_	_	_	_	_	Shift=4848
+10	количества	_	_	_	_	_	_	_	Shift=4857
+11	международных	_	_	_	_	_	_	_	Shift=4868
+12	обязательств	_	_	_	_	_	_	_	Shift=4882|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=4894
+14	также	_	_	_	_	_	_	_	Shift=4896
+15	и	_	_	_	_	_	_	_	Shift=4902
+16	в	_	_	_	_	_	_	_	Shift=4904
+17	финансовом	_	_	_	_	_	_	_	Shift=4906
+18	отношении	_	_	_	_	_	_	_	Shift=4917|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=4926
+
+# newpar id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p13
+# par_text = На сегодняшний момент страны Европы финансируют 42% займов МВФ и 62% концессионных зацмов Всемирного банка. Эту задачу должны будут разделить развивающиеся страны с наличием крупных фондов. Эти фонды получат наилучшее применение, помогая МВФ сохранить открытую и стабильную финансовую систему и предотвратить кризисы, подобные нынешнему.
+# sent_id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p13-s1
+# text = На сегодняшний момент страны Европы финансируют 42 % займов МВФ и 62 % концессионных зацмов Всемирного банка.
+1	На	_	_	_	_	_	_	_	Shift=4929
+2	сегодняшний	_	_	_	_	_	_	_	Shift=4932
+3	момент	_	_	_	_	_	_	_	Shift=4944
+4	страны	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=|RuCor_attrs_type=anaph|RuCor_chain_id=1198|RuCor_group_id=414238|RuCor_link_id=414235|Shift=4951
+5	Европы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1196|RuCor_group_id=414237|RuCor_link_id=414228|Shift=4958
+6	финансируют	_	_	_	_	_	_	_	Shift=4965
+7	42	_	_	_	_	_	_	_	Shift=4977
+8	%	_	_	_	_	_	_	_	Shift=4979
+9	займов	_	_	_	_	_	_	_	Shift=4981
+10	МВФ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=0|RuCor_group_id=414239|RuCor_link_id=414216|Shift=4988
+11	и	_	_	_	_	_	_	_	Shift=4992
+12	62	_	_	_	_	_	_	_	Shift=4994
+13	%	_	_	_	_	_	_	_	Shift=4996
+14	концессионных	_	_	_	_	_	_	_	Shift=4998
+15	зацмов	_	_	_	_	_	_	_	Shift=5012
+16	Всемирного	_	_	_	_	_	_	_	Shift=5019
+17	банка	_	_	_	_	_	_	_	Shift=5030|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=5035
+
+# sent_id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p13-s2
+# text = Эту задачу должны будут разделить развивающиеся страны с наличием крупных фондов.
+1	Эту	_	_	_	_	_	_	_	Shift=5037
+2	задачу	_	_	_	_	_	_	_	Shift=5041
+3	должны	_	_	_	_	_	_	_	Shift=5048
+4	будут	_	_	_	_	_	_	_	Shift=5055
+5	разделить	_	_	_	_	_	_	_	Shift=5061
+6	развивающиеся	_	_	_	_	_	_	_	Shift=5071
+7	страны	_	_	_	_	_	_	_	Shift=5085
+8	с	_	_	_	_	_	_	_	Shift=5092
+9	наличием	_	_	_	_	_	_	_	Shift=5094
+10	крупных	_	_	_	_	_	_	_	RuCor_chain_id=1199|RuCor_group_id=414240|Shift=5103
+11	фондов	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=|RuCor_attrs_type=anaph|RuCor_chain_id=1199|RuCor_group_id=414240|RuCor_link_id=0|Shift=5111|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=5117
+
+# sent_id = 51d4ccd9-c9b0-418b-aee6-18a403f4144d-p13-s3
+# text = Эти фонды получат наилучшее применение, помогая МВФ сохранить открытую и стабильную финансовую систему и предотвратить кризисы, подобные нынешнему.
+1	Эти	_	_	_	_	_	_	_	RuCor_chain_id=1199|RuCor_group_id=414241|Shift=5119
+2	фонды	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=|RuCor_attrs_type=anaph|RuCor_chain_id=1199|RuCor_group_id=414241|RuCor_link_id=414240|Shift=5123
+3	получат	_	_	_	_	_	_	_	Shift=5129
+4	наилучшее	_	_	_	_	_	_	_	Shift=5137
+5	применение	_	_	_	_	_	_	_	Shift=5147|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=5157
+7	помогая	_	_	_	_	_	_	_	Shift=5159
+8	МВФ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=0|RuCor_group_id=414242|RuCor_link_id=414239|Shift=5167
+9	сохранить	_	_	_	_	_	_	_	Shift=5171
+10	открытую	_	_	_	_	_	_	_	Shift=5181
+11	и	_	_	_	_	_	_	_	Shift=5190
+12	стабильную	_	_	_	_	_	_	_	Shift=5192
+13	финансовую	_	_	_	_	_	_	_	Shift=5203
+14	систему	_	_	_	_	_	_	_	Shift=5214
+15	и	_	_	_	_	_	_	_	Shift=5222
+16	предотвратить	_	_	_	_	_	_	_	Shift=5224
+17	кризисы	_	_	_	_	_	_	_	Shift=5238|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=5245
+19	подобные	_	_	_	_	_	_	_	Shift=5247
+20	нынешнему	_	_	_	_	_	_	_	Shift=5256|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	_
+

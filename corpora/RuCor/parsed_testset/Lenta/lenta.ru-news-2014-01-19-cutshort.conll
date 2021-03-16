@@ -1,0 +1,492 @@
+# newdoc id = 3153857f-685f-492c-b79a-383979cdb1da
+# newpar id = 3153857f-685f-492c-b79a-383979cdb1da-p1
+# par_text = Президент России Владимир Путин пообещал обеспечить безопасность гостей и участников Олимпиады в Сочи. Об этом глава государства заявил в ходе интервью ряду российских и иностранных СМИ в Красной Поляне.
+# sent_id = 3153857f-685f-492c-b79a-383979cdb1da-p1-s1
+# text = Президент России Владимир Путин пообещал обеспечить безопасность гостей и участников Олимпиады в Сочи.
+1	Президент	_	_	_	_	_	_	_	RuCor_chain_id=544|RuCor_group_id=411416|Shift=0
+2	России	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=541|RuCor_group_id=411427|RuCor_link_id=0|Shift=10
+3	Владимир	_	_	_	_	_	_	_	RuCor_chain_id=544|RuCor_group_id=411416|Shift=17
+4	Путин	_	_	_	_	_	_	_	RuCor_chain_id=544|RuCor_group_id=411416|Shift=26
+5	пообещал	_	_	_	_	_	_	_	Shift=32
+6	обеспечить	_	_	_	_	_	_	_	Shift=41
+7	безопасность	_	_	_	_	_	_	_	Shift=52
+8	гостей	_	_	_	_	_	_	_	Shift=65
+9	и	_	_	_	_	_	_	_	Shift=72
+10	участников	_	_	_	_	_	_	_	Shift=74
+11	Олимпиады	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=542|RuCor_group_id=411423|RuCor_link_id=0|Shift=85
+12	в	_	_	_	_	_	_	_	RuCor_chain_id=542|RuCor_group_id=411423|Shift=95
+13	Сочи	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=543|RuCor_group_id=411418|RuCor_link_id=0|Shift=97|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=101
+
+# sent_id = 3153857f-685f-492c-b79a-383979cdb1da-p1-s2
+# text = Об этом глава государства заявил в ходе интервью ряду российских и иностранных СМИ в Красной Поляне.
+1	Об	_	_	_	_	_	_	_	Shift=103
+2	этом	_	_	_	_	_	_	_	Shift=106
+3	глава	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=544|RuCor_group_id=411417|RuCor_link_id=411416|Shift=111
+4	государства	_	_	_	_	_	_	_	RuCor_chain_id=544|RuCor_group_id=411417|Shift=117
+5	заявил	_	_	_	_	_	_	_	Shift=129
+6	в	_	_	_	_	_	_	_	Shift=136
+7	ходе	_	_	_	_	_	_	_	Shift=138
+8	интервью	_	_	_	_	_	_	_	Shift=143
+9	ряду	_	_	_	_	_	_	_	Shift=152
+10	российских	_	_	_	_	_	_	_	Shift=157
+11	и	_	_	_	_	_	_	_	Shift=168
+12	иностранных	_	_	_	_	_	_	_	Shift=170
+13	СМИ	_	_	_	_	_	_	_	Shift=182
+14	в	_	_	_	_	_	_	_	Shift=186
+15	Красной	_	_	_	_	_	_	_	Shift=188
+16	Поляне	_	_	_	_	_	_	_	Shift=196|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=202
+
+# newpar id = 3153857f-685f-492c-b79a-383979cdb1da-p2
+# par_text = «Надеюсь, что все, что мы делаем, с пониманием, с ясным пониманием оперативной обстановки, которая складывается вокруг Сочи и вообще в этом регионе. У нас есть прекрасное понимание того, что это такое, какова эта угроза, как ее купировать, как с этим бороться», — сказал президент.
+# sent_id = 3153857f-685f-492c-b79a-383979cdb1da-p2-s1
+# text = ``Надеюсь, что все, что мы делаем, с пониманием, с ясным пониманием оперативной обстановки, которая складывается вокруг Сочи и вообще в этом регионе.
+1	``	_	_	_	_	_	_	_	Shift=204|SpaceAfter=No
+2	Надеюсь	_	_	_	_	_	_	_	Shift=205|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=212
+4	что	_	_	_	_	_	_	_	Shift=214
+5	все	_	_	_	_	_	_	_	Shift=218|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=221
+7	что	_	_	_	_	_	_	_	Shift=223
+8	мы	_	_	_	_	_	_	_	Shift=227
+9	делаем	_	_	_	_	_	_	_	Shift=230|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=236
+11	с	_	_	_	_	_	_	_	Shift=238
+12	пониманием	_	_	_	_	_	_	_	Shift=240|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=250
+14	с	_	_	_	_	_	_	_	Shift=252
+15	ясным	_	_	_	_	_	_	_	Shift=254
+16	пониманием	_	_	_	_	_	_	_	Shift=260
+17	оперативной	_	_	_	_	_	_	_	Shift=271
+18	обстановки	_	_	_	_	_	_	_	Shift=283|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=293
+20	которая	_	_	_	_	_	_	_	Shift=295
+21	складывается	_	_	_	_	_	_	_	Shift=303
+22	вокруг	_	_	_	_	_	_	_	Shift=316
+23	Сочи	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=543|RuCor_group_id=411419|RuCor_link_id=411418|Shift=323
+24	и	_	_	_	_	_	_	_	Shift=328
+25	вообще	_	_	_	_	_	_	_	Shift=330
+26	в	_	_	_	_	_	_	_	Shift=337
+27	этом	_	_	_	_	_	_	_	Shift=339
+28	регионе	_	_	_	_	_	_	_	Shift=344|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	Shift=351
+
+# sent_id = 3153857f-685f-492c-b79a-383979cdb1da-p2-s2
+# text = У нас есть прекрасное понимание того, что это такое, какова эта угроза, как ее купировать, как с этим бороться'', - сказал президент.
+1	У	_	_	_	_	_	_	_	Shift=353
+2	нас	_	_	_	_	_	_	_	Shift=355
+3	есть	_	_	_	_	_	_	_	Shift=359
+4	прекрасное	_	_	_	_	_	_	_	Shift=364
+5	понимание	_	_	_	_	_	_	_	Shift=375
+6	того	_	_	_	_	_	_	_	Shift=385|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=389
+8	что	_	_	_	_	_	_	_	Shift=391
+9	это	_	_	_	_	_	_	_	Shift=395
+10	такое	_	_	_	_	_	_	_	Shift=399|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=404
+12	какова	_	_	_	_	_	_	_	Shift=406
+13	эта	_	_	_	_	_	_	_	RuCor_chain_id=534|RuCor_group_id=411460|Shift=413
+14	угроза	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=534|RuCor_group_id=411460|RuCor_link_id=0|Shift=417|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=423
+16	как	_	_	_	_	_	_	_	Shift=425
+17	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=534|RuCor_group_id=411461|RuCor_link_id=411460|Shift=429
+18	купировать	_	_	_	_	_	_	_	Shift=432|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=442
+20	как	_	_	_	_	_	_	_	Shift=444
+21	с	_	_	_	_	_	_	_	Shift=448
+22	этим	_	_	_	_	_	_	_	Shift=450
+23	бороться	_	_	_	_	_	_	_	Shift=455|SpaceAfter=No
+24	''	_	_	_	_	_	_	_	Shift=463|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=464
+26	-	_	_	_	_	_	_	_	Shift=466
+27	сказал	_	_	_	_	_	_	_	Shift=468
+28	президент	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=544|RuCor_group_id=411420|RuCor_link_id=411416|Shift=475|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	Shift=484
+
+# newpar id = 3153857f-685f-492c-b79a-383979cdb1da-p3
+# par_text = Глава государства рассказал, что для обеспечения безопасности Игр будет задействовано 40 тысяч сотрудников правоохранительных органов и спецслужб. «Мы будем защищать и воздушное пространство, и морскую акваторию, и горный кластер. Надеюсь, что это будет организовано таким образом, что это не будет бросаться в глаза, не будет давить на участников Олимпиады», — сказал Путин.
+# sent_id = 3153857f-685f-492c-b79a-383979cdb1da-p3-s1
+# text = Глава государства рассказал, что для обеспечения безопасности Игр будет задействовано 40 тысяч сотрудников правоохранительных органов и спецслужб.
+1	Глава	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=544|RuCor_group_id=411421|RuCor_link_id=411420|Shift=486
+2	государства	_	_	_	_	_	_	_	RuCor_chain_id=544|RuCor_group_id=411421|Shift=492
+3	рассказал	_	_	_	_	_	_	_	Shift=504|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=513
+5	что	_	_	_	_	_	_	_	Shift=515
+6	для	_	_	_	_	_	_	_	Shift=519
+7	обеспечения	_	_	_	_	_	_	_	Shift=523
+8	безопасности	_	_	_	_	_	_	_	Shift=535
+9	Игр	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=542|RuCor_group_id=411422|RuCor_link_id=411423|Shift=548
+10	будет	_	_	_	_	_	_	_	Shift=552
+11	задействовано	_	_	_	_	_	_	_	Shift=558
+12	40	_	_	_	_	_	_	_	Shift=572
+13	тысяч	_	_	_	_	_	_	_	Shift=575
+14	сотрудников	_	_	_	_	_	_	_	Shift=581
+15	правоохранительных	_	_	_	_	_	_	_	Shift=593
+16	органов	_	_	_	_	_	_	_	Shift=612
+17	и	_	_	_	_	_	_	_	Shift=620
+18	спецслужб	_	_	_	_	_	_	_	Shift=622|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=631
+
+# sent_id = 3153857f-685f-492c-b79a-383979cdb1da-p3-s2
+# text = ``Мы будем защищать и воздушное пространство, и морскую акваторию, и горный кластер.
+1	``	_	_	_	_	_	_	_	Shift=633|SpaceAfter=No
+2	Мы	_	_	_	_	_	_	_	Shift=634
+3	будем	_	_	_	_	_	_	_	Shift=637
+4	защищать	_	_	_	_	_	_	_	Shift=643
+5	и	_	_	_	_	_	_	_	Shift=652
+6	воздушное	_	_	_	_	_	_	_	Shift=654
+7	пространство	_	_	_	_	_	_	_	Shift=664|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=676
+9	и	_	_	_	_	_	_	_	Shift=678
+10	морскую	_	_	_	_	_	_	_	Shift=680
+11	акваторию	_	_	_	_	_	_	_	Shift=688|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=697
+13	и	_	_	_	_	_	_	_	Shift=699
+14	горный	_	_	_	_	_	_	_	Shift=701
+15	кластер	_	_	_	_	_	_	_	Shift=708|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=715
+
+# sent_id = 3153857f-685f-492c-b79a-383979cdb1da-p3-s3
+# text = Надеюсь, что это будет организовано таким образом, что это не будет бросаться в глаза, не будет давить на участников Олимпиады'', - сказал Путин.
+1	Надеюсь	_	_	_	_	_	_	_	Shift=717|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=724
+3	что	_	_	_	_	_	_	_	Shift=726
+4	это	_	_	_	_	_	_	_	Shift=730
+5	будет	_	_	_	_	_	_	_	Shift=734
+6	организовано	_	_	_	_	_	_	_	Shift=740
+7	таким	_	_	_	_	_	_	_	Shift=753
+8	образом	_	_	_	_	_	_	_	Shift=759|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=766
+10	что	_	_	_	_	_	_	_	Shift=768
+11	это	_	_	_	_	_	_	_	Shift=772
+12	не	_	_	_	_	_	_	_	Shift=776
+13	будет	_	_	_	_	_	_	_	Shift=779
+14	бросаться	_	_	_	_	_	_	_	Shift=785
+15	в	_	_	_	_	_	_	_	Shift=795
+16	глаза	_	_	_	_	_	_	_	Shift=797|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=802
+18	не	_	_	_	_	_	_	_	Shift=804
+19	будет	_	_	_	_	_	_	_	Shift=807
+20	давить	_	_	_	_	_	_	_	Shift=813
+21	на	_	_	_	_	_	_	_	Shift=820
+22	участников	_	_	_	_	_	_	_	Shift=823
+23	Олимпиады	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=542|RuCor_group_id=411424|RuCor_link_id=411422|Shift=834|SpaceAfter=No
+24	''	_	_	_	_	_	_	_	Shift=843|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=844
+26	-	_	_	_	_	_	_	_	Shift=846
+27	сказал	_	_	_	_	_	_	_	Shift=848
+28	Путин	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=544|RuCor_group_id=411425|RuCor_link_id=411421|Shift=855|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	Shift=860
+
+# newpar id = 3153857f-685f-492c-b79a-383979cdb1da-p4
+# par_text = По его словам к обеспечению безопасности будут привлечены силы и средства «главным образом такие, которые не задействованы при обеспечении безопасности в других регионах Российской Федерации». «Нам хватает таких средств и по линии Федеральной службы безопасности, по линии Министерства внутренних дел, армейских подразделений», — заверил Путин.
+# sent_id = 3153857f-685f-492c-b79a-383979cdb1da-p4-s1
+# text = По его словам к обеспечению безопасности будут привлечены силы и средства ``главным образом такие, которые не задействованы при обеспечении безопасности в других регионах Российской Федерации''. ``Нам хватает таких средств и по линии Федеральной службы безопасности, по линии Министерства внутренних дел, армейских подразделений'', - заверил Путин.
+1	По	_	_	_	_	_	_	_	Shift=862
+2	его	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=544|RuCor_group_id=411426|RuCor_link_id=411425|Shift=865
+3	словам	_	_	_	_	_	_	_	Shift=869
+4	к	_	_	_	_	_	_	_	Shift=876
+5	обеспечению	_	_	_	_	_	_	_	Shift=878
+6	безопасности	_	_	_	_	_	_	_	Shift=890
+7	будут	_	_	_	_	_	_	_	Shift=903
+8	привлечены	_	_	_	_	_	_	_	Shift=909
+9	силы	_	_	_	_	_	_	_	RuCor_attrs_ref=misc|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=533|RuCor_group_id=411462|RuCor_link_id=0|Shift=920
+10	и	_	_	_	_	_	_	_	RuCor_chain_id=533|RuCor_group_id=411462|Shift=925
+11	средства	_	_	_	_	_	_	_	RuCor_chain_id=533|RuCor_group_id=411462|Shift=927
+12	``	_	_	_	_	_	_	_	Shift=936|SpaceAfter=No
+13	главным	_	_	_	_	_	_	_	Shift=937
+14	образом	_	_	_	_	_	_	_	Shift=945
+15	такие	_	_	_	_	_	_	_	Shift=953|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=958
+17	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=misc|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=533|RuCor_group_id=411463|RuCor_link_id=411462|Shift=960
+18	не	_	_	_	_	_	_	_	Shift=968
+19	задействованы	_	_	_	_	_	_	_	Shift=971
+20	при	_	_	_	_	_	_	_	Shift=985
+21	обеспечении	_	_	_	_	_	_	_	Shift=989
+22	безопасности	_	_	_	_	_	_	_	Shift=1001
+23	в	_	_	_	_	_	_	_	Shift=1014
+24	других	_	_	_	_	_	_	_	Shift=1016
+25	регионах	_	_	_	_	_	_	_	Shift=1023
+26	Российской	_	_	_	_	_	_	_	RuCor_chain_id=541|RuCor_group_id=411428|Shift=1032
+27	Федерации	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=541|RuCor_group_id=411428|RuCor_link_id=411427|Shift=1043|SpaceAfter=No
+28	''	_	_	_	_	_	_	_	Shift=1052|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	Shift=1053
+30	``	_	_	_	_	_	_	_	Shift=1055|SpaceAfter=No
+31	Нам	_	_	_	_	_	_	_	Shift=1056
+32	хватает	_	_	_	_	_	_	_	Shift=1060
+33	таких	_	_	_	_	_	_	_	Shift=1068
+34	средств	_	_	_	_	_	_	_	Shift=1074
+35	и	_	_	_	_	_	_	_	Shift=1082
+36	по	_	_	_	_	_	_	_	Shift=1084
+37	линии	_	_	_	_	_	_	_	Shift=1087
+38	Федеральной	_	_	_	_	_	_	_	Shift=1093
+39	службы	_	_	_	_	_	_	_	Shift=1105
+40	безопасности	_	_	_	_	_	_	_	Shift=1112|SpaceAfter=No
+41	,	_	_	_	_	_	_	_	Shift=1124
+42	по	_	_	_	_	_	_	_	Shift=1126
+43	линии	_	_	_	_	_	_	_	Shift=1129
+44	Министерства	_	_	_	_	_	_	_	Shift=1135
+45	внутренних	_	_	_	_	_	_	_	Shift=1148
+46	дел	_	_	_	_	_	_	_	Shift=1159|SpaceAfter=No
+47	,	_	_	_	_	_	_	_	Shift=1162
+48	армейских	_	_	_	_	_	_	_	Shift=1164
+49	подразделений	_	_	_	_	_	_	_	Shift=1174|SpaceAfter=No
+50	''	_	_	_	_	_	_	_	Shift=1187|SpaceAfter=No
+51	,	_	_	_	_	_	_	_	Shift=1188
+52	-	_	_	_	_	_	_	_	Shift=1190
+53	заверил	_	_	_	_	_	_	_	Shift=1192
+54	Путин	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=544|RuCor_group_id=411429|RuCor_link_id=411425|Shift=1200|SpaceAfter=No
+55	.	_	_	_	_	_	_	_	Shift=1205
+
+# newpar id = 3153857f-685f-492c-b79a-383979cdb1da-p5
+# par_text = Он добавил, что «экстремисты всегда пытаются заявить о себе, особенно в преддверии каких-то крупных мероприятий, и не только спортивных, но и политических». «Очень жаль, я уже высказывался по этому поводу, хочу повторить: люди, настроенные экстремистски, они, как правило, люди ограниченные и не отдают себе отчет в том, что даже если, как они думают, они ставят перед собой благородные цели, то, совершая террористические акты, они отдаляются, все дальше и дальше уходят от достижения тех, на первый взгляд даже благородных, может быть, целей, вообще уходят за горизонт», — сказал Путин.
+# sent_id = 3153857f-685f-492c-b79a-383979cdb1da-p5-s1
+# text = Он добавил, что ``экстремисты всегда пытаются заявить о себе, особенно в преддверии каких-то крупных мероприятий, и не только спортивных, но и политических''. ``Очень жаль, я уже высказывался по этому поводу, хочу повторить: люди, настроенные экстремистски, они, как правило, люди ограниченные и не отдают себе отчет в том, что даже если, как они думают, они ставят перед собой благородные цели, то, совершая террористические акты, они отдаляются, все дальше и дальше уходят от достижения тех, на первый взгляд даже благородных, может быть, целей, вообще уходят за горизонт'', - сказал Путин.
+1	Он	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=544|RuCor_group_id=411430|RuCor_link_id=411429|Shift=1207
+2	добавил	_	_	_	_	_	_	_	Shift=1210|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1217
+4	что	_	_	_	_	_	_	_	Shift=1219
+5	``	_	_	_	_	_	_	_	Shift=1223|SpaceAfter=No
+6	экстремисты	_	_	_	_	_	_	_	RuCor_attrs_ref=misc|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=540|RuCor_group_id=411431|RuCor_link_id=0|Shift=1224
+7	всегда	_	_	_	_	_	_	_	Shift=1236
+8	пытаются	_	_	_	_	_	_	_	Shift=1243
+9	заявить	_	_	_	_	_	_	_	Shift=1252
+10	о	_	_	_	_	_	_	_	Shift=1260
+11	себе	_	_	_	_	_	_	_	RuCor_attrs_ref=misc|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=540|RuCor_group_id=411432|RuCor_link_id=411431|Shift=1262|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=1266
+13	особенно	_	_	_	_	_	_	_	Shift=1268
+14	в	_	_	_	_	_	_	_	Shift=1277
+15	преддверии	_	_	_	_	_	_	_	Shift=1279
+16	каких-то	_	_	_	_	_	_	_	Shift=1290
+17	крупных	_	_	_	_	_	_	_	Shift=1299
+18	мероприятий	_	_	_	_	_	_	_	Shift=1307|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=1318
+20	и	_	_	_	_	_	_	_	Shift=1320
+21	не	_	_	_	_	_	_	_	Shift=1322
+22	только	_	_	_	_	_	_	_	Shift=1325
+23	спортивных	_	_	_	_	_	_	_	Shift=1332|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=1342
+25	но	_	_	_	_	_	_	_	Shift=1344
+26	и	_	_	_	_	_	_	_	Shift=1347
+27	политических	_	_	_	_	_	_	_	Shift=1349|SpaceAfter=No
+28	''	_	_	_	_	_	_	_	Shift=1361|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	Shift=1362
+30	``	_	_	_	_	_	_	_	Shift=1364|SpaceAfter=No
+31	Очень	_	_	_	_	_	_	_	Shift=1365
+32	жаль	_	_	_	_	_	_	_	Shift=1371|SpaceAfter=No
+33	,	_	_	_	_	_	_	_	Shift=1375
+34	я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=544|RuCor_group_id=411433|RuCor_link_id=411430|Shift=1377
+35	уже	_	_	_	_	_	_	_	Shift=1379
+36	высказывался	_	_	_	_	_	_	_	Shift=1383
+37	по	_	_	_	_	_	_	_	Shift=1396
+38	этому	_	_	_	_	_	_	_	Shift=1399
+39	поводу	_	_	_	_	_	_	_	Shift=1405|SpaceAfter=No
+40	,	_	_	_	_	_	_	_	Shift=1411
+41	хочу	_	_	_	_	_	_	_	Shift=1413
+42	повторить	_	_	_	_	_	_	_	Shift=1418|SpaceAfter=No
+43	:	_	_	_	_	_	_	_	Shift=1427
+44	люди	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=539|RuCor_group_id=411434|RuCor_link_id=0|Shift=1429|SpaceAfter=No
+45	,	_	_	_	_	_	_	_	Shift=1433
+46	настроенные	_	_	_	_	_	_	_	Shift=1435
+47	экстремистски	_	_	_	_	_	_	_	Shift=1447|SpaceAfter=No
+48	,	_	_	_	_	_	_	_	Shift=1460
+49	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=539|RuCor_group_id=411435|RuCor_link_id=411434|Shift=1462|SpaceAfter=No
+50	,	_	_	_	_	_	_	_	Shift=1465
+51	как	_	_	_	_	_	_	_	Shift=1467
+52	правило	_	_	_	_	_	_	_	Shift=1471|SpaceAfter=No
+53	,	_	_	_	_	_	_	_	Shift=1478
+54	люди	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=539|RuCor_group_id=411436|RuCor_link_id=411435|Shift=1480
+55	ограниченные	_	_	_	_	_	_	_	RuCor_chain_id=539|RuCor_group_id=411436|Shift=1485
+56	и	_	_	_	_	_	_	_	Shift=1498
+57	не	_	_	_	_	_	_	_	Shift=1500
+58	отдают	_	_	_	_	_	_	_	Shift=1503
+59	себе	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=539|RuCor_group_id=411437|RuCor_link_id=411436|Shift=1510
+60	отчет	_	_	_	_	_	_	_	Shift=1515
+61	в	_	_	_	_	_	_	_	Shift=1521
+62	том	_	_	_	_	_	_	_	Shift=1523|SpaceAfter=No
+63	,	_	_	_	_	_	_	_	Shift=1526
+64	что	_	_	_	_	_	_	_	Shift=1528
+65	даже	_	_	_	_	_	_	_	Shift=1532
+66	если	_	_	_	_	_	_	_	Shift=1537|SpaceAfter=No
+67	,	_	_	_	_	_	_	_	Shift=1541
+68	как	_	_	_	_	_	_	_	Shift=1543
+69	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=539|RuCor_group_id=411438|RuCor_link_id=411435|Shift=1547
+70	думают	_	_	_	_	_	_	_	Shift=1551|SpaceAfter=No
+71	,	_	_	_	_	_	_	_	Shift=1557
+72	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=539|RuCor_group_id=411439|RuCor_link_id=411435|Shift=1559
+73	ставят	_	_	_	_	_	_	_	Shift=1563
+74	перед	_	_	_	_	_	_	_	Shift=1570
+75	собой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=539|RuCor_group_id=411440|RuCor_link_id=411435|Shift=1576
+76	благородные	_	_	_	_	_	_	_	Shift=1582
+77	цели	_	_	_	_	_	_	_	Shift=1594|SpaceAfter=No
+78	,	_	_	_	_	_	_	_	Shift=1598
+79	то	_	_	_	_	_	_	_	Shift=1600|SpaceAfter=No
+80	,	_	_	_	_	_	_	_	Shift=1602
+81	совершая	_	_	_	_	_	_	_	Shift=1604
+82	террористические	_	_	_	_	_	_	_	Shift=1613
+83	акты	_	_	_	_	_	_	_	Shift=1630|SpaceAfter=No
+84	,	_	_	_	_	_	_	_	Shift=1634
+85	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=539|RuCor_group_id=411441|RuCor_link_id=411435|Shift=1636
+86	отдаляются	_	_	_	_	_	_	_	Shift=1640|SpaceAfter=No
+87	,	_	_	_	_	_	_	_	Shift=1650
+88	все	_	_	_	_	_	_	_	Shift=1652
+89	дальше	_	_	_	_	_	_	_	Shift=1656
+90	и	_	_	_	_	_	_	_	Shift=1663
+91	дальше	_	_	_	_	_	_	_	Shift=1665
+92	уходят	_	_	_	_	_	_	_	Shift=1672
+93	от	_	_	_	_	_	_	_	Shift=1679
+94	достижения	_	_	_	_	_	_	_	Shift=1682
+95	тех	_	_	_	_	_	_	_	Shift=1693|SpaceAfter=No
+96	,	_	_	_	_	_	_	_	Shift=1696
+97	на	_	_	_	_	_	_	_	Shift=1698
+98	первый	_	_	_	_	_	_	_	Shift=1701
+99	взгляд	_	_	_	_	_	_	_	Shift=1708
+100	даже	_	_	_	_	_	_	_	Shift=1715
+101	благородных	_	_	_	_	_	_	_	Shift=1720|SpaceAfter=No
+102	,	_	_	_	_	_	_	_	Shift=1731
+103	может	_	_	_	_	_	_	_	Shift=1733
+104	быть	_	_	_	_	_	_	_	Shift=1739|SpaceAfter=No
+105	,	_	_	_	_	_	_	_	Shift=1743
+106	целей	_	_	_	_	_	_	_	Shift=1745|SpaceAfter=No
+107	,	_	_	_	_	_	_	_	Shift=1750
+108	вообще	_	_	_	_	_	_	_	Shift=1752
+109	уходят	_	_	_	_	_	_	_	Shift=1759
+110	за	_	_	_	_	_	_	_	Shift=1766
+111	горизонт	_	_	_	_	_	_	_	Shift=1769|SpaceAfter=No
+112	''	_	_	_	_	_	_	_	Shift=1777|SpaceAfter=No
+113	,	_	_	_	_	_	_	_	Shift=1778
+114	-	_	_	_	_	_	_	_	Shift=1780
+115	сказал	_	_	_	_	_	_	_	Shift=1782
+116	Путин	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=544|RuCor_group_id=411442|RuCor_link_id=411429|Shift=1789|SpaceAfter=No
+117	.	_	_	_	_	_	_	_	Shift=1794
+
+# newpar id = 3153857f-685f-492c-b79a-383979cdb1da-p6
+# par_text = Президент также выразил надежду, что на проведение Олимпиады не повлияют недавние теракты в Волгограде. «Потому что если мы позволим себе проявить слабость, показать свой страх, то значит, мы будем способствовать этим террористам в достижении их целей», — заявил глава государства.
+# sent_id = 3153857f-685f-492c-b79a-383979cdb1da-p6-s1
+# text = Президент также выразил надежду, что на проведение Олимпиады не повлияют недавние теракты в Волгограде.
+1	Президент	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=544|RuCor_group_id=411443|RuCor_link_id=411442|Shift=1796
+2	также	_	_	_	_	_	_	_	Shift=1806
+3	выразил	_	_	_	_	_	_	_	Shift=1812
+4	надежду	_	_	_	_	_	_	_	Shift=1820|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1827
+6	что	_	_	_	_	_	_	_	Shift=1829
+7	на	_	_	_	_	_	_	_	Shift=1833
+8	проведение	_	_	_	_	_	_	_	Shift=1836
+9	Олимпиады	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=542|RuCor_group_id=411444|RuCor_link_id=411423|Shift=1847
+10	не	_	_	_	_	_	_	_	Shift=1857
+11	повлияют	_	_	_	_	_	_	_	Shift=1860
+12	недавние	_	_	_	_	_	_	_	Shift=1869
+13	теракты	_	_	_	_	_	_	_	Shift=1878
+14	в	_	_	_	_	_	_	_	Shift=1886
+15	Волгограде	_	_	_	_	_	_	_	Shift=1888|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=1898
+
+# sent_id = 3153857f-685f-492c-b79a-383979cdb1da-p6-s2
+# text = ``Потому что если мы позволим себе проявить слабость, показать свой страх, то значит, мы будем способствовать этим террористам в достижении их целей'', - заявил глава государства.
+1	``	_	_	_	_	_	_	_	Shift=1900|SpaceAfter=No
+2	Потому	_	_	_	_	_	_	_	Shift=1901
+3	что	_	_	_	_	_	_	_	Shift=1908
+4	если	_	_	_	_	_	_	_	Shift=1912
+5	мы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=538|RuCor_group_id=411445|RuCor_link_id=0|Shift=1917
+6	позволим	_	_	_	_	_	_	_	Shift=1920
+7	себе	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=538|RuCor_group_id=411446|RuCor_link_id=411445|Shift=1929
+8	проявить	_	_	_	_	_	_	_	Shift=1934
+9	слабость	_	_	_	_	_	_	_	Shift=1943|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=1951
+11	показать	_	_	_	_	_	_	_	Shift=1953
+12	свой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=538|RuCor_group_id=411447|RuCor_link_id=411446|Shift=1962
+13	страх	_	_	_	_	_	_	_	Shift=1967|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=1972
+15	то	_	_	_	_	_	_	_	Shift=1974
+16	значит	_	_	_	_	_	_	_	Shift=1977|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=1983
+18	мы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=538|RuCor_group_id=411451|RuCor_link_id=411447|Shift=1985
+19	будем	_	_	_	_	_	_	_	Shift=1988
+20	способствовать	_	_	_	_	_	_	_	Shift=1994
+21	этим	_	_	_	_	_	_	_	RuCor_chain_id=537|RuCor_group_id=411448|Shift=2009
+22	террористам	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=537|RuCor_group_id=411448|RuCor_link_id=0|Shift=2014
+23	в	_	_	_	_	_	_	_	Shift=2026
+24	достижении	_	_	_	_	_	_	_	Shift=2028
+25	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=537|RuCor_group_id=411449|RuCor_link_id=411448|Shift=2039
+26	целей	_	_	_	_	_	_	_	Shift=2042|SpaceAfter=No
+27	''	_	_	_	_	_	_	_	Shift=2047|SpaceAfter=No
+28	,	_	_	_	_	_	_	_	Shift=2048
+29	-	_	_	_	_	_	_	_	Shift=2050
+30	заявил	_	_	_	_	_	_	_	Shift=2052
+31	глава	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=544|RuCor_group_id=411450|RuCor_link_id=411442|Shift=2059
+32	государства	_	_	_	_	_	_	_	RuCor_chain_id=544|RuCor_group_id=411450|Shift=2065|SpaceAfter=No
+33	.	_	_	_	_	_	_	_	Shift=2076
+
+# newpar id = 3153857f-685f-492c-b79a-383979cdb1da-p7
+# par_text = В преддверии Олимпиады безопасность жителей и гостей Сочи охраняет 40 тысяч полицейских, а также 400 казаков, которые участвуют в патрулировании. С 7 января любой россиянин, не прописанный в Сочи, должен зарегистрироваться в городе по месту временного пребывания, если он находится там более трех дней. Исключение составляют только те, кто останавливается в гостиницах.
+# sent_id = 3153857f-685f-492c-b79a-383979cdb1da-p7-s1
+# text = В преддверии Олимпиады безопасность жителей и гостей Сочи охраняет 40 тысяч полицейских, а также 400 казаков, которые участвуют в патрулировании.
+1	В	_	_	_	_	_	_	_	Shift=2078
+2	преддверии	_	_	_	_	_	_	_	Shift=2080
+3	Олимпиады	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=542|RuCor_group_id=411452|RuCor_link_id=411444|Shift=2091
+4	безопасность	_	_	_	_	_	_	_	Shift=2101
+5	жителей	_	_	_	_	_	_	_	Shift=2114
+6	и	_	_	_	_	_	_	_	Shift=2122
+7	гостей	_	_	_	_	_	_	_	Shift=2124
+8	Сочи	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=543|RuCor_group_id=411453|RuCor_link_id=411418|Shift=2131
+9	охраняет	_	_	_	_	_	_	_	Shift=2136
+10	40	_	_	_	_	_	_	_	Shift=2145
+11	тысяч	_	_	_	_	_	_	_	Shift=2148
+12	полицейских	_	_	_	_	_	_	_	Shift=2154|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=2165
+14	а	_	_	_	_	_	_	_	Shift=2167
+15	также	_	_	_	_	_	_	_	Shift=2169
+16	400	_	_	_	_	_	_	_	RuCor_chain_id=536|RuCor_group_id=411454|Shift=2175
+17	казаков	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=536|RuCor_group_id=411454|RuCor_link_id=0|Shift=2179|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=2186
+19	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=536|RuCor_group_id=411455|RuCor_link_id=411454|Shift=2188
+20	участвуют	_	_	_	_	_	_	_	Shift=2196
+21	в	_	_	_	_	_	_	_	Shift=2206
+22	патрулировании	_	_	_	_	_	_	_	Shift=2208|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=2222
+
+# sent_id = 3153857f-685f-492c-b79a-383979cdb1da-p7-s2
+# text = С 7 января любой россиянин, не прописанный в Сочи, должен зарегистрироваться в городе по месту временного пребывания, если он находится там более трех дней.
+1	С	_	_	_	_	_	_	_	Shift=2224
+2	7	_	_	_	_	_	_	_	Shift=2226
+3	января	_	_	_	_	_	_	_	Shift=2228
+4	любой	_	_	_	_	_	_	_	RuCor_chain_id=535|RuCor_group_id=411458|Shift=2235
+5	россиянин	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=535|RuCor_group_id=411458|RuCor_link_id=0|Shift=2241|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=2250
+7	не	_	_	_	_	_	_	_	Shift=2252
+8	прописанный	_	_	_	_	_	_	_	Shift=2255
+9	в	_	_	_	_	_	_	_	Shift=2267
+10	Сочи	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=543|RuCor_group_id=411456|RuCor_link_id=411453|Shift=2269|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=2273
+12	должен	_	_	_	_	_	_	_	Shift=2275
+13	зарегистрироваться	_	_	_	_	_	_	_	Shift=2282
+14	в	_	_	_	_	_	_	_	Shift=2301
+15	городе	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=543|RuCor_group_id=411457|RuCor_link_id=411456|Shift=2303
+16	по	_	_	_	_	_	_	_	Shift=2310
+17	месту	_	_	_	_	_	_	_	Shift=2313
+18	временного	_	_	_	_	_	_	_	Shift=2319
+19	пребывания	_	_	_	_	_	_	_	Shift=2330|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=2340
+21	если	_	_	_	_	_	_	_	Shift=2342
+22	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=535|RuCor_group_id=411459|RuCor_link_id=411458|Shift=2347
+23	находится	_	_	_	_	_	_	_	Shift=2350
+24	там	_	_	_	_	_	_	_	Shift=2360
+25	более	_	_	_	_	_	_	_	Shift=2364
+26	трех	_	_	_	_	_	_	_	Shift=2370
+27	дней	_	_	_	_	_	_	_	Shift=2375|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=2379
+
+# sent_id = 3153857f-685f-492c-b79a-383979cdb1da-p7-s3
+# text = Исключение составляют только те, кто останавливается в гостиницах.
+1	Исключение	_	_	_	_	_	_	_	Shift=2381
+2	составляют	_	_	_	_	_	_	_	Shift=2392
+3	только	_	_	_	_	_	_	_	Shift=2403
+4	те	_	_	_	_	_	_	_	Shift=2410|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=2412
+6	кто	_	_	_	_	_	_	_	Shift=2414
+7	останавливается	_	_	_	_	_	_	_	Shift=2418
+8	в	_	_	_	_	_	_	_	Shift=2434
+9	гостиницах	_	_	_	_	_	_	_	Shift=2436|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	_
+

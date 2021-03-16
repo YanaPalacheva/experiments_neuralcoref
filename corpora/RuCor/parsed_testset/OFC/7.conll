@@ -1,0 +1,1345 @@
+# newdoc id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p1
+# par_text = Тем, кто живет в России трудно представить, как может быть плохо в другом месте.
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p1-s1
+# text = Тем, кто живет в России трудно представить, как может быть плохо в другом месте.
+1	Тем	_	_	_	_	_	_	_	Shift=0|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=3
+3	кто	_	_	_	_	_	_	_	Shift=5
+4	живет	_	_	_	_	_	_	_	Shift=9
+5	в	_	_	_	_	_	_	_	Shift=15
+6	России	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1789|RuCor_group_id=468235|RuCor_link_id=0|Shift=17
+7	трудно	_	_	_	_	_	_	_	Shift=24
+8	представить	_	_	_	_	_	_	_	Shift=31|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=42
+10	как	_	_	_	_	_	_	_	Shift=44
+11	может	_	_	_	_	_	_	_	Shift=48
+12	быть	_	_	_	_	_	_	_	Shift=54
+13	плохо	_	_	_	_	_	_	_	Shift=59
+14	в	_	_	_	_	_	_	_	Shift=65
+15	другом	_	_	_	_	_	_	_	Shift=67
+16	месте	_	_	_	_	_	_	_	Shift=74|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=79
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p2
+# par_text = Тем не менее экономика наших соседей идет ко дну.
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p2-s1
+# text = Тем не менее экономика наших соседей идет ко дну.
+1	Тем	_	_	_	_	_	_	_	Shift=81
+2	не	_	_	_	_	_	_	_	Shift=85
+3	менее	_	_	_	_	_	_	_	Shift=88
+4	экономика	_	_	_	_	_	_	_	Shift=94
+5	наших	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1789|RuCor_group_id=468236|RuCor_link_id=468235|Shift=104
+6	соседей	_	_	_	_	_	_	_	Shift=110
+7	идет	_	_	_	_	_	_	_	Shift=118
+8	ко	_	_	_	_	_	_	_	Shift=123
+9	дну	_	_	_	_	_	_	_	Shift=126|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=129
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p3
+# par_text = Кредитный кризис уже нанес непоправимый ущерб строительной индустрии.
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p3-s1
+# text = Кредитный кризис уже нанес непоправимый ущерб строительной индустрии.
+1	Кредитный	_	_	_	_	_	_	_	RuCor_chain_id=1790|RuCor_group_id=468237|Shift=131
+2	кризис	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1790|RuCor_group_id=468237|RuCor_link_id=0|Shift=141
+3	уже	_	_	_	_	_	_	_	Shift=148
+4	нанес	_	_	_	_	_	_	_	Shift=152
+5	непоправимый	_	_	_	_	_	_	_	Shift=158
+6	ущерб	_	_	_	_	_	_	_	Shift=171
+7	строительной	_	_	_	_	_	_	_	Shift=177
+8	индустрии	_	_	_	_	_	_	_	Shift=190|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=199
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p4
+# par_text = Отличное время для скупки активов и недвижимости в Европе, если есть деньги, разумеется.
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p4-s1
+# text = Отличное время для скупки активов и недвижимости в Европе, если есть деньги, разумеется.
+1	Отличное	_	_	_	_	_	_	_	Shift=201
+2	время	_	_	_	_	_	_	_	Shift=210
+3	для	_	_	_	_	_	_	_	Shift=216
+4	скупки	_	_	_	_	_	_	_	Shift=220
+5	активов	_	_	_	_	_	_	_	Shift=227
+6	и	_	_	_	_	_	_	_	Shift=235
+7	недвижимости	_	_	_	_	_	_	_	Shift=237
+8	в	_	_	_	_	_	_	_	Shift=250
+9	Европе	_	_	_	_	_	_	_	Shift=252|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=258
+11	если	_	_	_	_	_	_	_	Shift=260
+12	есть	_	_	_	_	_	_	_	Shift=265
+13	деньги	_	_	_	_	_	_	_	Shift=270|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=276
+15	разумеется	_	_	_	_	_	_	_	Shift=278|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=288
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p5
+# par_text = Почти десятилетие мощного экономического роста в странах Восточной Европы сменяется кризисом.
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p5-s1
+# text = Почти десятилетие мощного экономического роста в странах Восточной Европы сменяется кризисом.
+1	Почти	_	_	_	_	_	_	_	Shift=290
+2	десятилетие	_	_	_	_	_	_	_	Shift=296
+3	мощного	_	_	_	_	_	_	_	Shift=308
+4	экономического	_	_	_	_	_	_	_	Shift=316
+5	роста	_	_	_	_	_	_	_	Shift=331
+6	в	_	_	_	_	_	_	_	Shift=337
+7	странах	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1791|RuCor_group_id=468238|RuCor_link_id=0|Shift=339
+8	Восточной	_	_	_	_	_	_	_	RuCor_chain_id=1791|RuCor_group_id=468238|Shift=347
+9	Европы	_	_	_	_	_	_	_	RuCor_chain_id=1791|RuCor_group_id=468238|Shift=357
+10	сменяется	_	_	_	_	_	_	_	Shift=364
+11	кризисом	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1790|RuCor_group_id=468239|RuCor_link_id=468237|Shift=374|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=382
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p6
+# par_text = Согласно данным журнала «Экономист», в результате глобального кредитного кризиса, ставшего результатом кризиса в сфере недвижимости, спад наметился во всех восточноевропейских странах.
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p6-s1
+# text = Согласно данным журнала ``Экономист'', в результате глобального кредитного кризиса, ставшего результатом кризиса в сфере недвижимости, спад наметился во всех восточноевропейских странах.
+1	Согласно	_	_	_	_	_	_	_	Shift=384
+2	данным	_	_	_	_	_	_	_	Shift=393
+3	журнала	_	_	_	_	_	_	_	Shift=400
+4	``	_	_	_	_	_	_	_	Shift=408|SpaceAfter=No
+5	Экономист	_	_	_	_	_	_	_	Shift=409|SpaceAfter=No
+6	''	_	_	_	_	_	_	_	Shift=418|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=419
+8	в	_	_	_	_	_	_	_	Shift=421
+9	результате	_	_	_	_	_	_	_	Shift=423
+10	глобального	_	_	_	_	_	_	_	RuCor_chain_id=1790|RuCor_group_id=468240|Shift=434
+11	кредитного	_	_	_	_	_	_	_	RuCor_chain_id=1790|RuCor_group_id=468240|Shift=446
+12	кризиса	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1790|RuCor_group_id=468240|RuCor_link_id=468239|Shift=457|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=464
+14	ставшего	_	_	_	_	_	_	_	Shift=466
+15	результатом	_	_	_	_	_	_	_	Shift=475
+16	кризиса	_	_	_	_	_	_	_	Shift=487
+17	в	_	_	_	_	_	_	_	Shift=495
+18	сфере	_	_	_	_	_	_	_	Shift=497
+19	недвижимости	_	_	_	_	_	_	_	Shift=503|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=515
+21	спад	_	_	_	_	_	_	_	Shift=517
+22	наметился	_	_	_	_	_	_	_	Shift=522
+23	во	_	_	_	_	_	_	_	Shift=532
+24	всех	_	_	_	_	_	_	_	Shift=535
+25	восточноевропейских	_	_	_	_	_	_	_	RuCor_chain_id=1791|RuCor_group_id=468241|Shift=540
+26	странах	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1791|RuCor_group_id=468241|RuCor_link_id=468238|Shift=560|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=567
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p7
+# par_text = Однако больше всех от кризиса страдают страны Балтии – и среди них Латвия и Эстония.
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p7-s1
+# text = Однако больше всех от кризиса страдают страны Балтии - и среди них Латвия и Эстония.
+1	Однако	_	_	_	_	_	_	_	Shift=569
+2	больше	_	_	_	_	_	_	_	Shift=576
+3	всех	_	_	_	_	_	_	_	Shift=583
+4	от	_	_	_	_	_	_	_	Shift=588
+5	кризиса	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1790|RuCor_group_id=468242|RuCor_link_id=468239|Shift=591
+6	страдают	_	_	_	_	_	_	_	Shift=599
+7	страны	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1792|RuCor_group_id=468243|RuCor_link_id=0|Shift=608
+8	Балтии	_	_	_	_	_	_	_	RuCor_chain_id=1792|RuCor_group_id=468243|Shift=615
+9	-	_	_	_	_	_	_	_	_
+10	и	_	_	_	_	_	_	_	Shift=624
+11	среди	_	_	_	_	_	_	_	Shift=626
+12	них	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1792|RuCor_group_id=468244|RuCor_link_id=468243|Shift=632
+13	Латвия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1794|RuCor_group_id=468246|RuCor_link_id=0|Shift=636
+14	и	_	_	_	_	_	_	_	RuCor_chain_id=1794|RuCor_group_id=468246|Shift=643
+15	Эстония	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1795|RuCor_group_id=468247|RuCor_link_id=0|Shift=645|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=652
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p8
+# par_text = В этих странах экономика росла преимущественно за счет кредитных вливаний из-за рубежа.
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p8-s1
+# text = В этих странах экономика росла преимущественно за счет кредитных вливаний из-за рубежа.
+1	В	_	_	_	_	_	_	_	Shift=654
+2	этих	_	_	_	_	_	_	_	RuCor_chain_id=1794|RuCor_group_id=468248|Shift=656
+3	странах	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1794|RuCor_group_id=468248|RuCor_link_id=468246|Shift=661
+4	экономика	_	_	_	_	_	_	_	Shift=669
+5	росла	_	_	_	_	_	_	_	Shift=679
+6	преимущественно	_	_	_	_	_	_	_	Shift=685
+7	за	_	_	_	_	_	_	_	Shift=701
+8	счет	_	_	_	_	_	_	_	Shift=704
+9	кредитных	_	_	_	_	_	_	_	Shift=709
+10	вливаний	_	_	_	_	_	_	_	Shift=719
+11	из-за	_	_	_	_	_	_	_	Shift=728
+12	рубежа	_	_	_	_	_	_	_	Shift=734|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=740
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p9
+# par_text = Если говорить о строительстве, то в Риге есть замороженные стройки и стоят деревянные дома, от которых в Москве за пять минут не осталось бы щепки – а если бы это был музей, то сделали бы то же самое из двойного бетона, но в Риге есть реально действующий рынок земли с понятными ценами и кучей объявлений в газете «Реклама».
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p9-s1
+# text = Если говорить о строительстве, то в Риге есть замороженные стройки и стоят деревянные дома, от которых в Москве за пять минут не осталось бы щепки - а если бы это был музей, то сделали бы то же самое из двойного бетона, но в Риге есть реально действующий рынок земли с понятными ценами и кучей объявлений в газете ``Реклама''.
+1	Если	_	_	_	_	_	_	_	Shift=742
+2	говорить	_	_	_	_	_	_	_	Shift=747
+3	о	_	_	_	_	_	_	_	Shift=756
+4	строительстве	_	_	_	_	_	_	_	Shift=758|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=771
+6	то	_	_	_	_	_	_	_	Shift=773
+7	в	_	_	_	_	_	_	_	Shift=776
+8	Риге	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1796|RuCor_group_id=468249|RuCor_link_id=0|Shift=778
+9	есть	_	_	_	_	_	_	_	Shift=783
+10	замороженные	_	_	_	_	_	_	_	Shift=788
+11	стройки	_	_	_	_	_	_	_	Shift=801
+12	и	_	_	_	_	_	_	_	Shift=809
+13	стоят	_	_	_	_	_	_	_	Shift=811
+14	деревянные	_	_	_	_	_	_	_	RuCor_chain_id=1797|RuCor_group_id=468250|Shift=817
+15	дома	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1797|RuCor_group_id=468250|RuCor_link_id=0|Shift=828|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=832
+17	от	_	_	_	_	_	_	_	Shift=834
+18	которых	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=1797|RuCor_group_id=468251|RuCor_link_id=468250|Shift=837
+19	в	_	_	_	_	_	_	_	Shift=845
+20	Москве	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1798|RuCor_group_id=468252|RuCor_link_id=0|Shift=847
+21	за	_	_	_	_	_	_	_	Shift=854
+22	пять	_	_	_	_	_	_	_	Shift=857
+23	минут	_	_	_	_	_	_	_	Shift=862
+24	не	_	_	_	_	_	_	_	Shift=868
+25	осталось	_	_	_	_	_	_	_	Shift=871
+26	бы	_	_	_	_	_	_	_	Shift=880
+27	щепки	_	_	_	_	_	_	_	Shift=883
+28	-	_	_	_	_	_	_	_	_
+29	а	_	_	_	_	_	_	_	Shift=891
+30	если	_	_	_	_	_	_	_	Shift=893
+31	бы	_	_	_	_	_	_	_	Shift=898
+32	это	_	_	_	_	_	_	_	Shift=901
+33	был	_	_	_	_	_	_	_	Shift=905
+34	музей	_	_	_	_	_	_	_	Shift=909|SpaceAfter=No
+35	,	_	_	_	_	_	_	_	Shift=914
+36	то	_	_	_	_	_	_	_	Shift=916
+37	сделали	_	_	_	_	_	_	_	Shift=919
+38	бы	_	_	_	_	_	_	_	Shift=927
+39	то	_	_	_	_	_	_	_	Shift=930
+40	же	_	_	_	_	_	_	_	Shift=933
+41	самое	_	_	_	_	_	_	_	Shift=936
+42	из	_	_	_	_	_	_	_	Shift=942
+43	двойного	_	_	_	_	_	_	_	Shift=945
+44	бетона	_	_	_	_	_	_	_	Shift=954|SpaceAfter=No
+45	,	_	_	_	_	_	_	_	Shift=960
+46	но	_	_	_	_	_	_	_	Shift=962
+47	в	_	_	_	_	_	_	_	Shift=965
+48	Риге	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1796|RuCor_group_id=468253|RuCor_link_id=468249|Shift=967
+49	есть	_	_	_	_	_	_	_	Shift=972
+50	реально	_	_	_	_	_	_	_	Shift=977
+51	действующий	_	_	_	_	_	_	_	Shift=985
+52	рынок	_	_	_	_	_	_	_	Shift=997
+53	земли	_	_	_	_	_	_	_	Shift=1003
+54	с	_	_	_	_	_	_	_	Shift=1009
+55	понятными	_	_	_	_	_	_	_	Shift=1011
+56	ценами	_	_	_	_	_	_	_	Shift=1021
+57	и	_	_	_	_	_	_	_	Shift=1028
+58	кучей	_	_	_	_	_	_	_	Shift=1030
+59	объявлений	_	_	_	_	_	_	_	Shift=1036
+60	в	_	_	_	_	_	_	_	Shift=1047
+61	газете	_	_	_	_	_	_	_	Shift=1049
+62	``	_	_	_	_	_	_	_	Shift=1056|SpaceAfter=No
+63	Реклама	_	_	_	_	_	_	_	Shift=1057|SpaceAfter=No
+64	''	_	_	_	_	_	_	_	Shift=1064|SpaceAfter=No
+65	.	_	_	_	_	_	_	_	Shift=1065
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p10
+# par_text = Продажи новостроек упали – на вторичном рынке затишье и ужесточение правил кредитования для клиентов, и ощущение, что дно еще не достигнуто.
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p10-s1
+# text = Продажи новостроек упали - на вторичном рынке затишье и ужесточение правил кредитования для клиентов, и ощущение, что дно еще не достигнуто.
+1	Продажи	_	_	_	_	_	_	_	Shift=1067
+2	новостроек	_	_	_	_	_	_	_	Shift=1075
+3	упали	_	_	_	_	_	_	_	Shift=1086
+4	-	_	_	_	_	_	_	_	_
+5	на	_	_	_	_	_	_	_	Shift=1094
+6	вторичном	_	_	_	_	_	_	_	Shift=1097
+7	рынке	_	_	_	_	_	_	_	Shift=1107
+8	затишье	_	_	_	_	_	_	_	Shift=1113
+9	и	_	_	_	_	_	_	_	Shift=1121
+10	ужесточение	_	_	_	_	_	_	_	Shift=1123
+11	правил	_	_	_	_	_	_	_	Shift=1135
+12	кредитования	_	_	_	_	_	_	_	Shift=1142
+13	для	_	_	_	_	_	_	_	Shift=1155
+14	клиентов	_	_	_	_	_	_	_	Shift=1159|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=1167
+16	и	_	_	_	_	_	_	_	Shift=1169
+17	ощущение	_	_	_	_	_	_	_	Shift=1171|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=1179
+19	что	_	_	_	_	_	_	_	Shift=1181
+20	дно	_	_	_	_	_	_	_	Shift=1185
+21	еще	_	_	_	_	_	_	_	Shift=1189
+22	не	_	_	_	_	_	_	_	Shift=1193
+23	достигнуто	_	_	_	_	_	_	_	Shift=1196|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=1206
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p11
+# par_text = Создает ли это отложенный спрос?
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p11-s1
+# text = Создает ли это отложенный спрос?
+1	Создает	_	_	_	_	_	_	_	Shift=1208
+2	ли	_	_	_	_	_	_	_	Shift=1216
+3	это	_	_	_	_	_	_	_	Shift=1219
+4	отложенный	_	_	_	_	_	_	_	Shift=1223
+5	спрос	_	_	_	_	_	_	_	Shift=1234|SpaceAfter=No
+6	?	_	_	_	_	_	_	_	Shift=1239
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p12
+# par_text = Похоже, что нет.
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p12-s1
+# text = Похоже, что нет.
+1	Похоже	_	_	_	_	_	_	_	Shift=1241|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=1247
+3	что	_	_	_	_	_	_	_	Shift=1249
+4	нет	_	_	_	_	_	_	_	Shift=1253|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=1256
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p13
+# par_text = По мнению аналитиков из «Деловых вестей» (№ 29 от 11 августа 2008 года), издающихся как приложение к русскоязычной рижской газете «Вести», сдерживающим фактором по отношению к инфляции выступает снижение потребления – однако это ведет к безработице и «остыванию» экономики.
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p13-s1
+# text = По мнению аналитиков из ``Деловых вестей'' (№ 29 от 11 августа 2008 года), издающихся как приложение к русскоязычной рижской газете ``Вести'', сдерживающим фактором по отношению к инфляции выступает снижение потребления - однако это ведет к безработице и ``остыванию'' экономики.
+1	По	_	_	_	_	_	_	_	Shift=1258
+2	мнению	_	_	_	_	_	_	_	Shift=1261
+3	аналитиков	_	_	_	_	_	_	_	Shift=1268
+4	из	_	_	_	_	_	_	_	Shift=1279
+5	``	_	_	_	_	_	_	_	Shift=1282|SpaceAfter=No
+6	Деловых	_	_	_	_	_	_	_	Shift=1283
+7	вестей	_	_	_	_	_	_	_	Shift=1291|SpaceAfter=No
+8	''	_	_	_	_	_	_	_	Shift=1297
+9	(	_	_	_	_	_	_	_	Shift=1299|SpaceAfter=No
+10	№	_	_	_	_	_	_	_	Shift=1300
+11	29	_	_	_	_	_	_	_	Shift=1302
+12	от	_	_	_	_	_	_	_	Shift=1305
+13	11	_	_	_	_	_	_	_	Shift=1308
+14	августа	_	_	_	_	_	_	_	Shift=1311
+15	2008	_	_	_	_	_	_	_	Shift=1319
+16	года	_	_	_	_	_	_	_	Shift=1324|SpaceAfter=No
+17	)	_	_	_	_	_	_	_	Shift=1328|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=1329
+19	издающихся	_	_	_	_	_	_	_	Shift=1331
+20	как	_	_	_	_	_	_	_	Shift=1342
+21	приложение	_	_	_	_	_	_	_	Shift=1346
+22	к	_	_	_	_	_	_	_	Shift=1357
+23	русскоязычной	_	_	_	_	_	_	_	Shift=1359
+24	рижской	_	_	_	_	_	_	_	Shift=1373
+25	газете	_	_	_	_	_	_	_	Shift=1381
+26	``	_	_	_	_	_	_	_	Shift=1388|SpaceAfter=No
+27	Вести	_	_	_	_	_	_	_	Shift=1389|SpaceAfter=No
+28	''	_	_	_	_	_	_	_	Shift=1394|SpaceAfter=No
+29	,	_	_	_	_	_	_	_	Shift=1395
+30	сдерживающим	_	_	_	_	_	_	_	Shift=1397
+31	фактором	_	_	_	_	_	_	_	Shift=1410
+32	по	_	_	_	_	_	_	_	Shift=1419
+33	отношению	_	_	_	_	_	_	_	Shift=1422
+34	к	_	_	_	_	_	_	_	Shift=1432
+35	инфляции	_	_	_	_	_	_	_	Shift=1434
+36	выступает	_	_	_	_	_	_	_	Shift=1443
+37	снижение	_	_	_	_	_	_	_	Shift=1453
+38	потребления	_	_	_	_	_	_	_	Shift=1462
+39	-	_	_	_	_	_	_	_	_
+40	однако	_	_	_	_	_	_	_	Shift=1476
+41	это	_	_	_	_	_	_	_	Shift=1483
+42	ведет	_	_	_	_	_	_	_	Shift=1487
+43	к	_	_	_	_	_	_	_	Shift=1493
+44	безработице	_	_	_	_	_	_	_	Shift=1495
+45	и	_	_	_	_	_	_	_	Shift=1507
+46	``	_	_	_	_	_	_	_	Shift=1509|SpaceAfter=No
+47	остыванию	_	_	_	_	_	_	_	Shift=1510|SpaceAfter=No
+48	''	_	_	_	_	_	_	_	Shift=1519
+49	экономики	_	_	_	_	_	_	_	Shift=1521|SpaceAfter=No
+50	.	_	_	_	_	_	_	_	Shift=1530
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p14
+# par_text = Причем даже достигнутое такой ценой сдерживание не сможет быть долгосрочным, так как наступает холодный сезон, вместе с которым важными факторами станут растущие цены на газ.
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p14-s1
+# text = Причем даже достигнутое такой ценой сдерживание не сможет быть долгосрочным, так как наступает холодный сезон, вместе с которым важными факторами станут растущие цены на газ.
+1	Причем	_	_	_	_	_	_	_	Shift=1532
+2	даже	_	_	_	_	_	_	_	Shift=1539
+3	достигнутое	_	_	_	_	_	_	_	Shift=1544
+4	такой	_	_	_	_	_	_	_	Shift=1556
+5	ценой	_	_	_	_	_	_	_	Shift=1562
+6	сдерживание	_	_	_	_	_	_	_	Shift=1568
+7	не	_	_	_	_	_	_	_	Shift=1580
+8	сможет	_	_	_	_	_	_	_	Shift=1583
+9	быть	_	_	_	_	_	_	_	Shift=1590
+10	долгосрочным	_	_	_	_	_	_	_	Shift=1595|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=1607
+12	так	_	_	_	_	_	_	_	Shift=1609
+13	как	_	_	_	_	_	_	_	Shift=1613
+14	наступает	_	_	_	_	_	_	_	Shift=1617
+15	холодный	_	_	_	_	_	_	_	RuCor_chain_id=1799|RuCor_group_id=468254|Shift=1627
+16	сезон	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1799|RuCor_group_id=468254|RuCor_link_id=0|Shift=1636|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=1641
+18	вместе	_	_	_	_	_	_	_	Shift=1643
+19	с	_	_	_	_	_	_	_	Shift=1650
+20	которым	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=1799|RuCor_group_id=468255|RuCor_link_id=468254|Shift=1652
+21	важными	_	_	_	_	_	_	_	Shift=1660
+22	факторами	_	_	_	_	_	_	_	Shift=1668
+23	станут	_	_	_	_	_	_	_	Shift=1678
+24	растущие	_	_	_	_	_	_	_	Shift=1685
+25	цены	_	_	_	_	_	_	_	Shift=1694
+26	на	_	_	_	_	_	_	_	Shift=1699
+27	газ	_	_	_	_	_	_	_	Shift=1702|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=1705
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p15
+# par_text = Как считает цитируемый в публикации с говорящим названием «Приплыли: рецессия» старший экономист Hansabanka Дайнис Стикутс, «рост ВВП на 0,2% – это показатель того, что экономика глубоко остыла».
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p15-s1
+# text = Как считает цитируемый в публикации с говорящим названием ``Приплыли: рецессия'' старший экономист Hansabanka Дайнис Стикутс, ``рост ВВП на 0, 2 % - это показатель того, что экономика глубоко остыла''.
+1	Как	_	_	_	_	_	_	_	Shift=1707
+2	считает	_	_	_	_	_	_	_	Shift=1711
+3	цитируемый	_	_	_	_	_	_	_	Shift=1719
+4	в	_	_	_	_	_	_	_	Shift=1730
+5	публикации	_	_	_	_	_	_	_	Shift=1732
+6	с	_	_	_	_	_	_	_	Shift=1743
+7	говорящим	_	_	_	_	_	_	_	Shift=1745
+8	названием	_	_	_	_	_	_	_	Shift=1755
+9	``	_	_	_	_	_	_	_	Shift=1765|SpaceAfter=No
+10	Приплыли	_	_	_	_	_	_	_	Shift=1766|SpaceAfter=No
+11	:	_	_	_	_	_	_	_	Shift=1774
+12	рецессия	_	_	_	_	_	_	_	Shift=1776|SpaceAfter=No
+13	''	_	_	_	_	_	_	_	Shift=1784
+14	старший	_	_	_	_	_	_	_	Shift=1786
+15	экономист	_	_	_	_	_	_	_	Shift=1794
+16	Hansabanka	_	_	_	_	_	_	_	Shift=1804
+17	Дайнис	_	_	_	_	_	_	_	Shift=1815
+18	Стикутс	_	_	_	_	_	_	_	Shift=1822|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=1829
+20	``	_	_	_	_	_	_	_	Shift=1831|SpaceAfter=No
+21	рост	_	_	_	_	_	_	_	Shift=1832
+22	ВВП	_	_	_	_	_	_	_	Shift=1837
+23	на	_	_	_	_	_	_	_	Shift=1841
+24	0	_	_	_	_	_	_	_	Shift=1844|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=1845
+26	2	_	_	_	_	_	_	_	Shift=1846
+27	%	_	_	_	_	_	_	_	Shift=1847
+28	-	_	_	_	_	_	_	_	_
+29	это	_	_	_	_	_	_	_	Shift=1851
+30	показатель	_	_	_	_	_	_	_	Shift=1855
+31	того	_	_	_	_	_	_	_	Shift=1866|SpaceAfter=No
+32	,	_	_	_	_	_	_	_	Shift=1870
+33	что	_	_	_	_	_	_	_	Shift=1872
+34	экономика	_	_	_	_	_	_	_	Shift=1876
+35	глубоко	_	_	_	_	_	_	_	Shift=1886
+36	остыла	_	_	_	_	_	_	_	Shift=1894|SpaceAfter=No
+37	''	_	_	_	_	_	_	_	Shift=1900|SpaceAfter=No
+38	.	_	_	_	_	_	_	_	Shift=1901
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p16
+# par_text = Данные свидетельствуют о том, что в прошлом экономика поддерживалась экспортом – и эта тенденция в значительной степени сохраняется.
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p16-s1
+# text = Данные свидетельствуют о том, что в прошлом экономика поддерживалась экспортом - и эта тенденция в значительной степени сохраняется.
+1	Данные	_	_	_	_	_	_	_	Shift=1903
+2	свидетельствуют	_	_	_	_	_	_	_	Shift=1910
+3	о	_	_	_	_	_	_	_	Shift=1926
+4	том	_	_	_	_	_	_	_	Shift=1928|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1931
+6	что	_	_	_	_	_	_	_	Shift=1933
+7	в	_	_	_	_	_	_	_	Shift=1937
+8	прошлом	_	_	_	_	_	_	_	Shift=1939
+9	экономика	_	_	_	_	_	_	_	Shift=1947
+10	поддерживалась	_	_	_	_	_	_	_	Shift=1957
+11	экспортом	_	_	_	_	_	_	_	Shift=1972
+12	-	_	_	_	_	_	_	_	_
+13	и	_	_	_	_	_	_	_	Shift=1984
+14	эта	_	_	_	_	_	_	_	Shift=1986
+15	тенденция	_	_	_	_	_	_	_	Shift=1990
+16	в	_	_	_	_	_	_	_	Shift=2000
+17	значительной	_	_	_	_	_	_	_	Shift=2002
+18	степени	_	_	_	_	_	_	_	Shift=2015
+19	сохраняется	_	_	_	_	_	_	_	Shift=2023|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=2034
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p17
+# par_text = При этом ситуация, складывающаяся в Латвии, может поразить российского обывателя: местные дилеры, похоже, заказали слишком много автомобилей и не смогут их продать.
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p17-s1
+# text = При этом ситуация, складывающаяся в Латвии, может поразить российского обывателя: местные дилеры, похоже, заказали слишком много автомобилей и не смогут их продать.
+1	При	_	_	_	_	_	_	_	Shift=2036
+2	этом	_	_	_	_	_	_	_	Shift=2040
+3	ситуация	_	_	_	_	_	_	_	Shift=2045|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2053
+5	складывающаяся	_	_	_	_	_	_	_	Shift=2055
+6	в	_	_	_	_	_	_	_	Shift=2070
+7	Латвии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1793|RuCor_group_id=468256|RuCor_link_id=468245|Shift=2072|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=2078
+9	может	_	_	_	_	_	_	_	Shift=2080
+10	поразить	_	_	_	_	_	_	_	Shift=2086
+11	российского	_	_	_	_	_	_	_	Shift=2095
+12	обывателя	_	_	_	_	_	_	_	Shift=2107|SpaceAfter=No
+13	:	_	_	_	_	_	_	_	Shift=2116
+14	местные	_	_	_	_	_	_	_	Shift=2118
+15	дилеры	_	_	_	_	_	_	_	Shift=2126|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=2132
+17	похоже	_	_	_	_	_	_	_	Shift=2134|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=2140
+19	заказали	_	_	_	_	_	_	_	Shift=2142
+20	слишком	_	_	_	_	_	_	_	Shift=2151
+21	много	_	_	_	_	_	_	_	RuCor_chain_id=1800|RuCor_group_id=468257|Shift=2159
+22	автомобилей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1800|RuCor_group_id=468257|RuCor_link_id=0|Shift=2165
+23	и	_	_	_	_	_	_	_	Shift=2177
+24	не	_	_	_	_	_	_	_	Shift=2179
+25	смогут	_	_	_	_	_	_	_	Shift=2182
+26	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1800|RuCor_group_id=468258|RuCor_link_id=468257|Shift=2189
+27	продать	_	_	_	_	_	_	_	Shift=2192|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=2199
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p18
+# par_text = Возможно, хорошие новости для дилеров в России – и для маленького серого рынка реэкспорта в Россию, разумеется, если дилеры смогут договориться между собой.
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p18-s1
+# text = Возможно, хорошие новости для дилеров в России - и для маленького серого рынка реэкспорта в Россию, разумеется, если дилеры смогут договориться между собой.
+1	Возможно	_	_	_	_	_	_	_	Shift=2201|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=2209
+3	хорошие	_	_	_	_	_	_	_	Shift=2211
+4	новости	_	_	_	_	_	_	_	Shift=2219
+5	для	_	_	_	_	_	_	_	Shift=2227
+6	дилеров	_	_	_	_	_	_	_	Shift=2231
+7	в	_	_	_	_	_	_	_	Shift=2239
+8	России	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1789|RuCor_group_id=468259|RuCor_link_id=468235|Shift=2241
+9	-	_	_	_	_	_	_	_	_
+10	и	_	_	_	_	_	_	_	Shift=2250
+11	для	_	_	_	_	_	_	_	Shift=2252
+12	маленького	_	_	_	_	_	_	_	Shift=2256
+13	серого	_	_	_	_	_	_	_	Shift=2267
+14	рынка	_	_	_	_	_	_	_	Shift=2274
+15	реэкспорта	_	_	_	_	_	_	_	Shift=2280
+16	в	_	_	_	_	_	_	_	Shift=2291
+17	Россию	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1789|RuCor_group_id=468260|RuCor_link_id=468259|Shift=2293|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=2299
+19	разумеется	_	_	_	_	_	_	_	Shift=2301|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=2311
+21	если	_	_	_	_	_	_	_	Shift=2313
+22	дилеры	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1801|RuCor_group_id=468261|RuCor_link_id=0|Shift=2318
+23	смогут	_	_	_	_	_	_	_	Shift=2325
+24	договориться	_	_	_	_	_	_	_	Shift=2332
+25	между	_	_	_	_	_	_	_	Shift=2345
+26	собой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=1801|RuCor_group_id=468262|RuCor_link_id=468261|Shift=2351|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=2356
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p19
+# par_text = Вопрос о том, есть кризис в Латвии, или его нет, в самой республике не задают: местные медиа скорее соревнуются в описании того, как глубоко он зашел, какие последствия он несет для экономик балтийских стран, и когда он закончится.
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p19-s1
+# text = Вопрос о том, есть кризис в Латвии, или его нет, в самой республике не задают: местные медиа скорее соревнуются в описании того, как глубоко он зашел, какие последствия он несет для экономик балтийских стран, и когда он закончится.
+1	Вопрос	_	_	_	_	_	_	_	Shift=2358
+2	о	_	_	_	_	_	_	_	Shift=2365
+3	том	_	_	_	_	_	_	_	Shift=2367|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2370
+5	есть	_	_	_	_	_	_	_	Shift=2372
+6	кризис	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1790|RuCor_group_id=468263|RuCor_link_id=468242|Shift=2377
+7	в	_	_	_	_	_	_	_	Shift=2384
+8	Латвии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1793|RuCor_group_id=468264|RuCor_link_id=468256|Shift=2386|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=2392
+10	или	_	_	_	_	_	_	_	Shift=2394
+11	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1790|RuCor_group_id=468265|RuCor_link_id=468263|Shift=2398
+12	нет	_	_	_	_	_	_	_	Shift=2402|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=2405
+14	в	_	_	_	_	_	_	_	Shift=2407
+15	самой	_	_	_	_	_	_	_	Shift=2409
+16	республике	_	_	_	_	_	_	_	Shift=2415
+17	не	_	_	_	_	_	_	_	Shift=2426
+18	задают	_	_	_	_	_	_	_	Shift=2429|SpaceAfter=No
+19	:	_	_	_	_	_	_	_	Shift=2435
+20	местные	_	_	_	_	_	_	_	Shift=2437
+21	медиа	_	_	_	_	_	_	_	Shift=2445
+22	скорее	_	_	_	_	_	_	_	Shift=2451
+23	соревнуются	_	_	_	_	_	_	_	Shift=2458
+24	в	_	_	_	_	_	_	_	Shift=2470
+25	описании	_	_	_	_	_	_	_	Shift=2472
+26	того	_	_	_	_	_	_	_	Shift=2481|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=2485
+28	как	_	_	_	_	_	_	_	Shift=2487
+29	глубоко	_	_	_	_	_	_	_	Shift=2491
+30	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1790|RuCor_group_id=468266|RuCor_link_id=468265|Shift=2499
+31	зашел	_	_	_	_	_	_	_	Shift=2502|SpaceAfter=No
+32	,	_	_	_	_	_	_	_	Shift=2507
+33	какие	_	_	_	_	_	_	_	Shift=2509
+34	последствия	_	_	_	_	_	_	_	Shift=2515
+35	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1790|RuCor_group_id=468267|RuCor_link_id=468266|Shift=2527
+36	несет	_	_	_	_	_	_	_	Shift=2530
+37	для	_	_	_	_	_	_	_	Shift=2536
+38	экономик	_	_	_	_	_	_	_	Shift=2540
+39	балтийских	_	_	_	_	_	_	_	RuCor_chain_id=1792|RuCor_group_id=468268|Shift=2549
+40	стран	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1792|RuCor_group_id=468268|RuCor_link_id=468243|Shift=2560|SpaceAfter=No
+41	,	_	_	_	_	_	_	_	Shift=2565
+42	и	_	_	_	_	_	_	_	Shift=2567
+43	когда	_	_	_	_	_	_	_	Shift=2569
+44	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1790|RuCor_group_id=468269|RuCor_link_id=468267|Shift=2575
+45	закончится	_	_	_	_	_	_	_	Shift=2578|SpaceAfter=No
+46	.	_	_	_	_	_	_	_	Shift=2588
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p20
+# par_text = Для участников экономической жизни России с высоким уровнем роста цен на жилье и недвижимость, невысоким качеством промышленной продукции и постоянным увеличением стоимости экономических активов Латвии и Эстонии смотрятся как зазеркалье: заколдованный мир, в котором все стоит дешевле, чем должно – если бы только это было в России.
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p20-s1
+# text = Для участников экономической жизни России с высоким уровнем роста цен на жилье и недвижимость, невысоким качеством промышленной продукции и постоянным увеличением стоимости экономических активов Латвии и Эстонии смотрятся как зазеркалье: заколдованный мир, в котором все стоит дешевле, чем должно - если бы только это было в России.
+1	Для	_	_	_	_	_	_	_	Shift=2590
+2	участников	_	_	_	_	_	_	_	Shift=2594
+3	экономической	_	_	_	_	_	_	_	Shift=2605
+4	жизни	_	_	_	_	_	_	_	Shift=2619
+5	России	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1789|RuCor_group_id=468270|RuCor_link_id=468259|Shift=2625
+6	с	_	_	_	_	_	_	_	Shift=2632
+7	высоким	_	_	_	_	_	_	_	Shift=2634
+8	уровнем	_	_	_	_	_	_	_	Shift=2642
+9	роста	_	_	_	_	_	_	_	Shift=2650
+10	цен	_	_	_	_	_	_	_	Shift=2656
+11	на	_	_	_	_	_	_	_	Shift=2660
+12	жилье	_	_	_	_	_	_	_	Shift=2663
+13	и	_	_	_	_	_	_	_	Shift=2669
+14	недвижимость	_	_	_	_	_	_	_	Shift=2671|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=2683
+16	невысоким	_	_	_	_	_	_	_	Shift=2685
+17	качеством	_	_	_	_	_	_	_	Shift=2695
+18	промышленной	_	_	_	_	_	_	_	Shift=2705
+19	продукции	_	_	_	_	_	_	_	Shift=2718
+20	и	_	_	_	_	_	_	_	Shift=2728
+21	постоянным	_	_	_	_	_	_	_	Shift=2730
+22	увеличением	_	_	_	_	_	_	_	Shift=2741
+23	стоимости	_	_	_	_	_	_	_	Shift=2753
+24	экономических	_	_	_	_	_	_	_	Shift=2763
+25	активов	_	_	_	_	_	_	_	Shift=2777
+26	Латвии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1793|RuCor_group_id=468271|RuCor_link_id=468264|Shift=2785
+27	и	_	_	_	_	_	_	_	Shift=2792
+28	Эстонии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1795|RuCor_group_id=468272|RuCor_link_id=468247|Shift=2794
+29	смотрятся	_	_	_	_	_	_	_	Shift=2802
+30	как	_	_	_	_	_	_	_	Shift=2812
+31	зазеркалье	_	_	_	_	_	_	_	Shift=2816|SpaceAfter=No
+32	:	_	_	_	_	_	_	_	Shift=2826
+33	заколдованный	_	_	_	_	_	_	_	RuCor_chain_id=1802|RuCor_group_id=468273|Shift=2828
+34	мир	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1802|RuCor_group_id=468273|RuCor_link_id=0|Shift=2842|SpaceAfter=No
+35	,	_	_	_	_	_	_	_	Shift=2845
+36	в	_	_	_	_	_	_	_	Shift=2847
+37	котором	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=1802|RuCor_group_id=468274|RuCor_link_id=468273|Shift=2849
+38	все	_	_	_	_	_	_	_	Shift=2857
+39	стоит	_	_	_	_	_	_	_	Shift=2861
+40	дешевле	_	_	_	_	_	_	_	Shift=2867|SpaceAfter=No
+41	,	_	_	_	_	_	_	_	Shift=2874
+42	чем	_	_	_	_	_	_	_	Shift=2876
+43	должно	_	_	_	_	_	_	_	Shift=2880
+44	-	_	_	_	_	_	_	_	_
+45	если	_	_	_	_	_	_	_	Shift=2889
+46	бы	_	_	_	_	_	_	_	Shift=2894
+47	только	_	_	_	_	_	_	_	Shift=2897
+48	это	_	_	_	_	_	_	_	Shift=2904
+49	было	_	_	_	_	_	_	_	Shift=2908
+50	в	_	_	_	_	_	_	_	Shift=2913
+51	России	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1789|RuCor_group_id=468275|RuCor_link_id=468259|Shift=2915|SpaceAfter=No
+52	.	_	_	_	_	_	_	_	Shift=2921
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p21
+# par_text = Именно так выглядит, например, банкротство хлебозавода в Огре.
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p21-s1
+# text = Именно так выглядит, например, банкротство хлебозавода в Огре.
+1	Именно	_	_	_	_	_	_	_	Shift=2923
+2	так	_	_	_	_	_	_	_	Shift=2930
+3	выглядит	_	_	_	_	_	_	_	Shift=2934|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2942
+5	например	_	_	_	_	_	_	_	Shift=2944|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=2952
+7	банкротство	_	_	_	_	_	_	_	Shift=2954
+8	хлебозавода	_	_	_	_	_	_	_	Shift=2966
+9	в	_	_	_	_	_	_	_	Shift=2978
+10	Огре	_	_	_	_	_	_	_	Shift=2980|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=2984
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p22
+# par_text = Все помнят вкус рижского хлеба и те, кому посчастливилось побывать в Латвии в последние десять лет, знают, что «Кисло-сладкий», «Ржаной» и прочие разновидности местного хлеба, несмотря на относительную дороговизну, лучше и вкуснее самых дорогих импортных сортов хлеба в супермаркетах премиум-класса («Азбука вкуса», «Седьмой континент» и т.п.).
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p22-s1
+# text = Все помнят вкус рижского хлеба и те, кому посчастливилось побывать в Латвии в последние десять лет, знают, что ``Кисло-сладкий'', ``Ржаной'' и прочие разновидности местного хлеба, несмотря на относительную дороговизну, лучше и вкуснее самых дорогих импортных сортов хлеба в супермаркетах премиум-класса (``Азбука вкуса'', ``Седьмой континент'' и т. п.).
+1	Все	_	_	_	_	_	_	_	Shift=2986
+2	помнят	_	_	_	_	_	_	_	Shift=2990
+3	вкус	_	_	_	_	_	_	_	Shift=2997
+4	рижского	_	_	_	_	_	_	_	Shift=3002
+5	хлеба	_	_	_	_	_	_	_	Shift=3011
+6	и	_	_	_	_	_	_	_	Shift=3017
+7	те	_	_	_	_	_	_	_	Shift=3019|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=3021
+9	кому	_	_	_	_	_	_	_	Shift=3023
+10	посчастливилось	_	_	_	_	_	_	_	Shift=3028
+11	побывать	_	_	_	_	_	_	_	Shift=3044
+12	в	_	_	_	_	_	_	_	Shift=3053
+13	Латвии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1793|RuCor_group_id=468276|RuCor_link_id=468271|Shift=3055
+14	в	_	_	_	_	_	_	_	Shift=3062
+15	последние	_	_	_	_	_	_	_	Shift=3064
+16	десять	_	_	_	_	_	_	_	Shift=3074
+17	лет	_	_	_	_	_	_	_	Shift=3081|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=3084
+19	знают	_	_	_	_	_	_	_	Shift=3086|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=3091
+21	что	_	_	_	_	_	_	_	Shift=3093
+22	``	_	_	_	_	_	_	_	Shift=3097|SpaceAfter=No
+23	Кисло-сладкий	_	_	_	_	_	_	_	Shift=3098|SpaceAfter=No
+24	''	_	_	_	_	_	_	_	Shift=3111|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=3112
+26	``	_	_	_	_	_	_	_	Shift=3114|SpaceAfter=No
+27	Ржаной	_	_	_	_	_	_	_	Shift=3115|SpaceAfter=No
+28	''	_	_	_	_	_	_	_	Shift=3121
+29	и	_	_	_	_	_	_	_	Shift=3123
+30	прочие	_	_	_	_	_	_	_	Shift=3125
+31	разновидности	_	_	_	_	_	_	_	Shift=3132
+32	местного	_	_	_	_	_	_	_	Shift=3146
+33	хлеба	_	_	_	_	_	_	_	Shift=3155|SpaceAfter=No
+34	,	_	_	_	_	_	_	_	Shift=3160
+35	несмотря	_	_	_	_	_	_	_	Shift=3162
+36	на	_	_	_	_	_	_	_	Shift=3171
+37	относительную	_	_	_	_	_	_	_	Shift=3174
+38	дороговизну	_	_	_	_	_	_	_	Shift=3188|SpaceAfter=No
+39	,	_	_	_	_	_	_	_	Shift=3199
+40	лучше	_	_	_	_	_	_	_	Shift=3201
+41	и	_	_	_	_	_	_	_	Shift=3207
+42	вкуснее	_	_	_	_	_	_	_	Shift=3209
+43	самых	_	_	_	_	_	_	_	Shift=3217
+44	дорогих	_	_	_	_	_	_	_	Shift=3223
+45	импортных	_	_	_	_	_	_	_	Shift=3231
+46	сортов	_	_	_	_	_	_	_	Shift=3241
+47	хлеба	_	_	_	_	_	_	_	Shift=3248
+48	в	_	_	_	_	_	_	_	Shift=3254
+49	супермаркетах	_	_	_	_	_	_	_	Shift=3256
+50	премиум-класса	_	_	_	_	_	_	_	Shift=3270
+51	(	_	_	_	_	_	_	_	Shift=3285|SpaceAfter=No
+52	``	_	_	_	_	_	_	_	Shift=3286|SpaceAfter=No
+53	Азбука	_	_	_	_	_	_	_	Shift=3287
+54	вкуса	_	_	_	_	_	_	_	Shift=3294|SpaceAfter=No
+55	''	_	_	_	_	_	_	_	Shift=3299|SpaceAfter=No
+56	,	_	_	_	_	_	_	_	Shift=3300
+57	``	_	_	_	_	_	_	_	Shift=3302|SpaceAfter=No
+58	Седьмой	_	_	_	_	_	_	_	Shift=3303
+59	континент	_	_	_	_	_	_	_	Shift=3311|SpaceAfter=No
+60	''	_	_	_	_	_	_	_	Shift=3320
+61	и	_	_	_	_	_	_	_	Shift=3322
+62	т.	_	_	_	_	_	_	_	Shift=3324
+63	п.	_	_	_	_	_	_	_	Shift=3326|SpaceAfter=No
+64	)	_	_	_	_	_	_	_	Shift=3328|SpaceAfter=No
+65	.	_	_	_	_	_	_	_	Shift=3329
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p23
+# par_text = Тем не менее сложности с экспортом продукции, включая многокилометровые пробки фур на границе с Россией, ставят непроходимый барьер на пути скоропортящейся продукции – даже если она лучшего качества, дешевле и без консервантов – а значит, лишают многие предприятия в Латвийской Республике и Эстонии шанса на спасение за счет экспорта в Россию или продажи активов русским инвесторам.
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p23-s1
+# text = Тем не менее сложности с экспортом продукции, включая многокилометровые пробки фур на границе с Россией, ставят непроходимый барьер на пути скоропортящейся продукции - даже если она лучшего качества, дешевле и без консервантов - а значит, лишают многие предприятия в Латвийской Республике и Эстонии шанса на спасение за счет экспорта в Россию или продажи активов русским инвесторам.
+1	Тем	_	_	_	_	_	_	_	Shift=3331
+2	не	_	_	_	_	_	_	_	Shift=3335
+3	менее	_	_	_	_	_	_	_	Shift=3338
+4	сложности	_	_	_	_	_	_	_	Shift=3344
+5	с	_	_	_	_	_	_	_	Shift=3354
+6	экспортом	_	_	_	_	_	_	_	Shift=3356
+7	продукции	_	_	_	_	_	_	_	Shift=3366|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=3375
+9	включая	_	_	_	_	_	_	_	Shift=3377
+10	многокилометровые	_	_	_	_	_	_	_	Shift=3385
+11	пробки	_	_	_	_	_	_	_	Shift=3403
+12	фур	_	_	_	_	_	_	_	Shift=3410
+13	на	_	_	_	_	_	_	_	Shift=3414
+14	границе	_	_	_	_	_	_	_	Shift=3417
+15	с	_	_	_	_	_	_	_	Shift=3425
+16	Россией	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1789|RuCor_group_id=468277|RuCor_link_id=468275|Shift=3427|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=3434
+18	ставят	_	_	_	_	_	_	_	Shift=3436
+19	непроходимый	_	_	_	_	_	_	_	Shift=3443
+20	барьер	_	_	_	_	_	_	_	Shift=3456
+21	на	_	_	_	_	_	_	_	Shift=3463
+22	пути	_	_	_	_	_	_	_	Shift=3466
+23	скоропортящейся	_	_	_	_	_	_	_	RuCor_chain_id=1803|RuCor_group_id=468278|Shift=3471
+24	продукции	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1803|RuCor_group_id=468278|RuCor_link_id=0|Shift=3487
+25	-	_	_	_	_	_	_	_	_
+26	даже	_	_	_	_	_	_	_	Shift=3499
+27	если	_	_	_	_	_	_	_	Shift=3504
+28	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1803|RuCor_group_id=468279|RuCor_link_id=468278|Shift=3509
+29	лучшего	_	_	_	_	_	_	_	Shift=3513
+30	качества	_	_	_	_	_	_	_	Shift=3521|SpaceAfter=No
+31	,	_	_	_	_	_	_	_	Shift=3529
+32	дешевле	_	_	_	_	_	_	_	Shift=3531
+33	и	_	_	_	_	_	_	_	Shift=3539
+34	без	_	_	_	_	_	_	_	Shift=3541
+35	консервантов	_	_	_	_	_	_	_	Shift=3545
+36	-	_	_	_	_	_	_	_	_
+37	а	_	_	_	_	_	_	_	Shift=3560
+38	значит	_	_	_	_	_	_	_	Shift=3562|SpaceAfter=No
+39	,	_	_	_	_	_	_	_	Shift=3568
+40	лишают	_	_	_	_	_	_	_	Shift=3570
+41	многие	_	_	_	_	_	_	_	Shift=3577
+42	предприятия	_	_	_	_	_	_	_	Shift=3584
+43	в	_	_	_	_	_	_	_	Shift=3596
+44	Латвийской	_	_	_	_	_	_	_	RuCor_chain_id=1793|RuCor_group_id=468280|Shift=3598
+45	Республике	_	_	_	_	_	_	_	RuCor_chain_id=1793|RuCor_group_id=468280|Shift=3609
+46	и	_	_	_	_	_	_	_	Shift=3620
+47	Эстонии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1795|RuCor_group_id=468281|RuCor_link_id=468272|Shift=3622
+48	шанса	_	_	_	_	_	_	_	Shift=3630
+49	на	_	_	_	_	_	_	_	Shift=3636
+50	спасение	_	_	_	_	_	_	_	Shift=3639
+51	за	_	_	_	_	_	_	_	Shift=3648
+52	счет	_	_	_	_	_	_	_	Shift=3651
+53	экспорта	_	_	_	_	_	_	_	Shift=3656
+54	в	_	_	_	_	_	_	_	Shift=3665
+55	Россию	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1789|RuCor_group_id=468282|RuCor_link_id=468277|Shift=3667
+56	или	_	_	_	_	_	_	_	Shift=3674
+57	продажи	_	_	_	_	_	_	_	Shift=3678
+58	активов	_	_	_	_	_	_	_	Shift=3686
+59	русским	_	_	_	_	_	_	_	Shift=3694
+60	инвесторам	_	_	_	_	_	_	_	Shift=3702|SpaceAfter=No
+61	.	_	_	_	_	_	_	_	Shift=3712
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p24
+# par_text = Впрочем, если говорить о главных показателях кризиса для потребителей, то кроме растущей безработицы к ним следует добавитьсложности с получением кредитов на покупки жилья, – а ведь именно агрессивное кредитование конечных потребителей под залог и было одним из локомотивов развития не только строительной индустрии в этих странах, но и всей экономики.
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p24-s1
+# text = Впрочем, если говорить о главных показателях кризиса для потребителей, то кроме растущей безработицы к ним следует добавитьсложности с получением кредитов на покупки жилья, - а ведь именно агрессивное кредитование конечных потребителей под залог и было одним из локомотивов развития не только строительной индустрии в этих странах, но и всей экономики.
+1	Впрочем	_	_	_	_	_	_	_	Shift=3714|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=3721
+3	если	_	_	_	_	_	_	_	Shift=3723
+4	говорить	_	_	_	_	_	_	_	Shift=3728
+5	о	_	_	_	_	_	_	_	Shift=3737
+6	главных	_	_	_	_	_	_	_	RuCor_chain_id=1804|RuCor_group_id=468283|Shift=3739
+7	показателях	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1804|RuCor_group_id=468283|RuCor_link_id=0|Shift=3747
+8	кризиса	_	_	_	_	_	_	_	RuCor_chain_id=1804|RuCor_group_id=468283|Shift=3759
+9	для	_	_	_	_	_	_	_	RuCor_chain_id=1804|RuCor_group_id=468283|Shift=3767
+10	потребителей	_	_	_	_	_	_	_	RuCor_chain_id=1804|RuCor_group_id=468283|Shift=3771|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=3783
+12	то	_	_	_	_	_	_	_	Shift=3785
+13	кроме	_	_	_	_	_	_	_	Shift=3788
+14	растущей	_	_	_	_	_	_	_	Shift=3794
+15	безработицы	_	_	_	_	_	_	_	Shift=3803
+16	к	_	_	_	_	_	_	_	Shift=3815
+17	ним	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1804|RuCor_group_id=468284|RuCor_link_id=468283|Shift=3817
+18	следует	_	_	_	_	_	_	_	Shift=3821
+19	добавитьсложности	_	_	_	_	_	_	_	Shift=3829
+20	с	_	_	_	_	_	_	_	Shift=3847
+21	получением	_	_	_	_	_	_	_	Shift=3849
+22	кредитов	_	_	_	_	_	_	_	Shift=3860
+23	на	_	_	_	_	_	_	_	Shift=3869
+24	покупки	_	_	_	_	_	_	_	Shift=3872
+25	жилья	_	_	_	_	_	_	_	Shift=3880|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	Shift=3885
+27	-	_	_	_	_	_	_	_	_
+28	а	_	_	_	_	_	_	_	Shift=3889
+29	ведь	_	_	_	_	_	_	_	Shift=3891
+30	именно	_	_	_	_	_	_	_	Shift=3896
+31	агрессивное	_	_	_	_	_	_	_	Shift=3903
+32	кредитование	_	_	_	_	_	_	_	Shift=3915
+33	конечных	_	_	_	_	_	_	_	Shift=3928
+34	потребителей	_	_	_	_	_	_	_	Shift=3937
+35	под	_	_	_	_	_	_	_	Shift=3950
+36	залог	_	_	_	_	_	_	_	Shift=3954
+37	и	_	_	_	_	_	_	_	Shift=3960
+38	было	_	_	_	_	_	_	_	Shift=3962
+39	одним	_	_	_	_	_	_	_	Shift=3967
+40	из	_	_	_	_	_	_	_	Shift=3973
+41	локомотивов	_	_	_	_	_	_	_	Shift=3976
+42	развития	_	_	_	_	_	_	_	Shift=3988
+43	не	_	_	_	_	_	_	_	Shift=3997
+44	только	_	_	_	_	_	_	_	Shift=4000
+45	строительной	_	_	_	_	_	_	_	Shift=4007
+46	индустрии	_	_	_	_	_	_	_	Shift=4020
+47	в	_	_	_	_	_	_	_	Shift=4030
+48	этих	_	_	_	_	_	_	_	RuCor_chain_id=1794|RuCor_group_id=468285|Shift=4032
+49	странах	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1794|RuCor_group_id=468285|RuCor_link_id=468248|Shift=4037|SpaceAfter=No
+50	,	_	_	_	_	_	_	_	Shift=4044
+51	но	_	_	_	_	_	_	_	Shift=4046
+52	и	_	_	_	_	_	_	_	Shift=4049
+53	всей	_	_	_	_	_	_	_	Shift=4051
+54	экономики	_	_	_	_	_	_	_	Shift=4056|SpaceAfter=No
+55	.	_	_	_	_	_	_	_	Shift=4065
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p25
+# par_text = Теперь же речь идет не просто о сокращениях в риелторских агентствах и просроченных кредитах, но и об общем снижении цен на недвижимость, которые по разным позициям могут достигать 10 –50%, – и главным опасением продавцов (и надеждой покупателей) сегодня становится рост непрофильных активов у банков.
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p25-s1
+# text = Теперь же речь идет не просто о сокращениях в риелторских агентствах и просроченных кредитах, но и об общем снижении цен на недвижимость, которые по разным позициям могут достигать 10 - 50 %, - и главным опасением продавцов (и надеждой покупателей) сегодня становится рост непрофильных активов у банков.
+1	Теперь	_	_	_	_	_	_	_	Shift=4067
+2	же	_	_	_	_	_	_	_	Shift=4074
+3	речь	_	_	_	_	_	_	_	Shift=4077
+4	идет	_	_	_	_	_	_	_	Shift=4082
+5	не	_	_	_	_	_	_	_	Shift=4087
+6	просто	_	_	_	_	_	_	_	Shift=4090
+7	о	_	_	_	_	_	_	_	Shift=4097
+8	сокращениях	_	_	_	_	_	_	_	Shift=4099
+9	в	_	_	_	_	_	_	_	Shift=4111
+10	риелторских	_	_	_	_	_	_	_	Shift=4113
+11	агентствах	_	_	_	_	_	_	_	Shift=4125
+12	и	_	_	_	_	_	_	_	Shift=4136
+13	просроченных	_	_	_	_	_	_	_	Shift=4138
+14	кредитах	_	_	_	_	_	_	_	Shift=4151|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=4159
+16	но	_	_	_	_	_	_	_	Shift=4161
+17	и	_	_	_	_	_	_	_	Shift=4164
+18	об	_	_	_	_	_	_	_	Shift=4166
+19	общем	_	_	_	_	_	_	_	Shift=4169
+20	снижении	_	_	_	_	_	_	_	Shift=4175
+21	цен	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1805|RuCor_group_id=468286|RuCor_link_id=0|Shift=4184
+22	на	_	_	_	_	_	_	_	RuCor_chain_id=1805|RuCor_group_id=468286|Shift=4188
+23	недвижимость	_	_	_	_	_	_	_	RuCor_chain_id=1805|RuCor_group_id=468286|Shift=4191|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=4203
+25	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=1805|RuCor_group_id=468287|RuCor_link_id=468286|Shift=4205
+26	по	_	_	_	_	_	_	_	Shift=4213
+27	разным	_	_	_	_	_	_	_	Shift=4216
+28	позициям	_	_	_	_	_	_	_	Shift=4223
+29	могут	_	_	_	_	_	_	_	Shift=4232
+30	достигать	_	_	_	_	_	_	_	Shift=4238
+31	10	_	_	_	_	_	_	_	Shift=4248
+32	-	_	_	_	_	_	_	_	_
+33	50	_	_	_	_	_	_	_	Shift=4252
+34	%	_	_	_	_	_	_	_	Shift=4254|SpaceAfter=No
+35	,	_	_	_	_	_	_	_	Shift=4255
+36	-	_	_	_	_	_	_	_	_
+37	и	_	_	_	_	_	_	_	Shift=4259
+38	главным	_	_	_	_	_	_	_	Shift=4261
+39	опасением	_	_	_	_	_	_	_	Shift=4269
+40	продавцов	_	_	_	_	_	_	_	Shift=4279
+41	(	_	_	_	_	_	_	_	Shift=4289|SpaceAfter=No
+42	и	_	_	_	_	_	_	_	Shift=4290
+43	надеждой	_	_	_	_	_	_	_	Shift=4292
+44	покупателей	_	_	_	_	_	_	_	Shift=4301|SpaceAfter=No
+45	)	_	_	_	_	_	_	_	Shift=4312
+46	сегодня	_	_	_	_	_	_	_	Shift=4314
+47	становится	_	_	_	_	_	_	_	Shift=4322
+48	рост	_	_	_	_	_	_	_	Shift=4333
+49	непрофильных	_	_	_	_	_	_	_	Shift=4338
+50	активов	_	_	_	_	_	_	_	Shift=4351
+51	у	_	_	_	_	_	_	_	Shift=4359
+52	банков	_	_	_	_	_	_	_	Shift=4361|SpaceAfter=No
+53	.	_	_	_	_	_	_	_	Shift=4367
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p26
+# par_text = Если квартиры и офисы, по которым просрочены платежи, будут выброшены на рынок для срочной продажи, количество сделок по недвижимости может возрасти – ценой обрушения рынка.
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p26-s1
+# text = Если квартиры и офисы, по которым просрочены платежи, будут выброшены на рынок для срочной продажи, количество сделок по недвижимости может возрасти - ценой обрушения рынка.
+1	Если	_	_	_	_	_	_	_	Shift=4369
+2	квартиры	_	_	_	_	_	_	_	RuCor_chain_id=1806|RuCor_group_id=468288|Shift=4374
+3	и	_	_	_	_	_	_	_	RuCor_chain_id=1806|RuCor_group_id=468288|Shift=4383
+4	офисы	_	_	_	_	_	_	_	RuCor_chain_id=1806|RuCor_group_id=468288|Shift=4385|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=4390
+6	по	_	_	_	_	_	_	_	Shift=4392
+7	которым	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=1806|RuCor_group_id=468289|RuCor_link_id=468288|Shift=4395
+8	просрочены	_	_	_	_	_	_	_	Shift=4403
+9	платежи	_	_	_	_	_	_	_	Shift=4414|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=4421
+11	будут	_	_	_	_	_	_	_	Shift=4423
+12	выброшены	_	_	_	_	_	_	_	Shift=4429
+13	на	_	_	_	_	_	_	_	Shift=4439
+14	рынок	_	_	_	_	_	_	_	Shift=4442
+15	для	_	_	_	_	_	_	_	Shift=4448
+16	срочной	_	_	_	_	_	_	_	Shift=4452
+17	продажи	_	_	_	_	_	_	_	Shift=4460|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=4467
+19	количество	_	_	_	_	_	_	_	Shift=4469
+20	сделок	_	_	_	_	_	_	_	Shift=4480
+21	по	_	_	_	_	_	_	_	Shift=4487
+22	недвижимости	_	_	_	_	_	_	_	Shift=4490
+23	может	_	_	_	_	_	_	_	Shift=4503
+24	возрасти	_	_	_	_	_	_	_	Shift=4509
+25	-	_	_	_	_	_	_	_	_
+26	ценой	_	_	_	_	_	_	_	Shift=4520
+27	обрушения	_	_	_	_	_	_	_	Shift=4526
+28	рынка	_	_	_	_	_	_	_	Shift=4536|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	Shift=4541
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p27
+# par_text = Цены на жилье в Риге, например, не кажутся слишком высокими в сравнении с Москвой или другими крупными городами России, в которых продолжается рост цен и издержек в строительной индустрии.
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p27-s1
+# text = Цены на жилье в Риге, например, не кажутся слишком высокими в сравнении с Москвой или другими крупными городами России, в которых продолжается рост цен и издержек в строительной индустрии.
+1	Цены	_	_	_	_	_	_	_	Shift=4543
+2	на	_	_	_	_	_	_	_	Shift=4548
+3	жилье	_	_	_	_	_	_	_	Shift=4551
+4	в	_	_	_	_	_	_	_	Shift=4557
+5	Риге	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1796|RuCor_group_id=468290|RuCor_link_id=468249|Shift=4559|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=4563
+7	например	_	_	_	_	_	_	_	Shift=4565|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=4573
+9	не	_	_	_	_	_	_	_	Shift=4575
+10	кажутся	_	_	_	_	_	_	_	Shift=4578
+11	слишком	_	_	_	_	_	_	_	Shift=4586
+12	высокими	_	_	_	_	_	_	_	Shift=4594
+13	в	_	_	_	_	_	_	_	Shift=4603
+14	сравнении	_	_	_	_	_	_	_	Shift=4605
+15	с	_	_	_	_	_	_	_	Shift=4615
+16	Москвой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1798|RuCor_group_id=468291|RuCor_link_id=468252|Shift=4617
+17	или	_	_	_	_	_	_	_	Shift=4625
+18	другими	_	_	_	_	_	_	_	RuCor_chain_id=1807|RuCor_group_id=468292|Shift=4629
+19	крупными	_	_	_	_	_	_	_	RuCor_chain_id=1807|RuCor_group_id=468292|Shift=4637
+20	городами	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1807|RuCor_group_id=468292|RuCor_link_id=0|Shift=4646
+21	России	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1789|RuCor_group_id=468293|RuCor_link_id=468277|Shift=4655|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=4661
+23	в	_	_	_	_	_	_	_	Shift=4663
+24	которых	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=1807|RuCor_group_id=468294|RuCor_link_id=468292|Shift=4665
+25	продолжается	_	_	_	_	_	_	_	Shift=4673
+26	рост	_	_	_	_	_	_	_	Shift=4686
+27	цен	_	_	_	_	_	_	_	Shift=4691
+28	и	_	_	_	_	_	_	_	Shift=4695
+29	издержек	_	_	_	_	_	_	_	Shift=4697
+30	в	_	_	_	_	_	_	_	Shift=4706
+31	строительной	_	_	_	_	_	_	_	Shift=4708
+32	индустрии	_	_	_	_	_	_	_	Shift=4721|SpaceAfter=No
+33	.	_	_	_	_	_	_	_	Shift=4730
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p28
+# par_text = В частности, квартиру в центре Риги можно купить за 50–100 тыс. долл. – цены Москвы образца 2001 года, если не раньше.
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p28-s1
+# text = В частности, квартиру в центре Риги можно купить за 50 - 100 тыс. долл. - цены Москвы образца 2001 года, если не раньше.
+1	В	_	_	_	_	_	_	_	Shift=4732
+2	частности	_	_	_	_	_	_	_	Shift=4734|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=4743
+4	квартиру	_	_	_	_	_	_	_	Shift=4745
+5	в	_	_	_	_	_	_	_	Shift=4754
+6	центре	_	_	_	_	_	_	_	Shift=4756
+7	Риги	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1796|RuCor_group_id=468295|RuCor_link_id=468290|Shift=4763
+8	можно	_	_	_	_	_	_	_	Shift=4768
+9	купить	_	_	_	_	_	_	_	Shift=4774
+10	за	_	_	_	_	_	_	_	Shift=4781
+11	50	_	_	_	_	_	_	_	Shift=4784
+12	-	_	_	_	_	_	_	_	_
+13	100	_	_	_	_	_	_	_	Shift=4787
+14	тыс.	_	_	_	_	_	_	_	Shift=4791
+15	долл.	_	_	_	_	_	_	_	Shift=4796
+16	-	_	_	_	_	_	_	_	_
+17	цены	_	_	_	_	_	_	_	Shift=4804
+18	Москвы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1798|RuCor_group_id=468296|RuCor_link_id=468291|Shift=4809
+19	образца	_	_	_	_	_	_	_	Shift=4816
+20	2001	_	_	_	_	_	_	_	Shift=4824
+21	года	_	_	_	_	_	_	_	Shift=4829|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=4833
+23	если	_	_	_	_	_	_	_	Shift=4835
+24	не	_	_	_	_	_	_	_	Shift=4840
+25	раньше	_	_	_	_	_	_	_	Shift=4843|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=4849
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p29
+# par_text = И, как отмечают наши частные корреспонденты, «если помахать перед носом котлетой с деньгами – вместо обещания начать переговоры по кредиту, – то скидки могут достигать 10–20% от стоимости» («Частный корреспондент», 1 сентября 2008 года).
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p29-s1
+# text = И, как отмечают наши частные корреспонденты, ``если помахать перед носом котлетой с деньгами - вместо обещания начать переговоры по кредиту, - то скидки могут достигать 10 - 20 % от стоимости'' (``Частный корреспондент'', 1 сентября 2008 года).
+1	И	_	_	_	_	_	_	_	Shift=4851|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=4852
+3	как	_	_	_	_	_	_	_	Shift=4854
+4	отмечают	_	_	_	_	_	_	_	Shift=4858
+5	наши	_	_	_	_	_	_	_	Shift=4867
+6	частные	_	_	_	_	_	_	_	Shift=4872
+7	корреспонденты	_	_	_	_	_	_	_	Shift=4880|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=4894
+9	``	_	_	_	_	_	_	_	Shift=4896|SpaceAfter=No
+10	если	_	_	_	_	_	_	_	Shift=4897
+11	помахать	_	_	_	_	_	_	_	Shift=4902
+12	перед	_	_	_	_	_	_	_	Shift=4911
+13	носом	_	_	_	_	_	_	_	Shift=4917
+14	котлетой	_	_	_	_	_	_	_	Shift=4923
+15	с	_	_	_	_	_	_	_	Shift=4932
+16	деньгами	_	_	_	_	_	_	_	Shift=4934
+17	-	_	_	_	_	_	_	_	_
+18	вместо	_	_	_	_	_	_	_	Shift=4945
+19	обещания	_	_	_	_	_	_	_	Shift=4952
+20	начать	_	_	_	_	_	_	_	Shift=4961
+21	переговоры	_	_	_	_	_	_	_	Shift=4968
+22	по	_	_	_	_	_	_	_	Shift=4979
+23	кредиту	_	_	_	_	_	_	_	Shift=4982|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=4989
+25	-	_	_	_	_	_	_	_	_
+26	то	_	_	_	_	_	_	_	Shift=4993
+27	скидки	_	_	_	_	_	_	_	Shift=4996
+28	могут	_	_	_	_	_	_	_	Shift=5003
+29	достигать	_	_	_	_	_	_	_	Shift=5009
+30	10	_	_	_	_	_	_	_	Shift=5019
+31	-	_	_	_	_	_	_	_	_
+32	20	_	_	_	_	_	_	_	Shift=5022
+33	%	_	_	_	_	_	_	_	Shift=5024
+34	от	_	_	_	_	_	_	_	Shift=5026
+35	стоимости	_	_	_	_	_	_	_	Shift=5029|SpaceAfter=No
+36	''	_	_	_	_	_	_	_	Shift=5038
+37	(	_	_	_	_	_	_	_	Shift=5040|SpaceAfter=No
+38	``	_	_	_	_	_	_	_	Shift=5041|SpaceAfter=No
+39	Частный	_	_	_	_	_	_	_	Shift=5042
+40	корреспондент	_	_	_	_	_	_	_	Shift=5050|SpaceAfter=No
+41	''	_	_	_	_	_	_	_	Shift=5063|SpaceAfter=No
+42	,	_	_	_	_	_	_	_	Shift=5064
+43	1	_	_	_	_	_	_	_	Shift=5066
+44	сентября	_	_	_	_	_	_	_	Shift=5068
+45	2008	_	_	_	_	_	_	_	Shift=5077
+46	года	_	_	_	_	_	_	_	Shift=5082|SpaceAfter=No
+47	)	_	_	_	_	_	_	_	Shift=5086|SpaceAfter=No
+48	.	_	_	_	_	_	_	_	Shift=5087
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p30
+# par_text = Предприниматели продают объекты недвижимости в центре Риги и Таллина иногда на 30% дешевле, нежели год назад.
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p30-s1
+# text = Предприниматели продают объекты недвижимости в центре Риги и Таллина иногда на 30 % дешевле, нежели год назад.
+1	Предприниматели	_	_	_	_	_	_	_	Shift=5089
+2	продают	_	_	_	_	_	_	_	Shift=5105
+3	объекты	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1808|RuCor_group_id=468297|RuCor_link_id=0|Shift=5113
+4	недвижимости	_	_	_	_	_	_	_	RuCor_chain_id=1808|RuCor_group_id=468297|Shift=5121
+5	в	_	_	_	_	_	_	_	RuCor_chain_id=1808|RuCor_group_id=468297|Shift=5134
+6	центре	_	_	_	_	_	_	_	RuCor_chain_id=1808|RuCor_group_id=468297|Shift=5136
+7	Риги	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1796|RuCor_group_id=468298|RuCor_link_id=468295|Shift=5143
+8	и	_	_	_	_	_	_	_	RuCor_chain_id=1808|RuCor_group_id=468297|Shift=5148
+9	Таллина	_	_	_	_	_	_	_	RuCor_chain_id=1808|RuCor_group_id=468297|Shift=5150
+10	иногда	_	_	_	_	_	_	_	Shift=5158
+11	на	_	_	_	_	_	_	_	Shift=5165
+12	30	_	_	_	_	_	_	_	Shift=5168
+13	%	_	_	_	_	_	_	_	Shift=5170
+14	дешевле	_	_	_	_	_	_	_	Shift=5172|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=5179
+16	нежели	_	_	_	_	_	_	_	Shift=5181
+17	год	_	_	_	_	_	_	_	Shift=5188
+18	назад	_	_	_	_	_	_	_	Shift=5192|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=5197
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p31
+# par_text = Цены на землю у моря упали в 2–3 раза (особенно у тех, кто успел заложить их и взять кредит), а некоторые можно взять за бесценок, хотя часть продавцов предпочитает держать цены и не продавать – вдруг «придут русские и все купят», как в Юрмале.
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p31-s1
+# text = Цены на землю у моря упали в 2 - 3 раза (особенно у тех, кто успел заложить их и взять кредит), а некоторые можно взять за бесценок, хотя часть продавцов предпочитает держать цены и не продавать - вдруг ``придут русские и все купят'', как в Юрмале.
+1	Цены	_	_	_	_	_	_	_	Shift=5199
+2	на	_	_	_	_	_	_	_	Shift=5204
+3	землю	_	_	_	_	_	_	_	Shift=5207
+4	у	_	_	_	_	_	_	_	Shift=5213
+5	моря	_	_	_	_	_	_	_	Shift=5215
+6	упали	_	_	_	_	_	_	_	Shift=5220
+7	в	_	_	_	_	_	_	_	Shift=5226
+8	2	_	_	_	_	_	_	_	Shift=5228
+9	-	_	_	_	_	_	_	_	_
+10	3	_	_	_	_	_	_	_	Shift=5230
+11	раза	_	_	_	_	_	_	_	Shift=5232
+12	(	_	_	_	_	_	_	_	Shift=5237|SpaceAfter=No
+13	особенно	_	_	_	_	_	_	_	Shift=5238
+14	у	_	_	_	_	_	_	_	Shift=5247
+15	тех	_	_	_	_	_	_	_	Shift=5249|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=5252
+17	кто	_	_	_	_	_	_	_	Shift=5254
+18	успел	_	_	_	_	_	_	_	Shift=5258
+19	заложить	_	_	_	_	_	_	_	Shift=5264
+20	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1808|RuCor_group_id=468299|RuCor_link_id=468297|Shift=5273
+21	и	_	_	_	_	_	_	_	Shift=5276
+22	взять	_	_	_	_	_	_	_	Shift=5278
+23	кредит	_	_	_	_	_	_	_	Shift=5284|SpaceAfter=No
+24	)	_	_	_	_	_	_	_	Shift=5290|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=5291
+26	а	_	_	_	_	_	_	_	Shift=5293
+27	некоторые	_	_	_	_	_	_	_	Shift=5295
+28	можно	_	_	_	_	_	_	_	Shift=5305
+29	взять	_	_	_	_	_	_	_	Shift=5311
+30	за	_	_	_	_	_	_	_	Shift=5317
+31	бесценок	_	_	_	_	_	_	_	Shift=5320|SpaceAfter=No
+32	,	_	_	_	_	_	_	_	Shift=5328
+33	хотя	_	_	_	_	_	_	_	Shift=5330
+34	часть	_	_	_	_	_	_	_	Shift=5335
+35	продавцов	_	_	_	_	_	_	_	Shift=5341
+36	предпочитает	_	_	_	_	_	_	_	Shift=5351
+37	держать	_	_	_	_	_	_	_	Shift=5364
+38	цены	_	_	_	_	_	_	_	Shift=5372
+39	и	_	_	_	_	_	_	_	Shift=5377
+40	не	_	_	_	_	_	_	_	Shift=5379
+41	продавать	_	_	_	_	_	_	_	Shift=5382
+42	-	_	_	_	_	_	_	_	_
+43	вдруг	_	_	_	_	_	_	_	Shift=5394
+44	``	_	_	_	_	_	_	_	Shift=5400|SpaceAfter=No
+45	придут	_	_	_	_	_	_	_	Shift=5401
+46	русские	_	_	_	_	_	_	_	Shift=5408
+47	и	_	_	_	_	_	_	_	Shift=5416
+48	все	_	_	_	_	_	_	_	Shift=5418
+49	купят	_	_	_	_	_	_	_	Shift=5422|SpaceAfter=No
+50	''	_	_	_	_	_	_	_	Shift=5427|SpaceAfter=No
+51	,	_	_	_	_	_	_	_	Shift=5428
+52	как	_	_	_	_	_	_	_	Shift=5430
+53	в	_	_	_	_	_	_	_	Shift=5434
+54	Юрмале	_	_	_	_	_	_	_	Shift=5436|SpaceAfter=No
+55	.	_	_	_	_	_	_	_	Shift=5442
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p32
+# par_text = Безусловно, кризис в Латвии и Эстонии был усугублен жесткой позицией России, которая хочет заставить уважать свое мнение и свои интересы.
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p32-s1
+# text = Безусловно, кризис в Латвии и Эстонии был усугублен жесткой позицией России, которая хочет заставить уважать свое мнение и свои интересы.
+1	Безусловно	_	_	_	_	_	_	_	Shift=5444|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=5454
+3	кризис	_	_	_	_	_	_	_	Shift=5456
+4	в	_	_	_	_	_	_	_	Shift=5463
+5	Латвии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1793|RuCor_group_id=468300|RuCor_link_id=468280|Shift=5465
+6	и	_	_	_	_	_	_	_	Shift=5472
+7	Эстонии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1795|RuCor_group_id=468301|RuCor_link_id=468281|Shift=5474
+8	был	_	_	_	_	_	_	_	Shift=5482
+9	усугублен	_	_	_	_	_	_	_	Shift=5486
+10	жесткой	_	_	_	_	_	_	_	Shift=5496
+11	позицией	_	_	_	_	_	_	_	Shift=5504
+12	России	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1789|RuCor_group_id=468302|RuCor_link_id=468282|Shift=5513|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=5519
+14	которая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1789|RuCor_group_id=468303|RuCor_link_id=468302|Shift=5521
+15	хочет	_	_	_	_	_	_	_	Shift=5529
+16	заставить	_	_	_	_	_	_	_	Shift=5535
+17	уважать	_	_	_	_	_	_	_	Shift=5545
+18	свое	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1789|RuCor_group_id=468304|RuCor_link_id=468302|Shift=5553
+19	мнение	_	_	_	_	_	_	_	Shift=5558
+20	и	_	_	_	_	_	_	_	Shift=5565
+21	свои	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1789|RuCor_group_id=468305|RuCor_link_id=468302|Shift=5567
+22	интересы	_	_	_	_	_	_	_	Shift=5572|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=5580
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p33
+# par_text = Охлаждение политических отношений вызвало серьезный спад в объемах товаров, идущих из Прибалтики в Россию.
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p33-s1
+# text = Охлаждение политических отношений вызвало серьезный спад в объемах товаров, идущих из Прибалтики в Россию.
+1	Охлаждение	_	_	_	_	_	_	_	Shift=5582
+2	политических	_	_	_	_	_	_	_	Shift=5593
+3	отношений	_	_	_	_	_	_	_	Shift=5606
+4	вызвало	_	_	_	_	_	_	_	Shift=5616
+5	серьезный	_	_	_	_	_	_	_	Shift=5624
+6	спад	_	_	_	_	_	_	_	Shift=5634
+7	в	_	_	_	_	_	_	_	Shift=5639
+8	объемах	_	_	_	_	_	_	_	Shift=5641
+9	товаров	_	_	_	_	_	_	_	Shift=5649|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=5656
+11	идущих	_	_	_	_	_	_	_	Shift=5658
+12	из	_	_	_	_	_	_	_	Shift=5665
+13	Прибалтики	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1792|RuCor_group_id=468306|RuCor_link_id=468243|Shift=5668
+14	в	_	_	_	_	_	_	_	Shift=5679
+15	Россию	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1789|RuCor_group_id=468307|RuCor_link_id=468302|Shift=5681|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=5687
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p34
+# par_text = К примеру, таллиннский порт, который был перевалочной базой для европейских товаров, идущих в Россию, вообще некоторое время находился на грани банкротства.
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p34-s1
+# text = К примеру, таллиннский порт, который был перевалочной базой для европейских товаров, идущих в Россию, вообще некоторое время находился на грани банкротства.
+1	К	_	_	_	_	_	_	_	Shift=5689
+2	примеру	_	_	_	_	_	_	_	Shift=5691|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=5698
+4	таллиннский	_	_	_	_	_	_	_	RuCor_chain_id=1809|RuCor_group_id=468308|Shift=5700
+5	порт	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1809|RuCor_group_id=468308|RuCor_link_id=0|Shift=5712|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=5716
+7	который	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=1809|RuCor_group_id=468309|RuCor_link_id=468308|Shift=5718
+8	был	_	_	_	_	_	_	_	Shift=5726
+9	перевалочной	_	_	_	_	_	_	_	Shift=5730
+10	базой	_	_	_	_	_	_	_	Shift=5743
+11	для	_	_	_	_	_	_	_	Shift=5749
+12	европейских	_	_	_	_	_	_	_	Shift=5753
+13	товаров	_	_	_	_	_	_	_	Shift=5765|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=5772
+15	идущих	_	_	_	_	_	_	_	Shift=5774
+16	в	_	_	_	_	_	_	_	Shift=5781
+17	Россию	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1789|RuCor_group_id=468310|RuCor_link_id=468302|Shift=5783|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=5789
+19	вообще	_	_	_	_	_	_	_	Shift=5791
+20	некоторое	_	_	_	_	_	_	_	Shift=5798
+21	время	_	_	_	_	_	_	_	Shift=5808
+22	находился	_	_	_	_	_	_	_	Shift=5814
+23	на	_	_	_	_	_	_	_	Shift=5824
+24	грани	_	_	_	_	_	_	_	Shift=5827
+25	банкротства	_	_	_	_	_	_	_	Shift=5833|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=5844
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p35
+# par_text = Позицию России курировал целый ряд влиятельных экспертов, в том числе Модест Колеров.
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p35-s1
+# text = Позицию России курировал целый ряд влиятельных экспертов, в том числе Модест Колеров.
+1	Позицию	_	_	_	_	_	_	_	Shift=5846
+2	России	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1789|RuCor_group_id=468311|RuCor_link_id=468302|Shift=5854
+3	курировал	_	_	_	_	_	_	_	Shift=5861
+4	целый	_	_	_	_	_	_	_	Shift=5871
+5	ряд	_	_	_	_	_	_	_	Shift=5877
+6	влиятельных	_	_	_	_	_	_	_	Shift=5881
+7	экспертов	_	_	_	_	_	_	_	Shift=5893|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=5902
+9	в	_	_	_	_	_	_	_	Shift=5904
+10	том	_	_	_	_	_	_	_	Shift=5906
+11	числе	_	_	_	_	_	_	_	Shift=5910
+12	Модест	_	_	_	_	_	_	_	Shift=5916
+13	Колеров	_	_	_	_	_	_	_	Shift=5923|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=5930
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p36
+# par_text = Причем все эти политические дуэли слабо отразилась на экономике России, поток товаров пошел в обход стран Балтии, через порты Петербурга и Калининграда.
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p36-s1
+# text = Причем все эти политические дуэли слабо отразилась на экономике России, поток товаров пошел в обход стран Балтии, через порты Петербурга и Калининграда.
+1	Причем	_	_	_	_	_	_	_	Shift=5932
+2	все	_	_	_	_	_	_	_	Shift=5939
+3	эти	_	_	_	_	_	_	_	Shift=5943
+4	политические	_	_	_	_	_	_	_	Shift=5947
+5	дуэли	_	_	_	_	_	_	_	Shift=5960
+6	слабо	_	_	_	_	_	_	_	Shift=5966
+7	отразилась	_	_	_	_	_	_	_	Shift=5972
+8	на	_	_	_	_	_	_	_	Shift=5983
+9	экономике	_	_	_	_	_	_	_	Shift=5986
+10	России	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1789|RuCor_group_id=468312|RuCor_link_id=468311|Shift=5996|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=6002
+12	поток	_	_	_	_	_	_	_	Shift=6004
+13	товаров	_	_	_	_	_	_	_	Shift=6010
+14	пошел	_	_	_	_	_	_	_	Shift=6018
+15	в	_	_	_	_	_	_	_	Shift=6024
+16	обход	_	_	_	_	_	_	_	Shift=6026
+17	стран	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1792|RuCor_group_id=468313|RuCor_link_id=468306|Shift=6032
+18	Балтии	_	_	_	_	_	_	_	RuCor_chain_id=1792|RuCor_group_id=468313|Shift=6038|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=6044
+20	через	_	_	_	_	_	_	_	Shift=6046
+21	порты	_	_	_	_	_	_	_	Shift=6052
+22	Петербурга	_	_	_	_	_	_	_	Shift=6058
+23	и	_	_	_	_	_	_	_	Shift=6069
+24	Калининграда	_	_	_	_	_	_	_	Shift=6071|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=6083
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p37
+# par_text = Позиция эта действительно заставила прибалтийских политиков внимательнее прислушиваться к мнению восточного соседа, рынки которого являются единственно площадкой для сбыта многих товаров, производимых в Прибалтике.
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p37-s1
+# text = Позиция эта действительно заставила прибалтийских политиков внимательнее прислушиваться к мнению восточного соседа, рынки которого являются единственно площадкой для сбыта многих товаров, производимых в Прибалтике.
+1	Позиция	_	_	_	_	_	_	_	Shift=6085
+2	эта	_	_	_	_	_	_	_	Shift=6093
+3	действительно	_	_	_	_	_	_	_	Shift=6097
+4	заставила	_	_	_	_	_	_	_	Shift=6111
+5	прибалтийских	_	_	_	_	_	_	_	Shift=6121
+6	политиков	_	_	_	_	_	_	_	Shift=6135
+7	внимательнее	_	_	_	_	_	_	_	Shift=6145
+8	прислушиваться	_	_	_	_	_	_	_	Shift=6158
+9	к	_	_	_	_	_	_	_	Shift=6173
+10	мнению	_	_	_	_	_	_	_	Shift=6175
+11	восточного	_	_	_	_	_	_	_	RuCor_chain_id=1789|RuCor_group_id=468314|Shift=6182
+12	соседа	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1789|RuCor_group_id=468314|RuCor_link_id=468312|Shift=6193|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=6199
+14	рынки	_	_	_	_	_	_	_	Shift=6201
+15	которого	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=1789|RuCor_group_id=468315|RuCor_link_id=468314|Shift=6207
+16	являются	_	_	_	_	_	_	_	Shift=6216
+17	единственно	_	_	_	_	_	_	_	Shift=6225
+18	площадкой	_	_	_	_	_	_	_	Shift=6237
+19	для	_	_	_	_	_	_	_	Shift=6247
+20	сбыта	_	_	_	_	_	_	_	Shift=6251
+21	многих	_	_	_	_	_	_	_	Shift=6257
+22	товаров	_	_	_	_	_	_	_	Shift=6264|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=6271
+24	производимых	_	_	_	_	_	_	_	Shift=6273
+25	в	_	_	_	_	_	_	_	Shift=6286
+26	Прибалтике	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1792|RuCor_group_id=468316|RuCor_link_id=468306|Shift=6288|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=6298
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p38
+# par_text = Однако пока все еще политические амбиции здесь превалируют над экономической целесообразностью.
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p38-s1
+# text = Однако пока все еще политические амбиции здесь превалируют над экономической целесообразностью.
+1	Однако	_	_	_	_	_	_	_	Shift=6300
+2	пока	_	_	_	_	_	_	_	Shift=6307
+3	все	_	_	_	_	_	_	_	Shift=6312
+4	еще	_	_	_	_	_	_	_	Shift=6316
+5	политические	_	_	_	_	_	_	_	Shift=6320
+6	амбиции	_	_	_	_	_	_	_	Shift=6333
+7	здесь	_	_	_	_	_	_	_	Shift=6341
+8	превалируют	_	_	_	_	_	_	_	Shift=6347
+9	над	_	_	_	_	_	_	_	Shift=6359
+10	экономической	_	_	_	_	_	_	_	Shift=6363
+11	целесообразностью	_	_	_	_	_	_	_	Shift=6377|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=6394
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p39
+# par_text = Посмотрим, что будет дальше.
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p39-s1
+# text = Посмотрим, что будет дальше.
+1	Посмотрим	_	_	_	_	_	_	_	Shift=6396|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=6405
+3	что	_	_	_	_	_	_	_	Shift=6407
+4	будет	_	_	_	_	_	_	_	Shift=6411
+5	дальше	_	_	_	_	_	_	_	Shift=6417|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=6423
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p40
+# par_text = Если вы знаете что-то о людях, переехавших в бывшие страны Балтии или построивших там дачу, пишите нам в редакцию.
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p40-s1
+# text = Если вы знаете что-то о людях, переехавших в бывшие страны Балтии или построивших там дачу, пишите нам в редакцию.
+1	Если	_	_	_	_	_	_	_	Shift=6425
+2	вы	_	_	_	_	_	_	_	Shift=6430
+3	знаете	_	_	_	_	_	_	_	Shift=6433
+4	что-то	_	_	_	_	_	_	_	Shift=6440
+5	о	_	_	_	_	_	_	_	Shift=6447
+6	людях	_	_	_	_	_	_	_	Shift=6449|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=6454
+8	переехавших	_	_	_	_	_	_	_	Shift=6456
+9	в	_	_	_	_	_	_	_	Shift=6468
+10	бывшие	_	_	_	_	_	_	_	RuCor_chain_id=1792|RuCor_group_id=468317|Shift=6470
+11	страны	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1792|RuCor_group_id=468317|RuCor_link_id=468316|Shift=6477
+12	Балтии	_	_	_	_	_	_	_	RuCor_chain_id=1792|RuCor_group_id=468317|Shift=6484
+13	или	_	_	_	_	_	_	_	Shift=6491
+14	построивших	_	_	_	_	_	_	_	Shift=6495
+15	там	_	_	_	_	_	_	_	Shift=6507
+16	дачу	_	_	_	_	_	_	_	Shift=6511|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=6515
+18	пишите	_	_	_	_	_	_	_	Shift=6517
+19	нам	_	_	_	_	_	_	_	Shift=6524
+20	в	_	_	_	_	_	_	_	Shift=6528
+21	редакцию	_	_	_	_	_	_	_	Shift=6530|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=6538
+
+# newpar id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p41
+# par_text = Будет интересно узнать!
+# sent_id = 7054c07c-c59f-4e8e-b8e7-dea60085a2fb-p41-s1
+# text = Будет интересно узнать!
+1	Будет	_	_	_	_	_	_	_	Shift=6540
+2	интересно	_	_	_	_	_	_	_	Shift=6546
+3	узнать	_	_	_	_	_	_	_	Shift=6556|SpaceAfter=No
+4	!	_	_	_	_	_	_	_	_
+
