@@ -1,0 +1,638 @@
+#begin document (cctv_0005_16); part 000
+cctv_0005	16	0	Yes	UH	(TOP(INTJ*	-	-	-	Wang_shilin	-
+cctv_0005	16	1	.	.	*))	-	-	-	Wang_shilin	-
+
+cctv_0005	16	0	Well	UH	(TOP(S(INTJ*)	-	-	-	Wang_shilin	-
+cctv_0005	16	1	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	16	2	finally	RB	(ADVP*)	-	-	-	Wang_shilin	-
+cctv_0005	16	3	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	16	4	let	VB	(VP*	let	01	1	Wang_shilin	-
+cctv_0005	16	5	's	PRP	(S(NP*)	-	-	-	Wang_shilin	-
+cctv_0005	16	6	turn	VB	(VP*	turn	01	1	Wang_shilin	-
+cctv_0005	16	7	our	PRP$	(NP*	-	-	-	Wang_shilin	-
+cctv_0005	16	8	attention	NN	*)	-	-	-	Wang_shilin	-
+cctv_0005	16	9	to	IN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	16	10	handling	NN	(NP(NP*)	-	-	-	Wang_shilin	-
+cctv_0005	16	11	of	IN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	16	12	the	DT	(NP*	-	-	-	Wang_shilin	-
+cctv_0005	16	13	situation	NN	*))	-	-	-	Wang_shilin	-
+cctv_0005	16	14	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	16	15	ah	UH	(INTJ*)	-	-	-	Wang_shilin	-
+cctv_0005	16	16	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	16	17	during	IN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	16	18	the	DT	(NP(NP*	-	-	-	Wang_shilin	-
+cctv_0005	16	19	latter	JJ	*	-	-	-	Wang_shilin	-
+cctv_0005	16	20	stages	NNS	*)	-	-	-	Wang_shilin	-
+cctv_0005	16	21	of	IN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	16	22	the	DT	(NP(NP*	-	-	-	Wang_shilin	(109
+cctv_0005	16	23	cave	NN	(NML*	-	-	-	Wang_shilin	-
+cctv_0005	16	24	-	HYPH	*	-	-	-	Wang_shilin	-
+cctv_0005	16	25	in	NN	*)	-	-	-	Wang_shilin	-
+cctv_0005	16	26	accident	NN	*)	-	-	-	Wang_shilin	-
+cctv_0005	16	27	in	IN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	16	28	Beijing	NNP	(NP*)))))))))))	-	-	-	Wang_shilin	(7)|109)
+cctv_0005	16	29	.	.	*))	-	-	-	Wang_shilin	-
+
+cctv_0005	16	0	Traffic	NN	(TOP(S(NP*)	-	-	-	Wang_shilin	-
+cctv_0005	16	1	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	16	2	ah	UH	(INTJ*)	-	-	-	Wang_shilin	-
+cctv_0005	16	3	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	16	4	can	MD	(VP(VP*	-	-	-	Wang_shilin	-
+cctv_0005	16	5	be	VB	(VP*	be	03	-	Wang_shilin	-
+cctv_0005	16	6	said	VBN	(VP*	say	01	-	Wang_shilin	-
+cctv_0005	16	7	to	TO	(S(VP*	-	-	-	Wang_shilin	-
+cctv_0005	16	8	have	VB	(VP*	have	01	-	Wang_shilin	-
+cctv_0005	16	9	been	VBN	(VP*	be	03	-	Wang_shilin	-
+cctv_0005	16	10	directed	VBN	(VP*))))))))	direct	01	-	Wang_shilin	-
+cctv_0005	16	11	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	16	12	and	CC	*	-	-	-	Wang_shilin	-
+cctv_0005	16	13	is	VBZ	(VP*	be	01	1	Wang_shilin	-
+cctv_0005	16	14	basically	RB	(ADVP*)	-	-	-	Wang_shilin	-
+cctv_0005	16	15	under	IN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	16	16	control	NN	(NP*))	-	-	-	Wang_shilin	-
+cctv_0005	16	17	now	RB	(ADVP*)))	-	-	-	Wang_shilin	-
+cctv_0005	16	18	.	.	*))	-	-	-	Wang_shilin	-
+
+cctv_0005	16	0	Well	UH	(TOP(S(INTJ*)	-	-	-	Wang_shilin	-
+cctv_0005	16	1	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	16	2	following	VBG	(S(VP*	follow	01	2	Wang_shilin	-
+cctv_0005	16	3	this	DT	(NP*)))	-	-	-	Wang_shilin	-
+cctv_0005	16	4	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	16	5	repairs	NNS	(NP(NP*))	-	-	-	Wang_shilin	-
+cctv_0005	16	6	have	VBP	(VP*	have	02	12	Wang_shilin	-
+cctv_0005	16	7	to	TO	(S(VP*	-	-	-	Wang_shilin	-
+cctv_0005	16	8	be	VB	(VP*	be	03	-	Wang_shilin	-
+cctv_0005	16	9	made	VBN	(VP*	make	-	1	Wang_shilin	(60)
+cctv_0005	16	10	on	IN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	16	11	this	DT	(NP(NP*	-	-	-	Wang_shilin	(110
+cctv_0005	16	12	road	NN	*	-	-	-	Wang_shilin	-
+cctv_0005	16	13	section	NN	*)	-	-	-	Wang_shilin	-
+cctv_0005	16	14	where	WRB	(SBAR(WHADVP*)	-	-	-	Wang_shilin	-
+cctv_0005	16	15	the	DT	(S(NP*	-	-	-	Wang_shilin	(109
+cctv_0005	16	16	accident	NN	*)	-	-	-	Wang_shilin	109)
+cctv_0005	16	17	occurred	VBD	(VP*)))))))))	occur	01	1	Wang_shilin	110)
+cctv_0005	16	18	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	16	19	including	VBG	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	16	20	for	IN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	16	21	many	JJ	(NP*	-	-	-	Wang_shilin	-
+cctv_0005	16	22	pipes	NNS	*))))	-	-	-	Wang_shilin	-
+cctv_0005	16	23	.	.	*))	-	-	-	Wang_shilin	-
+
+cctv_0005	16	0	Well	UH	(TOP(SBARQ(INTJ*)	-	-	-	Wang_shilin	-
+cctv_0005	16	1	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	16	2	Yang	NNP	(NP*	-	-	-	Wang_shilin	(71
+cctv_0005	16	3	Yang	NNP	*)	-	-	-	Wang_shilin	71)
+cctv_0005	16	4	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	16	5	based	VBN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	16	6	on	IN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	16	7	your	PRP$	(NP*	-	-	-	Wang_shilin	(71)
+cctv_0005	16	8	understanding	NN	*)))	-	-	-	Wang_shilin	-
+cctv_0005	16	9	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	16	10	how	WRB	(WHADVP*	-	-	-	Wang_shilin	-
+cctv_0005	16	11	long	JJ	*)	-	-	-	Wang_shilin	-
+cctv_0005	16	12	will	MD	(SQ*	-	-	-	Wang_shilin	-
+cctv_0005	16	13	it	PRP	(NP*)	-	-	-	Wang_shilin	(60)
+cctv_0005	16	14	take	VB	(VP*))	take	10	3	Wang_shilin	-
+cctv_0005	16	15	?	.	*))	-	-	-	Wang_shilin	-
+
+cctv_0005	16	0	I	PRP	(TOP(S(NP*)	-	-	-	Yang_yang	(71)
+cctv_0005	16	1	think	VBP	(VP*	think	01	1	Yang_yang	-
+cctv_0005	16	2	that	IN	(SBAR*	-	-	-	Yang_yang	-
+cctv_0005	16	3	the	DT	(S(NP*	-	-	-	Yang_yang	-
+cctv_0005	16	4	time	NN	*)	-	-	-	Yang_yang	-
+cctv_0005	16	5	really	RB	(ADVP*)	-	-	-	Yang_yang	-
+cctv_0005	16	6	depends	VBZ	(VP*	depend	01	1	Yang_yang	(76)
+cctv_0005	16	7	on	IN	(PP*	-	-	-	Yang_yang	-
+cctv_0005	16	8	how	WRB	(SBAR(WHADVP*)	-	-	-	Yang_yang	-
+cctv_0005	16	9	the	DT	(S(NP*	-	-	-	Yang_yang	-
+cctv_0005	16	10	overall	JJ	*	-	-	-	Yang_yang	-
+cctv_0005	16	11	repair	NN	*)	-	-	-	Yang_yang	-
+cctv_0005	16	12	goes	VBZ	(VP*))))))))	go	06	5	Yang_yang	-
+cctv_0005	16	13	.	.	*))	-	-	-	Yang_yang	-
+
+cctv_0005	16	0	This	DT	(TOP(S(NP*)	-	-	-	Yang_yang	(76)
+cctv_0005	16	1	is	VBZ	(VP*	be	01	1	Yang_yang	-
+cctv_0005	16	2	because	IN	(SBAR*	-	-	-	Yang_yang	-
+cctv_0005	16	3	exploration	NN	(S(NP*	-	-	-	Yang_yang	-
+cctv_0005	16	4	,	,	*	-	-	-	Yang_yang	-
+cctv_0005	16	5	assessment	NN	*	-	-	-	Yang_yang	-
+cctv_0005	16	6	,	,	*	-	-	-	Yang_yang	-
+cctv_0005	16	7	and	CC	*	-	-	-	Yang_yang	-
+cctv_0005	16	8	repair	NN	*)	-	-	-	Yang_yang	-
+cctv_0005	16	9	are	VBP	(VP*	be	03	-	Yang_yang	-
+cctv_0005	16	10	carried	VBN	(VP*	carry	03	8	Yang_yang	-
+cctv_0005	16	11	out	RP	(PRT*)	-	-	-	Yang_yang	-
+cctv_0005	16	12	in	IN	(PP*	-	-	-	Yang_yang	-
+cctv_0005	16	13	succession	NN	(NP*)))))))	succession	02	1	Yang_yang	-
+cctv_0005	16	14	.	.	*))	-	-	-	Yang_yang	-
+
+cctv_0005	16	0	Therefore	RB	(TOP(S(ADVP*)	-	-	-	Yang_yang	-
+cctv_0005	16	1	,	,	*	-	-	-	Yang_yang	-
+cctv_0005	16	2	regarding	VBG	(PP*	-	-	-	Yang_yang	-
+cctv_0005	16	3	this	DT	(NP*	-	-	-	Yang_yang	(91
+cctv_0005	16	4	work	NN	*	-	-	-	Yang_yang	-
+cctv_0005	16	5	progress	NN	*))	-	-	-	Yang_yang	91)
+cctv_0005	16	6	,	,	*	-	-	-	Yang_yang	-
+cctv_0005	16	7	to	TO	(S(VP*	-	-	-	Yang_yang	-
+cctv_0005	16	8	repair	VB	(VP*	repair	01	1	Yang_yang	-
+cctv_0005	16	9	this	DT	(NP*	-	-	-	Yang_yang	(110
+cctv_0005	16	10	road	NN	*	-	-	-	Yang_yang	-
+cctv_0005	16	11	section	NN	*)	-	-	-	Yang_yang	110)
+cctv_0005	16	12	in	IN	(PP*	-	-	-	Yang_yang	-
+cctv_0005	16	13	the	DT	(NP*	-	-	-	Yang_yang	-
+cctv_0005	16	14	shortest	JJS	*	-	-	-	Yang_yang	-
+cctv_0005	16	15	time	NN	*)))))	-	-	-	Yang_yang	-
+cctv_0005	16	16	,	,	*	-	-	-	Yang_yang	-
+cctv_0005	16	17	um	UH	(INTJ*)	-	-	-	Yang_yang	-
+cctv_0005	16	18	,	,	*	-	-	-	Yang_yang	-
+cctv_0005	16	19	this	DT	(NP*)	-	-	-	Yang_yang	-
+cctv_0005	16	20	will	MD	(VP*	-	-	-	Yang_yang	-
+cctv_0005	16	21	depend	VB	(VP*	depend	01	1	Yang_yang	-
+cctv_0005	16	22	on	IN	(PP*	-	-	-	Yang_yang	-
+cctv_0005	16	23	the	DT	(NP*	-	-	-	Yang_yang	(91
+cctv_0005	16	24	work	NN	*	-	-	-	Yang_yang	-
+cctv_0005	16	25	progress	NN	*))))	-	-	-	Yang_yang	91)
+cctv_0005	16	26	.	.	*))	-	-	-	Yang_yang	-
+
+cctv_0005	16	0	Uh-huh	UH	(TOP(INTJ*	-	-	-	Wang_shilin	-
+cctv_0005	16	1	.	.	*))	-	-	-	Wang_shilin	-
+
+cctv_0005	16	0	This	DT	(TOP(S(NP*)	-	-	-	Wang_shilin	-
+cctv_0005	16	1	is	VBZ	(VP*	be	01	1	Wang_shilin	-
+cctv_0005	16	2	because	IN	(SBAR*	-	-	-	Wang_shilin	-
+cctv_0005	16	3	repair	NN	(S(NP*)	-	-	-	Wang_shilin	-
+cctv_0005	16	4	is	VBZ	(VP*	be	01	1	Wang_shilin	-
+cctv_0005	16	5	probably	RB	(ADVP*)	-	-	-	Wang_shilin	-
+cctv_0005	16	6	not	RB	(ADVP*)	-	-	-	Wang_shilin	-
+cctv_0005	16	7	a	DT	(NP(NP*	-	-	-	Wang_shilin	-
+cctv_0005	16	8	matter	NN	*)	-	-	-	Wang_shilin	-
+cctv_0005	16	9	of	IN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	16	10	repairing	VBG	(S(VP*	repair	01	1	Wang_shilin	-
+cctv_0005	16	11	the	DT	(NP*	-	-	-	Wang_shilin	-
+cctv_0005	16	12	road	NN	*	-	-	-	Wang_shilin	-
+cctv_0005	16	13	surface	NN	*)	-	-	-	Wang_shilin	-
+cctv_0005	16	14	alone	RB	(ADVP*)))))))))	-	-	-	Wang_shilin	-
+cctv_0005	16	15	.	.	*))	-	-	-	Wang_shilin	-
+
+cctv_0005	16	0	There	EX	(TOP(S(NP*)	-	-	-	Wang_shilin	-
+cctv_0005	16	1	is	VBZ	(VP*	be	02	3	Wang_shilin	-
+cctv_0005	16	2	also	RB	(ADVP*)	-	-	-	Wang_shilin	-
+cctv_0005	16	3	an	DT	(NP(NP*	-	-	-	Wang_shilin	-
+cctv_0005	16	4	issue	NN	*)	-	-	-	Wang_shilin	-
+cctv_0005	16	5	with	IN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	16	6	many	JJ	(NP(NP*)	-	-	-	Wang_shilin	-
+cctv_0005	16	7	of	IN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	16	8	the	DT	(NP(NP*	-	-	-	Wang_shilin	(22
+cctv_0005	16	9	pipes	NNS	*)	-	-	-	Wang_shilin	-
+cctv_0005	16	10	below	RB	(ADVP*)))))))	-	-	-	Wang_shilin	22)
+cctv_0005	16	11	.	.	*))	-	-	-	Wang_shilin	-
+
+cctv_0005	16	0	Yes	UH	(TOP(FRAG(INTJ*)	-	-	-	Yang_yang	-
+cctv_0005	16	1	,	,	*	-	-	-	Yang_yang	-
+cctv_0005	16	2	the	DT	(NP(NP*	-	-	-	Yang_yang	(22
+cctv_0005	16	3	pipes	NNS	*)	-	-	-	Yang_yang	-
+cctv_0005	16	4	below	RB	(ADVP*))	-	-	-	Yang_yang	22)
+cctv_0005	16	5	.	.	*))	-	-	-	Yang_yang	-
+
+cctv_0005	16	0	Right	UH	(TOP(S(INTJ*)	-	-	-	Yang_yang	-
+cctv_0005	16	1	,	,	*	-	-	-	Yang_yang	-
+cctv_0005	16	2	as	IN	(SBAR*	-	-	-	Yang_yang	-
+cctv_0005	16	3	it	PRP	(S(NP*)	-	-	-	Yang_yang	-
+cctv_0005	16	4	is	VBZ	(VP*	be	01	1	Yang_yang	-
+cctv_0005	16	5	winter	NN	(NP*))))	-	-	-	Yang_yang	-
+cctv_0005	16	6	,	,	*	-	-	-	Yang_yang	-
+cctv_0005	16	7	we	PRP	(NP*)	-	-	-	Yang_yang	-
+cctv_0005	16	8	know	VBP	(VP*	know	01	1	Yang_yang	-
+cctv_0005	16	9	that	IN	(SBAR*	-	-	-	Yang_yang	-
+cctv_0005	16	10	carrying	VBG	(S(VP*	carry	03	8	Yang_yang	-
+cctv_0005	16	11	out	RP	(PRT*)	-	-	-	Yang_yang	-
+cctv_0005	16	12	construction	NN	(NP(NP*))	-	-	-	Yang_yang	-
+cctv_0005	16	13	during	IN	(PP*	-	-	-	Yang_yang	-
+cctv_0005	16	14	winter	NN	(NP*))	-	-	-	Yang_yang	-
+cctv_0005	16	15	,	,	*	-	-	-	Yang_yang	-
+cctv_0005	16	16	especially	RB	(NP(ADVP*)	-	-	-	Yang_yang	-
+cctv_0005	16	17	that	DT	(NP*)	-	-	-	Yang_yang	-
+cctv_0005	16	18	which	WDT	(SBAR(WHNP*)	-	-	-	Yang_yang	-
+cctv_0005	16	19	requires	VBZ	(S(VP*	require	01	1	Yang_yang	-
+cctv_0005	16	20	pouring	VBG	(S(VP(VP*	pour	01	-	Yang_yang	-
+cctv_0005	16	21	concrete	NN	(NP*))	-	-	-	Yang_yang	-
+cctv_0005	16	22	and	CC	*	-	-	-	Yang_yang	-
+cctv_0005	16	23	then	RB	(ADVP*)))))))))))	-	-	-	Yang_yang	-
+cctv_0005	16	24	--	.	*))	-	-	-	Yang_yang	-
+
+cctv_0005	16	0	Moreover	RB	(TOP(S(ADVP*)	-	-	-	Wang_shilin	-
+cctv_0005	16	1	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	16	2	it	PRP	(NP(NP*))	-	-	-	Wang_shilin	-
+cctv_0005	16	3	is	VBZ	(VP*	be	01	1	Wang_shilin	-
+cctv_0005	16	4	especially	RB	(ADJP*	-	-	-	Wang_shilin	-
+cctv_0005	16	5	difficult	JJ	*)	-	-	-	Wang_shilin	-
+cctv_0005	16	6	for	IN	(SBAR*	-	-	-	Wang_shilin	-
+cctv_0005	16	7	concrete	NN	(S(NP*)	-	-	-	Wang_shilin	(122)
+cctv_0005	16	8	to	TO	(VP*	-	-	-	Wang_shilin	-
+cctv_0005	16	9	set	VB	(VP*	set	08	7	Wang_shilin	-
+cctv_0005	16	10	during	IN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	16	11	winter	NN	(NP*)))))))	-	-	-	Wang_shilin	-
+cctv_0005	16	12	.	.	*))	-	-	-	Wang_shilin	-
+
+cctv_0005	16	0	Yes	UH	(TOP(S(INTJ*)	-	-	-	Yang_yang	-
+cctv_0005	16	1	,	,	*	-	-	-	Yang_yang	-
+cctv_0005	16	2	preparation	NN	(NP(NP*	-	-	-	Yang_yang	-
+cctv_0005	16	3	mix	NN	*)	-	-	-	Yang_yang	-
+cctv_0005	16	4	for	IN	(PP*	-	-	-	Yang_yang	-
+cctv_0005	16	5	making	VBG	(S(VP*	make	02	-	Yang_yang	-
+cctv_0005	16	6	it	PRP	(S(NP*)	-	-	-	Yang_yang	(122)
+cctv_0005	16	7	dry	VB	(VP*	dry	02	1	Yang_yang	-
+cctv_0005	16	8	faster	RBR	(ADVP*)))))))	-	-	-	Yang_yang	-
+cctv_0005	16	9	,	,	*	-	-	-	Yang_yang	-
+cctv_0005	16	10	has	VBZ	(VP*	have	01	-	Yang_yang	-
+cctv_0005	16	11	already	RB	(ADVP*)	-	-	-	Yang_yang	-
+cctv_0005	16	12	been	VBN	(VP*	be	03	-	Yang_yang	-
+cctv_0005	16	13	added	VBN	(VP*)))	add	02	1	Yang_yang	-
+cctv_0005	16	14	.	.	*))	-	-	-	Yang_yang	-
+
+cctv_0005	16	0	But	CC	(TOP(S*	-	-	-	Yang_yang	-
+cctv_0005	16	1	in	IN	(PP*	-	-	-	Yang_yang	-
+cctv_0005	16	2	the	DT	(NP*	-	-	-	Yang_yang	-
+cctv_0005	16	3	end	NN	*))	-	-	-	Yang_yang	-
+cctv_0005	16	4	,	,	*	-	-	-	Yang_yang	-
+cctv_0005	16	5	it	PRP	(NP*)	-	-	-	Yang_yang	-
+cctv_0005	16	6	requires	VBZ	(VP*	require	01	1	Yang_yang	-
+cctv_0005	16	7	time	NN	(NP*))	-	-	-	Yang_yang	-
+cctv_0005	16	8	.	.	*))	-	-	-	Yang_yang	-
+
+cctv_0005	16	0	Hence	RB	(TOP(S(ADVP*)	-	-	-	Yang_yang	-
+cctv_0005	16	1	,	,	*	-	-	-	Yang_yang	-
+cctv_0005	16	2	it	PRP	(NP*)	-	-	-	Yang_yang	-
+cctv_0005	16	3	depends	VBZ	(VP*	depend	01	1	Yang_yang	-
+cctv_0005	16	4	very	RB	(ADVP*	-	-	-	Yang_yang	-
+cctv_0005	16	5	much	RB	*)	-	-	-	Yang_yang	-
+cctv_0005	16	6	on	IN	(PP*	-	-	-	Yang_yang	-
+cctv_0005	16	7	factors	NNS	(NP(NP*)	-	-	-	Yang_yang	-
+cctv_0005	16	8	like	IN	(PP*	-	-	-	Yang_yang	-
+cctv_0005	16	9	temperature	NN	(NP*)))))	-	-	-	Yang_yang	-
+cctv_0005	16	10	.	.	*))	-	-	-	Yang_yang	-
+
+cctv_0005	16	0	Just	RB	(TOP(S(ADVP*	-	-	-	Wang_shilin	-
+cctv_0005	16	1	now	RB	*)	-	-	-	Wang_shilin	-
+cctv_0005	16	2	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	16	3	you	PRP	(NP*)	-	-	-	Wang_shilin	(71)
+cctv_0005	16	4	mentioned	VBD	(VP*	mention	01	1	Wang_shilin	-
+cctv_0005	16	5	that	IN	(SBAR*	-	-	-	Wang_shilin	-
+cctv_0005	16	6	there	EX	(S(S(NP*)	-	-	-	Wang_shilin	-
+cctv_0005	16	7	are	VBP	(VP*	be	02	3	Wang_shilin	-
+cctv_0005	16	8	many	JJ	(NP*	-	-	-	Wang_shilin	-
+cctv_0005	16	9	pipes	NNS	*)))	-	-	-	Wang_shilin	-
+cctv_0005	16	10	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	16	11	ah	UH	(INTJ*)	-	-	-	Wang_shilin	-
+cctv_0005	16	12	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	16	13	for	IN	(S(PP*	-	-	-	Wang_shilin	-
+cctv_0005	16	14	instance	NN	(NP*))	-	-	-	Wang_shilin	-
+cctv_0005	16	15	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	16	16	there	EX	(NP*)	-	-	-	Wang_shilin	-
+cctv_0005	16	17	is	VBZ	(VP*	be	02	3	Wang_shilin	-
+cctv_0005	16	18	a	DT	(NP*	-	-	-	Wang_shilin	(124
+cctv_0005	16	19	key	JJ	*	-	-	-	Wang_shilin	-
+cctv_0005	16	20	heating	NN	*	-	-	-	Wang_shilin	-
+cctv_0005	16	21	pipeline	NN	*))))))	pipeline	-	2	Wang_shilin	124)
+cctv_0005	16	22	.	.	*))	-	-	-	Wang_shilin	-
+
+cctv_0005	16	0	The	DT	(TOP(S(NP*	-	-	-	Wang_shilin	-
+cctv_0005	16	1	first	JJ	*	-	-	-	Wang_shilin	-
+cctv_0005	16	2	thing	NN	*)	-	-	-	Wang_shilin	-
+cctv_0005	16	3	is	VBZ	(VP*	be	01	2	Wang_shilin	-
+cctv_0005	16	4	to	TO	(S(VP*	-	-	-	Wang_shilin	-
+cctv_0005	16	5	ensure	VB	(VP*	ensure	01	-	Wang_shilin	-
+cctv_0005	16	6	that	IN	(SBAR*	-	-	-	Wang_shilin	-
+cctv_0005	16	7	it	PRP	(S(NP*)	-	-	-	Wang_shilin	(124)
+cctv_0005	16	8	is	VBZ	(VP*	be	03	-	Wang_shilin	-
+cctv_0005	16	9	connected	VBN	(VP*	connect	01	1	Wang_shilin	-
+cctv_0005	16	10	in	IN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	16	11	time	NN	(NP*))))))))))	-	-	-	Wang_shilin	-
+cctv_0005	16	12	.	.	*))	-	-	-	Wang_shilin	-
+
+cctv_0005	16	0	Yes	UH	(TOP(INTJ*	-	-	-	Yang_yang	-
+cctv_0005	16	1	.	.	*))	-	-	-	Yang_yang	-
+
+cctv_0005	16	0	In	IN	(TOP(S(PP*	-	-	-	Wang_shilin	-
+cctv_0005	16	1	addition	NN	(NP*))	-	-	-	Wang_shilin	-
+cctv_0005	16	2	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	16	3	waste	NN	(NP*	-	-	-	Wang_shilin	-
+cctv_0005	16	4	discharge	NN	*)	-	-	-	Wang_shilin	-
+cctv_0005	16	5	is	VBZ	(VP*	be	01	1	Wang_shilin	-
+cctv_0005	16	6	also	RB	(ADVP*)	-	-	-	Wang_shilin	-
+cctv_0005	16	7	very	RB	(ADJP*	-	-	-	Wang_shilin	-
+cctv_0005	16	8	important	JJ	*))	-	-	-	Wang_shilin	-
+cctv_0005	16	9	.	.	*))	-	-	-	Wang_shilin	-
+
+cctv_0005	16	0	Waste	NN	(TOP(S(NP(NP*)	-	-	-	Yang_yang	-
+cctv_0005	16	1	discharged	VBN	(VP*))	discharge	01	-	Yang_yang	-
+cctv_0005	16	2	has	VBZ	(VP*	have	01	-	Yang_yang	-
+cctv_0005	16	3	currently	RB	(ADVP*)	-	-	-	Yang_yang	-
+cctv_0005	16	4	blocked	VBN	(VP*	block	02	1	Yang_yang	-
+cctv_0005	16	5	this	DT	(NP*)	-	-	-	Yang_yang	-
+cctv_0005	16	6	up	RP	(PRT*)))	-	-	-	Yang_yang	-
+cctv_0005	16	7	.	.	*))	-	-	-	Yang_yang	-
+
+cctv_0005	16	0	Um	UH	(TOP(FRAG(INTJ*)	-	-	-	Wang_shilin	-
+cctv_0005	16	1	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	16	2	and	CC	*	-	-	-	Wang_shilin	-
+cctv_0005	16	3	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	16	4	for	IN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	16	5	instance	NN	(NP*))	-	-	-	Wang_shilin	-
+cctv_0005	16	6	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	16	7	optical	JJ	(NP*	-	-	-	Wang_shilin	-
+cctv_0005	16	8	fibers	NNS	*)	-	-	-	Wang_shilin	-
+cctv_0005	16	9	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	16	10	ah	UH	(INTJ*)	-	-	-	Wang_shilin	-
+cctv_0005	16	11	.	.	*))	-	-	-	Wang_shilin	-
+
+cctv_0005	16	0	Er	UH	(TOP(S(INTJ*)	-	-	-	Yang_yang,Wang_shilin	-
+cctv_0005	16	1	,	,	*	-	-	-	Yang_yang,Wang_shilin	-
+cctv_0005	16	2	right	RB	(ADVP*	-	-	-	Yang_yang,Wang_shilin	-
+cctv_0005	16	3	now	RB	*)	-	-	-	Yang_yang,Wang_shilin	-
+cctv_0005	16	4	,	,	*	-	-	-	Yang_yang,Wang_shilin	-
+cctv_0005	16	5	if	IN	(SBAR*	-	-	-	Yang_yang,Wang_shilin	-
+cctv_0005	16	6	the	DT	(S(NP*	-	-	-	Yang_yang,Wang_shilin	(17
+cctv_0005	16	7	optical	JJ	*	-	-	-	Yang_yang,Wang_shilin	-
+cctv_0005	16	8	fibers	NNS	*)	-	-	-	Yang_yang,Wang_shilin	17)
+cctv_0005	16	9	break	VBP	(VP*)))	break	01	1	Yang_yang,Wang_shilin	-
+cctv_0005	16	10	,	,	*	-	-	-	Yang_yang,Wang_shilin	-
+cctv_0005	16	11	people	NNS	(NP(NP*)	-	-	-	Yang_yang,Wang_shilin	-
+cctv_0005	16	12	in	IN	(PP*	-	-	-	Yang_yang,Wang_shilin	-
+cctv_0005	16	13	many	JJ	(NP*	-	-	-	Yang_yang,Wang_shilin	-
+cctv_0005	16	14	households	NNS	*)))	-	-	-	Yang_yang,Wang_shilin	-
+cctv_0005	16	15	will	MD	(VP*	-	-	-	Yang_yang,Wang_shilin	-
+cctv_0005	16	16	not	RB	*	-	-	-	Yang_yang,Wang_shilin	-
+cctv_0005	16	17	be	VB	(VP*	be	01	1	Yang_yang,Wang_shilin	-
+cctv_0005	16	18	able	JJ	(ADJP*	-	-	-	Yang_yang,Wang_shilin	-
+cctv_0005	16	19	to	TO	(S(VP*	-	-	-	Yang_yang,Wang_shilin	-
+cctv_0005	16	20	watch	VB	(VP*	watch	01	1	Yang_yang,Wang_shilin	-
+cctv_0005	16	21	television	NN	(NP*)))))))	-	-	-	Yang_yang,Wang_shilin	-
+cctv_0005	16	22	.	.	*))	-	-	-	Yang_yang,Wang_shilin	-
+
+cctv_0005	16	0	Yes	UH	(TOP(INTJ*	-	-	-	Yang_yang	-
+cctv_0005	16	1	.	.	*))	-	-	-	Yang_yang	-
+
+cctv_0005	16	0	At	IN	(TOP(S(PP*	-	-	-	Yang_yang	-
+cctv_0005	16	1	present	NN	(NP*))	-	-	-	Yang_yang	-
+cctv_0005	16	2	,	,	*	-	-	-	Yang_yang	-
+cctv_0005	16	3	we	PRP	(NP*)	-	-	-	Yang_yang	-
+cctv_0005	16	4	should	MD	(VP*	-	-	-	Yang_yang	-
+cctv_0005	16	5	not	RB	*	-	-	-	Yang_yang	-
+cctv_0005	16	6	have	VB	(VP*	have	03	4	Yang_yang	-
+cctv_0005	16	7	a	DT	(NP(NP*	-	-	-	Yang_yang	-
+cctv_0005	16	8	problem	NN	*)	-	-	-	Yang_yang	-
+cctv_0005	16	9	with	IN	(PP*	-	-	-	Yang_yang	-
+cctv_0005	16	10	watching	VBG	(S(VP*	watch	01	-	Yang_yang	-
+cctv_0005	16	11	television	NN	(NP*))))))	-	-	-	Yang_yang	-
+cctv_0005	16	12	.	.	*)))	-	-	-	Yang_yang	-
+
+cctv_0005	16	0	They	PRP	(TOP(S(NP*)	-	-	-	Yang_yang	(17)
+cctv_0005	16	1	are	VBP	(VP*	be	03	-	Yang_yang	-
+cctv_0005	16	2	not	RB	*	-	-	-	Yang_yang	-
+cctv_0005	16	3	broken	VBN	(VP*))	break	01	-	Yang_yang	-
+cctv_0005	16	4	.	.	*))	-	-	-	Yang_yang	-
+
+cctv_0005	16	0	It	PRP	(TOP(S(NP*)	-	-	-	Yang_yang	*	*
+cctv_0005	16	1	is	VBZ	(VP*	be	01	2	Yang_yang	*	*
+cctv_0005	16	2	just	RB	(ADVP*)	-	-	-	Yang_yang	*	*
+cctv_0005	16	3	that	IN	(SBAR*	-	-	-	Yang_yang	*	*
+cctv_0005	16	4	,	,	*	-	-	-	Yang_yang	*	*
+cctv_0005	16	5	as	IN	(S(S(SBAR*	-	-	-	Yang_yang	*	*
+cctv_0005	16	6	the	DT	(S(NP*	-	-	-	Yang_yang	*	*
+cctv_0005	16	7	other	JJ	*	-	-	-	Yang_yang	*	*
+cctv_0005	16	8	pipes	NNS	*)	-	-	-	Yang_yang	*	*
+cctv_0005	16	9	have	VBP	(VP*	have	02	12	Yang_yang	*	*
+cctv_0005	16	10	to	TO	(S(VP*	-	-	-	Yang_yang	*	*
+cctv_0005	16	11	be	VB	(VP*	be	03	-	Yang_yang	*	*
+cctv_0005	16	12	repaired	VBN	(VP*)))))))	repair	01	-	Yang_yang	*	*
+cctv_0005	16	13	,	,	*	-	-	-	Yang_yang	*	*
+cctv_0005	16	14	the	DT	(NP*	-	-	-	Yang_yang	*	*
+cctv_0005	16	15	optical	JJ	*	-	-	-	Yang_yang	*	*
+cctv_0005	16	16	fibers	NNS	*)	-	-	-	Yang_yang	*	*
+cctv_0005	16	17	have	VBP	(VP*	have	02	12	Yang_yang	*	*
+cctv_0005	16	18	to	TO	(S(VP(VP*	-	-	-	Yang_yang	*	*
+cctv_0005	16	19	be	VB	(VP*	be	03	-	Yang_yang	*	*
+cctv_0005	16	20	rearranged	VBN	(VP*)))	rearrange	01	-	Yang_yang	*	*
+cctv_0005	16	21	,	,	*	-	-	-	Yang_yang	*	*
+cctv_0005	16	22	to	TO	(VP*	-	-	-	Yang_yang	*	*
+cctv_0005	16	23	be	VB	(VP*	be	03	-	Yang_yang	*	*
+cctv_0005	16	24	hung	VBN	(VP*)	hang	01	-	Yang_yang	*	*
+cctv_0005	16	25	up	RP	(PRT*)))))))	-	-	-	Yang_yang	*	*
+cctv_0005	16	26	it	PRP	(NP*)	-	-	-	Yang_yang	*	*
+cctv_0005	16	27	seems	VBZ	(VP*))))	seem	01	1	Yang_yang	(V*)	(V*)
+cctv_0005	16	28	.	.	*))	-	-	-	Yang_yang	*	*
+
+cctv_0005	16	0	After	IN	(TOP(S(PP*	-	-	-	Yang_yang	-
+cctv_0005	16	1	that	DT	(NP*))	-	-	-	Yang_yang	-
+cctv_0005	16	2	,	,	*	-	-	-	Yang_yang	-
+cctv_0005	16	3	or	CC	*	-	-	-	Yang_yang	-
+cctv_0005	16	4	it	PRP	(NP*)	-	-	-	Yang_yang	-
+cctv_0005	16	5	seems	VBZ	(VP*	seem	01	1	Yang_yang	-
+cctv_0005	16	6	that	IN	(SBAR*	-	-	-	Yang_yang	-
+cctv_0005	16	7	a	DT	(S(NP*	-	-	-	Yang_yang	-
+cctv_0005	16	8	few	JJ	*	-	-	-	Yang_yang	-
+cctv_0005	16	9	steel	NN	*	-	-	-	Yang_yang	-
+cctv_0005	16	10	pipes	NNS	*)	-	-	-	Yang_yang	-
+cctv_0005	16	11	have	VBP	(VP*	have	01	-	Yang_yang	-
+cctv_0005	16	12	been	VBN	(VP*	be	03	-	Yang_yang	-
+cctv_0005	16	13	added	VBN	(VP*	add	02	1	Yang_yang	-
+cctv_0005	16	14	below	RB	(ADVP*)	-	-	-	Yang_yang	-
+cctv_0005	16	15	to	TO	(S(VP*	-	-	-	Yang_yang	-
+cctv_0005	16	16	make	VB	(VP*)	make	02	3	Yang_yang	-
+cctv_0005	16	17	it	PRP	(S(NP(NP*))	-	-	-	Yang_yang	-
+cctv_0005	16	18	safer	JJR	(ADJP*)	-	-	-	Yang_yang	-
+cctv_0005	16	19	to	TO	(S(VP*	-	-	-	Yang_yang	-
+cctv_0005	16	20	walk	VB	(VP*	walk	01	1	Yang_yang	-
+cctv_0005	16	21	across	IN	(PP*	-	-	-	Yang_yang	-
+cctv_0005	16	22	this	DT	(NP*	-	-	-	Yang_yang	-
+cctv_0005	16	23	section	NN	*))))))))))))))	-	-	-	Yang_yang	-
+cctv_0005	16	24	.	.	*))	-	-	-	Yang_yang	-
+
+cctv_0005	16	0	Furthermore	RB	(TOP(S(ADVP*)	-	-	-	Wang_shilin	-
+cctv_0005	16	1	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	16	2	let	VB	(VP*	let	01	1	Wang_shilin	-
+cctv_0005	16	3	's	PRP	(S(NP*)	-	-	-	Wang_shilin	-
+cctv_0005	16	4	take	VB	(VP*	take	04	5	Wang_shilin	-
+cctv_0005	16	5	water	NN	(NP*	-	-	-	Wang_shilin	-
+cctv_0005	16	6	pipes	NNS	*)	-	-	-	Wang_shilin	-
+cctv_0005	16	7	as	IN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	16	8	an	DT	(NP*	-	-	-	Wang_shilin	-
+cctv_0005	16	9	example	NN	*)))))	-	-	-	Wang_shilin	-
+cctv_0005	16	10	.	.	*))	-	-	-	Wang_shilin	-
+
+cctv_0005	16	0	Because	IN	(TOP(S(SBAR*	-	-	-	Yang_yang	-
+cctv_0005	16	1	they	PRP	(S(NP*)	-	-	-	Yang_yang	(68)
+cctv_0005	16	2	were	VBD	(VP*	be	03	-	Yang_yang	-
+cctv_0005	16	3	exposed	VBN	(VP*))))	expose	01	-	Yang_yang	-
+cctv_0005	16	4	,	,	*	-	-	-	Yang_yang	-
+cctv_0005	16	5	The	DT	(S(NP*	-	-	-	Yang_yang	(68
+cctv_0005	16	6	water	NN	*	-	-	-	Yang_yang	-
+cctv_0005	16	7	pipes	NNS	*)	-	-	-	Yang_yang	68)
+cctv_0005	16	8	were	VBD	(VP*	be	01	1	Yang_yang	-
+cctv_0005	16	9	not	RB	*))	-	-	-	Yang_yang	-
+cctv_0005	16	10	--	.	*))	-	-	-	Yang_yang	-
+
+cctv_0005	16	0	after	IN	(TOP(S(PP*	-	-	-	Wang_shilin,Yang_yang	-
+cctv_0005	16	1	that	DT	(NP*))	-	-	-	Wang_shilin,Yang_yang	-
+cctv_0005	16	2	,	,	*	-	-	-	Wang_shilin,Yang_yang	-
+cctv_0005	16	3	yes	UH	(INTJ*)	-	-	-	Wang_shilin,Yang_yang	-
+cctv_0005	16	4	,	,	*	-	-	-	Wang_shilin,Yang_yang	-
+cctv_0005	16	5	these	DT	(NP*)	-	-	-	Wang_shilin,Yang_yang	(68)
+cctv_0005	16	6	were	VBD	(VP*	be	03	-	Wang_shilin,Yang_yang	-
+cctv_0005	16	7	not	RB	*	-	-	-	Wang_shilin,Yang_yang	-
+cctv_0005	16	8	damaged	VBN	(VP*))	damage	01	1	Wang_shilin,Yang_yang	(78)
+cctv_0005	16	9	.	.	*))	-	-	-	Wang_shilin,Yang_yang	-
+
+cctv_0005	16	0	they	PRP	(TOP(S(S(NP*)	-	-	-	Wang_shilin	(68)
+cctv_0005	16	1	were	VBD	(VP*	be	03	-	Wang_shilin	-
+cctv_0005	16	2	not	RB	*	-	-	-	Wang_shilin	-
+cctv_0005	16	3	damaged	VBN	(VP*)))	damage	01	1	Wang_shilin	(78)
+cctv_0005	16	4	and	CC	*	-	-	-	Wang_shilin	-
+cctv_0005	16	5	this	DT	(S(NP*)	-	-	-	Wang_shilin	(78)
+cctv_0005	16	6	is	VBZ	(VP*	be	01	1	Wang_shilin	-
+cctv_0005	16	7	quite	RB	(ADJP*	-	-	-	Wang_shilin	-
+cctv_0005	16	8	normal	JJ	*)))	-	-	-	Wang_shilin	-
+cctv_0005	16	9	.	.	*))	-	-	-	Wang_shilin	-
+
+cctv_0005	16	0	Um	UH	(TOP(S(INTJ*)	-	-	-	Yang_yang	-
+cctv_0005	16	1	,	,	*	-	-	-	Yang_yang	-
+cctv_0005	16	2	there	EX	(NP*)	-	-	-	Yang_yang	-
+cctv_0005	16	3	is	VBZ	(VP*	be	02	3	Yang_yang	-
+cctv_0005	16	4	no	DT	(NP(NP*	-	-	-	Yang_yang	-
+cctv_0005	16	5	problem	NN	*)	-	-	-	Yang_yang	-
+cctv_0005	16	6	with	IN	(PP*	-	-	-	Yang_yang	-
+cctv_0005	16	7	water	NN	(NP*	-	-	-	Yang_yang	-
+cctv_0005	16	8	supply	NN	*))))	-	-	-	Yang_yang	-
+cctv_0005	16	9	.	.	*))	-	-	-	Yang_yang	-
+
+cctv_0005	16	0	Okay	UH	(TOP(S(INTJ*)	-	-	-	Wang_shilin	-
+cctv_0005	16	1	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	16	2	well	UH	(INTJ*)	-	-	-	Wang_shilin	-
+cctv_0005	16	3	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	16	4	today	NN	(NP*)	-	-	-	Wang_shilin	(38)
+cctv_0005	16	5	both	DT	(NP(NP*)	-	-	-	Wang_shilin	(77
+cctv_0005	16	6	of	IN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	16	7	you	PRP	(NP*)))	-	-	-	Wang_shilin	77)
+cctv_0005	16	8	have	VBP	(VP*	have	01	-	Wang_shilin	-
+cctv_0005	16	9	come	VBN	(VP(VP*	come	01	1	Wang_shilin	-
+cctv_0005	16	10	to	IN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	16	11	the	DT	(NP*	-	-	-	Wang_shilin	(104
+cctv_0005	16	12	studio	NN	*)))	-	-	-	Wang_shilin	104)
+cctv_0005	16	13	and	CC	*	-	-	-	Wang_shilin	-
+cctv_0005	16	14	given	VBN	(VP*	give	01	2	Wang_shilin	-
+cctv_0005	16	15	us	PRP	(NP*)	-	-	-	Wang_shilin	-
+cctv_0005	16	16	a	DT	(NP(NP*	-	-	-	Wang_shilin	-
+cctv_0005	16	17	lot	NN	*)	-	-	-	Wang_shilin	-
+cctv_0005	16	18	of	IN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	16	19	specific	JJ	(NP(NP*	-	-	-	Wang_shilin	-
+cctv_0005	16	20	details	NNS	*)	-	-	-	Wang_shilin	-
+cctv_0005	16	21	concerning	VBG	(PP*	concern	02	1	Wang_shilin	-
+cctv_0005	16	22	this	DT	(NP(NP*	-	-	-	Wang_shilin	(109
+cctv_0005	16	23	road	NN	(NML*	-	-	-	Wang_shilin	-
+cctv_0005	16	24	cave	NN	*	-	-	-	Wang_shilin	-
+cctv_0005	16	25	-	HYPH	*	-	-	-	Wang_shilin	-
+cctv_0005	16	26	in	NN	*)	-	-	-	Wang_shilin	-
+cctv_0005	16	27	accident	NN	*)	-	-	-	Wang_shilin	-
+cctv_0005	16	28	in	IN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	16	29	Beijing	NNP	(NP*	-	-	-	Wang_shilin	(7
+cctv_0005	16	30	Municipality	NNP	*))))))))))	-	-	-	Wang_shilin	109)|7)
+cctv_0005	16	31	.	.	*))	-	-	-	Wang_shilin	-
+
+cctv_0005	16	0	At	IN	(TOP(S(PP*	-	-	-	Wang_shilin	-
+cctv_0005	16	1	the	DT	(NP*	-	-	-	Wang_shilin	-
+cctv_0005	16	2	same	JJ	*	-	-	-	Wang_shilin	-
+cctv_0005	16	3	time	NN	*))	-	-	-	Wang_shilin	-
+cctv_0005	16	4	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	16	5	you	PRP	(NP*)	-	-	-	Wang_shilin	(77)
+cctv_0005	16	6	have	VBP	(VP*	have	01	-	Wang_shilin	-
+cctv_0005	16	7	also	RB	(ADVP*)	-	-	-	Wang_shilin	-
+cctv_0005	16	8	analyzed	VBN	(VP*	analyse	01	1	Wang_shilin	-
+cctv_0005	16	9	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	16	10	from	IN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	16	11	a	DT	(NP*	-	-	-	Wang_shilin	-
+cctv_0005	16	12	system	NN	*	-	-	-	Wang_shilin	-
+cctv_0005	16	13	perspective	NN	*))	-	-	-	Wang_shilin	-
+cctv_0005	16	14	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	16	15	how	WRB	(SBAR(WHADVP*)	-	-	-	Wang_shilin	-
+cctv_0005	16	16	the	DT	(S(NP*	-	-	-	Wang_shilin	-
+cctv_0005	16	17	government	NN	*)	-	-	-	Wang_shilin	-
+cctv_0005	16	18	has	VBZ	(VP*	have	01	-	Wang_shilin	-
+cctv_0005	16	19	reinforced	VBN	(VP*	reinforce	01	1	Wang_shilin	-
+cctv_0005	16	20	emergency	NN	(NP*	-	-	-	Wang_shilin	-
+cctv_0005	16	21	contingency	NN	*	-	-	-	Wang_shilin	-
+cctv_0005	16	22	plans	NNS	*)	-	-	-	Wang_shilin	-
+cctv_0005	16	23	to	TO	(S(VP*	-	-	-	Wang_shilin	-
+cctv_0005	16	24	handle	VB	(VP*	handle	01	2	Wang_shilin	-
+cctv_0005	16	25	such	JJ	(NP*	-	-	-	Wang_shilin	-
+cctv_0005	16	26	public	JJ	(NML*	-	-	-	Wang_shilin	-
+cctv_0005	16	27	emergency	NN	*)	-	-	-	Wang_shilin	-
+cctv_0005	16	28	cases	NNS	*))))))))))	-	-	-	Wang_shilin	-
+cctv_0005	16	29	.	.	*))	-	-	-	Wang_shilin	-
+
+cctv_0005	16	0	Okay	UH	(TOP(S(INTJ*)	-	-	-	Wang_shilin	-
+cctv_0005	16	1	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	16	2	thank	VBP	(VP*	thank	01	1	Wang_shilin	-
+cctv_0005	16	3	you	PRP	(NP*)	-	-	-	Wang_shilin	(77)
+cctv_0005	16	4	very	RB	(ADVP*	-	-	-	Wang_shilin	-
+cctv_0005	16	5	much	RB	*)	-	-	-	Wang_shilin	-
+cctv_0005	16	6	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	16	7	Professor	NNP	(NP(NP*	-	-	-	Wang_shilin	(77
+cctv_0005	16	8	Zhou	NNP	*)	-	-	-	Wang_shilin	-
+cctv_0005	16	9	and	CC	*	-	-	-	Wang_shilin	-
+cctv_0005	16	10	Yang	NNP	(NP*	-	-	-	Wang_shilin	(71
+cctv_0005	16	11	Yang	NNP	*))	-	-	-	Wang_shilin	77)|71)
+cctv_0005	16	12	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	16	13	for	IN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	16	14	coming	VBG	(S(VP*	come	01	-	Wang_shilin	-
+cctv_0005	16	15	to	IN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	16	16	the	DT	(NP*	-	-	-	Wang_shilin	(104
+cctv_0005	16	17	studio	NN	*))	-	-	-	Wang_shilin	104)
+cctv_0005	16	18	to	TO	(S(VP*	-	-	-	Wang_shilin	-
+cctv_0005	16	19	participate	VB	(VP*	participate	01	1	Wang_shilin	-
+cctv_0005	16	20	in	IN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	16	21	our	PRP$	(NP*	-	-	-	Wang_shilin	(108
+cctv_0005	16	22	program	NN	*)))))))))	-	-	-	Wang_shilin	108)
+cctv_0005	16	23	.	.	*))	-	-	-	Wang_shilin	-
+
+cctv_0005	16	0	Thank	VBP	(TOP(S(VP*	thank	01	1	Wang_shilin	-
+cctv_0005	16	1	you	PRP	(NP*)	-	-	-	Wang_shilin	(77)
+cctv_0005	16	2	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	16	3	both	DT	(NP(NP*)	-	-	-	Wang_shilin	(77
+cctv_0005	16	4	of	IN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	16	5	you	PRP	(NP*))))	-	-	-	Wang_shilin	77)
+cctv_0005	16	6	.	.	*))	-	-	-	Wang_shilin	-
+
+cctv_0005	16	0	Okay	UH	(TOP(S(INTJ*)	-	-	-	Wang_shilin	-
+cctv_0005	16	1	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	16	2	dear	NN	(NP*	-	-	-	Wang_shilin	(20
+cctv_0005	16	3	viewers	NNS	*)	-	-	-	Wang_shilin	20)
+cctv_0005	16	4	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	16	5	that	DT	(NP*)	-	-	-	Wang_shilin	-
+cctv_0005	16	6	is	VBZ	(VP*	be	01	1	Wang_shilin	-
+cctv_0005	16	7	all	DT	(NP(NP*)	-	-	-	Wang_shilin	-
+cctv_0005	16	8	for	IN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	16	9	today	NN	(NP(NP(NP*	-	-	-	Wang_shilin	(38|(108
+cctv_0005	16	10	's	POS	*)	-	-	-	Wang_shilin	38)
+cctv_0005	16	11	edition	NN	*)	-	-	-	Wang_shilin	-
+cctv_0005	16	12	of	IN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	16	13	Focus	NNP	(NP*	-	-	-	Wang_shilin	-
+cctv_0005	16	14	Today	NNP	*))))))	-	-	-	Wang_shilin	108)
+cctv_0005	16	15	.	.	*))	-	-	-	Wang_shilin	-
+
+cctv_0005	16	0	Thank	VBP	(TOP(S(VP*	thank	01	1	Wang_shilin	-
+cctv_0005	16	1	you	PRP	(NP*)	-	-	-	Wang_shilin	(20)
+cctv_0005	16	2	for	IN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	16	3	watching	NN	(NP*)))	-	-	-	Wang_shilin	-
+cctv_0005	16	4	.	.	*))	-	-	-	Wang_shilin	-
+
+cctv_0005	16	0	See	VB	(TOP(S(VP*	see	01	6	Wang_shilin	-
+cctv_0005	16	1	you	PRP	(NP*)	-	-	-	Wang_shilin	(20)
+cctv_0005	16	2	at	IN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	16	3	the	DT	(NP*	-	-	-	Wang_shilin	-
+cctv_0005	16	4	same	JJ	*	-	-	-	Wang_shilin	-
+cctv_0005	16	5	time	NN	*))	-	-	-	Wang_shilin	-
+cctv_0005	16	6	tomorrow	NN	(NP*))	-	-	-	Wang_shilin	-
+cctv_0005	16	7	.	.	*))	-	-	-	Wang_shilin	-
+
+#end document

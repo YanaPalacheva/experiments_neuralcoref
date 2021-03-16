@@ -1,0 +1,412 @@
+#begin document (chtb_0039_0); part 000
+chtb_0039	0	0	Xinhua	NNP	(TOP(FRAG(NP*	-	-	-	-	-
+chtb_0039	0	1	News	NNP	*	-	-	-	-	-
+chtb_0039	0	2	Agency	NNP	*)	-	-	-	-	-
+chtb_0039	0	3	,	,	*	-	-	-	-	-
+chtb_0039	0	4	Washington	NNP	(NP(NP*)	-	-	-	-	(11
+chtb_0039	0	5	,	,	*	-	-	-	-	-
+chtb_0039	0	6	DC	NNP	(NP*))	-	-	-	-	11)
+chtb_0039	0	7	,	,	*	-	-	-	-	-
+chtb_0039	0	8	April	NNP	(NP*	-	-	-	-	-
+chtb_0039	0	9	20	CD	*)	-	-	-	-	-
+chtb_0039	0	10	,	,	*	-	-	-	-	-
+chtb_0039	0	11	by	IN	(PP*	-	-	-	-	-
+chtb_0039	0	12	wire	NN	(NP*))	wire	-	2	-	-
+chtb_0039	0	13	-LRB-	-LRB-	(FRAG*	-	-	-	-	(0
+chtb_0039	0	14	reporter	NN	(NP*)	-	-	-	-	-
+chtb_0039	0	15	Qian	NNP	(NP*	-	-	-	-	-
+chtb_0039	0	16	Ying	NN	*)	-	-	-	-	-
+chtb_0039	0	17	-RRB-	-RRB-	*)))	-	-	-	-	0)
+
+chtb_0039	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	-	-
+chtb_0039	0	1	Chinese	JJ	*	-	-	-	-	-	-
+chtb_0039	0	2	branch	NN	*)	branch	-	1	-	-	-
+chtb_0039	0	3	of	IN	(PP*	-	-	-	-	-	-
+chtb_0039	0	4	the	DT	(NP(NP*	-	-	-	-	(1	(1
+chtb_0039	0	5	American	NNP	*	-	-	-	-	-	-
+chtb_0039	0	6	Chamber	NNP	*)	-	-	-	-	-	-
+chtb_0039	0	7	of	IN	(PP*	-	-	-	-	-	-
+chtb_0039	0	8	Commerce	NNP	(NP*)))))	-	-	-	-	1)	1)
+chtb_0039	0	9	recently	RB	(ADVP*)	-	-	-	-	-	-
+chtb_0039	0	10	dispatched	VBD	(VP*	dispatch	01	1	-	-	-
+chtb_0039	0	11	a	DT	(NP(NP*	-	-	-	-	(6	(6
+chtb_0039	0	12	delegation	NN	*)	delegation	-	1	-	-	-
+chtb_0039	0	13	made	VBN	(VP*	make	07	6	-	-	-
+chtb_0039	0	14	up	RP	(PRT*)	-	-	-	-	-	-
+chtb_0039	0	15	of	IN	(PP*	-	-	-	-	-	-
+chtb_0039	0	16	twenty	CD	(NP(QP*	-	-	-	-	-	-
+chtb_0039	0	17	-	HYPH	*	-	-	-	-	-	-
+chtb_0039	0	18	five	CD	*)	-	-	-	-	-	-
+chtb_0039	0	19	people	NNS	*))))	people	-	1	-	6)	6)
+chtb_0039	0	20	launching	VBG	(S(VP*	launch	01	2	-	-	-
+chtb_0039	0	21	a	DT	(NP(NP(NP(NP*	-	-	-	-	(4	(4
+chtb_0039	0	22	month	NN	(ADJP*	month	-	1	-	-	-
+chtb_0039	0	23	-	HYPH	*	-	-	-	-	-	-
+chtb_0039	0	24	long	JJ	*)	-	-	-	-	-	-
+chtb_0039	0	25	lobbying	NN	*	-	-	-	-	-	-
+chtb_0039	0	26	campaign	NN	*)	campaign	-	2	-	-	-
+chtb_0039	0	27	in	IN	(PP*	-	-	-	-	-	-
+chtb_0039	0	28	Washington	NNP	(NP*)))	-	-	-	-	(11)	(11)
+chtb_0039	0	29	directed	VBN	(VP*	direct	01	-	-	-	-
+chtb_0039	0	30	at	IN	(PP*	-	-	-	-	-	-
+chtb_0039	0	31	congress	NN	(NP(NP*)	-	-	-	-	(3|(7)	(3|(7)
+chtb_0039	0	32	and	CC	*	-	-	-	-	-	-
+chtb_0039	0	33	the	DT	(NP*	-	-	-	-	(2	(2
+chtb_0039	0	34	White	NNP	*	-	-	-	-	-	-
+chtb_0039	0	35	House	NNP	*)))))	-	-	-	-	3)|2)	3)|2)
+chtb_0039	0	36	,	,	*	-	-	-	-	-	-
+chtb_0039	0	37	asking	VBG	(VP*	ask	02	2	-	-	-
+chtb_0039	0	38	them	PRP	(NP*)	-	-	-	-	(3)	(3)
+chtb_0039	0	39	to	TO	(S(VP*	-	-	-	-	-	-
+chtb_0039	0	40	continue	VB	(VP*	continue	01	1	-	-	-
+chtb_0039	0	41	to	TO	(S(VP*	-	-	-	-	-	-
+chtb_0039	0	42	extend	VB	(VP*	extend	01	2	-	-	-
+chtb_0039	0	43	granting	VBG	(VP*	grant	01	-	-	-	-
+chtb_0039	0	44	China	NNP	(NP*)	-	-	-	-	(9)	(9)
+chtb_0039	0	45	most	RBS	(NP(NML(ADJP*	-	-	-	-	-	-
+chtb_0039	0	46	-	HYPH	*	-	-	-	-	-	-
+chtb_0039	0	47	favored	VBN	*)	favor	01	-	-	-	-
+chtb_0039	0	48	-	HYPH	*	-	-	-	-	-	-
+chtb_0039	0	49	nation	NN	*)	nation	-	1	-	-	-
+chtb_0039	0	50	trading	NN	*	-	-	-	-	-	-
+chtb_0039	0	51	status	NN	*)))))))))))))	status	-	1	-	4)	4)
+chtb_0039	0	52	.	.	*))	-	-	-	-	-	-
+
+chtb_0039	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	(6
+chtb_0039	0	1	Chamber	NNP	(NML*	-	-	-	-	(1
+chtb_0039	0	2	of	IN	(PP*	-	-	-	-	-
+chtb_0039	0	3	Commerce	NNP	(NP*)))	-	-	-	-	1)
+chtb_0039	0	4	delegates	NNS	*)	-	-	-	-	-
+chtb_0039	0	5	participating	VBG	(VP*	participate	01	1	-	-
+chtb_0039	0	6	in	IN	(PP*	-	-	-	-	-
+chtb_0039	0	7	this	DT	(NP*	-	-	-	-	(4
+chtb_0039	0	8	lobbying	NN	*	-	-	-	-	-
+chtb_0039	0	9	campaign	NN	*))))	campaign	-	2	-	6)|4)
+chtb_0039	0	10	come	VBP	(VP*	come	03	5	-	-
+chtb_0039	0	11	from	IN	(PP*	-	-	-	-	-
+chtb_0039	0	12	many	JJ	(NP(NP*	-	-	-	-	-
+chtb_0039	0	13	well	RB	(ADJP(ADJP*	-	-	-	-	-
+chtb_0039	0	14	-	HYPH	*	-	-	-	-	-
+chtb_0039	0	15	known	VBN	*)	know	01	-	-	-
+chtb_0039	0	16	in	IN	(PP*	-	-	-	-	-
+chtb_0039	0	17	Washington	NNP	(NP*)))	-	-	-	-	(11)
+chtb_0039	0	18	,	,	*	-	-	-	-	-
+chtb_0039	0	19	large	JJ	*	-	-	-	-	-
+chtb_0039	0	20	American	JJ	*	-	-	-	-	-
+chtb_0039	0	21	companies	NNS	*)	company	-	1	-	-
+chtb_0039	0	22	,	,	*	-	-	-	-	-
+chtb_0039	0	23	such	JJ	(PP*	-	-	-	-	-
+chtb_0039	0	24	as	IN	*	-	-	-	-	-
+chtb_0039	0	25	Dow	NNP	(NP(NP*	-	-	-	-	-
+chtb_0039	0	26	Jones	NNP	*)	-	-	-	-	-
+chtb_0039	0	27	,	,	*	-	-	-	-	-
+chtb_0039	0	28	AT&T	NNP	(NP*)	-	-	-	-	-
+chtb_0039	0	29	,	,	*	-	-	-	-	-
+chtb_0039	0	30	IBM	NNP	(NP*)	-	-	-	-	-
+chtb_0039	0	31	,	,	*	-	-	-	-	-
+chtb_0039	0	32	Boeing	NNP	(NP*)	-	-	-	-	-
+chtb_0039	0	33	,	,	*	-	-	-	-	-
+chtb_0039	0	34	McDonald	NNP	(NP*	-	-	-	-	-
+chtb_0039	0	35	Douglas	NNP	*)	-	-	-	-	-
+chtb_0039	0	36	,	,	*	-	-	-	-	-
+chtb_0039	0	37	General	NNP	(NP*	-	-	-	-	-
+chtb_0039	0	38	Electric	NNP	*)	-	-	-	-	-
+chtb_0039	0	39	,	,	*	-	-	-	-	-
+chtb_0039	0	40	Westinghouse	NNP	(NP*)	-	-	-	-	-
+chtb_0039	0	41	,	,	*	-	-	-	-	-
+chtb_0039	0	42	Ford	NNP	(NP*)	-	-	-	-	-
+chtb_0039	0	43	,	,	*	-	-	-	-	-
+chtb_0039	0	44	and	CC	*	-	-	-	-	-
+chtb_0039	0	45	the	DT	(NP*	-	-	-	-	(14
+chtb_0039	0	46	Xian	NNP	(NML*	-	-	-	-	-
+chtb_0039	0	47	Ni	NNP	*	-	-	-	-	-
+chtb_0039	0	48	Lei	NNP	*	-	-	-	-	-
+chtb_0039	0	49	De	NNP	*)	-	-	-	-	-
+chtb_0039	0	50	Group	NNP	*)	-	-	-	-	14)
+chtb_0039	0	51	,	,	*	-	-	-	-	-
+chtb_0039	0	52	etc	FW	(ADVP*))))))	-	-	-	-	-
+chtb_0039	0	53	.	.	*))	-	-	-	-	-
+
+chtb_0039	0	0	They	PRP	(TOP(S(NP*)	-	-	-	-	(6)	(6)
+chtb_0039	0	1	split	VBD	(VP(VP*	split	01	1	-	-	-
+chtb_0039	0	2	into	IN	(PP*	-	-	-	-	-	-
+chtb_0039	0	3	five	CD	(NP*	-	-	-	-	-	-
+chtb_0039	0	4	groups	NNS	*)))	group	-	1	-	-	-
+chtb_0039	0	5	and	CC	*	-	-	-	-	-	-
+chtb_0039	0	6	altogether	RB	(VP(ADVP*)	-	-	-	-	-	-
+chtb_0039	0	7	visited	VBD	*	visit	01	1	-	-	-
+chtb_0039	0	8	about	RB	(NP(QP*	-	-	-	-	-	-
+chtb_0039	0	9	150	CD	*)	-	-	-	-	-	-
+chtb_0039	0	10	members	NNS	(NML(NML*	member	-	1	-	-	-
+chtb_0039	0	11	of	IN	(PP*	-	-	-	-	-	-
+chtb_0039	0	12	congress	NN	(NP*)))	-	-	-	-	(7)	(7)
+chtb_0039	0	13	,	,	*	-	-	-	-	-	-
+chtb_0039	0	14	congressional	JJ	(NML*	-	-	-	-	-	-
+chtb_0039	0	15	aides	NNS	*)	-	-	-	-	-	-
+chtb_0039	0	16	,	,	*	-	-	-	-	-	-
+chtb_0039	0	17	and	CC	*	-	-	-	-	-	-
+chtb_0039	0	18	government	NN	(NML*	government	-	1	-	-	-
+chtb_0039	0	19	officials	NNS	*)))	official	-	1	-	-	-
+chtb_0039	0	20	,	,	*	-	-	-	-	-	-
+chtb_0039	0	21	using	VBG	(S(VP*	use	01	1	-	-	-
+chtb_0039	0	22	their	PRP$	(NP(NP*	-	-	-	-	(6)	(6)
+chtb_0039	0	23	experience	NN	*)	experience	-	1	-	-	-
+chtb_0039	0	24	of	IN	(PP*	-	-	-	-	-	-
+chtb_0039	0	25	investing	VBG	(S(VP(VP*	invest	01	-	-	-	-
+chtb_0039	0	26	in	IN	(PP*))	-	-	-	-	-	-
+chtb_0039	0	27	and	CC	*	-	-	-	-	-	-
+chtb_0039	0	28	managing	VBG	(VP*	manage	01	2	-	-	-
+chtb_0039	0	29	enterprises	NNS	(NP*)	-	-	-	-	-	-
+chtb_0039	0	30	in	IN	(PP*))	-	-	-	-	-	-
+chtb_0039	0	31	China	NNP	(NP*)))))	-	-	-	-	(9)	(9)
+chtb_0039	0	32	to	TO	(S(VP*	-	-	-	-	-	-
+chtb_0039	0	33	explain	VB	(VP*	explain	01	1	-	-	-
+chtb_0039	0	34	the	DT	(NP(NP*	-	-	-	-	-	-
+chtb_0039	0	35	necessity	NN	*)	-	-	-	-	-	-
+chtb_0039	0	36	of	IN	(PP*	-	-	-	-	-	-
+chtb_0039	0	37	extending	VBG	(S(VP*	extend	01	2	-	-	-
+chtb_0039	0	38	giving	VBG	(S(VP*	give	01	3	-	-	-
+chtb_0039	0	39	China	DT	(NP*)	-	-	-	-	(9)	(9)
+chtb_0039	0	40	most	RBS	(NP(NML(ADJP*	-	-	-	-	-	-
+chtb_0039	0	41	-	HYPH	*	-	-	-	-	-	-
+chtb_0039	0	42	favored	VBN	*)	favor	01	-	-	-	-
+chtb_0039	0	43	-	HYPH	*	-	-	-	-	-	-
+chtb_0039	0	44	nation	NN	*)	nation	-	1	-	-	-
+chtb_0039	0	45	trading	NN	*	-	-	-	-	-	-
+chtb_0039	0	46	status	NN	*))))))))))))))	status	-	1	-	-	-
+chtb_0039	0	47	.	.	*))	-	-	-	-	-	-
+
+chtb_0039	0	0	With	IN	(TOP(S(S(PP*	-	-	-	-	-	-
+chtb_0039	0	1	the	DT	(S(NP(NP(NP*	-	-	-	-	-	-
+chtb_0039	0	2	once	JJ	(ADJP*	-	-	-	-	-	-
+chtb_0039	0	3	-	HYPH	*	-	-	-	-	-	-
+chtb_0039	0	4	a	DT	*	-	-	-	-	-	-
+chtb_0039	0	5	-	HYPH	*	-	-	-	-	-	-
+chtb_0039	0	6	year	NN	*)	-	-	-	-	-	-
+chtb_0039	0	7	deliberations	NNS	*)	deliberation	-	1	-	-	-
+chtb_0039	0	8	by	IN	(PP*	-	-	-	-	-	-
+chtb_0039	0	9	the	DT	(NP*	-	-	-	-	(2|(3	(2|(3
+chtb_0039	0	10	American	JJ	*	-	-	-	-	-	-
+chtb_0039	0	11	administration	NN	*	administration	-	1	-	2)	2)
+chtb_0039	0	12	and	CC	*	-	-	-	-	-	-
+chtb_0039	0	13	congress	NN	*)))	-	-	-	-	(7)|3)	(7)|3)
+chtb_0039	0	14	concerning	VBG	(VP*	concern	02	1	-	-	-
+chtb_0039	0	15	the	DT	(NP(NP*	-	-	-	-	(8	(8
+chtb_0039	0	16	question	NN	*)	question	-	2	-	-	-
+chtb_0039	0	17	of	IN	(PP*	-	-	-	-	-	-
+chtb_0039	0	18	China	NNP	(NP(NP*	-	-	-	-	(9|(12	(9|(12
+chtb_0039	0	19	's	POS	*)	-	-	-	-	9)	9)
+chtb_0039	0	20	most	RBS	(NML(ADJP*	-	-	-	-	-	-
+chtb_0039	0	21	-	HYPH	*	-	-	-	-	-	-
+chtb_0039	0	22	favored	VBN	*)	favor	01	-	-	-	-
+chtb_0039	0	23	-	HYPH	*	-	-	-	-	-	-
+chtb_0039	0	24	nation	NN	*)	nation	-	1	-	-	-
+chtb_0039	0	25	trading	NN	*	-	-	-	-	-	-
+chtb_0039	0	26	status	NN	*)))))	-	-	-	-	12)|8)	12)|8)
+chtb_0039	0	27	again	RB	(ADVP*)	-	-	-	-	-	-
+chtb_0039	0	28	approaching	VBG	(VP*)))	approach	01	1	-	-	-
+chtb_0039	0	29	,	,	*	-	-	-	-	-	-
+chtb_0039	0	30	American	JJ	(NP(NP*	-	-	-	-	-	-
+chtb_0039	0	31	businesses	NNS	*)	business	-	1	-	-	-
+chtb_0039	0	32	in	IN	(PP*	-	-	-	-	-	-
+chtb_0039	0	33	Washington	NNP	(NP*)))	-	-	-	-	(11)	(11)
+chtb_0039	0	34	are	VBP	(VP*	be	-	1	-	-	-
+chtb_0039	0	35	universally	RB	(ADJP*	-	-	-	-	-	-
+chtb_0039	0	36	concerned	JJ	*	-	-	-	-	-	-
+chtb_0039	0	37	that	IN	(SBAR*	-	-	-	-	-	-
+chtb_0039	0	38	the	DT	(S(NP(NP*	-	-	-	-	-	-
+chtb_0039	0	39	disputes	NNS	*)	dispute	01	1	-	-	-
+chtb_0039	0	40	among	IN	(PP*	-	-	-	-	-	-
+chtb_0039	0	41	America	NNP	(NP(NP*	-	-	-	-	-	-
+chtb_0039	0	42	's	POS	*)	-	-	-	-	-	-
+chtb_0039	0	43	political	JJ	*	-	-	-	-	-	-
+chtb_0039	0	44	parties	NNS	*))	-	-	-	-	-	-
+chtb_0039	0	45	in	IN	(PP*	-	-	-	-	-	-
+chtb_0039	0	46	this	DT	(NP*	-	-	-	-	-	-
+chtb_0039	0	47	big	JJ	*	-	-	-	-	-	-
+chtb_0039	0	48	election	NN	*	-	-	-	-	-	-
+chtb_0039	0	49	year	NN	*)))	-	-	-	-	-	-
+chtb_0039	0	50	could	MD	(VP*	-	-	-	-	-	-
+chtb_0039	0	51	make	VB	(VP*	make	02	3	-	-	-
+chtb_0039	0	52	this	DT	(S(NP*	-	-	-	-	(8	(8
+chtb_0039	0	53	question	NN	*)	question	-	2	-	8)	8)
+chtb_0039	0	54	even	RB	(ADJP(ADVP*	-	-	-	-	-	-
+chtb_0039	0	55	more	RBR	*)	-	-	-	-	-	-
+chtb_0039	0	56	complicated	JJ	*)))))))))	-	-	-	-	-	-
+chtb_0039	0	57	,	,	*	-	-	-	-	-	-
+chtb_0039	0	58	hence	RB	(FRAG(ADVP*)	-	-	-	-	-	-
+chtb_0039	0	59	the	DT	(NP(NP(NP*	-	-	-	-	-	-
+chtb_0039	0	60	organization	NN	*)	organization	-	2	-	-	-
+chtb_0039	0	61	of	IN	(PP*	-	-	-	-	-	-
+chtb_0039	0	62	groups	NNS	(NP(NP*)	group	-	1	-	-	-
+chtb_0039	0	63	to	TO	(SBAR(S(VP*	-	-	-	-	-	-
+chtb_0039	0	64	carry	VB	(VP*	carry	03	8	-	-	-
+chtb_0039	0	65	out	RP	(PRT*)	-	-	-	-	-	-
+chtb_0039	0	66	a	DT	(NP(NP*	-	-	-	-	(4	(4
+chtb_0039	0	67	lobbying	NN	*	-	-	-	-	-	-
+chtb_0039	0	68	campaign	NN	*)	campaign	-	2	-	-	-
+chtb_0039	0	69	directed	VBN	(VP*	direct	01	-	-	-	-
+chtb_0039	0	70	at	IN	(PP*	-	-	-	-	-	-
+chtb_0039	0	71	them	PRP	(NP*)))))))))))	-	-	-	-	(3)|4)	(3)|4)
+chtb_0039	0	72	that	WDT	(SBAR(WHNP*)	-	-	-	-	-	-
+chtb_0039	0	73	is	VBZ	(S(VP(VP*	-	-	-	-	-	-
+chtb_0039	0	74	organized	VBN	(VP*))	organize	01	-	-	-	-
+chtb_0039	0	75	and	CC	*	-	-	-	-	-	-
+chtb_0039	0	76	is	VBZ	(VP*	-	-	-	-	-	-
+chtb_0039	0	77	planned	VBN	(VP*)))))))	plan	01	-	-	-	-
+chtb_0039	0	78	.	.	*))	-	-	-	-	-	-
+
+chtb_0039	0	0	Zhen	NNP	(TOP(S(NP(NP(NP*	-	-	-	-	*	*
+chtb_0039	0	1	Wang	NNP	*)	-	-	-	-	*	*
+chtb_0039	0	2	,	,	*	-	-	-	-	*	*
+chtb_0039	0	3	a	DT	(NP(NP*	-	-	-	-	*	*
+chtb_0039	0	4	businessman	NN	*)	-	-	-	-	*	*
+chtb_0039	0	5	of	IN	(PP*	-	-	-	-	*	*
+chtb_0039	0	6	Chinese	JJ	(NP*	-	-	-	-	*	*
+chtb_0039	0	7	descent	NN	*))))	-	-	-	-	*	*
+chtb_0039	0	8	who	WP	(SBAR(WHNP*)	-	-	-	-	*	*
+chtb_0039	0	9	is	VBZ	(S(VP(VP*	-	-	-	-	*	*
+chtb_0039	0	10	representing	VBG	(VP*	represent	01	3	-	*	*
+chtb_0039	0	11	the	DT	(NP(NP(NP*	-	-	-	-	*	*
+chtb_0039	0	12	Guangzhou	NNP	*	-	-	-	-	*	*
+chtb_0039	0	13	chapter	NN	*)	chapter	-	3	-	*	*
+chtb_0039	0	14	of	IN	(PP*	-	-	-	-	*	*
+chtb_0039	0	15	the	DT	(NP(NP*	-	-	-	-	*	*
+chtb_0039	0	16	American	NNP	*	-	-	-	-	*	*
+chtb_0039	0	17	Chamber	NNP	*)	-	-	-	-	*	*
+chtb_0039	0	18	of	IN	(PP*	-	-	-	-	*	*
+chtb_0039	0	19	Commerce	NNP	(NP*)))))	-	-	-	-	*	*
+chtb_0039	0	20	and	CC	*	-	-	-	-	*	*
+chtb_0039	0	21	the	DT	(NP*	-	-	-	-	*	*
+chtb_0039	0	22	Xian	NNP	(NML*	-	-	-	-	*	*
+chtb_0039	0	23	Ni	NNP	*	-	-	-	-	*	*
+chtb_0039	0	24	Lei	NNP	*	-	-	-	-	*	*
+chtb_0039	0	25	De	NNP	*)	-	-	-	-	*	*
+chtb_0039	0	26	Group	NNP	*))))	-	-	-	-	*	*
+chtb_0039	0	27	and	CC	*	-	-	-	-	*	*
+chtb_0039	0	28	is	VBZ	(VP*	-	-	-	-	*	*
+chtb_0039	0	29	participating	VBG	(VP*	participate	01	1	-	*	*
+chtb_0039	0	30	in	IN	(PP*	-	-	-	-	*	*
+chtb_0039	0	31	the	DT	(NP*	-	-	-	-	*	*
+chtb_0039	0	32	lobbying	NN	*	-	-	-	-	*	*
+chtb_0039	0	33	team	NN	*))))))))	team	-	1	-	*	*
+chtb_0039	0	34	,	,	*	-	-	-	-	*	*
+chtb_0039	0	35	said	VBD	(VP*	say	01	1	-	*	*
+chtb_0039	0	36	to	IN	(PP*	-	-	-	-	*	*
+chtb_0039	0	37	this	DT	(NP*	-	-	-	-	*	*
+chtb_0039	0	38	reporter	NN	*))	-	-	-	-	*	*
+chtb_0039	0	39	that	IN	(SBAR*	-	-	-	-	*	*
+chtb_0039	0	40	,	,	*	-	-	-	-	*	*
+chtb_0039	0	41	as	IN	(S(PP*	-	-	-	-	*	*
+chtb_0039	0	42	a	DT	(NP(NP*	-	-	-	-	*	*
+chtb_0039	0	43	follow	NN	(NML*	-	-	-	-	*	*
+chtb_0039	0	44	-	HYPH	*	-	-	-	-	*	*
+chtb_0039	0	45	up	NN	*)	-	-	-	-	*	*
+chtb_0039	0	46	action	NN	*)	action	01	1	-	*	*
+chtb_0039	0	47	to	IN	(PP*	-	-	-	-	*	*
+chtb_0039	0	48	this	DT	(NP*	-	-	-	-	*	*
+chtb_0039	0	49	lobbying	NN	*	-	-	-	-	*	*
+chtb_0039	0	50	effort	NN	*))))	effort	-	1	-	*	*
+chtb_0039	0	51	,	,	*	-	-	-	-	*	*
+chtb_0039	0	52	he	PRP	(NP*)	-	-	-	-	*	*
+chtb_0039	0	53	prepared	VBD	(VP*	prepare	02	2	-	*	*
+chtb_0039	0	54	to	TO	(S(VP*	-	-	-	-	*	*
+chtb_0039	0	55	mobilize	VB	(VP*	mobilize	01	1	-	*	*
+chtb_0039	0	56	tens	NNS	(S(NP(NP(NP*)	-	-	-	-	(ARG0*	(ARG0*
+chtb_0039	0	57	of	IN	(PP*	-	-	-	-	*	*
+chtb_0039	0	58	thousands	NNS	(NP*)))	-	-	-	-	*	*
+chtb_0039	0	59	of	IN	(PP*	-	-	-	-	*	*
+chtb_0039	0	60	distributors	NNS	(NP(NP*)	-	-	-	-	*	*
+chtb_0039	0	61	who	WDT	(SBAR(WHNP*)	-	-	-	-	*	*
+chtb_0039	0	62	belong	VBP	(S(VP*	belong	01	2	-	*	*
+chtb_0039	0	63	to	IN	(PP*	-	-	-	-	*	*
+chtb_0039	0	64	the	DT	(NP*	-	-	-	-	*	*
+chtb_0039	0	65	company	NN	*))))))))	company	-	1	-	*)	*)
+chtb_0039	0	66	to	TO	(VP*	-	-	-	-	*	*
+chtb_0039	0	67	write	VB	(VP*	write	01	1	-	*	*
+chtb_0039	0	68	to	IN	(PP*	-	-	-	-	*	*
+chtb_0039	0	69	their	PRP$	(NP*	-	-	-	-	*	*
+chtb_0039	0	70	local	JJ	(ADJP*	-	-	-	-	*	*
+chtb_0039	0	71	congressional	JJ	*)	-	-	-	-	*	*
+chtb_0039	0	72	representatives	NNS	*))	representative	-	2	-	*	*
+chtb_0039	0	73	to	TO	(S(VP*	-	-	-	-	*	*
+chtb_0039	0	74	support	VB	(VP*	support	01	2	-	*	*
+chtb_0039	0	75	extending	VBG	(S(VP*	extend	01	2	-	(V*)	(V*)
+chtb_0039	0	76	China	NNP	(NP(NP*	-	-	-	-	(ARG1*	(ARG1*
+chtb_0039	0	77	's	POS	*)	-	-	-	-	*	*
+chtb_0039	0	78	most	RBS	(NML(ADJP*	-	-	-	-	*	*
+chtb_0039	0	79	-	HYPH	*	-	-	-	-	*	*
+chtb_0039	0	80	favored	VBN	*)	favor	01	-	-	*	*
+chtb_0039	0	81	-	HYPH	*	-	-	-	-	*	*
+chtb_0039	0	82	nation	NN	*)	nation	-	1	-	*	*
+chtb_0039	0	83	trading	NN	*	-	-	-	-	*	*
+chtb_0039	0	84	status	NN	*))))))))))))))))	status	-	1	-	*)	*)
+chtb_0039	0	85	.	.	*))	-	-	-	-	*	*
+
+chtb_0039	0	0	The	DT	(TOP(S(NP(NP(NP*	-	-	-	-	-
+chtb_0039	0	1	head	NN	*)	-	-	-	-	-
+chtb_0039	0	2	of	IN	(PP*	-	-	-	-	-
+chtb_0039	0	3	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0039	0	4	Guangdong	NNP	*	-	-	-	-	-
+chtb_0039	0	5	branch	NN	*)	branch	-	1	-	-
+chtb_0039	0	6	of	IN	(PP*	-	-	-	-	-
+chtb_0039	0	7	the	DT	(NP(NP*	-	-	-	-	(1
+chtb_0039	0	8	American	NNP	*	-	-	-	-	-
+chtb_0039	0	9	Chamber	NNP	*)	-	-	-	-	-
+chtb_0039	0	10	of	IN	(PP*	-	-	-	-	-
+chtb_0039	0	11	Commerce	NNP	(NP*)))))))	-	-	-	-	1)
+chtb_0039	0	12	,	,	*	-	-	-	-	-
+chtb_0039	0	13	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0039	0	14	attorney	NN	*)	-	-	-	-	-
+chtb_0039	0	15	Yonghua	NNP	(NP*	-	-	-	-	-
+chtb_0039	0	16	Kang	NNP	*)))	-	-	-	-	-
+chtb_0039	0	17	,	,	*	-	-	-	-	-
+chtb_0039	0	18	said	VBD	(VP*	say	01	1	-	-
+chtb_0039	0	19	the	DT	(SBAR(S(S(NP*	-	-	-	-	(2
+chtb_0039	0	20	Clinton	NNP	*	-	-	-	-	-
+chtb_0039	0	21	administration	NN	*)	-	-	-	-	2)
+chtb_0039	0	22	had	VBD	(VP*	have	01	-	-	-
+chtb_0039	0	23	already	RB	(ADVP*)	-	-	-	-	-
+chtb_0039	0	24	demonstrated	VBN	(VP*	demonstrate	01	1	-	(10)
+chtb_0039	0	25	that	IN	(SBAR*	-	-	-	-	-
+chtb_0039	0	26	it	PRP	(S(NP*)	-	-	-	-	(2)
+chtb_0039	0	27	wanted	VBD	(VP*	want	01	1	-	-
+chtb_0039	0	28	to	TO	(S(VP*	-	-	-	-	-
+chtb_0039	0	29	extend	VB	(VP*	extend	01	2	-	-
+chtb_0039	0	30	China	NNP	(NP(NP*	-	-	-	-	(9|(12
+chtb_0039	0	31	's	POS	*)	-	-	-	-	9)
+chtb_0039	0	32	most	RBS	(NML(ADJP*	-	-	-	-	-
+chtb_0039	0	33	-	HYPH	*	-	-	-	-	-
+chtb_0039	0	34	favored	VBN	*)	favor	01	-	-	-
+chtb_0039	0	35	-	HYPH	*	-	-	-	-	-
+chtb_0039	0	36	nation	NN	*)	nation	-	1	-	-
+chtb_0039	0	37	trading	NN	*	-	-	-	-	-
+chtb_0039	0	38	status	NN	*))))))))))	status	-	1	-	12)
+chtb_0039	0	39	and	CC	*	-	-	-	-	-
+chtb_0039	0	40	because	IN	(S(PP*	-	-	-	-	-
+chtb_0039	0	41	of	IN	*	-	-	-	-	-
+chtb_0039	0	42	this	DT	(NP*))	-	-	-	-	(10)
+chtb_0039	0	43	,	,	*	-	-	-	-	-
+chtb_0039	0	44	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0039	0	45	focus	NN	*)	focus	-	1	-	-
+chtb_0039	0	46	of	IN	(PP*	-	-	-	-	-
+chtb_0039	0	47	this	DT	(NP(NP*	-	-	-	-	(4
+chtb_0039	0	48	round	NN	*)	round	01	2	-	-
+chtb_0039	0	49	of	IN	(PP*	-	-	-	-	-
+chtb_0039	0	50	lobbying	NN	(NP*)))))	-	-	-	-	4)
+chtb_0039	0	51	was	VBD	(VP*	be	-	2	-	-
+chtb_0039	0	52	those	DT	(NP(NP(NP*	-	-	-	-	-
+chtb_0039	0	53	members	NNS	*)	member	-	1	-	-
+chtb_0039	0	54	of	IN	(PP*	-	-	-	-	-
+chtb_0039	0	55	congress	NN	(NP*)))	-	-	-	-	(7)
+chtb_0039	0	56	who	WP	(SBAR(WHNP*)	-	-	-	-	-
+chtb_0039	0	57	are	VBP	(S(VP*	be	-	1	-	-
+chtb_0039	0	58	more	RBR	(ADJP*	-	-	-	-	-
+chtb_0039	0	59	conservative	JJ	*))))))))))	-	-	-	-	-
+chtb_0039	0	60	.	.	*))	-	-	-	-	-
+
+chtb_0039	0	0	-LRB-	-LRB-	(TOP(NP*	-	-	-	-	-
+chtb_0039	0	1	End	NN	*	end	-	4	-	-
+chtb_0039	0	2	-RRB-	-RRB-	*))	-	-	-	-	-
+
+#end document

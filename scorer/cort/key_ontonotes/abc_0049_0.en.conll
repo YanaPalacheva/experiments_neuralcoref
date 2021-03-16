@@ -1,0 +1,80 @@
+#begin document (abc_0049_0); part 000
+abc_0049	0	0	There	EX	(TOP(S(NP*)	-	-	-	-	-
+abc_0049	0	1	is	VBZ	(VP*	be	02	3	-	-
+abc_0049	0	2	other	JJ	(NP(NP*	-	-	-	-	-
+abc_0049	0	3	news	NN	*)	news	-	1	-	-
+abc_0049	0	4	tonight	NN	(NP*)	-	-	-	-	-
+abc_0049	0	5	overseas	RB	(UCP(ADVP*)	-	-	-	-	-
+abc_0049	0	6	and	CC	*	-	-	-	-	-
+abc_0049	0	7	at	IN	(PP*	-	-	-	-	-
+abc_0049	0	8	home	NN	(NP*)))))	home	-	1	-	-
+abc_0049	0	9	.	.	*))	-	-	-	-	-
+
+abc_0049	0	0	While	IN	(TOP(S(SBAR*	-	-	-	-	-
+abc_0049	0	1	all	PDT	(S(NP*	-	-	-	-	-
+abc_0049	0	2	this	DT	*)	-	-	-	-	-
+abc_0049	0	3	is	VBZ	(VP*	be	03	-	-	-
+abc_0049	0	4	going	VBG	(VP*	go	15	5	-	-
+abc_0049	0	5	on	RP	(PRT*)))))	-	-	-	-	-
+abc_0049	0	6	,	,	*	-	-	-	-	-
+abc_0049	0	7	Mr.	NNP	(NP*	-	-	-	-	(1
+abc_0049	0	8	Clinton	NNP	*)	-	-	-	-	1)
+abc_0049	0	9	is	VBZ	(VP*	be	01	4	-	-
+abc_0049	0	10	overseas	RB	(ADVP*))	-	-	-	-	-
+abc_0049	0	11	.	.	*))	-	-	-	-	-
+
+abc_0049	0	0	President	NNP	(TOP(S(NP*	-	-	-	-	(1
+abc_0049	0	1	Clinton	NNP	*)	-	-	-	-	1)
+abc_0049	0	2	was	VBD	(VP*	be	01	4	-	-
+abc_0049	0	3	in	IN	(PP*	-	-	-	-	-
+abc_0049	0	4	Northern	NNP	(NP*	-	-	-	-	(0
+abc_0049	0	5	Ireland	NNP	*))	-	-	-	-	0)
+abc_0049	0	6	when	WRB	(SBAR(WHADVP*)	-	-	-	-	-
+abc_0049	0	7	he	PRP	(S(NP*)	-	-	-	-	(1)
+abc_0049	0	8	heard	VBD	(VP*	hear	01	1	-	-
+abc_0049	0	9	the	DT	(NP*	-	-	-	-	-
+abc_0049	0	10	Supreme	NNP	(NML*	-	-	-	-	-
+abc_0049	0	11	Court	NNP	*)	-	-	-	-	-
+abc_0049	0	12	decision	NN	*)))))	-	-	-	-	-
+abc_0049	0	13	.	.	*))	-	-	-	-	-
+
+abc_0049	0	0	He	PRP	(TOP(S(NP*)	-	-	-	-	(1)
+abc_0049	0	1	talked	VBD	(VP*	talk	01	1	-	-
+abc_0049	0	2	to	IN	(PP*	-	-	-	-	-
+abc_0049	0	3	Al	NNP	(NP*	-	-	-	-	-
+abc_0049	0	4	Gore	NNP	*))	-	-	-	-	-
+abc_0049	0	5	on	IN	(PP*	-	-	-	-	-
+abc_0049	0	6	the	DT	(NP*	-	-	-	-	-
+abc_0049	0	7	phone	NN	*))	phone	-	1	-	-
+abc_0049	0	8	from	IN	(PP*	-	-	-	-	-
+abc_0049	0	9	Belfast	NNP	(NP*)))	-	-	-	-	-
+abc_0049	0	10	.	.	*))	-	-	-	-	-
+
+abc_0049	0	0	This	DT	(TOP(S(NP*)	-	-	-	-	-
+abc_0049	0	1	is	VBZ	(VP*	be	01	1	-	-
+abc_0049	0	2	Mr.	NNP	(NP(NP(NP*	-	-	-	-	(1
+abc_0049	0	3	Clinton	NNP	*	-	-	-	-	-
+abc_0049	0	4	's	POS	*)	-	-	-	-	1)
+abc_0049	0	5	third	JJ	*	-	-	-	-	-
+abc_0049	0	6	visit	NN	*)	visit	-	1	-	-
+abc_0049	0	7	to	IN	(PP*	-	-	-	-	-
+abc_0049	0	8	Northern	NNP	(NP(NP*	-	-	-	-	(0
+abc_0049	0	9	Ireland	NNP	*)	-	-	-	-	0)
+abc_0049	0	10	,	,	*	-	-	-	-	-
+abc_0049	0	11	and	CC	*	-	-	-	-	-
+abc_0049	0	12	the	DT	(NP*	-	-	-	-	-
+abc_0049	0	13	Irish	NNP	*	-	-	-	-	-
+abc_0049	0	14	Republic	NNP	*)))	-	-	-	-	-
+abc_0049	0	15	to	TO	(S(VP*	-	-	-	-	-
+abc_0049	0	16	do	VB	(VP*	do	02	1	-	-
+abc_0049	0	17	what	WP	(SBAR(WHNP*)	-	-	-	-	-
+abc_0049	0	18	he	PRP	(S(NP*)	-	-	-	-	(1)
+abc_0049	0	19	can	MD	(VP*)))	-	-	-	-	-
+abc_0049	0	20	to	TO	(S(VP*	-	-	-	-	-
+abc_0049	0	21	generate	VB	(VP*	generate	01	1	-	-
+abc_0049	0	22	a	DT	(NP*	-	-	-	-	-
+abc_0049	0	23	lasting	JJ	*	-	-	-	-	-
+abc_0049	0	24	peace	NN	*)))))))))	peace	-	1	-	-
+abc_0049	0	25	.	.	*))	-	-	-	-	-
+
+#end document

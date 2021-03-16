@@ -1,0 +1,80 @@
+#begin document (cnn_0019_0); part 000
+cnn_0019	0	0	Nine	CD	(TOP(S(NP*	-	-	-	-	-
+cnn_0019	0	1	people	NNS	*)	people	-	1	-	-
+cnn_0019	0	2	were	VBD	(VP*	be	03	-	-	-
+cnn_0019	0	3	injured	VBN	(VP*	injure	01	1	-	-
+cnn_0019	0	4	in	IN	(PP*	-	-	-	-	-
+cnn_0019	0	5	Gaza	NNP	(NP*))	-	-	-	-	-
+cnn_0019	0	6	when	WRB	(SBAR(WHADVP*)	-	-	-	-	-
+cnn_0019	0	7	gunmen	NNS	(S(NP*)	-	-	-	-	-
+cnn_0019	0	8	opened	VBD	(VP*	open	02	6	-	(4)
+cnn_0019	0	9	fire	NN	(NP*)	fire	01	4	-	(1)
+cnn_0019	0	10	on	IN	(PP*	-	-	-	-	-
+cnn_0019	0	11	an	DT	(NP*	-	-	-	-	-
+cnn_0019	0	12	Israeli	JJ	*	-	-	-	-	-
+cnn_0019	0	13	bus	NN	*)))))))	bus	-	1	-	-
+cnn_0019	0	14	.	.	*))	-	-	-	-	-
+
+cnn_0019	0	0	The	DT	(TOP(S(NP*	-	-	-	-	-
+cnn_0019	0	1	passengers	NNS	*)	-	-	-	-	-
+cnn_0019	0	2	were	VBD	(VP*	be	01	1	-	-
+cnn_0019	0	3	off	IN	(NP(NML(PP*	-	-	-	-	-
+cnn_0019	0	4	-	HYPH	*	-	-	-	-	-
+cnn_0019	0	5	duty	NN	(NP*)))	-	-	-	-	-
+cnn_0019	0	6	Israeli	JJ	*	-	-	-	-	-
+cnn_0019	0	7	security	NN	*	security	-	4	-	-
+cnn_0019	0	8	workers	NNS	*))	worker	-	1	-	-
+cnn_0019	0	9	.	.	*))	-	-	-	-	-
+
+cnn_0019	0	0	Witnesses	NNS	(TOP(S(NP*)	-	-	-	-	-
+cnn_0019	0	1	say	VBP	(VP*	say	01	1	-	-
+cnn_0019	0	2	the	DT	(SBAR(S(NP*	-	-	-	-	(1
+cnn_0019	0	3	shots	NNS	*)	-	-	-	-	1)
+cnn_0019	0	4	came	VBD	(VP*	come	01	5	-	-
+cnn_0019	0	5	from	IN	(PP*	-	-	-	-	-
+cnn_0019	0	6	the	DT	(NP*	-	-	-	-	(2
+cnn_0019	0	7	Palestinian	JJ	*	-	-	-	-	-
+cnn_0019	0	8	international	JJ	*	-	-	-	-	-
+cnn_0019	0	9	airport	NN	*))))))	-	-	-	-	2)
+cnn_0019	0	10	.	.	*))	-	-	-	-	-
+
+cnn_0019	0	0	Israeli	JJ	(TOP(S(NP(NML*	-	-	-	-	-
+cnn_0019	0	1	Prime	NNP	*	-	-	-	-	-
+cnn_0019	0	2	Minister	NNP	*)	-	-	-	-	-
+cnn_0019	0	3	Ehud	NNP	*	-	-	-	-	-
+cnn_0019	0	4	Barak	NNP	*)	-	-	-	-	-
+cnn_0019	0	5	closed	VBD	(VP*	close	04	1	-	(0)
+cnn_0019	0	6	down	RP	(PRT*)	-	-	-	-	-
+cnn_0019	0	7	the	DT	(NP*	-	-	-	-	(2
+cnn_0019	0	8	two	CD	(ADJP(NML*	-	-	-	-	-
+cnn_0019	0	9	-	HYPH	*	-	-	-	-	-
+cnn_0019	0	10	year	NN	*)	-	-	-	-	-
+cnn_0019	0	11	-	HYPH	*	-	-	-	-	-
+cnn_0019	0	12	old	JJ	*)	-	-	-	-	-
+cnn_0019	0	13	airport	NN	*)	-	-	-	-	2)
+cnn_0019	0	14	in	IN	(PP*	-	-	-	-	-
+cnn_0019	0	15	response	NN	(NP(NP*)	response	01	1	-	-
+cnn_0019	0	16	to	IN	(PP*	-	-	-	-	-
+cnn_0019	0	17	the	DT	(NP*	-	-	-	-	(4
+cnn_0019	0	18	incident	NN	*)))))	incident	-	2	-	4)
+cnn_0019	0	19	.	.	*))	-	-	-	-	-
+
+cnn_0019	0	0	Palestinians	NNPS	(TOP(S(NP*)	-	-	-	-	(3)
+cnn_0019	0	1	criticized	VBD	(VP*	criticize	01	1	-	-
+cnn_0019	0	2	the	DT	(NP*	-	-	-	-	(0
+cnn_0019	0	3	move	NN	*))	move	02	2	-	0)
+cnn_0019	0	4	.	.	*))	-	-	-	-	-
+
+cnn_0019	0	0	They	PRP	(TOP(S(NP*)	-	-	-	-	(3)
+cnn_0019	0	1	regard	VBP	(VP*	regard	01	1	-	-
+cnn_0019	0	2	the	DT	(NP*	-	-	-	-	(2
+cnn_0019	0	3	airport	NN	*)	-	-	-	-	2)
+cnn_0019	0	4	as	IN	(PP*	-	-	-	-	-
+cnn_0019	0	5	a	DT	(NP(NP*	-	-	-	-	-
+cnn_0019	0	6	symbol	NN	*)	symbol	-	1	-	-
+cnn_0019	0	7	of	IN	(PP*	-	-	-	-	-
+cnn_0019	0	8	emerging	VBG	(NP*	emerge	02	-	-	-
+cnn_0019	0	9	statehood	NN	*)))))	-	-	-	-	-
+cnn_0019	0	10	.	.	*))	-	-	-	-	-
+
+#end document

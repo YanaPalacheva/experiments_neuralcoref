@@ -1,0 +1,461 @@
+#begin document (nbc_0029_0); part 000
+nbc_0029	0	0	NBC	NNP	(TOP(S(NP(NP*	-	-	-	-	(6|(10
+nbc_0029	0	1	's	POS	*)	-	-	-	-	6)
+nbc_0029	0	2	David	NNP	*	-	-	-	-	-
+nbc_0029	0	3	Gregory	NNP	*)	-	-	-	-	10)
+nbc_0029	0	4	is	VBZ	(VP*	be	01	4	-	-
+nbc_0029	0	5	at	IN	(PP*	-	-	-	-	-
+nbc_0029	0	6	his	PRP$	(NP*	-	-	-	-	(10)
+nbc_0029	0	7	post	NN	*))	post	-	2	-	-
+nbc_0029	0	8	as	RB	(ADVP*	-	-	-	-	-
+nbc_0029	0	9	well	RB	*)	-	-	-	-	-
+nbc_0029	0	10	in	IN	(PP*	-	-	-	-	-
+nbc_0029	0	11	Austin	NNP	(NP(NP*)	-	-	-	-	(2
+nbc_0029	0	12	,	,	*	-	-	-	-	-
+nbc_0029	0	13	Texas	NNP	(NP*))))	-	-	-	-	(9)|2)
+nbc_0029	0	14	.	.	*))	-	-	-	-	-
+
+nbc_0029	0	0	David	NNP	(TOP(FRAG(NP*)	-	-	-	-	(10)
+nbc_0029	0	1	any	DT	(NP(NP*	-	-	-	-	-
+nbc_0029	0	2	reaction	NN	*)	reaction	01	2	-	-
+nbc_0029	0	3	from	IN	(PP*	-	-	-	-	-
+nbc_0029	0	4	the	DT	(NP*	-	-	-	-	(0
+nbc_0029	0	5	Bush	NNP	*	-	-	-	-	(4)
+nbc_0029	0	6	team	NN	*))	team	-	1	-	0)
+nbc_0029	0	7	on	IN	(PP*	-	-	-	-	-
+nbc_0029	0	8	the	DT	(NP(NP*	-	-	-	-	-
+nbc_0029	0	9	Democrats	NNPS	*	-	-	-	-	-
+nbc_0029	0	10	'	POS	*)	-	-	-	-	-
+nbc_0029	0	11	plan	NN	*	plan	-	1	-	-
+nbc_0029	0	12	to	TO	(S(VP*	-	-	-	-	-
+nbc_0029	0	13	contest	VB	(VP*)	contest	01	1	-	-
+nbc_0029	0	14	the	DT	(NP(NP*	-	-	-	-	-
+nbc_0029	0	15	vote	NN	*)	vote	01	1	-	-
+nbc_0029	0	16	in	IN	(PP*	-	-	-	-	-
+nbc_0029	0	17	Miami	NNP	(NP*	-	-	-	-	-
+nbc_0029	0	18	-	HYPH	*	-	-	-	-	-
+nbc_0029	0	19	Dade	NNP	*))))))))	-	-	-	-	-
+nbc_0029	0	20	?	.	*))	-	-	-	-	-
+
+nbc_0029	0	0	Well	UH	(TOP(S(INTJ*)	-	-	-	-	-
+nbc_0029	0	1	,	,	*	-	-	-	-	-
+nbc_0029	0	2	John	NNP	(NP*)	-	-	-	-	(11)
+nbc_0029	0	3	,	,	*	-	-	-	-	-
+nbc_0029	0	4	there	EX	(NP*)	-	-	-	-	-
+nbc_0029	0	5	has	VBZ	(VP*	have	01	-	-	-
+nbc_0029	0	6	been	VBN	(VP*	be	02	5	-	-
+nbc_0029	0	7	reaction	NN	(NP(NP*)	reaction	01	2	-	-
+nbc_0029	0	8	from	IN	(PP*	-	-	-	-	-
+nbc_0029	0	9	the	DT	(NP*	-	-	-	-	(0
+nbc_0029	0	10	Bush	NNP	*	-	-	-	-	(4)
+nbc_0029	0	11	team	NN	*)))))	team	-	1	-	0)
+nbc_0029	0	12	.	.	*))	-	-	-	-	-
+
+nbc_0029	0	0	You	PRP	(TOP(S(S(PRN(S(NP*)	-	-	-	-	*	*
+nbc_0029	0	1	know	VBP	(VP*)))	know	01	1	-	*	*
+nbc_0029	0	2	,	,	*	-	-	-	-	*	*
+nbc_0029	0	3	this	DT	(NP(NP(NP*	-	-	-	-	*	*
+nbc_0029	0	4	decision	NN	*)	decision	01	2	-	*	*
+nbc_0029	0	5	by	IN	(PP*	-	-	-	-	*	*
+nbc_0029	0	6	the	DT	(NP*	-	-	-	-	*	*
+nbc_0029	0	7	Gore	NNP	*	-	-	-	-	*	*
+nbc_0029	0	8	campaign	NN	*)))	-	-	-	-	*	*
+nbc_0029	0	9	,	,	*	-	-	-	-	*	*
+nbc_0029	0	10	a	DT	(NP*	-	-	-	-	*	*
+nbc_0029	0	11	refusal	NN	*	refusal	-	1	-	*	*
+nbc_0029	0	12	to	TO	(S(VP*	-	-	-	-	*	*
+nbc_0029	0	13	concede	VB	(VP*	concede	01	2	-	*	*
+nbc_0029	0	14	even	RB	(SBAR(ADVP*)	-	-	-	-	*	*
+nbc_0029	0	15	if	IN	*	-	-	-	-	*	*
+nbc_0029	0	16	they	PRP	(S(NP*)	-	-	-	-	*	*
+nbc_0029	0	17	do	VBP	(VP*	do	01	-	-	*	*
+nbc_0029	0	18	not	RB	*	-	-	-	-	*	*
+nbc_0029	0	19	prevail	VB	(VP*	prevail	01	1	-	*	*
+nbc_0029	0	20	in	IN	(PP*	-	-	-	-	*	*
+nbc_0029	0	21	the	DT	(NP(NP*	-	-	-	-	*	*
+nbc_0029	0	22	manual	JJ	*	-	-	-	-	*	*
+nbc_0029	0	23	recounts	NNS	*)	-	-	-	-	*	*
+nbc_0029	0	24	under	IN	(PP*	-	-	-	-	*	*
+nbc_0029	0	25	way	NN	(NP*)))))))))))))	way	-	4	-	*	*
+nbc_0029	0	26	certainly	RB	(ADVP*)	-	-	-	-	*	*
+nbc_0029	0	27	carries	VBZ	(VP*	carry	01	2	-	*	*
+nbc_0029	0	28	some	DT	(NP*	-	-	-	-	*	*
+nbc_0029	0	29	political	JJ	*	-	-	-	-	*	*
+nbc_0029	0	30	risk	NN	*)))	risk	-	3	-	*	*
+nbc_0029	0	31	,	,	*	-	-	-	-	*	*
+nbc_0029	0	32	but	CC	*	-	-	-	-	*	*
+nbc_0029	0	33	the	DT	(S(NP*	-	-	-	-	*	*
+nbc_0029	0	34	Gore	NNP	*	-	-	-	-	*	*
+nbc_0029	0	35	team	NN	*)	team	-	1	-	*	*
+nbc_0029	0	36	tonight	NN	(NP*)	-	-	-	-	*	*
+nbc_0029	0	37	defends	VBZ	(VP*	defend	01	2	-	*	*
+nbc_0029	0	38	the	DT	(NP*	-	-	-	-	*	*
+nbc_0029	0	39	decision	NN	*)	decision	01	1	-	*	*
+nbc_0029	0	40	,	,	*	-	-	-	-	*	*
+nbc_0029	0	41	saying	VBG	(S(VP*	say	01	1	-	*	*
+nbc_0029	0	42	that	IN	(SBAR*	-	-	-	-	*	*
+nbc_0029	0	43	fellow	NN	(S(NP(NP*	-	-	-	-	(ARG0*	(ARG0*
+nbc_0029	0	44	Democrats	NNPS	*)	-	-	-	-	*	*
+nbc_0029	0	45	and	CC	*	-	-	-	-	*	*
+nbc_0029	0	46	the	DT	(NP*	-	-	-	-	*	*
+nbc_0029	0	47	public	NN	*))	public	-	1	-	*)	*)
+nbc_0029	0	48	would	MD	(VP*	-	-	-	-	(ARGM-MOD*)	(ARGM-MOD*)
+nbc_0029	0	49	not	RB	(VP(CONJP*	-	-	-	-	*	*
+nbc_0029	0	50	only	RB	*)	-	-	-	-	*	*
+nbc_0029	0	51	accept	VB	*	accept	01	1	-	(V*)	(V*)
+nbc_0029	0	52	but	CC	*	-	-	-	-	*	*
+nbc_0029	0	53	demand	VB	*	demand	01	1	-	*	*
+nbc_0029	0	54	what	WP	(SBAR(WHNP*)	-	-	-	-	(ARG1*	(ARG1*
+nbc_0029	0	55	they	PRP	(S(NP*)	-	-	-	-	*	*
+nbc_0029	0	56	call	VBP	(VP*	call	01	5	-	*	*
+nbc_0029	0	57	a	DT	(S(NP(NP*	-	-	-	-	*	*
+nbc_0029	0	58	fair	JJ	(ADJP*	-	-	-	-	*	*
+nbc_0029	0	59	and	CC	*	-	-	-	-	*	*
+nbc_0029	0	60	accurate	JJ	*)	-	-	-	-	*	*
+nbc_0029	0	61	recount	NN	*)	-	-	-	-	*	*
+nbc_0029	0	62	in	IN	(PP*	-	-	-	-	*	*
+nbc_0029	0	63	all	PDT	(NP*	-	-	-	-	*	*
+nbc_0029	0	64	the	DT	*	-	-	-	-	*	*
+nbc_0029	0	65	relevant	JJ	*	-	-	-	-	*	*
+nbc_0029	0	66	counties	NNS	*)))))))))))))))	-	-	-	-	*)	*)
+nbc_0029	0	67	.	.	*))	-	-	-	-	*	*
+
+nbc_0029	0	0	The	DT	(TOP(FRAG(NP*	-	-	-	-	(0
+nbc_0029	0	1	Bush	NNP	*	-	-	-	-	(4)
+nbc_0029	0	2	team	NN	*)	team	-	1	-	0)
+nbc_0029	0	3	,	,	*	-	-	-	-	-
+nbc_0029	0	4	responding	VBG	(VP*	respond	01	1	-	-
+nbc_0029	0	5	quickly	RB	(ADVP*)	-	-	-	-	-
+nbc_0029	0	6	saying	VBG	(S(VP*	say	01	1	-	-
+nbc_0029	0	7	there	EX	(SBAR(SBAR(S(NP*)	-	-	-	-	-
+nbc_0029	0	8	would	MD	(VP*	-	-	-	-	-
+nbc_0029	0	9	not	RB	*	-	-	-	-	-
+nbc_0029	0	10	be	VB	(VP*	be	02	3	-	-
+nbc_0029	0	11	such	JJ	(NP*	-	-	-	-	-
+nbc_0029	0	12	support	NN	*)))))	support	01	7	-	-
+nbc_0029	0	13	and	CC	*	-	-	-	-	-
+nbc_0029	0	14	that	IN	(SBAR*	-	-	-	-	-
+nbc_0029	0	15	in	IN	(S(PP*	-	-	-	-	-
+nbc_0029	0	16	that	DT	(NP*	-	-	-	-	-
+nbc_0029	0	17	scenario	NN	*))	-	-	-	-	-
+nbc_0029	0	18	Gore	NNP	(NP*)	-	-	-	-	(18)
+nbc_0029	0	19	could	MD	(VP*	-	-	-	-	-
+nbc_0029	0	20	only	RB	(ADVP*)	-	-	-	-	-
+nbc_0029	0	21	be	VB	(VP*	be	03	-	-	-
+nbc_0029	0	22	seen	VBN	(VP*	see	01	2	-	-
+nbc_0029	0	23	as	IN	(PP*	-	-	-	-	-
+nbc_0029	0	24	a	DT	(NP*	-	-	-	-	-
+nbc_0029	0	25	sore	JJ	*	-	-	-	-	-
+nbc_0029	0	26	loser	NN	*)))))))))))	-	-	-	-	-
+nbc_0029	0	27	.	.	*))	-	-	-	-	-
+
+nbc_0029	0	0	Despite	IN	(TOP(S(PP*	-	-	-	-	-
+nbc_0029	0	1	the	DT	(NP*	-	-	-	-	-
+nbc_0029	0	2	holiday	NN	*))	-	-	-	-	-
+nbc_0029	0	3	,	,	*	-	-	-	-	-
+nbc_0029	0	4	there	EX	(NP*)	-	-	-	-	-
+nbc_0029	0	5	is	VBZ	(VP*	be	02	1	-	-
+nbc_0029	0	6	no	DT	(NP(NP*	-	-	-	-	-
+nbc_0029	0	7	letup	NN	*)	-	-	-	-	-
+nbc_0029	0	8	in	IN	(PP*	-	-	-	-	-
+nbc_0029	0	9	the	DT	(NP(NP*	-	-	-	-	(5
+nbc_0029	0	10	fight	NN	*)	fight	01	2	-	-
+nbc_0029	0	11	for	IN	(PP*	-	-	-	-	-
+nbc_0029	0	12	Florida	NNP	(NP*))))))	-	-	-	-	(19)|5)
+nbc_0029	0	13	.	.	*))	-	-	-	-	-
+
+nbc_0029	0	0	A	DT	(TOP(FRAG(NP(NP*	-	-	-	-	-
+nbc_0029	0	1	holiday	NN	*	-	-	-	-	-
+nbc_0029	0	2	legal	JJ	*	-	-	-	-	-
+nbc_0029	0	3	victory	NN	*)	-	-	-	-	-
+nbc_0029	0	4	to	TO	(SBAR(S(VP*	-	-	-	-	-
+nbc_0029	0	5	be	VB	(VP*	be	01	1	-	-
+nbc_0029	0	6	thankful	JJ	(ADJP*	-	-	-	-	-
+nbc_0029	0	7	for	IN	(PP*)))))))	-	-	-	-	-
+nbc_0029	0	8	,	,	*	-	-	-	-	-
+nbc_0029	0	9	George	NNP	(NP(NP*	-	-	-	-	(8|(4)
+nbc_0029	0	10	and	CC	*	-	-	-	-	-
+nbc_0029	0	11	Laura	NNP	*	-	-	-	-	-
+nbc_0029	0	12	Bush	NNP	*)	-	-	-	-	-
+nbc_0029	0	13	,	,	*	-	-	-	-	-
+nbc_0029	0	14	all	RB	(RRC(ADVP*)	-	-	-	-	-
+nbc_0029	0	15	smiles	NNS	(NP*)	-	-	-	-	-
+nbc_0029	0	16	in	IN	(PP*	-	-	-	-	-
+nbc_0029	0	17	Austin	NNP	(NP*))	-	-	-	-	(2)
+nbc_0029	0	18	today	NN	(NP*)	today	-	2	-	(13)
+nbc_0029	0	19	before	IN	(PP*	-	-	-	-	-
+nbc_0029	0	20	a	DT	(NP(NP*	-	-	-	-	-
+nbc_0029	0	21	pot	NN	(NML*	-	-	-	-	-
+nbc_0029	0	22	luck	NN	*)	-	-	-	-	-
+nbc_0029	0	23	Thanksgiving	NNP	*	-	-	-	-	-
+nbc_0029	0	24	meal	NN	*)	-	-	-	-	-
+nbc_0029	0	25	with	IN	(PP*	-	-	-	-	-
+nbc_0029	0	26	their	PRP$	(NP*	-	-	-	-	(8)
+nbc_0029	0	27	twin	NN	(NML(NML*	-	-	-	-	-
+nbc_0029	0	28	daughters	NNS	*)	-	-	-	-	-
+nbc_0029	0	29	and	CC	*	-	-	-	-	-
+nbc_0029	0	30	friends	NNS	(NML*))))))))	-	-	-	-	8)
+nbc_0029	0	31	.	.	*))	-	-	-	-	-
+
+nbc_0029	0	0	The	DT	(TOP(S(NP*	-	-	-	-	(4
+nbc_0029	0	1	Texas	NNP	*	-	-	-	-	(9)
+nbc_0029	0	2	governor	NN	*)	-	-	-	-	4)
+nbc_0029	0	3	makes	VBZ	(VP(VP*	make	01	15	-	-
+nbc_0029	0	4	time	NN	(NP(NP*)	time	-	3	-	-
+nbc_0029	0	5	for	IN	(PP*	-	-	-	-	-
+nbc_0029	0	6	recreation	NN	(NP*)))	recreation	-	1	-	-
+nbc_0029	0	7	with	IN	(PP*	-	-	-	-	-
+nbc_0029	0	8	a	DT	(NP*	-	-	-	-	-
+nbc_0029	0	9	morning	NN	*	morning	-	1	-	-
+nbc_0029	0	10	jog	NN	*)))	-	-	-	-	-
+nbc_0029	0	11	and	CC	*	-	-	-	-	-
+nbc_0029	0	12	prepares	VBZ	(VP*	prepare	02	2	-	-
+nbc_0029	0	13	for	IN	(PP*	-	-	-	-	-
+nbc_0029	0	14	some	DT	(NP(NP*	-	-	-	-	-
+nbc_0029	0	15	fishing	NN	*)	-	-	-	-	-
+nbc_0029	0	16	at	IN	(PP*	-	-	-	-	-
+nbc_0029	0	17	his	PRP$	(NP*	-	-	-	-	(4)
+nbc_0029	0	18	ranch	NN	*))	-	-	-	-	-
+nbc_0029	0	19	this	DT	(NP*	-	-	-	-	-
+nbc_0029	0	20	weekend	NN	*)))))	-	-	-	-	-
+nbc_0029	0	21	.	.	*))	-	-	-	-	-
+
+nbc_0029	0	0	The	DT	(TOP(S(FRAG(NP*	-	-	-	-	(18
+nbc_0029	0	1	Vice	NNP	*	-	-	-	-	-
+nbc_0029	0	2	President	NNP	*)	-	-	-	-	18)
+nbc_0029	0	3	out	IN	(PP*	-	-	-	-	-
+nbc_0029	0	4	of	IN	(PP*	-	-	-	-	-
+nbc_0029	0	5	sight	NN	(NP*)))	sight	-	3	-	-
+nbc_0029	0	6	today	NN	(NP*)	today	-	2	-	(13)
+nbc_0029	0	7	at	IN	(PP*	-	-	-	-	-
+nbc_0029	0	8	his	PRP$	(NP*	-	-	-	-	(18)
+nbc_0029	0	9	residence	NN	*)))	residence	-	1	-	-
+nbc_0029	0	10	,	,	*	-	-	-	-	-
+nbc_0029	0	11	aides	NNS	(FRAG(NP*)	-	-	-	-	-
+nbc_0029	0	12	saying	VBG	(VP*	say	01	1	-	-
+nbc_0029	0	13	the	DT	(SBAR(FRAG(NP*	-	-	-	-	-
+nbc_0029	0	14	entire	JJ	*	-	-	-	-	-
+nbc_0029	0	15	family	NN	*)	family	-	1	-	-
+nbc_0029	0	16	together	RB	(ADVP*)	-	-	-	-	-
+nbc_0029	0	17	for	IN	(PP*	-	-	-	-	-
+nbc_0029	0	18	a	DT	(NP(NP*	-	-	-	-	-
+nbc_0029	0	19	meal	NN	*)	-	-	-	-	-
+nbc_0029	0	20	and	CC	*	-	-	-	-	-
+nbc_0029	0	21	football	NN	(NP(NP*)	-	-	-	-	-
+nbc_0029	0	22	on	IN	(PP*	-	-	-	-	-
+nbc_0029	0	23	TV	NN	(NP*)))))))))	tv	-	1	-	-
+nbc_0029	0	24	.	.	*))	-	-	-	-	-
+
+nbc_0029	0	0	While	IN	(TOP(FRAG(SBAR*	-	-	-	-	-
+nbc_0029	0	1	the	DT	(S(NP*	-	-	-	-	-
+nbc_0029	0	2	Gore	NNP	*	-	-	-	-	(18)
+nbc_0029	0	3	menu	NN	*)	-	-	-	-	-
+nbc_0029	0	4	remains	VBZ	(VP*	remain	01	1	-	-
+nbc_0029	0	5	a	DT	(NP*	-	-	-	-	-
+nbc_0029	0	6	family	NN	*	-	-	-	-	-
+nbc_0029	0	7	secret	NN	*))))	-	-	-	-	-
+nbc_0029	0	8	,	,	*	-	-	-	-	-
+nbc_0029	0	9	the	DT	(NP*	-	-	-	-	-
+nbc_0029	0	10	Bush	NNP	*	-	-	-	-	(4)
+nbc_0029	0	11	clan	NN	*)	-	-	-	-	-
+nbc_0029	0	12	all	RB	(ADJP*	-	-	-	-	-
+nbc_0029	0	13	to	RB	*	-	-	-	-	-
+nbc_0029	0	14	happy	JJ	*	-	-	-	-	-
+nbc_0029	0	15	to	TO	(S(VP*	-	-	-	-	-
+nbc_0029	0	16	share	VB	(VP*	share	01	3	-	-
+nbc_0029	0	17	some	DT	(NP(NP*)	-	-	-	-	-
+nbc_0029	0	18	of	IN	(PP*	-	-	-	-	-
+nbc_0029	0	19	his	PRP$	(NP(NP*	-	-	-	-	(4)
+nbc_0029	0	20	favorite	JJ	*	-	-	-	-	-
+nbc_0029	0	21	fare	NN	*)	fare	-	3	-	-
+nbc_0029	0	22	--	:	*	-	-	-	-	-
+nbc_0029	0	23	jalapeno	NN	(NP(NP*	-	-	-	-	-
+nbc_0029	0	24	pecan	NN	*	-	-	-	-	-
+nbc_0029	0	25	cornbread	NN	*	-	-	-	-	-
+nbc_0029	0	26	stuffing	NN	*)	-	-	-	-	-
+nbc_0029	0	27	and	CC	*	-	-	-	-	-
+nbc_0029	0	28	coconut	NN	(NP*	-	-	-	-	-
+nbc_0029	0	29	cake	NN	*)))))))))	cake	-	3	-	-
+nbc_0029	0	30	.	.	*))	-	-	-	-	-
+
+nbc_0029	0	0	For	IN	(TOP(FRAG(PP*	-	-	-	-	-
+nbc_0029	0	1	vice	JJ	(NP(NML(ADJP*	-	-	-	-	(16
+nbc_0029	0	2	presidential	JJ	*)	-	-	-	-	-
+nbc_0029	0	3	candidate	NN	*)	-	-	-	-	-
+nbc_0029	0	4	Dick	NNP	*	-	-	-	-	-
+nbc_0029	0	5	Cheney	NNP	*))	-	-	-	-	16)
+nbc_0029	0	6	,	,	*	-	-	-	-	-
+nbc_0029	0	7	turkey	NN	(NP*)	-	-	-	-	-
+nbc_0029	0	8	in	IN	(PP*	-	-	-	-	-
+nbc_0029	0	9	the	DT	(NP*	-	-	-	-	-
+nbc_0029	0	10	hospital	NN	*))	-	-	-	-	-
+nbc_0029	0	11	with	IN	(PP*	-	-	-	-	-
+nbc_0029	0	12	his	PRP$	(NP*	-	-	-	-	(16)
+nbc_0029	0	13	wife	NN	*	-	-	-	-	-
+nbc_0029	0	14	and	CC	*	-	-	-	-	-
+nbc_0029	0	15	daughter	NN	*))	-	-	-	-	-
+nbc_0029	0	16	this	DT	(NP*	-	-	-	-	-
+nbc_0029	0	17	afternoon	NN	*)	-	-	-	-	-
+nbc_0029	0	18	.	.	*))	-	-	-	-	-
+
+nbc_0029	0	0	After	IN	(TOP(S(PP*	-	-	-	-	-
+nbc_0029	0	1	suffering	VBG	(S(VP*	suffer	01	1	-	-
+nbc_0029	0	2	a	DT	(NP(NP*	-	-	-	-	(14
+nbc_0029	0	3	mild	JJ	*	-	-	-	-	-
+nbc_0029	0	4	heart	NN	*	heart	-	2	-	-
+nbc_0029	0	5	attack	NN	*))	-	-	-	-	14)
+nbc_0029	0	6	yesterday	NN	(NP*)	yesterday	-	1	-	-
+nbc_0029	0	7	,	,	*	-	-	-	-	-
+nbc_0029	0	8	his	PRP$	(NP*	-	-	-	-	(14|(16)
+nbc_0029	0	9	fourth	JJ	*))))	-	-	-	-	14)
+nbc_0029	0	10	,	,	*	-	-	-	-	-
+nbc_0029	0	11	doctors	NNS	(NP*)	-	-	-	-	-
+nbc_0029	0	12	say	VBP	(VP*	say	01	1	-	-
+nbc_0029	0	13	today	NN	(SBAR(S(NP*)	today	-	2	-	(13)
+nbc_0029	0	14	he	PRP	(NP*)	-	-	-	-	(16)
+nbc_0029	0	15	's	VBZ	(VP*	-	-	-	-	-
+nbc_0029	0	16	recovering	VBG	(VP*	recover	01	2	-	-
+nbc_0029	0	17	well	RB	(ADVP*))))))	-	-	-	-	-
+nbc_0029	0	18	.	.	*))	-	-	-	-	-
+
+nbc_0029	0	0	Cheney	NNP	(TOP(S(S(NP*)	-	-	-	-	*	*
+nbc_0029	0	1	gets	VBZ	(VP(VP*	get	01	6	-	*	*
+nbc_0029	0	2	a	DT	(NP(NP*	-	-	-	-	*	*
+nbc_0029	0	3	checkup	NN	*	-	-	-	-	*	*
+nbc_0029	0	4	call	NN	*)	call	-	4	-	*	*
+nbc_0029	0	5	from	IN	(PP*	-	-	-	-	*	*
+nbc_0029	0	6	Governor	NNP	(NP*	-	-	-	-	*	*
+nbc_0029	0	7	Bush	NNP	*))))	-	-	-	-	*	*
+nbc_0029	0	8	and	CC	*	-	-	-	-	*	*
+nbc_0029	0	9	still	RB	(ADVP*)	-	-	-	-	*	*
+nbc_0029	0	10	expects	VBZ	(VP*	expect	01	1	-	*	*
+nbc_0029	0	11	to	TO	(S(VP*	-	-	-	-	*	*
+nbc_0029	0	12	be	VB	(VP*	be	03	-	-	*	*
+nbc_0029	0	13	released	VBN	(VP*	release	01	1	-	*	*
+nbc_0029	0	14	as	RB	(ADVP(ADVP*	-	-	-	-	*	*
+nbc_0029	0	15	early	RB	*)	-	-	-	-	*	*
+nbc_0029	0	16	as	IN	(PP*	-	-	-	-	*	*
+nbc_0029	0	17	tomorrow	NN	(NP*))))))))))	-	-	-	-	*	*
+nbc_0029	0	18	,	,	*	-	-	-	-	*	*
+nbc_0029	0	19	and	CC	*	-	-	-	-	*	*
+nbc_0029	0	20	today	NN	(S(NP*)	today	-	2	-	*	*
+nbc_0029	0	21	,	,	*	-	-	-	-	*	*
+nbc_0029	0	22	President	NNP	(NP*	-	-	-	-	*	*
+nbc_0029	0	23	Clinton	NNP	*)	-	-	-	-	*	*
+nbc_0029	0	24	cautiously	RB	(ADVP*)	-	-	-	-	*	*
+nbc_0029	0	25	speaks	VBZ	(VP*	speak	03	5	-	*	*
+nbc_0029	0	26	out	RP	(PRT*)	-	-	-	-	*	*
+nbc_0029	0	27	about	IN	(PP*	-	-	-	-	*	*
+nbc_0029	0	28	the	DT	(NP*	-	-	-	-	*	*
+nbc_0029	0	29	Florida	NNP	(NML*	-	-	-	-	*	*
+nbc_0029	0	30	vote	NN	*)	vote	-	1	-	*	*
+nbc_0029	0	31	fight	NN	*))	fight	01	2	-	*	*
+nbc_0029	0	32	,	,	*	-	-	-	-	*	*
+nbc_0029	0	33	saying	VBG	(S(VP*	say	01	1	-	*	*
+nbc_0029	0	34	everyone	NN	(SBAR(S(NP*)	-	-	-	-	*	*
+nbc_0029	0	35	should	MD	(VP*	-	-	-	-	*	*
+nbc_0029	0	36	,	,	*	-	-	-	-	*	*
+nbc_0029	0	37	``	``	*	-	-	-	-	*	*
+nbc_0029	0	38	let	VB	(VP*	let	01	1	-	*	*
+nbc_0029	0	39	the	DT	(S(NP*	-	-	-	-	(ARG1*	(ARG1*
+nbc_0029	0	40	process	NN	*)	process	01	1	-	*)	*)
+nbc_0029	0	41	play	VB	(VP*	play	03	12.8	-	(V*)	(V*)
+nbc_0029	0	42	out	RP	(PRT*)))))))))))	-	-	-	-	*	*
+nbc_0029	0	43	.	.	*	-	-	-	-	*	*
+nbc_0029	0	44	''	''	*))	-	-	-	-	*	*
+
+nbc_0029	0	0	I	PRP	(TOP(S(NP*)	-	-	-	-	(15)
+nbc_0029	0	1	want	VBP	(VP*	want	01	1	-	-
+nbc_0029	0	2	everybody	NN	(S(NP(NP*)	-	-	-	-	(17
+nbc_0029	0	3	who	WP	(SBAR(WHNP*)	-	-	-	-	-
+nbc_0029	0	4	tried	VBD	(S(VP*	try	01	1	-	-
+nbc_0029	0	5	to	TO	(S(VP*	-	-	-	-	-
+nbc_0029	0	6	vote	VB	(VP*))))))	vote	01	1	-	-
+nbc_0029	0	7	who	WP	(SBAR(WHNP*)	-	-	-	-	-
+nbc_0029	0	8	legally	RB	(S(ADVP*)	-	-	-	-	-
+nbc_0029	0	9	voted	VBD	(VP*))))	vote	01	1	-	17)
+nbc_0029	0	10	to	TO	(VP*	-	-	-	-	-
+nbc_0029	0	11	have	VB	(VP*	have	04	6	-	-
+nbc_0029	0	12	their	PRP$	(S(NP*	-	-	-	-	(17)
+nbc_0029	0	13	vote	NN	*)	vote	01	1	-	-
+nbc_0029	0	14	count	VB	(VP*))))	count	02	2	-	-
+nbc_0029	0	15	,	,	*	-	-	-	-	-
+nbc_0029	0	16	including	VBG	(PP*	include	01	1	-	-
+nbc_0029	0	17	service	NN	(NP*	service	-	6	-	-
+nbc_0029	0	18	people	NNS	*))))	people	-	1	-	-
+nbc_0029	0	19	.	.	*))	-	-	-	-	-
+
+nbc_0029	0	0	Everybody	NN	(TOP(NP*	-	-	-	-	(17
+nbc_0029	0	1	.	.	*))	-	-	-	-	17)
+
+nbc_0029	0	0	Tonight	NN	(TOP(S(NP*)	-	-	-	-	(3)
+nbc_0029	0	1	for	IN	(PP*	-	-	-	-	-
+nbc_0029	0	2	both	CC	(NP*	-	-	-	-	-
+nbc_0029	0	3	George	NNP	(NP(NP*	-	-	-	-	(4|(12
+nbc_0029	0	4	Bush	NNP	*)	-	-	-	-	4)
+nbc_0029	0	5	and	CC	*	-	-	-	-	-
+nbc_0029	0	6	Al	NNP	(NP*	-	-	-	-	(18
+nbc_0029	0	7	Gore	NNP	*))	-	-	-	-	18)|12)
+nbc_0029	0	8	and	CC	*	-	-	-	-	-
+nbc_0029	0	9	their	PRP$	(NP(NP*	-	-	-	-	(12)
+nbc_0029	0	10	war	NN	*	war	-	1	-	-
+nbc_0029	0	11	rooms	NNS	*)	room	-	1	-	-
+nbc_0029	0	12	all	DT	(NP*	-	-	-	-	-
+nbc_0029	0	13	their	PRP$	*	-	-	-	-	(12)
+nbc_0029	0	14	advisers	NNS	*))))	-	-	-	-	-
+nbc_0029	0	15	,	,	*	-	-	-	-	-
+nbc_0029	0	16	this	DT	(NP*)	-	-	-	-	-
+nbc_0029	0	17	really	RB	(ADVP*)	-	-	-	-	-
+nbc_0029	0	18	comes	VBZ	(VP*	come	01	11	-	-
+nbc_0029	0	19	down	RP	(PRT*)	-	-	-	-	-
+nbc_0029	0	20	to	IN	(PP*	-	-	-	-	-
+nbc_0029	0	21	a	DT	(NP*	-	-	-	-	-
+nbc_0029	0	22	numbers	NNS	*	number	-	5	-	-
+nbc_0029	0	23	game	NN	*)))	game	-	6	-	-
+nbc_0029	0	24	.	.	*))	-	-	-	-	-
+
+nbc_0029	0	0	Everybody	NN	(TOP(FRAG(NP*)	-	-	-	-	-
+nbc_0029	0	1	keeping	VBG	(VP*	keep	02	8.12	-	-
+nbc_0029	0	2	a	DT	(NP*	-	-	-	-	-
+nbc_0029	0	3	sharp	JJ	*	-	-	-	-	-
+nbc_0029	0	4	eye	NN	*)	eye	-	1	-	-
+nbc_0029	0	5	on	IN	(PP(PP*	-	-	-	-	-
+nbc_0029	0	6	these	DT	(NP*	-	-	-	-	-
+nbc_0029	0	7	recount	NN	*	-	-	-	-	-
+nbc_0029	0	8	tallies	NNS	*))	-	-	-	-	-
+nbc_0029	0	9	and	CC	*	-	-	-	-	-
+nbc_0029	0	10	on	IN	(PP*	-	-	-	-	-
+nbc_0029	0	11	Sunday	NNP	(NP(NP(NP*	-	-	-	-	-
+nbc_0029	0	12	's	POS	*)	-	-	-	-	-
+nbc_0029	0	13	deadline	NN	*)	-	-	-	-	-
+nbc_0029	0	14	at	IN	(PP*	-	-	-	-	-
+nbc_0029	0	15	5:00	CD	(NP*	-	-	-	-	-
+nbc_0029	0	16	p.m.	NN	*))))))	-	-	-	-	-
+nbc_0029	0	17	.	.	*))	-	-	-	-	-
+
+nbc_0029	0	0	John	NNP	(TOP(NP*	-	-	-	-	(11
+nbc_0029	0	1	?	.	*))	-	-	-	-	11)
+
+nbc_0029	0	0	NBC	NNP	(TOP(FRAG(NP(NP*	-	-	-	-	(6|(10
+nbc_0029	0	1	's	POS	*)	-	-	-	-	6)
+nbc_0029	0	2	David	NNP	*	-	-	-	-	-
+nbc_0029	0	3	Gregory	NNP	*)	-	-	-	-	10)
+nbc_0029	0	4	in	IN	(PP*	-	-	-	-	-
+nbc_0029	0	5	Austin	NNP	(NP*))	-	-	-	-	(2)
+nbc_0029	0	6	.	.	*))	-	-	-	-	-
+
+nbc_0029	0	0	David	NNP	(TOP(S(NP*)	-	-	-	-	(10)
+nbc_0029	0	1	,	,	*	-	-	-	-	-
+nbc_0029	0	2	thank	VBP	(VP*	thank	01	1	-	-
+nbc_0029	0	3	you	PRP	(NP*))	-	-	-	-	(10)
+nbc_0029	0	4	.	.	*))	-	-	-	-	-
+
+nbc_0029	0	0	Up	RB	(TOP(X(ADVP*)	-	-	-	-	-
+nbc_0029	0	1	next	RB	(ADVP*)	-	-	-	-	-
+nbc_0029	0	2	,	,	*	-	-	-	-	-
+nbc_0029	0	3	from	IN	(PP*	-	-	-	-	-
+nbc_0029	0	4	recounts	NNS	(NP*)	-	-	-	-	-
+nbc_0029	0	5	to	IN	(PP*))	-	-	-	-	-
+nbc_0029	0	6	--	.	*))	-	-	-	-	-
+
+#end document

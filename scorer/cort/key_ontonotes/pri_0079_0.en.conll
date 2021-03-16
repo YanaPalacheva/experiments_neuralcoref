@@ -1,0 +1,926 @@
+#begin document (pri_0079_0); part 000
+pri_0079	0	0	This	DT	(TOP(S(NP*)	-	-	-	-	-
+pri_0079	0	1	is	VBZ	(VP*	be	01	1	-	-
+pri_0079	0	2	The	DT	(NP*	-	-	-	-	(4
+pri_0079	0	3	World	NNP	*))	-	-	-	-	4)
+pri_0079	0	4	.	.	*))	-	-	-	-	-
+
+pri_0079	0	0	I	PRP	(TOP(S(NP*)	-	-	-	-	(12)
+pri_0079	0	1	am	VBP	(VP*	be	01	1	-	-
+pri_0079	0	2	Tony	NNP	(NP*	-	-	-	-	-
+pri_0079	0	3	Kahn	NNP	*))	-	-	-	-	-
+pri_0079	0	4	.	.	*))	-	-	-	-	-
+
+pri_0079	0	0	Gao	NNP	(TOP(S(S(NP*	-	-	-	-	(8
+pri_0079	0	1	Xingjian	NNP	*)	-	-	-	-	8)
+pri_0079	0	2	arrived	VBD	(VP*	arrive	01	1	-	-
+pri_0079	0	3	in	IN	(PP*	-	-	-	-	-
+pri_0079	0	4	Stockholm	NNP	(NP*))	-	-	-	-	-
+pri_0079	0	5	this	DT	(NP*	-	-	-	-	(9
+pri_0079	0	6	week	NN	*)))	-	-	-	-	9)
+pri_0079	0	7	and	CC	*	-	-	-	-	-
+pri_0079	0	8	when	WRB	(S(SBAR(WHADVP*)	-	-	-	-	-
+pri_0079	0	9	he	PRP	(S(NP*)	-	-	-	-	(8)
+pri_0079	0	10	leaves	VBZ	(VP*)))	leave	01	1	-	-
+pri_0079	0	11	the	DT	(NP*	-	-	-	-	(8
+pri_0079	0	12	Chinese	JJ	(ADJP*	-	-	-	-	-
+pri_0079	0	13	born	VBN	*)	bear	02	-	-	-
+pri_0079	0	14	writer	NN	*)	-	-	-	-	8)
+pri_0079	0	15	will	MD	(VP*	-	-	-	-	-
+pri_0079	0	16	have	VB	(VP*	have	03	1	-	-
+pri_0079	0	17	something	NN	(NP(NP(NP(NP*)	something	-	3	-	(10
+pri_0079	0	18	extra	JJ	(ADJP*))	-	-	-	-	-
+pri_0079	0	19	in	IN	(PP*	-	-	-	-	-
+pri_0079	0	20	his	PRP$	(NP*	-	-	-	-	(8)
+pri_0079	0	21	suitcase	NN	*)))	-	-	-	-	-
+pri_0079	0	22	,	,	*	-	-	-	-	-
+pri_0079	0	23	the	DT	(NP(NP*	-	-	-	-	-
+pri_0079	0	24	Nobel	NNP	*	-	-	-	-	-
+pri_0079	0	25	Prize	NNP	*)	-	-	-	-	-
+pri_0079	0	26	for	IN	(PP*	-	-	-	-	-
+pri_0079	0	27	Literature	NNP	(NP*)))))))	-	-	-	-	10)
+pri_0079	0	28	.	.	*))	-	-	-	-	-
+
+pri_0079	0	0	Today	NN	(TOP(S(S(NP*)	today	-	2	-	(11)
+pri_0079	0	1	Gao	NNP	(NP(NP*)	-	-	-	-	(8
+pri_0079	0	2	,	,	*	-	-	-	-	-
+pri_0079	0	3	who	WP	(SBAR(WHNP*)	-	-	-	-	-
+pri_0079	0	4	now	RB	(S(ADVP*)	-	-	-	-	-
+pri_0079	0	5	lives	VBZ	(VP*	live	01	2	-	-
+pri_0079	0	6	in	IN	(PP*	-	-	-	-	-
+pri_0079	0	7	France	NNP	(NP*))))))	-	-	-	-	8)
+pri_0079	0	8	,	,	*	-	-	-	-	-
+pri_0079	0	9	gave	VBD	(VP*	give	01	7	-	-
+pri_0079	0	10	the	DT	(NP*	-	-	-	-	-
+pri_0079	0	11	traditional	JJ	*	-	-	-	-	-
+pri_0079	0	12	Nobel	NNP	*	-	-	-	-	-
+pri_0079	0	13	lecture	NN	*)	-	-	-	-	-
+pri_0079	0	14	as	IN	(PP*	-	-	-	-	-
+pri_0079	0	15	part	NN	(NP(NP*)	part	-	1	-	-
+pri_0079	0	16	of	IN	(PP*	-	-	-	-	-
+pri_0079	0	17	the	DT	(NP(NP*	-	-	-	-	-
+pri_0079	0	18	festivities	NNS	*)	-	-	-	-	-
+pri_0079	0	19	leading	VBG	(VP*	lead	03	1	-	-
+pri_0079	0	20	up	IN	(PP*	-	-	-	-	-
+pri_0079	0	21	to	IN	(PP*	-	-	-	-	-
+pri_0079	0	22	Sunday	NNP	(NP(NP*	-	-	-	-	(19
+pri_0079	0	23	's	POS	*)	-	-	-	-	19)
+pri_0079	0	24	ceremony	NN	*))))))))))	ceremony	-	1	-	-
+pri_0079	0	25	,	,	*	-	-	-	-	-
+pri_0079	0	26	and	CC	*	-	-	-	-	-
+pri_0079	0	27	on	IN	(S(PP*	-	-	-	-	-
+pri_0079	0	28	the	DT	(NP*	-	-	-	-	(19
+pri_0079	0	29	same	JJ	*	-	-	-	-	-
+pri_0079	0	30	day	NN	*))	day	-	3	-	19)
+pri_0079	0	31	he	PRP	(NP*)	-	-	-	-	(8)
+pri_0079	0	32	collects	VBZ	(VP*	collect	01	2	-	-
+pri_0079	0	33	the	DT	(NP*	-	-	-	-	(10
+pri_0079	0	34	prize	NN	*)))	-	-	-	-	10)
+pri_0079	0	35	.	.	*))	-	-	-	-	-
+
+pri_0079	0	0	Gao	NNP	(TOP(S(NP(NP(NP*	-	-	-	-	(0|(8
+pri_0079	0	1	's	POS	*)	-	-	-	-	8)
+pri_0079	0	2	1989	CD	*	-	-	-	-	-
+pri_0079	0	3	novel	NN	*)	-	-	-	-	-
+pri_0079	0	4	`	''	(NP*	-	-	-	-	-
+pri_0079	0	5	Soul	NNP	*	-	-	-	-	-
+pri_0079	0	6	Mountain	NNP	*	-	-	-	-	-
+pri_0079	0	7	'	''	*))	-	-	-	-	0)
+pri_0079	0	8	will	MD	(VP*	-	-	-	-	-
+pri_0079	0	9	be	VB	(VP*	be	03	-	-	-
+pri_0079	0	10	published	VBN	(VP*	publish	01	1	-	-
+pri_0079	0	11	for	IN	(PP*	-	-	-	-	-
+pri_0079	0	12	the	DT	(NP*	-	-	-	-	-
+pri_0079	0	13	first	JJ	*	-	-	-	-	-
+pri_0079	0	14	time	NN	*))	time	-	1	-	-
+pri_0079	0	15	in	IN	(PP*	-	-	-	-	-
+pri_0079	0	16	America	NNP	(NP*)))))	-	-	-	-	(16)
+pri_0079	0	17	.	.	*))	-	-	-	-	-
+
+pri_0079	0	0	If	IN	(TOP(S(SBAR*	-	-	-	-	-
+pri_0079	0	1	you	PRP	(S(NP*)	-	-	-	-	-
+pri_0079	0	2	want	VBP	(VP*	want	01	1	-	-
+pri_0079	0	3	to	TO	(S(VP*	-	-	-	-	-
+pri_0079	0	4	know	VB	(VP*	know	01	2	-	-
+pri_0079	0	5	what	WP	(SBAR(WHNP*)	-	-	-	-	-
+pri_0079	0	6	Gao	NNP	(S(NP*	-	-	-	-	(8
+pri_0079	0	7	Xingjian	NNP	*)	-	-	-	-	8)
+pri_0079	0	8	is	VBZ	(VP*	be	01	1	-	-
+pri_0079	0	9	all	RB	(PP(ADVP*)	-	-	-	-	-
+pri_0079	0	10	about	IN	*)	-	-	-	-	-
+pri_0079	0	11	,	,	*	-	-	-	-	-
+pri_0079	0	12	as	IN	(PP(PP*	-	-	-	-	-
+pri_0079	0	13	a	DT	(NP*	-	-	-	-	-
+pri_0079	0	14	thinker	NN	*))	-	-	-	-	-
+pri_0079	0	15	and	CC	*	-	-	-	-	-
+pri_0079	0	16	as	IN	(PP*	-	-	-	-	-
+pri_0079	0	17	an	DT	(NP*	-	-	-	-	-
+pri_0079	0	18	artist	NN	*))))))))))))	-	-	-	-	-
+pri_0079	0	19	,	,	*	-	-	-	-	-
+pri_0079	0	20	our	PRP$	(NP(NP*	-	-	-	-	(2|(4)
+pri_0079	0	21	international	JJ	*	-	-	-	-	-
+pri_0079	0	22	book	NN	*	book	-	1	-	-
+pri_0079	0	23	critic	NN	*)	critic	-	1	-	-
+pri_0079	0	24	Christopher	NNP	(NP*	-	-	-	-	-
+pri_0079	0	25	Meryl	NNP	*))	-	-	-	-	2)
+pri_0079	0	26	says	VBZ	(VP*	say	01	1	-	-
+pri_0079	0	27	Gao	NNP	(SBAR(S(NP(NP*	-	-	-	-	(0|(8
+pri_0079	0	28	's	POS	*)	-	-	-	-	8)
+pri_0079	0	29	masterpiece	NN	*)	-	-	-	-	0)
+pri_0079	0	30	is	VBZ	(VP*	be	01	1	-	-
+pri_0079	0	31	an	DT	(NP*	-	-	-	-	-
+pri_0079	0	32	ideal	JJ	*	-	-	-	-	-
+pri_0079	0	33	starting	NN	*	-	-	-	-	-
+pri_0079	0	34	point	NN	*)))))	point	-	2	-	-
+pri_0079	0	35	.	.	*))	-	-	-	-	-
+
+pri_0079	0	0	His	PRP$	(TOP(S(S(NP*	-	-	-	-	(8)
+pri_0079	0	1	politics	NNS	*)	-	-	-	-	-
+pri_0079	0	2	are	VBP	(VP*	be	03	-	-	-
+pri_0079	0	3	embedded	VBN	(VP*	embed	01	1	-	-
+pri_0079	0	4	in	IN	(PP*	-	-	-	-	-
+pri_0079	0	5	his	PRP$	(NP*	-	-	-	-	(6|(8)
+pri_0079	0	6	writing	NN	*)))))	writing	-	2	-	6)
+pri_0079	0	7	and	CC	*	-	-	-	-	-
+pri_0079	0	8	his	PRP$	(S(NP*	-	-	-	-	(6|(8)
+pri_0079	0	9	writing	NN	*)	writing	-	2	-	6)
+pri_0079	0	10	is	VBZ	(VP*	be	01	1	-	-
+pri_0079	0	11	first	RB	(ADVP*	-	-	-	-	-
+pri_0079	0	12	and	CC	*	-	-	-	-	-
+pri_0079	0	13	foremost	RB	*)	-	-	-	-	-
+pri_0079	0	14	a	DT	(NP(NP*	-	-	-	-	-
+pri_0079	0	15	celebration	NN	*)	celebration	01	1	-	-
+pri_0079	0	16	of	IN	(PP*	-	-	-	-	-
+pri_0079	0	17	freedom	NN	(NP*)))))	freedom	-	1	-	-
+pri_0079	0	18	.	.	*))	-	-	-	-	-
+
+pri_0079	0	0	This	DT	(TOP(S(NP(NP(NP*	-	-	-	-	(0
+pri_0079	0	1	novel	JJ	*)	-	-	-	-	-
+pri_0079	0	2	`	''	(NP*	-	-	-	-	-
+pri_0079	0	3	soul	NN	*	-	-	-	-	-
+pri_0079	0	4	mountain	NN	*	-	-	-	-	-
+pri_0079	0	5	'	''	*))	-	-	-	-	-
+pri_0079	0	6	,	,	*	-	-	-	-	-
+pri_0079	0	7	which	WDT	(SBAR(WHNP*)	-	-	-	-	-
+pri_0079	0	8	is	VBZ	(S(VP*	be	03	-	-	-
+pri_0079	0	9	just	RB	(ADVP*)	-	-	-	-	-
+pri_0079	0	10	being	VBG	(VP*	be	03	-	-	-
+pri_0079	0	11	released	VBN	(VP*	release	01	2	-	-
+pri_0079	0	12	in	IN	(PP*	-	-	-	-	-
+pri_0079	0	13	the	DT	(NP*	-	-	-	-	(16
+pri_0079	0	14	United	NNP	*	-	-	-	-	-
+pri_0079	0	15	States	NNP	*))	-	-	-	-	16)
+pri_0079	0	16	this	DT	(NP*	-	-	-	-	(9
+pri_0079	0	17	week	NN	*)))))))	-	-	-	-	9)|0)
+pri_0079	0	18	is	VBZ	(VP*	be	01	1	-	-
+pri_0079	0	19	in	IN	(PP*	-	-	-	-	-
+pri_0079	0	20	every	DT	(NP*	-	-	-	-	-
+pri_0079	0	21	possible	JJ	*	-	-	-	-	-
+pri_0079	0	22	way	NN	*))	way	-	2	-	-
+pri_0079	0	23	a	DT	(NP(NP*	-	-	-	-	-
+pri_0079	0	24	celebration	NN	*)	celebration	01	1	-	-
+pri_0079	0	25	of	IN	(PP*	-	-	-	-	-
+pri_0079	0	26	what	WP	(SBAR(WHNP*)	-	-	-	-	-
+pri_0079	0	27	freedom	NN	(S(NP*)	freedom	-	1	-	-
+pri_0079	0	28	means	VBZ	(VP*))))))	mean	01	1	-	-
+pri_0079	0	29	.	.	*))	-	-	-	-	-
+
+pri_0079	0	0	It	PRP	(TOP(S(NP*)	-	-	-	-	(0)
+pri_0079	0	1	's	VBZ	(VP*	be	-	1	-	-
+pri_0079	0	2	a	DT	(NP(NP*	-	-	-	-	-
+pri_0079	0	3	large	JJ	*	-	-	-	-	-
+pri_0079	0	4	novel	NN	*)	-	-	-	-	-
+pri_0079	0	5	,	,	*	-	-	-	-	-
+pri_0079	0	6	full	JJ	(ADJP*	-	-	-	-	-
+pri_0079	0	7	of	IN	(PP*	-	-	-	-	-
+pri_0079	0	8	all	DT	(NP(NP*	-	-	-	-	-
+pri_0079	0	9	kinds	NNS	*)	-	-	-	-	-
+pri_0079	0	10	of	IN	(PP*	-	-	-	-	-
+pri_0079	0	11	ideas	NNS	(NP(NP*)	idea	-	2	-	-
+pri_0079	0	12	and	CC	*	-	-	-	-	-
+pri_0079	0	13	incidents	NNS	(NP*)	incident	-	1	-	-
+pri_0079	0	14	and	CC	*	-	-	-	-	-
+pri_0079	0	15	stories	NNS	(NP*)	story	-	2	-	-
+pri_0079	0	16	and	CC	*	-	-	-	-	-
+pri_0079	0	17	tales	NNS	(NP*)	-	-	-	-	-
+pri_0079	0	18	and	CC	*	-	-	-	-	-
+pri_0079	0	19	a	DT	(NP(NP*	-	-	-	-	-
+pri_0079	0	20	polyphony	NN	*)	-	-	-	-	-
+pri_0079	0	21	of	IN	(PP*	-	-	-	-	-
+pri_0079	0	22	voices	NNS	(NP*))))))))))	-	-	-	-	-
+pri_0079	0	23	.	.	*))	-	-	-	-	-
+
+pri_0079	0	0	It	PRP	(TOP(S(NP*)	-	-	-	-	(0)
+pri_0079	0	1	is	VBZ	(VP*	be	01	1	-	-
+pri_0079	0	2	,	,	*	-	-	-	-	-
+pri_0079	0	3	if	IN	(SBAR*	-	-	-	-	-
+pri_0079	0	4	you	PRP	(S(NP*)	-	-	-	-	-
+pri_0079	0	5	like	VBP	(VP*)))	like	01	1	-	-
+pri_0079	0	6	,	,	*	-	-	-	-	-
+pri_0079	0	7	the	DT	(NP(NP*	-	-	-	-	-
+pri_0079	0	8	whole	JJ	*	-	-	-	-	-
+pri_0079	0	9	world	NN	*)	world	-	4	-	-
+pri_0079	0	10	wrapped	VBN	(VP*	wrap	02	1	-	-
+pri_0079	0	11	up	RP	(PRT*)	-	-	-	-	-
+pri_0079	0	12	in	IN	(PP*	-	-	-	-	-
+pri_0079	0	13	500	CD	(NP*	-	-	-	-	-
+pri_0079	0	14	pages	NNS	*)))))	page	-	1	-	-
+pri_0079	0	15	.	.	*))	-	-	-	-	-
+
+pri_0079	0	0	It	PRP	(TOP(S(S(NP*)	-	-	-	-	(0)
+pri_0079	0	1	is	VBZ	(VP*	be	01	1	-	-
+pri_0079	0	2	the	DT	(NP(NP*	-	-	-	-	(1
+pri_0079	0	3	world	NN	*)	world	-	1	-	-
+pri_0079	0	4	at	IN	(PP*	-	-	-	-	-
+pri_0079	0	5	its	PRP$	(NP*	-	-	-	-	(1)
+pri_0079	0	6	most	RBS	(ADJP*	-	-	-	-	-
+pri_0079	0	7	carnival	NN	*	-	-	-	-	-
+pri_0079	0	8	-	HYPH	*	-	-	-	-	-
+pri_0079	0	9	like	JJ	*))))))	-	-	-	-	1)
+pri_0079	0	10	,	,	*	-	-	-	-	-
+pri_0079	0	11	and	CC	*	-	-	-	-	-
+pri_0079	0	12	yet	RB	(S(ADVP*)	-	-	-	-	-
+pri_0079	0	13	it	PRP	(NP*)	-	-	-	-	-
+pri_0079	0	14	is	VBZ	(VP*	be	01	1	-	-
+pri_0079	0	15	virtually	RB	(ADJP*	-	-	-	-	-
+pri_0079	0	16	impossible	JJ	*	-	-	-	-	-
+pri_0079	0	17	,	,	*	-	-	-	-	-
+pri_0079	0	18	is	VBZ	(PRN(SQ*	be	01	1	-	-
+pri_0079	0	19	n't	RB	*	-	-	-	-	-
+pri_0079	0	20	it	PRP	(NP*)))	-	-	-	-	-
+pri_0079	0	21	,	,	*	-	-	-	-	-
+pri_0079	0	22	for	IN	(SBAR*	-	-	-	-	-
+pri_0079	0	23	a	DT	(S(NP*	-	-	-	-	-
+pri_0079	0	24	Chinese	JJ	*	-	-	-	-	-
+pri_0079	0	25	artist	NN	*)	-	-	-	-	-
+pri_0079	0	26	to	TO	(VP(VP*	-	-	-	-	-
+pri_0079	0	27	do	VB	(VP*	do	02	1	-	-
+pri_0079	0	28	something	NN	(NP*)))	something	-	1	-	-
+pri_0079	0	29	or	CC	*	-	-	-	-	-
+pri_0079	0	30	to	TO	(VP*	-	-	-	-	-
+pri_0079	0	31	make	VB	(VP*	make	-	1	-	-
+pri_0079	0	32	a	DT	(NP*	-	-	-	-	(17
+pri_0079	0	33	statement	NN	*)))	statement	01	2	-	17)
+pri_0079	0	34	without	IN	(PP*	-	-	-	-	-
+pri_0079	0	35	its	PRP$	(S(NP*)	-	-	-	-	(17)
+pri_0079	0	36	having	VBG	(UCP(VP*	have	04	6	-	-
+pri_0079	0	37	some	DT	(NP(NP*	-	-	-	-	-
+pri_0079	0	38	kind	NN	*)	-	-	-	-	-
+pri_0079	0	39	of	IN	(PP*	-	-	-	-	-
+pri_0079	0	40	either	CC	*	-	-	-	-	-
+pri_0079	0	41	political	JJ	(NP*	-	-	-	-	-
+pri_0079	0	42	effect	NN	*))))	effect	-	2	-	-
+pri_0079	0	43	or	CC	*	-	-	-	-	-
+pri_0079	0	44	be	VB	(S(VP*	be	01	1	-	-
+pri_0079	0	45	political	JJ	(ADJP*	-	-	-	-	-
+pri_0079	0	46	in	IN	(PP*	-	-	-	-	-
+pri_0079	0	47	origin	NN	(NP*))))))))))))))	origin	01	1	-	-
+pri_0079	0	48	.	.	*))	-	-	-	-	-
+
+pri_0079	0	0	I	PRP	(TOP(SQ(PRN(S(NP*)	-	-	-	-	(12)
+pri_0079	0	1	mean	VBP	(VP*)))	mean	01	1	-	-
+pri_0079	0	2	this	DT	(S(NP*	-	-	-	-	(8
+pri_0079	0	3	man	NN	*)	man	-	2	-	8)
+pri_0079	0	4	took	VBD	(VP*	take	01	1	-	-
+pri_0079	0	5	the	DT	(NP(NP*	-	-	-	-	(15
+pri_0079	0	6	trip	NN	*)	trip	01	1	-	-
+pri_0079	0	7	on	IN	(SBAR(WHPP*	-	-	-	-	-
+pri_0079	0	8	which	WDT	(WHNP*))	-	-	-	-	-
+pri_0079	0	9	the	DT	(S(NP*	-	-	-	-	(0
+pri_0079	0	10	novel	NN	*)	-	-	-	-	0)
+pri_0079	0	11	was	VBD	(VP*	be	03	-	-	-
+pri_0079	0	12	based	VBN	(VP*	base	02	1	-	-
+pri_0079	0	13	for	IN	(PP*	-	-	-	-	-
+pri_0079	0	14	political	JJ	(NP*	-	-	-	-	-
+pri_0079	0	15	reasons	NNS	*)))))))))	reason	-	1	-	15)
+pri_0079	0	16	,	,	*	-	-	-	-	-
+pri_0079	0	17	did	VBD	(SQ*	do	01	1	-	-
+pri_0079	0	18	he	PRP	(NP*)	-	-	-	-	(8)
+pri_0079	0	19	not	RB	*)	-	-	-	-	-
+pri_0079	0	20	?	.	*))	-	-	-	-	-
+
+pri_0079	0	0	Certainly	RB	(TOP(ADVP*	-	-	-	-	-
+pri_0079	0	1	.	.	*))	-	-	-	-	-
+
+pri_0079	0	0	He	PRP	(TOP(S(NP*)	-	-	-	-	(8)
+pri_0079	0	1	is	VBZ	(VP*	be	03	-	-	-
+pri_0079	0	2	born	VBN	(VP*	bear	02	-	-	-
+pri_0079	0	3	in	IN	(PP*	-	-	-	-	-
+pri_0079	0	4	1940	CD	(NP*))))	-	-	-	-	-
+pri_0079	0	5	.	.	*))	-	-	-	-	-
+
+pri_0079	0	0	He	PRP	(TOP(S(NP*)	-	-	-	-	(8)
+pri_0079	0	1	is	VBZ	(VP*	be	01	1	-	-
+pri_0079	0	2	a	DT	(NP(NP*	-	-	-	-	-
+pri_0079	0	3	product	NN	*)	product	-	2	-	-
+pri_0079	0	4	of	IN	(PP*	-	-	-	-	-
+pri_0079	0	5	the	DT	(NP*	-	-	-	-	(13
+pri_0079	0	6	Cultural	NNP	*	-	-	-	-	-
+pri_0079	0	7	Revolution	NNP	*))))	-	-	-	-	13)
+pri_0079	0	8	.	.	*))	-	-	-	-	-
+
+pri_0079	0	0	In	IN	(TOP(S(S(PP*	-	-	-	-	*	*
+pri_0079	0	1	fact	NN	(NP*))	fact	-	5	-	*	*
+pri_0079	0	2	he	PRP	(NP*)	-	-	-	-	*	*
+pri_0079	0	3	had	VBD	(VP*	have	02	12	-	*	*
+pri_0079	0	4	to	TO	(S(VP*	-	-	-	-	*	*
+pri_0079	0	5	burn	VB	(VP*	burn	02	5	-	*	*
+pri_0079	0	6	up	RP	(PRT*)	-	-	-	-	*	*
+pri_0079	0	7	an	DT	(NP(NP*	-	-	-	-	*	*
+pri_0079	0	8	entire	JJ	*	-	-	-	-	*	*
+pri_0079	0	9	suitcase	NN	*)	-	-	-	-	*	*
+pri_0079	0	10	full	JJ	(ADJP*	-	-	-	-	*	*
+pri_0079	0	11	of	IN	(PP*	-	-	-	-	*	*
+pri_0079	0	12	hundreds	NNS	(NP(NP*)	-	-	-	-	*	*
+pri_0079	0	13	of	IN	(PP*	-	-	-	-	*	*
+pri_0079	0	14	poems	NNS	(NP*	-	-	-	-	*	*
+pri_0079	0	15	and	CC	*	-	-	-	-	*	*
+pri_0079	0	16	plays	NNS	*	play	-	1	-	*	*
+pri_0079	0	17	and	CC	*	-	-	-	-	*	*
+pri_0079	0	18	stories	NNS	*))))))	story	-	2	-	*	*
+pri_0079	0	19	at	IN	(PP*	-	-	-	-	*	*
+pri_0079	0	20	the	DT	(NP(NP*	-	-	-	-	*	*
+pri_0079	0	21	start	NN	*)	start	-	2	-	*	*
+pri_0079	0	22	of	IN	(PP*	-	-	-	-	*	*
+pri_0079	0	23	the	DT	(NP*	-	-	-	-	*	*
+pri_0079	0	24	Cultural	NNP	*	-	-	-	-	*	*
+pri_0079	0	25	Revolution	NNP	*))))	-	-	-	-	*	*
+pri_0079	0	26	in	IN	(PP*	-	-	-	-	*	*
+pri_0079	0	27	fear	NN	(NP(NP*)	fear	01	1	-	*	*
+pri_0079	0	28	of	IN	(PP*	-	-	-	-	*	*
+pri_0079	0	29	going	VBG	(S(VP*	go	02	1	-	*	*
+pri_0079	0	30	to	IN	(PP*	-	-	-	-	*	*
+pri_0079	0	31	prison	NN	(NP*))))))))))))	-	-	-	-	*	*
+pri_0079	0	32	,	,	*	-	-	-	-	*	*
+pri_0079	0	33	and	CC	*	-	-	-	-	*	*
+pri_0079	0	34	then	RB	(S(ADVP*)	-	-	-	-	*	*
+pri_0079	0	35	in	IN	(PP*	-	-	-	-	*	*
+pri_0079	0	36	1983	CD	(NP*))	-	-	-	-	*	*
+pri_0079	0	37	after	IN	(PP*	-	-	-	-	*	*
+pri_0079	0	38	being	VBG	(S(VP(VP*	be	03	-	-	*	*
+pri_0079	0	39	diagnosed	VBN	(VP*	diagnose	01	-	-	*	*
+pri_0079	0	40	with	IN	(PP*	-	-	-	-	*	*
+pri_0079	0	41	lung	NN	(NP(NP*	-	-	-	-	*	*
+pri_0079	0	42	cancer	NN	*)	cancer	-	1	-	*	*
+pri_0079	0	43	,	,	*	-	-	-	-	*	*
+pri_0079	0	44	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	*
+pri_0079	0	45	had	VBD	(S(VP*	have	01	-	-	*	*
+pri_0079	0	46	killed	VBN	(VP*	kill	01	1	-	*	*
+pri_0079	0	47	his	PRP$	(NP*	-	-	-	-	*	*
+pri_0079	0	48	father	NN	*)	-	-	-	-	*	*
+pri_0079	0	49	three	CD	(ADVP(NP*	-	-	-	-	*	*
+pri_0079	0	50	years	NNS	*)	-	-	-	-	*	*
+pri_0079	0	51	earlier	RBR	*)))))))))	-	-	-	-	*	*
+pri_0079	0	52	and	CC	*	-	-	-	-	*	*
+pri_0079	0	53	being	VBG	(VP*	be	01	-	-	*	*
+pri_0079	0	54	convinced	JJ	(ADJP*	-	-	-	-	*	*
+pri_0079	0	55	that	IN	(SBAR*	-	-	-	-	*	*
+pri_0079	0	56	he	PRP	(S(NP(NP*)	-	-	-	-	*	*
+pri_0079	0	57	himself	PRP	(NP*))	-	-	-	-	*	*
+pri_0079	0	58	was	VBD	(VP*	be	03	-	-	(V*)	(V*)
+pri_0079	0	59	going	VBG	(VP*	go	04	7	-	*	*
+pri_0079	0	60	to	TO	(S(VP*	-	-	-	-	*	*
+pri_0079	0	61	die	VB	(VP*))))))))))))	die	01	1	-	*	*
+pri_0079	0	62	,	,	*	-	-	-	-	*	*
+pri_0079	0	63	he	PRP	(NP*)	-	-	-	-	*	*
+pri_0079	0	64	gets	VBZ	(VP*	get	01	1	-	*	*
+pri_0079	0	65	a	DT	(NP(NP*	-	-	-	-	*	*
+pri_0079	0	66	kind	NN	*)	-	-	-	-	*	*
+pri_0079	0	67	of	IN	(PP*	-	-	-	-	*	*
+pri_0079	0	68	reprieve	NN	(NP*)))))	-	-	-	-	*	*
+pri_0079	0	69	.	.	*))	-	-	-	-	*	*
+
+pri_0079	0	0	He	PRP	(TOP(S(S(NP*)	-	-	-	-	*	*
+pri_0079	0	1	gets	VBZ	(VP(VP*	get	01	1	-	*	*
+pri_0079	0	2	a	DT	(NP*	-	-	-	-	*	*
+pri_0079	0	3	second	JJ	*	-	-	-	-	*	*
+pri_0079	0	4	chest	NN	*	-	-	-	-	*	*
+pri_0079	0	5	X-ray	NN	*))	-	-	-	-	*	*
+pri_0079	0	6	,	,	*	-	-	-	-	*	*
+pri_0079	0	7	discovers	VBZ	(VP*	discover	01	1	-	*	*
+pri_0079	0	8	that	IN	(SBAR*	-	-	-	-	*	*
+pri_0079	0	9	he	PRP	(S(NP*)	-	-	-	-	*	*
+pri_0079	0	10	does	VBZ	(VP*	do	01	-	-	*	*
+pri_0079	0	11	n't	RB	*	-	-	-	-	*	*
+pri_0079	0	12	have	VB	(VP*	have	03	2	-	*	*
+pri_0079	0	13	lung	NN	(NP*	-	-	-	-	*	*
+pri_0079	0	14	cancer	NN	*))))))	cancer	-	1	-	*	*
+pri_0079	0	15	,	,	*	-	-	-	-	*	*
+pri_0079	0	16	recognizes	VBZ	(VP*	recognize	01	2	-	*	*
+pri_0079	0	17	that	IN	(SBAR*	-	-	-	-	*	*
+pri_0079	0	18	by	IN	(SBAR(PP*	-	-	-	-	*	*
+pri_0079	0	19	virtue	NN	(NP(NP*)	-	-	-	-	*	*
+pri_0079	0	20	of	IN	(PP*	-	-	-	-	*	*
+pri_0079	0	21	the	DT	(NP(NP(NP*	-	-	-	-	*	*
+pri_0079	0	22	kinds	NNS	*)	-	-	-	-	*	*
+pri_0079	0	23	of	IN	(PP*	-	-	-	-	*	*
+pri_0079	0	24	things	NNS	(NP(NP*)	thing	-	1	-	*	*
+pri_0079	0	25	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	*
+pri_0079	0	26	he	PRP	(S(NP*)	-	-	-	-	*	*
+pri_0079	0	27	is	VBZ	(VP*	be	03	-	-	*	*
+pri_0079	0	28	writing	VBG	(VP*)))))))	write	01	1	-	*	*
+pri_0079	0	29	,	,	*	-	-	-	-	*	*
+pri_0079	0	30	his	PRP$	(NP(NP*	-	-	-	-	*	*
+pri_0079	0	31	openness	NN	*)	-	-	-	-	*	*
+pri_0079	0	32	to	IN	(PP*	-	-	-	-	*	*
+pri_0079	0	33	Western	JJ	(NP*	-	-	-	-	*	*
+pri_0079	0	34	literary	JJ	*	-	-	-	-	*	*
+pri_0079	0	35	ideas	NNS	*)))))))	idea	-	1	-	*	*
+pri_0079	0	36	,	,	*	-	-	-	-	*	*
+pri_0079	0	37	that	IN	*	-	-	-	-	*	*
+pri_0079	0	38	he	PRP	(S(NP*)	-	-	-	-	*	*
+pri_0079	0	39	is	VBZ	(VP*	be	01	1	-	*	*
+pri_0079	0	40	in	IN	(PP*	-	-	-	-	*	*
+pri_0079	0	41	political	JJ	(NP*	-	-	-	-	*	*
+pri_0079	0	42	trouble	NN	*))	trouble	-	4	-	*	*
+pri_0079	0	43	again	RB	(ADVP*))))))))	-	-	-	-	*	*
+pri_0079	0	44	,	,	*	-	-	-	-	*	*
+pri_0079	0	45	and	CC	*	-	-	-	-	*	*
+pri_0079	0	46	so	CC	*	-	-	-	-	*	*
+pri_0079	0	47	he	PRP	(S(NP*)	-	-	-	-	*	*
+pri_0079	0	48	sets	VBZ	(VP*	set	07	6	-	*	*
+pri_0079	0	49	out	RP	(PRT*)	-	-	-	-	*	*
+pri_0079	0	50	on	IN	(PP*	-	-	-	-	*	*
+pri_0079	0	51	an	DT	(NP(NP(NP*	-	-	-	-	(ARG1*	(ARG1*
+pri_0079	0	52	extraordinary	JJ	*	-	-	-	-	*	*
+pri_0079	0	53	odyssey	NN	*)	-	-	-	-	*	*
+pri_0079	0	54	of	IN	(PP*	-	-	-	-	*	*
+pri_0079	0	55	some	DT	(NP(QP*	-	-	-	-	*	*
+pri_0079	0	56	15,000	CD	*)	-	-	-	-	*	*
+pri_0079	0	57	kilometers	NNS	*))	-	-	-	-	*	*
+pri_0079	0	58	,	,	*	-	-	-	-	*	*
+pri_0079	0	59	mostly	RB	(PP(ADVP*)	-	-	-	-	*	*
+pri_0079	0	60	on	IN	*	-	-	-	-	*	*
+pri_0079	0	61	foot	NN	(NP*)))	foot	-	4	-	*)	*)
+pri_0079	0	62	,	,	*	-	-	-	-	*	*
+pri_0079	0	63	which	WDT	(SBAR(WHNP*)	-	-	-	-	(R-ARG1*)	(R-ARG1*)
+pri_0079	0	64	he	PRP	(S(NP*)	-	-	-	-	(ARG0*)	(ARG0*)
+pri_0079	0	65	takes	VBZ	(VP*	take	01	8	-	(V*)	(V*)
+pri_0079	0	66	through	IN	(PP*	-	-	-	-	(ARG2*	(ARG2*
+pri_0079	0	67	southwestern	JJ	(NP*	-	-	-	-	*	*
+pri_0079	0	68	China	NNP	*)))))))))	-	-	-	-	*)	*)
+pri_0079	0	69	.	.	*))	-	-	-	-	*	*
+
+pri_0079	0	0	He	PRP	(TOP(S(S(NP*)	-	-	-	-	(8)	(8)
+pri_0079	0	1	had	VBD	(VP*	have	01	-	-	-	-
+pri_0079	0	2	survived	VBN	(VP*	survive	01	1	-	-	-
+pri_0079	0	3	,	,	*	-	-	-	-	-	-
+pri_0079	0	4	if	IN	(SBAR*	-	-	-	-	-	-
+pri_0079	0	5	you	PRP	(S(NP*)	-	-	-	-	-	-
+pri_0079	0	6	will	MD	(VP*)))	-	-	-	-	-	-
+pri_0079	0	7	,	,	*	-	-	-	-	-	-
+pri_0079	0	8	a	DT	(NP*	-	-	-	-	-	-
+pri_0079	0	9	death	NN	*	-	-	-	-	-	-
+pri_0079	0	10	sentence	NN	*))))	sentence	01	2	-	-	-
+pri_0079	0	11	,	,	*	-	-	-	-	-	-
+pri_0079	0	12	and	CC	*	-	-	-	-	-	-
+pri_0079	0	13	now	RB	(S(ADVP*)	-	-	-	-	-	-
+pri_0079	0	14	in	IN	(PP*	-	-	-	-	-	-
+pri_0079	0	15	that	DT	(NP(NP*	-	-	-	-	-	-
+pri_0079	0	16	new	JJ	*	-	-	-	-	-	-
+pri_0079	0	17	freedom	NN	*)	freedom	-	1	-	-	-
+pri_0079	0	18	of	IN	(PP*	-	-	-	-	-	-
+pri_0079	0	19	the	DT	(NP(NP*	-	-	-	-	-	-
+pri_0079	0	20	life	NN	*)	life	-	2	-	-	-
+pri_0079	0	21	in	IN	(PP*	-	-	-	-	-	-
+pri_0079	0	22	front	NN	(NP(NP*)	front	-	1	-	-	-
+pri_0079	0	23	of	IN	(PP*	-	-	-	-	-	-
+pri_0079	0	24	him	PRP	(NP*))))))))	-	-	-	-	(8)	(8)
+pri_0079	0	25	,	,	*	-	-	-	-	-	-
+pri_0079	0	26	he	PRP	(NP*)	-	-	-	-	(8)	(8)
+pri_0079	0	27	takes	VBZ	(VP(VP*	take	01	8	-	-	-
+pri_0079	0	28	to	IN	(PP*	-	-	-	-	-	-
+pri_0079	0	29	the	DT	(NP*	-	-	-	-	-	-
+pri_0079	0	30	road	NN	*))	road	-	3	-	-	-
+pri_0079	0	31	in	IN	(PP*	-	-	-	-	-	-
+pri_0079	0	32	the	DT	(NP(NP*	-	-	-	-	-	-
+pri_0079	0	33	tradition	NN	*)	-	-	-	-	-	-
+pri_0079	0	34	of	IN	(PP*	-	-	-	-	-	-
+pri_0079	0	35	old	JJ	(NP*	-	-	-	-	-	-
+pri_0079	0	36	Chinese	JJ	*	-	-	-	-	-	-
+pri_0079	0	37	poets	NNS	*)))))	-	-	-	-	-	-
+pri_0079	0	38	and	CC	*	-	-	-	-	-	-
+pri_0079	0	39	records	VBZ	(VP*	record	01	1	-	-	-
+pri_0079	0	40	what	WP	(SBAR(SBAR(WHNP*)	-	-	-	-	-	-
+pri_0079	0	41	he	PRP	(S(NP*)	-	-	-	-	(8)	(8)
+pri_0079	0	42	sees	VBZ	(VP*)))	see	01	1	-	-	-
+pri_0079	0	43	,	,	*	-	-	-	-	-	-
+pri_0079	0	44	what	WP	(SBAR(WHNP*)	-	-	-	-	-	-
+pri_0079	0	45	he	PRP	(S(NP*)	-	-	-	-	(8)	(8)
+pri_0079	0	46	hears	VBZ	(VP*)))	hear	01	2	-	-	-
+pri_0079	0	47	,	,	*	-	-	-	-	-	-
+pri_0079	0	48	the	DT	(NP(NP*	-	-	-	-	-	-
+pri_0079	0	49	stories	NNS	*)	story	-	2	-	-	-
+pri_0079	0	50	that	WDT	(SBAR(WHNP*)	-	-	-	-	-	-
+pri_0079	0	51	he	PRP	(S(NP*)	-	-	-	-	(8)	(8)
+pri_0079	0	52	is	VBZ	(VP*	be	03	-	-	-	-
+pri_0079	0	53	told	VBN	(VP*)))))))))	tell	01	1	-	-	-
+pri_0079	0	54	.	.	*))	-	-	-	-	-	-
+
+pri_0079	0	0	The	DT	(TOP(S(S(NP*	-	-	-	-	*	*
+pri_0079	0	1	book	NN	*)	book	-	1	-	*	*
+pri_0079	0	2	is	VBZ	(VP*	be	03	-	-	*	*
+pri_0079	0	3	filled	VBN	(VP*	fill	01	-	-	*	*
+pri_0079	0	4	with	IN	(PP*	-	-	-	-	*	*
+pri_0079	0	5	marvelous	JJ	(NP(NP*	-	-	-	-	*	*
+pri_0079	0	6	descriptions	NNS	*)	-	-	-	-	*	*
+pri_0079	0	7	of	IN	(PP*	-	-	-	-	*	*
+pri_0079	0	8	the	DT	(NP(NP(NP*	-	-	-	-	*	*
+pri_0079	0	9	gorges	NNS	*)	-	-	-	-	*	*
+pri_0079	0	10	through	IN	(SBAR(WHPP*	-	-	-	-	*	*
+pri_0079	0	11	which	WDT	(WHNP*))	-	-	-	-	*	*
+pri_0079	0	12	he	PRP	(S(NP*)	-	-	-	-	*	*
+pri_0079	0	13	walks	VBZ	(VP*))))	walk	01	1	-	*	*
+pri_0079	0	14	,	,	*	-	-	-	-	*	*
+pri_0079	0	15	the	DT	(NP(NP*	-	-	-	-	*	*
+pri_0079	0	16	mountains	NNS	*)	-	-	-	-	*	*
+pri_0079	0	17	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	*
+pri_0079	0	18	he	PRP	(S(NP*)	-	-	-	-	*	*
+pri_0079	0	19	climbs	VBZ	(VP*)))))))))))	climb	01	1	-	*	*
+pri_0079	0	20	,	,	*	-	-	-	-	*	*
+pri_0079	0	21	indeed	RB	(S(ADVP*)	-	-	-	-	*	*
+pri_0079	0	22	the	DT	(NP*	-	-	-	-	*	*
+pri_0079	0	23	book	NN	*)	book	-	1	-	*	*
+pri_0079	0	24	is	VBZ	(VP*	be	03	-	-	*	*
+pri_0079	0	25	called	VBN	(VP*	call	01	5	-	*	*
+pri_0079	0	26	Soul	NNP	(S(NP(NP*	-	-	-	-	*	*
+pri_0079	0	27	Mountain	NNP	*)	-	-	-	-	*	*
+pri_0079	0	28	,	,	*	-	-	-	-	*	*
+pri_0079	0	29	the	DT	(NP(NP*	-	-	-	-	*	*
+pri_0079	0	30	mountain	NN	*)	-	-	-	-	*	*
+pri_0079	0	31	on	IN	(SBAR(WHPP*	-	-	-	-	*	*
+pri_0079	0	32	which	WDT	(WHNP*))	-	-	-	-	*	*
+pri_0079	0	33	he	PRP	(S(NP*)	-	-	-	-	*	*
+pri_0079	0	34	hopes	VBZ	(VP*	hope	01	1	-	*	*
+pri_0079	0	35	in	IN	(S(PP*	-	-	-	-	*	*
+pri_0079	0	36	some	DT	(NP(NP*	-	-	-	-	*	*
+pri_0079	0	37	way	NN	*)	way	-	2	-	*	*
+pri_0079	0	38	or	CC	*	-	-	-	-	*	*
+pri_0079	0	39	another	DT	(NP*)))	-	-	-	-	*	*
+pri_0079	0	40	to	TO	(VP*	-	-	-	-	*	*
+pri_0079	0	41	get	VB	(VP*	get	03	3	-	*	*
+pri_0079	0	42	in	IN	(PP*	-	-	-	-	*	*
+pri_0079	0	43	touch	NN	(NP(NP*)	touch	-	6	-	*	*
+pri_0079	0	44	with	IN	(PP*	-	-	-	-	*	*
+pri_0079	0	45	his	PRP$	(NP(NP*	-	-	-	-	*	*
+pri_0079	0	46	soul	NN	*)	-	-	-	-	*	*
+pri_0079	0	47	,	,	*	-	-	-	-	*	*
+pri_0079	0	48	his	PRP$	(NP*	-	-	-	-	*	*
+pri_0079	0	49	individual	JJ	*	-	-	-	-	*	*
+pri_0079	0	50	soul	NN	*)	-	-	-	-	*	*
+pri_0079	0	51	,	,	*	-	-	-	-	*	*
+pri_0079	0	52	as	IN	(PP*	-	-	-	-	*	*
+pri_0079	0	53	opposed	VBN	(PP*	oppose	01	4	-	*	*
+pri_0079	0	54	to	IN	(PP*	-	-	-	-	*	*
+pri_0079	0	55	that	DT	(NP(NP(NP(NP*	-	-	-	-	*	*
+pri_0079	0	56	mass	NN	*	mass	-	5	-	*	*
+pri_0079	0	57	kind	NN	*)	-	-	-	-	*	*
+pri_0079	0	58	of	IN	(PP*	-	-	-	-	*	*
+pri_0079	0	59	soul	NN	(NP*)))	-	-	-	-	*	*
+pri_0079	0	60	being	VBG	(VP*	be	03	-	-	(V*)	(V*)
+pri_0079	0	61	enforced	VBN	(VP*	enforce	-	1	-	*	*
+pri_0079	0	62	upon	IN	(PP*	-	-	-	-	*	*
+pri_0079	0	63	him	PRP	(NP*))	-	-	-	-	*	*
+pri_0079	0	64	by	IN	(PP*	-	-	-	-	*	*
+pri_0079	0	65	the	DT	(NP*	-	-	-	-	*	*
+pri_0079	0	66	Communist	JJ	*	-	-	-	-	*	*
+pri_0079	0	67	Chinese	JJ	*	-	-	-	-	*	*
+pri_0079	0	68	authorities	NNS	*)))))	authority	-	3	-	*	*
+pri_0079	0	69	,	,	*	-	-	-	-	*	*
+pri_0079	0	70	the	DT	(NP(NP*	-	-	-	-	*	*
+pri_0079	0	71	social	JJ	*	-	-	-	-	*	*
+pri_0079	0	72	realism	NN	*)	realism	-	4	-	*	*
+pri_0079	0	73	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	*
+pri_0079	0	74	the	DT	(S(NP*	-	-	-	-	*	*
+pri_0079	0	75	cadres	NNS	*)	cadre	-	2	-	*	*
+pri_0079	0	76	would	MD	(VP*	-	-	-	-	*	*
+pri_0079	0	77	have	VB	(VP*	have	04	6	-	*	*
+pri_0079	0	78	him	PRP	(S(NP*)	-	-	-	-	*	*
+pri_0079	0	79	write	VB	(VP*	write	01	1	-	*	*
+pri_0079	0	80	in	IN	(PP*))))))))))))))))))))))))))))	-	-	-	-	*	*
+pri_0079	0	81	.	.	*))	-	-	-	-	*	*
+
+pri_0079	0	0	Not	RB	(TOP(S(SINV(CONJP*	-	-	-	-	-
+pri_0079	0	1	only	RB	*)	-	-	-	-	-
+pri_0079	0	2	can	MD	*	-	-	-	-	-
+pri_0079	0	3	this	DT	(NP*	-	-	-	-	(8
+pri_0079	0	4	fellow	NN	*)	-	-	-	-	8)
+pri_0079	0	5	write	VB	(VP*))	write	01	1	-	-
+pri_0079	0	6	,	,	*	-	-	-	-	-
+pri_0079	0	7	he	PRP	(SQ(S(NP*)	-	-	-	-	(8)
+pri_0079	0	8	can	MD	(VP*	-	-	-	-	-
+pri_0079	0	9	paint	VB	(VP*	paint	01	1	-	-
+pri_0079	0	10	too	RB	(ADVP*))))	-	-	-	-	-
+pri_0079	0	11	,	,	*	-	-	-	-	-
+pri_0079	0	12	ca	MD	(SQ*	-	-	-	-	-
+pri_0079	0	13	n't	RB	*	-	-	-	-	-
+pri_0079	0	14	he	PRP	(NP*)))	-	-	-	-	(8)
+pri_0079	0	15	?	.	*))	-	-	-	-	-
+
+pri_0079	0	0	He	PRP	(TOP(S(NP*)	-	-	-	-	(8)
+pri_0079	0	1	is	VBZ	(VP*	be	03	1	-	-
+pri_0079	0	2	best	RBS	(ADVP*)	-	-	-	-	-
+pri_0079	0	3	known	VBN	(VP*	know	01	2	-	-
+pri_0079	0	4	among	IN	(PP*	-	-	-	-	-
+pri_0079	0	5	his	PRP$	(NP(NP*	-	-	-	-	(8)
+pri_0079	0	6	neighbors	NNS	*)	-	-	-	-	-
+pri_0079	0	7	in	IN	(PP*	-	-	-	-	-
+pri_0079	0	8	Paris	NNP	(NP*))))	-	-	-	-	-
+pri_0079	0	9	as	IN	(PP*	-	-	-	-	-
+pri_0079	0	10	a	DT	(NP*	-	-	-	-	-
+pri_0079	0	11	painter	NN	*))))	-	-	-	-	-
+pri_0079	0	12	.	.	*))	-	-	-	-	-
+
+pri_0079	0	0	He	PRP	(TOP(S(S(NP*)	-	-	-	-	(8)
+pri_0079	0	1	has	VBZ	(VP*	have	01	-	-	-
+pri_0079	0	2	had	VBD	(VP*	have	03	8	-	-
+pri_0079	0	3	more	JJR	(NP(QP*	-	-	-	-	-
+pri_0079	0	4	than	IN	*	-	-	-	-	-
+pri_0079	0	5	30	CD	*)	-	-	-	-	-
+pri_0079	0	6	one	CD	(NML*	-	-	-	-	-
+pri_0079	0	7	-	HYPH	*	-	-	-	-	-
+pri_0079	0	8	man	NN	*)	man	-	3	-	-
+pri_0079	0	9	shows	NNS	*))))	show	01	2	-	-
+pri_0079	0	10	and	CC	*	-	-	-	-	-
+pri_0079	0	11	his	PRP$	(S(NP*	-	-	-	-	(8)
+pri_0079	0	12	paintings	NNS	*)	painting	-	1	-	-
+pri_0079	0	13	are	VBP	(VP*	be	03	-	-	-
+pri_0079	0	14	quite	RB	(ADVP*	-	-	-	-	-
+pri_0079	0	15	delicately	RB	*)	-	-	-	-	-
+pri_0079	0	16	done	VBN	(VP*)))	do	02	1	-	-
+pri_0079	0	17	and	CC	*	-	-	-	-	-
+pri_0079	0	18	there	RB	(S(ADVP*)	-	-	-	-	-
+pri_0079	0	19	he	PRP	(NP*)	-	-	-	-	(8)
+pri_0079	0	20	is	VBZ	(VP*	be	03	-	-	-
+pri_0079	0	21	also	RB	(ADVP*)	-	-	-	-	-
+pri_0079	0	22	very	RB	(ADVP*	-	-	-	-	-
+pri_0079	0	23	well	RB	*)	-	-	-	-	-
+pri_0079	0	24	known	VBN	(VP*	know	01	2	-	-
+pri_0079	0	25	as	IN	(PP*	-	-	-	-	-
+pri_0079	0	26	a	DT	(NP*	-	-	-	-	-
+pri_0079	0	27	playwright	NN	*)))))	-	-	-	-	-
+pri_0079	0	28	.	.	*))	-	-	-	-	-
+
+pri_0079	0	0	I	PRP	(TOP(S(S(NP*)	-	-	-	-	(2)
+pri_0079	0	1	think	VBP	(VP*	think	01	1	-	-
+pri_0079	0	2	he	PRP	(SBAR(S(NP*)	-	-	-	-	(8)
+pri_0079	0	3	has	VBZ	(VP*	have	01	-	-	-
+pri_0079	0	4	published	VBN	(VP*	publish	01	1	-	-
+pri_0079	0	5	about	RB	(NP(QP*	-	-	-	-	-
+pri_0079	0	6	18	CD	*)	-	-	-	-	-
+pri_0079	0	7	plays	NNS	*)	play	-	1	-	-
+pri_0079	0	8	now	RB	(ADVP*)))))))	-	-	-	-	-
+pri_0079	0	9	and	CC	*	-	-	-	-	-
+pri_0079	0	10	he	PRP	(S(NP*)	-	-	-	-	(8)
+pri_0079	0	11	writes	VBZ	(VP*	write	01	1	-	-
+pri_0079	0	12	his	PRP$	(NP*	-	-	-	-	(8)
+pri_0079	0	13	plays	NNS	*)	play	-	1	-	-
+pri_0079	0	14	in	IN	(PP*	-	-	-	-	-
+pri_0079	0	15	French	NNP	(NP*))))	-	-	-	-	-
+pri_0079	0	16	.	.	*))	-	-	-	-	-
+
+pri_0079	0	0	Just	RB	(TOP(FRAG(NP(QP*	-	-	-	-	*	*
+pri_0079	0	1	one	CD	*)	-	-	-	-	*	*
+pri_0079	0	2	last	JJ	*	-	-	-	-	*	*
+pri_0079	0	3	thing	NN	*)	thing	-	1	-	*	*
+pri_0079	0	4	quoting	VBG	(S(VP*	quote	01	-	-	*	*
+pri_0079	0	5	him	PRP	(NP*)))	-	-	-	-	*	*
+pri_0079	0	6	and	CC	(PRN*	-	-	-	-	*	*
+pri_0079	0	7	I	PRP	(S(NP*)	-	-	-	-	*	*
+pri_0079	0	8	wonder	VBP	(VP*	wonder	01	1	-	*	*
+pri_0079	0	9	if	IN	(SBAR*	-	-	-	-	*	*
+pri_0079	0	10	you	PRP	(S(NP*)	-	-	-	-	*	*
+pri_0079	0	11	could	MD	(VP*	-	-	-	-	*	*
+pri_0079	0	12	respond	VB	(VP*	respond	01	2	-	*	*
+pri_0079	0	13	to	IN	(PP*	-	-	-	-	*	*
+pri_0079	0	14	this	DT	(NP*))	-	-	-	-	*	*
+pri_0079	0	15	,	,	*	-	-	-	-	*	*
+pri_0079	0	16	Christopher	NNP	(NP*))))))))	-	-	-	-	*	*
+pri_0079	0	17	,	,	*	-	-	-	-	*	*
+pri_0079	0	18	he	PRP	(S(S(NP*)	-	-	-	-	*	*
+pri_0079	0	19	said	VBD	(VP*	say	01	1	-	*	*
+pri_0079	0	20	at	IN	(PP*	-	-	-	-	*	*
+pri_0079	0	21	the	DT	(NP(NP*	-	-	-	-	*	*
+pri_0079	0	22	very	JJ	*	-	-	-	-	*	*
+pri_0079	0	23	beginning	NN	*)	beginning	01	1	-	*	*
+pri_0079	0	24	of	IN	(PP*	-	-	-	-	*	*
+pri_0079	0	25	his	PRP$	(NP(NP*	-	-	-	-	*	*
+pri_0079	0	26	wonderful	JJ	*	-	-	-	-	*	*
+pri_0079	0	27	speech	NN	*)	speech	01	4	-	*	*
+pri_0079	0	28	to	IN	(PP*	-	-	-	-	*	*
+pri_0079	0	29	the	DT	(NP*	-	-	-	-	*	*
+pri_0079	0	30	Nobel	NNP	(NML*	-	-	-	-	*	*
+pri_0079	0	31	Prize	NNP	*)	-	-	-	-	*	*
+pri_0079	0	32	Committee	NNP	*))))))))	-	-	-	-	*	*
+pri_0079	0	33	,	,	*	-	-	-	-	*	*
+pri_0079	0	34	he	PRP	(S(NP*)	-	-	-	-	*	*
+pri_0079	0	35	said	VBD	(VP*	say	01	1	-	*	*
+pri_0079	0	36	,	,	*	-	-	-	-	*	*
+pri_0079	0	37	``	``	(S*	-	-	-	-	*	*
+pri_0079	0	38	I	PRP	(S(NP*)	-	-	-	-	(ARG0*)	(ARG0*)
+pri_0079	0	39	do	VBP	(VP*	do	01	-	-	*	*
+pri_0079	0	40	not	RB	*	-	-	-	-	*	*
+pri_0079	0	41	wish	VB	(VP*	wish	01	2	-	*	*
+pri_0079	0	42	to	TO	(S(VP*	-	-	-	-	*	*
+pri_0079	0	43	waste	VB	(VP*	waste	01	1	-	(V*)	(V*)
+pri_0079	0	44	this	DT	(NP(NP*	-	-	-	-	(ARG1*	(ARG1*
+pri_0079	0	45	talk	NN	*)	talk	01	4	-	*	*
+pri_0079	0	46	on	IN	(PP*	-	-	-	-	*	*
+pri_0079	0	47	literature	NN	(NP*)))	-	-	-	-	*)	*)
+pri_0079	0	48	by	IN	(PP*	-	-	-	-	(ARG2*	(ARG2*
+pri_0079	0	49	saying	VBG	(S(VP*	say	01	1	-	*	*
+pri_0079	0	50	too	RB	(NP(NP(ADJP*	-	-	-	-	*	*
+pri_0079	0	51	much	JJ	*))	-	-	-	-	*	*
+pri_0079	0	52	about	IN	(PP*	-	-	-	-	*	*
+pri_0079	0	53	politics	NNS	(NP*	-	-	-	-	*	*
+pri_0079	0	54	and	CC	*	-	-	-	-	*	*
+pri_0079	0	55	history	NN	*))))))))))))	history	-	1	-	*)	*)
+pri_0079	0	56	,	,	*	-	-	-	-	*	*
+pri_0079	0	57	What	WP	(S(SBAR(WHNP*)	-	-	-	-	*	*
+pri_0079	0	58	I	PRP	(S(NP*)	-	-	-	-	*	*
+pri_0079	0	59	want	VBP	(VP*	want	01	1	-	*	*
+pri_0079	0	60	to	TO	(S(VP*	-	-	-	-	*	*
+pri_0079	0	61	do	VB	(VP*))))))	do	02	1	-	*	*
+pri_0079	0	62	is	VBZ	(VP*	be	01	1	-	*	*
+pri_0079	0	63	to	TO	(S(VP*	-	-	-	-	*	*
+pri_0079	0	64	use	VB	(VP*	use	01	1	-	*	*
+pri_0079	0	65	this	DT	(NP*	-	-	-	-	*	*
+pri_0079	0	66	opportunity	NN	*)	-	-	-	-	*	*
+pri_0079	0	67	to	TO	(S(VP*	-	-	-	-	*	*
+pri_0079	0	68	speak	VB	(VP*	speak	01	1	-	*	*
+pri_0079	0	69	as	IN	(PP*	-	-	-	-	*	*
+pri_0079	0	70	one	CD	(NP(NP*	-	-	-	-	*	*
+pri_0079	0	71	writer	NN	*)	-	-	-	-	*	*
+pri_0079	0	72	in	IN	(PP*	-	-	-	-	*	*
+pri_0079	0	73	the	DT	(NP(NP*	-	-	-	-	*	*
+pri_0079	0	74	voice	NN	*)	voice	-	1	-	*	*
+pri_0079	0	75	of	IN	(PP*	-	-	-	-	*	*
+pri_0079	0	76	an	DT	(NP*	-	-	-	-	*	*
+pri_0079	0	77	individual	NN	*))))))))))))))))))	individual	-	1	-	*	*
+pri_0079	0	78	.	.	*	-	-	-	-	*	*
+pri_0079	0	79	''	''	*))	-	-	-	-	*	*
+
+pri_0079	0	0	Is	VBZ	(TOP(SQ*	be	01	1	-	(18)
+pri_0079	0	1	that	DT	(NP*)	-	-	-	-	(5)
+pri_0079	0	2	true	JJ	(ADJP*	-	-	-	-	-
+pri_0079	0	3	basically	RB	(ADVP*)	-	-	-	-	-
+pri_0079	0	4	not	RB	(PP(CONJP*	-	-	-	-	-
+pri_0079	0	5	only	RB	*)	-	-	-	-	-
+pri_0079	0	6	for	IN	(PP*	-	-	-	-	-
+pri_0079	0	7	him	PRP	(NP(NP*)	-	-	-	-	(8
+pri_0079	0	8	that	DT	(NP(NP*	-	-	-	-	(11
+pri_0079	0	9	day	NN	*)	day	-	3	-	-
+pri_0079	0	10	,	,	*	-	-	-	-	-
+pri_0079	0	11	today	NN	(NP*))))	today	-	2	-	11)|8)
+pri_0079	0	12	,	,	*	-	-	-	-	-
+pri_0079	0	13	but	CC	*	-	-	-	-	-
+pri_0079	0	14	of	IN	(PP*	-	-	-	-	-
+pri_0079	0	15	all	DT	(NP(NP*)	-	-	-	-	-
+pri_0079	0	16	of	IN	(PP*	-	-	-	-	-
+pri_0079	0	17	his	PRP$	(NP*	-	-	-	-	(8)
+pri_0079	0	18	work	NN	*))))))	work	-	2	-	-
+pri_0079	0	19	?	.	*))	-	-	-	-	-
+
+pri_0079	0	0	Well	UH	(TOP(S(S(INTJ*)	-	-	-	-	-
+pri_0079	0	1	,	,	*	-	-	-	-	-
+pri_0079	0	2	the	DT	(NP(NP*	-	-	-	-	-
+pri_0079	0	3	work	NN	*)	work	-	2	-	-
+pri_0079	0	4	that	WDT	(SBAR(WHNP*)	-	-	-	-	-
+pri_0079	0	5	we	PRP	(S(NP*)	-	-	-	-	-
+pri_0079	0	6	have	VBP	(VP*	have	03	2	-	-
+pri_0079	0	7	so	RB	(ADVP*	-	-	-	-	-
+pri_0079	0	8	far	RB	*)	-	-	-	-	-
+pri_0079	0	9	in	IN	(PP*	-	-	-	-	-
+pri_0079	0	10	English	JJ	(NP*	-	-	-	-	-
+pri_0079	0	11	translation	NN	*))))))	-	-	-	-	-
+pri_0079	0	12	suggests	VBZ	(VP*	suggest	01	2	-	-
+pri_0079	0	13	that	DT	(NP*)))	-	-	-	-	(18)
+pri_0079	0	14	,	,	*	-	-	-	-	-
+pri_0079	0	15	and	CC	*	-	-	-	-	-
+pri_0079	0	16	indeed	RB	(S(ADVP*)	-	-	-	-	-
+pri_0079	0	17	this	DT	(NP(NP*	-	-	-	-	(0
+pri_0079	0	18	novel	NN	*)	-	-	-	-	-
+pri_0079	0	19	,	,	*	-	-	-	-	-
+pri_0079	0	20	which	WDT	(SBAR(WHNP*)	-	-	-	-	-
+pri_0079	0	21	is	VBZ	(S(VP*	be	01	1	-	-
+pri_0079	0	22	a	DT	(NP(NP*	-	-	-	-	-
+pri_0079	0	23	celebration	NN	*))	celebration	01	1	-	-
+pri_0079	0	24	as	RB	(ADVP*	-	-	-	-	-
+pri_0079	0	25	well	RB	*)	-	-	-	-	-
+pri_0079	0	26	of	IN	(PP*	-	-	-	-	-
+pri_0079	0	27	the	DT	(NP(NP*	-	-	-	-	(3
+pri_0079	0	28	self	NN	*)	-	-	-	-	-
+pri_0079	0	29	of	IN	(PP*	-	-	-	-	-
+pri_0079	0	30	the	DT	(NP*	-	-	-	-	-
+pri_0079	0	31	individual	NN	*))))))))	individual	-	1	-	3)|0)
+pri_0079	0	32	,	,	*	-	-	-	-	-
+pri_0079	0	33	goes	VBZ	(VP*	go	01	1	-	-
+pri_0079	0	34	so	RB	(ADVP(ADVP*	-	-	-	-	-
+pri_0079	0	35	far	RB	*)	-	-	-	-	-
+pri_0079	0	36	as	IN	(PP*	-	-	-	-	-
+pri_0079	0	37	to	TO	(S(VP*	-	-	-	-	-
+pri_0079	0	38	even	RB	(ADVP*)	-	-	-	-	-
+pri_0079	0	39	divide	VB	(VP*	divide	02	1	-	-
+pri_0079	0	40	up	IN	(PP*	-	-	-	-	-
+pri_0079	0	41	to	IN	(PP*	-	-	-	-	-
+pri_0079	0	42	the	DT	(NP*	-	-	-	-	(3
+pri_0079	0	43	self	NN	*))))))))))	-	-	-	-	3)
+pri_0079	0	44	.	.	*))	-	-	-	-	-
+
+pri_0079	0	0	Characters	NNS	(TOP(S(NP*)	-	-	-	-	-
+pri_0079	0	1	proliferate	VBP	(VP*	proliferate	01	-	-	-
+pri_0079	0	2	out	IN	(PP*	-	-	-	-	-
+pri_0079	0	3	of	IN	(PP*	-	-	-	-	-
+pri_0079	0	4	the	DT	(NP(NP*	-	-	-	-	-
+pri_0079	0	5	imagination	NN	*)	imagination	-	1	-	-
+pri_0079	0	6	of	IN	(PP*	-	-	-	-	-
+pri_0079	0	7	the	DT	(NP*	-	-	-	-	-
+pri_0079	0	8	narrator	NN	*)))))	-	-	-	-	-
+pri_0079	0	9	so	IN	(SBAR*	-	-	-	-	-
+pri_0079	0	10	that	IN	*	-	-	-	-	-
+pri_0079	0	11	at	IN	(S(S(S(PP*	-	-	-	-	-
+pri_0079	0	12	a	DT	(NP*	-	-	-	-	-
+pri_0079	0	13	certain	JJ	*	-	-	-	-	-
+pri_0079	0	14	point	NN	*))	point	-	5	-	-
+pri_0079	0	15	,	,	*	-	-	-	-	-
+pri_0079	0	16	you	PRP	(NP*)	-	-	-	-	-
+pri_0079	0	17	have	VBP	(VP*	have	03	4	-	-
+pri_0079	0	18	a	DT	(NP*	-	-	-	-	-
+pri_0079	0	19	new	JJ	*	-	-	-	-	-
+pri_0079	0	20	he	PRP	*)))	-	-	-	-	-
+pri_0079	0	21	,	,	*	-	-	-	-	-
+pri_0079	0	22	you	PRP	(S(NP*)	-	-	-	-	-
+pri_0079	0	23	have	VBP	(VP*	have	03	4	-	-
+pri_0079	0	24	a	DT	(NP*	-	-	-	-	-
+pri_0079	0	25	new	JJ	*	-	-	-	-	-
+pri_0079	0	26	she	PRP	*)))	-	-	-	-	-
+pri_0079	0	27	,	,	*	-	-	-	-	-
+pri_0079	0	28	you	PRP	(S(NP*)	-	-	-	-	-
+pri_0079	0	29	have	VBP	(VP*	have	03	4	-	-
+pri_0079	0	30	a	DT	(NP*	-	-	-	-	-
+pri_0079	0	31	you	PRP	*))))	-	-	-	-	-
+pri_0079	0	32	,	,	*	-	-	-	-	-
+pri_0079	0	33	and	CC	*	-	-	-	-	-
+pri_0079	0	34	each	DT	(S(NP(NP*	-	-	-	-	-
+pri_0079	0	35	one	CD	*)	-	-	-	-	-
+pri_0079	0	36	of	IN	(PP*	-	-	-	-	-
+pri_0079	0	37	these	DT	(NP*	-	-	-	-	-
+pri_0079	0	38	characters	NNS	*)))	-	-	-	-	-
+pri_0079	0	39	tells	VBZ	(VP*	tell	01	1	-	-
+pri_0079	0	40	stories	NNS	(NP(NP*)	story	-	2	-	-
+pri_0079	0	41	,	,	*	-	-	-	-	-
+pri_0079	0	42	each	DT	(SBAR(WHNP(NP*	-	-	-	-	-
+pri_0079	0	43	story	NN	*)	story	-	2	-	-
+pri_0079	0	44	of	IN	(WHPP*	-	-	-	-	-
+pri_0079	0	45	which	WDT	(WHNP*)))	-	-	-	-	-
+pri_0079	0	46	is	VBZ	(S(VP*	be	03	-	-	-
+pri_0079	0	47	designed	VBN	(VP*	design	01	3	-	-
+pri_0079	0	48	to	TO	(S(VP*	-	-	-	-	-
+pri_0079	0	49	give	VB	(VP*	give	01	4	-	-
+pri_0079	0	50	you	PRP	(NP*)	-	-	-	-	-
+pri_0079	0	51	a	DT	(NP(NP*	-	-	-	-	-
+pri_0079	0	52	deeper	JJR	*	-	-	-	-	-
+pri_0079	0	53	sense	NN	*)	sense	-	4	-	-
+pri_0079	0	54	of	IN	(PP*	-	-	-	-	-
+pri_0079	0	55	the	DT	(NP(NP*	-	-	-	-	-
+pri_0079	0	56	richness	NN	*)	-	-	-	-	-
+pri_0079	0	57	and	CC	*	-	-	-	-	-
+pri_0079	0	58	the	DT	(NP*	-	-	-	-	-
+pri_0079	0	59	complexity	NN	*)	-	-	-	-	-
+pri_0079	0	60	of	IN	(PP*	-	-	-	-	-
+pri_0079	0	61	life	NN	(NP(NP*)	life	-	2	-	-
+pri_0079	0	62	in	IN	(PP*	-	-	-	-	-
+pri_0079	0	63	China	NNP	(NP*))))))))))))))))))))	-	-	-	-	-
+pri_0079	0	64	.	.	*))	-	-	-	-	-
+
+pri_0079	0	0	Christopher	NNP	(TOP(S(NP*	-	-	-	-	(2
+pri_0079	0	1	Meryl	NNP	*)	-	-	-	-	2)
+pri_0079	0	2	is	VBZ	(VP*	be	01	2	-	-
+pri_0079	0	3	Director	NNP	(NP(NP(NP*)	-	-	-	-	-
+pri_0079	0	4	of	IN	(PP*	-	-	-	-	-
+pri_0079	0	5	the	DT	(NP(NP*	-	-	-	-	-
+pri_0079	0	6	International	NNP	*	-	-	-	-	-
+pri_0079	0	7	Writing	NNP	*	-	-	-	-	-
+pri_0079	0	8	Program	NNP	*)	-	-	-	-	-
+pri_0079	0	9	at	IN	(PP*	-	-	-	-	-
+pri_0079	0	10	the	DT	(NP(NP*	-	-	-	-	-
+pri_0079	0	11	University	NNP	*)	-	-	-	-	-
+pri_0079	0	12	of	IN	(PP*	-	-	-	-	-
+pri_0079	0	13	Iowa	NNP	(NP*)))))))	-	-	-	-	-
+pri_0079	0	14	and	CC	*	-	-	-	-	-
+pri_0079	0	15	our	PRP$	(NP*	-	-	-	-	(4)
+pri_0079	0	16	international	JJ	*	-	-	-	-	-
+pri_0079	0	17	book	NN	*	book	-	1	-	-
+pri_0079	0	18	citric	NN	*)))	-	-	-	-	-
+pri_0079	0	19	.	.	*))	-	-	-	-	-
+
+pri_0079	0	0	Thanks	NNS	(TOP(FRAG(NP*)	thanks	01	1	-	-
+pri_0079	0	1	,	,	*	-	-	-	-	-
+pri_0079	0	2	Christopher	NNP	(NP*)	-	-	-	-	(2)
+pri_0079	0	3	.	.	*))	-	-	-	-	-
+
+pri_0079	0	0	Thank	VBP	(TOP(S(VP*	thank	01	1	-	-
+pri_0079	0	1	you	PRP	(NP*))	-	-	-	-	(12)
+pri_0079	0	2	.	.	*))	-	-	-	-	-
+
+#end document

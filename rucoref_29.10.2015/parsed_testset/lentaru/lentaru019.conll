@@ -1,0 +1,381 @@
+# newdoc id = eac7935e-618e-429d-aabe-ff9544f2c693
+# newpar id = eac7935e-618e-429d-aabe-ff9544f2c693-p1
+# par_text = Главный тренер мюнхенского футбольного клуба «Бавария» Хосеп Гвардиола сказал наставнику московского «Спартака» Валерию Карпину, что главное отличие между их командами заключается в уровне игроков. О своем разговоре с Гвардиолой Карпин рассказал в интервью интернет-изданию «Чемпионат.com».
+# sent_id = eac7935e-618e-429d-aabe-ff9544f2c693-p1-s1
+# text = Главный тренер мюнхенского футбольного клуба ``Бавария'' Хосеп Гвардиола сказал наставнику московского ``Спартака'' Валерию Карпину, что главное отличие между их командами заключается в уровне игроков.
+1	Главный	_	_	_	_	_	_	_	RuCor_chain_id=3361|RuCor_group_id=474637|Shift=0
+2	тренер	_	_	_	_	_	_	_	RuCor_chain_id=3361|RuCor_group_id=474637|Shift=8
+3	мюнхенского	_	_	_	_	_	_	_	RuCor_chain_id=3362|RuCor_group_id=474638|Shift=15
+4	футбольного	_	_	_	_	_	_	_	RuCor_chain_id=3362|RuCor_group_id=474638|Shift=27
+5	клуба	_	_	_	_	_	_	_	RuCor_chain_id=3362|RuCor_group_id=474638|Shift=39
+6	``	_	_	_	_	_	_	_	RuCor_chain_id=3362|RuCor_group_id=474638|Shift=45|SpaceAfter=No
+7	Бавария	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3362|RuCor_group_id=474638|RuCor_link_id=0|Shift=46|SpaceAfter=No
+8	''	_	_	_	_	_	_	_	RuCor_chain_id=3362|RuCor_group_id=474638|Shift=53
+9	Хосеп	_	_	_	_	_	_	_	RuCor_chain_id=3361|RuCor_group_id=474637|Shift=55
+10	Гвардиола	_	_	_	_	_	_	_	RuCor_chain_id=3361|RuCor_group_id=474637|Shift=61
+11	сказал	_	_	_	_	_	_	_	Shift=71
+12	наставнику	_	_	_	_	_	_	_	RuCor_chain_id=3363|RuCor_group_id=474639|Shift=78
+13	московского	_	_	_	_	_	_	_	RuCor_chain_id=3364|RuCor_group_id=474640|Shift=89
+14	``	_	_	_	_	_	_	_	RuCor_chain_id=3364|RuCor_group_id=474640|Shift=101|SpaceAfter=No
+15	Спартака	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3364|RuCor_group_id=474640|RuCor_link_id=0|Shift=102|SpaceAfter=No
+16	''	_	_	_	_	_	_	_	RuCor_chain_id=3364|RuCor_group_id=474640|Shift=110
+17	Валерию	_	_	_	_	_	_	_	RuCor_chain_id=3363|RuCor_group_id=474639|Shift=112
+18	Карпину	_	_	_	_	_	_	_	RuCor_chain_id=3363|RuCor_group_id=474639|Shift=120|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=127
+20	что	_	_	_	_	_	_	_	Shift=129
+21	главное	_	_	_	_	_	_	_	Shift=133
+22	отличие	_	_	_	_	_	_	_	Shift=141
+23	между	_	_	_	_	_	_	_	Shift=149
+24	их	_	_	_	_	_	_	_	Shift=155
+25	командами	_	_	_	_	_	_	_	Shift=158
+26	заключается	_	_	_	_	_	_	_	Shift=168
+27	в	_	_	_	_	_	_	_	Shift=180
+28	уровне	_	_	_	_	_	_	_	Shift=182
+29	игроков	_	_	_	_	_	_	_	Shift=189|SpaceAfter=No
+30	.	_	_	_	_	_	_	_	Shift=196
+
+# sent_id = eac7935e-618e-429d-aabe-ff9544f2c693-p1-s2
+# text = О своем разговоре с Гвардиолой Карпин рассказал в интервью интернет-изданию ``Чемпионат.com''.
+1	О	_	_	_	_	_	_	_	Shift=198
+2	своем	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3363|RuCor_group_id=474641|RuCor_link_id=474639|Shift=200
+3	разговоре	_	_	_	_	_	_	_	Shift=206
+4	с	_	_	_	_	_	_	_	Shift=216
+5	Гвардиолой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3361|RuCor_group_id=474642|RuCor_link_id=474637|Shift=218
+6	Карпин	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3363|RuCor_group_id=474643|RuCor_link_id=474639|Shift=229
+7	рассказал	_	_	_	_	_	_	_	Shift=236
+8	в	_	_	_	_	_	_	_	Shift=246
+9	интервью	_	_	_	_	_	_	_	Shift=248
+10	интернет-изданию	_	_	_	_	_	_	_	Shift=257
+11	``	_	_	_	_	_	_	_	RuCor_chain_id=3365|RuCor_group_id=474644|Shift=274|SpaceAfter=No
+12	Чемпионат.com	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3365|RuCor_group_id=474644|RuCor_link_id=0|Shift=275|SpaceAfter=No
+13	''	_	_	_	_	_	_	_	RuCor_chain_id=3365|RuCor_group_id=474644|Shift=288|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=289
+
+# newpar id = eac7935e-618e-429d-aabe-ff9544f2c693-p2
+# par_text = Карпин сообщил, что в конце 2013 года он в течение недели общался с Гвардиолой. Тренер «Спартака» подчеркнул, что главной задачей его встреч с наставником «Баварии» было самообразование. По словам Карпина, поездка в Мюнхен оказалась для него очень полезной.
+# sent_id = eac7935e-618e-429d-aabe-ff9544f2c693-p2-s1
+# text = Карпин сообщил, что в конце 2013 года он в течение недели общался с Гвардиолой.
+1	Карпин	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3363|RuCor_group_id=474645|RuCor_link_id=474643|Shift=291
+2	сообщил	_	_	_	_	_	_	_	Shift=298|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=305
+4	что	_	_	_	_	_	_	_	Shift=307
+5	в	_	_	_	_	_	_	_	Shift=311
+6	конце	_	_	_	_	_	_	_	Shift=313
+7	2013	_	_	_	_	_	_	_	Shift=319
+8	года	_	_	_	_	_	_	_	Shift=324
+9	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3363|RuCor_group_id=474646|RuCor_link_id=474645|Shift=329
+10	в	_	_	_	_	_	_	_	Shift=332
+11	течение	_	_	_	_	_	_	_	Shift=334
+12	недели	_	_	_	_	_	_	_	Shift=342
+13	общался	_	_	_	_	_	_	_	Shift=349
+14	с	_	_	_	_	_	_	_	Shift=357
+15	Гвардиолой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3361|RuCor_group_id=474647|RuCor_link_id=474642|Shift=359|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=369
+
+# sent_id = eac7935e-618e-429d-aabe-ff9544f2c693-p2-s2
+# text = Тренер ``Спартака'' подчеркнул, что главной задачей его встреч с наставником ``Баварии'' было самообразование.
+1	Тренер	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3363|RuCor_group_id=474648|RuCor_link_id=474646|Shift=371
+2	``	_	_	_	_	_	_	_	RuCor_chain_id=3364|RuCor_group_id=474649|Shift=378|SpaceAfter=No
+3	Спартака	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3364|RuCor_group_id=474649|RuCor_link_id=474640|Shift=379|SpaceAfter=No
+4	''	_	_	_	_	_	_	_	RuCor_chain_id=3364|RuCor_group_id=474649|Shift=387
+5	подчеркнул	_	_	_	_	_	_	_	Shift=389|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=399
+7	что	_	_	_	_	_	_	_	Shift=401
+8	главной	_	_	_	_	_	_	_	Shift=405
+9	задачей	_	_	_	_	_	_	_	Shift=413
+10	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3363|RuCor_group_id=474650|RuCor_link_id=474648|Shift=421
+11	встреч	_	_	_	_	_	_	_	Shift=425
+12	с	_	_	_	_	_	_	_	Shift=432
+13	наставником	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3361|RuCor_group_id=474651|RuCor_link_id=474647|Shift=434
+14	``	_	_	_	_	_	_	_	RuCor_chain_id=3362|RuCor_group_id=474652|Shift=446|SpaceAfter=No
+15	Баварии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3362|RuCor_group_id=474652|RuCor_link_id=474638|Shift=447|SpaceAfter=No
+16	''	_	_	_	_	_	_	_	RuCor_chain_id=3362|RuCor_group_id=474652|Shift=454
+17	было	_	_	_	_	_	_	_	Shift=456
+18	самообразование	_	_	_	_	_	_	_	Shift=461|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=476
+
+# sent_id = eac7935e-618e-429d-aabe-ff9544f2c693-p2-s3
+# text = По словам Карпина, поездка в Мюнхен оказалась для него очень полезной.
+1	По	_	_	_	_	_	_	_	Shift=478
+2	словам	_	_	_	_	_	_	_	Shift=481
+3	Карпина	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3363|RuCor_group_id=474653|RuCor_link_id=474650|Shift=488|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=495
+5	поездка	_	_	_	_	_	_	_	Shift=497
+6	в	_	_	_	_	_	_	_	Shift=505
+7	Мюнхен	_	_	_	_	_	_	_	Shift=507
+8	оказалась	_	_	_	_	_	_	_	Shift=514
+9	для	_	_	_	_	_	_	_	Shift=524
+10	него	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3363|RuCor_group_id=474654|RuCor_link_id=474653|Shift=528
+11	очень	_	_	_	_	_	_	_	Shift=533
+12	полезной	_	_	_	_	_	_	_	Shift=539|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=547
+
+# newpar id = eac7935e-618e-429d-aabe-ff9544f2c693-p3
+# par_text = Карпин сказал, что в тактике «Спартака» и «Баварии» есть сходства, однако его подход не во всем совпадает с подходом Гвардиолы. Так, по словам наставника «Спартака», тренер «Баварии» хочет добиться того, чтобы его игроки почти не использовали контратаки, а спартаковцы от контратак отказываться не собираются. Карпин также отметил, что у «Барселоны», когда ее тренировал Гвардиола, «практически не было» позиционной обороны, и сейчас «Бавария» стремится к тому же. В игре «Спартака», по словам Карпина, позиционная оборона присутствует.
+# sent_id = eac7935e-618e-429d-aabe-ff9544f2c693-p3-s1
+# text = Карпин сказал, что в тактике ``Спартака'' и ``Баварии'' есть сходства, однако его подход не во всем совпадает с подходом Гвардиолы.
+1	Карпин	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3363|RuCor_group_id=474655|RuCor_link_id=474654|Shift=549
+2	сказал	_	_	_	_	_	_	_	Shift=556|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=562
+4	что	_	_	_	_	_	_	_	Shift=564
+5	в	_	_	_	_	_	_	_	Shift=568
+6	тактике	_	_	_	_	_	_	_	Shift=570
+7	``	_	_	_	_	_	_	_	RuCor_chain_id=3364|RuCor_group_id=474656|Shift=578|SpaceAfter=No
+8	Спартака	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3364|RuCor_group_id=474656|RuCor_link_id=474649|Shift=579|SpaceAfter=No
+9	''	_	_	_	_	_	_	_	RuCor_chain_id=3364|RuCor_group_id=474656|Shift=587
+10	и	_	_	_	_	_	_	_	Shift=589
+11	``	_	_	_	_	_	_	_	RuCor_chain_id=3362|RuCor_group_id=474657|Shift=591|SpaceAfter=No
+12	Баварии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3362|RuCor_group_id=474657|RuCor_link_id=474652|Shift=592|SpaceAfter=No
+13	''	_	_	_	_	_	_	_	RuCor_chain_id=3362|RuCor_group_id=474657|Shift=599
+14	есть	_	_	_	_	_	_	_	Shift=601
+15	сходства	_	_	_	_	_	_	_	Shift=606|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=614
+17	однако	_	_	_	_	_	_	_	Shift=616
+18	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3363|RuCor_group_id=474658|RuCor_link_id=474655|Shift=623
+19	подход	_	_	_	_	_	_	_	Shift=627
+20	не	_	_	_	_	_	_	_	Shift=634
+21	во	_	_	_	_	_	_	_	Shift=637
+22	всем	_	_	_	_	_	_	_	Shift=640
+23	совпадает	_	_	_	_	_	_	_	Shift=645
+24	с	_	_	_	_	_	_	_	Shift=655
+25	подходом	_	_	_	_	_	_	_	Shift=657
+26	Гвардиолы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3361|RuCor_group_id=474659|RuCor_link_id=474651|Shift=666|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=675
+
+# sent_id = eac7935e-618e-429d-aabe-ff9544f2c693-p3-s2
+# text = Так, по словам наставника ``Спартака'', тренер ``Баварии'' хочет добиться того, чтобы его игроки почти не использовали контратаки, а спартаковцы от контратак отказываться не собираются.
+1	Так	_	_	_	_	_	_	_	Shift=677|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=680
+3	по	_	_	_	_	_	_	_	Shift=682
+4	словам	_	_	_	_	_	_	_	Shift=685
+5	наставника	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3363|RuCor_group_id=474660|RuCor_link_id=474658|Shift=692
+6	``	_	_	_	_	_	_	_	RuCor_chain_id=3364|RuCor_group_id=474661|Shift=703|SpaceAfter=No
+7	Спартака	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3364|RuCor_group_id=474661|RuCor_link_id=474656|Shift=704|SpaceAfter=No
+8	''	_	_	_	_	_	_	_	RuCor_chain_id=3364|RuCor_group_id=474661|Shift=712|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=713
+10	тренер	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3361|RuCor_group_id=474662|RuCor_link_id=474659|Shift=715
+11	``	_	_	_	_	_	_	_	RuCor_chain_id=3362|RuCor_group_id=474663|Shift=722|SpaceAfter=No
+12	Баварии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3362|RuCor_group_id=474663|RuCor_link_id=474657|Shift=723|SpaceAfter=No
+13	''	_	_	_	_	_	_	_	RuCor_chain_id=3362|RuCor_group_id=474663|Shift=730
+14	хочет	_	_	_	_	_	_	_	Shift=732
+15	добиться	_	_	_	_	_	_	_	Shift=738
+16	того	_	_	_	_	_	_	_	Shift=747|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=751
+18	чтобы	_	_	_	_	_	_	_	Shift=753
+19	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3361|RuCor_group_id=474665|RuCor_link_id=474662|Shift=759
+20	игроки	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3362|RuCor_group_id=474664|RuCor_link_id=474663|Shift=763
+21	почти	_	_	_	_	_	_	_	Shift=770
+22	не	_	_	_	_	_	_	_	Shift=776
+23	использовали	_	_	_	_	_	_	_	Shift=779
+24	контратаки	_	_	_	_	_	_	_	Shift=792|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=802
+26	а	_	_	_	_	_	_	_	Shift=804
+27	спартаковцы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3364|RuCor_group_id=474666|RuCor_link_id=474661|Shift=806
+28	от	_	_	_	_	_	_	_	Shift=818
+29	контратак	_	_	_	_	_	_	_	Shift=821
+30	отказываться	_	_	_	_	_	_	_	Shift=831
+31	не	_	_	_	_	_	_	_	Shift=844
+32	собираются	_	_	_	_	_	_	_	Shift=847|SpaceAfter=No
+33	.	_	_	_	_	_	_	_	Shift=857
+
+# sent_id = eac7935e-618e-429d-aabe-ff9544f2c693-p3-s3
+# text = Карпин также отметил, что у ``Барселоны'', когда ее тренировал Гвардиола, ``практически не было'' позиционной обороны, и сейчас ``Бавария'' стремится к тому же.
+1	Карпин	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3363|RuCor_group_id=474667|RuCor_link_id=474660|Shift=859
+2	также	_	_	_	_	_	_	_	Shift=866
+3	отметил	_	_	_	_	_	_	_	Shift=872|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=879
+5	что	_	_	_	_	_	_	_	Shift=881
+6	у	_	_	_	_	_	_	_	Shift=885
+7	``	_	_	_	_	_	_	_	RuCor_chain_id=3366|RuCor_group_id=474668|Shift=887|SpaceAfter=No
+8	Барселоны	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3366|RuCor_group_id=474668|RuCor_link_id=0|Shift=888|SpaceAfter=No
+9	''	_	_	_	_	_	_	_	RuCor_chain_id=3366|RuCor_group_id=474668|Shift=897|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=898
+11	когда	_	_	_	_	_	_	_	Shift=900
+12	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3366|RuCor_group_id=474669|RuCor_link_id=474668|Shift=906
+13	тренировал	_	_	_	_	_	_	_	Shift=909
+14	Гвардиола	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3361|RuCor_group_id=474670|RuCor_link_id=474662|Shift=920|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=929
+16	``	_	_	_	_	_	_	_	Shift=931|SpaceAfter=No
+17	практически	_	_	_	_	_	_	_	Shift=932
+18	не	_	_	_	_	_	_	_	Shift=944
+19	было	_	_	_	_	_	_	_	Shift=947|SpaceAfter=No
+20	''	_	_	_	_	_	_	_	Shift=951
+21	позиционной	_	_	_	_	_	_	_	Shift=953
+22	обороны	_	_	_	_	_	_	_	Shift=965|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=972
+24	и	_	_	_	_	_	_	_	Shift=974
+25	сейчас	_	_	_	_	_	_	_	Shift=976
+26	``	_	_	_	_	_	_	_	RuCor_chain_id=3362|RuCor_group_id=474671|Shift=983|SpaceAfter=No
+27	Бавария	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3362|RuCor_group_id=474671|RuCor_link_id=474663|Shift=984|SpaceAfter=No
+28	''	_	_	_	_	_	_	_	RuCor_chain_id=3362|RuCor_group_id=474671|Shift=991
+29	стремится	_	_	_	_	_	_	_	Shift=993
+30	к	_	_	_	_	_	_	_	Shift=1003
+31	тому	_	_	_	_	_	_	_	Shift=1005
+32	же	_	_	_	_	_	_	_	Shift=1010|SpaceAfter=No
+33	.	_	_	_	_	_	_	_	Shift=1012
+
+# sent_id = eac7935e-618e-429d-aabe-ff9544f2c693-p3-s4
+# text = В игре ``Спартака'', по словам Карпина, позиционная оборона присутствует.
+1	В	_	_	_	_	_	_	_	Shift=1014
+2	игре	_	_	_	_	_	_	_	Shift=1016
+3	``	_	_	_	_	_	_	_	RuCor_chain_id=3364|RuCor_group_id=474672|Shift=1021|SpaceAfter=No
+4	Спартака	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3364|RuCor_group_id=474672|RuCor_link_id=474661|Shift=1022|SpaceAfter=No
+5	''	_	_	_	_	_	_	_	RuCor_chain_id=3364|RuCor_group_id=474672|Shift=1030|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1031
+7	по	_	_	_	_	_	_	_	Shift=1033
+8	словам	_	_	_	_	_	_	_	Shift=1036
+9	Карпина	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3363|RuCor_group_id=474673|RuCor_link_id=474667|Shift=1043|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=1050
+11	позиционная	_	_	_	_	_	_	_	Shift=1052
+12	оборона	_	_	_	_	_	_	_	Shift=1064
+13	присутствует	_	_	_	_	_	_	_	Shift=1072|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=1084
+
+# newpar id = eac7935e-618e-429d-aabe-ff9544f2c693-p4
+# par_text = Также в интервью «Чемпионат.com» Карпин выразил уверенность, что «Спартак» под его руководством станет чемпионом России уже в сезоне-2013/14. По словам тренера, с нынешним составом «Спартака» приятно работать. Карпин выразил мнение, что сейчас в «Спартаке» собрана «лучшая профессиональная команда» в истории столичного клуба.
+# sent_id = eac7935e-618e-429d-aabe-ff9544f2c693-p4-s1
+# text = Также в интервью ``Чемпионат.com'' Карпин выразил уверенность, что ``Спартак'' под его руководством станет чемпионом России уже в сезоне-2013 /14.
+1	Также	_	_	_	_	_	_	_	Shift=1086
+2	в	_	_	_	_	_	_	_	Shift=1092
+3	интервью	_	_	_	_	_	_	_	Shift=1094
+4	``	_	_	_	_	_	_	_	RuCor_chain_id=3365|RuCor_group_id=474674|Shift=1103|SpaceAfter=No
+5	Чемпионат.com	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3365|RuCor_group_id=474674|RuCor_link_id=474644|Shift=1104|SpaceAfter=No
+6	''	_	_	_	_	_	_	_	RuCor_chain_id=3365|RuCor_group_id=474674|Shift=1117
+7	Карпин	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3363|RuCor_group_id=474675|RuCor_link_id=474673|Shift=1119
+8	выразил	_	_	_	_	_	_	_	Shift=1126
+9	уверенность	_	_	_	_	_	_	_	Shift=1134|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=1145
+11	что	_	_	_	_	_	_	_	Shift=1147
+12	``	_	_	_	_	_	_	_	RuCor_chain_id=3364|RuCor_group_id=474676|Shift=1151|SpaceAfter=No
+13	Спартак	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3364|RuCor_group_id=474676|RuCor_link_id=474672|Shift=1152|SpaceAfter=No
+14	''	_	_	_	_	_	_	_	RuCor_chain_id=3364|RuCor_group_id=474676|Shift=1159
+15	под	_	_	_	_	_	_	_	Shift=1161
+16	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3363|RuCor_group_id=474677|RuCor_link_id=474675|Shift=1165
+17	руководством	_	_	_	_	_	_	_	Shift=1169
+18	станет	_	_	_	_	_	_	_	Shift=1182
+19	чемпионом	_	_	_	_	_	_	_	Shift=1189
+20	России	_	_	_	_	_	_	_	Shift=1199
+21	уже	_	_	_	_	_	_	_	Shift=1206
+22	в	_	_	_	_	_	_	_	Shift=1210
+23	сезоне-2013	_	_	_	_	_	_	_	Shift=1212
+24	/14	_	_	_	_	_	_	_	Shift=1224|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=1226
+
+# sent_id = eac7935e-618e-429d-aabe-ff9544f2c693-p4-s2
+# text = По словам тренера, с нынешним составом ``Спартака'' приятно работать.
+1	По	_	_	_	_	_	_	_	Shift=1228
+2	словам	_	_	_	_	_	_	_	Shift=1231
+3	тренера	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3363|RuCor_group_id=474678|RuCor_link_id=474677|Shift=1238|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1245
+5	с	_	_	_	_	_	_	_	Shift=1247
+6	нынешним	_	_	_	_	_	_	_	Shift=1249
+7	составом	_	_	_	_	_	_	_	Shift=1258
+8	``	_	_	_	_	_	_	_	RuCor_chain_id=3364|RuCor_group_id=474679|Shift=1267|SpaceAfter=No
+9	Спартака	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3364|RuCor_group_id=474679|RuCor_link_id=474676|Shift=1268|SpaceAfter=No
+10	''	_	_	_	_	_	_	_	RuCor_chain_id=3364|RuCor_group_id=474679|Shift=1276
+11	приятно	_	_	_	_	_	_	_	Shift=1278
+12	работать	_	_	_	_	_	_	_	Shift=1286|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=1294
+
+# sent_id = eac7935e-618e-429d-aabe-ff9544f2c693-p4-s3
+# text = Карпин выразил мнение, что сейчас в ``Спартаке'' собрана ``лучшая профессиональная команда'' в истории столичного клуба.
+1	Карпин	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3363|RuCor_group_id=474680|RuCor_link_id=474678|Shift=1296
+2	выразил	_	_	_	_	_	_	_	Shift=1303
+3	мнение	_	_	_	_	_	_	_	Shift=1311|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1317
+5	что	_	_	_	_	_	_	_	Shift=1319
+6	сейчас	_	_	_	_	_	_	_	Shift=1323
+7	в	_	_	_	_	_	_	_	Shift=1330
+8	``	_	_	_	_	_	_	_	RuCor_chain_id=3364|RuCor_group_id=474681|Shift=1332|SpaceAfter=No
+9	Спартаке	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3364|RuCor_group_id=474681|RuCor_link_id=474679|Shift=1333|SpaceAfter=No
+10	''	_	_	_	_	_	_	_	RuCor_chain_id=3364|RuCor_group_id=474681|Shift=1341
+11	собрана	_	_	_	_	_	_	_	Shift=1343
+12	``	_	_	_	_	_	_	_	Shift=1351|SpaceAfter=No
+13	лучшая	_	_	_	_	_	_	_	Shift=1352
+14	профессиональная	_	_	_	_	_	_	_	Shift=1359
+15	команда	_	_	_	_	_	_	_	Shift=1376|SpaceAfter=No
+16	''	_	_	_	_	_	_	_	Shift=1383
+17	в	_	_	_	_	_	_	_	Shift=1385
+18	истории	_	_	_	_	_	_	_	Shift=1387
+19	столичного	_	_	_	_	_	_	_	RuCor_chain_id=3364|RuCor_group_id=474682|Shift=1395
+20	клуба	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3364|RuCor_group_id=474682|RuCor_link_id=474681|Shift=1406|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=1411
+
+# newpar id = eac7935e-618e-429d-aabe-ff9544f2c693-p5
+# par_text = Карпин, как и Гвардиола, в 1990-е годы выступал в чемпионате Испании в качестве игрока (Гвардиола играл за «Барселону», а Карпин — за «Реал Сосьедад», «Валенсию» и «Сельту»). Пост главного тренера «Спартака» Карпин занимает с 2009 года (с перерывом на полгода в 2012 году, когда наставником команды был Унаи Эмери).
+# sent_id = eac7935e-618e-429d-aabe-ff9544f2c693-p5-s1
+# text = Карпин, как и Гвардиола, в 1990-е годы выступал в чемпионате Испании в качестве игрока (Гвардиола играл за ``Барселону'', а Карпин - за ``Реал Сосьедад'', ``Валенсию'' и ``Сельту'').
+1	Карпин	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3363|RuCor_group_id=474683|RuCor_link_id=474680|Shift=1413|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=1419
+3	как	_	_	_	_	_	_	_	Shift=1421
+4	и	_	_	_	_	_	_	_	Shift=1425
+5	Гвардиола	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3361|RuCor_group_id=474684|RuCor_link_id=474670|Shift=1427|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1436
+7	в	_	_	_	_	_	_	_	Shift=1438
+8	1990-е	_	_	_	_	_	_	_	Shift=1440
+9	годы	_	_	_	_	_	_	_	Shift=1447
+10	выступал	_	_	_	_	_	_	_	Shift=1452
+11	в	_	_	_	_	_	_	_	Shift=1461
+12	чемпионате	_	_	_	_	_	_	_	Shift=1463
+13	Испании	_	_	_	_	_	_	_	Shift=1474
+14	в	_	_	_	_	_	_	_	Shift=1482
+15	качестве	_	_	_	_	_	_	_	Shift=1484
+16	игрока	_	_	_	_	_	_	_	Shift=1493
+17	(	_	_	_	_	_	_	_	Shift=1500|SpaceAfter=No
+18	Гвардиола	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3361|RuCor_group_id=474685|RuCor_link_id=474684|Shift=1501
+19	играл	_	_	_	_	_	_	_	Shift=1511
+20	за	_	_	_	_	_	_	_	Shift=1517
+21	``	_	_	_	_	_	_	_	RuCor_chain_id=3366|RuCor_group_id=474686|Shift=1520|SpaceAfter=No
+22	Барселону	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3366|RuCor_group_id=474686|RuCor_link_id=474668|Shift=1521|SpaceAfter=No
+23	''	_	_	_	_	_	_	_	RuCor_chain_id=3366|RuCor_group_id=474686|Shift=1530|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=1531
+25	а	_	_	_	_	_	_	_	Shift=1533
+26	Карпин	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3363|RuCor_group_id=474687|RuCor_link_id=474683|Shift=1535
+27	-	_	_	_	_	_	_	_	Shift=1542
+28	за	_	_	_	_	_	_	_	Shift=1544
+29	``	_	_	_	_	_	_	_	Shift=1547|SpaceAfter=No
+30	Реал	_	_	_	_	_	_	_	Shift=1548
+31	Сосьедад	_	_	_	_	_	_	_	Shift=1553|SpaceAfter=No
+32	''	_	_	_	_	_	_	_	Shift=1561|SpaceAfter=No
+33	,	_	_	_	_	_	_	_	Shift=1562
+34	``	_	_	_	_	_	_	_	Shift=1564|SpaceAfter=No
+35	Валенсию	_	_	_	_	_	_	_	Shift=1565|SpaceAfter=No
+36	''	_	_	_	_	_	_	_	Shift=1573
+37	и	_	_	_	_	_	_	_	Shift=1575
+38	``	_	_	_	_	_	_	_	Shift=1577|SpaceAfter=No
+39	Сельту	_	_	_	_	_	_	_	Shift=1578|SpaceAfter=No
+40	''	_	_	_	_	_	_	_	Shift=1584|SpaceAfter=No
+41	)	_	_	_	_	_	_	_	Shift=1585|SpaceAfter=No
+42	.	_	_	_	_	_	_	_	Shift=1586
+
+# sent_id = eac7935e-618e-429d-aabe-ff9544f2c693-p5-s2
+# text = Пост главного тренера ``Спартака'' Карпин занимает с 2009 года (с перерывом на полгода в 2012 году, когда наставником команды был Унаи Эмери).
+1	Пост	_	_	_	_	_	_	_	Shift=1588
+2	главного	_	_	_	_	_	_	_	Shift=1593
+3	тренера	_	_	_	_	_	_	_	Shift=1602
+4	``	_	_	_	_	_	_	_	RuCor_chain_id=3364|RuCor_group_id=474688|Shift=1610|SpaceAfter=No
+5	Спартака	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3364|RuCor_group_id=474688|RuCor_link_id=474681|Shift=1611|SpaceAfter=No
+6	''	_	_	_	_	_	_	_	RuCor_chain_id=3364|RuCor_group_id=474688|Shift=1619
+7	Карпин	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3363|RuCor_group_id=474689|RuCor_link_id=474687|Shift=1621
+8	занимает	_	_	_	_	_	_	_	Shift=1628
+9	с	_	_	_	_	_	_	_	Shift=1637
+10	2009	_	_	_	_	_	_	_	Shift=1639
+11	года	_	_	_	_	_	_	_	Shift=1644
+12	(	_	_	_	_	_	_	_	Shift=1649|SpaceAfter=No
+13	с	_	_	_	_	_	_	_	Shift=1650
+14	перерывом	_	_	_	_	_	_	_	Shift=1652
+15	на	_	_	_	_	_	_	_	Shift=1662
+16	полгода	_	_	_	_	_	_	_	Shift=1665
+17	в	_	_	_	_	_	_	_	Shift=1673
+18	2012	_	_	_	_	_	_	_	Shift=1675
+19	году	_	_	_	_	_	_	_	Shift=1680|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=1684
+21	когда	_	_	_	_	_	_	_	Shift=1686
+22	наставником	_	_	_	_	_	_	_	Shift=1692
+23	команды	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3364|RuCor_group_id=474690|RuCor_link_id=474688|Shift=1704
+24	был	_	_	_	_	_	_	_	Shift=1712
+25	Унаи	_	_	_	_	_	_	_	Shift=1716
+26	Эмери	_	_	_	_	_	_	_	Shift=1721|SpaceAfter=No
+27	)	_	_	_	_	_	_	_	SpaceAfter=No
+28	.	_	_	_	_	_	_	_	_
+

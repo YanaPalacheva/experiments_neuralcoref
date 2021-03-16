@@ -1,0 +1,506 @@
+#begin document (cnn_0008_14); part 000
+cnn_0008	14	0	Up	RB	(TOP(FRAG(FRAG(ADVP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	14	1	next	RB	(ADVP*))	-	-	-	Howard_Kurtz	-
+cnn_0008	14	2	did	VBD	(SQ*	do	01	-	Howard_Kurtz	-
+cnn_0008	14	3	the	DT	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	4	media	NNS	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	14	5	get	VB	(VP*	get	03	3	Howard_Kurtz	-
+cnn_0008	14	6	carried	VBN	(VP*	carry	01	-	Howard_Kurtz	-
+cnn_0008	14	7	away	RP	(PRT*)	-	-	-	Howard_Kurtz	-
+cnn_0008	14	8	with	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	9	last	JJ	(NP(NP*	-	-	-	Howard_Kurtz	(73
+cnn_0008	14	10	week	NN	*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	11	's	POS	*)	-	-	-	Howard_Kurtz	73)
+cnn_0008	14	12	subway	NN	*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	13	terror	NN	*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	14	alert	NN	*)))))	alert	-	2	Howard_Kurtz	-
+cnn_0008	14	15	/?	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	14	0	We	PRP	(TOP(S(NP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	14	1	'll	MD	(VP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	2	ride	VB	(VP*	ride	01	3	Howard_Kurtz	-
+cnn_0008	14	3	the	DT	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	4	rails	NNS	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	14	5	into	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	6	the	DT	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	7	spin	NN	*	spin	-	1	Howard_Kurtz	-
+cnn_0008	14	8	cycle	NN	*))	-	-	-	Howard_Kurtz	-
+cnn_0008	14	9	next	RB	(ADVP*)))	-	-	-	Howard_Kurtz	-
+cnn_0008	14	10	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	14	0	When	WRB	(TOP(S(SBAR(WHADVP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	14	1	New	NNP	(S(NP(NML(NML*	-	-	-	Howard_Kurtz	(213
+cnn_0008	14	2	York	NNP	*)	-	-	-	Howard_Kurtz	213)
+cnn_0008	14	3	mayor	NN	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	14	4	Mike	NNP	*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	5	Bloomberg	NNP	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	14	6	announced	VBD	(VP*	announce	01	1	Howard_Kurtz	-
+cnn_0008	14	7	last	JJ	(NP*	-	-	-	Howard_Kurtz	(73
+cnn_0008	14	8	week	NN	*)	-	-	-	Howard_Kurtz	73)
+cnn_0008	14	9	that	IN	(SBAR*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	10	there	EX	(S(NP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	14	11	was	VBD	(VP*	be	02	3	Howard_Kurtz	-
+cnn_0008	14	12	a	DT	(NP(NP*	-	-	-	Howard_Kurtz	(60
+cnn_0008	14	13	possible	JJ	*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	14	terror	NN	*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	15	threat	NN	*)	threat	-	2	Howard_Kurtz	-
+cnn_0008	14	16	against	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	17	the	DT	(NP(NP*	-	-	-	Howard_Kurtz	(193|(213
+cnn_0008	14	18	city	NN	*	city	-	1	Howard_Kurtz	-
+cnn_0008	14	19	's	POS	*)	-	-	-	Howard_Kurtz	213)
+cnn_0008	14	20	subways	NNS	*)))))))))	-	-	-	Howard_Kurtz	193)|60)
+cnn_0008	14	21	I	PRP	(NP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	14	22	thought	VBD	(VP*	think	01	2	Howard_Kurtz	-
+cnn_0008	14	23	here	RB	(S(ADVP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	14	24	we	PRP	(NP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	14	25	go	VBP	(VP*	go	02	1	Howard_Kurtz	-
+cnn_0008	14	26	again	RB	(ADVP*))))	-	-	-	Howard_Kurtz	-
+cnn_0008	14	27	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	14	0	And	CC	(TOP(S*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	1	television	NN	(NP*)	television	-	3	Howard_Kurtz	-
+cnn_0008	14	2	was	VBD	(VP*	be	01	1	Howard_Kurtz	-
+cnn_0008	14	3	all	RB	(PP(ADVP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	14	4	over	IN	*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	5	the	DT	(NP*	-	-	-	Howard_Kurtz	(203
+cnn_0008	14	6	story	NN	*)))	story	-	1	Howard_Kurtz	203)
+cnn_0008	14	7	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	14	0	Here	RB	(TOP(S(ADVP*	-	-	-	speaker4	-
+cnn_0008	14	1	in	IN	(PP*	-	-	-	speaker4	-
+cnn_0008	14	2	New	NNP	(NP*	-	-	-	speaker4	(213
+cnn_0008	14	3	York	NNP	*)))	-	-	-	speaker4	213)
+cnn_0008	14	4	tonight	NN	(NP*)	-	-	-	speaker4	-
+cnn_0008	14	5	officials	NNS	(NP*)	official	-	1	speaker4	(83)
+cnn_0008	14	6	say	VBP	(VP*	say	01	1	speaker4	-
+cnn_0008	14	7	they	PRP	(SBAR(S(NP*)	-	-	-	speaker4	(83)
+cnn_0008	14	8	are	VBP	(VP*	be	03	-	speaker4	-
+cnn_0008	14	9	increasing	VBG	(VP*	increase	01	1	speaker4	-
+cnn_0008	14	10	security	NN	(NP*)	security	-	5	speaker4	-
+cnn_0008	14	11	on	IN	(PP*	-	-	-	speaker4	-
+cnn_0008	14	12	the	DT	(NP(NP*	-	-	-	speaker4	(193|(213
+cnn_0008	14	13	city	NN	*	city	-	1	speaker4	-
+cnn_0008	14	14	's	POS	*)	-	-	-	speaker4	213)
+cnn_0008	14	15	massive	JJ	*	-	-	-	speaker4	-
+cnn_0008	14	16	subway	NN	*	-	-	-	speaker4	-
+cnn_0008	14	17	system	NN	*))	-	-	-	speaker4	193)
+cnn_0008	14	18	because	IN	(PP*	-	-	-	speaker4	-
+cnn_0008	14	19	of	IN	*	-	-	-	speaker4	-
+cnn_0008	14	20	what	WP	(SBAR(WHNP*)	-	-	-	speaker4	-
+cnn_0008	14	21	they	PRP	(S(NP*)	-	-	-	speaker4	(83)
+cnn_0008	14	22	call	VBP	(VP*	call	01	5	speaker4	-
+cnn_0008	14	23	a	DT	(S(NP*	-	-	-	speaker4	-
+cnn_0008	14	24	significant	JJ	(ADJP*	-	-	-	speaker4	-
+cnn_0008	14	25	and	CC	*	-	-	-	speaker4	-
+cnn_0008	14	26	credible	JJ	*)	-	-	-	speaker4	-
+cnn_0008	14	27	threat	NN	*)))))))))))	threat	-	3	speaker4	-
+cnn_0008	14	28	/.	.	*))	-	-	-	speaker4	-
+
+cnn_0008	14	0	The	DT	(TOP(S(NP*	-	-	-	Bob_Schieffer	(60
+cnn_0008	14	1	threat	NN	*	threat	-	3	Bob_Schieffer	-
+cnn_0008	14	2	to	TO	(S(VP*	-	-	-	Bob_Schieffer	-
+cnn_0008	14	3	attack	VB	(VP*	attack	01	1	Bob_Schieffer	-
+cnn_0008	14	4	the	DT	(NP*	-	-	-	Bob_Schieffer	-
+cnn_0008	14	5	subways	NNS	*)	-	-	-	Bob_Schieffer	-
+cnn_0008	14	6	in	IN	(PP*	-	-	-	Bob_Schieffer	-
+cnn_0008	14	7	coming	VBG	(NP*	come	01	-	Bob_Schieffer	-
+cnn_0008	14	8	days	NNS	*))))))	day	-	2	Bob_Schieffer	60)
+cnn_0008	14	9	comes	VBZ	(VP*	come	03	5	Bob_Schieffer	-
+cnn_0008	14	10	from	IN	(PP*	-	-	-	Bob_Schieffer	-
+cnn_0008	14	11	overseas	RB	(ADVP*)))	-	-	-	Bob_Schieffer	-
+cnn_0008	14	12	/.	.	*))	-	-	-	Bob_Schieffer	-
+
+cnn_0008	14	0	and	CC	(TOP(S*	-	-	-	Bob_Schieffer	-
+cnn_0008	14	1	the	DT	(NP(NP*	-	-	-	Bob_Schieffer	-
+cnn_0008	14	2	police	NNS	*)	-	-	-	Bob_Schieffer	-
+cnn_0008	14	3	here	RB	(ADVP*))	-	-	-	Bob_Schieffer	-
+cnn_0008	14	4	will	MD	(VP*	-	-	-	Bob_Schieffer	-
+cnn_0008	14	5	be	VB	(VP*	be	03	-	Bob_Schieffer	-
+cnn_0008	14	6	searching	VBG	(VP*	search	01	1	Bob_Schieffer	-
+cnn_0008	14	7	bags	NNS	(NP(NP*)	-	-	-	Bob_Schieffer	-
+cnn_0008	14	8	briefcases	NNS	(NP*)	-	-	-	Bob_Schieffer	-
+cnn_0008	14	9	even	RB	(NP*	-	-	-	Bob_Schieffer	-
+cnn_0008	14	10	baby	NN	*	-	-	-	Bob_Schieffer	-
+cnn_0008	14	11	strollers	NNS	*))	-	-	-	Bob_Schieffer	-
+cnn_0008	14	12	to	TO	(SBAR(VP*	-	-	-	Bob_Schieffer	-
+cnn_0008	14	13	try	VB	(VP*	try	01	1	Bob_Schieffer	-
+cnn_0008	14	14	to	TO	(S(VP*	-	-	-	Bob_Schieffer	-
+cnn_0008	14	15	stop	VB	(VP*	stop	01	2	Bob_Schieffer	-
+cnn_0008	14	16	it	PRP	(NP*))))))))))	-	-	-	Bob_Schieffer	(60)
+cnn_0008	14	17	/.	.	*))	-	-	-	Bob_Schieffer	-
+
+cnn_0008	14	0	It	PRP	(TOP(S(NP*)	-	-	-	Howard_Kurtz	(203)
+cnn_0008	14	1	was	VBD	(VP*	be	01	-	Howard_Kurtz	-
+cnn_0008	14	2	let	VB	(PRN(S(VP*	let	01	1	Howard_Kurtz	-
+cnn_0008	14	3	's	PRP	(S(NP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	14	4	face	VB	(VP*	face	01	1	Howard_Kurtz	-
+cnn_0008	14	5	it	PRP	(NP*))))))	-	-	-	Howard_Kurtz	-
+cnn_0008	14	6	irresistable	JJ	(ADJP*))	-	-	-	Howard_Kurtz	-
+cnn_0008	14	7	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	14	0	And	CC	(TOP(S*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	1	since	IN	(SBAR*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	2	it	PRP	(S(NP*)	-	-	-	Howard_Kurtz	(203)
+cnn_0008	14	3	was	VBD	(VP*	be	01	4	Howard_Kurtz	-
+cnn_0008	14	4	right	RB	(ADVP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	5	there	RB	*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	6	in	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	7	the	DT	(NP*	-	-	-	Howard_Kurtz	(213
+cnn_0008	14	8	Big	NNP	*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	9	Apple	NNP	*))))))	-	-	-	Howard_Kurtz	213)
+cnn_0008	14	10	cable	NN	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	11	anchors	NNS	*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	12	and	CC	*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	13	correspondents	NNS	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	14	14	could	MD	(VP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	15	provide	VB	(VP*	provide	01	1	Howard_Kurtz	-
+cnn_0008	14	16	almost	RB	(NP(ADJP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	17	non-stop	JJ	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	14	18	on	IN	(NML(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	19	the	DT	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	20	scene	NN	*)))	-	-	-	Howard_Kurtz	-
+cnn_0008	14	21	coverage	NN	*)))	coverage	03	3	Howard_Kurtz	-
+cnn_0008	14	22	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	14	0	The	DT	(TOP(S(NP*	-	-	-	Anderson_Cooper	(60
+cnn_0008	14	1	threat	NN	*)	threat	-	3	Anderson_Cooper	60)
+cnn_0008	14	2	concerns	VBZ	(VP*	concern	02	1	Anderson_Cooper	-
+cnn_0008	14	3	the	DT	(NP(NP*	-	-	-	Anderson_Cooper	(193
+cnn_0008	14	4	New	NNP	(NML*	-	-	-	Anderson_Cooper	(213
+cnn_0008	14	5	York	NNP	*	-	-	-	Anderson_Cooper	-
+cnn_0008	14	6	City	NNP	*)	-	-	-	Anderson_Cooper	213)
+cnn_0008	14	7	subway	NN	*	-	-	-	Anderson_Cooper	-
+cnn_0008	14	8	system	NN	*)	-	-	-	Anderson_Cooper	-
+cnn_0008	14	9	behind	IN	(PP(PP*	-	-	-	Anderson_Cooper	-
+cnn_0008	14	10	me	PRP	(NP*))	-	-	-	Anderson_Cooper	(205)
+cnn_0008	14	11	around	IN	(PP*	-	-	-	Anderson_Cooper	-
+cnn_0008	14	12	me	PRP	(NP*))	-	-	-	Anderson_Cooper	(205)
+cnn_0008	14	13	literally	RB	(PP(ADVP*)	-	-	-	Anderson_Cooper	-
+cnn_0008	14	14	beneath	IN	*	-	-	-	Anderson_Cooper	-
+cnn_0008	14	15	our	PRP$	(NP*	-	-	-	Anderson_Cooper	-
+cnn_0008	14	16	feet	NNS	*))	foot	-	1	Anderson_Cooper	-
+cnn_0008	14	17	here	RB	(ADVP*	-	-	-	Anderson_Cooper	-
+cnn_0008	14	18	in	IN	(PP*	-	-	-	Anderson_Cooper	-
+cnn_0008	14	19	Times	NNP	(NP*	-	-	-	Anderson_Cooper	-
+cnn_0008	14	20	Square	NNP	*))))))	-	-	-	Anderson_Cooper	193)
+cnn_0008	14	21	/.	.	*))	-	-	-	Anderson_Cooper	-
+
+cnn_0008	14	0	The	DT	(TOP(FRAG(NP*	-	-	-	Alan_Colmes	-
+cnn_0008	14	1	Fox	NNP	(NML*	-	-	-	Alan_Colmes	-
+cnn_0008	14	2	News	NNP	*)	-	-	-	Alan_Colmes	-
+cnn_0008	14	3	alert	NN	*)	alert	01	2	Alan_Colmes	-
+cnn_0008	14	4	New	NNP	(S(NP(NML*	-	-	-	Alan_Colmes	(193|(213
+cnn_0008	14	5	York	NNP	*	-	-	-	Alan_Colmes	-
+cnn_0008	14	6	City	NNP	*)	-	-	-	Alan_Colmes	213)
+cnn_0008	14	7	subways	NNS	*)	-	-	-	Alan_Colmes	193)
+cnn_0008	14	8	are	VBP	(VP*	be	01	1	Alan_Colmes	-
+cnn_0008	14	9	on	IN	(PP*	-	-	-	Alan_Colmes	-
+cnn_0008	14	10	a	DT	(NP(NP*	-	-	-	Alan_Colmes	-
+cnn_0008	14	11	heightened	JJ	*	-	-	-	Alan_Colmes	-
+cnn_0008	14	12	state	NN	*)	state	-	2	Alan_Colmes	-
+cnn_0008	14	13	of	IN	(PP*	-	-	-	Alan_Colmes	-
+cnn_0008	14	14	alert	NN	(NP*))))	alert	-	1	Alan_Colmes	-
+cnn_0008	14	15	this	DT	(NP*	-	-	-	Alan_Colmes	-
+cnn_0008	14	16	evening	NN	*)	-	-	-	Alan_Colmes	-
+cnn_0008	14	17	after	IN	(PP*	-	-	-	Alan_Colmes	-
+cnn_0008	14	18	what	WP	(SBAR(WHNP*)	-	-	-	Alan_Colmes	-
+cnn_0008	14	19	officials	NNS	(S(NP*)	official	-	1	Alan_Colmes	-
+cnn_0008	14	20	are	VBP	(VP*	be	03	-	Alan_Colmes	-
+cnn_0008	14	21	describing	VBG	(VP*	describe	01	1	Alan_Colmes	-
+cnn_0008	14	22	as	IN	(PP*	-	-	-	Alan_Colmes	-
+cnn_0008	14	23	a	DT	(NP*	-	-	-	Alan_Colmes	-
+cnn_0008	14	24	specific	JJ	*	-	-	-	Alan_Colmes	-
+cnn_0008	14	25	threat	NN	*)))))))))	threat	-	3	Alan_Colmes	-
+cnn_0008	14	26	/.	.	*))	-	-	-	Alan_Colmes	-
+
+cnn_0008	14	0	And	CC	(TOP(S*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	1	the	DT	(NP(NP*	-	-	-	Howard_Kurtz	(213
+cnn_0008	14	2	city	NN	*	city	-	1	Howard_Kurtz	-
+cnn_0008	14	3	's	POS	*)	-	-	-	Howard_Kurtz	213)
+cnn_0008	14	4	tabloids	NNS	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	14	5	were	VBD	(VP*	be	01	1	Howard_Kurtz	-
+cnn_0008	14	6	n't	RB	*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	7	far	RB	(ADVP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	8	behind	RB	*))	-	-	-	Howard_Kurtz	-
+cnn_0008	14	9	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	14	0	The	DT	(TOP(S(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	1	problem	NN	*)	problem	-	1	Howard_Kurtz	-
+cnn_0008	14	2	as	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	3	with	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	4	so	RB	(NP(ADJP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	5	many	JJ	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	14	6	previous	JJ	*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	7	terror	NN	*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	8	alerts	NNS	*)))	-	-	-	Howard_Kurtz	-
+cnn_0008	14	9	is	VBZ	(VP*	be	01	1	Howard_Kurtz	-
+cnn_0008	14	10	that	IN	(SBAR*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	11	allegations	NNS	(S(NP(NP*)	allegation	01	2	Howard_Kurtz	-
+cnn_0008	14	12	from	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	13	informants	NNS	(NP*)))	-	-	-	Howard_Kurtz	-
+cnn_0008	14	14	are	VBP	(VP*	be	01	1	Howard_Kurtz	-
+cnn_0008	14	15	inherently	RB	(ADJP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	16	shaky	JJ	*)))))	-	-	-	Howard_Kurtz	-
+cnn_0008	14	17	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	14	0	And	CC	(TOP(S*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	1	some	DT	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	2	correspondents	NNS	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	14	3	offered	VBD	(VP*	offer	01	3	Howard_Kurtz	-
+cnn_0008	14	4	caveats	NNS	(NP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	14	5	of	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	6	course	NN	(NP*)))	course	-	13	Howard_Kurtz	-
+cnn_0008	14	7	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	14	0	MSNBC	NNP	(TOP(S(NP(NML*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	14	1	anchor	NN	*)	-	-	-	Howard_Kurtz	*	*
+cnn_0008	14	2	Keith	NNP	*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	14	3	Olbermann	NNP	*)	-	-	-	Howard_Kurtz	*	*
+cnn_0008	14	4	could	MD	(VP*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	14	5	n't	RB	*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	14	6	help	VB	(VP*	help	02	3	Howard_Kurtz	*	*
+cnn_0008	14	7	but	CC	*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	14	8	notice	VB	(VP*	notice	01	1	Howard_Kurtz	*	*
+cnn_0008	14	9	on	IN	(SBAR(S(PP*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	14	10	that	DT	(NP(NP*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	14	11	day	NN	*)	day	-	2	Howard_Kurtz	*	*
+cnn_0008	14	12	October	NNP	(NP*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	14	13	six	CD	*)))	-	-	-	Howard_Kurtz	*	*
+cnn_0008	14	14	it	PRP	(NP(NP*))	-	-	-	Howard_Kurtz	*	*
+cnn_0008	14	15	was	VBD	(VP*	be	01	1	Howard_Kurtz	*	*
+cnn_0008	14	16	news	NN	(NP*)	news	-	1	Howard_Kurtz	*	*
+cnn_0008	14	17	that	IN	(SBAR*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	14	18	Karl	NNP	(S(S(NP*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	14	19	Rove	NNP	*)	-	-	-	Howard_Kurtz	*	*
+cnn_0008	14	20	had	VBD	(VP*	have	01	-	Howard_Kurtz	*	*
+cnn_0008	14	21	been	VBN	(VP*	be	03	-	Howard_Kurtz	*	*
+cnn_0008	14	22	called	VBN	(VP*	call	02	-	Howard_Kurtz	*	*
+cnn_0008	14	23	back	RB	(ADVP*)	-	-	-	Howard_Kurtz	*	*
+cnn_0008	14	24	to	TO	(S(VP*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	14	25	testify	VB	(VP*	testify	01	1	Howard_Kurtz	*	*
+cnn_0008	14	26	in	IN	(PP*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	14	27	the	DT	(NP*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	14	28	CIA	NNP	(NML*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	14	29	leak	NN	*)	leak	01	3	Howard_Kurtz	*	*
+cnn_0008	14	30	case	NN	*)))))))))	case	-	2	Howard_Kurtz	*	*
+cnn_0008	14	31	and	CC	*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	14	32	the	DT	(S(NP*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	14	33	white	NNP	*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	14	34	house	NNP	*)	-	-	-	Howard_Kurtz	*	*
+cnn_0008	14	35	is	VBZ	(VP*	be	03	-	Howard_Kurtz	*	*
+cnn_0008	14	36	being	VBG	(VP*	be	03	-	Howard_Kurtz	(V*)	(V*)
+cnn_0008	14	37	assailed	VBN	(VP*	assail	01	2	Howard_Kurtz	*	*
+cnn_0008	14	38	by	IN	(PP*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	14	39	conservatives	NNS	(NP*))	-	-	-	Howard_Kurtz	*	*
+cnn_0008	14	40	over	IN	(PP*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	14	41	the	DT	(NP*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	14	42	Harriet	NNP	(NML*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	14	43	Miers	NNPS	*)	-	-	-	Howard_Kurtz	*	*
+cnn_0008	14	44	nomination	NN	*))))))))))))))	nomination	01	1	Howard_Kurtz	*	*
+cnn_0008	14	45	/.	.	*))	-	-	-	Howard_Kurtz	*	*
+
+cnn_0008	14	0	events	NNS	(TOP(S(NP(NP*)	event	-	2	Keith_Olbermann	-
+cnn_0008	14	1	that	WDT	(SBAR(WHNP*)	-	-	-	Keith_Olbermann	-
+cnn_0008	14	2	have	VBP	(S(VP*	have	01	-	Keith_Olbermann	-
+cnn_0008	14	3	been	VBN	(VP*	be	01	1	Keith_Olbermann	-
+cnn_0008	14	4	politically	RB	(ADJP*	-	-	-	Keith_Olbermann	-
+cnn_0008	14	5	disadvantageous	JJ	*	-	-	-	Keith_Olbermann	-
+cnn_0008	14	6	to	IN	(PP*	-	-	-	Keith_Olbermann	-
+cnn_0008	14	7	the	DT	(NP*	-	-	-	Keith_Olbermann	(84
+cnn_0008	14	8	current	JJ	*	-	-	-	Keith_Olbermann	-
+cnn_0008	14	9	administration	NN	*))))))))	administration	-	1	Keith_Olbermann	84)
+cnn_0008	14	10	have	VBP	(VP*	have	01	-	Keith_Olbermann	-
+cnn_0008	14	11	been	VBN	(VP*	be	03	-	Keith_Olbermann	-
+cnn_0008	14	12	uh	UH	(INTJ*)	-	-	-	Keith_Olbermann	-
+cnn_0008	14	13	occuring	VBG	(VP(VP*	occur	01	-	Keith_Olbermann	-
+cnn_0008	14	14	simultaneously	RB	(ADVP*))	-	-	-	Keith_Olbermann	-
+cnn_0008	14	15	or	CC	*	-	-	-	Keith_Olbermann	-
+cnn_0008	14	16	followed	VBN	(VP*	follow	01	2	Keith_Olbermann	-
+cnn_0008	14	17	quickly	RB	(ADVP*)	-	-	-	Keith_Olbermann	-
+cnn_0008	14	18	upon	IN	(PP*))	-	-	-	Keith_Olbermann	-
+cnn_0008	14	19	with	IN	(PP*	-	-	-	Keith_Olbermann	-
+cnn_0008	14	20	something	NN	(NP*	something	-	4	Keith_Olbermann	-
+cnn_0008	14	21	related	VBN	(VP*	relate	01	-	Keith_Olbermann	-
+cnn_0008	14	22	to	IN	(PP*	-	-	-	Keith_Olbermann	-
+cnn_0008	14	23	terrorism	NN	(NP(NP*)	-	-	-	Keith_Olbermann	-
+cnn_0008	14	24	on	IN	(PP*	-	-	-	Keith_Olbermann	-
+cnn_0008	14	25	a	DT	(NP*	-	-	-	Keith_Olbermann	-
+cnn_0008	14	26	big	JJ	*	-	-	-	Keith_Olbermann	-
+cnn_0008	14	27	scale	NN	*))))))))))	scale	-	2	Keith_Olbermann	-
+cnn_0008	14	28	/.	.	*))	-	-	-	Keith_Olbermann	-
+
+cnn_0008	14	0	By	IN	(TOP(S(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	1	the	DT	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	2	next	JJ	*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	3	morning	NN	*))	morning	-	1	Howard_Kurtz	-
+cnn_0008	14	4	the	DT	(NP(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	5	New	NNP	(NML*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	6	York	NNP	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	14	7	Times	NNP	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	14	8	and	CC	*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	9	the	DT	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	10	Washington	NNP	*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	11	Post	NNP	*))	-	-	-	Howard_Kurtz	-
+cnn_0008	14	12	were	VBD	(VP*	be	03	-	Howard_Kurtz	-
+cnn_0008	14	13	reporting	VBG	(VP*	report	01	1	Howard_Kurtz	-
+cnn_0008	14	14	that	IN	(SBAR*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	15	federal	JJ	(S(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	16	authorities	NNS	*)	authority	-	3	Howard_Kurtz	-
+cnn_0008	14	17	were	VBD	(VP*	be	03	-	Howard_Kurtz	-
+cnn_0008	14	18	playing	VBG	(VP*	play	07	12.6	Howard_Kurtz	-
+cnn_0008	14	19	down	RP	(PRT*)	-	-	-	Howard_Kurtz	-
+cnn_0008	14	20	the	DT	(NP*	-	-	-	Howard_Kurtz	(60
+cnn_0008	14	21	threat	NN	*)	threat	-	3	Howard_Kurtz	60)
+cnn_0008	14	22	as	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	23	noncredible	JJ	(ADJP*))))))))	-	-	-	Howard_Kurtz	-
+cnn_0008	14	24	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	14	0	But	CC	(TOP(S*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	1	the	DT	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	2	TV	NN	*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	3	coverage	NN	*)	coverage	03	3	Howard_Kurtz	-
+cnn_0008	14	4	kept	VBD	(VP*	keep	02	1	Howard_Kurtz	-
+cnn_0008	14	5	rolling	VBG	(S(VP*	roll	01	1	Howard_Kurtz	-
+cnn_0008	14	6	down	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	7	the	DT	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	8	track	NN	*))	track	-	3	Howard_Kurtz	-
+cnn_0008	14	9	like	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	10	the	DT	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	11	number	NN	(NML*	number	-	2	Howard_Kurtz	-
+cnn_0008	14	12	four	CD	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	14	13	express	NN	*)))))	express	-	1	Howard_Kurtz	-
+cnn_0008	14	14	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	14	0	Finally	RB	(TOP(S(ADVP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	14	1	last	JJ	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	2	Tuesday	NNP	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	14	3	some	DT	(NP(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	4	newspapers	NNS	*)	newspaper	-	1	Howard_Kurtz	-
+cnn_0008	14	5	and	CC	*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	6	then	RB	(ADVP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	14	7	the	DT	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	8	cable	NN	*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	9	networks	NNS	*))	network	-	2	Howard_Kurtz	-
+cnn_0008	14	10	reported	VBD	(VP*	report	01	1	Howard_Kurtz	-
+cnn_0008	14	11	that	IN	(SBAR*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	12	the	DT	(S(NP*	-	-	-	Howard_Kurtz	(120
+cnn_0008	14	13	whole	JJ	*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	14	thing	NN	*)	thing	-	1	Howard_Kurtz	120)
+cnn_0008	14	15	was	VBD	(VP*	be	01	1	Howard_Kurtz	(176)
+cnn_0008	14	16	a	DT	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	17	hoax	NN	*)))))	-	-	-	Howard_Kurtz	-
+cnn_0008	14	18	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	14	0	The	DT	(TOP(S(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	1	CBS	NNP	*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	2	evening	NN	*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	3	news	NN	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	14	4	gave	VBD	(VP*	give	01	2	Howard_Kurtz	-
+cnn_0008	14	5	that	DT	(NP*)	-	-	-	Howard_Kurtz	(176)
+cnn_0008	14	6	three	CD	(NP*	-	-	-	Howard_Kurtz	(150
+cnn_0008	14	7	sentences	NNS	*))	-	-	-	Howard_Kurtz	150)
+cnn_0008	14	8	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	14	0	Well	UH	(TOP(S(INTJ*)	-	-	-	Bob_Schieffer	-
+cnn_0008	14	1	Jim	NNP	(NP(NP*	-	-	-	Bob_Schieffer	-
+cnn_0008	14	2	Stewart	NNP	*)	-	-	-	Bob_Schieffer	-
+cnn_0008	14	3	of	IN	(PP*	-	-	-	Bob_Schieffer	-
+cnn_0008	14	4	our	PRP$	(NP*	-	-	-	Bob_Schieffer	-
+cnn_0008	14	5	Washington	NNP	*	-	-	-	Bob_Schieffer	-
+cnn_0008	14	6	bureau	NN	*)))	-	-	-	Bob_Schieffer	-
+cnn_0008	14	7	quotes	VBZ	(VP*	quote	01	1	Bob_Schieffer	-
+cnn_0008	14	8	government	NN	(NP*	government	-	1	Bob_Schieffer	-
+cnn_0008	14	9	sources	NNS	*)	source	-	3	Bob_Schieffer	-
+cnn_0008	14	10	tonight	NN	(NP*)	-	-	-	Bob_Schieffer	-
+cnn_0008	14	11	as	IN	(PP*	-	-	-	Bob_Schieffer	-
+cnn_0008	14	12	saying	VBG	(S(VP*	say	01	1	Bob_Schieffer	-
+cnn_0008	14	13	the	DT	(SBAR(S(NP(NP*	-	-	-	Bob_Schieffer	-
+cnn_0008	14	14	Iraqi	JJ	*	-	-	-	Bob_Schieffer	-
+cnn_0008	14	15	man	NN	*)	man	-	1	Bob_Schieffer	-
+cnn_0008	14	16	who	WP	(SBAR(WHNP*)	-	-	-	Bob_Schieffer	-
+cnn_0008	14	17	gave	VBD	(S(VP*	give	01	2	Bob_Schieffer	-
+cnn_0008	14	18	that	DT	(NP*	-	-	-	Bob_Schieffer	(62
+cnn_0008	14	19	tip	NN	*)	tip	03	4	Bob_Schieffer	62)
+cnn_0008	14	20	to	IN	(PP*	-	-	-	Bob_Schieffer	-
+cnn_0008	14	21	US	NNP	(NP(NP*	-	-	-	Bob_Schieffer	-
+cnn_0008	14	22	intelligence	NN	*	-	-	-	Bob_Schieffer	-
+cnn_0008	14	23	agents	NNS	*)	agent	-	2	Bob_Schieffer	-
+cnn_0008	14	24	in	IN	(PP*	-	-	-	Bob_Schieffer	-
+cnn_0008	14	25	Iraq	NNP	(NP*))))))))	-	-	-	Bob_Schieffer	-
+cnn_0008	14	26	now	RB	(ADVP*)	-	-	-	Bob_Schieffer	-
+cnn_0008	14	27	says	VBZ	(VP*	say	01	1	Bob_Schieffer	-
+cnn_0008	14	28	the	DT	(SBAR(S(NP*	-	-	-	Bob_Schieffer	(62
+cnn_0008	14	29	information	NN	*)	information	-	1	Bob_Schieffer	62)
+cnn_0008	14	30	was	VBD	(VP*	be	01	1	Bob_Schieffer	-
+cnn_0008	14	31	simply	RB	(ADVP*)	-	-	-	Bob_Schieffer	-
+cnn_0008	14	32	not	RB	(ADJP*	-	-	-	Bob_Schieffer	-
+cnn_0008	14	33	true	JJ	*)))))))))))	-	-	-	Bob_Schieffer	-
+cnn_0008	14	34	/.	.	*))	-	-	-	Bob_Schieffer	-
+
+cnn_0008	14	0	But	CC	(TOP(S*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	1	that	DT	(NP*)	-	-	-	Howard_Kurtz	(150)
+cnn_0008	14	2	's	VBZ	(VP*	be	01	1	Howard_Kurtz	-
+cnn_0008	14	3	a	DT	(NP(ADJP(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	4	lot	NN	*)	lot	-	1	Howard_Kurtz	-
+cnn_0008	14	5	more	JJR	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	14	6	than	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	7	NBC	NNP	(NP(NP(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	8	Nightly	NNP	*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	9	News	NNP	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	14	10	and	CC	*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	11	ABC	NNP	(NP(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	12	's	POS	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	14	13	World	NNP	*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	14	News	NNP	*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	15	Tonight	NNP	*))	-	-	-	Howard_Kurtz	-
+cnn_0008	14	16	which	WDT	(SBAR(WHNP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	14	17	did	VBD	(S(VP*	do	01	-	Howard_Kurtz	-
+cnn_0008	14	18	n't	RB	*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	19	mention	VB	(VP*	mention	01	1	Howard_Kurtz	-
+cnn_0008	14	20	the	DT	(NP*	-	-	-	Howard_Kurtz	(120
+cnn_0008	14	21	great	JJ	*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	22	subway	NN	*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	23	hoax	NN	*)	-	-	-	Howard_Kurtz	120)
+cnn_0008	14	24	at	RB	(ADVP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	25	all	RB	*)))))))))	-	-	-	Howard_Kurtz	-
+cnn_0008	14	26	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	14	0	In	IN	(TOP(S(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	1	an	DT	(NP(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	2	age	NN	*)	age	-	2	Howard_Kurtz	-
+cnn_0008	14	3	of	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	4	terror	NN	(NP*))))	-	-	-	Howard_Kurtz	-
+cnn_0008	14	5	such	JJ	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	6	threats	NNS	*)	threat	-	3	Howard_Kurtz	-
+cnn_0008	14	7	obviously	RB	(ADVP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	14	8	need	VBP	(VP*	need	01	2	Howard_Kurtz	-
+cnn_0008	14	9	to	TO	(S(VP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	10	be	VB	(VP*	be	03	-	Howard_Kurtz	-
+cnn_0008	14	11	reported	VBN	(VP*)))))	report	01	-	Howard_Kurtz	-
+cnn_0008	14	12	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	14	0	but	CC	(TOP(S*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	1	given	VBN	(PP*	give	01	-	Howard_Kurtz	-
+cnn_0008	14	2	the	DT	(NP(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	3	unreliability	NN	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	14	4	of	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	5	intelligence	NN	(NP*))))	-	-	-	Howard_Kurtz	-
+cnn_0008	14	6	television	NN	(NP*)	television	-	3	Howard_Kurtz	-
+cnn_0008	14	7	ought	MD	(VP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	8	to	TO	(S(VP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	9	learn	VB	(VP*	learn	01	1	Howard_Kurtz	-
+cnn_0008	14	10	a	DT	(NP(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	11	lesson	NN	*))	lesson	-	4	Howard_Kurtz	-
+cnn_0008	14	12	here	RB	(ADVP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	14	13	about	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	14	not	RB	(S*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	15	going	VBG	(VP(VP*	go	-	4	Howard_Kurtz	-
+cnn_0008	14	16	on	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	17	high	JJ	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	18	alert	NN	*)))	alert	-	1	Howard_Kurtz	-
+cnn_0008	14	19	and	CC	*	-	-	-	Howard_Kurtz	-
+cnn_0008	14	20	scaring	VBG	(VP*	scare	01	1	Howard_Kurtz	-
+cnn_0008	14	21	people	NNS	(NP*)))))))))	people	-	1	Howard_Kurtz	-
+cnn_0008	14	22	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+#end document

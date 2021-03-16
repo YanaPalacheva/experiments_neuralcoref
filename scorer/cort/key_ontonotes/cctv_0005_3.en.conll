@@ -1,0 +1,482 @@
+#begin document (cctv_0005_3); part 000
+cctv_0005	3	0	We	PRP	(TOP(S(NP*)	-	-	-	Zhou_hanhua	-
+cctv_0005	3	1	usually	RB	(ADVP*)	-	-	-	Zhou_hanhua	-
+cctv_0005	3	2	make	VBP	(VP*	make	02	3	Zhou_hanhua	-
+cctv_0005	3	3	it	PRP	(S(NP*)	-	-	-	Zhou_hanhua	-
+cctv_0005	3	4	sound	VB	(VP*	sound	01	1	Zhou_hanhua	-
+cctv_0005	3	5	like	IN	(SBAR*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	6	e-government	NN	(S(NP*)	-	-	-	Zhou_hanhua	-
+cctv_0005	3	7	is	VBZ	(VP*	be	01	1	Zhou_hanhua	-
+cctv_0005	3	8	something	NN	(NP(NP*)	-	-	-	Zhou_hanhua	-
+cctv_0005	3	9	unattainable	JJ	*)))))))	-	-	-	Zhou_hanhua	-
+cctv_0005	3	10	.	.	*))	-	-	-	Zhou_hanhua	-
+
+cctv_0005	3	0	Yes	UH	(TOP(S(INTJ*)	-	-	-	Wang_shilin	-
+cctv_0005	3	1	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	3	2	when	WRB	(SBAR(WHADVP*)	-	-	-	Wang_shilin	-
+cctv_0005	3	3	we	PRP	(S(NP*)	-	-	-	Wang_shilin	-
+cctv_0005	3	4	talked	VBD	(VP*	talk	01	1	Wang_shilin	-
+cctv_0005	3	5	about	IN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	3	6	e-government	NN	(NP*))	-	-	-	Wang_shilin	(92)
+cctv_0005	3	7	in	IN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	3	8	the	DT	(NP*	-	-	-	Wang_shilin	-
+cctv_0005	3	9	past	NN	*)))))	-	-	-	Wang_shilin	-
+cctv_0005	3	10	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	3	11	it	PRP	(NP*)	-	-	-	Wang_shilin	(92)
+cctv_0005	3	12	seemed	VBD	(VP*	seem	01	1	Wang_shilin	-
+cctv_0005	3	13	to	TO	(S(VP*	-	-	-	Wang_shilin	-
+cctv_0005	3	14	be	VB	(VP*	be	03	-	Wang_shilin	-
+cctv_0005	3	15	only	RB	(ADVP*)	-	-	-	Wang_shilin	-
+cctv_0005	3	16	done	VBN	(VP*	do	02	-	Wang_shilin	-
+cctv_0005	3	17	through	IN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	3	18	the	DT	(NP*	-	-	-	Wang_shilin	(75
+cctv_0005	3	19	Internet	NN	*)))))))	-	-	-	Wang_shilin	75)
+cctv_0005	3	20	.	.	*))	-	-	-	Wang_shilin	-
+
+cctv_0005	3	0	Right	UH	(TOP(INTJ*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	1	.	.	*))	-	-	-	Zhou_hanhua	-
+
+cctv_0005	3	0	It	PRP	(TOP(S(NP*)	-	-	-	Wang_shilin	-
+cctv_0005	3	1	seemed	VBD	(VP*	seem	01	1	Wang_shilin	-
+cctv_0005	3	2	that	IN	(SBAR*	-	-	-	Wang_shilin	-
+cctv_0005	3	3	computers	NNS	(S(NP(NP*)	-	-	-	Wang_shilin	-
+cctv_0005	3	4	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	3	5	ah	UH	(INTJ*)	-	-	-	Wang_shilin	-
+cctv_0005	3	6	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	3	7	and	CC	*	-	-	-	Wang_shilin	-
+cctv_0005	3	8	the	DT	(NP*	-	-	-	Wang_shilin	(75
+cctv_0005	3	9	Internet	NN	*))	-	-	-	Wang_shilin	75)
+cctv_0005	3	10	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	3	11	ah	UH	(INTJ*)	-	-	-	Wang_shilin	-
+cctv_0005	3	12	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	3	13	were	VBD	(VP*	be	01	1	Wang_shilin	-
+cctv_0005	3	14	an	DT	(NP(NP(NP*	-	-	-	Wang_shilin	-
+cctv_0005	3	15	expression	NN	*)	expression	01	2	Wang_shilin	-
+cctv_0005	3	16	of	IN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	3	17	e-government	NN	(NP*)))	-	-	-	Wang_shilin	-
+cctv_0005	3	18	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	3	19	to	TO	(SBAR(S(VP*	-	-	-	Wang_shilin	-
+cctv_0005	3	20	let	VB	(VP*	let	01	1	Wang_shilin	-
+cctv_0005	3	21	people	NNS	(S(NP*)	-	-	-	Wang_shilin	-
+cctv_0005	3	22	find	VB	(VP*	find	03	1	Wang_shilin	-
+cctv_0005	3	23	out	RP	(PRT*)	-	-	-	Wang_shilin	-
+cctv_0005	3	24	information	NN	(NP*))))))))))))	-	-	-	Wang_shilin	-
+cctv_0005	3	25	.	.	*))	-	-	-	Wang_shilin	-
+
+cctv_0005	3	0	Well	UH	(TOP(S(INTJ*)	-	-	-	Zhou_hanhua	-
+cctv_0005	3	1	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	2	presently	RB	(ADVP*)	-	-	-	Zhou_hanhua	-
+cctv_0005	3	3	in	IN	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	4	fact	NN	(NP*))	-	-	-	Zhou_hanhua	-
+cctv_0005	3	5	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	6	e-governments	NNS	(NP(NP*)	-	-	-	Zhou_hanhua	-
+cctv_0005	3	7	in	IN	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	8	various	JJ	(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	9	countries	NNS	*)))	-	-	-	Zhou_hanhua	-
+cctv_0005	3	10	apply	VBP	(VP*	apply	02	1	Zhou_hanhua	-
+cctv_0005	3	11	this	DT	(NP(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	12	so	RB	(ADJP*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	13	-	HYPH	*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	14	called	VBN	*)	call	01	-	Zhou_hanhua	-
+cctv_0005	3	15	last	JJ	*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	16	multiple	JJ	(NML*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	17	-	HYPH	*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	18	exposure	NN	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	3	19	method	NN	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	3	20	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	21	such	JJ	(PP(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	22	as	IN	*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	23	call	JJ	(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	24	centers	NNS	*))	-	-	-	Zhou_hanhua	-
+cctv_0005	3	25	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	26	such	JJ	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	27	as	IN	*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	28	electronic	JJ	(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	29	IDs	NNS	*))	-	-	-	Zhou_hanhua	-
+cctv_0005	3	30	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	31	and	CC	*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	32	such	JJ	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	33	as	IN	*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	34	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	35	these	DT	(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	36	electronic	JJ	*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	37	signatures	NNS	*)))))	-	-	-	Zhou_hanhua	-
+cctv_0005	3	38	.	.	*))	-	-	-	Zhou_hanhua	-
+
+cctv_0005	3	0	These	DT	(TOP(S(NP*)	-	-	-	Zhou_hanhua	-
+cctv_0005	3	1	are	VBP	(VP*	be	01	1	Zhou_hanhua	-
+cctv_0005	3	2	quite	RB	(NP(ADJP*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	3	sophisticated	JJ	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	3	4	forms	NNS	*))	-	-	-	Zhou_hanhua	-
+cctv_0005	3	5	.	.	*))	-	-	-	Zhou_hanhua	-
+
+cctv_0005	3	0	Uh-huh	UH	(TOP(INTJ*	-	-	-	Wang_shilin	-
+cctv_0005	3	1	.	.	*))	-	-	-	Wang_shilin	-
+
+cctv_0005	3	0	In	IN	(TOP(S(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	1	particular	JJ	(ADJP*))	-	-	-	Zhou_hanhua	-
+cctv_0005	3	2	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	3	more	JJR	(NP(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	4	terminals	NNS	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	3	5	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	6	such	JJ	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	7	as	IN	*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	8	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	9	this	DT	(NP(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	10	cable	NN	*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	11	television	NN	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	3	12	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	13	ah	UH	(INTJ*)	-	-	-	Zhou_hanhua	-
+cctv_0005	3	14	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	15	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	16	this	DT	(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	17	digital	JJ	*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	18	television	NN	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	3	19	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	20	ah	UH	(INTJ*)	-	-	-	Zhou_hanhua	-
+cctv_0005	3	21	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	22	and	CC	*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	23	mobile	JJ	(NP(NML*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	24	phone	NN	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	3	25	SMS	NN	*))))	-	-	-	Zhou_hanhua	-
+cctv_0005	3	26	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	27	are	VBP	(VP*	be	03	-	Zhou_hanhua	-
+cctv_0005	3	28	applied	VBN	(VP*	apply	02	-	Zhou_hanhua	-
+cctv_0005	3	29	in	IN	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	30	e-government	NN	(NP*))))	-	-	-	Zhou_hanhua	-
+cctv_0005	3	31	.	.	*))	-	-	-	Zhou_hanhua	-
+
+cctv_0005	3	0	Hence	RB	(TOP(S(ADVP*)	-	-	-	Zhou_hanhua	-
+cctv_0005	3	1	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	2	I	PRP	(NP*)	-	-	-	Zhou_hanhua	(123)
+cctv_0005	3	3	think	VBP	(VP*	think	01	1	Zhou_hanhua	-
+cctv_0005	3	4	this	DT	(SBAR(S(NP*)	-	-	-	Zhou_hanhua	-
+cctv_0005	3	5	is	VBZ	(VP*	be	01	1	Zhou_hanhua	-
+cctv_0005	3	6	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	7	a	DT	(NP(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	8	test	NN	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	3	9	of	IN	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	10	e-government	NN	(NP*)))	-	-	-	Zhou_hanhua	-
+cctv_0005	3	11	because	IN	(SBAR*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	12	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	13	as	IN	(S(SBAR*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	14	I	PRP	(S(NP*)	-	-	-	Zhou_hanhua	(123)
+cctv_0005	3	15	remember	VBP	(VP*)))	remember	01	1	Zhou_hanhua	-
+cctv_0005	3	16	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	17	during	IN	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	18	SARS	NNS	(NP(NP*)	-	-	-	Zhou_hanhua	(79)
+cctv_0005	3	19	in	IN	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	20	2003	CD	(NP*)))))	-	-	-	Zhou_hanhua	(21)
+cctv_0005	3	21	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	22	people	NNS	(NP*)	-	-	-	Zhou_hanhua	-
+cctv_0005	3	23	at	IN	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	24	that	DT	(NP*	-	-	-	Zhou_hanhua	(21
+cctv_0005	3	25	time	NN	*))	-	-	-	Zhou_hanhua	21)
+cctv_0005	3	26	criticized	VBD	(VP*	criticize	01	1	Zhou_hanhua	-
+cctv_0005	3	27	e-government	NN	(NP*)	-	-	-	Zhou_hanhua	-
+cctv_0005	3	28	during	IN	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	29	the	DT	(NP(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	30	spread	NN	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	3	31	of	IN	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	32	SARS	NNP	(NP*))))	-	-	-	Zhou_hanhua	(79)
+cctv_0005	3	33	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	34	ah	UH	(INTJ*)))))))	-	-	-	Zhou_hanhua	-
+cctv_0005	3	35	.	.	*))	-	-	-	Zhou_hanhua	-
+
+cctv_0005	3	0	Uh-huh	UH	(TOP(INTJ*	-	-	-	Wang_shilin	-
+cctv_0005	3	1	.	.	*))	-	-	-	Wang_shilin	-
+
+cctv_0005	3	0	They	PRP	(TOP(S(NP*)	-	-	-	Zhou_hanhua	-
+cctv_0005	3	1	said	VBD	(VP*	say	01	1	Zhou_hanhua	-
+cctv_0005	3	2	that	IN	(SBAR*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	3	e-government	NN	(S(NP*)	-	-	-	Zhou_hanhua	-
+cctv_0005	3	4	was	VBD	(VP(VP*	be	01	1	Zhou_hanhua	-
+cctv_0005	3	5	very	RB	(ADJP*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	6	good	JJ	*))	-	-	-	Zhou_hanhua	-
+cctv_0005	3	7	but	CC	*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	8	was	VBD	(VP*	be	03	-	Zhou_hanhua	-
+cctv_0005	3	9	not	RB	*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	10	put	VBN	(VP*	put	03	7.32	Zhou_hanhua	-
+cctv_0005	3	11	into	IN	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	12	use	NN	(NP*))))))))	-	-	-	Zhou_hanhua	-
+cctv_0005	3	13	.	.	*))	-	-	-	Zhou_hanhua	-
+
+cctv_0005	3	0	Well	UH	(TOP(S(INTJ*)	-	-	-	Zhou_hanhua	-
+cctv_0005	3	1	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	2	this	DT	(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	3	time	NN	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	3	4	I	PRP	(NP*)	-	-	-	Zhou_hanhua	(123)
+cctv_0005	3	5	think	VBP	(VP*	think	01	1	Zhou_hanhua	-
+cctv_0005	3	6	that	IN	(SBAR*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	7	a	DT	(S(NP(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	8	short	JJ	*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	9	SMS	NN	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	3	10	like	IN	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	11	this	DT	(NP*)))	-	-	-	Zhou_hanhua	(119)
+cctv_0005	3	12	can	MD	(VP*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	13	fully	RB	(ADVP*)	-	-	-	Zhou_hanhua	-
+cctv_0005	3	14	create	VB	(VP*	create	01	1	Zhou_hanhua	-
+cctv_0005	3	15	interaction	NN	(NP(NP*)	-	-	-	Zhou_hanhua	-
+cctv_0005	3	16	between	IN	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	17	the	DT	(NP(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	18	government	NN	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	3	19	and	CC	*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	20	the	DT	(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	21	public	NN	*))))	-	-	-	Zhou_hanhua	-
+cctv_0005	3	22	through	IN	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	23	this	DT	(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	24	e-government	NN	*	-	-	-	Zhou_hanhua	-
+cctv_0005	3	25	form	NN	*)))))))	-	-	-	Zhou_hanhua	-
+cctv_0005	3	26	.	.	*))	-	-	-	Zhou_hanhua	-
+
+cctv_0005	3	0	Uh-huh	UH	(TOP(INTJ*	-	-	-	Wang_shilin	-
+cctv_0005	3	1	.	.	*))	-	-	-	Wang_shilin	-
+
+cctv_0005	3	0	Yes	UH	(TOP(INTJ*	-	-	-	Wang_shilin	-
+cctv_0005	3	1	.	.	*))	-	-	-	Wang_shilin	-
+
+cctv_0005	3	0	We	PRP	(TOP(S(NP*)	-	-	-	Wang_shilin	-
+cctv_0005	3	1	drive	VBP	(VP*	drive	01	1	Wang_shilin	-
+cctv_0005	3	2	often	RB	(ADVP*)	-	-	-	Wang_shilin	-
+cctv_0005	3	3	in	IN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	3	4	Beijing	NNP	(NP*))	-	-	-	Wang_shilin	-
+cctv_0005	3	5	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	3	6	ha	UH	(INTJ*)	-	-	-	Wang_shilin	-
+cctv_0005	3	7	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	3	8	Yang	NNP	(NP*	-	-	-	Wang_shilin	(33
+cctv_0005	3	9	Yang	NNP	*))	-	-	-	Wang_shilin	33)
+cctv_0005	3	10	.	.	*))	-	-	-	Wang_shilin	-
+
+cctv_0005	3	0	If	IN	(TOP(SBARQ(SBAR*	-	-	-	Wang_shilin	*	*
+cctv_0005	3	1	people	NNS	(S(S(NP*)	-	-	-	Wang_shilin	*	*
+cctv_0005	3	2	were	VBD	(VP*	be	03	-	Wang_shilin	*	*
+cctv_0005	3	3	not	RB	*	-	-	-	Wang_shilin	*	*
+cctv_0005	3	4	informed	VBN	(VP*	inform	01	1	Wang_shilin	*	*
+cctv_0005	3	5	of	IN	(PP*	-	-	-	Wang_shilin	*	*
+cctv_0005	3	6	such	PDT	(NP(NP*	-	-	-	Wang_shilin	*	*
+cctv_0005	3	7	a	DT	*	-	-	-	Wang_shilin	*	*
+cctv_0005	3	8	traffic	NN	*	-	-	-	Wang_shilin	*	*
+cctv_0005	3	9	accident	NN	*)	-	-	-	Wang_shilin	*	*
+cctv_0005	3	10	through	IN	(PP*	-	-	-	Wang_shilin	*	*
+cctv_0005	3	11	SMS	NN	(NP*))))	-	-	-	Wang_shilin	*	*
+cctv_0005	3	12	on	IN	(PP*	-	-	-	Wang_shilin	*	*
+cctv_0005	3	13	that	DT	(NP*	-	-	-	Wang_shilin	*	*
+cctv_0005	3	14	day	NN	*)))))	-	-	-	Wang_shilin	*	*
+cctv_0005	3	15	and	CC	*	-	-	-	Wang_shilin	*	*
+cctv_0005	3	16	they	PRP	(S(NP*)	-	-	-	Wang_shilin	*	*
+cctv_0005	3	17	continued	VBD	(VP*	continue	01	1	Wang_shilin	*	*
+cctv_0005	3	18	to	TO	(S(VP*	-	-	-	Wang_shilin	*	*
+cctv_0005	3	19	head	VB	(VP*	head	02	1	Wang_shilin	*	*
+cctv_0005	3	20	there	RB	(ADVP*))))))))	-	-	-	Wang_shilin	*	*
+cctv_0005	3	21	,	,	*	-	-	-	Wang_shilin	*	*
+cctv_0005	3	22	what	WP	(WHNP*)	-	-	-	Wang_shilin	*	*
+cctv_0005	3	23	do	VBP	(SQ*	do	01	-	Wang_shilin	*	*
+cctv_0005	3	24	you	PRP	(NP*)	-	-	-	Wang_shilin	*	*
+cctv_0005	3	25	think	VB	(VP*	think	01	1	Wang_shilin	*	*
+cctv_0005	3	26	would	MD	(SBAR(S(VP*	-	-	-	Wang_shilin	*	*
+cctv_0005	3	27	happen	VB	(VP*	happen	01	1	Wang_shilin	*	*
+cctv_0005	3	28	if	IN	(SBAR*	-	-	-	Wang_shilin	*	*
+cctv_0005	3	29	people	NNS	(S(S(NP*)	-	-	-	Wang_shilin	*	*
+cctv_0005	3	30	did	VBD	(VP*	do	01	-	Wang_shilin	*	*
+cctv_0005	3	31	not	RB	*	-	-	-	Wang_shilin	*	*
+cctv_0005	3	32	know	VB	(VP*	know	01	1	Wang_shilin	*	*
+cctv_0005	3	33	what	WP	(SBAR(WHNP*)	-	-	-	Wang_shilin	*	*
+cctv_0005	3	34	was	VBD	(S(VP*	be	03	-	Wang_shilin	(V*)	(V*)
+cctv_0005	3	35	going	VBG	(VP*	go	15	5	Wang_shilin	*	*
+cctv_0005	3	36	on	RP	(PRT*))))))))	-	-	-	Wang_shilin	*	*
+cctv_0005	3	37	and	CC	*	-	-	-	Wang_shilin	*	*
+cctv_0005	3	38	the	DT	(S(NP*	-	-	-	Wang_shilin	*	*
+cctv_0005	3	39	jam	NN	*)	-	-	-	Wang_shilin	*	*
+cctv_0005	3	40	did	VBD	(VP*	do	01	-	Wang_shilin	*	*
+cctv_0005	3	41	not	RB	*	-	-	-	Wang_shilin	*	*
+cctv_0005	3	42	clear	VB	(VP*)))))))))))	clear	01	1	Wang_shilin	*	*
+cctv_0005	3	43	?	.	*))	-	-	-	Wang_shilin	*	*
+
+cctv_0005	3	0	Yes	UH	(TOP(INTJ*	-	-	-	Yang_yang	-
+cctv_0005	3	1	.	.	*))	-	-	-	Yang_yang	-
+
+cctv_0005	3	0	Ah	UH	(TOP(S(INTJ*)	-	-	-	Yang_yang	-
+cctv_0005	3	1	,	,	*	-	-	-	Yang_yang	-
+cctv_0005	3	2	well	UH	(INTJ*)	-	-	-	Yang_yang	-
+cctv_0005	3	3	,	,	*	-	-	-	Yang_yang	-
+cctv_0005	3	4	I	PRP	(NP*)	-	-	-	Yang_yang	(33)
+cctv_0005	3	5	think	VBP	(VP*	think	01	1	Yang_yang	-
+cctv_0005	3	6	it	PRP	(SBAR(S(NP*)	-	-	-	Yang_yang	-
+cctv_0005	3	7	would	MD	(VP*	-	-	-	Yang_yang	-
+cctv_0005	3	8	have	VB	(VP*	have	01	-	Yang_yang	-
+cctv_0005	3	9	been	VBN	(VP*	be	01	1	Yang_yang	-
+cctv_0005	3	10	real	JJ	(NP*	-	-	-	Yang_yang	-
+cctv_0005	3	11	paralysis	NN	*)))))))	-	-	-	Yang_yang	-
+cctv_0005	3	12	.	.	*))	-	-	-	Yang_yang	-
+
+cctv_0005	3	0	This	DT	(TOP(S(NP*)	-	-	-	Yang_yang	-
+cctv_0005	3	1	is	VBZ	(VP*	be	01	2	Yang_yang	-
+cctv_0005	3	2	the	DT	(NP(NP*	-	-	-	Yang_yang	-
+cctv_0005	3	3	most	RBS	(ADJP*	-	-	-	Yang_yang	-
+cctv_0005	3	4	appropriate	JJ	*)	-	-	-	Yang_yang	-
+cctv_0005	3	5	word	NN	*)	-	-	-	Yang_yang	-
+cctv_0005	3	6	to	TO	(SBAR(S(VP*	-	-	-	Yang_yang	-
+cctv_0005	3	7	use	VB	(VP*))))))	use	01	1	Yang_yang	-
+cctv_0005	3	8	.	.	*))	-	-	-	Yang_yang	-
+
+cctv_0005	3	0	Furthermore	RB	(TOP(S(ADVP*)	-	-	-	Yang_yang	-
+cctv_0005	3	1	,	,	*	-	-	-	Yang_yang	-
+cctv_0005	3	2	I	PRP	(NP*)	-	-	-	Yang_yang	(33)
+cctv_0005	3	3	think	VBP	(VP*	think	01	1	Yang_yang	-
+cctv_0005	3	4	that	IN	(SBAR*	-	-	-	Yang_yang	-
+cctv_0005	3	5	when	WRB	(S(SBAR(WHADVP*)	-	-	-	Yang_yang	-
+cctv_0005	3	6	SMS	NN	(S(NP*)	-	-	-	Yang_yang	-
+cctv_0005	3	7	was	VBD	(VP*	be	03	-	Yang_yang	-
+cctv_0005	3	8	used	VBN	(VP*	use	01	1	Yang_yang	-
+cctv_0005	3	9	to	TO	(S(VP*	-	-	-	Yang_yang	-
+cctv_0005	3	10	announce	VB	(VP*	announce	01	1	Yang_yang	-
+cctv_0005	3	11	the	DT	(NP*	-	-	-	Yang_yang	-
+cctv_0005	3	12	news	NN	*))))))))	-	-	-	Yang_yang	-
+cctv_0005	3	13	,	,	*	-	-	-	Yang_yang	-
+cctv_0005	3	14	it	PRP	(NP*)	-	-	-	Yang_yang	-
+cctv_0005	3	15	should	MD	(VP*	-	-	-	Yang_yang	-
+cctv_0005	3	16	be	VB	(VP*	be	03	-	Yang_yang	-
+cctv_0005	3	17	said	VBN	(VP*	say	01	-	Yang_yang	-
+cctv_0005	3	18	to	TO	(S(VP*	-	-	-	Yang_yang	-
+cctv_0005	3	19	have	VB	(VP*	have	01	-	Yang_yang	-
+cctv_0005	3	20	fit	VBN	(VP*	fit	01	1	Yang_yang	-
+cctv_0005	3	21	the	DT	(NP(NP*	-	-	-	Yang_yang	-
+cctv_0005	3	22	conditions	NNS	*)	-	-	-	Yang_yang	-
+cctv_0005	3	23	in	IN	(PP*	-	-	-	Yang_yang	-
+cctv_0005	3	24	our	PRP$	(NP*	-	-	-	Yang_yang	(116
+cctv_0005	3	25	China	NNP	*)))	-	-	-	Yang_yang	116)
+cctv_0005	3	26	very	RB	(ADVP*	-	-	-	Yang_yang	-
+cctv_0005	3	27	well	RB	*)))))))))))	-	-	-	Yang_yang	-
+cctv_0005	3	28	.	.	*))	-	-	-	Yang_yang	-
+
+cctv_0005	3	0	Why	WRB	(TOP(SBARQ(WHADVP*)	-	-	-	Yang_yang	-
+cctv_0005	3	1	is	VBZ	(SQ*	be	01	1	Yang_yang	-
+cctv_0005	3	2	that	DT	(NP*)	-	-	-	Yang_yang	-
+cctv_0005	3	3	so	RB	(ADVP*))	-	-	-	Yang_yang	-
+cctv_0005	3	4	?	.	*))	-	-	-	Yang_yang	-
+
+cctv_0005	3	0	This	DT	(TOP(S(NP*)	-	-	-	Yang_yang	-
+cctv_0005	3	1	is	VBZ	(VP*	be	01	1	Yang_yang	-
+cctv_0005	3	2	because	IN	(SBAR*	-	-	-	Yang_yang	-
+cctv_0005	3	3	,	,	*	-	-	-	Yang_yang	-
+cctv_0005	3	4	it	PRP	(S(NP(NP*))	-	-	-	Yang_yang	-
+cctv_0005	3	5	should	MD	(VP*	-	-	-	Yang_yang	-
+cctv_0005	3	6	be	VB	(VP*	be	03	-	Yang_yang	-
+cctv_0005	3	7	said	VBN	(VP*	say	01	-	Yang_yang	-
+cctv_0005	3	8	that	IN	(SBAR*	-	-	-	Yang_yang	-
+cctv_0005	3	9	China	NNP	(S(NP*)	-	-	-	Yang_yang	(116)
+cctv_0005	3	10	is	VBZ	(VP*	be	01	2	Yang_yang	-
+cctv_0005	3	11	the	DT	(NP(NP*	-	-	-	Yang_yang	-
+cctv_0005	3	12	country	NN	*)	-	-	-	Yang_yang	-
+cctv_0005	3	13	with	IN	(PP*	-	-	-	Yang_yang	-
+cctv_0005	3	14	the	DT	(NP*	-	-	-	Yang_yang	-
+cctv_0005	3	15	highest	JJS	*	-	-	-	Yang_yang	-
+cctv_0005	3	16	SMS	NN	*	-	-	-	Yang_yang	-
+cctv_0005	3	17	usage	NN	*))))))))))))	-	-	-	Yang_yang	-
+cctv_0005	3	18	.	.	*))	-	-	-	Yang_yang	-
+
+cctv_0005	3	0	There	EX	(TOP(S(NP*)	-	-	-	Yang_yang	-
+cctv_0005	3	1	are	VBP	(VP*	be	02	3	Yang_yang	-
+cctv_0005	3	2	probably	RB	(ADVP*)	-	-	-	Yang_yang	-
+cctv_0005	3	3	not	RB	*	-	-	-	Yang_yang	-
+cctv_0005	3	4	as	RB	(NP(ADJP*	-	-	-	Yang_yang	-
+cctv_0005	3	5	many	JJ	*)	-	-	-	Yang_yang	-
+cctv_0005	3	6	chances	NNS	*	-	-	-	Yang_yang	-
+cctv_0005	3	7	to	TO	(S(VP*	-	-	-	Yang_yang	-
+cctv_0005	3	8	use	VB	(VP*	use	01	1	Yang_yang	-
+cctv_0005	3	9	SMS	NN	(NP*)	-	-	-	Yang_yang	(55)
+cctv_0005	3	10	in	IN	(PP*	-	-	-	Yang_yang	-
+cctv_0005	3	11	foreign	JJ	(NP*	-	-	-	Yang_yang	-
+cctv_0005	3	12	countries	NNS	*))	-	-	-	Yang_yang	-
+cctv_0005	3	13	compared	VBN	(PP*	-	-	-	Yang_yang	-
+cctv_0005	3	14	with	IN	(PP*	-	-	-	Yang_yang	-
+cctv_0005	3	15	domestically	RB	(ADVP*	-	-	-	Yang_yang	-
+cctv_0005	3	16	,	,	*	-	-	-	Yang_yang	-
+cctv_0005	3	17	in	IN	(PP*	-	-	-	Yang_yang	-
+cctv_0005	3	18	China	NNP	(NP*)))))	-	-	-	Yang_yang	(116)
+cctv_0005	3	19	,	,	*	-	-	-	Yang_yang	-
+cctv_0005	3	20	ah	UH	(INTJ*))))))	-	-	-	Yang_yang	-
+cctv_0005	3	21	.	.	*))	-	-	-	Yang_yang	-
+
+cctv_0005	3	0	So	RB	(TOP(S(ADVP*)	-	-	-	Yang_yang	-
+cctv_0005	3	1	,	,	*	-	-	-	Yang_yang	-
+cctv_0005	3	2	it	PRP	(NP(NP*))	-	-	-	Yang_yang	-
+cctv_0005	3	3	can	MD	(VP*	-	-	-	Yang_yang	-
+cctv_0005	3	4	be	VB	(VP*	be	03	-	Yang_yang	-
+cctv_0005	3	5	said	VBN	(VP*	say	01	-	Yang_yang	-
+cctv_0005	3	6	that	IN	(SBAR*	-	-	-	Yang_yang	-
+cctv_0005	3	7	penetration	NN	(S(NP*)	-	-	-	Yang_yang	-
+cctv_0005	3	8	was	VBD	(VP*	be	01	1	Yang_yang	-
+cctv_0005	3	9	quite	RB	(ADJP*	-	-	-	Yang_yang	-
+cctv_0005	3	10	high	JJ	*)	-	-	-	Yang_yang	-
+cctv_0005	3	11	this	DT	(NP*	-	-	-	Yang_yang	-
+cctv_0005	3	12	time	NN	*)	-	-	-	Yang_yang	-
+cctv_0005	3	13	,	,	*	-	-	-	Yang_yang	-
+cctv_0005	3	14	by	IN	(PP*	-	-	-	Yang_yang	-
+cctv_0005	3	15	using	VBG	(S(VP*	use	01	1	Yang_yang	-
+cctv_0005	3	16	the	DT	(NP(NP(NP*	-	-	-	Yang_yang	(55
+cctv_0005	3	17	most	RBS	(ADJP*	-	-	-	Yang_yang	-
+cctv_0005	3	18	familiar	JJ	*)	-	-	-	Yang_yang	-
+cctv_0005	3	19	method	NN	*)	-	-	-	Yang_yang	55)
+cctv_0005	3	20	,	,	*	-	-	-	Yang_yang	-
+cctv_0005	3	21	most	RBS	(VP(ADVP*)	-	-	-	Yang_yang	-
+cctv_0005	3	22	used	VBN	*	use	01	1	Yang_yang	-
+cctv_0005	3	23	by	IN	(PP*	-	-	-	Yang_yang	-
+cctv_0005	3	24	everyone	NN	(NP*))))	-	-	-	Yang_yang	-
+cctv_0005	3	25	,	,	*	-	-	-	Yang_yang	-
+cctv_0005	3	26	as	RB	(CONJP*	-	-	-	Yang_yang	-
+cctv_0005	3	27	well	RB	*	-	-	-	Yang_yang	-
+cctv_0005	3	28	as	IN	*)	-	-	-	Yang_yang	-
+cctv_0005	3	29	the	DT	(NP*	-	-	-	Yang_yang	-
+cctv_0005	3	30	most	RBS	(ADJP(ADJP*	-	-	-	Yang_yang	-
+cctv_0005	3	31	prompt	JJ	*)	-	-	-	Yang_yang	-
+cctv_0005	3	32	and	CC	*	-	-	-	Yang_yang	-
+cctv_0005	3	33	most	RBS	(ADJP*	-	-	-	Yang_yang	-
+cctv_0005	3	34	convenient	JJ	*))	-	-	-	Yang_yang	-
+cctv_0005	3	35	method	NN	*))	-	-	-	Yang_yang	-
+cctv_0005	3	36	,	,	*	-	-	-	Yang_yang	-
+cctv_0005	3	37	for	IN	(PP*	-	-	-	Yang_yang	-
+cctv_0005	3	38	the	DT	(NP*	-	-	-	Yang_yang	-
+cctv_0005	3	39	announcement	NN	*)))))))))))	-	-	-	Yang_yang	-
+cctv_0005	3	40	.	.	*))	-	-	-	Yang_yang	-
+
+cctv_0005	3	0	Yes	UH	(TOP(S(INTJ*)	-	-	-	Wang_shilin	-
+cctv_0005	3	1	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	3	2	I	PRP	(NP*)	-	-	-	Wang_shilin	(12)
+cctv_0005	3	3	noticed	VBD	(VP*	notice	01	1	Wang_shilin	-
+cctv_0005	3	4	that	IN	(SBAR*	-	-	-	Wang_shilin	-
+cctv_0005	3	5	many	JJ	(S(NP(NP*	-	-	-	Wang_shilin	-
+cctv_0005	3	6	friends	NNS	*)	-	-	-	Wang_shilin	-
+cctv_0005	3	7	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	3	8	around	IN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	3	9	me	PRP	(NP*)))	-	-	-	Wang_shilin	(12)
+cctv_0005	3	10	received	VBD	(VP*	receive	01	1	Wang_shilin	-
+cctv_0005	3	11	it	PRP	(NP*)))))	-	-	-	Wang_shilin	(119)
+cctv_0005	3	12	.	.	*))	-	-	-	Wang_shilin	-
+
+cctv_0005	3	0	It	PRP	(TOP(S(NP*)	-	-	-	Wang_shilin	-
+cctv_0005	3	1	seems	VBZ	(VP*	seem	01	1	Wang_shilin	-
+cctv_0005	3	2	that	IN	(SBAR*	-	-	-	Wang_shilin	-
+cctv_0005	3	3	almost	RB	(S(NP*	-	-	-	Wang_shilin	-
+cctv_0005	3	4	everyone	NN	*)	-	-	-	Wang_shilin	-
+cctv_0005	3	5	received	VBD	(VP*	receive	01	1	Wang_shilin	-
+cctv_0005	3	6	this	DT	(NP*	-	-	-	Wang_shilin	(119
+cctv_0005	3	7	SMS	NN	*)))))	-	-	-	Wang_shilin	119)
+cctv_0005	3	8	.	.	*))	-	-	-	Wang_shilin	-
+
+cctv_0005	3	0	Yes	UH	(TOP(INTJ*	-	-	-	Yang_yang	-
+cctv_0005	3	1	.	.	*))	-	-	-	Yang_yang	-
+
+cctv_0005	3	0	Yes	UH	(TOP(INTJ*	-	-	-	Yang_yang	-
+cctv_0005	3	1	.	.	*))	-	-	-	Yang_yang	-
+
+cctv_0005	3	0	The	DT	(TOP(S(NP*	-	-	-	Wang_shilin	-
+cctv_0005	3	1	effect	NN	*)	-	-	-	Wang_shilin	-
+cctv_0005	3	2	was	VBD	(VP*	be	01	1	Wang_shilin	-
+cctv_0005	3	3	extremely	RB	(ADJP*	-	-	-	Wang_shilin	-
+cctv_0005	3	4	good	JJ	*)	-	-	-	Wang_shilin	-
+cctv_0005	3	5	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	3	6	ha	UH	(INTJ*))	-	-	-	Wang_shilin	-
+cctv_0005	3	7	.	.	*))	-	-	-	Wang_shilin	-
+
+#end document

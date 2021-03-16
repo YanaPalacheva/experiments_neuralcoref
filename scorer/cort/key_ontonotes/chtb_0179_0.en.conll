@@ -1,0 +1,334 @@
+#begin document (chtb_0179_0); part 000
+chtb_0179	0	0	Xinhua	NNP	(TOP(FRAG(NP*	-	-	-	-	(9
+chtb_0179	0	1	News	NNP	*	-	-	-	-	-
+chtb_0179	0	2	Agency	NNP	*)	-	-	-	-	9)
+chtb_0179	0	3	,	,	*	-	-	-	-	-
+chtb_0179	0	4	the	DT	(NP*	-	-	-	-	-
+chtb_0179	0	5	UN	NNP	*)	-	-	-	-	-
+chtb_0179	0	6	,	,	*	-	-	-	-	-
+chtb_0179	0	7	February	NNP	(NP*	-	-	-	-	(10
+chtb_0179	0	8	13th	NN	*)	-	-	-	-	10)
+chtb_0179	0	9	,	,	*))	-	-	-	-	-
+
+chtb_0179	0	0	Today	NN	(TOP(S(NP*)	-	-	-	-	(10)
+chtb_0179	0	1	,	,	*	-	-	-	-	-
+chtb_0179	0	2	Peilice	NNP	(NP(NP*	-	-	-	-	(5
+chtb_0179	0	3	Dekuliar	NNP	*)	-	-	-	-	-
+chtb_0179	0	4	,	,	*	-	-	-	-	-
+chtb_0179	0	5	the	DT	(NP*	-	-	-	-	-
+chtb_0179	0	6	UN	NNP	*	-	-	-	-	(0)
+chtb_0179	0	7	Secretary	NNP	*	-	-	-	-	-
+chtb_0179	0	8	-	HYPH	*	-	-	-	-	-
+chtb_0179	0	9	General	NNP	*)	-	-	-	-	-
+chtb_0179	0	10	,	,	*)	-	-	-	-	5)
+chtb_0179	0	11	expressed	VBD	(VP*	express	01	1	-	-
+chtb_0179	0	12	grief	NN	(NP(NP*)	grief	-	1	-	-
+chtb_0179	0	13	at	IN	(PP*	-	-	-	-	-
+chtb_0179	0	14	the	DT	(S(NP*	-	-	-	-	(6
+chtb_0179	0	15	multi-national	JJ	*	-	-	-	-	-
+chtb_0179	0	16	forces	NNS	*)	force	-	2	-	6)
+chtb_0179	0	17	air	NN	(VP*	air	-	4	-	-
+chtb_0179	0	18	striking	VBG	*	strike	01	1	-	(8)
+chtb_0179	0	19	Baghdad	NNP	(NP*)	-	-	-	-	(1)
+chtb_0179	0	20	resulting	VBG	(S(VP*	result	01	1	-	-
+chtb_0179	0	21	in	IN	(PP*	-	-	-	-	-
+chtb_0179	0	22	civilians	NNS	(NP*	-	-	-	-	-
+chtb_0179	0	23	deaths	NNS	*)))))))))	death	-	1	-	-
+chtb_0179	0	24	.	.	*))	-	-	-	-	-
+
+chtb_0179	0	0	Julileah	NNP	(TOP(S(NP(NP*)	-	-	-	-	-
+chtb_0179	0	1	,	,	*	-	-	-	-	-
+chtb_0179	0	2	spokesman	NN	(NP(NP*)	-	-	-	-	-
+chtb_0179	0	3	for	IN	(PP*	-	-	-	-	-
+chtb_0179	0	4	the	DT	(NP*	-	-	-	-	(5
+chtb_0179	0	5	Secretary	NNP	*	-	-	-	-	-
+chtb_0179	0	6	-	HYPH	*	-	-	-	-	-
+chtb_0179	0	7	General	NNP	*))))	-	-	-	-	5)
+chtb_0179	0	8	said	VBD	(VP*	say	01	1	-	-
+chtb_0179	0	9	in	IN	(PP*	-	-	-	-	-
+chtb_0179	0	10	a	DT	(NP*	-	-	-	-	-
+chtb_0179	0	11	statement	NN	*))	statement	01	1	-	-
+chtb_0179	0	12	that	IN	(SBAR*	-	-	-	-	-
+chtb_0179	0	13	Peilice	NNP	(S(NP*	-	-	-	-	(5
+chtb_0179	0	14	Dekuliar	NNP	*)	-	-	-	-	5)
+chtb_0179	0	15	felt	VBD	(VP*	feel	01	1	-	-
+chtb_0179	0	16	deep	JJ	(NP*	-	-	-	-	-
+chtb_0179	0	17	grief	NN	*	grief	-	1	-	-
+chtb_0179	0	18	that	IN	(SBAR*	-	-	-	-	-
+chtb_0179	0	19	so	RB	(S(NP(NP*	-	-	-	-	-
+chtb_0179	0	20	many	JJ	*	-	-	-	-	-
+chtb_0179	0	21	civilians	NNS	*)	-	-	-	-	-
+chtb_0179	0	22	in	IN	(PP*	-	-	-	-	-
+chtb_0179	0	23	Iraq	NNP	(NP*)))	-	-	-	-	(4)
+chtb_0179	0	24	had	VBD	(VP*	have	01	-	-	-
+chtb_0179	0	25	died	VBN	(VP*	die	01	1	-	-
+chtb_0179	0	26	in	IN	(PP*	-	-	-	-	-
+chtb_0179	0	27	the	DT	(NP*	-	-	-	-	(8
+chtb_0179	0	28	air	NN	*	air	-	4	-	-
+chtb_0179	0	29	attack	NN	*)))))))))))	-	-	-	-	8)
+chtb_0179	0	30	.	.	*))	-	-	-	-	-
+
+chtb_0179	0	0	According	VBG	(TOP(S(PP*	-	-	-	-	-
+chtb_0179	0	1	to	IN	(PP*	-	-	-	-	-
+chtb_0179	0	2	a	DT	(NP(NP*	-	-	-	-	-
+chtb_0179	0	3	news	NN	*	news	-	1	-	-
+chtb_0179	0	4	report	NN	*)	report	-	1	-	-
+chtb_0179	0	5	on	IN	(PP*	-	-	-	-	-
+chtb_0179	0	6	February	NNP	(NP*	-	-	-	-	-
+chtb_0179	0	7	14th	NN	*))	-	-	-	-	-
+chtb_0179	0	8	by	IN	(PP*	-	-	-	-	-
+chtb_0179	0	9	Xinhua	NNP	(NP*	-	-	-	-	(9
+chtb_0179	0	10	News	NNP	*	-	-	-	-	-
+chtb_0179	0	11	Agency	NNP	*))	-	-	-	-	9)
+chtb_0179	0	12	from	IN	(PP*	-	-	-	-	-
+chtb_0179	0	13	Beijing	NNP	(NP*)))))	-	-	-	-	-
+chtb_0179	0	14	,	,	*	-	-	-	-	-
+chtb_0179	0	15	when	WRB	(SBAR(WHADVP*)	-	-	-	-	-
+chtb_0179	0	16	the	DT	(S(NP*	-	-	-	-	(6
+chtb_0179	0	17	multi-national	JJ	*	-	-	-	-	-
+chtb_0179	0	18	forces	NNS	*)	force	-	2	-	6)
+chtb_0179	0	19	carried	VBD	(VP*	carry	03	8	-	-
+chtb_0179	0	20	out	RP	(PRT*)	-	-	-	-	-
+chtb_0179	0	21	an	DT	(NP(NP*	-	-	-	-	(8
+chtb_0179	0	22	air	NN	*	air	-	4	-	-
+chtb_0179	0	23	attack	NN	*)	-	-	-	-	-
+chtb_0179	0	24	on	IN	(PP*	-	-	-	-	-
+chtb_0179	0	25	Baghdad	NNP	(NP*)))	-	-	-	-	(1)|8)
+chtb_0179	0	26	on	IN	(PP*	-	-	-	-	-
+chtb_0179	0	27	the	DT	(NP*	-	-	-	-	(10
+chtb_0179	0	28	13th	NNS	*)))))	-	-	-	-	10)
+chtb_0179	0	29	,	,	*	-	-	-	-	-
+chtb_0179	0	30	hundreds	NNS	(NP(NP*)	-	-	-	-	-
+chtb_0179	0	31	of	IN	(PP*	-	-	-	-	-
+chtb_0179	0	32	civilians	NNS	(NP*)))	-	-	-	-	-
+chtb_0179	0	33	were	VBD	(VP*	-	-	-	-	-
+chtb_0179	0	34	killed	VBN	(VP*	kill	01	1	-	-
+chtb_0179	0	35	in	IN	(PP*	-	-	-	-	-
+chtb_0179	0	36	the	DT	(NP*	-	-	-	-	(8
+chtb_0179	0	37	bombing	NN	*))))	bomb	-	1	-	8)
+chtb_0179	0	38	.	.	*))	-	-	-	-	-
+
+chtb_0179	0	0	World	NN	(TOP(S(NP*	world	-	1	-	-
+chtb_0179	0	1	public	JJ	*	-	-	-	-	-
+chtb_0179	0	2	opinion	NN	*)	opinion	-	1	-	-
+chtb_0179	0	3	has	VBZ	(VP*	have	01	-	-	-
+chtb_0179	0	4	reacted	VBN	(VP*	react	01	1	-	-
+chtb_0179	0	5	strongly	RB	(ADVP*)	-	-	-	-	-
+chtb_0179	0	6	to	IN	(PP*	-	-	-	-	-
+chtb_0179	0	7	the	DT	(NP*	-	-	-	-	(8
+chtb_0179	0	8	event	NN	*))))	event	-	2	-	8)
+chtb_0179	0	9	.	.	*))	-	-	-	-	-
+
+chtb_0179	0	0	Officials	NNS	(TOP(S(NP(NP*)	official	-	1	-	-
+chtb_0179	0	1	in	IN	(PP*	-	-	-	-	-
+chtb_0179	0	2	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0179	0	3	Iraqi	NNP	*	-	-	-	-	-
+chtb_0179	0	4	Department	NNP	*)	-	-	-	-	-
+chtb_0179	0	5	of	IN	(PP*	-	-	-	-	-
+chtb_0179	0	6	Defense	NNP	(NP*)))))	-	-	-	-	-
+chtb_0179	0	7	said	VBD	(VP*	say	01	1	-	-
+chtb_0179	0	8	that	IN	(SBAR*	-	-	-	-	-
+chtb_0179	0	9	the	DT	(S(S(NP(NP*	-	-	-	-	-
+chtb_0179	0	10	two	CD	*	-	-	-	-	-
+chtb_0179	0	11	missiles	NNS	(NML(NML*)	-	-	-	-	-
+chtb_0179	0	12	or	CC	*	-	-	-	-	-
+chtb_0179	0	13	bomb	NN	(NML*	-	-	-	-	-
+chtb_0179	0	14	shells	NNS	*)))	-	-	-	-	-
+chtb_0179	0	15	dropped	VBN	(VP*	drop	01	1	-	-
+chtb_0179	0	16	by	IN	(PP*	-	-	-	-	-
+chtb_0179	0	17	planes	NNS	(NP(NP*)	-	-	-	-	-
+chtb_0179	0	18	of	IN	(PP*	-	-	-	-	-
+chtb_0179	0	19	the	DT	(NP*	-	-	-	-	(6
+chtb_0179	0	20	multi-national	JJ	*	-	-	-	-	-
+chtb_0179	0	21	forces	NNS	*))))	force	-	2	-	6)
+chtb_0179	0	22	on	IN	(PP*	-	-	-	-	-
+chtb_0179	0	23	the	DT	(NP*	-	-	-	-	(10
+chtb_0179	0	24	13th	NN	*))	-	-	-	-	10)
+chtb_0179	0	25	at	IN	(PP*	-	-	-	-	-
+chtb_0179	0	26	4	CD	(NP(NP*	-	-	-	-	-
+chtb_0179	0	27	O'clock	NN	*)	-	-	-	-	-
+chtb_0179	0	28	in	IN	(PP*	-	-	-	-	-
+chtb_0179	0	29	the	DT	(NP*	-	-	-	-	-
+chtb_0179	0	30	morning	NN	*))	morning	-	1	-	-
+chtb_0179	0	31	local	JJ	(NP*	-	-	-	-	-
+chtb_0179	0	32	time	NN	*)))))	time	-	5	-	-
+chtb_0179	0	33	hit	VBD	(VP*	hit	01	1	-	-
+chtb_0179	0	34	a	DT	(NP*	-	-	-	-	-
+chtb_0179	0	35	large	JJ	(ADJP*	-	-	-	-	-
+chtb_0179	0	36	sized	JJ	*)	-	-	-	-	-
+chtb_0179	0	37	underground	JJ	*	-	-	-	-	-
+chtb_0179	0	38	bomb	NN	*	-	-	-	-	-
+chtb_0179	0	39	shelter	NN	*)))	shelter	-	1	-	-
+chtb_0179	0	40	and	CC	*	-	-	-	-	-
+chtb_0179	0	41	,	,	*	-	-	-	-	-
+chtb_0179	0	42	at	RB	(S(NP(NP(NP(QP(ADVP*	-	-	-	-	-
+chtb_0179	0	43	least	RBS	*)	-	-	-	-	-
+chtb_0179	0	44	500	CD	*)	-	-	-	-	-
+chtb_0179	0	45	civilians	NNS	*)	-	-	-	-	-
+chtb_0179	0	46	hiding	VBG	(VP*	hide	01	1	-	-
+chtb_0179	0	47	inside	RB	(ADVP*))))	-	-	-	-	-
+chtb_0179	0	48	were	VBD	(VP*	-	-	-	-	-
+chtb_0179	0	49	killed	VBN	(VP*	kill	01	1	-	-
+chtb_0179	0	50	,	,	*	-	-	-	-	-
+chtb_0179	0	51	more	JJR	(SBAR(WHNP(NP(QP*	-	-	-	-	-
+chtb_0179	0	52	than	IN	*	-	-	-	-	-
+chtb_0179	0	53	half	NN	*))	half	-	1	-	-
+chtb_0179	0	54	of	IN	(WHPP*	-	-	-	-	-
+chtb_0179	0	55	whom	WP	(WHNP*)))	-	-	-	-	-
+chtb_0179	0	56	were	VBD	(S(VP*	be	-	1	-	-
+chtb_0179	0	57	women	NNS	(NP*	woman	-	1	-	-
+chtb_0179	0	58	and	CC	*	-	-	-	-	-
+chtb_0179	0	59	children	NNS	*))))))))))	child	-	1	-	-
+chtb_0179	0	60	.	.	*))	-	-	-	-	-
+
+chtb_0179	0	0	The	DT	(TOP(S(NP*	-	-	-	-	(7
+chtb_0179	0	1	Tunisian	JJ	*	-	-	-	-	-
+chtb_0179	0	2	government	NN	*)	government	-	1	-	7)
+chtb_0179	0	3	thinks	VBZ	(VP*	think	01	1	-	-
+chtb_0179	0	4	that	IN	(SBAR*	-	-	-	-	-
+chtb_0179	0	5	this	DT	(S(NP*	-	-	-	-	(8
+chtb_0179	0	6	bombing	NN	*)	bomb	-	1	-	8)
+chtb_0179	0	7	again	RB	(ADVP*)	-	-	-	-	-
+chtb_0179	0	8	shows	VBZ	(VP*	show	01	1	-	-
+chtb_0179	0	9	that	IN	(SBAR*	-	-	-	-	-
+chtb_0179	0	10	the	DT	(S(NP(NP*	-	-	-	-	-
+chtb_0179	0	11	activity	NN	*)	activity	-	2	-	-
+chtb_0179	0	12	of	IN	(PP*	-	-	-	-	-
+chtb_0179	0	13	the	DT	(NP*	-	-	-	-	(6
+chtb_0179	0	14	multi-national	JJ	*	-	-	-	-	-
+chtb_0179	0	15	forces	NNS	*)))	force	-	2	-	6)
+chtb_0179	0	16	has	VBZ	(VP*	have	01	-	-	-
+chtb_0179	0	17	exceeded	VBN	(VP*	exceed	01	1	-	-
+chtb_0179	0	18	authorized	VBN	(NP(NP*	authorize	01	-	-	-
+chtb_0179	0	19	limits	NNS	*)	limit	-	2	-	-
+chtb_0179	0	20	set	VBN	(VP*	set	02	3	-	-
+chtb_0179	0	21	by	IN	(PP*	-	-	-	-	-
+chtb_0179	0	22	the	DT	(NP*	-	-	-	-	-
+chtb_0179	0	23	United	NNP	(NML(NML*	-	-	-	-	(0|(3
+chtb_0179	0	24	Nations	NNPS	*)	-	-	-	-	0)
+chtb_0179	0	25	Security	NNP	*	-	-	-	-	-
+chtb_0179	0	26	Council	NNP	*)	-	-	-	-	3)
+chtb_0179	0	27	decision	NN	*))))))))))))	-	-	-	-	-
+chtb_0179	0	28	.	.	*))	-	-	-	-	-
+
+chtb_0179	0	0	Tunisia	NNP	(TOP(S(NP*)	-	-	-	-	(7)	(7)
+chtb_0179	0	1	has	VBZ	(VP*	have	01	-	-	-	-
+chtb_0179	0	2	again	RB	(ADVP*)	-	-	-	-	-	-
+chtb_0179	0	3	appealed	VBN	(VP*	appeal	02	2	-	-	-
+chtb_0179	0	4	to	IN	(PP*	-	-	-	-	-	-
+chtb_0179	0	5	international	JJ	(NP*	-	-	-	-	-	-
+chtb_0179	0	6	conscience	NN	*))	-	-	-	-	-	-
+chtb_0179	0	7	to	TO	(S(VP(VP*	-	-	-	-	-	-
+chtb_0179	0	8	take	VB	(VP*	take	-	1	-	-	-
+chtb_0179	0	9	action	NN	(NP*)))	action	01	1	-	-	-
+chtb_0179	0	10	,	,	*	-	-	-	-	-	-
+chtb_0179	0	11	to	TO	(VP*	-	-	-	-	-	-
+chtb_0179	0	12	stop	VB	(VP(VP*	stop	01	2	-	-	-
+chtb_0179	0	13	the	DT	(NP*	-	-	-	-	-	-
+chtb_0179	0	14	blood	NN	*))	-	-	-	-	-	-
+chtb_0179	0	15	and	CC	*	-	-	-	-	-	-
+chtb_0179	0	16	end	VB	(VP*	end	01	2	-	-	-
+chtb_0179	0	17	the	DT	(NP*	-	-	-	-	-	-
+chtb_0179	0	18	destructive	JJ	*	-	-	-	-	-	-
+chtb_0179	0	19	war	NN	*))	war	01	1	-	-	-
+chtb_0179	0	20	,	,	*	-	-	-	-	-	-
+chtb_0179	0	21	and	CC	*	-	-	-	-	-	-
+chtb_0179	0	22	create	VB	(VP*	create	01	1	-	-	-
+chtb_0179	0	23	conditions	NNS	(NP(NP*)	condition	-	1	-	-	-
+chtb_0179	0	24	for	IN	(PP*	-	-	-	-	-	-
+chtb_0179	0	25	a	DT	(NP(NP*	-	-	-	-	-	-
+chtb_0179	0	26	peaceful	JJ	*	-	-	-	-	-	-
+chtb_0179	0	27	settlement	NN	*)	settlement	01	3	-	-	-
+chtb_0179	0	28	of	IN	(PP*	-	-	-	-	-	-
+chtb_0179	0	29	the	DT	(NP*	-	-	-	-	-	-
+chtb_0179	0	30	conflict	NN	*))))))))))))	conflict	01	1	-	-	-
+chtb_0179	0	31	.	.	*))	-	-	-	-	-	-
+
+chtb_0179	0	0	Ashitaer	NNP	(TOP(S(NP(NP*)	-	-	-	-	(2
+chtb_0179	0	1	,	,	*	-	-	-	-	-
+chtb_0179	0	2	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0179	0	3	UN	NNP	*	-	-	-	-	(0)
+chtb_0179	0	4	representative	NN	*)	-	-	-	-	-
+chtb_0179	0	5	of	IN	(PP*	-	-	-	-	-
+chtb_0179	0	6	Yemen	NNP	(NP*))))	-	-	-	-	2)
+chtb_0179	0	7	strongly	RB	(VP(VP(ADVP*)	-	-	-	-	-
+chtb_0179	0	8	condemned	VBD	*	condemn	01	1	-	-
+chtb_0179	0	9	this	DT	(NP*	-	-	-	-	(8
+chtb_0179	0	10	incident	NN	*))	incident	-	2	-	8)
+chtb_0179	0	11	and	CC	*	-	-	-	-	-
+chtb_0179	0	12	asked	VBD	(VP*	ask	02	2	-	-
+chtb_0179	0	13	the	DT	(NP*	-	-	-	-	(3
+chtb_0179	0	14	United	NNP	(NML*	-	-	-	-	(0
+chtb_0179	0	15	Nations	NNPS	*)	-	-	-	-	0)
+chtb_0179	0	16	Security	NNP	*	-	-	-	-	-
+chtb_0179	0	17	Council	NNP	*)	-	-	-	-	3)
+chtb_0179	0	18	to	TO	(S(VP*	-	-	-	-	-
+chtb_0179	0	19	be	VB	(VP*	be	-	1	-	-
+chtb_0179	0	20	responsible	JJ	(ADJP*	-	-	-	-	-
+chtb_0179	0	21	for	IN	(PP*	-	-	-	-	-
+chtb_0179	0	22	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0179	0	23	passed	VBN	(NML*	pass	01	-	-	-
+chtb_0179	0	24	resolution	NN	*)	resolution	-	1	-	-
+chtb_0179	0	25	No.	NN	*	-	-	-	-	-
+chtb_0179	0	26	678	CD	*)	-	-	-	-	-
+chtb_0179	0	27	which	WDT	(SBAR(WHNP*)	-	-	-	-	-
+chtb_0179	0	28	permits	VBZ	(S(VP*	permit	01	1	-	-
+chtb_0179	0	29	military	NN	(NP(NP*	-	-	-	-	-
+chtb_0179	0	30	actions	NNS	*)	action	01	1	-	-
+chtb_0179	0	31	against	IN	(PP*	-	-	-	-	-
+chtb_0179	0	32	Iraq	NNP	(NP*))))))))))))))	-	-	-	-	(4)
+chtb_0179	0	33	.	.	*))	-	-	-	-	-
+
+chtb_0179	0	0	He	PRP	(TOP(S(NP*)	-	-	-	-	(2)
+chtb_0179	0	1	said	VBD	(VP*	say	01	1	-	-
+chtb_0179	0	2	that	IN	(SBAR*	-	-	-	-	-
+chtb_0179	0	3	no	DT	(S(NP*	-	-	-	-	-
+chtb_0179	0	4	one	NN	*)	one	-	2	-	-
+chtb_0179	0	5	feels	VBZ	(VP*	feel	02	3	-	-
+chtb_0179	0	6	this	DT	(SBAR(S(NP*	-	-	-	-	(8
+chtb_0179	0	7	"	``	(ADJP*	-	-	-	-	-
+chtb_0179	0	8	ferocious	JJ	*	-	-	-	-	-
+chtb_0179	0	9	and	CC	*	-	-	-	-	-
+chtb_0179	0	10	inexcusable	JJ	*	-	-	-	-	-
+chtb_0179	0	11	"	''	*)	-	-	-	-	-
+chtb_0179	0	12	bombing	NN	*)	bomb	-	1	-	8)
+chtb_0179	0	13	is	VBZ	(VP*	be	-	1	-	-
+chtb_0179	0	14	just	JJ	(ADJP*))))))))	-	-	-	-	-
+chtb_0179	0	15	.	.	*))	-	-	-	-	-
+
+chtb_0179	0	0	In	IN	(TOP(S(PP*	-	-	-	-	-
+chtb_0179	0	1	Amman	NNP	(NP(NP*)	-	-	-	-	-
+chtb_0179	0	2	,	,	(NP*	-	-	-	-	-
+chtb_0179	0	3	capital	NN	(NP*)	capital	-	2	-	-
+chtb_0179	0	4	of	IN	(PP*	-	-	-	-	-
+chtb_0179	0	5	Jordan	NNP	(NP*))	-	-	-	-	-
+chtb_0179	0	6	,	,	*)))	-	-	-	-	-
+chtb_0179	0	7	thousands	NNS	(NP(NP*)	-	-	-	-	-
+chtb_0179	0	8	of	IN	(PP*	-	-	-	-	-
+chtb_0179	0	9	angry	JJ	(NP*	-	-	-	-	-
+chtb_0179	0	10	people	NNS	*)))	people	-	1	-	-
+chtb_0179	0	11	paraded	VBD	(VP*	parade	01	-	-	-
+chtb_0179	0	12	and	CC	*	-	-	-	-	-
+chtb_0179	0	13	demonstrated	VBD	*	demonstrate	01	3	-	-
+chtb_0179	0	14	in	IN	(PP*	-	-	-	-	-
+chtb_0179	0	15	front	NN	(NP(NP*)	front	-	1	-	-
+chtb_0179	0	16	of	IN	(PP*	-	-	-	-	-
+chtb_0179	0	17	the	DT	(NP*	-	-	-	-	-
+chtb_0179	0	18	US	NNP	*	-	-	-	-	-
+chtb_0179	0	19	embassy	NN	*))))	-	-	-	-	-
+chtb_0179	0	20	,	,	*	-	-	-	-	-
+chtb_0179	0	21	objecting	VBG	(S(VP*	object	01	1	-	-
+chtb_0179	0	22	to	IN	(PP*	-	-	-	-	-
+chtb_0179	0	23	the	DT	(S(NP*	-	-	-	-	(6
+chtb_0179	0	24	multi-national	JJ	*	-	-	-	-	-
+chtb_0179	0	25	forces	NNS	*)	force	-	2	-	6)
+chtb_0179	0	26	bombing	VBG	(VP*	bomb	01	1	-	-
+chtb_0179	0	27	and	CC	*	-	-	-	-	-
+chtb_0179	0	28	killing	VBG	*	kill	01	1	-	-
+chtb_0179	0	29	innocent	JJ	(NP*	-	-	-	-	-
+chtb_0179	0	30	civilians	NNS	*)	-	-	-	-	-
+chtb_0179	0	31	in	IN	(PP*	-	-	-	-	-
+chtb_0179	0	32	Baghdad	NNP	(NP*))))))))	-	-	-	-	(1)
+chtb_0179	0	33	.	.	*))	-	-	-	-	-
+
+#end document

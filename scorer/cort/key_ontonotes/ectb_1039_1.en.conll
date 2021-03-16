@@ -1,0 +1,630 @@
+#begin document (ectb_1039_1); part 000
+ectb_1039	1	0	After	IN	(TOP(S(PP*	-	-	-	-	-
+ectb_1039	1	1	assuming	VBG	(S(VP*	assume	01	2	-	-
+ectb_1039	1	2	the	DT	(NP*	-	-	-	-	(4
+ectb_1039	1	3	presidency	NN	*))))	-	-	-	-	4)
+ectb_1039	1	4	,	,	*	-	-	-	-	-
+ectb_1039	1	5	Chen	NNP	(NP*	-	-	-	-	(6
+ectb_1039	1	6	Shui	NNP	*	-	-	-	-	-
+ectb_1039	1	7	-	HYPH	*	-	-	-	-	-
+ectb_1039	1	8	bian	NNP	*)	-	-	-	-	6)
+ectb_1039	1	9	recruited	VBD	(VP*	recruit	01	1	-	-
+ectb_1039	1	10	a	DT	(NP(NP*	-	-	-	-	-
+ectb_1039	1	11	number	NN	*)	number	-	1	-	-
+ectb_1039	1	12	of	IN	(PP*	-	-	-	-	-
+ectb_1039	1	13	leading	VBG	(NP(NP*	lead	01	-	-	-
+ectb_1039	1	14	politicians	NNS	*)	-	-	-	-	-
+ectb_1039	1	15	,	,	*	-	-	-	-	-
+ectb_1039	1	16	industrialists	NNS	(NP*)	-	-	-	-	-
+ectb_1039	1	17	,	,	*	-	-	-	-	-
+ectb_1039	1	18	academics	NNS	(NP*)	-	-	-	-	-
+ectb_1039	1	19	and	CC	*	-	-	-	-	-
+ectb_1039	1	20	other	JJ	(NP*	-	-	-	-	-
+ectb_1039	1	21	personages	NNS	*))))	-	-	-	-	-
+ectb_1039	1	22	for	IN	(PP*	-	-	-	-	-
+ectb_1039	1	23	a	DT	(NP(NP*	-	-	-	-	-
+ectb_1039	1	24	non-partisan	JJ	*	-	-	-	-	-
+ectb_1039	1	25	advisory	JJ	*	-	-	-	-	-
+ectb_1039	1	26	group	NN	*)	group	-	1	-	-
+ectb_1039	1	27	,	,	*	-	-	-	-	-
+ectb_1039	1	28	intended	VBN	(VP*	intend	01	1	-	-
+ectb_1039	1	29	to	TO	(S(VP*	-	-	-	-	-
+ectb_1039	1	30	build	VB	(VP*	build	01	3	-	-
+ectb_1039	1	31	cross-party	JJ	(NP(NP*	-	-	-	-	-
+ectb_1039	1	32	consensus	NN	*)	-	-	-	-	-
+ectb_1039	1	33	on	IN	(PP*	-	-	-	-	-
+ectb_1039	1	34	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1039	1	35	subject	NN	*)	subject	-	1	-	-
+ectb_1039	1	36	of	IN	(PP*	-	-	-	-	-
+ectb_1039	1	37	relations	NNS	(NP(NP*)	relation	01	3	-	-
+ectb_1039	1	38	with	IN	(PP*	-	-	-	-	-
+ectb_1039	1	39	the	DT	(NP*	-	-	-	-	(28
+ectb_1039	1	40	mainland	NN	*))))))))))))))	-	-	-	-	28)
+ectb_1039	1	41	.	.	*))	-	-	-	-	-
+
+ectb_1039	1	0	Chaired	VBN	(TOP(S(VP*	chair	01	1	-	-
+ectb_1039	1	1	by	IN	(PP*	-	-	-	-	-
+ectb_1039	1	2	Academia	NNP	(NP(NML*	-	-	-	-	(17|(25
+ectb_1039	1	3	Sinica	NNP	*	-	-	-	-	25)
+ectb_1039	1	4	president	NN	*)	president	-	1	-	-
+ectb_1039	1	5	Lee	NNP	*	-	-	-	-	-
+ectb_1039	1	6	Yuan	NNP	*	-	-	-	-	-
+ectb_1039	1	7	-	HYPH	*	-	-	-	-	-
+ectb_1039	1	8	tseh	NNP	*)))	-	-	-	-	17)
+ectb_1039	1	9	,	,	*	-	-	-	-	-
+ectb_1039	1	10	the	DT	(NP(NP(NP*	-	-	-	-	(26
+ectb_1039	1	11	Presidential	NNP	*	-	-	-	-	-
+ectb_1039	1	12	Advisory	NNP	*	-	-	-	-	-
+ectb_1039	1	13	Group	NNP	*)	-	-	-	-	-
+ectb_1039	1	14	on	IN	(PP*	-	-	-	-	-
+ectb_1039	1	15	Cross-Strait	JJ	(NP*	-	-	-	-	-
+ectb_1039	1	16	Relations	NNPS	*))))	-	-	-	-	26)
+ectb_1039	1	17	first	RB	(ADVP*)	-	-	-	-	-
+ectb_1039	1	18	met	VBD	(VP*	meet	02	2	-	-
+ectb_1039	1	19	in	IN	(PP*	-	-	-	-	-
+ectb_1039	1	20	early	JJ	(NP*	-	-	-	-	-
+ectb_1039	1	21	September	NNP	*)))	-	-	-	-	-
+ectb_1039	1	22	.	.	*))	-	-	-	-	-
+
+ectb_1039	1	0	Since	IN	(TOP(S(PP*	-	-	-	-	-
+ectb_1039	1	1	then	RB	(ADVP*))	-	-	-	-	-
+ectb_1039	1	2	the	DT	(NP*	-	-	-	-	(26
+ectb_1039	1	3	Group	NNP	*)	-	-	-	-	26)
+ectb_1039	1	4	has	VBZ	(VP*	have	01	-	-	-
+ectb_1039	1	5	held	VBN	(VP*	hold	04	8	-	-
+ectb_1039	1	6	a	DT	(NP(NP*	-	-	-	-	-
+ectb_1039	1	7	series	NN	*)	series	-	1	-	-
+ectb_1039	1	8	of	IN	(PP*	-	-	-	-	-
+ectb_1039	1	9	intensive	JJ	(NP(NP*	-	-	-	-	-
+ectb_1039	1	10	discussions	NNS	*)	discussion	-	2	-	-
+ectb_1039	1	11	on	IN	(PP*	-	-	-	-	-
+ectb_1039	1	12	Taiwan	NNP	(NP(NP(NP*	-	-	-	-	(24
+ectb_1039	1	13	's	POS	*)	-	-	-	-	24)
+ectb_1039	1	14	fundamental	JJ	*	-	-	-	-	-
+ectb_1039	1	15	position	NN	*)	position	-	3	-	-
+ectb_1039	1	16	regarding	VBG	(PP*	regard	01	3	-	-
+ectb_1039	1	17	the	DT	(NP*	-	-	-	-	-
+ectb_1039	1	18	cross-strait	JJ	*	-	-	-	-	-
+ectb_1039	1	19	relationship	NN	*)))))))))	relationship	01	3	-	-
+ectb_1039	1	20	.	.	*))	-	-	-	-	-
+
+ectb_1039	1	0	The	DT	(TOP(S(S(NP*	-	-	-	-	(26
+ectb_1039	1	1	Group	NNP	*)	-	-	-	-	26)
+ectb_1039	1	2	entered	VBD	(VP*	enter	01	1	-	-
+ectb_1039	1	3	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1039	1	4	final	JJ	*	-	-	-	-	-
+ectb_1039	1	5	phase	NN	*)	phase	-	1	-	-
+ectb_1039	1	6	of	IN	(PP*	-	-	-	-	-
+ectb_1039	1	7	discussions	NNS	(NP(NP*)	discussion	-	2	-	-
+ectb_1039	1	8	on	IN	(PP*	-	-	-	-	-
+ectb_1039	1	9	the	DT	(NP*	-	-	-	-	(13
+ectb_1039	1	10	"	``	(NML*	-	-	-	-	-
+ectb_1039	1	11	one	CD	*	-	-	-	-	-
+ectb_1039	1	12	China	NNP	*	-	-	-	-	-
+ectb_1039	1	13	"	''	*)	-	-	-	-	-
+ectb_1039	1	14	issue	NN	*)))))	issue	-	1	-	13)
+ectb_1039	1	15	during	IN	(PP*	-	-	-	-	-
+ectb_1039	1	16	November	NNP	(NP*))))	-	-	-	-	-
+ectb_1039	1	17	,	,	*	-	-	-	-	-
+ectb_1039	1	18	but	CC	*	-	-	-	-	-
+ectb_1039	1	19	differences	NNS	(S(NP(NP*)	difference	-	3	-	-
+ectb_1039	1	20	between	IN	(PP*	-	-	-	-	-
+ectb_1039	1	21	pro-unification	JJ	(NP(ADJP*	-	-	-	-	-
+ectb_1039	1	22	and	CC	*	-	-	-	-	-
+ectb_1039	1	23	pro-independence	JJ	*)	-	-	-	-	-
+ectb_1039	1	24	participants	NNS	*)))	-	-	-	-	-
+ectb_1039	1	25	continued	VBD	(VP*	continue	01	1	-	-
+ectb_1039	1	26	to	TO	(S(VP*	-	-	-	-	-
+ectb_1039	1	27	stymie	VB	(VP*	stymie	01	-	-	-
+ectb_1039	1	28	the	DT	(NP*	-	-	-	-	-
+ectb_1039	1	29	effort	NN	*	effort	-	1	-	-
+ectb_1039	1	30	to	TO	(S(VP*	-	-	-	-	-
+ectb_1039	1	31	produce	VB	(VP*	produce	01	1	-	-
+ectb_1039	1	32	a	DT	(NP(NP*	-	-	-	-	-
+ectb_1039	1	33	statement	NN	*)	statement	01	1	-	-
+ectb_1039	1	34	acceptable	JJ	(ADJP*	-	-	-	-	-
+ectb_1039	1	35	to	IN	(PP*	-	-	-	-	-
+ectb_1039	1	36	all	DT	(NP*)))))))))))))	-	-	-	-	-
+ectb_1039	1	37	.	.	*))	-	-	-	-	-
+
+ectb_1039	1	0	As	IN	(TOP(S(SBAR*	-	-	-	-	-
+ectb_1039	1	1	DPP	NNP	(S(NP(NML*	-	-	-	-	(5)
+ectb_1039	1	2	legislator	NN	*)	-	-	-	-	-
+ectb_1039	1	3	Shen	NNP	*	-	-	-	-	-
+ectb_1039	1	4	Fu	NNP	*	-	-	-	-	-
+ectb_1039	1	5	-	HYPH	*	-	-	-	-	-
+ectb_1039	1	6	hsiung	NNP	*)	-	-	-	-	-
+ectb_1039	1	7	pointed	VBD	(VP*	point	02	1	-	-
+ectb_1039	1	8	out	RP	(PRT*))))	-	-	-	-	-
+ectb_1039	1	9	,	,	*	-	-	-	-	-
+ectb_1039	1	10	the	DT	(NP*	-	-	-	-	(26
+ectb_1039	1	11	Group	NNP	*)	-	-	-	-	26)
+ectb_1039	1	12	had	VBD	(VP*	have	02	12	-	-
+ectb_1039	1	13	to	TO	(S(VP*	-	-	-	-	-
+ectb_1039	1	14	draft	VB	(VP*	draft	01	1	-	(15)
+ectb_1039	1	15	something	NN	(NP(NP(NP*)	-	-	-	-	-
+ectb_1039	1	16	"	``	*	-	-	-	-	-
+ectb_1039	1	17	palatable	JJ	(ADJP*	-	-	-	-	-
+ectb_1039	1	18	both	CC	(PP*	-	-	-	-	-
+ectb_1039	1	19	to	IN	*	-	-	-	-	-
+ectb_1039	1	20	the	DT	(NP*	-	-	-	-	-
+ectb_1039	1	21	pro-unification	JJ	(ADJP*	-	-	-	-	-
+ectb_1039	1	22	and	CC	*	-	-	-	-	-
+ectb_1039	1	23	pro-independence	JJ	*)	-	-	-	-	-
+ectb_1039	1	24	camps	NNS	*))))	camp	-	6	-	-
+ectb_1039	1	25	;	,	*	-	-	-	-	-
+ectb_1039	1	26	something	NN	(NP(NP*)	-	-	-	-	-
+ectb_1039	1	27	which	WDT	(SBAR(SBAR(WHNP*)	-	-	-	-	-
+ectb_1039	1	28	the	DT	(S(NP*	-	-	-	-	(5
+ectb_1039	1	29	DPP	NNP	*)	-	-	-	-	5)
+ectb_1039	1	30	ca	MD	(VP*	-	-	-	-	-
+ectb_1039	1	31	n't	RB	*	-	-	-	-	-
+ectb_1039	1	32	shun	VB	(VP*))))	shun	01	1	-	-
+ectb_1039	1	33	and	CC	(CONJP*	-	-	-	-	-
+ectb_1039	1	34	yet	CC	*)	-	-	-	-	-
+ectb_1039	1	35	which	WDT	(SBAR(WHNP*)	-	-	-	-	-
+ectb_1039	1	36	does	VBZ	(S(VP*	do	01	-	-	-
+ectb_1039	1	37	n't	RB	*	-	-	-	-	-
+ectb_1039	1	38	make	VB	(VP*	make	02	4	-	-
+ectb_1039	1	39	Beijing	NNP	(S(NP*)	-	-	-	-	(28)
+ectb_1039	1	40	wince	VB	(VP*)))))))))))))	wince	01	-	-	-
+ectb_1039	1	41	.	.	*	-	-	-	-	-
+ectb_1039	1	42	"	''	*))	-	-	-	-	-
+
+ectb_1039	1	0	Clearly	RB	(TOP(FRAG(ADVP*)	-	-	-	-	-
+ectb_1039	1	1	no	DT	(NP*	-	-	-	-	(15
+ectb_1039	1	2	easy	JJ	*	-	-	-	-	-
+ectb_1039	1	3	task	NN	*)	task	-	1	-	15)
+ectb_1039	1	4	.	.	*))	-	-	-	-	-
+
+ectb_1039	1	0	On	IN	(TOP(S(PP*	-	-	-	-	-
+ectb_1039	1	1	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1039	1	2	evening	NN	*)	-	-	-	-	-
+ectb_1039	1	3	of	IN	(PP*	-	-	-	-	-
+ectb_1039	1	4	November	NNP	(NP*	-	-	-	-	-
+ectb_1039	1	5	18	CD	*))))	-	-	-	-	-
+ectb_1039	1	6	Advisory	NNP	(NP(NP(NP*	-	-	-	-	(17|(26
+ectb_1039	1	7	Group	NNP	*	-	-	-	-	26)
+ectb_1039	1	8	chairman	NN	*)	-	-	-	-	-
+ectb_1039	1	9	Lee	NNP	(NP*	-	-	-	-	-
+ectb_1039	1	10	Yuan	NNP	*	-	-	-	-	-
+ectb_1039	1	11	-	HYPH	*	-	-	-	-	-
+ectb_1039	1	12	tseh	NNP	*))	-	-	-	-	-
+ectb_1039	1	13	,	,	*	-	-	-	-	-
+ectb_1039	1	14	meeting	VBG	(VP*	meet	03	2	-	-
+ectb_1039	1	15	over	IN	(PP*	-	-	-	-	-
+ectb_1039	1	16	dinner	NN	(NP*))	-	-	-	-	-
+ectb_1039	1	17	with	IN	(PP*	-	-	-	-	-
+ectb_1039	1	18	DPP	NNP	(NP*	-	-	-	-	(5)
+ectb_1039	1	19	faction	NN	*	faction	-	1	-	-
+ectb_1039	1	20	leaders	NNS	*))))	leader	-	1	-	17)
+ectb_1039	1	21	,	,	*	-	-	-	-	-
+ectb_1039	1	22	described	VBD	(VP(VP*	describe	01	1	-	-
+ectb_1039	1	23	the	DT	(NP*	-	-	-	-	-
+ectb_1039	1	24	cross-strait	JJ	*	-	-	-	-	-
+ectb_1039	1	25	situation	NN	*)	situation	-	1	-	-
+ectb_1039	1	26	as	IN	(PP*	-	-	-	-	-
+ectb_1039	1	27	extremely	RB	(ADJP*	-	-	-	-	-
+ectb_1039	1	28	precarious	JJ	*)))	-	-	-	-	-
+ectb_1039	1	29	,	,	*	-	-	-	-	-
+ectb_1039	1	30	and	CC	*	-	-	-	-	-
+ectb_1039	1	31	said	VBD	(VP*	say	01	1	-	-
+ectb_1039	1	32	that	IN	(SBAR*	-	-	-	-	-
+ectb_1039	1	33	since	IN	(S(SBAR*	-	-	-	-	-
+ectb_1039	1	34	time	NN	(S(NP*)	time	-	3	-	-
+ectb_1039	1	35	is	VBZ	(VP*	be	01	4	-	-
+ectb_1039	1	36	not	RB	*	-	-	-	-	-
+ectb_1039	1	37	on	IN	(PP*	-	-	-	-	-
+ectb_1039	1	38	Taiwan	NNP	(NP(NP*	-	-	-	-	(24
+ectb_1039	1	39	's	POS	*)	-	-	-	-	24)
+ectb_1039	1	40	side	NN	*)))))	side	-	3	-	-
+ectb_1039	1	41	we	PRP	(NP*)	-	-	-	-	-
+ectb_1039	1	42	need	VBP	(VP*	need	01	2	-	-
+ectb_1039	1	43	to	TO	(S(VP*	-	-	-	-	-
+ectb_1039	1	44	step	VB	(VP*	step	03	10	-	-
+ectb_1039	1	45	up	RP	(PRT*)	-	-	-	-	-
+ectb_1039	1	46	efforts	NNS	(NP*	effort	-	1	-	-
+ectb_1039	1	47	to	TO	(S(VP*	-	-	-	-	-
+ectb_1039	1	48	resume	VB	(VP*	resume	01	1	-	-
+ectb_1039	1	49	dialogue	NN	(NP(NP*)	dialogue	01	3	-	-
+ectb_1039	1	50	with	IN	(PP*	-	-	-	-	-
+ectb_1039	1	51	the	DT	(NP*	-	-	-	-	(28
+ectb_1039	1	52	mainland	NN	*)))))))))))))))	-	-	-	-	28)
+ectb_1039	1	53	.	.	*))	-	-	-	-	-
+
+ectb_1039	1	0	Separately	RB	(TOP(S(ADVP*)	-	-	-	-	-
+ectb_1039	1	1	,	,	*	-	-	-	-	-
+ectb_1039	1	2	during	IN	(PP*	-	-	-	-	-
+ectb_1039	1	3	his	PRP$	(NP(NP*	-	-	-	-	(17)
+ectb_1039	1	4	report	NN	*)	report	01	2	-	-
+ectb_1039	1	5	to	IN	(PP*	-	-	-	-	-
+ectb_1039	1	6	the	DT	(NP*	-	-	-	-	-
+ectb_1039	1	7	Legislative	NNP	*	-	-	-	-	-
+ectb_1039	1	8	Yuan	NNP	*))	-	-	-	-	-
+ectb_1039	1	9	on	IN	(PP*	-	-	-	-	-
+ectb_1039	1	10	the	DT	(NP(NP*	-	-	-	-	(25
+ectb_1039	1	11	Academia	NNP	*	-	-	-	-	-
+ectb_1039	1	12	Sinica	NNP	*	-	-	-	-	-
+ectb_1039	1	13	's	POS	*)	-	-	-	-	25)
+ectb_1039	1	14	budget	NN	*))))	budget	-	2	-	-
+ectb_1039	1	15	,	,	*	-	-	-	-	-
+ectb_1039	1	16	Lee	NNP	(NP*)	-	-	-	-	(17)
+ectb_1039	1	17	reiterated	VBD	(VP*	reiterate	01	1	-	-
+ectb_1039	1	18	:	:	*	-	-	-	-	-
+ectb_1039	1	19	"	``	*	-	-	-	-	-
+ectb_1039	1	20	If	IN	(S(SBAR*	-	-	-	-	-
+ectb_1039	1	21	the	DT	(S(NP*	-	-	-	-	-
+ectb_1039	1	22	whole	JJ	*	-	-	-	-	-
+ectb_1039	1	23	population	NN	*)	population	-	2	-	-
+ectb_1039	1	24	could	MD	(VP*	-	-	-	-	-
+ectb_1039	1	25	arrive	VB	(VP*	arrive	01	1	-	-
+ectb_1039	1	26	at	IN	(PP*	-	-	-	-	-
+ectb_1039	1	27	a	DT	(NP(NP*	-	-	-	-	-
+ectb_1039	1	28	consensus	NN	*)	-	-	-	-	-
+ectb_1039	1	29	on	IN	(PP*	-	-	-	-	-
+ectb_1039	1	30	'	``	(NP*	-	-	-	-	(13
+ectb_1039	1	31	one	CD	*	-	-	-	-	-
+ectb_1039	1	32	China	NNP	*))))))))	-	-	-	-	13)
+ectb_1039	1	33	,	,	*	-	-	-	-	-
+ectb_1039	1	34	'	''	*	-	-	-	-	-
+ectb_1039	1	35	then	RB	(ADVP*)	-	-	-	-	-
+ectb_1039	1	36	President	NNP	(NP*	-	-	-	-	(6
+ectb_1039	1	37	Chen	NNP	*)	-	-	-	-	6)
+ectb_1039	1	38	would	MD	(VP*	-	-	-	-	-
+ectb_1039	1	39	have	VB	(VP*	have	03	2	-	-
+ectb_1039	1	40	no	DT	(NP(NP*	-	-	-	-	-
+ectb_1039	1	41	grounds	NNS	*)	-	-	-	-	-
+ectb_1039	1	42	for	IN	(PP*	-	-	-	-	-
+ectb_1039	1	43	not	RB	(S(VP*	-	-	-	-	-
+ectb_1039	1	44	accepting	VBG	*	accept	01	-	-	-
+ectb_1039	1	45	that	DT	(NP*	-	-	-	-	-
+ectb_1039	1	46	consensus	NN	*)))))))))	-	-	-	-	-
+ectb_1039	1	47	.	.	*	-	-	-	-	-
+ectb_1039	1	48	"	''	*))	-	-	-	-	-
+
+ectb_1039	1	0	Lee	NNP	(TOP(S(NP*)	-	-	-	-	(17)
+ectb_1039	1	1	added	VBD	(VP*	add	01	1	-	-
+ectb_1039	1	2	that	IN	(SBAR*	-	-	-	-	-
+ectb_1039	1	3	he	PRP	(S(NP*)	-	-	-	-	(17)
+ectb_1039	1	4	hoped	VBD	(VP*	hope	01	1	-	-
+ectb_1039	1	5	the	DT	(SBAR(S(NP*	-	-	-	-	(26
+ectb_1039	1	6	Advisory	NNP	*	-	-	-	-	-
+ectb_1039	1	7	Group	NNP	*)	-	-	-	-	26)
+ectb_1039	1	8	would	MD	(VP*	-	-	-	-	-
+ectb_1039	1	9	shortly	RB	(ADVP*)	-	-	-	-	-
+ectb_1039	1	10	come	VB	(VP*	come	01	3	-	-
+ectb_1039	1	11	to	IN	(PP*	-	-	-	-	-
+ectb_1039	1	12	a	DT	(NP(NP*	-	-	-	-	-
+ectb_1039	1	13	firm	JJ	*	-	-	-	-	-
+ectb_1039	1	14	conclusion	NN	*)	conclusion	-	1	-	-
+ectb_1039	1	15	on	IN	(PP*	-	-	-	-	-
+ectb_1039	1	16	the	DT	(NP*	-	-	-	-	(13
+ectb_1039	1	17	"	``	(NML*	-	-	-	-	-
+ectb_1039	1	18	one	CD	*	-	-	-	-	-
+ectb_1039	1	19	China	NNP	*	-	-	-	-	-
+ectb_1039	1	20	"	''	*)	-	-	-	-	-
+ectb_1039	1	21	issue	NN	*))))))))))))	issue	-	1	-	13)
+ectb_1039	1	22	.	.	*))	-	-	-	-	-
+
+ectb_1039	1	0	Lee	NNP	(TOP(S(NP(NP*	-	-	-	-	(17
+ectb_1039	1	1	Yuan	NNP	*	-	-	-	-	-
+ectb_1039	1	2	-	HYPH	*	-	-	-	-	-
+ectb_1039	1	3	tseh	NNP	*	-	-	-	-	-
+ectb_1039	1	4	's	POS	*)	-	-	-	-	17)
+ectb_1039	1	5	appeal	NN	*)	appeal	-	1	-	-
+ectb_1039	1	6	made	VBD	(VP*	make	-	2	-	-
+ectb_1039	1	7	little	JJ	(NP*	-	-	-	-	-
+ectb_1039	1	8	impression	NN	*)	-	-	-	-	-
+ectb_1039	1	9	on	IN	(PP*	-	-	-	-	-
+ectb_1039	1	10	the	DT	(NP*	-	-	-	-	(5
+ectb_1039	1	11	governing	VBG	*	govern	01	-	-	-
+ectb_1039	1	12	DPP	NNP	*))	-	-	-	-	5)
+ectb_1039	1	13	,	,	*	-	-	-	-	-
+ectb_1039	1	14	however	RB	(ADVP*))	-	-	-	-	-
+ectb_1039	1	15	.	.	*))	-	-	-	-	-
+
+ectb_1039	1	0	Furthermore	RB	(TOP(S(ADVP*)	-	-	-	-	-
+ectb_1039	1	1	,	,	*	-	-	-	-	-
+ectb_1039	1	2	DPP	NNP	(S(NP(NP(NML*	-	-	-	-	(20|(5)
+ectb_1039	1	3	chairman	NN	*)	-	-	-	-	-
+ectb_1039	1	4	Frank	NNP	*	-	-	-	-	-
+ectb_1039	1	5	Hsieh	NNP	*)	-	-	-	-	-
+ectb_1039	1	6	himself	PRP	(NP*))	-	-	-	-	(20)|20)
+ectb_1039	1	7	came	VBD	(VP*	come	04	11	-	-
+ectb_1039	1	8	under	IN	(PP*	-	-	-	-	-
+ectb_1039	1	9	fire	NN	(NP*))	fire	01	5	-	-
+ectb_1039	1	10	within	IN	(PP*	-	-	-	-	-
+ectb_1039	1	11	the	DT	(NP*	-	-	-	-	(5
+ectb_1039	1	12	party	NN	*))	-	-	-	-	5)
+ectb_1039	1	13	after	IN	(PP*	-	-	-	-	-
+ectb_1039	1	14	stating	VBG	(S(VP*	state	01	1	-	-
+ectb_1039	1	15	:	:	*	-	-	-	-	-
+ectb_1039	1	16	"	``	*	-	-	-	-	-
+ectb_1039	1	17	The	DT	(S(NP(NP*	-	-	-	-	(12
+ectb_1039	1	18	constitution	NN	*)	-	-	-	-	-
+ectb_1039	1	19	of	IN	(PP*	-	-	-	-	-
+ectb_1039	1	20	the	DT	(NP*	-	-	-	-	(24
+ectb_1039	1	21	ROC	NNP	*)))	-	-	-	-	24)|12)
+ectb_1039	1	22	is	VBZ	(VP*	be	01	1	-	-
+ectb_1039	1	23	itself	PRP	(NP*)	-	-	-	-	(24)
+ectb_1039	1	24	a	DT	(NP*	-	-	-	-	-
+ectb_1039	1	25	one	NN	(NML*	one	-	1	-	-
+ectb_1039	1	26	China	NNP	*)	-	-	-	-	-
+ectb_1039	1	27	framework	NN	*))))))))	-	-	-	-	-
+ectb_1039	1	28	.	.	*))	-	-	-	-	-
+
+ectb_1039	1	0	Since	IN	(TOP(S(S(SBAR*	-	-	-	-	-
+ectb_1039	1	1	the	DT	(S(NP*	-	-	-	-	(5
+ectb_1039	1	2	DPP	NNP	*)	-	-	-	-	5)
+ectb_1039	1	3	has	VBZ	(VP*	have	01	-	-	-
+ectb_1039	1	4	participated	VBN	(VP*	participate	01	1	-	-
+ectb_1039	1	5	in	IN	(PP*	-	-	-	-	-
+ectb_1039	1	6	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1039	1	7	process	NN	*)	process	01	1	-	-
+ectb_1039	1	8	of	IN	(PP*	-	-	-	-	-
+ectb_1039	1	9	constitutional	JJ	(NP*	-	-	-	-	-
+ectb_1039	1	10	amendment	NN	*))))))))	-	-	-	-	-
+ectb_1039	1	11	it	PRP	(NP*)	-	-	-	-	(5)
+ectb_1039	1	12	ought	MD	(VP*	-	-	-	-	-
+ectb_1039	1	13	to	TO	(S(VP*	-	-	-	-	-
+ectb_1039	1	14	accept	VB	(VP*	accept	01	1	-	-
+ectb_1039	1	15	this	DT	(NP*	-	-	-	-	(12
+ectb_1039	1	16	constitution	NN	*))))))	-	-	-	-	12)
+ectb_1039	1	17	,	,	*	-	-	-	-	-
+ectb_1039	1	18	and	CC	*	-	-	-	-	-
+ectb_1039	1	19	as	IN	(S(PP*	-	-	-	-	-
+ectb_1039	1	20	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1039	1	21	party	NN	*)	-	-	-	-	-
+ectb_1039	1	22	of	IN	(PP*	-	-	-	-	-
+ectb_1039	1	23	government	NN	(NP*))))	government	-	1	-	-
+ectb_1039	1	24	we	PRP	(NP*)	-	-	-	-	(5)
+ectb_1039	1	25	ca	MD	(VP*	-	-	-	-	-
+ectb_1039	1	26	n't	RB	*	-	-	-	-	-
+ectb_1039	1	27	afford	VB	(VP*	afford	01	1	-	-
+ectb_1039	1	28	to	TO	(S(VP*	-	-	-	-	-
+ectb_1039	1	29	override	VB	(VP*	override	01	1	-	-
+ectb_1039	1	30	or	CC	*	-	-	-	-	-
+ectb_1039	1	31	reject	VB	*	reject	01	1	-	-
+ectb_1039	1	32	it	PRP	(NP*)))))))	-	-	-	-	(12)
+ectb_1039	1	33	.	.	*	-	-	-	-	-
+ectb_1039	1	34	"	''	*))	-	-	-	-	-
+
+ectb_1039	1	0	According	VBG	(TOP(S(PP*	accord	01	-	-	-
+ectb_1039	1	1	to	IN	(PP*	-	-	-	-	-
+ectb_1039	1	2	DPP	NNP	(NP(NML*	-	-	-	-	(0|(5)
+ectb_1039	1	3	lawmaker	NN	*)	-	-	-	-	-
+ectb_1039	1	4	Lin	NNP	*	-	-	-	-	-
+ectb_1039	1	5	Cho	NNP	*	-	-	-	-	-
+ectb_1039	1	6	-	HYPH	*	-	-	-	-	-
+ectb_1039	1	7	shui	NNP	*)))	-	-	-	-	0)
+ectb_1039	1	8	,	,	*	-	-	-	-	-
+ectb_1039	1	9	Chen	NNP	(NP*	-	-	-	-	(6
+ectb_1039	1	10	Shui	NNP	*	-	-	-	-	-
+ectb_1039	1	11	-	HYPH	*	-	-	-	-	-
+ectb_1039	1	12	bian	NNP	*)	-	-	-	-	6)
+ectb_1039	1	13	has	VBZ	(VP*	have	01	-	-	-
+ectb_1039	1	14	shown	VBN	(VP*	show	01	1	-	-
+ectb_1039	1	15	more	JJR	(NP(NP*	-	-	-	-	-
+ectb_1039	1	16	goodwill	NN	*))	-	-	-	-	-
+ectb_1039	1	17	to	IN	(PP*	-	-	-	-	-
+ectb_1039	1	18	Beijing	NNP	(NP*))	-	-	-	-	(28)
+ectb_1039	1	19	as	IN	(PP*	-	-	-	-	-
+ectb_1039	1	20	president	NN	(NP*))	president	-	2	-	-
+ectb_1039	1	21	than	IN	(SBAR*	-	-	-	-	-
+ectb_1039	1	22	Lee	NNP	(S(NP*	-	-	-	-	-
+ectb_1039	1	23	Teng	NNP	*	-	-	-	-	-
+ectb_1039	1	24	-	HYPH	*	-	-	-	-	-
+ectb_1039	1	25	hui	NNP	*)	-	-	-	-	-
+ectb_1039	1	26	ever	RB	(ADVP*)	-	-	-	-	-
+ectb_1039	1	27	did	VBD	(VP*)))	do	01	-	-	-
+ectb_1039	1	28	,	,	*	-	-	-	-	-
+ectb_1039	1	29	but	CC	(NAC*	-	-	-	-	-
+ectb_1039	1	30	without	IN	(PP*	-	-	-	-	-
+ectb_1039	1	31	any	DT	(NP*	-	-	-	-	-
+ectb_1039	1	32	response	RB	*)))))	-	-	-	-	-
+ectb_1039	1	33	-	,	*))	-	-	-	-	-
+
+ectb_1039	1	0	so	RB	(TOP(SBARQ(ADVP*)	-	-	-	-	-
+ectb_1039	1	1	why	WRB	(WHADVP*)	-	-	-	-	-
+ectb_1039	1	2	should	MD	(SQ*	-	-	-	-	-
+ectb_1039	1	3	he	PRP	(NP*)	-	-	-	-	(6)
+ectb_1039	1	4	once	RB	(ADVP*	-	-	-	-	-
+ectb_1039	1	5	again	RB	*)	-	-	-	-	-
+ectb_1039	1	6	be	VB	(VP*	be	03	-	-	-
+ectb_1039	1	7	expected	VBN	(VP*	expect	01	-	-	-
+ectb_1039	1	8	to	TO	(S(VP*	-	-	-	-	-
+ectb_1039	1	9	respond	VB	(VP*	respond	01	1	-	-
+ectb_1039	1	10	on	IN	(PP*	-	-	-	-	-
+ectb_1039	1	11	the	DT	(NP*	-	-	-	-	(13
+ectb_1039	1	12	"	``	(NML*	-	-	-	-	-
+ectb_1039	1	13	one	CD	*	-	-	-	-	-
+ectb_1039	1	14	China	NNP	*)	-	-	-	-	-
+ectb_1039	1	15	"	''	*	-	-	-	-	-
+ectb_1039	1	16	issue	NN	*))))))))	issue	-	1	-	13)
+ectb_1039	1	17	?	.	*))	-	-	-	-	-
+
+ectb_1039	1	0	Also	RB	(TOP(S(ADVP*)	-	-	-	-	-
+ectb_1039	1	1	,	,	*	-	-	-	-	-
+ectb_1039	1	2	Lin	NNP	(NP*)	-	-	-	-	(0)
+ectb_1039	1	3	disagrees	VBZ	(VP(VP*	disagree	01	1	-	-
+ectb_1039	1	4	with	IN	(PP*	-	-	-	-	-
+ectb_1039	1	5	Lee	NNP	(NP(NP*	-	-	-	-	(17
+ectb_1039	1	6	Yuan	NNP	*	-	-	-	-	-
+ectb_1039	1	7	-	HYPH	*	-	-	-	-	-
+ectb_1039	1	8	tseh	NNP	*	-	-	-	-	-
+ectb_1039	1	9	's	POS	*)	-	-	-	-	17)
+ectb_1039	1	10	assertion	NN	*	-	-	-	-	-
+ectb_1039	1	11	that	IN	(SBAR*	-	-	-	-	-
+ectb_1039	1	12	"	``	*	-	-	-	-	-
+ectb_1039	1	13	time	NN	(S(NP*)	time	-	3	-	-
+ectb_1039	1	14	is	VBZ	(VP*	be	01	4	-	-
+ectb_1039	1	15	not	RB	*	-	-	-	-	-
+ectb_1039	1	16	on	IN	(PP*	-	-	-	-	-
+ectb_1039	1	17	our	PRP$	(NP*	-	-	-	-	-
+ectb_1039	1	18	side	NN	*))))))))	side	-	3	-	-
+ectb_1039	1	19	,	,	*	-	-	-	-	-
+ectb_1039	1	20	"	''	*	-	-	-	-	-
+ectb_1039	1	21	and	CC	*	-	-	-	-	-
+ectb_1039	1	22	instead	RB	(VP(ADVP*)	-	-	-	-	-
+ectb_1039	1	23	feels	VBZ	*	feel	02	3	-	-
+ectb_1039	1	24	that	IN	(SBAR*	-	-	-	-	-
+ectb_1039	1	25	things	NNS	(S(NP*)	thing	-	1	-	-
+ectb_1039	1	26	are	VBP	(VP*	be	01	1	-	-
+ectb_1039	1	27	no	RB	(ADJP(ADJP*	-	-	-	-	-
+ectb_1039	1	28	worse	JJR	*)	-	-	-	-	-
+ectb_1039	1	29	than	IN	(PP*	-	-	-	-	-
+ectb_1039	1	30	before	RB	(ADVP*))))))))	-	-	-	-	-
+ectb_1039	1	31	.	.	*))	-	-	-	-	-
+
+ectb_1039	1	0	Meanwhile	RB	(TOP(S(ADVP*)	-	-	-	-	-
+ectb_1039	1	1	,	,	*	-	-	-	-	-
+ectb_1039	1	2	the	DT	(NP*	-	-	-	-	-
+ectb_1039	1	3	opposition	NN	*	-	-	-	-	-
+ectb_1039	1	4	alliance	NN	*)	-	-	-	-	-
+ectb_1039	1	5	has	VBZ	(VP*	have	01	-	-	-
+ectb_1039	1	6	been	VBN	(VP*	be	03	-	-	-
+ectb_1039	1	7	calling	VBG	(VP*	call	03	3	-	-
+ectb_1039	1	8	for	IN	(PP*	-	-	-	-	-
+ectb_1039	1	9	the	DT	(NP*	-	-	-	-	(5
+ectb_1039	1	10	DPP	NNP	*))	-	-	-	-	5)
+ectb_1039	1	11	to	TO	(S(VP*	-	-	-	-	-
+ectb_1039	1	12	"	``	*	-	-	-	-	-
+ectb_1039	1	13	shed	VB	(VP*	shed	01	1	-	-
+ectb_1039	1	14	its	PRP$	(NP*	-	-	-	-	(5)
+ectb_1039	1	15	ideological	JJ	*	-	-	-	-	-
+ectb_1039	1	16	baggage	NN	*)))))))	-	-	-	-	-
+ectb_1039	1	17	.	.	*	-	-	-	-	-
+ectb_1039	1	18	"	''	*))	-	-	-	-	-
+
+ectb_1039	1	0	On	IN	(TOP(S(PP*	-	-	-	-	-	-
+ectb_1039	1	1	November	NNP	(NP*	-	-	-	-	-	-
+ectb_1039	1	2	24	CD	*))	-	-	-	-	-	-
+ectb_1039	1	3	the	DT	(NP(NP*	-	-	-	-	(18	(18
+ectb_1039	1	4	New	NNP	*	-	-	-	-	-	-
+ectb_1039	1	5	Party	NNP	*)	-	-	-	-	-	-
+ectb_1039	1	6	,	,	*	-	-	-	-	-	-
+ectb_1039	1	7	which	WDT	(SBAR(WHNP*)	-	-	-	-	-	-
+ectb_1039	1	8	had	VBD	(S(VP*	have	01	-	-	-	-
+ectb_1039	1	9	already	RB	(ADVP*)	-	-	-	-	-	-
+ectb_1039	1	10	pulled	VBN	(VP*	pull	02	3	-	-	-
+ectb_1039	1	11	out	IN	(PP*	-	-	-	-	-	-
+ectb_1039	1	12	of	IN	(PP*	-	-	-	-	-	-
+ectb_1039	1	13	the	DT	(NP*	-	-	-	-	(26	(26
+ectb_1039	1	14	Advisory	NNP	*	-	-	-	-	-	-
+ectb_1039	1	15	Group	NNP	*))))))))	-	-	-	-	26)|18)	26)|18)
+ectb_1039	1	16	,	,	*	-	-	-	-	-	-
+ectb_1039	1	17	published	VBD	(VP*	publish	01	1	-	-	-
+ectb_1039	1	18	an	DT	(NP(NP(NP(NP*	-	-	-	-	-	-
+ectb_1039	1	19	article	NN	*)	article	-	1	-	-	-
+ectb_1039	1	20	in	IN	(PP*	-	-	-	-	-	-
+ectb_1039	1	21	the	DT	(NP*	-	-	-	-	-	-
+ectb_1039	1	22	press	NN	*)))	press	-	1	-	-	-
+ectb_1039	1	23	signed	VBN	(VP*	sign	01	-	-	-	-
+ectb_1039	1	24	by	IN	(PP*	-	-	-	-	-	-
+ectb_1039	1	25	leading	VBG	(NP(NP*	lead	02	-	-	-	-
+ectb_1039	1	26	members	NNS	*)	member	-	1	-	-	-
+ectb_1039	1	27	such	JJ	(PP*	-	-	-	-	-	-
+ectb_1039	1	28	as	IN	*	-	-	-	-	-	-
+ectb_1039	1	29	Yu	NNP	(NP(NP*	-	-	-	-	-	-
+ectb_1039	1	30	Mu	NNP	*	-	-	-	-	-	-
+ectb_1039	1	31	-	HYPH	*	-	-	-	-	-	-
+ectb_1039	1	32	ming	NNP	*)	-	-	-	-	-	-
+ectb_1039	1	33	and	CC	*	-	-	-	-	-	-
+ectb_1039	1	34	Chen	NNP	(NP*	-	-	-	-	-	-
+ectb_1039	1	35	Kui	NNP	*	-	-	-	-	-	-
+ectb_1039	1	36	-	HYPH	*	-	-	-	-	-	-
+ectb_1039	1	37	miao	NNP	*)))))))	-	-	-	-	-	-
+ectb_1039	1	38	,	,	*	-	-	-	-	-	-
+ectb_1039	1	39	in	IN	(SBAR(WHPP*	-	-	-	-	-	-
+ectb_1039	1	40	which	WDT	(WHNP*))	-	-	-	-	-	-
+ectb_1039	1	41	they	PRP	(S(NP*)	-	-	-	-	(18)	(18)
+ectb_1039	1	42	called	VBD	(VP*	call	03	6	-	-	-
+ectb_1039	1	43	on	IN	(PP*	-	-	-	-	-	-
+ectb_1039	1	44	the	DT	(NP*	-	-	-	-	(30	(30
+ectb_1039	1	45	government	NN	*))	government	-	1	-	30)	30)
+ectb_1039	1	46	to	TO	(S(VP*	-	-	-	-	-	-
+ectb_1039	1	47	take	VB	(VP*	take	04	7	-	-	-
+ectb_1039	1	48	the	DT	(NP*	-	-	-	-	(12	(12
+ectb_1039	1	49	constitution	NN	*)	-	-	-	-	12)	12)
+ectb_1039	1	50	as	IN	(PP*	-	-	-	-	-	-
+ectb_1039	1	51	its	PRP$	(NP(NP*	-	-	-	-	(30)	(30)
+ectb_1039	1	52	starting	VBG	*	start	01	-	-	-	-
+ectb_1039	1	53	point	NN	*)	point	-	2	-	-	-
+ectb_1039	1	54	for	IN	(PP*	-	-	-	-	-	-
+ectb_1039	1	55	breaking	VBG	(S(VP*	break	01	-	-	-	-
+ectb_1039	1	56	the	DT	(NP*	-	-	-	-	(13	(13
+ectb_1039	1	57	"	``	(NML*	-	-	-	-	-	-
+ectb_1039	1	58	one	CD	*	-	-	-	-	-	-
+ectb_1039	1	59	China	NNP	*	-	-	-	-	-	-
+ectb_1039	1	60	"	''	*)	-	-	-	-	-	-
+ectb_1039	1	61	deadlock	NN	*))))))))))))))	-	-	-	-	13)	13)
+ectb_1039	1	62	.	.	*))	-	-	-	-	-	-
+
+ectb_1039	1	0	They	PRP	(TOP(S(NP*)	-	-	-	-	(18)	(18)
+ectb_1039	1	1	pointed	VBD	(VP*	point	02	1	-	-	-
+ectb_1039	1	2	out	RP	(PRT*)	-	-	-	-	-	-
+ectb_1039	1	3	that	IN	(SBAR*	-	-	-	-	-	-
+ectb_1039	1	4	Chen	NNP	(S(NP(NP*)	-	-	-	-	(6)	(6)
+ectb_1039	1	5	and	CC	*	-	-	-	-	-	-
+ectb_1039	1	6	the	DT	(NP*	-	-	-	-	(5	(5
+ectb_1039	1	7	DPP	NNP	*))	-	-	-	-	5)	5)
+ectb_1039	1	8	had	VBD	(VP(VP*	have	01	-	-	-	-
+ectb_1039	1	9	competed	VBN	(VP*	compete	01	1	-	-	-
+ectb_1039	1	10	in	IN	(PP*	-	-	-	-	-	-
+ectb_1039	1	11	elections	NNS	(NP*))	-	-	-	-	-	-
+ectb_1039	1	12	in	IN	(PP*	-	-	-	-	-	-
+ectb_1039	1	13	accordance	NN	(NP(NP*)	accordance	02	1	-	-	-
+ectb_1039	1	14	with	IN	(PP*	-	-	-	-	-	-
+ectb_1039	1	15	the	DT	(NP*	-	-	-	-	(12	(12
+ectb_1039	1	16	constitution	NN	*))))	-	-	-	-	12)	12)
+ectb_1039	1	17	,	,	*	-	-	-	-	-	-
+ectb_1039	1	18	winning	VBG	(S(VP*	win	01	2	-	-	-
+ectb_1039	1	19	the	DT	(NP(NP*	-	-	-	-	(4	(4
+ectb_1039	1	20	presidency	NN	*)	-	-	-	-	4)	4)
+ectb_1039	1	21	and	CC	*	-	-	-	-	-	-
+ectb_1039	1	22	a	DT	(NP(NP*	-	-	-	-	-	-
+ectb_1039	1	23	share	NN	*)	share	-	1	-	-	-
+ectb_1039	1	24	of	IN	(PP*	-	-	-	-	-	-
+ectb_1039	1	25	seats	NNS	(NP(NP*)	seat	-	3	-	-	-
+ectb_1039	1	26	in	IN	(PP*	-	-	-	-	-	-
+ectb_1039	1	27	the	DT	(NP(NP*	-	-	-	-	-	-
+ectb_1039	1	28	legislature	NN	*)	-	-	-	-	-	-
+ectb_1039	1	29	and	CC	*	-	-	-	-	-	-
+ectb_1039	1	30	the	DT	(NP*	-	-	-	-	-	-
+ectb_1039	1	31	National	NNP	*	-	-	-	-	-	-
+ectb_1039	1	32	Assembly	NNP	*)))))))))))	-	-	-	-	-	-
+ectb_1039	1	33	,	,	*	-	-	-	-	-	-
+ectb_1039	1	34	and	CC	*	-	-	-	-	-	-
+ectb_1039	1	35	had	VBD	(VP*	have	01	-	-	-	-
+ectb_1039	1	36	also	RB	(ADVP*)	-	-	-	-	-	-
+ectb_1039	1	37	participated	VBN	(VP*	participate	01	1	-	-	-
+ectb_1039	1	38	in	IN	(PP*	-	-	-	-	-	-
+ectb_1039	1	39	the	DT	(NP(NP*	-	-	-	-	-	-
+ectb_1039	1	40	process	NN	*)	process	01	1	-	-	-
+ectb_1039	1	41	of	IN	(PP*	-	-	-	-	-	-
+ectb_1039	1	42	revising	VBG	(S(VP*	revise	01	1	-	-	-
+ectb_1039	1	43	the	DT	(NP*	-	-	-	-	(12	(12
+ectb_1039	1	44	constitution	NN	*))))))))))))	-	-	-	-	12)	12)
+ectb_1039	1	45	.	.	*))	-	-	-	-	-	-
+
+ectb_1039	1	0	Now	RB	(TOP(S(ADVP*)	-	-	-	-	-
+ectb_1039	1	1	,	,	*	-	-	-	-	-
+ectb_1039	1	2	with	IN	(PP*	-	-	-	-	-
+ectb_1039	1	3	its	PRP$	(NP*	-	-	-	-	(5)
+ectb_1039	1	4	constitutionally	RB	(ADJP*	-	-	-	-	-
+ectb_1039	1	5	granted	VBN	*)	grant	01	1	-	-
+ectb_1039	1	6	mandate	NN	*))	mandate	-	3	-	-
+ectb_1039	1	7	,	,	*	-	-	-	-	-
+ectb_1039	1	8	the	DT	(NP*	-	-	-	-	(5
+ectb_1039	1	9	party	NN	*)	-	-	-	-	5)
+ectb_1039	1	10	has	VBZ	(VP*	have	03	2	-	-
+ectb_1039	1	11	an	DT	(NP*	-	-	-	-	-
+ectb_1039	1	12	obligation	NN	*	obligation	-	1	-	-
+ectb_1039	1	13	to	TO	(S(VP*	-	-	-	-	-
+ectb_1039	1	14	fully	RB	(ADVP*)	-	-	-	-	-
+ectb_1039	1	15	uphold	VB	(VP*	uphold	01	1	-	-
+ectb_1039	1	16	the	DT	(NP*	-	-	-	-	(12
+ectb_1039	1	17	constitution	NN	*))))))	-	-	-	-	12)
+ectb_1039	1	18	.	.	*))	-	-	-	-	-
+
+#end document

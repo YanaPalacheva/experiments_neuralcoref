@@ -1,0 +1,833 @@
+#begin document (cnn_0339_0); part 000
+cnn_0339	0	0	``	``	(TOP(S(NP(NP(NP*	-	-	-	-	(4
+cnn_0339	0	1	Vanity	NNP	*	-	-	-	-	-
+cnn_0339	0	2	Fair	NNP	*	-	-	-	-	-
+cnn_0339	0	3	's	POS	*	-	-	-	-	-
+cnn_0339	0	4	''	''	*)	-	-	-	-	-
+cnn_0339	0	5	columnist	NN	*)	-	-	-	-	-
+cnn_0339	0	6	Daniel	NNP	(NP*	-	-	-	-	-
+cnn_0339	0	7	Fair	NNP	*))	-	-	-	-	4)
+cnn_0339	0	8	is	VBZ	(VP*	be	01	4	-	-
+cnn_0339	0	9	here	RB	(ADVP*))	-	-	-	-	-
+cnn_0339	0	10	.	.	*))	-	-	-	-	-
+
+cnn_0339	0	0	Quiting	VBG	(TOP(S(S(VP*	-	-	-	-	-
+cnn_0339	0	1	in	IN	(PP*	-	-	-	-	-
+cnn_0339	0	2	the	DT	(NP*	-	-	-	-	-
+cnn_0339	0	3	June	NNP	*	-	-	-	-	-
+cnn_0339	0	4	edition	NN	*))))	-	-	-	-	-
+cnn_0339	0	5	,	,	*	-	-	-	-	-
+cnn_0339	0	6	he	PRP	(NP*)	-	-	-	-	(4)
+cnn_0339	0	7	describes	VBZ	(VP*	describe	01	1	-	-
+cnn_0339	0	8	the	DT	(NP*	-	-	-	-	(10
+cnn_0339	0	9	journey	NN	*))	-	-	-	-	10)
+cnn_0339	0	10	.	.	*))	-	-	-	-	-
+
+cnn_0339	0	0	He	PRP	(TOP(S(NP*)	-	-	-	-	(4)
+cnn_0339	0	1	said	VBD	(VP*	say	01	1	-	-
+cnn_0339	0	2	he	PRP	(SBAR(S(NP*)	-	-	-	-	(4)
+cnn_0339	0	3	found	VBD	(VP*	find	01	1	-	-
+cnn_0339	0	4	evidence	NN	(NP*	evidence	-	2	-	-
+cnn_0339	0	5	that	IN	(SBAR*	-	-	-	-	-
+cnn_0339	0	6	Hussein	NNP	(FRAG(NP(NP(NP*	-	-	-	-	(20
+cnn_0339	0	7	's	POS	*)	-	-	-	-	20)
+cnn_0339	0	8	day	NN	*)	day	-	5	-	-
+cnn_0339	0	9	of	IN	(PP*	-	-	-	-	-
+cnn_0339	0	10	reckoning	NN	(NP*)))	-	-	-	-	-
+cnn_0339	0	11	well	RB	(ADJP*	-	-	-	-	-
+cnn_0339	0	12	overdue	JJ	*))))))))	-	-	-	-	-
+cnn_0339	0	13	.	.	*))	-	-	-	-	-
+
+cnn_0339	0	0	Christopher	NNP	(TOP(S(NP*	-	-	-	-	(4
+cnn_0339	0	1	Hitchens	NNP	*)	-	-	-	-	4)
+cnn_0339	0	2	joins	VBZ	(VP*	join	04	4	-	-
+cnn_0339	0	3	us	PRP	(NP*)	-	-	-	-	(7)
+cnn_0339	0	4	from	IN	(PP*	-	-	-	-	-
+cnn_0339	0	5	California	NNP	(NP*)))	-	-	-	-	-
+cnn_0339	0	6	.	.	*))	-	-	-	-	-
+
+cnn_0339	0	0	Good	JJ	(TOP(FRAG(ADJP*)	-	-	-	-	-
+cnn_0339	0	1	to	TO	(S(VP*	-	-	-	-	-
+cnn_0339	0	2	have	VB	(VP*	have	03	7	-	-
+cnn_0339	0	3	you	PRP	(NP*)	-	-	-	-	(4)
+cnn_0339	0	4	with	IN	(PP*	-	-	-	-	-
+cnn_0339	0	5	us	PRP	(NP*)))))	-	-	-	-	(7)
+cnn_0339	0	6	.	.	*))	-	-	-	-	-
+
+cnn_0339	0	0	Thanks	NNS	(TOP(NP(NP*)	thanks	01	1	-	-
+cnn_0339	0	1	for	IN	(PP*	-	-	-	-	-
+cnn_0339	0	2	having	VBG	(S(VP*	have	03	7	-	-
+cnn_0339	0	3	me	PRP	(NP*))))	-	-	-	-	(4)
+cnn_0339	0	4	.	.	*))	-	-	-	-	-
+
+cnn_0339	0	0	Your	PRP$	(TOP(S(NP(NP*	-	-	-	-	(10|(4)
+cnn_0339	0	1	journey	NN	*)	-	-	-	-	10)
+cnn_0339	0	2	,	,	*	-	-	-	-	-
+cnn_0339	0	3	particularly	RB	(PP(ADVP*)	-	-	-	-	-
+cnn_0339	0	4	to	IN	*	-	-	-	-	-
+cnn_0339	0	5	southern	JJ	(NP*	-	-	-	-	(16
+cnn_0339	0	6	Iraq	NNP	*)))	-	-	-	-	16)
+cnn_0339	0	7	,	,	*	-	-	-	-	-
+cnn_0339	0	8	what	WP	(SBAR(WHNP*)	-	-	-	-	-
+cnn_0339	0	9	is	VBZ	(S(VP*	be	03	-	-	-
+cnn_0339	0	10	evoked	VBN	(VP*	evoke	01	-	-	-
+cnn_0339	0	11	there	RB	(ADVP*)	-	-	-	-	-
+cnn_0339	0	12	a	DT	(X(NP(NP*	-	-	-	-	-
+cnn_0339	0	13	sense	NN	*)	sense	-	1	-	-
+cnn_0339	0	14	of	IN	(PP*	-	-	-	-	-
+cnn_0339	0	15	both	DT	(NP*)))	-	-	-	-	-
+cnn_0339	0	16	that	WDT	(SBAR(WHNP*)	-	-	-	-	-
+cnn_0339	0	17	you	PRP	(S(NP*)	-	-	-	-	(4)
+cnn_0339	0	18	evoke	VBP	(VP*))))))))	evoke	01	1	-	-
+cnn_0339	0	19	is	VBZ	(VP*	be	01	1	-	-
+cnn_0339	0	20	a	DT	(NP(NP*	-	-	-	-	-
+cnn_0339	0	21	sense	NN	*)	sense	-	1	-	-
+cnn_0339	0	22	of	IN	(PP*	-	-	-	-	-
+cnn_0339	0	23	history	NN	(NP(NP*)	history	-	1	-	-
+cnn_0339	0	24	of	IN	(PP*	-	-	-	-	-
+cnn_0339	0	25	this	DT	(NP*	-	-	-	-	-
+cnn_0339	0	26	regime	NN	*))))))	-	-	-	-	-
+cnn_0339	0	27	.	.	*))	-	-	-	-	-
+
+cnn_0339	0	0	Give	VB	(TOP(S(VP*	give	01	2	-	-
+cnn_0339	0	1	us	PRP	(NP*)	-	-	-	-	(7)
+cnn_0339	0	2	your	PRP$	(NP(NP*	-	-	-	-	(4)
+cnn_0339	0	3	insights	NNS	*)	-	-	-	-	-
+cnn_0339	0	4	as	IN	(PP*	-	-	-	-	-
+cnn_0339	0	5	to	IN	(PP*	-	-	-	-	-
+cnn_0339	0	6	what	WP	(SBAR(WHNP*)	-	-	-	-	-
+cnn_0339	0	7	you	PRP	(S(NP*)	-	-	-	-	(4)
+cnn_0339	0	8	think	VBP	(VP*	think	01	1	-	-
+cnn_0339	0	9	the	DT	(SBAR(S(NP*	-	-	-	-	-
+cnn_0339	0	10	future	NN	*)	future	-	1	-	-
+cnn_0339	0	11	holds	VBZ	(VP*))))))))))	hold	13	6	-	-
+cnn_0339	0	12	.	.	*))	-	-	-	-	-
+
+cnn_0339	0	0	Do	VBP	(TOP(SQ*	do	01	7	-	-
+cnn_0339	0	1	you	PRP	(NP*)	-	-	-	-	-
+cnn_0339	0	2	mean	VB	(VP*	mean	01	1	-	-
+cnn_0339	0	3	if	IN	(SBAR*	-	-	-	-	-
+cnn_0339	0	4	I	PRP	(S(NP*)	-	-	-	-	(4)
+cnn_0339	0	5	start	VBP	(VP*	start	01	2	-	-
+cnn_0339	0	6	with	IN	(PP*	-	-	-	-	-
+cnn_0339	0	7	the	DT	(NP*	-	-	-	-	-
+cnn_0339	0	8	Past	NNP	*))))))	-	-	-	-	-
+cnn_0339	0	9	?	.	*))	-	-	-	-	-
+
+cnn_0339	0	0	Not	RB	(TOP(X*	-	-	-	-	-
+cnn_0339	0	1	at	IN	*	-	-	-	-	-
+cnn_0339	0	2	you	PRP	*	-	-	-	-	-
+cnn_0339	0	3	will	MD	*	-	-	-	-	-
+cnn_0339	0	4	.	.	*))	-	-	-	-	-
+
+cnn_0339	0	0	Not	RB	(TOP(ADVP*	-	-	-	-	-
+cnn_0339	0	1	at	RB	(ADVP*	-	-	-	-	-
+cnn_0339	0	2	all	RB	*)	-	-	-	-	-
+cnn_0339	0	3	.	.	*))	-	-	-	-	-
+
+cnn_0339	0	0	Not	RB	(TOP(NP(NP*	-	-	-	-	-
+cnn_0339	0	1	much	JJ	*)	-	-	-	-	-
+cnn_0339	0	2	of	IN	(PP*	-	-	-	-	-
+cnn_0339	0	3	a	DT	(NP*	-	-	-	-	-
+cnn_0339	0	4	trip	NN	*))	trip	01	1	-	-
+cnn_0339	0	5	.	.	*))	-	-	-	-	-
+
+cnn_0339	0	0	I	PRP	(TOP(S(NP*)	-	-	-	-	(4)
+cnn_0339	0	1	was	VBD	(VP*	be	01	1	-	-
+cnn_0339	0	2	n't	RB	*	-	-	-	-	-
+cnn_0339	0	3	up	IN	(PP*	-	-	-	-	-
+cnn_0339	0	4	the	DT	(NP*	-	-	-	-	-
+cnn_0339	0	5	sharp	JJ	*	-	-	-	-	-
+cnn_0339	0	6	end	NN	*)))	end	-	10	-	-
+cnn_0339	0	7	.	.	*))	-	-	-	-	-
+
+cnn_0339	0	0	I	PRP	(TOP(S(NP*)	-	-	-	-	(4)
+cnn_0339	0	1	was	VBD	(VP*	be	03	-	-	-
+cnn_0339	0	2	n't	RB	*	-	-	-	-	-
+cnn_0339	0	3	taking	VBG	(VP*	take	01	2	-	-
+cnn_0339	0	4	risks	NNS	(NP*)))	risk	-	3	-	-
+cnn_0339	0	5	.	.	*))	-	-	-	-	-
+
+cnn_0339	0	0	I	PRP	(TOP(S(S(NP*)	-	-	-	-	*	*
+cnn_0339	0	1	was	VBD	(VP*	be	01	1	-	*	*
+cnn_0339	0	2	n't	RB	*	-	-	-	-	*	*
+cnn_0339	0	3	in	IN	(PP*	-	-	-	-	*	*
+cnn_0339	0	4	a	DT	(NP(NP*	-	-	-	-	*	*
+cnn_0339	0	5	position	NN	*)	position	-	3	-	*	*
+cnn_0339	0	6	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	*
+cnn_0339	0	7	my	PRP$	(S(NP*	-	-	-	-	*	*
+cnn_0339	0	8	dear	JJ	*	-	-	-	-	*	*
+cnn_0339	0	9	friend	NN	*)	-	-	-	-	*	*
+cnn_0339	0	10	was	VBD	(VP*	be	01	1	-	*	*
+cnn_0339	0	11	in	IN	(PP*)	-	-	-	-	*	*
+cnn_0339	0	12	when	WRB	(SBAR(WHADVP*)	-	-	-	-	*	*
+cnn_0339	0	13	he	PRP	(S(NP*)	-	-	-	-	*	*
+cnn_0339	0	14	was	VBD	(VP*	be	03	-	-	*	*
+cnn_0339	0	15	killed	VBN	(VP*	kill	01	1	-	*	*
+cnn_0339	0	16	outside	IN	(PP*	-	-	-	-	*	*
+cnn_0339	0	17	Bagdad	NNP	(NP*	-	-	-	-	*	*
+cnn_0339	0	18	airport	NN	*)))))))))))))	-	-	-	-	*	*
+cnn_0339	0	19	but	CC	*	-	-	-	-	*	*
+cnn_0339	0	20	I	PRP	(S(NP*)	-	-	-	-	*	*
+cnn_0339	0	21	had	VBD	(VP*	have	03	-	-	*	*
+cnn_0339	0	22	long	RB	(ADVP*)	-	-	-	-	*	*
+cnn_0339	0	23	thought	VBN	(VP*	think	01	1	-	*	*
+cnn_0339	0	24	and	CC	(PRN(S*	-	-	-	-	*	*
+cnn_0339	0	25	I	PRP	(NP*)	-	-	-	-	*	*
+cnn_0339	0	26	was	VBD	(VP*	be	01	4	-	*	*
+cnn_0339	0	27	in	IN	(PP*	-	-	-	-	*	*
+cnn_0339	0	28	Iraq	NNP	(NP*))	-	-	-	-	*	*
+cnn_0339	0	29	in	IN	(PP*	-	-	-	-	*	*
+cnn_0339	0	30	the	DT	(NP*	-	-	-	-	*	*
+cnn_0339	0	31	previous	JJ	*	-	-	-	-	*	*
+cnn_0339	0	32	war	NN	*)))))	war	01	1	-	*	*
+cnn_0339	0	33	that	IN	(SBAR*	-	-	-	-	*	*
+cnn_0339	0	34	really	RB	(S(ADVP*)	-	-	-	-	*	*
+cnn_0339	0	35	all	PDT	(NP(NP(NP(NP*	-	-	-	-	*	*
+cnn_0339	0	36	the	DT	*	-	-	-	-	*	*
+cnn_0339	0	37	talk	NN	*)	talk	01	5	-	*	*
+cnn_0339	0	38	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	*
+cnn_0339	0	39	had	VBD	(S(VP*	have	01	-	-	(V*)	(V*)
+cnn_0339	0	40	been	VBN	(VP*)))))	be	01	1	-	*	*
+cnn_0339	0	41	about	IN	(PP*	-	-	-	-	*	*
+cnn_0339	0	42	the	DT	(NP(NP(NP*	-	-	-	-	*	*
+cnn_0339	0	43	rush	NN	*)	rush	01	1	-	*	*
+cnn_0339	0	44	to	IN	(PP*	-	-	-	-	*	*
+cnn_0339	0	45	war	NN	(NP*)))	war	01	1	-	*	*
+cnn_0339	0	46	,	,	*	-	-	-	-	*	*
+cnn_0339	0	47	the	DT	(NP(NP*	-	-	-	-	*	*
+cnn_0339	0	48	push	NN	*)	push	-	5	-	*	*
+cnn_0339	0	49	for	IN	(PP*	-	-	-	-	*	*
+cnn_0339	0	50	war	NN	(NP*)))	war	01	1	-	*	*
+cnn_0339	0	51	,	,	*	-	-	-	-	*	*
+cnn_0339	0	52	the	DT	(NP(NP*	-	-	-	-	*	*
+cnn_0339	0	53	drive	NN	*)	drive	-	5	-	*	*
+cnn_0339	0	54	for	IN	(PP*	-	-	-	-	*	*
+cnn_0339	0	55	war	NN	(NP*))))))	war	01	1	-	*	*
+cnn_0339	0	56	,	,	*	-	-	-	-	*	*
+cnn_0339	0	57	all	PDT	(NP*	-	-	-	-	*	*
+cnn_0339	0	58	that	DT	*	-	-	-	-	*	*
+cnn_0339	0	59	propaganda	NN	*))	-	-	-	-	*	*
+cnn_0339	0	60	,	,	*	-	-	-	-	*	*
+cnn_0339	0	61	was	VBD	(VP*	be	01	1	-	*	*
+cnn_0339	0	62	essentially	RB	(ADJP*	-	-	-	-	*	*
+cnn_0339	0	63	nonsensical	JJ	*)	-	-	-	-	*	*
+cnn_0339	0	64	because	IN	(SBAR*	-	-	-	-	*	*
+cnn_0339	0	65	in	IN	(S(PP*	-	-	-	-	*	*
+cnn_0339	0	66	1990	CD	(NP*))	-	-	-	-	*	*
+cnn_0339	0	67	,	,	*	-	-	-	-	*	*
+cnn_0339	0	68	Saddam	NNP	(NP*	-	-	-	-	*	*
+cnn_0339	0	69	Hussein	NNP	*)	-	-	-	-	*	*
+cnn_0339	0	70	made	VBD	(VP*	make	01	2	-	*	*
+cnn_0339	0	71	the	DT	(NP*	-	-	-	-	*	*
+cnn_0339	0	72	only	JJ	*	-	-	-	-	*	*
+cnn_0339	0	73	self	NN	*	-	-	-	-	*	*
+cnn_0339	0	74	criticism	NN	*))))))))))	criticism	-	2	-	*	*
+cnn_0339	0	75	.	.	*))	-	-	-	-	*	*
+
+cnn_0339	0	0	He	PRP	(TOP(S(NP*)	-	-	-	-	(20)
+cnn_0339	0	1	said	VBD	(VP*	say	01	1	-	-
+cnn_0339	0	2	,	,	*	-	-	-	-	-
+cnn_0339	0	3	I	PRP	(S(NP*)	-	-	-	-	(20)
+cnn_0339	0	4	could	MD	(VP*	-	-	-	-	-
+cnn_0339	0	5	either	CC	(VP*	-	-	-	-	-
+cnn_0339	0	6	invade	VB	(VP*	invade	01	1	-	-
+cnn_0339	0	7	Kuwait	NNP	(NP*))	-	-	-	-	-
+cnn_0339	0	8	or	CC	*	-	-	-	-	-
+cnn_0339	0	9	finish	VB	(VP*	finish	01	1	-	-
+cnn_0339	0	10	developing	VBG	(VP*	develop	02	1	-	-
+cnn_0339	0	11	the	DT	(NP*	-	-	-	-	(3
+cnn_0339	0	12	nuclear	JJ	*	-	-	-	-	-
+cnn_0339	0	13	weapon	NN	*)))))))	weapon	-	1	-	3)
+cnn_0339	0	14	.	.	*))	-	-	-	-	-
+
+cnn_0339	0	0	Maybe	RB	(TOP(S(PP(PP(ADVP*)	-	-	-	-	-
+cnn_0339	0	1	before	IN	*	-	-	-	-	-
+cnn_0339	0	2	the	DT	(NP*	-	-	-	-	(3
+cnn_0339	0	3	weapon	NN	*))	weapon	-	1	-	3)
+cnn_0339	0	4	and	CC	*	-	-	-	-	-
+cnn_0339	0	5	then	RB	(ADVP*)	-	-	-	-	-
+cnn_0339	0	6	later	RB	(ADVP*))	-	-	-	-	-
+cnn_0339	0	7	he	PRP	(NP*)	-	-	-	-	(20)
+cnn_0339	0	8	said	VBD	(VP*)	say	01	1	-	-
+cnn_0339	0	9	,	,	*	-	-	-	-	-
+cnn_0339	0	10	Oh	UH	(S(INTJ*)	-	-	-	-	-
+cnn_0339	0	11	,	,	*	-	-	-	-	-
+cnn_0339	0	12	I	PRP	(NP*)	-	-	-	-	(20)
+cnn_0339	0	13	should	MD	(VP*	-	-	-	-	-
+cnn_0339	0	14	have	VB	(VP*	have	01	-	-	-
+cnn_0339	0	15	got	VBN	(VP*	get	01	1	-	(5)
+cnn_0339	0	16	the	DT	(NP*	-	-	-	-	(3
+cnn_0339	0	17	nuclear	JJ	*	-	-	-	-	-
+cnn_0339	0	18	weapon	NN	*))	weapon	-	1	-	3)
+cnn_0339	0	19	before	IN	(SBAR*	-	-	-	-	-
+cnn_0339	0	20	I	PRP	(S(NP*)	-	-	-	-	(20)
+cnn_0339	0	21	invaded	VBD	(VP*))))))	invade	01	1	-	-
+cnn_0339	0	22	.	.	*))	-	-	-	-	-
+
+cnn_0339	0	0	He	PRP	(TOP(S(S(NP*)	-	-	-	-	*	*
+cnn_0339	0	1	was	VBD	(VP*	be	01	1	-	*	*
+cnn_0339	0	2	right	JJ	(ADJP*	-	-	-	-	*	*
+cnn_0339	0	3	about	IN	(PP*	-	-	-	-	*	*
+cnn_0339	0	4	that	DT	(NP*)))))	-	-	-	-	*	*
+cnn_0339	0	5	,	,	*	-	-	-	-	*	*
+cnn_0339	0	6	but	CC	*	-	-	-	-	*	*
+cnn_0339	0	7	that	DT	(S(S(NP*)	-	-	-	-	*	*
+cnn_0339	0	8	means	VBZ	(VP*	mean	01	4	-	*	*
+cnn_0339	0	9	that	IN	(SBAR*	-	-	-	-	*	*
+cnn_0339	0	10	he	PRP	(S(NP*)	-	-	-	-	*	*
+cnn_0339	0	11	inaugurated	VBD	(VP*	inaugurate	02	-	-	*	*
+cnn_0339	0	12	at	IN	(PP*	-	-	-	-	*	*
+cnn_0339	0	13	that	DT	(NP*	-	-	-	-	*	*
+cnn_0339	0	14	point	NN	*))	point	-	5	-	*	*
+cnn_0339	0	15	like	UH	(NP(NP(INTJ*)	-	-	-	-	*	*
+cnn_0339	0	16	a	DT	(NP*	-	-	-	-	*	*
+cnn_0339	0	17	dozen	NN	(NML*	-	-	-	-	*	*
+cnn_0339	0	18	-	HYPH	*	-	-	-	-	*	*
+cnn_0339	0	19	years	NNS	*)	-	-	-	-	*	*
+cnn_0339	0	20	war	NN	*))	war	01	1	-	*	*
+cnn_0339	0	21	where	WRB	(SBAR(WHADVP*)	-	-	-	-	*	*
+cnn_0339	0	22	the	DT	(S(NP*	-	-	-	-	*	*
+cnn_0339	0	23	United	NNP	*	-	-	-	-	*	*
+cnn_0339	0	24	States	NNP	*)	-	-	-	-	*	*
+cnn_0339	0	25	could	MD	(VP*	-	-	-	-	*	*
+cnn_0339	0	26	be	VB	(VP*	be	03	-	-	*	*
+cnn_0339	0	27	criticized	VBN	(VP*	criticize	01	1	-	*	*
+cnn_0339	0	28	for	IN	(PP*	-	-	-	-	*	*
+cnn_0339	0	29	doing	VBG	(S(VP(VP*	do	02	1	-	*	*
+cnn_0339	0	30	too	RB	(NP*	-	-	-	-	*	*
+cnn_0339	0	31	little	JJ	*))	-	-	-	-	*	*
+cnn_0339	0	32	and	CC	*	-	-	-	-	*	*
+cnn_0339	0	33	acting	VBG	(VP*	act	02	2	-	*	*
+cnn_0339	0	34	too	RB	(ADVP*	-	-	-	-	*	*
+cnn_0339	0	35	slowly	RB	*))))))))))))))))	-	-	-	-	*	*
+cnn_0339	0	36	but	CC	*	-	-	-	-	*	*
+cnn_0339	0	37	all	DT	(S(NP(NP*)	-	-	-	-	(ARG1*	(ARG1*
+cnn_0339	0	38	we	PRP	(SBAR(S(NP*)	-	-	-	-	*	*
+cnn_0339	0	39	're	VBP	(VP*	-	-	-	-	*	*
+cnn_0339	0	40	arguing	VBG	(VP*	argue	02	1	-	*	*
+cnn_0339	0	41	about	IN	(PP*)	-	-	-	-	*	*
+cnn_0339	0	42	lately	RB	(ADVP*))))))	-	-	-	-	*)	*)
+cnn_0339	0	43	is	VBZ	(VP*	be	01	1	-	(V*)	(V*)
+cnn_0339	0	44	to	TO	(S(VP*	-	-	-	-	(ARG2*	(ARG2*
+cnn_0339	0	45	do	VB	(VP*	do	04	1	-	*	*
+cnn_0339	0	46	with	IN	(PP*	-	-	-	-	*	*
+cnn_0339	0	47	those	DT	(NP(NP*)	-	-	-	-	*	*
+cnn_0339	0	48	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	*
+cnn_0339	0	49	should	MD	(S(VP*	-	-	-	-	*	*
+cnn_0339	0	50	have	VB	(VP*	have	01	-	-	*	*
+cnn_0339	0	51	been	VBN	(VP*	be	03	-	-	*	*
+cnn_0339	0	52	finished	VBN	(VP*	finish	02	1	-	*	*
+cnn_0339	0	53	in	IN	(PP*	-	-	-	-	*	*
+cnn_0339	0	54	`91	CD	(NP(NP*)	-	-	-	-	*	*
+cnn_0339	0	55	when	WRB	(SBAR(WHADVP*)	-	-	-	-	*	*
+cnn_0339	0	56	it	PRP	(S(NP*)	-	-	-	-	*	*
+cnn_0339	0	57	could	MD	(VP*	-	-	-	-	*	*
+cnn_0339	0	58	have	VB	(VP*	have	01	-	-	*	*
+cnn_0339	0	59	been	VBN	(VP*	be	03	-	-	*	*
+cnn_0339	0	60	finished	VBN	(VP*))))))))))))))))))))))	finish	02	1	-	*)	*)
+cnn_0339	0	61	.	.	*))	-	-	-	-	*	*
+
+cnn_0339	0	0	Should	MD	(TOP(S(VP*	-	-	-	-	-
+cnn_0339	0	1	have	VB	(VP*	have	01	-	-	-
+cnn_0339	0	2	taken	VBN	(VP(VP*	take	01	2	-	-
+cnn_0339	0	3	the	DT	(NP(NP*	-	-	-	-	-
+cnn_0339	0	4	side	NN	*)	side	-	3	-	-
+cnn_0339	0	5	of	IN	(PP*	-	-	-	-	-
+cnn_0339	0	6	the	DT	(NP*	-	-	-	-	-
+cnn_0339	0	7	rebels	NNS	*)))	-	-	-	-	-
+cnn_0339	0	8	then	RB	(ADVP*))	-	-	-	-	-
+cnn_0339	0	9	,	,	*	-	-	-	-	-
+cnn_0339	0	10	taken	VBN	(VP*	take	01	2	-	-
+cnn_0339	0	11	the	DT	(NP(NP*	-	-	-	-	-
+cnn_0339	0	12	risk	NN	*)	risk	-	3	-	-
+cnn_0339	0	13	of	IN	(PP*	-	-	-	-	-
+cnn_0339	0	14	supporting	VBG	(S(VP*	support	01	2	-	-
+cnn_0339	0	15	a	DT	(NP*	-	-	-	-	-
+cnn_0339	0	16	Shiite	JJ	*	-	-	-	-	-
+cnn_0339	0	17	insurrection	NN	*)	-	-	-	-	-
+cnn_0339	0	18	at	IN	(PP*	-	-	-	-	-
+cnn_0339	0	19	that	DT	(NP*	-	-	-	-	-
+cnn_0339	0	20	point	NN	*))	point	-	5	-	-
+cnn_0339	0	21	,	,	*	-	-	-	-	-
+cnn_0339	0	22	helping	VBG	(S(VP*	help	01	1	-	-
+cnn_0339	0	23	the	DT	(NP*	-	-	-	-	(12
+cnn_0339	0	24	Kurds	NNPS	*)))	-	-	-	-	12)
+cnn_0339	0	25	,	,	*	-	-	-	-	-
+cnn_0339	0	26	removing	VBG	(S(VP*	remove	01	1	-	-
+cnn_0339	0	27	the	DT	(NP*	-	-	-	-	-
+cnn_0339	0	28	regime	NN	*)))))))))))	-	-	-	-	-
+cnn_0339	0	29	.	.	*))	-	-	-	-	-
+
+cnn_0339	0	0	Absolutely	RB	(TOP(ADVP*	-	-	-	-	-
+cnn_0339	0	1	.	.	*))	-	-	-	-	-
+
+cnn_0339	0	0	We	PRP	(TOP(S(NP*)	-	-	-	-	(14)
+cnn_0339	0	1	'd	MD	(VP*	-	-	-	-	-
+cnn_0339	0	2	be	VB	(VP*	be	01	1	-	(9)
+cnn_0339	0	3	11	CD	(NP(NP*	-	-	-	-	-
+cnn_0339	0	4	years	NNS	*)	-	-	-	-	-
+cnn_0339	0	5	into	IN	(PP*	-	-	-	-	-
+cnn_0339	0	6	nation	NN	(NP*	-	-	-	-	-
+cnn_0339	0	7	building	NN	*)))	-	-	-	-	-
+cnn_0339	0	8	by	IN	(PP*	-	-	-	-	-
+cnn_0339	0	9	now	RB	(NP*))	-	-	-	-	-
+cnn_0339	0	10	if	IN	(SBAR*	-	-	-	-	-
+cnn_0339	0	11	we	PRP	(S(NP*)	-	-	-	-	(14)
+cnn_0339	0	12	'd	VBD	(VP*	-	-	-	-	-
+cnn_0339	0	13	done	VBN	(VP*	do	02	1	-	-
+cnn_0339	0	14	that	DT	(NP*)))))))	-	-	-	-	-
+cnn_0339	0	15	.	.	*))	-	-	-	-	-
+
+cnn_0339	0	0	That	DT	(TOP(S(NP*)	-	-	-	-	(9)
+cnn_0339	0	1	seems	VBZ	(VP*	seem	01	1	-	-
+cnn_0339	0	2	to	TO	(S(VP*	-	-	-	-	-
+cnn_0339	0	3	be	VB	(VP*	be	01	1	-	-
+cnn_0339	0	4	the	DT	(NP(NP*	-	-	-	-	-
+cnn_0339	0	5	core	NN	*)	core	-	3	-	-
+cnn_0339	0	6	of	IN	(PP*	-	-	-	-	-
+cnn_0339	0	7	the	DT	(NP*	-	-	-	-	-
+cnn_0339	0	8	argument	NN	*)))))))	argument	-	1	-	-
+cnn_0339	0	9	.	.	*))	-	-	-	-	-
+
+cnn_0339	0	0	As	IN	(TOP(FRAG(SBAR*	-	-	-	-	-
+cnn_0339	0	1	you	PRP	(S(NP*)	-	-	-	-	(4)
+cnn_0339	0	2	point	VBP	(VP*	point	02	1	-	-
+cnn_0339	0	3	out	RP	(PRT*))))	-	-	-	-	-
+cnn_0339	0	4	,	,	*	-	-	-	-	-
+cnn_0339	0	5	of	IN	(PP*	-	-	-	-	-
+cnn_0339	0	6	course	NN	(NP*))	course	-	13	-	-
+cnn_0339	0	7	,	,	*	-	-	-	-	-
+cnn_0339	0	8	for	CC	*	-	-	-	-	-
+cnn_0339	0	9	the	DT	(S(NP(NP*	-	-	-	-	-
+cnn_0339	0	10	fact	NN	*)	fact	-	2	-	-
+cnn_0339	0	11	of	IN	(PP*	-	-	-	-	-
+cnn_0339	0	12	the	DT	(NP*	-	-	-	-	-
+cnn_0339	0	13	matter	NN	*)))	matter	-	3	-	-
+cnn_0339	0	14	is	VBZ	(VP*	be	01	2	-	-
+cnn_0339	0	15	,	,	*	-	-	-	-	-
+cnn_0339	0	16	the	DT	(SBAR(S(NP(NP*	-	-	-	-	-
+cnn_0339	0	17	mistakes	NNS	*)	mistake	-	2	-	-
+cnn_0339	0	18	of	IN	(PP*	-	-	-	-	-
+cnn_0339	0	19	Saddam	NNP	(NP*	-	-	-	-	(20
+cnn_0339	0	20	Hussein	NNP	*)))	-	-	-	-	20)
+cnn_0339	0	21	made	VBD	(VP*	make	02	3	-	-
+cnn_0339	0	22	possible	JJ	(S(ADJP*)	-	-	-	-	-
+cnn_0339	0	23	his	PRP$	(NP(NP*	-	-	-	-	(20)
+cnn_0339	0	24	removal	NN	*)	removal	01	3	-	-
+cnn_0339	0	25	from	IN	(PP*	-	-	-	-	-
+cnn_0339	0	26	power	NN	(NP*))))	power	-	1	-	-
+cnn_0339	0	27	ultimately	RB	(ADVP*))))))	-	-	-	-	-
+cnn_0339	0	28	.	.	*))	-	-	-	-	-
+
+cnn_0339	0	0	The	DT	(TOP(FRAG(NP(NP*	-	-	-	-	-
+cnn_0339	0	1	mistakes	NNS	*)	mistake	-	2	-	-
+cnn_0339	0	2	of	IN	(PP*	-	-	-	-	-
+cnn_0339	0	3	the	DT	(NP*	-	-	-	-	(21
+cnn_0339	0	4	United	NNP	*	-	-	-	-	-
+cnn_0339	0	5	States	NNP	*)))	-	-	-	-	21)
+cnn_0339	0	6	,	,	*	-	-	-	-	-
+cnn_0339	0	7	again	RB	(ADVP*)	-	-	-	-	-
+cnn_0339	0	8	,	,	*	-	-	-	-	-
+cnn_0339	0	9	as	IN	(SBAR*	-	-	-	-	-
+cnn_0339	0	10	you	PRP	(S(NP*)	-	-	-	-	(4)
+cnn_0339	0	11	point	VBP	(VP*	point	02	1	-	-
+cnn_0339	0	12	out	RP	(PRT*))))	-	-	-	-	-
+cnn_0339	0	13	,	,	*	-	-	-	-	-
+cnn_0339	0	14	Norman	NNP	(S(NP*	-	-	-	-	(0
+cnn_0339	0	15	Schwarzkopf	NNP	*)	-	-	-	-	0)
+cnn_0339	0	16	making	VBG	(VP(VP*	make	01	2	-	-
+cnn_0339	0	17	a	DT	(NP*	-	-	-	-	-
+cnn_0339	0	18	peace	NN	*))	peace	-	1	-	-
+cnn_0339	0	19	,	,	*	-	-	-	-	-
+cnn_0339	0	20	permitting	VBG	(VP*	permit	01	1	-	-
+cnn_0339	0	21	helicopters	NNS	(S(NP*)	-	-	-	-	-
+cnn_0339	0	22	to	TO	(VP*	-	-	-	-	-
+cnn_0339	0	23	fly	VB	(VP*))))))	fly	01	1	-	-
+cnn_0339	0	24	.	.	*))	-	-	-	-	-
+
+cnn_0339	0	0	Still	RB	(TOP(S(ADVP*)	-	-	-	-	-
+cnn_0339	0	1	hurts	VBZ	(VP*	hurt	01	3	-	-
+cnn_0339	0	2	me	PRP	(NP*)	-	-	-	-	(4)
+cnn_0339	0	3	to	TO	(S(VP*	-	-	-	-	-
+cnn_0339	0	4	read	VB	(VP*	read	01	1	-	-
+cnn_0339	0	5	this	DT	(NP*)))))	-	-	-	-	-
+cnn_0339	0	6	.	.	*))	-	-	-	-	-
+
+cnn_0339	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	-
+cnn_0339	0	1	little	JJ	*	-	-	-	-	-
+cnn_0339	0	2	town	NN	*)	town	-	1	-	-
+cnn_0339	0	3	I	PRP	(SBAR(S(NP*)	-	-	-	-	(4)
+cnn_0339	0	4	was	VBD	(VP*	be	01	4	-	-
+cnn_0339	0	5	in	IN	(PP*)	-	-	-	-	-
+cnn_0339	0	6	this	DT	(FRAG(NP*)	-	-	-	-	-
+cnn_0339	0	7	southern	JJ	(NP*	-	-	-	-	(16
+cnn_0339	0	8	Iraq	NNP	*)	-	-	-	-	16)
+cnn_0339	0	9	,	,	*	-	-	-	-	-
+cnn_0339	0	10	as	RB	(ADVP(ADVP*	-	-	-	-	-
+cnn_0339	0	11	far	RB	*)	-	-	-	-	-
+cnn_0339	0	12	as	IN	(SBAR*	-	-	-	-	-
+cnn_0339	0	13	I	PRP	(S(NP*)	-	-	-	-	(4)
+cnn_0339	0	14	got	VBD	(VP*))))	get	05	4	-	-
+cnn_0339	0	15	,	,	*	-	-	-	-	-
+cnn_0339	0	16	I	PRP	(S(NP*)	-	-	-	-	(4)
+cnn_0339	0	17	ca	MD	(VP*	-	-	-	-	-
+cnn_0339	0	18	n't	RB	*	-	-	-	-	-
+cnn_0339	0	19	boast	VB	(VP*	boast	01	1	-	-
+cnn_0339	0	20	of	IN	(PP*	-	-	-	-	-
+cnn_0339	0	21	further	RB	(ADVP*))))))))))	-	-	-	-	-
+cnn_0339	0	22	,	,	*	-	-	-	-	-
+cnn_0339	0	23	is	VBZ	(VP*	be	01	4	-	-
+cnn_0339	0	24	where	WRB	(SBAR(WHADVP*)	-	-	-	-	-
+cnn_0339	0	25	the	DT	(S(NP*	-	-	-	-	(13
+cnn_0339	0	26	talks	NNS	*)	talk	01	3	-	13)
+cnn_0339	0	27	took	VBD	(VP*	take	14	14.1	-	-
+cnn_0339	0	28	place	NN	(NP*)))))	place	-	3	-	-
+cnn_0339	0	29	.	.	*))	-	-	-	-	-
+
+cnn_0339	0	0	We	PRP	(TOP(S(NP*)	-	-	-	-	(7)
+cnn_0339	0	1	have	VBP	(VP*	have	03	1	-	-
+cnn_0339	0	2	the	DT	(NP(NP*	-	-	-	-	-
+cnn_0339	0	3	transcript	NN	*)	-	-	-	-	-
+cnn_0339	0	4	of	IN	(PP*	-	-	-	-	-
+cnn_0339	0	5	the	DT	(NP*	-	-	-	-	(13
+cnn_0339	0	6	meeting	NN	*))))	meeting	-	1	-	13)
+cnn_0339	0	7	.	.	*))	-	-	-	-	-
+
+cnn_0339	0	0	They	PRP	(TOP(S(S(NP*)	-	-	-	-	*	*
+cnn_0339	0	1	say	VBP	(VP*	say	01	1	-	*	*
+cnn_0339	0	2	,	,	*	-	-	-	-	*	*
+cnn_0339	0	3	Okay	UH	(S(S(INTJ*)	-	-	-	-	*	*
+cnn_0339	0	4	,	,	*	-	-	-	-	*	*
+cnn_0339	0	5	we	PRP	(NP*)	-	-	-	-	*	*
+cnn_0339	0	6	have	VBP	(VP*	have	01	-	-	*	*
+cnn_0339	0	7	lost	VBN	(VP*	lose	03	2	-	*	*
+cnn_0339	0	8	this	DT	(NP*	-	-	-	-	*	*
+cnn_0339	0	9	round	NN	*))))	round	01	2	-	*	*
+cnn_0339	0	10	,	,	*	-	-	-	-	*	*
+cnn_0339	0	11	Do	VBP	(SQ*	do	01	7	-	*	*
+cnn_0339	0	12	you	PRP	(NP*)	-	-	-	-	*	*
+cnn_0339	0	13	mind	VB	(VP*	mind	01	1	-	*	*
+cnn_0339	0	14	if	IN	(SBAR*	-	-	-	-	*	*
+cnn_0339	0	15	we	PRP	(S(NP*)	-	-	-	-	*	*
+cnn_0339	0	16	keep	VBP	(VP*	keep	02	3	-	*	*
+cnn_0339	0	17	your	PRP$	(NP*	-	-	-	-	*	*
+cnn_0339	0	18	helicopters	NNS	*)	-	-	-	-	*	*
+cnn_0339	0	19	in	IN	(PP*	-	-	-	-	*	*
+cnn_0339	0	20	the	DT	(NP*	-	-	-	-	*	*
+cnn_0339	0	21	air	NN	*))	air	-	2	-	*	*
+cnn_0339	0	22	just	RB	(S(ADVP*)	-	-	-	-	*	*
+cnn_0339	0	23	to	TO	(VP*	-	-	-	-	*	*
+cnn_0339	0	24	be	VB	(VP*	be	01	-	-	*	*
+cnn_0339	0	25	able	JJ	(ADJP*	-	-	-	-	*	*
+cnn_0339	0	26	to	TO	(S(VP*	-	-	-	-	*	*
+cnn_0339	0	27	transport	VB	(VP*	transport	01	1	-	*	*
+cnn_0339	0	28	things	NNS	(NP*))))))))))))	thing	-	1	-	*	*
+cnn_0339	0	29	?	,	*))))	-	-	-	-	*	*
+cnn_0339	0	30	and	CC	*	-	-	-	-	*	*
+cnn_0339	0	31	he	PRP	(S(NP*)	-	-	-	-	(ARG0*)	(ARG0*)
+cnn_0339	0	32	says	VBZ	(VP*	say	01	1	-	(V*)	(V*)
+cnn_0339	0	33	,	,	*	-	-	-	-	*	*
+cnn_0339	0	34	Yeah	UH	(S(INTJ*)	-	-	-	-	(ARG1*	(ARG1*
+cnn_0339	0	35	,	,	*	-	-	-	-	*	*
+cnn_0339	0	36	that	DT	(NP*)	-	-	-	-	*	*
+cnn_0339	0	37	's	VBZ	(VP*	be	-	1	-	*	*
+cnn_0339	0	38	all	RB	(ADJP*	-	-	-	-	*	*
+cnn_0339	0	39	right	JJ	*)))))	-	-	-	-	*)	*)
+cnn_0339	0	40	.	.	*))	-	-	-	-	*	*
+
+cnn_0339	0	0	They	PRP	(TOP(S(NP*)	-	-	-	-	(6)
+cnn_0339	0	1	ask	VB	(VP*	ask	01	1	-	-
+cnn_0339	0	2	again	RB	(ADVP*)	-	-	-	-	-
+cnn_0339	0	3	,	,	*	-	-	-	-	-
+cnn_0339	0	4	Are	VBP	(SQ*	be	01	1	-	-
+cnn_0339	0	5	you	PRP	(NP*)	-	-	-	-	(19)
+cnn_0339	0	6	sure	JJ	(ADJP*	-	-	-	-	-
+cnn_0339	0	7	they	PRP	(SBAR(S(NP*)	-	-	-	-	-
+cnn_0339	0	8	mean	VB	(VP*	mean	01	1	-	-
+cnn_0339	0	9	that	DT	(NP*)))))))	-	-	-	-	(18)
+cnn_0339	0	10	?	.	*))	-	-	-	-	-
+
+cnn_0339	0	0	They	PRP	(TOP(S(NP*)	-	-	-	-	(6)
+cnn_0339	0	1	ca	MD	(VP*	-	-	-	-	-
+cnn_0339	0	2	n't	RB	*	-	-	-	-	-
+cnn_0339	0	3	believe	VB	(VP*	believe	01	1	-	-
+cnn_0339	0	4	the	DT	(NP*	-	-	-	-	-
+cnn_0339	0	5	luck	NN	*)))	-	-	-	-	-
+cnn_0339	0	6	.	.	*))	-	-	-	-	-
+
+cnn_0339	0	0	They	PRP	(TOP(S(S(S(NP*)	-	-	-	-	(6)
+cnn_0339	0	1	use	VBP	(VP*	use	01	1	-	-
+cnn_0339	0	2	the	DT	(NP*	-	-	-	-	(8
+cnn_0339	0	3	gunships	NNS	*)	-	-	-	-	8)
+cnn_0339	0	4	to	TO	(S(VP*	-	-	-	-	-
+cnn_0339	0	5	kill	VB	(VP*	kill	01	1	-	(1)
+cnn_0339	0	6	,	,	*	-	-	-	-	-
+cnn_0339	0	7	we	PRP	(PRN(S(NP*)	-	-	-	-	-
+cnn_0339	0	8	think	VBP	(VP*)))	think	01	1	-	-
+cnn_0339	0	9	,	,	*	-	-	-	-	-
+cnn_0339	0	10	not	RB	(NP(NP(QP*	-	-	-	-	-
+cnn_0339	0	11	less	JJR	*	-	-	-	-	-
+cnn_0339	0	12	than	IN	*	-	-	-	-	-
+cnn_0339	0	13	50,000	CD	*)	-	-	-	-	-
+cnn_0339	0	14	inhabitants	NNS	*)	-	-	-	-	-
+cnn_0339	0	15	of	IN	(PP*	-	-	-	-	-
+cnn_0339	0	16	southern	JJ	(NP*	-	-	-	-	(16
+cnn_0339	0	17	Iraq	NNP	*))))))))	-	-	-	-	16)
+cnn_0339	0	18	and	CC	*	-	-	-	-	-
+cnn_0339	0	19	trying	VBG	(FRAG(VP*	try	01	1	-	-
+cnn_0339	0	20	to	TO	(S(VP*	-	-	-	-	-
+cnn_0339	0	21	do	VB	(VP*	do	02	1	-	-
+cnn_0339	0	22	that	DT	(NP*)	-	-	-	-	(1)
+cnn_0339	0	23	to	IN	(PP*	-	-	-	-	-
+cnn_0339	0	24	the	DT	(NP*	-	-	-	-	(12
+cnn_0339	0	25	Kurds	NNPS	*))	-	-	-	-	12)
+cnn_0339	0	26	,	,	*	-	-	-	-	-
+cnn_0339	0	27	as	RB	(ADVP*	-	-	-	-	-
+cnn_0339	0	28	well	RB	*)))))))	-	-	-	-	-
+cnn_0339	0	29	,	,	*	-	-	-	-	-
+cnn_0339	0	30	so	CC	*	-	-	-	-	-
+cnn_0339	0	31	it	PRP	(S(NP*)	-	-	-	-	-
+cnn_0339	0	32	was	VBD	(VP*	be	01	1	-	-
+cnn_0339	0	33	a	DT	(NP*	-	-	-	-	-
+cnn_0339	0	34	knife	NN	*	-	-	-	-	-
+cnn_0339	0	35	edge	NN	*)))	edge	-	3	-	-
+cnn_0339	0	36	.	.	*))	-	-	-	-	-
+
+cnn_0339	0	0	And	CC	(TOP(S*	-	-	-	-	-
+cnn_0339	0	1	it	PRP	(NP(NP*))	-	-	-	-	-
+cnn_0339	0	2	's	VBZ	(VP*	be	-	1	-	-
+cnn_0339	0	3	not	RB	*	-	-	-	-	-
+cnn_0339	0	4	just	RB	(ADVP*)	-	-	-	-	-
+cnn_0339	0	5	being	VBG	(VP*	be	01	-	-	-
+cnn_0339	0	6	wise	JJ	(ADJP*)	-	-	-	-	-
+cnn_0339	0	7	after	IN	(PP*	-	-	-	-	-
+cnn_0339	0	8	the	DT	(NP*	-	-	-	-	-
+cnn_0339	0	9	event	NN	*))	event	-	2	-	-
+cnn_0339	0	10	,	,	*	-	-	-	-	-
+cnn_0339	0	11	I	PRP	(PRN(S(NP*)	-	-	-	-	(4)
+cnn_0339	0	12	believe	VBP	(VP*)))	believe	01	1	-	-
+cnn_0339	0	13	,	,	*	-	-	-	-	-
+cnn_0339	0	14	to	TO	(S(VP*	-	-	-	-	-
+cnn_0339	0	15	say	VB	(VP*	say	01	1	-	-
+cnn_0339	0	16	that	IN	(SBAR*	-	-	-	-	-
+cnn_0339	0	17	there	EX	(S(NP*)	-	-	-	-	-
+cnn_0339	0	18	was	VBD	(VP*	be	02	5	-	-
+cnn_0339	0	19	an	DT	(NP(NP*	-	-	-	-	-
+cnn_0339	0	20	argument	NN	*)	argument	-	1	-	-
+cnn_0339	0	21	in	IN	(PP*	-	-	-	-	-
+cnn_0339	0	22	realtime	NN	(NP*))	-	-	-	-	-
+cnn_0339	0	23	between	IN	(PP*	-	-	-	-	-
+cnn_0339	0	24	the	DT	(NP*	-	-	-	-	-
+cnn_0339	0	25	Bush	NNP	(NML*	-	-	-	-	-
+cnn_0339	0	26	administration	NN	*)	administration	-	1	-	-
+cnn_0339	0	27	members	NNS	*)))))))))))	member	-	1	-	-
+cnn_0339	0	28	.	.	*))	-	-	-	-	-
+
+cnn_0339	0	0	Mr.	NNP	(TOP(S(NP*	-	-	-	-	(23
+cnn_0339	0	1	Cheney	NNP	*)	-	-	-	-	23)
+cnn_0339	0	2	's	VBZ	(VP*	be	-	1	-	-
+cnn_0339	0	3	the	DT	(NP(NP(NP*	-	-	-	-	-
+cnn_0339	0	4	only	JJ	*	-	-	-	-	-
+cnn_0339	0	5	one	NN	*)	one	-	2	-	-
+cnn_0339	0	6	I	PRP	(SBAR(S(NP*)	-	-	-	-	(4)
+cnn_0339	0	7	know	VBP	(VP*))))	know	01	2	-	-
+cnn_0339	0	8	that	WDT	(SBAR(WHNP*)	-	-	-	-	-
+cnn_0339	0	9	changed	VBD	(S(VP*	change	01	1	-	-
+cnn_0339	0	10	his	PRP$	(NP*	-	-	-	-	(23)
+cnn_0339	0	11	mind	NN	*))))))	mind	-	6	-	-
+cnn_0339	0	12	.	.	*))	-	-	-	-	-
+
+cnn_0339	0	0	Most	JJS	(TOP(S(NP(NP*)	-	-	-	-	-
+cnn_0339	0	1	of	IN	(PP*	-	-	-	-	-
+cnn_0339	0	2	those	DT	(NP(NP*)	-	-	-	-	(11
+cnn_0339	0	3	that	WDT	(SBAR(WHNP*)	-	-	-	-	-
+cnn_0339	0	4	took	VBD	(S(VP*	take	01	5	-	-
+cnn_0339	0	5	the	DT	(NP*	-	-	-	-	-
+cnn_0339	0	6	view	NN	*)	view	-	4	-	-
+cnn_0339	0	7	at	IN	(PP*	-	-	-	-	-
+cnn_0339	0	8	that	DT	(NP*	-	-	-	-	-
+cnn_0339	0	9	time	NN	*))))))))	time	-	2	-	11)
+cnn_0339	0	10	,	,	*	-	-	-	-	-
+cnn_0339	0	11	think	VBP	(VP*	think	01	1	-	-
+cnn_0339	0	12	until	IN	(PP*	-	-	-	-	-
+cnn_0339	0	13	recently	RB	(NP*))	-	-	-	-	-
+cnn_0339	0	14	they	PRP	(SBAR(S(NP*)	-	-	-	-	(11)
+cnn_0339	0	15	were	VBD	(VP*	be	01	1	-	-
+cnn_0339	0	16	correct	JJ	(ADJP*	-	-	-	-	-
+cnn_0339	0	17	in	IN	(PP*	-	-	-	-	-
+cnn_0339	0	18	saving	VBG	(S(VP*	save	02	1	-	-
+cnn_0339	0	19	Saddam	NNP	(NP*	-	-	-	-	(20
+cnn_0339	0	20	Hussein	NNP	*)))))))))	-	-	-	-	20)
+cnn_0339	0	21	.	.	*))	-	-	-	-	-
+
+cnn_0339	0	0	Of	RB	(TOP(S(ADVP*	-	-	-	-	-
+cnn_0339	0	1	course	RB	*)	-	-	-	-	-
+cnn_0339	0	2	,	,	*	-	-	-	-	-
+cnn_0339	0	3	Mr.	NNP	(NP*	-	-	-	-	(23
+cnn_0339	0	4	Cheney	NNP	*)	-	-	-	-	23)
+cnn_0339	0	5	was	VBD	(VP*	be	01	4	-	-
+cnn_0339	0	6	in	IN	(PP*	-	-	-	-	-
+cnn_0339	0	7	the	DT	(NP(NP*	-	-	-	-	-
+cnn_0339	0	8	chain	NN	*)	chain	-	1	-	-
+cnn_0339	0	9	of	IN	(PP*	-	-	-	-	-
+cnn_0339	0	10	command	NN	(NP*))	command	-	2	-	-
+cnn_0339	0	11	with	IN	(PP*	-	-	-	-	-
+cnn_0339	0	12	Swartzkopf	NNP	(NP(NP*)	-	-	-	-	(0)
+cnn_0339	0	13	and	CC	*)))))	-	-	-	-	-
+cnn_0339	0	14	--	.	*))	-	-	-	-	-
+
+cnn_0339	0	0	Many	JJ	(TOP(NP*	-	-	-	-	-
+cnn_0339	0	1	others	NNS	*	-	-	-	-	-
+cnn_0339	0	2	.	.	*))	-	-	-	-	-
+
+cnn_0339	0	0	When	WRB	(TOP(SBAR(WHADVP*)	-	-	-	-	-
+cnn_0339	0	1	they	PRP	(S(NP*)	-	-	-	-	-
+cnn_0339	0	2	made	VBD	(VP*	make	-	1	-	-
+cnn_0339	0	3	the	DT	(NP*	-	-	-	-	-
+cnn_0339	0	4	decision	NN	*	decision	01	1	-	-
+cnn_0339	0	5	not	RB	(S*	-	-	-	-	-
+cnn_0339	0	6	to	TO	(VP*	-	-	-	-	-
+cnn_0339	0	7	move	VB	(VP*	move	01	1	-	-
+cnn_0339	0	8	toward	IN	(PP*	-	-	-	-	-
+cnn_0339	0	9	Bagdad	NNP	(NP*))))))	-	-	-	-	-
+cnn_0339	0	10	with	IN	(PP*	-	-	-	-	-
+cnn_0339	0	11	bad	JJ	(NP(NP*	-	-	-	-	-
+cnn_0339	0	12	information	NN	*)	information	-	1	-	-
+cnn_0339	0	13	,	,	*	-	-	-	-	-
+cnn_0339	0	14	namely	RB	(NP(ADVP*)	-	-	-	-	-
+cnn_0339	0	15	,	,	*	-	-	-	-	-
+cnn_0339	0	16	the	DT	(NP*	-	-	-	-	-
+cnn_0339	0	17	Republican	NNP	*	-	-	-	-	-
+cnn_0339	0	18	Guard	NNP	*)	-	-	-	-	-
+cnn_0339	0	19	absolutely	RB	(VP(ADVP*)	-	-	-	-	-
+cnn_0339	0	20	devastated	VBN	*))))))	devastate	01	1	-	-
+cnn_0339	0	21	.	.	*))	-	-	-	-	-
+
+cnn_0339	0	0	Yes	UH	(TOP(INTJ*	-	-	-	-	-
+cnn_0339	0	1	.	.	*))	-	-	-	-	-
+
+cnn_0339	0	0	And	CC	(TOP(S*	-	-	-	-	-
+cnn_0339	0	1	,	,	*	-	-	-	-	-
+cnn_0339	0	2	well	UH	(INTJ*)	-	-	-	-	-
+cnn_0339	0	3	,	,	*	-	-	-	-	-
+cnn_0339	0	4	we	PRP	(NP*)	-	-	-	-	-
+cnn_0339	0	5	know	VBP	(VP*	know	01	1	-	-
+cnn_0339	0	6	now	RB	(ADVP*)	-	-	-	-	-
+cnn_0339	0	7	the	DT	(NP(NP*	-	-	-	-	-
+cnn_0339	0	8	harvest	NN	*)	-	-	-	-	-
+cnn_0339	0	9	of	IN	(PP*	-	-	-	-	-
+cnn_0339	0	10	all	PDT	(NP*	-	-	-	-	-
+cnn_0339	0	11	that	DT	*))))	-	-	-	-	-
+cnn_0339	0	12	.	.	*))	-	-	-	-	-
+
+cnn_0339	0	0	It	PRP	(TOP(S(NP(NP*))	-	-	-	-	-	-
+cnn_0339	0	1	hurts	VBZ	(VP*	hurt	01	3	-	-	-
+cnn_0339	0	2	to	TO	(S(VP*	-	-	-	-	-	-
+cnn_0339	0	3	think	VB	(VP*	think	01	-	-	-	-
+cnn_0339	0	4	of	IN	(PP*	-	-	-	-	-	-
+cnn_0339	0	5	how	WRB	(SBAR(WHNP(WHNP(WHNP(WHNP(WHADJP*	-	-	-	-	-	-
+cnn_0339	0	6	many	JJ	*)	-	-	-	-	-	-
+cnn_0339	0	7	wonderful	JJ	*	-	-	-	-	-	-
+cnn_0339	0	8	people	NNS	*)	people	-	1	-	-	-
+cnn_0339	0	9	in	IN	(PP*	-	-	-	-	-	-
+cnn_0339	0	10	Iraq	NNP	(NP*))	-	-	-	-	(2)	(2)
+cnn_0339	0	11	at	IN	(PP*	-	-	-	-	-	-
+cnn_0339	0	12	the	DT	(NP*	-	-	-	-	-	-
+cnn_0339	0	13	academic	JJ	*	-	-	-	-	-	-
+cnn_0339	0	14	community	NN	*)))	community	-	1	-	-	-
+cnn_0339	0	15	,	,	*	-	-	-	-	-	-
+cnn_0339	0	16	lawyers	NNS	(NP(NP*)	-	-	-	-	-	-
+cnn_0339	0	17	,	,	*	-	-	-	-	-	-
+cnn_0339	0	18	human	JJ	(NP(NML*	-	-	-	-	-	-
+cnn_0339	0	19	rights	NNS	*)	-	-	-	-	-	-
+cnn_0339	0	20	activists	NNS	*)	-	-	-	-	-	-
+cnn_0339	0	21	,	,	*	-	-	-	-	-	-
+cnn_0339	0	22	civilians	NNS	(NP*)	-	-	-	-	-	-
+cnn_0339	0	23	,	,	*	-	-	-	-	-	-
+cnn_0339	0	24	intellectuals	NNS	(NP*)	-	-	-	-	-	-
+cnn_0339	0	25	,	,	*	-	-	-	-	-	-
+cnn_0339	0	26	people	NNS	(NP*))))	people	-	1	-	-	-
+cnn_0339	0	27	--	:	*	-	-	-	-	-	-
+cnn_0339	0	28	would	MD	(S(VP*	-	-	-	-	-	-
+cnn_0339	0	29	now	RB	(ADVP*)	-	-	-	-	-	-
+cnn_0339	0	30	be	VB	(VP*	be	01	1	-	-	-
+cnn_0339	0	31	alive	JJ	(ADJP*))))	-	-	-	-	-	-
+cnn_0339	0	32	,	,	*	-	-	-	-	-	-
+cnn_0339	0	33	who	WP	(SBAR(WHNP*)	-	-	-	-	-	-
+cnn_0339	0	34	have	VBP	(SQ(VP*	have	01	-	-	-	-
+cnn_0339	0	35	been	VBN	(VP*	be	03	-	-	-	-
+cnn_0339	0	36	horribly	RB	(ADVP*)	-	-	-	-	-	-
+cnn_0339	0	37	murdered	VBN	(VP(VP*)	murder	01	1	-	-	-
+cnn_0339	0	38	and	CC	*	-	-	-	-	-	-
+cnn_0339	0	39	tortured	VBN	(VP*)	torture	01	2	-	-	-
+cnn_0339	0	40	and	CC	*	-	-	-	-	-	-
+cnn_0339	0	41	reduced	VBN	(VP*	reduce	01	3	-	-	-
+cnn_0339	0	42	to	IN	(PP*	-	-	-	-	-	-
+cnn_0339	0	43	misery	NN	(NP*))	misery	-	1	-	-	-
+cnn_0339	0	44	since	RB	(ADVP*))	-	-	-	-	-	-
+cnn_0339	0	45	by	IN	(PP*	-	-	-	-	-	-
+cnn_0339	0	46	a	DT	(NP(NP*	-	-	-	-	-	-
+cnn_0339	0	47	half	JJ	*	-	-	-	-	-	-
+cnn_0339	0	48	application	NN	*)	application	02	1	-	-	-
+cnn_0339	0	49	of	IN	(PP*	-	-	-	-	-	-
+cnn_0339	0	50	violence	NN	(NP*))	-	-	-	-	-	-
+cnn_0339	0	51	through	IN	(PP*	-	-	-	-	-	-
+cnn_0339	0	52	sanctions	NNS	(NP*	-	-	-	-	-	-
+cnn_0339	0	53	and	CC	*	-	-	-	-	-	-
+cnn_0339	0	54	overflights	NNS	*)))))))))))))))	-	-	-	-	-	-
+cnn_0339	0	55	.	.	*))	-	-	-	-	-	-
+
+cnn_0339	0	0	Mistakes	NNS	(TOP(S(FRAG(NP*)	mistake	-	2	-	-
+cnn_0339	0	1	made	VBN	(VP*	make	-	2	-	-
+cnn_0339	0	2	then	RB	(ADVP*)	-	-	-	-	-
+cnn_0339	0	3	,	,	*	-	-	-	-	-
+cnn_0339	0	4	mistakes	NNS	(FRAG(NP*)	mistake	-	2	-	-
+cnn_0339	0	5	part	NN	(NP(NP*)	part	-	1	-	-
+cnn_0339	0	6	of	IN	(PP*	-	-	-	-	-
+cnn_0339	0	7	human	JJ	(NP*	-	-	-	-	-
+cnn_0339	0	8	experience	NN	*))))))	experience	01	2	-	-
+cnn_0339	0	9	,	,	*	-	-	-	-	-
+cnn_0339	0	10	but	CC	*	-	-	-	-	-
+cnn_0339	0	11	now	RB	(S(ADVP*)	-	-	-	-	-
+cnn_0339	0	12	we	PRP	(NP*)	-	-	-	-	-
+cnn_0339	0	13	have	VBP	(VP*	have	03	2	-	-
+cnn_0339	0	14	an	DT	(NP*	-	-	-	-	-
+cnn_0339	0	15	opportunity	NN	*	-	-	-	-	-
+cnn_0339	0	16	not	RB	(S*	-	-	-	-	-
+cnn_0339	0	17	to	TO	(VP*	-	-	-	-	-
+cnn_0339	0	18	make	VB	(VP*	make	-	2	-	-
+cnn_0339	0	19	mistakes	NNS	(NP*)))))))	mistake	-	2	-	-
+cnn_0339	0	20	.	.	*))	-	-	-	-	-
+
+cnn_0339	0	0	Is	VBZ	(TOP(SQ*	be	01	1	-	-
+cnn_0339	0	1	it	PRP	(NP(NP*))	-	-	-	-	-
+cnn_0339	0	2	your	PRP$	(NP*	-	-	-	-	-
+cnn_0339	0	3	sense	NN	*)	sense	-	4	-	-
+cnn_0339	0	4	that	IN	(SBAR(SBAR*	-	-	-	-	-
+cnn_0339	0	5	the	DT	(S(NP*	-	-	-	-	(21
+cnn_0339	0	6	United	NNP	*	-	-	-	-	-
+cnn_0339	0	7	States	NNP	*)	-	-	-	-	21)
+cnn_0339	0	8	is	VBZ	(VP*	be	01	1	-	-
+cnn_0339	0	9	on	IN	(PP*	-	-	-	-	-
+cnn_0339	0	10	the	DT	(NP*	-	-	-	-	-
+cnn_0339	0	11	right	JJ	*	-	-	-	-	-
+cnn_0339	0	12	track	NN	*)))))	track	-	1	-	-
+cnn_0339	0	13	?	.	*	-	-	-	-	-
+cnn_0339	0	14	that	IN	(SBAR*	-	-	-	-	-
+cnn_0339	0	15	there	EX	(S(NP*)	-	-	-	-	-
+cnn_0339	0	16	is	VBZ	(VP*	be	02	3	-	-
+cnn_0339	0	17	a	DT	(NP(NP*	-	-	-	-	-
+cnn_0339	0	18	commitment	NN	*)	commitment	-	1	-	-
+cnn_0339	0	19	here	RB	(ADVP*)	-	-	-	-	-
+cnn_0339	0	20	on	IN	(PP*	-	-	-	-	-
+cnn_0339	0	21	the	DT	(NP(NP*	-	-	-	-	-
+cnn_0339	0	22	part	NN	*)	part	-	2	-	-
+cnn_0339	0	23	of	IN	(PP*	-	-	-	-	-
+cnn_0339	0	24	the	DT	(NP*	-	-	-	-	(21
+cnn_0339	0	25	United	NNP	*	-	-	-	-	-
+cnn_0339	0	26	States	NNP	*))))	-	-	-	-	21)
+cnn_0339	0	27	to	IN	(PP*))))))	-	-	-	-	-
+cnn_0339	0	28	--	.	*))	-	-	-	-	-
+
+#end document

@@ -1,0 +1,406 @@
+#begin document (ectb_1049_0); part 000
+ectb_1049	0	0	Tanshui	NNP	(TOP(NP(NP*)	-	-	-	-	(44
+ectb_1049	0	1	:	:	*	-	-	-	-	-
+ectb_1049	0	2	An	DT	(NP(NP*	-	-	-	-	-
+ectb_1049	0	3	Inspiration	NN	*)	-	-	-	-	-
+ectb_1049	0	4	to	IN	(PP*	-	-	-	-	-
+ectb_1049	0	5	Poets	NNS	(NP*	-	-	-	-	-
+ectb_1049	0	6	,	,	*	-	-	-	-	-
+ectb_1049	0	7	Artists	NNS	*	-	-	-	-	-
+ectb_1049	0	8	,	,	*	-	-	-	-	-
+ectb_1049	0	9	and	CC	*	-	-	-	-	-
+ectb_1049	0	10	Romantics	NNS	*)))))	-	-	-	-	44)
+
+ectb_1049	0	0	-LRB-	-LRB-	(TOP(FRAG*	-	-	-	-	-
+ectb_1049	0	1	Lin	NNP	(NP*	-	-	-	-	-
+ectb_1049	0	2	I	NNP	*	-	-	-	-	-
+ectb_1049	0	3	-	HYPH	*	-	-	-	-	-
+ectb_1049	0	4	hsien	NNP	*)	-	-	-	-	-
+ectb_1049	0	5	/	,	*	-	-	-	-	-
+ectb_1049	0	6	photos	NNS	(NP(NP*)	-	-	-	-	-
+ectb_1049	0	7	by	IN	(PP*	-	-	-	-	-
+ectb_1049	0	8	Diago	NNP	(NP*	-	-	-	-	-
+ectb_1049	0	9	Chiu	NNP	*)))	-	-	-	-	-
+ectb_1049	0	10	/	,	*	-	-	-	-	-
+ectb_1049	0	11	tr.	VBN	(VP*	translate	01	-	-	-
+ectb_1049	0	12	by	IN	(PP*	-	-	-	-	-
+ectb_1049	0	13	Phil	NNP	(NP*	-	-	-	-	-
+ectb_1049	0	14	Newell	NNP	*)))	-	-	-	-	-
+ectb_1049	0	15	-RRB-	-RRB-	*))	-	-	-	-	-
+
+ectb_1049	0	0	In	IN	(TOP(S(PP*	-	-	-	-	-
+ectb_1049	0	1	paintings	NNS	(NP*))	painting	-	1	-	-
+ectb_1049	0	2	,	,	*	-	-	-	-	-
+ectb_1049	0	3	a	DT	(NP*	-	-	-	-	-
+ectb_1049	0	4	white	JJ	*	-	-	-	-	-
+ectb_1049	0	5	cloud	NN	*	-	-	-	-	-
+ectb_1049	0	6	layer	NN	*)	-	-	-	-	-
+ectb_1049	0	7	swirls	VBZ	(VP*	swirl	01	-	-	-
+ectb_1049	0	8	over	IN	(PP*	-	-	-	-	-
+ectb_1049	0	9	Mt.	NNP	(NP*	-	-	-	-	-
+ectb_1049	0	10	Kuanyin	NNP	*)))	-	-	-	-	-
+ectb_1049	0	11	;	,	*))	-	-	-	-	-
+
+ectb_1049	0	0	waves	NNS	(TOP(S(NP(NP*)	-	-	-	-	-
+ectb_1049	0	1	on	IN	(PP*	-	-	-	-	-
+ectb_1049	0	2	the	DT	(NP*	-	-	-	-	-
+ectb_1049	0	3	river	NN	*)))	-	-	-	-	-
+ectb_1049	0	4	drift	VBP	(VP*	drift	01	1	-	-
+ectb_1049	0	5	like	IN	(PP*	-	-	-	-	-
+ectb_1049	0	6	a	DT	(NP*	-	-	-	-	-
+ectb_1049	0	7	breeze	NN	*)))	-	-	-	-	-
+ectb_1049	0	8	;	,	*))	-	-	-	-	-
+
+ectb_1049	0	0	a	DT	(TOP(S(NP*	-	-	-	-	-
+ectb_1049	0	1	red	JJ	*	-	-	-	-	-
+ectb_1049	0	2	sun	NN	*)	-	-	-	-	-
+ectb_1049	0	3	dances	VBZ	(VP*	dance	02	2	-	-
+ectb_1049	0	4	on	IN	(PP*	-	-	-	-	-
+ectb_1049	0	5	golden	JJ	(NP*	-	-	-	-	-
+ectb_1049	0	6	water	NN	*)))	water	-	3	-	-
+ectb_1049	0	7	;	,	*))	-	-	-	-	-
+
+ectb_1049	0	0	a	DT	(TOP(S(NP*	-	-	-	-	-
+ectb_1049	0	1	yellow	JJ	*	-	-	-	-	-
+ectb_1049	0	2	moon	NN	*)	-	-	-	-	-
+ectb_1049	0	3	sings	VBZ	(VP*	sing	01	1	-	-
+ectb_1049	0	4	from	IN	(PP*	-	-	-	-	-
+ectb_1049	0	5	a	DT	(NP*	-	-	-	-	-
+ectb_1049	0	6	deep	JJ	*	-	-	-	-	-
+ectb_1049	0	7	purple	JJ	*	-	-	-	-	-
+ectb_1049	0	8	sky	NN	*)))	-	-	-	-	-
+ectb_1049	0	9	.	.	*	-	-	-	-	-
+ectb_1049	0	10	.	.	*	-	-	-	-	-
+ectb_1049	0	11	.	.	*	-	-	-	-	-
+ectb_1049	0	12	.	.	*))	-	-	-	-	-
+
+ectb_1049	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	(44
+ectb_1049	0	1	Tanshui	NNP	*)	-	-	-	-	-
+ectb_1049	0	2	of	IN	(PP*	-	-	-	-	-
+ectb_1049	0	3	illustrations	NNS	(NP*)))	illustration	-	1	-	44)
+ectb_1049	0	4	is	VBZ	(VP*	be	01	1	-	-
+ectb_1049	0	5	a	DT	(NP(NP(NP*	-	-	-	-	-
+ectb_1049	0	6	place	NN	*)	place	-	1	-	-
+ectb_1049	0	7	of	IN	(PP*	-	-	-	-	-
+ectb_1049	0	8	unblemished	JJ	(NP*	-	-	-	-	-
+ectb_1049	0	9	beauty	NN	*)))	-	-	-	-	-
+ectb_1049	0	10	,	,	*	-	-	-	-	-
+ectb_1049	0	11	a	DT	(NP(NP*	-	-	-	-	-
+ectb_1049	0	12	myth	NN	*)	-	-	-	-	-
+ectb_1049	0	13	that	WDT	(SBAR(WHNP*)	-	-	-	-	-
+ectb_1049	0	14	remains	VBZ	(S(VP*	remain	01	1	-	-
+ectb_1049	0	15	unshakeable	JJ	(ADJP*)))))))	-	-	-	-	-
+ectb_1049	0	16	.	.	*))	-	-	-	-	-
+
+ectb_1049	0	0	In	IN	(TOP(S(PP*	-	-	-	-	-
+ectb_1049	0	1	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1049	0	2	300	CD	(QP*	-	-	-	-	-
+ectb_1049	0	3	-	HYPH	*	-	-	-	-	-
+ectb_1049	0	4	plus	JJ	*)	-	-	-	-	-
+ectb_1049	0	5	years	NNS	*)	-	-	-	-	-
+ectb_1049	0	6	since	IN	(PP*	-	-	-	-	-
+ectb_1049	0	7	its	PRP$	(NP*	-	-	-	-	(44)
+ectb_1049	0	8	founding	NN	*))))	-	-	-	-	-
+ectb_1049	0	9	,	,	*	-	-	-	-	-
+ectb_1049	0	10	this	DT	(NP(NP*	-	-	-	-	(44
+ectb_1049	0	11	port	NN	*	port	-	1	-	-
+ectb_1049	0	12	town	NN	*)	town	-	1	-	-
+ectb_1049	0	13	-	,	*	-	-	-	-	-
+ectb_1049	0	14	formerly	RB	(VP(VP(ADVP*)	-	-	-	-	-
+ectb_1049	0	15	called	VBN	*	call	01	-	-	-
+ectb_1049	0	16	Huwei	NNP	(S(NP*)))	-	-	-	-	(23)
+ectb_1049	0	17	,	,	*	-	-	-	-	-
+ectb_1049	0	18	now	RB	(VP(ADVP*)	-	-	-	-	-
+ectb_1049	0	19	Tanshui	NNP	(NP*	-	-	-	-	(44
+ectb_1049	0	20	Township	NNP	*)))	-	-	-	-	44)
+ectb_1049	0	21	-	,	*)	-	-	-	-	44)
+ectb_1049	0	22	has	VBZ	(VP(VP*	have	01	-	-	-
+ectb_1049	0	23	seen	VBN	(VP*	see	01	3	-	-
+ectb_1049	0	24	days	NNS	(NP(NP*)	day	-	4	-	-
+ectb_1049	0	25	of	IN	(PP*	-	-	-	-	-
+ectb_1049	0	26	prosperity	NN	(NP*)))))	prosperity	-	1	-	-
+ectb_1049	0	27	and	CC	*	-	-	-	-	-
+ectb_1049	0	28	has	VBZ	(VP*	have	01	-	-	-
+ectb_1049	0	29	also	RB	(ADVP*)	-	-	-	-	-
+ectb_1049	0	30	been	VBN	(VP*	be	01	5	-	-
+ectb_1049	0	31	through	IN	(PP*	-	-	-	-	-
+ectb_1049	0	32	a	DT	(NP(NP*	-	-	-	-	-
+ectb_1049	0	33	baptism	NN	*)	-	-	-	-	-
+ectb_1049	0	34	of	IN	(PP*	-	-	-	-	-
+ectb_1049	0	35	fire	NN	(NP*)))))))	fire	-	8	-	-
+ectb_1049	0	36	.	.	*))	-	-	-	-	-
+
+ectb_1049	0	0	What	WP	(TOP(SBARQ(WHNP*)	-	-	-	-	-
+ectb_1049	0	1	makes	VBZ	(SQ(VP*	make	02	3	-	-
+ectb_1049	0	2	it	PRP	(S(NP*)	-	-	-	-	(44)
+ectb_1049	0	3	special	JJ	(ADJP*)	-	-	-	-	-
+ectb_1049	0	4	among	IN	(PP*	-	-	-	-	-
+ectb_1049	0	5	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1049	0	6	309	CD	*	-	-	-	-	-
+ectb_1049	0	7	urban	JJ	(ADJP*	-	-	-	-	-
+ectb_1049	0	8	and	CC	*	-	-	-	-	-
+ectb_1049	0	9	rural	JJ	*)	-	-	-	-	-
+ectb_1049	0	10	townships	NNS	*)	-	-	-	-	-
+ectb_1049	0	11	of	IN	(PP*	-	-	-	-	-
+ectb_1049	0	12	Taiwan	NNP	(NP*)))))))	-	-	-	-	-
+ectb_1049	0	13	?	.	*))	-	-	-	-	-
+
+ectb_1049	0	0	How	WRB	(TOP(SBARQ(WHADVP*)	-	-	-	-	-
+ectb_1049	0	1	do	VBP	(SQ*	do	01	-	-	-
+ectb_1049	0	2	the	DT	(NP(NP*	-	-	-	-	(43
+ectb_1049	0	3	people	NNS	*)	people	-	1	-	-
+ectb_1049	0	4	of	IN	(PP*	-	-	-	-	-
+ectb_1049	0	5	Tanshui	NNP	(NP*)))	-	-	-	-	(44)|43)
+ectb_1049	0	6	live	VB	(VP*	live	01	1	-	-
+ectb_1049	0	7	today	NN	(NP*)))	today	-	2	-	-
+ectb_1049	0	8	?	.	*))	-	-	-	-	-
+
+ectb_1049	0	0	How	WRB	(TOP(SBARQ(WHADVP*)	-	-	-	-	-
+ectb_1049	0	1	do	VBP	(SQ*	do	01	-	-	-
+ectb_1049	0	2	they	PRP	(NP*)	-	-	-	-	(43)
+ectb_1049	0	3	recall	VB	(VP*	recall	02	1	-	-
+ectb_1049	0	4	the	DT	(NP*	-	-	-	-	-
+ectb_1049	0	5	past	NN	*)))	past	-	1	-	-
+ectb_1049	0	6	?	.	*))	-	-	-	-	-
+
+ectb_1049	0	0	And	CC	(TOP(SBARQ*	-	-	-	-	-
+ectb_1049	0	1	how	WRB	(WHADVP*)	-	-	-	-	-
+ectb_1049	0	2	do	VBP	(SQ*	do	01	-	-	-
+ectb_1049	0	3	they	PRP	(NP*)	-	-	-	-	(43)
+ectb_1049	0	4	see	VB	(VP*	see	01	2	-	-
+ectb_1049	0	5	the	DT	(NP*	-	-	-	-	-
+ectb_1049	0	6	future	NN	*)))	future	-	1	-	-
+ectb_1049	0	7	?	.	*))	-	-	-	-	-
+
+ectb_1049	0	0	"	``	(TOP(S*	-	-	-	-	-
+ectb_1049	0	1	You	PRP	(NP*)	-	-	-	-	-
+ectb_1049	0	2	want	VBP	(VP*	want	01	1	-	-
+ectb_1049	0	3	to	TO	(S(VP*	-	-	-	-	-
+ectb_1049	0	4	know	VB	(VP*	know	01	2	-	-
+ectb_1049	0	5	how	WRB	(SBAR(WHADVP*)	-	-	-	-	-
+ectb_1049	0	6	Tanshui	NNP	(S(NP*)	-	-	-	-	(44)
+ectb_1049	0	7	has	VBZ	(VP*	have	01	-	-	-
+ectb_1049	0	8	changed	VBN	(VP*))))))))	change	01	1	-	-
+ectb_1049	0	9	?	.	*))	-	-	-	-	-
+
+ectb_1049	0	0	I	PRP	(TOP(S(NP*)	-	-	-	-	(7)
+ectb_1049	0	1	would	MD	(VP*	-	-	-	-	-
+ectb_1049	0	2	say	VB	(VP*	say	01	1	-	-
+ectb_1049	0	3	that	IN	(SBAR*	-	-	-	-	-
+ectb_1049	0	4	the	DT	(S(NP*	-	-	-	-	-
+ectb_1049	0	5	biggest	JJS	*	-	-	-	-	-
+ectb_1049	0	6	change	NN	*)	change	-	1	-	-
+ectb_1049	0	7	is	VBZ	(VP*	be	01	2	-	-
+ectb_1049	0	8	that	IN	(SBAR*	-	-	-	-	-
+ectb_1049	0	9	the	DT	(S(NP*	-	-	-	-	-
+ectb_1049	0	10	old	JJ	*	-	-	-	-	-
+ectb_1049	0	11	streets	NNS	*)	-	-	-	-	-
+ectb_1049	0	12	are	VBP	(VP*	be	02	1	-	-
+ectb_1049	0	13	gone	JJ	(ADJP*)))))))))	-	-	-	-	-
+ectb_1049	0	14	.	.	*	-	-	-	-	-
+ectb_1049	0	15	"	''	*))	-	-	-	-	-
+
+ectb_1049	0	0	So	RB	(TOP(SINV(ADVP*)	-	-	-	-	-
+ectb_1049	0	1	declares	VBZ	(VP*)	declare	01	1	-	-
+ectb_1049	0	2	Tu	NNP	(NP(NP*	-	-	-	-	(7
+ectb_1049	0	3	Hsiu	NNP	*	-	-	-	-	-
+ectb_1049	0	4	-	HYPH	*	-	-	-	-	-
+ectb_1049	0	5	yuan	NNS	*)	-	-	-	-	-
+ectb_1049	0	6	,	,	*	-	-	-	-	-
+ectb_1049	0	7	proprietor	NN	(NP(NP(NP*)	-	-	-	-	-
+ectb_1049	0	8	of	IN	(PP*	-	-	-	-	-
+ectb_1049	0	9	the	DT	(NP*	-	-	-	-	-
+ectb_1049	0	10	Hui	NNP	(NML*	-	-	-	-	-
+ectb_1049	0	11	Yuan	NNP	*)	-	-	-	-	-
+ectb_1049	0	12	Pharmacy	NNP	*)))	-	-	-	-	-
+ectb_1049	0	13	,	,	*	-	-	-	-	-
+ectb_1049	0	14	and	CC	*	-	-	-	-	-
+ectb_1049	0	15	also	RB	(NP(ADVP*)	-	-	-	-	-
+ectb_1049	0	16	director	NN	(NP*)	director	-	1	-	-
+ectb_1049	0	17	of	IN	(PP*	-	-	-	-	-
+ectb_1049	0	18	the	DT	(NP*	-	-	-	-	-
+ectb_1049	0	19	Huwei	NNP	*	-	-	-	-	-
+ectb_1049	0	20	Cultural	NNP	(ADJP*	-	-	-	-	-
+ectb_1049	0	21	and	CC	*	-	-	-	-	-
+ectb_1049	0	22	Historical	NNP	*)	-	-	-	-	-
+ectb_1049	0	23	Workshop	NNP	*)))))	-	-	-	-	7)
+ectb_1049	0	24	.	.	*))	-	-	-	-	-
+
+ectb_1049	0	0	His	PRP$	(TOP(S(NP*	-	-	-	-	(7)
+ectb_1049	0	1	pharmacy	NN	*)	-	-	-	-	-
+ectb_1049	0	2	is	VBZ	(VP*	be	03	-	-	-
+ectb_1049	0	3	located	VBN	(VP*	locate	01	2	-	-
+ectb_1049	0	4	on	IN	(PP*	-	-	-	-	-
+ectb_1049	0	5	what	WP	(SBAR(WHNP*)	-	-	-	-	-
+ectb_1049	0	6	is	VBZ	(S(VP*	be	03	-	-	-
+ectb_1049	0	7	now	RB	(ADVP*)	-	-	-	-	-
+ectb_1049	0	8	called	VBN	(VP*	call	01	-	-	-
+ectb_1049	0	9	Chungcheng	NNP	(S(NP(NP(NP*	-	-	-	-	-
+ectb_1049	0	10	Road	NNP	*)	-	-	-	-	-
+ectb_1049	0	11	,	,	*	-	-	-	-	-
+ectb_1049	0	12	one	CD	(NP(NP*)	-	-	-	-	-
+ectb_1049	0	13	of	IN	(PP*	-	-	-	-	-
+ectb_1049	0	14	the	DT	(NP*	-	-	-	-	-
+ectb_1049	0	15	oldest	JJS	*	-	-	-	-	-
+ectb_1049	0	16	streets	NNS	*))))	-	-	-	-	-
+ectb_1049	0	17	,	,	*	-	-	-	-	-
+ectb_1049	0	18	which	WDT	(SBAR(WHNP*)	-	-	-	-	-
+ectb_1049	0	19	Tanshui	NNP	(S(NP*	-	-	-	-	(44)
+ectb_1049	0	20	natives	NNS	*)	-	-	-	-	-
+ectb_1049	0	21	still	RB	(ADVP*)	-	-	-	-	-
+ectb_1049	0	22	call	VBP	(VP*	call	01	5	-	-
+ectb_1049	0	23	Huwei	NNP	(S(NP*	-	-	-	-	-
+ectb_1049	0	24	Street	NNP	*))))))))))))))	-	-	-	-	-
+ectb_1049	0	25	.	.	*))	-	-	-	-	-
+
+ectb_1049	0	0	Tu	NNP	(TOP(S(NP(NP*)	-	-	-	-	(7	(7
+ectb_1049	0	1	,	,	*	-	-	-	-	-	-
+ectb_1049	0	2	who	WP	(SBAR(WHNP*)	-	-	-	-	-	-
+ectb_1049	0	3	has	VBZ	(S(VP*	have	01	-	-	-	-
+ectb_1049	0	4	lived	VBN	(VP*	live	01	2	-	-	-
+ectb_1049	0	5	his	PRP$	(NP*	-	-	-	-	(7)	(7)
+ectb_1049	0	6	whole	JJ	*	-	-	-	-	-	-
+ectb_1049	0	7	life	NN	*)	life	-	4	-	-	-
+ectb_1049	0	8	in	IN	(PP*	-	-	-	-	-	-
+ectb_1049	0	9	the	DT	(NP*	-	-	-	-	-	-
+ectb_1049	0	10	old	JJ	*	-	-	-	-	-	-
+ectb_1049	0	11	neighborhood	NN	*)))))))	-	-	-	-	7)	7)
+ectb_1049	0	12	,	,	*	-	-	-	-	-	-
+ectb_1049	0	13	has	VBZ	(VP*	have	01	-	-	-	-
+ectb_1049	0	14	watched	VBN	(VP*	watch	01	1	-	-	-
+ectb_1049	0	15	from	IN	(PP*	-	-	-	-	-	-
+ectb_1049	0	16	his	PRP$	(NP*	-	-	-	-	(7)	(7)
+ectb_1049	0	17	doorstep	NN	*))	-	-	-	-	-	-
+ectb_1049	0	18	as	IN	(SBAR*	-	-	-	-	-	-
+ectb_1049	0	19	old	JJ	(S(S(NP*	-	-	-	-	(39	(39
+ectb_1049	0	20	shops	NNS	*)	shop	-	1	-	39)	39)
+ectb_1049	0	21	have	VBP	(VP*	have	01	-	-	-	-
+ectb_1049	0	22	refurbished	VBN	(VP*	refurbish	01	-	-	-	-
+ectb_1049	0	23	themselves	PRP	(NP*)	-	-	-	-	(39)	(39)
+ectb_1049	0	24	in	IN	(PP*	-	-	-	-	-	-
+ectb_1049	0	25	modern	JJ	(NP*	-	-	-	-	-	-
+ectb_1049	0	26	style	NN	*)))))	style	-	2	-	-	-
+ectb_1049	0	27	,	,	*	-	-	-	-	-	-
+ectb_1049	0	28	and	CC	*	-	-	-	-	-	-
+ectb_1049	0	29	modern	JJ	(S(NP*	-	-	-	-	-	-
+ectb_1049	0	30	shops	NNS	*)	shop	-	1	-	-	-
+ectb_1049	0	31	have	VBP	(VP*	have	01	-	-	-	-
+ectb_1049	0	32	adopted	VBN	(VP*	adopt	01	2	-	-	-
+ectb_1049	0	33	the	DT	(NP(NP*	-	-	-	-	-	-
+ectb_1049	0	34	look	NN	*)	look	02	3	-	-	-
+ectb_1049	0	35	of	IN	(PP*	-	-	-	-	-	-
+ectb_1049	0	36	the	DT	(NP*	-	-	-	-	-	-
+ectb_1049	0	37	old	JJ	*))))))))))	-	-	-	-	-	-
+ectb_1049	0	38	.	.	*))	-	-	-	-	-	-
+
+ectb_1049	0	0	For	IN	(TOP(S(PP*	-	-	-	-	-
+ectb_1049	0	1	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1049	0	2	convenience	NN	*)	-	-	-	-	-
+ectb_1049	0	3	of	IN	(PP*	-	-	-	-	-
+ectb_1049	0	4	cars	NNS	(NP*))))	car	-	2	-	-
+ectb_1049	0	5	,	,	*	-	-	-	-	-
+ectb_1049	0	6	the	DT	(NP*	-	-	-	-	-
+ectb_1049	0	7	streets	NNS	*)	-	-	-	-	-
+ectb_1049	0	8	have	VBP	(VP*	have	01	-	-	-
+ectb_1049	0	9	been	VBN	(VP*	be	03	-	-	-
+ectb_1049	0	10	widened	VBN	(VP*	widen	01	1	-	-
+ectb_1049	0	11	repeatedly	RB	(ADVP*))))	-	-	-	-	-
+ectb_1049	0	12	.	.	*))	-	-	-	-	-
+
+ectb_1049	0	0	In	IN	(TOP(S(PP*	-	-	-	-	-
+ectb_1049	0	1	1988	CD	(NP*))	-	-	-	-	-
+ectb_1049	0	2	,	,	*	-	-	-	-	-
+ectb_1049	0	3	the	DT	(NP(NP*	-	-	-	-	(27
+ectb_1049	0	4	last	JJ	*	-	-	-	-	-
+ectb_1049	0	5	train	NN	*)	train	-	1	-	-
+ectb_1049	0	6	on	IN	(PP*	-	-	-	-	-
+ectb_1049	0	7	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1049	0	8	old	JJ	*	-	-	-	-	-
+ectb_1049	0	9	Tanshui	NNP	*	-	-	-	-	(44)
+ectb_1049	0	10	Line	NNP	*)	-	-	-	-	-
+ectb_1049	0	11	of	IN	(PP*	-	-	-	-	-
+ectb_1049	0	12	the	DT	(NP*	-	-	-	-	-
+ectb_1049	0	13	railroad	NN	*)))))	-	-	-	-	27)
+ectb_1049	0	14	chugged	VBD	(VP*	chug	03	-	-	-
+ectb_1049	0	15	into	IN	(PP*	-	-	-	-	-
+ectb_1049	0	16	history	NN	(NP*))	history	-	4	-	-
+ectb_1049	0	17	,	,	*	-	-	-	-	-
+ectb_1049	0	18	taking	VBG	(S(VP*	take	01	4	-	-
+ectb_1049	0	19	that	DT	(NP(NP*	-	-	-	-	-
+ectb_1049	0	20	old	JJ	*	-	-	-	-	-
+ectb_1049	0	21	slower	JJR	*	-	-	-	-	-
+ectb_1049	0	22	pace	NN	*)	pace	-	1	-	-
+ectb_1049	0	23	of	IN	(PP*	-	-	-	-	-
+ectb_1049	0	24	life	NN	(NP*)))	life	-	1	-	-
+ectb_1049	0	25	with	IN	(PP*	-	-	-	-	-
+ectb_1049	0	26	it	PRP	(NP*)))))	-	-	-	-	(27)
+ectb_1049	0	27	.	.	*))	-	-	-	-	-
+
+ectb_1049	0	0	In	IN	(TOP(S(PP*	-	-	-	-	-
+ectb_1049	0	1	1997	CD	(NP*))	-	-	-	-	-
+ectb_1049	0	2	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1049	0	3	Tanshui	NNP	*	-	-	-	-	(44)
+ectb_1049	0	4	Line	NNP	*)	-	-	-	-	-
+ectb_1049	0	5	of	IN	(PP*	-	-	-	-	-
+ectb_1049	0	6	the	DT	(NP*	-	-	-	-	-
+ectb_1049	0	7	mass	NN	(NML*	mass	-	5	-	-
+ectb_1049	0	8	rapid	JJ	*	-	-	-	-	-
+ectb_1049	0	9	transit	NN	*)	-	-	-	-	-
+ectb_1049	0	10	system	NN	*)))	-	-	-	-	-
+ectb_1049	0	11	opened	VBD	(VP*	open	01	2	-	-
+ectb_1049	0	12	,	,	*	-	-	-	-	-
+ectb_1049	0	13	bringing	VBG	(S(VP*	bring	01	1	-	-
+ectb_1049	0	14	floods	NNS	(NP(NP*)	flood	01	2	-	(20
+ectb_1049	0	15	of	IN	(PP*	-	-	-	-	-
+ectb_1049	0	16	visitors	NNS	(NP*)))	-	-	-	-	20)
+ectb_1049	0	17	to	IN	(PP*	-	-	-	-	-
+ectb_1049	0	18	the	DT	(NP*	-	-	-	-	(44
+ectb_1049	0	19	town	NN	*)))))	town	-	1	-	44)
+ectb_1049	0	20	.	.	*))	-	-	-	-	-
+
+ectb_1049	0	0	Yet	CC	(TOP(S*	-	-	-	-	-
+ectb_1049	0	1	,	,	*	-	-	-	-	-
+ectb_1049	0	2	while	IN	(SBAR*	-	-	-	-	-
+ectb_1049	0	3	these	DT	(S(NP*	-	-	-	-	(20
+ectb_1049	0	4	tourists	NNS	*)	-	-	-	-	20)
+ectb_1049	0	5	bring	VBP	(VP*	bring	01	2	-	-
+ectb_1049	0	6	a	DT	(NP*	-	-	-	-	-
+ectb_1049	0	7	human	JJ	*	-	-	-	-	-
+ectb_1049	0	8	touch	NN	*)	touch	-	4	-	-
+ectb_1049	0	9	to	IN	(PP*	-	-	-	-	-
+ectb_1049	0	10	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1049	0	11	streets	NNS	*)	-	-	-	-	-
+ectb_1049	0	12	on	IN	(PP*	-	-	-	-	-
+ectb_1049	0	13	weekends	NNS	(NP*	-	-	-	-	-
+ectb_1049	0	14	and	CC	*	-	-	-	-	-
+ectb_1049	0	15	holidays	NNS	*)))))))	-	-	-	-	-
+ectb_1049	0	16	,	,	*	-	-	-	-	-
+ectb_1049	0	17	on	IN	(PP*	-	-	-	-	-
+ectb_1049	0	18	ordinary	JJ	(NP*	-	-	-	-	-
+ectb_1049	0	19	weekdays	NNS	*))	-	-	-	-	-
+ectb_1049	0	20	the	DT	(NP*	-	-	-	-	-
+ectb_1049	0	21	silence	NN	*)	-	-	-	-	-
+ectb_1049	0	22	is	VBZ	(VP*	be	03	-	-	-
+ectb_1049	0	23	accompanied	VBN	(VP*	accompany	01	2	-	-
+ectb_1049	0	24	only	RB	(PP(ADVP*)	-	-	-	-	-
+ectb_1049	0	25	by	IN	*	-	-	-	-	-
+ectb_1049	0	26	leftover	JJ	(NP(NP*	-	-	-	-	-
+ectb_1049	0	27	garbage	NN	*)	-	-	-	-	-
+ectb_1049	0	28	,	,	*	-	-	-	-	-
+ectb_1049	0	29	empty	JJ	(NP*	-	-	-	-	-
+ectb_1049	0	30	shops	NNS	*)	shop	-	1	-	-
+ectb_1049	0	31	,	,	*	-	-	-	-	-
+ectb_1049	0	32	and	CC	*	-	-	-	-	-
+ectb_1049	0	33	those	DT	(NP(NP*	-	-	-	-	(41
+ectb_1049	0	34	Huwei	NNP	*	-	-	-	-	(23)
+ectb_1049	0	35	people	NNS	*)	people	-	1	-	-
+ectb_1049	0	36	who	WP	(SBAR(WHNP*)	-	-	-	-	-
+ectb_1049	0	37	refuse	VBP	(S(VP*	refuse	01	1	-	-
+ectb_1049	0	38	to	TO	(S(VP*	-	-	-	-	-
+ectb_1049	0	39	leave	VB	(VP*	leave	01	1	-	-
+ectb_1049	0	40	their	PRP$	(NP*	-	-	-	-	(41)
+ectb_1049	0	41	old	JJ	*	-	-	-	-	-
+ectb_1049	0	42	homes	NNS	*))))))))))))	home	-	1	-	41)
+ectb_1049	0	43	.	.	*))	-	-	-	-	-
+
+#end document

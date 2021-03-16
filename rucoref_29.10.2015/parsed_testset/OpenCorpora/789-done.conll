@@ -1,0 +1,646 @@
+# newdoc id = 1fd4c103-75fe-42c5-90b2-e2402020fa6f
+# newpar id = 1fd4c103-75fe-42c5-90b2-e2402020fa6f-p1
+# par_text = В канун обнародования президентом плана о выводе войск из Афганистана, Белый дом подчеркнул, что в план не входит какая либо модификация афганской стратегии, объвленной Бараком Обамой в декабре 2009 года в военной академии Вест-Пойнт в Нью-Йорке.
+# sent_id = 1fd4c103-75fe-42c5-90b2-e2402020fa6f-p1-s1
+# text = В канун обнародования президентом плана о выводе войск из Афганистана, Белый дом подчеркнул, что в план не входит какая либо модификация афганской стратегии, объвленной Бараком Обамой в декабре 2009 года в военной академии Вест - Пойнт в Нью-Йорке.
+1	В	_	_	_	_	_	_	_	Shift=0
+2	канун	_	_	_	_	_	_	_	Shift=2
+3	обнародования	_	_	_	_	_	_	_	Shift=8
+4	президентом	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=304|RuCor_group_id=412432|RuCor_link_id=0|Shift=22
+5	плана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=288|RuCor_group_id=412517|RuCor_link_id=0|Shift=34
+6	о	_	_	_	_	_	_	_	RuCor_chain_id=288|RuCor_group_id=412517|Shift=40
+7	выводе	_	_	_	_	_	_	_	RuCor_chain_id=288|RuCor_group_id=412517|Shift=42
+8	войск	_	_	_	_	_	_	_	RuCor_chain_id=288|RuCor_group_id=412517|Shift=49
+9	из	_	_	_	_	_	_	_	RuCor_chain_id=288|RuCor_group_id=412517|Shift=55
+10	Афганистана	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=303|RuCor_group_id=412442|RuCor_link_id=0|Shift=58|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=69
+12	Белый	_	_	_	_	_	_	_	RuCor_chain_id=298|RuCor_group_id=412468|Shift=71
+13	дом	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=298|RuCor_group_id=412468|RuCor_link_id=0|Shift=77
+14	подчеркнул	_	_	_	_	_	_	_	Shift=81|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=91
+16	что	_	_	_	_	_	_	_	Shift=93
+17	в	_	_	_	_	_	_	_	Shift=97
+18	план	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=288|RuCor_group_id=412518|RuCor_link_id=412517|Shift=99
+19	не	_	_	_	_	_	_	_	Shift=104
+20	входит	_	_	_	_	_	_	_	Shift=107
+21	какая	_	_	_	_	_	_	_	Shift=114
+22	либо	_	_	_	_	_	_	_	Shift=120
+23	модификация	_	_	_	_	_	_	_	Shift=125
+24	афганской	_	_	_	_	_	_	_	RuCor_chain_id=287|RuCor_group_id=412519|Shift=137
+25	стратегии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=287|RuCor_group_id=412519|RuCor_link_id=0|Shift=147|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	Shift=156
+27	объвленной	_	_	_	_	_	_	_	Shift=158
+28	Бараком	_	_	_	_	_	_	_	RuCor_chain_id=304|RuCor_group_id=412433|Shift=169
+29	Обамой	_	_	_	_	_	_	_	RuCor_chain_id=304|RuCor_group_id=412433|Shift=177
+30	в	_	_	_	_	_	_	_	Shift=184
+31	декабре	_	_	_	_	_	_	_	Shift=186
+32	2009	_	_	_	_	_	_	_	Shift=194
+33	года	_	_	_	_	_	_	_	Shift=199
+34	в	_	_	_	_	_	_	_	Shift=204
+35	военной	_	_	_	_	_	_	_	Shift=206
+36	академии	_	_	_	_	_	_	_	Shift=214
+37	Вест	_	_	_	_	_	_	_	Shift=223
+38	-	_	_	_	_	_	_	_	Shift=227
+39	Пойнт	_	_	_	_	_	_	_	Shift=228
+40	в	_	_	_	_	_	_	_	Shift=234
+41	Нью-Йорке	_	_	_	_	_	_	_	Shift=236|SpaceAfter=No
+42	.	_	_	_	_	_	_	_	Shift=245
+
+# newpar id = 1fd4c103-75fe-42c5-90b2-e2402020fa6f-p2
+# par_text = Тогда американский президент наметил стратегию, которая, по его словам, «приведет эту войну к успешному завершению». Тогда же президент объявил об отправке дополнительного тридцатитысячного военного контингента для того, чтобы противостоять талибам. « Как верховный главнокомандующий я определил, что отправка дополнительного тридцатитысячного контингента в Афганистан входит в сферу национальных интересов нашей страны. После 18 месяцев пребывания на афганской земле наши солдаты начнут возвращаться домой. Это ресурсы, которые нам необходимы сегодня, для того, чтобы позволить Афганистану создать соответстующую систему и с чистой совестью начать вывод наших войск Барак Обама »
+# sent_id = 1fd4c103-75fe-42c5-90b2-e2402020fa6f-p2-s1
+# text = Тогда американский президент наметил стратегию, которая, по его словам, ``приведет эту войну к успешному завершению''.
+1	Тогда	_	_	_	_	_	_	_	Shift=247
+2	американский	_	_	_	_	_	_	_	RuCor_chain_id=304|RuCor_group_id=412434|Shift=253
+3	президент	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=304|RuCor_group_id=412434|RuCor_link_id=412433|Shift=266
+4	наметил	_	_	_	_	_	_	_	Shift=276
+5	стратегию	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=287|RuCor_group_id=412435|RuCor_link_id=412519|Shift=284|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=293
+7	которая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=287|RuCor_group_id=412436|RuCor_link_id=412435|Shift=295|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=302
+9	по	_	_	_	_	_	_	_	Shift=304
+10	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=304|RuCor_group_id=412437|RuCor_link_id=412434|Shift=307
+11	словам	_	_	_	_	_	_	_	Shift=311|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=317
+13	``	_	_	_	_	_	_	_	Shift=319|SpaceAfter=No
+14	приведет	_	_	_	_	_	_	_	Shift=320
+15	эту	_	_	_	_	_	_	_	RuCor_chain_id=301|RuCor_group_id=412452|Shift=329
+16	войну	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=301|RuCor_group_id=412452|RuCor_link_id=0|Shift=333
+17	к	_	_	_	_	_	_	_	Shift=339
+18	успешному	_	_	_	_	_	_	_	Shift=341
+19	завершению	_	_	_	_	_	_	_	Shift=351|SpaceAfter=No
+20	''	_	_	_	_	_	_	_	Shift=361|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=362
+
+# sent_id = 1fd4c103-75fe-42c5-90b2-e2402020fa6f-p2-s2
+# text = Тогда же президент объявил об отправке дополнительного тридцатитысячного военного контингента для того, чтобы противостоять талибам.
+1	Тогда	_	_	_	_	_	_	_	Shift=364
+2	же	_	_	_	_	_	_	_	Shift=370
+3	президент	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=304|RuCor_group_id=412438|RuCor_link_id=412432|Shift=373
+4	объявил	_	_	_	_	_	_	_	Shift=383
+5	об	_	_	_	_	_	_	_	Shift=391
+6	отправке	_	_	_	_	_	_	_	Shift=394
+7	дополнительного	_	_	_	_	_	_	_	Shift=403
+8	тридцатитысячного	_	_	_	_	_	_	_	Shift=419
+9	военного	_	_	_	_	_	_	_	Shift=437
+10	контингента	_	_	_	_	_	_	_	Shift=446
+11	для	_	_	_	_	_	_	_	Shift=458
+12	того	_	_	_	_	_	_	_	Shift=462|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=466
+14	чтобы	_	_	_	_	_	_	_	Shift=468
+15	противостоять	_	_	_	_	_	_	_	Shift=474
+16	талибам	_	_	_	_	_	_	_	Shift=488|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=495
+
+# sent_id = 1fd4c103-75fe-42c5-90b2-e2402020fa6f-p2-s3
+# text = ``Как верховный главнокомандующий я определил, что отправка дополнительного тридцатитысячного контингента в Афганистан входит в сферу национальных интересов нашей страны.
+1	``	_	_	_	_	_	_	_	Shift=497|SpaceAfter=No
+2	Как	_	_	_	_	_	_	_	Shift=499
+3	верховный	_	_	_	_	_	_	_	RuCor_chain_id=304|RuCor_group_id=412439|Shift=503
+4	главнокомандующий	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=304|RuCor_group_id=412439|RuCor_link_id=412440|Shift=513
+5	я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=304|RuCor_group_id=412440|RuCor_link_id=412438|Shift=531
+6	определил	_	_	_	_	_	_	_	Shift=533|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=542
+8	что	_	_	_	_	_	_	_	Shift=544
+9	отправка	_	_	_	_	_	_	_	Shift=548
+10	дополнительного	_	_	_	_	_	_	_	Shift=557
+11	тридцатитысячного	_	_	_	_	_	_	_	Shift=573
+12	контингента	_	_	_	_	_	_	_	Shift=591
+13	в	_	_	_	_	_	_	_	Shift=603
+14	Афганистан	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=303|RuCor_group_id=412441|RuCor_link_id=412442|Shift=605
+15	входит	_	_	_	_	_	_	_	Shift=616
+16	в	_	_	_	_	_	_	_	Shift=623
+17	сферу	_	_	_	_	_	_	_	Shift=625
+18	национальных	_	_	_	_	_	_	_	Shift=631
+19	интересов	_	_	_	_	_	_	_	Shift=644
+20	нашей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=285|RuCor_group_id=412521|RuCor_link_id=0|Shift=654
+21	страны	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=302|RuCor_group_id=412443|RuCor_link_id=0|Shift=660|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=666
+
+# sent_id = 1fd4c103-75fe-42c5-90b2-e2402020fa6f-p2-s4
+# text = После 18 месяцев пребывания на афганской земле наши солдаты начнут возвращаться домой.
+1	После	_	_	_	_	_	_	_	Shift=668
+2	18	_	_	_	_	_	_	_	Shift=674
+3	месяцев	_	_	_	_	_	_	_	Shift=677
+4	пребывания	_	_	_	_	_	_	_	Shift=685
+5	на	_	_	_	_	_	_	_	Shift=696
+6	афганской	_	_	_	_	_	_	_	RuCor_chain_id=303|RuCor_group_id=412444|Shift=699
+7	земле	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=303|RuCor_group_id=412444|RuCor_link_id=412441|Shift=709
+8	наши	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=285|RuCor_group_id=412522|RuCor_link_id=412521|Shift=715
+9	солдаты	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=286|RuCor_group_id=412520|RuCor_link_id=0|Shift=720
+10	начнут	_	_	_	_	_	_	_	Shift=728
+11	возвращаться	_	_	_	_	_	_	_	Shift=735
+12	домой	_	_	_	_	_	_	_	Shift=748|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=753
+
+# sent_id = 1fd4c103-75fe-42c5-90b2-e2402020fa6f-p2-s5
+# text = Это ресурсы, которые нам необходимы сегодня, для того, чтобы позволить Афганистану создать соответстующую систему и с чистой совестью начать вывод наших войск Барак Обама ``
+1	Это	_	_	_	_	_	_	_	Shift=755
+2	ресурсы	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=286|RuCor_group_id=412445|RuCor_link_id=412520|Shift=759|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=766
+4	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=286|RuCor_group_id=412446|RuCor_link_id=412445|Shift=768
+5	нам	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=285|RuCor_group_id=412523|RuCor_link_id=412522|Shift=776
+6	необходимы	_	_	_	_	_	_	_	Shift=780
+7	сегодня	_	_	_	_	_	_	_	Shift=791|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=798
+9	для	_	_	_	_	_	_	_	Shift=800
+10	того	_	_	_	_	_	_	_	Shift=804|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=808
+12	чтобы	_	_	_	_	_	_	_	Shift=810
+13	позволить	_	_	_	_	_	_	_	Shift=816
+14	Афганистану	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=303|RuCor_group_id=412447|RuCor_link_id=412442|Shift=826
+15	создать	_	_	_	_	_	_	_	Shift=838
+16	соответстующую	_	_	_	_	_	_	_	Shift=846
+17	систему	_	_	_	_	_	_	_	Shift=861
+18	и	_	_	_	_	_	_	_	Shift=869
+19	с	_	_	_	_	_	_	_	Shift=871
+20	чистой	_	_	_	_	_	_	_	Shift=873
+21	совестью	_	_	_	_	_	_	_	Shift=880
+22	начать	_	_	_	_	_	_	_	Shift=889
+23	вывод	_	_	_	_	_	_	_	Shift=896
+24	наших	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=285|RuCor_group_id=412524|RuCor_link_id=412523|Shift=902
+25	войск	_	_	_	_	_	_	_	Shift=908
+26	Барак	_	_	_	_	_	_	_	RuCor_chain_id=304|RuCor_group_id=412448|Shift=914
+27	Обама	_	_	_	_	_	_	_	RuCor_chain_id=304|RuCor_group_id=412448|Shift=920
+28	``	_	_	_	_	_	_	_	Shift=926|SpaceAfter=No
+
+# newpar id = 1fd4c103-75fe-42c5-90b2-e2402020fa6f-p3
+# par_text = В той речи американский президент упомянул о «непомерной цене», которую США платят жизнями своих солдат и ресурсами в этой войне, подчеркнув свою убежденность в том, что безопасность США поставлена на кон в борьбе, как он выразился, в эпицентре экстремизма в Афганистане и Пакистане.
+# sent_id = 1fd4c103-75fe-42c5-90b2-e2402020fa6f-p3-s1
+# text = В той речи американский президент упомянул о ``непомерной цене'', которую США платят жизнями своих солдат и ресурсами в этой войне, подчеркнув свою убежденность в том, что безопасность США поставлена на кон в борьбе, как он выразился, в эпицентре экстремизма в Афганистане и Пакистане.
+1	В	_	_	_	_	_	_	_	Shift=928
+2	той	_	_	_	_	_	_	_	Shift=930
+3	речи	_	_	_	_	_	_	_	Shift=934
+4	американский	_	_	_	_	_	_	_	RuCor_chain_id=304|RuCor_group_id=412449|Shift=939
+5	президент	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=304|RuCor_group_id=412449|RuCor_link_id=412434|Shift=952
+6	упомянул	_	_	_	_	_	_	_	Shift=962
+7	о	_	_	_	_	_	_	_	Shift=971
+8	``	_	_	_	_	_	_	_	RuCor_chain_id=284|RuCor_group_id=412525|Shift=973|SpaceAfter=No
+9	непомерной	_	_	_	_	_	_	_	RuCor_chain_id=284|RuCor_group_id=412525|Shift=974
+10	цене	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=284|RuCor_group_id=412525|RuCor_link_id=0|Shift=985|SpaceAfter=No
+11	''	_	_	_	_	_	_	_	RuCor_chain_id=284|RuCor_group_id=412525|Shift=989|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=990
+13	которую	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=284|RuCor_group_id=412526|RuCor_link_id=412525|Shift=992
+14	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=302|RuCor_group_id=412450|RuCor_link_id=412443|Shift=1000
+15	платят	_	_	_	_	_	_	_	Shift=1004
+16	жизнями	_	_	_	_	_	_	_	Shift=1011
+17	своих	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=302|RuCor_group_id=412451|RuCor_link_id=412450|Shift=1019
+18	солдат	_	_	_	_	_	_	_	Shift=1025
+19	и	_	_	_	_	_	_	_	Shift=1032
+20	ресурсами	_	_	_	_	_	_	_	Shift=1034
+21	в	_	_	_	_	_	_	_	Shift=1044
+22	этой	_	_	_	_	_	_	_	RuCor_chain_id=301|RuCor_group_id=412453|Shift=1046
+23	войне	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=301|RuCor_group_id=412453|RuCor_link_id=412452|Shift=1051|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=1056
+25	подчеркнув	_	_	_	_	_	_	_	Shift=1058
+26	свою	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=304|RuCor_group_id=412454|RuCor_link_id=412449|Shift=1069
+27	убежденность	_	_	_	_	_	_	_	Shift=1074
+28	в	_	_	_	_	_	_	_	Shift=1087
+29	том	_	_	_	_	_	_	_	Shift=1089|SpaceAfter=No
+30	,	_	_	_	_	_	_	_	Shift=1092
+31	что	_	_	_	_	_	_	_	Shift=1094
+32	безопасность	_	_	_	_	_	_	_	Shift=1098
+33	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=302|RuCor_group_id=412455|RuCor_link_id=412443|Shift=1111
+34	поставлена	_	_	_	_	_	_	_	Shift=1115
+35	на	_	_	_	_	_	_	_	Shift=1126
+36	кон	_	_	_	_	_	_	_	Shift=1129
+37	в	_	_	_	_	_	_	_	Shift=1133
+38	борьбе	_	_	_	_	_	_	_	Shift=1135|SpaceAfter=No
+39	,	_	_	_	_	_	_	_	Shift=1141
+40	как	_	_	_	_	_	_	_	Shift=1143
+41	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=304|RuCor_group_id=412456|RuCor_link_id=412449|Shift=1147
+42	выразился	_	_	_	_	_	_	_	Shift=1150|SpaceAfter=No
+43	,	_	_	_	_	_	_	_	Shift=1159
+44	в	_	_	_	_	_	_	_	Shift=1161
+45	эпицентре	_	_	_	_	_	_	_	Shift=1163
+46	экстремизма	_	_	_	_	_	_	_	Shift=1173
+47	в	_	_	_	_	_	_	_	Shift=1185
+48	Афганистане	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=303|RuCor_group_id=412457|RuCor_link_id=412442|Shift=1187
+49	и	_	_	_	_	_	_	_	Shift=1199
+50	Пакистане	_	_	_	_	_	_	_	Shift=1201|SpaceAfter=No
+51	.	_	_	_	_	_	_	_	Shift=1210
+
+# newpar id = 1fd4c103-75fe-42c5-90b2-e2402020fa6f-p4
+# par_text = Ожидается, что в среду Обама подтвердит свое обещание 2009 года начать вывод войск из Афганистана. СМИ цитируют разные источники в президентской администрации, по данным которых, по меньшей мере, 5 тысяч военных (одна воинская бригада) будут выведены из Афганистана в ближайшее время. К концу года это число возрастет.
+# sent_id = 1fd4c103-75fe-42c5-90b2-e2402020fa6f-p4-s1
+# text = Ожидается, что в среду Обама подтвердит свое обещание 2009 года начать вывод войск из Афганистана.
+1	Ожидается	_	_	_	_	_	_	_	Shift=1212|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=1221
+3	что	_	_	_	_	_	_	_	Shift=1223
+4	в	_	_	_	_	_	_	_	Shift=1227
+5	среду	_	_	_	_	_	_	_	Shift=1229
+6	Обама	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=304|RuCor_group_id=412458|RuCor_link_id=412449|Shift=1235
+7	подтвердит	_	_	_	_	_	_	_	Shift=1241
+8	свое	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=304|RuCor_group_id=412459|RuCor_link_id=412458|Shift=1252
+9	обещание	_	_	_	_	_	_	_	Shift=1257
+10	2009	_	_	_	_	_	_	_	Shift=1266
+11	года	_	_	_	_	_	_	_	Shift=1271
+12	начать	_	_	_	_	_	_	_	Shift=1276
+13	вывод	_	_	_	_	_	_	_	Shift=1283
+14	войск	_	_	_	_	_	_	_	Shift=1289
+15	из	_	_	_	_	_	_	_	Shift=1295
+16	Афганистана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=303|RuCor_group_id=412460|RuCor_link_id=412442|Shift=1298|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=1309
+
+# sent_id = 1fd4c103-75fe-42c5-90b2-e2402020fa6f-p4-s2
+# text = СМИ цитируют разные источники в президентской администрации, по данным которых, по меньшей мере, 5 тысяч военных (одна воинская бригада) будут выведены из Афганистана в ближайшее время.
+1	СМИ	_	_	_	_	_	_	_	Shift=1311
+2	цитируют	_	_	_	_	_	_	_	Shift=1315
+3	разные	_	_	_	_	_	_	_	Shift=1324
+4	источники	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=300|RuCor_group_id=412461|RuCor_link_id=0|Shift=1331
+5	в	_	_	_	_	_	_	_	RuCor_chain_id=300|RuCor_group_id=412461|Shift=1341
+6	президентской	_	_	_	_	_	_	_	RuCor_chain_id=300|RuCor_group_id=412461|Shift=1343
+7	администрации	_	_	_	_	_	_	_	RuCor_chain_id=300|RuCor_group_id=412461|Shift=1357|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1370
+9	по	_	_	_	_	_	_	_	Shift=1372
+10	данным	_	_	_	_	_	_	_	Shift=1375
+11	которых	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=300|RuCor_group_id=412462|RuCor_link_id=412461|Shift=1382|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=1389
+13	по	_	_	_	_	_	_	_	Shift=1391
+14	меньшей	_	_	_	_	_	_	_	Shift=1394
+15	мере	_	_	_	_	_	_	_	Shift=1402|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=1406
+17	5	_	_	_	_	_	_	_	RuCor_chain_id=299|RuCor_group_id=412463|Shift=1408
+18	тысяч	_	_	_	_	_	_	_	RuCor_chain_id=299|RuCor_group_id=412463|Shift=1410
+19	военных	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=299|RuCor_group_id=412463|RuCor_link_id=0|Shift=1416
+20	(	_	_	_	_	_	_	_	Shift=1424|SpaceAfter=No
+21	одна	_	_	_	_	_	_	_	RuCor_chain_id=299|RuCor_group_id=412464|Shift=1425
+22	воинская	_	_	_	_	_	_	_	RuCor_chain_id=299|RuCor_group_id=412464|Shift=1430
+23	бригада	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=appo|RuCor_attrs_type=coref|RuCor_chain_id=299|RuCor_group_id=412464|RuCor_link_id=412463|Shift=1439|SpaceAfter=No
+24	)	_	_	_	_	_	_	_	Shift=1446
+25	будут	_	_	_	_	_	_	_	Shift=1448
+26	выведены	_	_	_	_	_	_	_	Shift=1454
+27	из	_	_	_	_	_	_	_	Shift=1463
+28	Афганистана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=303|RuCor_group_id=412465|RuCor_link_id=412442|Shift=1466
+29	в	_	_	_	_	_	_	_	Shift=1478
+30	ближайшее	_	_	_	_	_	_	_	Shift=1480
+31	время	_	_	_	_	_	_	_	Shift=1490|SpaceAfter=No
+32	.	_	_	_	_	_	_	_	Shift=1495
+
+# sent_id = 1fd4c103-75fe-42c5-90b2-e2402020fa6f-p4-s3
+# text = К концу года это число возрастет.
+1	К	_	_	_	_	_	_	_	Shift=1497
+2	концу	_	_	_	_	_	_	_	Shift=1499
+3	года	_	_	_	_	_	_	_	Shift=1505
+4	это	_	_	_	_	_	_	_	Shift=1510
+5	число	_	_	_	_	_	_	_	Shift=1514
+6	возрастет	_	_	_	_	_	_	_	Shift=1520|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=1529
+
+# newpar id = 1fd4c103-75fe-42c5-90b2-e2402020fa6f-p5
+# par_text = Пресс-секретарь Белого Дома Джей Карни заявил, что главными для американского президента остаются 3 цели — победа над «Аль-Кайдой», выбивание почвы из под движения «Талибан» и предотвращение превращения Афганистана в безопасную гавань для террористов.
+# sent_id = 1fd4c103-75fe-42c5-90b2-e2402020fa6f-p5-s1
+# text = Пресс-секретарь Белого Дома Джей Карни заявил, что главными для американского президента остаются 3 цели - победа над ``Аль-Кайдой'', выбивание почвы из под движения ``Талибан'' и предотвращение превращения Афганистана в безопасную гавань для террористов.
+1	Пресс-секретарь	_	_	_	_	_	_	_	Shift=1531
+2	Белого	_	_	_	_	_	_	_	RuCor_chain_id=298|RuCor_group_id=412467|Shift=1547
+3	Дома	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=298|RuCor_group_id=412467|RuCor_link_id=412468|Shift=1554
+4	Джей	_	_	_	_	_	_	_	Shift=1559
+5	Карни	_	_	_	_	_	_	_	Shift=1564
+6	заявил	_	_	_	_	_	_	_	Shift=1570|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=1576
+8	что	_	_	_	_	_	_	_	Shift=1578
+9	главными	_	_	_	_	_	_	_	Shift=1582
+10	для	_	_	_	_	_	_	_	Shift=1591
+11	американского	_	_	_	_	_	_	_	RuCor_chain_id=304|RuCor_group_id=412466|Shift=1595
+12	президента	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=304|RuCor_group_id=412466|RuCor_link_id=412448|Shift=1609
+13	остаются	_	_	_	_	_	_	_	Shift=1620
+14	3	_	_	_	_	_	_	_	Shift=1629
+15	цели	_	_	_	_	_	_	_	Shift=1631
+16	-	_	_	_	_	_	_	_	Shift=1636
+17	победа	_	_	_	_	_	_	_	Shift=1638
+18	над	_	_	_	_	_	_	_	Shift=1645
+19	``	_	_	_	_	_	_	_	Shift=1649|SpaceAfter=No
+20	Аль-Кайдой	_	_	_	_	_	_	_	Shift=1650|SpaceAfter=No
+21	''	_	_	_	_	_	_	_	Shift=1660|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=1661
+23	выбивание	_	_	_	_	_	_	_	Shift=1663
+24	почвы	_	_	_	_	_	_	_	Shift=1673
+25	из	_	_	_	_	_	_	_	Shift=1679
+26	под	_	_	_	_	_	_	_	Shift=1682
+27	движения	_	_	_	_	_	_	_	Shift=1686
+28	``	_	_	_	_	_	_	_	Shift=1695|SpaceAfter=No
+29	Талибан	_	_	_	_	_	_	_	Shift=1696|SpaceAfter=No
+30	''	_	_	_	_	_	_	_	Shift=1703
+31	и	_	_	_	_	_	_	_	Shift=1705
+32	предотвращение	_	_	_	_	_	_	_	Shift=1707
+33	превращения	_	_	_	_	_	_	_	Shift=1722
+34	Афганистана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=303|RuCor_group_id=412469|RuCor_link_id=412447|Shift=1734
+35	в	_	_	_	_	_	_	_	Shift=1746
+36	безопасную	_	_	_	_	_	_	_	Shift=1748
+37	гавань	_	_	_	_	_	_	_	Shift=1759
+38	для	_	_	_	_	_	_	_	Shift=1766
+39	террористов	_	_	_	_	_	_	_	Shift=1770|SpaceAfter=No
+40	.	_	_	_	_	_	_	_	Shift=1781
+
+# newpar id = 1fd4c103-75fe-42c5-90b2-e2402020fa6f-p6
+# par_text = В своем выступлении президент Обама должен также сделать упор на том, что США и НАТО остаются приверженными плану полной передачи контроля надо страной афганскому правительству к 2014 году. Президент и его военные чиновники неоднократно при этом заявляли, что передача полномочий будет зависеть от ситуации в стране. Вывод 30 тысяч военных из Афганистана к следующему году будет означать, что в стране еще останется 68 тысяч американских военных.
+# sent_id = 1fd4c103-75fe-42c5-90b2-e2402020fa6f-p6-s1
+# text = В своем выступлении президент Обама должен также сделать упор на том, что США и НАТО остаются приверженными плану полной передачи контроля надо страной афганскому правительству к 2014 году.
+1	В	_	_	_	_	_	_	_	Shift=1783
+2	своем	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=304|RuCor_group_id=412470|RuCor_link_id=412471|Shift=1785
+3	выступлении	_	_	_	_	_	_	_	Shift=1791
+4	президент	_	_	_	_	_	_	_	RuCor_chain_id=304|RuCor_group_id=412471|Shift=1803
+5	Обама	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=304|RuCor_group_id=412471|RuCor_link_id=412433|Shift=1813
+6	должен	_	_	_	_	_	_	_	Shift=1819
+7	также	_	_	_	_	_	_	_	Shift=1826
+8	сделать	_	_	_	_	_	_	_	Shift=1832
+9	упор	_	_	_	_	_	_	_	Shift=1840
+10	на	_	_	_	_	_	_	_	Shift=1845
+11	том	_	_	_	_	_	_	_	Shift=1848|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=1851
+13	что	_	_	_	_	_	_	_	Shift=1853
+14	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=302|RuCor_group_id=412472|RuCor_link_id=412450|Shift=1857
+15	и	_	_	_	_	_	_	_	Shift=1861
+16	НАТО	_	_	_	_	_	_	_	Shift=1863
+17	остаются	_	_	_	_	_	_	_	Shift=1868
+18	приверженными	_	_	_	_	_	_	_	Shift=1877
+19	плану	_	_	_	_	_	_	_	Shift=1891
+20	полной	_	_	_	_	_	_	_	Shift=1897
+21	передачи	_	_	_	_	_	_	_	Shift=1904
+22	контроля	_	_	_	_	_	_	_	Shift=1913
+23	надо	_	_	_	_	_	_	_	Shift=1922
+24	страной	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=303|RuCor_group_id=412473|RuCor_link_id=412465|Shift=1927
+25	афганскому	_	_	_	_	_	_	_	Shift=1935
+26	правительству	_	_	_	_	_	_	_	Shift=1946
+27	к	_	_	_	_	_	_	_	Shift=1960
+28	2014	_	_	_	_	_	_	_	Shift=1962
+29	году	_	_	_	_	_	_	_	Shift=1967|SpaceAfter=No
+30	.	_	_	_	_	_	_	_	Shift=1971
+
+# sent_id = 1fd4c103-75fe-42c5-90b2-e2402020fa6f-p6-s2
+# text = Президент и его военные чиновники неоднократно при этом заявляли, что передача полномочий будет зависеть от ситуации в стране.
+1	Президент	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=304|RuCor_group_id=412474|RuCor_link_id=412433|Shift=1973
+2	и	_	_	_	_	_	_	_	Shift=1983
+3	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=304|RuCor_group_id=412475|RuCor_link_id=412474|Shift=1985
+4	военные	_	_	_	_	_	_	_	Shift=1989
+5	чиновники	_	_	_	_	_	_	_	Shift=1997
+6	неоднократно	_	_	_	_	_	_	_	Shift=2007
+7	при	_	_	_	_	_	_	_	Shift=2020
+8	этом	_	_	_	_	_	_	_	Shift=2024
+9	заявляли	_	_	_	_	_	_	_	Shift=2029|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=2037
+11	что	_	_	_	_	_	_	_	Shift=2039
+12	передача	_	_	_	_	_	_	_	Shift=2043
+13	полномочий	_	_	_	_	_	_	_	Shift=2052
+14	будет	_	_	_	_	_	_	_	Shift=2063
+15	зависеть	_	_	_	_	_	_	_	Shift=2069
+16	от	_	_	_	_	_	_	_	Shift=2078
+17	ситуации	_	_	_	_	_	_	_	Shift=2081
+18	в	_	_	_	_	_	_	_	Shift=2090
+19	стране	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=303|RuCor_group_id=412477|RuCor_link_id=412473|Shift=2092|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=2098
+
+# sent_id = 1fd4c103-75fe-42c5-90b2-e2402020fa6f-p6-s3
+# text = Вывод 30 тысяч военных из Афганистана к следующему году будет означать, что в стране еще останется 68 тысяч американских военных.
+1	Вывод	_	_	_	_	_	_	_	Shift=2100
+2	30	_	_	_	_	_	_	_	Shift=2106
+3	тысяч	_	_	_	_	_	_	_	Shift=2109
+4	военных	_	_	_	_	_	_	_	Shift=2115
+5	из	_	_	_	_	_	_	_	Shift=2123
+6	Афганистана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=303|RuCor_group_id=412476|RuCor_link_id=412477|Shift=2126
+7	к	_	_	_	_	_	_	_	Shift=2138
+8	следующему	_	_	_	_	_	_	_	Shift=2140
+9	году	_	_	_	_	_	_	_	Shift=2151
+10	будет	_	_	_	_	_	_	_	Shift=2156
+11	означать	_	_	_	_	_	_	_	Shift=2162|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=2170
+13	что	_	_	_	_	_	_	_	Shift=2172
+14	в	_	_	_	_	_	_	_	Shift=2176
+15	стране	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=303|RuCor_group_id=412478|RuCor_link_id=412465|Shift=2178
+16	еще	_	_	_	_	_	_	_	Shift=2185
+17	останется	_	_	_	_	_	_	_	Shift=2189
+18	68	_	_	_	_	_	_	_	Shift=2199
+19	тысяч	_	_	_	_	_	_	_	Shift=2202
+20	американских	_	_	_	_	_	_	_	Shift=2208
+21	военных	_	_	_	_	_	_	_	Shift=2221|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=2228
+
+# newpar id = 1fd4c103-75fe-42c5-90b2-e2402020fa6f-p7
+# par_text = Возможно, в своей речи президент также затронет возрастающие антивоенные настроения в США. Выступления против военной кампании неоднократно звучали из уст членов Конгресса, подкреплявших свои точки зрения результатами опросов общественного мнения.
+# sent_id = 1fd4c103-75fe-42c5-90b2-e2402020fa6f-p7-s1
+# text = Возможно, в своей речи президент также затронет возрастающие антивоенные настроения в США.
+1	Возможно	_	_	_	_	_	_	_	Shift=2230|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=2238
+3	в	_	_	_	_	_	_	_	Shift=2240
+4	своей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=304|RuCor_group_id=412479|RuCor_link_id=412480|Shift=2242
+5	речи	_	_	_	_	_	_	_	Shift=2248
+6	президент	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=304|RuCor_group_id=412480|RuCor_link_id=412471|Shift=2253
+7	также	_	_	_	_	_	_	_	Shift=2263
+8	затронет	_	_	_	_	_	_	_	Shift=2269
+9	возрастающие	_	_	_	_	_	_	_	Shift=2278
+10	антивоенные	_	_	_	_	_	_	_	Shift=2291
+11	настроения	_	_	_	_	_	_	_	Shift=2303
+12	в	_	_	_	_	_	_	_	Shift=2314
+13	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=302|RuCor_group_id=412481|RuCor_link_id=412472|Shift=2316|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=2319
+
+# sent_id = 1fd4c103-75fe-42c5-90b2-e2402020fa6f-p7-s2
+# text = Выступления против военной кампании неоднократно звучали из уст членов Конгресса, подкреплявших свои точки зрения результатами опросов общественного мнения.
+1	Выступления	_	_	_	_	_	_	_	Shift=2321
+2	против	_	_	_	_	_	_	_	Shift=2333
+3	военной	_	_	_	_	_	_	_	RuCor_chain_id=301|RuCor_group_id=412507|Shift=2340
+4	кампании	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=301|RuCor_group_id=412507|RuCor_link_id=412452|Shift=2348
+5	неоднократно	_	_	_	_	_	_	_	Shift=2357
+6	звучали	_	_	_	_	_	_	_	Shift=2370
+7	из	_	_	_	_	_	_	_	Shift=2378
+8	уст	_	_	_	_	_	_	_	Shift=2381
+9	членов	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=297|RuCor_group_id=412482|RuCor_link_id=0|Shift=2385
+10	Конгресса	_	_	_	_	_	_	_	RuCor_chain_id=297|RuCor_group_id=412482|Shift=2392|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=2401
+12	подкреплявших	_	_	_	_	_	_	_	Shift=2403
+13	свои	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=297|RuCor_group_id=412483|RuCor_link_id=412482|Shift=2417
+14	точки	_	_	_	_	_	_	_	Shift=2422
+15	зрения	_	_	_	_	_	_	_	Shift=2428
+16	результатами	_	_	_	_	_	_	_	Shift=2435
+17	опросов	_	_	_	_	_	_	_	Shift=2448
+18	общественного	_	_	_	_	_	_	_	Shift=2456
+19	мнения	_	_	_	_	_	_	_	Shift=2470|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=2476
+
+# newpar id = 1fd4c103-75fe-42c5-90b2-e2402020fa6f-p8
+# par_text = Один из моментов обмена мнениями на эту тему между сенаторами Джо Манчиным и Джоном Маккейном выглядел так:
+# sent_id = 1fd4c103-75fe-42c5-90b2-e2402020fa6f-p8-s1
+# text = Один из моментов обмена мнениями на эту тему между сенаторами Джо Манчиным и Джоном Маккейном выглядел так:
+1	Один	_	_	_	_	_	_	_	Shift=2478
+2	из	_	_	_	_	_	_	_	Shift=2483
+3	моментов	_	_	_	_	_	_	_	Shift=2486
+4	обмена	_	_	_	_	_	_	_	Shift=2495
+5	мнениями	_	_	_	_	_	_	_	Shift=2502
+6	на	_	_	_	_	_	_	_	Shift=2511
+7	эту	_	_	_	_	_	_	_	Shift=2514
+8	тему	_	_	_	_	_	_	_	Shift=2518
+9	между	_	_	_	_	_	_	_	Shift=2523
+10	сенаторами	_	_	_	_	_	_	_	Shift=2529
+11	Джо	_	_	_	_	_	_	_	RuCor_chain_id=295|RuCor_group_id=412487|Shift=2540
+12	Манчиным	_	_	_	_	_	_	_	RuCor_chain_id=295|RuCor_group_id=412487|Shift=2544
+13	и	_	_	_	_	_	_	_	Shift=2553
+14	Джоном	_	_	_	_	_	_	_	RuCor_chain_id=296|RuCor_group_id=412484|Shift=2555
+15	Маккейном	_	_	_	_	_	_	_	RuCor_chain_id=296|RuCor_group_id=412484|Shift=2562
+16	выглядел	_	_	_	_	_	_	_	Shift=2572
+17	так	_	_	_	_	_	_	_	Shift=2581|SpaceAfter=No
+18	:	_	_	_	_	_	_	_	Shift=2584
+
+# newpar id = 1fd4c103-75fe-42c5-90b2-e2402020fa6f-p9
+# par_text = Джо Манчин: «Вопрос, который нужно решить президенту и всем нам, достаточно прост: что мы будем восстанавливать — Америку или Афганистан?»
+# sent_id = 1fd4c103-75fe-42c5-90b2-e2402020fa6f-p9-s1
+# text = Джо Манчин: « Вопрос, который нужно решить президенту и всем нам, достаточно прост: что мы будем восстанавливать - Америку или Афганистан? »
+1	Джо	_	_	_	_	_	_	_	RuCor_chain_id=295|RuCor_group_id=412486|Shift=2586
+2	Манчин	_	_	_	_	_	_	_	RuCor_chain_id=295|RuCor_group_id=412486|Shift=2590|SpaceAfter=No
+3	:	_	_	_	_	_	_	_	Shift=2596
+4	``	_	_	_	_	_	_	_	QuotationStart=«|Shift=2598
+5	Вопрос	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=294|RuCor_group_id=412488|RuCor_link_id=0|Shift=2599|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=2605
+7	который	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=294|RuCor_group_id=412489|RuCor_link_id=412488|Shift=2607
+8	нужно	_	_	_	_	_	_	_	Shift=2615
+9	решить	_	_	_	_	_	_	_	Shift=2621
+10	президенту	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=304|RuCor_group_id=412490|RuCor_link_id=412480|Shift=2628
+11	и	_	_	_	_	_	_	_	Shift=2639
+12	всем	_	_	_	_	_	_	_	Shift=2641
+13	нам	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=293|RuCor_group_id=412494|RuCor_link_id=0|Shift=2646|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=2649
+15	достаточно	_	_	_	_	_	_	_	Shift=2651
+16	прост	_	_	_	_	_	_	_	Shift=2662|SpaceAfter=No
+17	:	_	_	_	_	_	_	_	Shift=2667
+18	что	_	_	_	_	_	_	_	Shift=2669
+19	мы	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=293|RuCor_group_id=412495|RuCor_link_id=412494|Shift=2673
+20	будем	_	_	_	_	_	_	_	Shift=2676
+21	восстанавливать	_	_	_	_	_	_	_	Shift=2682
+22	-	_	_	_	_	_	_	_	Shift=2698
+23	Америку	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=302|RuCor_group_id=412491|RuCor_link_id=412481|Shift=2700
+24	или	_	_	_	_	_	_	_	Shift=2708
+25	Афганистан	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=303|RuCor_group_id=412492|RuCor_link_id=412477|Shift=2712|SpaceAfter=No
+26	?	_	_	_	_	_	_	_	Shift=2722
+27	''	_	_	_	_	_	_	_	QuotationEnd=»|Shift=2723
+
+# newpar id = 1fd4c103-75fe-42c5-90b2-e2402020fa6f-p10
+# par_text = Джон Маккейн: «Если мы покинем Афганистан пораженными, мы повторим исторический урок, который повторять не следовало бы. Наши расходы в Афганистане не являются корнем всех зол и пробелем, которые мы сегодня испытываем».
+# sent_id = 1fd4c103-75fe-42c5-90b2-e2402020fa6f-p10-s1
+# text = Джон Маккейн: ``Если мы покинем Афганистан пораженными, мы повторим исторический урок, который повторять не следовало бы.
+1	Джон	_	_	_	_	_	_	_	RuCor_chain_id=296|RuCor_group_id=412485|Shift=2725
+2	Маккейн	_	_	_	_	_	_	_	RuCor_chain_id=296|RuCor_group_id=412485|Shift=2730|SpaceAfter=No
+3	:	_	_	_	_	_	_	_	Shift=2737
+4	``	_	_	_	_	_	_	_	Shift=2739|SpaceAfter=No
+5	Если	_	_	_	_	_	_	_	Shift=2740
+6	мы	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=293|RuCor_group_id=412496|RuCor_link_id=412495|Shift=2745
+7	покинем	_	_	_	_	_	_	_	Shift=2748
+8	Афганистан	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=303|RuCor_group_id=412493|RuCor_link_id=412492|Shift=2756
+9	пораженными	_	_	_	_	_	_	_	Shift=2767|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=2778
+11	мы	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=293|RuCor_group_id=412497|RuCor_link_id=412496|Shift=2780
+12	повторим	_	_	_	_	_	_	_	Shift=2783
+13	исторический	_	_	_	_	_	_	_	RuCor_chain_id=292|RuCor_group_id=412500|Shift=2792
+14	урок	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=292|RuCor_group_id=412500|RuCor_link_id=0|Shift=2805|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=2809
+16	который	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=292|RuCor_group_id=412501|RuCor_link_id=412500|Shift=2811
+17	повторять	_	_	_	_	_	_	_	Shift=2819
+18	не	_	_	_	_	_	_	_	Shift=2829
+19	следовало	_	_	_	_	_	_	_	Shift=2832
+20	бы	_	_	_	_	_	_	_	Shift=2842|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=2844
+
+# sent_id = 1fd4c103-75fe-42c5-90b2-e2402020fa6f-p10-s2
+# text = Наши расходы в Афганистане не являются корнем всех зол и пробелем, которые мы сегодня испытываем''.
+1	Наши	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=293|RuCor_group_id=412498|RuCor_link_id=412497|Shift=2846
+2	расходы	_	_	_	_	_	_	_	Shift=2851
+3	в	_	_	_	_	_	_	_	Shift=2859
+4	Афганистане	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=303|RuCor_group_id=412502|RuCor_link_id=412492|Shift=2861
+5	не	_	_	_	_	_	_	_	Shift=2873
+6	являются	_	_	_	_	_	_	_	Shift=2876
+7	корнем	_	_	_	_	_	_	_	Shift=2885
+8	всех	_	_	_	_	_	_	_	RuCor_chain_id=283|RuCor_group_id=412527|Shift=2892
+9	зол	_	_	_	_	_	_	_	RuCor_chain_id=283|RuCor_group_id=412527|Shift=2897
+10	и	_	_	_	_	_	_	_	RuCor_chain_id=283|RuCor_group_id=412527|Shift=2901
+11	пробелем	_	_	_	_	_	_	_	RuCor_chain_id=283|RuCor_group_id=412527|Shift=2903|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=2911
+13	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=283|RuCor_group_id=412528|RuCor_link_id=412527|Shift=2913
+14	мы	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=293|RuCor_group_id=412499|RuCor_link_id=412497|Shift=2921
+15	сегодня	_	_	_	_	_	_	_	Shift=2924
+16	испытываем	_	_	_	_	_	_	_	Shift=2932|SpaceAfter=No
+17	''	_	_	_	_	_	_	_	Shift=2942|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=2943
+
+# newpar id = 1fd4c103-75fe-42c5-90b2-e2402020fa6f-p11
+# par_text = Перед встречей, которая прошла у него с президентом во вторник, министр обороны Роберт Гейс заявил журналистам, что Обама должен принять во внимание обеспокоенность американцев стоимостью военной кампании в Афганистане.
+# sent_id = 1fd4c103-75fe-42c5-90b2-e2402020fa6f-p11-s1
+# text = Перед встречей, которая прошла у него с президентом во вторник, министр обороны Роберт Гейс заявил журналистам, что Обама должен принять во внимание обеспокоенность американцев стоимостью военной кампании в Афганистане.
+1	Перед	_	_	_	_	_	_	_	Shift=2945
+2	встречей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=282|RuCor_group_id=412529|RuCor_link_id=0|Shift=2951|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=2959
+4	которая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=282|RuCor_group_id=412530|RuCor_link_id=412529|Shift=2961
+5	прошла	_	_	_	_	_	_	_	Shift=2969
+6	у	_	_	_	_	_	_	_	Shift=2976
+7	него	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=289|RuCor_group_id=412503|RuCor_link_id=412514|Shift=2978
+8	с	_	_	_	_	_	_	_	Shift=2983
+9	президентом	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=304|RuCor_group_id=412504|RuCor_link_id=412471|Shift=2985
+10	во	_	_	_	_	_	_	_	Shift=2997
+11	вторник	_	_	_	_	_	_	_	Shift=3000|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=3007
+13	министр	_	_	_	_	_	_	_	RuCor_chain_id=289|RuCor_group_id=412514|Shift=3009
+14	обороны	_	_	_	_	_	_	_	RuCor_chain_id=289|RuCor_group_id=412514|Shift=3017
+15	Роберт	_	_	_	_	_	_	_	RuCor_chain_id=289|RuCor_group_id=412514|Shift=3025
+16	Гейс	_	_	_	_	_	_	_	RuCor_chain_id=289|RuCor_group_id=412514|Shift=3032
+17	заявил	_	_	_	_	_	_	_	Shift=3037
+18	журналистам	_	_	_	_	_	_	_	Shift=3044|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=3055
+20	что	_	_	_	_	_	_	_	Shift=3057
+21	Обама	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=304|RuCor_group_id=412505|RuCor_link_id=412504|Shift=3061
+22	должен	_	_	_	_	_	_	_	Shift=3067
+23	принять	_	_	_	_	_	_	_	Shift=3074
+24	во	_	_	_	_	_	_	_	Shift=3082
+25	внимание	_	_	_	_	_	_	_	Shift=3085
+26	обеспокоенность	_	_	_	_	_	_	_	Shift=3094
+27	американцев	_	_	_	_	_	_	_	Shift=3110
+28	стоимостью	_	_	_	_	_	_	_	Shift=3122
+29	военной	_	_	_	_	_	_	_	RuCor_chain_id=301|RuCor_group_id=412508|Shift=3133
+30	кампании	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=301|RuCor_group_id=412508|RuCor_link_id=412507|Shift=3141
+31	в	_	_	_	_	_	_	_	RuCor_chain_id=301|RuCor_group_id=412508|Shift=3150
+32	Афганистане	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=303|RuCor_group_id=412506|RuCor_link_id=412493|Shift=3152|SpaceAfter=No
+33	.	_	_	_	_	_	_	_	Shift=3163
+
+# newpar id = 1fd4c103-75fe-42c5-90b2-e2402020fa6f-p12
+# par_text = В четверг после объявления о выводе войск, президент Обама нанесет визит на военную базу Форт Драм в Нью-Йорке, в которой располагается 10 Горная дивизия. Ее служащих часто отправляют как в Ирак, так в Афганистан.
+# sent_id = 1fd4c103-75fe-42c5-90b2-e2402020fa6f-p12-s1
+# text = В четверг после объявления о выводе войск, президент Обама нанесет визит на военную базу Форт Драм в Нью-Йорке, в которой располагается 10 Горная дивизия.
+1	В	_	_	_	_	_	_	_	Shift=3165
+2	четверг	_	_	_	_	_	_	_	Shift=3167
+3	после	_	_	_	_	_	_	_	Shift=3175
+4	объявления	_	_	_	_	_	_	_	Shift=3181
+5	о	_	_	_	_	_	_	_	Shift=3192
+6	выводе	_	_	_	_	_	_	_	Shift=3194
+7	войск	_	_	_	_	_	_	_	Shift=3201|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=3206
+9	президент	_	_	_	_	_	_	_	RuCor_chain_id=304|RuCor_group_id=412509|Shift=3208
+10	Обама	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=304|RuCor_group_id=412509|RuCor_link_id=412505|Shift=3218
+11	нанесет	_	_	_	_	_	_	_	Shift=3224
+12	визит	_	_	_	_	_	_	_	Shift=3232
+13	на	_	_	_	_	_	_	_	Shift=3238
+14	военную	_	_	_	_	_	_	_	RuCor_chain_id=290|RuCor_group_id=412512|Shift=3241
+15	базу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=290|RuCor_group_id=412512|RuCor_link_id=0|Shift=3249
+16	Форт	_	_	_	_	_	_	_	RuCor_chain_id=290|RuCor_group_id=412512|Shift=3254
+17	Драм	_	_	_	_	_	_	_	RuCor_chain_id=290|RuCor_group_id=412512|Shift=3259
+18	в	_	_	_	_	_	_	_	Shift=3264
+19	Нью-Йорке	_	_	_	_	_	_	_	Shift=3266|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=3275
+21	в	_	_	_	_	_	_	_	Shift=3277
+22	которой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=290|RuCor_group_id=412513|RuCor_link_id=412512|Shift=3279
+23	располагается	_	_	_	_	_	_	_	Shift=3287
+24	10	_	_	_	_	_	_	_	RuCor_chain_id=281|RuCor_group_id=412531|Shift=3301
+25	Горная	_	_	_	_	_	_	_	RuCor_chain_id=281|RuCor_group_id=412531|Shift=3304
+26	дивизия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=281|RuCor_group_id=412531|RuCor_link_id=0|Shift=3311|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=3318
+
+# sent_id = 1fd4c103-75fe-42c5-90b2-e2402020fa6f-p12-s2
+# text = Ее служащих часто отправляют как в Ирак, так в Афганистан.
+1	Ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=281|RuCor_group_id=412515|RuCor_link_id=412531|Shift=3320
+2	служащих	_	_	_	_	_	_	_	Shift=3323
+3	часто	_	_	_	_	_	_	_	Shift=3332
+4	отправляют	_	_	_	_	_	_	_	Shift=3338
+5	как	_	_	_	_	_	_	_	Shift=3349
+6	в	_	_	_	_	_	_	_	Shift=3353
+7	Ирак	_	_	_	_	_	_	_	Shift=3355|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=3359
+9	так	_	_	_	_	_	_	_	Shift=3361
+10	в	_	_	_	_	_	_	_	Shift=3365
+11	Афганистан	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=303|RuCor_group_id=412516|RuCor_link_id=412506|Shift=3367|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	_
+

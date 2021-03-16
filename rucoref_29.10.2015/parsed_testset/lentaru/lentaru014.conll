@@ -1,0 +1,489 @@
+# newdoc id = 0e982be1-c205-4188-9bf2-1d4fed37a73b
+# newpar id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p1
+# par_text = Дебютный сольный альбом Деймона Албарна выйдет 21 апреля 2014 года. Об этом сообщает Consequence of Sound. Пластинка под названием «Everyday Robots» будет включать в себя всего 12 треков.
+# sent_id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p1-s1
+# text = Дебютный сольный альбом Деймона Албарна выйдет 21 апреля 2014 года.
+1	Дебютный	_	_	_	_	_	_	_	RuCor_chain_id=3413|RuCor_group_id=474864|Shift=0
+2	сольный	_	_	_	_	_	_	_	RuCor_chain_id=3413|RuCor_group_id=474864|Shift=9
+3	альбом	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3413|RuCor_group_id=474864|RuCor_link_id=0|Shift=17
+4	Деймона	_	_	_	_	_	_	_	RuCor_chain_id=3414|RuCor_group_id=474865|Shift=24
+5	Албарна	_	_	_	_	_	_	_	RuCor_chain_id=3414|RuCor_group_id=474865|Shift=32
+6	выйдет	_	_	_	_	_	_	_	Shift=40
+7	21	_	_	_	_	_	_	_	Shift=47
+8	апреля	_	_	_	_	_	_	_	Shift=50
+9	2014	_	_	_	_	_	_	_	Shift=57
+10	года	_	_	_	_	_	_	_	Shift=62|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=66
+
+# sent_id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p1-s2
+# text = Об этом сообщает Consequence of Sound.
+1	Об	_	_	_	_	_	_	_	Shift=68
+2	этом	_	_	_	_	_	_	_	Shift=71
+3	сообщает	_	_	_	_	_	_	_	Shift=76
+4	Consequence	_	_	_	_	_	_	_	Shift=85
+5	of	_	_	_	_	_	_	_	Shift=97
+6	Sound	_	_	_	_	_	_	_	Shift=100|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=105
+
+# sent_id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p1-s3
+# text = Пластинка под названием ``Everyday Robots'' будет включать в себя всего 12 треков.
+1	Пластинка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3413|RuCor_group_id=474866|RuCor_link_id=474864|Shift=107
+2	под	_	_	_	_	_	_	_	Shift=117
+3	названием	_	_	_	_	_	_	_	Shift=121
+4	``	_	_	_	_	_	_	_	Shift=131|SpaceAfter=No
+5	Everyday	_	_	_	_	_	_	_	Shift=132
+6	Robots	_	_	_	_	_	_	_	Shift=141|SpaceAfter=No
+7	''	_	_	_	_	_	_	_	Shift=147
+8	будет	_	_	_	_	_	_	_	Shift=149
+9	включать	_	_	_	_	_	_	_	Shift=155
+10	в	_	_	_	_	_	_	_	Shift=164
+11	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=3413|RuCor_group_id=474867|RuCor_link_id=474866|Shift=166
+12	всего	_	_	_	_	_	_	_	Shift=171
+13	12	_	_	_	_	_	_	_	Shift=177
+14	треков	_	_	_	_	_	_	_	Shift=180|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=186
+
+# newpar id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p2
+# par_text = Заглавный сингл выйдет в цифровом формате и на виниле почти на два месяца раньше альбома — 3 марта. Вместе с ним будет представлена песня «Fences», которая не войдет в альбом.
+# sent_id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p2-s1
+# text = Заглавный сингл выйдет в цифровом формате и на виниле почти на два месяца раньше альбома - 3 марта.
+1	Заглавный	_	_	_	_	_	_	_	RuCor_chain_id=3415|RuCor_group_id=474868|Shift=188
+2	сингл	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3415|RuCor_group_id=474868|RuCor_link_id=0|Shift=198
+3	выйдет	_	_	_	_	_	_	_	Shift=204
+4	в	_	_	_	_	_	_	_	Shift=211
+5	цифровом	_	_	_	_	_	_	_	Shift=213
+6	формате	_	_	_	_	_	_	_	Shift=222
+7	и	_	_	_	_	_	_	_	Shift=230
+8	на	_	_	_	_	_	_	_	Shift=232
+9	виниле	_	_	_	_	_	_	_	Shift=235
+10	почти	_	_	_	_	_	_	_	Shift=242
+11	на	_	_	_	_	_	_	_	Shift=248
+12	два	_	_	_	_	_	_	_	Shift=251
+13	месяца	_	_	_	_	_	_	_	Shift=255
+14	раньше	_	_	_	_	_	_	_	Shift=262
+15	альбома	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3413|RuCor_group_id=474869|RuCor_link_id=474867|Shift=269
+16	-	_	_	_	_	_	_	_	Shift=277
+17	3	_	_	_	_	_	_	_	Shift=279
+18	марта	_	_	_	_	_	_	_	Shift=281|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=286
+
+# sent_id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p2-s2
+# text = Вместе с ним будет представлена песня ``Fences'', которая не войдет в альбом.
+1	Вместе	_	_	_	_	_	_	_	Shift=288
+2	с	_	_	_	_	_	_	_	Shift=295
+3	ним	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3415|RuCor_group_id=474870|RuCor_link_id=474868|Shift=297
+4	будет	_	_	_	_	_	_	_	Shift=301
+5	представлена	_	_	_	_	_	_	_	Shift=307
+6	песня	_	_	_	_	_	_	_	RuCor_chain_id=3416|RuCor_group_id=474871|Shift=320
+7	``	_	_	_	_	_	_	_	RuCor_chain_id=3416|RuCor_group_id=474871|Shift=326|SpaceAfter=No
+8	Fences	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3416|RuCor_group_id=474871|RuCor_link_id=0|Shift=327|SpaceAfter=No
+9	''	_	_	_	_	_	_	_	RuCor_chain_id=3416|RuCor_group_id=474871|Shift=333|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=334
+11	которая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=3416|RuCor_group_id=474872|RuCor_link_id=474871|Shift=336
+12	не	_	_	_	_	_	_	_	Shift=344
+13	войдет	_	_	_	_	_	_	_	Shift=347
+14	в	_	_	_	_	_	_	_	Shift=354
+15	альбом	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3413|RuCor_group_id=474873|RuCor_link_id=474869|Shift=356|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=362
+
+# newpar id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p3
+# par_text = Полный список треков, представленных на диске, выглядит так:
+# sent_id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p3-s1
+# text = Полный список треков, представленных на диске, выглядит так:
+1	Полный	_	_	_	_	_	_	_	Shift=364
+2	список	_	_	_	_	_	_	_	Shift=371
+3	треков	_	_	_	_	_	_	_	Shift=378|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=384
+5	представленных	_	_	_	_	_	_	_	Shift=386
+6	на	_	_	_	_	_	_	_	Shift=401
+7	диске	_	_	_	_	_	_	_	Shift=404|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=409
+9	выглядит	_	_	_	_	_	_	_	Shift=411
+10	так	_	_	_	_	_	_	_	Shift=420|SpaceAfter=No
+11	:	_	_	_	_	_	_	_	Shift=423
+
+# newpar id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p4
+# par_text = Everyday Robots
+# sent_id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p4-s1
+# text = Everyday Robots
+1	Everyday	_	_	_	_	_	_	_	RuCor_chain_id=3415|RuCor_group_id=474874|Shift=429
+2	Robots	_	_	_	_	_	_	_	RuCor_chain_id=3415|RuCor_group_id=474874|Shift=438
+
+# newpar id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p5
+# par_text = Hostiles
+# sent_id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p5-s1
+# text = Hostiles
+1	Hostiles	_	_	_	_	_	_	_	Shift=449
+
+# newpar id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p6
+# par_text = Lonely Press Play
+# sent_id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p6-s1
+# text = Lonely Press Play
+1	Lonely	_	_	_	_	_	_	_	Shift=462
+2	Press	_	_	_	_	_	_	_	Shift=469
+3	Play	_	_	_	_	_	_	_	Shift=475
+
+# newpar id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p7
+# par_text = Mr. Tembo
+# sent_id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p7-s1
+# text = Mr.
+1	Mr	_	_	_	_	_	_	_	Shift=484|SpaceAfter=No
+2	.	_	_	_	_	_	_	_	Shift=486
+
+# sent_id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p7-s2
+# text = Tembo
+1	Tembo	_	_	_	_	_	_	_	Shift=488
+
+# newpar id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p8
+# par_text = Parakeet
+# sent_id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p8-s1
+# text = Parakeet
+1	Parakeet	_	_	_	_	_	_	_	Shift=498
+
+# newpar id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p9
+# par_text = The Selfish Giant
+# sent_id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p9-s1
+# text = The Selfish Giant
+1	The	_	_	_	_	_	_	_	Shift=511
+2	Selfish	_	_	_	_	_	_	_	Shift=515
+3	Giant	_	_	_	_	_	_	_	Shift=523
+
+# newpar id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p10
+# par_text = You and Me
+# sent_id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p10-s1
+# text = You and Me
+1	You	_	_	_	_	_	_	_	RuCor_chain_id=3417|RuCor_group_id=474875|Shift=533
+2	and	_	_	_	_	_	_	_	RuCor_chain_id=3417|RuCor_group_id=474875|Shift=537
+3	Me	_	_	_	_	_	_	_	RuCor_chain_id=3417|RuCor_group_id=474875|Shift=541
+
+# newpar id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p11
+# par_text = Hollow Ponds
+# sent_id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p11-s1
+# text = Hollow Ponds
+1	Hollow	_	_	_	_	_	_	_	Shift=548
+2	Ponds	_	_	_	_	_	_	_	Shift=555
+
+# newpar id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p12
+# par_text = Seven High
+# sent_id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p12-s1
+# text = Seven High
+1	Seven	_	_	_	_	_	_	_	Shift=565
+2	High	_	_	_	_	_	_	_	Shift=571
+
+# newpar id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p13
+# par_text = Photographs (You Are Taking Now)
+# sent_id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p13-s1
+# text = Photographs (You Are Taking Now)
+1	Photographs	_	_	_	_	_	_	_	Shift=580
+2	(	_	_	_	_	_	_	_	Shift=592|SpaceAfter=No
+3	You	_	_	_	_	_	_	_	Shift=593
+4	Are	_	_	_	_	_	_	_	Shift=597
+5	Taking	_	_	_	_	_	_	_	Shift=601
+6	Now	_	_	_	_	_	_	_	Shift=608|SpaceAfter=No
+7	)	_	_	_	_	_	_	_	Shift=611
+
+# newpar id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p14
+# par_text = The History of a Cheating Heart
+# sent_id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p14-s1
+# text = The History of a Cheating Heart
+1	The	_	_	_	_	_	_	_	Shift=617
+2	History	_	_	_	_	_	_	_	Shift=621
+3	of	_	_	_	_	_	_	_	Shift=629
+4	a	_	_	_	_	_	_	_	Shift=632
+5	Cheating	_	_	_	_	_	_	_	Shift=634
+6	Heart	_	_	_	_	_	_	_	Shift=643
+
+# newpar id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p15
+# par_text = Heavy Seas of Love
+# sent_id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p15-s1
+# text = Heavy Seas of Love
+1	Heavy	_	_	_	_	_	_	_	Shift=653
+2	Seas	_	_	_	_	_	_	_	Shift=659
+3	of	_	_	_	_	_	_	_	Shift=664
+4	Love	_	_	_	_	_	_	_	Shift=667
+
+# newpar id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p16
+# par_text = Альбом можно будет приобрести в разных форматах: от цифровой пластинки в HD-качестве до коллекционного издания, включающего в себя CD с песнями и DVD с видео живых выступлений Албарна в звукозаписывающей студии.
+# sent_id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p16-s1
+# text = Альбом можно будет приобрести в разных форматах: от цифровой пластинки в HD- качестве до коллекционного издания, включающего в себя CD с песнями и DVD с видео живых выступлений Албарна в звукозаписывающей студии.
+1	Альбом	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3413|RuCor_group_id=474876|RuCor_link_id=474873|Shift=672
+2	можно	_	_	_	_	_	_	_	Shift=679
+3	будет	_	_	_	_	_	_	_	Shift=685
+4	приобрести	_	_	_	_	_	_	_	Shift=691
+5	в	_	_	_	_	_	_	_	Shift=702
+6	разных	_	_	_	_	_	_	_	Shift=704
+7	форматах	_	_	_	_	_	_	_	Shift=711|SpaceAfter=No
+8	:	_	_	_	_	_	_	_	Shift=719
+9	от	_	_	_	_	_	_	_	Shift=721
+10	цифровой	_	_	_	_	_	_	_	Shift=724
+11	пластинки	_	_	_	_	_	_	_	Shift=733
+12	в	_	_	_	_	_	_	_	Shift=743
+13	HD-	_	_	_	_	_	_	_	Shift=745
+14	качестве	_	_	_	_	_	_	_	Shift=748
+15	до	_	_	_	_	_	_	_	Shift=757
+16	коллекционного	_	_	_	_	_	_	_	RuCor_chain_id=3418|RuCor_group_id=474877|Shift=760
+17	издания	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3418|RuCor_group_id=474877|RuCor_link_id=0|Shift=775|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=782
+19	включающего	_	_	_	_	_	_	_	Shift=784
+20	в	_	_	_	_	_	_	_	Shift=796
+21	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=3418|RuCor_group_id=474878|RuCor_link_id=474877|Shift=798
+22	CD	_	_	_	_	_	_	_	Shift=803
+23	с	_	_	_	_	_	_	_	Shift=806
+24	песнями	_	_	_	_	_	_	_	Shift=808
+25	и	_	_	_	_	_	_	_	Shift=816
+26	DVD	_	_	_	_	_	_	_	Shift=818
+27	с	_	_	_	_	_	_	_	Shift=822
+28	видео	_	_	_	_	_	_	_	Shift=824
+29	живых	_	_	_	_	_	_	_	Shift=830
+30	выступлений	_	_	_	_	_	_	_	Shift=836
+31	Албарна	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3414|RuCor_group_id=474879|RuCor_link_id=474865|Shift=848
+32	в	_	_	_	_	_	_	_	Shift=856
+33	звукозаписывающей	_	_	_	_	_	_	_	Shift=858
+34	студии	_	_	_	_	_	_	_	Shift=876|SpaceAfter=No
+35	.	_	_	_	_	_	_	_	Shift=882
+
+# newpar id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p17
+# par_text = Несколько композиций с нового альбома Албарн представил на фестивале независимого кино «Сандэнс», который в настоящее время проходит в США. Во время небольшого концерта в воскресенье, 19 января, музыкант под аккомпанемент струнного квартета исполнил песни «Everyday Robots» и «You and Me». Также Албарн спел хит Blur «To the End» с альбома «Parklife» 1994 года.
+# sent_id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p17-s1
+# text = Несколько композиций с нового альбома Албарн представил на фестивале независимого кино ``Сандэнс'', который в настоящее время проходит в США.
+1	Несколько	_	_	_	_	_	_	_	Shift=884
+2	композиций	_	_	_	_	_	_	_	Shift=894
+3	с	_	_	_	_	_	_	_	Shift=905
+4	нового	_	_	_	_	_	_	_	RuCor_chain_id=3413|RuCor_group_id=474880|Shift=907
+5	альбома	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3413|RuCor_group_id=474880|RuCor_link_id=474876|Shift=914
+6	Албарн	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3414|RuCor_group_id=474881|RuCor_link_id=474879|Shift=922
+7	представил	_	_	_	_	_	_	_	Shift=929
+8	на	_	_	_	_	_	_	_	Shift=940
+9	фестивале	_	_	_	_	_	_	_	RuCor_chain_id=3419|RuCor_group_id=474882|Shift=943
+10	независимого	_	_	_	_	_	_	_	RuCor_chain_id=3419|RuCor_group_id=474882|Shift=953
+11	кино	_	_	_	_	_	_	_	RuCor_chain_id=3419|RuCor_group_id=474882|Shift=966
+12	``	_	_	_	_	_	_	_	RuCor_chain_id=3419|RuCor_group_id=474882|Shift=971|SpaceAfter=No
+13	Сандэнс	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3419|RuCor_group_id=474882|RuCor_link_id=0|Shift=972|SpaceAfter=No
+14	''	_	_	_	_	_	_	_	RuCor_chain_id=3419|RuCor_group_id=474882|Shift=979|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=980
+16	который	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=3419|RuCor_group_id=474883|RuCor_link_id=474882|Shift=982
+17	в	_	_	_	_	_	_	_	Shift=990
+18	настоящее	_	_	_	_	_	_	_	Shift=992
+19	время	_	_	_	_	_	_	_	Shift=1002
+20	проходит	_	_	_	_	_	_	_	Shift=1008
+21	в	_	_	_	_	_	_	_	Shift=1017
+22	США	_	_	_	_	_	_	_	Shift=1019|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=1022
+
+# sent_id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p17-s2
+# text = Во время небольшого концерта в воскресенье, 19 января, музыкант под аккомпанемент струнного квартета исполнил песни ``Everyday Robots'' и ``You and Me''.
+1	Во	_	_	_	_	_	_	_	Shift=1024
+2	время	_	_	_	_	_	_	_	Shift=1027
+3	небольшого	_	_	_	_	_	_	_	Shift=1033
+4	концерта	_	_	_	_	_	_	_	Shift=1044
+5	в	_	_	_	_	_	_	_	Shift=1053
+6	воскресенье	_	_	_	_	_	_	_	Shift=1055|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=1066
+8	19	_	_	_	_	_	_	_	Shift=1068
+9	января	_	_	_	_	_	_	_	Shift=1071|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=1077
+11	музыкант	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3414|RuCor_group_id=474884|RuCor_link_id=474881|Shift=1079
+12	под	_	_	_	_	_	_	_	Shift=1088
+13	аккомпанемент	_	_	_	_	_	_	_	Shift=1092
+14	струнного	_	_	_	_	_	_	_	Shift=1106
+15	квартета	_	_	_	_	_	_	_	Shift=1116
+16	исполнил	_	_	_	_	_	_	_	Shift=1125
+17	песни	_	_	_	_	_	_	_	Shift=1134
+18	``	_	_	_	_	_	_	_	RuCor_chain_id=3415|RuCor_group_id=474885|Shift=1140|SpaceAfter=No
+19	Everyday	_	_	_	_	_	_	_	RuCor_chain_id=3415|RuCor_group_id=474885|Shift=1141
+20	Robots	_	_	_	_	_	_	_	RuCor_chain_id=3415|RuCor_group_id=474885|Shift=1150|SpaceAfter=No
+21	''	_	_	_	_	_	_	_	RuCor_chain_id=3415|RuCor_group_id=474885|Shift=1156
+22	и	_	_	_	_	_	_	_	Shift=1158
+23	``	_	_	_	_	_	_	_	RuCor_chain_id=3417|RuCor_group_id=474886|Shift=1160|SpaceAfter=No
+24	You	_	_	_	_	_	_	_	RuCor_chain_id=3417|RuCor_group_id=474886|Shift=1161
+25	and	_	_	_	_	_	_	_	RuCor_chain_id=3417|RuCor_group_id=474886|Shift=1165
+26	Me	_	_	_	_	_	_	_	RuCor_chain_id=3417|RuCor_group_id=474886|Shift=1169|SpaceAfter=No
+27	''	_	_	_	_	_	_	_	RuCor_chain_id=3417|RuCor_group_id=474886|Shift=1171|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=1172
+
+# sent_id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p17-s3
+# text = Также Албарн спел хит Blur ``To the End'' с альбома ``Parklife'' 1994 года.
+1	Также	_	_	_	_	_	_	_	Shift=1174
+2	Албарн	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3414|RuCor_group_id=474887|RuCor_link_id=474884|Shift=1180
+3	спел	_	_	_	_	_	_	_	Shift=1187
+4	хит	_	_	_	_	_	_	_	Shift=1192
+5	Blur	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3420|RuCor_group_id=474888|RuCor_link_id=0|Shift=1196
+6	``	_	_	_	_	_	_	_	Shift=1201|SpaceAfter=No
+7	To	_	_	_	_	_	_	_	Shift=1202
+8	the	_	_	_	_	_	_	_	Shift=1205
+9	End	_	_	_	_	_	_	_	Shift=1209|SpaceAfter=No
+10	''	_	_	_	_	_	_	_	Shift=1212
+11	с	_	_	_	_	_	_	_	Shift=1214
+12	альбома	_	_	_	_	_	_	_	Shift=1216
+13	``	_	_	_	_	_	_	_	Shift=1224|SpaceAfter=No
+14	Parklife	_	_	_	_	_	_	_	Shift=1225|SpaceAfter=No
+15	''	_	_	_	_	_	_	_	Shift=1233
+16	1994	_	_	_	_	_	_	_	Shift=1235
+17	года	_	_	_	_	_	_	_	Shift=1240|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=1244
+
+# newpar id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p18
+# par_text = Деймон Албарн ранее неоднократно анонсировал выход его первого полноценного сольного альбома. Еще в мае 2013 года музыкант заявлял, что сольник уже готов, однако не сообщалось ни когда он выйдет, ни как будет называться. Позднее музыкант выпустил серию тизеров к пластинке, намекавших на то, что она выйдет в 2014 году. 17 января 2014-го на официальном канале Албарна на YouTube появился первый трейлер, в котором указано название альбома.
+# sent_id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p18-s1
+# text = Деймон Албарн ранее неоднократно анонсировал выход его первого полноценного сольного альбома.
+1	Деймон	_	_	_	_	_	_	_	RuCor_chain_id=3414|RuCor_group_id=474889|Shift=1246
+2	Албарн	_	_	_	_	_	_	_	RuCor_chain_id=3414|RuCor_group_id=474889|Shift=1253
+3	ранее	_	_	_	_	_	_	_	Shift=1260
+4	неоднократно	_	_	_	_	_	_	_	Shift=1266
+5	анонсировал	_	_	_	_	_	_	_	Shift=1279
+6	выход	_	_	_	_	_	_	_	Shift=1291
+7	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3413|RuCor_group_id=474891|RuCor_link_id=474889|Shift=1297
+8	первого	_	_	_	_	_	_	_	RuCor_chain_id=3413|RuCor_group_id=474891|Shift=1301
+9	полноценного	_	_	_	_	_	_	_	RuCor_chain_id=3413|RuCor_group_id=474891|Shift=1309
+10	сольного	_	_	_	_	_	_	_	RuCor_chain_id=3413|RuCor_group_id=474891|Shift=1322
+11	альбома	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3413|RuCor_group_id=474891|RuCor_link_id=474880|Shift=1331|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=1338
+
+# sent_id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p18-s2
+# text = Еще в мае 2013 года музыкант заявлял, что сольник уже готов, однако не сообщалось ни когда он выйдет, ни как будет называться.
+1	Еще	_	_	_	_	_	_	_	Shift=1340
+2	в	_	_	_	_	_	_	_	Shift=1344
+3	мае	_	_	_	_	_	_	_	Shift=1346
+4	2013	_	_	_	_	_	_	_	Shift=1350
+5	года	_	_	_	_	_	_	_	Shift=1355
+6	музыкант	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3414|RuCor_group_id=474892|RuCor_link_id=474890|Shift=1360
+7	заявлял	_	_	_	_	_	_	_	Shift=1369|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1376
+9	что	_	_	_	_	_	_	_	Shift=1378
+10	сольник	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3413|RuCor_group_id=474893|RuCor_link_id=474891|Shift=1382
+11	уже	_	_	_	_	_	_	_	Shift=1390
+12	готов	_	_	_	_	_	_	_	Shift=1394|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=1399
+14	однако	_	_	_	_	_	_	_	Shift=1401
+15	не	_	_	_	_	_	_	_	Shift=1408
+16	сообщалось	_	_	_	_	_	_	_	Shift=1411
+17	ни	_	_	_	_	_	_	_	Shift=1422
+18	когда	_	_	_	_	_	_	_	Shift=1425
+19	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3413|RuCor_group_id=474894|RuCor_link_id=474893|Shift=1431
+20	выйдет	_	_	_	_	_	_	_	Shift=1434|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=1440
+22	ни	_	_	_	_	_	_	_	Shift=1442
+23	как	_	_	_	_	_	_	_	Shift=1445
+24	будет	_	_	_	_	_	_	_	Shift=1449
+25	называться	_	_	_	_	_	_	_	Shift=1455|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=1465
+
+# sent_id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p18-s3
+# text = Позднее музыкант выпустил серию тизеров к пластинке, намекавших на то, что она выйдет в 2014 году.
+1	Позднее	_	_	_	_	_	_	_	Shift=1467
+2	музыкант	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3414|RuCor_group_id=474895|RuCor_link_id=474892|Shift=1475
+3	выпустил	_	_	_	_	_	_	_	Shift=1484
+4	серию	_	_	_	_	_	_	_	Shift=1493
+5	тизеров	_	_	_	_	_	_	_	Shift=1499
+6	к	_	_	_	_	_	_	_	Shift=1507
+7	пластинке	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3413|RuCor_group_id=474896|RuCor_link_id=474894|Shift=1509|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1518
+9	намекавших	_	_	_	_	_	_	_	Shift=1520
+10	на	_	_	_	_	_	_	_	Shift=1531
+11	то	_	_	_	_	_	_	_	Shift=1534|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=1536
+13	что	_	_	_	_	_	_	_	Shift=1538
+14	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3413|RuCor_group_id=474897|RuCor_link_id=474896|Shift=1542
+15	выйдет	_	_	_	_	_	_	_	Shift=1546
+16	в	_	_	_	_	_	_	_	Shift=1553
+17	2014	_	_	_	_	_	_	_	Shift=1555
+18	году	_	_	_	_	_	_	_	Shift=1560|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=1564
+
+# sent_id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p18-s4
+# text = 17 января 2014-го на официальном канале Албарна на YouTube появился первый трейлер, в котором указано название альбома.
+1	17	_	_	_	_	_	_	_	Shift=1566
+2	января	_	_	_	_	_	_	_	Shift=1569
+3	2014-го	_	_	_	_	_	_	_	Shift=1576
+4	на	_	_	_	_	_	_	_	Shift=1584
+5	официальном	_	_	_	_	_	_	_	Shift=1587
+6	канале	_	_	_	_	_	_	_	Shift=1599
+7	Албарна	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3414|RuCor_group_id=474898|RuCor_link_id=474895|Shift=1606
+8	на	_	_	_	_	_	_	_	Shift=1614
+9	YouTube	_	_	_	_	_	_	_	Shift=1617
+10	появился	_	_	_	_	_	_	_	Shift=1625
+11	первый	_	_	_	_	_	_	_	RuCor_chain_id=3421|RuCor_group_id=474899|Shift=1634
+12	трейлер	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3421|RuCor_group_id=474899|RuCor_link_id=0|Shift=1641|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=1648
+14	в	_	_	_	_	_	_	_	Shift=1650
+15	котором	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=3421|RuCor_group_id=474900|RuCor_link_id=474899|Shift=1652
+16	указано	_	_	_	_	_	_	_	Shift=1660
+17	название	_	_	_	_	_	_	_	Shift=1668
+18	альбома	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3413|RuCor_group_id=474901|RuCor_link_id=474897|Shift=1677|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=1684
+
+# newpar id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p19
+# par_text = Предыдущая сольная работа солиста группы Blur и основателя коллективов Gorillaz и The Good, the Bad & the Queen представляла собой сборник демо-версий его различных песен, сделанных в отелях во время американского турне Blur в поддержку альбома «Think Tank». Пластинка под названием «Democrazy» вышла в 2003 году. Сольный альбом с полностью новым материалом Албарн выпускает впервые.
+# sent_id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p19-s1
+# text = Предыдущая сольная работа солиста группы Blur и основателя коллективов Gorillaz и The Good, the Bad & the Queen представляла собой сборник демо-версий его различных песен, сделанных в отелях во время американского турне Blur в поддержку альбома ``Think Tank''.
+1	Предыдущая	_	_	_	_	_	_	_	RuCor_chain_id=3422|RuCor_group_id=474902|Shift=1686
+2	сольная	_	_	_	_	_	_	_	RuCor_chain_id=3422|RuCor_group_id=474902|Shift=1697
+3	работа	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3422|RuCor_group_id=474902|RuCor_link_id=0|Shift=1705
+4	солиста	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3414|RuCor_group_id=474903|RuCor_link_id=474898|Shift=1712
+5	группы	_	_	_	_	_	_	_	RuCor_chain_id=3414|RuCor_group_id=474903|Shift=1720
+6	Blur	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3420|RuCor_group_id=474904|RuCor_link_id=474888|Shift=1727
+7	и	_	_	_	_	_	_	_	Shift=1732
+8	основателя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3414|RuCor_group_id=474905|RuCor_link_id=474903|Shift=1734
+9	коллективов	_	_	_	_	_	_	_	RuCor_chain_id=3414|RuCor_group_id=474905|Shift=1745
+10	Gorillaz	_	_	_	_	_	_	_	RuCor_chain_id=3414|RuCor_group_id=474905|Shift=1757
+11	и	_	_	_	_	_	_	_	RuCor_chain_id=3414|RuCor_group_id=474905|Shift=1766
+12	The	_	_	_	_	_	_	_	RuCor_chain_id=3414|RuCor_group_id=474905|Shift=1768
+13	Good	_	_	_	_	_	_	_	RuCor_chain_id=3414|RuCor_group_id=474905|Shift=1772|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	RuCor_chain_id=3414|RuCor_group_id=474905|Shift=1776
+15	the	_	_	_	_	_	_	_	RuCor_chain_id=3414|RuCor_group_id=474905|Shift=1778
+16	Bad	_	_	_	_	_	_	_	RuCor_chain_id=3414|RuCor_group_id=474905|Shift=1782
+17	&	_	_	_	_	_	_	_	RuCor_chain_id=3414|RuCor_group_id=474905|Shift=1786
+18	the	_	_	_	_	_	_	_	RuCor_chain_id=3414|RuCor_group_id=474905|Shift=1788
+19	Queen	_	_	_	_	_	_	_	RuCor_chain_id=3414|RuCor_group_id=474905|Shift=1792
+20	представляла	_	_	_	_	_	_	_	Shift=1798
+21	собой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=3422|RuCor_group_id=474906|RuCor_link_id=474902|Shift=1811
+22	сборник	_	_	_	_	_	_	_	Shift=1817
+23	демо-версий	_	_	_	_	_	_	_	Shift=1825
+24	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3414|RuCor_group_id=474907|RuCor_link_id=474905|Shift=1837
+25	различных	_	_	_	_	_	_	_	Shift=1841
+26	песен	_	_	_	_	_	_	_	Shift=1851|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=1856
+28	сделанных	_	_	_	_	_	_	_	Shift=1858
+29	в	_	_	_	_	_	_	_	Shift=1868
+30	отелях	_	_	_	_	_	_	_	Shift=1870
+31	во	_	_	_	_	_	_	_	Shift=1877
+32	время	_	_	_	_	_	_	_	Shift=1880
+33	американского	_	_	_	_	_	_	_	Shift=1886
+34	турне	_	_	_	_	_	_	_	Shift=1900
+35	Blur	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3420|RuCor_group_id=474908|RuCor_link_id=474904|Shift=1906
+36	в	_	_	_	_	_	_	_	Shift=1911
+37	поддержку	_	_	_	_	_	_	_	Shift=1913
+38	альбома	_	_	_	_	_	_	_	Shift=1923
+39	``	_	_	_	_	_	_	_	Shift=1931|SpaceAfter=No
+40	Think	_	_	_	_	_	_	_	Shift=1932
+41	Tank	_	_	_	_	_	_	_	Shift=1938|SpaceAfter=No
+42	''	_	_	_	_	_	_	_	Shift=1942|SpaceAfter=No
+43	.	_	_	_	_	_	_	_	Shift=1943
+
+# sent_id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p19-s2
+# text = Пластинка под названием ``Democrazy'' вышла в 2003 году.
+1	Пластинка	_	_	_	_	_	_	_	Shift=1945
+2	под	_	_	_	_	_	_	_	Shift=1955
+3	названием	_	_	_	_	_	_	_	Shift=1959
+4	``	_	_	_	_	_	_	_	Shift=1969|SpaceAfter=No
+5	Democrazy	_	_	_	_	_	_	_	Shift=1970|SpaceAfter=No
+6	''	_	_	_	_	_	_	_	Shift=1979
+7	вышла	_	_	_	_	_	_	_	Shift=1981
+8	в	_	_	_	_	_	_	_	Shift=1987
+9	2003	_	_	_	_	_	_	_	Shift=1989
+10	году	_	_	_	_	_	_	_	Shift=1994|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=1998
+
+# sent_id = 0e982be1-c205-4188-9bf2-1d4fed37a73b-p19-s3
+# text = Сольный альбом с полностью новым материалом Албарн выпускает впервые.
+1	Сольный	_	_	_	_	_	_	_	RuCor_chain_id=3413|RuCor_group_id=474909|Shift=2000
+2	альбом	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3413|RuCor_group_id=474909|RuCor_link_id=474901|Shift=2008
+3	с	_	_	_	_	_	_	_	RuCor_chain_id=3413|RuCor_group_id=474909|Shift=2015
+4	полностью	_	_	_	_	_	_	_	RuCor_chain_id=3413|RuCor_group_id=474909|Shift=2017
+5	новым	_	_	_	_	_	_	_	RuCor_chain_id=3413|RuCor_group_id=474909|Shift=2027
+6	материалом	_	_	_	_	_	_	_	RuCor_chain_id=3413|RuCor_group_id=474909|Shift=2033
+7	Албарн	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3414|RuCor_group_id=474910|RuCor_link_id=474907|Shift=2044
+8	выпускает	_	_	_	_	_	_	_	Shift=2051
+9	впервые	_	_	_	_	_	_	_	Shift=2061|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	_
+

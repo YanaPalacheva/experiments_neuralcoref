@@ -1,0 +1,762 @@
+#begin document (chtb_0309_0); part 000
+chtb_0309	0	0	The	DT	(TOP(S(X*)	-	-	-	-	-
+chtb_0309	0	1	China	NNP	(NP(NP*	-	-	-	-	(5|(13
+chtb_0309	0	2	's	POS	*)	-	-	-	-	13)
+chtb_0309	0	3	handicapped	JJ	(NML*	-	-	-	-	-
+chtb_0309	0	4	sports	NNS	*)	sport	-	1	-	-
+chtb_0309	0	5	cause	NN	*)	cause	-	3	-	5)
+chtb_0309	0	6	has	VBZ	(VP(VP*	have	01	-	-	-
+chtb_0309	0	7	undergone	VBN	(VP*	undergo	01	1	-	(10)
+chtb_0309	0	8	the	DT	(X*)	-	-	-	-	-
+chtb_0309	0	9	several	JJ	(NP(NP*	-	-	-	-	-
+chtb_0309	0	10	stages	NNS	*)	stage	-	2	-	-
+chtb_0309	0	11	of	IN	(PP*	-	-	-	-	-
+chtb_0309	0	12	conceptualization	NN	(NP*	-	-	-	-	-
+chtb_0309	0	13	,	,	*	-	-	-	-	-
+chtb_0309	0	14	growth	NN	*	growth	-	1	-	-
+chtb_0309	0	15	and	CC	*	-	-	-	-	-
+chtb_0309	0	16	expansion	NN	*)))))	expansion	01	3	-	-
+chtb_0309	0	17	,	,	*	-	-	-	-	-
+chtb_0309	0	18	and	CC	*	-	-	-	-	-
+chtb_0309	0	19	is	VBZ	(VP*	-	-	-	-	-
+chtb_0309	0	20	currently	RB	(ADVP*)	-	-	-	-	-
+chtb_0309	0	21	rising	VBG	(VP*)))	rise	01	2	-	-
+chtb_0309	0	22	.	.	*))	-	-	-	-	-
+
+chtb_0309	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	-
+chtb_0309	0	1	holding	NN	*)	holding	-	5	-	-
+chtb_0309	0	2	of	IN	(PP*	-	-	-	-	-
+chtb_0309	0	3	the	DT	(NP*	-	-	-	-	(6
+chtb_0309	0	4	6th	JJ	*	-	-	-	-	-
+chtb_0309	0	5	Far	NNP	(NML(NML*	-	-	-	-	-
+chtb_0309	0	6	East	NNP	*)	-	-	-	-	-
+chtb_0309	0	7	and	CC	*	-	-	-	-	-
+chtb_0309	0	8	South	NNP	(NML*	-	-	-	-	-
+chtb_0309	0	9	Pacific	NNP	*))	-	-	-	-	-
+chtb_0309	0	10	Disabled	NNP	*	-	-	-	-	-
+chtb_0309	0	11	Games	NNPS	*)))	-	-	-	-	6)
+chtb_0309	0	12	will	MD	(VP*	-	-	-	-	-
+chtb_0309	0	13	provide	VB	(VP*	provide	01	1	-	-
+chtb_0309	0	14	more	JJR	(NP(NP*	-	-	-	-	-
+chtb_0309	0	15	impetus	NN	*)	impetus	-	1	-	-
+chtb_0309	0	16	for	IN	(PP*	-	-	-	-	-
+chtb_0309	0	17	this	DT	(NP*	-	-	-	-	(10
+chtb_0309	0	18	trend	NN	*)))))	trend	-	1	-	10)
+chtb_0309	0	19	.	.	*))	-	-	-	-	-
+
+chtb_0309	0	0	Each	DT	(TOP(S(NP(NP*	-	-	-	-	-
+chtb_0309	0	1	development	NN	*	-	-	-	-	-
+chtb_0309	0	2	step	NN	*)	step	-	1	-	-
+chtb_0309	0	3	of	IN	(PP*	-	-	-	-	-
+chtb_0309	0	4	handicapped	JJ	(NP*	-	-	-	-	-
+chtb_0309	0	5	sports	NNS	*)))	sport	-	1	-	-
+chtb_0309	0	6	can	MD	(VP*	-	-	-	-	-
+chtb_0309	0	7	not	RB	*	-	-	-	-	-
+chtb_0309	0	8	be	VB	(VP*	-	-	-	-	-
+chtb_0309	0	9	separated	VBN	(VP*	separate	01	1	-	-
+chtb_0309	0	10	from	IN	(PP*	-	-	-	-	-
+chtb_0309	0	11	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0309	0	12	concern	NN	*	concern	-	1	-	-
+chtb_0309	0	13	and	CC	*	-	-	-	-	-
+chtb_0309	0	14	support	NN	*)	support	01	7	-	-
+chtb_0309	0	15	of	IN	(PP*	-	-	-	-	-
+chtb_0309	0	16	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0309	0	17	Party	NNP	*)	-	-	-	-	-
+chtb_0309	0	18	and	CC	*	-	-	-	-	-
+chtb_0309	0	19	the	DT	(NP*	-	-	-	-	-
+chtb_0309	0	20	government	NN	*))))))))	government	-	1	-	-
+chtb_0309	0	21	.	.	*))	-	-	-	-	-
+
+chtb_0309	0	0	At	IN	(TOP(S(PP*	-	-	-	-	-
+chtb_0309	0	1	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0309	0	2	beginning	NN	*)	beginning	01	2	-	-
+chtb_0309	0	3	of	IN	(PP*	-	-	-	-	-
+chtb_0309	0	4	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0309	0	5	establishment	NN	*)	establishment	01	1	-	-
+chtb_0309	0	6	of	IN	(PP*	-	-	-	-	-
+chtb_0309	0	7	the	DT	(NP(NP(NP*	-	-	-	-	(13
+chtb_0309	0	8	People	NNPS	*	-	-	-	-	-
+chtb_0309	0	9	's	POS	*)	-	-	-	-	-
+chtb_0309	0	10	Republic	NNP	*)	-	-	-	-	-
+chtb_0309	0	11	of	IN	(PP*	-	-	-	-	-
+chtb_0309	0	12	China	NNP	(NP*))))))))	-	-	-	-	13)
+chtb_0309	0	13	,	,	*	-	-	-	-	-
+chtb_0309	0	14	social	JJ	(NP(NP*	-	-	-	-	-
+chtb_0309	0	15	welfare	NN	*	-	-	-	-	-
+chtb_0309	0	16	services	NNS	*)	service	-	4	-	-
+chtb_0309	0	17	and	CC	*	-	-	-	-	-
+chtb_0309	0	18	schools	NNS	(NP(NP*)	school	-	2	-	-
+chtb_0309	0	19	for	IN	(PP*	-	-	-	-	-
+chtb_0309	0	20	blind	JJ	(NP(NP*	-	-	-	-	-
+chtb_0309	0	21	children	NNS	*)	child	-	1	-	-
+chtb_0309	0	22	and	CC	*	-	-	-	-	-
+chtb_0309	0	23	deaf	JJ	(NP*	-	-	-	-	-
+chtb_0309	0	24	people	NNS	*)))))	people	-	1	-	-
+chtb_0309	0	25	were	VBD	(VP*	-	-	-	-	-
+chtb_0309	0	26	established	VBN	(VP*	establish	01	4	-	-
+chtb_0309	0	27	successively	RB	(ADVP*)	-	-	-	-	-
+chtb_0309	0	28	everywhere	RB	(ADVP*)))	-	-	-	-	-
+chtb_0309	0	29	.	.	*))	-	-	-	-	-
+
+chtb_0309	0	0	Welfare	NN	(TOP(S(S(NP*	-	-	-	-	-
+chtb_0309	0	1	factories	NNS	*)	-	-	-	-	-
+chtb_0309	0	2	developed	VBD	(VP*	develop	02	1	-	-
+chtb_0309	0	3	activities	NNS	(NP(NP*)	activity	-	1	-	-
+chtb_0309	0	4	such	JJ	(PP*	-	-	-	-	-
+chtb_0309	0	5	as	IN	*	-	-	-	-	-
+chtb_0309	0	6	broadcast	NN	(NP(NP*	broadcast	-	1	-	-
+chtb_0309	0	7	exercises	NNS	*)	exercise	02	2	-	-
+chtb_0309	0	8	,	,	*	-	-	-	-	-
+chtb_0309	0	9	etc.	FW	(ADVP*))))))	-	-	-	-	-
+chtb_0309	0	10	and	CC	*	-	-	-	-	-
+chtb_0309	0	11	schools	NNS	(S(NP*)	school	-	2	-	-
+chtb_0309	0	12	established	VBD	(VP*	establish	01	1	-	-
+chtb_0309	0	13	physical	JJ	(NP*	-	-	-	-	-
+chtb_0309	0	14	education	NN	*)))	education	01	1	-	-
+chtb_0309	0	15	.	.	*))	-	-	-	-	-
+
+chtb_0309	0	0	As	IN	(TOP(S(PP*	-	-	-	-	-
+chtb_0309	0	1	a	DT	(NP(NP*	-	-	-	-	-
+chtb_0309	0	2	part	NN	*)	part	-	1	-	-
+chtb_0309	0	3	of	IN	(PP*	-	-	-	-	-
+chtb_0309	0	4	the	DT	(NP(NP*	-	-	-	-	(8
+chtb_0309	0	5	cause	NN	*)	cause	-	3	-	-
+chtb_0309	0	6	for	IN	(PP*	-	-	-	-	-
+chtb_0309	0	7	the	DT	(NP*	-	-	-	-	-
+chtb_0309	0	8	disabled	JJ	*))))))	-	-	-	-	8)
+chtb_0309	0	9	,	,	*	-	-	-	-	-
+chtb_0309	0	10	disabled	JJ	(NP*	-	-	-	-	-
+chtb_0309	0	11	sports	NNS	*)	sport	-	1	-	-
+chtb_0309	0	12	began	VBD	(VP*	begin	01	1	-	-
+chtb_0309	0	13	to	TO	(S(VP*	-	-	-	-	-
+chtb_0309	0	14	grow	VB	(VP*))))	grow	01	5	-	-
+chtb_0309	0	15	.	.	*))	-	-	-	-	-
+
+chtb_0309	0	0	Every	DT	(TOP(S(NP*	-	-	-	-	-
+chtb_0309	0	1	year	NN	*)	-	-	-	-	-
+chtb_0309	0	2	,	,	*	-	-	-	-	-
+chtb_0309	0	3	the	DT	(NP*	-	-	-	-	(13
+chtb_0309	0	4	nation	NN	*)	nation	-	1	-	13)
+chtb_0309	0	5	allocates	VBZ	(VP*	allocate	01	1	-	-
+chtb_0309	0	6	special	JJ	(NP(NP*	-	-	-	-	-
+chtb_0309	0	7	funds	NNS	*)	fund	-	1	-	-
+chtb_0309	0	8	to	TO	(SBAR(S(VP*	-	-	-	-	-
+chtb_0309	0	9	be	VB	(VP*	-	-	-	-	-
+chtb_0309	0	10	used	VBN	(VP*	use	01	3	-	-
+chtb_0309	0	11	in	IN	(PP*	-	-	-	-	-
+chtb_0309	0	12	developing	VBG	(S(VP*	develop	02	2	-	-
+chtb_0309	0	13	handicapped	JJ	(NP(NML*	-	-	-	-	-
+chtb_0309	0	14	sports	NNS	*)	sport	-	1	-	-
+chtb_0309	0	15	activities	NNS	*)))))))))))	activity	-	1	-	-
+chtb_0309	0	16	.	.	*))	-	-	-	-	-
+
+chtb_0309	0	0	Nationwide	RB	(TOP(S(NP*	-	-	-	-	(12
+chtb_0309	0	1	handicapped	JJ	(NML*	-	-	-	-	-
+chtb_0309	0	2	sports	NNS	*)	sport	-	1	-	-
+chtb_0309	0	3	games	NNS	*)	game	-	1	-	12)
+chtb_0309	0	4	began	VBD	(VP*	begin	01	1	-	-
+chtb_0309	0	5	to	TO	(S(VP*	-	-	-	-	-
+chtb_0309	0	6	be	VB	(VP*	-	-	-	-	-
+chtb_0309	0	7	held	VBN	(VP*	hold	04	8	-	-
+chtb_0309	0	8	in	IN	(PP*	-	-	-	-	-
+chtb_0309	0	9	the	DT	(NP*	-	-	-	-	-
+chtb_0309	0	10	late	JJ	*	-	-	-	-	-
+chtb_0309	0	11	1950's	NNS	*)))))))	-	-	-	-	-
+chtb_0309	0	12	.	.	*))	-	-	-	-	-
+
+chtb_0309	0	0	The	DT	(TOP(S(NP*	-	-	-	-	(12
+chtb_0309	0	1	games	NNS	*)	game	-	1	-	12)
+chtb_0309	0	2	accelerated	VBD	(VP(VP*	accelerate	01	1	-	-
+chtb_0309	0	3	improvement	NN	(NP*))	improvement	01	1	-	-
+chtb_0309	0	4	and	CC	*	-	-	-	-	-
+chtb_0309	0	5	drove	VBD	(VP*	drive	02	2	-	-
+chtb_0309	0	6	popularization	NN	(NP*)))	-	-	-	-	-
+chtb_0309	0	7	.	.	*))	-	-	-	-	-
+
+chtb_0309	0	0	The	DT	(TOP(S(NP*	-	-	-	-	(5
+chtb_0309	0	1	handicapped	JJ	(NML*	-	-	-	-	-
+chtb_0309	0	2	sports	NNS	*)	sport	-	1	-	-
+chtb_0309	0	3	cause	NN	*)	cause	-	3	-	5)
+chtb_0309	0	4	has	VBZ	(VP*	have	01	-	-	-
+chtb_0309	0	5	gradually	RB	(ADVP*)	-	-	-	-	-
+chtb_0309	0	6	grown	VBN	(VP*))	grow	01	4	-	-
+chtb_0309	0	7	.	.	*))	-	-	-	-	-
+
+chtb_0309	0	0	Since	IN	(TOP(S(PP*	-	-	-	-	-
+chtb_0309	0	1	the	DT	(NP*	-	-	-	-	-
+chtb_0309	0	2	reform	NN	(NML(NML*)	reform	-	1	-	-
+chtb_0309	0	3	and	CC	*	-	-	-	-	-
+chtb_0309	0	4	opening	NN	(NML*	opening	-	5	-	-
+chtb_0309	0	5	up	NN	*))))	-	-	-	-	-
+chtb_0309	0	6	,	,	*	-	-	-	-	-
+chtb_0309	0	7	the	DT	(NP*	-	-	-	-	-
+chtb_0309	0	8	Chinese	JJ	*	-	-	-	-	-
+chtb_0309	0	9	economy	NN	*)	economy	-	2	-	-
+chtb_0309	0	10	has	VBZ	(VP*	have	01	-	-	-
+chtb_0309	0	11	developed	VBN	(VP*	develop	01	2	-	(4)
+chtb_0309	0	12	rapidly	RB	(ADVP*)))	-	-	-	-	-
+chtb_0309	0	13	.	.	*))	-	-	-	-	-
+
+chtb_0309	0	0	This	DT	(TOP(S(NP*)	-	-	-	-	(4)
+chtb_0309	0	1	enabled	VBD	(VP*	enable	01	1	-	-
+chtb_0309	0	2	more	JJR	(NP*	-	-	-	-	-
+chtb_0309	0	3	people	NNS	*)	people	-	1	-	-
+chtb_0309	0	4	to	TO	(S(VP*	-	-	-	-	-
+chtb_0309	0	5	put	VB	(VP*	put	01	4	-	-
+chtb_0309	0	6	money	NN	(NP(NP*)	money	-	2	-	-
+chtb_0309	0	7	and	CC	*	-	-	-	-	-
+chtb_0309	0	8	material	NN	(NP*	material	-	2	-	-
+chtb_0309	0	9	resource	NN	*))	resource	-	1	-	-
+chtb_0309	0	10	into	IN	(PP*	-	-	-	-	-
+chtb_0309	0	11	the	DT	(NP*	-	-	-	-	(5
+chtb_0309	0	12	disabled	JJ	(NML*	-	-	-	-	-
+chtb_0309	0	13	sports	NNS	*)	sport	-	1	-	-
+chtb_0309	0	14	cause	NN	*))))))	cause	-	3	-	5)
+chtb_0309	0	15	.	.	*))	-	-	-	-	-
+
+chtb_0309	0	0	In	IN	(TOP(S(PP*	-	-	-	-	-
+chtb_0309	0	1	the	DT	(NP*	-	-	-	-	-
+chtb_0309	0	2	short	JJ	*	-	-	-	-	-
+chtb_0309	0	3	10	CD	*	-	-	-	-	-
+chtb_0309	0	4	years	NNS	*))	-	-	-	-	-
+chtb_0309	0	5	,	,	*	-	-	-	-	-
+chtb_0309	0	6	the	DT	(NP*	-	-	-	-	(5
+chtb_0309	0	7	cause	NN	*)	cause	-	3	-	5)
+chtb_0309	0	8	has	VBZ	(VP*	have	01	-	-	-
+chtb_0309	0	9	achieved	VBN	(VP*	achieve	01	1	-	-
+chtb_0309	0	10	success	NN	(NP(NP*)	success	01	2	-	-
+chtb_0309	0	11	of	IN	(PP*	-	-	-	-	-
+chtb_0309	0	12	attention	NN	(NP(NP*)	attention	-	3	-	-
+chtb_0309	0	13	from	IN	(PP*	-	-	-	-	-
+chtb_0309	0	14	China	NNP	(UCP(NP*)	-	-	-	-	(13)
+chtb_0309	0	15	and	CC	*	-	-	-	-	-
+chtb_0309	0	16	abroad	RB	(ADVP*))))))))	-	-	-	-	-
+chtb_0309	0	17	.	.	*))	-	-	-	-	-
+
+chtb_0309	0	0	It	PRP	(TOP(S(NP(NP*))	-	-	-	-	-
+chtb_0309	0	1	is	VBZ	(VP*	be	-	1	-	-
+chtb_0309	0	2	reasonable	JJ	(ADJP*)	-	-	-	-	-
+chtb_0309	0	3	to	TO	(S(VP*	-	-	-	-	-
+chtb_0309	0	4	believe	VB	(VP*	believe	01	1	-	-
+chtb_0309	0	5	that	IN	(SBAR*	-	-	-	-	-
+chtb_0309	0	6	the	DT	(S(NP*	-	-	-	-	(8
+chtb_0309	0	7	disabled	JJ	*	-	-	-	-	-
+chtb_0309	0	8	cause	NN	*)	cause	-	3	-	8)
+chtb_0309	0	9	will	MD	(VP*	-	-	-	-	-
+chtb_0309	0	10	be	VB	(VP*	-	-	-	-	-
+chtb_0309	0	11	increasingly	RB	(ADVP*)	-	-	-	-	-
+chtb_0309	0	12	recognized	VBN	(VP*	recognize	01	2	-	-
+chtb_0309	0	13	and	CC	*	-	-	-	-	-
+chtb_0309	0	14	supported	VBN	*	support	01	2	-	-
+chtb_0309	0	15	as	IN	(SBAR*	-	-	-	-	-
+chtb_0309	0	16	China	NNP	(S(NP*	-	-	-	-	(13)
+chtb_0309	0	17	's	POS	*	-	-	-	-	-
+chtb_0309	0	18	overall	JJ	*	-	-	-	-	-
+chtb_0309	0	19	national	JJ	*	-	-	-	-	-
+chtb_0309	0	20	strength	NN	*)	strength	-	1	-	-
+chtb_0309	0	21	escalates	VBZ	(VP*))))))))))))	escalate	01	1	-	-
+chtb_0309	0	22	.	.	*))	-	-	-	-	-
+
+chtb_0309	0	0	The	DT	(TOP(S(NP*	-	-	-	-	(5
+chtb_0309	0	1	handicapped	JJ	(NML*	-	-	-	-	-
+chtb_0309	0	2	sports	NNS	*)	sport	-	1	-	-
+chtb_0309	0	3	cause	NN	*)	cause	-	3	-	5)
+chtb_0309	0	4	will	MD	(VP*	-	-	-	-	-
+chtb_0309	0	5	also	RB	(ADVP*)	-	-	-	-	-
+chtb_0309	0	6	have	VB	(VP*	have	03	4	-	-
+chtb_0309	0	7	broad	JJ	(NP*	-	-	-	-	-
+chtb_0309	0	8	development	NN	*)))	-	-	-	-	-
+chtb_0309	0	9	.	.	*))	-	-	-	-	-
+
+chtb_0309	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	-
+chtb_0309	0	1	establishment	NN	*	establishment	01	1	-	-
+chtb_0309	0	2	and	CC	*	-	-	-	-	-
+chtb_0309	0	3	healthiness	NN	*)	-	-	-	-	-
+chtb_0309	0	4	of	IN	(PP*	-	-	-	-	-
+chtb_0309	0	5	disabled	JJ	(NP(NML*	-	-	-	-	-
+chtb_0309	0	6	sports	NNS	*)	sport	-	1	-	-
+chtb_0309	0	7	organizations	NNS	*)))	organization	-	1	-	-
+chtb_0309	0	8	provide	VBP	(VP*	provide	01	1	-	-
+chtb_0309	0	9	organizational	JJ	(NP*	-	-	-	-	-
+chtb_0309	0	10	assurance	NN	*)	assurance	01	2	-	-
+chtb_0309	0	11	for	IN	(PP*	-	-	-	-	-
+chtb_0309	0	12	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0309	0	13	development	NN	*)	-	-	-	-	-
+chtb_0309	0	14	of	IN	(PP*	-	-	-	-	-
+chtb_0309	0	15	the	DT	(NP*	-	-	-	-	-
+chtb_0309	0	16	sports	NNS	*	sport	-	1	-	-
+chtb_0309	0	17	cause	NN	*))	cause	-	3	-	-
+chtb_0309	0	18	for	IN	(PP*	-	-	-	-	-
+chtb_0309	0	19	handicapped	JJ	(NP*	-	-	-	-	-
+chtb_0309	0	20	people	NNS	*)))))	people	-	1	-	-
+chtb_0309	0	21	.	.	*))	-	-	-	-	-
+
+chtb_0309	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	(0
+chtb_0309	0	1	Chinese	NNP	*	-	-	-	-	-
+chtb_0309	0	2	Injured	NNP	(NML(NML*	-	-	-	-	-
+chtb_0309	0	3	and	CC	*	-	-	-	-	-
+chtb_0309	0	4	Disabled	NNP	*)	-	-	-	-	-
+chtb_0309	0	5	People	NNPS	*)	-	-	-	-	-
+chtb_0309	0	6	Sports	NNPS	*	-	-	-	-	-
+chtb_0309	0	7	Association	NNP	*)	-	-	-	-	-
+chtb_0309	0	8	-LRB-	-LRB-	*	-	-	-	-	-
+chtb_0309	0	9	renamed	VBN	(VP*	rename	01	1	-	-
+chtb_0309	0	10	to	IN	(PP*	-	-	-	-	-
+chtb_0309	0	11	the	DT	(NP*	-	-	-	-	-
+chtb_0309	0	12	Chinese	NNP	*	-	-	-	-	-
+chtb_0309	0	13	Disabled	NNP	(NML*	-	-	-	-	-
+chtb_0309	0	14	Sports	NNPS	*)	-	-	-	-	-
+chtb_0309	0	15	Association	NNP	*))	-	-	-	-	-
+chtb_0309	0	16	in	IN	(PP*	-	-	-	-	-
+chtb_0309	0	17	1990	CD	(NP*)))	-	-	-	-	-
+chtb_0309	0	18	-RRB-	-RRB-	*)	-	-	-	-	0)
+chtb_0309	0	19	was	VBD	(VP*	-	-	-	-	-
+chtb_0309	0	20	established	VBN	(VP*	establish	01	1	-	(7)
+chtb_0309	0	21	in	IN	(PP*	-	-	-	-	-
+chtb_0309	0	22	October	NNP	(NP(NP*)	-	-	-	-	-
+chtb_0309	0	23	,	,	*	-	-	-	-	-
+chtb_0309	0	24	1983	CD	(NP*)))))	-	-	-	-	-
+chtb_0309	0	25	.	.	*))	-	-	-	-	-
+
+chtb_0309	0	0	After	IN	(TOP(S(PP*	-	-	-	-	-
+chtb_0309	0	1	this	DT	(NP*))	-	-	-	-	(7)
+chtb_0309	0	2	a	DT	(NP(NP*	-	-	-	-	-
+chtb_0309	0	3	succession	NN	*)	succession	02	1	-	-
+chtb_0309	0	4	of	IN	(PP*	-	-	-	-	-
+chtb_0309	0	5	handicapped	JJ	(NP(NML*	-	-	-	-	-
+chtb_0309	0	6	sports	NNS	*)	sport	-	1	-	-
+chtb_0309	0	7	organizations	NNS	*)))	organization	-	1	-	-
+chtb_0309	0	8	were	VBD	(VP*	-	-	-	-	-
+chtb_0309	0	9	established	VBN	(VP*	establish	01	1	-	-
+chtb_0309	0	10	throughout	IN	(PP*	-	-	-	-	-
+chtb_0309	0	11	China	NNP	(NP*))))	-	-	-	-	(13)
+chtb_0309	0	12	.	.	*))	-	-	-	-	-
+
+chtb_0309	0	0	In	IN	(TOP(S(PP*	-	-	-	-	-
+chtb_0309	0	1	1985	CD	(NP*))	-	-	-	-	-
+chtb_0309	0	2	,	,	*	-	-	-	-	-
+chtb_0309	0	3	the	DT	(NP*	-	-	-	-	-
+chtb_0309	0	4	Chinese	NNP	*	-	-	-	-	-
+chtb_0309	0	5	Mentally	NNP	(NML(UCP(ADJP*	-	-	-	-	-
+chtb_0309	0	6	Impaired	NNP	*)	-	-	-	-	-
+chtb_0309	0	7	and	CC	*	-	-	-	-	-
+chtb_0309	0	8	Blind	NNP	(NML*))	-	-	-	-	-
+chtb_0309	0	9	Sports	NNPS	*)	-	-	-	-	-
+chtb_0309	0	10	Associations	NNPS	*)	-	-	-	-	-
+chtb_0309	0	11	were	VBD	(VP*	-	-	-	-	-
+chtb_0309	0	12	also	RB	(ADVP*)	-	-	-	-	-
+chtb_0309	0	13	established	VBN	(VP*))	establish	01	1	-	-
+chtb_0309	0	14	.	.	*))	-	-	-	-	-
+
+chtb_0309	0	0	Having	VBG	(TOP(S(S(VP*	have	03	-	-	-
+chtb_0309	0	1	organization	NN	(NP*	organization	01	5	-	-
+chtb_0309	0	2	and	CC	*	-	-	-	-	-
+chtb_0309	0	3	leadership	NN	*)))	leadership	01	1	-	-
+chtb_0309	0	4	,	,	*	-	-	-	-	-
+chtb_0309	0	5	activities	NNS	(NP(NP*)	activity	-	1	-	-
+chtb_0309	0	6	such	JJ	(PP*	-	-	-	-	-
+chtb_0309	0	7	as	IN	*	-	-	-	-	-
+chtb_0309	0	8	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0309	0	9	games	NNS	*	game	-	1	-	-
+chtb_0309	0	10	and	CC	*	-	-	-	-	-
+chtb_0309	0	11	competitions	NNS	*)	competition	-	2	-	-
+chtb_0309	0	12	,	,	*	-	-	-	-	-
+chtb_0309	0	13	etc.	FW	(ADVP*))))	-	-	-	-	-
+chtb_0309	0	14	were	VBD	(VP*	-	-	-	-	-
+chtb_0309	0	15	increasingly	RB	(ADVP*	-	-	-	-	-
+chtb_0309	0	16	and	CC	*	-	-	-	-	-
+chtb_0309	0	17	frequently	RB	*)	-	-	-	-	-
+chtb_0309	0	18	held	VBN	(VP*))	hold	04	-	-	-
+chtb_0309	0	19	.	.	*))	-	-	-	-	-
+
+chtb_0309	0	0	The	DT	(TOP(S(S(NP(NP*	-	-	-	-	-
+chtb_0309	0	1	enthusiasm	NN	*)	-	-	-	-	-
+chtb_0309	0	2	of	IN	(PP*	-	-	-	-	-
+chtb_0309	0	3	handicapped	JJ	(NP(NP*	-	-	-	-	-
+chtb_0309	0	4	people	NNS	*)	people	-	1	-	-
+chtb_0309	0	5	participating	VBG	(VP*	participate	01	1	-	-
+chtb_0309	0	6	in	IN	(PP*	-	-	-	-	-
+chtb_0309	0	7	the	DT	(NP*	-	-	-	-	-
+chtb_0309	0	8	sports	NNS	*	sport	-	1	-	-
+chtb_0309	0	9	activities	NNS	*))))))	activity	-	1	-	-
+chtb_0309	0	10	was	VBD	(VP*	-	-	-	-	-
+chtb_0309	0	11	unprecedentedly	RB	(ADVP*)	-	-	-	-	-
+chtb_0309	0	12	increasing	VBG	(VP*)))	increase	01	1	-	-
+chtb_0309	0	13	,	,	*	-	-	-	-	-
+chtb_0309	0	14	sports	NNS	(S(NP*	sport	-	1	-	-
+chtb_0309	0	15	levels	NNS	*)	level	-	6	-	-
+chtb_0309	0	16	continually	RB	(ADVP*)	-	-	-	-	-
+chtb_0309	0	17	improve	VBP	(VP*))	improve	01	1	-	-
+chtb_0309	0	18	and	CC	*	-	-	-	-	-
+chtb_0309	0	19	the	DT	(S(NP*	-	-	-	-	-
+chtb_0309	0	20	reserve	NN	*	reserve	-	2	-	-
+chtb_0309	0	21	force	NN	*)	force	-	4	-	-
+chtb_0309	0	22	is	VBZ	(VP*	-	-	-	-	-
+chtb_0309	0	23	growing	VBG	(VP*)))	grow	01	4	-	-
+chtb_0309	0	24	.	.	*))	-	-	-	-	-
+
+chtb_0309	0	0	Three	CD	(TOP(S(NP*	-	-	-	-	(2
+chtb_0309	0	1	National	NNP	*	-	-	-	-	-
+chtb_0309	0	2	Disabled	NNP	*	-	-	-	-	-
+chtb_0309	0	3	Games	NNPS	*)	-	-	-	-	2)
+chtb_0309	0	4	were	VBD	(VP*	-	-	-	-	-
+chtb_0309	0	5	held	VBN	(VP*	hold	04	-	-	-
+chtb_0309	0	6	respectively	RB	(ADVP*)	-	-	-	-	-
+chtb_0309	0	7	in	IN	(PP*	-	-	-	-	-
+chtb_0309	0	8	Hefei	NNP	(NP*	-	-	-	-	-
+chtb_0309	0	9	,	,	*	-	-	-	-	-
+chtb_0309	0	10	Tangshan	NNP	*	-	-	-	-	-
+chtb_0309	0	11	and	CC	*	-	-	-	-	-
+chtb_0309	0	12	Guangzhou	NNP	*))))	-	-	-	-	-
+chtb_0309	0	13	.	.	*))	-	-	-	-	-
+
+chtb_0309	0	0	The	DT	(TOP(S(S(NP*	-	-	-	-	-
+chtb_0309	0	1	scale	NN	*)	scale	-	2	-	-
+chtb_0309	0	2	became	VBD	(VP*	become	01	1	-	-
+chtb_0309	0	3	larger	JJR	(ADJP*	-	-	-	-	-
+chtb_0309	0	4	and	CC	*	-	-	-	-	-
+chtb_0309	0	5	larger	JJR	*)))	-	-	-	-	-
+chtb_0309	0	6	and	CC	*	-	-	-	-	-
+chtb_0309	0	7	the	DT	(S(NP*	-	-	-	-	-
+chtb_0309	0	8	level	NN	*)	level	-	6	-	-
+chtb_0309	0	9	became	VBD	(VP*	become	01	1	-	-
+chtb_0309	0	10	higher	JJR	(ADJP*	-	-	-	-	-
+chtb_0309	0	11	and	CC	*	-	-	-	-	-
+chtb_0309	0	12	higher	JJR	*)))	-	-	-	-	-
+chtb_0309	0	13	.	.	*))	-	-	-	-	-
+
+chtb_0309	0	0	The	DT	(TOP(S(NP*	-	-	-	-	(2
+chtb_0309	0	1	games	NNS	*)	game	-	1	-	2)
+chtb_0309	0	2	have	VBP	(VP(VP*	have	01	-	-	-
+chtb_0309	0	3	received	VBN	(VP*	receive	01	1	-	-
+chtb_0309	0	4	more	JJR	(NP(NP*	-	-	-	-	-
+chtb_0309	0	5	broad	JJ	*	-	-	-	-	-
+chtb_0309	0	6	attention	NN	*	attention	-	3	-	-
+chtb_0309	0	7	and	CC	*	-	-	-	-	-
+chtb_0309	0	8	support	NN	*)	support	01	7	-	-
+chtb_0309	0	9	of	IN	(PP*	-	-	-	-	-
+chtb_0309	0	10	the	DT	(NP*	-	-	-	-	-
+chtb_0309	0	11	public	NN	*)))))	public	-	1	-	-
+chtb_0309	0	12	,	,	*	-	-	-	-	-
+chtb_0309	0	13	and	CC	*	-	-	-	-	-
+chtb_0309	0	14	have	VBP	(VP*	have	01	-	-	-
+chtb_0309	0	15	attracted	VBN	(VP*	attract	01	1	-	-
+chtb_0309	0	16	more	JJR	(S(NP*	-	-	-	-	-
+chtb_0309	0	17	disabled	JJ	*	-	-	-	-	-
+chtb_0309	0	18	people	NNS	*)	people	-	1	-	-
+chtb_0309	0	19	to	TO	(VP*	-	-	-	-	-
+chtb_0309	0	20	take	VB	(VP*	take	01	14.1	-	-
+chtb_0309	0	21	part	NN	(NP*)	part	-	3	-	-
+chtb_0309	0	22	in	IN	(PP*	-	-	-	-	-
+chtb_0309	0	23	the	DT	(NP*	-	-	-	-	-
+chtb_0309	0	24	events	NNS	*))))))))	event	-	1	-	-
+chtb_0309	0	25	.	.	*))	-	-	-	-	-
+
+chtb_0309	0	0	Since	IN	(TOP(S(PP*	-	-	-	-	-
+chtb_0309	0	1	1984	CD	(NP*))	-	-	-	-	-
+chtb_0309	0	2	the	DT	(NP*	-	-	-	-	(0
+chtb_0309	0	3	Chinese	NNP	*	-	-	-	-	-
+chtb_0309	0	4	Disabled	NNP	(NML*	-	-	-	-	-
+chtb_0309	0	5	Sports	NNPS	*)	-	-	-	-	-
+chtb_0309	0	6	Association	NNP	*)	-	-	-	-	0)
+chtb_0309	0	7	has	VBZ	(VP(VP*	have	01	-	-	-
+chtb_0309	0	8	become	VBN	(VP*	become	01	1	-	-
+chtb_0309	0	9	a	DT	(NP(NP*	-	-	-	-	-
+chtb_0309	0	10	member	NN	*)	member	-	1	-	-
+chtb_0309	0	11	of	IN	(PP*	-	-	-	-	-
+chtb_0309	0	12	8	CD	(NP(NP*	-	-	-	-	-
+chtb_0309	0	13	international	JJ	*	-	-	-	-	-
+chtb_0309	0	14	disabled	JJ	(NML*	-	-	-	-	-
+chtb_0309	0	15	sports	NNS	*)	sport	-	1	-	-
+chtb_0309	0	16	organizations	NNS	*))))	organization	-	1	-	-
+chtb_0309	0	17	successively	RB	(ADVP*)	-	-	-	-	-
+chtb_0309	0	18	,	,	*	-	-	-	-	-
+chtb_0309	0	19	such	JJ	(PP*	-	-	-	-	-
+chtb_0309	0	20	as	IN	*	-	-	-	-	-
+chtb_0309	0	21	the	DT	(NP(NP(NP*	-	-	-	-	-
+chtb_0309	0	22	International	NNP	*	-	-	-	-	-
+chtb_0309	0	23	Para	NNP	(NML*	-	-	-	-	-
+chtb_0309	0	24	Olympic	NNP	*))	-	-	-	-	-
+chtb_0309	0	25	Committee	NNP	*)	-	-	-	-	-
+chtb_0309	0	26	,	,	*	-	-	-	-	-
+chtb_0309	0	27	etc.	FW	(ADVP*)))))	-	-	-	-	-
+chtb_0309	0	28	and	CC	*	-	-	-	-	-
+chtb_0309	0	29	has	VBZ	(VP*	have	01	-	-	-
+chtb_0309	0	30	established	VBN	(VP(VP*	establish	01	1	-	-
+chtb_0309	0	31	relations	NNS	(NP(NP*)	relation	01	3	-	-
+chtb_0309	0	32	with	IN	(PP*	-	-	-	-	-
+chtb_0309	0	33	disabled	JJ	(NP(NP(NML*	-	-	-	-	-
+chtb_0309	0	34	sports	NNS	*)	sport	-	1	-	-
+chtb_0309	0	35	organizations	NNS	*)	organization	-	1	-	-
+chtb_0309	0	36	in	IN	(PP*	-	-	-	-	-
+chtb_0309	0	37	various	JJ	(NP*	-	-	-	-	-
+chtb_0309	0	38	countries	NNS	*	country	-	3	-	-
+chtb_0309	0	39	and	CC	*	-	-	-	-	-
+chtb_0309	0	40	areas	NNS	*))))))	area	-	1	-	-
+chtb_0309	0	41	and	CC	*	-	-	-	-	-
+chtb_0309	0	42	taken	VBN	(VP*	take	01	-	-	-
+chtb_0309	0	43	part	NN	(NP*)	part	-	3	-	-
+chtb_0309	0	44	in	IN	(PP*	-	-	-	-	-
+chtb_0309	0	45	international	JJ	(NP(NP*	-	-	-	-	-
+chtb_0309	0	46	events	NNS	*)	event	-	1	-	-
+chtb_0309	0	47	such	JJ	(PP*	-	-	-	-	-
+chtb_0309	0	48	as	IN	*	-	-	-	-	-
+chtb_0309	0	49	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0309	0	50	Special	NNP	(NML*	-	-	-	-	-
+chtb_0309	0	51	Olympic	NNP	*)	-	-	-	-	-
+chtb_0309	0	52	Games	NNPS	*)	-	-	-	-	-
+chtb_0309	0	53	,	,	*	-	-	-	-	-
+chtb_0309	0	54	etc	FW	(ADVP*)))))))))	-	-	-	-	-
+chtb_0309	0	55	.	.	*))	-	-	-	-	-
+
+chtb_0309	0	0	In	IN	(TOP(S(PP*	-	-	-	-	-
+chtb_0309	0	1	competitions	NNS	(NP*	competition	-	2	-	-
+chtb_0309	0	2	and	CC	*	-	-	-	-	-
+chtb_0309	0	3	contacts	NNS	*))	contact	01	3	-	-
+chtb_0309	0	4	,	,	*	-	-	-	-	-
+chtb_0309	0	5	disabled	JJ	(NP*	-	-	-	-	-
+chtb_0309	0	6	Chinese	JJ	*	-	-	-	-	-
+chtb_0309	0	7	people	NNS	*)	people	-	1	-	-
+chtb_0309	0	8	have	VBP	(VP*)	have	01	12	-	-
+chtb_0309	0	9	revealed	VBN	(VP(VP*	reveal	01	1	-	-
+chtb_0309	0	10	extraordinary	JJ	(NP*	-	-	-	-	-
+chtb_0309	0	11	physical	JJ	*	-	-	-	-	-
+chtb_0309	0	12	abilities	NNS	*))	ability	-	2	-	-
+chtb_0309	0	13	,	,	*	-	-	-	-	-
+chtb_0309	0	14	achieved	VBN	(VP*	achieve	01	1	-	-
+chtb_0309	0	15	excellent	JJ	(NP*	-	-	-	-	-
+chtb_0309	0	16	results	NNS	*))	result	-	3	-	-
+chtb_0309	0	17	,	,	*	-	-	-	-	-
+chtb_0309	0	18	enhanced	VBN	(VP*	enhance	01	1	-	-
+chtb_0309	0	19	friendship	NN	(NP(NP*)	-	-	-	-	-
+chtb_0309	0	20	with	IN	(PP*	-	-	-	-	-
+chtb_0309	0	21	disabled	JJ	(NP(NP*	-	-	-	-	-
+chtb_0309	0	22	people	NNS	*)	people	-	1	-	-
+chtb_0309	0	23	from	IN	(PP*	-	-	-	-	-
+chtb_0309	0	24	various	JJ	(NP*	-	-	-	-	-
+chtb_0309	0	25	countries	NNS	*	country	-	3	-	-
+chtb_0309	0	26	and	CC	*	-	-	-	-	-
+chtb_0309	0	27	areas	NNS	*))))))	area	-	1	-	-
+chtb_0309	0	28	and	CC	*	-	-	-	-	-
+chtb_0309	0	29	contributed	VBN	(VP*	contribute	01	2	-	-
+chtb_0309	0	30	to	IN	(PP*	-	-	-	-	-
+chtb_0309	0	31	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0309	0	32	development	NN	*)	-	-	-	-	-
+chtb_0309	0	33	of	IN	(PP*	-	-	-	-	-
+chtb_0309	0	34	physical	JJ	(NP(NP*	-	-	-	-	-
+chtb_0309	0	35	activities	NNS	*)	activity	-	1	-	-
+chtb_0309	0	36	for	IN	(PP*	-	-	-	-	-
+chtb_0309	0	37	disabled	JJ	(NP(NP*	-	-	-	-	-
+chtb_0309	0	38	people	NNS	*)	people	-	1	-	-
+chtb_0309	0	39	around	IN	(PP*	-	-	-	-	-
+chtb_0309	0	40	the	DT	(NP*	-	-	-	-	-
+chtb_0309	0	41	world	NN	*))))))))))	world	-	1	-	-
+chtb_0309	0	42	.	.	*))	-	-	-	-	-
+
+chtb_0309	0	0	"	``	(TOP(S(NP(NP*	-	-	-	-	(9	(9
+chtb_0309	0	1	The	DT	(NP*	-	-	-	-	-	-
+chtb_0309	0	2	Guaranteed	NNP	*	-	-	-	-	-	-
+chtb_0309	0	3	Law	NNP	*)	-	-	-	-	-	-
+chtb_0309	0	4	for	IN	(PP*	-	-	-	-	-	-
+chtb_0309	0	5	Disabled	NNP	(NP(NP*	-	-	-	-	-	-
+chtb_0309	0	6	Persons	NNPS	*)	-	-	-	-	-	-
+chtb_0309	0	7	in	IN	(PP*	-	-	-	-	-	-
+chtb_0309	0	8	the	DT	(NP(NP(NP*	-	-	-	-	(13	(13
+chtb_0309	0	9	People	NNPS	*	-	-	-	-	-	-
+chtb_0309	0	10	's	POS	*)	-	-	-	-	-	-
+chtb_0309	0	11	Republic	NNP	*)	-	-	-	-	-	-
+chtb_0309	0	12	of	IN	(PP*	-	-	-	-	-	-
+chtb_0309	0	13	China	NNP	(NP*))))))	-	-	-	-	13)	13)
+chtb_0309	0	14	"	''	*)	-	-	-	-	-	-
+chtb_0309	0	15	,	,	(SBAR*	-	-	-	-	-	-
+chtb_0309	0	16	which	WDT	(WHNP*)	-	-	-	-	-	-
+chtb_0309	0	17	was	VBD	(S(VP*	-	-	-	-	-	-
+chtb_0309	0	18	drafted	VBN	(VP*	draft	01	1	-	-	-
+chtb_0309	0	19	and	CC	*	-	-	-	-	-	-
+chtb_0309	0	20	implemented	VBN	*	implement	01	1	-	-	-
+chtb_0309	0	21	in	IN	(PP*	-	-	-	-	-	-
+chtb_0309	0	22	1991	CD	(NP*)))))	-	-	-	-	-	-
+chtb_0309	0	23	,	,	*))	-	-	-	-	9)	9)
+chtb_0309	0	24	stipulates	VBZ	(VP*	stipulate	01	1	-	-	-
+chtb_0309	0	25	to	TO	(S(VP(VP*	-	-	-	-	-	-
+chtb_0309	0	26	organize	VB	(VP*	organize	01	1	-	-	-
+chtb_0309	0	27	and	CC	*	-	-	-	-	-	-
+chtb_0309	0	28	support	VB	*	support	01	2	-	-	-
+chtb_0309	0	29	disabled	JJ	(S(NP*	-	-	-	-	-	-
+chtb_0309	0	30	people	NNS	*)	people	-	1	-	-	-
+chtb_0309	0	31	to	TO	(VP*	-	-	-	-	-	-
+chtb_0309	0	32	develop	VB	(VP*	develop	02	1	-	-	-
+chtb_0309	0	33	mass	JJ	(NP*	-	-	-	-	-	-
+chtb_0309	0	34	sports	NNS	*	sport	-	1	-	-	-
+chtb_0309	0	35	activities	NNS	*))))))	activity	-	1	-	-	-
+chtb_0309	0	36	,	,	*	-	-	-	-	-	-
+chtb_0309	0	37	to	TO	(VP*	-	-	-	-	-	-
+chtb_0309	0	38	hold	VB	(VP*	hold	04	8	-	-	-
+chtb_0309	0	39	special	JJ	(NP*	-	-	-	-	-	-
+chtb_0309	0	40	games	NNS	*)))	game	-	1	-	-	-
+chtb_0309	0	41	and	CC	*	-	-	-	-	-	-
+chtb_0309	0	42	to	TO	(VP*	-	-	-	-	-	-
+chtb_0309	0	43	participate	VB	(VP*	participate	01	1	-	-	-
+chtb_0309	0	44	in	IN	(PP*	-	-	-	-	-	-
+chtb_0309	0	45	important	JJ	(NP*	-	-	-	-	-	-
+chtb_0309	0	46	international	JJ	*	-	-	-	-	-	-
+chtb_0309	0	47	competitions	NNS	*	competition	-	2	-	-	-
+chtb_0309	0	48	and	CC	*	-	-	-	-	-	-
+chtb_0309	0	49	communication	NN	*)))))))	communication	01	1	-	-	-
+chtb_0309	0	50	.	.	*))	-	-	-	-	-	-
+
+chtb_0309	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	-
+chtb_0309	0	1	guarantee	NN	*)	guarantee	01	4	-	-
+chtb_0309	0	2	of	IN	(PP*	-	-	-	-	-
+chtb_0309	0	3	the	DT	(NP*	-	-	-	-	(9
+chtb_0309	0	4	law	NN	*)))	law	-	2	-	9)
+chtb_0309	0	5	has	VBZ	(VP(VP*)	have	01	12	-	-
+chtb_0309	0	6	and	CC	*	-	-	-	-	-
+chtb_0309	0	7	will	MD	(VP*	-	-	-	-	-
+chtb_0309	0	8	continue	VB	(VP*	continue	01	1	-	-
+chtb_0309	0	9	to	TO	(S(VP*))))	-	-	-	-	-
+chtb_0309	0	10	boost	VB	(VP*	boost	01	1	-	-
+chtb_0309	0	11	the	DT	(NP(NP*	-	-	-	-	(3
+chtb_0309	0	12	vigorous	JJ	*	-	-	-	-	-
+chtb_0309	0	13	development	NN	*)	-	-	-	-	-
+chtb_0309	0	14	of	IN	(PP*	-	-	-	-	-
+chtb_0309	0	15	the	DT	(NP*	-	-	-	-	-
+chtb_0309	0	16	sports	NNS	*	sport	-	1	-	-
+chtb_0309	0	17	cause	NN	*))	-	-	-	-	-
+chtb_0309	0	18	for	IN	(PP*	-	-	-	-	-
+chtb_0309	0	19	China	NNP	(NP(NP*	-	-	-	-	(11|(13
+chtb_0309	0	20	's	POS	*)	-	-	-	-	13)
+chtb_0309	0	21	disabled	JJ	*)))))	-	-	-	-	11)|3)
+chtb_0309	0	22	.	.	*))	-	-	-	-	-
+
+chtb_0309	0	0	Holding	VBG	(TOP(S(S(VP*	hold	04	-	-	(1)
+chtb_0309	0	1	the	DT	(NP*	-	-	-	-	-
+chtb_0309	0	2	6th	JJ	*	-	-	-	-	-
+chtb_0309	0	3	Asia	NNP	(NML*	-	-	-	-	-
+chtb_0309	0	4	-	HYPH	*	-	-	-	-	-
+chtb_0309	0	5	Pacific	NNP	*)	-	-	-	-	-
+chtb_0309	0	6	Special	NNP	*	-	-	-	-	-
+chtb_0309	0	7	Olympic	NNP	*	-	-	-	-	-
+chtb_0309	0	8	Games	NNPS	*)	-	-	-	-	-
+chtb_0309	0	9	in	IN	(PP*	-	-	-	-	-
+chtb_0309	0	10	Beijing	NNP	(NP*))))	-	-	-	-	-
+chtb_0309	0	11	will	MD	(VP*	-	-	-	-	-
+chtb_0309	0	12	motivate	VB	(VP*	motivate	01	1	-	-
+chtb_0309	0	13	all	DT	(NP(NP*)	-	-	-	-	-
+chtb_0309	0	14	of	IN	(PP*	-	-	-	-	-
+chtb_0309	0	15	society	NN	(NP*)))	society	-	1	-	-
+chtb_0309	0	16	to	TO	(S(VP*	-	-	-	-	-
+chtb_0309	0	17	better	RBR	(ADVP*)	-	-	-	-	-
+chtb_0309	0	18	understand	VB	(VP*	understand	01	1	-	-
+chtb_0309	0	19	and	CC	*	-	-	-	-	-
+chtb_0309	0	20	support	VB	*	support	01	2	-	-
+chtb_0309	0	21	disabled	JJ	(NP*	-	-	-	-	-
+chtb_0309	0	22	sports	NNS	*))))))	sport	-	1	-	-
+chtb_0309	0	23	.	.	*))	-	-	-	-	-
+
+chtb_0309	0	0	It	PRP	(TOP(S(NP*)	-	-	-	-	(1)
+chtb_0309	0	1	will	MD	(VP*	-	-	-	-	-
+chtb_0309	0	2	make	VB	(VP(VP*	make	02	3	-	-
+chtb_0309	0	3	the	DT	(S(NP*	-	-	-	-	-
+chtb_0309	0	4	public	NN	*)	public	-	1	-	-
+chtb_0309	0	5	more	RBR	(ADJP*	-	-	-	-	-
+chtb_0309	0	6	conscious	JJ	*	-	-	-	-	-
+chtb_0309	0	7	of	IN	(PP*	-	-	-	-	-
+chtb_0309	0	8	helping	VBG	(S(VP*	help	01	-	-	-
+chtb_0309	0	9	disabled	JJ	(NP*	-	-	-	-	-
+chtb_0309	0	10	people	NNS	*)))))))	people	-	1	-	-
+chtb_0309	0	11	and	CC	*	-	-	-	-	-
+chtb_0309	0	12	encourage	VB	(VP*	encourage	01	2	-	-
+chtb_0309	0	13	more	JJR	(NP*	-	-	-	-	-
+chtb_0309	0	14	disabled	JJ	*	-	-	-	-	-
+chtb_0309	0	15	people	NNS	*)	people	-	1	-	-
+chtb_0309	0	16	to	TO	(S(VP*	-	-	-	-	-
+chtb_0309	0	17	take	VB	(VP*	take	01	14.1	-	-
+chtb_0309	0	18	part	NN	(NP*)	part	-	3	-	-
+chtb_0309	0	19	in	IN	(PP*	-	-	-	-	-
+chtb_0309	0	20	physical	JJ	(NP*	-	-	-	-	-
+chtb_0309	0	21	activities	NNS	*))))))))	activity	-	1	-	-
+chtb_0309	0	22	.	.	*))	-	-	-	-	-
+
+chtb_0309	0	0	It	PRP	(TOP(S(NP*)	-	-	-	-	(1)
+chtb_0309	0	1	will	MD	(VP*	-	-	-	-	-
+chtb_0309	0	2	,	,	*	-	-	-	-	-
+chtb_0309	0	3	therefore	RB	(ADVP*)	-	-	-	-	-
+chtb_0309	0	4	,	,	*	-	-	-	-	-
+chtb_0309	0	5	greatly	RB	(ADVP*)	-	-	-	-	-
+chtb_0309	0	6	assist	VB	(VP*	assist	01	2	-	-
+chtb_0309	0	7	in	IN	(PP*	-	-	-	-	-
+chtb_0309	0	8	the	DT	(NP(NP*	-	-	-	-	(3
+chtb_0309	0	9	development	NN	*)	-	-	-	-	-
+chtb_0309	0	10	of	IN	(PP*	-	-	-	-	-
+chtb_0309	0	11	the	DT	(NP*	-	-	-	-	-
+chtb_0309	0	12	sports	NNS	*	sport	-	1	-	-
+chtb_0309	0	13	cause	NN	*))	cause	-	3	-	-
+chtb_0309	0	14	for	IN	(PP*	-	-	-	-	-
+chtb_0309	0	15	China	NNP	(NP(NP*	-	-	-	-	(11|(13
+chtb_0309	0	16	's	POS	*)	-	-	-	-	13)
+chtb_0309	0	17	disabled	JJ	*))))))	-	-	-	-	11)|3)
+chtb_0309	0	18	.	.	*))	-	-	-	-	-
+
+chtb_0309	0	0	Truly	RB	(TOP(S(S(ADVP*)	-	-	-	-	-
+chtb_0309	0	1	,	,	*	-	-	-	-	-
+chtb_0309	0	2	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0309	0	3	foundation	NN	*)	foundation	-	1	-	-
+chtb_0309	0	4	of	IN	(PP*	-	-	-	-	-
+chtb_0309	0	5	disabled	JJ	(NP*	-	-	-	-	-
+chtb_0309	0	6	sports	NNS	*))	sport	-	1	-	-
+chtb_0309	0	7	in	IN	(PP*	-	-	-	-	-
+chtb_0309	0	8	China	NNP	(NP*)))	-	-	-	-	(13)
+chtb_0309	0	9	is	VBZ	(VP*	be	-	1	-	-
+chtb_0309	0	10	not	RB	*	-	-	-	-	-
+chtb_0309	0	11	very	RB	(ADJP*	-	-	-	-	-
+chtb_0309	0	12	strong	JJ	*)))	-	-	-	-	-
+chtb_0309	0	13	,	,	*	-	-	-	-	-
+chtb_0309	0	14	popularization	NN	(S(NP*)	-	-	-	-	-
+chtb_0309	0	15	is	VBZ	(VP(VP*	be	-	1	-	-
+chtb_0309	0	16	not	RB	*	-	-	-	-	-
+chtb_0309	0	17	yet	RB	(ADVP*)	-	-	-	-	-
+chtb_0309	0	18	widespread	JJ	(ADJP*))	-	-	-	-	-
+chtb_0309	0	19	,	,	*	-	-	-	-	-
+chtb_0309	0	20	and	CC	*	-	-	-	-	-
+chtb_0309	0	21	compared	VBN	(VP(PP*	-	-	-	-	-
+chtb_0309	0	22	with	IN	(PP*	-	-	-	-	-
+chtb_0309	0	23	some	DT	(NP*	-	-	-	-	-
+chtb_0309	0	24	developed	JJ	*	-	-	-	-	-
+chtb_0309	0	25	countries	NNS	*)))	country	-	3	-	-
+chtb_0309	0	26	,	,	*	-	-	-	-	-
+chtb_0309	0	27	still	RB	(ADVP*)	-	-	-	-	-
+chtb_0309	0	28	has	VBZ	*	have	03	4	-	-
+chtb_0309	0	29	a	DT	(NP*	-	-	-	-	-
+chtb_0309	0	30	large	JJ	*	-	-	-	-	-
+chtb_0309	0	31	gap	NN	*))))	gap	-	1	-	-
+chtb_0309	0	32	.	.	*))	-	-	-	-	-
+
+chtb_0309	0	0	However	RB	(TOP(S(ADVP*)	-	-	-	-	-
+chtb_0309	0	1	,	,	*	-	-	-	-	-
+chtb_0309	0	2	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0309	0	3	"	``	*	-	-	-	-	-
+chtb_0309	0	4	impact	NN	*	impact	01	2	-	-
+chtb_0309	0	5	"	''	*)	-	-	-	-	-
+chtb_0309	0	6	of	IN	(PP*	-	-	-	-	-
+chtb_0309	0	7	the	DT	(NP*	-	-	-	-	(6
+chtb_0309	0	8	Far	NNP	(NML*	-	-	-	-	-
+chtb_0309	0	9	South	NNP	*)	-	-	-	-	-
+chtb_0309	0	10	Games	NNPS	*)))	-	-	-	-	6)
+chtb_0309	0	11	foreshadows	VBZ	(VP*	foreshadow	01	-	-	-
+chtb_0309	0	12	a	DT	(NP*	-	-	-	-	-
+chtb_0309	0	13	bright	JJ	*	-	-	-	-	-
+chtb_0309	0	14	future	NN	*)	future	-	1	-	-
+chtb_0309	0	15	for	IN	(PP*	-	-	-	-	-
+chtb_0309	0	16	this	DT	(NP*	-	-	-	-	-
+chtb_0309	0	17	civilized	JJ	(ADJP*	-	-	-	-	-
+chtb_0309	0	18	and	CC	*	-	-	-	-	-
+chtb_0309	0	19	progressive	JJ	*)	-	-	-	-	-
+chtb_0309	0	20	cause	NN	*)))	cause	-	3	-	-
+chtb_0309	0	21	.	.	*))	-	-	-	-	-
+
+chtb_0309	0	0	-LRB-	-LRB-	(TOP(NP*	-	-	-	-	-
+chtb_0309	0	1	End	NN	*	end	-	4	-	-
+chtb_0309	0	2	-RRB-	-RRB-	*))	-	-	-	-	-
+
+#end document

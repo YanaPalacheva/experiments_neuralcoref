@@ -1,0 +1,618 @@
+#begin document (ectb_1049_4); part 000
+ectb_1049	4	0	The	(47
+ectb_1049	4	1	weeping	-
+ectb_1049	4	2	river	47)
+
+ectb_1049	4	0	Have	-
+ectb_1049	4	1	you	-
+ectb_1049	4	2	heard	-
+ectb_1049	4	3	of	-
+ectb_1049	4	4	the	(12
+ectb_1049	4	5	weeping	-
+ectb_1049	4	6	junks	12)
+ectb_1049	4	7	?	-
+
+ectb_1049	4	0	During	-
+ectb_1049	4	1	the	-
+ectb_1049	4	2	Sino	-
+ectb_1049	4	3	-	-
+ectb_1049	4	4	French	-
+ectb_1049	4	5	war	-
+ectb_1049	4	6	,	-
+ectb_1049	4	7	Taiwan	-
+ectb_1049	4	8	governor	-
+ectb_1049	4	9	Liu	-
+ectb_1049	4	10	Mingchuan	-
+ectb_1049	4	11	,	-
+ectb_1049	4	12	attempting	-
+ectb_1049	4	13	to	-
+ectb_1049	4	14	obstruct	-
+ectb_1049	4	15	a	-
+ectb_1049	4	16	French	-
+ectb_1049	4	17	landing	-
+ectb_1049	4	18	,	-
+ectb_1049	4	19	scuttled	-
+ectb_1049	4	20	several	(12
+ectb_1049	4	21	of	-
+ectb_1049	4	22	these	-
+ectb_1049	4	23	boats	12)
+ectb_1049	4	24	.	-
+
+ectb_1049	4	0	It	-
+ectb_1049	4	1	is	-
+ectb_1049	4	2	said	-
+ectb_1049	4	3	that	-
+ectb_1049	4	4	,	-
+ectb_1049	4	5	late	-
+ectb_1049	4	6	at	-
+ectb_1049	4	7	night	-
+ectb_1049	4	8	,	-
+ectb_1049	4	9	the	(12
+ectb_1049	4	10	sunken	-
+ectb_1049	4	11	junks	12)
+ectb_1049	4	12	make	-
+ectb_1049	4	13	moaning	-
+ectb_1049	4	14	sounds	-
+ectb_1049	4	15	.	-
+
+ectb_1049	4	0	But	-
+ectb_1049	4	1	I	(35)
+ectb_1049	4	2	think	-
+ectb_1049	4	3	that	-
+ectb_1049	4	4	it	-
+ectb_1049	4	5	may	-
+ectb_1049	4	6	be	-
+ectb_1049	4	7	the	(47
+ectb_1049	4	8	river	-
+ectb_1049	4	9	itself	(47)|47)
+ectb_1049	4	10	that	-
+ectb_1049	4	11	is	-
+ectb_1049	4	12	moaning	-
+ectb_1049	4	13	.	-
+
+ectb_1049	4	0	In	-
+ectb_1049	4	1	1998	-
+ectb_1049	4	2	,	-
+ectb_1049	4	3	the	(50
+ectb_1049	4	4	government	50)
+ectb_1049	4	5	produced	-
+ectb_1049	4	6	a	(22
+ectb_1049	4	7	plan	-
+ectb_1049	4	8	for	-
+ectb_1049	4	9	a	(2
+ectb_1049	4	10	riverside	-
+ectb_1049	4	11	expressway	-
+ectb_1049	4	12	to	-
+ectb_1049	4	13	Tanshui	(3)|22)|2)
+ectb_1049	4	14	.	-
+
+ectb_1049	4	0	The	(2
+ectb_1049	4	1	road	-
+ectb_1049	4	2	,	-
+ectb_1049	4	3	which	-
+ectb_1049	4	4	was	-
+ectb_1049	4	5	expected	-
+ectb_1049	4	6	to	-
+ectb_1049	4	7	have	-
+ectb_1049	4	8	three	-
+ectb_1049	4	9	levels	2)
+ectb_1049	4	10	,	-
+ectb_1049	4	11	would	-
+ectb_1049	4	12	have	-
+ectb_1049	4	13	cut	-
+ectb_1049	4	14	through	-
+ectb_1049	4	15	rare	-
+ectb_1049	4	16	mangroves	-
+ectb_1049	4	17	and	-
+ectb_1049	4	18	created	-
+ectb_1049	4	19	a	-
+ectb_1049	4	20	barrier	-
+ectb_1049	4	21	between	-
+ectb_1049	4	22	the	(47
+ectb_1049	4	23	river	47)
+ectb_1049	4	24	and	-
+ectb_1049	4	25	the	(3
+ectb_1049	4	26	town	-
+ectb_1049	4	27	of	-
+ectb_1049	4	28	Tanshui	3)
+ectb_1049	4	29	.	-
+
+ectb_1049	4	0	If	*	*
+ectb_1049	4	1	the	*	*
+ectb_1049	4	2	plan	*	*
+ectb_1049	4	3	had	*	*
+ectb_1049	4	4	been	*	*
+ectb_1049	4	5	implemented	*	*
+ectb_1049	4	6	,	*	*
+ectb_1049	4	7	people	(ARG0*	(ARG0*
+ectb_1049	4	8	who	*	*
+ectb_1049	4	9	wanted	*	*
+ectb_1049	4	10	to	*	*
+ectb_1049	4	11	go	*	*
+ectb_1049	4	12	to	*	*
+ectb_1049	4	13	Tanshui	*	*
+ectb_1049	4	14	and	*	*
+ectb_1049	4	15	gaze	*	*
+ectb_1049	4	16	out	*	*
+ectb_1049	4	17	over	*	*
+ectb_1049	4	18	the	*	*
+ectb_1049	4	19	river	*)	*)
+ectb_1049	4	20	would	*	*
+ectb_1049	4	21	have	*	*
+ectb_1049	4	22	had	*	*
+ectb_1049	4	23	to	*	*
+ectb_1049	4	24	find	*	*
+ectb_1049	4	25	some	*	*
+ectb_1049	4	26	very	*	*
+ectb_1049	4	27	high	*	*
+ectb_1049	4	28	vantage	*	*
+ectb_1049	4	29	point	*	*
+ectb_1049	4	30	in	*	*
+ectb_1049	4	31	town	*	*
+ectb_1049	4	32	to	*	*
+ectb_1049	4	33	do	(V*)	(V*)
+ectb_1049	4	34	so	(ARG1*)	(ARG1*)
+ectb_1049	4	35	!	*	*
+
+ectb_1049	4	0	Fortunately	-	-
+ectb_1049	4	1	,	-	-
+ectb_1049	4	2	thanks	-	-
+ectb_1049	4	3	to	-	-
+ectb_1049	4	4	efforts	-	-
+ectb_1049	4	5	by	-	-
+ectb_1049	4	6	cultural	-	-
+ectb_1049	4	7	and	-	-
+ectb_1049	4	8	environmental	-	-
+ectb_1049	4	9	activists	-	-
+ectb_1049	4	10	from	-	-
+ectb_1049	4	11	Tanshui	(3)	(3)
+ectb_1049	4	12	,	-	-
+ectb_1049	4	13	the	(22	(22
+ectb_1049	4	14	plan	22)	22)
+ectb_1049	4	15	was	-	-
+ectb_1049	4	16	first	-	-
+ectb_1049	4	17	postponed	-	-
+ectb_1049	4	18	,	-	-
+ectb_1049	4	19	and	-	-
+ectb_1049	4	20	then	-	-
+ectb_1049	4	21	was	-	-
+ectb_1049	4	22	ultimately	-	-
+ectb_1049	4	23	killed	-	-
+ectb_1049	4	24	after	-	-
+ectb_1049	4	25	an	-	-
+ectb_1049	4	26	environmental	-	-
+ectb_1049	4	27	impact	-	-
+ectb_1049	4	28	assessment	-	-
+ectb_1049	4	29	released	-	-
+ectb_1049	4	30	in	-	-
+ectb_1049	4	31	September	-	-
+ectb_1049	4	32	refused	-	-
+ectb_1049	4	33	to	-	-
+ectb_1049	4	34	approve	-	-
+ectb_1049	4	35	the	(22	(22
+ectb_1049	4	36	scheme	22)	22)
+ectb_1049	4	37	.	-	-
+
+ectb_1049	4	0	But	-
+ectb_1049	4	1	a	-
+ectb_1049	4	2	question	-
+ectb_1049	4	3	remains	-
+ectb_1049	4	4	:	-
+ectb_1049	4	5	Is	-
+ectb_1049	4	6	something	-
+ectb_1049	4	7	like	-
+ectb_1049	4	8	this	-
+ectb_1049	4	9	bound	-
+ectb_1049	4	10	to	-
+ectb_1049	4	11	come	-
+ectb_1049	4	12	sooner	-
+ectb_1049	4	13	or	-
+ectb_1049	4	14	later	-
+ectb_1049	4	15	?	-
+
+ectb_1049	4	0	"	-
+ectb_1049	4	1	For	-
+ectb_1049	4	2	the	-
+ectb_1049	4	3	purposes	-
+ectb_1049	4	4	of	-
+ectb_1049	4	5	development	-
+ectb_1049	4	6	,	-
+ectb_1049	4	7	the	-
+ectb_1049	4	8	Tanshui	(3)
+ectb_1049	4	9	coast	-
+ectb_1049	4	10	has	-
+ectb_1049	4	11	been	-
+ectb_1049	4	12	constantly	-
+ectb_1049	4	13	exploited	-
+ectb_1049	4	14	.	-
+
+ectb_1049	4	0	But	-
+ectb_1049	4	1	what	-
+ectb_1049	4	2	will	-
+ectb_1049	4	3	be	-
+ectb_1049	4	4	result	-
+ectb_1049	4	5	of	-
+ectb_1049	4	6	this	-
+ectb_1049	4	7	incessant	-
+ectb_1049	4	8	struggle	-
+ectb_1049	4	9	against	-
+ectb_1049	4	10	nature	-
+ectb_1049	4	11	?	-
+ectb_1049	4	12	"	-
+ectb_1049	4	13	says	-
+ectb_1049	4	14	an	(18
+ectb_1049	4	15	agitated	-
+ectb_1049	4	16	Tu	-
+ectb_1049	4	17	Hsiu	-
+ectb_1049	4	18	-	-
+ectb_1049	4	19	yuan	18)
+ectb_1049	4	20	.	-
+
+ectb_1049	4	0	And	-
+ectb_1049	4	1	Hsieh	-
+ectb_1049	4	2	Teh	-
+ectb_1049	4	3	-	-
+ectb_1049	4	4	hsi	-
+ectb_1049	4	5	of	-
+ectb_1049	4	6	the	-
+ectb_1049	4	7	Tamsui	-
+ectb_1049	4	8	Culture	-
+ectb_1049	4	9	Foundation	-
+ectb_1049	4	10	adds	-
+ectb_1049	4	11	:	-
+ectb_1049	4	12	"	-
+ectb_1049	4	13	High	(5
+ectb_1049	4	14	-	-
+ectb_1049	4	15	rises	5)
+ectb_1049	4	16	are	-
+ectb_1049	4	17	going	-
+ectb_1049	4	18	up	-
+ectb_1049	4	19	one	-
+ectb_1049	4	20	after	-
+ectb_1049	4	21	another	-
+ectb_1049	4	22	in	-
+ectb_1049	4	23	Tanshui	(13
+ectb_1049	4	24	New	-
+ectb_1049	4	25	Town	-
+ectb_1049	4	26	[	-
+ectb_1049	4	27	a	-
+ectb_1049	4	28	huge	-
+ectb_1049	4	29	government	-
+ectb_1049	4	30	-	-
+ectb_1049	4	31	planned	-
+ectb_1049	4	32	development	-
+ectb_1049	4	33	]	13)
+ectb_1049	4	34	,	-
+ectb_1049	4	35	but	-
+ectb_1049	4	36	many	-
+ectb_1049	4	37	of	-
+ectb_1049	4	38	the	(5
+ectb_1049	4	39	apartments	5)
+ectb_1049	4	40	remain	-
+ectb_1049	4	41	empty	-
+ectb_1049	4	42	.	-
+
+ectb_1049	4	0	Everybody	-
+ectb_1049	4	1	here	-
+ectb_1049	4	2	knows	-
+ectb_1049	4	3	that	-
+ectb_1049	4	4	when	-
+ectb_1049	4	5	the	-
+ectb_1049	4	6	northeast	-
+ectb_1049	4	7	winds	-
+ectb_1049	4	8	blow	-
+ectb_1049	4	9	in	-
+ectb_1049	4	10	during	-
+ectb_1049	4	11	the	-
+ectb_1049	4	12	winter	-
+ectb_1049	4	13	,	-
+ectb_1049	4	14	that	(13)
+ectb_1049	4	15	is	-
+ectb_1049	4	16	the	-
+ectb_1049	4	17	coldest	-
+ectb_1049	4	18	place	-
+ectb_1049	4	19	around	-
+ectb_1049	4	20	.	-
+
+ectb_1049	4	0	No	-
+ectb_1049	4	1	wonder	-
+ectb_1049	4	2	those	(5
+ectb_1049	4	3	apartments	5)
+ectb_1049	4	4	are	-
+ectb_1049	4	5	not	-
+ectb_1049	4	6	selling	-
+ectb_1049	4	7	!	-
+ectb_1049	4	8	"	-
+
+ectb_1049	4	0	Tu	(18)
+ectb_1049	4	1	says	-
+ectb_1049	4	2	,	-
+ectb_1049	4	3	with	-
+ectb_1049	4	4	disbelief	-
+ectb_1049	4	5	and	-
+ectb_1049	4	6	exasperation	-
+ectb_1049	4	7	in	-
+ectb_1049	4	8	his	(18)
+ectb_1049	4	9	voice	-
+ectb_1049	4	10	:	-
+ectb_1049	4	11	"	-
+ectb_1049	4	12	Do	-
+ectb_1049	4	13	you	-
+ectb_1049	4	14	know	-
+ectb_1049	4	15	that	-
+ectb_1049	4	16	they	(50)
+ectb_1049	4	17	are	-
+ectb_1049	4	18	going	-
+ectb_1049	4	19	to	-
+ectb_1049	4	20	build	-
+ectb_1049	4	21	a	-
+ectb_1049	4	22	huge	-
+ectb_1049	4	23	bridge	-
+ectb_1049	4	24	between	-
+ectb_1049	4	25	Tanshui	(3)
+ectb_1049	4	26	and	-
+ectb_1049	4	27	Pali	-
+ectb_1049	4	28	?	-
+
+ectb_1049	4	0	It	-
+ectb_1049	4	1	's	-
+ectb_1049	4	2	such	-
+ectb_1049	4	3	a	-
+ectb_1049	4	4	beautiful	-
+ectb_1049	4	5	and	-
+ectb_1049	4	6	historic	-
+ectb_1049	4	7	location	-
+ectb_1049	4	8	,	-
+ectb_1049	4	9	but	-
+ectb_1049	4	10	they	(50)
+ectb_1049	4	11	are	-
+ectb_1049	4	12	just	-
+ectb_1049	4	13	going	-
+ectb_1049	4	14	to	-
+ectb_1049	4	15	stick	-
+ectb_1049	4	16	up	-
+ectb_1049	4	17	a	-
+ectb_1049	4	18	bridge	-
+ectb_1049	4	19	there	-
+ectb_1049	4	20	,	-
+ectb_1049	4	21	and	-
+ectb_1049	4	22	they	(50)
+ectb_1049	4	23	are	-
+ectb_1049	4	24	even	-
+ectb_1049	4	25	talking	-
+ectb_1049	4	26	about	-
+ectb_1049	4	27	having	-
+ectb_1049	4	28	a	-
+ectb_1049	4	29	rotating	-
+ectb_1049	4	30	restaurant	-
+ectb_1049	4	31	on	-
+ectb_1049	4	32	top	-
+ectb_1049	4	33	!	-
+ectb_1049	4	34	"	-
+
+ectb_1049	4	0	Lovers	(26
+ectb_1049	4	1	of	-
+ectb_1049	4	2	Tanshui	(3)|26)
+ectb_1049	4	3	,	-
+ectb_1049	4	4	while	-
+ectb_1049	4	5	keeping	-
+ectb_1049	4	6	close	-
+ectb_1049	4	7	watch	-
+ectb_1049	4	8	over	-
+ectb_1049	4	9	her	(3)
+ectb_1049	4	10	,	-
+ectb_1049	4	11	are	-
+ectb_1049	4	12	fearful	-
+ectb_1049	4	13	that	-
+ectb_1049	4	14	the	-
+ectb_1049	4	15	giant	-
+ectb_1049	4	16	beast	-
+ectb_1049	4	17	of	-
+ectb_1049	4	18	development	-
+ectb_1049	4	19	may	-
+ectb_1049	4	20	eventually	-
+ectb_1049	4	21	come	-
+ectb_1049	4	22	and	-
+ectb_1049	4	23	bulldoze	-
+ectb_1049	4	24	Tanshui	(3)
+ectb_1049	4	25	away	-
+ectb_1049	4	26	one	-
+ectb_1049	4	27	piece	-
+ectb_1049	4	28	of	-
+ectb_1049	4	29	land	-
+ectb_1049	4	30	at	-
+ectb_1049	4	31	a	-
+ectb_1049	4	32	time	-
+ectb_1049	4	33	.	-
+
+ectb_1049	4	0	They	(26)
+ectb_1049	4	1	fear	-
+ectb_1049	4	2	that	-
+ectb_1049	4	3	their	(26)
+ectb_1049	4	4	children	-
+ectb_1049	4	5	,	-
+ectb_1049	4	6	like	-
+ectb_1049	4	7	they	(26
+ectb_1049	4	8	themselves	(26)|26)
+ectb_1049	4	9	,	-
+ectb_1049	4	10	will	-
+ectb_1049	4	11	have	-
+ectb_1049	4	12	to	-
+ectb_1049	4	13	search	-
+ectb_1049	4	14	through	-
+ectb_1049	4	15	photographs	-
+ectb_1049	4	16	and	-
+ectb_1049	4	17	memories	-
+ectb_1049	4	18	to	-
+ectb_1049	4	19	find	-
+ectb_1049	4	20	Tanshui	(3
+ectb_1049	4	21	's	3)
+ectb_1049	4	22	traditional	-
+ectb_1049	4	23	simplicity	-
+ectb_1049	4	24	and	-
+ectb_1049	4	25	the	-
+ectb_1049	4	26	joys	-
+ectb_1049	4	27	of	-
+ectb_1049	4	28	being	-
+ectb_1049	4	29	close	-
+ectb_1049	4	30	to	-
+ectb_1049	4	31	nature	-
+ectb_1049	4	32	.	-
+
+ectb_1049	4	0	When	-
+ectb_1049	4	1	the	-
+ectb_1049	4	2	old	-
+ectb_1049	4	3	buildings	-
+ectb_1049	4	4	are	-
+ectb_1049	4	5	gone	-
+ectb_1049	4	6	,	-
+ectb_1049	4	7	and	-
+ectb_1049	4	8	people	-
+ectb_1049	4	9	lose	-
+ectb_1049	4	10	contact	-
+ectb_1049	4	11	with	-
+ectb_1049	4	12	the	-
+ectb_1049	4	13	great	-
+ectb_1049	4	14	outdoors	-
+ectb_1049	4	15	,	-
+ectb_1049	4	16	will	-
+ectb_1049	4	17	Tanshui	(3)
+ectb_1049	4	18	even	-
+ectb_1049	4	19	be	-
+ectb_1049	4	20	worthy	-
+ectb_1049	4	21	of	-
+ectb_1049	4	22	its	(3)
+ectb_1049	4	23	reputation	-
+ectb_1049	4	24	anymore	-
+ectb_1049	4	25	?	-
+
+ectb_1049	4	0	Scattered	-
+ectb_1049	4	1	wooden	-
+ectb_1049	4	2	fishing	-
+ectb_1049	4	3	boats	-
+ectb_1049	4	4	bob	-
+ectb_1049	4	5	in	-
+ectb_1049	4	6	the	(47
+ectb_1049	4	7	river	47)
+ectb_1049	4	8	.	-
+
+ectb_1049	4	0	I	(35)
+ectb_1049	4	1	have	-
+ectb_1049	4	2	n't	-
+ectb_1049	4	3	met	-
+ectb_1049	4	4	any	-
+ectb_1049	4	5	of	-
+ectb_1049	4	6	the	(9
+ectb_1049	4	7	fishermen	-
+ectb_1049	4	8	who	-
+ectb_1049	4	9	these	-
+ectb_1049	4	10	days	-
+ectb_1049	4	11	go	-
+ectb_1049	4	12	out	-
+ectb_1049	4	13	and	-
+ectb_1049	4	14	catch	-
+ectb_1049	4	15	only	-
+ectb_1049	4	16	small	-
+ectb_1049	4	17	fry	9)
+ectb_1049	4	18	.	-
+
+ectb_1049	4	0	They	(9)
+ectb_1049	4	1	might	-
+ectb_1049	4	2	relate	-
+ectb_1049	4	3	how	-
+ectb_1049	4	4	in	-
+ectb_1049	4	5	the	-
+ectb_1049	4	6	old	-
+ectb_1049	4	7	days	-
+ectb_1049	4	8	they	(9)
+ectb_1049	4	9	could	-
+ectb_1049	4	10	just	-
+ectb_1049	4	11	put	-
+ectb_1049	4	12	a	-
+ectb_1049	4	13	hand	-
+ectb_1049	4	14	in	-
+ectb_1049	4	15	the	(47
+ectb_1049	4	16	river	47)
+ectb_1049	4	17	and	-
+ectb_1049	4	18	come	-
+ectb_1049	4	19	up	-
+ectb_1049	4	20	with	-
+ectb_1049	4	21	a	-
+ectb_1049	4	22	big	-
+ectb_1049	4	23	catch	-
+ectb_1049	4	24	.	-
+
+ectb_1049	4	0	The	-
+ectb_1049	4	1	lonely	-
+ectb_1049	4	2	fishing	-
+ectb_1049	4	3	boats	-
+ectb_1049	4	4	are	-
+ectb_1049	4	5	waiting	-
+ectb_1049	4	6	for	-
+ectb_1049	4	7	the	(16
+ectb_1049	4	8	Tanshui	-
+ectb_1049	4	9	-	-
+ectb_1049	4	10	Pali	-
+ectb_1049	4	11	ferry	16)
+ectb_1049	4	12	to	-
+ectb_1049	4	13	pass	-
+ectb_1049	4	14	by	-
+ectb_1049	4	15	and	-
+ectb_1049	4	16	say	-
+ectb_1049	4	17	hello	-
+ectb_1049	4	18	.	-
+
+ectb_1049	4	0	Those	-
+ectb_1049	4	1	lanterns	-
+ectb_1049	4	2	moving	-
+ectb_1049	4	3	through	-
+ectb_1049	4	4	the	(47
+ectb_1049	4	5	river	47)
+ectb_1049	4	6	are	-
+ectb_1049	4	7	actually	-
+ectb_1049	4	8	the	(16
+ectb_1049	4	9	ferry	16)
+ectb_1049	4	10	,	-
+ectb_1049	4	11	while	-
+ectb_1049	4	12	those	-
+ectb_1049	4	13	stars	-
+ectb_1049	4	14	flashing	-
+ectb_1049	4	15	in	-
+ectb_1049	4	16	the	-
+ectb_1049	4	17	distance	-
+ectb_1049	4	18	are	-
+ectb_1049	4	19	beams	-
+ectb_1049	4	20	of	-
+ectb_1049	4	21	light	-
+ectb_1049	4	22	that	-
+ectb_1049	4	23	come	-
+ectb_1049	4	24	from	-
+ectb_1049	4	25	the	-
+ectb_1049	4	26	lighthouse	-
+ectb_1049	4	27	every	-
+ectb_1049	4	28	five	-
+ectb_1049	4	29	seconds	-
+ectb_1049	4	30	.	-
+
+ectb_1049	4	0	It	-
+ectb_1049	4	1	is	-
+ectb_1049	4	2	only	-
+ectb_1049	4	3	now	-
+ectb_1049	4	4	that	-
+ectb_1049	4	5	I	(35)
+ectb_1049	4	6	realize	-
+ectb_1049	4	7	that	-
+ectb_1049	4	8	,	-
+ectb_1049	4	9	even	-
+ectb_1049	4	10	in	-
+ectb_1049	4	11	the	-
+ectb_1049	4	12	drabbest	-
+ectb_1049	4	13	weather	-
+ectb_1049	4	14	,	-
+ectb_1049	4	15	Tanshui	(3)
+ectb_1049	4	16	is	-
+ectb_1049	4	17	still	-
+ectb_1049	4	18	beautiful	-
+ectb_1049	4	19	.	-
+
+#end document

@@ -1,0 +1,527 @@
+#begin document (chtb_0119_0); part 000
+chtb_0119	0	0	Xinhua	-
+chtb_0119	0	1	News	-
+chtb_0119	0	2	Agency	-
+chtb_0119	0	3	,	-
+chtb_0119	0	4	Beijing	-
+chtb_0119	0	5	,	-
+chtb_0119	0	6	January	-
+chtb_0119	0	7	3rd	-
+
+chtb_0119	0	0	In	-
+chtb_0119	0	1	order	-
+chtb_0119	0	2	to	-
+chtb_0119	0	3	perfect	-
+chtb_0119	0	4	the	-
+chtb_0119	0	5	management	-
+chtb_0119	0	6	of	-
+chtb_0119	0	7	international	-
+chtb_0119	0	8	commercial	-
+chtb_0119	0	9	loans	-
+chtb_0119	0	10	,	-
+chtb_0119	0	11	the	(5
+chtb_0119	0	12	National	-
+chtb_0119	0	13	Foreign	-
+chtb_0119	0	14	Exchange	-
+chtb_0119	0	15	Bureau	5)
+chtb_0119	0	16	decided	-
+chtb_0119	0	17	to	-
+chtb_0119	0	18	implement	-
+chtb_0119	0	19	a	-
+chtb_0119	0	20	new	-
+chtb_0119	0	21	method	-
+chtb_0119	0	22	of	-
+chtb_0119	0	23	managing	-
+chtb_0119	0	24	international	-
+chtb_0119	0	25	commercial	-
+chtb_0119	0	26	loans	-
+chtb_0119	0	27	borrowed	-
+chtb_0119	0	28	by	-
+chtb_0119	0	29	domestic	-
+chtb_0119	0	30	institutions	-
+chtb_0119	0	31	from	-
+chtb_0119	0	32	January	-
+chtb_0119	0	33	1st	-
+chtb_0119	0	34	this	-
+chtb_0119	0	35	year	-
+chtb_0119	0	36	.	-
+
+chtb_0119	0	0	According	-
+chtb_0119	0	1	to	-
+chtb_0119	0	2	regulations	-
+chtb_0119	0	3	by	-
+chtb_0119	0	4	the	(5
+chtb_0119	0	5	National	-
+chtb_0119	0	6	Foreign	-
+chtb_0119	0	7	Exchange	-
+chtb_0119	0	8	Management	-
+chtb_0119	0	9	Bureau	5)
+chtb_0119	0	10	,	-
+chtb_0119	0	11	international	-
+chtb_0119	0	12	commercial	-
+chtb_0119	0	13	loans	-
+chtb_0119	0	14	indicate	-
+chtb_0119	0	15	loans	-
+chtb_0119	0	16	raised	-
+chtb_0119	0	17	and	-
+chtb_0119	0	18	borrowed	-
+chtb_0119	0	19	by	-
+chtb_0119	0	20	domestic	-
+chtb_0119	0	21	institutions	-
+chtb_0119	0	22	from	-
+chtb_0119	0	23	financial	-
+chtb_0119	0	24	institutions	-
+chtb_0119	0	25	,	-
+chtb_0119	0	26	enterprises	-
+chtb_0119	0	27	,	-
+chtb_0119	0	28	individual	-
+chtb_0119	0	29	or	-
+chtb_0119	0	30	other	-
+chtb_0119	0	31	economic	-
+chtb_0119	0	32	organizations	-
+chtb_0119	0	33	abroad	-
+chtb_0119	0	34	,	-
+chtb_0119	0	35	and	-
+chtb_0119	0	36	from	-
+chtb_0119	0	37	foreign	-
+chtb_0119	0	38	-	-
+chtb_0119	0	39	funded	-
+chtb_0119	0	40	financial	-
+chtb_0119	0	41	institutions	-
+chtb_0119	0	42	within	-
+chtb_0119	0	43	China	(1
+chtb_0119	0	44	's	1)
+chtb_0119	0	45	border	-
+chtb_0119	0	46	,	-
+chtb_0119	0	47	whose	-
+chtb_0119	0	48	contractual	-
+chtb_0119	0	49	repayment	-
+chtb_0119	0	50	obligations	-
+chtb_0119	0	51	are	-
+chtb_0119	0	52	in	-
+chtb_0119	0	53	foreign	-
+chtb_0119	0	54	currency	-
+chtb_0119	0	55	.	-
+
+chtb_0119	0	0	Export	(ARG1*	(ARG1*
+chtb_0119	0	1	credits	*	*
+chtb_0119	0	2	,	*	*
+chtb_0119	0	3	international	*	*
+chtb_0119	0	4	financing	*	*
+chtb_0119	0	5	leaseholds	*	*
+chtb_0119	0	6	,	*	*
+chtb_0119	0	7	compensation	*	*
+chtb_0119	0	8	trades	*	*
+chtb_0119	0	9	with	*	*
+chtb_0119	0	10	foreign	*	*
+chtb_0119	0	11	exchange	*	*
+chtb_0119	0	12	repayment	*	*
+chtb_0119	0	13	methods	*	*
+chtb_0119	0	14	,	*	*
+chtb_0119	0	15	overseas	*	*
+chtb_0119	0	16	institution	*	*
+chtb_0119	0	17	's	*	*
+chtb_0119	0	18	and	*	*
+chtb_0119	0	19	individual	*	*
+chtb_0119	0	20	's	*	*
+chtb_0119	0	21	foreign	*	*
+chtb_0119	0	22	exchange	*	*
+chtb_0119	0	23	deposits	*	*
+chtb_0119	0	24	-LRB-	*	*
+chtb_0119	0	25	excluding	*	*
+chtb_0119	0	26	foreign	*	*
+chtb_0119	0	27	exchange	*	*
+chtb_0119	0	28	deposits	*	*
+chtb_0119	0	29	in	*	*
+chtb_0119	0	30	banks	*	*
+chtb_0119	0	31	approved	*	*
+chtb_0119	0	32	for	*	*
+chtb_0119	0	33	offshore	*	*
+chtb_0119	0	34	operations	*	*
+chtb_0119	0	35	-RRB-	*	*
+chtb_0119	0	36	,	*	*
+chtb_0119	0	37	project	*	*
+chtb_0119	0	38	financing	*	*
+chtb_0119	0	39	,	*	*
+chtb_0119	0	40	financing	*	*
+chtb_0119	0	41	under	*	*
+chtb_0119	0	42	trade	*	*
+chtb_0119	0	43	projects	*	*
+chtb_0119	0	44	over	*	*
+chtb_0119	0	45	90	*	*
+chtb_0119	0	46	days	*	*
+chtb_0119	0	47	and	*	*
+chtb_0119	0	48	other	*	*
+chtb_0119	0	49	forms	*	*
+chtb_0119	0	50	of	*	*
+chtb_0119	0	51	foreign	*	*
+chtb_0119	0	52	exchange	*	*
+chtb_0119	0	53	loans	*)	*)
+chtb_0119	0	54	will	(ARGM-MOD*)	(ARGM-MOD*)
+chtb_0119	0	55	all	(ARGM-ADV*)	(ARGM-ADV*)
+chtb_0119	0	56	be	*	*
+chtb_0119	0	57	treated	(V*)	(V*)
+chtb_0119	0	58	and	*	*
+chtb_0119	0	59	managed	*	*
+chtb_0119	0	60	as	(ARG2*	(ARG2*
+chtb_0119	0	61	international	*	*
+chtb_0119	0	62	commercial	*	*
+chtb_0119	0	63	loans	*)	*)
+chtb_0119	0	64	.	*	*
+
+chtb_0119	0	0	According	-
+chtb_0119	0	1	to	-
+chtb_0119	0	2	regulations	-
+chtb_0119	0	3	,	-
+chtb_0119	0	4	the	(0
+chtb_0119	0	5	People	-
+chtb_0119	0	6	's	-
+chtb_0119	0	7	Bank	-
+chtb_0119	0	8	of	-
+chtb_0119	0	9	China	0)
+chtb_0119	0	10	is	-
+chtb_0119	0	11	the	-
+chtb_0119	0	12	approving	-
+chtb_0119	0	13	authority	-
+chtb_0119	0	14	for	-
+chtb_0119	0	15	international	-
+chtb_0119	0	16	commercial	-
+chtb_0119	0	17	loans	-
+chtb_0119	0	18	borrowed	-
+chtb_0119	0	19	by	-
+chtb_0119	0	20	domestic	-
+chtb_0119	0	21	institutions	-
+chtb_0119	0	22	,	-
+chtb_0119	0	23	the	(0
+chtb_0119	0	24	People	-
+chtb_0119	0	25	's	-
+chtb_0119	0	26	Bank	-
+chtb_0119	0	27	of	-
+chtb_0119	0	28	China	0)
+chtb_0119	0	29	has	-
+chtb_0119	0	30	authorized	-
+chtb_0119	0	31	the	(5
+chtb_0119	0	32	National	-
+chtb_0119	0	33	Foreign	-
+chtb_0119	0	34	Exchange	-
+chtb_0119	0	35	Management	-
+chtb_0119	0	36	Bureau	5)
+chtb_0119	0	37	to	-
+chtb_0119	0	38	be	-
+chtb_0119	0	39	specifically	-
+chtb_0119	0	40	responsible	-
+chtb_0119	0	41	for	-
+chtb_0119	0	42	the	-
+chtb_0119	0	43	approval	-
+chtb_0119	0	44	,	-
+chtb_0119	0	45	supervision	-
+chtb_0119	0	46	and	-
+chtb_0119	0	47	management	-
+chtb_0119	0	48	of	-
+chtb_0119	0	49	commercial	-
+chtb_0119	0	50	loans	-
+chtb_0119	0	51	by	-
+chtb_0119	0	52	domestic	-
+chtb_0119	0	53	institutions	-
+chtb_0119	0	54	.	-
+
+chtb_0119	0	0	All	-
+chtb_0119	0	1	international	-
+chtb_0119	0	2	commercial	-
+chtb_0119	0	3	loans	-
+chtb_0119	0	4	borrowed	-
+chtb_0119	0	5	by	-
+chtb_0119	0	6	domestic	-
+chtb_0119	0	7	institutions	-
+chtb_0119	0	8	should	-
+chtb_0119	0	9	be	-
+chtb_0119	0	10	approved	-
+chtb_0119	0	11	by	-
+chtb_0119	0	12	the	(5
+chtb_0119	0	13	National	-
+chtb_0119	0	14	Foreign	-
+chtb_0119	0	15	Exchange	-
+chtb_0119	0	16	Management	-
+chtb_0119	0	17	Bureau	5)
+chtb_0119	0	18	.	-
+
+chtb_0119	0	0	International	(3
+chtb_0119	0	1	business	-
+chtb_0119	0	2	loans	3)
+chtb_0119	0	3	that	-
+chtb_0119	0	4	have	-
+chtb_0119	0	5	not	-
+chtb_0119	0	6	been	-
+chtb_0119	0	7	approved	-
+chtb_0119	0	8	but	-
+chtb_0119	0	9	were	-
+chtb_0119	0	10	signed	-
+chtb_0119	0	11	on	-
+chtb_0119	0	12	their	(3)
+chtb_0119	0	13	own	-
+chtb_0119	0	14	authority	-
+chtb_0119	0	15	will	-
+chtb_0119	0	16	not	-
+chtb_0119	0	17	be	-
+chtb_0119	0	18	valid	-
+chtb_0119	0	19	,	-
+chtb_0119	0	20	the	(5
+chtb_0119	0	21	Foreign	-
+chtb_0119	0	22	Exchange	-
+chtb_0119	0	23	Management	-
+chtb_0119	0	24	Bureau	5)
+chtb_0119	0	25	will	-
+chtb_0119	0	26	not	-
+chtb_0119	0	27	process	-
+chtb_0119	0	28	the	-
+chtb_0119	0	29	registration	-
+chtb_0119	0	30	of	-
+chtb_0119	0	31	foreign	(4
+chtb_0119	0	32	debts	4)
+chtb_0119	0	33	,	-
+chtb_0119	0	34	banks	(2)
+chtb_0119	0	35	are	-
+chtb_0119	0	36	not	-
+chtb_0119	0	37	allowed	-
+chtb_0119	0	38	to	-
+chtb_0119	0	39	open	-
+chtb_0119	0	40	exclusive	-
+chtb_0119	0	41	foreign	-
+chtb_0119	0	42	debt	-
+chtb_0119	0	43	accounts	-
+chtb_0119	0	44	for	-
+chtb_0119	0	45	them	(4)
+chtb_0119	0	46	,	-
+chtb_0119	0	47	loan	-
+chtb_0119	0	48	principals	-
+chtb_0119	0	49	and	-
+chtb_0119	0	50	interests	-
+chtb_0119	0	51	are	-
+chtb_0119	0	52	not	-
+chtb_0119	0	53	to	-
+chtb_0119	0	54	be	-
+chtb_0119	0	55	remitted	-
+chtb_0119	0	56	out	-
+chtb_0119	0	57	on	-
+chtb_0119	0	58	their	(2)
+chtb_0119	0	59	own	-
+chtb_0119	0	60	authority	-
+chtb_0119	0	61	.	-
+
+chtb_0119	0	0	The	(5
+chtb_0119	0	1	National	-
+chtb_0119	0	2	Foreign	-
+chtb_0119	0	3	Exchange	-
+chtb_0119	0	4	Management	-
+chtb_0119	0	5	Bureau	5)
+chtb_0119	0	6	clearly	-
+chtb_0119	0	7	stipulated	-
+chtb_0119	0	8	in	-
+chtb_0119	0	9	the	-
+chtb_0119	0	10	new	-
+chtb_0119	0	11	method	-
+chtb_0119	0	12	that	-
+chtb_0119	0	13	,	-
+chtb_0119	0	14	domestic	-
+chtb_0119	0	15	institutions	-
+chtb_0119	0	16	borrowing	-
+chtb_0119	0	17	international	-
+chtb_0119	0	18	commercial	-
+chtb_0119	0	19	loans	-
+chtb_0119	0	20	externally	-
+chtb_0119	0	21	are	-
+chtb_0119	0	22	only	-
+chtb_0119	0	23	limited	-
+chtb_0119	0	24	to	-
+chtb_0119	0	25	:	-
+chtb_0119	0	26	China	(1)
+chtb_0119	0	27	-	-
+chtb_0119	0	28	capital	-
+chtb_0119	0	29	financial	-
+chtb_0119	0	30	institutions	-
+chtb_0119	0	31	approved	-
+chtb_0119	0	32	by	-
+chtb_0119	0	33	the	(5
+chtb_0119	0	34	Foreign	-
+chtb_0119	0	35	Exchange	-
+chtb_0119	0	36	Management	-
+chtb_0119	0	37	Bureau	5)
+chtb_0119	0	38	to	-
+chtb_0119	0	39	operate	-
+chtb_0119	0	40	foreign	-
+chtb_0119	0	41	exchange	-
+chtb_0119	0	42	loan	-
+chtb_0119	0	43	business	-
+chtb_0119	0	44	;	-
+chtb_0119	0	45	juridical	-
+chtb_0119	0	46	people	-
+chtb_0119	0	47	of	-
+chtb_0119	0	48	non-financial	-
+chtb_0119	0	49	corporations	-
+chtb_0119	0	50	approved	-
+chtb_0119	0	51	by	-
+chtb_0119	0	52	the	-
+chtb_0119	0	53	State	-
+chtb_0119	0	54	Department	-
+chtb_0119	0	55	's	-
+chtb_0119	0	56	Authorization	-
+chtb_0119	0	57	Department	-
+chtb_0119	0	58	.	-
+
+chtb_0119	0	0	Juridical	*	*
+chtb_0119	0	1	people	*	*
+chtb_0119	0	2	of	*	*
+chtb_0119	0	3	non-financial	*	*
+chtb_0119	0	4	institutions	*	*
+chtb_0119	0	5	who	*	*
+chtb_0119	0	6	borrow	*	*
+chtb_0119	0	7	international	*	*
+chtb_0119	0	8	commercial	*	*
+chtb_0119	0	9	loans	*	*
+chtb_0119	0	10	directly	*	*
+chtb_0119	0	11	must	*	*
+chtb_0119	0	12	possess	*	*
+chtb_0119	0	13	these	*	*
+chtb_0119	0	14	several	*	*
+chtb_0119	0	15	conditions	*	*
+chtb_0119	0	16	,	*	*
+chtb_0119	0	17	that	*	*
+chtb_0119	0	18	is	*	*
+chtb_0119	0	19	,	*	*
+chtb_0119	0	20	have	*	*
+chtb_0119	0	21	continual	*	*
+chtb_0119	0	22	profits	*	*
+chtb_0119	0	23	for	*	*
+chtb_0119	0	24	the	*	*
+chtb_0119	0	25	last	*	*
+chtb_0119	0	26	three	*	*
+chtb_0119	0	27	years	*	*
+chtb_0119	0	28	,	*	*
+chtb_0119	0	29	have	*	*
+chtb_0119	0	30	import	*	*
+chtb_0119	0	31	and	*	*
+chtb_0119	0	32	export	*	*
+chtb_0119	0	33	business	*	*
+chtb_0119	0	34	permission	*	*
+chtb_0119	0	35	,	*	*
+chtb_0119	0	36	belong	*	*
+chtb_0119	0	37	to	*	*
+chtb_0119	0	38	a	*	*
+chtb_0119	0	39	national	*	*
+chtb_0119	0	40	encouraged	*	*
+chtb_0119	0	41	industry	*	*
+chtb_0119	0	42	;	*	*
+chtb_0119	0	43	possess	*	*
+chtb_0119	0	44	a	*	*
+chtb_0119	0	45	complete	*	*
+chtb_0119	0	46	financial	(ARG1*)	(ARG1*)
+chtb_0119	0	47	management	(V*)	(V*)
+chtb_0119	0	48	system	*	*
+chtb_0119	0	49	;	*	*
+chtb_0119	0	50	must	*	*
+chtb_0119	0	51	have	*	*
+chtb_0119	0	52	a	*	*
+chtb_0119	0	53	ratio	*	*
+chtb_0119	0	54	of	*	*
+chtb_0119	0	55	net	*	*
+chtb_0119	0	56	assets	*	*
+chtb_0119	0	57	to	*	*
+chtb_0119	0	58	total	*	*
+chtb_0119	0	59	assets	*	*
+chtb_0119	0	60	not	*	*
+chtb_0119	0	61	lower	*	*
+chtb_0119	0	62	than	*	*
+chtb_0119	0	63	15	*	*
+chtb_0119	0	64	%	*	*
+chtb_0119	0	65	for	*	*
+chtb_0119	0	66	juridical	*	*
+chtb_0119	0	67	people	*	*
+chtb_0119	0	68	of	*	*
+chtb_0119	0	69	trade	*	*
+chtb_0119	0	70	-	*	*
+chtb_0119	0	71	type	*	*
+chtb_0119	0	72	non-financial	*	*
+chtb_0119	0	73	corporations	*	*
+chtb_0119	0	74	,	*	*
+chtb_0119	0	75	must	*	*
+chtb_0119	0	76	have	*	*
+chtb_0119	0	77	ratios	*	*
+chtb_0119	0	78	of	*	*
+chtb_0119	0	79	net	*	*
+chtb_0119	0	80	assets	*	*
+chtb_0119	0	81	to	*	*
+chtb_0119	0	82	total	*	*
+chtb_0119	0	83	assets	*	*
+chtb_0119	0	84	not	*	*
+chtb_0119	0	85	lower	*	*
+chtb_0119	0	86	than	*	*
+chtb_0119	0	87	30	*	*
+chtb_0119	0	88	%	*	*
+chtb_0119	0	89	for	*	*
+chtb_0119	0	90	juridical	*	*
+chtb_0119	0	91	people	*	*
+chtb_0119	0	92	of	*	*
+chtb_0119	0	93	non	*	*
+chtb_0119	0	94	trade	*	*
+chtb_0119	0	95	-	*	*
+chtb_0119	0	96	type	*	*
+chtb_0119	0	97	non-financial	*	*
+chtb_0119	0	98	corporations	*	*
+chtb_0119	0	99	;	*	*
+chtb_0119	0	100	must	*	*
+chtb_0119	0	101	have	*	*
+chtb_0119	0	102	a	*	*
+chtb_0119	0	103	total	*	*
+chtb_0119	0	104	sum	*	*
+chtb_0119	0	105	of	*	*
+chtb_0119	0	106	international	*	*
+chtb_0119	0	107	business	*	*
+chtb_0119	0	108	loans	*	*
+chtb_0119	0	109	borrowed	*	*
+chtb_0119	0	110	and	*	*
+chtb_0119	0	111	foreign	*	*
+chtb_0119	0	112	guarantee	*	*
+chtb_0119	0	113	surpluses	*	*
+chtb_0119	0	114	not	*	*
+chtb_0119	0	115	exceeding	*	*
+chtb_0119	0	116	50	*	*
+chtb_0119	0	117	%	*	*
+chtb_0119	0	118	of	*	*
+chtb_0119	0	119	net	*	*
+chtb_0119	0	120	asset	*	*
+chtb_0119	0	121	's	*	*
+chtb_0119	0	122	equivalent	*	*
+chtb_0119	0	123	foreign	*	*
+chtb_0119	0	124	exchange	*	*
+chtb_0119	0	125	worth	*	*
+chtb_0119	0	126	;	*	*
+chtb_0119	0	127	must	*	*
+chtb_0119	0	128	have	*	*
+chtb_0119	0	129	total	*	*
+chtb_0119	0	130	of	*	*
+chtb_0119	0	131	foreign	*	*
+chtb_0119	0	132	exchange	*	*
+chtb_0119	0	133	loan	*	*
+chtb_0119	0	134	and	*	*
+chtb_0119	0	135	foreign	*	*
+chtb_0119	0	136	exchange	*	*
+chtb_0119	0	137	guarantee	*	*
+chtb_0119	0	138	surplus	*	*
+chtb_0119	0	139	not	*	*
+chtb_0119	0	140	exceeding	*	*
+chtb_0119	0	141	the	*	*
+chtb_0119	0	142	amount	*	*
+chtb_0119	0	143	of	*	*
+chtb_0119	0	144	exchange	*	*
+chtb_0119	0	145	created	*	*
+chtb_0119	0	146	in	*	*
+chtb_0119	0	147	the	*	*
+chtb_0119	0	148	previous	*	*
+chtb_0119	0	149	year	*	*
+chtb_0119	0	150	.	*	*
+
+chtb_0119	0	0	-LRB-	-
+chtb_0119	0	1	End	-
+chtb_0119	0	2	-RRB-	-
+
+#end document

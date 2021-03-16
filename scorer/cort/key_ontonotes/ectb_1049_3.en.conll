@@ -1,0 +1,465 @@
+#begin document (ectb_1049_3); part 000
+ectb_1049	3	0	The	DT	(TOP(NP*	-	-	-	-	(47
+ectb_1049	3	1	Tanshui	NNP	*	-	-	-	-	(29)
+ectb_1049	3	2	mystique	NN	*))	-	-	-	-	47)
+
+ectb_1049	3	0	The	DT	(TOP(S(NP*	-	-	-	-	-
+ectb_1049	3	1	mountains	NNS	*)	-	-	-	-	-
+ectb_1049	3	2	are	VBP	(VP*	be	03	-	-	-
+ectb_1049	3	3	also	RB	(ADVP*)	-	-	-	-	-
+ectb_1049	3	4	filled	VBN	(VP*	fill	01	-	-	-
+ectb_1049	3	5	with	IN	(PP*	-	-	-	-	-
+ectb_1049	3	6	old	JJ	(NP*	-	-	-	-	-
+ectb_1049	3	7	stories	NNS	*))))	story	-	2	-	-
+ectb_1049	3	8	.	.	*))	-	-	-	-	-
+
+ectb_1049	3	0	The	DT	(TOP(S(NP*	-	-	-	-	(34
+ectb_1049	3	1	often	RB	(ADJP*	-	-	-	-	-
+ectb_1049	3	2	-	HYPH	*	-	-	-	-	-
+ectb_1049	3	3	renovated	VBN	*)	renovate	01	1	-	-
+ectb_1049	3	4	Hsing	NNP	(NML*	-	-	-	-	-
+ectb_1049	3	5	Chung	NNP	*	-	-	-	-	-
+ectb_1049	3	6	Tang	NNP	*)	-	-	-	-	-
+ectb_1049	3	7	shop	NN	*)	shop	-	1	-	34)
+ectb_1049	3	8	is	VBZ	(VP*	be	01	1	-	-
+ectb_1049	3	9	more	JJR	(ADJP(NP(QP*	-	-	-	-	-
+ectb_1049	3	10	than	IN	*	-	-	-	-	-
+ectb_1049	3	11	a	DT	*)	-	-	-	-	-
+ectb_1049	3	12	century	NN	*)	-	-	-	-	-
+ectb_1049	3	13	old	JJ	(ADJP*)))	-	-	-	-	-
+ectb_1049	3	14	.	.	*))	-	-	-	-	-
+
+ectb_1049	3	0	Owner	NN	(TOP(S(NP*	owner	-	1	-	-
+ectb_1049	3	1	Li	NNP	*	-	-	-	-	-
+ectb_1049	3	2	Yung	NNP	*	-	-	-	-	-
+ectb_1049	3	3	-	HYPH	*	-	-	-	-	-
+ectb_1049	3	4	kun	NNP	*)	-	-	-	-	-
+ectb_1049	3	5	is	VBZ	(VP*	be	01	1	-	-
+ectb_1049	3	6	a	DT	(NP(NP*	-	-	-	-	-
+ectb_1049	3	7	descendant	NN	*)	-	-	-	-	-
+ectb_1049	3	8	of	IN	(PP*	-	-	-	-	-
+ectb_1049	3	9	the	DT	(NP(NP(NP*	-	-	-	-	-
+ectb_1049	3	10	eminent	JJ	*	-	-	-	-	-
+ectb_1049	3	11	Li	NNP	*	-	-	-	-	-
+ectb_1049	3	12	family	NN	*)	family	-	1	-	-
+ectb_1049	3	13	of	IN	(PP*	-	-	-	-	-
+ectb_1049	3	14	Tanshui	NNP	(NP*)))	-	-	-	-	(29)
+ectb_1049	3	15	,	,	*	-	-	-	-	-
+ectb_1049	3	16	which	WDT	(SBAR(WHNP*)	-	-	-	-	-
+ectb_1049	3	17	produced	VBD	(S(VP*	produce	01	1	-	-
+ectb_1049	3	18	three	CD	(NP*	-	-	-	-	-
+ectb_1049	3	19	juren	NNS	(NML(NML*)	-	-	-	-	-
+ectb_1049	3	20	-LRB-	-LRB-	*	-	-	-	-	-
+ectb_1049	3	21	a	DT	(NML(NML*	-	-	-	-	-
+ectb_1049	3	22	successful	JJ	*	-	-	-	-	-
+ectb_1049	3	23	candidate	NN	*)	-	-	-	-	-
+ectb_1049	3	24	in	IN	(PP*	-	-	-	-	-
+ectb_1049	3	25	provincial	JJ	(NP(NP(NML*	-	-	-	-	-
+ectb_1049	3	26	-	HYPH	*	-	-	-	-	-
+ectb_1049	3	27	level	NN	*)	-	-	-	-	-
+ectb_1049	3	28	exams	NNS	*)	-	-	-	-	-
+ectb_1049	3	29	,	,	*	-	-	-	-	-
+ectb_1049	3	30	held	VBN	(VP*	hold	04	-	-	-
+ectb_1049	3	31	every	DT	(NP*	-	-	-	-	-
+ectb_1049	3	32	three	CD	*	-	-	-	-	-
+ectb_1049	3	33	years	NNS	*))))))	-	-	-	-	-
+ectb_1049	3	34	-RRB-	-RRB-	*))))))))	-	-	-	-	-
+ectb_1049	3	35	.	.	*))	-	-	-	-	-
+
+ectb_1049	3	0	The	DT	(TOP(S(S(NP*	-	-	-	-	(34
+ectb_1049	3	1	house	NN	*)	house	-	1	-	34)
+ectb_1049	3	2	testifies	VBZ	(VP*	testify	01	2	-	-
+ectb_1049	3	3	to	IN	(PP*	-	-	-	-	-
+ectb_1049	3	4	this	DT	(NP*	-	-	-	-	-
+ectb_1049	3	5	past	NN	*))))	past	-	1	-	-
+ectb_1049	3	6	:	:	*	-	-	-	-	-
+ectb_1049	3	7	It	PRP	(S(NP*)	-	-	-	-	(34)
+ectb_1049	3	8	has	VBZ	(VP*	have	03	1	-	-
+ectb_1049	3	9	a	DT	(NP(NP(NP*	-	-	-	-	-
+ectb_1049	3	10	swallow	NN	(ADJP*	-	-	-	-	-
+ectb_1049	3	11	-	HYPH	*	-	-	-	-	-
+ectb_1049	3	12	tailed	JJ	*)	-	-	-	-	-
+ectb_1049	3	13	roof	NN	*)	-	-	-	-	-
+ectb_1049	3	14	and	CC	*	-	-	-	-	-
+ectb_1049	3	15	a	DT	(NP*	-	-	-	-	-
+ectb_1049	3	16	flagpole	NN	*))	-	-	-	-	-
+ectb_1049	3	17	,	,	*	-	-	-	-	-
+ectb_1049	3	18	features	NNS	(NP(NP*)	feature	-	1	-	-
+ectb_1049	3	19	that	WDT	(SBAR(WHNP*)	-	-	-	-	-
+ectb_1049	3	20	only	RB	(S(NP(NP*	-	-	-	-	-
+ectb_1049	3	21	the	DT	*	-	-	-	-	-
+ectb_1049	3	22	home	NN	*)	home	-	1	-	-
+ectb_1049	3	23	of	IN	(PP*	-	-	-	-	-
+ectb_1049	3	24	a	DT	(NP*	-	-	-	-	-
+ectb_1049	3	25	juren	NN	*)))	-	-	-	-	-
+ectb_1049	3	26	was	VBD	(VP*	be	03	-	-	-
+ectb_1049	3	27	entitled	VBN	(VP*	entitle	01	-	-	-
+ectb_1049	3	28	to	TO	(S(VP*	-	-	-	-	-
+ectb_1049	3	29	have	VB	(VP*)))))))))))	have	03	2	-	-
+ectb_1049	3	30	.	.	*))	-	-	-	-	-
+
+ectb_1049	3	0	Li	NNP	(TOP(S(NP(NP*	-	-	-	-	*	*
+ectb_1049	3	1	Mingbin	NNP	*	-	-	-	-	*	*
+ectb_1049	3	2	-LRB-	-LRB-	(PRN*	-	-	-	-	*	*
+ectb_1049	3	3	whose	WP$	(SBAR(WHNP(NP*	-	-	-	-	*	*
+ectb_1049	3	4	name	NN	*)	name	-	1	-	*	*
+ectb_1049	3	5	by	IN	(PP*	-	-	-	-	*	*
+ectb_1049	3	6	birth	NN	(NP*)))	birth	01	1	-	*	*
+ectb_1049	3	7	is	VBZ	(S(VP*	be	01	1	-	*	*
+ectb_1049	3	8	Li	NNP	(NP*	-	-	-	-	*	*
+ectb_1049	3	9	Minghui	NNP	*))))	-	-	-	-	*	*
+ectb_1049	3	10	-RRB-	-RRB-	*))	-	-	-	-	*	*
+ectb_1049	3	11	,	,	*	-	-	-	-	*	*
+ectb_1049	3	12	a	DT	(NP(NP(NP*	-	-	-	-	*	*
+ectb_1049	3	13	scholar	NN	*)	-	-	-	-	*	*
+ectb_1049	3	14	from	IN	(PP*	-	-	-	-	*	*
+ectb_1049	3	15	Beijing	NNP	(NP*	-	-	-	-	*	*
+ectb_1049	3	16	University	NNP	*)))	-	-	-	-	*	*
+ectb_1049	3	17	currently	RB	(VP(ADVP*)	-	-	-	-	*	*
+ectb_1049	3	18	working	VBG	*	work	01	1	-	*	*
+ectb_1049	3	19	at	IN	(PP*	-	-	-	-	*	*
+ectb_1049	3	20	Chinese	NNP	(NP*	-	-	-	-	*	*
+ectb_1049	3	21	Culture	NNP	*	-	-	-	-	*	*
+ectb_1049	3	22	University	NNP	*))	-	-	-	-	*	*
+ectb_1049	3	23	on	IN	(PP*	-	-	-	-	*	*
+ectb_1049	3	24	an	DT	(NP*	-	-	-	-	*	*
+ectb_1049	3	25	exchange	NN	*	exchange	-	1	-	*	*
+ectb_1049	3	26	program	NN	*)))))	-	-	-	-	*	*
+ectb_1049	3	27	,	,	*	-	-	-	-	*	*
+ectb_1049	3	28	is	VBZ	(VP*	be	01	1	-	*	*
+ectb_1049	3	29	a	DT	(NP(NP*	-	-	-	-	*	*
+ectb_1049	3	30	descendant	NN	*)	-	-	-	-	*	*
+ectb_1049	3	31	of	IN	(PP*	-	-	-	-	*	*
+ectb_1049	3	32	the	DT	(NP(NP(NP*	-	-	-	-	*	*
+ectb_1049	3	33	juren	NN	*)	-	-	-	-	*	*
+ectb_1049	3	34	Li	NNP	(NP*	-	-	-	-	*	*
+ectb_1049	3	35	Yingzhen	NNP	*))	-	-	-	-	*	*
+ectb_1049	3	36	,	,	*	-	-	-	-	*	*
+ectb_1049	3	37	who	WP	(SBAR(WHNP*)	-	-	-	-	*	*
+ectb_1049	3	38	was	VBD	(S(VP(VP*	be	03	-	-	*	*
+ectb_1049	3	39	wounded	VBN	(VP*	wound	01	-	-	*	*
+ectb_1049	3	40	resisting	VBG	(S(VP*	resist	01	1	-	*	*
+ectb_1049	3	41	the	DT	(NP*	-	-	-	-	*	*
+ectb_1049	3	42	Japanese	JJ	*	-	-	-	-	*	*
+ectb_1049	3	43	occupation	NN	*)))))	occupation	01	2	-	*	*
+ectb_1049	3	44	and	CC	*	-	-	-	-	*	*
+ectb_1049	3	45	fled	VBD	(VP*	flee	01	1	-	*	*
+ectb_1049	3	46	to	IN	(PP*	-	-	-	-	*	*
+ectb_1049	3	47	the	DT	(NP(NP*	-	-	-	-	(ARGM-LOC*	(ARGM-LOC*
+ectb_1049	3	48	mainland	NN	*)	-	-	-	-	*)	*)
+ectb_1049	3	49	,	,	*	-	-	-	-	*	*
+ectb_1049	3	50	where	WRB	(SBAR(WHADVP*)	-	-	-	-	(R-ARGM-LOC*)	(R-ARGM-LOC*)
+ectb_1049	3	51	he	PRP	(S(NP*)	-	-	-	-	(ARG1*)	(ARG1*)
+ectb_1049	3	52	settled	VBD	(VP*	settle	04	4	-	(V*)	(V*)
+ectb_1049	3	53	down	RP	(PRT*))))))))))))))	-	-	-	-	*	*
+ectb_1049	3	54	.	.	*))	-	-	-	-	*	*
+
+ectb_1049	3	0	Like	IN	(TOP(S(PP*	-	-	-	-	-
+ectb_1049	3	1	his	PRP$	(NP*	-	-	-	-	(14)
+ectb_1049	3	2	elders	NNS	*))	-	-	-	-	-
+ectb_1049	3	3	,	,	*	-	-	-	-	-
+ectb_1049	3	4	Li	NNP	(NP*	-	-	-	-	(14
+ectb_1049	3	5	Mingbin	NNP	*)	-	-	-	-	14)
+ectb_1049	3	6	bridges	VBZ	(VP*	bridge	01	1	-	-
+ectb_1049	3	7	the	DT	(NP*	-	-	-	-	-
+ectb_1049	3	8	gap	NN	*)	gap	-	3	-	-
+ectb_1049	3	9	across	IN	(PP*	-	-	-	-	-
+ectb_1049	3	10	the	DT	(NP*	-	-	-	-	-
+ectb_1049	3	11	Taiwan	NNP	*	-	-	-	-	-
+ectb_1049	3	12	Strait	NNP	*))	-	-	-	-	-
+ectb_1049	3	13	,	,	*	-	-	-	-	-
+ectb_1049	3	14	as	IN	(SBAR*	-	-	-	-	-
+ectb_1049	3	15	he	PRP	(S(NP*)	-	-	-	-	(14)
+ectb_1049	3	16	is	VBZ	(VP*	be	01	1	-	-
+ectb_1049	3	17	capable	JJ	(ADJP*	-	-	-	-	-
+ectb_1049	3	18	of	IN	(PP*	-	-	-	-	-
+ectb_1049	3	19	conversing	VBG	(S(VP*	converse	01	-	-	-
+ectb_1049	3	20	fluently	RB	(ADVP*)	-	-	-	-	-
+ectb_1049	3	21	in	IN	(PP*	-	-	-	-	-
+ectb_1049	3	22	either	CC	(NP*	-	-	-	-	-
+ectb_1049	3	23	Beijing	NNP	(NP*	-	-	-	-	-
+ectb_1049	3	24	dialect	NN	*)	-	-	-	-	-
+ectb_1049	3	25	or	CC	*	-	-	-	-	-
+ectb_1049	3	26	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1049	3	27	southern	JJ	(NML*	-	-	-	-	-
+ectb_1049	3	28	Fujian	NNP	*)	-	-	-	-	-
+ectb_1049	3	29	dialect	NN	*)	-	-	-	-	-
+ectb_1049	3	30	used	VBN	(VP*	use	01	-	-	-
+ectb_1049	3	31	in	IN	(PP*	-	-	-	-	-
+ectb_1049	3	32	Taiwan	NNP	(NP*))))))))))))))	-	-	-	-	-
+ectb_1049	3	33	.	.	*))	-	-	-	-	-
+
+ectb_1049	3	0	Of	RB	(TOP(S(ADVP*	-	-	-	-	-
+ectb_1049	3	1	course	RB	*)	-	-	-	-	-
+ectb_1049	3	2	,	,	*	-	-	-	-	-
+ectb_1049	3	3	stories	NNS	(NP*)	story	-	2	-	-
+ectb_1049	3	4	do	VBP	(VP*	do	01	-	-	-
+ectb_1049	3	5	n't	RB	*	-	-	-	-	-
+ectb_1049	3	6	have	VB	(VP*	have	02	12	-	-
+ectb_1049	3	7	to	TO	(S(VP*	-	-	-	-	-
+ectb_1049	3	8	be	VB	(VP*	be	01	1	-	-
+ectb_1049	3	9	old	JJ	(ADJP*))))	-	-	-	-	-
+ectb_1049	3	10	to	TO	(S(VP*	-	-	-	-	-
+ectb_1049	3	11	be	VB	(VP*	be	01	1	-	-
+ectb_1049	3	12	interesting	JJ	(ADJP*))))))	-	-	-	-	-
+ectb_1049	3	13	.	.	*))	-	-	-	-	-
+
+ectb_1049	3	0	Today	NNP	(TOP(S(NP(NP*	-	-	-	-	(11
+ectb_1049	3	1	's	POS	*)	-	-	-	-	-
+ectb_1049	3	2	Tanshui	NNP	*	-	-	-	-	(29)
+ectb_1049	3	3	residents	NNS	*)	-	-	-	-	11)
+ectb_1049	3	4	are	VBP	(VP*	be	03	-	-	-
+ectb_1049	3	5	living	VBG	(VP*	live	01	1	-	-
+ectb_1049	3	6	their	PRP$	(NP*	-	-	-	-	(11)
+ectb_1049	3	7	own	JJ	*	-	-	-	-	-
+ectb_1049	3	8	stories	NNS	*)))	story	-	1	-	-
+ectb_1049	3	9	.	.	*))	-	-	-	-	-
+
+ectb_1049	3	0	The	DT	(TOP(NP(NP(NP*	-	-	-	-	-
+ectb_1049	3	1	crotchety	JJ	(ADJP*	-	-	-	-	-
+ectb_1049	3	2	but	CC	*	-	-	-	-	-
+ectb_1049	3	3	modest	JJ	*)	-	-	-	-	-
+ectb_1049	3	4	guy	NN	*)	-	-	-	-	-
+ectb_1049	3	5	who	WP	(SBAR(WHNP*)	-	-	-	-	-
+ectb_1049	3	6	delivers	VBZ	(S(VP*	deliver	01	5	-	-
+ectb_1049	3	7	the	DT	(NP*	-	-	-	-	-
+ectb_1049	3	8	newspapers	NNS	*)))))	newspaper	-	3	-	-
+ectb_1049	3	9	,	,	*	-	-	-	-	-
+ectb_1049	3	10	the	DT	(NP(NP*	-	-	-	-	(21
+ectb_1049	3	11	seafood	NN	(NML*	-	-	-	-	-
+ectb_1049	3	12	restaurant	NN	*)	-	-	-	-	-
+ectb_1049	3	13	owner	NN	*)	-	-	-	-	-
+ectb_1049	3	14	who	WP	(SBAR(WHNP*)	-	-	-	-	-
+ectb_1049	3	15	has	VBZ	(S(VP*	have	01	-	-	-
+ectb_1049	3	16	made	VBN	(VP*	make	05	7	-	-
+ectb_1049	3	17	his	PRP$	(NP*	-	-	-	-	(21)
+ectb_1049	3	18	fortune	NN	*)	fortune	-	2	-	-
+ectb_1049	3	19	from	IN	(PP*	-	-	-	-	-
+ectb_1049	3	20	scratch	NN	(NP*)))))))	-	-	-	-	21)
+ectb_1049	3	21	,	,	*	-	-	-	-	-
+ectb_1049	3	22	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1049	3	23	old	JJ	*	-	-	-	-	-
+ectb_1049	3	24	man	NN	*)	man	-	2	-	-
+ectb_1049	3	25	at	IN	(PP*	-	-	-	-	-
+ectb_1049	3	26	the	DT	(NP*	-	-	-	-	-
+ectb_1049	3	27	roadside	JJ	*	-	-	-	-	-
+ectb_1049	3	28	food	NN	*	food	-	1	-	-
+ectb_1049	3	29	stall	NN	*)))	-	-	-	-	-
+ectb_1049	3	30	,	,	*	-	-	-	-	-
+ectb_1049	3	31	the	DT	(NP(NP(NP*	-	-	-	-	-
+ectb_1049	3	32	hostess	NN	*)	-	-	-	-	-
+ectb_1049	3	33	in	IN	(PP*	-	-	-	-	-
+ectb_1049	3	34	the	DT	(NP*	-	-	-	-	-
+ectb_1049	3	35	tea	NN	*	-	-	-	-	-
+ectb_1049	3	36	house	NN	*)))	house	-	4	-	-
+ectb_1049	3	37	greeting	VBG	(VP(VP*)	greet	01	1	-	-
+ectb_1049	3	38	and	CC	*	-	-	-	-	-
+ectb_1049	3	39	sending	VBG	(VP*	send	03	3	-	-
+ectb_1049	3	40	off	RP	(PRT*))	-	-	-	-	-
+ectb_1049	3	41	guests	NNS	(NP*)))	-	-	-	-	-
+ectb_1049	3	42	.	.	*	-	-	-	-	-
+ectb_1049	3	43	.	.	*	-	-	-	-	-
+ectb_1049	3	44	.	.	*	-	-	-	-	-
+ectb_1049	3	45	.	.	*))	-	-	-	-	-
+
+ectb_1049	3	0	Some	DT	(TOP(S(S(NP*)	-	-	-	-	-
+ectb_1049	3	1	are	VBP	(VP*	be	01	1	-	-
+ectb_1049	3	2	active	JJ	(ADJP*)	-	-	-	-	-
+ectb_1049	3	3	in	IN	(PP*	-	-	-	-	-
+ectb_1049	3	4	the	DT	(NP*	-	-	-	-	-
+ectb_1049	3	5	early	JJ	*	-	-	-	-	-
+ectb_1049	3	6	morning	NN	*))))	morning	-	1	-	-
+ectb_1049	3	7	,	,	*	-	-	-	-	-
+ectb_1049	3	8	some	DT	(S(NP*)	-	-	-	-	-
+ectb_1049	3	9	late	RB	(ADVP*	-	-	-	-	-
+ectb_1049	3	10	at	IN	(PP*	-	-	-	-	-
+ectb_1049	3	11	night	NN	(NP*))))	night	-	1	-	-
+ectb_1049	3	12	.	.	*))	-	-	-	-	-
+
+ectb_1049	3	0	Though	IN	(TOP(S(SBAR*	-	-	-	-	-
+ectb_1049	3	1	the	DT	(S(NP(NP*	-	-	-	-	-
+ectb_1049	3	2	founders	NNS	*)	-	-	-	-	-
+ectb_1049	3	3	of	IN	(PP*	-	-	-	-	-
+ectb_1049	3	4	many	JJ	(NP(NP*)	-	-	-	-	-
+ectb_1049	3	5	of	IN	(PP*	-	-	-	-	-
+ectb_1049	3	6	these	DT	(NP*	-	-	-	-	-
+ectb_1049	3	7	shops	NNS	*)))))	shop	-	1	-	-
+ectb_1049	3	8	have	VBP	(VP*	have	01	-	-	-
+ectb_1049	3	9	passed	VBN	(VP*	pass	16	-	-	-
+ectb_1049	3	10	away	RP	(PRT*)))))	-	-	-	-	-
+ectb_1049	3	11	,	,	*	-	-	-	-	-
+ectb_1049	3	12	the	DT	(NP*	-	-	-	-	-
+ectb_1049	3	13	second	JJ	*	-	-	-	-	-
+ectb_1049	3	14	generation	NN	*)	generation	-	4	-	-
+ectb_1049	3	15	has	VBZ	(VP*	have	01	-	-	-
+ectb_1049	3	16	taken	VBN	(VP*	take	01	5	-	-
+ectb_1049	3	17	the	DT	(NP*	-	-	-	-	-
+ectb_1049	3	18	baton	NN	*)))	-	-	-	-	-
+ectb_1049	3	19	.	.	*))	-	-	-	-	-
+
+ectb_1049	3	0	In	IN	(TOP(S(PP*	-	-	-	-	-
+ectb_1049	3	1	the	DT	(NP*	-	-	-	-	-
+ectb_1049	3	2	old	JJ	*	-	-	-	-	-
+ectb_1049	3	3	bamboo	NN	*	-	-	-	-	-
+ectb_1049	3	4	tea	NN	*	-	-	-	-	-
+ectb_1049	3	5	shop	NN	*))	shop	-	1	-	-
+ectb_1049	3	6	,	,	*	-	-	-	-	-
+ectb_1049	3	7	the	DT	(NP*	-	-	-	-	(19
+ectb_1049	3	8	now	RB	(ADJP*	-	-	-	-	-
+ectb_1049	3	9	elderly	JJ	*)	-	-	-	-	-
+ectb_1049	3	10	hostess	NN	*)	-	-	-	-	19)
+ectb_1049	3	11	still	RB	(ADVP*)	-	-	-	-	-
+ectb_1049	3	12	plays	VBZ	(VP*	play	02	3	-	-
+ectb_1049	3	13	her	PRP$	(NP*	-	-	-	-	(19)
+ectb_1049	3	14	role	NN	*)	role	-	1	-	-
+ectb_1049	3	15	amidst	IN	(PP*	-	-	-	-	-
+ectb_1049	3	16	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1049	3	17	ambience	NN	*)	-	-	-	-	-
+ectb_1049	3	18	of	IN	(PP*	-	-	-	-	-
+ectb_1049	3	19	wine	NN	(NP*	-	-	-	-	-
+ectb_1049	3	20	and	CC	*	-	-	-	-	-
+ectb_1049	3	21	tea	NN	*))))	-	-	-	-	-
+ectb_1049	3	22	,	,	*	-	-	-	-	-
+ectb_1049	3	23	offering	VBG	(S(VP*	offer	01	1	-	-
+ectb_1049	3	24	a	DT	(NP*	-	-	-	-	-
+ectb_1049	3	25	feminine	JJ	*	-	-	-	-	-
+ectb_1049	3	26	presence	NN	*)	-	-	-	-	-
+ectb_1049	3	27	to	TO	(S(VP*	-	-	-	-	-
+ectb_1049	3	28	help	VB	(VP*	help	01	1	-	-
+ectb_1049	3	29	put	VB	(S(VP*	put	01	2	-	-
+ectb_1049	3	30	at	IN	(PP*	-	-	-	-	-
+ectb_1049	3	31	ease	NN	(NP*))	-	-	-	-	-
+ectb_1049	3	32	her	PRP$	(NP(NP*	-	-	-	-	(19)
+ectb_1049	3	33	customers	NNS	*)	-	-	-	-	-
+ectb_1049	3	34	who	WP	(SBAR(WHNP*)	-	-	-	-	-
+ectb_1049	3	35	come	VBP	(S(VP*	come	01	1	-	-
+ectb_1049	3	36	looking	VBG	(S(VP*	look	01	1	-	-
+ectb_1049	3	37	for	IN	(PP*	-	-	-	-	-
+ectb_1049	3	38	a	DT	(NP*	-	-	-	-	-
+ectb_1049	3	39	little	JJ	*	-	-	-	-	-
+ectb_1049	3	40	relaxation	NN	*))	-	-	-	-	-
+ectb_1049	3	41	,	,	*	-	-	-	-	-
+ectb_1049	3	42	evoking	VBG	(S(VP*	evoke	01	1	-	-
+ectb_1049	3	43	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1049	3	44	bewitching	JJ	*	-	-	-	-	-
+ectb_1049	3	45	atmosphere	NN	*)	-	-	-	-	-
+ectb_1049	3	46	of	IN	(PP*	-	-	-	-	-
+ectb_1049	3	47	Tanshui	NNP	(NP(NP*)	-	-	-	-	(29)
+ectb_1049	3	48	at	IN	(PP*	-	-	-	-	-
+ectb_1049	3	49	night	NN	(NP*)))))))))))))))))))))	night	-	1	-	-
+ectb_1049	3	50	.	.	*))	-	-	-	-	-
+
+ectb_1049	3	0	Businessmen	NNS	(TOP(S(NP(NP(NP*)	-	-	-	-	-
+ectb_1049	3	1	from	IN	(PP*	-	-	-	-	-
+ectb_1049	3	2	outside	RB	(ADVP*)))	-	-	-	-	-
+ectb_1049	3	3	,	,	*	-	-	-	-	-
+ectb_1049	3	4	smelling	VBG	(VP*	smell	01	2	-	-
+ectb_1049	3	5	profits	NNS	(NP*)))	profit	-	1	-	-
+ectb_1049	3	6	,	,	*	-	-	-	-	-
+ectb_1049	3	7	have	VBP	(VP*	have	01	-	-	-
+ectb_1049	3	8	set	VBN	(VP*	set	03	4	-	-
+ectb_1049	3	9	up	RP	(PRT*)	-	-	-	-	-
+ectb_1049	3	10	gaudy	JJ	(NP(NP*	-	-	-	-	-
+ectb_1049	3	11	storefronts	NNS	*)	-	-	-	-	-
+ectb_1049	3	12	and	CC	*	-	-	-	-	-
+ectb_1049	3	13	neon	NN	(NP*	-	-	-	-	-
+ectb_1049	3	14	signs	NNS	*))	sign	-	1	-	-
+ectb_1049	3	15	,	,	*	-	-	-	-	-
+ectb_1049	3	16	hoping	VBG	(S(VP*	hope	01	1	-	-
+ectb_1049	3	17	to	TO	(S(VP*	-	-	-	-	-
+ectb_1049	3	18	trade	VB	(VP*	trade	01	4	-	-
+ectb_1049	3	19	on	IN	(PP*	-	-	-	-	-
+ectb_1049	3	20	Tanshui	NNP	(NP(NP*	-	-	-	-	(29|(47
+ectb_1049	3	21	's	POS	*)	-	-	-	-	29)
+ectb_1049	3	22	mystique	NN	*))	-	-	-	-	47)
+ectb_1049	3	23	to	TO	(S(VP*	-	-	-	-	-
+ectb_1049	3	24	sell	VB	(VP*	sell	01	1	-	-
+ectb_1049	3	25	coffee	NN	(NP(NP*)	-	-	-	-	-
+ectb_1049	3	26	,	,	*	-	-	-	-	-
+ectb_1049	3	27	seafood	NN	(NP*)	-	-	-	-	-
+ectb_1049	3	28	,	,	*	-	-	-	-	-
+ectb_1049	3	29	antiques	NNS	(NP*)	-	-	-	-	-
+ectb_1049	3	30	,	,	*	-	-	-	-	-
+ectb_1049	3	31	and	CC	*	-	-	-	-	-
+ectb_1049	3	32	snack	NN	(NP*	-	-	-	-	-
+ectb_1049	3	33	foods	NNS	*))))))))))))	food	-	1	-	-
+ectb_1049	3	34	.	.	*))	-	-	-	-	-
+
+ectb_1049	3	0	Students	NNS	(TOP(S(NP(NP*)	student	-	1	-	(28
+ectb_1049	3	1	,	,	*	-	-	-	-	-
+ectb_1049	3	2	who	WP	(SBAR(WHNP*)	-	-	-	-	-
+ectb_1049	3	3	have	VBP	(S(VP*	have	03	-	-	-
+ectb_1049	3	4	enough	JJ	(NP*	-	-	-	-	-
+ectb_1049	3	5	money	NN	*	money	-	2	-	-
+ectb_1049	3	6	to	TO	(S(VP*	-	-	-	-	-
+ectb_1049	3	7	keep	VB	(VP*	keep	02	1	-	-
+ectb_1049	3	8	several	JJ	(NP(NP*	-	-	-	-	-
+ectb_1049	3	9	streets	NNS	*)	-	-	-	-	-
+ectb_1049	3	10	of	IN	(PP*	-	-	-	-	-
+ectb_1049	3	11	shops	NNS	(NP*)))	shop	-	1	-	28)
+ectb_1049	3	12	going	VBG	(S(VP*))))))))))	go	09	11	-	-
+ectb_1049	3	13	,	,	*	-	-	-	-	-
+ectb_1049	3	14	carelessly	RB	(ADVP*)	-	-	-	-	-
+ectb_1049	3	15	wheel	VBP	(VP*	wheel	01	3	-	-
+ectb_1049	3	16	their	PRP$	(NP*	-	-	-	-	(28)
+ectb_1049	3	17	motorcycles	NNS	*)	-	-	-	-	-
+ectb_1049	3	18	through	IN	(PP*	-	-	-	-	-
+ectb_1049	3	19	the	DT	(NP*	-	-	-	-	-
+ectb_1049	3	20	narrow	JJ	*	-	-	-	-	-
+ectb_1049	3	21	streets	NNS	*))	-	-	-	-	-
+ectb_1049	3	22	,	,	*	-	-	-	-	-
+ectb_1049	3	23	their	PRP$	(S(NP*	-	-	-	-	(28)
+ectb_1049	3	24	minds	NNS	*)	mind	-	5	-	-
+ectb_1049	3	25	elsewhere	RB	(ADVP*)	-	-	-	-	-
+ectb_1049	3	26	,	,	*	-	-	-	-	-
+ectb_1049	3	27	thinking	VBG	(S(VP*	think	01	-	-	-
+ectb_1049	3	28	of	IN	(PP*	-	-	-	-	-
+ectb_1049	3	29	youthful	JJ	(NP*	-	-	-	-	-
+ectb_1049	3	30	fun	NN	*	-	-	-	-	-
+ectb_1049	3	31	or	CC	*	-	-	-	-	-
+ectb_1049	3	32	romance	NN	*))))))	-	-	-	-	-
+ectb_1049	3	33	.	.	*))	-	-	-	-	-
+
+ectb_1049	3	0	Happy	JJ	(TOP(S(S(NP(NP*	-	-	-	-	(4
+ectb_1049	3	1	couples	NNS	*)	couple	-	2	-	-
+ectb_1049	3	2	and	CC	*	-	-	-	-	-
+ectb_1049	3	3	jilted	VBN	(NP*	jilt	01	-	-	-
+ectb_1049	3	4	lovers	NNS	*))	-	-	-	-	4)
+ectb_1049	3	5	line	VBP	(VP*	line	01	1	-	-
+ectb_1049	3	6	the	DT	(NP*	-	-	-	-	(40
+ectb_1049	3	7	river	NN	*)	-	-	-	-	40)
+ectb_1049	3	8	,	,	*	-	-	-	-	-
+ectb_1049	3	9	displaying	VBG	(S(VP*	display	01	1	-	-
+ectb_1049	3	10	their	PRP$	(NP*	-	-	-	-	(4)
+ectb_1049	3	11	joy	NN	*	-	-	-	-	-
+ectb_1049	3	12	or	CC	*	-	-	-	-	-
+ectb_1049	3	13	sadness	NN	*)	-	-	-	-	-
+ectb_1049	3	14	in	IN	(PP*	-	-	-	-	-
+ectb_1049	3	15	their	PRP$	(NP*	-	-	-	-	(4)
+ectb_1049	3	16	postures	NNS	*))))))	-	-	-	-	-
+ectb_1049	3	17	:	,	*	-	-	-	-	-
+ectb_1049	3	18	two	CD	(S(NP(NP*	-	-	-	-	-
+ectb_1049	3	19	people	NNS	*	people	-	1	-	-
+ectb_1049	3	20	's	POS	*)	-	-	-	-	-
+ectb_1049	3	21	shadows	NNS	*)	-	-	-	-	-
+ectb_1049	3	22	are	VBP	(VP*	be	03	-	-	-
+ectb_1049	3	23	melted	VBN	(VP*	melt	01	2	-	-
+ectb_1049	3	24	together	RB	(ADVP*)	-	-	-	-	-
+ectb_1049	3	25	by	IN	(PP*	-	-	-	-	-
+ectb_1049	3	26	the	DT	(NP(NP*	-	-	-	-	(40
+ectb_1049	3	27	darkened	VBN	*	darken	01	-	-	-
+ectb_1049	3	28	river	NN	*)	-	-	-	-	40)
+ectb_1049	3	29	behind	RB	(ADVP*)))	-	-	-	-	-
+ectb_1049	3	30	,	,	*	-	-	-	-	-
+ectb_1049	3	31	while	IN	(SBAR*	-	-	-	-	-
+ectb_1049	3	32	others	NNS	(S(NP*)	-	-	-	-	-
+ectb_1049	3	33	stand	VBP	(VP*	stand	01	3	-	-
+ectb_1049	3	34	alone	RB	(ADVP*)	-	-	-	-	-
+ectb_1049	3	35	on	IN	(PP*	-	-	-	-	-
+ectb_1049	3	36	the	DT	(NP*	-	-	-	-	-
+ectb_1049	3	37	riverbank	NN	*))	-	-	-	-	-
+ectb_1049	3	38	like	IN	(PP*	-	-	-	-	-
+ectb_1049	3	39	statues	NNS	(NP*))))))))	-	-	-	-	-
+ectb_1049	3	40	.	.	*))	-	-	-	-	-
+
+#end document

@@ -1,0 +1,1180 @@
+# newdoc id = 035eaef7-79bb-4d14-9c1e-393db8771692
+# newpar id = 035eaef7-79bb-4d14-9c1e-393db8771692-p1
+# par_text = Во время своих прогулок в окрестностях Симеиза я обратил внимание на одинокую дачу, стоявшую на крутом склоне горы. К этой даче не было проведено даже дороги. Кругом она была обнесена высоким забором, с единственной низкой калиткой, которая всегда была плотно прикрыта. И ни куста зелени, ни дерева не виднелось над забором. Кругом дачи-голые уступы желтоватых скал; меж ними кое- где росли чахлые можжевельники и низкорослые, кривые горные сосны. "Что за фантазия пришла кому-то в голову поселиться на этом диком, голом утесе? Да и живет ли там кто-нибудь?" - думал я, бродя вокруг дачи. Я еще никогда не видел, чтобы кто-нибудь выходил оттуда. Любопытство мое было так велико, что я, признаюсь, пытался заглянуть на двор таинственного жилища, взобравшись на вышележащие скалы. Но дача была так расположена, что, откуда бы я ни заходил, я мог видеть только небольшой угол двора. Он был так же пуст и невозделан, как и окружающая местность. Однако после нескольких дней наблюдений мне удалось заметить, что по двору прошла какая-то пожилая женщина в черном. Это еще больше заинтересовало меня.
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p1-s1
+# text = Во время своих прогулок в окрестностях Симеиза я обратил внимание на одинокую дачу, стоявшую на крутом склоне горы.
+1	Во	_	_	_	_	_	_	_	Shift=0
+2	время	_	_	_	_	_	_	_	Shift=3
+3	своих	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=1070|RuCor_group_id=407840|RuCor_link_id=0|Shift=9
+4	прогулок	_	_	_	_	_	_	_	Shift=15
+5	в	_	_	_	_	_	_	_	Shift=24
+6	окрестностях	_	_	_	_	_	_	_	Shift=26
+7	Симеиза	_	_	_	_	_	_	_	Shift=39
+8	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1070|RuCor_group_id=407839|RuCor_link_id=407840|Shift=47
+9	обратил	_	_	_	_	_	_	_	Shift=49
+10	внимание	_	_	_	_	_	_	_	Shift=57
+11	на	_	_	_	_	_	_	_	Shift=66
+12	одинокую	_	_	_	_	_	_	_	RuCor_chain_id=1069|RuCor_group_id=407842|Shift=69
+13	дачу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1069|RuCor_group_id=407842|RuCor_link_id=0|Shift=78|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=82
+15	стоявшую	_	_	_	_	_	_	_	Shift=84
+16	на	_	_	_	_	_	_	_	Shift=93
+17	крутом	_	_	_	_	_	_	_	Shift=96
+18	склоне	_	_	_	_	_	_	_	Shift=103
+19	горы	_	_	_	_	_	_	_	Shift=110|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=114
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p1-s2
+# text = К этой даче не было проведено даже дороги.
+1	К	_	_	_	_	_	_	_	Shift=116
+2	этой	_	_	_	_	_	_	_	RuCor_chain_id=1069|RuCor_group_id=407841|Shift=118
+3	даче	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1069|RuCor_group_id=407841|RuCor_link_id=407842|Shift=123
+4	не	_	_	_	_	_	_	_	Shift=128
+5	было	_	_	_	_	_	_	_	Shift=131
+6	проведено	_	_	_	_	_	_	_	Shift=136
+7	даже	_	_	_	_	_	_	_	Shift=146
+8	дороги	_	_	_	_	_	_	_	Shift=151|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=157
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p1-s3
+# text = Кругом она была обнесена высоким забором, с единственной низкой калиткой, которая всегда была плотно прикрыта.
+1	Кругом	_	_	_	_	_	_	_	Shift=159
+2	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1069|RuCor_group_id=407843|RuCor_link_id=407841|Shift=166
+3	была	_	_	_	_	_	_	_	Shift=170
+4	обнесена	_	_	_	_	_	_	_	Shift=175
+5	высоким	_	_	_	_	_	_	_	RuCor_chain_id=1067|RuCor_group_id=407846|Shift=184
+6	забором	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1067|RuCor_group_id=407846|RuCor_link_id=0|Shift=192|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=199
+8	с	_	_	_	_	_	_	_	Shift=201
+9	единственной	_	_	_	_	_	_	_	RuCor_chain_id=1068|RuCor_group_id=407844|Shift=203
+10	низкой	_	_	_	_	_	_	_	RuCor_chain_id=1068|RuCor_group_id=407844|Shift=216
+11	калиткой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1068|RuCor_group_id=407844|RuCor_link_id=0|Shift=223|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=231
+13	которая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=1068|RuCor_group_id=407845|RuCor_link_id=407844|Shift=233
+14	всегда	_	_	_	_	_	_	_	Shift=241
+15	была	_	_	_	_	_	_	_	Shift=248
+16	плотно	_	_	_	_	_	_	_	Shift=253
+17	прикрыта	_	_	_	_	_	_	_	Shift=260|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=268
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p1-s4
+# text = И ни куста зелени, ни дерева не виднелось над забором.
+1	И	_	_	_	_	_	_	_	Shift=270
+2	ни	_	_	_	_	_	_	_	Shift=272
+3	куста	_	_	_	_	_	_	_	Shift=275
+4	зелени	_	_	_	_	_	_	_	Shift=281|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=287
+6	ни	_	_	_	_	_	_	_	Shift=289
+7	дерева	_	_	_	_	_	_	_	Shift=292
+8	не	_	_	_	_	_	_	_	Shift=299
+9	виднелось	_	_	_	_	_	_	_	Shift=302
+10	над	_	_	_	_	_	_	_	Shift=312
+11	забором	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1067|RuCor_group_id=407847|RuCor_link_id=407846|Shift=316|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=323
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p1-s5
+# text = Кругом дачи - голые уступы желтоватых скал.
+1	Кругом	_	_	_	_	_	_	_	Shift=325
+2	дачи	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1069|RuCor_group_id=407848|RuCor_link_id=407843|Shift=332
+3	-	_	_	_	_	_	_	_	Shift=336
+4	голые	_	_	_	_	_	_	_	RuCor_chain_id=1054|RuCor_group_id=407975|Shift=337
+5	уступы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1054|RuCor_group_id=407975|RuCor_link_id=0|Shift=343
+6	желтоватых	_	_	_	_	_	_	_	RuCor_chain_id=1054|RuCor_group_id=407975|Shift=350
+7	скал	_	_	_	_	_	_	_	RuCor_chain_id=1054|RuCor_group_id=407975|Shift=361|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=365
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p1-s6
+# text = меж ними кое-где росли чахлые можжевельники и низкорослые, кривые горные сосны.
+1	меж	_	_	_	_	_	_	_	Shift=367
+2	ними	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1054|RuCor_group_id=407850|RuCor_link_id=407975|Shift=371
+3	кое-где	_	_	_	_	_	_	_	Shift=376
+4	росли	_	_	_	_	_	_	_	Shift=385
+5	чахлые	_	_	_	_	_	_	_	Shift=391
+6	можжевельники	_	_	_	_	_	_	_	Shift=398
+7	и	_	_	_	_	_	_	_	Shift=412
+8	низкорослые	_	_	_	_	_	_	_	Shift=414|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=425
+10	кривые	_	_	_	_	_	_	_	Shift=427
+11	горные	_	_	_	_	_	_	_	Shift=434
+12	сосны	_	_	_	_	_	_	_	Shift=441|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=446
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p1-s7
+# text = " Что за фантазия пришла кому-то в голову поселиться на этом диком, голом утесе?
+1	``	_	_	_	_	_	_	_	QuotationStart="|Shift=448
+2	Что	_	_	_	_	_	_	_	Shift=449
+3	за	_	_	_	_	_	_	_	Shift=453
+4	фантазия	_	_	_	_	_	_	_	Shift=456
+5	пришла	_	_	_	_	_	_	_	Shift=465
+6	кому-то	_	_	_	_	_	_	_	Shift=472
+7	в	_	_	_	_	_	_	_	Shift=480
+8	голову	_	_	_	_	_	_	_	Shift=482
+9	поселиться	_	_	_	_	_	_	_	Shift=489
+10	на	_	_	_	_	_	_	_	Shift=500
+11	этом	_	_	_	_	_	_	_	Shift=503
+12	диком	_	_	_	_	_	_	_	Shift=508|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=513
+14	голом	_	_	_	_	_	_	_	Shift=515
+15	утесе	_	_	_	_	_	_	_	Shift=521|SpaceAfter=No
+16	?	_	_	_	_	_	_	_	Shift=526
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p1-s8
+# text = Да и живет ли там кто-нибудь? "
+1	Да	_	_	_	_	_	_	_	Shift=528
+2	и	_	_	_	_	_	_	_	Shift=531
+3	живет	_	_	_	_	_	_	_	Shift=533
+4	ли	_	_	_	_	_	_	_	Shift=539
+5	там	_	_	_	_	_	_	_	Shift=542
+6	кто-нибудь	_	_	_	_	_	_	_	Shift=546|SpaceAfter=No
+7	?	_	_	_	_	_	_	_	Shift=556
+8	''	_	_	_	_	_	_	_	QuotationEnd="|Shift=557
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p1-s9
+# text = - думал я, бродя вокруг дачи.
+1	-	_	_	_	_	_	_	_	Shift=559
+2	думал	_	_	_	_	_	_	_	Shift=561
+3	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1070|RuCor_group_id=407851|RuCor_link_id=407839|Shift=567|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=568
+5	бродя	_	_	_	_	_	_	_	Shift=570
+6	вокруг	_	_	_	_	_	_	_	Shift=576
+7	дачи	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1069|RuCor_group_id=407856|RuCor_link_id=407848|Shift=583|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=587
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p1-s10
+# text = Я еще никогда не видел, чтобы кто-нибудь выходил оттуда.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1070|RuCor_group_id=407852|RuCor_link_id=407851|Shift=589
+2	еще	_	_	_	_	_	_	_	Shift=591
+3	никогда	_	_	_	_	_	_	_	Shift=595
+4	не	_	_	_	_	_	_	_	Shift=603
+5	видел	_	_	_	_	_	_	_	Shift=606|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=611
+7	чтобы	_	_	_	_	_	_	_	Shift=613
+8	кто-нибудь	_	_	_	_	_	_	_	Shift=619
+9	выходил	_	_	_	_	_	_	_	Shift=630
+10	оттуда	_	_	_	_	_	_	_	Shift=638|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=644
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p1-s11
+# text = Любопытство мое было так велико, что я, признаюсь, пытался заглянуть на двор таинственного жилища, взобравшись на вышележащие скалы.
+1	Любопытство	_	_	_	_	_	_	_	Shift=646
+2	мое	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1070|RuCor_group_id=407853|RuCor_link_id=407852|Shift=658
+3	было	_	_	_	_	_	_	_	Shift=662
+4	так	_	_	_	_	_	_	_	Shift=667
+5	велико	_	_	_	_	_	_	_	Shift=671|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=677
+7	что	_	_	_	_	_	_	_	Shift=679
+8	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1070|RuCor_group_id=407854|RuCor_link_id=407853|Shift=683|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=684
+10	признаюсь	_	_	_	_	_	_	_	Shift=686|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=695
+12	пытался	_	_	_	_	_	_	_	Shift=697
+13	заглянуть	_	_	_	_	_	_	_	Shift=705
+14	на	_	_	_	_	_	_	_	Shift=715
+15	двор	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1064|RuCor_group_id=407871|RuCor_link_id=0|Shift=718
+16	таинственного	_	_	_	_	_	_	_	RuCor_chain_id=1069|RuCor_group_id=407872|Shift=723
+17	жилища	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1069|RuCor_group_id=407872|RuCor_link_id=407856|Shift=737|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=743
+19	взобравшись	_	_	_	_	_	_	_	Shift=745
+20	на	_	_	_	_	_	_	_	Shift=757
+21	вышележащие	_	_	_	_	_	_	_	Shift=760
+22	скалы	_	_	_	_	_	_	_	Shift=772|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=777
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p1-s12
+# text = Но дача была так расположена, что, откуда бы я ни заходил, я мог видеть только небольшой угол двора.
+1	Но	_	_	_	_	_	_	_	Shift=779
+2	дача	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1069|RuCor_group_id=407855|RuCor_link_id=407872|Shift=782
+3	была	_	_	_	_	_	_	_	Shift=787
+4	так	_	_	_	_	_	_	_	Shift=792
+5	расположена	_	_	_	_	_	_	_	Shift=796|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=807
+7	что	_	_	_	_	_	_	_	Shift=809|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=812
+9	откуда	_	_	_	_	_	_	_	Shift=814
+10	бы	_	_	_	_	_	_	_	Shift=821
+11	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1070|RuCor_group_id=407857|RuCor_link_id=407854|Shift=824
+12	ни	_	_	_	_	_	_	_	Shift=826
+13	заходил	_	_	_	_	_	_	_	Shift=829|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=836
+15	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1070|RuCor_group_id=407858|RuCor_link_id=407857|Shift=838
+16	мог	_	_	_	_	_	_	_	Shift=840
+17	видеть	_	_	_	_	_	_	_	Shift=844
+18	только	_	_	_	_	_	_	_	Shift=851
+19	небольшой	_	_	_	_	_	_	_	Shift=858
+20	угол	_	_	_	_	_	_	_	Shift=868
+21	двора	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1064|RuCor_group_id=407859|RuCor_link_id=407871|Shift=873|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=878
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p1-s13
+# text = Он был так же пуст и невозделан, как и окружающая местность.
+1	Он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1064|RuCor_group_id=407860|RuCor_link_id=407859|Shift=880
+2	был	_	_	_	_	_	_	_	Shift=883
+3	так	_	_	_	_	_	_	_	Shift=887
+4	же	_	_	_	_	_	_	_	Shift=891
+5	пуст	_	_	_	_	_	_	_	Shift=894
+6	и	_	_	_	_	_	_	_	Shift=899
+7	невозделан	_	_	_	_	_	_	_	Shift=901|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=911
+9	как	_	_	_	_	_	_	_	Shift=913
+10	и	_	_	_	_	_	_	_	Shift=917
+11	окружающая	_	_	_	_	_	_	_	Shift=919
+12	местность	_	_	_	_	_	_	_	Shift=930|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=939
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p1-s14
+# text = Однако после нескольких дней наблюдений мне удалось заметить, что по двору прошла какая-то пожилая женщина в черном.
+1	Однако	_	_	_	_	_	_	_	Shift=941
+2	после	_	_	_	_	_	_	_	Shift=948
+3	нескольких	_	_	_	_	_	_	_	Shift=954
+4	дней	_	_	_	_	_	_	_	Shift=965
+5	наблюдений	_	_	_	_	_	_	_	Shift=970
+6	мне	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1070|RuCor_group_id=407861|RuCor_link_id=407858|Shift=981
+7	удалось	_	_	_	_	_	_	_	Shift=985
+8	заметить	_	_	_	_	_	_	_	Shift=993|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1001
+10	что	_	_	_	_	_	_	_	Shift=1003
+11	по	_	_	_	_	_	_	_	Shift=1007
+12	двору	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1064|RuCor_group_id=407862|RuCor_link_id=407860|Shift=1010
+13	прошла	_	_	_	_	_	_	_	Shift=1016
+14	какая-то	_	_	_	_	_	_	_	Shift=1023
+15	пожилая	_	_	_	_	_	_	_	Shift=1032
+16	женщина	_	_	_	_	_	_	_	Shift=1040
+17	в	_	_	_	_	_	_	_	Shift=1048
+18	черном	_	_	_	_	_	_	_	Shift=1050|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=1056
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p1-s15
+# text = Это еще больше заинтересовало меня.
+1	Это	_	_	_	_	_	_	_	Shift=1058
+2	еще	_	_	_	_	_	_	_	Shift=1062
+3	больше	_	_	_	_	_	_	_	Shift=1066
+4	заинтересовало	_	_	_	_	_	_	_	Shift=1073
+5	меня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1070|RuCor_group_id=407863|RuCor_link_id=407861|Shift=1088|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=1092
+
+# newpar id = 035eaef7-79bb-4d14-9c1e-393db8771692-p2
+# par_text = Если там живут люди, то должны же они поддерживать хоть какую- нибудь связь с внешним миром, ну, хотя бы ходить на базар за продуктами! Я стал наводить справки среди своих знакомых, и, наконец, мне удалось удовлетворить мое любопытство. Правда, никто не знал достоверно об обитателях дачи, но один знакомый сообщил мне, что, по слухам, там живет профессор Вагнер. Профессор Вагнер! Этого было достаточно, чтобы совершенно приковать мое внимание к даче. Мне во что бы то ни стало захотелось увидеть необычайного человека, наделавшего столько шума своими изобретениями. Но как?.. Я буквально стал шпионить за дачей. Я чувствовал, что это было нехорошо, и все-таки продолжал свои наблюдения, целыми часами в разное время дня и даже ночи просиживая за можжевеловым кустом, недалеко от дачи. Говорят, если человек неотступно преследует одну цель, то рано или поздно он достигнет ее. Как-то рано утром, когда только что рассвело, я вдруг услышал, что заветная дверь в высоком заборе скрипнула. Я весь насторожился, сжался и затаив дыхание стал следить, что будет дальше. Дверь открылась. Высокий человек, с румяным лицом, русой бородой и нависшими усами вышел и внимательно осмотрелся вокруг. Конечно, это он, профессор Вагнер! Убедившись, что вокруг никого нет, он стал медленно подниматься вверх, дошел до небольшой горной площадки и начал заниматься там какими-то совершенно непонятными для меня упражнениями. На площадке были разбросаны камни различной величины. Вагнер подходил к ним и делал попытки поднять их, затем, осторожно ступая, переходил на новое место и опять брался за камни. Но все они были так велики и тяжелы, что даже профессиональный атлет едва ли смог бы сдвинуть их с места. "Что за странная забава!"-подумал я. И вдруг я был так поражен, что не мог сдержать невольное восклицание. Произошло что-то невероятное: профессор Вагнер подошел к огромному обломку скалы, величиною более человеческого роста, взял за выступавший острый край и поднял обломок с такой легкостью, как если бы это был кусок картона. Вытянув руку, он начал описывать дуги этим обломком скалы. Я не знал, что подумать. Или Вагнер обладал сверхъестественной силой... но тогда почему он не мог поднять небольшие сравнительно камни, или... Я не успел додумать свою мысль, как новый фокус Вагнера еще больше поразил меня. Вагнер бросил глыбу вверх, как маленький камешек, и она полетела, поднявшись на высоту двух десятков метров. С волнением ожидал я, как грохнет эта глыба на землю. Но обломок падал обратно довольно медленно. Я насчитал десять секунд, прежде чем глыба опустилась вниз. И, когда она была над землей на высоте человеческого роста, Вагнер подставил руку, поймал и удержал глыбу, причем рука его даже не дрогнула.
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p2-s1
+# text = Если там живут люди, то должны же они поддерживать хоть какую-нибудь связь с внешним миром, ну, хотя бы ходить на базар за продуктами!
+1	Если	_	_	_	_	_	_	_	Shift=1097
+2	там	_	_	_	_	_	_	_	Shift=1102
+3	живут	_	_	_	_	_	_	_	Shift=1106
+4	люди	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1065|RuCor_group_id=407864|RuCor_link_id=0|Shift=1112|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1116
+6	то	_	_	_	_	_	_	_	Shift=1118
+7	должны	_	_	_	_	_	_	_	Shift=1121
+8	же	_	_	_	_	_	_	_	Shift=1128
+9	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1065|RuCor_group_id=407865|RuCor_link_id=407864|Shift=1131
+10	поддерживать	_	_	_	_	_	_	_	Shift=1135
+11	хоть	_	_	_	_	_	_	_	Shift=1148
+12	какую-нибудь	_	_	_	_	_	_	_	Shift=1153
+13	связь	_	_	_	_	_	_	_	Shift=1167
+14	с	_	_	_	_	_	_	_	Shift=1173
+15	внешним	_	_	_	_	_	_	_	Shift=1175
+16	миром	_	_	_	_	_	_	_	Shift=1183|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=1188
+18	ну	_	_	_	_	_	_	_	Shift=1190|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=1192
+20	хотя	_	_	_	_	_	_	_	Shift=1194
+21	бы	_	_	_	_	_	_	_	Shift=1199
+22	ходить	_	_	_	_	_	_	_	Shift=1202
+23	на	_	_	_	_	_	_	_	Shift=1209
+24	базар	_	_	_	_	_	_	_	Shift=1212
+25	за	_	_	_	_	_	_	_	Shift=1218
+26	продуктами	_	_	_	_	_	_	_	Shift=1221|SpaceAfter=No
+27	!	_	_	_	_	_	_	_	Shift=1231
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p2-s2
+# text = Я стал наводить справки среди своих знакомых, и, наконец, мне удалось удовлетворить мое любопытство.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1070|RuCor_group_id=407866|RuCor_link_id=407863|Shift=1233
+2	стал	_	_	_	_	_	_	_	Shift=1235
+3	наводить	_	_	_	_	_	_	_	Shift=1240
+4	справки	_	_	_	_	_	_	_	Shift=1249
+5	среди	_	_	_	_	_	_	_	Shift=1257
+6	своих	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=1070|RuCor_group_id=407867|RuCor_link_id=407866|Shift=1263
+7	знакомых	_	_	_	_	_	_	_	Shift=1269|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1277
+9	и	_	_	_	_	_	_	_	Shift=1279|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=1280
+11	наконец	_	_	_	_	_	_	_	Shift=1282|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=1289
+13	мне	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1070|RuCor_group_id=407868|RuCor_link_id=407867|Shift=1291
+14	удалось	_	_	_	_	_	_	_	Shift=1295
+15	удовлетворить	_	_	_	_	_	_	_	Shift=1303
+16	мое	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1070|RuCor_group_id=407869|RuCor_link_id=407868|Shift=1317
+17	любопытство	_	_	_	_	_	_	_	Shift=1321|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=1332
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p2-s3
+# text = Правда, никто не знал достоверно об обитателях дачи, но один знакомый сообщил мне, что, по слухам, там живет профессор Вагнер.
+1	Правда	_	_	_	_	_	_	_	Shift=1334|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=1340
+3	никто	_	_	_	_	_	_	_	Shift=1342
+4	не	_	_	_	_	_	_	_	Shift=1348
+5	знал	_	_	_	_	_	_	_	Shift=1351
+6	достоверно	_	_	_	_	_	_	_	Shift=1356
+7	об	_	_	_	_	_	_	_	Shift=1367
+8	обитателях	_	_	_	_	_	_	_	Shift=1370
+9	дачи	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1069|RuCor_group_id=407870|RuCor_link_id=407855|Shift=1381|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=1385
+11	но	_	_	_	_	_	_	_	Shift=1387
+12	один	_	_	_	_	_	_	_	Shift=1390
+13	знакомый	_	_	_	_	_	_	_	Shift=1395
+14	сообщил	_	_	_	_	_	_	_	Shift=1404
+15	мне	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1070|RuCor_group_id=407873|RuCor_link_id=407869|Shift=1412|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=1415
+17	что	_	_	_	_	_	_	_	Shift=1417|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=1420
+19	по	_	_	_	_	_	_	_	Shift=1422
+20	слухам	_	_	_	_	_	_	_	Shift=1425|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=1431
+22	там	_	_	_	_	_	_	_	Shift=1433
+23	живет	_	_	_	_	_	_	_	Shift=1437
+24	профессор	_	_	_	_	_	_	_	RuCor_chain_id=1063|RuCor_group_id=407874|Shift=1443
+25	Вагнер	_	_	_	_	_	_	_	RuCor_chain_id=1063|RuCor_group_id=407874|Shift=1453|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=1459
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p2-s4
+# text = Профессор Вагнер!
+1	Профессор	_	_	_	_	_	_	_	RuCor_chain_id=1063|RuCor_group_id=407875|Shift=1461
+2	Вагнер	_	_	_	_	_	_	_	RuCor_chain_id=1063|RuCor_group_id=407875|Shift=1471|SpaceAfter=No
+3	!	_	_	_	_	_	_	_	Shift=1477
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p2-s5
+# text = Этого было достаточно, чтобы совершенно приковать мое внимание к даче.
+1	Этого	_	_	_	_	_	_	_	Shift=1479
+2	было	_	_	_	_	_	_	_	Shift=1485
+3	достаточно	_	_	_	_	_	_	_	Shift=1490|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1500
+5	чтобы	_	_	_	_	_	_	_	Shift=1502
+6	совершенно	_	_	_	_	_	_	_	Shift=1508
+7	приковать	_	_	_	_	_	_	_	Shift=1519
+8	мое	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1070|RuCor_group_id=407876|RuCor_link_id=407873|Shift=1529
+9	внимание	_	_	_	_	_	_	_	Shift=1533
+10	к	_	_	_	_	_	_	_	Shift=1542
+11	даче	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1069|RuCor_group_id=407877|RuCor_link_id=407870|Shift=1544|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=1548
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p2-s6
+# text = Мне во что бы то ни стало захотелось увидеть необычайного человека, наделавшего столько шума своими изобретениями.
+1	Мне	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1070|RuCor_group_id=407878|RuCor_link_id=407876|Shift=1550
+2	во	_	_	_	_	_	_	_	Shift=1554
+3	что	_	_	_	_	_	_	_	Shift=1557
+4	бы	_	_	_	_	_	_	_	Shift=1561
+5	то	_	_	_	_	_	_	_	Shift=1564
+6	ни	_	_	_	_	_	_	_	Shift=1567
+7	стало	_	_	_	_	_	_	_	Shift=1570
+8	захотелось	_	_	_	_	_	_	_	Shift=1576
+9	увидеть	_	_	_	_	_	_	_	Shift=1587
+10	необычайного	_	_	_	_	_	_	_	RuCor_chain_id=1063|RuCor_group_id=407879|Shift=1595
+11	человека	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1063|RuCor_group_id=407879|RuCor_link_id=407875|Shift=1608|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=1616
+13	наделавшего	_	_	_	_	_	_	_	Shift=1618
+14	столько	_	_	_	_	_	_	_	Shift=1630
+15	шума	_	_	_	_	_	_	_	Shift=1638
+16	своими	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=1063|RuCor_group_id=407880|RuCor_link_id=407879|Shift=1643
+17	изобретениями	_	_	_	_	_	_	_	Shift=1650|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=1663
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p2-s7
+# text = Но как?
+1	Но	_	_	_	_	_	_	_	Shift=1665
+2	как	_	_	_	_	_	_	_	Shift=1668|SpaceAfter=No
+3	?	_	_	_	_	_	_	_	Shift=1671
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p2-s8
+# text = Я буквально стал шпионить за дачей.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1070|RuCor_group_id=407881|RuCor_link_id=407878|Shift=1675
+2	буквально	_	_	_	_	_	_	_	Shift=1677
+3	стал	_	_	_	_	_	_	_	Shift=1687
+4	шпионить	_	_	_	_	_	_	_	Shift=1692
+5	за	_	_	_	_	_	_	_	Shift=1701
+6	дачей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1069|RuCor_group_id=407882|RuCor_link_id=407877|Shift=1704|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=1709
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p2-s9
+# text = Я чувствовал, что это было нехорошо, и все-таки продолжал свои наблюдения, целыми часами в разное время дня и даже ночи просиживая за можжевеловым кустом, недалеко от дачи.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1070|RuCor_group_id=407883|RuCor_link_id=407881|Shift=1711
+2	чувствовал	_	_	_	_	_	_	_	Shift=1713|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1723
+4	что	_	_	_	_	_	_	_	Shift=1725
+5	это	_	_	_	_	_	_	_	Shift=1729
+6	было	_	_	_	_	_	_	_	Shift=1733
+7	нехорошо	_	_	_	_	_	_	_	Shift=1738|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1746
+9	и	_	_	_	_	_	_	_	Shift=1748
+10	все-таки	_	_	_	_	_	_	_	Shift=1750
+11	продолжал	_	_	_	_	_	_	_	Shift=1759
+12	свои	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=1070|RuCor_group_id=407884|RuCor_link_id=407883|Shift=1769
+13	наблюдения	_	_	_	_	_	_	_	Shift=1774|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=1784
+15	целыми	_	_	_	_	_	_	_	Shift=1786
+16	часами	_	_	_	_	_	_	_	Shift=1793
+17	в	_	_	_	_	_	_	_	Shift=1800
+18	разное	_	_	_	_	_	_	_	Shift=1802
+19	время	_	_	_	_	_	_	_	Shift=1809
+20	дня	_	_	_	_	_	_	_	Shift=1815
+21	и	_	_	_	_	_	_	_	Shift=1819
+22	даже	_	_	_	_	_	_	_	Shift=1821
+23	ночи	_	_	_	_	_	_	_	Shift=1826
+24	просиживая	_	_	_	_	_	_	_	Shift=1831
+25	за	_	_	_	_	_	_	_	Shift=1842
+26	можжевеловым	_	_	_	_	_	_	_	RuCor_chain_id=1055|RuCor_group_id=407963|Shift=1845
+27	кустом	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1055|RuCor_group_id=407963|RuCor_link_id=0|Shift=1858|SpaceAfter=No
+28	,	_	_	_	_	_	_	_	Shift=1864
+29	недалеко	_	_	_	_	_	_	_	Shift=1866
+30	от	_	_	_	_	_	_	_	Shift=1875
+31	дачи	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1069|RuCor_group_id=407885|RuCor_link_id=407882|Shift=1878|SpaceAfter=No
+32	.	_	_	_	_	_	_	_	Shift=1882
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p2-s10
+# text = Говорят, если человек неотступно преследует одну цель, то рано или поздно он достигнет ее.
+1	Говорят	_	_	_	_	_	_	_	Shift=1884|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=1891
+3	если	_	_	_	_	_	_	_	Shift=1893
+4	человек	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1062|RuCor_group_id=407886|RuCor_link_id=0|Shift=1898
+5	неотступно	_	_	_	_	_	_	_	Shift=1906
+6	преследует	_	_	_	_	_	_	_	Shift=1917
+7	одну	_	_	_	_	_	_	_	RuCor_chain_id=1061|RuCor_group_id=407888|Shift=1928
+8	цель	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1061|RuCor_group_id=407888|RuCor_link_id=0|Shift=1933|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1937
+10	то	_	_	_	_	_	_	_	Shift=1939
+11	рано	_	_	_	_	_	_	_	Shift=1942
+12	или	_	_	_	_	_	_	_	Shift=1947
+13	поздно	_	_	_	_	_	_	_	Shift=1951
+14	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1062|RuCor_group_id=407887|RuCor_link_id=407886|Shift=1958
+15	достигнет	_	_	_	_	_	_	_	Shift=1961
+16	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1061|RuCor_group_id=407889|RuCor_link_id=407888|Shift=1971|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=1973
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p2-s11
+# text = Как-то рано утром, когда только что рассвело, я вдруг услышал, что заветная дверь в высоком заборе скрипнула.
+1	Как-то	_	_	_	_	_	_	_	Shift=1975
+2	рано	_	_	_	_	_	_	_	Shift=1982
+3	утром	_	_	_	_	_	_	_	Shift=1987|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1992
+5	когда	_	_	_	_	_	_	_	Shift=1994
+6	только	_	_	_	_	_	_	_	Shift=2000
+7	что	_	_	_	_	_	_	_	Shift=2007
+8	рассвело	_	_	_	_	_	_	_	Shift=2011|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=2019
+10	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1070|RuCor_group_id=407890|RuCor_link_id=407884|Shift=2021
+11	вдруг	_	_	_	_	_	_	_	Shift=2023
+12	услышал	_	_	_	_	_	_	_	Shift=2029|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=2036
+14	что	_	_	_	_	_	_	_	Shift=2038
+15	заветная	_	_	_	_	_	_	_	RuCor_chain_id=1068|RuCor_group_id=407891|Shift=2042
+16	дверь	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1068|RuCor_group_id=407891|RuCor_link_id=407845|Shift=2051
+17	в	_	_	_	_	_	_	_	RuCor_chain_id=1068|RuCor_group_id=407891|Shift=2057
+18	высоком	_	_	_	_	_	_	_	RuCor_chain_id=1067|RuCor_group_id=407892|Shift=2059
+19	заборе	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1067|RuCor_group_id=407892|RuCor_link_id=407847|Shift=2067
+20	скрипнула	_	_	_	_	_	_	_	Shift=2074|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=2083
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p2-s12
+# text = Я весь насторожился, сжался и затаив дыхание стал следить, что будет дальше.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1070|RuCor_group_id=407893|RuCor_link_id=407890|Shift=2085
+2	весь	_	_	_	_	_	_	_	Shift=2087
+3	насторожился	_	_	_	_	_	_	_	Shift=2092|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2104
+5	сжался	_	_	_	_	_	_	_	Shift=2106
+6	и	_	_	_	_	_	_	_	Shift=2113
+7	затаив	_	_	_	_	_	_	_	Shift=2115
+8	дыхание	_	_	_	_	_	_	_	Shift=2122
+9	стал	_	_	_	_	_	_	_	Shift=2130
+10	следить	_	_	_	_	_	_	_	Shift=2135|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=2142
+12	что	_	_	_	_	_	_	_	Shift=2144
+13	будет	_	_	_	_	_	_	_	Shift=2148
+14	дальше	_	_	_	_	_	_	_	Shift=2154|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=2160
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p2-s13
+# text = Дверь открылась.
+1	Дверь	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1068|RuCor_group_id=407894|RuCor_link_id=407891|Shift=2162
+2	открылась	_	_	_	_	_	_	_	Shift=2168|SpaceAfter=No
+3	.	_	_	_	_	_	_	_	Shift=2177
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p2-s14
+# text = Высокий человек, с румяным лицом, русой бородой и нависшими усами вышел и внимательно осмотрелся вокруг.
+1	Высокий	_	_	_	_	_	_	_	RuCor_chain_id=1063|RuCor_group_id=407895|Shift=2179
+2	человек	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1063|RuCor_group_id=407895|RuCor_link_id=407880|Shift=2187|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	RuCor_chain_id=1063|RuCor_group_id=407895|Shift=2194
+4	с	_	_	_	_	_	_	_	RuCor_chain_id=1063|RuCor_group_id=407895|Shift=2196
+5	румяным	_	_	_	_	_	_	_	RuCor_chain_id=1063|RuCor_group_id=407895|Shift=2198
+6	лицом	_	_	_	_	_	_	_	RuCor_chain_id=1063|RuCor_group_id=407895|Shift=2206|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	RuCor_chain_id=1063|RuCor_group_id=407895|Shift=2211
+8	русой	_	_	_	_	_	_	_	RuCor_chain_id=1063|RuCor_group_id=407895|Shift=2213
+9	бородой	_	_	_	_	_	_	_	RuCor_chain_id=1063|RuCor_group_id=407895|Shift=2219
+10	и	_	_	_	_	_	_	_	RuCor_chain_id=1063|RuCor_group_id=407895|Shift=2227
+11	нависшими	_	_	_	_	_	_	_	RuCor_chain_id=1063|RuCor_group_id=407895|Shift=2229
+12	усами	_	_	_	_	_	_	_	RuCor_chain_id=1063|RuCor_group_id=407895|Shift=2239
+13	вышел	_	_	_	_	_	_	_	Shift=2245
+14	и	_	_	_	_	_	_	_	Shift=2251
+15	внимательно	_	_	_	_	_	_	_	Shift=2253
+16	осмотрелся	_	_	_	_	_	_	_	Shift=2265
+17	вокруг	_	_	_	_	_	_	_	Shift=2276|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=2282
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p2-s15
+# text = Конечно, это он, профессор Вагнер!
+1	Конечно	_	_	_	_	_	_	_	Shift=2284|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=2291
+3	это	_	_	_	_	_	_	_	Shift=2293
+4	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1063|RuCor_group_id=407896|RuCor_link_id=407895|Shift=2297|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=2299
+6	профессор	_	_	_	_	_	_	_	RuCor_chain_id=1063|RuCor_group_id=407897|Shift=2301
+7	Вагнер	_	_	_	_	_	_	_	RuCor_chain_id=1063|RuCor_group_id=407897|Shift=2311|SpaceAfter=No
+8	!	_	_	_	_	_	_	_	Shift=2317
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p2-s16
+# text = Убедившись, что вокруг никого нет, он стал медленно подниматься вверх, дошел до небольшой горной площадки и начал заниматься там какими-то совершенно непонятными для меня упражнениями.
+1	Убедившись	_	_	_	_	_	_	_	Shift=2319|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=2329
+3	что	_	_	_	_	_	_	_	Shift=2331
+4	вокруг	_	_	_	_	_	_	_	Shift=2335
+5	никого	_	_	_	_	_	_	_	Shift=2342
+6	нет	_	_	_	_	_	_	_	Shift=2349|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=2352
+8	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1063|RuCor_group_id=407898|RuCor_link_id=407897|Shift=2354
+9	стал	_	_	_	_	_	_	_	Shift=2357
+10	медленно	_	_	_	_	_	_	_	Shift=2362
+11	подниматься	_	_	_	_	_	_	_	Shift=2371
+12	вверх	_	_	_	_	_	_	_	Shift=2383|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=2388
+14	дошел	_	_	_	_	_	_	_	Shift=2390
+15	до	_	_	_	_	_	_	_	Shift=2396
+16	небольшой	_	_	_	_	_	_	_	RuCor_chain_id=1060|RuCor_group_id=407900|Shift=2399
+17	горной	_	_	_	_	_	_	_	RuCor_chain_id=1060|RuCor_group_id=407900|Shift=2409
+18	площадки	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1060|RuCor_group_id=407900|RuCor_link_id=0|Shift=2416
+19	и	_	_	_	_	_	_	_	Shift=2425
+20	начал	_	_	_	_	_	_	_	Shift=2427
+21	заниматься	_	_	_	_	_	_	_	Shift=2433
+22	там	_	_	_	_	_	_	_	Shift=2444
+23	какими-то	_	_	_	_	_	_	_	Shift=2448
+24	совершенно	_	_	_	_	_	_	_	Shift=2458
+25	непонятными	_	_	_	_	_	_	_	Shift=2469
+26	для	_	_	_	_	_	_	_	Shift=2481
+27	меня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1070|RuCor_group_id=407899|RuCor_link_id=407893|Shift=2485
+28	упражнениями	_	_	_	_	_	_	_	Shift=2490|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	Shift=2502
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p2-s17
+# text = На площадке были разбросаны камни различной величины.
+1	На	_	_	_	_	_	_	_	Shift=2504
+2	площадке	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1060|RuCor_group_id=407901|RuCor_link_id=407900|Shift=2507
+3	были	_	_	_	_	_	_	_	Shift=2516
+4	разбросаны	_	_	_	_	_	_	_	Shift=2521
+5	камни	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1059|RuCor_group_id=407903|RuCor_link_id=0|Shift=2532
+6	различной	_	_	_	_	_	_	_	RuCor_chain_id=1059|RuCor_group_id=407903|Shift=2538
+7	величины	_	_	_	_	_	_	_	RuCor_chain_id=1059|RuCor_group_id=407903|Shift=2548|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=2556
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p2-s18
+# text = Вагнер подходил к ним и делал попытки поднять их, затем, осторожно ступая, переходил на новое место и опять брался за камни.
+1	Вагнер	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1063|RuCor_group_id=407902|RuCor_link_id=407898|Shift=2558
+2	подходил	_	_	_	_	_	_	_	Shift=2565
+3	к	_	_	_	_	_	_	_	Shift=2574
+4	ним	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1059|RuCor_group_id=407904|RuCor_link_id=407903|Shift=2576
+5	и	_	_	_	_	_	_	_	Shift=2580
+6	делал	_	_	_	_	_	_	_	Shift=2582
+7	попытки	_	_	_	_	_	_	_	Shift=2588
+8	поднять	_	_	_	_	_	_	_	Shift=2596
+9	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1059|RuCor_group_id=407905|RuCor_link_id=407904|Shift=2604|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=2606
+11	затем	_	_	_	_	_	_	_	Shift=2608|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=2613
+13	осторожно	_	_	_	_	_	_	_	Shift=2615
+14	ступая	_	_	_	_	_	_	_	Shift=2625|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=2631
+16	переходил	_	_	_	_	_	_	_	Shift=2633
+17	на	_	_	_	_	_	_	_	Shift=2643
+18	новое	_	_	_	_	_	_	_	Shift=2646
+19	место	_	_	_	_	_	_	_	Shift=2652
+20	и	_	_	_	_	_	_	_	Shift=2658
+21	опять	_	_	_	_	_	_	_	Shift=2660
+22	брался	_	_	_	_	_	_	_	Shift=2666
+23	за	_	_	_	_	_	_	_	Shift=2673
+24	камни	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1058|RuCor_group_id=407906|RuCor_link_id=0|Shift=2676|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=2681
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p2-s19
+# text = Но все они были так велики и тяжелы, что даже профессиональный атлет едва ли смог бы сдвинуть их с места.
+1	Но	_	_	_	_	_	_	_	Shift=2683
+2	все	_	_	_	_	_	_	_	Shift=2686
+3	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1058|RuCor_group_id=407907|RuCor_link_id=407906|Shift=2690
+4	были	_	_	_	_	_	_	_	Shift=2694
+5	так	_	_	_	_	_	_	_	Shift=2699
+6	велики	_	_	_	_	_	_	_	Shift=2703
+7	и	_	_	_	_	_	_	_	Shift=2710
+8	тяжелы	_	_	_	_	_	_	_	Shift=2712|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=2718
+10	что	_	_	_	_	_	_	_	Shift=2720
+11	даже	_	_	_	_	_	_	_	Shift=2724
+12	профессиональный	_	_	_	_	_	_	_	Shift=2729
+13	атлет	_	_	_	_	_	_	_	Shift=2746
+14	едва	_	_	_	_	_	_	_	Shift=2752
+15	ли	_	_	_	_	_	_	_	Shift=2757
+16	смог	_	_	_	_	_	_	_	Shift=2760
+17	бы	_	_	_	_	_	_	_	Shift=2765
+18	сдвинуть	_	_	_	_	_	_	_	Shift=2768
+19	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1058|RuCor_group_id=407908|RuCor_link_id=407907|Shift=2777
+20	с	_	_	_	_	_	_	_	Shift=2780
+21	места	_	_	_	_	_	_	_	Shift=2782|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=2787
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p2-s20
+# text = " Что за странная забава! "
+1	``	_	_	_	_	_	_	_	QuotationStart="|Shift=2789
+2	Что	_	_	_	_	_	_	_	Shift=2790
+3	за	_	_	_	_	_	_	_	Shift=2794
+4	странная	_	_	_	_	_	_	_	Shift=2797
+5	забава	_	_	_	_	_	_	_	Shift=2806|SpaceAfter=No
+6	!	_	_	_	_	_	_	_	Shift=2812
+7	''	_	_	_	_	_	_	_	QuotationEnd="|Shift=2813
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p2-s21
+# text = - подумал я.
+1	-	_	_	_	_	_	_	_	Shift=2814
+2	подумал	_	_	_	_	_	_	_	Shift=2815
+3	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1070|RuCor_group_id=407909|RuCor_link_id=407899|Shift=2823|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=2824
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p2-s22
+# text = И вдруг я был так поражен, что не мог сдержать невольное восклицание.
+1	И	_	_	_	_	_	_	_	Shift=2826
+2	вдруг	_	_	_	_	_	_	_	Shift=2828
+3	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1070|RuCor_group_id=407910|RuCor_link_id=407909|Shift=2834
+4	был	_	_	_	_	_	_	_	Shift=2836
+5	так	_	_	_	_	_	_	_	Shift=2840
+6	поражен	_	_	_	_	_	_	_	Shift=2844|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=2851
+8	что	_	_	_	_	_	_	_	Shift=2853
+9	не	_	_	_	_	_	_	_	Shift=2857
+10	мог	_	_	_	_	_	_	_	Shift=2860
+11	сдержать	_	_	_	_	_	_	_	Shift=2864
+12	невольное	_	_	_	_	_	_	_	Shift=2873
+13	восклицание	_	_	_	_	_	_	_	Shift=2883|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=2894
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p2-s23
+# text = Произошло что-то невероятное: профессор Вагнер подошел к огромному обломку скалы, величиною более человеческого роста, взял за выступавший острый край и поднял обломок с такой легкостью, как если бы это был кусок картона.
+1	Произошло	_	_	_	_	_	_	_	Shift=2896
+2	что-то	_	_	_	_	_	_	_	Shift=2906
+3	невероятное	_	_	_	_	_	_	_	Shift=2913|SpaceAfter=No
+4	:	_	_	_	_	_	_	_	Shift=2924
+5	профессор	_	_	_	_	_	_	_	RuCor_chain_id=1063|RuCor_group_id=407911|Shift=2926
+6	Вагнер	_	_	_	_	_	_	_	RuCor_chain_id=1063|RuCor_group_id=407911|Shift=2936
+7	подошел	_	_	_	_	_	_	_	Shift=2943
+8	к	_	_	_	_	_	_	_	Shift=2951
+9	огромному	_	_	_	_	_	_	_	RuCor_chain_id=1057|RuCor_group_id=407912|Shift=2953
+10	обломку	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1057|RuCor_group_id=407912|RuCor_link_id=0|Shift=2963
+11	скалы	_	_	_	_	_	_	_	RuCor_chain_id=1057|RuCor_group_id=407912|Shift=2971|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=2976
+13	величиною	_	_	_	_	_	_	_	Shift=2978
+14	более	_	_	_	_	_	_	_	Shift=2988
+15	человеческого	_	_	_	_	_	_	_	Shift=2994
+16	роста	_	_	_	_	_	_	_	Shift=3008|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=3013
+18	взял	_	_	_	_	_	_	_	Shift=3015
+19	за	_	_	_	_	_	_	_	Shift=3020
+20	выступавший	_	_	_	_	_	_	_	Shift=3023
+21	острый	_	_	_	_	_	_	_	Shift=3035
+22	край	_	_	_	_	_	_	_	Shift=3042
+23	и	_	_	_	_	_	_	_	Shift=3047
+24	поднял	_	_	_	_	_	_	_	Shift=3049
+25	обломок	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1057|RuCor_group_id=407913|RuCor_link_id=407912|Shift=3056
+26	с	_	_	_	_	_	_	_	Shift=3064
+27	такой	_	_	_	_	_	_	_	Shift=3066
+28	легкостью	_	_	_	_	_	_	_	Shift=3072|SpaceAfter=No
+29	,	_	_	_	_	_	_	_	Shift=3081
+30	как	_	_	_	_	_	_	_	Shift=3083
+31	если	_	_	_	_	_	_	_	Shift=3087
+32	бы	_	_	_	_	_	_	_	Shift=3092
+33	это	_	_	_	_	_	_	_	Shift=3095
+34	был	_	_	_	_	_	_	_	Shift=3099
+35	кусок	_	_	_	_	_	_	_	Shift=3103
+36	картона	_	_	_	_	_	_	_	Shift=3109|SpaceAfter=No
+37	.	_	_	_	_	_	_	_	Shift=3116
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p2-s24
+# text = Вытянув руку, он начал описывать дуги этим обломком скалы.
+1	Вытянув	_	_	_	_	_	_	_	Shift=3118
+2	руку	_	_	_	_	_	_	_	Shift=3126|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=3130
+4	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1063|RuCor_group_id=407914|RuCor_link_id=407911|Shift=3132
+5	начал	_	_	_	_	_	_	_	Shift=3135
+6	описывать	_	_	_	_	_	_	_	Shift=3141
+7	дуги	_	_	_	_	_	_	_	Shift=3151
+8	этим	_	_	_	_	_	_	_	RuCor_chain_id=1057|RuCor_group_id=407915|Shift=3156
+9	обломком	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1057|RuCor_group_id=407915|RuCor_link_id=407913|Shift=3161
+10	скалы	_	_	_	_	_	_	_	RuCor_chain_id=1057|RuCor_group_id=407915|Shift=3170|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=3175
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p2-s25
+# text = Я не знал, что подумать.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1070|RuCor_group_id=407916|RuCor_link_id=407910|Shift=3177
+2	не	_	_	_	_	_	_	_	Shift=3179
+3	знал	_	_	_	_	_	_	_	Shift=3182|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=3186
+5	что	_	_	_	_	_	_	_	Shift=3188
+6	подумать	_	_	_	_	_	_	_	Shift=3192|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=3200
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p2-s26
+# text = Или Вагнер обладал сверхъестественной силой... но тогда почему он не мог поднять небольшие сравнительно камни, или...
+1	Или	_	_	_	_	_	_	_	Shift=3202
+2	Вагнер	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1063|RuCor_group_id=407917|RuCor_link_id=407914|Shift=3206
+3	обладал	_	_	_	_	_	_	_	Shift=3213
+4	сверхъестественной	_	_	_	_	_	_	_	Shift=3221
+5	силой	_	_	_	_	_	_	_	Shift=3240|SpaceAfter=No
+6	...	_	_	_	_	_	_	_	Shift=3245
+7	но	_	_	_	_	_	_	_	Shift=3249
+8	тогда	_	_	_	_	_	_	_	Shift=3252
+9	почему	_	_	_	_	_	_	_	Shift=3258
+10	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1063|RuCor_group_id=407918|RuCor_link_id=407917|Shift=3265
+11	не	_	_	_	_	_	_	_	Shift=3268
+12	мог	_	_	_	_	_	_	_	Shift=3271
+13	поднять	_	_	_	_	_	_	_	Shift=3275
+14	небольшие	_	_	_	_	_	_	_	Shift=3283
+15	сравнительно	_	_	_	_	_	_	_	Shift=3293
+16	камни	_	_	_	_	_	_	_	Shift=3306|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=3311
+18	или	_	_	_	_	_	_	_	Shift=3313|SpaceAfter=No
+19	...	_	_	_	_	_	_	_	Shift=3316
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p2-s27
+# text = Я не успел додумать свою мысль, как новый фокус Вагнера еще больше поразил меня.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1070|RuCor_group_id=407919|RuCor_link_id=407916|Shift=3320
+2	не	_	_	_	_	_	_	_	Shift=3322
+3	успел	_	_	_	_	_	_	_	Shift=3325
+4	додумать	_	_	_	_	_	_	_	Shift=3331
+5	свою	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=1070|RuCor_group_id=407920|RuCor_link_id=407919|Shift=3340
+6	мысль	_	_	_	_	_	_	_	Shift=3345|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=3350
+8	как	_	_	_	_	_	_	_	Shift=3352
+9	новый	_	_	_	_	_	_	_	Shift=3356
+10	фокус	_	_	_	_	_	_	_	Shift=3362
+11	Вагнера	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1063|RuCor_group_id=407921|RuCor_link_id=407918|Shift=3368
+12	еще	_	_	_	_	_	_	_	Shift=3376
+13	больше	_	_	_	_	_	_	_	Shift=3380
+14	поразил	_	_	_	_	_	_	_	Shift=3387
+15	меня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1070|RuCor_group_id=407922|RuCor_link_id=407920|Shift=3395|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=3399
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p2-s28
+# text = Вагнер бросил глыбу вверх, как маленький камешек, и она полетела, поднявшись на высоту двух десятков метров.
+1	Вагнер	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1063|RuCor_group_id=407923|RuCor_link_id=407921|Shift=3401
+2	бросил	_	_	_	_	_	_	_	Shift=3408
+3	глыбу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1057|RuCor_group_id=407924|RuCor_link_id=407915|Shift=3415
+4	вверх	_	_	_	_	_	_	_	Shift=3421|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=3426
+6	как	_	_	_	_	_	_	_	Shift=3428
+7	маленький	_	_	_	_	_	_	_	Shift=3432
+8	камешек	_	_	_	_	_	_	_	Shift=3442|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=3449
+10	и	_	_	_	_	_	_	_	Shift=3451
+11	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1057|RuCor_group_id=407925|RuCor_link_id=407924|Shift=3453
+12	полетела	_	_	_	_	_	_	_	Shift=3457|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=3465
+14	поднявшись	_	_	_	_	_	_	_	Shift=3467
+15	на	_	_	_	_	_	_	_	Shift=3478
+16	высоту	_	_	_	_	_	_	_	Shift=3481
+17	двух	_	_	_	_	_	_	_	Shift=3488
+18	десятков	_	_	_	_	_	_	_	Shift=3493
+19	метров	_	_	_	_	_	_	_	Shift=3502|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=3508
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p2-s29
+# text = С волнением ожидал я, как грохнет эта глыба на землю.
+1	С	_	_	_	_	_	_	_	Shift=3510
+2	волнением	_	_	_	_	_	_	_	Shift=3512
+3	ожидал	_	_	_	_	_	_	_	Shift=3522
+4	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1070|RuCor_group_id=407926|RuCor_link_id=407922|Shift=3529|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=3530
+6	как	_	_	_	_	_	_	_	Shift=3532
+7	грохнет	_	_	_	_	_	_	_	Shift=3536
+8	эта	_	_	_	_	_	_	_	RuCor_chain_id=1057|RuCor_group_id=407927|Shift=3544
+9	глыба	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1057|RuCor_group_id=407927|RuCor_link_id=407925|Shift=3548
+10	на	_	_	_	_	_	_	_	Shift=3554
+11	землю	_	_	_	_	_	_	_	Shift=3557|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=3562
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p2-s30
+# text = Но обломок падал обратно довольно медленно.
+1	Но	_	_	_	_	_	_	_	Shift=3564
+2	обломок	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1057|RuCor_group_id=407928|RuCor_link_id=407927|Shift=3567
+3	падал	_	_	_	_	_	_	_	Shift=3575
+4	обратно	_	_	_	_	_	_	_	Shift=3581
+5	довольно	_	_	_	_	_	_	_	Shift=3589
+6	медленно	_	_	_	_	_	_	_	Shift=3598|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=3606
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p2-s31
+# text = Я насчитал десять секунд, прежде чем глыба опустилась вниз.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1070|RuCor_group_id=407929|RuCor_link_id=407926|Shift=3608
+2	насчитал	_	_	_	_	_	_	_	Shift=3610
+3	десять	_	_	_	_	_	_	_	Shift=3619
+4	секунд	_	_	_	_	_	_	_	Shift=3626|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=3632
+6	прежде	_	_	_	_	_	_	_	Shift=3634
+7	чем	_	_	_	_	_	_	_	Shift=3641
+8	глыба	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1057|RuCor_group_id=407930|RuCor_link_id=407928|Shift=3645
+9	опустилась	_	_	_	_	_	_	_	Shift=3651
+10	вниз	_	_	_	_	_	_	_	Shift=3662|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=3666
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p2-s32
+# text = И, когда она была над землей на высоте человеческого роста, Вагнер подставил руку, поймал и удержал глыбу, причем рука его даже не дрогнула.
+1	И	_	_	_	_	_	_	_	Shift=3668|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=3669
+3	когда	_	_	_	_	_	_	_	Shift=3671
+4	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1057|RuCor_group_id=407931|RuCor_link_id=407930|Shift=3677
+5	была	_	_	_	_	_	_	_	Shift=3681
+6	над	_	_	_	_	_	_	_	Shift=3686
+7	землей	_	_	_	_	_	_	_	Shift=3690
+8	на	_	_	_	_	_	_	_	Shift=3697
+9	высоте	_	_	_	_	_	_	_	Shift=3700
+10	человеческого	_	_	_	_	_	_	_	Shift=3707
+11	роста	_	_	_	_	_	_	_	Shift=3721|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=3726
+13	Вагнер	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1063|RuCor_group_id=407932|RuCor_link_id=407923|Shift=3728
+14	подставил	_	_	_	_	_	_	_	Shift=3735
+15	руку	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1066|RuCor_group_id=407849|RuCor_link_id=0|Shift=3745|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=3749
+17	поймал	_	_	_	_	_	_	_	Shift=3751
+18	и	_	_	_	_	_	_	_	Shift=3758
+19	удержал	_	_	_	_	_	_	_	Shift=3760
+20	глыбу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1057|RuCor_group_id=407933|RuCor_link_id=407931|Shift=3768|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=3773
+22	причем	_	_	_	_	_	_	_	Shift=3775
+23	рука	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1066|RuCor_group_id=407976|RuCor_link_id=407849|Shift=3782
+24	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1063|RuCor_group_id=407934|RuCor_link_id=407932|Shift=3787
+25	даже	_	_	_	_	_	_	_	Shift=3791
+26	не	_	_	_	_	_	_	_	Shift=3796
+27	дрогнула	_	_	_	_	_	_	_	Shift=3799|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=3807
+
+# newpar id = 035eaef7-79bb-4d14-9c1e-393db8771692-p3
+# par_text = Хо-хо-хо! - весело баском рассмеялся Вагнер и далеко отшвырнул от себя глыбу. Она, пролетев некоторое время параллельно земле, вдруг круто изменила линию полета на отвесную, быстро упала и со страшным грохотом разлетелась в куски.
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p3-s1
+# text = Хо-хо-хо!
+1	Хо-хо-хо	_	_	_	_	_	_	_	Shift=3810|SpaceAfter=No
+2	!	_	_	_	_	_	_	_	Shift=3818
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p3-s2
+# text = - весело баском рассмеялся Вагнер и далеко отшвырнул от себя глыбу.
+1	-	_	_	_	_	_	_	_	Shift=3820
+2	весело	_	_	_	_	_	_	_	Shift=3822
+3	баском	_	_	_	_	_	_	_	Shift=3829
+4	рассмеялся	_	_	_	_	_	_	_	Shift=3836
+5	Вагнер	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1063|RuCor_group_id=407935|RuCor_link_id=407934|Shift=3847
+6	и	_	_	_	_	_	_	_	Shift=3854
+7	далеко	_	_	_	_	_	_	_	Shift=3856
+8	отшвырнул	_	_	_	_	_	_	_	Shift=3863
+9	от	_	_	_	_	_	_	_	Shift=3873
+10	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=1063|RuCor_group_id=407936|RuCor_link_id=407935|Shift=3876
+11	глыбу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1057|RuCor_group_id=407937|RuCor_link_id=407933|Shift=3881|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=3886
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p3-s3
+# text = Она, пролетев некоторое время параллельно земле, вдруг круто изменила линию полета на отвесную, быстро упала и со страшным грохотом разлетелась в куски.
+1	Она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1057|RuCor_group_id=407938|RuCor_link_id=407937|Shift=3888|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=3891
+3	пролетев	_	_	_	_	_	_	_	Shift=3893
+4	некоторое	_	_	_	_	_	_	_	Shift=3902
+5	время	_	_	_	_	_	_	_	Shift=3912
+6	параллельно	_	_	_	_	_	_	_	Shift=3918
+7	земле	_	_	_	_	_	_	_	Shift=3930|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=3935
+9	вдруг	_	_	_	_	_	_	_	Shift=3937
+10	круто	_	_	_	_	_	_	_	Shift=3943
+11	изменила	_	_	_	_	_	_	_	Shift=3949
+12	линию	_	_	_	_	_	_	_	Shift=3958
+13	полета	_	_	_	_	_	_	_	Shift=3964
+14	на	_	_	_	_	_	_	_	Shift=3971
+15	отвесную	_	_	_	_	_	_	_	Shift=3974|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=3982
+17	быстро	_	_	_	_	_	_	_	Shift=3984
+18	упала	_	_	_	_	_	_	_	Shift=3991
+19	и	_	_	_	_	_	_	_	Shift=3997
+20	со	_	_	_	_	_	_	_	Shift=3999
+21	страшным	_	_	_	_	_	_	_	Shift=4002
+22	грохотом	_	_	_	_	_	_	_	Shift=4011
+23	разлетелась	_	_	_	_	_	_	_	Shift=4020
+24	в	_	_	_	_	_	_	_	Shift=4032
+25	куски	_	_	_	_	_	_	_	Shift=4034|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=4039
+
+# newpar id = 035eaef7-79bb-4d14-9c1e-393db8771692-p4
+# par_text = Хо-хо-хо! - опять рассмеялся Вагнер и сделал необычайный прыжок. Поднявшись метра на четыре, он пролетел вдоль площадки в мою сторону. Он, очевидно, не рассчитал прыжка, так как с ним случилась такая же история, что и с глыбой: неожиданно он стал быстро падать. И если бы не откос, куда он упал, Вагнер, вероятно, расшибся бы насмерть. Он упал неподалеку от меня, по другую сторону можжевелового куста, застонал и выбранился, ухватившись за колено. Погладив ушибленное место, он сделал попытку встать и вновь застонал. После некоторого колебания я решил обнаружить свое присутствие и подать ему помощь.
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p4-s1
+# text = Хо-хо-хо!
+1	Хо-хо-хо	_	_	_	_	_	_	_	Shift=4044|SpaceAfter=No
+2	!	_	_	_	_	_	_	_	Shift=4052
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p4-s2
+# text = - опять рассмеялся Вагнер и сделал необычайный прыжок.
+1	-	_	_	_	_	_	_	_	Shift=4054
+2	опять	_	_	_	_	_	_	_	Shift=4056
+3	рассмеялся	_	_	_	_	_	_	_	Shift=4062
+4	Вагнер	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1063|RuCor_group_id=407939|RuCor_link_id=407936|Shift=4073
+5	и	_	_	_	_	_	_	_	Shift=4080
+6	сделал	_	_	_	_	_	_	_	Shift=4082
+7	необычайный	_	_	_	_	_	_	_	Shift=4089
+8	прыжок	_	_	_	_	_	_	_	Shift=4101|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=4107
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p4-s3
+# text = Поднявшись метра на четыре, он пролетел вдоль площадки в мою сторону.
+1	Поднявшись	_	_	_	_	_	_	_	Shift=4109
+2	метра	_	_	_	_	_	_	_	Shift=4120
+3	на	_	_	_	_	_	_	_	Shift=4126
+4	четыре	_	_	_	_	_	_	_	Shift=4129|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=4135
+6	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1063|RuCor_group_id=407940|RuCor_link_id=407939|Shift=4137
+7	пролетел	_	_	_	_	_	_	_	Shift=4140
+8	вдоль	_	_	_	_	_	_	_	Shift=4149
+9	площадки	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1060|RuCor_group_id=407945|RuCor_link_id=407901|Shift=4155
+10	в	_	_	_	_	_	_	_	Shift=4164
+11	мою	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1070|RuCor_group_id=407941|RuCor_link_id=407929|Shift=4166
+12	сторону	_	_	_	_	_	_	_	Shift=4170|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=4177
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p4-s4
+# text = Он, очевидно, не рассчитал прыжка, так как с ним случилась такая же история, что и с глыбой: неожиданно он стал быстро падать.
+1	Он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1063|RuCor_group_id=407942|RuCor_link_id=407940|Shift=4179|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=4181
+3	очевидно	_	_	_	_	_	_	_	Shift=4183|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=4191
+5	не	_	_	_	_	_	_	_	Shift=4193
+6	рассчитал	_	_	_	_	_	_	_	Shift=4196
+7	прыжка	_	_	_	_	_	_	_	Shift=4206|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=4212
+9	так	_	_	_	_	_	_	_	Shift=4214
+10	как	_	_	_	_	_	_	_	Shift=4218
+11	с	_	_	_	_	_	_	_	Shift=4222
+12	ним	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1063|RuCor_group_id=407943|RuCor_link_id=407942|Shift=4224
+13	случилась	_	_	_	_	_	_	_	Shift=4228
+14	такая	_	_	_	_	_	_	_	Shift=4238
+15	же	_	_	_	_	_	_	_	Shift=4244
+16	история	_	_	_	_	_	_	_	Shift=4247|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=4254
+18	что	_	_	_	_	_	_	_	Shift=4256
+19	и	_	_	_	_	_	_	_	Shift=4260
+20	с	_	_	_	_	_	_	_	Shift=4262
+21	глыбой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1057|RuCor_group_id=407944|RuCor_link_id=407938|Shift=4264|SpaceAfter=No
+22	:	_	_	_	_	_	_	_	Shift=4270
+23	неожиданно	_	_	_	_	_	_	_	Shift=4272
+24	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1063|RuCor_group_id=407946|RuCor_link_id=407943|Shift=4283
+25	стал	_	_	_	_	_	_	_	Shift=4286
+26	быстро	_	_	_	_	_	_	_	Shift=4291
+27	падать	_	_	_	_	_	_	_	Shift=4298|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=4304
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p4-s5
+# text = И если бы не откос, куда он упал, Вагнер, вероятно, расшибся бы насмерть.
+1	И	_	_	_	_	_	_	_	Shift=4306
+2	если	_	_	_	_	_	_	_	Shift=4308
+3	бы	_	_	_	_	_	_	_	Shift=4313
+4	не	_	_	_	_	_	_	_	Shift=4316
+5	откос	_	_	_	_	_	_	_	Shift=4319|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=4324
+7	куда	_	_	_	_	_	_	_	Shift=4326
+8	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1063|RuCor_group_id=407947|RuCor_link_id=407946|Shift=4331
+9	упал	_	_	_	_	_	_	_	Shift=4334|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=4338
+11	Вагнер	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1063|RuCor_group_id=407948|RuCor_link_id=407947|Shift=4340|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=4346
+13	вероятно	_	_	_	_	_	_	_	Shift=4348|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=4356
+15	расшибся	_	_	_	_	_	_	_	Shift=4358
+16	бы	_	_	_	_	_	_	_	Shift=4367
+17	насмерть	_	_	_	_	_	_	_	Shift=4370|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=4378
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p4-s6
+# text = Он упал неподалеку от меня, по другую сторону можжевелового куста, застонал и выбранился, ухватившись за колено.
+1	Он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1063|RuCor_group_id=407949|RuCor_link_id=407948|Shift=4380
+2	упал	_	_	_	_	_	_	_	Shift=4383
+3	неподалеку	_	_	_	_	_	_	_	Shift=4388
+4	от	_	_	_	_	_	_	_	Shift=4399
+5	меня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1070|RuCor_group_id=407950|RuCor_link_id=407941|Shift=4402|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=4406
+7	по	_	_	_	_	_	_	_	Shift=4408
+8	другую	_	_	_	_	_	_	_	Shift=4411
+9	сторону	_	_	_	_	_	_	_	Shift=4418
+10	можжевелового	_	_	_	_	_	_	_	RuCor_chain_id=1055|RuCor_group_id=407958|Shift=4426
+11	куста	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1055|RuCor_group_id=407958|RuCor_link_id=407963|Shift=4440|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=4445
+13	застонал	_	_	_	_	_	_	_	Shift=4447
+14	и	_	_	_	_	_	_	_	Shift=4456
+15	выбранился	_	_	_	_	_	_	_	Shift=4458|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=4468
+17	ухватившись	_	_	_	_	_	_	_	Shift=4470
+18	за	_	_	_	_	_	_	_	Shift=4482
+19	колено	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1056|RuCor_group_id=407961|RuCor_link_id=0|Shift=4485|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=4491
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p4-s7
+# text = Погладив ушибленное место, он сделал попытку встать и вновь застонал.
+1	Погладив	_	_	_	_	_	_	_	Shift=4493
+2	ушибленное	_	_	_	_	_	_	_	RuCor_chain_id=1056|RuCor_group_id=407962|Shift=4502
+3	место	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1056|RuCor_group_id=407962|RuCor_link_id=407961|Shift=4513|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=4518
+5	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1063|RuCor_group_id=407951|RuCor_link_id=407949|Shift=4520
+6	сделал	_	_	_	_	_	_	_	Shift=4523
+7	попытку	_	_	_	_	_	_	_	Shift=4530
+8	встать	_	_	_	_	_	_	_	Shift=4538
+9	и	_	_	_	_	_	_	_	Shift=4545
+10	вновь	_	_	_	_	_	_	_	Shift=4547
+11	застонал	_	_	_	_	_	_	_	Shift=4553|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=4561
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p4-s8
+# text = После некоторого колебания я решил обнаружить свое присутствие и подать ему помощь.
+1	После	_	_	_	_	_	_	_	Shift=4563
+2	некоторого	_	_	_	_	_	_	_	Shift=4569
+3	колебания	_	_	_	_	_	_	_	Shift=4580
+4	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1070|RuCor_group_id=407952|RuCor_link_id=407950|Shift=4590
+5	решил	_	_	_	_	_	_	_	Shift=4592
+6	обнаружить	_	_	_	_	_	_	_	Shift=4598
+7	свое	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=1070|RuCor_group_id=407953|RuCor_link_id=407952|Shift=4609
+8	присутствие	_	_	_	_	_	_	_	Shift=4614
+9	и	_	_	_	_	_	_	_	Shift=4626
+10	подать	_	_	_	_	_	_	_	Shift=4628
+11	ему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1063|RuCor_group_id=407954|RuCor_link_id=407951|Shift=4635
+12	помощь	_	_	_	_	_	_	_	Shift=4639|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=4645
+
+# newpar id = 035eaef7-79bb-4d14-9c1e-393db8771692-p5
+# par_text = Вы очень расшиблись? Не помочь ли вам?- спросил я, выходя из куста. По-видимому, мое появление не удивило профессора. По крайней мере он ничем не проявил его.
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p5-s1
+# text = Вы очень расшиблись?
+1	Вы	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1063|RuCor_group_id=407955|RuCor_link_id=407954|Shift=4650
+2	очень	_	_	_	_	_	_	_	Shift=4653
+3	расшиблись	_	_	_	_	_	_	_	Shift=4659|SpaceAfter=No
+4	?	_	_	_	_	_	_	_	Shift=4669
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p5-s2
+# text = Не помочь ли вам?
+1	Не	_	_	_	_	_	_	_	Shift=4671
+2	помочь	_	_	_	_	_	_	_	Shift=4674
+3	ли	_	_	_	_	_	_	_	Shift=4681
+4	вам	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1063|RuCor_group_id=407956|RuCor_link_id=407954|Shift=4684|SpaceAfter=No
+5	?	_	_	_	_	_	_	_	Shift=4687
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p5-s3
+# text = - спросил я, выходя из куста.
+1	-	_	_	_	_	_	_	_	Shift=4688
+2	спросил	_	_	_	_	_	_	_	Shift=4690
+3	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1070|RuCor_group_id=407957|RuCor_link_id=407953|Shift=4698|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=4699
+5	выходя	_	_	_	_	_	_	_	Shift=4701
+6	из	_	_	_	_	_	_	_	Shift=4708
+7	куста	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1055|RuCor_group_id=407959|RuCor_link_id=407958|Shift=4711|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=4716
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p5-s4
+# text = По-видимому, мое появление не удивило профессора.
+1	По-видимому	_	_	_	_	_	_	_	Shift=4718|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=4729
+3	мое	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1070|RuCor_group_id=407960|RuCor_link_id=407957|Shift=4731
+4	появление	_	_	_	_	_	_	_	Shift=4735
+5	не	_	_	_	_	_	_	_	Shift=4745
+6	удивило	_	_	_	_	_	_	_	Shift=4748
+7	профессора	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1063|RuCor_group_id=407964|RuCor_link_id=407956|Shift=4756|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=4766
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p5-s5
+# text = По крайней мере он ничем не проявил его.
+1	По	_	_	_	_	_	_	_	Shift=4768
+2	крайней	_	_	_	_	_	_	_	Shift=4771
+3	мере	_	_	_	_	_	_	_	Shift=4779
+4	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1063|RuCor_group_id=407965|RuCor_link_id=407964|Shift=4784
+5	ничем	_	_	_	_	_	_	_	Shift=4787
+6	не	_	_	_	_	_	_	_	Shift=4793
+7	проявил	_	_	_	_	_	_	_	Shift=4796
+8	его	_	_	_	_	_	_	_	Shift=4804|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=4807
+
+# newpar id = 035eaef7-79bb-4d14-9c1e-393db8771692-p6
+# par_text = Нет, благодарю вас,-спокойно ответил он,-я сам пойду.- И он сделал новую попытку встать. Лицо его исказилось от боли. Он даже откинулся назад. Нога в колене быстро пухла. Было очевидно, что без посторонней помощи ему не обойтись. И я стал действовать решительно.
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p6-s1
+# text = Нет, благодарю вас, - спокойно ответил он, - я сам пойду.
+1	Нет	_	_	_	_	_	_	_	Shift=4812|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=4815
+3	благодарю	_	_	_	_	_	_	_	Shift=4817
+4	вас	_	_	_	_	_	_	_	Shift=4827|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=4830
+6	-	_	_	_	_	_	_	_	Shift=4831
+7	спокойно	_	_	_	_	_	_	_	Shift=4832
+8	ответил	_	_	_	_	_	_	_	Shift=4841
+9	он	_	_	_	_	_	_	_	Shift=4849|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=4851
+11	-	_	_	_	_	_	_	_	Shift=4852
+12	я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1063|RuCor_group_id=407966|RuCor_link_id=407968|Shift=4853
+13	сам	_	_	_	_	_	_	_	Shift=4855
+14	пойду	_	_	_	_	_	_	_	Shift=4859|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=4864
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p6-s2
+# text = - И он сделал новую попытку встать.
+1	-	_	_	_	_	_	_	_	Shift=4865
+2	И	_	_	_	_	_	_	_	Shift=4867
+3	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1063|RuCor_group_id=407969|RuCor_link_id=407966|Shift=4869
+4	сделал	_	_	_	_	_	_	_	Shift=4872
+5	новую	_	_	_	_	_	_	_	Shift=4879
+6	попытку	_	_	_	_	_	_	_	Shift=4885
+7	встать	_	_	_	_	_	_	_	Shift=4893|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=4899
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p6-s3
+# text = Лицо его исказилось от боли.
+1	Лицо	_	_	_	_	_	_	_	Shift=4901
+2	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1063|RuCor_group_id=407970|RuCor_link_id=407969|Shift=4906
+3	исказилось	_	_	_	_	_	_	_	Shift=4910
+4	от	_	_	_	_	_	_	_	Shift=4921
+5	боли	_	_	_	_	_	_	_	Shift=4924|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=4928
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p6-s4
+# text = Он даже откинулся назад.
+1	Он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1063|RuCor_group_id=407971|RuCor_link_id=407970|Shift=4930
+2	даже	_	_	_	_	_	_	_	Shift=4933
+3	откинулся	_	_	_	_	_	_	_	Shift=4938
+4	назад	_	_	_	_	_	_	_	Shift=4948|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=4953
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p6-s5
+# text = Нога в колене быстро пухла.
+1	Нога	_	_	_	_	_	_	_	Shift=4955
+2	в	_	_	_	_	_	_	_	Shift=4960
+3	колене	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1056|RuCor_group_id=407972|RuCor_link_id=407962|Shift=4962
+4	быстро	_	_	_	_	_	_	_	Shift=4969
+5	пухла	_	_	_	_	_	_	_	Shift=4976|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=4981
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p6-s6
+# text = Было очевидно, что без посторонней помощи ему не обойтись.
+1	Было	_	_	_	_	_	_	_	Shift=4983
+2	очевидно	_	_	_	_	_	_	_	Shift=4988|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=4996
+4	что	_	_	_	_	_	_	_	Shift=4998
+5	без	_	_	_	_	_	_	_	Shift=5002
+6	посторонней	_	_	_	_	_	_	_	Shift=5006
+7	помощи	_	_	_	_	_	_	_	Shift=5018
+8	ему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1063|RuCor_group_id=407973|RuCor_link_id=407971|Shift=5025
+9	не	_	_	_	_	_	_	_	Shift=5029
+10	обойтись	_	_	_	_	_	_	_	Shift=5032|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=5040
+
+# sent_id = 035eaef7-79bb-4d14-9c1e-393db8771692-p6-s7
+# text = И я стал действовать решительно.
+1	И	_	_	_	_	_	_	_	Shift=5042
+2	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1070|RuCor_group_id=407974|RuCor_link_id=407967|Shift=5044
+3	стал	_	_	_	_	_	_	_	Shift=5046
+4	действовать	_	_	_	_	_	_	_	Shift=5051
+5	решительно	_	_	_	_	_	_	_	Shift=5063|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	_
+

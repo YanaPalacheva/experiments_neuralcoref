@@ -1,0 +1,267 @@
+# newdoc id = f5fc4583-ffb5-4552-9594-acb92e86e637
+# newpar id = f5fc4583-ffb5-4552-9594-acb92e86e637-p1
+# par_text = Министерство Юстиции России приостановило регистрацию партии «Народный альянс», председателем которой является Алексей Навальный. Соответствующее сообщение размещено на сайте ведомства.
+# sent_id = f5fc4583-ffb5-4552-9594-acb92e86e637-p1-s1
+# text = Министерство Юстиции России приостановило регистрацию партии ``Народный альянс'', председателем которой является Алексей Навальный.
+1	Министерство	_	_	_	_	_	_	_	RuCor_chain_id=3423|RuCor_group_id=474911|Shift=0
+2	Юстиции	_	_	_	_	_	_	_	RuCor_chain_id=3423|RuCor_group_id=474911|Shift=13
+3	России	_	_	_	_	_	_	_	RuCor_chain_id=3423|RuCor_group_id=474911|Shift=21
+4	приостановило	_	_	_	_	_	_	_	Shift=28
+5	регистрацию	_	_	_	_	_	_	_	Shift=42
+6	партии	_	_	_	_	_	_	_	RuCor_chain_id=3424|RuCor_group_id=474912|Shift=54
+7	``	_	_	_	_	_	_	_	RuCor_chain_id=3424|RuCor_group_id=474912|Shift=61|SpaceAfter=No
+8	Народный	_	_	_	_	_	_	_	RuCor_chain_id=3424|RuCor_group_id=474912|Shift=62
+9	альянс	_	_	_	_	_	_	_	RuCor_chain_id=3424|RuCor_group_id=474912|Shift=71|SpaceAfter=No
+10	''	_	_	_	_	_	_	_	RuCor_chain_id=3424|RuCor_group_id=474912|Shift=77|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=78
+12	председателем	_	_	_	_	_	_	_	Shift=80
+13	которой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=3424|RuCor_group_id=474913|RuCor_link_id=474912|Shift=94
+14	является	_	_	_	_	_	_	_	Shift=102
+15	Алексей	_	_	_	_	_	_	_	RuCor_chain_id=3425|RuCor_group_id=474914|Shift=111
+16	Навальный	_	_	_	_	_	_	_	RuCor_chain_id=3425|RuCor_group_id=474914|Shift=119|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=128
+
+# sent_id = f5fc4583-ffb5-4552-9594-acb92e86e637-p1-s2
+# text = Соответствующее сообщение размещено на сайте ведомства.
+1	Соответствующее	_	_	_	_	_	_	_	Shift=130
+2	сообщение	_	_	_	_	_	_	_	Shift=146
+3	размещено	_	_	_	_	_	_	_	Shift=156
+4	на	_	_	_	_	_	_	_	Shift=166
+5	сайте	_	_	_	_	_	_	_	Shift=169
+6	ведомства	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3423|RuCor_group_id=474915|RuCor_link_id=474911|Shift=175|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=184
+
+# newpar id = f5fc4583-ffb5-4552-9594-acb92e86e637-p2
+# par_text = Как пояснили в Минюсте, регистрация приостановлена в соответствии с 20-й статьей закона «О политических партиях». В этой статье указывается, что причиной этого может стать противоречие устава партии действующему законодательству, непредоставление необходимых документов или использование наименования либо символики, не соответствующих требованиям закона.
+# sent_id = f5fc4583-ffb5-4552-9594-acb92e86e637-p2-s1
+# text = Как пояснили в Минюсте, регистрация приостановлена в соответствии с 20-й статьей закона ``О политических партиях''.
+1	Как	_	_	_	_	_	_	_	Shift=186
+2	пояснили	_	_	_	_	_	_	_	Shift=190
+3	в	_	_	_	_	_	_	_	Shift=199
+4	Минюсте	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3423|RuCor_group_id=474916|RuCor_link_id=474915|Shift=201|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=208
+6	регистрация	_	_	_	_	_	_	_	Shift=210
+7	приостановлена	_	_	_	_	_	_	_	Shift=222
+8	в	_	_	_	_	_	_	_	Shift=237
+9	соответствии	_	_	_	_	_	_	_	Shift=239
+10	с	_	_	_	_	_	_	_	Shift=252
+11	20-й	_	_	_	_	_	_	_	RuCor_chain_id=3426|RuCor_group_id=474917|Shift=254
+12	статьей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3426|RuCor_group_id=474917|RuCor_link_id=0|Shift=259
+13	закона	_	_	_	_	_	_	_	RuCor_chain_id=3426|RuCor_group_id=474917|Shift=267
+14	``	_	_	_	_	_	_	_	RuCor_chain_id=3426|RuCor_group_id=474917|Shift=274|SpaceAfter=No
+15	О	_	_	_	_	_	_	_	RuCor_chain_id=3426|RuCor_group_id=474917|Shift=275
+16	политических	_	_	_	_	_	_	_	RuCor_chain_id=3426|RuCor_group_id=474917|Shift=277
+17	партиях	_	_	_	_	_	_	_	RuCor_chain_id=3426|RuCor_group_id=474917|Shift=290|SpaceAfter=No
+18	''	_	_	_	_	_	_	_	RuCor_chain_id=3426|RuCor_group_id=474917|Shift=297|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=298
+
+# sent_id = f5fc4583-ffb5-4552-9594-acb92e86e637-p2-s2
+# text = В этой статье указывается, что причиной этого может стать противоречие устава партии действующему законодательству, непредоставление необходимых документов или использование наименования либо символики, не соответствующих требованиям закона.
+1	В	_	_	_	_	_	_	_	Shift=300
+2	этой	_	_	_	_	_	_	_	RuCor_chain_id=3426|RuCor_group_id=474918|Shift=302
+3	статье	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3426|RuCor_group_id=474918|RuCor_link_id=474917|Shift=307
+4	указывается	_	_	_	_	_	_	_	Shift=314|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=325
+6	что	_	_	_	_	_	_	_	Shift=327
+7	причиной	_	_	_	_	_	_	_	Shift=331
+8	этого	_	_	_	_	_	_	_	Shift=340
+9	может	_	_	_	_	_	_	_	Shift=346
+10	стать	_	_	_	_	_	_	_	Shift=352
+11	противоречие	_	_	_	_	_	_	_	Shift=358
+12	устава	_	_	_	_	_	_	_	Shift=371
+13	партии	_	_	_	_	_	_	_	Shift=378
+14	действующему	_	_	_	_	_	_	_	Shift=385
+15	законодательству	_	_	_	_	_	_	_	Shift=398|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=414
+17	непредоставление	_	_	_	_	_	_	_	Shift=416
+18	необходимых	_	_	_	_	_	_	_	Shift=433
+19	документов	_	_	_	_	_	_	_	Shift=445
+20	или	_	_	_	_	_	_	_	Shift=456
+21	использование	_	_	_	_	_	_	_	Shift=460
+22	наименования	_	_	_	_	_	_	_	Shift=474
+23	либо	_	_	_	_	_	_	_	Shift=487
+24	символики	_	_	_	_	_	_	_	Shift=492|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=501
+26	не	_	_	_	_	_	_	_	Shift=503
+27	соответствующих	_	_	_	_	_	_	_	Shift=506
+28	требованиям	_	_	_	_	_	_	_	Shift=522
+29	закона	_	_	_	_	_	_	_	Shift=534|SpaceAfter=No
+30	.	_	_	_	_	_	_	_	Shift=540
+
+# newpar id = f5fc4583-ffb5-4552-9594-acb92e86e637-p3
+# par_text = В самом «Народном альянсе» агентству ИТАР-ТАСС заявили. что информации о приостановке регистрации пока не получали и о причинах этого решения не осведомлены. Представители «Народного альянса» заявили, что 21 января у них запланирована встреча с сотрудниками Минюста, на которой они намерены прояснить ситуацию.
+# sent_id = f5fc4583-ffb5-4552-9594-acb92e86e637-p3-s1
+# text = В самом ``Народном альянсе'' агентству ИТАР-ТАСС заявили.
+1	В	_	_	_	_	_	_	_	Shift=542
+2	самом	_	_	_	_	_	_	_	RuCor_chain_id=3424|RuCor_group_id=474919|Shift=544
+3	``	_	_	_	_	_	_	_	RuCor_chain_id=3424|RuCor_group_id=474919|Shift=550|SpaceAfter=No
+4	Народном	_	_	_	_	_	_	_	RuCor_chain_id=3424|RuCor_group_id=474919|Shift=551
+5	альянсе	_	_	_	_	_	_	_	RuCor_chain_id=3424|RuCor_group_id=474919|Shift=560|SpaceAfter=No
+6	''	_	_	_	_	_	_	_	RuCor_chain_id=3424|RuCor_group_id=474919|Shift=567
+7	агентству	_	_	_	_	_	_	_	Shift=569
+8	ИТАР-ТАСС	_	_	_	_	_	_	_	Shift=579
+9	заявили	_	_	_	_	_	_	_	Shift=589|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=596
+
+# sent_id = f5fc4583-ffb5-4552-9594-acb92e86e637-p3-s2
+# text = что информации о приостановке регистрации пока не получали и о причинах этого решения не осведомлены.
+1	что	_	_	_	_	_	_	_	Shift=598
+2	информации	_	_	_	_	_	_	_	Shift=602
+3	о	_	_	_	_	_	_	_	Shift=613
+4	приостановке	_	_	_	_	_	_	_	Shift=615
+5	регистрации	_	_	_	_	_	_	_	Shift=628
+6	пока	_	_	_	_	_	_	_	Shift=640
+7	не	_	_	_	_	_	_	_	Shift=645
+8	получали	_	_	_	_	_	_	_	Shift=648
+9	и	_	_	_	_	_	_	_	Shift=657
+10	о	_	_	_	_	_	_	_	Shift=659
+11	причинах	_	_	_	_	_	_	_	Shift=661
+12	этого	_	_	_	_	_	_	_	Shift=670
+13	решения	_	_	_	_	_	_	_	Shift=676
+14	не	_	_	_	_	_	_	_	Shift=684
+15	осведомлены	_	_	_	_	_	_	_	Shift=687|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=698
+
+# sent_id = f5fc4583-ffb5-4552-9594-acb92e86e637-p3-s3
+# text = Представители ``Народного альянса'' заявили, что 21 января у них запланирована встреча с сотрудниками Минюста, на которой они намерены прояснить ситуацию.
+1	Представители	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3427|RuCor_group_id=474920|RuCor_link_id=0|Shift=700
+2	``	_	_	_	_	_	_	_	RuCor_chain_id=3424|RuCor_group_id=474921|Shift=714|SpaceAfter=No
+3	Народного	_	_	_	_	_	_	_	RuCor_chain_id=3424|RuCor_group_id=474921|Shift=715
+4	альянса	_	_	_	_	_	_	_	RuCor_chain_id=3424|RuCor_group_id=474921|Shift=725|SpaceAfter=No
+5	''	_	_	_	_	_	_	_	RuCor_chain_id=3424|RuCor_group_id=474921|Shift=732
+6	заявили	_	_	_	_	_	_	_	Shift=734|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=741
+8	что	_	_	_	_	_	_	_	Shift=743
+9	21	_	_	_	_	_	_	_	Shift=747
+10	января	_	_	_	_	_	_	_	Shift=750
+11	у	_	_	_	_	_	_	_	Shift=757
+12	них	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=3427|RuCor_group_id=474922|RuCor_link_id=474920|Shift=759
+13	запланирована	_	_	_	_	_	_	_	Shift=763
+14	встреча	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3428|RuCor_group_id=474923|RuCor_link_id=0|Shift=777
+15	с	_	_	_	_	_	_	_	Shift=785
+16	сотрудниками	_	_	_	_	_	_	_	Shift=787
+17	Минюста	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3423|RuCor_group_id=474924|RuCor_link_id=474916|Shift=800|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=807
+19	на	_	_	_	_	_	_	_	Shift=809
+20	которой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=3428|RuCor_group_id=474925|RuCor_link_id=474923|Shift=812
+21	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=3427|RuCor_group_id=474926|RuCor_link_id=474922|Shift=820
+22	намерены	_	_	_	_	_	_	_	Shift=824
+23	прояснить	_	_	_	_	_	_	_	Shift=833
+24	ситуацию	_	_	_	_	_	_	_	Shift=843|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=851
+
+# newpar id = f5fc4583-ffb5-4552-9594-acb92e86e637-p4
+# par_text = Сторонники Навального учредили «Народный альянс» в декабре 2012 года. Движению дважды отказывали в официальной регистрации. Навальный был избран его председателем 17 ноября 2013 года.
+# sent_id = f5fc4583-ffb5-4552-9594-acb92e86e637-p4-s1
+# text = Сторонники Навального учредили ``Народный альянс'' в декабре 2012 года.
+1	Сторонники	_	_	_	_	_	_	_	Shift=853
+2	Навального	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3425|RuCor_group_id=474927|RuCor_link_id=474914|Shift=864
+3	учредили	_	_	_	_	_	_	_	Shift=875
+4	``	_	_	_	_	_	_	_	RuCor_chain_id=3424|RuCor_group_id=474928|Shift=884|SpaceAfter=No
+5	Народный	_	_	_	_	_	_	_	RuCor_chain_id=3424|RuCor_group_id=474928|Shift=885
+6	альянс	_	_	_	_	_	_	_	RuCor_chain_id=3424|RuCor_group_id=474928|Shift=894|SpaceAfter=No
+7	''	_	_	_	_	_	_	_	RuCor_chain_id=3424|RuCor_group_id=474928|Shift=900
+8	в	_	_	_	_	_	_	_	Shift=902
+9	декабре	_	_	_	_	_	_	_	Shift=904
+10	2012	_	_	_	_	_	_	_	Shift=912
+11	года	_	_	_	_	_	_	_	Shift=917|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=921
+
+# sent_id = f5fc4583-ffb5-4552-9594-acb92e86e637-p4-s2
+# text = Движению дважды отказывали в официальной регистрации.
+1	Движению	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3424|RuCor_group_id=474929|RuCor_link_id=474928|Shift=923
+2	дважды	_	_	_	_	_	_	_	Shift=932
+3	отказывали	_	_	_	_	_	_	_	Shift=939
+4	в	_	_	_	_	_	_	_	Shift=950
+5	официальной	_	_	_	_	_	_	_	Shift=952
+6	регистрации	_	_	_	_	_	_	_	Shift=964|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=975
+
+# sent_id = f5fc4583-ffb5-4552-9594-acb92e86e637-p4-s3
+# text = Навальный был избран его председателем 17 ноября 2013 года.
+1	Навальный	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3425|RuCor_group_id=474930|RuCor_link_id=474927|Shift=977
+2	был	_	_	_	_	_	_	_	Shift=987
+3	избран	_	_	_	_	_	_	_	Shift=991
+4	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3424|RuCor_group_id=474931|RuCor_link_id=474929|Shift=998
+5	председателем	_	_	_	_	_	_	_	Shift=1002
+6	17	_	_	_	_	_	_	_	Shift=1016
+7	ноября	_	_	_	_	_	_	_	Shift=1019
+8	2013	_	_	_	_	_	_	_	Shift=1026
+9	года	_	_	_	_	_	_	_	Shift=1031|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=1035
+
+# newpar id = f5fc4583-ffb5-4552-9594-acb92e86e637-p5
+# par_text = На следующий день после избрания Навального председателем «Народного альянса» партия Андрея Богданова «Родная страна» подала в Минюст документы об изменении своего названия на «Народный альянс»; 27 ноября ведомство утвердила смену наименования. Это сделало невозможным последующую регистрацию под названием «Народный альянс» партии Навального, так как существование двух партий с одинаковыми названиями противоречит закону.
+# sent_id = f5fc4583-ffb5-4552-9594-acb92e86e637-p5-s1
+# text = На следующий день после избрания Навального председателем ``Народного альянса'' партия Андрея Богданова ``Родная страна'' подала в Минюст документы об изменении своего названия на ``Народный альянс''.
+1	На	_	_	_	_	_	_	_	Shift=1037
+2	следующий	_	_	_	_	_	_	_	Shift=1040
+3	день	_	_	_	_	_	_	_	Shift=1050
+4	после	_	_	_	_	_	_	_	Shift=1055
+5	избрания	_	_	_	_	_	_	_	Shift=1061
+6	Навального	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3425|RuCor_group_id=474932|RuCor_link_id=474930|Shift=1070
+7	председателем	_	_	_	_	_	_	_	Shift=1081
+8	``	_	_	_	_	_	_	_	RuCor_chain_id=3424|RuCor_group_id=474933|Shift=1095|SpaceAfter=No
+9	Народного	_	_	_	_	_	_	_	RuCor_chain_id=3424|RuCor_group_id=474933|Shift=1096
+10	альянса	_	_	_	_	_	_	_	RuCor_chain_id=3424|RuCor_group_id=474933|Shift=1106|SpaceAfter=No
+11	''	_	_	_	_	_	_	_	RuCor_chain_id=3424|RuCor_group_id=474933|Shift=1113
+12	партия	_	_	_	_	_	_	_	RuCor_chain_id=3429|RuCor_group_id=474934|Shift=1115
+13	Андрея	_	_	_	_	_	_	_	RuCor_chain_id=3429|RuCor_group_id=474934|Shift=1122
+14	Богданова	_	_	_	_	_	_	_	RuCor_chain_id=3429|RuCor_group_id=474934|Shift=1129
+15	``	_	_	_	_	_	_	_	RuCor_chain_id=3429|RuCor_group_id=474934|Shift=1139|SpaceAfter=No
+16	Родная	_	_	_	_	_	_	_	RuCor_chain_id=3429|RuCor_group_id=474934|Shift=1140
+17	страна	_	_	_	_	_	_	_	RuCor_chain_id=3429|RuCor_group_id=474934|Shift=1147|SpaceAfter=No
+18	''	_	_	_	_	_	_	_	RuCor_chain_id=3429|RuCor_group_id=474934|Shift=1153
+19	подала	_	_	_	_	_	_	_	Shift=1155
+20	в	_	_	_	_	_	_	_	Shift=1162
+21	Минюст	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3423|RuCor_group_id=474935|RuCor_link_id=474924|Shift=1164
+22	документы	_	_	_	_	_	_	_	Shift=1171
+23	об	_	_	_	_	_	_	_	Shift=1181
+24	изменении	_	_	_	_	_	_	_	Shift=1184
+25	своего	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3429|RuCor_group_id=474936|RuCor_link_id=474934|Shift=1194
+26	названия	_	_	_	_	_	_	_	Shift=1201
+27	на	_	_	_	_	_	_	_	Shift=1210
+28	``	_	_	_	_	_	_	_	Shift=1213|SpaceAfter=No
+29	Народный	_	_	_	_	_	_	_	Shift=1214
+30	альянс	_	_	_	_	_	_	_	Shift=1223|SpaceAfter=No
+31	''	_	_	_	_	_	_	_	Shift=1229|SpaceAfter=No
+32	.	_	_	_	_	_	_	_	Shift=1230
+
+# sent_id = f5fc4583-ffb5-4552-9594-acb92e86e637-p5-s2
+# text = 27 ноября ведомство утвердила смену наименования.
+1	27	_	_	_	_	_	_	_	Shift=1232
+2	ноября	_	_	_	_	_	_	_	Shift=1235
+3	ведомство	_	_	_	_	_	_	_	Shift=1242
+4	утвердила	_	_	_	_	_	_	_	Shift=1252
+5	смену	_	_	_	_	_	_	_	Shift=1262
+6	наименования	_	_	_	_	_	_	_	Shift=1268|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=1280
+
+# sent_id = f5fc4583-ffb5-4552-9594-acb92e86e637-p5-s3
+# text = Это сделало невозможным последующую регистрацию под названием ``Народный альянс'' партии Навального, так как существование двух партий с одинаковыми названиями противоречит закону.
+1	Это	_	_	_	_	_	_	_	Shift=1282
+2	сделало	_	_	_	_	_	_	_	Shift=1286
+3	невозможным	_	_	_	_	_	_	_	Shift=1294
+4	последующую	_	_	_	_	_	_	_	Shift=1306
+5	регистрацию	_	_	_	_	_	_	_	Shift=1318
+6	под	_	_	_	_	_	_	_	Shift=1330
+7	названием	_	_	_	_	_	_	_	Shift=1334
+8	``	_	_	_	_	_	_	_	Shift=1344|SpaceAfter=No
+9	Народный	_	_	_	_	_	_	_	Shift=1345
+10	альянс	_	_	_	_	_	_	_	Shift=1354|SpaceAfter=No
+11	''	_	_	_	_	_	_	_	Shift=1360
+12	партии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3424|RuCor_group_id=474937|RuCor_link_id=474933|Shift=1362
+13	Навального	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3425|RuCor_group_id=474938|RuCor_link_id=474932|Shift=1369|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=1379
+15	так	_	_	_	_	_	_	_	Shift=1381
+16	как	_	_	_	_	_	_	_	Shift=1385
+17	существование	_	_	_	_	_	_	_	Shift=1389
+18	двух	_	_	_	_	_	_	_	Shift=1403
+19	партий	_	_	_	_	_	_	_	Shift=1408
+20	с	_	_	_	_	_	_	_	Shift=1415
+21	одинаковыми	_	_	_	_	_	_	_	Shift=1417
+22	названиями	_	_	_	_	_	_	_	Shift=1429
+23	противоречит	_	_	_	_	_	_	_	Shift=1440
+24	закону	_	_	_	_	_	_	_	Shift=1453|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	_
+

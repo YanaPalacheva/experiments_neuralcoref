@@ -1,0 +1,327 @@
+# newdoc id = d30ac56e-6fe1-40fa-9555-fe6d06a73807
+# newpar id = d30ac56e-6fe1-40fa-9555-fe6d06a73807-p1
+# par_text = В понедельник в США отмечается национальный праздник - День Мартина Лютера Кинга. По всей стране пройдут различные мероприятия, посвященные памяти христианского проповедника и известнейшего борца за гражданские права темнокожих американцев. В этом году Кингу, павшему в 1968-м от пули убийцы в Мемфисе (штат Теннесси), исполнилось бы 85 лет.
+# sent_id = d30ac56e-6fe1-40fa-9555-fe6d06a73807-p1-s1
+# text = В понедельник в США отмечается национальный праздник - День Мартина Лютера Кинга.
+1	В	_	_	_	_	_	_	_	Shift=0
+2	понедельник	_	_	_	_	_	_	_	Shift=2
+3	в	_	_	_	_	_	_	_	Shift=14
+4	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3335|RuCor_group_id=474547|RuCor_link_id=0|Shift=16
+5	отмечается	_	_	_	_	_	_	_	Shift=20
+6	национальный	_	_	_	_	_	_	_	Shift=31
+7	праздник	_	_	_	_	_	_	_	Shift=44
+8	-	_	_	_	_	_	_	_	Shift=53
+9	День	_	_	_	_	_	_	_	Shift=55
+10	Мартина	_	_	_	_	_	_	_	RuCor_chain_id=3336|RuCor_group_id=474548|Shift=60
+11	Лютера	_	_	_	_	_	_	_	RuCor_chain_id=3336|RuCor_group_id=474548|Shift=68
+12	Кинга	_	_	_	_	_	_	_	RuCor_chain_id=3336|RuCor_group_id=474548|Shift=75|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=80
+
+# sent_id = d30ac56e-6fe1-40fa-9555-fe6d06a73807-p1-s2
+# text = По всей стране пройдут различные мероприятия, посвященные памяти христианского проповедника и известнейшего борца за гражданские права темнокожих американцев.
+1	По	_	_	_	_	_	_	_	Shift=82
+2	всей	_	_	_	_	_	_	_	RuCor_chain_id=3335|RuCor_group_id=474549|Shift=85
+3	стране	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3335|RuCor_group_id=474549|RuCor_link_id=474547|Shift=90
+4	пройдут	_	_	_	_	_	_	_	Shift=97
+5	различные	_	_	_	_	_	_	_	Shift=105
+6	мероприятия	_	_	_	_	_	_	_	Shift=115|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=126
+8	посвященные	_	_	_	_	_	_	_	Shift=128
+9	памяти	_	_	_	_	_	_	_	Shift=140
+10	христианского	_	_	_	_	_	_	_	Shift=147
+11	проповедника	_	_	_	_	_	_	_	Shift=161
+12	и	_	_	_	_	_	_	_	Shift=174
+13	известнейшего	_	_	_	_	_	_	_	Shift=176
+14	борца	_	_	_	_	_	_	_	Shift=190
+15	за	_	_	_	_	_	_	_	Shift=196
+16	гражданские	_	_	_	_	_	_	_	Shift=199
+17	права	_	_	_	_	_	_	_	Shift=211
+18	темнокожих	_	_	_	_	_	_	_	Shift=217
+19	американцев	_	_	_	_	_	_	_	Shift=228|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=239
+
+# sent_id = d30ac56e-6fe1-40fa-9555-fe6d06a73807-p1-s3
+# text = В этом году Кингу, павшему в 1968-м от пули убийцы в Мемфисе (штат Теннесси), исполнилось бы 85 лет.
+1	В	_	_	_	_	_	_	_	Shift=241
+2	этом	_	_	_	_	_	_	_	Shift=243
+3	году	_	_	_	_	_	_	_	Shift=248
+4	Кингу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3336|RuCor_group_id=474550|RuCor_link_id=474548|Shift=253|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=258
+6	павшему	_	_	_	_	_	_	_	Shift=260
+7	в	_	_	_	_	_	_	_	Shift=268
+8	1968-м	_	_	_	_	_	_	_	Shift=270
+9	от	_	_	_	_	_	_	_	Shift=277
+10	пули	_	_	_	_	_	_	_	Shift=280
+11	убийцы	_	_	_	_	_	_	_	Shift=285
+12	в	_	_	_	_	_	_	_	Shift=292
+13	Мемфисе	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3337|RuCor_group_id=474551|RuCor_link_id=0|Shift=294
+14	(	_	_	_	_	_	_	_	Shift=302|SpaceAfter=No
+15	штат	_	_	_	_	_	_	_	RuCor_chain_id=3338|RuCor_group_id=474552|Shift=303
+16	Теннесси	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3338|RuCor_group_id=474552|RuCor_link_id=0|Shift=308|SpaceAfter=No
+17	)	_	_	_	_	_	_	_	Shift=316|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=317
+19	исполнилось	_	_	_	_	_	_	_	Shift=319
+20	бы	_	_	_	_	_	_	_	Shift=331
+21	85	_	_	_	_	_	_	_	Shift=334
+22	лет	_	_	_	_	_	_	_	Shift=337|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=340
+
+# newpar id = d30ac56e-6fe1-40fa-9555-fe6d06a73807-p2
+# par_text = Как сообщает ИТАР-ТАСС, самые массовые акции по традиции пройдут в Атланте (штат Джорджия), где Кинг жил и проповедовал и где он похоронен.
+# sent_id = d30ac56e-6fe1-40fa-9555-fe6d06a73807-p2-s1
+# text = Как сообщает ИТАР-ТАСС, самые массовые акции по традиции пройдут в Атланте (штат Джорджия), где Кинг жил и проповедовал и где он похоронен.
+1	Как	_	_	_	_	_	_	_	Shift=342
+2	сообщает	_	_	_	_	_	_	_	Shift=346
+3	ИТАР-ТАСС	_	_	_	_	_	_	_	Shift=355|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=364
+5	самые	_	_	_	_	_	_	_	Shift=366
+6	массовые	_	_	_	_	_	_	_	Shift=372
+7	акции	_	_	_	_	_	_	_	Shift=381
+8	по	_	_	_	_	_	_	_	Shift=387
+9	традиции	_	_	_	_	_	_	_	Shift=390
+10	пройдут	_	_	_	_	_	_	_	Shift=399
+11	в	_	_	_	_	_	_	_	Shift=407
+12	Атланте	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3339|RuCor_group_id=474553|RuCor_link_id=0|Shift=409
+13	(	_	_	_	_	_	_	_	Shift=417|SpaceAfter=No
+14	штат	_	_	_	_	_	_	_	Shift=418
+15	Джорджия	_	_	_	_	_	_	_	Shift=423|SpaceAfter=No
+16	)	_	_	_	_	_	_	_	Shift=431|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=432
+18	где	_	_	_	_	_	_	_	Shift=434
+19	Кинг	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3336|RuCor_group_id=474554|RuCor_link_id=474555|Shift=438
+20	жил	_	_	_	_	_	_	_	Shift=443
+21	и	_	_	_	_	_	_	_	Shift=447
+22	проповедовал	_	_	_	_	_	_	_	Shift=449
+23	и	_	_	_	_	_	_	_	Shift=462
+24	где	_	_	_	_	_	_	_	Shift=464
+25	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3336|RuCor_group_id=474555|RuCor_link_id=474550|Shift=468
+26	похоронен	_	_	_	_	_	_	_	Shift=471|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=480
+
+# newpar id = d30ac56e-6fe1-40fa-9555-fe6d06a73807-p3
+# par_text = "Философия ненасилия, сторонником которой был Мартин Лютер Кинг, сегодня актуальна как никогда. Не знаю почему, но в США существует склонность к насилию, и с этим необходимо бороться", - отметила накануне праздника дочь Кинга Бернис, возглавляющая центр его имени в Атланте.
+# sent_id = d30ac56e-6fe1-40fa-9555-fe6d06a73807-p3-s1
+# text = ``Философия ненасилия, сторонником которой был Мартин Лютер Кинг, сегодня актуальна как никогда.
+1	``	_	_	_	_	_	_	_	Shift=482|SpaceAfter=No
+2	Философия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3340|RuCor_group_id=474556|RuCor_link_id=0|Shift=483
+3	ненасилия	_	_	_	_	_	_	_	Shift=493|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=502
+5	сторонником	_	_	_	_	_	_	_	Shift=504
+6	которой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=3340|RuCor_group_id=474557|RuCor_link_id=474556|Shift=516
+7	был	_	_	_	_	_	_	_	Shift=524
+8	Мартин	_	_	_	_	_	_	_	RuCor_chain_id=3336|RuCor_group_id=474558|Shift=528
+9	Лютер	_	_	_	_	_	_	_	RuCor_chain_id=3336|RuCor_group_id=474558|Shift=535
+10	Кинг	_	_	_	_	_	_	_	RuCor_chain_id=3336|RuCor_group_id=474558|Shift=541|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=545
+12	сегодня	_	_	_	_	_	_	_	Shift=547
+13	актуальна	_	_	_	_	_	_	_	Shift=555
+14	как	_	_	_	_	_	_	_	Shift=565
+15	никогда	_	_	_	_	_	_	_	Shift=569|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=576
+
+# sent_id = d30ac56e-6fe1-40fa-9555-fe6d06a73807-p3-s2
+# text = Не знаю почему, но в США существует склонность к насилию, и с этим необходимо бороться'', - отметила накануне праздника дочь Кинга Бернис, возглавляющая центр его имени в Атланте.
+1	Не	_	_	_	_	_	_	_	Shift=578
+2	знаю	_	_	_	_	_	_	_	Shift=581
+3	почему	_	_	_	_	_	_	_	Shift=586|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=592
+5	но	_	_	_	_	_	_	_	Shift=594
+6	в	_	_	_	_	_	_	_	Shift=597
+7	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3335|RuCor_group_id=474559|RuCor_link_id=474549|Shift=599
+8	существует	_	_	_	_	_	_	_	Shift=603
+9	склонность	_	_	_	_	_	_	_	Shift=614
+10	к	_	_	_	_	_	_	_	Shift=625
+11	насилию	_	_	_	_	_	_	_	Shift=627|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=634
+13	и	_	_	_	_	_	_	_	Shift=636
+14	с	_	_	_	_	_	_	_	Shift=638
+15	этим	_	_	_	_	_	_	_	Shift=640
+16	необходимо	_	_	_	_	_	_	_	Shift=645
+17	бороться	_	_	_	_	_	_	_	Shift=656|SpaceAfter=No
+18	''	_	_	_	_	_	_	_	Shift=664|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=665
+20	-	_	_	_	_	_	_	_	Shift=667
+21	отметила	_	_	_	_	_	_	_	Shift=669
+22	накануне	_	_	_	_	_	_	_	Shift=678
+23	праздника	_	_	_	_	_	_	_	Shift=687
+24	дочь	_	_	_	_	_	_	_	Shift=697
+25	Кинга	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3336|RuCor_group_id=474560|RuCor_link_id=474555|Shift=702
+26	Бернис	_	_	_	_	_	_	_	Shift=708|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=714
+28	возглавляющая	_	_	_	_	_	_	_	Shift=716
+29	центр	_	_	_	_	_	_	_	Shift=730
+30	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3336|RuCor_group_id=474561|RuCor_link_id=474555|Shift=736
+31	имени	_	_	_	_	_	_	_	Shift=740
+32	в	_	_	_	_	_	_	_	Shift=746
+33	Атланте	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3339|RuCor_group_id=474562|RuCor_link_id=474553|Shift=748|SpaceAfter=No
+34	.	_	_	_	_	_	_	_	Shift=755
+
+# newpar id = d30ac56e-6fe1-40fa-9555-fe6d06a73807-p4
+# par_text = Памятные мероприятия пройдут и в Мемфисе - в Национальном музее гражданских прав. Частью этого музея является мотель Lorraine, на балконе которого был убит Кинг. Номер, в котором остановился проповедник, сохранен в том виде, каким он его оставил в день смерти.
+# sent_id = d30ac56e-6fe1-40fa-9555-fe6d06a73807-p4-s1
+# text = Памятные мероприятия пройдут и в Мемфисе - в Национальном музее гражданских прав.
+1	Памятные	_	_	_	_	_	_	_	Shift=757
+2	мероприятия	_	_	_	_	_	_	_	Shift=766
+3	пройдут	_	_	_	_	_	_	_	Shift=778
+4	и	_	_	_	_	_	_	_	Shift=786
+5	в	_	_	_	_	_	_	_	Shift=788
+6	Мемфисе	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3337|RuCor_group_id=474563|RuCor_link_id=474551|Shift=790
+7	-	_	_	_	_	_	_	_	Shift=798
+8	в	_	_	_	_	_	_	_	Shift=800
+9	Национальном	_	_	_	_	_	_	_	RuCor_chain_id=3341|RuCor_group_id=474564|Shift=802
+10	музее	_	_	_	_	_	_	_	RuCor_chain_id=3341|RuCor_group_id=474564|Shift=815
+11	гражданских	_	_	_	_	_	_	_	RuCor_chain_id=3341|RuCor_group_id=474564|Shift=821
+12	прав	_	_	_	_	_	_	_	RuCor_chain_id=3341|RuCor_group_id=474564|Shift=833|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=837
+
+# sent_id = d30ac56e-6fe1-40fa-9555-fe6d06a73807-p4-s2
+# text = Частью этого музея является мотель Lorraine, на балконе которого был убит Кинг.
+1	Частью	_	_	_	_	_	_	_	Shift=839
+2	этого	_	_	_	_	_	_	_	RuCor_chain_id=3341|RuCor_group_id=474565|Shift=846
+3	музея	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3341|RuCor_group_id=474565|RuCor_link_id=0|Shift=852
+4	является	_	_	_	_	_	_	_	Shift=858
+5	мотель	_	_	_	_	_	_	_	RuCor_chain_id=3342|RuCor_group_id=474566|Shift=867
+6	Lorraine	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3342|RuCor_group_id=474566|RuCor_link_id=0|Shift=874|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=882
+8	на	_	_	_	_	_	_	_	Shift=884
+9	балконе	_	_	_	_	_	_	_	Shift=887
+10	которого	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=3342|RuCor_group_id=474567|RuCor_link_id=474566|Shift=895
+11	был	_	_	_	_	_	_	_	Shift=904
+12	убит	_	_	_	_	_	_	_	Shift=908
+13	Кинг	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3336|RuCor_group_id=474568|RuCor_link_id=474561|Shift=913|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=917
+
+# sent_id = d30ac56e-6fe1-40fa-9555-fe6d06a73807-p4-s3
+# text = Номер, в котором остановился проповедник, сохранен в том виде, каким он его оставил в день смерти.
+1	Номер	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3343|RuCor_group_id=474569|RuCor_link_id=0|Shift=919|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=924
+3	в	_	_	_	_	_	_	_	Shift=926
+4	котором	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=3343|RuCor_group_id=474570|RuCor_link_id=474569|Shift=928
+5	остановился	_	_	_	_	_	_	_	Shift=936
+6	проповедник	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3336|RuCor_group_id=474571|RuCor_link_id=474568|Shift=948|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=959
+8	сохранен	_	_	_	_	_	_	_	Shift=961
+9	в	_	_	_	_	_	_	_	Shift=970
+10	том	_	_	_	_	_	_	_	Shift=972
+11	виде	_	_	_	_	_	_	_	Shift=976|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=980
+13	каким	_	_	_	_	_	_	_	Shift=982
+14	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3336|RuCor_group_id=474572|RuCor_link_id=474568|Shift=988
+15	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=3343|RuCor_group_id=474573|RuCor_link_id=474569|Shift=991
+16	оставил	_	_	_	_	_	_	_	Shift=995
+17	в	_	_	_	_	_	_	_	Shift=1003
+18	день	_	_	_	_	_	_	_	Shift=1005
+19	смерти	_	_	_	_	_	_	_	Shift=1010|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=1016
+
+# newpar id = d30ac56e-6fe1-40fa-9555-fe6d06a73807-p5
+# par_text = В понедельник посетители музея в Мемфисе смогут впервые услышать интервью Кинга, датированное 1960 годом, в котором он обсуждает движение за гражданские права. Эту запись недавно обнаружил житель Теннесси, разбиравший на чердаке вещи своего отца, который хотел написать книгу о Кинге. В 2012 году знаменитый американский иллюзионист Дэвид Копперфильд купил пленку с интервью и передал ее в дар музею.
+# sent_id = d30ac56e-6fe1-40fa-9555-fe6d06a73807-p5-s1
+# text = В понедельник посетители музея в Мемфисе смогут впервые услышать интервью Кинга, датированное 1960 годом, в котором он обсуждает движение за гражданские права.
+1	В	_	_	_	_	_	_	_	Shift=1018
+2	понедельник	_	_	_	_	_	_	_	Shift=1020
+3	посетители	_	_	_	_	_	_	_	Shift=1032
+4	музея	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3341|RuCor_group_id=474574|RuCor_link_id=474565|Shift=1043
+5	в	_	_	_	_	_	_	_	RuCor_chain_id=3341|RuCor_group_id=474574|Shift=1049
+6	Мемфисе	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3337|RuCor_group_id=474575|RuCor_link_id=474563|Shift=1051
+7	смогут	_	_	_	_	_	_	_	Shift=1059
+8	впервые	_	_	_	_	_	_	_	Shift=1066
+9	услышать	_	_	_	_	_	_	_	Shift=1074
+10	интервью	_	_	_	_	_	_	_	Shift=1083
+11	Кинга	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3336|RuCor_group_id=474576|RuCor_link_id=474568|Shift=1092|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=1097
+13	датированное	_	_	_	_	_	_	_	Shift=1099
+14	1960	_	_	_	_	_	_	_	RuCor_chain_id=3344|RuCor_group_id=474577|Shift=1112
+15	годом	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3344|RuCor_group_id=474577|RuCor_link_id=0|Shift=1117|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=1122
+17	в	_	_	_	_	_	_	_	Shift=1124
+18	котором	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=3344|RuCor_group_id=474578|RuCor_link_id=474577|Shift=1126
+19	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3336|RuCor_group_id=474579|RuCor_link_id=474576|Shift=1134
+20	обсуждает	_	_	_	_	_	_	_	Shift=1137
+21	движение	_	_	_	_	_	_	_	Shift=1147
+22	за	_	_	_	_	_	_	_	Shift=1156
+23	гражданские	_	_	_	_	_	_	_	Shift=1159
+24	права	_	_	_	_	_	_	_	Shift=1171|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=1176
+
+# sent_id = d30ac56e-6fe1-40fa-9555-fe6d06a73807-p5-s2
+# text = Эту запись недавно обнаружил житель Теннесси, разбиравший на чердаке вещи своего отца, который хотел написать книгу о Кинге.
+1	Эту	_	_	_	_	_	_	_	Shift=1178
+2	запись	_	_	_	_	_	_	_	Shift=1182
+3	недавно	_	_	_	_	_	_	_	Shift=1189
+4	обнаружил	_	_	_	_	_	_	_	Shift=1197
+5	житель	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3345|RuCor_group_id=474580|RuCor_link_id=0|Shift=1207
+6	Теннесси	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3338|RuCor_group_id=474581|RuCor_link_id=474552|Shift=1214|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=1222
+8	разбиравший	_	_	_	_	_	_	_	Shift=1224
+9	на	_	_	_	_	_	_	_	Shift=1236
+10	чердаке	_	_	_	_	_	_	_	Shift=1239
+11	вещи	_	_	_	_	_	_	_	Shift=1247
+12	своего	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=3346|RuCor_group_id=474583|RuCor_link_id=474580|Shift=1252
+13	отца	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3346|RuCor_group_id=474583|RuCor_link_id=0|Shift=1259|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=1263
+15	который	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=3346|RuCor_group_id=474584|RuCor_link_id=474583|Shift=1265
+16	хотел	_	_	_	_	_	_	_	Shift=1273
+17	написать	_	_	_	_	_	_	_	Shift=1279
+18	книгу	_	_	_	_	_	_	_	Shift=1288
+19	о	_	_	_	_	_	_	_	Shift=1294
+20	Кинге	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3336|RuCor_group_id=474585|RuCor_link_id=474579|Shift=1296|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=1301
+
+# sent_id = d30ac56e-6fe1-40fa-9555-fe6d06a73807-p5-s3
+# text = В 2012 году знаменитый американский иллюзионист Дэвид Копперфильд купил пленку с интервью и передал ее в дар музею.
+1	В	_	_	_	_	_	_	_	Shift=1303
+2	2012	_	_	_	_	_	_	_	Shift=1305
+3	году	_	_	_	_	_	_	_	Shift=1310
+4	знаменитый	_	_	_	_	_	_	_	Shift=1315
+5	американский	_	_	_	_	_	_	_	Shift=1326
+6	иллюзионист	_	_	_	_	_	_	_	Shift=1339
+7	Дэвид	_	_	_	_	_	_	_	Shift=1351
+8	Копперфильд	_	_	_	_	_	_	_	Shift=1357
+9	купил	_	_	_	_	_	_	_	Shift=1369
+10	пленку	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3347|RuCor_group_id=474586|RuCor_link_id=0|Shift=1375
+11	с	_	_	_	_	_	_	_	RuCor_chain_id=3347|RuCor_group_id=474586|Shift=1382
+12	интервью	_	_	_	_	_	_	_	RuCor_chain_id=3347|RuCor_group_id=474586|Shift=1384
+13	и	_	_	_	_	_	_	_	Shift=1393
+14	передал	_	_	_	_	_	_	_	Shift=1395
+15	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=3347|RuCor_group_id=474587|RuCor_link_id=474586|Shift=1403
+16	в	_	_	_	_	_	_	_	Shift=1406
+17	дар	_	_	_	_	_	_	_	Shift=1408
+18	музею	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3341|RuCor_group_id=474588|RuCor_link_id=474574|Shift=1412|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=1417
+
+# newpar id = d30ac56e-6fe1-40fa-9555-fe6d06a73807-p6
+# par_text = Считается, что Кинга застрелил преступник-рецидивист Джеймс Эрл Рэй, бежавший из заключения в штате Миссури. После ареста он сознался в убийстве Кинга <...>
+# sent_id = d30ac56e-6fe1-40fa-9555-fe6d06a73807-p6-s1
+# text = Считается, что Кинга застрелил преступник - рецидивист Джеймс Эрл Рэй, бежавший из заключения в штате Миссури.
+1	Считается	_	_	_	_	_	_	_	Shift=1419|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=1428
+3	что	_	_	_	_	_	_	_	Shift=1430
+4	Кинга	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3336|RuCor_group_id=474589|RuCor_link_id=474585|Shift=1434
+5	застрелил	_	_	_	_	_	_	_	Shift=1440
+6	преступник	_	_	_	_	_	_	_	RuCor_chain_id=3348|RuCor_group_id=474590|Shift=1450
+7	-	_	_	_	_	_	_	_	RuCor_chain_id=3348|RuCor_group_id=474590|Shift=1460
+8	рецидивист	_	_	_	_	_	_	_	RuCor_chain_id=3348|RuCor_group_id=474590|Shift=1461
+9	Джеймс	_	_	_	_	_	_	_	RuCor_chain_id=3348|RuCor_group_id=474590|Shift=1472
+10	Эрл	_	_	_	_	_	_	_	RuCor_chain_id=3348|RuCor_group_id=474590|Shift=1479
+11	Рэй	_	_	_	_	_	_	_	RuCor_chain_id=3348|RuCor_group_id=474590|Shift=1483|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=1486
+13	бежавший	_	_	_	_	_	_	_	Shift=1488
+14	из	_	_	_	_	_	_	_	Shift=1497
+15	заключения	_	_	_	_	_	_	_	Shift=1500
+16	в	_	_	_	_	_	_	_	Shift=1511
+17	штате	_	_	_	_	_	_	_	Shift=1513
+18	Миссури	_	_	_	_	_	_	_	Shift=1519|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=1526
+
+# sent_id = d30ac56e-6fe1-40fa-9555-fe6d06a73807-p6-s2
+# text = После ареста он сознался в убийстве Кинга <...>
+1	После	_	_	_	_	_	_	_	Shift=1528
+2	ареста	_	_	_	_	_	_	_	Shift=1534
+3	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3348|RuCor_group_id=474591|RuCor_link_id=474590|Shift=1541
+4	сознался	_	_	_	_	_	_	_	Shift=1544
+5	в	_	_	_	_	_	_	_	Shift=1553
+6	убийстве	_	_	_	_	_	_	_	Shift=1555
+7	Кинга	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3336|RuCor_group_id=474592|RuCor_link_id=474589|Shift=1564
+7.1	_	_	_	_	_	_	_	_	EntityUnk=<...>
+

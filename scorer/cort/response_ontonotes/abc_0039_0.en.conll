@@ -1,0 +1,80 @@
+#begin document (abc_0039_0); part 000
+abc_0039_0	0	0	Some	DT	det	-	-	-	-
+abc_0039_0	0	1	overseas	JJ	amod	-	-	-	-
+abc_0039_0	0	2	news	NN	ROOT	-	-	-	-
+abc_0039_0	0	3	.	.	punct	-	-	-	-
+
+abc_0039_0	0	0	Barak	NNP	ROOT	-	-	-	-
+abc_0039_0	0	1	,	,	punct	-	-	-	-
+abc_0039_0	0	2	who	WP	nsubjpass	-	-	-	-
+abc_0039_0	0	3	has	VBZ	aux	-	-	-	-
+abc_0039_0	0	4	been	VBN	auxpass	-	-	-	-
+abc_0039_0	0	5	forced	VBN	relcl	-	-	-	-
+abc_0039_0	0	6	to	TO	aux	-	-	-	-
+abc_0039_0	0	7	call	VB	xcomp	-	-	-	-
+abc_0039_0	0	8	national	JJ	amod	-	-	-	-
+abc_0039_0	0	9	elections	NNS	dobj	-	-	-	-
+abc_0039_0	0	10	,	,	punct	-	-	-	-
+abc_0039_0	0	11	offered	VBD	acl	-	-	-	-
+abc_0039_0	0	12	to	TO	aux	-	-	-	-
+abc_0039_0	0	13	recognize	VB	xcomp	-	-	-	-
+abc_0039_0	0	14	a	DT	det	-	-	-	-
+abc_0039_0	0	15	Palestinian	JJ	amod	-	-	-	-
+abc_0039_0	0	16	state	NN	dobj	-	-	-	-
+abc_0039_0	0	17	.	.	punct	-	-	-	-
+
+abc_0039_0	0	0	There	EX	expl	-	-	-	-
+abc_0039_0	0	1	's	VBZ	ROOT	-	-	-	-
+abc_0039_0	0	2	one	CD	nummod	-	-	-	-
+abc_0039_0	0	3	very	RB	advmod	-	-	-	-
+abc_0039_0	0	4	difficult	JJ	amod	-	-	-	-
+abc_0039_0	0	5	condition	NN	attr	-	-	-	-
+abc_0039_0	0	6	.	.	punct	-	-	-	-
+
+abc_0039_0	0	0	There	EX	expl	-	-	-	-
+abc_0039_0	0	1	could	MD	aux	-	-	-	-
+abc_0039_0	0	2	be	VB	ROOT	-	-	-	-
+abc_0039_0	0	3	no	DT	det	-	-	-	-
+abc_0039_0	0	4	discussion	NN	attr	-	-	-	-
+abc_0039_0	0	5	for	IN	prep	-	-	-	-
+abc_0039_0	0	6	now	RB	pcomp	-	-	-	-
+abc_0039_0	0	7	about	IN	prep	-	-	-	-
+abc_0039_0	0	8	who	WP	nsubj	-	-	-	-
+abc_0039_0	0	9	will	MD	aux	-	-	-	-
+abc_0039_0	0	10	have	VB	pcomp	-	-	-	-
+abc_0039_0	0	11	what	WP	det	-	-	-	-
+abc_0039_0	0	12	status	NN	ccomp	-	-	-	-
+abc_0039_0	0	13	in	IN	prep	-	-	-	-
+abc_0039_0	0	14	Jerusalem	NNP	pobj	-	-	-	-
+abc_0039_0	0	15	.	.	punct	-	-	-	-
+
+abc_0039_0	0	0	Palestinians	NNPS	nsubj	-	-	-	(1)
+abc_0039_0	0	1	do	VBP	aux	-	-	-	-
+abc_0039_0	0	2	n't	RB	neg	-	-	-	-
+abc_0039_0	0	3	like	VB	ROOT	-	-	-	-
+abc_0039_0	0	4	it	PRP	dobj	-	-	-	(1)
+abc_0039_0	0	5	.	.	punct	-	-	-	-
+
+abc_0039_0	0	0	In	IN	prep	-	-	-	-
+abc_0039_0	0	1	Bethlehem	NNP	pobj	-	-	-	-
+abc_0039_0	0	2	,	,	punct	-	-	-	-
+abc_0039_0	0	3	where	WRB	advmod	-	-	-	-
+abc_0039_0	0	4	Christians	NNPS	nsubj	-	-	-	-
+abc_0039_0	0	5	believe	VBP	relcl	-	-	-	-
+abc_0039_0	0	6	Jesus	NNP	nsubjpass	-	-	-	-
+abc_0039_0	0	7	was	VBD	auxpass	-	-	-	-
+abc_0039_0	0	8	born	VBN	ccomp	-	-	-	-
+abc_0039_0	0	9	,	,	punct	-	-	-	-
+abc_0039_0	0	10	Christmas	NNP	compound	-	-	-	-
+abc_0039_0	0	11	plans	NNS	nsubjpass	-	-	-	-
+abc_0039_0	0	12	have	VBP	aux	-	-	-	-
+abc_0039_0	0	13	been	VBN	auxpass	-	-	-	-
+abc_0039_0	0	14	scaled	VBN	ROOT	-	-	-	-
+abc_0039_0	0	15	back	RP	advmod	-	-	-	-
+abc_0039_0	0	16	because	IN	prep	-	-	-	-
+abc_0039_0	0	17	of	IN	pcomp	-	-	-	-
+abc_0039_0	0	18	the	DT	det	-	-	-	-
+abc_0039_0	0	19	violence	NN	pobj	-	-	-	-
+abc_0039_0	0	20	.	.	punct	-	-	-	-
+
+#end document 

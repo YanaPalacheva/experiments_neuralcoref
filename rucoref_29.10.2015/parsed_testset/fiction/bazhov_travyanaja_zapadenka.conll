@@ -1,0 +1,989 @@
+# newdoc id = 864839c9-b529-4a02-8889-67750f9922ac
+# newpar id = 864839c9-b529-4a02-8889-67750f9922ac-p1
+# par_text = Это не при нашем заводе было, а на Сысертской половине. И не вовсе в давних годах. Мои-то старики уж в подлетках в заводе бегали. Кто на шаровке, кто на подсыпке, а то в слесарке, либо в кузне. Ну, мало ли куда малолетов при крепости загоняли.
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p1-s1
+# text = Это не при нашем заводе было, а на Сысертской половине.
+1	Это	_	_	_	_	_	_	_	Shift=0
+2	не	_	_	_	_	_	_	_	Shift=4
+3	при	_	_	_	_	_	_	_	Shift=7
+4	нашем	_	_	_	_	_	_	_	RuCor_chain_id=783|RuCor_group_id=409953|Shift=11
+5	заводе	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=783|RuCor_group_id=409953|RuCor_link_id=0|Shift=17
+6	было	_	_	_	_	_	_	_	Shift=24|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=28
+8	а	_	_	_	_	_	_	_	Shift=30
+9	на	_	_	_	_	_	_	_	Shift=32
+10	Сысертской	_	_	_	_	_	_	_	Shift=35
+11	половине	_	_	_	_	_	_	_	Shift=46|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=54
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p1-s2
+# text = И не вовсе в давних годах.
+1	И	_	_	_	_	_	_	_	Shift=56
+2	не	_	_	_	_	_	_	_	Shift=58
+3	вовсе	_	_	_	_	_	_	_	Shift=61
+4	в	_	_	_	_	_	_	_	Shift=67
+5	давних	_	_	_	_	_	_	_	Shift=69
+6	годах	_	_	_	_	_	_	_	Shift=76|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=81
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p1-s3
+# text = Мои - то старики уж в подлетках в заводе бегали.
+1	Мои	_	_	_	_	_	_	_	Shift=83
+2	-	_	_	_	_	_	_	_	Shift=86
+3	то	_	_	_	_	_	_	_	Shift=87
+4	старики	_	_	_	_	_	_	_	Shift=90
+5	уж	_	_	_	_	_	_	_	Shift=98
+6	в	_	_	_	_	_	_	_	Shift=101
+7	подлетках	_	_	_	_	_	_	_	Shift=103
+8	в	_	_	_	_	_	_	_	Shift=113
+9	заводе	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=783|RuCor_group_id=409954|RuCor_link_id=409953|Shift=115
+10	бегали	_	_	_	_	_	_	_	Shift=122|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=128
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p1-s4
+# text = Кто на шаровке, кто на подсыпке, а то в слесарке, либо в кузне.
+1	Кто	_	_	_	_	_	_	_	Shift=130
+2	на	_	_	_	_	_	_	_	Shift=134
+3	шаровке	_	_	_	_	_	_	_	Shift=137|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=144
+5	кто	_	_	_	_	_	_	_	Shift=146
+6	на	_	_	_	_	_	_	_	Shift=150
+7	подсыпке	_	_	_	_	_	_	_	Shift=153|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=161
+9	а	_	_	_	_	_	_	_	Shift=163
+10	то	_	_	_	_	_	_	_	Shift=165
+11	в	_	_	_	_	_	_	_	Shift=168
+12	слесарке	_	_	_	_	_	_	_	Shift=170|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=178
+14	либо	_	_	_	_	_	_	_	Shift=180
+15	в	_	_	_	_	_	_	_	Shift=185
+16	кузне	_	_	_	_	_	_	_	Shift=187|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=192
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p1-s5
+# text = Ну, мало ли куда малолетов при крепости загоняли.
+1	Ну	_	_	_	_	_	_	_	Shift=194|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=196
+3	мало	_	_	_	_	_	_	_	Shift=198
+4	ли	_	_	_	_	_	_	_	Shift=203
+5	куда	_	_	_	_	_	_	_	Shift=206
+6	малолетов	_	_	_	_	_	_	_	Shift=211
+7	при	_	_	_	_	_	_	_	Shift=221
+8	крепости	_	_	_	_	_	_	_	Shift=225
+9	загоняли	_	_	_	_	_	_	_	Shift=234|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=242
+
+# newpar id = 864839c9-b529-4a02-8889-67750f9922ac-p2
+# par_text = Тогда этот разговор про травяную западенку и прошел.
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p2-s1
+# text = Тогда этот разговор про травяную западенку и прошел.
+1	Тогда	_	_	_	_	_	_	_	Shift=245
+2	этот	_	_	_	_	_	_	_	Shift=251
+3	разговор	_	_	_	_	_	_	_	Shift=256
+4	про	_	_	_	_	_	_	_	Shift=265
+5	травяную	_	_	_	_	_	_	_	Shift=269
+6	западенку	_	_	_	_	_	_	_	Shift=278
+7	и	_	_	_	_	_	_	_	Shift=288
+8	прошел	_	_	_	_	_	_	_	Shift=290|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=296
+
+# newpar id = 864839c9-b529-4a02-8889-67750f9922ac-p3
+# par_text = Так, сказывают, дело-то было.
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p3-s1
+# text = Так, сказывают, дело - то было.
+1	Так	_	_	_	_	_	_	_	Shift=299|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=302
+3	сказывают	_	_	_	_	_	_	_	Shift=304|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=313
+5	дело	_	_	_	_	_	_	_	Shift=315
+6	-	_	_	_	_	_	_	_	Shift=319
+7	то	_	_	_	_	_	_	_	Shift=320
+8	было	_	_	_	_	_	_	_	Shift=323|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=327
+
+# newpar id = 864839c9-b529-4a02-8889-67750f9922ac-p4
+# par_text = Турчаниновские наследники промотались и половину заводов продали барину Саломирскову. Тут у них неразбериха и пошла.
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p4-s1
+# text = Турчаниновские наследники промотались и половину заводов продали барину Саломирскову.
+1	Турчаниновские	_	_	_	_	_	_	_	RuCor_chain_id=784|RuCor_group_id=409952|Shift=330
+2	наследники	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=784|RuCor_group_id=409952|RuCor_link_id=0|Shift=345
+3	промотались	_	_	_	_	_	_	_	Shift=356
+4	и	_	_	_	_	_	_	_	Shift=368
+5	половину	_	_	_	_	_	_	_	Shift=370
+6	заводов	_	_	_	_	_	_	_	Shift=379
+7	продали	_	_	_	_	_	_	_	Shift=387
+8	барину	_	_	_	_	_	_	_	RuCor_chain_id=782|RuCor_group_id=409955|Shift=395
+9	Саломирскову	_	_	_	_	_	_	_	RuCor_chain_id=782|RuCor_group_id=409955|Shift=402|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=414
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p4-s2
+# text = Тут у них неразбериха и пошла.
+1	Тут	_	_	_	_	_	_	_	Shift=416
+2	у	_	_	_	_	_	_	_	Shift=420
+3	них	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=781|RuCor_group_id=409962|RuCor_link_id=0|Shift=422
+4	неразбериха	_	_	_	_	_	_	_	Shift=426
+5	и	_	_	_	_	_	_	_	Shift=438
+6	пошла	_	_	_	_	_	_	_	Shift=440|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=445
+
+# newpar id = 864839c9-b529-4a02-8889-67750f9922ac-p5
+# par_text = Продать продали, а деньги с завода Турчаниновым охота получать по-старому. Саломирсков опять, наоборот, говорит:
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p5-s1
+# text = Продать продали, а деньги с завода Турчаниновым охота получать по-старому.
+1	Продать	_	_	_	_	_	_	_	Shift=448
+2	продали	_	_	_	_	_	_	_	Shift=456|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=463
+4	а	_	_	_	_	_	_	_	Shift=465
+5	деньги	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=779|RuCor_group_id=409965|RuCor_link_id=0|Shift=467
+6	с	_	_	_	_	_	_	_	RuCor_chain_id=779|RuCor_group_id=409965|Shift=474
+7	завода	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=783|RuCor_group_id=409990|RuCor_link_id=409953|Shift=476
+8	Турчаниновым	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=784|RuCor_group_id=409956|RuCor_link_id=409952|Shift=483
+9	охота	_	_	_	_	_	_	_	Shift=496
+10	получать	_	_	_	_	_	_	_	Shift=502
+11	по-старому	_	_	_	_	_	_	_	Shift=511|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=521
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p5-s2
+# text = Саломирсков опять, наоборот, говорит:
+1	Саломирсков	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=782|RuCor_group_id=409957|RuCor_link_id=409955|Shift=523
+2	опять	_	_	_	_	_	_	_	Shift=535|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=540
+4	наоборот	_	_	_	_	_	_	_	Shift=542|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=550
+6	говорит	_	_	_	_	_	_	_	Shift=552|SpaceAfter=No
+7	:	_	_	_	_	_	_	_	Shift=559
+
+# newpar id = 864839c9-b529-4a02-8889-67750f9922ac-p6
+# par_text = - Я главный хозяин - мне и получка вся! А вам - сколь выделю. Спорили-спорили, сговорились нанять сообща главного приказчика. Пущай, дескать, хозяйствует, как умеет, а нам бы деньги выдавал, сколько кому по частям причтется.
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p6-s1
+# text = - Я главный хозяин - мне и получка вся!
+1	-	_	_	_	_	_	_	_	Shift=562
+2	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=782|RuCor_group_id=409958|RuCor_link_id=409957|Shift=564
+3	главный	_	_	_	_	_	_	_	RuCor_chain_id=782|RuCor_group_id=409959|Shift=566
+4	хозяин	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=782|RuCor_group_id=409959|RuCor_link_id=409958|Shift=574
+5	-	_	_	_	_	_	_	_	Shift=581
+6	мне	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=782|RuCor_group_id=409960|RuCor_link_id=409957|Shift=583
+7	и	_	_	_	_	_	_	_	Shift=587
+8	получка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=779|RuCor_group_id=409967|RuCor_link_id=409965|Shift=589
+9	вся	_	_	_	_	_	_	_	Shift=597|SpaceAfter=No
+10	!	_	_	_	_	_	_	_	Shift=600
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p6-s2
+# text = А вам - сколь выделю.
+1	А	_	_	_	_	_	_	_	Shift=602
+2	вам	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=784|RuCor_group_id=409961|RuCor_link_id=409956|Shift=604
+3	-	_	_	_	_	_	_	_	Shift=608
+4	сколь	_	_	_	_	_	_	_	Shift=610
+5	выделю	_	_	_	_	_	_	_	Shift=616|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=622
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p6-s3
+# text = Спорили - спорили, сговорились нанять сообща главного приказчика.
+1	Спорили	_	_	_	_	_	_	_	Shift=624
+2	-	_	_	_	_	_	_	_	Shift=631
+3	спорили	_	_	_	_	_	_	_	Shift=632|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=639
+5	сговорились	_	_	_	_	_	_	_	Shift=641
+6	нанять	_	_	_	_	_	_	_	Shift=653
+7	сообща	_	_	_	_	_	_	_	Shift=660
+8	главного	_	_	_	_	_	_	_	RuCor_chain_id=780|RuCor_group_id=409964|Shift=667
+9	приказчика	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=780|RuCor_group_id=409964|RuCor_link_id=0|Shift=676|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=686
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p6-s4
+# text = Пущай, дескать, хозяйствует, как умеет, а нам бы деньги выдавал, сколько кому по частям причтется.
+1	Пущай	_	_	_	_	_	_	_	Shift=688|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=693
+3	дескать	_	_	_	_	_	_	_	Shift=695|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=702
+5	хозяйствует	_	_	_	_	_	_	_	Shift=704|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=715
+7	как	_	_	_	_	_	_	_	Shift=717
+8	умеет	_	_	_	_	_	_	_	Shift=721|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=726
+10	а	_	_	_	_	_	_	_	Shift=728
+11	нам	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=781|RuCor_group_id=409963|RuCor_link_id=409962|Shift=730
+12	бы	_	_	_	_	_	_	_	Shift=734
+13	деньги	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=779|RuCor_group_id=409966|RuCor_link_id=409965|Shift=737
+14	выдавал	_	_	_	_	_	_	_	Shift=744|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=751
+16	сколько	_	_	_	_	_	_	_	Shift=753
+17	кому	_	_	_	_	_	_	_	Shift=761
+18	по	_	_	_	_	_	_	_	Shift=766
+19	частям	_	_	_	_	_	_	_	Shift=769
+20	причтется	_	_	_	_	_	_	_	Shift=776|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=785
+
+# newpar id = 864839c9-b529-4a02-8889-67750f9922ac-p7
+# par_text = Так-то, видно, им вольготнее показалось! Оно и то сказать: турчаннновски наследники сроду в заводском деле не мерекали, да и новый барин, видать, не мудренее достался. Он, сказывают, из каких-то царских ли, княжеских незаконных родов вышел. То ему и заводы купили и заслуг всяких надавали. Завсегда будто в белых штанах в обтяжку ходил, а на шапке от бусой лошади хвост.
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p7-s1
+# text = Так-то, видно, им вольготнее показалось!
+1	Так-то	_	_	_	_	_	_	_	Shift=788|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=794
+3	видно	_	_	_	_	_	_	_	Shift=796|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=801
+5	им	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=781|RuCor_group_id=409968|RuCor_link_id=409962|Shift=803
+6	вольготнее	_	_	_	_	_	_	_	Shift=806
+7	показалось	_	_	_	_	_	_	_	Shift=817|SpaceAfter=No
+8	!	_	_	_	_	_	_	_	Shift=827
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p7-s2
+# text = Оно и то сказать: турчаннновски наследники сроду в заводском деле не мерекали, да и новый барин, видать, не мудренее достался.
+1	Оно	_	_	_	_	_	_	_	Shift=829
+2	и	_	_	_	_	_	_	_	Shift=833
+3	то	_	_	_	_	_	_	_	Shift=835
+4	сказать	_	_	_	_	_	_	_	Shift=838|SpaceAfter=No
+5	:	_	_	_	_	_	_	_	Shift=845
+6	турчаннновски	_	_	_	_	_	_	_	RuCor_chain_id=784|RuCor_group_id=409969|Shift=847
+7	наследники	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=784|RuCor_group_id=409969|RuCor_link_id=409952|Shift=861
+8	сроду	_	_	_	_	_	_	_	Shift=872
+9	в	_	_	_	_	_	_	_	Shift=878
+10	заводском	_	_	_	_	_	_	_	Shift=880
+11	деле	_	_	_	_	_	_	_	Shift=890
+12	не	_	_	_	_	_	_	_	Shift=895
+13	мерекали	_	_	_	_	_	_	_	Shift=898|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=906
+15	да	_	_	_	_	_	_	_	Shift=908
+16	и	_	_	_	_	_	_	_	Shift=911
+17	новый	_	_	_	_	_	_	_	RuCor_chain_id=782|RuCor_group_id=409970|Shift=913
+18	барин	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=782|RuCor_group_id=409970|RuCor_link_id=409957|Shift=919|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=924
+20	видать	_	_	_	_	_	_	_	Shift=926|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=932
+22	не	_	_	_	_	_	_	_	Shift=934
+23	мудренее	_	_	_	_	_	_	_	Shift=937
+24	достался	_	_	_	_	_	_	_	Shift=946|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=954
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p7-s3
+# text = Он, сказывают, из каких-то царских ли, княжеских незаконных родов вышел.
+1	Он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=782|RuCor_group_id=409971|RuCor_link_id=409970|Shift=956|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=958
+3	сказывают	_	_	_	_	_	_	_	Shift=960|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=969
+5	из	_	_	_	_	_	_	_	Shift=971
+6	каких-то	_	_	_	_	_	_	_	Shift=974
+7	царских	_	_	_	_	_	_	_	Shift=983
+8	ли	_	_	_	_	_	_	_	Shift=991|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=993
+10	княжеских	_	_	_	_	_	_	_	Shift=995
+11	незаконных	_	_	_	_	_	_	_	Shift=1005
+12	родов	_	_	_	_	_	_	_	Shift=1016
+13	вышел	_	_	_	_	_	_	_	Shift=1022|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=1027
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p7-s4
+# text = То ему и заводы купили и заслуг всяких надавали.
+1	То	_	_	_	_	_	_	_	Shift=1029
+2	ему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=782|RuCor_group_id=409972|RuCor_link_id=409971|Shift=1032
+3	и	_	_	_	_	_	_	_	Shift=1036
+4	заводы	_	_	_	_	_	_	_	Shift=1038
+5	купили	_	_	_	_	_	_	_	Shift=1045
+6	и	_	_	_	_	_	_	_	Shift=1052
+7	заслуг	_	_	_	_	_	_	_	Shift=1054
+8	всяких	_	_	_	_	_	_	_	Shift=1061
+9	надавали	_	_	_	_	_	_	_	Shift=1068|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=1076
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p7-s5
+# text = Завсегда будто в белых штанах в обтяжку ходил, а на шапке от бусой лошади хвост.
+1	Завсегда	_	_	_	_	_	_	_	Shift=1078
+2	будто	_	_	_	_	_	_	_	Shift=1087
+3	в	_	_	_	_	_	_	_	Shift=1093
+4	белых	_	_	_	_	_	_	_	Shift=1095
+5	штанах	_	_	_	_	_	_	_	Shift=1101
+6	в	_	_	_	_	_	_	_	Shift=1108
+7	обтяжку	_	_	_	_	_	_	_	Shift=1110
+8	ходил	_	_	_	_	_	_	_	Shift=1118|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1123
+10	а	_	_	_	_	_	_	_	Shift=1125
+11	на	_	_	_	_	_	_	_	Shift=1127
+12	шапке	_	_	_	_	_	_	_	Shift=1130
+13	от	_	_	_	_	_	_	_	Shift=1136
+14	бусой	_	_	_	_	_	_	_	Shift=1139
+15	лошади	_	_	_	_	_	_	_	Shift=1145
+16	хвост	_	_	_	_	_	_	_	Shift=1152|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=1157
+
+# newpar id = 864839c9-b529-4a02-8889-67750f9922ac-p8
+# par_text = В экой-то одеже в кричну либо сварочную не пойдешь! Под домну и вовсе не суйся. Да новый барин об этом и не скучал. По своему понятию другое ремесло придумал: жеребцов по кругу на веревке гонять.
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p8-s1
+# text = В экой - то одеже в кричну либо сварочную не пойдешь!
+1	В	_	_	_	_	_	_	_	Shift=1160
+2	экой	_	_	_	_	_	_	_	Shift=1162
+3	-	_	_	_	_	_	_	_	Shift=1166
+4	то	_	_	_	_	_	_	_	Shift=1167
+5	одеже	_	_	_	_	_	_	_	Shift=1170
+6	в	_	_	_	_	_	_	_	Shift=1176
+7	кричну	_	_	_	_	_	_	_	Shift=1178
+8	либо	_	_	_	_	_	_	_	Shift=1185
+9	сварочную	_	_	_	_	_	_	_	Shift=1190
+10	не	_	_	_	_	_	_	_	Shift=1200
+11	пойдешь	_	_	_	_	_	_	_	Shift=1203|SpaceAfter=No
+12	!	_	_	_	_	_	_	_	Shift=1210
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p8-s2
+# text = Под домну и вовсе не суйся.
+1	Под	_	_	_	_	_	_	_	Shift=1212
+2	домну	_	_	_	_	_	_	_	Shift=1216
+3	и	_	_	_	_	_	_	_	Shift=1222
+4	вовсе	_	_	_	_	_	_	_	Shift=1224
+5	не	_	_	_	_	_	_	_	Shift=1230
+6	суйся	_	_	_	_	_	_	_	Shift=1233|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=1238
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p8-s3
+# text = Да новый барин об этом и не скучал.
+1	Да	_	_	_	_	_	_	_	Shift=1240
+2	новый	_	_	_	_	_	_	_	RuCor_chain_id=782|RuCor_group_id=409973|Shift=1243
+3	барин	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=782|RuCor_group_id=409973|RuCor_link_id=409972|Shift=1249
+4	об	_	_	_	_	_	_	_	Shift=1255
+5	этом	_	_	_	_	_	_	_	Shift=1258
+6	и	_	_	_	_	_	_	_	Shift=1263
+7	не	_	_	_	_	_	_	_	Shift=1265
+8	скучал	_	_	_	_	_	_	_	Shift=1268|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=1274
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p8-s4
+# text = По своему понятию другое ремесло придумал: жеребцов по кругу на веревке гонять.
+1	По	_	_	_	_	_	_	_	Shift=1276
+2	своему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=782|RuCor_group_id=409974|RuCor_link_id=409973|Shift=1279
+3	понятию	_	_	_	_	_	_	_	Shift=1286
+4	другое	_	_	_	_	_	_	_	Shift=1294
+5	ремесло	_	_	_	_	_	_	_	Shift=1301
+6	придумал	_	_	_	_	_	_	_	Shift=1309|SpaceAfter=No
+7	:	_	_	_	_	_	_	_	Shift=1317
+8	жеребцов	_	_	_	_	_	_	_	Shift=1319
+9	по	_	_	_	_	_	_	_	Shift=1328
+10	кругу	_	_	_	_	_	_	_	Shift=1331
+11	на	_	_	_	_	_	_	_	Shift=1337
+12	веревке	_	_	_	_	_	_	_	Shift=1340
+13	гонять	_	_	_	_	_	_	_	Shift=1348|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=1354
+
+# newpar id = 864839c9-b529-4a02-8889-67750f9922ac-p9
+# par_text = У турчаниновских в ту пору барыня одна в головах ходила. Самая, сказать, умойная баба. Ей гору золота насыпь, - и от той пыли не оставит. Увидела эта барыня - Саломирсков жеребцами забавляется.
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p9-s1
+# text = У турчаниновских в ту пору барыня одна в головах ходила.
+1	У	_	_	_	_	_	_	_	Shift=1357
+2	турчаниновских	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=784|RuCor_group_id=409975|RuCor_link_id=409969|Shift=1359
+3	в	_	_	_	_	_	_	_	Shift=1374
+4	ту	_	_	_	_	_	_	_	Shift=1376
+5	пору	_	_	_	_	_	_	_	Shift=1379
+6	барыня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=778|RuCor_group_id=409976|RuCor_link_id=0|Shift=1384
+7	одна	_	_	_	_	_	_	_	RuCor_chain_id=778|RuCor_group_id=409976|Shift=1391
+8	в	_	_	_	_	_	_	_	Shift=1396
+9	головах	_	_	_	_	_	_	_	Shift=1398
+10	ходила	_	_	_	_	_	_	_	Shift=1406|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=1412
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p9-s2
+# text = Самая, сказать, умойная баба.
+1	Самая	_	_	_	_	_	_	_	RuCor_chain_id=778|RuCor_group_id=409977|Shift=1414|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	RuCor_chain_id=778|RuCor_group_id=409977|Shift=1419
+3	сказать	_	_	_	_	_	_	_	RuCor_chain_id=778|RuCor_group_id=409977|Shift=1421|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	RuCor_chain_id=778|RuCor_group_id=409977|Shift=1428
+5	умойная	_	_	_	_	_	_	_	RuCor_chain_id=778|RuCor_group_id=409977|Shift=1430
+6	баба	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=778|RuCor_group_id=409977|RuCor_link_id=409976|Shift=1438|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=1442
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p9-s3
+# text = Ей гору золота насыпь, - и от той пыли не оставит.
+1	Ей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=778|RuCor_group_id=409978|RuCor_link_id=409977|Shift=1444
+2	гору	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=777|RuCor_group_id=409979|RuCor_link_id=0|Shift=1447
+3	золота	_	_	_	_	_	_	_	RuCor_chain_id=777|RuCor_group_id=409979|Shift=1452
+4	насыпь	_	_	_	_	_	_	_	Shift=1459|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1465
+6	-	_	_	_	_	_	_	_	Shift=1467
+7	и	_	_	_	_	_	_	_	Shift=1469
+8	от	_	_	_	_	_	_	_	Shift=1471
+9	той	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=777|RuCor_group_id=409980|RuCor_link_id=409979|Shift=1474
+10	пыли	_	_	_	_	_	_	_	Shift=1478
+11	не	_	_	_	_	_	_	_	Shift=1483
+12	оставит	_	_	_	_	_	_	_	Shift=1486|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=1493
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p9-s4
+# text = Увидела эта барыня - Саломирсков жеребцами забавляется.
+1	Увидела	_	_	_	_	_	_	_	Shift=1495
+2	эта	_	_	_	_	_	_	_	RuCor_chain_id=778|RuCor_group_id=409981|Shift=1503
+3	барыня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=778|RuCor_group_id=409981|RuCor_link_id=409977|Shift=1507
+4	-	_	_	_	_	_	_	_	Shift=1514
+5	Саломирсков	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=782|RuCor_group_id=409982|RuCor_link_id=409973|Shift=1516
+6	жеребцами	_	_	_	_	_	_	_	Shift=1528
+7	забавляется	_	_	_	_	_	_	_	Shift=1538|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=1549
+
+# newpar id = 864839c9-b529-4a02-8889-67750f9922ac-p10
+# par_text = - Чем, - думает, - я хуже? Почище заведу!
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p10-s1
+# text = - Чем, - думает, - я хуже?
+1	-	_	_	_	_	_	_	_	Shift=1552
+2	Чем	_	_	_	_	_	_	_	Shift=1554|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1557
+4	-	_	_	_	_	_	_	_	Shift=1559
+5	думает	_	_	_	_	_	_	_	Shift=1561|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1567
+7	-	_	_	_	_	_	_	_	Shift=1569
+8	я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=778|RuCor_group_id=409983|RuCor_link_id=409981|Shift=1571
+9	хуже	_	_	_	_	_	_	_	Shift=1573|SpaceAfter=No
+10	?	_	_	_	_	_	_	_	Shift=1577
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p10-s2
+# text = Почище заведу!
+1	Почище	_	_	_	_	_	_	_	Shift=1579
+2	заведу	_	_	_	_	_	_	_	Shift=1586|SpaceAfter=No
+3	!	_	_	_	_	_	_	_	Shift=1592
+
+# newpar id = 864839c9-b529-4a02-8889-67750f9922ac-p11
+# par_text = И точно, цельный конский завод на Щербаковке поставила и тоже давай жеребцов гонять.
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p11-s1
+# text = И точно, цельный конский завод на Щербаковке поставила и тоже давай жеребцов гонять.
+1	И	_	_	_	_	_	_	_	Shift=1595
+2	точно	_	_	_	_	_	_	_	Shift=1597|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1602
+4	цельный	_	_	_	_	_	_	_	Shift=1604
+5	конский	_	_	_	_	_	_	_	Shift=1612
+6	завод	_	_	_	_	_	_	_	Shift=1620
+7	на	_	_	_	_	_	_	_	Shift=1626
+8	Щербаковке	_	_	_	_	_	_	_	Shift=1629
+9	поставила	_	_	_	_	_	_	_	Shift=1640
+10	и	_	_	_	_	_	_	_	Shift=1650
+11	тоже	_	_	_	_	_	_	_	Shift=1652
+12	давай	_	_	_	_	_	_	_	Shift=1657
+13	жеребцов	_	_	_	_	_	_	_	Shift=1663
+14	гонять	_	_	_	_	_	_	_	Shift=1672|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=1678
+
+# newpar id = 864839c9-b529-4a02-8889-67750f9922ac-p12
+# par_text = Главный приказчик у них из нездешних случился. Паном почто-то его в глаза звали.
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p12-s1
+# text = Главный приказчик у них из нездешних случился.
+1	Главный	_	_	_	_	_	_	_	RuCor_chain_id=780|RuCor_group_id=409984|Shift=1681
+2	приказчик	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=780|RuCor_group_id=409984|RuCor_link_id=409964|Shift=1689
+3	у	_	_	_	_	_	_	_	Shift=1699
+4	них	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=781|RuCor_group_id=409985|RuCor_link_id=409968|Shift=1701
+5	из	_	_	_	_	_	_	_	Shift=1705
+6	нездешних	_	_	_	_	_	_	_	Shift=1708
+7	случился	_	_	_	_	_	_	_	Shift=1718|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=1726
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p12-s2
+# text = Паном почто - то его в глаза звали.
+1	Паном	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=780|RuCor_group_id=409986|RuCor_link_id=409987|Shift=1728
+2	почто	_	_	_	_	_	_	_	Shift=1734
+3	-	_	_	_	_	_	_	_	Shift=1739
+4	то	_	_	_	_	_	_	_	Shift=1740
+5	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=780|RuCor_group_id=409987|RuCor_link_id=409984|Shift=1743
+6	в	_	_	_	_	_	_	_	Shift=1747
+7	глаза	_	_	_	_	_	_	_	Shift=1749
+8	звали	_	_	_	_	_	_	_	Shift=1755|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=1760
+
+# newpar id = 864839c9-b529-4a02-8889-67750f9922ac-p13
+# par_text = Ну, этот пан сперва барам семячек подсыпал. Поманил, значит. Которое продаст, которое заложит, руду под самым заводом брать велел, уголь чуть не на улицах жгут. Глядишь-и наскребет деньжонок. Барам этого и надо. Разговорами себя тешат:
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p13-s1
+# text = Ну, этот пан сперва барам семячек подсыпал.
+1	Ну	_	_	_	_	_	_	_	Shift=1763|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=1765
+3	этот	_	_	_	_	_	_	_	RuCor_chain_id=780|RuCor_group_id=409988|Shift=1767
+4	пан	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=780|RuCor_group_id=409988|RuCor_link_id=409987|Shift=1772
+5	сперва	_	_	_	_	_	_	_	Shift=1776
+6	барам	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=781|RuCor_group_id=409989|RuCor_link_id=409985|Shift=1783
+7	семячек	_	_	_	_	_	_	_	Shift=1789
+8	подсыпал	_	_	_	_	_	_	_	Shift=1797|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=1805
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p13-s2
+# text = Поманил, значит.
+1	Поманил	_	_	_	_	_	_	_	Shift=1807|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=1814
+3	значит	_	_	_	_	_	_	_	Shift=1816|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=1822
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p13-s3
+# text = Которое продаст, которое заложит, руду под самым заводом брать велел, уголь чуть не на улицах жгут.
+1	Которое	_	_	_	_	_	_	_	Shift=1824
+2	продаст	_	_	_	_	_	_	_	Shift=1832|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1839
+4	которое	_	_	_	_	_	_	_	Shift=1841
+5	заложит	_	_	_	_	_	_	_	Shift=1849|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1856
+7	руду	_	_	_	_	_	_	_	Shift=1858
+8	под	_	_	_	_	_	_	_	Shift=1863
+9	самым	_	_	_	_	_	_	_	Shift=1867
+10	заводом	_	_	_	_	_	_	_	Shift=1873
+11	брать	_	_	_	_	_	_	_	Shift=1881
+12	велел	_	_	_	_	_	_	_	Shift=1887|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=1892
+14	уголь	_	_	_	_	_	_	_	Shift=1894
+15	чуть	_	_	_	_	_	_	_	Shift=1900
+16	не	_	_	_	_	_	_	_	Shift=1905
+17	на	_	_	_	_	_	_	_	Shift=1908
+18	улицах	_	_	_	_	_	_	_	Shift=1911
+19	жгут	_	_	_	_	_	_	_	Shift=1918|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=1922
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p13-s4
+# text = Глядишь - и наскребет деньжонок.
+1	Глядишь	_	_	_	_	_	_	_	Shift=1924
+2	-	_	_	_	_	_	_	_	Shift=1931
+3	и	_	_	_	_	_	_	_	Shift=1932
+4	наскребет	_	_	_	_	_	_	_	Shift=1934
+5	деньжонок	_	_	_	_	_	_	_	Shift=1944|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=1953
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p13-s5
+# text = Барам этого и надо.
+1	Барам	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=781|RuCor_group_id=409991|RuCor_link_id=409989|Shift=1955
+2	этого	_	_	_	_	_	_	_	Shift=1961
+3	и	_	_	_	_	_	_	_	Shift=1967
+4	надо	_	_	_	_	_	_	_	Shift=1969|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=1973
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p13-s6
+# text = Разговорами себя тешат:
+1	Разговорами	_	_	_	_	_	_	_	Shift=1975
+2	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=781|RuCor_group_id=409992|RuCor_link_id=409991|Shift=1987
+3	тешат	_	_	_	_	_	_	_	Shift=1992|SpaceAfter=No
+4	:	_	_	_	_	_	_	_	Shift=1997
+
+# newpar id = 864839c9-b529-4a02-8889-67750f9922ac-p14
+# par_text = - Это по началу так-то. Дальше лучше пойдет.
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p14-s1
+# text = - Это по началу так-то.
+1	-	_	_	_	_	_	_	_	Shift=2000
+2	Это	_	_	_	_	_	_	_	Shift=2002
+3	по	_	_	_	_	_	_	_	Shift=2006
+4	началу	_	_	_	_	_	_	_	Shift=2009
+5	так-то	_	_	_	_	_	_	_	Shift=2016|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=2022
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p14-s2
+# text = Дальше лучше пойдет.
+1	Дальше	_	_	_	_	_	_	_	Shift=2024
+2	лучше	_	_	_	_	_	_	_	Shift=2031
+3	пойдет	_	_	_	_	_	_	_	Shift=2037|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=2043
+
+# newpar id = 864839c9-b529-4a02-8889-67750f9922ac-p15
+# par_text = Приказчик видит - уверились в него бары, взял да и жогнул их, сколь мог. Наглухо, сукин сын, заводы в долги посадил, весь народ обездолил, а сам шапочку надел, да и в сторону.
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p15-s1
+# text = Приказчик видит - уверились в него бары, взял да и жогнул их, сколь мог.
+1	Приказчик	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=780|RuCor_group_id=409994|RuCor_link_id=409988|Shift=2046
+2	видит	_	_	_	_	_	_	_	Shift=2056
+3	-	_	_	_	_	_	_	_	Shift=2062
+4	уверились	_	_	_	_	_	_	_	Shift=2064
+5	в	_	_	_	_	_	_	_	Shift=2074
+6	него	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=780|RuCor_group_id=409993|RuCor_link_id=409994|Shift=2076
+7	бары	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=781|RuCor_group_id=409995|RuCor_link_id=409991|Shift=2081|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=2085
+9	взял	_	_	_	_	_	_	_	Shift=2087
+10	да	_	_	_	_	_	_	_	Shift=2092
+11	и	_	_	_	_	_	_	_	Shift=2095
+12	жогнул	_	_	_	_	_	_	_	Shift=2097
+13	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=781|RuCor_group_id=409996|RuCor_link_id=409995|Shift=2104|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=2106
+15	сколь	_	_	_	_	_	_	_	Shift=2108
+16	мог	_	_	_	_	_	_	_	Shift=2114|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=2117
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p15-s2
+# text = Наглухо, сукин сын, заводы в долги посадил, весь народ обездолил, а сам шапочку надел, да и в сторону.
+1	Наглухо	_	_	_	_	_	_	_	Shift=2119|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=2126
+3	сукин	_	_	_	_	_	_	_	RuCor_chain_id=780|RuCor_group_id=410024|Shift=2128
+4	сын	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=780|RuCor_group_id=410024|RuCor_link_id=409993|Shift=2134|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=2137
+6	заводы	_	_	_	_	_	_	_	Shift=2139
+7	в	_	_	_	_	_	_	_	Shift=2146
+8	долги	_	_	_	_	_	_	_	Shift=2148
+9	посадил	_	_	_	_	_	_	_	Shift=2154|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=2161
+11	весь	_	_	_	_	_	_	_	Shift=2163
+12	народ	_	_	_	_	_	_	_	Shift=2168
+13	обездолил	_	_	_	_	_	_	_	Shift=2174|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=2183
+15	а	_	_	_	_	_	_	_	Shift=2185
+16	сам	_	_	_	_	_	_	_	Shift=2187
+17	шапочку	_	_	_	_	_	_	_	Shift=2191
+18	надел	_	_	_	_	_	_	_	Shift=2199|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=2204
+20	да	_	_	_	_	_	_	_	Shift=2206
+21	и	_	_	_	_	_	_	_	Shift=2209
+22	в	_	_	_	_	_	_	_	Shift=2211
+23	сторону	_	_	_	_	_	_	_	Shift=2213|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=2220
+
+# newpar id = 864839c9-b529-4a02-8889-67750f9922ac-p16
+# par_text = - Прощайте-ко! Век бы на ваших жеребчиков да кобылок глядел, да недосуг мне. Два поместья купил, - хозяевать надо.
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p16-s1
+# text = - Прощайте - ко!
+1	-	_	_	_	_	_	_	_	Shift=2223
+2	Прощайте	_	_	_	_	_	_	_	Shift=2225
+3	-	_	_	_	_	_	_	_	Shift=2233
+4	ко	_	_	_	_	_	_	_	Shift=2234|SpaceAfter=No
+5	!	_	_	_	_	_	_	_	Shift=2236
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p16-s2
+# text = Век бы на ваших жеребчиков да кобылок глядел, да недосуг мне.
+1	Век	_	_	_	_	_	_	_	Shift=2238
+2	бы	_	_	_	_	_	_	_	Shift=2242
+3	на	_	_	_	_	_	_	_	Shift=2245
+4	ваших	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=781|RuCor_group_id=409997|RuCor_link_id=409995|Shift=2248
+5	жеребчиков	_	_	_	_	_	_	_	Shift=2254
+6	да	_	_	_	_	_	_	_	Shift=2265
+7	кобылок	_	_	_	_	_	_	_	Shift=2268
+8	глядел	_	_	_	_	_	_	_	Shift=2276|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=2282
+10	да	_	_	_	_	_	_	_	Shift=2284
+11	недосуг	_	_	_	_	_	_	_	Shift=2287
+12	мне	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=780|RuCor_group_id=409998|RuCor_link_id=409993|Shift=2295|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=2298
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p16-s3
+# text = Два поместья купил, - хозяевать надо.
+1	Два	_	_	_	_	_	_	_	Shift=2300
+2	поместья	_	_	_	_	_	_	_	Shift=2304
+3	купил	_	_	_	_	_	_	_	Shift=2313|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2318
+5	-	_	_	_	_	_	_	_	Shift=2320
+6	хозяевать	_	_	_	_	_	_	_	Shift=2322
+7	надо	_	_	_	_	_	_	_	Shift=2332|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=2336
+
+# newpar id = 864839c9-b529-4a02-8889-67750f9922ac-p17
+# par_text = Тут промеж бар чуть не драчишка случилась. Один другого винят, ни в чем сговориться не могут, суд завели. Вот тогда они и придумали с глупого-то ума у одних печей нарозно хозяйство вести. Одна половина одного приказчика поставила, другая - другого. И мелкое начальство эдак же. Один так велит, другой на свое поворачивает. Путали-путали народ, потом и народ поделили. Одни, значит, стали турчаниновски, други-саломирсковски. Однем словом, беспутица. А хуже всего это по земельному богатству пришлось. Не о том забота, как бы найти да добыть, а как бы что новенькое другому хозяину не показать. Всяк про себя смекал:
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p17-s1
+# text = Тут промеж бар чуть не драчишка случилась.
+1	Тут	_	_	_	_	_	_	_	Shift=2339
+2	промеж	_	_	_	_	_	_	_	Shift=2343
+3	бар	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=781|RuCor_group_id=409999|RuCor_link_id=409997|Shift=2350
+4	чуть	_	_	_	_	_	_	_	Shift=2354
+5	не	_	_	_	_	_	_	_	Shift=2359
+6	драчишка	_	_	_	_	_	_	_	Shift=2362
+7	случилась	_	_	_	_	_	_	_	Shift=2371|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=2380
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p17-s2
+# text = Один другого винят, ни в чем сговориться не могут, суд завели.
+1	Один	_	_	_	_	_	_	_	Shift=2382
+2	другого	_	_	_	_	_	_	_	Shift=2387
+3	винят	_	_	_	_	_	_	_	Shift=2395|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2400
+5	ни	_	_	_	_	_	_	_	Shift=2402
+6	в	_	_	_	_	_	_	_	Shift=2405
+7	чем	_	_	_	_	_	_	_	Shift=2407
+8	сговориться	_	_	_	_	_	_	_	Shift=2411
+9	не	_	_	_	_	_	_	_	Shift=2423
+10	могут	_	_	_	_	_	_	_	Shift=2426|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=2431
+12	суд	_	_	_	_	_	_	_	Shift=2433
+13	завели	_	_	_	_	_	_	_	Shift=2437|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=2443
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p17-s3
+# text = Вот тогда они и придумали с глупого - то ума у одних печей нарозно хозяйство вести.
+1	Вот	_	_	_	_	_	_	_	Shift=2445
+2	тогда	_	_	_	_	_	_	_	Shift=2449
+3	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=781|RuCor_group_id=410000|RuCor_link_id=409999|Shift=2455
+4	и	_	_	_	_	_	_	_	Shift=2459
+5	придумали	_	_	_	_	_	_	_	Shift=2461
+6	с	_	_	_	_	_	_	_	Shift=2471
+7	глупого	_	_	_	_	_	_	_	Shift=2473
+8	-	_	_	_	_	_	_	_	Shift=2480
+9	то	_	_	_	_	_	_	_	Shift=2481
+10	ума	_	_	_	_	_	_	_	Shift=2484
+11	у	_	_	_	_	_	_	_	Shift=2488
+12	одних	_	_	_	_	_	_	_	Shift=2490
+13	печей	_	_	_	_	_	_	_	Shift=2496
+14	нарозно	_	_	_	_	_	_	_	Shift=2502
+15	хозяйство	_	_	_	_	_	_	_	Shift=2510
+16	вести	_	_	_	_	_	_	_	Shift=2520|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=2525
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p17-s4
+# text = Одна половина одного приказчика поставила, другая - другого.
+1	Одна	_	_	_	_	_	_	_	Shift=2527
+2	половина	_	_	_	_	_	_	_	Shift=2532
+3	одного	_	_	_	_	_	_	_	Shift=2541
+4	приказчика	_	_	_	_	_	_	_	Shift=2548
+5	поставила	_	_	_	_	_	_	_	Shift=2559|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=2568
+7	другая	_	_	_	_	_	_	_	Shift=2570
+8	-	_	_	_	_	_	_	_	Shift=2577
+9	другого	_	_	_	_	_	_	_	Shift=2579|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=2586
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p17-s5
+# text = И мелкое начальство эдак же.
+1	И	_	_	_	_	_	_	_	Shift=2588
+2	мелкое	_	_	_	_	_	_	_	Shift=2590
+3	начальство	_	_	_	_	_	_	_	Shift=2597
+4	эдак	_	_	_	_	_	_	_	Shift=2608
+5	же	_	_	_	_	_	_	_	Shift=2613|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=2615
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p17-s6
+# text = Один так велит, другой на свое поворачивает.
+1	Один	_	_	_	_	_	_	_	Shift=2617
+2	так	_	_	_	_	_	_	_	Shift=2622
+3	велит	_	_	_	_	_	_	_	Shift=2626|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2631
+5	другой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=776|RuCor_group_id=410002|RuCor_link_id=0|Shift=2633
+6	на	_	_	_	_	_	_	_	Shift=2640
+7	свое	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=776|RuCor_group_id=410001|RuCor_link_id=410002|Shift=2643
+8	поворачивает	_	_	_	_	_	_	_	Shift=2648|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=2660
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p17-s7
+# text = Путали - путали народ, потом и народ поделили.
+1	Путали	_	_	_	_	_	_	_	Shift=2662
+2	-	_	_	_	_	_	_	_	Shift=2668
+3	путали	_	_	_	_	_	_	_	Shift=2669
+4	народ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=775|RuCor_group_id=410004|RuCor_link_id=0|Shift=2676|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=2681
+6	потом	_	_	_	_	_	_	_	Shift=2683
+7	и	_	_	_	_	_	_	_	Shift=2689
+8	народ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=775|RuCor_group_id=410005|RuCor_link_id=410004|Shift=2691
+9	поделили	_	_	_	_	_	_	_	Shift=2697|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=2705
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p17-s8
+# text = Одни, значит, стали турчаниновски, други-саломирсковски.
+1	Одни	_	_	_	_	_	_	_	Shift=2707|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=2711
+3	значит	_	_	_	_	_	_	_	Shift=2713|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2719
+5	стали	_	_	_	_	_	_	_	Shift=2721
+6	турчаниновски	_	_	_	_	_	_	_	Shift=2727|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=2740
+8	други-саломирсковски	_	_	_	_	_	_	_	Shift=2742|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=2762
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p17-s9
+# text = Однем словом, беспутица.
+1	Однем	_	_	_	_	_	_	_	Shift=2764
+2	словом	_	_	_	_	_	_	_	Shift=2770|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=2776
+4	беспутица	_	_	_	_	_	_	_	Shift=2778|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=2787
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p17-s10
+# text = А хуже всего это по земельному богатству пришлось.
+1	А	_	_	_	_	_	_	_	Shift=2789
+2	хуже	_	_	_	_	_	_	_	Shift=2791
+3	всего	_	_	_	_	_	_	_	Shift=2796
+4	это	_	_	_	_	_	_	_	Shift=2802
+5	по	_	_	_	_	_	_	_	Shift=2806
+6	земельному	_	_	_	_	_	_	_	Shift=2809
+7	богатству	_	_	_	_	_	_	_	Shift=2820
+8	пришлось	_	_	_	_	_	_	_	Shift=2830|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=2838
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p17-s11
+# text = Не о том забота, как бы найти да добыть, а как бы что новенькое другому хозяину не показать.
+1	Не	_	_	_	_	_	_	_	Shift=2840
+2	о	_	_	_	_	_	_	_	Shift=2843
+3	том	_	_	_	_	_	_	_	Shift=2845
+4	забота	_	_	_	_	_	_	_	Shift=2849|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=2855
+6	как	_	_	_	_	_	_	_	Shift=2857
+7	бы	_	_	_	_	_	_	_	Shift=2861
+8	найти	_	_	_	_	_	_	_	Shift=2864
+9	да	_	_	_	_	_	_	_	Shift=2870
+10	добыть	_	_	_	_	_	_	_	Shift=2873|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=2879
+12	а	_	_	_	_	_	_	_	Shift=2881
+13	как	_	_	_	_	_	_	_	Shift=2883
+14	бы	_	_	_	_	_	_	_	Shift=2887
+15	что	_	_	_	_	_	_	_	Shift=2890
+16	новенькое	_	_	_	_	_	_	_	Shift=2894
+17	другому	_	_	_	_	_	_	_	Shift=2904
+18	хозяину	_	_	_	_	_	_	_	Shift=2912
+19	не	_	_	_	_	_	_	_	Shift=2920
+20	показать	_	_	_	_	_	_	_	Shift=2923|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=2931
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p17-s12
+# text = Всяк про себя смекал:
+1	Всяк	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=774|RuCor_group_id=410006|RuCor_link_id=0|Shift=2933
+2	про	_	_	_	_	_	_	_	Shift=2938
+3	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=774|RuCor_group_id=410007|RuCor_link_id=410006|Shift=2942
+4	смекал	_	_	_	_	_	_	_	Shift=2947|SpaceAfter=No
+5	:	_	_	_	_	_	_	_	Shift=2953
+
+# newpar id = 864839c9-b529-4a02-8889-67750f9922ac-p18
+# par_text = - Присудят в мою пользу - тогда и буду добывать из нового места.
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p18-s1
+# text = - Присудят в мою пользу - тогда и буду добывать из нового места.
+1	-	_	_	_	_	_	_	_	Shift=2956
+2	Присудят	_	_	_	_	_	_	_	Shift=2958
+3	в	_	_	_	_	_	_	_	Shift=2967
+4	мою	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=774|RuCor_group_id=410008|RuCor_link_id=410007|Shift=2969
+5	пользу	_	_	_	_	_	_	_	Shift=2973
+6	-	_	_	_	_	_	_	_	Shift=2980
+7	тогда	_	_	_	_	_	_	_	Shift=2982
+8	и	_	_	_	_	_	_	_	Shift=2988
+9	буду	_	_	_	_	_	_	_	Shift=2990
+10	добывать	_	_	_	_	_	_	_	Shift=2995
+11	из	_	_	_	_	_	_	_	Shift=3004
+12	нового	_	_	_	_	_	_	_	Shift=3007
+13	места	_	_	_	_	_	_	_	Shift=3014|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=3019
+
+# newpar id = 864839c9-b529-4a02-8889-67750f9922ac-p19
+# par_text = У барина Саломирскова на ту пору главным щегарем был Санко Масличко. Мужичонке плутяга, до всего донюхается, и в делах понимал. Для приисковых и рудняшных самый зловредный. А у турчаниновских щегарем был Яшка Зорко. Этот вовсе зря на такое место угадал. Он, конечно, тоже смолоду по рудникам да приискам околачивался. Ну на смеху был.
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p19-s1
+# text = У барина Саломирскова на ту пору главным щегарем был Санко Масличко.
+1	У	_	_	_	_	_	_	_	Shift=3022
+2	барина	_	_	_	_	_	_	_	RuCor_chain_id=782|RuCor_group_id=410009|Shift=3024
+3	Саломирскова	_	_	_	_	_	_	_	RuCor_chain_id=782|RuCor_group_id=410009|Shift=3031
+4	на	_	_	_	_	_	_	_	Shift=3044
+5	ту	_	_	_	_	_	_	_	Shift=3047
+6	пору	_	_	_	_	_	_	_	Shift=3050
+7	главным	_	_	_	_	_	_	_	RuCor_chain_id=773|RuCor_group_id=410010|Shift=3055
+8	щегарем	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=773|RuCor_group_id=410010|RuCor_link_id=0|Shift=3063
+9	был	_	_	_	_	_	_	_	Shift=3071
+10	Санко	_	_	_	_	_	_	_	RuCor_chain_id=773|RuCor_group_id=410011|Shift=3075
+11	Масличко	_	_	_	_	_	_	_	RuCor_chain_id=773|RuCor_group_id=410011|Shift=3081|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=3089
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p19-s2
+# text = Мужичонке плутяга, до всего донюхается, и в делах понимал.
+1	Мужичонке	_	_	_	_	_	_	_	RuCor_chain_id=773|RuCor_group_id=410012|Shift=3091
+2	плутяга	_	_	_	_	_	_	_	RuCor_chain_id=773|RuCor_group_id=410012|Shift=3101|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=3108
+4	до	_	_	_	_	_	_	_	Shift=3110
+5	всего	_	_	_	_	_	_	_	Shift=3113
+6	донюхается	_	_	_	_	_	_	_	Shift=3119|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=3129
+8	и	_	_	_	_	_	_	_	Shift=3131
+9	в	_	_	_	_	_	_	_	Shift=3133
+10	делах	_	_	_	_	_	_	_	Shift=3135
+11	понимал	_	_	_	_	_	_	_	Shift=3141|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=3148
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p19-s3
+# text = Для приисковых и рудняшных самый зловредный.
+1	Для	_	_	_	_	_	_	_	Shift=3150
+2	приисковых	_	_	_	_	_	_	_	Shift=3154
+3	и	_	_	_	_	_	_	_	Shift=3165
+4	рудняшных	_	_	_	_	_	_	_	Shift=3167
+5	самый	_	_	_	_	_	_	_	Shift=3177
+6	зловредный	_	_	_	_	_	_	_	Shift=3183|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=3193
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p19-s4
+# text = А у турчаниновских щегарем был Яшка Зорко.
+1	А	_	_	_	_	_	_	_	Shift=3195
+2	у	_	_	_	_	_	_	_	Shift=3197
+3	турчаниновских	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=784|RuCor_group_id=410013|RuCor_link_id=409975|Shift=3199
+4	щегарем	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=772|RuCor_group_id=410014|RuCor_link_id=0|Shift=3214
+5	был	_	_	_	_	_	_	_	Shift=3222
+6	Яшка	_	_	_	_	_	_	_	RuCor_chain_id=772|RuCor_group_id=410015|Shift=3226
+7	Зорко	_	_	_	_	_	_	_	RuCor_chain_id=772|RuCor_group_id=410015|Shift=3231|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=3236
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p19-s5
+# text = Этот вовсе зря на такое место угадал.
+1	Этот	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=772|RuCor_group_id=410003|RuCor_link_id=410015|Shift=3238
+2	вовсе	_	_	_	_	_	_	_	Shift=3243
+3	зря	_	_	_	_	_	_	_	Shift=3249
+4	на	_	_	_	_	_	_	_	Shift=3253
+5	такое	_	_	_	_	_	_	_	Shift=3256
+6	место	_	_	_	_	_	_	_	Shift=3262
+7	угадал	_	_	_	_	_	_	_	Shift=3268|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=3274
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p19-s6
+# text = Он, конечно, тоже смолоду по рудникам да приискам околачивался.
+1	Он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=772|RuCor_group_id=410016|RuCor_link_id=410003|Shift=3276|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=3278
+3	конечно	_	_	_	_	_	_	_	Shift=3280|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=3287
+5	тоже	_	_	_	_	_	_	_	Shift=3289
+6	смолоду	_	_	_	_	_	_	_	Shift=3294
+7	по	_	_	_	_	_	_	_	Shift=3302
+8	рудникам	_	_	_	_	_	_	_	Shift=3305
+9	да	_	_	_	_	_	_	_	Shift=3314
+10	приискам	_	_	_	_	_	_	_	Shift=3317
+11	околачивался	_	_	_	_	_	_	_	Shift=3326|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=3338
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p19-s7
+# text = Ну на смеху был.
+1	Ну	_	_	_	_	_	_	_	Shift=3340
+2	на	_	_	_	_	_	_	_	Shift=3343
+3	смеху	_	_	_	_	_	_	_	Shift=3346
+4	был	_	_	_	_	_	_	_	Shift=3352|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=3355
+
+# newpar id = 864839c9-b529-4a02-8889-67750f9922ac-p20
+# par_text = Мужичище был быком, а рожа у него ровно нарошно придумана. Как свекла краснехонька, а по ней волосешки белые кустичкамн. Ровно известкой наляпано по тем местам, где у людей волос растет. И по голове эти же кустики прошли. За это и звали его Облезлым.
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p20-s1
+# text = Мужичище был быком, а рожа у него ровно нарошно придумана.
+1	Мужичище	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=772|RuCor_group_id=410017|RuCor_link_id=410016|Shift=3358
+2	был	_	_	_	_	_	_	_	Shift=3367
+3	быком	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=772|RuCor_group_id=410018|RuCor_link_id=410017|Shift=3371|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=3376
+5	а	_	_	_	_	_	_	_	Shift=3378
+6	рожа	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=771|RuCor_group_id=410020|RuCor_link_id=0|Shift=3380
+7	у	_	_	_	_	_	_	_	RuCor_chain_id=771|RuCor_group_id=410020|Shift=3385
+8	него	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=772|RuCor_group_id=410019|RuCor_link_id=410018|Shift=3387
+9	ровно	_	_	_	_	_	_	_	Shift=3392
+10	нарошно	_	_	_	_	_	_	_	Shift=3398
+11	придумана	_	_	_	_	_	_	_	Shift=3406|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=3415
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p20-s2
+# text = Как свекла краснехонька, а по ней волосешки белые кустичкамн.
+1	Как	_	_	_	_	_	_	_	Shift=3417
+2	свекла	_	_	_	_	_	_	_	Shift=3421
+3	краснехонька	_	_	_	_	_	_	_	Shift=3428|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=3440
+5	а	_	_	_	_	_	_	_	Shift=3442
+6	по	_	_	_	_	_	_	_	Shift=3444
+7	ней	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=771|RuCor_group_id=410021|RuCor_link_id=410020|Shift=3447
+8	волосешки	_	_	_	_	_	_	_	Shift=3451
+9	белые	_	_	_	_	_	_	_	Shift=3461
+10	кустичкамн	_	_	_	_	_	_	_	Shift=3467|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=3477
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p20-s3
+# text = Ровно известкой наляпано по тем местам, где у людей волос растет.
+1	Ровно	_	_	_	_	_	_	_	Shift=3479
+2	известкой	_	_	_	_	_	_	_	Shift=3485
+3	наляпано	_	_	_	_	_	_	_	Shift=3495
+4	по	_	_	_	_	_	_	_	Shift=3504
+5	тем	_	_	_	_	_	_	_	Shift=3507
+6	местам	_	_	_	_	_	_	_	Shift=3511|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=3517
+8	где	_	_	_	_	_	_	_	Shift=3519
+9	у	_	_	_	_	_	_	_	Shift=3523
+10	людей	_	_	_	_	_	_	_	Shift=3525
+11	волос	_	_	_	_	_	_	_	Shift=3531
+12	растет	_	_	_	_	_	_	_	Shift=3537|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=3543
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p20-s4
+# text = И по голове эти же кустики прошли.
+1	И	_	_	_	_	_	_	_	Shift=3545
+2	по	_	_	_	_	_	_	_	Shift=3547
+3	голове	_	_	_	_	_	_	_	Shift=3550
+4	эти	_	_	_	_	_	_	_	Shift=3557
+5	же	_	_	_	_	_	_	_	Shift=3561
+6	кустики	_	_	_	_	_	_	_	Shift=3564
+7	прошли	_	_	_	_	_	_	_	Shift=3572|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=3578
+
+# sent_id = 864839c9-b529-4a02-8889-67750f9922ac-p20-s5
+# text = За это и звали его Облезлым.
+1	За	_	_	_	_	_	_	_	Shift=3580
+2	это	_	_	_	_	_	_	_	Shift=3583
+3	и	_	_	_	_	_	_	_	Shift=3587
+4	звали	_	_	_	_	_	_	_	Shift=3589
+5	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=772|RuCor_group_id=410022|RuCor_link_id=410019|Shift=3595
+6	Облезлым	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=772|RuCor_group_id=410023|RuCor_link_id=410022|Shift=3599|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	_
+

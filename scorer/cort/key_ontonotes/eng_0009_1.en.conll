@@ -1,0 +1,995 @@
+#begin document (eng_0009_1); part 000
+eng_0009	1	0	But	CC	(TOP(SINV*	-	-	-	_ericswan_	-
+eng_0009	1	1	more	RBR	(ADVP*	-	-	-	_ericswan_	-
+eng_0009	1	2	importantly	RB	*)	-	-	-	_ericswan_	-
+eng_0009	1	3	,	,	*	-	-	-	_ericswan_	-
+eng_0009	1	4	I	PRP	(PRN(S(NP*)	-	-	-	_ericswan_	-
+eng_0009	1	5	think	VBP	(VP*)))	think	01	1	_ericswan_	-
+eng_0009	1	6	,	,	*	-	-	-	_ericswan_	-
+eng_0009	1	7	is	VBZ	(VP*)	be	01	1	_ericswan_	-
+eng_0009	1	8	the	DT	(NP(NP*	-	-	-	_ericswan_	-
+eng_0009	1	9	nature	NN	*)	-	-	-	_ericswan_	-
+eng_0009	1	10	of	IN	(PP*	-	-	-	_ericswan_	-
+eng_0009	1	11	the	DT	(NP*	-	-	-	_ericswan_	-
+eng_0009	1	12	hunt	NN	*)))	-	-	-	_ericswan_	-
+eng_0009	1	13	.	.	*))	-	-	-	_ericswan_	-
+
+eng_0009	1	0	These	DT	(TOP(S(NP*)	-	-	-	_ericswan_	(147)
+eng_0009	1	1	were	VBD	(VP*	be	01	2	_ericswan_	-
+eng_0009	1	2	not	RB	*	-	-	-	_ericswan_	-
+eng_0009	1	3	wild	JJ	(NP*	-	-	-	_ericswan_	-
+eng_0009	1	4	birds	NNS	*))	-	-	-	_ericswan_	-
+eng_0009	1	5	.	.	*))	-	-	-	_ericswan_	-
+
+eng_0009	1	0	The	DT	(TOP(S(NP*	-	-	-	_ericswan_	(147
+eng_0009	1	1	birds	NNS	*)	-	-	-	_ericswan_	147)
+eng_0009	1	2	were	VBD	(VP*	-	-	-	_ericswan_	-
+eng_0009	1	3	bred	VBN	(VP*	breed	01	-	_ericswan_	-
+eng_0009	1	4	in	IN	(PP*	-	-	-	_ericswan_	-
+eng_0009	1	5	captivity	NN	(NP*))))	-	-	-	_ericswan_	-
+eng_0009	1	6	.	.	*))	-	-	-	_ericswan_	-
+
+eng_0009	1	0	They	PRP	(TOP(S(NP*)	-	-	-	_ericswan_	(147)
+eng_0009	1	1	had	VBD	(VP(VP*	-	-	-	_ericswan_	-
+eng_0009	1	2	spent	VBN	(VP*	spend	02	1	_ericswan_	-
+eng_0009	1	3	their	PRP$	(NP*	-	-	-	_ericswan_	(147)
+eng_0009	1	4	lives	NNS	*)	-	-	-	_ericswan_	-
+eng_0009	1	5	in	IN	(PP*	-	-	-	_ericswan_	-
+eng_0009	1	6	pens	NNS	(NP*))))	-	-	-	_ericswan_	-
+eng_0009	1	7	,	,	*	-	-	-	_ericswan_	-
+eng_0009	1	8	and	CC	*	-	-	-	_ericswan_	-
+eng_0009	1	9	then	RB	(ADVP*)	-	-	-	_ericswan_	-
+eng_0009	1	10	on	IN	(PP*	-	-	-	_ericswan_	-
+eng_0009	1	11	hunting	NN	(NP*	-	-	-	_ericswan_	-
+eng_0009	1	12	day	NN	*))	-	-	-	_ericswan_	-
+eng_0009	1	13	,	,	*	-	-	-	_ericswan_	-
+eng_0009	1	14	were	VBD	(VP*	-	-	-	_ericswan_	-
+eng_0009	1	15	released	VBN	(VP*	release	01	-	_ericswan_	-
+eng_0009	1	16	for	IN	(PP*	-	-	-	_ericswan_	-
+eng_0009	1	17	the	DT	(NP(NP*	-	-	-	_ericswan_	-
+eng_0009	1	18	sole	JJ	*	-	-	-	_ericswan_	-
+eng_0009	1	19	purpose	NN	*)	-	-	-	_ericswan_	-
+eng_0009	1	20	of	IN	(PP*	-	-	-	_ericswan_	-
+eng_0009	1	21	being	VBG	(S(VP*	-	-	-	_ericswan_	-
+eng_0009	1	22	killed	VBN	(VP*	kill	01	1	_ericswan_	-
+eng_0009	1	23	by	IN	(PP*	-	-	-	_ericswan_	-
+eng_0009	1	24	Dick	NNP	(NP(NP*	-	-	-	_ericswan_	-
+eng_0009	1	25	Cheney	NNP	*)	-	-	-	_ericswan_	-
+eng_0009	1	26	and	CC	*	-	-	-	_ericswan_	-
+eng_0009	1	27	cohorts	NNS	(NP*)))	-	-	-	_ericswan_	-
+eng_0009	1	28	for	IN	(PP*	-	-	-	_ericswan_	-
+eng_0009	1	29	pure	JJ	(NP*	-	-	-	_ericswan_	-
+eng_0009	1	30	sport	NN	*))	-	-	-	_ericswan_	-
+eng_0009	1	31	as	IN	(SBAR*	-	-	-	_ericswan_	-
+eng_0009	1	32	they	PRP	(S(NP*)	-	-	-	_ericswan_	(147)
+eng_0009	1	33	flew	VBD	(VP*	fly	01	1	_ericswan_	-
+eng_0009	1	34	into	IN	(PP*	-	-	-	_ericswan_	-
+eng_0009	1	35	the	DT	(NP*	-	-	-	_ericswan_	-
+eng_0009	1	36	open	JJ	*	-	-	-	_ericswan_	-
+eng_0009	1	37	sky	NN	*))	-	-	-	_ericswan_	-
+eng_0009	1	38	for	IN	(PP*	-	-	-	_ericswan_	-
+eng_0009	1	39	their	PRP$	(NP(NP*	-	-	-	_ericswan_	(147)
+eng_0009	1	40	only	JJ	*	-	-	-	_ericswan_	-
+eng_0009	1	41	moments	NNS	*)	-	-	-	_ericswan_	-
+eng_0009	1	42	of	IN	(PP*	-	-	-	_ericswan_	-
+eng_0009	1	43	brief	JJ	(NP*	-	-	-	_ericswan_	-
+eng_0009	1	44	freedom	NN	*))))))))))))))))	-	-	-	_ericswan_	-
+eng_0009	1	45	.	.	*))	-	-	-	_ericswan_	-
+
+eng_0009	1	0	Whether	IN	(TOP(S(SBAR*	-	-	-	_ericswan_	-
+eng_0009	1	1	you	PRP	(S(NP*)	-	-	-	_ericswan_	-
+eng_0009	1	2	are	VBP	(VP*	be	01	1	_ericswan_	-
+eng_0009	1	3	an	DT	(NP*	-	-	-	_ericswan_	-
+eng_0009	1	4	animal	NN	*	-	-	-	_ericswan_	-
+eng_0009	1	5	lover	NN	*)))	-	-	-	_ericswan_	-
+eng_0009	1	6	or	CC	*	-	-	-	_ericswan_	-
+eng_0009	1	7	not	RB	*)	-	-	-	_ericswan_	-
+eng_0009	1	8	,	,	*	-	-	-	_ericswan_	-
+eng_0009	1	9	there	EX	(NP*)	-	-	-	_ericswan_	-
+eng_0009	1	10	is	VBZ	(VP*	be	02	3	_ericswan_	-
+eng_0009	1	11	something	NN	(NP(NP(NP*)	-	-	-	_ericswan_	-
+eng_0009	1	12	disgusting	JJ	(ADJP*	-	-	-	_ericswan_	-
+eng_0009	1	13	and	CC	*	-	-	-	_ericswan_	-
+eng_0009	1	14	degrading	JJ	*)	-	-	-	_ericswan_	-
+eng_0009	1	15	about	IN	(PP*	-	-	-	_ericswan_	-
+eng_0009	1	16	this	DT	(NP(NP*	-	-	-	_ericswan_	(139
+eng_0009	1	17	kind	NN	*)	-	-	-	_ericswan_	-
+eng_0009	1	18	of	IN	(PP*	-	-	-	_ericswan_	-
+eng_0009	1	19	hunt	NN	(NP*)))))	-	-	-	_ericswan_	139)
+eng_0009	1	20	and	CC	*	-	-	-	_ericswan_	-
+eng_0009	1	21	something	NN	(NP(NP*)	-	-	-	_ericswan_	-
+eng_0009	1	22	less	JJR	(ADJP(ADJP*)	-	-	-	_ericswan_	-
+eng_0009	1	23	than	IN	(PP*	-	-	-	_ericswan_	-
+eng_0009	1	24	human	NN	(NP*)))	-	-	-	_ericswan_	-
+eng_0009	1	25	about	IN	(PP*	-	-	-	_ericswan_	-
+eng_0009	1	26	those	DT	(NP(NP*)	-	-	-	_ericswan_	-
+eng_0009	1	27	who	WP	(SBAR(WHNP*)	-	-	-	_ericswan_	-
+eng_0009	1	28	participate	VBP	(S(VP*	participate	01	-	_ericswan_	-
+eng_0009	1	29	in	IN	(PP*	-	-	-	_ericswan_	-
+eng_0009	1	30	it	PRP	(NP*))))))))))	-	-	-	_ericswan_	(139)
+eng_0009	1	31	.	.	*))	-	-	-	_ericswan_	-
+
+eng_0009	1	0	The	DT	(TOP(S(NP(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	1	link	NN	*)	-	-	-	_Anonymous_	-
+eng_0009	1	2	``	``	*	-	-	-	_Anonymous_	-
+eng_0009	1	3	personal	JJ	(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	4	majician	NN	*)	-	-	-	_Anonymous_	-
+eng_0009	1	5	''	''	*)	-	-	-	_Anonymous_	-
+eng_0009	1	6	is	VBZ	(VP*	be	01	1	_Anonymous_	-
+eng_0009	1	7	intrigueing	JJ	(ADJP*))	-	-	-	_Anonymous_	-
+eng_0009	1	8	.	.	*))	-	-	-	_Anonymous_	-
+
+eng_0009	1	0	From	IN	(TOP(PP(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	1	Madsen	NNP	(NP*))	-	-	-	_Anonymous_	-
+eng_0009	1	2	via	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	3	Boucher	NNP	(NP*))	-	-	-	_Anonymous_	(35)
+eng_0009	1	4	:	:	*))	-	-	-	_Anonymous_	-
+
+eng_0009	1	0	Jackson	NNP	(TOP(S(NP(NP(NP*	-	-	-	_Anonymous_	(8
+eng_0009	1	1	's	POS	*)	-	-	-	_Anonymous_	8)
+eng_0009	1	2	stay	NN	*)	-	-	-	_Anonymous_	-
+eng_0009	1	3	at	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	4	the	DT	(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	5	Cedars	NNPS	*)))	-	-	-	_Anonymous_	-
+eng_0009	1	6	was	VBD	(VP*	-	-	-	_Anonymous_	-
+eng_0009	1	7	arranged	VBN	(VP*	arrange	01	-	_Anonymous_	-
+eng_0009	1	8	through	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	9	David	NNP	(NP(NP*	-	-	-	_Anonymous_	(153
+eng_0009	1	10	Kuo	NNP	*)	-	-	-	_Anonymous_	-
+eng_0009	1	11	,	,	*	-	-	-	_Anonymous_	-
+eng_0009	1	12	George	NNP	(NP(NP(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	13	W.	NNP	*	-	-	-	_Anonymous_	-
+eng_0009	1	14	Bush	NNP	*	-	-	-	_Anonymous_	-
+eng_0009	1	15	's	POS	*)	-	-	-	_Anonymous_	-
+eng_0009	1	16	White	NNP	(NML*	-	-	-	_Anonymous_	-
+eng_0009	1	17	House	NNP	*)	-	-	-	_Anonymous_	-
+eng_0009	1	18	director	NN	*)	-	-	-	_Anonymous_	-
+eng_0009	1	19	of	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	20	the	DT	(NP(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	21	Office	NNP	*)	-	-	-	_Anonymous_	-
+eng_0009	1	22	of	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	23	Faith	NNP	(NP(ADJP*	-	-	-	_Anonymous_	-
+eng_0009	1	24	-	HYPH	*	-	-	-	_Anonymous_	-
+eng_0009	1	25	based	NNP	*)	-	-	-	_Anonymous_	-
+eng_0009	1	26	Initiatives	NNPS	*)))))))))	-	-	-	_Anonymous_	153)
+eng_0009	1	27	.	.	*))	-	-	-	_Anonymous_	-
+
+eng_0009	1	0	Kuo	NNP	(TOP(S(NP(NP*)	-	-	-	_Anonymous_	(153
+eng_0009	1	1	,	,	*	-	-	-	_Anonymous_	-
+eng_0009	1	2	a	DT	(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	3	former	JJ	*	-	-	-	_Anonymous_	-
+eng_0009	1	4	CIA	NNP	*	-	-	-	_Anonymous_	-
+eng_0009	1	5	employee	NN	*))	-	-	-	_Anonymous_	153)
+eng_0009	1	6	...	NFP	*	-	-	-	_Anonymous_	-
+eng_0009	1	7	had	VBD	(VP*	-	-	-	_Anonymous_	-
+eng_0009	1	8	been	VBN	(VP*	be	01	2	_Anonymous_	-
+eng_0009	1	9	Executive	NNP	(NP(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	10	Director	NNP	*)	-	-	-	_Anonymous_	-
+eng_0009	1	11	of	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	12	the	DT	(NP(NP(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	13	Center	NNP	*)	-	-	-	_Anonymous_	-
+eng_0009	1	14	for	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	15	Effective	NNP	(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	16	Compassion	NNP	*)))	-	-	-	_Anonymous_	-
+eng_0009	1	17	,	,	*	-	-	-	_Anonymous_	-
+eng_0009	1	18	founded	VBN	(VP*	found	01	1	_Anonymous_	-
+eng_0009	1	19	in	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	20	1995	CD	(NP*))	-	-	-	_Anonymous_	-
+eng_0009	1	21	by	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	22	Arianna	NNP	(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	23	Huffington	NNP	*))))))))	-	-	-	_Anonymous_	-
+eng_0009	1	24	...	:	*))	-	-	-	_Anonymous_	-
+
+eng_0009	1	0	Kuo	NNP	(TOP(S(NP*)	-	-	-	_Anonymous_	(153)
+eng_0009	1	1	also	RB	(ADVP*)	-	-	-	_Anonymous_	-
+eng_0009	1	2	previously	RB	(ADVP*)	-	-	-	_Anonymous_	-
+eng_0009	1	3	worked	VBD	(VP*	work	01	1	_Anonymous_	-
+eng_0009	1	4	for	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	5	the	DT	(NP(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	6	Christian	NNP	*	-	-	-	_Anonymous_	-
+eng_0009	1	7	Coalition	NNP	*)	-	-	-	_Anonymous_	-
+eng_0009	1	8	and	CC	*	-	-	-	_Anonymous_	-
+eng_0009	1	9	Senator	NNP	(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	10	John	NNP	*	-	-	-	_Anonymous_	-
+eng_0009	1	11	Ashcroft	NNP	*))))	-	-	-	_Anonymous_	-
+eng_0009	1	12	.	.	*))	-	-	-	_Anonymous_	-
+
+eng_0009	1	0	There	EX	(TOP(S(NP*)	-	-	-	_Anonymous_	-
+eng_0009	1	1	's	VBZ	(VP*	be	02	3	_Anonymous_	-
+eng_0009	1	2	also	RB	(ADVP*)	-	-	-	_Anonymous_	-
+eng_0009	1	3	some	DT	(NP(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	4	curious	JJ	*	-	-	-	_Anonymous_	-
+eng_0009	1	5	Neverland	NNP	(NML*	-	-	-	_Anonymous_	-
+eng_0009	1	6	/	SYM	*	-	-	-	_Anonymous_	-
+eng_0009	1	7	Disneyland	NNP	*)	-	-	-	_Anonymous_	-
+eng_0009	1	8	connections	NNS	*)	-	-	-	_Anonymous_	-
+eng_0009	1	9	to	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	10	the	DT	(NP(NP(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	11	``	``	*	-	-	-	_Anonymous_	-
+eng_0009	1	12	Mickey	NNP	(NML(NML*	-	-	-	_Anonymous_	-
+eng_0009	1	13	Mouse	NNP	*)	-	-	-	_Anonymous_	-
+eng_0009	1	14	Club	NNP	*)	-	-	-	_Anonymous_	-
+eng_0009	1	15	''	''	*	-	-	-	_Anonymous_	-
+eng_0009	1	16	children	NNS	*)	-	-	-	_Anonymous_	-
+eng_0009	1	17	who	WP	(SBAR(WHNP*)	-	-	-	_Anonymous_	-
+eng_0009	1	18	are	VBP	(S(VP*	be	01	2	_Anonymous_	-
+eng_0009	1	19	now	RB	(ADVP*)	-	-	-	_Anonymous_	-
+eng_0009	1	20	stars	NNS	(NP*)))))	-	-	-	_Anonymous_	-
+eng_0009	1	21	,	,	*	-	-	-	_Anonymous_	-
+eng_0009	1	22	including	VBG	(PP*	include	-	1	_Anonymous_	-
+eng_0009	1	23	Justin	NNP	(NP(NP(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	24	Timberlake	NNP	*)	-	-	-	_Anonymous_	-
+eng_0009	1	25	-LRB-	-LRB-	(PRN*	-	-	-	_Anonymous_	-
+eng_0009	1	26	remember	VB	(S(VP*	remember	01	1	_Anonymous_	-
+eng_0009	1	27	the	DT	(NP(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	28	star	NN	*)	-	-	-	_Anonymous_	-
+eng_0009	1	29	on	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	30	Janet	NNP	(NP(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	31	Jackson	NNP	*	-	-	-	_Anonymous_	-
+eng_0009	1	32	's	POS	*)	-	-	-	_Anonymous_	-
+eng_0009	1	33	breast	NN	*)))))	-	-	-	_Anonymous_	-
+eng_0009	1	34	?	.	*	-	-	-	_Anonymous_	-
+eng_0009	1	35	-RRB-	-RRB-	*))	-	-	-	_Anonymous_	-
+eng_0009	1	36	and	CC	*	-	-	-	_Anonymous_	-
+eng_0009	1	37	Brittany	NNP	(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	38	Spears	NNPS	*)	-	-	-	_Anonymous_	-
+eng_0009	1	39	,	,	*	-	-	-	_Anonymous_	-
+eng_0009	1	40	Christina	NNP	(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	41	Aguilera	NNP	*)))))))	-	-	-	_Anonymous_	-
+eng_0009	1	42	...	.	*))	-	-	-	_Anonymous_	-
+
+eng_0009	1	0	The	DT	(TOP(S(S(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	1	piper	NN	*)	-	-	-	_Anonymous_	-
+eng_0009	1	2	walks	VBZ	(VP*	walk	01	1	_Anonymous_	-
+eng_0009	1	3	into	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	4	the	DT	(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	5	mountain	NN	*))	-	-	-	_Anonymous_	-
+eng_0009	1	6	,	,	*	-	-	-	_Anonymous_	-
+eng_0009	1	7	still	RB	(S(ADVP*)	-	-	-	_Anonymous_	-
+eng_0009	1	8	followed	VBN	(VP*	follow	01	1	_Anonymous_	-
+eng_0009	1	9	by	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	10	the	DT	(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	11	children	NNS	*))))))	-	-	-	_Anonymous_	-
+eng_0009	1	12	,	,	*	-	-	-	_Anonymous_	-
+eng_0009	1	13	and	CC	*	-	-	-	_Anonymous_	-
+eng_0009	1	14	the	DT	(S(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	15	cave	NN	*)	-	-	-	_Anonymous_	-
+eng_0009	1	16	closes	VBZ	(VP*	close	01	9	_Anonymous_	-
+eng_0009	1	17	again	RB	(ADVP*)))	-	-	-	_Anonymous_	-
+eng_0009	1	18	...	:	*))	-	-	-	_Anonymous_	-
+
+eng_0009	1	0	Here	RB	(TOP(SINV(ADVP*)	-	-	-	_Anonymous_	-
+eng_0009	1	1	is	VBZ	(VP*)	be	01	4	_Anonymous_	-
+eng_0009	1	2	Boucher	NNP	(NP(NP(NP*	-	-	-	_Anonymous_	(35
+eng_0009	1	3	's	POS	*)	-	-	-	_Anonymous_	35)
+eng_0009	1	4	follow	NN	*	-	-	-	_Anonymous_	-
+eng_0009	1	5	up	NN	*)	-	-	-	_Anonymous_	-
+eng_0009	1	6	to	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	7	the	DT	(NP(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	8	``	``	*	-	-	-	_Anonymous_	-
+eng_0009	1	9	majician	NN	*	-	-	-	_Anonymous_	-
+eng_0009	1	10	''	''	*	-	-	-	_Anonymous_	-
+eng_0009	1	11	link	NN	*)	-	-	-	_Anonymous_	-
+eng_0009	1	12	of	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	13	Jeff	NNP	(NP*	-	-	-	_Anonymous_	(35
+eng_0009	1	14	's	POS	*)))))	-	-	-	_Anonymous_	35)
+eng_0009	1	15	.	.	*))	-	-	-	_Anonymous_	-
+
+eng_0009	1	0	on	IN	(TOP(FRAG(PP*	-	-	-	_jon_	-
+eng_0009	1	1	the	DT	(NP*	-	-	-	_jon_	-
+eng_0009	1	2	mark	NN	*))	-	-	-	_jon_	-
+eng_0009	1	3	as	IN	(PP*	-	-	-	_jon_	-
+eng_0009	1	4	always	RB	(ADVP*))	-	-	-	_jon_	-
+eng_0009	1	5	,	,	*	-	-	-	_jon_	-
+eng_0009	1	6	jeff	NNP	(NP*)	-	-	-	_jon_	(35)
+eng_0009	1	7	,	,	*))	-	-	-	_jon_	-
+
+eng_0009	1	0	but	CC	(TOP(S*	-	-	-	_jon_	-
+eng_0009	1	1	i	PRP	(NP*)	-	-	-	_jon_	-
+eng_0009	1	2	thought	VBD	(VP*	think	01	1	_jon_	-
+eng_0009	1	3	you	PRP	(SBAR(S(NP*)	-	-	-	_jon_	(35)
+eng_0009	1	4	might	MD	(VP*	-	-	-	_jon_	-
+eng_0009	1	5	cover	VB	(VP*	cover	03	2	_jon_	-
+eng_0009	1	6	chile	NNP	(NP(NP(NP*	-	-	-	_jon_	(21
+eng_0009	1	7	's	POS	*)	-	-	-	_jon_	21)
+eng_0009	1	8	inauguration	NN	*)	-	-	-	_jon_	-
+eng_0009	1	9	of	IN	(PP*	-	-	-	_jon_	-
+eng_0009	1	10	its	PRP$	(NP*	-	-	-	_jon_	(21)
+eng_0009	1	11	first	JJ	*	-	-	-	_jon_	-
+eng_0009	1	12	woman	NN	*	-	-	-	_jon_	-
+eng_0009	1	13	president	NN	*)))	-	-	-	_jon_	-
+eng_0009	1	14	today	NN	(NP*)	-	-	-	_jon_	-
+eng_0009	1	15	instead	RB	(ADVP*))))))	-	-	-	_jon_	-
+eng_0009	1	16	...	:	*))	-	-	-	_jon_	-
+
+eng_0009	1	0	maybe	RB	(TOP(FRAG(ADVP*	-	-	-	_jon_	-
+eng_0009	1	1	later	RB	*)	-	-	-	_jon_	-
+eng_0009	1	2	as	IN	(SBAR*	-	-	-	_jon_	-
+eng_0009	1	3	the	DT	(S(NP*	-	-	-	_jon_	-
+eng_0009	1	4	story	NN	*)	-	-	-	_jon_	-
+eng_0009	1	5	develops	VBZ	(VP*)))	develop	01	2	_jon_	-
+eng_0009	1	6	?	.	*))	-	-	-	_jon_	-
+
+eng_0009	1	0	Jeff	NNP	(TOP(S(NP(NP*	-	-	-	_Anonymous_	(35
+eng_0009	1	1	Boucher	NNP	*	-	-	-	_Anonymous_	-
+eng_0009	1	2	's	POS	*)	-	-	-	_Anonymous_	35)
+eng_0009	1	3	piece	NN	*)	-	-	-	_Anonymous_	-
+eng_0009	1	4	mentions	VBZ	(VP*	mention	01	-	_Anonymous_	-
+eng_0009	1	5	how	WRB	(SBAR(WHADVP*)	-	-	-	_Anonymous_	-
+eng_0009	1	6	victims	NNS	(S(NP(NP*)	-	-	-	_Anonymous_	(68
+eng_0009	1	7	of	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	8	sexual	JJ	(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	9	abuse	NN	*)))	-	-	-	_Anonymous_	68)
+eng_0009	1	10	often	RB	(ADVP*)	-	-	-	_Anonymous_	-
+eng_0009	1	11	have	VBP	(VP*	have	-	2	_Anonymous_	-
+eng_0009	1	12	childlike	JJ	(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	13	voices	NNS	*)	-	-	-	_Anonymous_	-
+eng_0009	1	14	,	,	*	-	-	-	_Anonymous_	-
+eng_0009	1	15	almost	RB	(SBAR(ADVP*)	-	-	-	_Anonymous_	-
+eng_0009	1	16	as	IN	*	-	-	-	_Anonymous_	-
+eng_0009	1	17	if	IN	*	-	-	-	_Anonymous_	-
+eng_0009	1	18	their	PRP$	(S(NP*	-	-	-	_Anonymous_	(68)
+eng_0009	1	19	development	NN	*)	-	-	-	_Anonymous_	-
+eng_0009	1	20	was	VBD	(VP*	be	03	1	_Anonymous_	-
+eng_0009	1	21	'	``	(VP*	-	-	-	_Anonymous_	-
+eng_0009	1	22	frozen	VBN	*	freeze	01	-	_Anonymous_	-
+eng_0009	1	23	'	''	*	-	-	-	_Anonymous_	-
+eng_0009	1	24	around	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	25	the	DT	(NP(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	26	time	NN	*)	-	-	-	_Anonymous_	-
+eng_0009	1	27	of	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	28	their	PRP$	(NP*	-	-	-	_Anonymous_	(68)
+eng_0009	1	29	abuse	NN	*))))))))))))	-	-	-	_Anonymous_	-
+eng_0009	1	30	.	.	*))	-	-	-	_Anonymous_	-
+
+eng_0009	1	0	Jackson	NNP	(TOP(S(NP*)	-	-	-	_Anonymous_	(8)
+eng_0009	1	1	seems	VBZ	(VP*	seem	01	1	_Anonymous_	-
+eng_0009	1	2	to	TO	(S(VP*	-	-	-	_Anonymous_	-
+eng_0009	1	3	be	VB	(VP*	be	01	1	_Anonymous_	-
+eng_0009	1	4	of	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	5	this	DT	(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	6	type	NN	*))))))	-	-	-	_Anonymous_	-
+eng_0009	1	7	.	.	*))	-	-	-	_Anonymous_	-
+
+eng_0009	1	0	Or	CC	(TOP(S*	-	-	-	_Anonymous_	-
+eng_0009	1	1	more	RBR	(ADVP*	-	-	-	_Anonymous_	-
+eng_0009	1	2	perversely	RB	*)	-	-	-	_Anonymous_	-
+eng_0009	1	3	,	,	*	-	-	-	_Anonymous_	-
+eng_0009	1	4	fakes	VBZ	(VP*	fake	01	2	_Anonymous_	-
+eng_0009	1	5	that	IN	(SBAR*	-	-	-	_Anonymous_	-
+eng_0009	1	6	he	PRP	(S(NP*)	-	-	-	_Anonymous_	(8)
+eng_0009	1	7	is	VBZ	(VP*))))	be	01	1	_Anonymous_	-
+eng_0009	1	8	:	:	*))	-	-	-	_Anonymous_	-
+
+eng_0009	1	0	``	``	(TOP(S*	-	-	-	_Anonymous_	-	-
+eng_0009	1	1	I	PRP	(NP*)	-	-	-	_Anonymous_	(90)	(90)
+eng_0009	1	2	was	VBD	(VP*	-	-	-	_Anonymous_	-	-
+eng_0009	1	3	always	RB	(ADVP*)	-	-	-	_Anonymous_	-	-
+eng_0009	1	4	saying	VBG	(VP*	say	01	1	_Anonymous_	-	-
+eng_0009	1	5	-LSB-	-LRB-	*	-	-	-	_Anonymous_	-	-
+eng_0009	1	6	to	IN	(PP*	-	-	-	_Anonymous_	-	-
+eng_0009	1	7	Jackson	NNP	(NP*))	-	-	-	_Anonymous_	(8)	(8)
+eng_0009	1	8	-RSB-	-RRB-	*	-	-	-	_Anonymous_	-	-
+eng_0009	1	9	people	NNS	(SBAR(S(NP*)	-	-	-	_Anonymous_	(160)	(160)
+eng_0009	1	10	would	MD	(VP*	-	-	-	_Anonymous_	-	-
+eng_0009	1	11	n't	RB	*	-	-	-	_Anonymous_	-	-
+eng_0009	1	12	think	VB	(VP*	think	01	1	_Anonymous_	-	-
+eng_0009	1	13	I	PRP	(SBAR(S(NP*)	-	-	-	_Anonymous_	(90)	(90)
+eng_0009	1	14	was	VBD	(VP*	be	01	1	_Anonymous_	-	-
+eng_0009	1	15	so	RB	(ADJP*	-	-	-	_Anonymous_	-	-
+eng_0009	1	16	crazy	JJ	*))))	-	-	-	_Anonymous_	-	-
+eng_0009	1	17	if	IN	(SBAR*	-	-	-	_Anonymous_	-	-
+eng_0009	1	18	they	PRP	(S(NP*)	-	-	-	_Anonymous_	(160)	(160)
+eng_0009	1	19	saw	VBD	(VP*	see	01	3	_Anonymous_	-	-
+eng_0009	1	20	who	WP	(SBAR(SBAR(WHNP*	-	-	-	_Anonymous_	-	-
+eng_0009	1	21	the	DT	*	-	-	-	_Anonymous_	-	-
+eng_0009	1	22	hell	NN	*)	-	-	-	_Anonymous_	-	-
+eng_0009	1	23	you	PRP	(S(NP*)	-	-	-	_Anonymous_	(8)	(8)
+eng_0009	1	24	really	RB	(ADVP*)	-	-	-	_Anonymous_	-	-
+eng_0009	1	25	are	VBP	(VP*)))	be	01	1	_Anonymous_	-	-
+eng_0009	1	26	,	,	*	-	-	-	_Anonymous_	-	-
+eng_0009	1	27	that	IN	(SBAR*	-	-	-	_Anonymous_	-	-
+eng_0009	1	28	you	PRP	(S(S(NP*)	-	-	-	_Anonymous_	(8)	(8)
+eng_0009	1	29	sit	VBP	(VP*	sit	01	3	_Anonymous_	-	-
+eng_0009	1	30	around	RP	(PRT*)))	-	-	-	_Anonymous_	-	-
+eng_0009	1	31	,	,	*	-	-	-	_Anonymous_	-	-
+eng_0009	1	32	and	CC	*	-	-	-	_Anonymous_	-	-
+eng_0009	1	33	you	PRP	(S(NP*)	-	-	-	_Anonymous_	(8)	(8)
+eng_0009	1	34	drink	VBP	(VP*))	drink	01	2	_Anonymous_	-	-
+eng_0009	1	35	and	CC	*	-	-	-	_Anonymous_	-	-
+eng_0009	1	36	you	PRP	(S(NP*)	-	-	-	_Anonymous_	(8)	(8)
+eng_0009	1	37	curse	VBP	(VP*))	curse	01	1	_Anonymous_	-	-
+eng_0009	1	38	and	CC	*	-	-	-	_Anonymous_	-	-
+eng_0009	1	39	you	PRP	(S(NP*)	-	-	-	_Anonymous_	(8)	(8)
+eng_0009	1	40	're	VBP	(VP*	be	01	1	_Anonymous_	-	-
+eng_0009	1	41	-LSB-	-LRB-	(NP*	-	-	-	_Anonymous_	-	-
+eng_0009	1	42	expletive	XX	*	-	-	-	_Anonymous_	-	-
+eng_0009	1	43	-RSB-	-RRB-	*	-	-	-	_Anonymous_	-	-
+eng_0009	1	44	funny	JJ	*)))	-	-	-	_Anonymous_	-	-
+eng_0009	1	45	and	CC	*	-	-	-	_Anonymous_	-	-
+eng_0009	1	46	you	PRP	(S(NP*)	-	-	-	_Anonymous_	(8)	(8)
+eng_0009	1	47	have	VBP	(VP*	have	-	2	_Anonymous_	-	-
+eng_0009	1	48	a	DT	(NP*	-	-	-	_Anonymous_	-	-
+eng_0009	1	49	bad	JJ	*	-	-	-	_Anonymous_	-	-
+eng_0009	1	50	mouth	NN	*)))	-	-	-	_Anonymous_	-	-
+eng_0009	1	51	,	,	*	-	-	-	_Anonymous_	-	-
+eng_0009	1	52	and	CC	*	-	-	-	_Anonymous_	-	-
+eng_0009	1	53	you	PRP	(S(NP*)	-	-	-	_Anonymous_	(8)	(8)
+eng_0009	1	54	do	VBP	(VP*	-	-	-	_Anonymous_	-	-
+eng_0009	1	55	n't	RB	*	-	-	-	_Anonymous_	-	-
+eng_0009	1	56	have	VB	(VP*	have	-	2	_Anonymous_	-	-
+eng_0009	1	57	that	DT	(NP*	-	-	-	_Anonymous_	-	-
+eng_0009	1	58	high	JJ	*	-	-	-	_Anonymous_	-	-
+eng_0009	1	59	voice	NN	*)	voice	-	1	_Anonymous_	-	-
+eng_0009	1	60	all	PDT	(NP*	-	-	-	_Anonymous_	-	-
+eng_0009	1	61	the	DT	*	-	-	-	_Anonymous_	-	-
+eng_0009	1	62	time	NN	*))))))))))))))))	-	-	-	_Anonymous_	-	-
+eng_0009	1	63	''	''	*	-	-	-	_Anonymous_	-	-
+eng_0009	1	64	-	.	*))	-	-	-	_Anonymous_	-	-
+
+eng_0009	1	0	Lisa	NNP	(TOP(FRAG(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	1	Marie	NNP	*	-	-	-	_Anonymous_	-
+eng_0009	1	2	Presley	NNP	*)	-	-	-	_Anonymous_	-
+eng_0009	1	3	,	,	*	-	-	-	_Anonymous_	-
+eng_0009	1	4	in	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	5	an	DT	(NP(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	6	interview	NN	*)	-	-	-	_Anonymous_	-
+eng_0009	1	7	quoted	VBN	(VP*	quote	01	-	_Anonymous_	-
+eng_0009	1	8	in	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	9	a	DT	(NP(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	10	WaPo	NNP	*	-	-	-	_Anonymous_	-
+eng_0009	1	11	article	NN	*)	-	-	-	_Anonymous_	-
+eng_0009	1	12	written	VBN	(VP*	write	01	1	_Anonymous_	-
+eng_0009	1	13	by	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	14	Tina	NNP	(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	15	Brown	NNP	*))))))))	-	-	-	_Anonymous_	-
+eng_0009	1	16	:	:	*))	-	-	-	_Anonymous_	-
+
+eng_0009	1	0	Michael	NNP	(TOP(NP(NP*	-	-	-	_Anonymous_	(8
+eng_0009	1	1	Jackson	NNP	*	-	-	-	_Anonymous_	-
+eng_0009	1	2	's	POS	*)	-	-	-	_Anonymous_	8)
+eng_0009	1	3	False	JJ	*	-	-	-	_Anonymous_	-
+eng_0009	1	4	Front	NN	*	-	-	-	_Anonymous_	-
+eng_0009	1	5	?	.	*))	-	-	-	_Anonymous_	-
+
+eng_0009	1	0	``	``	(TOP(S*	-	-	-	_Anonymous_	-
+eng_0009	1	1	David	NNP	(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	2	Geffen	NNP	*)	-	-	-	_Anonymous_	-
+eng_0009	1	3	,	,	*	-	-	-	_Anonymous_	-
+eng_0009	1	4	be	VB	(VP*	-	-	-	_Anonymous_	-
+eng_0009	1	5	gone	VBN	(VP*))	go	13	-	_Anonymous_	-
+eng_0009	1	6	!	.	*))	-	-	-	_Anonymous_	-
+
+eng_0009	1	0	Steven	NNP	(TOP(S(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	1	Spielberg	NNP	*)	-	-	-	_Anonymous_	-
+eng_0009	1	2	,	,	*	-	-	-	_Anonymous_	-
+eng_0009	1	3	be	VB	(VP*	-	-	-	_Anonymous_	-
+eng_0009	1	4	gone	VBN	(VP*))	go	13	-	_Anonymous_	-
+eng_0009	1	5	!	.	*	-	-	-	_Anonymous_	-
+eng_0009	1	6	''	''	*))	-	-	-	_Anonymous_	-
+
+eng_0009	1	0	The	DT	(TOP(S(NP(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	1	witch	NN	*	-	-	-	_Anonymous_	-
+eng_0009	1	2	doctor	NN	*)	-	-	-	_Anonymous_	-
+eng_0009	1	3	cursing	VBG	(VP(VP*	curse	01	1	_Anonymous_	-
+eng_0009	1	4	Michael	NNP	(NP(NP*	-	-	-	_Anonymous_	(5|(92
+eng_0009	1	5	Jackson	NNP	*	-	-	-	_Anonymous_	-
+eng_0009	1	6	's	POS	*)	-	-	-	_Anonymous_	92)
+eng_0009	1	7	enemies	NNS	*))	-	-	-	_Anonymous_	5)
+eng_0009	1	8	and	CC	*	-	-	-	_Anonymous_	-
+eng_0009	1	9	blessing	VBG	(VP*	bless	01	1	_Anonymous_	-
+eng_0009	1	10	the	DT	(NP(NP(NP*	-	-	-	_Anonymous_	(92
+eng_0009	1	11	tarnished	JJ	*	-	-	-	_Anonymous_	-
+eng_0009	1	12	King	NNP	*)	-	-	-	_Anonymous_	-
+eng_0009	1	13	of	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	14	Pop	NNP	(NP*)))	-	-	-	_Anonymous_	-
+eng_0009	1	15	himself	PRP	(NP*)))	-	-	-	_Anonymous_	(92)|92)
+eng_0009	1	16	in	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	17	a	DT	(NP(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	18	voodoo	NN	*	-	-	-	_Anonymous_	-
+eng_0009	1	19	ritual	NN	*)	-	-	-	_Anonymous_	-
+eng_0009	1	20	in	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	21	Switzerland	NNP	(NP*))	-	-	-	_Anonymous_	-
+eng_0009	1	22	in	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	23	the	DT	(NP(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	24	summer	NN	*)	-	-	-	_Anonymous_	-
+eng_0009	1	25	of	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	26	2000	CD	(NP*))))))))	-	-	-	_Anonymous_	-
+eng_0009	1	27	had	VBD	(VP*	-	-	-	_Anonymous_	-
+eng_0009	1	28	promised	VBN	(VP*	promise	01	1	_Anonymous_	-
+eng_0009	1	29	that	IN	(SBAR*	-	-	-	_Anonymous_	-
+eng_0009	1	30	the	DT	(S(NP(NP*	-	-	-	_Anonymous_	(5
+eng_0009	1	31	25	CD	*	-	-	-	_Anonymous_	-
+eng_0009	1	32	people	NNS	*)	-	-	-	_Anonymous_	-
+eng_0009	1	33	on	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	34	Jackson	NNP	(NP(NP*	-	-	-	_Anonymous_	(92)
+eng_0009	1	35	's	POS	*)	-	-	-	_Anonymous_	-
+eng_0009	1	36	enemies	NNS	*	-	-	-	_Anonymous_	-
+eng_0009	1	37	list	NN	*)))	-	-	-	_Anonymous_	5)
+eng_0009	1	38	-LRB-	-LRB-	*	-	-	-	_Anonymous_	-
+eng_0009	1	39	would	MD	(VP*	-	-	-	_Anonymous_	-
+eng_0009	1	40	soon	RB	(ADVP*)	-	-	-	_Anonymous_	-
+eng_0009	1	41	be	VB	(VP*	be	01	1	_Anonymous_	-
+eng_0009	1	42	dead	JJ	(ADJP*)))	-	-	-	_Anonymous_	-
+eng_0009	1	43	-RRB-	-RRB-	*))))	-	-	-	_Anonymous_	-
+eng_0009	1	44	...	.	*))	-	-	-	_Anonymous_	-
+
+eng_0009	1	0	Jackson	NNP	(TOP(S(NP*)	-	-	-	_Anonymous_	(92)
+eng_0009	1	1	had	VBD	(VP*	-	-	-	_Anonymous_	-
+eng_0009	1	2	ordered	VBN	(VP*	order	01	1	_Anonymous_	-
+eng_0009	1	3	his	PRP$	(NP(NP*	-	-	-	_Anonymous_	(85|(92)
+eng_0009	1	4	then	RB	*	-	-	-	_Anonymous_	-
+eng_0009	1	5	business	NN	*	-	-	-	_Anonymous_	-
+eng_0009	1	6	adviser	NN	*)	-	-	-	_Anonymous_	85)
+eng_0009	1	7	,	,	*	-	-	-	_Anonymous_	-
+eng_0009	1	8	Myung	NNP	(NP*	-	-	-	_Anonymous_	(85
+eng_0009	1	9	-	HYPH	*	-	-	-	_Anonymous_	-
+eng_0009	1	10	Ho	NNP	*	-	-	-	_Anonymous_	-
+eng_0009	1	11	Lee	NNP	*)	-	-	-	_Anonymous_	85)
+eng_0009	1	12	,	,	*	-	-	-	_Anonymous_	-
+eng_0009	1	13	a	DT	(NP(NP*	-	-	-	_Anonymous_	(85
+eng_0009	1	14	U.S.	NNP	(ADJP*	-	-	-	_Anonymous_	-
+eng_0009	1	15	-	HYPH	*	-	-	-	_Anonymous_	-
+eng_0009	1	16	educated	VBN	*)	educate	01	-	_Anonymous_	-
+eng_0009	1	17	Korean	JJ	*	-	-	-	_Anonymous_	-
+eng_0009	1	18	lawyer	NN	*)	-	-	-	_Anonymous_	-
+eng_0009	1	19	based	VBN	(VP*	base	01	-	_Anonymous_	-
+eng_0009	1	20	in	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	21	Seoul	NNP	(NP*)))))	-	-	-	_Anonymous_	85)
+eng_0009	1	22	,	,	*	-	-	-	_Anonymous_	-
+eng_0009	1	23	to	TO	(S(VP*	-	-	-	_Anonymous_	-
+eng_0009	1	24	wire	VB	(VP*	wire	01	3	_Anonymous_	-
+eng_0009	1	25	$	$	(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	26	150,000	CD	*)	-	-	-	_Anonymous_	-
+eng_0009	1	27	to	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	28	a	DT	(NP(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	29	bank	NN	*)	-	-	-	_Anonymous_	-
+eng_0009	1	30	in	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	31	Mali	NNP	(NP*))))	-	-	-	_Anonymous_	-
+eng_0009	1	32	for	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	33	a	DT	(NP(NP(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	34	voodoo	NN	*	-	-	-	_Anonymous_	-
+eng_0009	1	35	chief	NN	*)	-	-	-	_Anonymous_	-
+eng_0009	1	36	named	VBN	(VP*	name	01	-	_Anonymous_	-
+eng_0009	1	37	Baba	NNP	(S(NP*))))	-	-	-	_Anonymous_	-
+eng_0009	1	38	,	,	*	-	-	-	_Anonymous_	-
+eng_0009	1	39	who	WP	(SBAR(WHNP*)	-	-	-	_Anonymous_	-
+eng_0009	1	40	then	RB	(S(ADVP*)	-	-	-	_Anonymous_	-
+eng_0009	1	41	had	VBD	(VP*	have	-	6	_Anonymous_	-
+eng_0009	1	42	42	CD	(S(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	43	cows	NNS	*)	-	-	-	_Anonymous_	-
+eng_0009	1	44	ritually	RB	(ADVP*)	-	-	-	_Anonymous_	-
+eng_0009	1	45	sacrificed	VBN	(VP*	sacrifice	01	1	_Anonymous_	-
+eng_0009	1	46	for	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	47	the	DT	(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	48	ceremony	NN	*))))))))))))))	-	-	-	_Anonymous_	-
+eng_0009	1	49	.	.	*))	-	-	-	_Anonymous_	-
+
+eng_0009	1	0	Jackson	NNP	(TOP(S(NP*)	-	-	-	_Anonymous_	(92)
+eng_0009	1	1	had	VBD	(VP*	-	-	-	_Anonymous_	-
+eng_0009	1	2	already	RB	(ADVP*)	-	-	-	_Anonymous_	-
+eng_0009	1	3	undergone	VBN	(VP*	undergo	01	-	_Anonymous_	-
+eng_0009	1	4	a	DT	(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	5	blood	NN	*	-	-	-	_Anonymous_	-
+eng_0009	1	6	bath	NN	*)))	-	-	-	_Anonymous_	-
+eng_0009	1	7	...	:	*))	-	-	-	_Anonymous_	-
+
+eng_0009	1	0	The	DT	(TOP(S(NP(NP*	-	-	-	_Anonymous_	(92
+eng_0009	1	1	pop	NN	*	-	-	-	_Anonymous_	-
+eng_0009	1	2	star	NN	*)	-	-	-	_Anonymous_	-
+eng_0009	1	3	,	,	*	-	-	-	_Anonymous_	-
+eng_0009	1	4	who	WP	(SBAR(WHNP*)	-	-	-	_Anonymous_	-
+eng_0009	1	5	is	VBZ	(S(VP*	-	-	-	_Anonymous_	-
+eng_0009	1	6	said	VBN	(VP*	say	01	1	_Anonymous_	-
+eng_0009	1	7	to	TO	(S(VP*	-	-	-	_Anonymous_	-
+eng_0009	1	8	be	VB	(VP*	be	01	1	_Anonymous_	-
+eng_0009	1	9	$	$	(PP(NP(QP*	-	-	-	_Anonymous_	-
+eng_0009	1	10	240	CD	*	-	-	-	_Anonymous_	-
+eng_0009	1	11	million	CD	*))	-	-	-	_Anonymous_	-
+eng_0009	1	12	in	IN	*	-	-	-	_Anonymous_	-
+eng_0009	1	13	debt	NN	(NP*))))))))))	-	-	-	_Anonymous_	92)
+eng_0009	1	14	,	,	*	-	-	-	_Anonymous_	-
+eng_0009	1	15	had	VBD	(VP*	-	-	-	_Anonymous_	-
+eng_0009	1	16	paid	VBN	(VP*	pay	01	1	_Anonymous_	-
+eng_0009	1	17	six	CD	(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	18	figures	NNS	*)	-	-	-	_Anonymous_	-
+eng_0009	1	19	for	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	20	a	DT	(NP(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	21	ritual	JJ	*	-	-	-	_Anonymous_	-
+eng_0009	1	22	cleansing	NN	*)	-	-	-	_Anonymous_	-
+eng_0009	1	23	using	VBG	(VP*	use	01	1	_Anonymous_	-
+eng_0009	1	24	sheep	NN	(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	25	blood	NN	*))))	-	-	-	_Anonymous_	-
+eng_0009	1	26	to	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	27	another	DT	(NP(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	28	voodoo	NN	*	-	-	-	_Anonymous_	-
+eng_0009	1	29	doctor	NN	*)	-	-	-	_Anonymous_	-
+eng_0009	1	30	and	CC	*	-	-	-	_Anonymous_	-
+eng_0009	1	31	a	DT	(NP(NP(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	32	mysterious	JJ	*	-	-	-	_Anonymous_	-
+eng_0009	1	33	Egyptian	JJ	*	-	-	-	_Anonymous_	-
+eng_0009	1	34	woman	NN	*)	-	-	-	_Anonymous_	-
+eng_0009	1	35	named	VBN	(VP*	name	01	-	_Anonymous_	-
+eng_0009	1	36	Samia	NNP	(S(NP*))))	-	-	-	_Anonymous_	-
+eng_0009	1	37	,	,	*	-	-	-	_Anonymous_	-
+eng_0009	1	38	who	WP	(SBAR(WHNP*)	-	-	-	_Anonymous_	-
+eng_0009	1	39	came	VBD	(S(VP*	come	01	1	_Anonymous_	-
+eng_0009	1	40	to	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	41	him	PRP	(NP*))	-	-	-	_Anonymous_	(92)
+eng_0009	1	42	with	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	43	a	DT	(NP(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	44	letter	NN	*)	-	-	-	_Anonymous_	-
+eng_0009	1	45	of	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	46	greeting	NN	(NP*))	-	-	-	_Anonymous_	-
+eng_0009	1	47	from	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	48	a	DT	(NP(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	49	high	RB	(ADJP*	-	-	-	_Anonymous_	-
+eng_0009	1	50	-	HYPH	*	-	-	-	_Anonymous_	-
+eng_0009	1	51	ranking	VBG	*)	rank	01	-	_Anonymous_	-
+eng_0009	1	52	Saudi	JJ	*	-	-	-	_Anonymous_	-
+eng_0009	1	53	prince	NN	*)	-	-	-	_Anonymous_	-
+eng_0009	1	54	,	,	*	-	-	-	_Anonymous_	-
+eng_0009	1	55	purportedly	RB	(NP(ADVP*)	-	-	-	_Anonymous_	-
+eng_0009	1	56	Nawaf	NNP	*	-	-	-	_Anonymous_	-
+eng_0009	1	57	Bin	NNP	*	-	-	-	_Anonymous_	-
+eng_0009	1	58	Abdulaziz	NNP	*	-	-	-	_Anonymous_	-
+eng_0009	1	59	Al	NNP	*	-	-	-	_Anonymous_	-
+eng_0009	1	60	-	HYPH	*	-	-	-	_Anonymous_	-
+eng_0009	1	61	Saud	NNP	*)	-	-	-	_Anonymous_	-
+eng_0009	1	62	,	,	*	-	-	-	_Anonymous_	-
+eng_0009	1	63	now	RB	(RRC(ADVP*)	-	-	-	_Anonymous_	-
+eng_0009	1	64	the	DT	(NP(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	65	chief	NN	*)	-	-	-	_Anonymous_	-
+eng_0009	1	66	of	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	67	intelligence	NN	(NP*))	-	-	-	_Anonymous_	-
+eng_0009	1	68	of	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	69	Saudi	NNP	(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	70	Arabia	NNP	*))))))))))))))))	-	-	-	_Anonymous_	-
+eng_0009	1	71	...	.	*))	-	-	-	_Anonymous_	-
+
+eng_0009	1	0	http://www.vanityfair.com/commentary/content/articles/050411roco03c	ADD	(TOP(FRAG(NP*)	-	-	-	_Anonymous_	-
+eng_0009	1	1	hmm	UH	(INTJ*)	-	-	-	_Anonymous_	-
+eng_0009	1	2	.	.	*))	-	-	-	_Anonymous_	-
+
+eng_0009	1	0	According	VBG	(TOP(S(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	1	to	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	2	that	DT	(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	3	Vanity	NNP	(NML*	-	-	-	_Anonymous_	-
+eng_0009	1	4	Fair	NNP	*)	-	-	-	_Anonymous_	-
+eng_0009	1	5	article	NN	*)))	-	-	-	_Anonymous_	-
+eng_0009	1	6	,	,	*	-	-	-	_Anonymous_	-
+eng_0009	1	7	Jacko	NNP	(NP(NP*)	-	-	-	_Anonymous_	(92)
+eng_0009	1	8	and	CC	*	-	-	-	_Anonymous_	-
+eng_0009	1	9	Uri	NNP	(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	10	Geller	NNP	*))	-	-	-	_Anonymous_	-
+eng_0009	1	11	met	VBD	(VP*	meet	02	2	_Anonymous_	-
+eng_0009	1	12	through	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	13	``	``	*	-	-	-	_Anonymous_	-
+eng_0009	1	14	that	DT	(NP(NP(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	15	other	JJ	*	-	-	-	_Anonymous_	-
+eng_0009	1	16	fellow	NN	*	-	-	-	_Anonymous_	-
+eng_0009	1	17	devotee	NN	*)	-	-	-	_Anonymous_	-
+eng_0009	1	18	of	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	19	children	NNS	(NP(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	20	's	POS	*)	-	-	-	_Anonymous_	-
+eng_0009	1	21	charities	NNS	*)))	-	-	-	_Anonymous_	-
+eng_0009	1	22	Mohamed	NNP	(NP(NP(NP*	-	-	-	_Anonymous_	(94
+eng_0009	1	23	Fayed	NNP	*)	-	-	-	_Anonymous_	-
+eng_0009	1	24	,	,	*	-	-	-	_Anonymous_	-
+eng_0009	1	25	the	DT	(NP(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	26	chairman	NN	*)	-	-	-	_Anonymous_	-
+eng_0009	1	27	of	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	28	Harrods	NNP	(NP(NP*)	-	-	-	_Anonymous_	-
+eng_0009	1	29	in	IN	(PP*	-	-	-	_Anonymous_	-
+eng_0009	1	30	London	NNP	(NP*))))))	-	-	-	_Anonymous_	-
+eng_0009	1	31	,	,	*	-	-	-	_Anonymous_	-
+eng_0009	1	32	who	WP	(SBAR(WHNP*)	-	-	-	_Anonymous_	-
+eng_0009	1	33	believes	VBZ	(S(VP*	believe	01	1	_Anonymous_	-
+eng_0009	1	34	that	IN	(SBAR*	-	-	-	_Anonymous_	-
+eng_0009	1	35	the	DT	(S(NP(NP*	-	-	-	_Anonymous_	(79
+eng_0009	1	36	C.I.A.	NNP	*)	-	-	-	_Anonymous_	79)
+eng_0009	1	37	and	CC	*	-	-	-	_Anonymous_	-
+eng_0009	1	38	Prince	NNP	(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	39	Philip	NNP	*))	-	-	-	_Anonymous_	-
+eng_0009	1	40	had	VBD	(VP*	have	-	6	_Anonymous_	-
+eng_0009	1	41	Princess	NNP	(S(NP(NP*	-	-	-	_Anonymous_	-
+eng_0009	1	42	Diana	NNP	*)	-	-	-	_Anonymous_	-
+eng_0009	1	43	and	CC	*	-	-	-	_Anonymous_	-
+eng_0009	1	44	his	PRP$	(NP(NP*	-	-	-	_Anonymous_	(94)
+eng_0009	1	45	son	NN	*)	-	-	-	_Anonymous_	-
+eng_0009	1	46	,	,	*	-	-	-	_Anonymous_	-
+eng_0009	1	47	Dodi	NNP	(NP*)))	-	-	-	_Anonymous_	-
+eng_0009	1	48	,	,	*	-	-	-	_Anonymous_	-
+eng_0009	1	49	killed	VBN	(VP*))))))))))))	kill	01	1	_Anonymous_	94)
+eng_0009	1	50	.	.	*	-	-	-	_Anonymous_	-
+eng_0009	1	51	''	''	*))	-	-	-	_Anonymous_	-
+
+eng_0009	1	0	Anonymous	NNP	(TOP(S(NP*)	-	-	-	_starroute_	-
+eng_0009	1	1	quoted	VBD	(VP*	quote	01	1	_starroute_	-
+eng_0009	1	2	,	,	*	-	-	-	_starroute_	-
+eng_0009	1	3	``	``	*	-	-	-	_starroute_	-
+eng_0009	1	4	Jackson	NNP	(S(NP(NP(NP*	-	-	-	_starroute_	(92
+eng_0009	1	5	's	POS	*)	-	-	-	_starroute_	92)
+eng_0009	1	6	stay	NN	*)	-	-	-	_starroute_	-
+eng_0009	1	7	at	IN	(PP*	-	-	-	_starroute_	-
+eng_0009	1	8	the	DT	(NP*	-	-	-	_starroute_	(125
+eng_0009	1	9	Cedars	NNPS	*)))	-	-	-	_starroute_	125)
+eng_0009	1	10	was	VBD	(VP*	-	-	-	_starroute_	-
+eng_0009	1	11	arranged	VBN	(VP*	arrange	01	-	_starroute_	-
+eng_0009	1	12	through	IN	(PP*	-	-	-	_starroute_	-
+eng_0009	1	13	David	NNP	(NP*	-	-	-	_starroute_	-
+eng_0009	1	14	Kuo	NNP	*))))))	-	-	-	_starroute_	-
+eng_0009	1	15	...	.	*	-	-	-	_starroute_	-
+eng_0009	1	16	''	''	*))	-	-	-	_starroute_	-
+
+eng_0009	1	0	Hold	VB	(TOP(S(VP*	hold	05	3	_starroute_	-
+eng_0009	1	1	on	RP	(PRT*))	-	-	-	_starroute_	-
+eng_0009	1	2	--	.	*))	-	-	-	_starroute_	-
+
+eng_0009	1	0	the	DT	(TOP(S(NP*	-	-	-	_starroute_	(125
+eng_0009	1	1	Cedars	NNPS	*)	-	-	-	_starroute_	125)
+eng_0009	1	2	is	VBZ	(VP*	be	01	2	_starroute_	-
+eng_0009	1	3	the	DT	(NP(NP*	-	-	-	_starroute_	-
+eng_0009	1	4	headquarters	NN	*)	-	-	-	_starroute_	-
+eng_0009	1	5	of	IN	(PP*	-	-	-	_starroute_	-
+eng_0009	1	6	the	DT	(NP(NP*	-	-	-	_starroute_	(44
+eng_0009	1	7	Fellowship	NNP	*	-	-	-	_starroute_	-
+eng_0009	1	8	Foundation	NNP	*)	-	-	-	_starroute_	-
+eng_0009	1	9	,	,	*	-	-	-	_starroute_	-
+eng_0009	1	10	the	DT	(NP(NP*	-	-	-	_starroute_	-
+eng_0009	1	11	creepy	JJ	*	-	-	-	_starroute_	-
+eng_0009	1	12	Christianoid	JJ	*	-	-	-	_starroute_	-
+eng_0009	1	13	cult	NN	*)	-	-	-	_starroute_	-
+eng_0009	1	14	with	IN	(PP*	-	-	-	_starroute_	-
+eng_0009	1	15	deep	JJ	(NP*	-	-	-	_starroute_	-
+eng_0009	1	16	political	JJ	*	-	-	-	_starroute_	-
+eng_0009	1	17	connections	NNS	*)))))))	-	-	-	_starroute_	44)
+eng_0009	1	18	.	.	*))	-	-	-	_starroute_	-
+
+eng_0009	1	0	Here	RB	(TOP(SINV(ADVP*)	-	-	-	_starroute_	-
+eng_0009	1	1	's	VBZ	(VP*)	be	01	4	_starroute_	-
+eng_0009	1	2	a	DT	(NP(NP*	-	-	-	_starroute_	-
+eng_0009	1	3	bit	NN	*)	-	-	-	_starroute_	-
+eng_0009	1	4	of	IN	(PP*	-	-	-	_starroute_	-
+eng_0009	1	5	the	DT	(NP(NP*	-	-	-	_starroute_	-
+eng_0009	1	6	original	JJ	*	-	-	-	_starroute_	-
+eng_0009	1	7	Madsen	NNP	*	-	-	-	_starroute_	-
+eng_0009	1	8	article	NN	*)	-	-	-	_starroute_	-
+eng_0009	1	9	that	WDT	(SBAR(WHNP*)	-	-	-	_starroute_	-
+eng_0009	1	10	the	DT	(S(NP*	-	-	-	_starroute_	-
+eng_0009	1	11	Michael	NNP	(NML*	-	-	-	_starroute_	(92
+eng_0009	1	12	Jackson	NNP	*)	-	-	-	_starroute_	92)
+eng_0009	1	13	quote	NN	*)	-	-	-	_starroute_	-
+eng_0009	1	14	comes	VBZ	(VP*	come	03	5	_starroute_	-
+eng_0009	1	15	from	IN	(PP*)))))))	-	-	-	_starroute_	-
+eng_0009	1	16	:	:	*))	-	-	-	_starroute_	-
+
+eng_0009	1	0	In	IN	(TOP(S(PP*	-	-	-	_starroute_	-
+eng_0009	1	1	1976	CD	(NP*))	-	-	-	_starroute_	-
+eng_0009	1	2	,	,	*	-	-	-	_starroute_	-
+eng_0009	1	3	the	DT	(NP*	-	-	-	_starroute_	(44
+eng_0009	1	4	Fellowship	NNP	*)	-	-	-	_starroute_	44)
+eng_0009	1	5	began	VBD	(VP*	begin	01	2	_starroute_	-
+eng_0009	1	6	looking	VBG	(S(VP*	look	01	1	_starroute_	-
+eng_0009	1	7	for	IN	(PP*	-	-	-	_starroute_	-
+eng_0009	1	8	a	DT	(NP(NP*	-	-	-	_starroute_	-
+eng_0009	1	9	permanent	JJ	*	-	-	-	_starroute_	-
+eng_0009	1	10	headquarters	NN	*)	-	-	-	_starroute_	-
+eng_0009	1	11	in	IN	(PP*	-	-	-	_starroute_	-
+eng_0009	1	12	Arlington	NNP	(NP*)))))))	-	-	-	_starroute_	-
+eng_0009	1	13	.	.	*))	-	-	-	_starroute_	-
+
+eng_0009	1	0	It	PRP	(TOP(S(NP*)	-	-	-	_starroute_	(44)
+eng_0009	1	1	set	VBD	(VP*	set	01	3	_starroute_	-
+eng_0009	1	2	its	PRP$	(NP*	-	-	-	_starroute_	(44)
+eng_0009	1	3	sights	NNS	*)	-	-	-	_starroute_	-
+eng_0009	1	4	on	IN	(PP*	-	-	-	_starroute_	-
+eng_0009	1	5	the	DT	(NP(NP(NP(NP*	-	-	-	_starroute_	(125
+eng_0009	1	6	estate	NN	*)	-	-	-	_starroute_	-
+eng_0009	1	7	of	IN	(PP*	-	-	-	_starroute_	-
+eng_0009	1	8	George	NNP	(NP*	-	-	-	_starroute_	(134
+eng_0009	1	9	Mason	NNP	*	-	-	-	_starroute_	-
+eng_0009	1	10	IV	CD	*)))	-	-	-	_starroute_	134)
+eng_0009	1	11	,	,	*	-	-	-	_starroute_	-
+eng_0009	1	12	The	DT	(NP*	-	-	-	_starroute_	-
+eng_0009	1	13	Cedars	NNPS	*))	-	-	-	_starroute_	-
+eng_0009	1	14	,	,	*	-	-	-	_starroute_	-
+eng_0009	1	15	located	VBN	(VP*	locate	01	-	_starroute_	-
+eng_0009	1	16	at	IN	(PP*	-	-	-	_starroute_	-
+eng_0009	1	17	2301	CD	(NP*	-	-	-	_starroute_	-
+eng_0009	1	18	North	NNP	*	-	-	-	_starroute_	-
+eng_0009	1	19	Uhle	NNP	*	-	-	-	_starroute_	-
+eng_0009	1	20	Street	NNP	*))))))	-	-	-	_starroute_	125)
+eng_0009	1	21	.	.	*))	-	-	-	_starroute_	-
+
+eng_0009	1	0	Mason	NNP	(TOP(S(NP*)	-	-	-	_starroute_	(134)
+eng_0009	1	1	was	VBD	(VP*	be	01	1	_starroute_	-
+eng_0009	1	2	one	CD	(NP(NP*)	-	-	-	_starroute_	-
+eng_0009	1	3	of	IN	(PP*	-	-	-	_starroute_	-
+eng_0009	1	4	the	DT	(NP(NP*	-	-	-	_starroute_	-
+eng_0009	1	5	drafters	NNS	*)	-	-	-	_starroute_	-
+eng_0009	1	6	of	IN	(PP*	-	-	-	_starroute_	-
+eng_0009	1	7	the	DT	(NP(NP*	-	-	-	_starroute_	-
+eng_0009	1	8	Bill	NNP	*)	-	-	-	_starroute_	-
+eng_0009	1	9	of	IN	(PP*	-	-	-	_starroute_	-
+eng_0009	1	10	Rights	NNPS	(NP*))))))))	-	-	-	_starroute_	-
+eng_0009	1	11	.	.	*))	-	-	-	_starroute_	-
+
+eng_0009	1	0	The	DT	(TOP(S(NP(NP*	-	-	-	_starroute_	(44
+eng_0009	1	1	Fellowship	NNP	*)	-	-	-	_starroute_	-
+eng_0009	1	2	,	,	*	-	-	-	_starroute_	-
+eng_0009	1	3	also	RB	(VP(ADVP*)	-	-	-	_starroute_	-
+eng_0009	1	4	known	VBN	*	know	01	-	_starroute_	-
+eng_0009	1	5	as	IN	(PP*	-	-	-	_starroute_	-
+eng_0009	1	6	the	DT	(NP*	-	-	-	_starroute_	-
+eng_0009	1	7	International	NNP	*	-	-	-	_starroute_	-
+eng_0009	1	8	Foundation	NNP	*))))	-	-	-	_starroute_	44)
+eng_0009	1	9	,	,	*	-	-	-	_starroute_	-
+eng_0009	1	10	bought	VBD	(VP*	buy	01	1	_starroute_	-
+eng_0009	1	11	the	DT	(NP*	-	-	-	_starroute_	(125
+eng_0009	1	12	property	NN	*)	-	-	-	_starroute_	125)
+eng_0009	1	13	from	IN	(PP*	-	-	-	_starroute_	-
+eng_0009	1	14	Charles	NNP	(NP*	-	-	-	_starroute_	(102
+eng_0009	1	15	Piluso	NNP	*)))	-	-	-	_starroute_	102)
+eng_0009	1	16	.	.	*))	-	-	-	_starroute_	-
+
+eng_0009	1	0	Although	IN	(TOP(S(SBAR*	-	-	-	_starroute_	-
+eng_0009	1	1	not	RB	(S(NP*	-	-	-	_starroute_	-
+eng_0009	1	2	much	JJ	*)	-	-	-	_starroute_	-
+eng_0009	1	3	is	VBZ	(VP*	-	-	-	_starroute_	-
+eng_0009	1	4	known	VBN	(VP*	know	01	-	_starroute_	-
+eng_0009	1	5	about	IN	(PP*	-	-	-	_starroute_	-
+eng_0009	1	6	Piluso	NNP	(NP*))))))	-	-	-	_starroute_	(102)
+eng_0009	1	7	,	,	*	-	-	-	_starroute_	-
+eng_0009	1	8	the	DT	(NP*	-	-	-	_starroute_	-
+eng_0009	1	9	Los	NNP	(NML*	-	-	-	_starroute_	-
+eng_0009	1	10	Angeles	NNP	*)	-	-	-	_starroute_	-
+eng_0009	1	11	Times	NNP	*)	-	-	-	_starroute_	-
+eng_0009	1	12	reported	VBD	(VP*	report	01	1	_starroute_	-
+eng_0009	1	13	that	IN	(SBAR*	-	-	-	_starroute_	-
+eng_0009	1	14	Howard	NNP	(S(NP(NP*	-	-	-	_starroute_	-
+eng_0009	1	15	Hughes	NNP	*)	-	-	-	_starroute_	-
+eng_0009	1	16	,	,	*	-	-	-	_starroute_	-
+eng_0009	1	17	the	DT	(NP(NP*	-	-	-	_starroute_	-
+eng_0009	1	18	man	NN	*)	-	-	-	_starroute_	-
+eng_0009	1	19	with	IN	(SBAR(WHPP*	-	-	-	_starroute_	-
+eng_0009	1	20	whom	WP	(WHNP*))	-	-	-	_starroute_	-
+eng_0009	1	21	Fellowship	NNP	(S(NP(NML*	-	-	-	_starroute_	(44)
+eng_0009	1	22	Senator	NNP	*)	-	-	-	_starroute_	-
+eng_0009	1	23	Ralph	NNP	*	-	-	-	_starroute_	-
+eng_0009	1	24	Owen	NNP	*	-	-	-	_starroute_	-
+eng_0009	1	25	Brewster	NNP	*)	-	-	-	_starroute_	-
+eng_0009	1	26	once	RB	(ADVP*)	-	-	-	_starroute_	-
+eng_0009	1	27	sparred	VBD	(VP*)))))	spar	01	2	_starroute_	-
+eng_0009	1	28	,	,	*	-	-	-	_starroute_	-
+eng_0009	1	29	also	RB	(ADVP*)	-	-	-	_starroute_	-
+eng_0009	1	30	lived	VBD	(VP*	live	01	2	_starroute_	-
+eng_0009	1	31	there	RB	(ADVP*)))))	-	-	-	_starroute_	-
+eng_0009	1	32	.	.	*))	-	-	-	_starroute_	-
+
+eng_0009	1	0	According	VBG	(TOP(S(PP*	-	-	-	_starroute_	-
+eng_0009	1	1	to	IN	(PP*	-	-	-	_starroute_	-
+eng_0009	1	2	a	DT	(NP*	-	-	-	_starroute_	-
+eng_0009	1	3	senior	JJ	*	-	-	-	_starroute_	-
+eng_0009	1	4	Pentagon	NNP	*	-	-	-	_starroute_	-
+eng_0009	1	5	official	NN	*)))	-	-	-	_starroute_	-
+eng_0009	1	6	,	,	*	-	-	-	_starroute_	-
+eng_0009	1	7	the	DT	(NP*	-	-	-	_starroute_	(125
+eng_0009	1	8	Cedars	NNPS	*)	-	-	-	_starroute_	125)
+eng_0009	1	9	had	VBD	(VP*	-	-	-	_starroute_	-
+eng_0009	1	10	been	VBN	(VP*	-	-	-	_starroute_	-
+eng_0009	1	11	used	VBN	(VP*	use	01	-	_starroute_	-
+eng_0009	1	12	as	IN	(PP*	-	-	-	_starroute_	-
+eng_0009	1	13	a	DT	(NP*	-	-	-	_starroute_	-
+eng_0009	1	14	CIA	NNP	*	-	-	-	_starroute_	(79)
+eng_0009	1	15	safe	JJ	*	-	-	-	_starroute_	-
+eng_0009	1	16	house	NN	*))	-	-	-	_starroute_	-
+eng_0009	1	17	prior	RB	(ADVP*	-	-	-	_starroute_	-
+eng_0009	1	18	to	IN	(PP*	-	-	-	_starroute_	-
+eng_0009	1	19	the	DT	(NP(NP(NP*	-	-	-	_starroute_	(44
+eng_0009	1	20	Fellowship	NNP	*	-	-	-	_starroute_	-
+eng_0009	1	21	's	POS	*)	-	-	-	_starroute_	44)
+eng_0009	1	22	purchase	NN	*)	-	-	-	_starroute_	-
+eng_0009	1	23	of	IN	(PP*	-	-	-	_starroute_	-
+eng_0009	1	24	the	DT	(NP*	-	-	-	_starroute_	(125
+eng_0009	1	25	estate	NN	*))))))))	-	-	-	_starroute_	125)
+eng_0009	1	26	.	.	*))	-	-	-	_starroute_	-
+
+eng_0009	1	0	The	DT	(TOP(S(NP*	-	-	-	_starroute_	(44
+eng_0009	1	1	Fellowship	NNP	*)	-	-	-	_starroute_	44)
+eng_0009	1	2	paid	VBD	(VP*	pay	01	1	_starroute_	-
+eng_0009	1	3	$	$	(NP(QP*	-	-	-	_starroute_	(28
+eng_0009	1	4	1.5	CD	*	-	-	-	_starroute_	-
+eng_0009	1	5	million	CD	*))	-	-	-	_starroute_	28)
+eng_0009	1	6	for	IN	(PP*	-	-	-	_starroute_	-
+eng_0009	1	7	the	DT	(NP*	-	-	-	_starroute_	(125
+eng_0009	1	8	Cedars	NNPS	*))	-	-	-	_starroute_	125)
+eng_0009	1	9	,	,	*	-	-	-	_starroute_	-
+eng_0009	1	10	the	DT	(S(NP*	-	-	-	_starroute_	(28
+eng_0009	1	11	money	NN	*)	-	-	-	_starroute_	28)
+eng_0009	1	12	coming	VBG	(VP*	come	01	5	_starroute_	-
+eng_0009	1	13	from	IN	(PP*	-	-	-	_starroute_	-
+eng_0009	1	14	Tom	NNP	(NP(NP(NP*	-	-	-	_starroute_	-
+eng_0009	1	15	Phillips	NNP	*)	-	-	-	_starroute_	-
+eng_0009	1	16	,	,	*	-	-	-	_starroute_	-
+eng_0009	1	17	the	DT	(NP(NP*	-	-	-	_starroute_	-
+eng_0009	1	18	CEO	NN	*)	-	-	-	_starroute_	-
+eng_0009	1	19	of	IN	(PP*	-	-	-	_starroute_	-
+eng_0009	1	20	Raytheon	NNP	(NP*))))	-	-	-	_starroute_	-
+eng_0009	1	21	,	,	*	-	-	-	_starroute_	-
+eng_0009	1	22	and	CC	*	-	-	-	_starroute_	-
+eng_0009	1	23	Ken	NNP	(NP(NP*	-	-	-	_starroute_	-
+eng_0009	1	24	Olsen	NNP	*)	-	-	-	_starroute_	-
+eng_0009	1	25	,	,	*	-	-	-	_starroute_	-
+eng_0009	1	26	the	DT	(NP(NP*	-	-	-	_starroute_	-
+eng_0009	1	27	CEO	NNP	*)	-	-	-	_starroute_	-
+eng_0009	1	28	of	IN	(PP*	-	-	-	_starroute_	-
+eng_0009	1	29	Digital	NNP	(NP*	-	-	-	_starroute_	-
+eng_0009	1	30	Equipment	NNP	*	-	-	-	_starroute_	-
+eng_0009	1	31	Corporation	NNP	*)))))))))	-	-	-	_starroute_	-
+eng_0009	1	32	.	.	*))	-	-	-	_starroute_	-
+
+eng_0009	1	0	Sanford	NNP	(TOP(S(NP(NP*	-	-	-	_starroute_	-
+eng_0009	1	1	McDonnell	NNP	*)	-	-	-	_starroute_	-
+eng_0009	1	2	of	IN	(PP*	-	-	-	_starroute_	-
+eng_0009	1	3	McDonnell	NNP	(NP*	-	-	-	_starroute_	-
+eng_0009	1	4	Douglas	NNP	*	-	-	-	_starroute_	-
+eng_0009	1	5	Corporation	NNP	*)))	-	-	-	_starroute_	-
+eng_0009	1	6	was	VBD	(VP*	be	01	1	_starroute_	-
+eng_0009	1	7	another	DT	(NP(NP*	-	-	-	_starroute_	-
+eng_0009	1	8	deep	JJ	(ADJP*	-	-	-	_starroute_	-
+eng_0009	1	9	-	HYPH	*	-	-	-	_starroute_	-
+eng_0009	1	10	pocketed	JJ	*)	-	-	-	_starroute_	-
+eng_0009	1	11	supporter	NN	*)	-	-	-	_starroute_	-
+eng_0009	1	12	of	IN	(PP*	-	-	-	_starroute_	-
+eng_0009	1	13	the	DT	(NP*	-	-	-	_starroute_	(44
+eng_0009	1	14	Fellowship	NNP	*))	-	-	-	_starroute_	44)
+eng_0009	1	15	through	IN	(PP*	-	-	-	_starroute_	-
+eng_0009	1	16	Full	NNP	(NP(NP(NP(NML*	-	-	-	_starroute_	-
+eng_0009	1	17	Gospel	NNP	*)	-	-	-	_starroute_	-
+eng_0009	1	18	Business	NNP	*	-	-	-	_starroute_	-
+eng_0009	1	19	Men	NNP	*	-	-	-	_starroute_	-
+eng_0009	1	20	's	POS	*)	-	-	-	_starroute_	-
+eng_0009	1	21	Fellowship	NNP	*	-	-	-	_starroute_	-
+eng_0009	1	22	International	NNP	*)	-	-	-	_starroute_	-
+eng_0009	1	23	,	,	*	-	-	-	_starroute_	-
+eng_0009	1	24	an	DT	(NP(NP*	-	-	-	_starroute_	-
+eng_0009	1	25	activity	NN	*)	-	-	-	_starroute_	-
+eng_0009	1	26	linked	VBN	(VP*	link	01	-	_starroute_	-
+eng_0009	1	27	to	IN	(PP*	-	-	-	_starroute_	-
+eng_0009	1	28	Fellowship	NNP	(NP(NML*	-	-	-	_starroute_	(44)
+eng_0009	1	29	core	NN	*	-	-	-	_starroute_	-
+eng_0009	1	30	member	NN	*)	-	-	-	_starroute_	-
+eng_0009	1	31	Pat	NNP	*	-	-	-	_starroute_	-
+eng_0009	1	32	Robertson	NNP	*))))))))	-	-	-	_starroute_	-
+eng_0009	1	33	.	.	*))	-	-	-	_starroute_	-
+
+eng_0009	1	0	Suffer	VB	(TOP(S(VP*	suffer	01	1	_Richard_	-
+eng_0009	1	1	the	DT	(S(NP*	-	-	-	_Richard_	-
+eng_0009	1	2	little	JJ	*	-	-	-	_Richard_	-
+eng_0009	1	3	children	NNS	*)))	-	-	-	_Richard_	-
+eng_0009	1	4	,	,	*	-	-	-	_Richard_	-
+eng_0009	1	5	eh	UH	(INTJ*)	-	-	-	_Richard_	-
+eng_0009	1	6	?	.	*))	-	-	-	_Richard_	-
+
+eng_0009	1	0	If	IN	(TOP(S(SBAR*	-	-	-	_Richard_	-
+eng_0009	1	1	this	DT	(S(NP*)	-	-	-	_Richard_	-
+eng_0009	1	2	is	VBZ	(VP*	be	01	2	_Richard_	-
+eng_0009	1	3	what	WP	(SBAR(WHNP*)	-	-	-	_Richard_	-
+eng_0009	1	4	power	NN	(S(NP*	-	-	-	_Richard_	-
+eng_0009	1	5	&	CC	*	-	-	-	_Richard_	-
+eng_0009	1	6	wealth	NN	*)	-	-	-	_Richard_	-
+eng_0009	1	7	does	VBZ	(VP*	do	-	1	_Richard_	-
+eng_0009	1	8	to	IN	(PP*	-	-	-	_Richard_	-
+eng_0009	1	9	you	PRP	(NP*))))))))	-	-	-	_Richard_	-
+eng_0009	1	10	,	,	*	-	-	-	_Richard_	-
+eng_0009	1	11	I	PRP	(NP*)	-	-	-	_Richard_	(18)
+eng_0009	1	12	'm	VBP	(VP*	be	01	1	_Richard_	-
+eng_0009	1	13	damn	RB	(ADJP*	-	-	-	_Richard_	-
+eng_0009	1	14	glad	JJ	*	-	-	-	_Richard_	-
+eng_0009	1	15	I	PRP	(SBAR(S(NP*)	-	-	-	_Richard_	(18)
+eng_0009	1	16	have	VBP	(VP*	have	-	1	_Richard_	-
+eng_0009	1	17	neither	DT	(NP*))))))	-	-	-	_Richard_	-
+eng_0009	1	18	.	.	*))	-	-	-	_Richard_	-
+
+#end document

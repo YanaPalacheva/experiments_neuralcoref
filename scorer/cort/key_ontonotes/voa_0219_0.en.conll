@@ -1,0 +1,79 @@
+#begin document (voa_0219_0); part 000
+voa_0219	0	0	The	DT	(TOP(S(NP*	-	-	-	-	-
+voa_0219	0	1	United	NNP	*	-	-	-	-	-
+voa_0219	0	2	States	NNP	*)	-	-	-	-	-
+voa_0219	0	3	has	VBZ	(VP*	have	01	-	-	-
+voa_0219	0	4	issued	VBN	(VP*	issue	01	1	-	-
+voa_0219	0	5	a	DT	(NP(NP*	-	-	-	-	-
+voa_0219	0	6	worldwide	JJ	*	-	-	-	-	-
+voa_0219	0	7	caution	NN	*)	caution	01	1	-	-
+voa_0219	0	8	to	IN	(PP*	-	-	-	-	-
+voa_0219	0	9	Americans	NNPS	(NP*))	-	-	-	-	-
+voa_0219	0	10	warning	VBG	(VP*	warn	01	1	-	-
+voa_0219	0	11	of	IN	(PP*	-	-	-	-	-
+voa_0219	0	12	possible	JJ	(NP*	-	-	-	-	-
+voa_0219	0	13	terrorist	NN	*	-	-	-	-	-
+voa_0219	0	14	threats	NNS	*))))))	threat	-	3	-	-
+voa_0219	0	15	.	.	*))	-	-	-	-	-
+
+voa_0219	0	0	No	DT	(TOP(S(S(NP*	-	-	-	-	-
+voa_0219	0	1	threats	NNS	*)	threat	-	3	-	-
+voa_0219	0	2	are	VBP	(VP*	be	03	-	-	-
+voa_0219	0	3	specified	VBN	(VP*)))	specify	01	1	-	-
+voa_0219	0	4	but	CC	*	-	-	-	-	-
+voa_0219	0	5	the	DT	(S(NP(NP*	-	-	-	-	(0
+voa_0219	0	6	US	NNP	*	-	-	-	-	-
+voa_0219	0	7	embassy	NN	*)	-	-	-	-	-
+voa_0219	0	8	in	IN	(PP*	-	-	-	-	-
+voa_0219	0	9	Rome	NNP	(NP*)))	-	-	-	-	0)
+voa_0219	0	10	was	VBD	(VP*	be	03	-	-	-
+voa_0219	0	11	closed	VBN	(VP*	close	01	1	-	-
+voa_0219	0	12	Friday	NNP	(NP*)	-	-	-	-	-
+voa_0219	0	13	for	IN	(PP*	-	-	-	-	-
+voa_0219	0	14	what	WP	(SBAR(WHNP*)	-	-	-	-	-
+voa_0219	0	15	officials	NNS	(S(NP*)	official	-	1	-	-
+voa_0219	0	16	called	VBD	(VP*	call	01	5	-	-
+voa_0219	0	17	security	NN	(S(NP*	security	-	5	-	-
+voa_0219	0	18	reasons	NNS	*)))))))))	reason	-	1	-	-
+voa_0219	0	19	.	.	*))	-	-	-	-	-
+
+voa_0219	0	0	The	DT	(TOP(S(NP*	-	-	-	-	(0
+voa_0219	0	1	embassy	NN	*)	-	-	-	-	0)
+voa_0219	0	2	could	MD	(VP*	-	-	-	-	-
+voa_0219	0	3	reopen	VB	(VP*	reopen	01	1	-	-
+voa_0219	0	4	as	RB	(ADVP(ADVP*	-	-	-	-	-
+voa_0219	0	5	early	RB	*)	-	-	-	-	-
+voa_0219	0	6	as	IN	(PP*	-	-	-	-	-
+voa_0219	0	7	Monday	NNP	(NP*)))))	-	-	-	-	-
+voa_0219	0	8	.	.	*))	-	-	-	-	-
+
+voa_0219	0	0	The	DT	(TOP(S(NP*	-	-	-	-	-
+voa_0219	0	1	State	NNP	*	-	-	-	-	-
+voa_0219	0	2	Department	NNP	*)	-	-	-	-	-
+voa_0219	0	3	periodically	RB	(ADVP*)	-	-	-	-	-
+voa_0219	0	4	issues	VBZ	(VP*	issue	01	1	-	-
+voa_0219	0	5	worldwide	JJ	(NP*	-	-	-	-	-
+voa_0219	0	6	cautions	NNS	*))	-	-	-	-	-
+voa_0219	0	7	.	.	*))	-	-	-	-	-
+
+voa_0219	0	0	One	CD	(TOP(S(NP*)	-	-	-	-	-
+voa_0219	0	1	was	VBD	(VP*	be	03	-	-	-
+voa_0219	0	2	issued	VBN	(VP*	issue	01	1	-	-
+voa_0219	0	3	last	JJ	(NP*	-	-	-	-	-
+voa_0219	0	4	October	NNP	*)	-	-	-	-	-
+voa_0219	0	5	following	VBG	(PP*	follow	01	2	-	-
+voa_0219	0	6	the	DT	(NP(NP*	-	-	-	-	-
+voa_0219	0	7	deadly	JJ	*	-	-	-	-	-
+voa_0219	0	8	terrorist	NN	*	-	-	-	-	-
+voa_0219	0	9	bombing	NN	*)	bomb	-	1	-	-
+voa_0219	0	10	of	IN	(PP*	-	-	-	-	-
+voa_0219	0	11	the	DT	(NP*	-	-	-	-	-
+voa_0219	0	12	USS	NNP	(NML*	-	-	-	-	-
+voa_0219	0	13	Cole	NNP	*)	-	-	-	-	-
+voa_0219	0	14	Navy	NNP	*	-	-	-	-	-
+voa_0219	0	15	destroyer	NN	*))	-	-	-	-	-
+voa_0219	0	16	in	IN	(PP*	-	-	-	-	-
+voa_0219	0	17	Yemen	NNP	(NP*))))))	-	-	-	-	-
+voa_0219	0	18	.	.	*))	-	-	-	-	-
+
+#end document

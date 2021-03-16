@@ -1,0 +1,85 @@
+#begin document (cnn_0079_0); part 000
+cnn_0079	0	0	A	DT	(TOP(S(NP*	-	-	-	-	(2
+cnn_0079	0	1	special	JJ	*	-	-	-	-	-
+cnn_0079	0	2	heavy	JJ	(NML*	-	-	-	-	-
+cnn_0079	0	3	-	HYPH	*	-	-	-	-	-
+cnn_0079	0	4	lift	NN	*)	-	-	-	-	-
+cnn_0079	0	5	ship	NN	*)	-	-	-	-	2)
+cnn_0079	0	6	is	VBZ	(VP*	be	01	1	-	-
+cnn_0079	0	7	due	JJ	(ADJP*	-	-	-	-	-
+cnn_0079	0	8	to	TO	(S(VP*	-	-	-	-	-
+cnn_0079	0	9	arrive	VB	(VP*	arrive	01	1	-	-
+cnn_0079	0	10	in	IN	(PP*	-	-	-	-	-
+cnn_0079	0	11	Yemen	NNP	(NP*))	-	-	-	-	(3)
+cnn_0079	0	12	tomorrow	NN	(NP*))))))	-	-	-	-	-
+cnn_0079	0	13	.	.	*))	-	-	-	-	-
+
+cnn_0079	0	0	It	PRP	(TOP(S(NP*)	-	-	-	-	(2)
+cnn_0079	0	1	will	MD	(VP*	-	-	-	-	-
+cnn_0079	0	2	carry	VB	(VP*	carry	01	1	-	-
+cnn_0079	0	3	the	DT	(NP*	-	-	-	-	(4
+cnn_0079	0	4	damaged	JJ	*	-	-	-	-	-
+cnn_0079	0	5	``	``	*	-	-	-	-	-
+cnn_0079	0	6	USS	NNP	*	-	-	-	-	-
+cnn_0079	0	7	Cole	NNP	*	-	-	-	-	-
+cnn_0079	0	8	''	''	*)	-	-	-	-	4)
+cnn_0079	0	9	back	RB	(ADVP*	-	-	-	-	-
+cnn_0079	0	10	to	IN	(PP*	-	-	-	-	-
+cnn_0079	0	11	the	DT	(NP*	-	-	-	-	-
+cnn_0079	0	12	United	NNP	*	-	-	-	-	-
+cnn_0079	0	13	States	NNP	*)))))	-	-	-	-	-
+cnn_0079	0	14	.	.	*))	-	-	-	-	-
+
+cnn_0079	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	(0
+cnn_0079	0	1	October	NNP	*	-	-	-	-	-
+cnn_0079	0	2	attack	NN	*)	-	-	-	-	-
+cnn_0079	0	3	on	IN	(PP*	-	-	-	-	-
+cnn_0079	0	4	the	DT	(NP*	-	-	-	-	(4
+cnn_0079	0	5	``	``	*	-	-	-	-	-
+cnn_0079	0	6	Cole	NNP	*	-	-	-	-	-
+cnn_0079	0	7	''	''	*)))	-	-	-	-	4)|0)
+cnn_0079	0	8	killed	VBD	(VP*	kill	01	1	-	-
+cnn_0079	0	9	17	CD	(NP*	-	-	-	-	-
+cnn_0079	0	10	sailors	NNS	*))	-	-	-	-	-
+cnn_0079	0	11	.	.	*))	-	-	-	-	-
+
+cnn_0079	0	0	A	DT	(TOP(S(NP*	-	-	-	-	(1
+cnn_0079	0	1	toward	JJ	*	-	-	-	-	-
+cnn_0079	0	2	U.S.	NNP	(NML(NML*	-	-	-	-	-
+cnn_0079	0	3	Army	NNP	*)	-	-	-	-	-
+cnn_0079	0	4	general	NN	*)	-	-	-	-	-
+cnn_0079	0	5	and	CC	*	-	-	-	-	-
+cnn_0079	0	6	U.S.	NNP	(NML(NML*	-	-	-	-	-
+cnn_0079	0	7	Navy	NNP	*)	-	-	-	-	-
+cnn_0079	0	8	admiral	NN	*))	-	-	-	-	1)
+cnn_0079	0	9	have	VBP	(VP*	have	01	-	-	-
+cnn_0079	0	10	arrived	VBN	(VP*	arrive	01	1	-	-
+cnn_0079	0	11	in	IN	(PP*	-	-	-	-	-
+cnn_0079	0	12	Aden	NNP	(NP*))))	-	-	-	-	-
+cnn_0079	0	13	.	.	*))	-	-	-	-	-
+
+cnn_0079	0	0	They	PRP	(TOP(S(NP*)	-	-	-	-	(1)
+cnn_0079	0	1	'll	MD	(VP*	-	-	-	-	-
+cnn_0079	0	2	assist	VB	(VP*	assist	01	1	-	-
+cnn_0079	0	3	in	IN	(PP*	-	-	-	-	-
+cnn_0079	0	4	the	DT	(NP(NP*	-	-	-	-	-
+cnn_0079	0	5	investigation	NN	*)	investigation	-	1	-	-
+cnn_0079	0	6	of	IN	(PP*	-	-	-	-	-
+cnn_0079	0	7	the	DT	(NP*	-	-	-	-	(0
+cnn_0079	0	8	bombing	NN	*))))))	bomb	-	1	-	0)
+cnn_0079	0	9	.	.	*))	-	-	-	-	-
+
+cnn_0079	0	0	They	PRP	(TOP(S(NP*)	-	-	-	-	(1)
+cnn_0079	0	1	will	MD	(VP*	-	-	-	-	-
+cnn_0079	0	2	also	RB	(ADVP*)	-	-	-	-	-
+cnn_0079	0	3	review	VB	(VP*	review	01	1	-	-
+cnn_0079	0	4	military	JJ	(NP(NP*	-	-	-	-	-
+cnn_0079	0	5	procedures	NNS	*	procedure	01	1	-	-
+cnn_0079	0	6	and	CC	*	-	-	-	-	-
+cnn_0079	0	7	intelligence	NN	(NP*	-	-	-	-	-
+cnn_0079	0	8	operations	NNS	*))	operation	-	1	-	-
+cnn_0079	0	9	in	IN	(PP*	-	-	-	-	-
+cnn_0079	0	10	Yemen	NNP	(NP*)))))	-	-	-	-	(3)
+cnn_0079	0	11	.	.	*))	-	-	-	-	-
+
+#end document

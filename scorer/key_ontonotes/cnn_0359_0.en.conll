@@ -1,0 +1,519 @@
+#begin document (cnn_0359_0); part 000
+cnn_0359	0	0	As	*	*
+cnn_0359	0	1	we	*	*
+cnn_0359	0	2	said	*	*
+cnn_0359	0	3	,	*	*
+cnn_0359	0	4	earlier	*	*
+cnn_0359	0	5	this	*	*
+cnn_0359	0	6	week	*	*
+cnn_0359	0	7	,	*	*
+cnn_0359	0	8	Christine	*	*
+cnn_0359	0	9	Todd	*	*
+cnn_0359	0	10	Whitman	*	*
+cnn_0359	0	11	stepped	*	*
+cnn_0359	0	12	down	*	*
+cnn_0359	0	13	and	*	*
+cnn_0359	0	14	now	*	*
+cnn_0359	0	15	a	*	*
+cnn_0359	0	16	whole	*	*
+cnn_0359	0	17	lot	*	*
+cnn_0359	0	18	of	*	*
+cnn_0359	0	19	analysis	*	*
+cnn_0359	0	20	is	*	*
+cnn_0359	0	21	taking	*	*
+cnn_0359	0	22	place	*	*
+cnn_0359	0	23	as	*	*
+cnn_0359	0	24	to	*	*
+cnn_0359	0	25	why	*	*
+cnn_0359	0	26	she	*	*
+cnn_0359	0	27	stepped	*	*
+cnn_0359	0	28	down	*	*
+cnn_0359	0	29	,	*	*
+cnn_0359	0	30	the	*	*
+cnn_0359	0	31	job	*	*
+cnn_0359	0	32	she	*	*
+cnn_0359	0	33	's	*	*
+cnn_0359	0	34	done	*	*
+cnn_0359	0	35	when	*	*
+cnn_0359	0	36	she	*	*
+cnn_0359	0	37	was	*	*
+cnn_0359	0	38	in	*	*
+cnn_0359	0	39	office	*	*
+cnn_0359	0	40	and	*	*
+cnn_0359	0	41	the	*	*
+cnn_0359	0	42	job	*	*
+cnn_0359	0	43	that	(ARG1*)	(ARG1*)
+cnn_0359	0	44	has	*	*
+cnn_0359	0	45	yet	*	*
+cnn_0359	0	46	to	*	*
+cnn_0359	0	47	be	(V*)	(V*)
+cnn_0359	0	48	complete	(ARG2*)	(ARG2*)
+cnn_0359	0	49	.	*	*
+
+cnn_0359	0	0	From	-
+cnn_0359	0	1	our	(7)
+cnn_0359	0	2	New	-
+cnn_0359	0	3	York	-
+cnn_0359	0	4	bureau	-
+cnn_0359	0	5	as	-
+cnn_0359	0	6	I	-
+cnn_0359	0	7	was	-
+cnn_0359	0	8	introducing	-
+cnn_0359	0	9	a	-
+cnn_0359	0	10	moment	-
+cnn_0359	0	11	ago	-
+cnn_0359	0	12	,	-
+cnn_0359	0	13	Dan	(9
+cnn_0359	0	14	Fagen	-
+cnn_0359	0	15	,	-
+cnn_0359	0	16	the	-
+cnn_0359	0	17	environment	-
+cnn_0359	0	18	writer	-
+cnn_0359	0	19	for	-
+cnn_0359	0	20	News	-
+cnn_0359	0	21	Day	9)
+cnn_0359	0	22	.	-
+
+cnn_0359	0	0	and	-
+cnn_0359	0	1	Dan	(9)
+cnn_0359	0	2	,	-
+cnn_0359	0	3	Whitman	(8)
+cnn_0359	0	4	did	-
+cnn_0359	0	5	consider	-
+cnn_0359	0	6	herself	(8)
+cnn_0359	0	7	sort	-
+cnn_0359	0	8	of	-
+cnn_0359	0	9	the	-
+cnn_0359	0	10	Republican	-
+cnn_0359	0	11	environmentalist	-
+cnn_0359	0	12	,	-
+cnn_0359	0	13	but	-
+cnn_0359	0	14	now	-
+cnn_0359	0	15	there	-
+cnn_0359	0	16	's	-
+cnn_0359	0	17	been	-
+cnn_0359	0	18	an	-
+cnn_0359	0	19	awful	-
+cnn_0359	0	20	lot	-
+cnn_0359	0	21	of	-
+cnn_0359	0	22	Monday	-
+cnn_0359	0	23	night	-
+cnn_0359	0	24	quarterback	-
+cnn_0359	0	25	quarterbacking	-
+cnn_0359	0	26	taking	-
+cnn_0359	0	27	place	-
+cnn_0359	0	28	now	-
+cnn_0359	0	29	that	-
+cnn_0359	0	30	she	(8)
+cnn_0359	0	31	's	-
+cnn_0359	0	32	stepped	-
+cnn_0359	0	33	down	-
+cnn_0359	0	34	.	-
+
+cnn_0359	0	0	What	-
+cnn_0359	0	1	do	-
+cnn_0359	0	2	you	(9)
+cnn_0359	0	3	suppose	-
+cnn_0359	0	4	took	-
+cnn_0359	0	5	place	-
+cnn_0359	0	6	here	-
+cnn_0359	0	7	?	-
+
+cnn_0359	0	0	I	(9)
+cnn_0359	0	1	think	-
+cnn_0359	0	2	many	-
+cnn_0359	0	3	people	-
+cnn_0359	0	4	have	-
+cnn_0359	0	5	watched	-
+cnn_0359	0	6	this	(10
+cnn_0359	0	7	administration	10)
+cnn_0359	0	8	in	-
+cnn_0359	0	9	action	-
+cnn_0359	0	10	and	-
+cnn_0359	0	11	watched	-
+cnn_0359	0	12	Christy	(8
+cnn_0359	0	13	Whitman	8)
+cnn_0359	0	14	in	-
+cnn_0359	0	15	action	-
+cnn_0359	0	16	.	-
+
+cnn_0359	0	0	The	-
+cnn_0359	0	1	mystery	-
+cnn_0359	0	2	is	-
+cnn_0359	0	3	that	-
+cnn_0359	0	4	she	(8)
+cnn_0359	0	5	took	-
+cnn_0359	0	6	the	-
+cnn_0359	0	7	job	-
+cnn_0359	0	8	in	-
+cnn_0359	0	9	the	-
+cnn_0359	0	10	first	-
+cnn_0359	0	11	place	-
+cnn_0359	0	12	or	-
+cnn_0359	0	13	did	-
+cnn_0359	0	14	n't	-
+cnn_0359	0	15	leave	-
+cnn_0359	0	16	earlier	-
+cnn_0359	0	17	.	-
+
+cnn_0359	0	0	She	(8)
+cnn_0359	0	1	was	(1)
+cnn_0359	0	2	quite	-
+cnn_0359	0	3	a	-
+cnn_0359	0	4	misfit	-
+cnn_0359	0	5	for	-
+cnn_0359	0	6	this	(10
+cnn_0359	0	7	administration	10)
+cnn_0359	0	8	,	-
+cnn_0359	0	9	and	-
+cnn_0359	0	10	she	(8)
+cnn_0359	0	11	showed	-
+cnn_0359	0	12	that	(1)
+cnn_0359	0	13	over	-
+cnn_0359	0	14	and	-
+cnn_0359	0	15	over	-
+cnn_0359	0	16	.	-
+
+cnn_0359	0	0	She	(8)
+cnn_0359	0	1	was	-
+cnn_0359	0	2	not	-
+cnn_0359	0	3	good	-
+cnn_0359	0	4	at	-
+cnn_0359	0	5	all	-
+cnn_0359	0	6	at	-
+cnn_0359	0	7	communicating	-
+cnn_0359	0	8	the	(10
+cnn_0359	0	9	administration	-
+cnn_0359	0	10	's	10)
+cnn_0359	0	11	message	-
+cnn_0359	0	12	to	-
+cnn_0359	0	13	the	-
+cnn_0359	0	14	public	-
+cnn_0359	0	15	and	-
+cnn_0359	0	16	certainly	-
+cnn_0359	0	17	to	-
+cnn_0359	0	18	the	-
+cnn_0359	0	19	environmental	-
+cnn_0359	0	20	groups	-
+cnn_0359	0	21	and	-
+cnn_0359	0	22	she	(8)
+cnn_0359	0	23	was	-
+cnn_0359	0	24	even	-
+cnn_0359	0	25	worse	-
+cnn_0359	0	26	at	-
+cnn_0359	0	27	bringing	-
+cnn_0359	0	28	the	-
+cnn_0359	0	29	EPA	(0)
+cnn_0359	0	30	bureaucracy	-
+cnn_0359	0	31	,	-
+cnn_0359	0	32	the	-
+cnn_0359	0	33	EPA	(0)
+cnn_0359	0	34	environmental	-
+cnn_0359	0	35	policy	-
+cnn_0359	0	36	makers	-
+cnn_0359	0	37	'	-
+cnn_0359	0	38	message	-
+cnn_0359	0	39	to	-
+cnn_0359	0	40	this	(10
+cnn_0359	0	41	administration	10)
+cnn_0359	0	42	because	-
+cnn_0359	0	43	she	(8)
+cnn_0359	0	44	saw	-
+cnn_0359	0	45	herself	(8)
+cnn_0359	0	46	undercut	-
+cnn_0359	0	47	over	-
+cnn_0359	0	48	and	-
+cnn_0359	0	49	over	-
+cnn_0359	0	50	.	-
+
+cnn_0359	0	0	That	-	-
+cnn_0359	0	1	's	-	-
+cnn_0359	0	2	interesting	-	-
+cnn_0359	0	3	because	-	-
+cnn_0359	0	4	leading	-	-
+cnn_0359	0	5	into	-	-
+cnn_0359	0	6	it	-	-
+cnn_0359	0	7	,	-	-
+cnn_0359	0	8	while	-	-
+cnn_0359	0	9	she	(8)	(8)
+cnn_0359	0	10	was	-	-
+cnn_0359	0	11	New	-	-
+cnn_0359	0	12	Jersey	-	-
+cnn_0359	0	13	governor	-	-
+cnn_0359	0	14	,	-	-
+cnn_0359	0	15	she	(8)	(8)
+cnn_0359	0	16	sued	-	-
+cnn_0359	0	17	the	(0	(0
+cnn_0359	0	18	EPA	0)	0)
+cnn_0359	0	19	and	-	-
+cnn_0359	0	20	she	(8)	(8)
+cnn_0359	0	21	was	-	-
+cnn_0359	0	22	very	-	-
+cnn_0359	0	23	much	-	-
+cnn_0359	0	24	considering	-	-
+cnn_0359	0	25	herself	(8)	(8)
+cnn_0359	0	26	to	-	-
+cnn_0359	0	27	be	-	-
+cnn_0359	0	28	an	-	-
+cnn_0359	0	29	environmentalist	-	-
+cnn_0359	0	30	,	-	-
+cnn_0359	0	31	and	-	-
+cnn_0359	0	32	then	-	-
+cnn_0359	0	33	only	-	-
+cnn_0359	0	34	to	-	-
+cnn_0359	0	35	end	-	-
+cnn_0359	0	36	up	-	-
+cnn_0359	0	37	becoming	-	-
+cnn_0359	0	38	the	-	-
+cnn_0359	0	39	head	-	-
+cnn_0359	0	40	of	-	-
+cnn_0359	0	41	the	(0	(0
+cnn_0359	0	42	EPA	0)	0)
+cnn_0359	0	43	and	-	-
+cnn_0359	0	44	then	-	-
+cnn_0359	0	45	of	-	-
+cnn_0359	0	46	course	-	-
+cnn_0359	0	47	,	-	-
+cnn_0359	0	48	there	-	-
+cnn_0359	0	49	was	-	-
+cnn_0359	0	50	a	-	-
+cnn_0359	0	51	lot	-	-
+cnn_0359	0	52	of	-	-
+cnn_0359	0	53	criticism	-	-
+cnn_0359	0	54	over	-	-
+cnn_0359	0	55	relaxed	-	-
+cnn_0359	0	56	regulations	-	-
+cnn_0359	0	57	.	-	-
+
+cnn_0359	0	0	Let	-
+cnn_0359	0	1	's	(7)
+cnn_0359	0	2	hear	-
+cnn_0359	0	3	what	-
+cnn_0359	0	4	she	(8)
+cnn_0359	0	5	had	-
+cnn_0359	0	6	to	-
+cnn_0359	0	7	say	-
+cnn_0359	0	8	last	-
+cnn_0359	0	9	Wednesday	-
+cnn_0359	0	10	here	-
+cnn_0359	0	11	on	-
+cnn_0359	0	12	CNN	-
+cnn_0359	0	13	just	-
+cnn_0359	0	14	after	-
+cnn_0359	0	15	announcing	-
+cnn_0359	0	16	her	(6|(8)
+cnn_0359	0	17	resignation	6)
+cnn_0359	0	18	.	-
+
+cnn_0359	0	0	I	(8)
+cnn_0359	0	1	'm	-
+cnn_0359	0	2	not	-
+cnn_0359	0	3	leaving	-
+cnn_0359	0	4	because	-
+cnn_0359	0	5	of	-
+cnn_0359	0	6	clashes	-
+cnn_0359	0	7	with	-
+cnn_0359	0	8	the	(10
+cnn_0359	0	9	administration	10)
+cnn_0359	0	10	,	-
+cnn_0359	0	11	in	-
+cnn_0359	0	12	fact	-
+cnn_0359	0	13	,	-
+cnn_0359	0	14	I	(8)
+cnn_0359	0	15	have	-
+cnn_0359	0	16	n't	-
+cnn_0359	0	17	had	-
+cnn_0359	0	18	any	-
+cnn_0359	0	19	.	-
+
+cnn_0359	0	0	I	(8)
+cnn_0359	0	1	report	-
+cnn_0359	0	2	to	-
+cnn_0359	0	3	the	(11
+cnn_0359	0	4	President	11)
+cnn_0359	0	5	,	-
+cnn_0359	0	6	and	-
+cnn_0359	0	7	he	(11)
+cnn_0359	0	8	has	-
+cnn_0359	0	9	always	-
+cnn_0359	0	10	asked	-
+cnn_0359	0	11	me	(8)
+cnn_0359	0	12	to	-
+cnn_0359	0	13	give	-
+cnn_0359	0	14	him	(11)
+cnn_0359	0	15	my	(8)
+cnn_0359	0	16	best	-
+cnn_0359	0	17	unadulterated	-
+cnn_0359	0	18	advice	-
+cnn_0359	0	19	.	-
+
+cnn_0359	0	0	We	-
+cnn_0359	0	1	have	-
+cnn_0359	0	2	have	-
+cnn_0359	0	3	been	-
+cnn_0359	0	4	on	-
+cnn_0359	0	5	the	(2
+cnn_0359	0	6	same	-
+cnn_0359	0	7	page	2)
+cnn_0359	0	8	.	-
+
+cnn_0359	0	0	I	(8)
+cnn_0359	0	1	was	-
+cnn_0359	0	2	never	-
+cnn_0359	0	3	supportive	-
+cnn_0359	0	4	of	-
+cnn_0359	0	5	protocol	(5)
+cnn_0359	0	6	because	-
+cnn_0359	0	7	it	(5)
+cnn_0359	0	8	did	-
+cnn_0359	0	9	n't	-
+cnn_0359	0	10	do	-
+cnn_0359	0	11	what	-
+cnn_0359	0	12	everyone	-
+cnn_0359	0	13	needs	-
+cnn_0359	0	14	to	-
+cnn_0359	0	15	get	-
+cnn_0359	0	16	done	-
+cnn_0359	0	17	as	-
+cnn_0359	0	18	far	-
+cnn_0359	0	19	as	-
+cnn_0359	0	20	climate	-
+cnn_0359	0	21	change	-
+cnn_0359	0	22	is	-
+cnn_0359	0	23	concerned	-
+cnn_0359	0	24	.	-
+
+cnn_0359	0	0	I	(8)
+cnn_0359	0	1	'm	-
+cnn_0359	0	2	leaving	(6)
+cnn_0359	0	3	now	-
+cnn_0359	0	4	because	-
+cnn_0359	0	5	it	-
+cnn_0359	0	6	's	(3)
+cnn_0359	0	7	the	(4
+cnn_0359	0	8	appropriate	-
+cnn_0359	0	9	time	-
+cnn_0359	0	10	to	-
+cnn_0359	0	11	do	-
+cnn_0359	0	12	it	(6)|4)
+cnn_0359	0	13	.	-
+
+cnn_0359	0	0	Dan	(9)
+cnn_0359	0	1	,	-
+cnn_0359	0	2	do	-
+cnn_0359	0	3	you	(9)
+cnn_0359	0	4	agree	-
+cnn_0359	0	5	with	-
+cnn_0359	0	6	that	(3)
+cnn_0359	0	7	?	-
+
+cnn_0359	0	0	She	(8)
+cnn_0359	0	1	says	-
+cnn_0359	0	2	the	(4
+cnn_0359	0	3	appropriate	-
+cnn_0359	0	4	time	4)
+cnn_0359	0	5	.	-
+
+cnn_0359	0	0	Do	-
+cnn_0359	0	1	you	(9)
+cnn_0359	0	2	suppose	-
+cnn_0359	0	3	for	-
+cnn_0359	0	4	personal	-
+cnn_0359	0	5	reasons	-
+cnn_0359	0	6	or	-
+cnn_0359	0	7	perhaps	-
+cnn_0359	0	8	she	(8)
+cnn_0359	0	9	was	-
+cnn_0359	0	10	out	-
+cnn_0359	0	11	of	-
+cnn_0359	0	12	step	-
+cnn_0359	0	13	with	-
+cnn_0359	0	14	the	(10
+cnn_0359	0	15	administration	10)
+cnn_0359	0	16	?	-
+
+cnn_0359	0	0	I	(9)	(9)
+cnn_0359	0	1	'm	-	-
+cnn_0359	0	2	sure	-	-
+cnn_0359	0	3	that	-	-
+cnn_0359	0	4	it	-	-
+cnn_0359	0	5	was	-	-
+cnn_0359	0	6	difficult	-	-
+cnn_0359	0	7	for	-	-
+cnn_0359	0	8	her	(8	(8
+cnn_0359	0	9	personally	8)	8)
+cnn_0359	0	10	,	-	-
+cnn_0359	0	11	but	-	-
+cnn_0359	0	12	I	(9)	(9)
+cnn_0359	0	13	think	-	-
+cnn_0359	0	14	the	-	-
+cnn_0359	0	15	commuter	-	-
+cnn_0359	0	16	marriage	-	-
+cnn_0359	0	17	perhaps	-	-
+cnn_0359	0	18	would	-	-
+cnn_0359	0	19	have	-	-
+cnn_0359	0	20	been	-	-
+cnn_0359	0	21	less	-	-
+cnn_0359	0	22	stressful	-	-
+cnn_0359	0	23	if	-	-
+cnn_0359	0	24	everyday	-	-
+cnn_0359	0	25	she	(8)	(8)
+cnn_0359	0	26	did	-	-
+cnn_0359	0	27	n't	-	-
+cnn_0359	0	28	see	-	-
+cnn_0359	0	29	herself	(8)	(8)
+cnn_0359	0	30	being	-	-
+cnn_0359	0	31	undermined	-	-
+cnn_0359	0	32	and	-	-
+cnn_0359	0	33	overruled	-	-
+cnn_0359	0	34	.	-	-
+
+cnn_0359	0	0	I	(9)
+cnn_0359	0	1	mean	-
+cnn_0359	0	2	if	-
+cnn_0359	0	3	Christy	(8
+cnn_0359	0	4	Whitman	8)
+cnn_0359	0	5	and	-
+cnn_0359	0	6	the	-
+cnn_0359	0	7	White	-
+cnn_0359	0	8	House	-
+cnn_0359	0	9	were	-
+cnn_0359	0	10	on	-
+cnn_0359	0	11	the	(2
+cnn_0359	0	12	same	-
+cnn_0359	0	13	page	2)
+cnn_0359	0	14	,	-
+cnn_0359	0	15	I	(9)
+cnn_0359	0	16	do	-
+cnn_0359	0	17	n't	-
+cnn_0359	0	18	think	-
+cnn_0359	0	19	I	(9)
+cnn_0359	0	20	've	-
+cnn_0359	0	21	seen	-
+cnn_0359	0	22	a	-
+cnn_0359	0	23	book	-
+cnn_0359	0	24	large	-
+cnn_0359	0	25	enough	-
+cnn_0359	0	26	to	-
+cnn_0359	0	27	contain	-
+cnn_0359	0	28	a	-
+cnn_0359	0	29	page	-
+cnn_0359	0	30	that	-
+cnn_0359	0	31	big	-
+cnn_0359	0	32	.	-
+
+cnn_0359	0	0	Over	-
+cnn_0359	0	1	and	-
+cnn_0359	0	2	over	-
+cnn_0359	0	3	there	-
+cnn_0359	0	4	were	-
+cnn_0359	0	5	many	-
+cnn_0359	0	6	,	-
+cnn_0359	0	7	many	-
+cnn_0359	0	8	instances	-
+cnn_0359	0	9	over	-
+cnn_0359	0	10	the	-
+cnn_0359	0	11	last	-
+cnn_0359	0	12	--	-
+
+#end document

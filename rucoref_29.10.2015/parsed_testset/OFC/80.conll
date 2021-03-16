@@ -1,0 +1,1004 @@
+# newdoc id = 72ca644b-59e3-4290-9de7-e15f986b4bf9
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p1
+# par_text = Профессиональный педагог и учитель в Эквадоре считается обслуживающим персоналом , работает по инструкциям и отвечает на телефонные звонки в отсутствие телефонистки .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p1-s1
+# text = Профессиональный педагог и учитель в Эквадоре считается обслуживающим персоналом, работает по инструкциям и отвечает на телефонные звонки в отсутствие телефонистки.
+1	Профессиональный	_	_	_	_	_	_	_	Shift=0
+2	педагог	_	_	_	_	_	_	_	Shift=17
+3	и	_	_	_	_	_	_	_	Shift=25
+4	учитель	_	_	_	_	_	_	_	Shift=27
+5	в	_	_	_	_	_	_	_	Shift=35
+6	Эквадоре	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2553|RuCor_group_id=471275|RuCor_link_id=0|Shift=37
+7	считается	_	_	_	_	_	_	_	Shift=46
+8	обслуживающим	_	_	_	_	_	_	_	Shift=56
+9	персоналом	_	_	_	_	_	_	_	Shift=70|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=81
+11	работает	_	_	_	_	_	_	_	Shift=83
+12	по	_	_	_	_	_	_	_	Shift=92
+13	инструкциям	_	_	_	_	_	_	_	Shift=95
+14	и	_	_	_	_	_	_	_	Shift=107
+15	отвечает	_	_	_	_	_	_	_	Shift=109
+16	на	_	_	_	_	_	_	_	Shift=118
+17	телефонные	_	_	_	_	_	_	_	Shift=121
+18	звонки	_	_	_	_	_	_	_	Shift=132
+19	в	_	_	_	_	_	_	_	Shift=139
+20	отсутствие	_	_	_	_	_	_	_	Shift=141
+21	телефонистки	_	_	_	_	_	_	_	Shift=152|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=165
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p2
+# par_text = О своем опыте переезда в другую страну пишет наш корреспондент из Латинской Америки .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p2-s1
+# text = О своем опыте переезда в другую страну пишет наш корреспондент из Латинской Америки.
+1	О	_	_	_	_	_	_	_	Shift=167
+2	своем	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471276|RuCor_link_id=0|Shift=169
+3	опыте	_	_	_	_	_	_	_	Shift=175
+4	переезда	_	_	_	_	_	_	_	Shift=181
+5	в	_	_	_	_	_	_	_	Shift=190
+6	другую	_	_	_	_	_	_	_	Shift=192
+7	страну	_	_	_	_	_	_	_	Shift=199
+8	пишет	_	_	_	_	_	_	_	Shift=206
+9	наш	_	_	_	_	_	_	_	RuCor_chain_id=2554|RuCor_group_id=471277|Shift=212
+10	корреспондент	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471277|RuCor_link_id=471276|Shift=216
+11	из	_	_	_	_	_	_	_	RuCor_chain_id=2554|RuCor_group_id=471277|Shift=230
+12	Латинской	_	_	_	_	_	_	_	RuCor_chain_id=2554|RuCor_group_id=471277|Shift=233
+13	Америки	_	_	_	_	_	_	_	RuCor_chain_id=2554|RuCor_group_id=471277|Shift=243|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=251
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p3
+# par_text = Общаясь с русскими в Эквадоре , я понимаю , что каждый из нас имеет свой особенный опыт адаптации .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p3-s1
+# text = Общаясь с русскими в Эквадоре, я понимаю, что каждый из нас имеет свой особенный опыт адаптации.
+1	Общаясь	_	_	_	_	_	_	_	Shift=253
+2	с	_	_	_	_	_	_	_	Shift=261
+3	русскими	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2555|RuCor_group_id=471278|RuCor_link_id=0|Shift=263
+4	в	_	_	_	_	_	_	_	Shift=272
+5	Эквадоре	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2553|RuCor_group_id=471279|RuCor_link_id=471275|Shift=274|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=283
+7	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471280|RuCor_link_id=471277|Shift=285
+8	понимаю	_	_	_	_	_	_	_	Shift=287|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=295
+10	что	_	_	_	_	_	_	_	Shift=297
+11	каждый	_	_	_	_	_	_	_	Shift=301
+12	из	_	_	_	_	_	_	_	Shift=308
+13	нас	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2555|RuCor_group_id=471281|RuCor_link_id=471278|Shift=311
+14	имеет	_	_	_	_	_	_	_	Shift=315
+15	свой	_	_	_	_	_	_	_	Shift=321
+16	особенный	_	_	_	_	_	_	_	Shift=326
+17	опыт	_	_	_	_	_	_	_	Shift=336
+18	адаптации	_	_	_	_	_	_	_	Shift=341|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=351
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p4
+# par_text = Выйдя замуж за эквадорца и собираясь к отъезду из России , я боялась не столько встречи с другой культурой , сколько смены социальной роли .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p4-s1
+# text = Выйдя замуж за эквадорца и собираясь к отъезду из России, я боялась не столько встречи с другой культурой, сколько смены социальной роли.
+1	Выйдя	_	_	_	_	_	_	_	Shift=353
+2	замуж	_	_	_	_	_	_	_	Shift=359
+3	за	_	_	_	_	_	_	_	Shift=365
+4	эквадорца	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2556|RuCor_group_id=471282|RuCor_link_id=0|Shift=368
+5	и	_	_	_	_	_	_	_	Shift=378
+6	собираясь	_	_	_	_	_	_	_	Shift=380
+7	к	_	_	_	_	_	_	_	Shift=390
+8	отъезду	_	_	_	_	_	_	_	Shift=392
+9	из	_	_	_	_	_	_	_	Shift=400
+10	России	_	_	_	_	_	_	_	Shift=403|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=410
+12	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471283|RuCor_link_id=471280|Shift=412
+13	боялась	_	_	_	_	_	_	_	Shift=414
+14	не	_	_	_	_	_	_	_	Shift=422
+15	столько	_	_	_	_	_	_	_	Shift=425
+16	встречи	_	_	_	_	_	_	_	Shift=433
+17	с	_	_	_	_	_	_	_	Shift=441
+18	другой	_	_	_	_	_	_	_	Shift=443
+19	культурой	_	_	_	_	_	_	_	Shift=450|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=460
+21	сколько	_	_	_	_	_	_	_	Shift=462
+22	смены	_	_	_	_	_	_	_	Shift=470
+23	социальной	_	_	_	_	_	_	_	Shift=476
+24	роли	_	_	_	_	_	_	_	Shift=487|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=492
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p5
+# par_text = Ведь переезд в другую страну означал отказ от карьеры во имя неясной перспективы начать всё с нуля .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p5-s1
+# text = Ведь переезд в другую страну означал отказ от карьеры во имя неясной перспективы начать всё с нуля.
+1	Ведь	_	_	_	_	_	_	_	Shift=494
+2	переезд	_	_	_	_	_	_	_	Shift=499
+3	в	_	_	_	_	_	_	_	Shift=507
+4	другую	_	_	_	_	_	_	_	Shift=509
+5	страну	_	_	_	_	_	_	_	Shift=516
+6	означал	_	_	_	_	_	_	_	Shift=523
+7	отказ	_	_	_	_	_	_	_	Shift=531
+8	от	_	_	_	_	_	_	_	Shift=537
+9	карьеры	_	_	_	_	_	_	_	Shift=540
+10	во	_	_	_	_	_	_	_	Shift=548
+11	имя	_	_	_	_	_	_	_	Shift=551
+12	неясной	_	_	_	_	_	_	_	Shift=555
+13	перспективы	_	_	_	_	_	_	_	Shift=563
+14	начать	_	_	_	_	_	_	_	Shift=575
+15	всё	_	_	_	_	_	_	_	Shift=582
+16	с	_	_	_	_	_	_	_	Shift=586
+17	нуля	_	_	_	_	_	_	_	Shift=588|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=593
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p6
+# par_text = В момент отъезда мне было 29 лет .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p6-s1
+# text = В момент отъезда мне было 29 лет.
+1	В	_	_	_	_	_	_	_	Shift=595
+2	момент	_	_	_	_	_	_	_	Shift=597
+3	отъезда	_	_	_	_	_	_	_	Shift=604
+4	мне	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471284|RuCor_link_id=471283|Shift=612
+5	было	_	_	_	_	_	_	_	Shift=616
+6	29	_	_	_	_	_	_	_	Shift=621
+7	лет	_	_	_	_	_	_	_	Shift=624|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=628
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p7
+# par_text = Я считала себя состоявшимся профессионалом с репутацией , обеспечивающей постоянное поступление интересных предложений , с кучей проектов в голове и хорошим заработком .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p7-s1
+# text = Я считала себя состоявшимся профессионалом с репутацией, обеспечивающей постоянное поступление интересных предложений, с кучей проектов в голове и хорошим заработком.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471285|RuCor_link_id=471284|Shift=630
+2	считала	_	_	_	_	_	_	_	Shift=632
+3	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471286|RuCor_link_id=471285|Shift=640
+4	состоявшимся	_	_	_	_	_	_	_	Shift=645
+5	профессионалом	_	_	_	_	_	_	_	Shift=658
+6	с	_	_	_	_	_	_	_	Shift=673
+7	репутацией	_	_	_	_	_	_	_	Shift=675|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=686
+9	обеспечивающей	_	_	_	_	_	_	_	Shift=688
+10	постоянное	_	_	_	_	_	_	_	Shift=703
+11	поступление	_	_	_	_	_	_	_	Shift=714
+12	интересных	_	_	_	_	_	_	_	Shift=726
+13	предложений	_	_	_	_	_	_	_	Shift=737|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=749
+15	с	_	_	_	_	_	_	_	Shift=751
+16	кучей	_	_	_	_	_	_	_	Shift=753
+17	проектов	_	_	_	_	_	_	_	Shift=759
+18	в	_	_	_	_	_	_	_	Shift=768
+19	голове	_	_	_	_	_	_	_	Shift=770
+20	и	_	_	_	_	_	_	_	Shift=777
+21	хорошим	_	_	_	_	_	_	_	Shift=779
+22	заработком	_	_	_	_	_	_	_	Shift=787|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=798
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p8
+# par_text = В Москве я занималась языковыми тренингами в компаниях и у меня была любимая работа в университете .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p8-s1
+# text = В Москве я занималась языковыми тренингами в компаниях и у меня была любимая работа в университете.
+1	В	_	_	_	_	_	_	_	Shift=800
+2	Москве	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2557|RuCor_group_id=471287|RuCor_link_id=0|Shift=802
+3	я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471288|RuCor_link_id=471286|Shift=809
+4	занималась	_	_	_	_	_	_	_	Shift=811
+5	языковыми	_	_	_	_	_	_	_	Shift=822
+6	тренингами	_	_	_	_	_	_	_	Shift=832
+7	в	_	_	_	_	_	_	_	Shift=843
+8	компаниях	_	_	_	_	_	_	_	Shift=845
+9	и	_	_	_	_	_	_	_	Shift=855
+10	у	_	_	_	_	_	_	_	Shift=857
+11	меня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471289|RuCor_link_id=471288|Shift=859
+12	была	_	_	_	_	_	_	_	Shift=864
+13	любимая	_	_	_	_	_	_	_	Shift=869
+14	работа	_	_	_	_	_	_	_	Shift=877
+15	в	_	_	_	_	_	_	_	Shift=884
+16	университете	_	_	_	_	_	_	_	Shift=886|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=899
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p9
+# par_text = Я привыкла к яркой , насыщенной столичной жизни , к тому , чтобы иметь широкий круг общения и быть в центре событий .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p9-s1
+# text = Я привыкла к яркой, насыщенной столичной жизни, к тому, чтобы иметь широкий круг общения и быть в центре событий.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471290|RuCor_link_id=471289|Shift=901
+2	привыкла	_	_	_	_	_	_	_	Shift=903
+3	к	_	_	_	_	_	_	_	Shift=912
+4	яркой	_	_	_	_	_	_	_	Shift=914|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=920
+6	насыщенной	_	_	_	_	_	_	_	Shift=922
+7	столичной	_	_	_	_	_	_	_	Shift=933
+8	жизни	_	_	_	_	_	_	_	Shift=943|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=949
+10	к	_	_	_	_	_	_	_	Shift=951
+11	тому	_	_	_	_	_	_	_	Shift=953|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=958
+13	чтобы	_	_	_	_	_	_	_	Shift=960
+14	иметь	_	_	_	_	_	_	_	Shift=966
+15	широкий	_	_	_	_	_	_	_	Shift=972
+16	круг	_	_	_	_	_	_	_	Shift=980
+17	общения	_	_	_	_	_	_	_	Shift=985
+18	и	_	_	_	_	_	_	_	Shift=993
+19	быть	_	_	_	_	_	_	_	Shift=995
+20	в	_	_	_	_	_	_	_	Shift=1000
+21	центре	_	_	_	_	_	_	_	Shift=1002
+22	событий	_	_	_	_	_	_	_	Shift=1009|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=1017
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p10
+# par_text = Работа всегда была для меня главным критерием самооценки .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p10-s1
+# text = Работа всегда была для меня главным критерием самооценки.
+1	Работа	_	_	_	_	_	_	_	Shift=1019
+2	всегда	_	_	_	_	_	_	_	Shift=1026
+3	была	_	_	_	_	_	_	_	Shift=1033
+4	для	_	_	_	_	_	_	_	Shift=1038
+5	меня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471291|RuCor_link_id=471290|Shift=1042
+6	главным	_	_	_	_	_	_	_	Shift=1047
+7	критерием	_	_	_	_	_	_	_	Shift=1055
+8	самооценки	_	_	_	_	_	_	_	Shift=1065|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=1076
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p11
+# par_text = С первых дней на новом месте я испытала чувство паники .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p11-s1
+# text = С первых дней на новом месте я испытала чувство паники.
+1	С	_	_	_	_	_	_	_	Shift=1078
+2	первых	_	_	_	_	_	_	_	Shift=1080
+3	дней	_	_	_	_	_	_	_	Shift=1087
+4	на	_	_	_	_	_	_	_	Shift=1092
+5	новом	_	_	_	_	_	_	_	Shift=1095
+6	месте	_	_	_	_	_	_	_	Shift=1101
+7	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471292|RuCor_link_id=471291|Shift=1107
+8	испытала	_	_	_	_	_	_	_	Shift=1109
+9	чувство	_	_	_	_	_	_	_	Shift=1118
+10	паники	_	_	_	_	_	_	_	Shift=1126|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=1133
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p12
+# par_text = Мой муж в то время был вынужден проводить по 14 часов в сутки на работе , и я сидела одна дома до позднего вечера .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p12-s1
+# text = Мой муж в то время был вынужден проводить по 14 часов в сутки на работе, и я сидела одна дома до позднего вечера.
+1	Мой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471294|RuCor_link_id=471292|Shift=1135
+2	муж	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2556|RuCor_group_id=471293|RuCor_link_id=471282|Shift=1139
+3	в	_	_	_	_	_	_	_	Shift=1143
+4	то	_	_	_	_	_	_	_	Shift=1145
+5	время	_	_	_	_	_	_	_	Shift=1148
+6	был	_	_	_	_	_	_	_	Shift=1154
+7	вынужден	_	_	_	_	_	_	_	Shift=1158
+8	проводить	_	_	_	_	_	_	_	Shift=1167
+9	по	_	_	_	_	_	_	_	Shift=1177
+10	14	_	_	_	_	_	_	_	Shift=1180
+11	часов	_	_	_	_	_	_	_	Shift=1183
+12	в	_	_	_	_	_	_	_	Shift=1189
+13	сутки	_	_	_	_	_	_	_	Shift=1191
+14	на	_	_	_	_	_	_	_	Shift=1197
+15	работе	_	_	_	_	_	_	_	Shift=1200|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=1207
+17	и	_	_	_	_	_	_	_	Shift=1209
+18	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471295|RuCor_link_id=471294|Shift=1211
+19	сидела	_	_	_	_	_	_	_	Shift=1213
+20	одна	_	_	_	_	_	_	_	Shift=1220
+21	дома	_	_	_	_	_	_	_	Shift=1225
+22	до	_	_	_	_	_	_	_	Shift=1230
+23	позднего	_	_	_	_	_	_	_	Shift=1233
+24	вечера	_	_	_	_	_	_	_	Shift=1242|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=1249
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p13
+# par_text = Куда-либо самостоятельно выехать для меня было затруднительно , так как водить машину я не умела , а общественный транспорт здесь не очень развит .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p13-s1
+# text = Куда-либо самостоятельно выехать для меня было затруднительно, так как водить машину я не умела, а общественный транспорт здесь не очень развит.
+1	Куда-либо	_	_	_	_	_	_	_	Shift=1251
+2	самостоятельно	_	_	_	_	_	_	_	Shift=1261
+3	выехать	_	_	_	_	_	_	_	Shift=1276
+4	для	_	_	_	_	_	_	_	Shift=1284
+5	меня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471296|RuCor_link_id=471295|Shift=1288
+6	было	_	_	_	_	_	_	_	Shift=1293
+7	затруднительно	_	_	_	_	_	_	_	Shift=1298|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1313
+9	так	_	_	_	_	_	_	_	Shift=1315
+10	как	_	_	_	_	_	_	_	Shift=1319
+11	водить	_	_	_	_	_	_	_	Shift=1323
+12	машину	_	_	_	_	_	_	_	Shift=1330
+13	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471297|RuCor_link_id=471296|Shift=1337
+14	не	_	_	_	_	_	_	_	Shift=1339
+15	умела	_	_	_	_	_	_	_	Shift=1342|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=1348
+17	а	_	_	_	_	_	_	_	Shift=1350
+18	общественный	_	_	_	_	_	_	_	Shift=1352
+19	транспорт	_	_	_	_	_	_	_	Shift=1365
+20	здесь	_	_	_	_	_	_	_	Shift=1375
+21	не	_	_	_	_	_	_	_	Shift=1381
+22	очень	_	_	_	_	_	_	_	Shift=1384
+23	развит	_	_	_	_	_	_	_	Shift=1390|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=1397
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p14
+# par_text = Это отсутствие свободы передвижения действовало удручающе .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p14-s1
+# text = Это отсутствие свободы передвижения действовало удручающе.
+1	Это	_	_	_	_	_	_	_	Shift=1399
+2	отсутствие	_	_	_	_	_	_	_	Shift=1403
+3	свободы	_	_	_	_	_	_	_	Shift=1414
+4	передвижения	_	_	_	_	_	_	_	Shift=1422
+5	действовало	_	_	_	_	_	_	_	Shift=1435
+6	удручающе	_	_	_	_	_	_	_	Shift=1447|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=1457
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p15
+# par_text = Однажды я бесцельно бродила по своему району и зашла в ресторанчик .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p15-s1
+# text = Однажды я бесцельно бродила по своему району и зашла в ресторанчик.
+1	Однажды	_	_	_	_	_	_	_	Shift=1459
+2	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471298|RuCor_link_id=471297|Shift=1467
+3	бесцельно	_	_	_	_	_	_	_	Shift=1469
+4	бродила	_	_	_	_	_	_	_	Shift=1479
+5	по	_	_	_	_	_	_	_	Shift=1487
+6	своему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471299|RuCor_link_id=471298|Shift=1490
+7	району	_	_	_	_	_	_	_	Shift=1497
+8	и	_	_	_	_	_	_	_	Shift=1504
+9	зашла	_	_	_	_	_	_	_	Shift=1506
+10	в	_	_	_	_	_	_	_	Shift=1512
+11	ресторанчик	_	_	_	_	_	_	_	Shift=1514|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=1526
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p16
+# par_text = Из-за прилавка поднялся усатый сеньор и ласково мне улыбнулся .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p16-s1
+# text = Из-за прилавка поднялся усатый сеньор и ласково мне улыбнулся.
+1	Из-за	_	_	_	_	_	_	_	Shift=1528
+2	прилавка	_	_	_	_	_	_	_	Shift=1534
+3	поднялся	_	_	_	_	_	_	_	Shift=1543
+4	усатый	_	_	_	_	_	_	_	RuCor_chain_id=2558|RuCor_group_id=471300|Shift=1552
+5	сеньор	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2558|RuCor_group_id=471300|RuCor_link_id=0|Shift=1559
+6	и	_	_	_	_	_	_	_	Shift=1566
+7	ласково	_	_	_	_	_	_	_	Shift=1568
+8	мне	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471301|RuCor_link_id=471299|Shift=1576
+9	улыбнулся	_	_	_	_	_	_	_	Shift=1580|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=1590
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p17
+# par_text = Я настолько устала от отсутствия элементарного общения , что села за стол и была готова заказать всё что угодно , лишь бы он продолжал приветливо на меня смотреть .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p17-s1
+# text = Я настолько устала от отсутствия элементарного общения, что села за стол и была готова заказать всё что угодно, лишь бы он продолжал приветливо на меня смотреть.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471302|RuCor_link_id=471301|Shift=1592
+2	настолько	_	_	_	_	_	_	_	Shift=1594
+3	устала	_	_	_	_	_	_	_	Shift=1604
+4	от	_	_	_	_	_	_	_	Shift=1611
+5	отсутствия	_	_	_	_	_	_	_	Shift=1614
+6	элементарного	_	_	_	_	_	_	_	Shift=1625
+7	общения	_	_	_	_	_	_	_	Shift=1639|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1647
+9	что	_	_	_	_	_	_	_	Shift=1649
+10	села	_	_	_	_	_	_	_	Shift=1653
+11	за	_	_	_	_	_	_	_	Shift=1658
+12	стол	_	_	_	_	_	_	_	Shift=1661
+13	и	_	_	_	_	_	_	_	Shift=1666
+14	была	_	_	_	_	_	_	_	Shift=1668
+15	готова	_	_	_	_	_	_	_	Shift=1673
+16	заказать	_	_	_	_	_	_	_	Shift=1680
+17	всё	_	_	_	_	_	_	_	Shift=1689
+18	что	_	_	_	_	_	_	_	Shift=1693
+19	угодно	_	_	_	_	_	_	_	Shift=1697|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=1704
+21	лишь	_	_	_	_	_	_	_	Shift=1706
+22	бы	_	_	_	_	_	_	_	Shift=1711
+23	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2558|RuCor_group_id=471303|RuCor_link_id=471300|Shift=1714
+24	продолжал	_	_	_	_	_	_	_	Shift=1717
+25	приветливо	_	_	_	_	_	_	_	Shift=1727
+26	на	_	_	_	_	_	_	_	Shift=1738
+27	меня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471304|RuCor_link_id=471302|Shift=1741
+28	смотреть	_	_	_	_	_	_	_	Shift=1746|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	Shift=1755
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p18
+# par_text = Это сейчас очень смешно вспоминать .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p18-s1
+# text = Это сейчас очень смешно вспоминать.
+1	Это	_	_	_	_	_	_	_	Shift=1757
+2	сейчас	_	_	_	_	_	_	_	Shift=1761
+3	очень	_	_	_	_	_	_	_	Shift=1768
+4	смешно	_	_	_	_	_	_	_	Shift=1774
+5	вспоминать	_	_	_	_	_	_	_	Shift=1781|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=1792
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p19
+# par_text = Общаясь с другими эмигрантами , я слышала похожие рассказы .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p19-s1
+# text = Общаясь с другими эмигрантами, я слышала похожие рассказы.
+1	Общаясь	_	_	_	_	_	_	_	Shift=1794
+2	с	_	_	_	_	_	_	_	Shift=1802
+3	другими	_	_	_	_	_	_	_	Shift=1804
+4	эмигрантами	_	_	_	_	_	_	_	Shift=1812|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1824
+6	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471305|RuCor_link_id=471304|Shift=1826
+7	слышала	_	_	_	_	_	_	_	Shift=1828
+8	похожие	_	_	_	_	_	_	_	Shift=1836
+9	рассказы	_	_	_	_	_	_	_	Shift=1844|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=1853
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p20
+# par_text = В первое время за границей любой человеческий контакт может привести в состояние эйфории .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p20-s1
+# text = В первое время за границей любой человеческий контакт может привести в состояние эйфории.
+1	В	_	_	_	_	_	_	_	Shift=1855
+2	первое	_	_	_	_	_	_	_	Shift=1857
+3	время	_	_	_	_	_	_	_	Shift=1864
+4	за	_	_	_	_	_	_	_	Shift=1870
+5	границей	_	_	_	_	_	_	_	Shift=1873
+6	любой	_	_	_	_	_	_	_	Shift=1882
+7	человеческий	_	_	_	_	_	_	_	Shift=1888
+8	контакт	_	_	_	_	_	_	_	Shift=1901
+9	может	_	_	_	_	_	_	_	Shift=1909
+10	привести	_	_	_	_	_	_	_	Shift=1915
+11	в	_	_	_	_	_	_	_	Shift=1924
+12	состояние	_	_	_	_	_	_	_	Shift=1926
+13	эйфории	_	_	_	_	_	_	_	Shift=1936|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=1944
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p21
+# par_text = Сразу бросившись на поиски работы , я везде получала ответ : « Вакансий нет ! »
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p21-s1
+# text = Сразу бросившись на поиски работы, я везде получала ответ: ``Вакансий нет!''
+1	Сразу	_	_	_	_	_	_	_	Shift=1946
+2	бросившись	_	_	_	_	_	_	_	Shift=1952
+3	на	_	_	_	_	_	_	_	Shift=1963
+4	поиски	_	_	_	_	_	_	_	Shift=1966
+5	работы	_	_	_	_	_	_	_	Shift=1973|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1980
+7	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471306|RuCor_link_id=471305|Shift=1982
+8	везде	_	_	_	_	_	_	_	Shift=1984
+9	получала	_	_	_	_	_	_	_	Shift=1990
+10	ответ	_	_	_	_	_	_	_	Shift=1999|SpaceAfter=No
+11	:	_	_	_	_	_	_	_	Shift=2005
+12	``	_	_	_	_	_	_	_	Shift=2007|SpaceAfter=No
+13	Вакансий	_	_	_	_	_	_	_	Shift=2009
+14	нет	_	_	_	_	_	_	_	Shift=2018|SpaceAfter=No
+15	!	_	_	_	_	_	_	_	Shift=2022|SpaceAfter=No
+16	''	_	_	_	_	_	_	_	Shift=2024
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p22
+# par_text = Уровень безработицы в Эквадоре очень высок , здесь люди годами держатся за одну работу , часто без повышения .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p22-s1
+# text = Уровень безработицы в Эквадоре очень высок, здесь люди годами держатся за одну работу, часто без повышения.
+1	Уровень	_	_	_	_	_	_	_	Shift=2026
+2	безработицы	_	_	_	_	_	_	_	Shift=2034
+3	в	_	_	_	_	_	_	_	Shift=2046
+4	Эквадоре	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2553|RuCor_group_id=471307|RuCor_link_id=471279|Shift=2048
+5	очень	_	_	_	_	_	_	_	Shift=2057
+6	высок	_	_	_	_	_	_	_	Shift=2063|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=2069
+8	здесь	_	_	_	_	_	_	_	Shift=2071
+9	люди	_	_	_	_	_	_	_	Shift=2077
+10	годами	_	_	_	_	_	_	_	Shift=2082
+11	держатся	_	_	_	_	_	_	_	Shift=2089
+12	за	_	_	_	_	_	_	_	Shift=2098
+13	одну	_	_	_	_	_	_	_	Shift=2101
+14	работу	_	_	_	_	_	_	_	Shift=2106|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=2113
+16	часто	_	_	_	_	_	_	_	Shift=2115
+17	без	_	_	_	_	_	_	_	Shift=2121
+18	повышения	_	_	_	_	_	_	_	Shift=2125|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=2135
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p23
+# par_text = Я была готова идти на любую зарплату .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p23-s1
+# text = Я была готова идти на любую зарплату.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471308|RuCor_link_id=471306|Shift=2137
+2	была	_	_	_	_	_	_	_	Shift=2139
+3	готова	_	_	_	_	_	_	_	Shift=2144
+4	идти	_	_	_	_	_	_	_	Shift=2151
+5	на	_	_	_	_	_	_	_	Shift=2156
+6	любую	_	_	_	_	_	_	_	Shift=2159
+7	зарплату	_	_	_	_	_	_	_	Shift=2165|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=2174
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p24
+# par_text = Но никаких предложений не поступало .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p24-s1
+# text = Но никаких предложений не поступало.
+1	Но	_	_	_	_	_	_	_	Shift=2176
+2	никаких	_	_	_	_	_	_	_	Shift=2179
+3	предложений	_	_	_	_	_	_	_	Shift=2187
+4	не	_	_	_	_	_	_	_	Shift=2199
+5	поступало	_	_	_	_	_	_	_	Shift=2202|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=2212
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p25
+# par_text = В этот период мне помогла волонтерская работа в образовательном проекте для детей из бедных семей .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p25-s1
+# text = В этот период мне помогла волонтерская работа в образовательном проекте для детей из бедных семей.
+1	В	_	_	_	_	_	_	_	Shift=2214
+2	этот	_	_	_	_	_	_	_	Shift=2216
+3	период	_	_	_	_	_	_	_	Shift=2221
+4	мне	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471309|RuCor_link_id=471308|Shift=2228
+5	помогла	_	_	_	_	_	_	_	Shift=2232
+6	волонтерская	_	_	_	_	_	_	_	RuCor_chain_id=2559|RuCor_group_id=471310|Shift=2240
+7	работа	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2559|RuCor_group_id=471310|RuCor_link_id=0|Shift=2253
+8	в	_	_	_	_	_	_	_	RuCor_chain_id=2559|RuCor_group_id=471310|Shift=2260
+9	образовательном	_	_	_	_	_	_	_	RuCor_chain_id=2559|RuCor_group_id=471310|Shift=2262
+10	проекте	_	_	_	_	_	_	_	RuCor_chain_id=2559|RuCor_group_id=471310|Shift=2278
+11	для	_	_	_	_	_	_	_	RuCor_chain_id=2559|RuCor_group_id=471310|Shift=2286
+12	детей	_	_	_	_	_	_	_	RuCor_chain_id=2559|RuCor_group_id=471310|Shift=2290
+13	из	_	_	_	_	_	_	_	RuCor_chain_id=2559|RuCor_group_id=471310|Shift=2296
+14	бедных	_	_	_	_	_	_	_	RuCor_chain_id=2559|RuCor_group_id=471310|Shift=2299
+15	семей	_	_	_	_	_	_	_	RuCor_chain_id=2559|RuCor_group_id=471310|Shift=2306|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=2312
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p26
+# par_text = Эта работа , хотя и бесплатная , обеспечила первые социальные контакты .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p26-s1
+# text = Эта работа, хотя и бесплатная, обеспечила первые социальные контакты.
+1	Эта	_	_	_	_	_	_	_	RuCor_chain_id=2559|RuCor_group_id=471311|Shift=2314
+2	работа	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2559|RuCor_group_id=471311|RuCor_link_id=471310|Shift=2318|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=2325
+4	хотя	_	_	_	_	_	_	_	Shift=2327
+5	и	_	_	_	_	_	_	_	Shift=2332
+6	бесплатная	_	_	_	_	_	_	_	Shift=2334|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=2345
+8	обеспечила	_	_	_	_	_	_	_	Shift=2347
+9	первые	_	_	_	_	_	_	_	Shift=2358
+10	социальные	_	_	_	_	_	_	_	Shift=2365
+11	контакты	_	_	_	_	_	_	_	Shift=2376|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=2385
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p27
+# par_text = К тому же , чтобы туда добираться , мне потребовалось освоить сложные автобусные маршруты .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p27-s1
+# text = К тому же, чтобы туда добираться, мне потребовалось освоить сложные автобусные маршруты.
+1	К	_	_	_	_	_	_	_	Shift=2387
+2	тому	_	_	_	_	_	_	_	Shift=2389
+3	же	_	_	_	_	_	_	_	Shift=2394|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2397
+5	чтобы	_	_	_	_	_	_	_	Shift=2399
+6	туда	_	_	_	_	_	_	_	Shift=2405
+7	добираться	_	_	_	_	_	_	_	Shift=2410|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=2421
+9	мне	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471312|RuCor_link_id=471309|Shift=2423
+10	потребовалось	_	_	_	_	_	_	_	Shift=2427
+11	освоить	_	_	_	_	_	_	_	Shift=2441
+12	сложные	_	_	_	_	_	_	_	Shift=2449
+13	автобусные	_	_	_	_	_	_	_	Shift=2457
+14	маршруты	_	_	_	_	_	_	_	Shift=2468|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=2477
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p28
+# par_text = Я безмерно гордилась тем , что сама сажусь в автобус , делаю пересадки и добираюсь до места назначения .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p28-s1
+# text = Я безмерно гордилась тем, что сама сажусь в автобус, делаю пересадки и добираюсь до места назначения.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471313|RuCor_link_id=471312|Shift=2479
+2	безмерно	_	_	_	_	_	_	_	Shift=2481
+3	гордилась	_	_	_	_	_	_	_	Shift=2490
+4	тем	_	_	_	_	_	_	_	Shift=2500|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=2504
+6	что	_	_	_	_	_	_	_	Shift=2506
+7	сама	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471314|RuCor_link_id=471313|Shift=2510
+8	сажусь	_	_	_	_	_	_	_	Shift=2515
+9	в	_	_	_	_	_	_	_	Shift=2522
+10	автобус	_	_	_	_	_	_	_	Shift=2524|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=2532
+12	делаю	_	_	_	_	_	_	_	Shift=2534
+13	пересадки	_	_	_	_	_	_	_	Shift=2540
+14	и	_	_	_	_	_	_	_	Shift=2550
+15	добираюсь	_	_	_	_	_	_	_	Shift=2552
+16	до	_	_	_	_	_	_	_	Shift=2562
+17	места	_	_	_	_	_	_	_	Shift=2565
+18	назначения	_	_	_	_	_	_	_	Shift=2571|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=2582
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p29
+# par_text = Наконец меня пригласили преподавателем в крупную франчайзинговую компанию .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p29-s1
+# text = Наконец меня пригласили преподавателем в крупную франчайзинговую компанию.
+1	Наконец	_	_	_	_	_	_	_	Shift=2584
+2	меня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471315|RuCor_link_id=471314|Shift=2592
+3	пригласили	_	_	_	_	_	_	_	Shift=2597
+4	преподавателем	_	_	_	_	_	_	_	Shift=2608
+5	в	_	_	_	_	_	_	_	Shift=2623
+6	крупную	_	_	_	_	_	_	_	Shift=2625
+7	франчайзинговую	_	_	_	_	_	_	_	Shift=2633
+8	компанию	_	_	_	_	_	_	_	Shift=2649|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=2658
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p30
+# par_text = Здесь меня ждали сюрпризы .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p30-s1
+# text = Здесь меня ждали сюрпризы.
+1	Здесь	_	_	_	_	_	_	_	Shift=2660
+2	меня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471316|RuCor_link_id=471315|Shift=2666
+3	ждали	_	_	_	_	_	_	_	Shift=2671
+4	сюрпризы	_	_	_	_	_	_	_	Shift=2677|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=2686
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p31
+# par_text = В то время как в Москве работа преподавателя подразумевает определенное уважение и признание , в Эквадоре профессионалы в этой области ставятся на один уровень с обслуживающим персоналом — в должностной инструкции моя позиция относилась к service staff .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p31-s1
+# text = В то время как в Москве работа преподавателя подразумевает определенное уважение и признание, в Эквадоре профессионалы в этой области ставятся на один уровень с обслуживающим персоналом - в должностной инструкции моя позиция относилась к service staff.
+1	В	_	_	_	_	_	_	_	Shift=2688
+2	то	_	_	_	_	_	_	_	Shift=2690
+3	время	_	_	_	_	_	_	_	Shift=2693
+4	как	_	_	_	_	_	_	_	Shift=2699
+5	в	_	_	_	_	_	_	_	Shift=2703
+6	Москве	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2557|RuCor_group_id=471317|RuCor_link_id=471287|Shift=2705
+7	работа	_	_	_	_	_	_	_	Shift=2712
+8	преподавателя	_	_	_	_	_	_	_	Shift=2719
+9	подразумевает	_	_	_	_	_	_	_	Shift=2733
+10	определенное	_	_	_	_	_	_	_	Shift=2747
+11	уважение	_	_	_	_	_	_	_	Shift=2760
+12	и	_	_	_	_	_	_	_	Shift=2769
+13	признание	_	_	_	_	_	_	_	Shift=2771|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=2781
+15	в	_	_	_	_	_	_	_	Shift=2783
+16	Эквадоре	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2553|RuCor_group_id=471318|RuCor_link_id=471307|Shift=2785
+17	профессионалы	_	_	_	_	_	_	_	Shift=2794
+18	в	_	_	_	_	_	_	_	Shift=2808
+19	этой	_	_	_	_	_	_	_	Shift=2810
+20	области	_	_	_	_	_	_	_	Shift=2815
+21	ставятся	_	_	_	_	_	_	_	Shift=2823
+22	на	_	_	_	_	_	_	_	Shift=2832
+23	один	_	_	_	_	_	_	_	Shift=2835
+24	уровень	_	_	_	_	_	_	_	Shift=2840
+25	с	_	_	_	_	_	_	_	Shift=2848
+26	обслуживающим	_	_	_	_	_	_	_	Shift=2850
+27	персоналом	_	_	_	_	_	_	_	Shift=2864
+28	-	_	_	_	_	_	_	_	Shift=2875
+29	в	_	_	_	_	_	_	_	Shift=2877
+30	должностной	_	_	_	_	_	_	_	Shift=2879
+31	инструкции	_	_	_	_	_	_	_	Shift=2891
+32	моя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471319|RuCor_link_id=471316|Shift=2902
+33	позиция	_	_	_	_	_	_	_	Shift=2906
+34	относилась	_	_	_	_	_	_	_	Shift=2914
+35	к	_	_	_	_	_	_	_	Shift=2925
+36	service	_	_	_	_	_	_	_	Shift=2927
+37	staff	_	_	_	_	_	_	_	Shift=2935|SpaceAfter=No
+38	.	_	_	_	_	_	_	_	Shift=2941
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p32
+# par_text = Кроме того , моя деятельность была расписана до мельчайших деталей — всё по инструкции и без каких-либо намеков на творчество .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p32-s1
+# text = Кроме того, моя деятельность была расписана до мельчайших деталей - всё по инструкции и без каких-либо намеков на творчество.
+1	Кроме	_	_	_	_	_	_	_	Shift=2943
+2	того	_	_	_	_	_	_	_	Shift=2949|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=2954
+4	моя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471320|RuCor_link_id=471319|Shift=2956
+5	деятельность	_	_	_	_	_	_	_	Shift=2960
+6	была	_	_	_	_	_	_	_	Shift=2973
+7	расписана	_	_	_	_	_	_	_	Shift=2978
+8	до	_	_	_	_	_	_	_	Shift=2988
+9	мельчайших	_	_	_	_	_	_	_	Shift=2991
+10	деталей	_	_	_	_	_	_	_	Shift=3002
+11	-	_	_	_	_	_	_	_	Shift=3010
+12	всё	_	_	_	_	_	_	_	Shift=3012
+13	по	_	_	_	_	_	_	_	Shift=3016
+14	инструкции	_	_	_	_	_	_	_	Shift=3019
+15	и	_	_	_	_	_	_	_	Shift=3030
+16	без	_	_	_	_	_	_	_	Shift=3032
+17	каких-либо	_	_	_	_	_	_	_	Shift=3036
+18	намеков	_	_	_	_	_	_	_	Shift=3047
+19	на	_	_	_	_	_	_	_	Shift=3055
+20	творчество	_	_	_	_	_	_	_	Shift=3058|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=3069
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p33
+# par_text = Но наибольший шок я испытала , когда меня посадили на ресепшен принимать звонки .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p33-s1
+# text = Но наибольший шок я испытала, когда меня посадили на ресепшен принимать звонки.
+1	Но	_	_	_	_	_	_	_	Shift=3071
+2	наибольший	_	_	_	_	_	_	_	Shift=3074
+3	шок	_	_	_	_	_	_	_	Shift=3085
+4	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471321|RuCor_link_id=471320|Shift=3089
+5	испытала	_	_	_	_	_	_	_	Shift=3091|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=3100
+7	когда	_	_	_	_	_	_	_	Shift=3102
+8	меня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471322|RuCor_link_id=471321|Shift=3108
+9	посадили	_	_	_	_	_	_	_	Shift=3113
+10	на	_	_	_	_	_	_	_	Shift=3122
+11	ресепшен	_	_	_	_	_	_	_	Shift=3125
+12	принимать	_	_	_	_	_	_	_	Shift=3134
+13	звонки	_	_	_	_	_	_	_	Shift=3144|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=3151
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p34
+# par_text = Оказывается , здесь в обязанности преподавателя входит при необходимости заменять секретаршу на телефоне .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p34-s1
+# text = Оказывается, здесь в обязанности преподавателя входит при необходимости заменять секретаршу на телефоне.
+1	Оказывается	_	_	_	_	_	_	_	Shift=3153|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=3165
+3	здесь	_	_	_	_	_	_	_	Shift=3167
+4	в	_	_	_	_	_	_	_	Shift=3173
+5	обязанности	_	_	_	_	_	_	_	Shift=3175
+6	преподавателя	_	_	_	_	_	_	_	Shift=3187
+7	входит	_	_	_	_	_	_	_	Shift=3201
+8	при	_	_	_	_	_	_	_	Shift=3208
+9	необходимости	_	_	_	_	_	_	_	Shift=3212
+10	заменять	_	_	_	_	_	_	_	Shift=3226
+11	секретаршу	_	_	_	_	_	_	_	Shift=3235
+12	на	_	_	_	_	_	_	_	Shift=3246
+13	телефоне	_	_	_	_	_	_	_	Shift=3249|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=3258
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p35
+# par_text = Я живо вспомнила свои студенческие годы , когда я только начинала свою трудовую жизнь в качестве секретаря .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p35-s1
+# text = Я живо вспомнила свои студенческие годы, когда я только начинала свою трудовую жизнь в качестве секретаря.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471323|RuCor_link_id=471322|Shift=3260
+2	живо	_	_	_	_	_	_	_	Shift=3262
+3	вспомнила	_	_	_	_	_	_	_	Shift=3267
+4	свои	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471324|RuCor_link_id=471323|Shift=3277
+5	студенческие	_	_	_	_	_	_	_	Shift=3282
+6	годы	_	_	_	_	_	_	_	Shift=3295|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=3300
+8	когда	_	_	_	_	_	_	_	Shift=3302
+9	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471325|RuCor_link_id=471324|Shift=3308
+10	только	_	_	_	_	_	_	_	Shift=3310
+11	начинала	_	_	_	_	_	_	_	Shift=3317
+12	свою	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471326|RuCor_link_id=471325|Shift=3326
+13	трудовую	_	_	_	_	_	_	_	Shift=3331
+14	жизнь	_	_	_	_	_	_	_	Shift=3340
+15	в	_	_	_	_	_	_	_	Shift=3346
+16	качестве	_	_	_	_	_	_	_	Shift=3348
+17	секретаря	_	_	_	_	_	_	_	Shift=3357|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=3367
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p36
+# par_text = Понадобилось получить отличное образование и защитить диссертацию , чтобы снова оказаться на том же месте .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p36-s1
+# text = Понадобилось получить отличное образование и защитить диссертацию, чтобы снова оказаться на том же месте.
+1	Понадобилось	_	_	_	_	_	_	_	Shift=3369
+2	получить	_	_	_	_	_	_	_	Shift=3382
+3	отличное	_	_	_	_	_	_	_	Shift=3391
+4	образование	_	_	_	_	_	_	_	Shift=3400
+5	и	_	_	_	_	_	_	_	Shift=3412
+6	защитить	_	_	_	_	_	_	_	Shift=3414
+7	диссертацию	_	_	_	_	_	_	_	Shift=3423|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=3435
+9	чтобы	_	_	_	_	_	_	_	Shift=3437
+10	снова	_	_	_	_	_	_	_	Shift=3443
+11	оказаться	_	_	_	_	_	_	_	Shift=3449
+12	на	_	_	_	_	_	_	_	Shift=3459
+13	том	_	_	_	_	_	_	_	Shift=3462
+14	же	_	_	_	_	_	_	_	Shift=3466
+15	месте	_	_	_	_	_	_	_	Shift=3469|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=3475
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p37
+# par_text = По истечении испытательного срока мне был предложен контракт с невыносимыми условиями .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p37-s1
+# text = По истечении испытательного срока мне был предложен контракт с невыносимыми условиями.
+1	По	_	_	_	_	_	_	_	Shift=3477
+2	истечении	_	_	_	_	_	_	_	Shift=3480
+3	испытательного	_	_	_	_	_	_	_	Shift=3490
+4	срока	_	_	_	_	_	_	_	Shift=3505
+5	мне	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471327|RuCor_link_id=471326|Shift=3511
+6	был	_	_	_	_	_	_	_	Shift=3515
+7	предложен	_	_	_	_	_	_	_	Shift=3519
+8	контракт	_	_	_	_	_	_	_	Shift=3529
+9	с	_	_	_	_	_	_	_	Shift=3538
+10	невыносимыми	_	_	_	_	_	_	_	Shift=3540
+11	условиями	_	_	_	_	_	_	_	Shift=3553|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=3563
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p38
+# par_text = Я попыталась отстоять свои права и была уволена .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p38-s1
+# text = Я попыталась отстоять свои права и была уволена.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471328|RuCor_link_id=471327|Shift=3565
+2	попыталась	_	_	_	_	_	_	_	Shift=3567
+3	отстоять	_	_	_	_	_	_	_	Shift=3578
+4	свои	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471329|RuCor_link_id=471328|Shift=3587
+5	права	_	_	_	_	_	_	_	Shift=3592
+6	и	_	_	_	_	_	_	_	Shift=3598
+7	была	_	_	_	_	_	_	_	Shift=3600
+8	уволена	_	_	_	_	_	_	_	Shift=3605|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=3613
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p39
+# par_text = Мне очень повезло , что муж понимал меня и поддерживал мои стремления .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p39-s1
+# text = Мне очень повезло, что муж понимал меня и поддерживал мои стремления.
+1	Мне	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471330|RuCor_link_id=471329|Shift=3615
+2	очень	_	_	_	_	_	_	_	Shift=3619
+3	повезло	_	_	_	_	_	_	_	Shift=3625|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=3633
+5	что	_	_	_	_	_	_	_	Shift=3635
+6	муж	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2556|RuCor_group_id=471331|RuCor_link_id=471293|Shift=3639
+7	понимал	_	_	_	_	_	_	_	Shift=3643
+8	меня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471332|RuCor_link_id=471330|Shift=3651
+9	и	_	_	_	_	_	_	_	Shift=3656
+10	поддерживал	_	_	_	_	_	_	_	Shift=3658
+11	мои	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471333|RuCor_link_id=471332|Shift=3670
+12	стремления	_	_	_	_	_	_	_	Shift=3674|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=3685
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p40
+# par_text = Вместе с ним мы начали свой бизнес .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p40-s1
+# text = Вместе с ним мы начали свой бизнес.
+1	Вместе	_	_	_	_	_	_	_	Shift=3687
+2	с	_	_	_	_	_	_	_	Shift=3694
+3	ним	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2556|RuCor_group_id=471334|RuCor_link_id=471331|Shift=3696
+4	мы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2560|RuCor_group_id=471335|RuCor_link_id=0|Shift=3700
+5	начали	_	_	_	_	_	_	_	Shift=3703
+6	свой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=2560|RuCor_group_id=471336|RuCor_link_id=471335|Shift=3710
+7	бизнес	_	_	_	_	_	_	_	Shift=3715|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=3722
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p41
+# par_text = Потребовалось много усилий , и с тех пор было не до скуки .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p41-s1
+# text = Потребовалось много усилий, и с тех пор было не до скуки.
+1	Потребовалось	_	_	_	_	_	_	_	Shift=3724
+2	много	_	_	_	_	_	_	_	Shift=3738
+3	усилий	_	_	_	_	_	_	_	Shift=3744|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=3751
+5	и	_	_	_	_	_	_	_	Shift=3753
+6	с	_	_	_	_	_	_	_	Shift=3755
+7	тех	_	_	_	_	_	_	_	Shift=3757
+8	пор	_	_	_	_	_	_	_	Shift=3761
+9	было	_	_	_	_	_	_	_	Shift=3765
+10	не	_	_	_	_	_	_	_	Shift=3770
+11	до	_	_	_	_	_	_	_	Shift=3773
+12	скуки	_	_	_	_	_	_	_	Shift=3776|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=3782
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p42
+# par_text = И хотя я ни с кем из эквадорцев близко так и не подружилась , я больше не чувствую себя лишним человеком .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p42-s1
+# text = И хотя я ни с кем из эквадорцев близко так и не подружилась, я больше не чувствую себя лишним человеком.
+1	И	_	_	_	_	_	_	_	Shift=3784
+2	хотя	_	_	_	_	_	_	_	Shift=3786
+3	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471337|RuCor_link_id=471333|Shift=3791
+4	ни	_	_	_	_	_	_	_	Shift=3793
+5	с	_	_	_	_	_	_	_	Shift=3796
+6	кем	_	_	_	_	_	_	_	Shift=3798
+7	из	_	_	_	_	_	_	_	Shift=3802
+8	эквадорцев	_	_	_	_	_	_	_	Shift=3805
+9	близко	_	_	_	_	_	_	_	Shift=3816
+10	так	_	_	_	_	_	_	_	Shift=3823
+11	и	_	_	_	_	_	_	_	Shift=3827
+12	не	_	_	_	_	_	_	_	Shift=3829
+13	подружилась	_	_	_	_	_	_	_	Shift=3832|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=3844
+15	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471338|RuCor_link_id=471337|Shift=3846
+16	больше	_	_	_	_	_	_	_	Shift=3848
+17	не	_	_	_	_	_	_	_	Shift=3855
+18	чувствую	_	_	_	_	_	_	_	Shift=3858
+19	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471339|RuCor_link_id=471338|Shift=3867
+20	лишним	_	_	_	_	_	_	_	Shift=3872
+21	человеком	_	_	_	_	_	_	_	Shift=3879|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=3889
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p43
+# par_text = Теперь я думаю , что могла бы адаптироваться быстрее , если бы постоянно не сравнивала прошлый этап жизни с нынешним .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p43-s1
+# text = Теперь я думаю, что могла бы адаптироваться быстрее, если бы постоянно не сравнивала прошлый этап жизни с нынешним.
+1	Теперь	_	_	_	_	_	_	_	Shift=3891
+2	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471340|RuCor_link_id=471339|Shift=3898
+3	думаю	_	_	_	_	_	_	_	Shift=3900|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=3906
+5	что	_	_	_	_	_	_	_	Shift=3908
+6	могла	_	_	_	_	_	_	_	Shift=3912
+7	бы	_	_	_	_	_	_	_	Shift=3918
+8	адаптироваться	_	_	_	_	_	_	_	Shift=3921
+9	быстрее	_	_	_	_	_	_	_	Shift=3936|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=3944
+11	если	_	_	_	_	_	_	_	Shift=3946
+12	бы	_	_	_	_	_	_	_	Shift=3951
+13	постоянно	_	_	_	_	_	_	_	Shift=3954
+14	не	_	_	_	_	_	_	_	Shift=3964
+15	сравнивала	_	_	_	_	_	_	_	Shift=3967
+16	прошлый	_	_	_	_	_	_	_	Shift=3978
+17	этап	_	_	_	_	_	_	_	Shift=3986
+18	жизни	_	_	_	_	_	_	_	Shift=3991
+19	с	_	_	_	_	_	_	_	Shift=3997
+20	нынешним	_	_	_	_	_	_	_	Shift=3999|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=4008
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p44
+# par_text = Я видела лишь одни минусы и недостатки в моем положении , вместо того чтобы видеть новые возможности .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p44-s1
+# text = Я видела лишь одни минусы и недостатки в моем положении, вместо того чтобы видеть новые возможности.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471341|RuCor_link_id=471340|Shift=4010
+2	видела	_	_	_	_	_	_	_	Shift=4012
+3	лишь	_	_	_	_	_	_	_	Shift=4019
+4	одни	_	_	_	_	_	_	_	Shift=4024
+5	минусы	_	_	_	_	_	_	_	Shift=4029
+6	и	_	_	_	_	_	_	_	Shift=4036
+7	недостатки	_	_	_	_	_	_	_	Shift=4038
+8	в	_	_	_	_	_	_	_	Shift=4049
+9	моем	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471342|RuCor_link_id=471341|Shift=4051
+10	положении	_	_	_	_	_	_	_	Shift=4056|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=4066
+12	вместо	_	_	_	_	_	_	_	Shift=4068
+13	того	_	_	_	_	_	_	_	Shift=4075
+14	чтобы	_	_	_	_	_	_	_	Shift=4080
+15	видеть	_	_	_	_	_	_	_	Shift=4086
+16	новые	_	_	_	_	_	_	_	Shift=4093
+17	возможности	_	_	_	_	_	_	_	Shift=4099|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=4111
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p45
+# par_text = Ведь , если постоянно смотреть назад , никакой ветер не будет попутным .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p45-s1
+# text = Ведь, если постоянно смотреть назад, никакой ветер не будет попутным.
+1	Ведь	_	_	_	_	_	_	_	Shift=4113|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=4118
+3	если	_	_	_	_	_	_	_	Shift=4120
+4	постоянно	_	_	_	_	_	_	_	Shift=4125
+5	смотреть	_	_	_	_	_	_	_	Shift=4135
+6	назад	_	_	_	_	_	_	_	Shift=4144|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=4150
+8	никакой	_	_	_	_	_	_	_	Shift=4152
+9	ветер	_	_	_	_	_	_	_	Shift=4160
+10	не	_	_	_	_	_	_	_	Shift=4166
+11	будет	_	_	_	_	_	_	_	Shift=4169
+12	попутным	_	_	_	_	_	_	_	Shift=4175|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=4184
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p46
+# par_text = Я слишком много времени потеряла на негативные чувства , вместо того чтобы лучше выучить испанский или просто сесть за руль .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p46-s1
+# text = Я слишком много времени потеряла на негативные чувства, вместо того чтобы лучше выучить испанский или просто сесть за руль.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471343|RuCor_link_id=471342|Shift=4186
+2	слишком	_	_	_	_	_	_	_	Shift=4188
+3	много	_	_	_	_	_	_	_	Shift=4196
+4	времени	_	_	_	_	_	_	_	Shift=4202
+5	потеряла	_	_	_	_	_	_	_	Shift=4210
+6	на	_	_	_	_	_	_	_	Shift=4219
+7	негативные	_	_	_	_	_	_	_	Shift=4222
+8	чувства	_	_	_	_	_	_	_	Shift=4233|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=4241
+10	вместо	_	_	_	_	_	_	_	Shift=4243
+11	того	_	_	_	_	_	_	_	Shift=4250
+12	чтобы	_	_	_	_	_	_	_	Shift=4255
+13	лучше	_	_	_	_	_	_	_	Shift=4261
+14	выучить	_	_	_	_	_	_	_	Shift=4267
+15	испанский	_	_	_	_	_	_	_	Shift=4275
+16	или	_	_	_	_	_	_	_	Shift=4285
+17	просто	_	_	_	_	_	_	_	Shift=4289
+18	сесть	_	_	_	_	_	_	_	Shift=4296
+19	за	_	_	_	_	_	_	_	Shift=4302
+20	руль	_	_	_	_	_	_	_	Shift=4305|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=4310
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p47
+# par_text = Даже к той несостоявшейся преподавательской работе можно было отнестись как к необычному профессиональному опыту .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p47-s1
+# text = Даже к той несостоявшейся преподавательской работе можно было отнестись как к необычному профессиональному опыту.
+1	Даже	_	_	_	_	_	_	_	Shift=4312
+2	к	_	_	_	_	_	_	_	Shift=4317
+3	той	_	_	_	_	_	_	_	Shift=4319
+4	несостоявшейся	_	_	_	_	_	_	_	Shift=4323
+5	преподавательской	_	_	_	_	_	_	_	Shift=4338
+6	работе	_	_	_	_	_	_	_	Shift=4356
+7	можно	_	_	_	_	_	_	_	Shift=4363
+8	было	_	_	_	_	_	_	_	Shift=4369
+9	отнестись	_	_	_	_	_	_	_	Shift=4374
+10	как	_	_	_	_	_	_	_	Shift=4384
+11	к	_	_	_	_	_	_	_	Shift=4388
+12	необычному	_	_	_	_	_	_	_	Shift=4390
+13	профессиональному	_	_	_	_	_	_	_	Shift=4401
+14	опыту	_	_	_	_	_	_	_	Shift=4419|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=4425
+
+# newpar id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p48
+# par_text = Я знаю , что проблема многих переехавших в том , что они продолжают сравнивать и этим тормозить себя , и сама не избежала этой ловушки .
+# sent_id = 72ca644b-59e3-4290-9de7-e15f986b4bf9-p48-s1
+# text = Я знаю, что проблема многих переехавших в том, что они продолжают сравнивать и этим тормозить себя, и сама не избежала этой ловушки.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471344|RuCor_link_id=471343|Shift=4427
+2	знаю	_	_	_	_	_	_	_	Shift=4429|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=4434
+4	что	_	_	_	_	_	_	_	Shift=4436
+5	проблема	_	_	_	_	_	_	_	Shift=4440
+6	многих	_	_	_	_	_	_	_	RuCor_chain_id=2561|RuCor_group_id=471345|Shift=4449
+7	переехавших	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2561|RuCor_group_id=471345|RuCor_link_id=0|Shift=4456
+8	в	_	_	_	_	_	_	_	Shift=4468
+9	том	_	_	_	_	_	_	_	Shift=4470|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=4474
+11	что	_	_	_	_	_	_	_	Shift=4476
+12	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2561|RuCor_group_id=471346|RuCor_link_id=471345|Shift=4480
+13	продолжают	_	_	_	_	_	_	_	Shift=4484
+14	сравнивать	_	_	_	_	_	_	_	Shift=4495
+15	и	_	_	_	_	_	_	_	Shift=4506
+16	этим	_	_	_	_	_	_	_	Shift=4508
+17	тормозить	_	_	_	_	_	_	_	Shift=4513
+18	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=2561|RuCor_group_id=471347|RuCor_link_id=471346|Shift=4523|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=4528
+20	и	_	_	_	_	_	_	_	Shift=4530
+21	сама	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=2554|RuCor_group_id=471348|RuCor_link_id=471344|Shift=4532
+22	не	_	_	_	_	_	_	_	Shift=4537
+23	избежала	_	_	_	_	_	_	_	Shift=4540
+24	этой	_	_	_	_	_	_	_	Shift=4549
+25	ловушки	_	_	_	_	_	_	_	Shift=4554|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	_
+

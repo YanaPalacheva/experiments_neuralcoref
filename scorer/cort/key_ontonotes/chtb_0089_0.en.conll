@@ -1,0 +1,700 @@
+#begin document (chtb_0089_0); part 000
+chtb_0089	0	0	Xinhua	NNP	(TOP(FRAG(NP*	-	-	-	-	-
+chtb_0089	0	1	News	NNP	*	-	-	-	-	-
+chtb_0089	0	2	Agency	NNP	*)	-	-	-	-	-
+chtb_0089	0	3	,	,	*	-	-	-	-	-
+chtb_0089	0	4	Xi'an	NNP	(NP*)	-	-	-	-	-
+chtb_0089	0	5	,	,	*	-	-	-	-	-
+chtb_0089	0	6	December	NNP	(NP*	-	-	-	-	-
+chtb_0089	0	7	30th	NN	*)	-	-	-	-	-
+chtb_0089	0	8	,	,	*	-	-	-	-	-
+chtb_0089	0	9	by	IN	(PP*	-	-	-	-	-
+chtb_0089	0	10	reporter	NN	(NP*	-	-	-	-	-
+chtb_0089	0	11	Lianye	NNP	*	-	-	-	-	-
+chtb_0089	0	12	Zhang	NNP	*))))	-	-	-	-	-
+
+chtb_0089	0	0	At	IN	(TOP(S(PP*	-	-	-	-	-
+chtb_0089	0	1	next	JJ	(NP(NP(NP*	-	-	-	-	-
+chtb_0089	0	2	Spring	NNP	*	-	-	-	-	-
+chtb_0089	0	3	's	POS	*)	-	-	-	-	-
+chtb_0089	0	4	"	``	*	-	-	-	-	-
+chtb_0089	0	5	'98	CD	*	-	-	-	-	-
+chtb_0089	0	6	negotiation	NN	*	negotiation	-	1	-	-
+chtb_0089	0	7	conference	NN	*)	conference	-	1	-	-
+chtb_0089	0	8	on	IN	(PP*	-	-	-	-	-
+chtb_0089	0	9	cooperation	NN	(NP(NP(NP*)	cooperation	-	2	-	-
+chtb_0089	0	10	between	IN	(PP*	-	-	-	-	-
+chtb_0089	0	11	east	NN	(NP(NML*	east	-	2	-	-
+chtb_0089	0	12	and	CC	*	-	-	-	-	-
+chtb_0089	0	13	west	NN	*)	-	-	-	-	-
+chtb_0089	0	14	China	NNP	*)))	-	-	-	-	-
+chtb_0089	0	15	and	CC	*	-	-	-	-	-
+chtb_0089	0	16	investment	NN	(NP*	investment	-	3	-	-
+chtb_0089	0	17	and	CC	*	-	-	-	-	-
+chtb_0089	0	18	trade	NN	*))	trade	01	1	-	-
+chtb_0089	0	19	"	''	*)))	-	-	-	-	-
+chtb_0089	0	20	,	,	*	-	-	-	-	-
+chtb_0089	0	21	Shaanxi	NNP	(NP*	-	-	-	-	(2
+chtb_0089	0	22	Province	NNP	*)	-	-	-	-	2)
+chtb_0089	0	23	will	MD	(VP*	-	-	-	-	-
+chtb_0089	0	24	promote	VB	(VP*	promote	02	1	-	-
+chtb_0089	0	25	public	JJ	(NP(NP*	-	-	-	-	-
+chtb_0089	0	26	auctioning	NN	*)	-	-	-	-	-
+chtb_0089	0	27	of	IN	(PP*	-	-	-	-	-
+chtb_0089	0	28	a	DT	(NP(NP*	-	-	-	-	-
+chtb_0089	0	29	number	NN	*)	number	-	1	-	-
+chtb_0089	0	30	of	IN	(PP*	-	-	-	-	-
+chtb_0089	0	31	small	JJ	(NP(ADJP*	-	-	-	-	-
+chtb_0089	0	32	state	NN	(ADJP*	state	-	2	-	-
+chtb_0089	0	33	-	HYPH	*	-	-	-	-	-
+chtb_0089	0	34	owned	VBN	*))	own	01	-	-	-
+chtb_0089	0	35	enterprises	NNS	*))))	-	-	-	-	-
+chtb_0089	0	36	to	IN	(PP*	-	-	-	-	-
+chtb_0089	0	37	domestic	JJ	(NP(ADJP*	-	-	-	-	-
+chtb_0089	0	38	and	CC	*	-	-	-	-	-
+chtb_0089	0	39	overseas	JJ	*)	-	-	-	-	-
+chtb_0089	0	40	traveling	NN	*	-	-	-	-	-
+chtb_0089	0	41	merchants	NNS	*)))))	-	-	-	-	-
+chtb_0089	0	42	.	.	*))	-	-	-	-	-
+
+chtb_0089	0	0	This	DT	(TOP(S(NP*	-	-	-	-	(2	(2
+chtb_0089	0	1	province	NN	*)	province	-	1	-	2)	2)
+chtb_0089	0	2	has	VBZ	(VP*	have	01	-	-	-	-
+chtb_0089	0	3	currently	RB	(ADVP*)	-	-	-	-	-	-
+chtb_0089	0	4	drafted	VBN	(VP*	draft	01	1	-	-	-
+chtb_0089	0	5	preferential	JJ	(NP*	-	-	-	-	-	-
+chtb_0089	0	6	policies	NNS	*)	policy	-	1	-	-	-
+chtb_0089	0	7	to	TO	(S(VP*	-	-	-	-	-	-
+chtb_0089	0	8	encourage	VB	(VP*	encourage	01	1	-	-	-
+chtb_0089	0	9	state	NN	(NP(NP(ADJP*	state	-	2	-	-	-
+chtb_0089	0	10	-	HYPH	*	-	-	-	-	-	-
+chtb_0089	0	11	owned	VBN	*)	own	01	-	-	-	-
+chtb_0089	0	12	enterprises	NNS	*)	-	-	-	-	-	-
+chtb_0089	0	13	,	,	*	-	-	-	-	-	-
+chtb_0089	0	14	collective	JJ	(NP*	-	-	-	-	-	-
+chtb_0089	0	15	enterprises	NNS	*)	-	-	-	-	-	-
+chtb_0089	0	16	,	,	*	-	-	-	-	-	-
+chtb_0089	0	17	privately	RB	(NP(ADJP*	-	-	-	-	-	-
+chtb_0089	0	18	-	HYPH	*	-	-	-	-	-	-
+chtb_0089	0	19	operated	VBN	*)	operate	01	-	-	-	-
+chtb_0089	0	20	enterprises	NNS	*)	-	-	-	-	-	-
+chtb_0089	0	21	,	,	*	-	-	-	-	-	-
+chtb_0089	0	22	individually	RB	(NP(ADJP*	-	-	-	-	-	-
+chtb_0089	0	23	-	HYPH	*	-	-	-	-	-	-
+chtb_0089	0	24	owned	VBN	*)	own	01	-	-	-	-
+chtb_0089	0	25	science	NN	(NML*	science	-	1	-	-	-
+chtb_0089	0	26	and	CC	*	-	-	-	-	-	-
+chtb_0089	0	27	technology	NN	*)	technology	-	1	-	-	-
+chtb_0089	0	28	enterprises	NNS	*)	-	-	-	-	-	-
+chtb_0089	0	29	,	,	*	-	-	-	-	-	-
+chtb_0089	0	30	foreign	JJ	(NP(ADJP*	-	-	-	-	-	-
+chtb_0089	0	31	funded	VBN	*)	fund	01	1	-	-	-
+chtb_0089	0	32	enterprises	NNS	*)	-	-	-	-	-	-
+chtb_0089	0	33	and	CC	*	-	-	-	-	-	-
+chtb_0089	0	34	average	JJ	(NP(NP*	-	-	-	-	-	-
+chtb_0089	0	35	people	NN	*)	people	-	1	-	-	-
+chtb_0089	0	36	from	IN	(PP*	-	-	-	-	-	-
+chtb_0089	0	37	inside	IN	(PP*	-	-	-	-	-	-
+chtb_0089	0	38	and	CC	*	-	-	-	-	-	-
+chtb_0089	0	39	outside	IN	*	-	-	-	-	-	-
+chtb_0089	0	40	the	DT	(NP*	-	-	-	-	(2	(2
+chtb_0089	0	41	province	NN	*)))))	province	-	1	-	2)	2)
+chtb_0089	0	42	using	VBG	(S(S(VP*	use	01	1	-	-	-
+chtb_0089	0	43	various	JJ	(NP*	-	-	-	-	-	-
+chtb_0089	0	44	methods	NNS	*)))	-	-	-	-	-	-
+chtb_0089	0	45	to	TO	(VP*	-	-	-	-	-	-
+chtb_0089	0	46	participate	VB	(VP*	-	-	-	-	-	-
+chtb_0089	0	47	in	IN	(PP*	-	-	-	-	-	-
+chtb_0089	0	48	Shaanxi	NNP	(NP(NP*	-	-	-	-	(2	(2
+chtb_0089	0	49	's	POS	*)	-	-	-	-	2)	2)
+chtb_0089	0	50	small	JJ	(NML*	-	-	-	-	-	-
+chtb_0089	0	51	state	NN	(ADJP*	state	-	2	-	-	-
+chtb_0089	0	52	-	HYPH	*	-	-	-	-	-	-
+chtb_0089	0	53	owned	VBN	*)	own	01	-	-	-	-
+chtb_0089	0	54	enterprise	NN	*)	-	-	-	-	-	-
+chtb_0089	0	55	reforms	NNS	*))))))))))	reform	-	1	-	-	-
+chtb_0089	0	56	.	.	*))	-	-	-	-	-	-
+
+chtb_0089	0	0	It	PRP	(TOP(S(NP*)	-	-	-	-	(2)	(2)
+chtb_0089	0	1	encourages	VBZ	(VP*	encourage	01	2	-	-	-
+chtb_0089	0	2	small	JJ	(NP*	-	-	-	-	-	-
+chtb_0089	0	3	State	NN	(ADJP*	state	-	2	-	-	-
+chtb_0089	0	4	-	HYPH	*	-	-	-	-	-	-
+chtb_0089	0	5	owned	VBN	*)	own	01	-	-	-	-
+chtb_0089	0	6	enterprises	NNS	*)	-	-	-	-	-	-
+chtb_0089	0	7	to	TO	(S(VP(VP*	-	-	-	-	-	-
+chtb_0089	0	8	cross	VB	(VP*	cross	02	1	-	-	-
+chtb_0089	0	9	industries	NNS	(NP*)))	industry	-	1	-	-	-
+chtb_0089	0	10	,	,	*	-	-	-	-	-	-
+chtb_0089	0	11	to	TO	(VP*	-	-	-	-	-	-
+chtb_0089	0	12	cross	VB	(VP*	cross	02	1	-	-	-
+chtb_0089	0	13	regions	NNS	(NP*)))	region	-	3	-	-	-
+chtb_0089	0	14	and	CC	*	-	-	-	-	-	-
+chtb_0089	0	15	to	TO	(VP*	-	-	-	-	-	-
+chtb_0089	0	16	cross	VB	(VP*	cross	02	1	-	-	-
+chtb_0089	0	17	ownership	NN	(NP*	-	-	-	-	-	-
+chtb_0089	0	18	systems	NNS	*)))	system	-	1	-	-	-
+chtb_0089	0	19	to	TO	(S(VP(VP*	-	-	-	-	-	-
+chtb_0089	0	20	look	VB	(VP*	look	01	1	-	-	-
+chtb_0089	0	21	for	IN	(PP*	-	-	-	-	-	-
+chtb_0089	0	22	co-operation	NN	(NP*	-	-	-	-	-	-
+chtb_0089	0	23	partners	NNS	*))))	partner	-	3	-	-	-
+chtb_0089	0	24	and	CC	*	-	-	-	-	-	-
+chtb_0089	0	25	to	TO	(VP(VP*	-	-	-	-	-	-
+chtb_0089	0	26	proactively	RB	(ADVP*)	-	-	-	-	-	-
+chtb_0089	0	27	"	``	*	-	-	-	-	-	-
+chtb_0089	0	28	become	VB	(VP*	become	01	1	-	-	-
+chtb_0089	0	29	related	VBN	(VP*	relate	01	-	-	-	-
+chtb_0089	0	30	by	IN	(PP*	-	-	-	-	-	-
+chtb_0089	0	31	marriage	NN	(NP*))	marriage	-	1	-	-	-
+chtb_0089	0	32	"	''	*	-	-	-	-	-	-
+chtb_0089	0	33	with	IN	(PP*	-	-	-	-	-	-
+chtb_0089	0	34	dominant	JJ	(NP*	-	-	-	-	-	-
+chtb_0089	0	35	enterprises	NNS	*)))))	-	-	-	-	-	-
+chtb_0089	0	36	and	CC	*	-	-	-	-	-	-
+chtb_0089	0	37	to	TO	(VP*	-	-	-	-	-	-
+chtb_0089	0	38	mutually	RB	(ADVP*)	-	-	-	-	-	-
+chtb_0089	0	39	merge	VB	(VP*))))))))	merge	01	1	-	-	-
+chtb_0089	0	40	.	.	*))	-	-	-	-	-	-
+
+chtb_0089	0	0	Small	JJ	(TOP(S(NP(NP*	-	-	-	-	-
+chtb_0089	0	1	state	NN	(ADJP*	state	-	2	-	-
+chtb_0089	0	2	-	HYPH	*	-	-	-	-	-
+chtb_0089	0	3	owned	VBN	*)	own	01	-	-	-
+chtb_0089	0	4	enterprises	NNS	*)	-	-	-	-	-
+chtb_0089	0	5	of	IN	(PP*	-	-	-	-	-
+chtb_0089	0	6	Shaanxi	NNP	(NP*)))	-	-	-	-	(2)
+chtb_0089	0	7	account	VBP	(VP*	account	01	2	-	-
+chtb_0089	0	8	for	IN	(PP*	-	-	-	-	-
+chtb_0089	0	9	over	IN	(NP(NP(QP*	-	-	-	-	-
+chtb_0089	0	10	ninety	CD	*)	-	-	-	-	-
+chtb_0089	0	11	percent	NN	*)	-	-	-	-	-
+chtb_0089	0	12	of	IN	(PP*	-	-	-	-	-
+chtb_0089	0	13	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0089	0	14	total	JJ	*	-	-	-	-	-
+chtb_0089	0	15	number	NN	*)	number	-	1	-	-
+chtb_0089	0	16	of	IN	(PP*	-	-	-	-	-
+chtb_0089	0	17	state	NN	(NP(ADJP*	state	-	2	-	-
+chtb_0089	0	18	-	HYPH	*	-	-	-	-	-
+chtb_0089	0	19	owned	VBN	*)	own	01	-	-	-
+chtb_0089	0	20	enterprises	NNS	*))))))	-	-	-	-	-
+chtb_0089	0	21	,	,	*	-	-	-	-	-
+chtb_0089	0	22	with	IN	(PP*	-	-	-	-	-
+chtb_0089	0	23	fixed	VBN	(S(S(NP*	fix	03	-	-	-
+chtb_0089	0	24	assets	NNS	*)	asset	-	2	-	-
+chtb_0089	0	25	accounting	VBG	(VP*	account	01	2	-	-
+chtb_0089	0	26	for	IN	(PP*	-	-	-	-	-
+chtb_0089	0	27	more	JJR	(NP(QP*	-	-	-	-	-
+chtb_0089	0	28	than	IN	*	-	-	-	-	-
+chtb_0089	0	29	thirty	CD	*)	-	-	-	-	-
+chtb_0089	0	30	percent	NN	*))))	-	-	-	-	-
+chtb_0089	0	31	,	,	*	-	-	-	-	-
+chtb_0089	0	32	and	CC	*	-	-	-	-	-
+chtb_0089	0	33	the	DT	(S(NP(NP*	-	-	-	-	-
+chtb_0089	0	34	number	NN	*)	number	-	1	-	-
+chtb_0089	0	35	of	IN	(PP*	-	-	-	-	-
+chtb_0089	0	36	employees	NNS	(NP*)))	-	-	-	-	-
+chtb_0089	0	37	accounting	VBG	(VP*	account	01	2	-	-
+chtb_0089	0	38	for	IN	(PP*	-	-	-	-	-
+chtb_0089	0	39	over	IN	(NP(NP(QP*	-	-	-	-	-
+chtb_0089	0	40	fifty	CD	*)	-	-	-	-	-
+chtb_0089	0	41	percent	NN	*)	-	-	-	-	-
+chtb_0089	0	42	of	IN	(PP*	-	-	-	-	-
+chtb_0089	0	43	the	DT	(NP*	-	-	-	-	-
+chtb_0089	0	44	total	JJ	*	-	-	-	-	-
+chtb_0089	0	45	number	NN	*)))))))))	number	-	1	-	-
+chtb_0089	0	46	.	.	*))	-	-	-	-	-
+
+chtb_0089	0	0	Shaanxi	NNP	(TOP(S(NP*	-	-	-	-	(2
+chtb_0089	0	1	Province	NNP	*)	-	-	-	-	2)
+chtb_0089	0	2	states	VBZ	(VP*	state	01	1	-	-
+chtb_0089	0	3	that	IN	(SBAR*	-	-	-	-	-
+chtb_0089	0	4	next	JJ	(S(NP*	-	-	-	-	-
+chtb_0089	0	5	year	NN	*)	-	-	-	-	-
+chtb_0089	0	6	it	PRP	(NP*)	-	-	-	-	(2)
+chtb_0089	0	7	will	MD	(VP*	-	-	-	-	-
+chtb_0089	0	8	basically	RB	(ADVP*)	-	-	-	-	-
+chtb_0089	0	9	give	VB	(VP*	give	01	3	-	-
+chtb_0089	0	10	more	JJR	(NP*	-	-	-	-	-
+chtb_0089	0	11	freedom	NN	*)	freedom	-	1	-	-
+chtb_0089	0	12	to	IN	(PP*	-	-	-	-	-
+chtb_0089	0	13	provincial	JJ	(NP(ADJP*	-	-	-	-	-
+chtb_0089	0	14	small	JJ	*	-	-	-	-	-
+chtb_0089	0	15	state	NN	(ADJP*	state	-	2	-	-
+chtb_0089	0	16	-	HYPH	*	-	-	-	-	-
+chtb_0089	0	17	owned	VBN	*))	own	01	-	-	-
+chtb_0089	0	18	enterprises	NNS	*))	-	-	-	-	-
+chtb_0089	0	19	to	TO	(S(VP*	-	-	-	-	-
+chtb_0089	0	20	do	VB	(VP*	do	02	1	-	-
+chtb_0089	0	21	business	NN	(NP*)))))))))	business	-	1	-	-
+chtb_0089	0	22	.	.	*))	-	-	-	-	-
+
+chtb_0089	0	0	Recently	RB	(TOP(S(NP(ADJP*	-	-	-	-	*	*
+chtb_0089	0	1	issued	VBN	*)	issue	01	-	-	*	*
+chtb_0089	0	2	preferential	JJ	*	-	-	-	-	*	*
+chtb_0089	0	3	policies	NNS	*)	policy	-	1	-	*	*
+chtb_0089	0	4	include	VBP	(VP*	include	01	1	-	*	*
+chtb_0089	0	5	:	:	*	-	-	-	-	*	*
+chtb_0089	0	6	appropriate	JJ	(S(S(NP*	-	-	-	-	*	*
+chtb_0089	0	7	preferences	NNS	*)	preference	-	3	-	*	*
+chtb_0089	0	8	should	MD	(VP*	-	-	-	-	*	*
+chtb_0089	0	9	be	VB	(VP*	-	-	-	-	*	*
+chtb_0089	0	10	granted	VBN	(VP*	grant	01	1	-	*	*
+chtb_0089	0	11	to	IN	(PP*	-	-	-	-	*	*
+chtb_0089	0	12	enterprises	NNS	(NP(NP(NP*)	-	-	-	-	*	*
+chtb_0089	0	13	with	IN	(PP*	-	-	-	-	*	*
+chtb_0089	0	14	net	NN	(NP(NP*	net	-	3	-	*	*
+chtb_0089	0	15	assets	NNS	*)	asset	-	2	-	*	*
+chtb_0089	0	16	and	CC	*	-	-	-	-	*	*
+chtb_0089	0	17	relatively	RB	(NP(ADJP*	-	-	-	-	*	*
+chtb_0089	0	18	good	JJ	*)	-	-	-	-	*	*
+chtb_0089	0	19	operations	NNS	*))))	operation	-	3	-	*	*
+chtb_0089	0	20	,	,	*	-	-	-	-	*	*
+chtb_0089	0	21	where	WRB	(SBAR(WHADVP*)	-	-	-	-	*	*
+chtb_0089	0	22	enterprise	NN	(S(NP*	-	-	-	-	*	*
+chtb_0089	0	23	assets	NNS	*)	asset	-	2	-	*	*
+chtb_0089	0	24	are	VBP	(VP*	-	-	-	-	*	*
+chtb_0089	0	25	sold	VBN	(VP*	sell	01	1	-	*	*
+chtb_0089	0	26	to	IN	(PP*	-	-	-	-	*	*
+chtb_0089	0	27	lawyers	NNS	(NP(NP*)	-	-	-	-	*	*
+chtb_0089	0	28	and	CC	*	-	-	-	-	*	*
+chtb_0089	0	29	average	JJ	(NP*	-	-	-	-	*	*
+chtb_0089	0	30	people	NNS	*)))))))))))))	people	-	1	-	*	*
+chtb_0089	0	31	;	,	*	-	-	-	-	*	*
+chtb_0089	0	32	for	IN	(S(PP*	-	-	-	-	*	*
+chtb_0089	0	33	those	DT	(NP(NP*)	-	-	-	-	*	*
+chtb_0089	0	34	implementing	VBG	(VP*	implement	01	1	-	*	*
+chtb_0089	0	35	auctions	NNS	(NP*))))	auction	01	3	-	*	*
+chtb_0089	0	36	,	,	*	-	-	-	-	*	*
+chtb_0089	0	37	related	JJ	(NP*	-	-	-	-	*	*
+chtb_0089	0	38	taxes	NNS	*)	tax	-	1	-	*	*
+chtb_0089	0	39	can	MD	(VP*	-	-	-	-	*	*
+chtb_0089	0	40	be	VB	(VP*	-	-	-	-	*	*
+chtb_0089	0	41	reduced	VBN	(VP*	reduce	01	1	-	*	*
+chtb_0089	0	42	or	CC	*	-	-	-	-	*	*
+chtb_0089	0	43	eliminated	VBN	*))))	eliminate	01	-	-	*	*
+chtb_0089	0	44	;	,	*	-	-	-	-	*	*
+chtb_0089	0	45	for	IN	(S(PP*	-	-	-	-	*	*
+chtb_0089	0	46	those	DT	(NP(NP*)	-	-	-	-	*	*
+chtb_0089	0	47	implementing	VBG	(VP*	implement	01	1	-	*	*
+chtb_0089	0	48	shares	NNS	(NP*	share	-	2	-	*	*
+chtb_0089	0	49	cooperation	NN	*	cooperation	-	2	-	*	*
+chtb_0089	0	50	system	NN	*	system	-	1	-	*	*
+chtb_0089	0	51	reforms	NNS	*))))	reform	-	1	-	*	*
+chtb_0089	0	52	,	,	*	-	-	-	-	*	*
+chtb_0089	0	53	the	DT	(NP*	-	-	-	-	*	*
+chtb_0089	0	54	state	NN	(ADJP*	state	-	2	-	(ARG0*)	(ARG0*)
+chtb_0089	0	55	-	HYPH	*	-	-	-	-	*	*
+chtb_0089	0	56	owned	VBN	*)	own	01	-	-	(V*)	(V*)
+chtb_0089	0	57	net	JJ	*	-	-	-	-	(ARG1*)	(ARG1*)
+chtb_0089	0	58	assets	NNS	*)	asset	-	2	-	(C-ARG1*)	(C-ARG1*)
+chtb_0089	0	59	should	MD	(VP*	-	-	-	-	*	*
+chtb_0089	0	60	be	VB	(VP*	-	-	-	-	*	*
+chtb_0089	0	61	first	RB	(ADVP*)	-	-	-	-	*	*
+chtb_0089	0	62	sold	VBN	(VP*	sell	01	1	-	*	*
+chtb_0089	0	63	to	IN	(PP*	-	-	-	-	*	*
+chtb_0089	0	64	employees	NNS	(NP(NP*)	-	-	-	-	*	*
+chtb_0089	0	65	of	IN	(PP*	-	-	-	-	*	*
+chtb_0089	0	66	these	DT	(NP*	-	-	-	-	*	*
+chtb_0089	0	67	enterprises	NNS	*))))))))))	-	-	-	-	*	*
+chtb_0089	0	68	.	.	*))	-	-	-	-	*	*
+
+chtb_0089	0	0	Income	NN	(TOP(S(NP(NP*)	-	-	-	-	-
+chtb_0089	0	1	from	IN	(PP*	-	-	-	-	-
+chtb_0089	0	2	transferring	VBG	(S(VP*	transfer	01	1	-	-
+chtb_0089	0	3	enterprise	NN	(NP*	-	-	-	-	-
+chtb_0089	0	4	property	NN	*	property	-	1	-	-
+chtb_0089	0	5	rights	NNS	*)))))	-	-	-	-	-
+chtb_0089	0	6	should	MD	(VP(VP*	-	-	-	-	-
+chtb_0089	0	7	not	RB	(CONJP*	-	-	-	-	-
+chtb_0089	0	8	only	RB	*)	-	-	-	-	-
+chtb_0089	0	9	be	VB	(VP*	-	-	-	-	-
+chtb_0089	0	10	used	VBN	(VP*	use	01	1	-	-
+chtb_0089	0	11	for	IN	(PP*	-	-	-	-	-
+chtb_0089	0	12	settling	VBG	(S(VP*	settle	03	-	-	-
+chtb_0089	0	13	employees	NNS	(NP*)))))))	-	-	-	-	-
+chtb_0089	0	14	,	,	*	-	-	-	-	-
+chtb_0089	0	15	but	CC	(CONJP*	-	-	-	-	-
+chtb_0089	0	16	also	RB	*)	-	-	-	-	-
+chtb_0089	0	17	should	MD	(VP*	-	-	-	-	-
+chtb_0089	0	18	be	VB	(VP*	-	-	-	-	-
+chtb_0089	0	19	collected	VBN	(VP*	collect	01	2	-	-
+chtb_0089	0	20	for	IN	(PP*	-	-	-	-	-
+chtb_0089	0	21	re-investment	NN	(NP*))))))	-	-	-	-	-
+chtb_0089	0	22	.	.	*))	-	-	-	-	-
+
+chtb_0089	0	0	Through	IN	(TOP(S(S(PP*	-	-	-	-	-
+chtb_0089	0	1	evaluation	NNP	(NP*))	-	-	-	-	-
+chtb_0089	0	2	,	,	*	-	-	-	-	-
+chtb_0089	0	3	enterprises	NNS	(NP(NP*)	-	-	-	-	(0
+chtb_0089	0	4	whose	WP$	(SBAR(WHNP*	-	-	-	-	-
+chtb_0089	0	5	assets	NNS	*	asset	-	2	-	-
+chtb_0089	0	6	and	CC	*	-	-	-	-	-
+chtb_0089	0	7	debt	NN	*)	debt	-	2	-	-
+chtb_0089	0	8	are	VBP	(S(VP*	be	-	1	-	-
+chtb_0089	0	9	quite	RB	(ADJP*	-	-	-	-	-
+chtb_0089	0	10	balanced	JJ	*)))))	-	-	-	-	0)
+chtb_0089	0	11	will	MD	(VP*	-	-	-	-	-
+chtb_0089	0	12	implement	VB	(VP*	implement	01	1	-	-
+chtb_0089	0	13	a	DT	(NP*	-	-	-	-	-
+chtb_0089	0	14	"	``	(NML*	-	-	-	-	-
+chtb_0089	0	15	zero	CD	*	-	-	-	-	-
+chtb_0089	0	16	assets	NNS	*	asset	-	2	-	-
+chtb_0089	0	17	"	''	*)	-	-	-	-	-
+chtb_0089	0	18	sale	NN	*))))	sale	01	1	-	-
+chtb_0089	0	19	and	CC	*	-	-	-	-	-
+chtb_0089	0	20	debt	NN	(S(NP*)	debt	-	2	-	-
+chtb_0089	0	21	will	MD	(VP*	-	-	-	-	-
+chtb_0089	0	22	go	VB	(VP*	go	22	8	-	-
+chtb_0089	0	23	with	IN	(PP*	-	-	-	-	-
+chtb_0089	0	24	the	DT	(NP*	-	-	-	-	-
+chtb_0089	0	25	assets	NNS	*)))))	asset	-	2	-	-
+chtb_0089	0	26	.	.	*))	-	-	-	-	-
+
+chtb_0089	0	0	If	IN	(TOP(S(SBAR*	-	-	-	-	-
+chtb_0089	0	1	sold	VBN	(FRAG(VP*	sell	01	1	-	-
+chtb_0089	0	2	to	IN	(PP*	-	-	-	-	-
+chtb_0089	0	3	employees	NNS	(NP*)))))	-	-	-	-	-
+chtb_0089	0	4	,	,	*	-	-	-	-	-
+chtb_0089	0	5	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0089	0	6	form	NN	*)	form	-	1	-	-
+chtb_0089	0	7	of	IN	(PP*	-	-	-	-	-
+chtb_0089	0	8	these	DT	(NP(NP*	-	-	-	-	(0
+chtb_0089	0	9	enterprise	NN	*	-	-	-	-	-
+chtb_0089	0	10	's	POS	*)	-	-	-	-	0)
+chtb_0089	0	11	ownership	NN	(NML(NML*	-	-	-	-	-
+chtb_0089	0	12	system	NN	*)	-	-	-	-	-
+chtb_0089	0	13	and	CC	*	-	-	-	-	-
+chtb_0089	0	14	employee	NN	(NML*	-	-	-	-	-
+chtb_0089	0	15	status	NN	*)))))	status	-	1	-	-
+chtb_0089	0	16	will	MD	(VP*	-	-	-	-	-
+chtb_0089	0	17	be	VB	(VP*	-	-	-	-	-
+chtb_0089	0	18	changed	VBN	(VP*	change	01	1	-	-
+chtb_0089	0	19	at	IN	(PP*	-	-	-	-	-
+chtb_0089	0	20	the	DT	(NP*	-	-	-	-	-
+chtb_0089	0	21	same	JJ	*	-	-	-	-	-
+chtb_0089	0	22	time	NN	*)))))	time	-	12	-	-
+chtb_0089	0	23	.	.	*))	-	-	-	-	-
+
+chtb_0089	0	0	If	IN	(TOP(S(SBAR*	-	-	-	-	-	-
+chtb_0089	0	1	sold	VBN	(S(VP*	sell	01	1	-	-	-
+chtb_0089	0	2	to	IN	(PP*	-	-	-	-	-	-
+chtb_0089	0	3	a	DT	(NP(NP*	-	-	-	-	-	-
+chtb_0089	0	4	legal	JJ	*	-	-	-	-	-	-
+chtb_0089	0	5	person	NN	*)	person	-	1	-	-	-
+chtb_0089	0	6	or	CC	*	-	-	-	-	-	-
+chtb_0089	0	7	an	DT	(NP(NP*	-	-	-	-	-	-
+chtb_0089	0	8	ordinary	JJ	*	-	-	-	-	-	-
+chtb_0089	0	9	person	NN	*)	person	-	1	-	-	-
+chtb_0089	0	10	who	WP	(SBAR(WHNP*)	-	-	-	-	-	-
+chtb_0089	0	11	accepts	VBZ	(S(VP*	accept	01	1	-	-	-
+chtb_0089	0	12	settling	VBG	(S(VP*	settle	03	-	-	-	-
+chtb_0089	0	13	employees	NNS	(NP*))))))))))))	-	-	-	-	-	-
+chtb_0089	0	14	,	,	*	-	-	-	-	-	-
+chtb_0089	0	15	the	DT	(NP(NP*	-	-	-	-	-	-
+chtb_0089	0	16	cost	NN	*)	cost	-	1	-	-	-
+chtb_0089	0	17	of	IN	(PP*	-	-	-	-	-	-
+chtb_0089	0	18	buying	VBG	(S(VP*	buy	01	2	-	-	-
+chtb_0089	0	19	seniority	NN	(NP(NP*)	-	-	-	-	-	-
+chtb_0089	0	20	of	IN	(PP*	-	-	-	-	-	-
+chtb_0089	0	21	state	NN	(NP(ADJP*	state	-	2	-	-	-
+chtb_0089	0	22	-	HYPH	*	-	-	-	-	-	-
+chtb_0089	0	23	owned	VBN	*)	own	01	-	-	-	-
+chtb_0089	0	24	employees	NNS	*)))))))	-	-	-	-	-	-
+chtb_0089	0	25	,	,	*	-	-	-	-	-	-
+chtb_0089	0	26	can	MD	(VP*	-	-	-	-	-	-
+chtb_0089	0	27	be	VB	(VP*	-	-	-	-	-	-
+chtb_0089	0	28	resolved	VBN	(VP*	resolve	01	2	-	-	-
+chtb_0089	0	29	by	IN	(PP*	-	-	-	-	-	-
+chtb_0089	0	30	adopting	VBG	(S(VP*	adopt	01	1	-	-	-
+chtb_0089	0	31	the	DT	(NP(NP*	-	-	-	-	-	-
+chtb_0089	0	32	method	NN	*)	-	-	-	-	-	-
+chtb_0089	0	33	of	IN	(PP*	-	-	-	-	-	-
+chtb_0089	0	34	reducing	VBG	(S(VP*	reduce	01	1	-	-	-
+chtb_0089	0	35	or	CC	*	-	-	-	-	-	-
+chtb_0089	0	36	eliminating	VBG	*	eliminate	01	-	-	-	-
+chtb_0089	0	37	local	JJ	(NP*	-	-	-	-	-	-
+chtb_0089	0	38	taxes	NNS	*)))))))))))	tax	-	1	-	-	-
+chtb_0089	0	39	.	.	*))	-	-	-	-	-	-
+
+chtb_0089	0	0	If	IN	(TOP(S(SBAR*	-	-	-	-	-
+chtb_0089	0	1	not	RB	(FRAG(VP*	-	-	-	-	-
+chtb_0089	0	2	settling	VBG	*	settle	03	-	-	-
+chtb_0089	0	3	employees	NNS	(NP*))))	-	-	-	-	-
+chtb_0089	0	4	,	,	*	-	-	-	-	-
+chtb_0089	0	5	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0089	0	6	cost	NN	*)	cost	-	1	-	-
+chtb_0089	0	7	of	IN	(PP*	-	-	-	-	-
+chtb_0089	0	8	buying	VBG	(S(VP*	buy	01	2	-	-
+chtb_0089	0	9	seniority	NN	(NP*)))))	-	-	-	-	-
+chtb_0089	0	10	will	MD	(VP*	-	-	-	-	-
+chtb_0089	0	11	be	VB	(VP*	-	-	-	-	-
+chtb_0089	0	12	paid	VBN	(VP*	pay	01	1	-	-
+chtb_0089	0	13	from	IN	(PP*	-	-	-	-	-
+chtb_0089	0	14	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0089	0	15	sale	NN	*	sale	-	1	-	-
+chtb_0089	0	16	income	NN	*)	-	-	-	-	-
+chtb_0089	0	17	of	IN	(PP*	-	-	-	-	-
+chtb_0089	0	18	the	DT	(NP*	-	-	-	-	-
+chtb_0089	0	19	state	NN	(ADJP*	state	-	2	-	-
+chtb_0089	0	20	-	HYPH	*	-	-	-	-	-
+chtb_0089	0	21	owned	VBN	*)	own	01	-	-	-
+chtb_0089	0	22	net	JJ	*	-	-	-	-	-
+chtb_0089	0	23	assets	NNS	*))))	asset	-	2	-	-
+chtb_0089	0	24	according	VBG	(PP*	-	-	-	-	-
+chtb_0089	0	25	to	IN	(PP*	-	-	-	-	-
+chtb_0089	0	26	the	DT	(NP*	-	-	-	-	-
+chtb_0089	0	27	financial	JJ	(NML*	-	-	-	-	-
+chtb_0089	0	28	affiliation	NN	*)	-	-	-	-	-
+chtb_0089	0	29	relationship	NN	*))))))	relationship	01	3	-	-
+chtb_0089	0	30	.	.	*))	-	-	-	-	-
+
+chtb_0089	0	0	For	IN	(TOP(S(PP*	-	-	-	-	-
+chtb_0089	0	1	enterprises	NNS	(NP(NP*)	-	-	-	-	-
+chtb_0089	0	2	whose	WP$	(SBAR(SBAR(WHNP*	-	-	-	-	-
+chtb_0089	0	3	assets	NNS	*)	asset	-	2	-	-
+chtb_0089	0	4	do	VBP	(S(VP*	do	01	-	-	-
+chtb_0089	0	5	not	RB	*	-	-	-	-	-
+chtb_0089	0	6	offset	VB	(VP*	offset	01	1	-	-
+chtb_0089	0	7	debt	NN	(NP*)))))	debt	-	2	-	-
+chtb_0089	0	8	and	CC	*	-	-	-	-	-
+chtb_0089	0	9	that	WDT	(SBAR(WHNP*)	-	-	-	-	-
+chtb_0089	0	10	are	VBP	(S(VP*	be	-	1	-	-
+chtb_0089	0	11	on	IN	(PP*	-	-	-	-	-
+chtb_0089	0	12	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0089	0	13	verge	NN	*)	-	-	-	-	-
+chtb_0089	0	14	of	IN	(PP*	-	-	-	-	-
+chtb_0089	0	15	bankruptcy	NN	(NP*))))))))))	bankruptcy	01	2	-	-
+chtb_0089	0	16	,	,	*	-	-	-	-	-
+chtb_0089	0	17	measures	NNS	(NP*)	measure	-	4	-	-
+chtb_0089	0	18	can	MD	(VP*	-	-	-	-	-
+chtb_0089	0	19	be	VB	(VP*	-	-	-	-	-
+chtb_0089	0	20	adopted	VBN	(VP*	adopt	01	1	-	-
+chtb_0089	0	21	for	IN	(PP*	-	-	-	-	-
+chtb_0089	0	22	reorganization	NN	(NP*))	-	-	-	-	-
+chtb_0089	0	23	such	JJ	(PP*	-	-	-	-	-
+chtb_0089	0	24	as	IN	*	-	-	-	-	-
+chtb_0089	0	25	reorganizing	VBG	(S(S(VP*	reorganize	01	-	-	-
+chtb_0089	0	26	enterprise	NN	(NP*	-	-	-	-	-
+chtb_0089	0	27	management	NN	*	management	-	2	-	-
+chtb_0089	0	28	levels	NNS	*)))	level	-	5	-	-
+chtb_0089	0	29	,	,	*	-	-	-	-	-
+chtb_0089	0	30	changing	VBG	(S(VP*	change	01	1	-	-
+chtb_0089	0	31	methods	NNS	(NP(NP*)	-	-	-	-	-
+chtb_0089	0	32	of	IN	(PP*	-	-	-	-	-
+chtb_0089	0	33	enterprise	NN	(NP(NML*	-	-	-	-	-
+chtb_0089	0	34	assets	NNS	*)	asset	-	2	-	-
+chtb_0089	0	35	operation	NN	*)))))	operation	-	5	-	-
+chtb_0089	0	36	,	,	*	-	-	-	-	-
+chtb_0089	0	37	and	CC	*	-	-	-	-	-
+chtb_0089	0	38	guiding	VBG	(S(VP*	guide	01	2	-	-
+chtb_0089	0	39	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0089	0	40	enterprise	JJ	*	-	-	-	-	-
+chtb_0089	0	41	organization	NN	*)	organization	-	2	-	-
+chtb_0089	0	42	of	IN	(PP*	-	-	-	-	-
+chtb_0089	0	43	structural	JJ	(NP*	-	-	-	-	-
+chtb_0089	0	44	adjustment	NN	*)))))	adjustment	01	1	-	-
+chtb_0089	0	45	,	,	*	-	-	-	-	-
+chtb_0089	0	46	etc	FW	(ADVP*))))))	-	-	-	-	-
+chtb_0089	0	47	.	.	*))	-	-	-	-	-
+
+chtb_0089	0	0	For	IN	(TOP(S(PP*	-	-	-	-	-
+chtb_0089	0	1	enterprises	NNS	(NP(NP*)	-	-	-	-	-
+chtb_0089	0	2	with	IN	(PP*	-	-	-	-	-
+chtb_0089	0	3	no	DT	(NP(NP*	-	-	-	-	-
+chtb_0089	0	4	hope	NN	*)	hope	-	3	-	-
+chtb_0089	0	5	of	IN	(PP*	-	-	-	-	-
+chtb_0089	0	6	revival	NN	(NP*))))))	-	-	-	-	-
+chtb_0089	0	7	,	,	*	-	-	-	-	-
+chtb_0089	0	8	bankruptcy	NN	(NP*)	bankruptcy	-	2	-	-
+chtb_0089	0	9	must	MD	(VP*	-	-	-	-	-
+chtb_0089	0	10	resolutely	RB	(ADVP*)	-	-	-	-	-
+chtb_0089	0	11	be	VB	(VP*	-	-	-	-	-
+chtb_0089	0	12	implemented	VBN	(VP*	implement	01	1	-	-
+chtb_0089	0	13	according	VBG	(PP*	-	-	-	-	-
+chtb_0089	0	14	to	IN	(PP*	-	-	-	-	-
+chtb_0089	0	15	law	NN	(NP*))))))	law	-	1	-	-
+chtb_0089	0	16	.	.	*))	-	-	-	-	-
+
+chtb_0089	0	0	At	IN	(TOP(S(S(PP*	-	-	-	-	-
+chtb_0089	0	1	bankruptcy	NN	(NP*))	bankruptcy	01	2	-	-
+chtb_0089	0	2	,	,	*	-	-	-	-	-
+chtb_0089	0	3	income	NN	(NP(NP*)	-	-	-	-	-
+chtb_0089	0	4	from	IN	(PP*	-	-	-	-	-
+chtb_0089	0	5	liquidating	VBG	(S(VP*	liquidate	01	-	-	-
+chtb_0089	0	6	assets	NNS	(NP*)))))	asset	-	2	-	-
+chtb_0089	0	7	should	MD	(VP*	-	-	-	-	-
+chtb_0089	0	8	be	VB	(VP*	-	-	-	-	-
+chtb_0089	0	9	used	VBN	(VP*	use	01	3	-	-
+chtb_0089	0	10	first	RB	(ADVP*)	-	-	-	-	-
+chtb_0089	0	11	to	TO	(S(VP*	-	-	-	-	-
+chtb_0089	0	12	settle	VB	(VP*	settle	03	2	-	-
+chtb_0089	0	13	employees	NNS	(NP*))))))))	-	-	-	-	-
+chtb_0089	0	14	and	CC	*	-	-	-	-	-
+chtb_0089	0	15	insufficiencies	NNS	(S(NP*)	-	-	-	-	-
+chtb_0089	0	16	should	MD	(VP*	-	-	-	-	-
+chtb_0089	0	17	be	VB	(VP*	-	-	-	-	-
+chtb_0089	0	18	made	VBN	(VP*	make	16	16	-	-
+chtb_0089	0	19	up	RP	(PRT*)	-	-	-	-	-
+chtb_0089	0	20	for	IN	(PP*)	-	-	-	-	-
+chtb_0089	0	21	from	IN	(PP*	-	-	-	-	-
+chtb_0089	0	22	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0089	0	23	sale	NN	*)	sale	01	1	-	-
+chtb_0089	0	24	of	IN	(PP*	-	-	-	-	-
+chtb_0089	0	25	real	JJ	(NP*	-	-	-	-	-
+chtb_0089	0	26	estate	NN	*))))))))	estate	-	2	-	-
+chtb_0089	0	27	.	.	*))	-	-	-	-	-
+
+chtb_0089	0	0	Stock	NN	(TOP(S(NP*	stock	-	1	-	-
+chtb_0089	0	1	cooperatives	NNS	*)	-	-	-	-	-
+chtb_0089	0	2	are	VBP	(VP*	be	-	1	-	-
+chtb_0089	0	3	an	DT	(NP(NP*	-	-	-	-	(1
+chtb_0089	0	4	important	JJ	*	-	-	-	-	-
+chtb_0089	0	5	form	NN	*)	form	-	5	-	-
+chtb_0089	0	6	of	IN	(PP*	-	-	-	-	-
+chtb_0089	0	7	opening	VBG	(S(VP*	open	-	1	-	-
+chtb_0089	0	8	up	RP	(PRT*)	-	-	-	-	-
+chtb_0089	0	9	small	JJ	(NP*	-	-	-	-	-
+chtb_0089	0	10	state	NN	(ADJP*	state	-	2	-	-
+chtb_0089	0	11	-	HYPH	*	-	-	-	-	-
+chtb_0089	0	12	owned	VBN	*)	own	01	-	-	-
+chtb_0089	0	13	enterprises	NNS	*))))))	-	-	-	-	1)
+chtb_0089	0	14	.	.	*))	-	-	-	-	-
+
+chtb_0089	0	0	Enterprises	NNP	(TOP(S(NP(NP*)	-	-	-	-	-
+chtb_0089	0	1	whose	WP$	(SBAR(WHNP*	-	-	-	-	-
+chtb_0089	0	2	system	NN	*)	system	-	1	-	-
+chtb_0089	0	3	is	VBZ	(S(VP*	-	-	-	-	-
+chtb_0089	0	4	changed	VBN	(VP*	change	01	1	-	-
+chtb_0089	0	5	in	IN	(PP*	-	-	-	-	-
+chtb_0089	0	6	this	DT	(NP*	-	-	-	-	(1
+chtb_0089	0	7	form	NN	*)))))))	form	-	1	-	1)
+chtb_0089	0	8	can	MD	(VP*	-	-	-	-	-
+chtb_0089	0	9	enjoy	VB	(VP*	enjoy	01	2	-	-
+chtb_0089	0	10	preferential	JJ	(NP(NP*	-	-	-	-	-
+chtb_0089	0	11	policies	NNS	*)	policy	-	1	-	-
+chtb_0089	0	12	,	,	*	-	-	-	-	-
+chtb_0089	0	13	such	JJ	(PP*	-	-	-	-	-
+chtb_0089	0	14	as	IN	*	-	-	-	-	-
+chtb_0089	0	15	income	NN	(S(S(NP*	-	-	-	-	(4
+chtb_0089	0	16	taxes	NNS	*)	tax	-	1	-	4)
+chtb_0089	0	17	being	VBG	(VP*	-	-	-	-	-
+chtb_0089	0	18	returned	VBN	(VP*	return	02	2	-	-
+chtb_0089	0	19	when	WRB	(SBAR(WHADVP*)	-	-	-	-	-
+chtb_0089	0	20	they	PRP	(S(NP*)	-	-	-	-	(4)
+chtb_0089	0	21	exceed	VBP	(VP*	exceed	01	1	-	-
+chtb_0089	0	22	the	DT	(NP*	-	-	-	-	-
+chtb_0089	0	23	base	NN	*)))))))	base	-	1	-	-
+chtb_0089	0	24	,	,	*	-	-	-	-	-
+chtb_0089	0	25	temporarily	RB	(S(ADVP*)	-	-	-	-	-
+chtb_0089	0	26	not	RB	(VP*	-	-	-	-	-
+chtb_0089	0	27	levying	VBG	*	levy	01	-	-	-
+chtb_0089	0	28	business	NN	(NP*	business	-	1	-	-
+chtb_0089	0	29	tax	NN	*)	tax	-	1	-	-
+chtb_0089	0	30	on	IN	(PP*	-	-	-	-	-
+chtb_0089	0	31	fixed	VBN	(NP*	fix	03	-	-	-
+chtb_0089	0	32	assets	NNS	*))))	asset	-	2	-	-
+chtb_0089	0	33	,	,	*	-	-	-	-	-
+chtb_0089	0	34	etc	FW	(ADVP*))))))	-	-	-	-	-
+chtb_0089	0	35	.	.	*))	-	-	-	-	-
+
+chtb_0089	0	0	For	IN	(TOP(S(S(PP*	-	-	-	-	-
+chtb_0089	0	1	those	DT	(NP(NP*)	-	-	-	-	-
+chtb_0089	0	2	implementing	VBG	(VP*	implement	01	1	-	-
+chtb_0089	0	3	mergers	NNS	(NP*))))	-	-	-	-	-
+chtb_0089	0	4	,	,	*	-	-	-	-	-
+chtb_0089	0	5	the	DT	(NP*	-	-	-	-	-
+chtb_0089	0	6	merging	VBG	*	merge	01	-	-	-
+chtb_0089	0	7	party	NN	*)	-	-	-	-	-
+chtb_0089	0	8	can	MD	(VP*	-	-	-	-	-
+chtb_0089	0	9	enjoy	VB	(VP*	enjoy	01	2	-	-
+chtb_0089	0	10	policy	NN	(NP(NP(NML*	policy	-	1	-	-
+chtb_0089	0	11	-	HYPH	*	-	-	-	-	-
+chtb_0089	0	12	type	NN	*)	type	-	1	-	-
+chtb_0089	0	13	loss	NN	*	loss	-	3	-	-
+chtb_0089	0	14	subsidies	NNS	*)	-	-	-	-	-
+chtb_0089	0	15	of	IN	(PP*	-	-	-	-	-
+chtb_0089	0	16	the	DT	(NP*	-	-	-	-	-
+chtb_0089	0	17	merged	VBN	*	merge	01	-	-	-
+chtb_0089	0	18	enterprise	NN	*))))))	-	-	-	-	-
+chtb_0089	0	19	,	,	*	-	-	-	-	-
+chtb_0089	0	20	or	CC	*	-	-	-	-	-
+chtb_0089	0	21	the	DT	(S(NP*	-	-	-	-	-
+chtb_0089	0	22	enterprise	NN	*	-	-	-	-	-
+chtb_0089	0	23	accumulation	NN	*	accumulation	-	3	-	-
+chtb_0089	0	24	fund	NN	*)	fund	-	1	-	-
+chtb_0089	0	25	can	MD	(VP*	-	-	-	-	-
+chtb_0089	0	26	also	RB	(ADVP*)	-	-	-	-	-
+chtb_0089	0	27	be	VB	(VP*	-	-	-	-	-
+chtb_0089	0	28	used	VBN	(VP*	use	01	1	-	-
+chtb_0089	0	29	to	TO	(S(VP*	-	-	-	-	-
+chtb_0089	0	30	compensate	VB	(VP*	compensate	01	2	-	-
+chtb_0089	0	31	for	IN	(PP*	-	-	-	-	-
+chtb_0089	0	32	loss	NN	(NP*)))))))))	loss	-	3	-	-
+chtb_0089	0	33	,	,	*	-	-	-	-	-
+chtb_0089	0	34	and	CC	*	-	-	-	-	-
+chtb_0089	0	35	insufficiencies	NNS	(S(NP*)	-	-	-	-	-
+chtb_0089	0	36	can	MD	(VP*	-	-	-	-	-
+chtb_0089	0	37	be	VB	(VP*	-	-	-	-	-
+chtb_0089	0	38	listed	VBN	(VP*	list	01	1	-	-
+chtb_0089	0	39	as	IN	(PP*	-	-	-	-	-
+chtb_0089	0	40	pre-tax	JJ	(NP*	-	-	-	-	-
+chtb_0089	0	41	expenditures	NNS	*))))))	expenditure	-	1	-	-
+chtb_0089	0	42	.	.	*))	-	-	-	-	-
+
+chtb_0089	0	0	Non-bank	JJ	(TOP(S(S(NP(NP*	-	-	-	-	*	*
+chtb_0089	0	1	debt	NN	*)	debt	-	2	-	*	*
+chtb_0089	0	2	of	IN	(PP*	-	-	-	-	*	*
+chtb_0089	0	3	reformed	VBN	(NP*	reform	01	-	-	*	*
+chtb_0089	0	4	enterprises	NNS	*)))	-	-	-	-	*	*
+chtb_0089	0	5	can	MD	(VP*	-	-	-	-	*	*
+chtb_0089	0	6	be	VB	(VP*	-	-	-	-	*	*
+chtb_0089	0	7	transferred	VBN	(VP*	transfer	01	1	-	*	*
+chtb_0089	0	8	from	IN	(PP*	-	-	-	-	*	*
+chtb_0089	0	9	creditor	NN	(NP*	-	-	-	-	*	*
+chtb_0089	0	10	rights	NNS	*))	-	-	-	-	*	*
+chtb_0089	0	11	to	IN	(PP*	-	-	-	-	*	*
+chtb_0089	0	12	stock	NN	(NP*	stock	-	1	-	*	*
+chtb_0089	0	13	ownership	NN	*))))))	ownership	01	1	-	*	*
+chtb_0089	0	14	;	,	*	-	-	-	-	*	*
+chtb_0089	0	15	those	DT	(S(NP(NP*)	-	-	-	-	(ARG0*	(ARG0*
+chtb_0089	0	16	having	VBG	(VP*	have	03	4	-	*	*
+chtb_0089	0	17	difficulty	NN	(NP(NP*)	difficulty	-	1	-	*	*
+chtb_0089	0	18	paying	VBG	(S(VP*	pay	01	1	-	*	*
+chtb_0089	0	19	taxes	NNS	(NP*))))))	tax	-	1	-	*)	*)
+chtb_0089	0	20	,	,	*	-	-	-	-	*	*
+chtb_0089	0	21	can	MD	(VP*	-	-	-	-	*	*
+chtb_0089	0	22	implement	VB	(VP*	implement	01	1	-	*	*
+chtb_0089	0	23	"	``	(S*	-	-	-	-	*	*
+chtb_0089	0	24	temporarily	RB	(VP(VP(VP(ADVP*)	-	-	-	-	*	*
+chtb_0089	0	25	postponing	VBG	*	postpone	01	1	-	*	*
+chtb_0089	0	26	old	JJ	(NP*	-	-	-	-	*	*
+chtb_0089	0	27	debt	NN	*))	debt	-	2	-	*	*
+chtb_0089	0	28	but	CC	*	-	-	-	-	*	*
+chtb_0089	0	29	not	RB	(VP*	-	-	-	-	*	*
+chtb_0089	0	30	owing	VBG	*	owe	01	1	-	*	*
+chtb_0089	0	31	on	IN	(PP*	-	-	-	-	*	*
+chtb_0089	0	32	new	JJ	(NP*	-	-	-	-	*	*
+chtb_0089	0	33	taxes	NNS	*))))	tax	-	1	-	*	*
+chtb_0089	0	34	,	,	*	-	-	-	-	*	*
+chtb_0089	0	35	and	CC	*	-	-	-	-	*	*
+chtb_0089	0	36	suspending	VBG	(VP(VP*	suspend	01	3	-	*	*
+chtb_0089	0	37	taxes	NNS	(NP*))	tax	-	1	-	*	*
+chtb_0089	0	38	and	CC	*	-	-	-	-	*	*
+chtb_0089	0	39	waiving	VBG	(VP*	waive	01	1	-	(V*)	(V*)
+chtb_0089	0	40	fines	NNS	(NP*)))	-	-	-	-	(ARG1*)	(ARG1*)
+chtb_0089	0	41	,	,	*	-	-	-	-	*	*
+chtb_0089	0	42	and	CC	*	-	-	-	-	*	*
+chtb_0089	0	43	paying	VBG	(VP*	pay	02	1	-	*	*
+chtb_0089	0	44	off	RP	(PRT*)	-	-	-	-	*	*
+chtb_0089	0	45	year	NN	(NP(NP*)	-	-	-	-	*	*
+chtb_0089	0	46	by	IN	(PP*	-	-	-	-	*	*
+chtb_0089	0	47	year	NN	(NP*)))))	-	-	-	-	*	*
+chtb_0089	0	48	"	''	*))))	-	-	-	-	*	*
+chtb_0089	0	49	.	.	*))	-	-	-	-	*	*
+
+chtb_0089	0	0	-LRB-	-LRB-	(TOP(NP*	-	-	-	-	-
+chtb_0089	0	1	End	NN	*	end	-	4	-	-
+chtb_0089	0	2	-RRB-	-RRB-	*))	-	-	-	-	-
+
+#end document

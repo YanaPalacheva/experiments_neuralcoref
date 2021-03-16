@@ -1,0 +1,843 @@
+#begin document (cnn_0008_7); part 000
+cnn_0008	7	0	On	-
+cnn_0008	7	1	that	-
+cnn_0008	7	2	point	-
+cnn_0008	7	3	let	-
+cnn_0008	7	4	me	(77)
+cnn_0008	7	5	read	-
+cnn_0008	7	6	a	(73
+cnn_0008	7	7	statement	-
+cnn_0008	7	8	from	-
+cnn_0008	7	9	a	(85
+cnn_0008	7	10	Sixty	(21
+cnn_0008	7	11	Minutes	21)
+cnn_0008	7	12	spokesman	85)|73)
+cnn_0008	7	13	/.	-
+
+cnn_0008	7	0	And	*	*
+cnn_0008	7	1	this	*	*
+cnn_0008	7	2	involves	*	*
+cnn_0008	7	3	uh	*	*
+cnn_0008	7	4	their	*	*
+cnn_0008	7	5	saying	*	*
+cnn_0008	7	6	that	*	*
+cnn_0008	7	7	they	*	*
+cnn_0008	7	8	contacted	*	*
+cnn_0008	7	9	Clinton	*	*
+cnn_0008	7	10	's	*	*
+cnn_0008	7	11	office	*	*
+cnn_0008	7	12	back	*	*
+cnn_0008	7	13	in	*	*
+cnn_0008	7	14	August	*	*
+cnn_0008	7	15	with	*	*
+cnn_0008	7	16	a	*	*
+cnn_0008	7	17	detailed	*	*
+cnn_0008	7	18	list	*	*
+cnn_0008	7	19	of	*	*
+cnn_0008	7	20	charges	*	*
+cnn_0008	7	21	and	*	*
+cnn_0008	7	22	then	*	*
+cnn_0008	7	23	quote	*	*
+cnn_0008	7	24	in	*	*
+cnn_0008	7	25	subsequent	*	*
+cnn_0008	7	26	phone	*	*
+cnn_0008	7	27	calls	*	*
+cnn_0008	7	28	the	*	*
+cnn_0008	7	29	President	*	*
+cnn_0008	7	30	's	*	*
+cnn_0008	7	31	people	*	*
+cnn_0008	7	32	said	*	*
+cnn_0008	7	33	he	(ARG1*)	(ARG1*)
+cnn_0008	7	34	did	*	*
+cnn_0008	7	35	not	*	*
+cnn_0008	7	36	want	*	*
+cnn_0008	7	37	to	*	*
+cnn_0008	7	38	be	*	*
+cnn_0008	7	39	interviewed	(V*)	(V*)
+cnn_0008	7	40	/.	*	*
+
+cnn_0008	7	0	They	(11)	(11)
+cnn_0008	7	1	gave	-	-
+cnn_0008	7	2	no	-	-
+cnn_0008	7	3	+substantive	-	-
+cnn_0008	7	4	response	-	-
+cnn_0008	7	5	to	-	-
+cnn_0008	7	6	any	-	-
+cnn_0008	7	7	of	-	-
+cnn_0008	7	8	the	(193	(193
+cnn_0008	7	9	allegations	193)	193)
+cnn_0008	7	10	until	-	-
+cnn_0008	7	11	Lanny	(130	(130
+cnn_0008	7	12	Davis	130)	130)
+cnn_0008	7	13	launched	-	-
+cnn_0008	7	14	his	(130)	(130)
+cnn_0008	7	15	PR	-	-
+cnn_0008	7	16	campaign	-	-
+cnn_0008	7	17	on	-	-
+cnn_0008	7	18	the	-	-
+cnn_0008	7	19	Thursday	-	-
+cnn_0008	7	20	before	-	-
+cnn_0008	7	21	the	-	-
+cnn_0008	7	22	broadcast	-	-
+cnn_0008	7	23	and	-	-
+cnn_0008	7	24	offered	-	-
+cnn_0008	7	25	himself	(130)	(130)
+cnn_0008	7	26	as	-	-
+cnn_0008	7	27	the	-	-
+cnn_0008	7	28	person	-	-
+cnn_0008	7	29	from	-	-
+cnn_0008	7	30	the	(11	(11
+cnn_0008	7	31	camp	11)	11)
+cnn_0008	7	32	who	-	-
+cnn_0008	7	33	would	-	-
+cnn_0008	7	34	merely	-	-
+cnn_0008	7	35	disparage	-	-
+cnn_0008	7	36	and	-	-
+cnn_0008	7	37	attack	-	-
+cnn_0008	7	38	Freeh	(134)	(134)
+cnn_0008	7	39	rather	-	-
+cnn_0008	7	40	than	-	-
+cnn_0008	7	41	deal	-	-
+cnn_0008	7	42	with	-	-
+cnn_0008	7	43	his	(193|(134)	(193|(134)
+cnn_0008	7	44	allegations	193)	193)
+cnn_0008	7	45	/.	-	-
+
+cnn_0008	7	0	Denials	-
+cnn_0008	7	1	from	-
+cnn_0008	7	2	President	(12
+cnn_0008	7	3	Clinton	12)
+cnn_0008	7	4	and	-
+cnn_0008	7	5	Sandy	-
+cnn_0008	7	6	Berger	-
+cnn_0008	7	7	that	-
+cnn_0008	7	8	did	-
+cnn_0008	7	9	deal	-
+cnn_0008	7	10	with	-
+cnn_0008	7	11	Freeh	(134|(193
+cnn_0008	7	12	's	134)
+cnn_0008	7	13	allegations	193)
+cnn_0008	7	14	were	-
+cnn_0008	7	15	included	-
+cnn_0008	7	16	in	-
+cnn_0008	7	17	the	-
+cnn_0008	7	18	Sixty	(21
+cnn_0008	7	19	Minutes	21)
+cnn_0008	7	20	report	-
+cnn_0008	7	21	/.	-
+
+cnn_0008	7	0	Well	-
+cnn_0008	7	1	first	-
+cnn_0008	7	2	of	-
+cnn_0008	7	3	all	-
+cnn_0008	7	4	it	-
+cnn_0008	7	5	's	-
+cnn_0008	7	6	false	-
+cnn_0008	7	7	to	-
+cnn_0008	7	8	say	-
+cnn_0008	7	9	that	-
+cnn_0008	7	10	I	(130)
+cnn_0008	7	11	was	-
+cnn_0008	7	12	asking	-
+cnn_0008	7	13	to	-
+cnn_0008	7	14	disparage	-
+cnn_0008	7	15	Freeh	(134)
+cnn_0008	7	16	/.	-
+
+cnn_0008	7	0	I	(130)
+cnn_0008	7	1	was	-
+cnn_0008	7	2	asking	-
+cnn_0008	7	3	to	-
+cnn_0008	7	4	talk	-
+cnn_0008	7	5	about	-
+cnn_0008	7	6	facts	-
+cnn_0008	7	7	that	-
+cnn_0008	7	8	Freeh	(134)
+cnn_0008	7	9	was	-
+cnn_0008	7	10	saying	-
+cnn_0008	7	11	that	-
+cnn_0008	7	12	were	-
+cnn_0008	7	13	not	-
+cnn_0008	7	14	true	-
+cnn_0008	7	15	/.	-
+
+cnn_0008	7	0	You	(130)
+cnn_0008	7	1	do	-
+cnn_0008	7	2	n't	-
+cnn_0008	7	3	mind	-
+cnn_0008	7	4	disparaging	-
+cnn_0008	7	5	Freeh	(134)
+cnn_0008	7	6	/.	-
+
+cnn_0008	7	0	my	(77)
+cnn_0008	7	1	observation	-
+cnn_0008	7	2	/.	-
+
+cnn_0008	7	0	no	-
+cnn_0008	7	1	in	-
+cnn_0008	7	2	fact	-
+cnn_0008	7	3	I	(130)
+cnn_0008	7	4	disparage	-
+cnn_0008	7	5	any	(211
+cnn_0008	7	6	man	-
+cnn_0008	7	7	who	-
+cnn_0008	7	8	as	-
+cnn_0008	7	9	FBI	(82)
+cnn_0008	7	10	director	-
+cnn_0008	7	11	has	-
+cnn_0008	7	12	a	-
+cnn_0008	7	13	personal	-
+cnn_0008	7	14	pique	-
+cnn_0008	7	15	rather	-
+cnn_0008	7	16	than	-
+cnn_0008	7	17	doing	-
+cnn_0008	7	18	his	(211)
+cnn_0008	7	19	job	211)
+cnn_0008	7	20	/.	-
+
+cnn_0008	7	0	That	-
+cnn_0008	7	1	's	-
+cnn_0008	7	2	disparaging	-
+cnn_0008	7	3	/.	-
+
+cnn_0008	7	0	Secondly	-
+cnn_0008	7	1	it	-
+cnn_0008	7	2	is	-
+cnn_0008	7	3	absolutely	-
+cnn_0008	7	4	a	-
+cnn_0008	7	5	misrepresentation	-
+cnn_0008	7	6	that	-
+cnn_0008	7	7	they	(21)
+cnn_0008	7	8	told	-
+cnn_0008	7	9	us	(11)
+cnn_0008	7	10	before	-
+cnn_0008	7	11	just	-
+cnn_0008	7	12	the	-
+cnn_0008	7	13	week	-
+cnn_0008	7	14	before	-
+cnn_0008	7	15	/.	-
+
+cnn_0008	7	0	When	-
+cnn_0008	7	1	Mister	(99
+cnn_0008	7	2	Carson	-
+cnn_0008	7	3	the	-
+cnn_0008	7	4	representative	99)
+cnn_0008	7	5	spoke	-
+cnn_0008	7	6	to	-
+cnn_0008	7	7	Mister	(86
+cnn_0008	7	8	Wallace	86)
+cnn_0008	7	9	Mister	(86
+cnn_0008	7	10	Wallace	86)
+cnn_0008	7	11	agreed	-
+cnn_0008	7	12	that	-
+cnn_0008	7	13	they	(21)
+cnn_0008	7	14	had	-
+cnn_0008	7	15	never	-
+cnn_0008	7	16	verified	-
+cnn_0008	7	17	what	-
+cnn_0008	7	18	Mister	(134
+cnn_0008	7	19	uh	-
+cnn_0008	7	20	Freeh	134)
+cnn_0008	7	21	had	-
+cnn_0008	7	22	said	-
+cnn_0008	7	23	/.	-
+
+cnn_0008	7	0	They	(21)
+cnn_0008	7	1	never	-
+cnn_0008	7	2	talked	-
+cnn_0008	7	3	to	-
+cnn_0008	7	4	Mister	(134
+cnn_0008	7	5	Freeh	134)
+cnn_0008	7	6	/.	-
+
+cnn_0008	7	0	and	-
+cnn_0008	7	1	in	-
+cnn_0008	7	2	fact	-
+cnn_0008	7	3	it	-
+cnn_0008	7	4	was	-
+cnn_0008	7	5	n't	-
+cnn_0008	7	6	until	-
+cnn_0008	7	7	that	-
+cnn_0008	7	8	Friday	-
+cnn_0008	7	9	that	-
+cnn_0008	7	10	we	(11)
+cnn_0008	7	11	learned	-
+cnn_0008	7	12	the	-
+cnn_0008	7	13	substance	-
+cnn_0008	7	14	of	-
+cnn_0008	7	15	Mister	(134|(193
+cnn_0008	7	16	Freeh	-
+cnn_0008	7	17	's	134)
+cnn_0008	7	18	charges	193)
+cnn_0008	7	19	/.	-
+
+cnn_0008	7	0	So	-
+cnn_0008	7	1	Sixty	(21
+cnn_0008	7	2	Minutes	21)
+cnn_0008	7	3	I	(130)
+cnn_0008	7	4	think	-
+cnn_0008	7	5	has	-
+cnn_0008	7	6	just	-
+cnn_0008	7	7	said	-
+cnn_0008	7	8	something	-
+cnn_0008	7	9	that	-
+cnn_0008	7	10	is	-
+cnn_0008	7	11	false	-
+cnn_0008	7	12	/.	-
+
+cnn_0008	7	0	When	*	*
+cnn_0008	7	1	did	*	*
+cnn_0008	7	2	the	*	*
+cnn_0008	7	3	Clinton	*	*
+cnn_0008	7	4	team	*	*
+cnn_0008	7	5	find	*	*
+cnn_0008	7	6	out	*	*
+cnn_0008	7	7	that	*	*
+cnn_0008	7	8	Sixty	*	*
+cnn_0008	7	9	Minutes	*	*
+cnn_0008	7	10	was	*	*
+cnn_0008	7	11	going	*	*
+cnn_0008	7	12	to	*	*
+cnn_0008	7	13	report	*	*
+cnn_0008	7	14	that	*	*
+cnn_0008	7	15	Louis	*	*
+cnn_0008	7	16	Freeh	*	*
+cnn_0008	7	17	with	*	*
+cnn_0008	7	18	his	*	*
+cnn_0008	7	19	new	*	*
+cnn_0008	7	20	book	*	*
+cnn_0008	7	21	was	*	*
+cnn_0008	7	22	going	*	*
+cnn_0008	7	23	to	*	*
+cnn_0008	7	24	have	*	*
+cnn_0008	7	25	a	*	*
+cnn_0008	7	26	specific	*	*
+cnn_0008	7	27	allegation	*	*
+cnn_0008	7	28	about	*	*
+cnn_0008	7	29	Clinton	(ARG0*	(ARG0*
+cnn_0008	7	30	's	*)	*)
+cnn_0008	7	31	handling	(V*)	(V*)
+cnn_0008	7	32	of	(ARG1*	(ARG1*
+cnn_0008	7	33	the	*	*
+cnn_0008	7	34	Khobar	*	*
+cnn_0008	7	35	Towers	*	*
+cnn_0008	7	36	investigation	*)	*)
+cnn_0008	7	37	and	*	*
+cnn_0008	7	38	the	*	*
+cnn_0008	7	39	business	*	*
+cnn_0008	7	40	about	*	*
+cnn_0008	7	41	the	*	*
+cnn_0008	7	42	presidential	*	*
+cnn_0008	7	43	library	*	*
+cnn_0008	7	44	solicitation	*	*
+cnn_0008	7	45	/.	*	*
+
+cnn_0008	7	0	When	*	*
+cnn_0008	7	1	somebody	*	*
+cnn_0008	7	2	named	*	*
+cnn_0008	7	3	Howard	*	*
+cnn_0008	7	4	Kurtz	*	*
+cnn_0008	7	5	wrote	*	*
+cnn_0008	7	6	a	*	*
+cnn_0008	7	7	story	*	*
+cnn_0008	7	8	in	*	*
+cnn_0008	7	9	the	*	*
+cnn_0008	7	10	Washington	*	*
+cnn_0008	7	11	Post	*	*
+cnn_0008	7	12	on	*	*
+cnn_0008	7	13	Friday	*	*
+cnn_0008	7	14	morning	*	*
+cnn_0008	7	15	is	*	*
+cnn_0008	7	16	the	*	*
+cnn_0008	7	17	first	*	*
+cnn_0008	7	18	time	*	*
+cnn_0008	7	19	that	*	*
+cnn_0008	7	20	the	*	*
+cnn_0008	7	21	Clinton	*	*
+cnn_0008	7	22	forces	*	*
+cnn_0008	7	23	learned	*	*
+cnn_0008	7	24	about	*	*
+cnn_0008	7	25	that	*	*
+cnn_0008	7	26	false	*	*
+cnn_0008	7	27	and	*	*
+cnn_0008	7	28	demonstrably	*	*
+cnn_0008	7	29	false	*	*
+cnn_0008	7	30	charge	*	*
+cnn_0008	7	31	that	*	*
+cnn_0008	7	32	good	*	*
+cnn_0008	7	33	reporting	*	*
+cnn_0008	7	34	by	*	*
+cnn_0008	7	35	calling	*	*
+cnn_0008	7	36	people	*	*
+cnn_0008	7	37	who	*	*
+cnn_0008	7	38	were	*	*
+cnn_0008	7	39	at	*	*
+cnn_0008	7	40	the	*	*
+cnn_0008	7	41	meeting	*	*
+cnn_0008	7	42	could	*	*
+cnn_0008	7	43	have	*	*
+cnn_0008	7	44	done	*	*
+cnn_0008	7	45	would	*	*
+cnn_0008	7	46	have	(V*)	(V*)
+cnn_0008	7	47	verified	*	*
+cnn_0008	7	48	that	*	*
+cnn_0008	7	49	Mister	*	*
+cnn_0008	7	50	Freeh	*	*
+cnn_0008	7	51	made	*	*
+cnn_0008	7	52	a	*	*
+cnn_0008	7	53	false	*	*
+cnn_0008	7	54	charge	*	*
+cnn_0008	7	55	/.	*	*
+
+cnn_0008	7	0	And	-
+cnn_0008	7	1	even	-
+cnn_0008	7	2	since	-
+cnn_0008	7	3	that	-
+cnn_0008	7	4	interview	-
+cnn_0008	7	5	Mister	(134
+cnn_0008	7	6	Freeh	134)
+cnn_0008	7	7	has	-
+cnn_0008	7	8	backed	-
+cnn_0008	7	9	off	-
+cnn_0008	7	10	and	-
+cnn_0008	7	11	has	-
+cnn_0008	7	12	not	-
+cnn_0008	7	13	told	-
+cnn_0008	7	14	people	-
+cnn_0008	7	15	who	-
+cnn_0008	7	16	his	(171|(134)
+cnn_0008	7	17	source	171)
+cnn_0008	7	18	is	-
+cnn_0008	7	19	/.	-
+
+cnn_0008	7	0	and	-
+cnn_0008	7	1	he	(134)
+cnn_0008	7	2	has	-
+cnn_0008	7	3	n't	-
+cnn_0008	7	4	even	-
+cnn_0008	7	5	insisted	-
+cnn_0008	7	6	that	-
+cnn_0008	7	7	it	(120)
+cnn_0008	7	8	was	-
+cnn_0008	7	9	true	-
+cnn_0008	7	10	/.	-
+
+cnn_0008	7	0	He	(134)
+cnn_0008	7	1	just	-
+cnn_0008	7	2	said	-
+cnn_0008	7	3	somebody	(171)
+cnn_0008	7	4	told	-
+cnn_0008	7	5	him	(134)
+cnn_0008	7	6	it	(120)
+cnn_0008	7	7	was	-
+cnn_0008	7	8	true	-
+cnn_0008	7	9	/.	-
+
+cnn_0008	7	0	Hold	-
+cnn_0008	7	1	on	-
+cnn_0008	7	2	/.	-
+
+cnn_0008	7	0	Sixty	(85
+cnn_0008	7	1	Minutes	-
+cnn_0008	7	2	spokesman	-
+cnn_0008	7	3	Kevin	-
+cnn_0008	7	4	Tedesco	85)
+cnn_0008	7	5	said	-
+cnn_0008	7	6	in	-
+cnn_0008	7	7	the	(73
+cnn_0008	7	8	statement	-
+cnn_0008	7	9	I	(77)
+cnn_0008	7	10	just	-
+cnn_0008	7	11	referred	-
+cnn_0008	7	12	to	73)
+cnn_0008	7	13	that	-
+cnn_0008	7	14	the	(11
+cnn_0008	7	15	Clinton	(12)
+cnn_0008	7	16	office	11)
+cnn_0008	7	17	was	-
+cnn_0008	7	18	contacted	(70)
+cnn_0008	7	19	in	-
+cnn_0008	7	20	August	(128)
+cnn_0008	7	21	with	-
+cnn_0008	7	22	a	(135
+cnn_0008	7	23	detailed	-
+cnn_0008	7	24	list	-
+cnn_0008	7	25	of	-
+cnn_0008	7	26	charges	135)
+cnn_0008	7	27	/.	-
+
+cnn_0008	7	0	That	(70)
+cnn_0008	7	1	's	-
+cnn_0008	7	2	false	-
+cnn_0008	7	3	/.	-
+
+cnn_0008	7	0	Are	-
+cnn_0008	7	1	you	(130)
+cnn_0008	7	2	saying	-
+cnn_0008	7	3	that	(70)
+cnn_0008	7	4	's	-
+cnn_0008	7	5	false	-
+cnn_0008	7	6	/?	-
+
+cnn_0008	7	0	They	(11)
+cnn_0008	7	1	were	-
+cnn_0008	7	2	never	-
+cnn_0008	7	3	told	-
+cnn_0008	7	4	/.	-
+cnn_0008	7	5	/.	-
+
+cnn_0008	7	0	or	-
+cnn_0008	7	1	at	-
+cnn_0008	7	2	least	-
+cnn_0008	7	3	I	(130)
+cnn_0008	7	4	'm	-
+cnn_0008	7	5	now	-
+cnn_0008	7	6	basing	-
+cnn_0008	7	7	this	-
+cnn_0008	7	8	on	-
+cnn_0008	7	9	what	-
+cnn_0008	7	10	Mister	(99
+cnn_0008	7	11	Carson	99)
+cnn_0008	7	12	has	-
+cnn_0008	7	13	told	-
+cnn_0008	7	14	me	(130)
+cnn_0008	7	15	/.	-
+
+cnn_0008	7	0	Jay	(99
+cnn_0008	7	1	Carson	99)
+cnn_0008	7	2	is	-
+cnn_0008	7	3	the	-
+cnn_0008	7	4	spokesman	-
+cnn_0008	7	5	for	-
+cnn_0008	7	6	former	(12
+cnn_0008	7	7	president	-
+cnn_0008	7	8	Bill	-
+cnn_0008	7	9	Clinton	12)
+cnn_0008	7	10	/.	-
+
+cnn_0008	7	0	Jay	(99
+cnn_0008	7	1	Carson	99)
+cnn_0008	7	2	is	-
+cnn_0008	7	3	the	-
+cnn_0008	7	4	spokesperson	-
+cnn_0008	7	5	for	-
+cnn_0008	7	6	President	(12
+cnn_0008	7	7	Clinton	12)
+cnn_0008	7	8	was	-
+cnn_0008	7	9	not	-
+cnn_0008	7	10	informed	-
+cnn_0008	7	11	about	-
+cnn_0008	7	12	the	(120
+cnn_0008	7	13	specific	-
+cnn_0008	7	14	charge	-
+cnn_0008	7	15	about	-
+cnn_0008	7	16	the	(123
+cnn_0008	7	17	Khobar	-
+cnn_0008	7	18	Towers	123)
+cnn_0008	7	19	which	-
+cnn_0008	7	20	happens	-
+cnn_0008	7	21	to	-
+cnn_0008	7	22	be	-
+cnn_0008	7	23	not	-
+cnn_0008	7	24	true	120)
+cnn_0008	7	25	/.	-
+
+cnn_0008	7	0	President	(12
+cnn_0008	7	1	Clinton	12)
+cnn_0008	7	2	at	-
+cnn_0008	7	3	that	(43
+cnn_0008	7	4	uh	-
+cnn_0008	7	5	meeting	43)
+cnn_0008	7	6	did	-
+cnn_0008	7	7	press	-
+cnn_0008	7	8	the	-
+cnn_0008	7	9	uh	-
+cnn_0008	7	10	Crown	-
+cnn_0008	7	11	Prince	-
+cnn_0008	7	12	to	-
+cnn_0008	7	13	cooperate	-
+cnn_0008	7	14	with	-
+cnn_0008	7	15	the	(82
+cnn_0008	7	16	FBI	82)
+cnn_0008	7	17	/.	-
+
+cnn_0008	7	0	so	-
+cnn_0008	7	1	what	-
+cnn_0008	7	2	Mister	(134
+cnn_0008	7	3	Freeh	134)
+cnn_0008	7	4	said	-
+cnn_0008	7	5	was	-
+cnn_0008	7	6	false	-
+cnn_0008	7	7	/.	-
+
+cnn_0008	7	0	That	-
+cnn_0008	7	1	was	-
+cnn_0008	7	2	not	-
+cnn_0008	7	3	understood	-
+cnn_0008	7	4	by	-
+cnn_0008	7	5	the	(11
+cnn_0008	7	6	Clinton	(12)
+cnn_0008	7	7	people	11)
+cnn_0008	7	8	until	-
+cnn_0008	7	9	it	-
+cnn_0008	7	10	was	-
+cnn_0008	7	11	read	-
+cnn_0008	7	12	in	-
+cnn_0008	7	13	the	(48
+cnn_0008	7	14	Washington	-
+cnn_0008	7	15	Post	48)
+cnn_0008	7	16	in	-
+cnn_0008	7	17	the	(208
+cnn_0008	7	18	story	-
+cnn_0008	7	19	that	-
+cnn_0008	7	20	you	(77)
+cnn_0008	7	21	wrote	-
+cnn_0008	7	22	because	-
+cnn_0008	7	23	Sixty	(21
+cnn_0008	7	24	Minutes	21)
+cnn_0008	7	25	put	-
+cnn_0008	7	26	a	-
+cnn_0008	7	27	press	-
+cnn_0008	7	28	release	-
+cnn_0008	7	29	out	208)
+cnn_0008	7	30	/.	-
+
+cnn_0008	7	0	Uh	-
+cnn_0008	7	1	now	-
+cnn_0008	7	2	look	-
+cnn_0008	7	3	Lanny	(130
+cnn_0008	7	4	Davis	130)
+cnn_0008	7	5	Sixty	(21
+cnn_0008	7	6	Minutes	21)
+cnn_0008	7	7	gave	-
+cnn_0008	7	8	Bill	(12
+cnn_0008	7	9	Clinton	12)
+cnn_0008	7	10	one	-
+cnn_0008	7	11	hour	-
+cnn_0008	7	12	last	-
+cnn_0008	7	13	year	-
+cnn_0008	7	14	to	-
+cnn_0008	7	15	push	-
+cnn_0008	7	16	his	(12)
+cnn_0008	7	17	own	-
+cnn_0008	7	18	ten	-
+cnn_0008	7	19	million	-
+cnn_0008	7	20	dollar	-
+cnn_0008	7	21	autobiography	-
+cnn_0008	7	22	/.	-
+
+cnn_0008	7	0	He	(12)
+cnn_0008	7	1	criticized	-
+cnn_0008	7	2	people	-
+cnn_0008	7	3	/.	-
+
+cnn_0008	7	0	He	(12)
+cnn_0008	7	1	criticized	-
+cnn_0008	7	2	Ken	(112
+cnn_0008	7	3	Starr	112)
+cnn_0008	7	4	/.	-
+
+cnn_0008	7	0	They	(21)
+cnn_0008	7	1	did	-
+cnn_0008	7	2	n't	-
+cnn_0008	7	3	have	-
+cnn_0008	7	4	Ken	(112
+cnn_0008	7	5	Starr	112)
+cnn_0008	7	6	on	-
+cnn_0008	7	7	to	-
+cnn_0008	7	8	rebut	-
+cnn_0008	7	9	/.	-
+
+cnn_0008	7	0	Now	-
+cnn_0008	7	1	the	(134
+cnn_0008	7	2	former	-
+cnn_0008	7	3	director	-
+cnn_0008	7	4	of	-
+cnn_0008	7	5	the	(82
+cnn_0008	7	6	Federal	-
+cnn_0008	7	7	Bureau	-
+cnn_0008	7	8	of	-
+cnn_0008	7	9	Investigation	82)
+cnn_0008	7	10	uh	-
+cnn_0008	7	11	who	-
+cnn_0008	7	12	ca	-
+cnn_0008	7	13	n't	-
+cnn_0008	7	14	stand	-
+cnn_0008	7	15	Clinton	(12)
+cnn_0008	7	16	clearly	134)
+cnn_0008	7	17	writes	-
+cnn_0008	7	18	a	(96
+cnn_0008	7	19	book	96)
+cnn_0008	7	20	gets	-
+cnn_0008	7	21	one	-
+cnn_0008	7	22	segment	-
+cnn_0008	7	23	for	-
+cnn_0008	7	24	his	(96|(134)
+cnn_0008	7	25	book	96)
+cnn_0008	7	26	/.	-
+
+cnn_0008	7	0	and	-
+cnn_0008	7	1	you	(11)
+cnn_0008	7	2	cry	-
+cnn_0008	7	3	foul	-
+cnn_0008	7	4	/.	-
+
+cnn_0008	7	0	Nobody	-
+cnn_0008	7	1	was	-
+cnn_0008	7	2	complaining	-
+cnn_0008	7	3	about	-
+cnn_0008	7	4	when	-
+cnn_0008	7	5	Bill	(12
+cnn_0008	7	6	Clinton	12)
+cnn_0008	7	7	was	-
+cnn_0008	7	8	getting	-
+cnn_0008	7	9	all	-
+cnn_0008	7	10	this	-
+cnn_0008	7	11	airtime	-
+cnn_0008	7	12	on	-
+cnn_0008	7	13	CBS	-
+cnn_0008	7	14	/.	-
+
+cnn_0008	7	0	Look	-
+cnn_0008	7	1	/.	-
+
+cnn_0008	7	0	Look	-
+cnn_0008	7	1	this	-
+cnn_0008	7	2	is	-
+cnn_0008	7	3	a	-
+cnn_0008	7	4	program	-
+cnn_0008	7	5	about	-
+cnn_0008	7	6	good	-
+cnn_0008	7	7	journalism	-
+cnn_0008	7	8	/.	-
+
+cnn_0008	7	0	Let	-	-
+cnn_0008	7	1	's	-	-
+cnn_0008	7	2	ask	-	-
+cnn_0008	7	3	a	-	-
+cnn_0008	7	4	Sixty	(21	(21
+cnn_0008	7	5	Minutes	21)	21)
+cnn_0008	7	6	uh	-	-
+cnn_0008	7	7	journalist	-	-
+cnn_0008	7	8	to	-	-
+cnn_0008	7	9	say	-	-
+cnn_0008	7	10	do	-	-
+cnn_0008	7	11	you	-	-
+cnn_0008	7	12	have	-	-
+cnn_0008	7	13	an	-	-
+cnn_0008	7	14	obligation	-	-
+cnn_0008	7	15	to	-	-
+cnn_0008	7	16	verify	-	-
+cnn_0008	7	17	a	(120	(120
+cnn_0008	7	18	charge	-	-
+cnn_0008	7	19	made	-	-
+cnn_0008	7	20	by	-	-
+cnn_0008	7	21	the	(134	(134
+cnn_0008	7	22	former	-	-
+cnn_0008	7	23	FBI	(82)	(82)
+cnn_0008	7	24	director	134)|120)	134)|120)
+cnn_0008	7	25	as	-	-
+cnn_0008	7	26	whether	-	-
+cnn_0008	7	27	it	(120)	(120)
+cnn_0008	7	28	's	-	-
+cnn_0008	7	29	true	-	-
+cnn_0008	7	30	or	-	-
+cnn_0008	7	31	not	-	-
+cnn_0008	7	32	/.	-	-
+
+cnn_0008	7	0	Is	-
+cnn_0008	7	1	it	-
+cnn_0008	7	2	good	-
+cnn_0008	7	3	enough	-
+cnn_0008	7	4	to	-
+cnn_0008	7	5	air	-
+cnn_0008	7	6	it	(120)
+cnn_0008	7	7	just	-
+cnn_0008	7	8	because	-
+cnn_0008	7	9	he	(134)
+cnn_0008	7	10	says	-
+cnn_0008	7	11	it	(120)
+cnn_0008	7	12	/.	-
+
+cnn_0008	7	0	or	-
+cnn_0008	7	1	should	-
+cnn_0008	7	2	you	-
+cnn_0008	7	3	do	-
+cnn_0008	7	4	reporting	-
+cnn_0008	7	5	/?	-
+
+cnn_0008	7	0	Good	-
+cnn_0008	7	1	reporters	-
+cnn_0008	7	2	would	-
+cnn_0008	7	3	hear	-
+cnn_0008	7	4	that	(120
+cnn_0008	7	5	charge	120)
+cnn_0008	7	6	and	-
+cnn_0008	7	7	say	-
+cnn_0008	7	8	that	(120)
+cnn_0008	7	9	is	-
+cnn_0008	7	10	an	-
+cnn_0008	7	11	extremely	-
+cnn_0008	7	12	serious	-
+cnn_0008	7	13	charge	-
+cnn_0008	7	14	to	-
+cnn_0008	7	15	be	-
+cnn_0008	7	16	levelled	-
+cnn_0008	7	17	against	-
+cnn_0008	7	18	former	(12
+cnn_0008	7	19	president	-
+cnn_0008	7	20	Clinton	12)
+cnn_0008	7	21	/.	-
+
+cnn_0008	7	0	Let	-
+cnn_0008	7	1	's	-
+cnn_0008	7	2	see	-
+cnn_0008	7	3	whether	-
+cnn_0008	7	4	it	(120)
+cnn_0008	7	5	's	-
+cnn_0008	7	6	true	-
+cnn_0008	7	7	and	-
+cnn_0008	7	8	start	-
+cnn_0008	7	9	making	-
+cnn_0008	7	10	phone	-
+cnn_0008	7	11	calls	-
+cnn_0008	7	12	/.	-
+
+cnn_0008	7	0	They	(21)
+cnn_0008	7	1	did	-
+cnn_0008	7	2	not	-
+cnn_0008	7	3	do	(175)
+cnn_0008	7	4	that	-
+cnn_0008	7	5	/.	-
+
+cnn_0008	7	0	That	(175)
+cnn_0008	7	1	's	-
+cnn_0008	7	2	a	-
+cnn_0008	7	3	fact	-
+cnn_0008	7	4	/.	-
+
+cnn_0008	7	0	Alright	-
+cnn_0008	7	1	Lanny	(130
+cnn_0008	7	2	Davis	130)
+cnn_0008	7	3	thanks	-
+cnn_0008	7	4	very	-
+cnn_0008	7	5	much	-
+cnn_0008	7	6	for	-
+cnn_0008	7	7	coming	(33)
+cnn_0008	7	8	on	-
+cnn_0008	7	9	to	-
+cnn_0008	7	10	Talk	-
+cnn_0008	7	11	Back	-
+cnn_0008	7	12	to	-
+cnn_0008	7	13	the	-
+cnn_0008	7	14	Media	-
+cnn_0008	7	15	this	-
+cnn_0008	7	16	morning	-
+cnn_0008	7	17	/.	-
+
+cnn_0008	7	0	We	-
+cnn_0008	7	1	appreciate	-
+cnn_0008	7	2	it	(33)
+cnn_0008	7	3	/.	-
+
+#end document

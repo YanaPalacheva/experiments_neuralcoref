@@ -1,0 +1,642 @@
+#begin document (mnb_0019_0); part 000
+mnb_0019	0	0	Gregg	NNP	(TOP(S(NP*	-	-	-	-	(19
+mnb_0019	0	1	Jarrett	NNP	*)	-	-	-	-	19)
+mnb_0019	0	2	,	,	*	-	-	-	-	-
+mnb_0019	0	3	they	PRP	(NP*)	-	-	-	-	-
+mnb_0019	0	4	did	VBD	(VP*	do	01	-	-	-
+mnb_0019	0	5	get	VB	(VP*	get	01	1	-	-
+mnb_0019	0	6	a	DT	(NP(NP*	-	-	-	-	(3
+mnb_0019	0	7	unanimous	JJ	*	-	-	-	-	-
+mnb_0019	0	8	court	NN	*)	court	-	2	-	-
+mnb_0019	0	9	for	IN	(PP*	-	-	-	-	-
+mnb_0019	0	10	this	DT	(NP*	-	-	-	-	(9
+mnb_0019	0	11	decision	NN	*)))))	decision	01	1	-	9)|3)
+mnb_0019	0	12	.	.	*))	-	-	-	-	-
+
+mnb_0019	0	0	Absolutely	RB	(TOP(FRAG(ADVP*)	-	-	-	-	-
+mnb_0019	0	1	,	,	*	-	-	-	-	-
+mnb_0019	0	2	Brian	NNP	(NP*)	-	-	-	-	(13)
+mnb_0019	0	3	.	.	*))	-	-	-	-	-
+
+mnb_0019	0	0	It	PRP	(TOP(S(S(NP*)	-	-	-	-	(9)
+mnb_0019	0	1	was	VBD	(VP*	be	01	1	-	-
+mnb_0019	0	2	very	RB	(ADJP(ADJP*	-	-	-	-	-
+mnb_0019	0	3	stern	JJ	*)	-	-	-	-	-
+mnb_0019	0	4	,	,	*	-	-	-	-	-
+mnb_0019	0	5	very	RB	(ADJP*	-	-	-	-	-
+mnb_0019	0	6	direct	JJ	*))))	-	-	-	-	-
+mnb_0019	0	7	and	CC	*	-	-	-	-	-
+mnb_0019	0	8	it	PRP	(S(NP*)	-	-	-	-	(9)
+mnb_0019	0	9	left	VBD	(VP*	leave	06	3	-	-
+mnb_0019	0	10	no	DT	(NP*	-	-	-	-	-
+mnb_0019	0	11	question	NN	*)	question	-	3	-	-
+mnb_0019	0	12	,	,	*	-	-	-	-	-
+mnb_0019	0	13	I	PRP	(PRN(S(NP*))	-	-	-	-	(19)
+mnb_0019	0	14	think	VBP	(VP*))	think	01	1	-	-
+mnb_0019	0	15	,	,	*	-	-	-	-	-
+mnb_0019	0	16	in	IN	(PP*	-	-	-	-	-
+mnb_0019	0	17	the	DT	(NP(NP*	-	-	-	-	-
+mnb_0019	0	18	minds	NNS	*)	mind	-	3	-	-
+mnb_0019	0	19	of	IN	(PP*	-	-	-	-	-
+mnb_0019	0	20	anybody	NN	(NP*))))	-	-	-	-	-
+mnb_0019	0	21	that	IN	(SBAR*	-	-	-	-	-
+mnb_0019	0	22	this	DT	(S(NP*	-	-	-	-	(3
+mnb_0019	0	23	court	NN	*)	court	-	2	-	3)
+mnb_0019	0	24	unanimously	RB	(ADVP*)	-	-	-	-	-
+mnb_0019	0	25	believes	VBZ	(VP*	believe	01	2	-	-
+mnb_0019	0	26	that	IN	(SBAR*	-	-	-	-	-
+mnb_0019	0	27	certification	NN	(S(NP*)	certification	01	2	-	(10)
+mnb_0019	0	28	should	MD	(VP*	-	-	-	-	-
+mnb_0019	0	29	include	VB	(VP*	include	01	1	-	(21)
+mnb_0019	0	30	the	DT	(NP*	-	-	-	-	(17
+mnb_0019	0	31	manual	JJ	*	-	-	-	-	-
+mnb_0019	0	32	recount	NN	*))))))))))	-	-	-	-	17)
+mnb_0019	0	33	,	,	*	-	-	-	-	-
+mnb_0019	0	34	and	CC	*	-	-	-	-	-
+mnb_0019	0	35	that	DT	(S(NP*)	-	-	-	-	(21)
+mnb_0019	0	36	is	VBZ	(VP*	be	01	1	-	-
+mnb_0019	0	37	a	DT	(NP(NP*	-	-	-	-	-
+mnb_0019	0	38	clear	JJ	*	-	-	-	-	-
+mnb_0019	0	39	victory	NN	*)	-	-	-	-	-
+mnb_0019	0	40	for	IN	(PP*	-	-	-	-	-
+mnb_0019	0	41	Vice	NNP	(NP(NML*	-	-	-	-	(8
+mnb_0019	0	42	President	NNP	*)	-	-	-	-	-
+mnb_0019	0	43	Al	NNP	*	-	-	-	-	-
+mnb_0019	0	44	Gore	NNP	*)))))	-	-	-	-	8)
+mnb_0019	0	45	.	.	*))	-	-	-	-	-
+
+mnb_0019	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	-
+mnb_0019	0	1	language	NN	*)	-	-	-	-	-
+mnb_0019	0	2	here	RB	(ADVP*))	-	-	-	-	-
+mnb_0019	0	3	,	,	*	-	-	-	-	-
+mnb_0019	0	4	really	RB	(ADVP*)	-	-	-	-	-
+mnb_0019	0	5	leaves	VBZ	(VP*	leave	02	3	-	-
+mnb_0019	0	6	no	DT	(NP*	-	-	-	-	-
+mnb_0019	0	7	doubt	NN	*))	doubt	-	2	-	-
+mnb_0019	0	8	.	.	*))	-	-	-	-	-
+
+mnb_0019	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	-
+mnb_0019	0	1	right	NN	*)	right	-	1	-	-
+mnb_0019	0	2	of	IN	(PP*	-	-	-	-	-
+mnb_0019	0	3	the	DT	(NP*	-	-	-	-	(14
+mnb_0019	0	4	people	NNS	*))	people	-	1	-	14)
+mnb_0019	0	5	to	TO	(S(VP*	-	-	-	-	-
+mnb_0019	0	6	cast	VB	(VP*	cast	01	4	-	-
+mnb_0019	0	7	their	PRP$	(NP*	-	-	-	-	(14)
+mnb_0019	0	8	vote	NN	*)))))	vote	01	1	-	-
+mnb_0019	0	9	,	,	*	-	-	-	-	-
+mnb_0019	0	10	the	DT	(PRN(S(NP*	-	-	-	-	(3
+mnb_0019	0	11	court	NN	*)	court	-	2	-	3)
+mnb_0019	0	12	said	VBD	(VP*)))	say	01	1	-	-
+mnb_0019	0	13	,	,	*	-	-	-	-	-
+mnb_0019	0	14	is	VBZ	(VP*	be	01	1	-	-
+mnb_0019	0	15	paramount	JJ	(ADJP*))	-	-	-	-	-
+mnb_0019	0	16	.	.	*))	-	-	-	-	-
+
+mnb_0019	0	0	The	DT	(TOP(S(NP*	-	-	-	-	(18
+mnb_0019	0	1	amended	VBN	*	amend	01	-	-	-
+mnb_0019	0	2	certifications	NNS	*)	certification	-	3	-	18)
+mnb_0019	0	3	must	MD	(VP*	-	-	-	-	-
+mnb_0019	0	4	be	VB	(VP*	be	03	-	-	-
+mnb_0019	0	5	accepted	VBN	(VP*	accept	01	1	-	-
+mnb_0019	0	6	by	IN	(PP*	-	-	-	-	-
+mnb_0019	0	7	November	NNP	(NP*	-	-	-	-	(7
+mnb_0019	0	8	26	CD	*)))))	-	-	-	-	7)
+mnb_0019	0	9	.	.	*))	-	-	-	-	-
+
+mnb_0019	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	*	*
+mnb_0019	0	1	reason	NN	*)	reason	-	1	-	*	*
+mnb_0019	0	2	they	PRP	(SBAR(S(NP*)	-	-	-	-	*	*
+mnb_0019	0	3	are	VBP	(VP*	be	03	-	-	*	*
+mnb_0019	0	4	picking	VBG	(VP*	pick	01	1	-	*	*
+mnb_0019	0	5	that	DT	(NP*	-	-	-	-	*	*
+mnb_0019	0	6	particular	JJ	*	-	-	-	-	*	*
+mnb_0019	0	7	day	NN	*))))))	day	-	3	-	*	*
+mnb_0019	0	8	is	VBZ	(VP*	be	01	1	-	*	*
+mnb_0019	0	9	it	PRP	(SBAR(S(S(NP*)	-	-	-	-	*	*
+mnb_0019	0	10	allows	VBZ	(VP*	allow	02	2	-	*	*
+mnb_0019	0	11	,	,	*	-	-	-	-	*	*
+mnb_0019	0	12	Brian	NNP	(NP*)	-	-	-	-	*	*
+mnb_0019	0	13	,	,	*	-	-	-	-	*	*
+mnb_0019	0	14	enough	JJ	(NP(NP*	-	-	-	-	*	*
+mnb_0019	0	15	time	NN	*)	time	-	3	-	*	*
+mnb_0019	0	16	for	IN	(SBAR*	-	-	-	-	*	*
+mnb_0019	0	17	the	DT	(S(NP(NP*	-	-	-	-	*	*
+mnb_0019	0	18	aggrieved	JJ	*	-	-	-	-	*	*
+mnb_0019	0	19	party	NN	*)	-	-	-	-	*	*
+mnb_0019	0	20	,	,	*	-	-	-	-	*	*
+mnb_0019	0	21	the	DT	(NP*	-	-	-	-	*	*
+mnb_0019	0	22	losing	VBG	*	lose	03	-	-	*	*
+mnb_0019	0	23	party	NN	*))	-	-	-	-	*	*
+mnb_0019	0	24	to	TO	(VP*	-	-	-	-	*	*
+mnb_0019	0	25	file	VB	(VP*	file	01	1	-	*	*
+mnb_0019	0	26	within	IN	(PP*	-	-	-	-	*	*
+mnb_0019	0	27	10	CD	(NP*	-	-	-	-	*	*
+mnb_0019	0	28	days	NNS	*))	day	-	2	-	*	*
+mnb_0019	0	29	a	DT	(NP(NP*	-	-	-	-	*	*
+mnb_0019	0	30	contest	NN	*)	contest	-	2	-	*	*
+mnb_0019	0	31	of	IN	(PP*	-	-	-	-	*	*
+mnb_0019	0	32	the	DT	(NP*	-	-	-	-	*	*
+mnb_0019	0	33	certification	NN	*))))))))))	certification	01	4	-	*	*
+mnb_0019	0	34	and	CC	*	-	-	-	-	*	*
+mnb_0019	0	35	that	DT	(S(NP*)	-	-	-	-	*	*
+mnb_0019	0	36	still	RB	(ADVP*)	-	-	-	-	*	*
+mnb_0019	0	37	allows	VBZ	(VP*	allow	02	2	-	*	*
+mnb_0019	0	38	enough	JJ	(NP(NP*	-	-	-	-	*	*
+mnb_0019	0	39	time	NN	*)	time	-	3	-	*	*
+mnb_0019	0	40	for	IN	(SBAR*	-	-	-	-	*	*
+mnb_0019	0	41	the	DT	(S(NP*	-	-	-	-	(ARG1*	(ARG1*
+mnb_0019	0	42	contest	NN	*)	contest	-	2	-	*)	*)
+mnb_0019	0	43	to	TO	(VP*	-	-	-	-	*	*
+mnb_0019	0	44	be	VB	(VP(VP*	be	03	-	-	*	*
+mnb_0019	0	45	litigated	VBN	(VP*	litigate	01	-	-	(V*)	(V*)
+mnb_0019	0	46	through	IN	(UCP(PP*	-	-	-	-	(ARGM-MNR*	(ARGM-MNR*
+mnb_0019	0	47	the	DT	(NP(NP*	-	-	-	-	*	*
+mnb_0019	0	48	courts	NNS	*)	court	-	2	-	*	*
+mnb_0019	0	49	primarily	RB	(NP(ADVP*)	-	-	-	-	*	*
+mnb_0019	0	50	the	DT	*	-	-	-	-	*	*
+mnb_0019	0	51	circuit	NN	*	-	-	-	-	*	*
+mnb_0019	0	52	court	NN	*)))	court	-	2	-	*	*
+mnb_0019	0	53	and	CC	*	-	-	-	-	*	*
+mnb_0019	0	54	back	RB	(ADVP*	-	-	-	-	*	*
+mnb_0019	0	55	to	IN	(PP*	-	-	-	-	*	*
+mnb_0019	0	56	the	DT	(NP*	-	-	-	-	*	*
+mnb_0019	0	57	Supreme	NNP	*	-	-	-	-	*	*
+mnb_0019	0	58	Court	NNP	*))))	-	-	-	-	*)	*)
+mnb_0019	0	59	if	IN	(SBAR*	-	-	-	-	(ARGM-ADV*	(ARGM-ADV*
+mnb_0019	0	60	necessary	JJ	(ADJP*))))	-	-	-	-	*)	*)
+mnb_0019	0	61	and	CC	*	-	-	-	-	*	*
+mnb_0019	0	62	still	RB	(ADVP*)	-	-	-	-	*	*
+mnb_0019	0	63	meet	VB	(VP*	meet	01	4	-	*	*
+mnb_0019	0	64	the	DT	(NP(NP*	-	-	-	-	*	*
+mnb_0019	0	65	December	NNP	(NML*	-	-	-	-	*	*
+mnb_0019	0	66	12	CD	*)	-	-	-	-	*	*
+mnb_0019	0	67	deadline	NN	*)	-	-	-	-	*	*
+mnb_0019	0	68	for	IN	(PP*	-	-	-	-	*	*
+mnb_0019	0	69	the	DT	(NP(NP*	-	-	-	-	*	*
+mnb_0019	0	70	Electoral	NNP	(NML*	-	-	-	-	*	*
+mnb_0019	0	71	College	NNP	*)	-	-	-	-	*	*
+mnb_0019	0	72	vote	NN	*)	vote	01	1	-	*	*
+mnb_0019	0	73	here	RB	(ADVP*)))))))))))))))	-	-	-	-	*	*
+mnb_0019	0	74	.	.	*))	-	-	-	-	*	*
+
+mnb_0019	0	0	Now	UH	(TOP(FRAG(INTJ*)	-	-	-	-	-
+mnb_0019	0	1	,	,	*	-	-	-	-	-
+mnb_0019	0	2	Greg	NNP	(NP*)	-	-	-	-	(19)
+mnb_0019	0	3	,	,	*	-	-	-	-	-
+mnb_0019	0	4	the	DT	(NP(NP*	-	-	-	-	-
+mnb_0019	0	5	only	JJ	*	-	-	-	-	-
+mnb_0019	0	6	question	NN	*)	question	-	2	-	-
+mnb_0019	0	7	that	WDT	(SBAR(WHNP*)	-	-	-	-	-
+mnb_0019	0	8	means	VBZ	(S(VP*	mean	01	5	-	-
+mnb_0019	0	9	anything	NN	(NP*)	-	-	-	-	-
+mnb_0019	0	10	at	IN	(PP*	-	-	-	-	-
+mnb_0019	0	11	this	DT	(NP*	-	-	-	-	-
+mnb_0019	0	12	hour	NN	*))))))	hour	-	1	-	-
+mnb_0019	0	13	.	.	*))	-	-	-	-	-
+
+mnb_0019	0	0	We	PRP	(TOP(S(NP*)	-	-	-	-	-
+mnb_0019	0	1	know	VBP	(VP*	know	01	2	-	-
+mnb_0019	0	2	their	PRP$	(SBAR(S(NP*	-	-	-	-	(3)
+mnb_0019	0	3	view	NN	*)	view	-	4	-	-
+mnb_0019	0	4	is	VBZ	(VP*	be	01	1	-	-
+mnb_0019	0	5	the	DT	(SBAR(S(NP*	-	-	-	-	(17
+mnb_0019	0	6	hand	NN	*	hand	-	20	-	-
+mnb_0019	0	7	counts	NNS	*)	count	01	2	-	17)
+mnb_0019	0	8	should	MD	(VP*	-	-	-	-	-
+mnb_0019	0	9	now	RB	(ADVP*)	-	-	-	-	-
+mnb_0019	0	10	be	VB	(VP*	be	03	-	-	(2)
+mnb_0019	0	11	included	VBN	(VP*)))))))))	include	01	1	-	-
+mnb_0019	0	12	.	.	*))	-	-	-	-	-
+
+mnb_0019	0	0	Will	MD	(TOP(SQ*	-	-	-	-	-
+mnb_0019	0	1	it	PRP	(NP*)	-	-	-	-	(2)
+mnb_0019	0	2	put	VB	(VP*	put	03	1	-	-
+mnb_0019	0	3	Al	NNP	(NP*	-	-	-	-	(8
+mnb_0019	0	4	Gore	NNP	*)	-	-	-	-	8)
+mnb_0019	0	5	over	IN	(PP*	-	-	-	-	-
+mnb_0019	0	6	the	DT	(NP*	-	-	-	-	-
+mnb_0019	0	7	top	NN	*))	top	-	1	-	-
+mnb_0019	0	8	in	IN	(PP*	-	-	-	-	-
+mnb_0019	0	9	the	DT	(NP(NP*	-	-	-	-	-
+mnb_0019	0	10	race	NN	*)	race	01	1	-	-
+mnb_0019	0	11	to	TO	(S(VP*	-	-	-	-	-
+mnb_0019	0	12	match	VB	(VP*	match	01	1	-	-
+mnb_0019	0	13	and	CC	*	-	-	-	-	-
+mnb_0019	0	14	exceed	VB	*	exceed	01	1	-	-
+mnb_0019	0	15	the	DT	(NP(NP*	-	-	-	-	-
+mnb_0019	0	16	votes	NNS	*)	vote	01	1	-	-
+mnb_0019	0	17	of	IN	(PP*	-	-	-	-	-
+mnb_0019	0	18	George	NNP	(NP*	-	-	-	-	-
+mnb_0019	0	19	W.	NNP	*	-	-	-	-	-
+mnb_0019	0	20	Bush	NNP	*)))))))))	-	-	-	-	-
+mnb_0019	0	21	?	.	*))	-	-	-	-	-
+
+mnb_0019	0	0	It	PRP	(TOP(S(S(NP*)	-	-	-	-	*	*
+mnb_0019	0	1	very	RB	(ADVP*	-	-	-	-	*	*
+mnb_0019	0	2	well	RB	*)	-	-	-	-	*	*
+mnb_0019	0	3	could	MD	(VP*)	-	-	-	-	*	*
+mnb_0019	0	4	,	,	*	-	-	-	-	*	*
+mnb_0019	0	5	although	IN	(SBAR*	-	-	-	-	*	*
+mnb_0019	0	6	,	,	*	-	-	-	-	*	*
+mnb_0019	0	7	I	PRP	(S(NP*)	-	-	-	-	*	*
+mnb_0019	0	8	must	MD	(VP*	-	-	-	-	*	*
+mnb_0019	0	9	say	VB	(VP*	say	01	1	-	*	*
+mnb_0019	0	10	that	IN	(SBAR*	-	-	-	-	*	*
+mnb_0019	0	11	the	DT	(S(NP*	-	-	-	-	*	*
+mnb_0019	0	12	Gore	NNP	*	-	-	-	-	*	*
+mnb_0019	0	13	campaign	NN	*)	-	-	-	-	*	*
+mnb_0019	0	14	has	VBZ	(VP*	have	01	-	-	*	*
+mnb_0019	0	15	been	VBN	(VP*	be	01	1	-	*	*
+mnb_0019	0	16	somewhat	RB	(ADJP*	-	-	-	-	*	*
+mnb_0019	0	17	disappointed	JJ	*	-	-	-	-	*	*
+mnb_0019	0	18	by	IN	(PP*	-	-	-	-	*	*
+mnb_0019	0	19	the	DT	(NP(NP(NP*	-	-	-	-	*	*
+mnb_0019	0	20	number	NN	*)	number	-	1	-	*	*
+mnb_0019	0	21	of	IN	(PP*	-	-	-	-	*	*
+mnb_0019	0	22	votes	NNS	(NP*)))	vote	01	1	-	*	*
+mnb_0019	0	23	they	PRP	(SBAR(S(NP*)	-	-	-	-	*	*
+mnb_0019	0	24	have	VBP	(VP*	have	01	-	-	*	*
+mnb_0019	0	25	not	RB	*	-	-	-	-	*	*
+mnb_0019	0	26	received	VBN	(VP*	receive	01	1	-	*	*
+mnb_0019	0	27	thus	RB	(ADVP*	-	-	-	-	*	*
+mnb_0019	0	28	far	RB	*)	-	-	-	-	*	*
+mnb_0019	0	29	in	IN	(PP*	-	-	-	-	*	*
+mnb_0019	0	30	the	DT	(NP(NP*	-	-	-	-	*	*
+mnb_0019	0	31	counties	NNS	*)	-	-	-	-	*	*
+mnb_0019	0	32	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	*
+mnb_0019	0	33	are	VBP	(S(VP*	be	03	-	-	*	*
+mnb_0019	0	34	undertaking	VBG	(VP*	undertake	01	1	-	*	*
+mnb_0019	0	35	the	DT	(NP*	-	-	-	-	*	*
+mnb_0019	0	36	manual	JJ	*	-	-	-	-	*	*
+mnb_0019	0	37	recounts	NNS	*)	-	-	-	-	*	*
+mnb_0019	0	38	,	,	*	-	-	-	-	*	*
+mnb_0019	0	39	Brian	NNP	(NP*)))))))))))))))))))))))	-	-	-	-	*	*
+mnb_0019	0	40	,	,	*	-	-	-	-	*	*
+mnb_0019	0	41	but	CC	*	-	-	-	-	*	*
+mnb_0019	0	42	a	DT	(S(NP(NP*	-	-	-	-	*	*
+mnb_0019	0	43	lot	NN	*)	lot	-	1	-	*	*
+mnb_0019	0	44	of	IN	(PP*	-	-	-	-	*	*
+mnb_0019	0	45	hand	NN	(NP*	hand	-	20	-	*	*
+mnb_0019	0	46	counts	NNS	*)))	count	01	2	-	*	*
+mnb_0019	0	47	still	RB	(ADVP*)	-	-	-	-	*	*
+mnb_0019	0	48	must	MD	(VP*	-	-	-	-	*	*
+mnb_0019	0	49	be	VB	(VP*	be	03	-	-	(V*)	(V*)
+mnb_0019	0	50	tallied	VBN	(VP*))))	tally	01	1	-	*	*
+mnb_0019	0	51	.	.	*))	-	-	-	-	*	*
+
+mnb_0019	0	0	We	PRP	(TOP(S(NP*)	-	-	-	-	-
+mnb_0019	0	1	are	VBP	(VP*	be	03	-	-	-
+mnb_0019	0	2	also	RB	(ADVP*)	-	-	-	-	-
+mnb_0019	0	3	including	VBG	(VP*	include	01	1	-	-
+mnb_0019	0	4	the	DT	(NP(NP(NP*	-	-	-	-	(15
+mnb_0019	0	5	undervotes	NNS	*)	-	-	-	-	-
+mnb_0019	0	6	of	IN	(PP*	-	-	-	-	-
+mnb_0019	0	7	10,000	CD	(NP*))	-	-	-	-	-
+mnb_0019	0	8	in	IN	(PP*	-	-	-	-	-
+mnb_0019	0	9	Palm	NNP	(NP*	-	-	-	-	-
+mnb_0019	0	10	Beach	NNP	*)))	-	-	-	-	-
+mnb_0019	0	11	and	CC	*	-	-	-	-	-
+mnb_0019	0	12	junt	JJ	(NP(NP*	-	-	-	-	-
+mnb_0019	0	13	votes	NNS	*)	vote	01	1	-	-
+mnb_0019	0	14	of	IN	(PP*	-	-	-	-	-
+mnb_0019	0	15	10,000	CD	(NP*))	-	-	-	-	-
+mnb_0019	0	16	in	IN	(PP*	-	-	-	-	-
+mnb_0019	0	17	Miami	NNP	(NP*	-	-	-	-	-
+mnb_0019	0	18	-	HYPH	*	-	-	-	-	-
+mnb_0019	0	19	Dade	NNP	*))))	-	-	-	-	15)
+mnb_0019	0	20	as	RB	(ADVP*	-	-	-	-	-
+mnb_0019	0	21	well	RB	*)))	-	-	-	-	-
+mnb_0019	0	22	.	.	*))	-	-	-	-	-
+
+mnb_0019	0	0	Keep	VB	(TOP(S(VP*	keep	01	9	-	-
+mnb_0019	0	1	in	IN	(PP*	-	-	-	-	-
+mnb_0019	0	2	mind	NN	(NP*))	mind	-	5	-	-
+mnb_0019	0	3	,	,	*	-	-	-	-	-
+mnb_0019	0	4	those	DT	(SBAR(S(NP*)	-	-	-	-	(15)
+mnb_0019	0	5	were	VBD	(VP*	be	03	-	-	-
+mnb_0019	0	6	not	RB	*	-	-	-	-	-
+mnb_0019	0	7	registered	VBN	(VP*	register	02	1	-	-
+mnb_0019	0	8	by	IN	(PP*	-	-	-	-	-
+mnb_0019	0	9	the	DT	(NP*	-	-	-	-	-
+mnb_0019	0	10	computers	NNS	*))	computer	-	1	-	-
+mnb_0019	0	11	because	IN	(SBAR*	-	-	-	-	-
+mnb_0019	0	12	they	PRP	(S(NP*)	-	-	-	-	(15)
+mnb_0019	0	13	either	CC	(VP*	-	-	-	-	-
+mnb_0019	0	14	had	VBD	*	have	03	1	-	-
+mnb_0019	0	15	a	DT	(NP(NP*	-	-	-	-	-
+mnb_0019	0	16	hanging	VBG	*	hang	01	-	-	-
+mnb_0019	0	17	chad	NN	*)	-	-	-	-	-
+mnb_0019	0	18	or	CC	*	-	-	-	-	-
+mnb_0019	0	19	dimpled	JJ	(NP*	-	-	-	-	-
+mnb_0019	0	20	chad	NN	*))))))))))	-	-	-	-	-
+mnb_0019	0	21	.	.	*))	-	-	-	-	-
+
+mnb_0019	0	0	Those	DT	(TOP(S(NP*)	-	-	-	-	(15)
+mnb_0019	0	1	must	MD	(VP*	-	-	-	-	-
+mnb_0019	0	2	be	VB	(VP*	be	03	-	-	-
+mnb_0019	0	3	gone	VBN	(VP*	go	02	15	-	-
+mnb_0019	0	4	over	IN	(PP*)	-	-	-	-	-
+mnb_0019	0	5	by	IN	(PP*	-	-	-	-	-
+mnb_0019	0	6	hand	NN	(NP*))	hand	-	20	-	-
+mnb_0019	0	7	by	IN	(PP*	-	-	-	-	-
+mnb_0019	0	8	each	DT	(NP*	-	-	-	-	-
+mnb_0019	0	9	respective	JJ	*	-	-	-	-	-
+mnb_0019	0	10	canvassing	NN	*	-	-	-	-	-
+mnb_0019	0	11	board	NN	*)))))	board	-	4	-	-
+mnb_0019	0	12	.	.	*))	-	-	-	-	-
+
+mnb_0019	0	0	So	RB	(TOP(S(ADVP*)	-	-	-	-	-
+mnb_0019	0	1	there	EX	(NP*)	-	-	-	-	-
+mnb_0019	0	2	are	VBP	(VP*	be	02	3	-	-
+mnb_0019	0	3	a	DT	(NP(NP(NP*	-	-	-	-	-
+mnb_0019	0	4	lot	NN	*)	lot	-	1	-	-
+mnb_0019	0	5	of	IN	(PP*	-	-	-	-	-
+mnb_0019	0	6	votes	NNS	(NP*)))	vote	01	1	-	-
+mnb_0019	0	7	remaining	VBG	(VP*	remain	01	2	-	-
+mnb_0019	0	8	there	RB	(ADVP*))))	-	-	-	-	-
+mnb_0019	0	9	.	.	*))	-	-	-	-	-
+
+mnb_0019	0	0	This	DT	(TOP(S(NP*)	-	-	-	-	-
+mnb_0019	0	1	is	VBZ	(VP*	be	01	1	-	-
+mnb_0019	0	2	a	DT	(NP(NP*	-	-	-	-	-
+mnb_0019	0	3	Gore	NNP	*	-	-	-	-	(8)
+mnb_0019	0	4	campaign	NN	*)	-	-	-	-	-
+mnb_0019	0	5	to	IN	(PP*	-	-	-	-	-
+mnb_0019	0	6	the	DT	(NP*	-	-	-	-	-
+mnb_0019	0	7	White	NNP	*	-	-	-	-	-
+mnb_0019	0	8	House	NNP	*))))	-	-	-	-	-
+mnb_0019	0	9	.	.	*))	-	-	-	-	-
+
+mnb_0019	0	0	Greg	NNP	(TOP(FRAG(NP*)	-	-	-	-	(19)
+mnb_0019	0	1	,	,	*	-	-	-	-	-
+mnb_0019	0	2	just	RB	(NP(NP*	-	-	-	-	-
+mnb_0019	0	3	a	DT	*	-	-	-	-	-
+mnb_0019	0	4	logistic	JJ	*	-	-	-	-	-
+mnb_0019	0	5	question	NN	*)	question	01	1	-	-
+mnb_0019	0	6	,	,	*	-	-	-	-	-
+mnb_0019	0	7	How	WRB	(SBARQ(WHNP(WHADJP*	-	-	-	-	-
+mnb_0019	0	8	long	JJ	*))	-	-	-	-	-
+mnb_0019	0	9	is	VBZ	(SQ*	be	03	-	-	-
+mnb_0019	0	10	it	PRP	(NP(NP*))	-	-	-	-	-
+mnb_0019	0	11	going	VBG	(VP*	go	04	7	-	-
+mnb_0019	0	12	take	VB	(S(VP*	take	10	3	-	-
+mnb_0019	0	13	you	PRP	(NP*)	-	-	-	-	(19)
+mnb_0019	0	14	to	TO	(S(VP*	-	-	-	-	-
+mnb_0019	0	15	get	VB	(VP*	get	01	3	-	-
+mnb_0019	0	16	the	DT	(S(NP*	-	-	-	-	(11
+mnb_0019	0	17	opinion	NN	*)	opinion	-	1	-	11)
+mnb_0019	0	18	run	VB	(VP*	run	08	1	-	-
+mnb_0019	0	19	to	IN	(PP*	-	-	-	-	-
+mnb_0019	0	20	you	PRP	(NP*))	-	-	-	-	(19)
+mnb_0019	0	21	from	IN	(PP*	-	-	-	-	-
+mnb_0019	0	22	the	DT	(NP(NP*	-	-	-	-	-
+mnb_0019	0	23	building	NN	*)	building	-	1	-	-
+mnb_0019	0	24	behind	IN	(PP*	-	-	-	-	-
+mnb_0019	0	25	you	PRP	(NP*)))))))))))))))	-	-	-	-	(19)
+mnb_0019	0	26	?	.	*))	-	-	-	-	-
+
+mnb_0019	0	0	I	PRP	(TOP(S(NP*)	-	-	-	-	(19)
+mnb_0019	0	1	would	MD	(VP*	-	-	-	-	-
+mnb_0019	0	2	say	VB	(VP*	say	01	1	-	-
+mnb_0019	0	3	we	PRP	(SBAR(S(NP*)	-	-	-	-	(20)
+mnb_0019	0	4	should	MD	(VP*	-	-	-	-	-
+mnb_0019	0	5	have	VB	(VP*	have	03	1	-	-
+mnb_0019	0	6	it	PRP	(NP*)	-	-	-	-	(11)
+mnb_0019	0	7	here	RB	(ADVP*)	-	-	-	-	-
+mnb_0019	0	8	in	IN	(PP*	-	-	-	-	-
+mnb_0019	0	9	the	DT	(NP*	-	-	-	-	-
+mnb_0019	0	10	next	JJ	*	-	-	-	-	-
+mnb_0019	0	11	five	CD	*	-	-	-	-	-
+mnb_0019	0	12	minutes	NNS	*))))))))	minute	-	1	-	-
+mnb_0019	0	13	.	.	*))	-	-	-	-	-
+
+mnb_0019	0	0	It	PRP	(TOP(S(NP*)	-	-	-	-	-
+mnb_0019	0	1	depends	VBZ	(VP*	depend	01	1	-	-
+mnb_0019	0	2	how	WRB	(SBAR(WHADVP*	-	-	-	-	-
+mnb_0019	0	3	quickly	RB	*)	-	-	-	-	-
+mnb_0019	0	4	the	DT	(S(NP*	-	-	-	-	-
+mnb_0019	0	5	line	NN	*)	line	-	1	-	-
+mnb_0019	0	6	moves	VBZ	(VP*))))	move	01	1	-	-
+mnb_0019	0	7	.	.	*))	-	-	-	-	-
+
+mnb_0019	0	0	We	PRP	(TOP(S(NP*)	-	-	-	-	(20)
+mnb_0019	0	1	have	VBP	(VP*	have	03	5	-	-
+mnb_0019	0	2	two	CD	(NP(NP*	-	-	-	-	(16
+mnb_0019	0	3	producers	NNS	*)	producer	-	2	-	-
+mnb_0019	0	4	,	,	*	-	-	-	-	-
+mnb_0019	0	5	I	PRP	(PRN(S(NP*)	-	-	-	-	(19)
+mnb_0019	0	6	believe	VBP	(VP*)))	believe	01	1	-	-
+mnb_0019	0	7	,	,	*	-	-	-	-	-
+mnb_0019	0	8	near	IN	(PP*	-	-	-	-	-
+mnb_0019	0	9	the	DT	(NP(NP*	-	-	-	-	-
+mnb_0019	0	10	front	NN	*)	front	-	2	-	-
+mnb_0019	0	11	of	IN	(PP*	-	-	-	-	-
+mnb_0019	0	12	the	DT	(NP*	-	-	-	-	-
+mnb_0019	0	13	line	NN	*))))))	line	-	1	-	16)
+mnb_0019	0	14	.	.	*))	-	-	-	-	-
+
+mnb_0019	0	0	It	PRP	(TOP(X(NP*)	-	-	-	-	-
+mnb_0019	0	1	how	WRB	(SBAR(WHADVP*	-	-	-	-	-
+mnb_0019	0	2	quickly	RB	*)	-	-	-	-	-
+mnb_0019	0	3	they	PRP	(S(NP*)	-	-	-	-	(16)
+mnb_0019	0	4	get	VBP	(VP*	get	03	3	-	-
+mnb_0019	0	5	handed	VBN	(VP*))))	hand	01	3	-	-
+mnb_0019	0	6	.	.	*))	-	-	-	-	-
+
+mnb_0019	0	0	It	PRP	(TOP(S(NP*)	-	-	-	-	-
+mnb_0019	0	1	reversed	VBD	(VP*	reverse	01	2	-	-
+mnb_0019	0	2	the	DT	(NP(NP*	-	-	-	-	-
+mnb_0019	0	3	two	CD	*	-	-	-	-	-
+mnb_0019	0	4	orders	NNS	*)	order	01	1	-	-
+mnb_0019	0	5	of	IN	(PP*	-	-	-	-	-
+mnb_0019	0	6	the	DT	(NP(NP*	-	-	-	-	-
+mnb_0019	0	7	earlier	JJR	*	-	-	-	-	-
+mnb_0019	0	8	trial	NN	*	trial	-	3	-	-
+mnb_0019	0	9	court	NN	*)	court	-	2	-	-
+mnb_0019	0	10	,	,	*	-	-	-	-	-
+mnb_0019	0	11	Circuit	NNP	(NP(NML(NML*	-	-	-	-	(1
+mnb_0019	0	12	Court	NNP	*)	-	-	-	-	1)
+mnb_0019	0	13	Judge	NNP	*)	-	-	-	-	-
+mnb_0019	0	14	Terry	NNP	*	-	-	-	-	-
+mnb_0019	0	15	Lewis	NNP	*)))))	-	-	-	-	-
+mnb_0019	0	16	.	.	*))	-	-	-	-	-
+
+mnb_0019	0	0	The	DT	(TOP(S(S(NP*	-	-	-	-	*	*
+mnb_0019	0	1	bottom	JJ	*	-	-	-	-	*	*
+mnb_0019	0	2	line	NN	*)	line	-	6	-	*	*
+mnb_0019	0	3	,	,	*	-	-	-	-	*	*
+mnb_0019	0	4	this	DT	(NP*	-	-	-	-	*	*
+mnb_0019	0	5	court	NN	*)	court	-	2	-	*	*
+mnb_0019	0	6	rules	VBZ	(VP*	rule	01	2	-	*	*
+mnb_0019	0	7	unanimously	RB	(ADVP*)	-	-	-	-	*	*
+mnb_0019	0	8	the	DT	(SBAR(S(NP(NP*	-	-	-	-	*	*
+mnb_0019	0	9	right	NN	*)	right	-	1	-	*	*
+mnb_0019	0	10	of	IN	(PP*	-	-	-	-	*	*
+mnb_0019	0	11	the	DT	(NP*	-	-	-	-	*	*
+mnb_0019	0	12	people	NNS	*))	people	-	1	-	*	*
+mnb_0019	0	13	to	TO	(S(VP*	-	-	-	-	*	*
+mnb_0019	0	14	have	VB	(VP*	have	04	6	-	*	*
+mnb_0019	0	15	the	DT	(S(NP*	-	-	-	-	(R-ARG1*	(R-ARG1*
+mnb_0019	0	16	votes	NNS	*)	vote	01	1	-	*)	*)
+mnb_0019	0	17	counted	VBN	(VP*))))))	count	01	1	-	*	*
+mnb_0019	0	18	is	VBZ	(VP*	be	01	1	-	*	*
+mnb_0019	0	19	paramount	JJ	(ADJP*))))))	-	-	-	-	*	*
+mnb_0019	0	20	,	,	*	-	-	-	-	*	*
+mnb_0019	0	21	thus	RB	(S(ADVP*)	-	-	-	-	(ARGM-ADV*)	(ARGM-ADV*)
+mnb_0019	0	22	,	,	*	-	-	-	-	*	*
+mnb_0019	0	23	the	DT	(NP*	-	-	-	-	(ARG1*	(ARG1*
+mnb_0019	0	24	amended	VBN	*	amend	01	-	-	*	*
+mnb_0019	0	25	certifications	NNS	*	certification	-	3	-	*	*
+mnb_0019	0	26	to	TO	(S(VP*	-	-	-	-	*	*
+mnb_0019	0	27	include	VB	(VP*	include	01	1	-	*	*
+mnb_0019	0	28	the	DT	(NP*	-	-	-	-	*	*
+mnb_0019	0	29	hand	NN	*	hand	-	20	-	*	*
+mnb_0019	0	30	counts	NNS	*)))))	count	01	2	-	*)	*)
+mnb_0019	0	31	must	MD	(VP*	-	-	-	-	(ARGM-MOD*)	(ARGM-MOD*)
+mnb_0019	0	32	be	VB	(VP*	be	03	-	-	*	*
+mnb_0019	0	33	accepted	VBN	(VP*	accept	01	1	-	(V*)	(V*)
+mnb_0019	0	34	by	IN	(PP*	-	-	-	-	(ARGM-TMP*	(ARGM-TMP*
+mnb_0019	0	35	November	NNP	(NP*	-	-	-	-	*	*
+mnb_0019	0	36	26	CD	*))))))	-	-	-	-	*)	*)
+mnb_0019	0	37	.	.	*))	-	-	-	-	*	*
+
+mnb_0019	0	0	In	IN	(TOP(S(PP*	-	-	-	-	-
+mnb_0019	0	1	fact	NN	(NP*))	fact	-	5	-	-
+mnb_0019	0	2	,	,	*	-	-	-	-	-
+mnb_0019	0	3	it	PRP	(NP*)	-	-	-	-	-
+mnb_0019	0	4	seemed	VBD	(VP*	seem	01	1	-	-
+mnb_0019	0	5	to	TO	(S(VP*	-	-	-	-	-
+mnb_0019	0	6	have	VB	(VP*	have	03	2	-	-
+mnb_0019	0	7	some	DT	(NP(NP*	-	-	-	-	(0
+mnb_0019	0	8	language	NN	*)	-	-	-	-	-
+mnb_0019	0	9	here	RB	(ADVP*))))))	-	-	-	-	0)
+mnb_0019	0	10	.	.	*))	-	-	-	-	-
+
+mnb_0019	0	0	In	IN	(TOP(S(PP*	-	-	-	-	-
+mnb_0019	0	1	fact	NN	(NP*))	fact	-	5	-	-
+mnb_0019	0	2	,	,	*	-	-	-	-	-
+mnb_0019	0	3	Brian	NNP	(NP*)	-	-	-	-	(13)
+mnb_0019	0	4	I	PRP	(NP*)	-	-	-	-	(19)
+mnb_0019	0	5	do	VBP	(VP*	do	01	-	-	-
+mnb_0019	0	6	have	VB	(VP*	have	04	1	-	-
+mnb_0019	0	7	it	PRP	(S(NP*)	-	-	-	-	(0)
+mnb_0019	0	8	handed	VBN	(VP*	hand	01	1	-	-
+mnb_0019	0	9	to	IN	(PP*	-	-	-	-	-
+mnb_0019	0	10	me	PRP	(NP*))	-	-	-	-	(19)
+mnb_0019	0	11	now	RB	(ADVP*)))))	-	-	-	-	-
+mnb_0019	0	12	.	.	*))	-	-	-	-	-
+
+mnb_0019	0	0	Let	VB	(TOP(S(VP*	let	01	1	-	-
+mnb_0019	0	1	me	PRP	(S(NP*)	-	-	-	-	(19)
+mnb_0019	0	2	take	VB	(VP*	take	01	15	-	-
+mnb_0019	0	3	a	DT	(NP*	-	-	-	-	-
+mnb_0019	0	4	the	DT	*))))	-	-	-	-	-
+mnb_0019	0	5	.	.	*))	-	-	-	-	-
+
+mnb_0019	0	0	Brian	NNP	(TOP(S(NP*)	-	-	-	-	(13)
+mnb_0019	0	1	,	,	*	-	-	-	-	-
+mnb_0019	0	2	if	IN	(SBAR*	-	-	-	-	-
+mnb_0019	0	3	for	IN	(S(PP*	-	-	-	-	-
+mnb_0019	0	4	some	DT	(NP*	-	-	-	-	-
+mnb_0019	0	5	reason	NN	*))	reason	-	1	-	-
+mnb_0019	0	6	the	DT	(NP(NP*	-	-	-	-	-
+mnb_0019	0	7	Secretary	NNP	*)	-	-	-	-	-
+mnb_0019	0	8	of	IN	(PP*	-	-	-	-	-
+mnb_0019	0	9	State	NNP	(NP*)))	-	-	-	-	-
+mnb_0019	0	10	would	MD	(VP*	-	-	-	-	-
+mnb_0019	0	11	n't	RB	*	-	-	-	-	-
+mnb_0019	0	12	accept	VB	(VP*	accept	01	1	-	-
+mnb_0019	0	13	by	IN	(PP*	-	-	-	-	-
+mnb_0019	0	14	the	DT	(NP*	-	-	-	-	(7
+mnb_0019	0	15	26th	NN	*))	-	-	-	-	7)
+mnb_0019	0	16	,	,	*	-	-	-	-	-
+mnb_0019	0	17	the	DT	(NP*	-	-	-	-	(10
+mnb_0019	0	18	certification	NN	*)))))	certification	-	3	-	10)
+mnb_0019	0	19	,	,	*	-	-	-	-	-
+mnb_0019	0	20	it	PRP	(NP*)	-	-	-	-	-
+mnb_0019	0	21	could	MD	(VP*	-	-	-	-	-
+mnb_0019	0	22	be	VB	(VP*	be	03	-	-	-
+mnb_0019	0	23	certified	VBN	(VP*	certify	01	-	-	-
+mnb_0019	0	24	elsewhere	RB	(ADVP*))))	-	-	-	-	-
+mnb_0019	0	25	.	.	*))	-	-	-	-	-
+
+mnb_0019	0	0	Gregg	NNP	(TOP(NP*	-	-	-	-	(19
+mnb_0019	0	1	Jarrett	NNP	*	-	-	-	-	-
+mnb_0019	0	2	.	.	*))	-	-	-	-	19)
+
+mnb_0019	0	0	I	PRP	(TOP(S(NP*)	-	-	-	-	(13)
+mnb_0019	0	1	should	MD	(VP*	-	-	-	-	-
+mnb_0019	0	2	point	VB	(VP*	point	02	1	-	-
+mnb_0019	0	3	out	RP	(PRT*)	-	-	-	-	-
+mnb_0019	0	4	,	,	*	-	-	-	-	-
+mnb_0019	0	5	he	PRP	(SBAR(S(NP*)	-	-	-	-	(19)
+mnb_0019	0	6	is	VBZ	(VP(VP*	be	01	1	-	-
+mnb_0019	0	7	a	DT	(NP(NP*	-	-	-	-	-
+mnb_0019	0	8	former	JJ	*	-	-	-	-	-
+mnb_0019	0	9	lawyer	NN	*)	-	-	-	-	-
+mnb_0019	0	10	himself	PRP	(NP*)))	-	-	-	-	(19)
+mnb_0019	0	11	and	CC	*	-	-	-	-	-
+mnb_0019	0	12	so	RB	(ADVP*)	-	-	-	-	-
+mnb_0019	0	13	can	MD	(VP*	-	-	-	-	-
+mnb_0019	0	14	help	VB	(VP*	help	01	1	-	-
+mnb_0019	0	15	put	VB	(S(VP*	put	03	3	-	-
+mnb_0019	0	16	this	DT	(NP*)	-	-	-	-	(0)
+mnb_0019	0	17	into	IN	(PP*	-	-	-	-	-
+mnb_0019	0	18	English	NNP	(NP*)))))))))))	-	-	-	-	-
+mnb_0019	0	19	.	.	*))	-	-	-	-	-
+
+mnb_0019	0	0	Greg	NNP	(TOP(S(NP*)	-	-	-	-	(19)
+mnb_0019	0	1	,	,	*	-	-	-	-	-
+mnb_0019	0	2	go	VB	(VP*	go	06	1	-	-
+mnb_0019	0	3	ahead	RB	(ADVP*)	-	-	-	-	-
+mnb_0019	0	4	,	,	*	-	-	-	-	-
+mnb_0019	0	5	if	IN	(SBAR*	-	-	-	-	-
+mnb_0019	0	6	you	PRP	(S(NP*)	-	-	-	-	(19)
+mnb_0019	0	7	come	VBP	(VP*	come	01	1	-	-
+mnb_0019	0	8	to	IN	(PP*	-	-	-	-	-
+mnb_0019	0	9	a	DT	(NP(NP*	-	-	-	-	-
+mnb_0019	0	10	passage	NN	*)	passage	-	2	-	-
+mnb_0019	0	11	we	PRP	(SBAR(S(NP*)	-	-	-	-	(6)
+mnb_0019	0	12	should	MD	(VP*	-	-	-	-	-
+mnb_0019	0	13	hear	VB	(VP*))))))))))	hear	01	1	-	-
+mnb_0019	0	14	.	.	*))	-	-	-	-	-
+
+mnb_0019	0	0	I	PRP	(TOP(S(NP*)	-	-	-	-	(19)
+mnb_0019	0	1	'm	VBP	(VP*	-	-	-	-	-
+mnb_0019	0	2	flipping	VBG	(VP*	flip	01	1	-	-
+mnb_0019	0	3	through	IN	(PP*	-	-	-	-	-
+mnb_0019	0	4	the	DT	(NP(NP*	-	-	-	-	(4
+mnb_0019	0	5	summary	NN	*)	-	-	-	-	-
+mnb_0019	0	6	of	IN	(PP*	-	-	-	-	-
+mnb_0019	0	7	enacts	NNS	(NP*))))	-	-	-	-	4)
+mnb_0019	0	8	because	IN	(SBAR*	-	-	-	-	-
+mnb_0019	0	9	that	DT	(S(NP*)	-	-	-	-	(4)
+mnb_0019	0	10	is	VBZ	(VP*	be	01	1	-	-
+mnb_0019	0	11	not	RB	*	-	-	-	-	-
+mnb_0019	0	12	important	JJ	(ADJP*))))))	-	-	-	-	-
+mnb_0019	0	13	.	.	*))	-	-	-	-	-
+
+mnb_0019	0	0	The	DT	(TOP(NP(NP*	-	-	-	-	(4
+mnb_0019	0	1	summary	NN	*)	-	-	-	-	-
+mnb_0019	0	2	of	IN	(PP*	-	-	-	-	-
+mnb_0019	0	3	facts	NNS	(NP*))	fact	-	1	-	-
+mnb_0019	0	4	.	.	*))	-	-	-	-	4)
+
+mnb_0019	0	0	You	PRP	(TOP(S(NP*)	-	-	-	-	(19)
+mnb_0019	0	1	flag	NN	(VP*	-	-	-	-	-
+mnb_0019	0	2	us	PRP	(NP*)	-	-	-	-	(6)
+mnb_0019	0	3	when	WRB	(SBAR(WHADVP*)	-	-	-	-	-
+mnb_0019	0	4	you	PRP	(S(NP*)	-	-	-	-	(19)
+mnb_0019	0	5	come	VBP	(VP*	come	01	1	-	-
+mnb_0019	0	6	to	IN	(PP*	-	-	-	-	-
+mnb_0019	0	7	the	DT	(NP(NP*	-	-	-	-	-
+mnb_0019	0	8	first	JJ	*	-	-	-	-	-
+mnb_0019	0	9	portion	NN	*)	portion	-	1	-	-
+mnb_0019	0	10	we	PRP	(SBAR(S(NP*)	-	-	-	-	(6)
+mnb_0019	0	11	should	MD	(VP*	-	-	-	-	-
+mnb_0019	0	12	hear	VB	(VP*	hear	01	1	-	-
+mnb_0019	0	13	aloud	RB	(ADVP*)))))))))))	-	-	-	-	-
+mnb_0019	0	14	.	.	*))	-	-	-	-	-
+
+#end document

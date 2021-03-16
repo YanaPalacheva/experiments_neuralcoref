@@ -1,0 +1,385 @@
+# newdoc id = a9446af5-7322-4520-a47c-2b41b14ec713
+# newpar id = a9446af5-7322-4520-a47c-2b41b14ec713-p1
+# par_text = Предполагается, что судно могло затонуть либо из-за того, что было слишком старым, либо из-за перегрузки.
+# sent_id = a9446af5-7322-4520-a47c-2b41b14ec713-p1-s1
+# text = Предполагается, что судно могло затонуть либо из-за того, что было слишком старым, либо из-за перегрузки.
+1	Предполагается	_	_	_	_	_	_	_	Shift=0|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=14
+3	что	_	_	_	_	_	_	_	Shift=16
+4	судно	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=223|RuCor_group_id=412819|RuCor_link_id=0|Shift=20
+5	могло	_	_	_	_	_	_	_	Shift=26
+6	затонуть	_	_	_	_	_	_	_	Shift=32
+7	либо	_	_	_	_	_	_	_	Shift=41
+8	из-за	_	_	_	_	_	_	_	Shift=46
+9	того	_	_	_	_	_	_	_	Shift=52|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=56
+11	что	_	_	_	_	_	_	_	Shift=58
+12	было	_	_	_	_	_	_	_	Shift=62
+13	слишком	_	_	_	_	_	_	_	Shift=67
+14	старым	_	_	_	_	_	_	_	Shift=75|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=81
+16	либо	_	_	_	_	_	_	_	Shift=83
+17	из-за	_	_	_	_	_	_	_	Shift=88
+18	перегрузки	_	_	_	_	_	_	_	Shift=94|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=104
+
+# newpar id = a9446af5-7322-4520-a47c-2b41b14ec713-p2
+# par_text = Официальная причина гибели круизного теплохода «Булгария» пока не названа. Неофициально эксперты сходятся во мнении, что судно пошло ко дну из-за нарушения правил эксплуатации. СМИ перечисляют несколько возможных версий крушения «Булгарии».
+# sent_id = a9446af5-7322-4520-a47c-2b41b14ec713-p2-s1
+# text = Официальная причина гибели круизного теплохода ``Булгария'' пока не названа.
+1	Официальная	_	_	_	_	_	_	_	Shift=106
+2	причина	_	_	_	_	_	_	_	Shift=118
+3	гибели	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=221|RuCor_group_id=412825|RuCor_link_id=0|Shift=126
+4	круизного	_	_	_	_	_	_	_	RuCor_chain_id=223|RuCor_group_id=412820|Shift=133
+5	теплохода	_	_	_	_	_	_	_	RuCor_chain_id=223|RuCor_group_id=412820|Shift=143
+6	``	_	_	_	_	_	_	_	RuCor_chain_id=223|RuCor_group_id=412820|Shift=153|SpaceAfter=No
+7	Булгария	_	_	_	_	_	_	_	RuCor_chain_id=223|RuCor_group_id=412820|Shift=154|SpaceAfter=No
+8	''	_	_	_	_	_	_	_	RuCor_chain_id=223|RuCor_group_id=412820|Shift=162
+9	пока	_	_	_	_	_	_	_	Shift=164
+10	не	_	_	_	_	_	_	_	Shift=169
+11	названа	_	_	_	_	_	_	_	Shift=172|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=179
+
+# sent_id = a9446af5-7322-4520-a47c-2b41b14ec713-p2-s2
+# text = Неофициально эксперты сходятся во мнении, что судно пошло ко дну из-за нарушения правил эксплуатации.
+1	Неофициально	_	_	_	_	_	_	_	Shift=181
+2	эксперты	_	_	_	_	_	_	_	Shift=194
+3	сходятся	_	_	_	_	_	_	_	Shift=203
+4	во	_	_	_	_	_	_	_	Shift=212
+5	мнении	_	_	_	_	_	_	_	Shift=215|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=221
+7	что	_	_	_	_	_	_	_	Shift=223
+8	судно	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=223|RuCor_group_id=412821|RuCor_link_id=412820|Shift=227
+9	пошло	_	_	_	_	_	_	_	Shift=233
+10	ко	_	_	_	_	_	_	_	Shift=239
+11	дну	_	_	_	_	_	_	_	Shift=242
+12	из-за	_	_	_	_	_	_	_	Shift=246
+13	нарушения	_	_	_	_	_	_	_	Shift=252
+14	правил	_	_	_	_	_	_	_	Shift=262
+15	эксплуатации	_	_	_	_	_	_	_	Shift=269|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=281
+
+# sent_id = a9446af5-7322-4520-a47c-2b41b14ec713-p2-s3
+# text = СМИ перечисляют несколько возможных версий крушения ``Булгарии''.
+1	СМИ	_	_	_	_	_	_	_	Shift=283
+2	перечисляют	_	_	_	_	_	_	_	Shift=287
+3	несколько	_	_	_	_	_	_	_	Shift=299
+4	возможных	_	_	_	_	_	_	_	Shift=309
+5	версий	_	_	_	_	_	_	_	Shift=319
+6	крушения	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=221|RuCor_group_id=412826|RuCor_link_id=412825|Shift=326
+7	``	_	_	_	_	_	_	_	RuCor_chain_id=223|RuCor_group_id=412822|Shift=335|SpaceAfter=No
+8	Булгарии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=223|RuCor_group_id=412822|RuCor_link_id=412820|Shift=336|SpaceAfter=No
+9	''	_	_	_	_	_	_	_	RuCor_chain_id=223|RuCor_group_id=412822|Shift=344|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=345
+
+# newpar id = a9446af5-7322-4520-a47c-2b41b14ec713-p3
+# par_text = Первая версия, которая появилась вскоре после ЧП, — шторм. Изначально сообщалось о сильном ненастье на Волге в момент крушения. Однако эти данные опровергли синоптики. «Мы предупреждали о неблагоприятных погодных условиях — порывистом ветре и грозе. Штормового предупреждения на сегодня не было», — цитирует NEWSru.com представителя управления Гидрометцентра по Татарстану. Позже версию о шторме не подтвердили спасшиеся пассажиры.
+# sent_id = a9446af5-7322-4520-a47c-2b41b14ec713-p3-s1
+# text = Первая версия, которая появилась вскоре после ЧП, - шторм.
+1	Первая	_	_	_	_	_	_	_	RuCor_chain_id=222|RuCor_group_id=412823|Shift=347
+2	версия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=222|RuCor_group_id=412823|RuCor_link_id=0|Shift=354|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=360
+4	которая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=222|RuCor_group_id=412824|RuCor_link_id=412823|Shift=362
+5	появилась	_	_	_	_	_	_	_	Shift=370
+6	вскоре	_	_	_	_	_	_	_	Shift=380
+7	после	_	_	_	_	_	_	_	Shift=387
+8	ЧП	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=221|RuCor_group_id=412829|RuCor_link_id=412826|Shift=393|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=395
+10	-	_	_	_	_	_	_	_	Shift=397
+11	шторм	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=222|RuCor_group_id=412828|RuCor_link_id=412824|Shift=399|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=404
+
+# sent_id = a9446af5-7322-4520-a47c-2b41b14ec713-p3-s2
+# text = Изначально сообщалось о сильном ненастье на Волге в момент крушения.
+1	Изначально	_	_	_	_	_	_	_	Shift=406
+2	сообщалось	_	_	_	_	_	_	_	Shift=417
+3	о	_	_	_	_	_	_	_	Shift=428
+4	сильном	_	_	_	_	_	_	_	Shift=430
+5	ненастье	_	_	_	_	_	_	_	Shift=438
+6	на	_	_	_	_	_	_	_	Shift=447
+7	Волге	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=219|RuCor_group_id=412840|RuCor_link_id=0|Shift=450
+8	в	_	_	_	_	_	_	_	Shift=456
+9	момент	_	_	_	_	_	_	_	Shift=458
+10	крушения	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=221|RuCor_group_id=412827|RuCor_link_id=412826|Shift=465|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=473
+
+# sent_id = a9446af5-7322-4520-a47c-2b41b14ec713-p3-s3
+# text = Однако эти данные опровергли синоптики.
+1	Однако	_	_	_	_	_	_	_	Shift=475
+2	эти	_	_	_	_	_	_	_	Shift=482
+3	данные	_	_	_	_	_	_	_	Shift=486
+4	опровергли	_	_	_	_	_	_	_	Shift=493
+5	синоптики	_	_	_	_	_	_	_	Shift=504|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=513
+
+# sent_id = a9446af5-7322-4520-a47c-2b41b14ec713-p3-s4
+# text = ``Мы предупреждали о неблагоприятных погодных условиях - порывистом ветре и грозе.
+1	``	_	_	_	_	_	_	_	Shift=515|SpaceAfter=No
+2	Мы	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=220|RuCor_group_id=412830|RuCor_link_id=412831|Shift=516
+3	предупреждали	_	_	_	_	_	_	_	Shift=519
+4	о	_	_	_	_	_	_	_	Shift=533
+5	неблагоприятных	_	_	_	_	_	_	_	Shift=535
+6	погодных	_	_	_	_	_	_	_	Shift=551
+7	условиях	_	_	_	_	_	_	_	Shift=560
+8	-	_	_	_	_	_	_	_	Shift=569
+9	порывистом	_	_	_	_	_	_	_	Shift=571
+10	ветре	_	_	_	_	_	_	_	Shift=582
+11	и	_	_	_	_	_	_	_	Shift=588
+12	грозе	_	_	_	_	_	_	_	Shift=590|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=595
+
+# sent_id = a9446af5-7322-4520-a47c-2b41b14ec713-p3-s5
+# text = Штормового предупреждения на сегодня не было'', - цитирует NEWSru.com представителя управления Гидрометцентра по Татарстану.
+1	Штормового	_	_	_	_	_	_	_	Shift=597
+2	предупреждения	_	_	_	_	_	_	_	Shift=608
+3	на	_	_	_	_	_	_	_	Shift=623
+4	сегодня	_	_	_	_	_	_	_	Shift=626
+5	не	_	_	_	_	_	_	_	Shift=634
+6	было	_	_	_	_	_	_	_	Shift=637|SpaceAfter=No
+7	''	_	_	_	_	_	_	_	Shift=641|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=642
+9	-	_	_	_	_	_	_	_	Shift=644
+10	цитирует	_	_	_	_	_	_	_	Shift=646
+11	NEWSru.com	_	_	_	_	_	_	_	Shift=655
+12	представителя	_	_	_	_	_	_	_	Shift=666
+13	управления	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=220|RuCor_group_id=412831|RuCor_link_id=0|Shift=680
+14	Гидрометцентра	_	_	_	_	_	_	_	RuCor_chain_id=220|RuCor_group_id=412831|Shift=691
+15	по	_	_	_	_	_	_	_	RuCor_chain_id=220|RuCor_group_id=412831|Shift=706
+16	Татарстану	_	_	_	_	_	_	_	RuCor_chain_id=220|RuCor_group_id=412831|Shift=709|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=719
+
+# sent_id = a9446af5-7322-4520-a47c-2b41b14ec713-p3-s6
+# text = Позже версию о шторме не подтвердили спасшиеся пассажиры.
+1	Позже	_	_	_	_	_	_	_	Shift=721
+2	версию	_	_	_	_	_	_	_	Shift=727
+3	о	_	_	_	_	_	_	_	Shift=734
+4	шторме	_	_	_	_	_	_	_	Shift=736
+5	не	_	_	_	_	_	_	_	Shift=743
+6	подтвердили	_	_	_	_	_	_	_	Shift=746
+7	спасшиеся	_	_	_	_	_	_	_	RuCor_chain_id=218|RuCor_group_id=412847|Shift=758
+8	пассажиры	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=218|RuCor_group_id=412847|RuCor_link_id=0|Shift=768|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=777
+
+# newpar id = a9446af5-7322-4520-a47c-2b41b14ec713-p4
+# par_text = Вторая версия гибели «Булгарии» — судно шло с правым креном и при повороте завалилось на бок. За несколько минут оно полностью ушло на дно. Водолазы подтвердили, что «Булгария» лежит на дне с правым креном. Третья версия — теплоход налетел на мель. Хоть затонуло судно на глубину не меньше 20 м, в этом месте Волги есть опасные участки. А поскольку судно было старым — 1955 года выпуска, — оба эти обстоятельства привели к трагедии. Ещё одной причиной кораблекрушения мог стать перегруз теплохода — он рассчитан на 140 человек, а на борту было 197.
+# sent_id = a9446af5-7322-4520-a47c-2b41b14ec713-p4-s1
+# text = Вторая версия гибели ``Булгарии'' - судно шло с правым креном и при повороте завалилось на бок.
+1	Вторая	_	_	_	_	_	_	_	Shift=779
+2	версия	_	_	_	_	_	_	_	Shift=786
+3	гибели	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=221|RuCor_group_id=412833|RuCor_link_id=412825|Shift=793
+4	``	_	_	_	_	_	_	_	RuCor_chain_id=223|RuCor_group_id=412832|Shift=800|SpaceAfter=No
+5	Булгарии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=223|RuCor_group_id=412832|RuCor_link_id=412820|Shift=801|SpaceAfter=No
+6	''	_	_	_	_	_	_	_	RuCor_chain_id=223|RuCor_group_id=412832|Shift=809
+7	-	_	_	_	_	_	_	_	Shift=811
+8	судно	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=223|RuCor_group_id=412834|RuCor_link_id=412832|Shift=813
+9	шло	_	_	_	_	_	_	_	Shift=819
+10	с	_	_	_	_	_	_	_	Shift=823
+11	правым	_	_	_	_	_	_	_	Shift=825
+12	креном	_	_	_	_	_	_	_	Shift=832
+13	и	_	_	_	_	_	_	_	Shift=839
+14	при	_	_	_	_	_	_	_	Shift=841
+15	повороте	_	_	_	_	_	_	_	Shift=845
+16	завалилось	_	_	_	_	_	_	_	Shift=854
+17	на	_	_	_	_	_	_	_	Shift=865
+18	бок	_	_	_	_	_	_	_	Shift=868|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=871
+
+# sent_id = a9446af5-7322-4520-a47c-2b41b14ec713-p4-s2
+# text = За несколько минут оно полностью ушло на дно.
+1	За	_	_	_	_	_	_	_	Shift=873
+2	несколько	_	_	_	_	_	_	_	Shift=876
+3	минут	_	_	_	_	_	_	_	Shift=886
+4	оно	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=223|RuCor_group_id=412835|RuCor_link_id=412834|Shift=892
+5	полностью	_	_	_	_	_	_	_	Shift=896
+6	ушло	_	_	_	_	_	_	_	Shift=906
+7	на	_	_	_	_	_	_	_	Shift=911
+8	дно	_	_	_	_	_	_	_	Shift=914|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=917
+
+# sent_id = a9446af5-7322-4520-a47c-2b41b14ec713-p4-s3
+# text = Водолазы подтвердили, что ``Булгария'' лежит на дне с правым креном.
+1	Водолазы	_	_	_	_	_	_	_	Shift=919
+2	подтвердили	_	_	_	_	_	_	_	Shift=928|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=939
+4	что	_	_	_	_	_	_	_	Shift=941
+5	``	_	_	_	_	_	_	_	RuCor_chain_id=223|RuCor_group_id=412836|Shift=945|SpaceAfter=No
+6	Булгария	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=223|RuCor_group_id=412836|RuCor_link_id=412832|Shift=946|SpaceAfter=No
+7	''	_	_	_	_	_	_	_	RuCor_chain_id=223|RuCor_group_id=412836|Shift=954
+8	лежит	_	_	_	_	_	_	_	Shift=956
+9	на	_	_	_	_	_	_	_	Shift=962
+10	дне	_	_	_	_	_	_	_	Shift=965
+11	с	_	_	_	_	_	_	_	Shift=969
+12	правым	_	_	_	_	_	_	_	Shift=971
+13	креном	_	_	_	_	_	_	_	Shift=978|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=984
+
+# sent_id = a9446af5-7322-4520-a47c-2b41b14ec713-p4-s4
+# text = Третья версия - теплоход налетел на мель.
+1	Третья	_	_	_	_	_	_	_	Shift=986
+2	версия	_	_	_	_	_	_	_	Shift=993
+3	-	_	_	_	_	_	_	_	Shift=1000
+4	теплоход	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=223|RuCor_group_id=412837|RuCor_link_id=412836|Shift=1002
+5	налетел	_	_	_	_	_	_	_	Shift=1011
+6	на	_	_	_	_	_	_	_	Shift=1019
+7	мель	_	_	_	_	_	_	_	Shift=1022|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=1026
+
+# sent_id = a9446af5-7322-4520-a47c-2b41b14ec713-p4-s5
+# text = Хоть затонуло судно на глубину не меньше 20 м, в этом месте Волги есть опасные участки.
+1	Хоть	_	_	_	_	_	_	_	Shift=1028
+2	затонуло	_	_	_	_	_	_	_	Shift=1033
+3	судно	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=223|RuCor_group_id=412838|RuCor_link_id=412836|Shift=1042
+4	на	_	_	_	_	_	_	_	Shift=1048
+5	глубину	_	_	_	_	_	_	_	Shift=1051
+6	не	_	_	_	_	_	_	_	Shift=1059
+7	меньше	_	_	_	_	_	_	_	Shift=1062
+8	20	_	_	_	_	_	_	_	Shift=1069
+9	м	_	_	_	_	_	_	_	Shift=1072|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=1073
+11	в	_	_	_	_	_	_	_	Shift=1075
+12	этом	_	_	_	_	_	_	_	Shift=1077
+13	месте	_	_	_	_	_	_	_	Shift=1082
+14	Волги	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=219|RuCor_group_id=412839|RuCor_link_id=412840|Shift=1088
+15	есть	_	_	_	_	_	_	_	Shift=1094
+16	опасные	_	_	_	_	_	_	_	Shift=1099
+17	участки	_	_	_	_	_	_	_	Shift=1107|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=1114
+
+# sent_id = a9446af5-7322-4520-a47c-2b41b14ec713-p4-s6
+# text = А поскольку судно было старым - 1955 года выпуска, - оба эти обстоятельства привели к трагедии.
+1	А	_	_	_	_	_	_	_	Shift=1116
+2	поскольку	_	_	_	_	_	_	_	Shift=1118
+3	судно	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=223|RuCor_group_id=412841|RuCor_link_id=412834|Shift=1128
+4	было	_	_	_	_	_	_	_	Shift=1134
+5	старым	_	_	_	_	_	_	_	Shift=1139
+6	-	_	_	_	_	_	_	_	Shift=1146
+7	1955	_	_	_	_	_	_	_	Shift=1148
+8	года	_	_	_	_	_	_	_	Shift=1153
+9	выпуска	_	_	_	_	_	_	_	Shift=1158|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=1165
+11	-	_	_	_	_	_	_	_	Shift=1167
+12	оба	_	_	_	_	_	_	_	Shift=1169
+13	эти	_	_	_	_	_	_	_	Shift=1173
+14	обстоятельства	_	_	_	_	_	_	_	Shift=1177
+15	привели	_	_	_	_	_	_	_	Shift=1192
+16	к	_	_	_	_	_	_	_	Shift=1200
+17	трагедии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=221|RuCor_group_id=412849|RuCor_link_id=412826|Shift=1202|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=1210
+
+# sent_id = a9446af5-7322-4520-a47c-2b41b14ec713-p4-s7
+# text = Ещё одной причиной кораблекрушения мог стать перегруз теплохода - он рассчитан на 140 человек, а на борту было 197.
+1	Ещё	_	_	_	_	_	_	_	Shift=1212
+2	одной	_	_	_	_	_	_	_	Shift=1216
+3	причиной	_	_	_	_	_	_	_	Shift=1222
+4	кораблекрушения	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=221|RuCor_group_id=412842|RuCor_link_id=412826|Shift=1231
+5	мог	_	_	_	_	_	_	_	Shift=1247
+6	стать	_	_	_	_	_	_	_	Shift=1251
+7	перегруз	_	_	_	_	_	_	_	Shift=1257
+8	теплохода	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=223|RuCor_group_id=412843|RuCor_link_id=412841|Shift=1266
+9	-	_	_	_	_	_	_	_	Shift=1276
+10	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=223|RuCor_group_id=412844|RuCor_link_id=412841|Shift=1278
+11	рассчитан	_	_	_	_	_	_	_	Shift=1281
+12	на	_	_	_	_	_	_	_	Shift=1291
+13	140	_	_	_	_	_	_	_	Shift=1294
+14	человек	_	_	_	_	_	_	_	Shift=1298|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=1305
+16	а	_	_	_	_	_	_	_	Shift=1307
+17	на	_	_	_	_	_	_	_	Shift=1309
+18	борту	_	_	_	_	_	_	_	Shift=1312
+19	было	_	_	_	_	_	_	_	Shift=1318
+20	197	_	_	_	_	_	_	_	Shift=1323|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=1326
+
+# newpar id = a9446af5-7322-4520-a47c-2b41b14ec713-p5
+# par_text = Выжившие после крушения корабля рассказали, что основная причина трагедии — то, что теплоход был очень старый. В плавания судно ходит более 50 лет, а нормального ремонта теплохода за это время сделано не было. «В какой-то момент он завалился на правый бок, перевернулся буквально за три минуты и пошёл ко дну. Он затонул в течение двух минут. Причиной нам назвали изношенность судна», — рассказывают пассажиры.
+# sent_id = a9446af5-7322-4520-a47c-2b41b14ec713-p5-s1
+# text = Выжившие после крушения корабля рассказали, что основная причина трагедии - то, что теплоход был очень старый.
+1	Выжившие	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=218|RuCor_group_id=412848|RuCor_link_id=412847|Shift=1328
+2	после	_	_	_	_	_	_	_	RuCor_chain_id=218|RuCor_group_id=412848|Shift=1337
+3	крушения	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=221|RuCor_group_id=412845|RuCor_link_id=412842|Shift=1343
+4	корабля	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=223|RuCor_group_id=412846|RuCor_link_id=412843|Shift=1352
+5	рассказали	_	_	_	_	_	_	_	Shift=1360|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1370
+7	что	_	_	_	_	_	_	_	Shift=1372
+8	основная	_	_	_	_	_	_	_	Shift=1376
+9	причина	_	_	_	_	_	_	_	Shift=1385
+10	трагедии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=221|RuCor_group_id=412850|RuCor_link_id=412849|Shift=1393
+11	-	_	_	_	_	_	_	_	Shift=1402
+12	то	_	_	_	_	_	_	_	Shift=1404|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=1406
+14	что	_	_	_	_	_	_	_	Shift=1408
+15	теплоход	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=223|RuCor_group_id=412851|RuCor_link_id=412846|Shift=1412
+16	был	_	_	_	_	_	_	_	Shift=1421
+17	очень	_	_	_	_	_	_	_	Shift=1425
+18	старый	_	_	_	_	_	_	_	Shift=1431|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=1437
+
+# sent_id = a9446af5-7322-4520-a47c-2b41b14ec713-p5-s2
+# text = В плавания судно ходит более 50 лет, а нормального ремонта теплохода за это время сделано не было.
+1	В	_	_	_	_	_	_	_	Shift=1439
+2	плавания	_	_	_	_	_	_	_	Shift=1441
+3	судно	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=223|RuCor_group_id=412852|RuCor_link_id=412851|Shift=1450
+4	ходит	_	_	_	_	_	_	_	Shift=1456
+5	более	_	_	_	_	_	_	_	Shift=1462
+6	50	_	_	_	_	_	_	_	Shift=1468
+7	лет	_	_	_	_	_	_	_	Shift=1471|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1474
+9	а	_	_	_	_	_	_	_	Shift=1476
+10	нормального	_	_	_	_	_	_	_	Shift=1478
+11	ремонта	_	_	_	_	_	_	_	Shift=1490
+12	теплохода	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=223|RuCor_group_id=412853|RuCor_link_id=412851|Shift=1498
+13	за	_	_	_	_	_	_	_	Shift=1508
+14	это	_	_	_	_	_	_	_	Shift=1511
+15	время	_	_	_	_	_	_	_	Shift=1515
+16	сделано	_	_	_	_	_	_	_	Shift=1521
+17	не	_	_	_	_	_	_	_	Shift=1529
+18	было	_	_	_	_	_	_	_	Shift=1532|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=1536
+
+# sent_id = a9446af5-7322-4520-a47c-2b41b14ec713-p5-s3
+# text = ``В какой-то момент он завалился на правый бок, перевернулся буквально за три минуты и пошёл ко дну.
+1	``	_	_	_	_	_	_	_	Shift=1538|SpaceAfter=No
+2	В	_	_	_	_	_	_	_	Shift=1539
+3	какой-то	_	_	_	_	_	_	_	Shift=1541
+4	момент	_	_	_	_	_	_	_	Shift=1550
+5	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=223|RuCor_group_id=412854|RuCor_link_id=412851|Shift=1557
+6	завалился	_	_	_	_	_	_	_	Shift=1560
+7	на	_	_	_	_	_	_	_	Shift=1570
+8	правый	_	_	_	_	_	_	_	Shift=1573
+9	бок	_	_	_	_	_	_	_	Shift=1580|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=1583
+11	перевернулся	_	_	_	_	_	_	_	Shift=1585
+12	буквально	_	_	_	_	_	_	_	Shift=1598
+13	за	_	_	_	_	_	_	_	Shift=1608
+14	три	_	_	_	_	_	_	_	Shift=1611
+15	минуты	_	_	_	_	_	_	_	Shift=1615
+16	и	_	_	_	_	_	_	_	Shift=1622
+17	пошёл	_	_	_	_	_	_	_	Shift=1624
+18	ко	_	_	_	_	_	_	_	Shift=1630
+19	дну	_	_	_	_	_	_	_	Shift=1633|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=1636
+
+# sent_id = a9446af5-7322-4520-a47c-2b41b14ec713-p5-s4
+# text = Он затонул в течение двух минут.
+1	Он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=223|RuCor_group_id=412855|RuCor_link_id=412853|Shift=1638
+2	затонул	_	_	_	_	_	_	_	Shift=1641
+3	в	_	_	_	_	_	_	_	Shift=1649
+4	течение	_	_	_	_	_	_	_	Shift=1651
+5	двух	_	_	_	_	_	_	_	Shift=1659
+6	минут	_	_	_	_	_	_	_	Shift=1664|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=1669
+
+# sent_id = a9446af5-7322-4520-a47c-2b41b14ec713-p5-s5
+# text = Причиной нам назвали изношенность судна'', - рассказывают пассажиры.
+1	Причиной	_	_	_	_	_	_	_	Shift=1671
+2	нам	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=218|RuCor_group_id=412856|RuCor_link_id=412858|Shift=1680
+3	назвали	_	_	_	_	_	_	_	Shift=1684
+4	изношенность	_	_	_	_	_	_	_	Shift=1692
+5	судна	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=223|RuCor_group_id=412857|RuCor_link_id=412854|Shift=1705|SpaceAfter=No
+6	''	_	_	_	_	_	_	_	Shift=1710|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=1711
+8	-	_	_	_	_	_	_	_	Shift=1713
+9	рассказывают	_	_	_	_	_	_	_	Shift=1715
+10	пассажиры	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=218|RuCor_group_id=412858|RuCor_link_id=412847|Shift=1728|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	_
+

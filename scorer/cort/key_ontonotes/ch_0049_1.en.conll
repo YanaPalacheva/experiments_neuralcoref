@@ -1,0 +1,609 @@
+#begin document (ch_0049_1); part 000
+ch_0049	1	0	I	PRP	(TOP(S(PRN(S(NP*)	-	-	-	B	(25)
+ch_0049	1	1	mean	VBP	(VP*)))	mean	01	-	B	-
+ch_0049	1	2	that	DT	(NP*)	-	-	-	B	-
+ch_0049	1	3	's	VBZ	(VP*	be	01	-	B	-
+ch_0049	1	4	the	DT	(NP*	-	-	-	B	(35
+ch_0049	1	5	military	NN	*))	-	-	-	B	35)
+ch_0049	1	6	.	.	*))	-	-	-	B	-
+
+ch_0049	1	0	I	PRP	(TOP(S(NP*)	-	-	-	B	(25)
+ch_0049	1	1	have	VBP	(VP*	have	03	-	B	-
+ch_0049	1	2	my	PRP$	(NP(NP*	-	-	-	B	(25)
+ch_0049	1	3	discharge	NN	*	-	-	-	B	-
+ch_0049	1	4	papers	NNS	*)	-	-	-	B	-
+ch_0049	1	5	and	CC	*	-	-	-	B	-
+ch_0049	1	6	everything	NN	(NP*)))))	-	-	-	B	-
+
+ch_0049	1	0	uh-huh	UH	(TOP(INTJ*	-	-	-	A	-
+ch_0049	1	1	.	.	*))	-	-	-	A	-
+
+ch_0049	1	0	and	CC	(TOP(S*	-	-	-	B	*	*
+ch_0049	1	1	I	PRP	(NP*)	-	-	-	B	*	*
+ch_0049	1	2	've	VBP	(VP*	have	01	-	B	*	*
+ch_0049	1	3	said	VBD	(VP*	say	01	-	B	*	*
+ch_0049	1	4	that	IN	(SBAR*	-	-	-	B	*	*
+ch_0049	1	5	yeah	UH	(S(S(INTJ*)	-	-	-	B	*	*
+ch_0049	1	6	I	PRP	(NP*)	-	-	-	B	*	*
+ch_0049	1	7	will	MD	(VP*	-	-	-	B	*	*
+ch_0049	1	8	give	VB	(VP*	give	01	-	B	*	*
+ch_0049	1	9	a	DT	(NP(NP*	-	-	-	B	*	*
+ch_0049	1	10	urine	NN	*	-	-	-	B	*	*
+ch_0049	1	11	sample	NN	*)	-	-	-	B	*	*
+ch_0049	1	12	or	CC	*	-	-	-	B	*	*
+ch_0049	1	13	a	DT	(NP*	-	-	-	B	*	*
+ch_0049	1	14	blood	NN	*	-	-	-	B	*	*
+ch_0049	1	15	sample	NN	*))	-	-	-	B	*	*
+ch_0049	1	16	if	IN	(SBAR*	-	-	-	B	*	*
+ch_0049	1	17	they	PRP	(S(NP*)	-	-	-	B	*	*
+ch_0049	1	18	call	VBP	(VP*	call	02	-	B	*	*
+ch_0049	1	19	me	PRP	(NP*)	-	-	-	B	*	*
+ch_0049	1	20	back	RP	(PRT*)	-	-	-	B	*	*
+ch_0049	1	21	for	IN	(PP*	-	-	-	B	*	*
+ch_0049	1	22	those	DT	(NP*))))))))	-	-	-	B	*	*
+ch_0049	1	23	,	,	*	-	-	-	B	*	*
+ch_0049	1	24	but	CC	*	-	-	-	B	*	*
+ch_0049	1	25	they	PRP	(S(NP*)	-	-	-	B	*	*
+ch_0049	1	26	're	VBP	(VP*	-	-	-	B	*	*
+ch_0049	1	27	going	VBG	(VP*	go	04	-	B	*	*
+ch_0049	1	28	to	TO	(S(VP*	-	-	-	B	*	*
+ch_0049	1	29	have	VB	(VP*	have	02	-	B	*	*
+ch_0049	1	30	to	TO	(S(VP*	-	-	-	B	*	*
+ch_0049	1	31	pay	VB	(VP*	pay	01	-	B	*	*
+ch_0049	1	32	my	PRP$	(NP(NP*	-	-	-	B	*	*
+ch_0049	1	33	trip	NN	*)	-	-	-	B	*	*
+ch_0049	1	34	back	RB	(PP(ADVP*)	-	-	-	B	*	*
+ch_0049	1	35	to	TO	*	-	-	-	B	*	*
+ch_0049	1	36	the	DT	(NP*	-	-	-	B	*	*
+ch_0049	1	37	states	NNP	*)))))))))	-	-	-	B	*	*
+ch_0049	1	38	.	.	*	-	-	-	B	*	*
+ch_0049	1	39	because	IN	(SBAR*	-	-	-	B	*	*
+ch_0049	1	40	there	EX	(S(S(NP*)	-	-	-	B	*	*
+ch_0049	1	41	's	VBZ	(VP*	be	02	-	B	*	*
+ch_0049	1	42	no	DT	(NP(NP*	-	-	-	B	*	*
+ch_0049	1	43	bases	NNS	*)	-	-	-	B	*	*
+ch_0049	1	44	in	IN	(PP*	-	-	-	B	*	*
+ch_0049	1	45	Holland	NNP	(NP*)))))	-	-	-	B	*	*
+ch_0049	1	46	and	CC	*	-	-	-	B	*	*
+ch_0049	1	47	I	PRP	(S(NP*)	-	-	-	B	(ARG0*)	(ARG0*)
+ch_0049	1	48	'm	VBP	(VP*	-	-	-	B	*	*
+ch_0049	1	49	not	RB	*	-	-	-	B	*	*
+ch_0049	1	50	going	VBG	(VP*	go	04	-	B	*	*
+ch_0049	1	51	to	TO	(S(VP*	-	-	-	B	*	*
+ch_0049	1	52	pay	VB	(VP*	pay	01	-	B	(V*)	(V*)
+ch_0049	1	53	out	IN	(PP*	-	-	-	B	(ARG1*	(ARG1*
+ch_0049	1	54	of	IN	(PP*	-	-	-	B	*	*
+ch_0049	1	55	my	PRP$	(NP*	-	-	-	B	*	*
+ch_0049	1	56	own	JJ	*	-	-	-	B	*	*
+ch_0049	1	57	expenses	NNS	*))))))	-	-	-	B	*)	*)
+ch_0049	1	58	to	TO	(S(VP*	-	-	-	B	*	*
+ch_0049	1	59	go	VB	(VP(VP*	go	02	-	B	*	*
+ch_0049	1	60	to	IN	(PP*	-	-	-	B	*	*
+ch_0049	1	61	Germany	NNP	(NP*)))	-	-	-	B	*	*
+ch_0049	1	62	or	CC	*	-	-	-	B	*	*
+ch_0049	1	63	something	NN	(NP*)	-	-	-	B	*	*
+ch_0049	1	64	for	IN	(PP*	-	-	-	B	*	*
+ch_0049	1	65	them	PRP	(NP*)))))))))))))))))	-	-	-	B	*	*
+ch_0049	1	66	.	.	*))	-	-	-	B	*	*
+
+ch_0049	1	0	If	IN	(TOP(S(SBAR*	-	-	-	B	-
+ch_0049	1	1	they	PRP	(S(NP*)	-	-	-	B	(35)
+ch_0049	1	2	want	VBP	(VP*	want	01	-	B	-
+ch_0049	1	3	me	PRP	(NP*))))	-	-	-	B	(25)
+ch_0049	1	4	they	PRP	(NP*)	-	-	-	B	(35)
+ch_0049	1	5	can	MD	(VP*	-	-	-	B	-
+ch_0049	1	6	pay	VB	(VP*))	pay	01	-	B	-
+ch_0049	1	7	,	,	*))	-	-	-	B	-
+
+ch_0049	1	0	bring	VB	(TOP(S(VP(VP*	bring	01	-	B	-
+ch_0049	1	1	me	PRP	(NP*)	-	-	-	B	(25)
+ch_0049	1	2	back	RB	(ADVP*	-	-	-	B	-
+ch_0049	1	3	active	JJ	(X(NP*	-	-	-	B	-
+ch_0049	1	4	duty	NN	*))))	-	-	-	B	-
+ch_0049	1	5	and	CC	*	-	-	-	B	-
+ch_0049	1	6	pay	VB	(VP*	pay	01	-	B	-
+ch_0049	1	7	me	PRP	(NP*)	-	-	-	B	(25)
+ch_0049	1	8	for	IN	(PP*	-	-	-	B	-
+ch_0049	1	9	the	DT	(NP*	-	-	-	B	-
+ch_0049	1	10	day	NN	*))	-	-	-	B	-
+ch_0049	1	11	if	IN	(SBAR*	-	-	-	B	-
+ch_0049	1	12	they	PRP	(S(NP*)	-	-	-	B	(35)
+ch_0049	1	13	're	VBP	(VP*	-	-	-	B	-
+ch_0049	1	14	going	VBG	(VP*	go	04	-	B	-
+ch_0049	1	15	to	TO	(S(VP*	-	-	-	B	-
+ch_0049	1	16	drag	VB	(VP*	drag	01	-	B	-
+ch_0049	1	17	me	PRP	(NP*)	-	-	-	B	(25)
+ch_0049	1	18	off	RP	(PRT*)	-	-	-	B	-
+ch_0049	1	19	somewhere	RB	(ADVP*))))))))))	-	-	-	B	-
+ch_0049	1	20	.	.	*))	-	-	-	B	-
+
+ch_0049	1	0	But	IN	(TOP(S*	-	-	-	B	-
+ch_0049	1	1	%uh	UH	(INTJ*)	-	-	-	B	-
+ch_0049	1	2	,	,	*	-	-	-	B	-
+ch_0049	1	3	first	RB	(ADVP*)	-	-	-	B	-
+ch_0049	1	4	they	PRP	(NP*)	-	-	-	B	(35)
+ch_0049	1	5	have	VBP	(VP*	have	02	-	B	-
+ch_0049	1	6	to	TO	(S(VP*	-	-	-	B	-
+ch_0049	1	7	find	VB	(VP*	find	01	-	B	-
+ch_0049	1	8	me	PRP	(NP*)))))	-	-	-	B	(25)
+ch_0049	1	9	.	.	*))	-	-	-	B	-
+
+ch_0049	1	0	yeah	UH	(TOP(S(INTJ*)	-	-	-	A	-
+ch_0049	1	1	,	,	*	-	-	-	A	-
+ch_0049	1	2	that	DT	(NP*)	-	-	-	A	-
+ch_0049	1	3	's	VBZ	(VP*	be	01	-	A	-
+ch_0049	1	4	the	DT	(NP*	-	-	-	A	-
+ch_0049	1	5	other	JJ	*))))	-	-	-	A	-
+
+ch_0049	1	0	it	PRP	(TOP(S(NP*)	-	-	-	A	-
+ch_0049	1	1	was	VBD	(VP*	be	01	-	A	-
+ch_0049	1	2	i-	XX	(X*))	-	-	-	A	-
+ch_0049	1	3	,	,	*))	-	-	-	A	-
+
+ch_0049	1	0	if	IN	(TOP(SBARQ(SBAR*	-	-	-	A	-
+ch_0049	1	1	you	PRP	(S(S(NP*)	-	-	-	A	(25)
+ch_0049	1	2	're	VBP	(VP*	be	01	-	A	-
+ch_0049	1	3	in	IN	(PP*	-	-	-	A	-
+ch_0049	1	4	another	DT	(NP*	-	-	-	A	-
+ch_0049	1	5	country	NN	*))	-	-	-	A	-
+ch_0049	1	6	I	PRP	(PRN(S(NP*)	-	-	-	A	-
+ch_0049	1	7	mean	VBP	(VP*)))))	mean	01	-	A	-
+ch_0049	1	8	and	CC	*	-	-	-	A	-
+ch_0049	1	9	you	PRP	(S(NP*)	-	-	-	A	(25)
+ch_0049	1	10	're	VBP	(VP*	-	-	-	A	-
+ch_0049	1	11	not	RB	*	-	-	-	A	-
+ch_0049	1	12	planning	VBG	(VP*	plan	01	-	A	-
+ch_0049	1	13	on	IN	(PP*	-	-	-	A	-
+ch_0049	1	14	coming	VBG	(S(VP*	come	01	-	A	-
+ch_0049	1	15	back	RB	(ADVP*	-	-	-	A	-
+ch_0049	1	16	to	IN	(PP*	-	-	-	A	-
+ch_0049	1	17	the	DT	(NP*	-	-	-	A	(18
+ch_0049	1	18	U	NNP	*	-	-	-	A	-
+ch_0049	1	19	S	NNP	*)))))))))))	-	-	-	A	18)
+ch_0049	1	20	what	WP	(WHNP*)	-	-	-	A	-
+ch_0049	1	21	are	VBP	(SQ*	be	03	-	A	-
+ch_0049	1	22	they	PRP	(NP*)	-	-	-	A	(35)
+ch_0049	1	23	going	VBG	(VP*	go	04	-	A	-
+ch_0049	1	24	to	TO	(S(VP*	-	-	-	A	-
+ch_0049	1	25	do	VB	(VP*)))	do	02	-	A	-
+ch_0049	1	26	even	RB	(SBAR(ADVP*)	-	-	-	A	-
+ch_0049	1	27	if	IN	*	-	-	-	A	-
+ch_0049	1	28	you	PRP	(S(NP*)	-	-	-	A	(25)
+ch_0049	1	29	do	VBP	(VP*	do	01	-	A	-
+ch_0049	1	30	n't	RB	*)))))	-	-	-	A	-
+ch_0049	1	31	.	.	*))	-	-	-	A	-
+
+ch_0049	1	0	yeah	UH	(TOP(INTJ*	-	-	-	B	-
+ch_0049	1	1	.	.	*))	-	-	-	B	-
+
+ch_0049	1	0	Well	UH	(TOP(S(INTJ*)	-	-	-	B	-
+ch_0049	1	1	I	PRP	(PRN(S(NP*)	-	-	-	B	(25)
+ch_0049	1	2	mean	VBP	(VP*)))	mean	01	-	B	-
+ch_0049	1	3	I	PRP	(NP*)	-	-	-	B	(25)
+ch_0049	1	4	'm	VBP	(VP*	be	01	-	B	-
+ch_0049	1	5	still	RB	(ADVP*)	-	-	-	B	-
+ch_0049	1	6	American	JJ	(NP*	-	-	-	B	-
+ch_0049	1	7	citizen	NN	*))))	-	-	-	B	-
+
+ch_0049	1	0	and	CC	(TOP(S*	-	-	-	B	-
+ch_0049	1	1	I	PRP	(NP*)	-	-	-	B	(25)
+ch_0049	1	2	still	RB	(ADVP*)	-	-	-	B	-
+ch_0049	1	3	would	MD	(VP*	-	-	-	B	-
+ch_0049	1	4	like	VB	(VP*	like	02	-	B	-
+ch_0049	1	5	to	TO	(S(VP*	-	-	-	B	-
+ch_0049	1	6	be	VB	(VP*	be	01	-	B	-
+ch_0049	1	7	welcome	JJ	(ADJP*)	-	-	-	B	-
+ch_0049	1	8	in	IN	(PP*	-	-	-	B	-
+ch_0049	1	9	my	PRP$	(NP*	-	-	-	B	(18|(25)
+ch_0049	1	10	own	JJ	*	-	-	-	B	-
+ch_0049	1	11	country	NN	*)))))))	-	-	-	B	18)
+ch_0049	1	12	.	.	*))	-	-	-	B	-
+
+ch_0049	1	0	Although	IN	(TOP(SBAR*	-	-	-	B	-
+ch_0049	1	1	g-	XX	(X*)))	-	-	-	B	-
+
+ch_0049	1	0	%uh	UH	(TOP(S(INTJ*)	-	-	-	B	-
+ch_0049	1	1	I	NN	(PRN(S(NP*)	-	-	-	B	(25)
+ch_0049	1	2	mean	VBP	(VP*)))	mean	01	-	B	-
+ch_0049	1	3	if	IN	(SBAR*	-	-	-	B	-
+ch_0049	1	4	they	PRP	(S(S(NP*)	-	-	-	B	(18)
+ch_0049	1	5	denied	VBD	(VP*	deny	01	-	B	-
+ch_0049	1	6	my	PRP$	(NP*	-	-	-	B	(7|(25)
+ch_0049	1	7	citizenship	NN	*)))	-	-	-	B	7)
+ch_0049	1	8	and	CC	*	-	-	-	B	-
+ch_0049	1	9	I	PRP	(S(NP*)	-	-	-	B	(25)
+ch_0049	1	10	became	VBD	(VP*	become	01	-	B	-
+ch_0049	1	11	a	DT	(NP*	-	-	-	B	-
+ch_0049	1	12	citizen	NN	*)	-	-	-	B	-
+ch_0049	1	13	here	RB	(ADVP*)))))	-	-	-	B	-
+ch_0049	1	14	I	PRP	(NP*)	-	-	-	B	(25)
+ch_0049	1	15	probably	RB	(ADVP*)	-	-	-	B	-
+ch_0049	1	16	would	MD	(VP*	-	-	-	B	-
+ch_0049	1	17	n't	RB	*	-	-	-	B	-
+ch_0049	1	18	be	VB	(VP*	be	01	-	B	-
+ch_0049	1	19	a	DT	(NP*	-	-	-	B	-
+ch_0049	1	20	horror	NN	*)	-	-	-	B	-
+ch_0049	1	21	either	RB	(ADVP*)))	-	-	-	B	-
+ch_0049	1	22	,	,	*))	-	-	-	B	-
+
+ch_0049	1	0	but	CC	(TOP(FRAG*	-	-	-	B	-
+ch_0049	1	1	%uh	UH	(INTJ*)	-	-	-	B	-
+ch_0049	1	2	yeah	UH	(INTJ*)))	-	-	-	B	-
+
+ch_0049	1	0	right	RB	(TOP(S(ADVP*	-	-	-	B	-
+ch_0049	1	1	now	RB	*)	-	-	-	B	-
+ch_0049	1	2	I	PRP	(PRN(S(NP*)	-	-	-	B	(25)
+ch_0049	1	3	mean	VBP	(VP*)))	mean	01	-	B	-
+ch_0049	1	4	I	PRP	(NP*)	-	-	-	B	(25)
+ch_0049	1	5	do	VBP	(VP*	-	-	-	B	-
+ch_0049	1	6	want	VB	(VP*	want	01	-	B	-
+ch_0049	1	7	to	TO	(S(VP*	-	-	-	B	-
+ch_0049	1	8	keep	VB	(VP*	keep	01	-	B	-
+ch_0049	1	9	my	PRP$	(NP*	-	-	-	B	(7|(25)
+ch_0049	1	10	American	JJ	*	-	-	-	B	-
+ch_0049	1	11	citizenship	NN	*))))))))	-	-	-	B	7)
+
+ch_0049	1	0	so	RB	(TOP(S(ADVP*)	-	-	-	B	-
+ch_0049	1	1	.	.	*))	-	-	-	B	-
+
+ch_0049	1	0	I	PRP	(TOP(S(NP*)	-	-	-	B	(25)
+ch_0049	1	1	kind	RB	(ADVP*	-	-	-	B	-
+ch_0049	1	2	of	RB	*)	-	-	-	B	-
+ch_0049	1	3	want	VBP	(VP*	want	01	-	B	-
+ch_0049	1	4	to	TO	(S(VP*)))))	-	-	-	B	-
+
+ch_0049	1	0	Are	VBP	(TOP(SQ*	be	03	-	A	-
+ch_0049	1	1	you	PRP	(NP*)	-	-	-	A	(25)
+ch_0049	1	2	going	VBG	(VP*	go	04	-	A	-
+ch_0049	1	3	to	TO	(S(VP*	-	-	-	A	-
+ch_0049	1	4	become	VB	(VP*	become	01	-	A	-
+ch_0049	1	5	a	DT	(NP*	-	-	-	A	-
+ch_0049	1	6	dual	JJ	*	-	-	-	A	-
+ch_0049	1	7	citizen	NN	*)))))	-	-	-	A	-
+ch_0049	1	8	?	.	*))	-	-	-	A	-
+
+ch_0049	1	0	What	WP	(TOP(SBARQ(WHNP*)	-	-	-	B	-
+ch_0049	1	1	's	VBZ	(SQ*	be	01	-	B	-
+ch_0049	1	2	that	DT	(NP*))	-	-	-	B	-
+ch_0049	1	3	?	.	*))	-	-	-	B	-
+
+ch_0049	1	0	Are	VBP	(TOP(SQ*	be	03	-	A	-
+ch_0049	1	1	you	PRP	(NP*)	-	-	-	A	(25)
+ch_0049	1	2	going	VBG	(VP*	go	04	-	A	-
+ch_0049	1	3	to	TO	(S(VP*	-	-	-	A	-
+ch_0049	1	4	try	VB	(VP(VP*)	try	01	-	A	-
+ch_0049	1	5	and	CC	*	-	-	-	A	-
+ch_0049	1	6	become	VB	(VP*	become	01	-	A	-
+ch_0049	1	7	a	DT	(NP*	-	-	-	A	-
+ch_0049	1	8	dual	JJ	*	-	-	-	A	-
+ch_0049	1	9	citizen	NN	*))))))	-	-	-	A	-
+ch_0049	1	10	?	.	*))	-	-	-	A	-
+
+ch_0049	1	0	Have	VBP	(TOP(VP*	have	03	-	A	(20)
+ch_0049	1	1	dual	JJ	(NP*	-	-	-	A	-
+ch_0049	1	2	citizenship	NN	*)	-	-	-	A	-
+ch_0049	1	3	?	.	*))	-	-	-	A	-
+
+ch_0049	1	0	You	PRP	(TOP(S(NP*)	-	-	-	B	-
+ch_0049	1	1	ca	MD	(VP*	-	-	-	B	-
+ch_0049	1	2	n't	RB	*	-	-	-	B	-
+ch_0049	1	3	do	VB	(VP*	do	02	-	B	-
+ch_0049	1	4	that	DT	(NP*)))	-	-	-	B	(20)
+ch_0049	1	5	,	,	*))	-	-	-	B	-
+
+ch_0049	1	0	%um	UH	(TOP(S(INTJ*)	-	-	-	B	-
+ch_0049	1	1	,	,	*	-	-	-	B	-
+ch_0049	1	2	the	DT	(NP(NP*	-	-	-	B	-
+ch_0049	1	3	only	JJ	*	-	-	-	B	-
+ch_0049	1	4	way	NN	*)	-	-	-	B	-
+ch_0049	1	5	to	TO	(SBAR(S(VP*	-	-	-	B	-
+ch_0049	1	6	be	VB	(VP*	be	01	-	B	-
+ch_0049	1	7	a	DT	(NP*	-	-	-	B	-
+ch_0049	1	8	dual	JJ	*	-	-	-	B	-
+ch_0049	1	9	citizen	NN	*))))))	-	-	-	B	-
+ch_0049	1	10	is	VBZ	(VP*	be	01	-	B	-
+ch_0049	1	11	if	IN	(SBAR*	-	-	-	B	-
+ch_0049	1	12	you	PRP	(S(NP*)	-	-	-	B	-
+ch_0049	1	13	're	VBP	(VP*	-	-	-	B	-
+ch_0049	1	14	born	VBN	(VP*	bear	02	-	B	-
+ch_0049	1	15	in	IN	(PP*	-	-	-	B	-
+ch_0049	1	16	a	DT	(NP*	-	-	-	B	-
+ch_0049	1	17	foreign	JJ	*	-	-	-	B	-
+ch_0049	1	18	country	NN	*)))))))))	-	-	-	B	-
+
+ch_0049	1	0	like	IN	(TOP(SBAR*	-	-	-	B	-
+ch_0049	1	1	if	IN	(S(SBAR*	-	-	-	B	-
+ch_0049	1	2	I	PRP	(S(NP*)	-	-	-	B	(25)
+ch_0049	1	3	were	VBD	(VP(VP*	-	-	-	B	-
+ch_0049	1	4	born	VBN	(VP*	bear	02	-	B	-
+ch_0049	1	5	in	IN	(PP*	-	-	-	B	-
+ch_0049	1	6	Holland	NNP	(NP*))))	-	-	-	B	(6)
+ch_0049	1	7	and	CC	*	-	-	-	B	-
+ch_0049	1	8	then	RB	(ADVP*)	-	-	-	B	-
+ch_0049	1	9	had	VBD	(VP*	have	03	-	B	-
+ch_0049	1	10	American	JJ	(NP*	-	-	-	B	-
+ch_0049	1	11	parents	NNS	*)))))	-	-	-	B	-
+ch_0049	1	12	.	.	*	-	-	-	B	-
+ch_0049	1	13	Then	RB	(ADVP*)	-	-	-	B	-
+ch_0049	1	14	I	PRP	(NP*)	-	-	-	B	(25)
+ch_0049	1	15	could	MD	(VP*	-	-	-	B	-
+ch_0049	1	16	be	VB	(VP*	be	01	-	B	-
+ch_0049	1	17	a	DT	(NP*	-	-	-	B	-
+ch_0049	1	18	dual	JJ	*	-	-	-	B	-
+ch_0049	1	19	citizen	NN	*))))	-	-	-	B	-
+ch_0049	1	20	.	.	*))	-	-	-	B	-
+
+ch_0049	1	0	But	CC	(TOP(S*	-	-	-	B	-
+ch_0049	1	1	you	PRP	(NP*)	-	-	-	B	-
+ch_0049	1	2	ca	MD	(VP*	-	-	-	B	-
+ch_0049	1	3	n't	RB	*)))	-	-	-	B	-
+
+ch_0049	1	0	If	IN	(TOP(S(SBAR*	-	-	-	B	-
+ch_0049	1	1	I	PRP	(S(NP*)	-	-	-	B	(25)
+ch_0049	1	2	would	MD	(VP*	-	-	-	B	-
+ch_0049	1	3	to	TO	(S(VP*	-	-	-	B	-
+ch_0049	1	4	ask	VB	(VP*	ask	02	-	B	-
+ch_0049	1	5	to	TO	(S(VP*	-	-	-	B	-
+ch_0049	1	6	become	VB	(VP*	become	01	-	B	-
+ch_0049	1	7	a	DT	(NP(NP*	-	-	-	B	-
+ch_0049	1	8	citizen	NN	*)	-	-	-	B	-
+ch_0049	1	9	in	IN	(PP*	-	-	-	B	-
+ch_0049	1	10	Holland	NNP	(NP*))))))))))))	-	-	-	B	(6)
+ch_0049	1	11	I	PRP	(NP*)	-	-	-	B	(25)
+ch_0049	1	12	would	MD	(VP*	-	-	-	B	-
+ch_0049	1	13	automatically	RB	(ADVP*)	-	-	-	B	-
+ch_0049	1	14	lose	VB	(VP*	lose	02	-	B	-
+ch_0049	1	15	my	PRP$	(NP*	-	-	-	B	(7|(25)
+ch_0049	1	16	American	JJ	*	-	-	-	B	-
+ch_0049	1	17	citizenship	NN	*)))	-	-	-	B	7)
+ch_0049	1	18	.	.	*))	-	-	-	B	-
+
+ch_0049	1	0	As	RB	(TOP(FRAG(ADVP(ADVP*	-	-	-	A	-
+ch_0049	1	1	far	RB	*)	-	-	-	A	-
+ch_0049	1	2	as	IN	(SBAR*	-	-	-	A	-
+ch_0049	1	3	the	DT	(S(NP*	-	-	-	A	(48
+ch_0049	1	4	Americans	NNPS	*)	-	-	-	A	48)
+ch_0049	1	5	are	VBP	(VP*	-	-	-	A	-
+ch_0049	1	6	concerned	VBN	(VP*)))))	concern	02	-	A	-
+ch_0049	1	7	,	,	*	-	-	-	A	-
+ch_0049	1	8	yeah	UH	(INTJ*)	-	-	-	A	-
+ch_0049	1	9	.	.	*))	-	-	-	A	-
+
+ch_0049	1	0	yeah	UH	(TOP(INTJ*	-	-	-	B	-
+ch_0049	1	1	.	.	*))	-	-	-	B	-
+
+ch_0049	1	0	The	DT	(TOP(S(NP*	-	-	-	B	(3
+ch_0049	1	1	Dutch	JJ	*)	-	-	-	B	3)
+ch_0049	1	2	could	MD	(VP*	-	-	-	B	-
+ch_0049	1	3	care	VB	(VP*	care	01	-	B	-
+ch_0049	1	4	less	RBR	(ADVP*)))	-	-	-	B	-
+ch_0049	1	5	.	.	*))	-	-	-	B	-
+
+ch_0049	1	0	The	DT	(TOP(S(NP*	-	-	-	B	(3
+ch_0049	1	1	Dutch	JJ	*)	-	-	-	B	3)
+ch_0049	1	2	would	MD	(VP*	-	-	-	B	-
+ch_0049	1	3	say	VB	(VP*	say	01	-	B	-
+ch_0049	1	4	fine	JJ	(ADJP*)))))	-	-	-	B	-
+
+ch_0049	1	0	want	VBP	(TOP(S(VP*	want	01	-	B	-
+ch_0049	1	1	to	TO	(S(VP*	-	-	-	B	-
+ch_0049	1	2	be	VB	(VP*	be	01	-	B	(15)
+ch_0049	1	3	a	DT	(NP*	-	-	-	B	-
+ch_0049	1	4	dual	JJ	*	-	-	-	B	-
+ch_0049	1	5	citizen	NN	*)))))	-	-	-	B	-
+ch_0049	1	6	,	,	*))	-	-	-	B	-
+
+ch_0049	1	0	that	DT	(TOP(S(NP*)	-	-	-	B	(15)
+ch_0049	1	1	's	VBZ	(VP*	be	01	-	B	-
+ch_0049	1	2	fine	JJ	(ADJP*))	-	-	-	B	-
+ch_0049	1	3	,	,	*))	-	-	-	B	-
+
+ch_0049	1	0	but	CC	(TOP(S*	-	-	-	B	-
+ch_0049	1	1	the	DT	(NP*	-	-	-	B	(48
+ch_0049	1	2	Americans	NNPS	*)	-	-	-	B	48)
+ch_0049	1	3	as	RB	(ADVP(ADVP*	-	-	-	B	-
+ch_0049	1	4	soon	RB	*)	-	-	-	B	-
+ch_0049	1	5	as	IN	(SBAR*	-	-	-	B	-
+ch_0049	1	6	you	PRP	(S(NP*)	-	-	-	B	-
+ch_0049	1	7	ask	VBP	(VP*	ask	02	-	B	-
+ch_0049	1	8	for	IN	(PP*	-	-	-	B	-
+ch_0049	1	9	another	DT	(NP*	-	-	-	B	(1
+ch_0049	1	10	citizenship	NN	*))))))	-	-	-	B	1)
+ch_0049	1	11	that	DT	(NP(NP*	-	-	-	B	-
+ch_0049	1	12	act	NN	*)	-	-	-	B	-
+ch_0049	1	13	of	IN	(PP*	-	-	-	B	-
+ch_0049	1	14	asking	VBG	(S(VP*	ask	02	-	B	-
+ch_0049	1	15	for	IN	(PP*	-	-	-	B	-
+ch_0049	1	16	it	PRP	(NP*))))))	-	-	-	B	(1)
+ch_0049	1	17	takes	VBZ	(VP*	take	05	-	B	-
+ch_0049	1	18	away	RP	(PRT*)	-	-	-	B	-
+ch_0049	1	19	your	PRP$	(NP*	-	-	-	B	-
+ch_0049	1	20	American	JJ	*	-	-	-	B	-
+ch_0049	1	21	citizenship	NN	*))	-	-	-	B	-
+ch_0049	1	22	.	.	*))	-	-	-	B	-
+
+ch_0049	1	0	I	PRP	(TOP(S(PRN(S(NP*)	-	-	-	B	(25)
+ch_0049	1	1	mean	VBP	(VP*)))	mean	01	-	B	-
+ch_0049	1	2	it	PRP	(NP*)	-	-	-	B	-
+ch_0049	1	3	's	VBZ	(VP*	be	01	-	B	-
+ch_0049	1	4	kind	RB	(ADJP(ADVP*	-	-	-	B	-
+ch_0049	1	5	of	RB	*)	-	-	-	B	-
+ch_0049	1	6	stupid	JJ	*))	-	-	-	B	-
+ch_0049	1	7	.	.	*))	-	-	-	B	-
+
+ch_0049	1	0	yeah	UH	(TOP(INTJ*	-	-	-	A	-
+ch_0049	1	1	.	.	*))	-	-	-	A	-
+
+ch_0049	1	0	So	RB	(TOP(S(ADVP*)	-	-	-	B	-
+ch_0049	1	1	I	PRP	(NP*)	-	-	-	B	(25)
+ch_0049	1	2	'm	VBP	(VP*	be	01	-	B	-
+ch_0049	1	3	an	DT	(NP*	-	-	-	B	-
+ch_0049	1	4	expatriot	NN	*))	-	-	-	B	-
+ch_0049	1	5	.	.	*))	-	-	-	B	-
+
+ch_0049	1	0	An	DT	(TOP(NP*	-	-	-	B	-
+ch_0049	1	1	American	JJ	*	-	-	-	B	-
+ch_0049	1	2	expatriot	NN	*	-	-	-	B	-
+ch_0049	1	3	.	.	*))	-	-	-	B	-
+
+ch_0049	1	0	An	DT	(TOP(NP(NP*	-	-	-	B	-
+ch_0049	1	1	American	NNP	*)	-	-	-	B	-
+ch_0049	1	2	living	VBG	(VP*	live	01	-	B	-
+ch_0049	1	3	abroad	RB	(ADVP*))	-	-	-	B	-
+ch_0049	1	4	.	.	*))	-	-	-	B	-
+
+ch_0049	1	0	I	PRP	(TOP(S(NP*)	-	-	-	B	(25)
+ch_0049	1	1	still	RB	(ADVP*)	-	-	-	B	-
+ch_0049	1	2	have	VBP	(VP*	have	02	-	B	-
+ch_0049	1	3	to	TO	(S(VP*	-	-	-	B	-
+ch_0049	1	4	file	VB	(VP*	file	01	-	B	-
+ch_0049	1	5	a	DT	(NP*	-	-	-	B	-
+ch_0049	1	6	tax	NN	*	-	-	-	B	-
+ch_0049	1	7	return	NN	*)))))	-	-	-	B	-
+ch_0049	1	8	.	.	*))	-	-	-	B	-
+
+ch_0049	1	0	Do	VBP	(TOP(SQ*	do	01	-	A	-
+ch_0049	1	1	you	PRP	(NP*)	-	-	-	A	(25)
+ch_0049	1	2	?	.	*))	-	-	-	A	-
+
+ch_0049	1	0	yeah	UH	(TOP(INTJ*	-	-	-	B	-
+ch_0049	1	1	.	.	*))	-	-	-	B	-
+
+ch_0049	1	0	But	CC	(TOP(S*	-	-	-	B	-
+ch_0049	1	1	my	PRP$	(NP(NP*	-	-	-	B	(44|(25)
+ch_0049	1	2	first	JJ	*	-	-	-	B	-
+ch_0049	1	3	seventy	CD	(NML(QP*	-	-	-	B	-
+ch_0049	1	4	five	CD	*	-	-	-	B	-
+ch_0049	1	5	thousand	CD	*)	-	-	-	B	-
+ch_0049	1	6	dollars	NNS	*)	-	-	-	B	-
+ch_0049	1	7	worth	NN	*)	-	-	-	B	-
+ch_0049	1	8	of	IN	(PP*	-	-	-	B	-
+ch_0049	1	9	income	NN	(NP*)))	-	-	-	B	44)
+ch_0049	1	10	is	VBZ	(VP*	be	01	-	B	-
+ch_0049	1	11	tax	NN	(ADJP*	-	-	-	B	-
+ch_0049	1	12	free	JJ	*))	-	-	-	B	-
+ch_0049	1	13	.	.	*))	-	-	-	B	-
+
+ch_0049	1	0	Good	UH	(TOP(INTJ*	-	-	-	A	-
+ch_0049	1	1	grief	UH	*	-	-	-	A	-
+ch_0049	1	2	.	.	*))	-	-	-	A	-
+
+ch_0049	1	0	As	RB	(TOP(ADVP(ADVP*	-	-	-	B	-
+ch_0049	1	1	long	RB	*)	-	-	-	B	-
+ch_0049	1	2	as	IN	(SBAR*	-	-	-	B	-
+ch_0049	1	3	I	PRP	(S(NP*)	-	-	-	B	(25)
+ch_0049	1	4	do	VBP	(VP*	-	-	-	B	-
+ch_0049	1	5	n't	RB	*	-	-	-	B	-
+ch_0049	1	6	bring	VB	(VP*	bring	01	-	B	-
+ch_0049	1	7	it	PRP	(NP*)	-	-	-	B	(44)
+ch_0049	1	8	back	RB	(ADVP*	-	-	-	B	-
+ch_0049	1	9	to	IN	(PP*	-	-	-	B	-
+ch_0049	1	10	the	DT	(NP*	-	-	-	B	(18
+ch_0049	1	11	states	NNP	*)))))))	-	-	-	B	18)
+ch_0049	1	12	.	.	*))	-	-	-	B	-
+
+ch_0049	1	0	Good	UH	(TOP(INTJ*	-	-	-	A	-
+ch_0049	1	1	grief	UH	*	-	-	-	A	-
+ch_0049	1	2	.	.	*))	-	-	-	A	-
+
+ch_0049	1	0	I	NNP	(TOP(FRAG(NP*	-	-	-	A	(8
+ch_0049	1	1	R	NNP	*	-	-	-	A	-
+ch_0049	1	2	S	NNP	*)	-	-	-	A	8)
+ch_0049	1	3	for	IN	(PP*	-	-	-	A	-
+ch_0049	1	4	you	PRP	(NP*))	-	-	-	A	(25)
+ch_0049	1	5	,	,	*	-	-	-	A	-
+ch_0049	1	6	%huh	UH	(INTJ*)	-	-	-	A	-
+ch_0049	1	7	?	.	*))	-	-	-	A	-
+
+ch_0049	1	0	yeah	UH	(TOP(INTJ*	-	-	-	B	-
+ch_0049	1	1	.	.	*))	-	-	-	B	-
+
+ch_0049	1	0	oh	UH	(TOP(S(INTJ*)	-	-	-	B	-
+ch_0049	1	1	they	PRP	(NP*)	-	-	-	B	(8)
+ch_0049	1	2	want	VBP	(VP*	want	01	-	B	-
+ch_0049	1	3	their	PRP$	(NP*	-	-	-	B	(8)
+ch_0049	1	4	share	NN	*))	-	-	-	B	-
+ch_0049	1	5	.	.	*))	-	-	-	B	-
+
+ch_0049	1	0	They	PRP	(TOP(S(NP*)	-	-	-	B	(8)
+ch_0049	1	1	want	VBP	(VP*	want	01	-	B	-
+ch_0049	1	2	their	PRP$	(NP(NP*	-	-	-	B	(8)
+ch_0049	1	3	piece	NN	*)	-	-	-	B	-
+ch_0049	1	4	of	IN	(PP*	-	-	-	B	-
+ch_0049	1	5	meat	NN	(NP*))))	-	-	-	B	-
+ch_0049	1	6	.	.	*))	-	-	-	B	-
+
+ch_0049	1	0	But	CC	(TOP(S*	-	-	-	B	-
+ch_0049	1	1	all	DT	(NP*	-	-	-	B	-
+ch_0049	1	2	foreign	JJ	*	-	-	-	B	-
+ch_0049	1	3	taxes	NNS	*)	-	-	-	B	-
+ch_0049	1	4	are	VBP	(VP*	be	01	-	B	-
+ch_0049	1	5	deductible	JJ	(ADJP*))	-	-	-	B	-
+ch_0049	1	6	,	,	*))	-	-	-	B	-
+
+ch_0049	1	0	and	CC	(TOP(S*	-	-	-	B	-
+ch_0049	1	1	my	PRP$	(NP(NP*	-	-	-	B	(25)
+ch_0049	1	2	taxes	NNS	*)	-	-	-	B	-
+ch_0049	1	3	here	RB	(ADVP*))	-	-	-	B	-
+ch_0049	1	4	are	VBP	(VP*	be	01	-	B	-
+ch_0049	1	5	fifty	CD	(NP(NP*	-	-	-	B	-
+ch_0049	1	6	percent	NN	*)	-	-	-	B	-
+ch_0049	1	7	of	IN	(PP*	-	-	-	B	-
+ch_0049	1	8	income	NN	(NP*))))	-	-	-	B	-
+ch_0049	1	9	.	.	*))	-	-	-	B	-
+
+ch_0049	1	0	So	RB	(TOP(S(ADVP*)	-	-	-	B	-
+ch_0049	1	1	the	DT	(NP(NP*	-	-	-	B	-
+ch_0049	1	2	taxes	NNS	*)	-	-	-	B	-
+ch_0049	1	3	here	RB	(ADVP*))	-	-	-	B	-
+ch_0049	1	4	are	VBP	(VP*	be	01	-	B	-
+ch_0049	1	5	so	RB	(ADJP(ADJP(ADVP*	-	-	-	B	-
+ch_0049	1	6	much	RB	*)	-	-	-	B	-
+ch_0049	1	7	higher	JJR	*)	-	-	-	B	-
+ch_0049	1	8	that	IN	(SBAR*	-	-	-	B	-
+ch_0049	1	9	,	,	*	-	-	-	B	-
+ch_0049	1	10	yeah	UH	(INTJ*)	-	-	-	B	-
+ch_0049	1	11	I	PRP	(S(NP*)	-	-	-	B	(25)
+ch_0049	1	12	would	MD	(VP*	-	-	-	B	-
+ch_0049	1	13	never	RB	(ADVP*)	-	-	-	B	-
+ch_0049	1	14	have	VB	(VP*	have	02	-	B	-
+ch_0049	1	15	to	TO	(S(VP*	-	-	-	B	-
+ch_0049	1	16	worry	VB	(VP*	worry	02	-	B	-
+ch_0049	1	17	about	IN	(PP*	-	-	-	B	-
+ch_0049	1	18	it	PRP	(NP*)))))))))))	-	-	-	B	-
+ch_0049	1	19	.	.	*))	-	-	-	B	-
+
+ch_0049	1	0	Unless	IN	(TOP(SQ(S(SBAR*	-	-	-	A	-
+ch_0049	1	1	you	PRP	(S(NP*)	-	-	-	A	(25)
+ch_0049	1	2	became	VBD	(VP*	become	01	-	A	-
+ch_0049	1	3	C	NN	(NP(NP*	-	-	-	A	-
+ch_0049	1	4	E	NN	*	-	-	-	A	-
+ch_0049	1	5	O	NN	*)	-	-	-	A	-
+ch_0049	1	6	of	IN	(PP*	-	-	-	A	-
+ch_0049	1	7	the	DT	(NP*	-	-	-	A	-
+ch_0049	1	8	company	NN	*))))))	-	-	-	A	-
+ch_0049	1	9	then	RB	(ADVP*)	-	-	-	A	-
+ch_0049	1	10	maybe	RB	(ADVP*)	-	-	-	A	-
+ch_0049	1	11	like	RB	(NP(QP*	-	-	-	A	-
+ch_0049	1	12	a	DT	*	-	-	-	A	-
+ch_0049	1	13	thousand	CD	*)	-	-	-	A	-
+ch_0049	1	14	dollars	NNS	*)	-	-	-	A	-
+ch_0049	1	15	would	MD	(VP*	-	-	-	A	-
+ch_0049	1	16	be	VB	(VP*	be	01	-	A	-
+ch_0049	1	17	taxable	JJ	(ADJP*))))	-	-	-	A	-
+ch_0049	1	18	,	,	*	-	-	-	A	-
+ch_0049	1	19	right	JJ	(SQ(ADJP*))	-	-	-	A	-
+ch_0049	1	20	?	.	*))	-	-	-	A	-
+
+ch_0049	1	0	yeah	UH	(TOP(INTJ*	-	-	-	B	-
+ch_0049	1	1	.	.	*))	-	-	-	B	-
+
+ch_0049	1	0	Somehow	RB	(TOP(S(ADVP*)	-	-	-	B	-
+ch_0049	1	1	it	PRP	(NP*)	-	-	-	B	-
+ch_0049	1	2	raises	VBZ	(VP*	raise	01	-	B	-
+ch_0049	1	3	a	DT	(NP*	-	-	-	B	-
+ch_0049	1	4	small	JJ	*	-	-	-	B	-
+ch_0049	1	5	amount	NN	*))	-	-	-	B	-
+ch_0049	1	6	.	.	*))	-	-	-	B	-
+
+#end document

@@ -1,0 +1,80 @@
+#begin document (abc_0049_0); part 000
+abc_0049_0	0	0	There	EX	expl	-	-	-	-
+abc_0049_0	0	1	is	VBZ	ROOT	-	-	-	-
+abc_0049_0	0	2	other	JJ	amod	-	-	-	-
+abc_0049_0	0	3	news	NN	attr	-	-	-	-
+abc_0049_0	0	4	tonight	NN	npadvmod	-	-	-	-
+abc_0049_0	0	5	overseas	RB	advmod	-	-	-	-
+abc_0049_0	0	6	and	CC	cc	-	-	-	-
+abc_0049_0	0	7	at	IN	conj	-	-	-	-
+abc_0049_0	0	8	home	NN	pobj	-	-	-	-
+abc_0049_0	0	9	.	.	punct	-	-	-	-
+
+abc_0049_0	0	0	While	IN	mark	-	-	-	-
+abc_0049_0	0	1	all	PDT	predet	-	-	-	-
+abc_0049_0	0	2	this	DT	nsubj	-	-	-	-
+abc_0049_0	0	3	is	VBZ	aux	-	-	-	-
+abc_0049_0	0	4	going	VBG	advcl	-	-	-	-
+abc_0049_0	0	5	on	RP	prt	-	-	-	-
+abc_0049_0	0	6	,	,	punct	-	-	-	-
+abc_0049_0	0	7	Mr.	NNP	compound	-	-	-	(1
+abc_0049_0	0	8	Clinton	NNP	nsubj	-	-	-	1)
+abc_0049_0	0	9	is	VBZ	ROOT	-	-	-	-
+abc_0049_0	0	10	overseas	JJ	advmod	-	-	-	-
+abc_0049_0	0	11	.	.	punct	-	-	-	-
+
+abc_0049_0	0	0	President	NNP	compound	-	-	-	(1
+abc_0049_0	0	1	Clinton	NNP	nsubj	-	-	-	1)
+abc_0049_0	0	2	was	VBD	ROOT	-	-	-	-
+abc_0049_0	0	3	in	IN	prep	-	-	-	-
+abc_0049_0	0	4	Northern	NNP	compound	-	-	-	(2
+abc_0049_0	0	5	Ireland	NNP	pobj	-	-	-	2)
+abc_0049_0	0	6	when	WRB	advmod	-	-	-	-
+abc_0049_0	0	7	he	PRP	nsubj	-	-	-	(1)
+abc_0049_0	0	8	heard	VBD	advcl	-	-	-	-
+abc_0049_0	0	9	the	DT	det	-	-	-	-
+abc_0049_0	0	10	Supreme	NNP	compound	-	-	-	-
+abc_0049_0	0	11	Court	NNP	compound	-	-	-	-
+abc_0049_0	0	12	decision	NN	dobj	-	-	-	-
+abc_0049_0	0	13	.	.	punct	-	-	-	-
+
+abc_0049_0	0	0	He	PRP	nsubj	-	-	-	(1)
+abc_0049_0	0	1	talked	VBD	ROOT	-	-	-	-
+abc_0049_0	0	2	to	IN	prep	-	-	-	-
+abc_0049_0	0	3	Al	NNP	compound	-	-	-	(3
+abc_0049_0	0	4	Gore	NNP	pobj	-	-	-	3)
+abc_0049_0	0	5	on	IN	prep	-	-	-	-
+abc_0049_0	0	6	the	DT	det	-	-	-	-
+abc_0049_0	0	7	phone	NN	pobj	-	-	-	-
+abc_0049_0	0	8	from	IN	prep	-	-	-	-
+abc_0049_0	0	9	Belfast	NNP	pobj	-	-	-	-
+abc_0049_0	0	10	.	.	punct	-	-	-	-
+
+abc_0049_0	0	0	This	DT	nsubj	-	-	-	-
+abc_0049_0	0	1	is	VBZ	ROOT	-	-	-	-
+abc_0049_0	0	2	Mr.	NNP	compound	-	-	-	(1
+abc_0049_0	0	3	Clinton	NNP	poss	-	-	-	1)
+abc_0049_0	0	4	's	POS	case	-	-	-	-
+abc_0049_0	0	5	third	JJ	amod	-	-	-	-
+abc_0049_0	0	6	visit	NN	attr	-	-	-	-
+abc_0049_0	0	7	to	IN	prep	-	-	-	-
+abc_0049_0	0	8	Northern	NNP	compound	-	-	-	(2
+abc_0049_0	0	9	Ireland	NNP	pobj	-	-	-	2)
+abc_0049_0	0	10	,	,	punct	-	-	-	-
+abc_0049_0	0	11	and	CC	cc	-	-	-	-
+abc_0049_0	0	12	the	DT	det	-	-	-	-
+abc_0049_0	0	13	Irish	NNP	compound	-	-	-	-
+abc_0049_0	0	14	Republic	NNP	nsubj	-	-	-	-
+abc_0049_0	0	15	to	TO	aux	-	-	-	-
+abc_0049_0	0	16	do	VB	conj	-	-	-	-
+abc_0049_0	0	17	what	WP	dobj	-	-	-	-
+abc_0049_0	0	18	he	PRP	nsubj	-	-	-	(3)
+abc_0049_0	0	19	can	MD	ccomp	-	-	-	-
+abc_0049_0	0	20	to	TO	aux	-	-	-	-
+abc_0049_0	0	21	generate	VB	advcl	-	-	-	-
+abc_0049_0	0	22	a	DT	det	-	-	-	-
+abc_0049_0	0	23	lasting	JJ	amod	-	-	-	-
+abc_0049_0	0	24	peace	NN	dobj	-	-	-	-
+abc_0049_0	0	25	.	.	punct	-	-	-	-
+
+#end document 

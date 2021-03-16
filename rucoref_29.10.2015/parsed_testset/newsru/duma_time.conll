@@ -1,0 +1,452 @@
+# newdoc id = cd1b12ed-3b72-4a31-8f28-8eb55edc2e79
+# newpar id = cd1b12ed-3b72-4a31-8f28-8eb55edc2e79-p1
+# par_text = В Госдуму в понедельник внесен обещанный законопроект о возврате зимнего времени. Он уже четвертый по счету, но, как надеется автор, глава комитета нижней палаты по охране здоровья Сергей Калашников (ЛДПР), станет окончательным.
+# sent_id = cd1b12ed-3b72-4a31-8f28-8eb55edc2e79-p1-s1
+# text = В Госдуму в понедельник внесен обещанный законопроект о возврате зимнего времени.
+1	В	_	_	_	_	_	_	_	Shift=0
+2	Госдуму	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3325|RuCor_group_id=474516|RuCor_link_id=0|Shift=2
+3	в	_	_	_	_	_	_	_	Shift=10
+4	понедельник	_	_	_	_	_	_	_	Shift=12
+5	внесен	_	_	_	_	_	_	_	Shift=24
+6	обещанный	_	_	_	_	_	_	_	RuCor_chain_id=3326|RuCor_group_id=474517|Shift=31
+7	законопроект	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3326|RuCor_group_id=474517|RuCor_link_id=0|Shift=41
+8	о	_	_	_	_	_	_	_	RuCor_chain_id=3326|RuCor_group_id=474517|Shift=54
+9	возврате	_	_	_	_	_	_	_	RuCor_chain_id=3326|RuCor_group_id=474517|Shift=56
+10	зимнего	_	_	_	_	_	_	_	RuCor_chain_id=3326|RuCor_group_id=474517|Shift=65
+11	времени	_	_	_	_	_	_	_	RuCor_chain_id=3326|RuCor_group_id=474517|Shift=73|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=80
+
+# sent_id = cd1b12ed-3b72-4a31-8f28-8eb55edc2e79-p1-s2
+# text = Он уже четвертый по счету, но, как надеется автор, глава комитета нижней палаты по охране здоровья Сергей Калашников (ЛДПР), станет окончательным.
+1	Он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3326|RuCor_group_id=474518|RuCor_link_id=474517|Shift=82
+2	уже	_	_	_	_	_	_	_	Shift=85
+3	четвертый	_	_	_	_	_	_	_	Shift=89
+4	по	_	_	_	_	_	_	_	Shift=99
+5	счету	_	_	_	_	_	_	_	Shift=102|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=107
+7	но	_	_	_	_	_	_	_	Shift=109|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=111
+9	как	_	_	_	_	_	_	_	Shift=113
+10	надеется	_	_	_	_	_	_	_	Shift=117
+11	автор	_	_	_	_	_	_	_	Shift=126|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=131
+13	глава	_	_	_	_	_	_	_	RuCor_chain_id=3327|RuCor_group_id=474519|Shift=133
+14	комитета	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3328|RuCor_group_id=474520|RuCor_link_id=0|Shift=139
+15	нижней	_	_	_	_	_	_	_	RuCor_chain_id=3325|RuCor_group_id=474521|Shift=148
+16	палаты	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3325|RuCor_group_id=474521|RuCor_link_id=474516|Shift=155
+17	по	_	_	_	_	_	_	_	RuCor_chain_id=3328|RuCor_group_id=474520|Shift=162
+18	охране	_	_	_	_	_	_	_	RuCor_chain_id=3328|RuCor_group_id=474520|Shift=165
+19	здоровья	_	_	_	_	_	_	_	RuCor_chain_id=3328|RuCor_group_id=474520|Shift=172
+20	Сергей	_	_	_	_	_	_	_	RuCor_chain_id=3327|RuCor_group_id=474519|Shift=181
+21	Калашников	_	_	_	_	_	_	_	RuCor_chain_id=3327|RuCor_group_id=474519|Shift=188
+22	(	_	_	_	_	_	_	_	Shift=199|SpaceAfter=No
+23	ЛДПР	_	_	_	_	_	_	_	Shift=200|SpaceAfter=No
+24	)	_	_	_	_	_	_	_	Shift=204|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=205
+26	станет	_	_	_	_	_	_	_	Shift=207
+27	окончательным	_	_	_	_	_	_	_	Shift=214|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=227
+
+# newpar id = cd1b12ed-3b72-4a31-8f28-8eb55edc2e79-p2
+# par_text = "Законопроектом предлагается установить московское время равным национальной шкале времени РФ, соответствующей Всемирному координированному времени UTC+3 часа", - говорится в пояснительной записке к документу, полученной ИТАР-ТАСС. Также предусматривается установление десяти часовых зон с учетом максимального приближения к часовым поясам UTC (аббревиатура от французского Temps Universel Coordonné). На сезонный перевод часов вводится запрет.
+# sent_id = cd1b12ed-3b72-4a31-8f28-8eb55edc2e79-p2-s1
+# text = ``Законопроектом предлагается установить московское время равным национальной шкале времени РФ, соответствующей Всемирному координированному времени UTC+3 часа'', - говорится в пояснительной записке к документу, полученной ИТАР-ТАСС.
+1	``	_	_	_	_	_	_	_	Shift=229|SpaceAfter=No
+2	Законопроектом	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3326|RuCor_group_id=474522|RuCor_link_id=474518|Shift=230
+3	предлагается	_	_	_	_	_	_	_	Shift=245
+4	установить	_	_	_	_	_	_	_	Shift=258
+5	московское	_	_	_	_	_	_	_	Shift=269
+6	время	_	_	_	_	_	_	_	Shift=280
+7	равным	_	_	_	_	_	_	_	Shift=286
+8	национальной	_	_	_	_	_	_	_	Shift=293
+9	шкале	_	_	_	_	_	_	_	Shift=306
+10	времени	_	_	_	_	_	_	_	Shift=312
+11	РФ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3329|RuCor_group_id=474523|RuCor_link_id=0|Shift=320|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=322
+13	соответствующей	_	_	_	_	_	_	_	Shift=324
+14	Всемирному	_	_	_	_	_	_	_	Shift=340
+15	координированному	_	_	_	_	_	_	_	Shift=351
+16	времени	_	_	_	_	_	_	_	Shift=369
+17	UTC+3	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3330|RuCor_group_id=474524|RuCor_link_id=0|Shift=377
+18	часа	_	_	_	_	_	_	_	Shift=383|SpaceAfter=No
+19	''	_	_	_	_	_	_	_	Shift=387|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=388
+21	-	_	_	_	_	_	_	_	Shift=390
+22	говорится	_	_	_	_	_	_	_	Shift=392
+23	в	_	_	_	_	_	_	_	Shift=402
+24	пояснительной	_	_	_	_	_	_	_	Shift=404
+25	записке	_	_	_	_	_	_	_	Shift=418
+26	к	_	_	_	_	_	_	_	Shift=426
+27	документу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3326|RuCor_group_id=474525|RuCor_link_id=474522|Shift=428|SpaceAfter=No
+28	,	_	_	_	_	_	_	_	Shift=437
+29	полученной	_	_	_	_	_	_	_	Shift=439
+30	ИТАР-ТАСС	_	_	_	_	_	_	_	Shift=450|SpaceAfter=No
+31	.	_	_	_	_	_	_	_	Shift=459
+
+# sent_id = cd1b12ed-3b72-4a31-8f28-8eb55edc2e79-p2-s2
+# text = Также предусматривается установление десяти часовых зон с учетом максимального приближения к часовым поясам UTC (аббревиатура от французского Temps Universel Coordonné).
+1	Также	_	_	_	_	_	_	_	Shift=461
+2	предусматривается	_	_	_	_	_	_	_	Shift=467
+3	установление	_	_	_	_	_	_	_	Shift=485
+4	десяти	_	_	_	_	_	_	_	Shift=498
+5	часовых	_	_	_	_	_	_	_	Shift=505
+6	зон	_	_	_	_	_	_	_	Shift=513
+7	с	_	_	_	_	_	_	_	Shift=517
+8	учетом	_	_	_	_	_	_	_	Shift=519
+9	максимального	_	_	_	_	_	_	_	Shift=526
+10	приближения	_	_	_	_	_	_	_	Shift=540
+11	к	_	_	_	_	_	_	_	Shift=552
+12	часовым	_	_	_	_	_	_	_	Shift=554
+13	поясам	_	_	_	_	_	_	_	Shift=562
+14	UTC	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3330|RuCor_group_id=474526|RuCor_link_id=474524|Shift=569
+15	(	_	_	_	_	_	_	_	Shift=573|SpaceAfter=No
+16	аббревиатура	_	_	_	_	_	_	_	Shift=574
+17	от	_	_	_	_	_	_	_	Shift=587
+18	французского	_	_	_	_	_	_	_	Shift=590
+19	Temps	_	_	_	_	_	_	_	Shift=603
+20	Universel	_	_	_	_	_	_	_	Shift=609
+20.1	_	_	_	_	_	_	_	_	EntityUnk=Coordonné|Shift=619|SpaceAfter=No
+21	)	_	_	_	_	_	_	_	Shift=628|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=629
+
+# sent_id = cd1b12ed-3b72-4a31-8f28-8eb55edc2e79-p2-s3
+# text = На сезонный перевод часов вводится запрет.
+1	На	_	_	_	_	_	_	_	Shift=631
+2	сезонный	_	_	_	_	_	_	_	Shift=634
+3	перевод	_	_	_	_	_	_	_	Shift=643
+4	часов	_	_	_	_	_	_	_	Shift=651
+5	вводится	_	_	_	_	_	_	_	Shift=657
+6	запрет	_	_	_	_	_	_	_	Shift=666|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=672
+
+# newpar id = cd1b12ed-3b72-4a31-8f28-8eb55edc2e79-p3
+# par_text = - Опрос NEWSru.com: Возвращение зимнего времени
+# sent_id = cd1b12ed-3b72-4a31-8f28-8eb55edc2e79-p3-s1
+# text = - Опрос NEWSru.com: Возвращение зимнего времени
+1	-	_	_	_	_	_	_	_	Shift=674
+2	Опрос	_	_	_	_	_	_	_	Shift=676
+3	NEWSru.com	_	_	_	_	_	_	_	Shift=682|SpaceAfter=No
+4	:	_	_	_	_	_	_	_	Shift=692
+5	Возвращение	_	_	_	_	_	_	_	Shift=694
+6	зимнего	_	_	_	_	_	_	_	Shift=706
+7	времени	_	_	_	_	_	_	_	Shift=714
+
+# newpar id = cd1b12ed-3b72-4a31-8f28-8eb55edc2e79-p4
+# par_text = С принятием законопроекта россияне начнут жить по астрономическому времени - как по природе; сезонный перевод стрелок отменяется уже законодательно, пояснил Калашников РИА "Новости". Он добавил, что по состоянию на пятницу под документом подписались более 100 депутатов от всех фракций, в том числе около полутора десятков парламентариев от "Единой России".
+# sent_id = cd1b12ed-3b72-4a31-8f28-8eb55edc2e79-p4-s1
+# text = С принятием законопроекта россияне начнут жить по астрономическому времени - как по природе.
+1	С	_	_	_	_	_	_	_	Shift=722
+2	принятием	_	_	_	_	_	_	_	Shift=724
+3	законопроекта	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3326|RuCor_group_id=474527|RuCor_link_id=474522|Shift=734
+4	россияне	_	_	_	_	_	_	_	Shift=748
+5	начнут	_	_	_	_	_	_	_	Shift=757
+6	жить	_	_	_	_	_	_	_	Shift=764
+7	по	_	_	_	_	_	_	_	Shift=769
+8	астрономическому	_	_	_	_	_	_	_	Shift=772
+9	времени	_	_	_	_	_	_	_	Shift=789
+10	-	_	_	_	_	_	_	_	Shift=797
+11	как	_	_	_	_	_	_	_	Shift=799
+12	по	_	_	_	_	_	_	_	Shift=803
+13	природе	_	_	_	_	_	_	_	Shift=806|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=813
+
+# sent_id = cd1b12ed-3b72-4a31-8f28-8eb55edc2e79-p4-s2
+# text = сезонный перевод стрелок отменяется уже законодательно, пояснил Калашников РИА ``Новости''.
+1	сезонный	_	_	_	_	_	_	_	Shift=815
+2	перевод	_	_	_	_	_	_	_	Shift=824
+3	стрелок	_	_	_	_	_	_	_	Shift=832
+4	отменяется	_	_	_	_	_	_	_	Shift=840
+5	уже	_	_	_	_	_	_	_	Shift=851
+6	законодательно	_	_	_	_	_	_	_	Shift=855|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=869
+8	пояснил	_	_	_	_	_	_	_	Shift=871
+9	Калашников	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3327|RuCor_group_id=474528|RuCor_link_id=474519|Shift=879
+10	РИА	_	_	_	_	_	_	_	Shift=890
+11	``	_	_	_	_	_	_	_	Shift=894|SpaceAfter=No
+12	Новости	_	_	_	_	_	_	_	Shift=895|SpaceAfter=No
+13	''	_	_	_	_	_	_	_	Shift=902|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=903
+
+# sent_id = cd1b12ed-3b72-4a31-8f28-8eb55edc2e79-p4-s3
+# text = Он добавил, что по состоянию на пятницу под документом подписались более 100 депутатов от всех фракций, в том числе около полутора десятков парламентариев от ``Единой России''.
+1	Он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3327|RuCor_group_id=474529|RuCor_link_id=474528|Shift=905
+2	добавил	_	_	_	_	_	_	_	Shift=908|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=915
+4	что	_	_	_	_	_	_	_	Shift=917
+5	по	_	_	_	_	_	_	_	Shift=921
+6	состоянию	_	_	_	_	_	_	_	Shift=924
+7	на	_	_	_	_	_	_	_	Shift=934
+8	пятницу	_	_	_	_	_	_	_	Shift=937
+9	под	_	_	_	_	_	_	_	Shift=945
+10	документом	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3326|RuCor_group_id=474530|RuCor_link_id=474527|Shift=949
+11	подписались	_	_	_	_	_	_	_	Shift=960
+12	более	_	_	_	_	_	_	_	Shift=972
+13	100	_	_	_	_	_	_	_	Shift=978
+14	депутатов	_	_	_	_	_	_	_	Shift=982
+15	от	_	_	_	_	_	_	_	Shift=992
+16	всех	_	_	_	_	_	_	_	Shift=995
+17	фракций	_	_	_	_	_	_	_	Shift=1000|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=1007
+19	в	_	_	_	_	_	_	_	Shift=1009
+20	том	_	_	_	_	_	_	_	Shift=1011
+21	числе	_	_	_	_	_	_	_	Shift=1015
+22	около	_	_	_	_	_	_	_	Shift=1021
+23	полутора	_	_	_	_	_	_	_	Shift=1027
+24	десятков	_	_	_	_	_	_	_	Shift=1036
+25	парламентариев	_	_	_	_	_	_	_	Shift=1045
+26	от	_	_	_	_	_	_	_	Shift=1060
+27	``	_	_	_	_	_	_	_	RuCor_chain_id=3331|RuCor_group_id=474531|Shift=1063|SpaceAfter=No
+28	Единой	_	_	_	_	_	_	_	RuCor_chain_id=3331|RuCor_group_id=474531|Shift=1064
+29	России	_	_	_	_	_	_	_	RuCor_chain_id=3331|RuCor_group_id=474531|Shift=1071|SpaceAfter=No
+30	''	_	_	_	_	_	_	_	RuCor_chain_id=3331|RuCor_group_id=474531|Shift=1077|SpaceAfter=No
+31	.	_	_	_	_	_	_	_	Shift=1078
+
+# newpar id = cd1b12ed-3b72-4a31-8f28-8eb55edc2e79-p5
+# par_text = В нижней палате рассчитывали, что правительство само возьмется за решение проблемы и примет постановление, сказал глава комитета. В этом случае, пояснил он, Госдуме не потребовалось бы принимать специальный закон.
+# sent_id = cd1b12ed-3b72-4a31-8f28-8eb55edc2e79-p5-s1
+# text = В нижней палате рассчитывали, что правительство само возьмется за решение проблемы и примет постановление, сказал глава комитета.
+1	В	_	_	_	_	_	_	_	Shift=1080
+2	нижней	_	_	_	_	_	_	_	RuCor_chain_id=3325|RuCor_group_id=474532|Shift=1082
+3	палате	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3325|RuCor_group_id=474532|RuCor_link_id=474521|Shift=1089
+4	рассчитывали	_	_	_	_	_	_	_	Shift=1096|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1108
+6	что	_	_	_	_	_	_	_	Shift=1110
+7	правительство	_	_	_	_	_	_	_	Shift=1114
+8	само	_	_	_	_	_	_	_	Shift=1128
+9	возьмется	_	_	_	_	_	_	_	Shift=1133
+10	за	_	_	_	_	_	_	_	Shift=1143
+11	решение	_	_	_	_	_	_	_	Shift=1146
+12	проблемы	_	_	_	_	_	_	_	Shift=1154
+13	и	_	_	_	_	_	_	_	Shift=1163
+14	примет	_	_	_	_	_	_	_	Shift=1165
+15	постановление	_	_	_	_	_	_	_	Shift=1172|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=1185
+17	сказал	_	_	_	_	_	_	_	Shift=1187
+18	глава	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3327|RuCor_group_id=474533|RuCor_link_id=474528|Shift=1194
+19	комитета	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3328|RuCor_group_id=474534|RuCor_link_id=474520|Shift=1200|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=1208
+
+# sent_id = cd1b12ed-3b72-4a31-8f28-8eb55edc2e79-p5-s2
+# text = В этом случае, пояснил он, Госдуме не потребовалось бы принимать специальный закон.
+1	В	_	_	_	_	_	_	_	Shift=1210
+2	этом	_	_	_	_	_	_	_	Shift=1212
+3	случае	_	_	_	_	_	_	_	Shift=1217|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1223
+5	пояснил	_	_	_	_	_	_	_	Shift=1225
+6	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3327|RuCor_group_id=474535|RuCor_link_id=474533|Shift=1233|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=1235
+8	Госдуме	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3325|RuCor_group_id=474536|RuCor_link_id=474532|Shift=1237
+9	не	_	_	_	_	_	_	_	Shift=1245
+10	потребовалось	_	_	_	_	_	_	_	Shift=1248
+11	бы	_	_	_	_	_	_	_	Shift=1262
+12	принимать	_	_	_	_	_	_	_	Shift=1265
+13	специальный	_	_	_	_	_	_	_	Shift=1275
+14	закон	_	_	_	_	_	_	_	Shift=1287|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=1292
+
+# newpar id = cd1b12ed-3b72-4a31-8f28-8eb55edc2e79-p6
+# par_text = Теперь же, заявил Калашников "Интерфаксу", депутаты готовы принять закон о возврате к зимнему времени, даже если правительство не поддержит это решение. "Коль правительство не торопится, значит будет закон, целью которого станет максимально приблизить все субъекты Федерации к их астрономическому времени", - сказал он.
+# sent_id = cd1b12ed-3b72-4a31-8f28-8eb55edc2e79-p6-s1
+# text = Теперь же, заявил Калашников ``Интерфаксу'', депутаты готовы принять закон о возврате к зимнему времени, даже если правительство не поддержит это решение.
+1	Теперь	_	_	_	_	_	_	_	Shift=1294
+2	же	_	_	_	_	_	_	_	Shift=1301|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1303
+4	заявил	_	_	_	_	_	_	_	Shift=1305
+5	Калашников	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3327|RuCor_group_id=474537|RuCor_link_id=474535|Shift=1312
+6	``	_	_	_	_	_	_	_	Shift=1323|SpaceAfter=No
+7	Интерфаксу	_	_	_	_	_	_	_	Shift=1324|SpaceAfter=No
+8	''	_	_	_	_	_	_	_	Shift=1334|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1335
+10	депутаты	_	_	_	_	_	_	_	Shift=1337
+11	готовы	_	_	_	_	_	_	_	Shift=1346
+12	принять	_	_	_	_	_	_	_	Shift=1353
+13	закон	_	_	_	_	_	_	_	Shift=1361
+14	о	_	_	_	_	_	_	_	Shift=1367
+15	возврате	_	_	_	_	_	_	_	Shift=1369
+16	к	_	_	_	_	_	_	_	Shift=1378
+17	зимнему	_	_	_	_	_	_	_	Shift=1380
+18	времени	_	_	_	_	_	_	_	Shift=1388|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=1395
+20	даже	_	_	_	_	_	_	_	Shift=1397
+21	если	_	_	_	_	_	_	_	Shift=1402
+22	правительство	_	_	_	_	_	_	_	Shift=1407
+23	не	_	_	_	_	_	_	_	Shift=1421
+24	поддержит	_	_	_	_	_	_	_	Shift=1424
+25	это	_	_	_	_	_	_	_	Shift=1434
+26	решение	_	_	_	_	_	_	_	Shift=1438|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=1445
+
+# sent_id = cd1b12ed-3b72-4a31-8f28-8eb55edc2e79-p6-s2
+# text = ``Коль правительство не торопится, значит будет закон, целью которого станет максимально приблизить все субъекты Федерации к их астрономическому времени'', - сказал он.
+1	``	_	_	_	_	_	_	_	Shift=1447|SpaceAfter=No
+2	Коль	_	_	_	_	_	_	_	Shift=1448
+3	правительство	_	_	_	_	_	_	_	Shift=1453
+4	не	_	_	_	_	_	_	_	Shift=1467
+5	торопится	_	_	_	_	_	_	_	Shift=1470|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1479
+7	значит	_	_	_	_	_	_	_	Shift=1481
+8	будет	_	_	_	_	_	_	_	Shift=1488
+9	закон	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3332|RuCor_group_id=474538|RuCor_link_id=0|Shift=1494|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=1499
+11	целью	_	_	_	_	_	_	_	Shift=1501
+12	которого	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=3332|RuCor_group_id=474539|RuCor_link_id=474538|Shift=1507
+13	станет	_	_	_	_	_	_	_	Shift=1516
+14	максимально	_	_	_	_	_	_	_	Shift=1523
+15	приблизить	_	_	_	_	_	_	_	Shift=1535
+16	все	_	_	_	_	_	_	_	RuCor_chain_id=3333|RuCor_group_id=474540|Shift=1546
+17	субъекты	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3333|RuCor_group_id=474540|RuCor_link_id=0|Shift=1550
+18	Федерации	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3329|RuCor_group_id=474541|RuCor_link_id=474523|Shift=1559
+19	к	_	_	_	_	_	_	_	Shift=1569
+20	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=3333|RuCor_group_id=474542|RuCor_link_id=474540|Shift=1571
+21	астрономическому	_	_	_	_	_	_	_	Shift=1574
+22	времени	_	_	_	_	_	_	_	Shift=1591|SpaceAfter=No
+23	''	_	_	_	_	_	_	_	Shift=1598|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=1599
+25	-	_	_	_	_	_	_	_	Shift=1601
+26	сказал	_	_	_	_	_	_	_	Shift=1603
+27	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3327|RuCor_group_id=474543|RuCor_link_id=474535|Shift=1610|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=1612
+
+# newpar id = cd1b12ed-3b72-4a31-8f28-8eb55edc2e79-p7
+# par_text = В то же время в "Единой России" считают, что данный вопрос все-таки должно решать правительство. "Важно при построении нашей работы дать как можно больше возможностей реализации своих полномочий всем ветвям власти. В настоящее время вопросы определения времени находятся в компетенции правительства", - напомнил депутат Сергей Железняк.
+# sent_id = cd1b12ed-3b72-4a31-8f28-8eb55edc2e79-p7-s1
+# text = В то же время в ``Единой России'' считают, что данный вопрос все-таки должно решать правительство.
+1	В	_	_	_	_	_	_	_	Shift=1614
+2	то	_	_	_	_	_	_	_	Shift=1616
+3	же	_	_	_	_	_	_	_	Shift=1619
+4	время	_	_	_	_	_	_	_	Shift=1622
+5	в	_	_	_	_	_	_	_	Shift=1628
+6	``	_	_	_	_	_	_	_	RuCor_chain_id=3331|RuCor_group_id=474544|Shift=1630|SpaceAfter=No
+7	Единой	_	_	_	_	_	_	_	RuCor_chain_id=3331|RuCor_group_id=474544|Shift=1631
+8	России	_	_	_	_	_	_	_	RuCor_chain_id=3331|RuCor_group_id=474544|Shift=1638|SpaceAfter=No
+9	''	_	_	_	_	_	_	_	RuCor_chain_id=3331|RuCor_group_id=474544|Shift=1644
+10	считают	_	_	_	_	_	_	_	Shift=1646|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=1653
+12	что	_	_	_	_	_	_	_	Shift=1655
+13	данный	_	_	_	_	_	_	_	Shift=1659
+14	вопрос	_	_	_	_	_	_	_	Shift=1666
+15	все-таки	_	_	_	_	_	_	_	Shift=1673
+16	должно	_	_	_	_	_	_	_	Shift=1682
+17	решать	_	_	_	_	_	_	_	Shift=1689
+18	правительство	_	_	_	_	_	_	_	Shift=1696|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=1709
+
+# sent_id = cd1b12ed-3b72-4a31-8f28-8eb55edc2e79-p7-s2
+# text = ``Важно при построении нашей работы дать как можно больше возможностей реализации своих полномочий всем ветвям власти.
+1	``	_	_	_	_	_	_	_	Shift=1711|SpaceAfter=No
+2	Важно	_	_	_	_	_	_	_	Shift=1712
+3	при	_	_	_	_	_	_	_	Shift=1718
+4	построении	_	_	_	_	_	_	_	Shift=1722
+5	нашей	_	_	_	_	_	_	_	Shift=1733
+6	работы	_	_	_	_	_	_	_	Shift=1739
+7	дать	_	_	_	_	_	_	_	Shift=1746
+8	как	_	_	_	_	_	_	_	Shift=1751
+9	можно	_	_	_	_	_	_	_	Shift=1755
+10	больше	_	_	_	_	_	_	_	Shift=1761
+11	возможностей	_	_	_	_	_	_	_	Shift=1768
+12	реализации	_	_	_	_	_	_	_	Shift=1781
+13	своих	_	_	_	_	_	_	_	Shift=1792
+14	полномочий	_	_	_	_	_	_	_	Shift=1798
+15	всем	_	_	_	_	_	_	_	Shift=1809
+16	ветвям	_	_	_	_	_	_	_	Shift=1814
+17	власти	_	_	_	_	_	_	_	Shift=1821|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=1827
+
+# sent_id = cd1b12ed-3b72-4a31-8f28-8eb55edc2e79-p7-s3
+# text = В настоящее время вопросы определения времени находятся в компетенции правительства'', - напомнил депутат Сергей Железняк.
+1	В	_	_	_	_	_	_	_	Shift=1829
+2	настоящее	_	_	_	_	_	_	_	Shift=1831
+3	время	_	_	_	_	_	_	_	Shift=1841
+4	вопросы	_	_	_	_	_	_	_	Shift=1847
+5	определения	_	_	_	_	_	_	_	Shift=1855
+6	времени	_	_	_	_	_	_	_	Shift=1867
+7	находятся	_	_	_	_	_	_	_	Shift=1875
+8	в	_	_	_	_	_	_	_	Shift=1885
+9	компетенции	_	_	_	_	_	_	_	Shift=1887
+10	правительства	_	_	_	_	_	_	_	Shift=1899|SpaceAfter=No
+11	''	_	_	_	_	_	_	_	Shift=1912|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=1913
+13	-	_	_	_	_	_	_	_	Shift=1915
+14	напомнил	_	_	_	_	_	_	_	Shift=1917
+15	депутат	_	_	_	_	_	_	_	RuCor_chain_id=3334|RuCor_group_id=474545|Shift=1926
+16	Сергей	_	_	_	_	_	_	_	RuCor_chain_id=3334|RuCor_group_id=474545|Shift=1934
+17	Железняк	_	_	_	_	_	_	_	RuCor_chain_id=3334|RuCor_group_id=474545|Shift=1941|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=1949
+
+# newpar id = cd1b12ed-3b72-4a31-8f28-8eb55edc2e79-p8
+# par_text = Он также выразил убеждение, что "обсуждение данного вопроса имеет смысл начинать после окончания Паралимпийских и Олимпийских игр" (пройдут в Сочи с 7 по 23 февраля).
+# sent_id = cd1b12ed-3b72-4a31-8f28-8eb55edc2e79-p8-s1
+# text = Он также выразил убеждение, что ``обсуждение данного вопроса имеет смысл начинать после окончания Паралимпийских и Олимпийских игр'' (пройдут в Сочи с 7 по 23 февраля).
+1	Он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3334|RuCor_group_id=474546|RuCor_link_id=0|Shift=1951
+2	также	_	_	_	_	_	_	_	Shift=1954
+3	выразил	_	_	_	_	_	_	_	Shift=1960
+4	убеждение	_	_	_	_	_	_	_	Shift=1968|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1977
+6	что	_	_	_	_	_	_	_	Shift=1979
+7	``	_	_	_	_	_	_	_	Shift=1983|SpaceAfter=No
+8	обсуждение	_	_	_	_	_	_	_	Shift=1984
+9	данного	_	_	_	_	_	_	_	Shift=1995
+10	вопроса	_	_	_	_	_	_	_	Shift=2003
+11	имеет	_	_	_	_	_	_	_	Shift=2011
+12	смысл	_	_	_	_	_	_	_	Shift=2017
+13	начинать	_	_	_	_	_	_	_	Shift=2023
+14	после	_	_	_	_	_	_	_	Shift=2032
+15	окончания	_	_	_	_	_	_	_	Shift=2038
+16	Паралимпийских	_	_	_	_	_	_	_	Shift=2048
+17	и	_	_	_	_	_	_	_	Shift=2063
+18	Олимпийских	_	_	_	_	_	_	_	Shift=2065
+19	игр	_	_	_	_	_	_	_	Shift=2077|SpaceAfter=No
+20	''	_	_	_	_	_	_	_	Shift=2080
+21	(	_	_	_	_	_	_	_	Shift=2082|SpaceAfter=No
+22	пройдут	_	_	_	_	_	_	_	Shift=2083
+23	в	_	_	_	_	_	_	_	Shift=2091
+24	Сочи	_	_	_	_	_	_	_	Shift=2093
+25	с	_	_	_	_	_	_	_	Shift=2098
+26	7	_	_	_	_	_	_	_	Shift=2100
+27	по	_	_	_	_	_	_	_	Shift=2102
+28	23	_	_	_	_	_	_	_	Shift=2105
+29	февраля	_	_	_	_	_	_	_	Shift=2108|SpaceAfter=No
+30	)	_	_	_	_	_	_	_	Shift=2115|SpaceAfter=No
+31	.	_	_	_	_	_	_	_	Shift=2116
+
+# newpar id = cd1b12ed-3b72-4a31-8f28-8eb55edc2e79-p9
+# par_text = В случае принятия закон вступит в силу 26 октября 2014 года в 2 часа 00 минут.
+# sent_id = cd1b12ed-3b72-4a31-8f28-8eb55edc2e79-p9-s1
+# text = В случае принятия закон вступит в силу 26 октября 2014 года в 2 часа 00 минут.
+1	В	_	_	_	_	_	_	_	Shift=2118
+2	случае	_	_	_	_	_	_	_	Shift=2120
+3	принятия	_	_	_	_	_	_	_	Shift=2127
+4	закон	_	_	_	_	_	_	_	Shift=2136
+5	вступит	_	_	_	_	_	_	_	Shift=2142
+6	в	_	_	_	_	_	_	_	Shift=2150
+7	силу	_	_	_	_	_	_	_	Shift=2152
+8	26	_	_	_	_	_	_	_	Shift=2157
+9	октября	_	_	_	_	_	_	_	Shift=2160
+10	2014	_	_	_	_	_	_	_	Shift=2168
+11	года	_	_	_	_	_	_	_	Shift=2173
+12	в	_	_	_	_	_	_	_	Shift=2178
+13	2	_	_	_	_	_	_	_	Shift=2180
+14	часа	_	_	_	_	_	_	_	Shift=2182
+15	00	_	_	_	_	_	_	_	Shift=2187
+16	минут	_	_	_	_	_	_	_	Shift=2190|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=2195
+
+# newpar id = cd1b12ed-3b72-4a31-8f28-8eb55edc2e79-p10
+# par_text = Как Россию перевели в "вечное лето" и что думают сами россияне <...>
+# sent_id = cd1b12ed-3b72-4a31-8f28-8eb55edc2e79-p10-s1
+# text = Как Россию перевели в ``вечное лето'' и что думают сами россияне <...>
+1	Как	_	_	_	_	_	_	_	Shift=2197
+2	Россию	_	_	_	_	_	_	_	Shift=2201
+3	перевели	_	_	_	_	_	_	_	Shift=2208
+4	в	_	_	_	_	_	_	_	Shift=2217
+5	``	_	_	_	_	_	_	_	Shift=2219|SpaceAfter=No
+6	вечное	_	_	_	_	_	_	_	Shift=2220
+7	лето	_	_	_	_	_	_	_	Shift=2227|SpaceAfter=No
+8	''	_	_	_	_	_	_	_	Shift=2231
+9	и	_	_	_	_	_	_	_	Shift=2233
+10	что	_	_	_	_	_	_	_	Shift=2235
+11	думают	_	_	_	_	_	_	_	Shift=2239
+12	сами	_	_	_	_	_	_	_	Shift=2246
+13	россияне	_	_	_	_	_	_	_	Shift=2251
+13.1	_	_	_	_	_	_	_	_	EntityUnk=<...>
+

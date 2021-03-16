@@ -1,0 +1,848 @@
+# newdoc id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd
+# newpar id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p1
+# par_text = Not Line Of Fire
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p1-s1
+# text = Not Line Of Fire
+1	Not	_	_	_	_	_	_	_	Shift=9
+2	Line	_	_	_	_	_	_	_	Shift=13
+3	Of	_	_	_	_	_	_	_	Shift=18
+4	Fire	_	_	_	_	_	_	_	Shift=21
+
+# newpar id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p2
+# par_text = Не На Линии Огня
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p2-s1
+# text = Не На Линии Огня
+1	Не	_	_	_	_	_	_	_	Shift=35
+2	На	_	_	_	_	_	_	_	Shift=38
+3	Линии	_	_	_	_	_	_	_	Shift=41
+4	Огня	_	_	_	_	_	_	_	Shift=47
+
+# newpar id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p3
+# par_text = Microprose Software "Ufo: Enemy Unknown"
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p3-s1
+# text = Microprose Software ``Ufo: Enemy Unknown''
+1	Microprose	_	_	_	_	_	_	_	Shift=58
+2	Software	_	_	_	_	_	_	_	Shift=69
+3	``	_	_	_	_	_	_	_	Shift=78|SpaceAfter=No
+4	Ufo	_	_	_	_	_	_	_	Shift=79|SpaceAfter=No
+5	:	_	_	_	_	_	_	_	Shift=82
+6	Enemy	_	_	_	_	_	_	_	Shift=84
+7	Unknown	_	_	_	_	_	_	_	Shift=90|SpaceAfter=No
+8	''	_	_	_	_	_	_	_	Shift=97
+
+# newpar id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p4
+# par_text = Они знали, что рано или поздно это должно случиться. Поэтому они были готовы, когда раздался первый звонок.
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p4-s1
+# text = Они знали, что рано или поздно это должно случиться.
+1	Они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3549|RuCor_group_id=475471|RuCor_link_id=0|Shift=100
+2	знали	_	_	_	_	_	_	_	Shift=104|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=109
+4	что	_	_	_	_	_	_	_	Shift=111
+5	рано	_	_	_	_	_	_	_	Shift=115
+6	или	_	_	_	_	_	_	_	Shift=120
+7	поздно	_	_	_	_	_	_	_	Shift=124
+8	это	_	_	_	_	_	_	_	Shift=131
+9	должно	_	_	_	_	_	_	_	Shift=135
+10	случиться	_	_	_	_	_	_	_	Shift=142|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=151
+
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p4-s2
+# text = Поэтому они были готовы, когда раздался первый звонок.
+1	Поэтому	_	_	_	_	_	_	_	Shift=153
+2	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3549|RuCor_group_id=475472|RuCor_link_id=475471|Shift=161
+3	были	_	_	_	_	_	_	_	Shift=165
+4	готовы	_	_	_	_	_	_	_	Shift=170|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=176
+6	когда	_	_	_	_	_	_	_	Shift=178
+7	раздался	_	_	_	_	_	_	_	Shift=184
+8	первый	_	_	_	_	_	_	_	Shift=193
+9	звонок	_	_	_	_	_	_	_	Shift=200|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=206
+
+# newpar id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p5
+# par_text = В час ночи оператора 911 разбудил настойчивый звон телефона. Вяло потянувшись, он лениво нашарил трубку негнущимися после сна пальцами. "Алло",- буркнул он в трубку. На другом конце провода женский голос, захлебываясь криком выл: "Их много, они похожи на змей, помогите на..." Крик так же резко оборвался как и начался. Оператор живо представил себе как тяжело наваливаясь на стенку телефонной будки, тело опускается на пол, еще сжимая в пальцах ненужную трубку. Сонливость оператора улетучилась в одно мгновение. Он понял что случилось то, к чему его готовили долгие годы. Липкими от страха пальцами он сломал пластиковую крышку и с силой вдавил в стол красную кнопку с надписью "ТРЕВОГА". В то же мгновение на базе земных войск в пустыне Сахара раздался оглушительный вой. Люди вскакивали с постелей, хватали оружие, и не было человека, сердце которого не сжималось в предчувствии чего-то страшного. Так началась долгая битва за освобождение Земли от инопланетян.
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p5-s1
+# text = В час ночи оператора 911 разбудил настойчивый звон телефона.
+1	В	_	_	_	_	_	_	_	Shift=209
+2	час	_	_	_	_	_	_	_	Shift=211
+3	ночи	_	_	_	_	_	_	_	Shift=215
+4	оператора	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3550|RuCor_group_id=475473|RuCor_link_id=0|Shift=220
+5	911	_	_	_	_	_	_	_	RuCor_chain_id=3550|RuCor_group_id=475473|Shift=230
+6	разбудил	_	_	_	_	_	_	_	Shift=234
+7	настойчивый	_	_	_	_	_	_	_	Shift=243
+8	звон	_	_	_	_	_	_	_	Shift=255
+9	телефона	_	_	_	_	_	_	_	Shift=260|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=268
+
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p5-s2
+# text = Вяло потянувшись, он лениво нашарил трубку негнущимися после сна пальцами.
+1	Вяло	_	_	_	_	_	_	_	Shift=270
+2	потянувшись	_	_	_	_	_	_	_	Shift=275|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=286
+4	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3550|RuCor_group_id=475474|RuCor_link_id=475473|Shift=288
+5	лениво	_	_	_	_	_	_	_	Shift=291
+6	нашарил	_	_	_	_	_	_	_	Shift=298
+7	трубку	_	_	_	_	_	_	_	Shift=306
+8	негнущимися	_	_	_	_	_	_	_	Shift=313
+9	после	_	_	_	_	_	_	_	Shift=325
+10	сна	_	_	_	_	_	_	_	Shift=331
+11	пальцами	_	_	_	_	_	_	_	Shift=335|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=343
+
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p5-s3
+# text = ``Алло'', - буркнул он в трубку.
+1	``	_	_	_	_	_	_	_	Shift=345|SpaceAfter=No
+2	Алло	_	_	_	_	_	_	_	Shift=346|SpaceAfter=No
+3	''	_	_	_	_	_	_	_	Shift=350|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=351
+5	-	_	_	_	_	_	_	_	Shift=352
+6	буркнул	_	_	_	_	_	_	_	Shift=354
+7	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3550|RuCor_group_id=475475|RuCor_link_id=475474|Shift=362
+8	в	_	_	_	_	_	_	_	Shift=365
+9	трубку	_	_	_	_	_	_	_	Shift=367|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=373
+
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p5-s4
+# text = На другом конце провода женский голос, захлебываясь криком выл: " Их много, они похожи на змей, помогите на...
+1	На	_	_	_	_	_	_	_	Shift=375
+2	другом	_	_	_	_	_	_	_	Shift=378
+3	конце	_	_	_	_	_	_	_	Shift=385
+4	провода	_	_	_	_	_	_	_	Shift=391
+5	женский	_	_	_	_	_	_	_	Shift=399
+6	голос	_	_	_	_	_	_	_	Shift=407|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=412
+8	захлебываясь	_	_	_	_	_	_	_	Shift=414
+9	криком	_	_	_	_	_	_	_	Shift=427
+10	выл	_	_	_	_	_	_	_	Shift=434|SpaceAfter=No
+11	:	_	_	_	_	_	_	_	Shift=437
+12	``	_	_	_	_	_	_	_	QuotationStart="|Shift=439
+13	Их	_	_	_	_	_	_	_	Shift=440
+14	много	_	_	_	_	_	_	_	Shift=443|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=448
+16	они	_	_	_	_	_	_	_	Shift=450
+17	похожи	_	_	_	_	_	_	_	Shift=454
+18	на	_	_	_	_	_	_	_	Shift=461
+19	змей	_	_	_	_	_	_	_	Shift=464|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=468
+21	помогите	_	_	_	_	_	_	_	Shift=470
+22	на	_	_	_	_	_	_	_	Shift=479|SpaceAfter=No
+23	...	_	_	_	_	_	_	_	Shift=481
+
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p5-s5
+# text = " Крик так же резко оборвался как и начался.
+1	''	_	_	_	_	_	_	_	QuotationEnd="|Shift=484
+2	Крик	_	_	_	_	_	_	_	Shift=486
+3	так	_	_	_	_	_	_	_	Shift=491
+4	же	_	_	_	_	_	_	_	Shift=495
+5	резко	_	_	_	_	_	_	_	Shift=498
+6	оборвался	_	_	_	_	_	_	_	Shift=504
+7	как	_	_	_	_	_	_	_	Shift=514
+8	и	_	_	_	_	_	_	_	Shift=518
+9	начался	_	_	_	_	_	_	_	Shift=520|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=527
+
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p5-s6
+# text = Оператор живо представил себе как тяжело наваливаясь на стенку телефонной будки, тело опускается на пол, еще сжимая в пальцах ненужную трубку.
+1	Оператор	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3550|RuCor_group_id=475476|RuCor_link_id=475475|Shift=529
+2	живо	_	_	_	_	_	_	_	Shift=538
+3	представил	_	_	_	_	_	_	_	Shift=543
+4	себе	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=3550|RuCor_group_id=475477|RuCor_link_id=475476|Shift=554
+5	как	_	_	_	_	_	_	_	Shift=559
+6	тяжело	_	_	_	_	_	_	_	Shift=563
+7	наваливаясь	_	_	_	_	_	_	_	Shift=570
+8	на	_	_	_	_	_	_	_	Shift=582
+9	стенку	_	_	_	_	_	_	_	Shift=585
+10	телефонной	_	_	_	_	_	_	_	Shift=592
+11	будки	_	_	_	_	_	_	_	Shift=603|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=608
+13	тело	_	_	_	_	_	_	_	Shift=610
+14	опускается	_	_	_	_	_	_	_	Shift=615
+15	на	_	_	_	_	_	_	_	Shift=626
+16	пол	_	_	_	_	_	_	_	Shift=629|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=632
+18	еще	_	_	_	_	_	_	_	Shift=634
+19	сжимая	_	_	_	_	_	_	_	Shift=638
+20	в	_	_	_	_	_	_	_	Shift=645
+21	пальцах	_	_	_	_	_	_	_	Shift=647
+22	ненужную	_	_	_	_	_	_	_	Shift=655
+23	трубку	_	_	_	_	_	_	_	Shift=664|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=670
+
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p5-s7
+# text = Сонливость оператора улетучилась в одно мгновение.
+1	Сонливость	_	_	_	_	_	_	_	Shift=672
+2	оператора	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3550|RuCor_group_id=475478|RuCor_link_id=475477|Shift=683
+3	улетучилась	_	_	_	_	_	_	_	Shift=693
+4	в	_	_	_	_	_	_	_	Shift=705
+5	одно	_	_	_	_	_	_	_	Shift=707
+6	мгновение	_	_	_	_	_	_	_	Shift=712|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=721
+
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p5-s8
+# text = Он понял что случилось то, к чему его готовили долгие годы.
+1	Он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3550|RuCor_group_id=475479|RuCor_link_id=475478|Shift=723
+2	понял	_	_	_	_	_	_	_	Shift=726
+3	что	_	_	_	_	_	_	_	Shift=732
+4	случилось	_	_	_	_	_	_	_	Shift=736
+5	то	_	_	_	_	_	_	_	Shift=746|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=748
+7	к	_	_	_	_	_	_	_	Shift=750
+8	чему	_	_	_	_	_	_	_	Shift=752
+9	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3550|RuCor_group_id=475480|RuCor_link_id=475479|Shift=757
+10	готовили	_	_	_	_	_	_	_	Shift=761
+11	долгие	_	_	_	_	_	_	_	Shift=770
+12	годы	_	_	_	_	_	_	_	Shift=777|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=781
+
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p5-s9
+# text = Липкими от страха пальцами он сломал пластиковую крышку и с силой вдавил в стол красную кнопку с надписью ``ТРЕВОГА''.
+1	Липкими	_	_	_	_	_	_	_	Shift=783
+2	от	_	_	_	_	_	_	_	Shift=791
+3	страха	_	_	_	_	_	_	_	Shift=794
+4	пальцами	_	_	_	_	_	_	_	Shift=801
+5	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3550|RuCor_group_id=475481|RuCor_link_id=475480|Shift=810
+6	сломал	_	_	_	_	_	_	_	Shift=813
+7	пластиковую	_	_	_	_	_	_	_	Shift=820
+8	крышку	_	_	_	_	_	_	_	Shift=832
+9	и	_	_	_	_	_	_	_	Shift=839
+10	с	_	_	_	_	_	_	_	Shift=841
+11	силой	_	_	_	_	_	_	_	Shift=843
+12	вдавил	_	_	_	_	_	_	_	Shift=849
+13	в	_	_	_	_	_	_	_	Shift=856
+14	стол	_	_	_	_	_	_	_	Shift=858
+15	красную	_	_	_	_	_	_	_	Shift=863
+16	кнопку	_	_	_	_	_	_	_	Shift=871
+17	с	_	_	_	_	_	_	_	Shift=878
+18	надписью	_	_	_	_	_	_	_	Shift=880
+19	``	_	_	_	_	_	_	_	Shift=889|SpaceAfter=No
+20	ТРЕВОГА	_	_	_	_	_	_	_	Shift=890|SpaceAfter=No
+21	''	_	_	_	_	_	_	_	Shift=897|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=898
+
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p5-s10
+# text = В то же мгновение на базе земных войск в пустыне Сахара раздался оглушительный вой.
+1	В	_	_	_	_	_	_	_	Shift=900
+2	то	_	_	_	_	_	_	_	Shift=902
+3	же	_	_	_	_	_	_	_	Shift=905
+4	мгновение	_	_	_	_	_	_	_	Shift=908
+5	на	_	_	_	_	_	_	_	Shift=918
+6	базе	_	_	_	_	_	_	_	Shift=921
+7	земных	_	_	_	_	_	_	_	Shift=926
+8	войск	_	_	_	_	_	_	_	Shift=933
+9	в	_	_	_	_	_	_	_	Shift=939
+10	пустыне	_	_	_	_	_	_	_	Shift=941
+11	Сахара	_	_	_	_	_	_	_	Shift=949
+12	раздался	_	_	_	_	_	_	_	Shift=956
+13	оглушительный	_	_	_	_	_	_	_	Shift=965
+14	вой	_	_	_	_	_	_	_	Shift=979|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=982
+
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p5-s11
+# text = Люди вскакивали с постелей, хватали оружие, и не было человека, сердце которого не сжималось в предчувствии чего-то страшного.
+1	Люди	_	_	_	_	_	_	_	Shift=984
+2	вскакивали	_	_	_	_	_	_	_	Shift=989
+3	с	_	_	_	_	_	_	_	Shift=1000
+4	постелей	_	_	_	_	_	_	_	Shift=1002|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1010
+6	хватали	_	_	_	_	_	_	_	Shift=1012
+7	оружие	_	_	_	_	_	_	_	Shift=1020|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1026
+9	и	_	_	_	_	_	_	_	Shift=1028
+10	не	_	_	_	_	_	_	_	Shift=1030
+11	было	_	_	_	_	_	_	_	Shift=1033
+12	человека	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3551|RuCor_group_id=475482|RuCor_link_id=0|Shift=1038|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=1046
+14	сердце	_	_	_	_	_	_	_	Shift=1048
+15	которого	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=3551|RuCor_group_id=475483|RuCor_link_id=475482|Shift=1055
+16	не	_	_	_	_	_	_	_	Shift=1064
+17	сжималось	_	_	_	_	_	_	_	Shift=1067
+18	в	_	_	_	_	_	_	_	Shift=1077
+19	предчувствии	_	_	_	_	_	_	_	Shift=1079
+20	чего-то	_	_	_	_	_	_	_	Shift=1092
+21	страшного	_	_	_	_	_	_	_	Shift=1100|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=1109
+
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p5-s12
+# text = Так началась долгая битва за освобождение Земли от инопланетян.
+1	Так	_	_	_	_	_	_	_	Shift=1111
+2	началась	_	_	_	_	_	_	_	Shift=1115
+3	долгая	_	_	_	_	_	_	_	Shift=1124
+4	битва	_	_	_	_	_	_	_	Shift=1131
+5	за	_	_	_	_	_	_	_	Shift=1137
+6	освобождение	_	_	_	_	_	_	_	Shift=1140
+7	Земли	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3552|RuCor_group_id=475484|RuCor_link_id=0|Shift=1153
+8	от	_	_	_	_	_	_	_	Shift=1159
+9	инопланетян	_	_	_	_	_	_	_	Shift=1162|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=1173
+
+# newpar id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p6
+# par_text = Прошел год. Уфошники медленно, но неуклонно одерживали верх. Дезертирство и предательство стало обычным делом в земных войсках. Командование не наказывало дезертиров, боясь совсем остаться без защитников. Даже несколько случайно оставшихся в живых полковников и капитанов не могли вдохнуть боевой дух в разношерстную команду новобранцев. Некоторые новички предпочитали заниматься членовредительством, списывая его на неосторожное обращение с оружием. Солдаты отыгрывались за свои поражения на инопланетянах, сидящих в тюрьме. Командование не поощряло жестокие пытки Уфошников, но и не могло помешать разъяренной толпе обезумевших от ярости солдат, ученых и инженеров. Каждую ночь до близлежащих деревень доносились крики боли, рев толпы, выстрелы, но жители делали вид, что ничего не происходит.
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p6-s1
+# text = Прошел год. Уфошники медленно, но неуклонно одерживали верх. Дезертирство и предательство стало обычным делом в земных войсках.
+1	Прошел	_	_	_	_	_	_	_	Shift=1178
+2	год.	_	_	_	_	_	_	_	Shift=1185
+3	Уфошники	_	_	_	_	_	_	_	Shift=1190
+4	медленно	_	_	_	_	_	_	_	Shift=1199|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1207
+6	но	_	_	_	_	_	_	_	Shift=1209
+7	неуклонно	_	_	_	_	_	_	_	Shift=1212
+8	одерживали	_	_	_	_	_	_	_	Shift=1222
+9	верх.	_	_	_	_	_	_	_	Shift=1233
+10	Дезертирство	_	_	_	_	_	_	_	Shift=1239
+11	и	_	_	_	_	_	_	_	Shift=1252
+12	предательство	_	_	_	_	_	_	_	Shift=1254
+13	стало	_	_	_	_	_	_	_	Shift=1268
+14	обычным	_	_	_	_	_	_	_	Shift=1274
+15	делом	_	_	_	_	_	_	_	Shift=1282
+16	в	_	_	_	_	_	_	_	Shift=1288
+17	земных	_	_	_	_	_	_	_	Shift=1290
+18	войсках	_	_	_	_	_	_	_	Shift=1297|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=1304
+
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p6-s2
+# text = Командование не наказывало дезертиров, боясь совсем остаться без защитников.
+1	Командование	_	_	_	_	_	_	_	Shift=1306
+2	не	_	_	_	_	_	_	_	Shift=1319
+3	наказывало	_	_	_	_	_	_	_	Shift=1322
+4	дезертиров	_	_	_	_	_	_	_	Shift=1333|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1343
+6	боясь	_	_	_	_	_	_	_	Shift=1345
+7	совсем	_	_	_	_	_	_	_	Shift=1351
+8	остаться	_	_	_	_	_	_	_	Shift=1358
+9	без	_	_	_	_	_	_	_	Shift=1367
+10	защитников	_	_	_	_	_	_	_	Shift=1371|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=1381
+
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p6-s3
+# text = Даже несколько случайно оставшихся в живых полковников и капитанов не могли вдохнуть боевой дух в разношерстную команду новобранцев.
+1	Даже	_	_	_	_	_	_	_	Shift=1383
+2	несколько	_	_	_	_	_	_	_	Shift=1388
+3	случайно	_	_	_	_	_	_	_	Shift=1398
+4	оставшихся	_	_	_	_	_	_	_	Shift=1407
+5	в	_	_	_	_	_	_	_	Shift=1418
+6	живых	_	_	_	_	_	_	_	Shift=1420
+7	полковников	_	_	_	_	_	_	_	Shift=1426
+8	и	_	_	_	_	_	_	_	Shift=1438
+9	капитанов	_	_	_	_	_	_	_	Shift=1440
+10	не	_	_	_	_	_	_	_	Shift=1450
+11	могли	_	_	_	_	_	_	_	Shift=1453
+12	вдохнуть	_	_	_	_	_	_	_	Shift=1459
+13	боевой	_	_	_	_	_	_	_	Shift=1468
+14	дух	_	_	_	_	_	_	_	Shift=1475
+15	в	_	_	_	_	_	_	_	Shift=1479
+16	разношерстную	_	_	_	_	_	_	_	Shift=1481
+17	команду	_	_	_	_	_	_	_	Shift=1495
+18	новобранцев	_	_	_	_	_	_	_	Shift=1503|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=1514
+
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p6-s4
+# text = Некоторые новички предпочитали заниматься членовредительством, списывая его на неосторожное обращение с оружием.
+1	Некоторые	_	_	_	_	_	_	_	Shift=1516
+2	новички	_	_	_	_	_	_	_	Shift=1526
+3	предпочитали	_	_	_	_	_	_	_	Shift=1534
+4	заниматься	_	_	_	_	_	_	_	Shift=1547
+5	членовредительством	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3553|RuCor_group_id=475485|RuCor_link_id=0|Shift=1558|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1577
+7	списывая	_	_	_	_	_	_	_	Shift=1579
+8	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=3553|RuCor_group_id=475486|RuCor_link_id=475485|Shift=1588
+9	на	_	_	_	_	_	_	_	Shift=1592
+10	неосторожное	_	_	_	_	_	_	_	Shift=1595
+11	обращение	_	_	_	_	_	_	_	Shift=1608
+12	с	_	_	_	_	_	_	_	Shift=1618
+13	оружием	_	_	_	_	_	_	_	Shift=1620|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=1627
+
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p6-s5
+# text = Солдаты отыгрывались за свои поражения на инопланетянах, сидящих в тюрьме.
+1	Солдаты	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3554|RuCor_group_id=475487|RuCor_link_id=0|Shift=1629
+2	отыгрывались	_	_	_	_	_	_	_	Shift=1637
+3	за	_	_	_	_	_	_	_	Shift=1650
+4	свои	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=3554|RuCor_group_id=475488|RuCor_link_id=475487|Shift=1653
+5	поражения	_	_	_	_	_	_	_	Shift=1658
+6	на	_	_	_	_	_	_	_	Shift=1668
+7	инопланетянах	_	_	_	_	_	_	_	Shift=1671|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1684
+9	сидящих	_	_	_	_	_	_	_	Shift=1686
+10	в	_	_	_	_	_	_	_	Shift=1694
+11	тюрьме	_	_	_	_	_	_	_	Shift=1696|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=1702
+
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p6-s6
+# text = Командование не поощряло жестокие пытки Уфошников, но и не могло помешать разъяренной толпе обезумевших от ярости солдат, ученых и инженеров.
+1	Командование	_	_	_	_	_	_	_	Shift=1704
+2	не	_	_	_	_	_	_	_	Shift=1717
+3	поощряло	_	_	_	_	_	_	_	Shift=1720
+4	жестокие	_	_	_	_	_	_	_	Shift=1729
+5	пытки	_	_	_	_	_	_	_	Shift=1738
+6	Уфошников	_	_	_	_	_	_	_	Shift=1744|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=1753
+8	но	_	_	_	_	_	_	_	Shift=1755
+9	и	_	_	_	_	_	_	_	Shift=1758
+10	не	_	_	_	_	_	_	_	Shift=1760
+11	могло	_	_	_	_	_	_	_	Shift=1763
+12	помешать	_	_	_	_	_	_	_	Shift=1769
+13	разъяренной	_	_	_	_	_	_	_	Shift=1778
+14	толпе	_	_	_	_	_	_	_	Shift=1790
+15	обезумевших	_	_	_	_	_	_	_	Shift=1796
+16	от	_	_	_	_	_	_	_	Shift=1808
+17	ярости	_	_	_	_	_	_	_	Shift=1811
+18	солдат	_	_	_	_	_	_	_	Shift=1818|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=1824
+20	ученых	_	_	_	_	_	_	_	Shift=1826
+21	и	_	_	_	_	_	_	_	Shift=1833
+22	инженеров	_	_	_	_	_	_	_	Shift=1835|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=1844
+
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p6-s7
+# text = Каждую ночь до близлежащих деревень доносились крики боли, рев толпы, выстрелы, но жители делали вид, что ничего не происходит.
+1	Каждую	_	_	_	_	_	_	_	Shift=1846
+2	ночь	_	_	_	_	_	_	_	Shift=1853
+3	до	_	_	_	_	_	_	_	Shift=1858
+4	близлежащих	_	_	_	_	_	_	_	Shift=1861
+5	деревень	_	_	_	_	_	_	_	Shift=1873
+6	доносились	_	_	_	_	_	_	_	Shift=1882
+7	крики	_	_	_	_	_	_	_	Shift=1893
+8	боли	_	_	_	_	_	_	_	Shift=1899|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1903
+10	рев	_	_	_	_	_	_	_	Shift=1905
+11	толпы	_	_	_	_	_	_	_	Shift=1909|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=1914
+13	выстрелы	_	_	_	_	_	_	_	Shift=1916|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=1924
+15	но	_	_	_	_	_	_	_	Shift=1926
+16	жители	_	_	_	_	_	_	_	Shift=1929
+17	делали	_	_	_	_	_	_	_	Shift=1936
+18	вид	_	_	_	_	_	_	_	Shift=1943|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=1946
+20	что	_	_	_	_	_	_	_	Shift=1948
+21	ничего	_	_	_	_	_	_	_	Shift=1952
+22	не	_	_	_	_	_	_	_	Shift=1959
+23	происходит	_	_	_	_	_	_	_	Shift=1962|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=1972
+
+# newpar id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p7
+# par_text = В начале каждого месяца командование получало некоторые суммы, которых если и хватало на выплату жалования солдатам и персоналу баз, то ни в коей мере не достаточные для расширения баз. Две базы никак не могли справиться с непрерывным потоком злобных инопланетян, а затем стало еще хуже: через шпионов Уфошники узнали о проведении ремонтных работ на базе Москва и решили, что лучшего случая для нападения им предоставлено не будет. Вырезав ночью весь персонал и освободив заложников, Уфошники начисто лишили командование Земли малейших шансов на победу. Но жители планеты продолжали надеяться на чудо, которое могло бы избавить их от этого кошмара. Ночью на улицах городов было светло от сигнальных огней и реактивных выхлопов тарелок. Люди надеялись, что закрыв окна и двери они смогут уберечь себя и близких от нападения кровожадных пришельцев. Некоторым это удавалось, другие, открыв утром двери, обнаруживали исчезновение соседей или их окровавленные трупы, большинство же гибло так и не успев сообразить, что послужило причиной их гибели. Однажды - в ноябре 2000 года группа крестьян окружила севшую на землю тарелку и расправилась с высадившимися Уфошниками. Эта деревня была сожжена дотла, а трупы людей никогда не были найдены.
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p7-s1
+# text = В начале каждого месяца командование получало некоторые суммы, которых если и хватало на выплату жалования солдатам и персоналу баз, то ни в коей мере не достаточные для расширения баз.
+1	В	_	_	_	_	_	_	_	Shift=1975
+2	начале	_	_	_	_	_	_	_	Shift=1977
+3	каждого	_	_	_	_	_	_	_	Shift=1984
+4	месяца	_	_	_	_	_	_	_	Shift=1992
+5	командование	_	_	_	_	_	_	_	Shift=1999
+6	получало	_	_	_	_	_	_	_	Shift=2012
+7	некоторые	_	_	_	_	_	_	_	RuCor_chain_id=3555|RuCor_group_id=475489|Shift=2021
+8	суммы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3555|RuCor_group_id=475489|RuCor_link_id=0|Shift=2031|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=2036
+10	которых	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=3555|RuCor_group_id=475490|RuCor_link_id=475489|Shift=2038
+11	если	_	_	_	_	_	_	_	Shift=2046
+12	и	_	_	_	_	_	_	_	Shift=2051
+13	хватало	_	_	_	_	_	_	_	Shift=2053
+14	на	_	_	_	_	_	_	_	Shift=2061
+15	выплату	_	_	_	_	_	_	_	Shift=2064
+16	жалования	_	_	_	_	_	_	_	Shift=2072
+17	солдатам	_	_	_	_	_	_	_	Shift=2082
+18	и	_	_	_	_	_	_	_	Shift=2091
+19	персоналу	_	_	_	_	_	_	_	Shift=2093
+20	баз	_	_	_	_	_	_	_	Shift=2103|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=2106
+22	то	_	_	_	_	_	_	_	Shift=2108
+23	ни	_	_	_	_	_	_	_	Shift=2111
+24	в	_	_	_	_	_	_	_	Shift=2114
+25	коей	_	_	_	_	_	_	_	Shift=2116
+26	мере	_	_	_	_	_	_	_	Shift=2121
+27	не	_	_	_	_	_	_	_	Shift=2126
+28	достаточные	_	_	_	_	_	_	_	Shift=2129
+29	для	_	_	_	_	_	_	_	Shift=2141
+30	расширения	_	_	_	_	_	_	_	Shift=2145
+31	баз	_	_	_	_	_	_	_	Shift=2156|SpaceAfter=No
+32	.	_	_	_	_	_	_	_	Shift=2159
+
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p7-s2
+# text = Две базы никак не могли справиться с непрерывным потоком злобных инопланетян, а затем стало еще хуже: через шпионов Уфошники узнали о проведении ремонтных работ на базе Москва и решили, что лучшего случая для нападения им предоставлено не будет.
+1	Две	_	_	_	_	_	_	_	Shift=2161
+2	базы	_	_	_	_	_	_	_	Shift=2165
+3	никак	_	_	_	_	_	_	_	Shift=2170
+4	не	_	_	_	_	_	_	_	Shift=2176
+5	могли	_	_	_	_	_	_	_	Shift=2179
+6	справиться	_	_	_	_	_	_	_	Shift=2185
+7	с	_	_	_	_	_	_	_	Shift=2196
+8	непрерывным	_	_	_	_	_	_	_	Shift=2198
+9	потоком	_	_	_	_	_	_	_	Shift=2210
+10	злобных	_	_	_	_	_	_	_	Shift=2218
+11	инопланетян	_	_	_	_	_	_	_	Shift=2226|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=2237
+13	а	_	_	_	_	_	_	_	Shift=2239
+14	затем	_	_	_	_	_	_	_	Shift=2241
+15	стало	_	_	_	_	_	_	_	Shift=2247
+16	еще	_	_	_	_	_	_	_	Shift=2253
+17	хуже	_	_	_	_	_	_	_	Shift=2257|SpaceAfter=No
+18	:	_	_	_	_	_	_	_	Shift=2261
+19	через	_	_	_	_	_	_	_	Shift=2263
+20	шпионов	_	_	_	_	_	_	_	Shift=2269
+21	Уфошники	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3556|RuCor_group_id=475491|RuCor_link_id=0|Shift=2277
+22	узнали	_	_	_	_	_	_	_	Shift=2286
+23	о	_	_	_	_	_	_	_	Shift=2293
+24	проведении	_	_	_	_	_	_	_	Shift=2295
+25	ремонтных	_	_	_	_	_	_	_	Shift=2306
+26	работ	_	_	_	_	_	_	_	Shift=2316
+27	на	_	_	_	_	_	_	_	Shift=2322
+28	базе	_	_	_	_	_	_	_	Shift=2325
+29	Москва	_	_	_	_	_	_	_	Shift=2330
+30	и	_	_	_	_	_	_	_	Shift=2337
+31	решили	_	_	_	_	_	_	_	Shift=2339|SpaceAfter=No
+32	,	_	_	_	_	_	_	_	Shift=2345
+33	что	_	_	_	_	_	_	_	Shift=2347
+34	лучшего	_	_	_	_	_	_	_	Shift=2351
+35	случая	_	_	_	_	_	_	_	Shift=2359
+36	для	_	_	_	_	_	_	_	Shift=2366
+37	нападения	_	_	_	_	_	_	_	Shift=2370
+38	им	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=3556|RuCor_group_id=475492|RuCor_link_id=475491|Shift=2380
+39	предоставлено	_	_	_	_	_	_	_	Shift=2383
+40	не	_	_	_	_	_	_	_	Shift=2397
+41	будет	_	_	_	_	_	_	_	Shift=2400|SpaceAfter=No
+42	.	_	_	_	_	_	_	_	Shift=2405
+
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p7-s3
+# text = Вырезав ночью весь персонал и освободив заложников, Уфошники начисто лишили командование Земли малейших шансов на победу.
+1	Вырезав	_	_	_	_	_	_	_	Shift=2407
+2	ночью	_	_	_	_	_	_	_	Shift=2415
+3	весь	_	_	_	_	_	_	_	Shift=2421
+4	персонал	_	_	_	_	_	_	_	Shift=2426
+5	и	_	_	_	_	_	_	_	Shift=2435
+6	освободив	_	_	_	_	_	_	_	Shift=2437
+7	заложников	_	_	_	_	_	_	_	Shift=2447|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=2457
+9	Уфошники	_	_	_	_	_	_	_	Shift=2459
+10	начисто	_	_	_	_	_	_	_	Shift=2468
+11	лишили	_	_	_	_	_	_	_	Shift=2476
+12	командование	_	_	_	_	_	_	_	Shift=2483
+13	Земли	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3552|RuCor_group_id=475493|RuCor_link_id=475484|Shift=2496
+14	малейших	_	_	_	_	_	_	_	Shift=2502
+15	шансов	_	_	_	_	_	_	_	Shift=2511
+16	на	_	_	_	_	_	_	_	Shift=2518
+17	победу	_	_	_	_	_	_	_	Shift=2521|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=2527
+
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p7-s4
+# text = Но жители планеты продолжали надеяться на чудо, которое могло бы избавить их от этого кошмара.
+1	Но	_	_	_	_	_	_	_	Shift=2529
+2	жители	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3557|RuCor_group_id=475494|RuCor_link_id=0|Shift=2532
+3	планеты	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3552|RuCor_group_id=475495|RuCor_link_id=475493|Shift=2539
+4	продолжали	_	_	_	_	_	_	_	Shift=2547
+5	надеяться	_	_	_	_	_	_	_	Shift=2558
+6	на	_	_	_	_	_	_	_	Shift=2568
+7	чудо	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3558|RuCor_group_id=475496|RuCor_link_id=0|Shift=2571|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=2575
+9	которое	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=3558|RuCor_group_id=475497|RuCor_link_id=475496|Shift=2577
+10	могло	_	_	_	_	_	_	_	Shift=2585
+11	бы	_	_	_	_	_	_	_	Shift=2591
+12	избавить	_	_	_	_	_	_	_	Shift=2594
+13	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=3557|RuCor_group_id=475498|RuCor_link_id=475494|Shift=2603
+14	от	_	_	_	_	_	_	_	Shift=2606
+15	этого	_	_	_	_	_	_	_	Shift=2609
+16	кошмара	_	_	_	_	_	_	_	Shift=2615|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=2622
+
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p7-s5
+# text = Ночью на улицах городов было светло от сигнальных огней и реактивных выхлопов тарелок.
+1	Ночью	_	_	_	_	_	_	_	Shift=2624
+2	на	_	_	_	_	_	_	_	Shift=2630
+3	улицах	_	_	_	_	_	_	_	Shift=2633
+4	городов	_	_	_	_	_	_	_	Shift=2640
+5	было	_	_	_	_	_	_	_	Shift=2648
+6	светло	_	_	_	_	_	_	_	Shift=2653
+7	от	_	_	_	_	_	_	_	Shift=2660
+8	сигнальных	_	_	_	_	_	_	_	Shift=2663
+9	огней	_	_	_	_	_	_	_	Shift=2674
+10	и	_	_	_	_	_	_	_	Shift=2680
+11	реактивных	_	_	_	_	_	_	_	Shift=2682
+12	выхлопов	_	_	_	_	_	_	_	Shift=2693
+13	тарелок	_	_	_	_	_	_	_	Shift=2702|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=2709
+
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p7-s6
+# text = Люди надеялись, что закрыв окна и двери они смогут уберечь себя и близких от нападения кровожадных пришельцев.
+1	Люди	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3559|RuCor_group_id=475499|RuCor_link_id=0|Shift=2711
+2	надеялись	_	_	_	_	_	_	_	Shift=2716|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=2725
+4	что	_	_	_	_	_	_	_	Shift=2727
+5	закрыв	_	_	_	_	_	_	_	Shift=2731
+6	окна	_	_	_	_	_	_	_	Shift=2738
+7	и	_	_	_	_	_	_	_	Shift=2743
+8	двери	_	_	_	_	_	_	_	Shift=2745
+9	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=3559|RuCor_group_id=475500|RuCor_link_id=475499|Shift=2751
+10	смогут	_	_	_	_	_	_	_	Shift=2755
+11	уберечь	_	_	_	_	_	_	_	Shift=2762
+12	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=3559|RuCor_group_id=475501|RuCor_link_id=475500|Shift=2770
+13	и	_	_	_	_	_	_	_	Shift=2775
+14	близких	_	_	_	_	_	_	_	Shift=2777
+15	от	_	_	_	_	_	_	_	Shift=2785
+16	нападения	_	_	_	_	_	_	_	Shift=2788
+17	кровожадных	_	_	_	_	_	_	_	Shift=2798
+18	пришельцев	_	_	_	_	_	_	_	Shift=2810|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=2820
+
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p7-s7
+# text = Некоторым это удавалось, другие, открыв утром двери, обнаруживали исчезновение соседей или их окровавленные трупы, большинство же гибло так и не успев сообразить, что послужило причиной их гибели.
+1	Некоторым	_	_	_	_	_	_	_	Shift=2822
+2	это	_	_	_	_	_	_	_	Shift=2832
+3	удавалось	_	_	_	_	_	_	_	Shift=2836|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2845
+5	другие	_	_	_	_	_	_	_	Shift=2847|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=2853
+7	открыв	_	_	_	_	_	_	_	Shift=2855
+8	утром	_	_	_	_	_	_	_	Shift=2862
+9	двери	_	_	_	_	_	_	_	Shift=2868|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=2873
+11	обнаруживали	_	_	_	_	_	_	_	Shift=2875
+12	исчезновение	_	_	_	_	_	_	_	Shift=2888
+13	соседей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3560|RuCor_group_id=475502|RuCor_link_id=0|Shift=2901
+14	или	_	_	_	_	_	_	_	Shift=2909
+15	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=3560|RuCor_group_id=475503|RuCor_link_id=475502|Shift=2913
+16	окровавленные	_	_	_	_	_	_	_	Shift=2916
+17	трупы	_	_	_	_	_	_	_	Shift=2930|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=2935
+19	большинство	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3561|RuCor_group_id=475504|RuCor_link_id=0|Shift=2937
+20	же	_	_	_	_	_	_	_	Shift=2949
+21	гибло	_	_	_	_	_	_	_	Shift=2952
+22	так	_	_	_	_	_	_	_	Shift=2958
+23	и	_	_	_	_	_	_	_	Shift=2962
+24	не	_	_	_	_	_	_	_	Shift=2964
+25	успев	_	_	_	_	_	_	_	Shift=2967
+26	сообразить	_	_	_	_	_	_	_	Shift=2973|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=2983
+28	что	_	_	_	_	_	_	_	Shift=2985
+29	послужило	_	_	_	_	_	_	_	Shift=2989
+30	причиной	_	_	_	_	_	_	_	Shift=2999
+31	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3561|RuCor_group_id=475505|RuCor_link_id=475504|Shift=3008
+32	гибели	_	_	_	_	_	_	_	Shift=3011|SpaceAfter=No
+33	.	_	_	_	_	_	_	_	Shift=3017
+
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p7-s8
+# text = Однажды - в ноябре 2000 года группа крестьян окружила севшую на землю тарелку и расправилась с высадившимися Уфошниками.
+1	Однажды	_	_	_	_	_	_	_	Shift=3019
+2	-	_	_	_	_	_	_	_	Shift=3027
+3	в	_	_	_	_	_	_	_	Shift=3029
+4	ноябре	_	_	_	_	_	_	_	Shift=3031
+5	2000	_	_	_	_	_	_	_	Shift=3038
+6	года	_	_	_	_	_	_	_	Shift=3043
+7	группа	_	_	_	_	_	_	_	Shift=3048
+8	крестьян	_	_	_	_	_	_	_	Shift=3055
+9	окружила	_	_	_	_	_	_	_	Shift=3064
+10	севшую	_	_	_	_	_	_	_	Shift=3073
+11	на	_	_	_	_	_	_	_	Shift=3080
+12	землю	_	_	_	_	_	_	_	Shift=3083
+13	тарелку	_	_	_	_	_	_	_	Shift=3089
+14	и	_	_	_	_	_	_	_	Shift=3097
+15	расправилась	_	_	_	_	_	_	_	Shift=3099
+16	с	_	_	_	_	_	_	_	Shift=3112
+17	высадившимися	_	_	_	_	_	_	_	Shift=3114
+18	Уфошниками	_	_	_	_	_	_	_	Shift=3128|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=3138
+
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p7-s9
+# text = Эта деревня была сожжена дотла, а трупы людей никогда не были найдены.
+1	Эта	_	_	_	_	_	_	_	Shift=3140
+2	деревня	_	_	_	_	_	_	_	Shift=3144
+3	была	_	_	_	_	_	_	_	Shift=3152
+4	сожжена	_	_	_	_	_	_	_	Shift=3157
+5	дотла	_	_	_	_	_	_	_	Shift=3165|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=3170
+7	а	_	_	_	_	_	_	_	Shift=3172
+8	трупы	_	_	_	_	_	_	_	Shift=3174
+9	людей	_	_	_	_	_	_	_	Shift=3180
+10	никогда	_	_	_	_	_	_	_	Shift=3186
+11	не	_	_	_	_	_	_	_	Shift=3194
+12	были	_	_	_	_	_	_	_	Shift=3197
+13	найдены	_	_	_	_	_	_	_	Shift=3202|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=3209
+
+# newpar id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p8
+# par_text = Шел 2002 год. После кровопролитнейших боев дело удалось сдвинуть с мертвой точки. Было одержано несколько побед местного значения. Люди обрадованно говорили друг другу: "Вот видите, скоро все будет по- старому." Их надежды, возможно, могли бы сбыться, если бы не нападение инопланетян на оставшуюся базу войск Земли в ночь с 1 на 3 марта. Судьбу Земли решил промах FUSION BALL DEFENCE. Малочисленный гарнизон, лишенный поддержки десантников, отказавшихся выйти из Авенджера, был окружен и уничтожен. На много миль вокруг, потерявшие надежду на спасение люди смотрели в направлении базы Земли, на месте которой распускался огромный ядерный гриб...
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p8-s1
+# text = Шел 2002 год. После кровопролитнейших боев дело удалось сдвинуть с мертвой точки.
+1	Шел	_	_	_	_	_	_	_	Shift=3214
+2	2002	_	_	_	_	_	_	_	Shift=3218
+3	год.	_	_	_	_	_	_	_	Shift=3223
+4	После	_	_	_	_	_	_	_	Shift=3228
+5	кровопролитнейших	_	_	_	_	_	_	_	Shift=3234
+6	боев	_	_	_	_	_	_	_	Shift=3252
+7	дело	_	_	_	_	_	_	_	Shift=3257
+8	удалось	_	_	_	_	_	_	_	Shift=3262
+9	сдвинуть	_	_	_	_	_	_	_	Shift=3270
+10	с	_	_	_	_	_	_	_	Shift=3279
+11	мертвой	_	_	_	_	_	_	_	Shift=3281
+12	точки	_	_	_	_	_	_	_	Shift=3289|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=3294
+
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p8-s2
+# text = Было одержано несколько побед местного значения.
+1	Было	_	_	_	_	_	_	_	Shift=3296
+2	одержано	_	_	_	_	_	_	_	Shift=3301
+3	несколько	_	_	_	_	_	_	_	Shift=3310
+4	побед	_	_	_	_	_	_	_	Shift=3320
+5	местного	_	_	_	_	_	_	_	Shift=3326
+6	значения	_	_	_	_	_	_	_	Shift=3335|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=3343
+
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p8-s3
+# text = Люди обрадованно говорили друг другу: " Вот видите, скоро все будет по-старому. "
+1	Люди	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3562|RuCor_group_id=475506|RuCor_link_id=0|Shift=3345
+2	обрадованно	_	_	_	_	_	_	_	Shift=3350
+3	говорили	_	_	_	_	_	_	_	Shift=3362
+4	друг	_	_	_	_	_	_	_	Shift=3371
+5	другу	_	_	_	_	_	_	_	Shift=3376|SpaceAfter=No
+6	:	_	_	_	_	_	_	_	Shift=3381
+7	``	_	_	_	_	_	_	_	QuotationStart="|Shift=3383
+8	Вот	_	_	_	_	_	_	_	Shift=3384
+9	видите	_	_	_	_	_	_	_	Shift=3388|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=3394
+11	скоро	_	_	_	_	_	_	_	Shift=3396
+12	все	_	_	_	_	_	_	_	Shift=3402
+13	будет	_	_	_	_	_	_	_	Shift=3406
+14	по-старому.	_	_	_	_	_	_	_	Shift=3412
+15	''	_	_	_	_	_	_	_	QuotationEnd="|Shift=3424
+
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p8-s4
+# text = Их надежды, возможно, могли бы сбыться, если бы не нападение инопланетян на оставшуюся базу войск Земли в ночь с 1 на 3 марта.
+1	Их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=3562|RuCor_group_id=475507|RuCor_link_id=475506|Shift=3426
+2	надежды	_	_	_	_	_	_	_	Shift=3429|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=3436
+4	возможно	_	_	_	_	_	_	_	Shift=3438|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=3446
+6	могли	_	_	_	_	_	_	_	Shift=3448
+7	бы	_	_	_	_	_	_	_	Shift=3454
+8	сбыться	_	_	_	_	_	_	_	Shift=3457|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=3464
+10	если	_	_	_	_	_	_	_	Shift=3466
+11	бы	_	_	_	_	_	_	_	Shift=3471
+12	не	_	_	_	_	_	_	_	Shift=3474
+13	нападение	_	_	_	_	_	_	_	Shift=3477
+14	инопланетян	_	_	_	_	_	_	_	Shift=3487
+15	на	_	_	_	_	_	_	_	Shift=3499
+16	оставшуюся	_	_	_	_	_	_	_	RuCor_chain_id=3563|RuCor_group_id=475508|Shift=3502
+17	базу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3563|RuCor_group_id=475508|RuCor_link_id=0|Shift=3513
+18	войск	_	_	_	_	_	_	_	RuCor_chain_id=3563|RuCor_group_id=475508|Shift=3518
+19	Земли	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3552|RuCor_group_id=475509|RuCor_link_id=475493|Shift=3524
+20	в	_	_	_	_	_	_	_	Shift=3530
+21	ночь	_	_	_	_	_	_	_	Shift=3532
+22	с	_	_	_	_	_	_	_	Shift=3537
+23	1	_	_	_	_	_	_	_	Shift=3539
+24	на	_	_	_	_	_	_	_	Shift=3541
+25	3	_	_	_	_	_	_	_	Shift=3544
+26	марта	_	_	_	_	_	_	_	Shift=3546|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=3551
+
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p8-s5
+# text = Судьбу Земли решил промах FUSION BALL DEFENCE.
+1	Судьбу	_	_	_	_	_	_	_	Shift=3553
+2	Земли	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3552|RuCor_group_id=475510|RuCor_link_id=475509|Shift=3560
+3	решил	_	_	_	_	_	_	_	Shift=3566
+4	промах	_	_	_	_	_	_	_	Shift=3572
+5	FUSION	_	_	_	_	_	_	_	Shift=3579
+6	BALL	_	_	_	_	_	_	_	Shift=3586
+7	DEFENCE	_	_	_	_	_	_	_	Shift=3591|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=3598
+
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p8-s6
+# text = Малочисленный гарнизон, лишенный поддержки десантников, отказавшихся выйти из Авенджера, был окружен и уничтожен.
+1	Малочисленный	_	_	_	_	_	_	_	Shift=3600
+2	гарнизон	_	_	_	_	_	_	_	Shift=3614|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=3622
+4	лишенный	_	_	_	_	_	_	_	Shift=3624
+5	поддержки	_	_	_	_	_	_	_	Shift=3633
+6	десантников	_	_	_	_	_	_	_	Shift=3643|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=3654
+8	отказавшихся	_	_	_	_	_	_	_	Shift=3656
+9	выйти	_	_	_	_	_	_	_	Shift=3669
+10	из	_	_	_	_	_	_	_	Shift=3675
+11	Авенджера	_	_	_	_	_	_	_	Shift=3678|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=3687
+13	был	_	_	_	_	_	_	_	Shift=3689
+14	окружен	_	_	_	_	_	_	_	Shift=3693
+15	и	_	_	_	_	_	_	_	Shift=3701
+16	уничтожен	_	_	_	_	_	_	_	Shift=3703|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=3712
+
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p8-s7
+# text = На много миль вокруг, потерявшие надежду на спасение люди смотрели в направлении базы Земли, на месте которой распускался огромный ядерный гриб...
+1	На	_	_	_	_	_	_	_	Shift=3714
+2	много	_	_	_	_	_	_	_	Shift=3717
+3	миль	_	_	_	_	_	_	_	Shift=3723
+4	вокруг	_	_	_	_	_	_	_	Shift=3728|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=3734
+6	потерявшие	_	_	_	_	_	_	_	Shift=3736
+7	надежду	_	_	_	_	_	_	_	Shift=3747
+8	на	_	_	_	_	_	_	_	Shift=3755
+9	спасение	_	_	_	_	_	_	_	Shift=3758
+10	люди	_	_	_	_	_	_	_	Shift=3767
+11	смотрели	_	_	_	_	_	_	_	Shift=3772
+12	в	_	_	_	_	_	_	_	Shift=3781
+13	направлении	_	_	_	_	_	_	_	Shift=3783
+14	базы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3563|RuCor_group_id=475511|RuCor_link_id=475508|Shift=3795
+15	Земли	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3552|RuCor_group_id=475512|RuCor_link_id=475510|Shift=3800|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=3805
+17	на	_	_	_	_	_	_	_	Shift=3807
+18	месте	_	_	_	_	_	_	_	Shift=3810
+19	которой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=3563|RuCor_group_id=475513|RuCor_link_id=475511|Shift=3816
+20	распускался	_	_	_	_	_	_	_	Shift=3824
+21	огромный	_	_	_	_	_	_	_	Shift=3836
+22	ядерный	_	_	_	_	_	_	_	Shift=3845
+23	гриб	_	_	_	_	_	_	_	Shift=3853|SpaceAfter=No
+24	...	_	_	_	_	_	_	_	Shift=3857
+
+# newpar id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p9
+# par_text = Грязно выругавшись, Антон с силой нажал кнопку RESET, вскочил, в ярости опрокинув стул и в наступившей тишине,под понимающим взглядом Владимира зловеще прошипел: "Ну вот я завтра попрошу Серого паписать крэкер и тогда еще сыграем"...
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p9-s1
+# text = Грязно выругавшись, Антон с силой нажал кнопку RESET, вскочил, в ярости опрокинув стул и в наступившей тишине, под понимающим взглядом Владимира зловеще прошипел:'' Ну вот я завтра попрошу Серого паписать крэкер и тогда еще сыграем''...
+1	Грязно	_	_	_	_	_	_	_	Shift=3864
+2	выругавшись	_	_	_	_	_	_	_	Shift=3871|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=3882
+4	Антон	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3564|RuCor_group_id=475514|RuCor_link_id=0|Shift=3884
+5	с	_	_	_	_	_	_	_	Shift=3890
+6	силой	_	_	_	_	_	_	_	Shift=3892
+7	нажал	_	_	_	_	_	_	_	Shift=3898
+8	кнопку	_	_	_	_	_	_	_	Shift=3904
+9	RESET	_	_	_	_	_	_	_	Shift=3911|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=3916
+11	вскочил	_	_	_	_	_	_	_	Shift=3918|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=3925
+13	в	_	_	_	_	_	_	_	Shift=3927
+14	ярости	_	_	_	_	_	_	_	Shift=3929
+15	опрокинув	_	_	_	_	_	_	_	Shift=3936
+16	стул	_	_	_	_	_	_	_	Shift=3946
+17	и	_	_	_	_	_	_	_	Shift=3951
+18	в	_	_	_	_	_	_	_	Shift=3953
+19	наступившей	_	_	_	_	_	_	_	Shift=3955
+20	тишине	_	_	_	_	_	_	_	Shift=3967|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=3973
+22	под	_	_	_	_	_	_	_	Shift=3974
+23	понимающим	_	_	_	_	_	_	_	Shift=3978
+24	взглядом	_	_	_	_	_	_	_	Shift=3989
+25	Владимира	_	_	_	_	_	_	_	Shift=3998
+26	зловеще	_	_	_	_	_	_	_	Shift=4008
+27	прошипел	_	_	_	_	_	_	_	Shift=4016|SpaceAfter=No
+28	:	_	_	_	_	_	_	_	Shift=4024|SpaceAfter=No
+29	''	_	_	_	_	_	_	_	Shift=4026
+30	Ну	_	_	_	_	_	_	_	Shift=4027
+31	вот	_	_	_	_	_	_	_	Shift=4030
+32	я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3564|RuCor_group_id=475515|RuCor_link_id=475514|Shift=4034
+33	завтра	_	_	_	_	_	_	_	Shift=4036
+34	попрошу	_	_	_	_	_	_	_	Shift=4043
+35	Серого	_	_	_	_	_	_	_	Shift=4051
+36	паписать	_	_	_	_	_	_	_	Shift=4058
+37	крэкер	_	_	_	_	_	_	_	Shift=4067
+38	и	_	_	_	_	_	_	_	Shift=4074
+39	тогда	_	_	_	_	_	_	_	Shift=4076
+40	еще	_	_	_	_	_	_	_	Shift=4082
+41	сыграем	_	_	_	_	_	_	_	Shift=4086|SpaceAfter=No
+42	''	_	_	_	_	_	_	_	Shift=4093|SpaceAfter=No
+43	...	_	_	_	_	_	_	_	Shift=4094
+
+# newpar id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p10
+# par_text = THE END
+# sent_id = 5cfc9e11-4b21-4689-9784-5cdcd4eeccfd-p10-s1
+# text = THE END
+1	THE	_	_	_	_	_	_	_	Shift=4103
+2	END	_	_	_	_	_	_	_	Shift=4107
+

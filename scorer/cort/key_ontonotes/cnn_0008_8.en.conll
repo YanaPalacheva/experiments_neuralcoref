@@ -1,0 +1,38 @@
+#begin document (cnn_0008_8); part 000
+cnn_0008	8	0	Ahead	RB	(TOP(FRAG(FRAG(ADVP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	8	1	in	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	8	2	the	DT	(NP(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	8	3	second	JJ	*	-	-	-	Howard_Kurtz	-
+cnn_0008	8	4	half	NN	*)	half	-	1	Howard_Kurtz	-
+cnn_0008	8	5	of	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	8	6	Reliable	NNP	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	8	7	Sources	NNPS	*)))))	-	-	-	Howard_Kurtz	-
+cnn_0008	8	8	New	NNP	(FRAG(NP(NML(NML(NML*	-	-	-	Howard_Kurtz	-
+cnn_0008	8	9	York	NNP	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	8	10	Times	NNP	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	8	11	columnist	NN	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	8	12	Tom	NNP	*	-	-	-	Howard_Kurtz	-
+cnn_0008	8	13	Friedman	NNP	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	8	14	on	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	8	15	whether	IN	(SBAR*	-	-	-	Howard_Kurtz	-
+cnn_0008	8	16	the	DT	(S(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	8	17	media	NNS	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	8	18	are	VBP	(VP*	be	03	-	Howard_Kurtz	-
+cnn_0008	8	19	suffering	VBG	(VP*	suffer	01	2	Howard_Kurtz	-
+cnn_0008	8	20	from	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	8	21	Iraq	NNP	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	8	22	fatigue	NN	*))))))))	-	-	-	Howard_Kurtz	-
+cnn_0008	8	23	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	8	0	Plus	CC	(TOP(FRAG*	-	-	-	Howard_Kurtz	-
+cnn_0008	8	1	that	DT	(NP(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	8	2	heavily	RB	(ADJP*	-	-	-	Howard_Kurtz	-
+cnn_0008	8	3	hyped	VBN	*)	hype	01	-	Howard_Kurtz	-
+cnn_0008	8	4	subway	JJ	*	-	-	-	Howard_Kurtz	-
+cnn_0008	8	5	threat	NN	*)	threat	-	3	Howard_Kurtz	-
+cnn_0008	8	6	that	WDT	(SBAR(WHNP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	8	7	was	VBD	(S(VP*	be	01	3	Howard_Kurtz	-
+cnn_0008	8	8	n't	RB	*))))	-	-	-	Howard_Kurtz	-
+cnn_0008	8	9	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+#end document

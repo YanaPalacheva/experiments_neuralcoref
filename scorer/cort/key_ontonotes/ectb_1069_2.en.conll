@@ -1,0 +1,352 @@
+#begin document (ectb_1069_2); part 000
+ectb_1069	2	0	2.	LS	(TOP(S(LST*)	-	-	-	-	-
+ectb_1069	2	1	Start	VB	(VP*	start	01	2	-	-
+ectb_1069	2	2	over	RP	(PRT*))))	-	-	-	-	-
+
+ectb_1069	2	0	In	IN	(TOP(S(PP*	-	-	-	-	-
+ectb_1069	2	1	China	NNP	(NP*))	-	-	-	-	-
+ectb_1069	2	2	it	PRP	(NP(NP*))	-	-	-	-	-
+ectb_1069	2	3	used	VBD	(VP*	use	03	4	-	-
+ectb_1069	2	4	to	TO	(S(VP*	-	-	-	-	-
+ectb_1069	2	5	be	VB	(VP*	be	03	-	-	-
+ectb_1069	2	6	said	VBN	(VP*	say	01	-	-	-
+ectb_1069	2	7	that	IN	(SBAR*	-	-	-	-	-
+ectb_1069	2	8	middle	JJ	(S(NP*	-	-	-	-	-
+ectb_1069	2	9	age	NN	*)	age	-	1	-	-
+ectb_1069	2	10	was	VBD	(VP*	be	01	2	-	-
+ectb_1069	2	11	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1069	2	12	period	NN	*)	-	-	-	-	-
+ectb_1069	2	13	when	WRB	(SBAR(WHADVP*)	-	-	-	-	-
+ectb_1069	2	14	one	PRP	(S(NP*)	-	-	-	-	-
+ectb_1069	2	15	was	VBD	(VP*	be	01	1	-	-
+ectb_1069	2	16	"	``	*	-	-	-	-	-
+ectb_1069	2	17	heir	NN	(NP(NP(NP*)	-	-	-	-	-
+ectb_1069	2	18	to	IN	(PP*	-	-	-	-	-
+ectb_1069	2	19	the	DT	(NP*	-	-	-	-	-
+ectb_1069	2	20	ancient	JJ	*	-	-	-	-	-
+ectb_1069	2	21	sages	NNS	*)))	-	-	-	-	-
+ectb_1069	2	22	and	CC	*	-	-	-	-	-
+ectb_1069	2	23	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1069	2	24	teacher	NN	*)	teacher	-	2	-	-
+ectb_1069	2	25	of	IN	(PP*	-	-	-	-	-
+ectb_1069	2	26	posterity	NN	(NP*))))))))))))))))	-	-	-	-	-
+ectb_1069	2	27	.	.	*	-	-	-	-	-
+ectb_1069	2	28	"	''	*))	-	-	-	-	-
+
+ectb_1069	2	0	But	CC	(TOP(S*	-	-	-	-	-
+ectb_1069	2	1	now	RB	(ADVP*)	-	-	-	-	-
+ectb_1069	2	2	times	NNS	(NP*)	time	-	12	-	-
+ectb_1069	2	3	are	VBP	(VP*	be	03	-	-	-
+ectb_1069	2	4	changing	VBG	(VP*	change	01	1	-	-
+ectb_1069	2	5	so	RB	(ADVP(ADVP*	-	-	-	-	-
+ectb_1069	2	6	fast	RB	*)	-	-	-	-	-
+ectb_1069	2	7	that	IN	(SBAR*	-	-	-	-	-
+ectb_1069	2	8	perhaps	RB	(S(ADVP*)	-	-	-	-	-
+ectb_1069	2	9	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1069	2	10	lessons	NNS	*)	lesson	-	4	-	-
+ectb_1069	2	11	of	IN	(PP*	-	-	-	-	-
+ectb_1069	2	12	past	JJ	(NP*	-	-	-	-	-
+ectb_1069	2	13	experience	NN	*)))	experience	-	1	-	-
+ectb_1069	2	14	are	VBP	(VP*	be	01	1	-	-
+ectb_1069	2	15	no	RB	(ADVP*	-	-	-	-	-
+ectb_1069	2	16	longer	RBR	*)	-	-	-	-	-
+ectb_1069	2	17	suitable	JJ	(ADJP*	-	-	-	-	-
+ectb_1069	2	18	for	IN	(PP*	-	-	-	-	-
+ectb_1069	2	19	solving	VBG	(S(VP*	solve	01	-	-	-
+ectb_1069	2	20	today	NN	(NP(NP*	today	-	1	-	-
+ectb_1069	2	21	's	POS	*)	-	-	-	-	-
+ectb_1069	2	22	problems	NNS	*)))))))))))	problem	-	2	-	-
+ectb_1069	2	23	.	.	*))	-	-	-	-	-
+
+ectb_1069	2	0	To	TO	(TOP(S(S(VP*	-	-	-	-	-
+ectb_1069	2	1	assume	VB	(VP*	assume	01	2	-	-
+ectb_1069	2	2	a	DT	(NP(NP(NP*	-	-	-	-	-
+ectb_1069	2	3	posture	NN	*)	-	-	-	-	-
+ectb_1069	2	4	of	IN	(PP*	-	-	-	-	-
+ectb_1069	2	5	superiority	NN	(NP*)))	-	-	-	-	-
+ectb_1069	2	6	based	VBN	(VP*	base	02	1	-	-
+ectb_1069	2	7	on	IN	(PP*	-	-	-	-	-
+ectb_1069	2	8	one	CD	(NP(NP*	-	-	-	-	-
+ectb_1069	2	9	's	POS	*)	-	-	-	-	-
+ectb_1069	2	10	seniority	NN	*)))))))	-	-	-	-	-
+ectb_1069	2	11	will	MD	(VP*	-	-	-	-	-
+ectb_1069	2	12	make	VB	(VP*	make	02	3	-	-
+ectb_1069	2	13	one	PRP	(S(NP*)	-	-	-	-	-
+ectb_1069	2	14	despised	JJ	(ADJP*))))	-	-	-	-	-
+ectb_1069	2	15	.	.	*))	-	-	-	-	-
+
+ectb_1069	2	0	Hence	RB	(TOP(S(ADVP*)	-	-	-	-	-
+ectb_1069	2	1	,	,	*	-	-	-	-	-
+ectb_1069	2	2	it	PRP	(NP(NP*))	-	-	-	-	-
+ectb_1069	2	3	is	VBZ	(VP*	be	01	1	-	-
+ectb_1069	2	4	necessary	JJ	(ADJP*)	-	-	-	-	-
+ectb_1069	2	5	to	TO	(S(VP*	-	-	-	-	-
+ectb_1069	2	6	cast	VB	(VP(VP*	cast	01	1	-	-
+ectb_1069	2	7	aside	RB	(ADVP*)	-	-	-	-	-
+ectb_1069	2	8	one	PRP	(NP(NP*	-	-	-	-	-
+ectb_1069	2	9	's	POS	*)	-	-	-	-	-
+ectb_1069	2	10	old	JJ	*	-	-	-	-	-
+ectb_1069	2	11	self	NN	*))	-	-	-	-	-
+ectb_1069	2	12	and	CC	*	-	-	-	-	-
+ectb_1069	2	13	start	VB	(VP*	start	01	2	-	-
+ectb_1069	2	14	over	RP	(PRT*))))))	-	-	-	-	-
+ectb_1069	2	15	.	.	*))	-	-	-	-	-
+
+ectb_1069	2	0	Chiu	NNP	(TOP(S(NP*)	-	-	-	-	*	*
+ectb_1069	2	1	notes	VBZ	(VP*	note	01	1	-	*	*
+ectb_1069	2	2	that	IN	(SBAR*	-	-	-	-	*	*
+ectb_1069	2	3	many	JJ	(S(S(NP(NP*	-	-	-	-	*	*
+ectb_1069	2	4	middle	NN	*	-	-	-	-	*	*
+ectb_1069	2	5	-	HYPH	*	-	-	-	-	*	*
+ectb_1069	2	6	aged	JJ	*)	-	-	-	-	*	*
+ectb_1069	2	7	who	WP	(SBAR(WHNP*)	-	-	-	-	*	*
+ectb_1069	2	8	have	VBP	(S(VP*	have	01	-	-	*	*
+ectb_1069	2	9	worked	VBN	(VP*	work	01	1	-	*	*
+ectb_1069	2	10	diligently	RB	(ADVP*)	-	-	-	-	*	*
+ectb_1069	2	11	for	IN	(PP*	-	-	-	-	*	*
+ectb_1069	2	12	years	NNS	(NP*))	-	-	-	-	*	*
+ectb_1069	2	13	to	TO	(S(VP*	-	-	-	-	*	*
+ectb_1069	2	14	attain	VB	(VP*	attain	01	1	-	*	*
+ectb_1069	2	15	management	NN	(NP*	management	-	1	-	*	*
+ectb_1069	2	16	positions	NNS	*)))))))))	position	-	5	-	*	*
+ectb_1069	2	17	look	VBP	(VP*	look	01	7	-	*	*
+ectb_1069	2	18	down	RB	(ADVP*)	-	-	-	-	*	*
+ectb_1069	2	19	on	IN	(PP*	-	-	-	-	*	*
+ectb_1069	2	20	the	DT	(NP*	-	-	-	-	*	*
+ectb_1069	2	21	younger	JJR	*	-	-	-	-	*	*
+ectb_1069	2	22	generation	NN	*))	generation	-	4	-	*	*
+ectb_1069	2	23	for	IN	(PP*	-	-	-	-	*	*
+ectb_1069	2	24	being	VBG	(S(VP*	be	01	-	-	*	*
+ectb_1069	2	25	reckless	JJ	(ADJP*	-	-	-	-	*	*
+ectb_1069	2	26	and	CC	*	-	-	-	-	*	*
+ectb_1069	2	27	disorganized	JJ	*))))))	-	-	-	-	*	*
+ectb_1069	2	28	,	,	*	-	-	-	-	*	*
+ectb_1069	2	29	but	CC	*	-	-	-	-	*	*
+ectb_1069	2	30	they	PRP	(S(NP*)	-	-	-	-	*	*
+ectb_1069	2	31	do	VBP	(VP*	do	01	-	-	*	*
+ectb_1069	2	32	n't	RB	*	-	-	-	-	*	*
+ectb_1069	2	33	realize	VB	(VP*	realize	01	1	-	*	*
+ectb_1069	2	34	that	IN	(SBAR*	-	-	-	-	*	*
+ectb_1069	2	35	creativity	NN	(S(NP*	-	-	-	-	(ARG2*	(ARG2*
+ectb_1069	2	36	and	CC	*	-	-	-	-	*	*
+ectb_1069	2	37	energy	NN	*)	energy	-	2	-	*)	*)
+ectb_1069	2	38	may	MD	(VP*	-	-	-	-	*	*
+ectb_1069	2	39	be	VB	(VP*	be	01	1	-	*	*
+ectb_1069	2	40	ready	JJ	(ADJP*	-	-	-	-	*	*
+ectb_1069	2	41	to	TO	(S(VP*	-	-	-	-	*	*
+ectb_1069	2	42	explode	VB	(VP*	explode	03	3	-	(V*)	(V*)
+ectb_1069	2	43	from	IN	(PP*	-	-	-	-	(ARG1*	(ARG1*
+ectb_1069	2	44	underneath	IN	(PP*	-	-	-	-	*	*
+ectb_1069	2	45	these	DT	(NP*	-	-	-	-	*	*
+ectb_1069	2	46	flaws	NNS	*)))))))))))))))))	flaw	-	2	-	*)	*)
+ectb_1069	2	47	.	.	*))	-	-	-	-	*	*
+
+ectb_1069	2	0	Stuck	VBN	(TOP(S(S(UCP(VP*	stick	01	1	-	-
+ectb_1069	2	1	in	IN	(PP*	-	-	-	-	-
+ectb_1069	2	2	the	DT	(NP*	-	-	-	-	-
+ectb_1069	2	3	past	NN	*)))	past	-	1	-	-
+ectb_1069	2	4	and	CC	*	-	-	-	-	-
+ectb_1069	2	5	full	JJ	(ADJP*	-	-	-	-	-
+ectb_1069	2	6	of	IN	(PP*	-	-	-	-	-
+ectb_1069	2	7	bitterness	NN	(NP*)))))	-	-	-	-	-
+ectb_1069	2	8	,	,	*	-	-	-	-	-
+ectb_1069	2	9	they	PRP	(NP*)	-	-	-	-	(46)
+ectb_1069	2	10	may	MD	(VP*	-	-	-	-	-
+ectb_1069	2	11	end	VB	(VP*	end	03	4	-	-
+ectb_1069	2	12	up	RP	(PRT*)	-	-	-	-	-
+ectb_1069	2	13	getting	VBG	(S(VP*	get	03	3	-	-
+ectb_1069	2	14	discarded	VBN	(VP*	discard	01	1	-	-
+ectb_1069	2	15	onto	IN	(PP*	-	-	-	-	-
+ectb_1069	2	16	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1069	2	17	scrap	NN	*	-	-	-	-	-
+ectb_1069	2	18	heap	NN	*)	-	-	-	-	-
+ectb_1069	2	19	of	IN	(PP*	-	-	-	-	-
+ectb_1069	2	20	history	NN	(NP*)))))))))	history	-	1	-	-
+ectb_1069	2	21	.	.	*))	-	-	-	-	-
+
+ectb_1069	2	0	With	IN	(TOP(S(PP*	-	-	-	-	-
+ectb_1069	2	1	each	DT	(NP*	-	-	-	-	-
+ectb_1069	2	2	new	JJ	*	-	-	-	-	-
+ectb_1069	2	3	era	NN	*))	-	-	-	-	-
+ectb_1069	2	4	,	,	*	-	-	-	-	-
+ectb_1069	2	5	role	NN	(NP*	role	-	1	-	-
+ectb_1069	2	6	models	NNS	*)	model	-	4	-	-
+ectb_1069	2	7	change	VBP	(VP*)	change	01	2	-	-
+ectb_1069	2	8	.	.	*))	-	-	-	-	-
+
+ectb_1069	2	0	Until	IN	(TOP(S(SBAR*	-	-	-	-	-
+ectb_1069	2	1	the	DT	(S(NP*	-	-	-	-	-
+ectb_1069	2	2	new	JJ	*	-	-	-	-	-
+ectb_1069	2	3	role	NN	*	role	-	1	-	-
+ectb_1069	2	4	models	NNS	*)	model	-	4	-	-
+ectb_1069	2	5	have	VBP	(VP*	have	01	-	-	-
+ectb_1069	2	6	been	VBN	(VP*	be	03	-	-	-
+ectb_1069	2	7	established	VBN	(VP*)))))	establish	01	-	-	-
+ectb_1069	2	8	,	,	*	-	-	-	-	-
+ectb_1069	2	9	it	PRP	(NP(NP*))	-	-	-	-	-
+ectb_1069	2	10	is	VBZ	(VP*	be	01	1	-	-
+ectb_1069	2	11	important	JJ	(ADJP*)	-	-	-	-	-
+ectb_1069	2	12	to	TO	(S(VP*	-	-	-	-	-
+ectb_1069	2	13	maintain	VB	(VP*	maintain	01	1	-	-
+ectb_1069	2	14	flexibility	NN	(NP*)))))	-	-	-	-	-
+ectb_1069	2	15	.	.	*))	-	-	-	-	-
+
+ectb_1069	2	0	For	IN	(TOP(S(PP*	-	-	-	-	-
+ectb_1069	2	1	instance	NN	(NP*))	-	-	-	-	-
+ectb_1069	2	2	,	,	*	-	-	-	-	-
+ectb_1069	2	3	today	NN	(NP(NP*	today	-	1	-	(6
+ectb_1069	2	4	's	POS	*)	-	-	-	-	-
+ectb_1069	2	5	middle	NN	(ADJP*	-	-	-	-	-
+ectb_1069	2	6	-	HYPH	*	-	-	-	-	-
+ectb_1069	2	7	aged	JJ	*)	-	-	-	-	-
+ectb_1069	2	8	Chinese	JJ	*	-	-	-	-	-
+ectb_1069	2	9	women	NNS	*)	woman	-	1	-	6)
+ectb_1069	2	10	are	VBP	(VP*	be	01	1	-	-
+ectb_1069	2	11	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1069	2	12	first	JJ	*)	-	-	-	-	-
+ectb_1069	2	13	to	TO	(SBAR(S(VP(VP*	-	-	-	-	-
+ectb_1069	2	14	have	VB	(VP*	have	01	-	-	-
+ectb_1069	2	15	obtained	VBN	(VP*	obtain	01	1	-	-
+ectb_1069	2	16	advanced	JJ	(NP*	-	-	-	-	-
+ectb_1069	2	17	degrees	NNS	*))))	degree	-	2	-	-
+ectb_1069	2	18	and	CC	*	-	-	-	-	-
+ectb_1069	2	19	to	TO	(VP*	-	-	-	-	-
+ectb_1069	2	20	have	VB	(VP*	have	01	-	-	-
+ectb_1069	2	21	come	VBN	(VP*	come	04	1	-	-
+ectb_1069	2	22	in	IN	(PP*	-	-	-	-	-
+ectb_1069	2	23	contact	NN	(NP(NP*)	contact	01	3	-	-
+ectb_1069	2	24	with	IN	(PP*	-	-	-	-	-
+ectb_1069	2	25	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1069	2	26	women	NNS	*	woman	-	1	-	-
+ectb_1069	2	27	's	POS	*)	-	-	-	-	-
+ectb_1069	2	28	liberation	NN	*	-	-	-	-	-
+ectb_1069	2	29	movement	NN	*))))))))))))	movement	02	3	-	-
+ectb_1069	2	30	.	.	*))	-	-	-	-	-
+
+ectb_1069	2	0	They	PRP	(TOP(S(S(NP*)	-	-	-	-	(6)
+ectb_1069	2	1	set	VBD	(VP*	set	02	3	-	-
+ectb_1069	2	2	high	JJ	(NP*	-	-	-	-	-
+ectb_1069	2	3	expectations	NNS	*)	expectation	-	1	-	-
+ectb_1069	2	4	for	IN	(PP*	-	-	-	-	-
+ectb_1069	2	5	themselves	PRP	(NP*))))	-	-	-	-	(6)
+ectb_1069	2	6	,	,	*	-	-	-	-	-
+ectb_1069	2	7	but	CC	*	-	-	-	-	-
+ectb_1069	2	8	their	PRP$	(S(NP*	-	-	-	-	(6)
+ectb_1069	2	9	disappointments	NNS	*)	-	-	-	-	-
+ectb_1069	2	10	are	VBP	(VP*	be	01	1	-	-
+ectb_1069	2	11	likewise	RB	(ADVP*)	-	-	-	-	-
+ectb_1069	2	12	large	JJ	(ADJP*)))	-	-	-	-	-
+ectb_1069	2	13	.	.	*))	-	-	-	-	-
+
+ectb_1069	2	0	Many	JJ	(TOP(S(S(NP*	-	-	-	-	(18
+ectb_1069	2	1	women	NNS	*)	woman	-	1	-	18)
+ectb_1069	2	2	are	VBP	(VP*	be	03	-	-	-
+ectb_1069	2	3	torn	VBN	(VP*	tear	01	-	-	-
+ectb_1069	2	4	between	IN	(PP*	-	-	-	-	-
+ectb_1069	2	5	conflicting	JJ	(NP*	-	-	-	-	-
+ectb_1069	2	6	desires	NNS	*)))))	desire	-	1	-	-
+ectb_1069	2	7	:	:	*	-	-	-	-	-
+ectb_1069	2	8	to	TO	(S(VP(VP*	-	-	-	-	-
+ectb_1069	2	9	be	VB	(VP*	be	01	1	-	-
+ectb_1069	2	10	good	JJ	(NP*	-	-	-	-	-
+ectb_1069	2	11	homemakers	NNS	*)	-	-	-	-	-
+ectb_1069	2	12	like	IN	(PP*	-	-	-	-	-
+ectb_1069	2	13	their	PRP$	(NP*	-	-	-	-	(18)
+ectb_1069	2	14	mothers	NNS	*))))	-	-	-	-	-
+ectb_1069	2	15	and	CC	*	-	-	-	-	-
+ectb_1069	2	16	to	TO	(VP*	-	-	-	-	-
+ectb_1069	2	17	have	VB	(VP*	have	03	3	-	-
+ectb_1069	2	18	successful	JJ	(NP*	-	-	-	-	-
+ectb_1069	2	19	careers	NNS	*)	-	-	-	-	-
+ectb_1069	2	20	like	IN	(PP*	-	-	-	-	-
+ectb_1069	2	21	their	PRP$	(NP*	-	-	-	-	(18)
+ectb_1069	2	22	fathers	NNS	*))))))	-	-	-	-	-
+ectb_1069	2	23	.	.	*))	-	-	-	-	-
+
+ectb_1069	2	0	Their	PRP$	(TOP(S(NP*	-	-	-	-	(18)
+ectb_1069	2	1	candles	NNS	*)	-	-	-	-	-
+ectb_1069	2	2	are	VBP	(VP*	be	03	-	-	-
+ectb_1069	2	3	burning	VBG	(VP*	burn	01	1	-	-
+ectb_1069	2	4	at	IN	(PP*	-	-	-	-	-
+ectb_1069	2	5	both	DT	(NP*	-	-	-	-	-
+ectb_1069	2	6	ends	NNS	*))	end	-	1	-	-
+ectb_1069	2	7	,	,	*	-	-	-	-	-
+ectb_1069	2	8	because	IN	(SBAR*	-	-	-	-	-
+ectb_1069	2	9	they	PRP	(S(NP*)	-	-	-	-	(18)
+ectb_1069	2	10	are	VBP	(VP*	be	03	-	-	-
+ectb_1069	2	11	trying	VBG	(VP*	try	01	1	-	-
+ectb_1069	2	12	to	TO	(S(VP*	-	-	-	-	-
+ectb_1069	2	13	live	VB	(VP*	live	04	-	-	-
+ectb_1069	2	14	up	RP	(PRT*)	-	-	-	-	-
+ectb_1069	2	15	to	IN	(PP*	-	-	-	-	-
+ectb_1069	2	16	two	CD	(NP*	-	-	-	-	-
+ectb_1069	2	17	old	JJ	*	-	-	-	-	-
+ectb_1069	2	18	role	NN	*	role	-	1	-	-
+ectb_1069	2	19	models	NNS	*))	model	-	4	-	-
+ectb_1069	2	20	rather	IN	(PP*	-	-	-	-	-
+ectb_1069	2	21	than	IN	*	-	-	-	-	-
+ectb_1069	2	22	establishing	VBG	(S(VP*	establish	01	1	-	-
+ectb_1069	2	23	a	DT	(NP*	-	-	-	-	-
+ectb_1069	2	24	new	JJ	*	-	-	-	-	-
+ectb_1069	2	25	one	NN	*)	one	-	2	-	-
+ectb_1069	2	26	for	IN	(PP*	-	-	-	-	-
+ectb_1069	2	27	themselves	PRP	(NP*))))))))))))))	-	-	-	-	(18)
+ectb_1069	2	28	.	.	*))	-	-	-	-	-
+
+ectb_1069	2	0	Then	RB	(TOP(S(ADVP*)	-	-	-	-	-
+ectb_1069	2	1	there	EX	(NP*)	-	-	-	-	-
+ectb_1069	2	2	are	VBP	(VP*	be	02	3	-	-
+ectb_1069	2	3	men	NNS	(NP(NP*)	man	-	2	-	(22
+ectb_1069	2	4	who	WP	(SBAR(WHNP*)	-	-	-	-	-
+ectb_1069	2	5	insist	VBP	(S(VP*	insist	01	1	-	-
+ectb_1069	2	6	upon	IN	(PP*	-	-	-	-	-
+ectb_1069	2	7	being	VBG	(S(VP(VP*	be	01	-	-	-
+ectb_1069	2	8	strict	JJ	(NP*	-	-	-	-	-
+ectb_1069	2	9	fathers	NNS	*	-	-	-	-	-
+ectb_1069	2	10	and	CC	*	-	-	-	-	-
+ectb_1069	2	11	disciplinarians	NNS	*))	-	-	-	-	-
+ectb_1069	2	12	or	CC	*	-	-	-	-	-
+ectb_1069	2	13	staying	VBG	(VP*	stay	01	1	-	-
+ectb_1069	2	14	at	IN	(PP*	-	-	-	-	-
+ectb_1069	2	15	the	DT	(NP*	-	-	-	-	-
+ectb_1069	2	16	same	JJ	*	-	-	-	-	-
+ectb_1069	2	17	company	NN	*))	company	-	1	-	-
+ectb_1069	2	18	until	IN	(SBAR*	-	-	-	-	-
+ectb_1069	2	19	they	PRP	(S(NP*)	-	-	-	-	(22)
+ectb_1069	2	20	retire	VBP	(VP*))))))))))))	retire	01	1	-	22)
+ectb_1069	2	21	.	.	*))	-	-	-	-	-
+
+ectb_1069	2	0	And	CC	(TOP(S*	-	-	-	-	-
+ectb_1069	2	1	there	EX	(NP*)	-	-	-	-	-
+ectb_1069	2	2	are	VBP	(VP*	be	02	3	-	-
+ectb_1069	2	3	women	NNS	(NP(NP*)	woman	-	1	-	-
+ectb_1069	2	4	who	WP	(SBAR(WHNP*)	-	-	-	-	-
+ectb_1069	2	5	are	VBP	(S(VP*	be	02	-	-	-
+ectb_1069	2	6	determined	VBN	(VP*	determine	01	-	-	-
+ectb_1069	2	7	to	TO	(S(VP*	-	-	-	-	-
+ectb_1069	2	8	play	VB	(VP*	play	02	3	-	-
+ectb_1069	2	9	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1069	2	10	role	NN	*)	role	-	2	-	-
+ectb_1069	2	11	of	IN	(PP*	-	-	-	-	-
+ectb_1069	2	12	the	DT	(NP*	-	-	-	-	-
+ectb_1069	2	13	traditional	JJ	*	-	-	-	-	-
+ectb_1069	2	14	Chinese	JJ	*	-	-	-	-	-
+ectb_1069	2	15	wife	NN	*	-	-	-	-	-
+ectb_1069	2	16	and	CC	*	-	-	-	-	-
+ectb_1069	2	17	mother	NN	*))))))))))))	-	-	-	-	-
+ectb_1069	2	18	.	.	*))	-	-	-	-	-
+
+ectb_1069	2	0	Ignoring	VBG	(TOP(S(S(VP*	ignore	01	1	-	-
+ectb_1069	2	1	the	DT	(NP*	-	-	-	-	-
+ectb_1069	2	2	changing	VBG	*	change	01	-	-	-
+ectb_1069	2	3	times	NNS	*)))	time	-	12	-	-
+ectb_1069	2	4	,	,	*	-	-	-	-	-
+ectb_1069	2	5	they	PRP	(NP*)	-	-	-	-	(29)
+ectb_1069	2	6	place	VBP	(VP*	place	01	1	-	-
+ectb_1069	2	7	tremendous	JJ	(NP*	-	-	-	-	-
+ectb_1069	2	8	pressure	NN	*)	pressure	-	2	-	-
+ectb_1069	2	9	on	IN	(PP*	-	-	-	-	-
+ectb_1069	2	10	themselves	PRP	(NP*)))	-	-	-	-	(29)
+ectb_1069	2	11	.	.	*))	-	-	-	-	-
+
+#end document

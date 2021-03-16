@@ -1,0 +1,471 @@
+#begin document (chtb_0229_0); part 000
+chtb_0229	0	0	Xinhua	NNP	(TOP(FRAG(NP*	-	-	-	-	-
+chtb_0229	0	1	News	NNP	*	-	-	-	-	-
+chtb_0229	0	2	Agency	NNP	*)	-	-	-	-	-
+chtb_0229	0	3	,	,	*	-	-	-	-	-
+chtb_0229	0	4	Guangzhou	NNP	(NP*)	-	-	-	-	-
+chtb_0229	0	5	,	,	*	-	-	-	-	-
+chtb_0229	0	6	September	NNP	(NP*	-	-	-	-	-
+chtb_0229	0	7	1	CD	*)	-	-	-	-	-
+chtb_0229	0	8	,	,	*	-	-	-	-	-
+chtb_0229	0	9	by	IN	(PP*	-	-	-	-	-
+chtb_0229	0	10	wire	NN	(NP*))	wire	-	2	-	-
+chtb_0229	0	11	-LRB-	-LRB-	*	-	-	-	-	-
+chtb_0229	0	12	reporter	NN	(NP*	-	-	-	-	(1
+chtb_0229	0	13	Xiaoguang	NNP	*	-	-	-	-	-
+chtb_0229	0	14	Han	NNP	*)	-	-	-	-	1)
+chtb_0229	0	15	-RRB-	-RRB-	*))	-	-	-	-	-
+
+chtb_0229	0	0	Guangdong	NNP	(TOP(S(NP(NP*	-	-	-	-	(0
+chtb_0229	0	1	Province	NNP	*)	-	-	-	-	0)
+chtb_0229	0	2	,	,	*	-	-	-	-	-
+chtb_0229	0	3	fully	RB	(VP(ADVP*)	-	-	-	-	-
+chtb_0229	0	4	utilizing	VBG	*	utilize	01	1	-	-
+chtb_0229	0	5	its	PRP$	(NP(NP*	-	-	-	-	(0)
+chtb_0229	0	6	geographical	JJ	*	-	-	-	-	-
+chtb_0229	0	7	advantage	NN	*)	advantage	-	1	-	-
+chtb_0229	0	8	of	IN	(PP*	-	-	-	-	-
+chtb_0229	0	9	being	VBG	(S(VP(VP*	-	-	-	-	-
+chtb_0229	0	10	in	IN	(PP*	-	-	-	-	-
+chtb_0229	0	11	close	JJ	(NP(NP*	-	-	-	-	-
+chtb_0229	0	12	proximity	NN	*)	-	-	-	-	-
+chtb_0229	0	13	to	IN	(PP*	-	-	-	-	-
+chtb_0229	0	14	Hong	NNP	(NP(NP*	-	-	-	-	-
+chtb_0229	0	15	Kong	NNP	*)	-	-	-	-	-
+chtb_0229	0	16	and	CC	*	-	-	-	-	-
+chtb_0229	0	17	Macao	NNP	(NP*))))))	-	-	-	-	-
+chtb_0229	0	18	and	CC	*	-	-	-	-	-
+chtb_0229	0	19	being	VBG	(VP*	-	-	-	-	-
+chtb_0229	0	20	located	VBN	(VP*	locate	01	2	-	-
+chtb_0229	0	21	in	IN	(PP*	-	-	-	-	-
+chtb_0229	0	22	the	DT	(NP*	-	-	-	-	-
+chtb_0229	0	23	Asian	JJ	*	-	-	-	-	-
+chtb_0229	0	24	tropics	NNS	*))))))))))	-	-	-	-	-
+chtb_0229	0	25	,	,	*	-	-	-	-	-
+chtb_0229	0	26	is	VBZ	(VP*	-	-	-	-	-
+chtb_0229	0	27	vigorously	RB	(ADVP*)	-	-	-	-	-
+chtb_0229	0	28	developing	VBG	(VP*	develop	02	2	-	-
+chtb_0229	0	29	extroverted	JJ	(NP*	-	-	-	-	-
+chtb_0229	0	30	agriculture	NN	*)))	agriculture	-	1	-	-
+chtb_0229	0	31	.	.	*))	-	-	-	-	-
+
+chtb_0229	0	0	According	VBG	(TOP(S(PP*	-	-	-	-	-
+chtb_0229	0	1	to	IN	(PP*	-	-	-	-	-
+chtb_0229	0	2	statistics	NNS	(NP*)))	-	-	-	-	-
+chtb_0229	0	3	,	,	*	-	-	-	-	-
+chtb_0229	0	4	in	IN	(PP*	-	-	-	-	-
+chtb_0229	0	5	recent	JJ	(NP*	-	-	-	-	-
+chtb_0229	0	6	years	NNS	*))	-	-	-	-	-
+chtb_0229	0	7	,	,	*	-	-	-	-	-
+chtb_0229	0	8	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0229	0	9	export	NN	*	-	-	-	-	-
+chtb_0229	0	10	volume	NN	*)	-	-	-	-	-
+chtb_0229	0	11	of	IN	(PP*	-	-	-	-	-
+chtb_0229	0	12	Guangdong	NNP	(NP(NP*	-	-	-	-	(0
+chtb_0229	0	13	Province	NNP	*	-	-	-	-	-
+chtb_0229	0	14	's	POS	*)	-	-	-	-	0)
+chtb_0229	0	15	agricultural	JJ	(NML(NML(ADJP*	-	-	-	-	-
+chtb_0229	0	16	and	CC	*	-	-	-	-	-
+chtb_0229	0	17	secondary	JJ	*)	-	-	-	-	-
+chtb_0229	0	18	products	NNS	*)	product	-	1	-	-
+chtb_0229	0	19	and	CC	*	-	-	-	-	-
+chtb_0229	0	20	processed	VBN	(NML*	process	01	-	-	-
+chtb_0229	0	21	products	NNS	*)))))	product	-	1	-	-
+chtb_0229	0	22	has	VBZ	(VP*	have	01	-	-	-
+chtb_0229	0	23	always	RB	(ADVP*)	-	-	-	-	-
+chtb_0229	0	24	been	VBN	(VP*	be	-	4	-	-
+chtb_0229	0	25	in	IN	(PP*	-	-	-	-	-
+chtb_0229	0	26	the	DT	(NP*	-	-	-	-	-
+chtb_0229	0	27	forefront	NN	*))	-	-	-	-	-
+chtb_0229	0	28	in	IN	(PP*	-	-	-	-	-
+chtb_0229	0	29	the	DT	(NP*	-	-	-	-	-
+chtb_0229	0	30	nation	NN	*))))	nation	-	1	-	-
+chtb_0229	0	31	.	.	*))	-	-	-	-	-
+
+chtb_0229	0	0	Last	JJ	(TOP(S(S(NP*	-	-	-	-	-
+chtb_0229	0	1	year	NN	*)	-	-	-	-	-
+chtb_0229	0	2	,	,	*	-	-	-	-	-
+chtb_0229	0	3	its	PRP$	(NP*	-	-	-	-	(0)
+chtb_0229	0	4	foreign	JJ	(NML*	-	-	-	-	-
+chtb_0229	0	5	exchange	NN	*)	exchange	01	5	-	-
+chtb_0229	0	6	income	NN	*)	-	-	-	-	-
+chtb_0229	0	7	was	VBD	(VP*	be	-	1	-	-
+chtb_0229	0	8	up	RB	(ADVP*)	-	-	-	-	-
+chtb_0229	0	9	to	IN	(PP*	-	-	-	-	-
+chtb_0229	0	10	more	JJR	(NP(QP*	-	-	-	-	-
+chtb_0229	0	11	than	IN	*	-	-	-	-	-
+chtb_0229	0	12	2.1	CD	*	-	-	-	-	-
+chtb_0229	0	13	billion	CD	*)	-	-	-	-	-
+chtb_0229	0	14	US	NNP	*	-	-	-	-	-
+chtb_0229	0	15	dollars	NNS	*))))	-	-	-	-	-
+chtb_0229	0	16	,	,	*	-	-	-	-	-
+chtb_0229	0	17	and	CC	*	-	-	-	-	-
+chtb_0229	0	18	in	IN	(S(PP*	-	-	-	-	-
+chtb_0229	0	19	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0229	0	20	first	JJ	*	-	-	-	-	-
+chtb_0229	0	21	half	NN	*)	half	-	1	-	-
+chtb_0229	0	22	of	IN	(PP*	-	-	-	-	-
+chtb_0229	0	23	this	DT	(NP*	-	-	-	-	-
+chtb_0229	0	24	year	NN	*))))	-	-	-	-	-
+chtb_0229	0	25	exports	NNS	(NP*)	export	-	1	-	-
+chtb_0229	0	26	again	RB	(ADVP*)	-	-	-	-	-
+chtb_0229	0	27	had	VBD	(VP*	have	03	4	-	-
+chtb_0229	0	28	new	JJ	(NP*	-	-	-	-	-
+chtb_0229	0	29	growth	NN	*)))	growth	-	1	-	-
+chtb_0229	0	30	.	.	*))	-	-	-	-	-
+
+chtb_0229	0	0	In	IN	(TOP(S(PP*	-	-	-	-	-
+chtb_0229	0	1	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0229	0	2	countryside	NN	*)	-	-	-	-	-
+chtb_0229	0	3	of	IN	(PP*	-	-	-	-	-
+chtb_0229	0	4	southern	JJ	(NP*	-	-	-	-	-
+chtb_0229	0	5	Guangdong	NNP	*))))	-	-	-	-	-
+chtb_0229	0	6	,	,	*	-	-	-	-	-
+chtb_0229	0	7	this	DT	(NP*	-	-	-	-	(1
+chtb_0229	0	8	reporter	NN	*)	-	-	-	-	1)
+chtb_0229	0	9	learned	VBD	(VP*	learn	01	2	-	-
+chtb_0229	0	10	that	IN	(SBAR*	-	-	-	-	-
+chtb_0229	0	11	vegetable	NN	(S(S(NP*	-	-	-	-	-
+chtb_0229	0	12	plots	NNS	*)	-	-	-	-	-
+chtb_0229	0	13	have	VBP	(VP*	have	03	1	-	-
+chtb_0229	0	14	an	DT	(NP(NP*	-	-	-	-	-
+chtb_0229	0	15	abundance	NN	*)	-	-	-	-	-
+chtb_0229	0	16	of	IN	(PP*	-	-	-	-	-
+chtb_0229	0	17	green	JJ	(NP(ADJP*	-	-	-	-	-
+chtb_0229	0	18	and	CC	*	-	-	-	-	-
+chtb_0229	0	19	lush	JJ	*)	-	-	-	-	-
+chtb_0229	0	20	western	JJ	(NML(NML*	-	-	-	-	-
+chtb_0229	0	21	lettuce	NN	*)	-	-	-	-	-
+chtb_0229	0	22	,	,	*	-	-	-	-	-
+chtb_0229	0	23	western	JJ	(NML*	-	-	-	-	-
+chtb_0229	0	24	celery	NN	*)	-	-	-	-	-
+chtb_0229	0	25	,	,	*	-	-	-	-	-
+chtb_0229	0	26	western	JJ	(NML*	-	-	-	-	-
+chtb_0229	0	27	cauliflower	NN	*)))))))	-	-	-	-	-
+chtb_0229	0	28	;	,	*	-	-	-	-	-
+chtb_0229	0	29	fish	NN	(S(NP*	-	-	-	-	-
+chtb_0229	0	30	ponds	NNS	*)	-	-	-	-	-
+chtb_0229	0	31	have	VBP	(VP*	have	03	1	-	-
+chtb_0229	0	32	an	DT	(NP(NP*	-	-	-	-	-
+chtb_0229	0	33	abundance	NN	*)	-	-	-	-	-
+chtb_0229	0	34	of	IN	(PP*	-	-	-	-	-
+chtb_0229	0	35	vigorous	JJ	(NP*	-	-	-	-	-
+chtb_0229	0	36	Californian	JJ	(NML(NML*	-	-	-	-	-
+chtb_0229	0	37	perch	NN	*)	-	-	-	-	-
+chtb_0229	0	38	,	,	*	-	-	-	-	-
+chtb_0229	0	39	whitish	JJ	(NML*	-	-	-	-	-
+chtb_0229	0	40	pomfret	NN	*)))))	-	-	-	-	-
+chtb_0229	0	41	;	,	*	-	-	-	-	-
+chtb_0229	0	42	while	IN	(SBAR*	-	-	-	-	-
+chtb_0229	0	43	flower	NN	(S(NP*	flower	-	1	-	-
+chtb_0229	0	44	farmers	NNS	*)	farmer	-	1	-	-
+chtb_0229	0	45	take	VBP	(VP*	take	01	14.1	-	-
+chtb_0229	0	46	care	NN	(NP*)	care	-	1	-	-
+chtb_0229	0	47	of	IN	(PP*	-	-	-	-	-
+chtb_0229	0	48	lovely	JJ	(NP(NP*	-	-	-	-	-
+chtb_0229	0	49	western	JJ	*	-	-	-	-	-
+chtb_0229	0	50	flowers	NNS	*)	flower	-	1	-	-
+chtb_0229	0	51	such	JJ	(PP*	-	-	-	-	-
+chtb_0229	0	52	as	IN	*	-	-	-	-	-
+chtb_0229	0	53	Dutch	JJ	(NP(NP*	-	-	-	-	-
+chtb_0229	0	54	tulips	NNS	*)	-	-	-	-	-
+chtb_0229	0	55	,	,	*	-	-	-	-	-
+chtb_0229	0	56	Belgium	NNP	(NP*	-	-	-	-	-
+chtb_0229	0	57	azalea	NN	*)	-	-	-	-	-
+chtb_0229	0	58	,	,	*	-	-	-	-	-
+chtb_0229	0	59	etc	FW	(ADVP*)))))))))))))	-	-	-	-	-
+chtb_0229	0	60	.	.	*))	-	-	-	-	-
+
+chtb_0229	0	0	Guangdong	NNP	(TOP(S(NP(NP*	-	-	-	-	(0)
+chtb_0229	0	1	farmers	NNS	*)	farmer	-	1	-	-
+chtb_0229	0	2	who	WP	(SBAR(WHNP*)	-	-	-	-	-
+chtb_0229	0	3	have	VBP	(S(VP*	have	01	-	-	-
+chtb_0229	0	4	tasted	VBN	(VP*	taste	01	3	-	-
+chtb_0229	0	5	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0229	0	6	sweetness	NN	*)	-	-	-	-	-
+chtb_0229	0	7	of	IN	(PP*	-	-	-	-	-
+chtb_0229	0	8	agriculture	NN	(NP(NP*)	agriculture	-	1	-	-
+chtb_0229	0	9	that	WDT	(SBAR(WHNP*)	-	-	-	-	-
+chtb_0229	0	10	earns	VBZ	(S(VP*	earn	01	2	-	-
+chtb_0229	0	11	foreign	JJ	(NP*	-	-	-	-	-
+chtb_0229	0	12	exchange	NN	*))))))))))))	exchange	01	5	-	-
+chtb_0229	0	13	are	VBP	(VP*	-	-	-	-	-
+chtb_0229	0	14	actively	RB	(VP(VP(ADVP*)	-	-	-	-	-
+chtb_0229	0	15	bringing	VBG	*	bring	01	1	-	-
+chtb_0229	0	16	in	RP	(PRT*))	-	-	-	-	-
+chtb_0229	0	17	and	CC	*	-	-	-	-	-
+chtb_0229	0	18	carefully	RB	(VP(ADVP*)	-	-	-	-	-
+chtb_0229	0	19	cultivating	VBG	*)	cultivate	01	4	-	-
+chtb_0229	0	20	excellent	JJ	(NP(ADJP*	-	-	-	-	-
+chtb_0229	0	21	,	,	*	-	-	-	-	-
+chtb_0229	0	22	rare	JJ	*	-	-	-	-	-
+chtb_0229	0	23	,	,	*	-	-	-	-	-
+chtb_0229	0	24	famous	JJ	*	-	-	-	-	-
+chtb_0229	0	25	and	CC	*	-	-	-	-	-
+chtb_0229	0	26	precious	JJ	*)	-	-	-	-	-
+chtb_0229	0	27	varieties	NNS	*)))	variety	-	1	-	-
+chtb_0229	0	28	.	.	*))	-	-	-	-	-
+
+chtb_0229	0	0	Various	JJ	(TOP(S(NP(NP*	-	-	-	-	-
+chtb_0229	0	1	improved	JJ	*	-	-	-	-	-
+chtb_0229	0	2	domestic	JJ	(ADJP*	-	-	-	-	-
+chtb_0229	0	3	and	CC	*	-	-	-	-	-
+chtb_0229	0	4	foreign	JJ	*)	-	-	-	-	-
+chtb_0229	0	5	varieties	NNS	*)	variety	-	3	-	-
+chtb_0229	0	6	of	IN	(PP*	-	-	-	-	-
+chtb_0229	0	7	flowers	NNS	(NP(NP*)	flower	-	1	-	-
+chtb_0229	0	8	,	,	*	-	-	-	-	-
+chtb_0229	0	9	fruits	NNS	(NP*)	-	-	-	-	-
+chtb_0229	0	10	,	,	*	-	-	-	-	-
+chtb_0229	0	11	trees	NNS	(NP*)	-	-	-	-	-
+chtb_0229	0	12	,	,	*	-	-	-	-	-
+chtb_0229	0	13	grasses	NNS	(NP*)	-	-	-	-	-
+chtb_0229	0	14	,	,	*	-	-	-	-	-
+chtb_0229	0	15	vegetables	NNS	(NP*)	-	-	-	-	-
+chtb_0229	0	16	,	,	*	-	-	-	-	-
+chtb_0229	0	17	fish	NN	(NP*)	-	-	-	-	-
+chtb_0229	0	18	,	,	*	-	-	-	-	-
+chtb_0229	0	19	poultry	NN	(NP*)	-	-	-	-	-
+chtb_0229	0	20	,	,	*	-	-	-	-	-
+chtb_0229	0	21	animals	NNS	(NP*)	-	-	-	-	-
+chtb_0229	0	22	,	,	*	-	-	-	-	-
+chtb_0229	0	23	etc.	FW	(ADVP*))))	-	-	-	-	-
+chtb_0229	0	24	are	VBP	(VP*	-	-	-	-	-
+chtb_0229	0	25	successively	RB	(ADVP*)	-	-	-	-	-
+chtb_0229	0	26	settling	VBG	(VP*	settle	04	4	-	-
+chtb_0229	0	27	down	RP	(PRT*)	-	-	-	-	-
+chtb_0229	0	28	in	IN	(PP*	-	-	-	-	-
+chtb_0229	0	29	Lingnan	NNP	(NP*))))	-	-	-	-	-
+chtb_0229	0	30	.	.	*))	-	-	-	-	-
+
+chtb_0229	0	0	According	VBG	(TOP(S(PP*	-	-	-	-	-
+chtb_0229	0	1	to	IN	(PP*	-	-	-	-	-
+chtb_0229	0	2	Guangdong	NNP	(NP(NP*	-	-	-	-	(0
+chtb_0229	0	3	's	POS	*)	-	-	-	-	0)
+chtb_0229	0	4	Department	NNP	(NML(NML*)	-	-	-	-	-
+chtb_0229	0	5	of	IN	(PP*	-	-	-	-	-
+chtb_0229	0	6	Agriculture	NNP	(NP*)))	-	-	-	-	-
+chtb_0229	0	7	statistics	NNS	*)))	-	-	-	-	-
+chtb_0229	0	8	,	,	*	-	-	-	-	-
+chtb_0229	0	9	since	IN	(PP*	-	-	-	-	-
+chtb_0229	0	10	the	DT	(NP*	-	-	-	-	-
+chtb_0229	0	11	mid-80s	NNS	*))	-	-	-	-	-
+chtb_0229	0	12	,	,	*	-	-	-	-	-
+chtb_0229	0	13	Guangdong	NNP	(NP*)	-	-	-	-	(0)
+chtb_0229	0	14	has	VBZ	(VP*	have	01	-	-	-
+chtb_0229	0	15	attracted	VBN	(VP*	attract	01	1	-	-
+chtb_0229	0	16	more	JJR	(NP(NP(NP(QP*	-	-	-	-	-
+chtb_0229	0	17	than	IN	*	-	-	-	-	-
+chtb_0229	0	18	1100	CD	*)	-	-	-	-	-
+chtb_0229	0	19	improved	JJ	*	-	-	-	-	-
+chtb_0229	0	20	species	NNS	*)	-	-	-	-	-
+chtb_0229	0	21	of	IN	(PP*	-	-	-	-	-
+chtb_0229	0	22	foreign	JJ	(NP*	-	-	-	-	-
+chtb_0229	0	23	animals	NNS	*	-	-	-	-	-
+chtb_0229	0	24	and	CC	*	-	-	-	-	-
+chtb_0229	0	25	plants	NNS	*)))	plant	-	2	-	-
+chtb_0229	0	26	,	,	*	-	-	-	-	-
+chtb_0229	0	27	among	IN	(SBAR(WHPP*	-	-	-	-	-
+chtb_0229	0	28	which	WDT	(WHNP*))	-	-	-	-	-
+chtb_0229	0	29	more	JJR	(S(NP(NP(QP*	-	-	-	-	-
+chtb_0229	0	30	than	IN	*	-	-	-	-	-
+chtb_0229	0	31	300	CD	*)))	-	-	-	-	-
+chtb_0229	0	32	have	VBP	(VP*	have	01	-	-	-
+chtb_0229	0	33	been	VBN	(VP*	-	-	-	-	-
+chtb_0229	0	34	marketed	VBN	(VP*	market	01	1	-	-
+chtb_0229	0	35	to	IN	(PP*	-	-	-	-	-
+chtb_0229	0	36	farmers	NNS	(NP*))))))))))	farmer	-	1	-	-
+chtb_0229	0	37	.	.	*))	-	-	-	-	-
+
+chtb_0229	0	0	Various	JJ	(TOP(S(NP*	-	-	-	-	-
+chtb_0229	0	1	regions	NNS	*)	region	-	3	-	-
+chtb_0229	0	2	have	VBP	(VP*	have	01	-	-	-
+chtb_0229	0	3	introduced	VBN	(VP*	introduce	02	2	-	-
+chtb_0229	0	4	more	JJR	(NP(NP(NP(QP*	-	-	-	-	-
+chtb_0229	0	5	than	IN	*	-	-	-	-	-
+chtb_0229	0	6	30,000	CD	*)	-	-	-	-	-
+chtb_0229	0	7	sets	NNS	*)	set	-	1	-	-
+chtb_0229	0	8	of	IN	(PP*	-	-	-	-	-
+chtb_0229	0	9	advanced	JJ	(NP*	-	-	-	-	-
+chtb_0229	0	10	processing	NN	(NML(NML*	-	-	-	-	-
+chtb_0229	0	11	equipment	NN	*)	-	-	-	-	-
+chtb_0229	0	12	and	CC	*	-	-	-	-	-
+chtb_0229	0	13	technologies	NNS	(NML*)))))	technology	-	1	-	-
+chtb_0229	0	14	,	,	*	-	-	-	-	-
+chtb_0229	0	15	and	CC	*	-	-	-	-	-
+chtb_0229	0	16	expanded	VBN	(NP*	expand	01	1	-	-
+chtb_0229	0	17	agricultural	JJ	(NML*	-	-	-	-	-
+chtb_0229	0	18	product	NN	*)	-	-	-	-	-
+chtb_0229	0	19	processing	NN	*	-	-	-	-	-
+chtb_0229	0	20	capacity	NN	*))))	-	-	-	-	-
+chtb_0229	0	21	.	.	*))	-	-	-	-	-
+
+chtb_0229	0	0	Improvement	NN	(TOP(S(S(NP(NP*)	improvement	01	1	-	-
+chtb_0229	0	1	of	IN	(PP*	-	-	-	-	-
+chtb_0229	0	2	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0229	0	3	structure	NN	*)	structure	-	2	-	-
+chtb_0229	0	4	of	IN	(PP*	-	-	-	-	-
+chtb_0229	0	5	the	DT	(NP*	-	-	-	-	-
+chtb_0229	0	6	varieties	NNS	*)))))	variety	-	1	-	-
+chtb_0229	0	7	strengthens	VBZ	(VP*	strengthen	01	1	-	-
+chtb_0229	0	8	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0229	0	9	competitiveness	NN	*)	-	-	-	-	-
+chtb_0229	0	10	of	IN	(PP*	-	-	-	-	-
+chtb_0229	0	11	Guangdong	NNP	(NP(NP*	-	-	-	-	(0
+chtb_0229	0	12	's	POS	*)	-	-	-	-	0)
+chtb_0229	0	13	agricultural	JJ	*	-	-	-	-	-
+chtb_0229	0	14	products	NNS	*))	product	-	1	-	-
+chtb_0229	0	15	in	IN	(PP*	-	-	-	-	-
+chtb_0229	0	16	the	DT	(NP*	-	-	-	-	-
+chtb_0229	0	17	international	JJ	*	-	-	-	-	-
+chtb_0229	0	18	market	NN	*)))))	market	-	1	-	-
+chtb_0229	0	19	,	,	*	-	-	-	-	-
+chtb_0229	0	20	and	CC	*	-	-	-	-	-
+chtb_0229	0	21	economic	JJ	(S(NP*	-	-	-	-	-
+chtb_0229	0	22	benefits	NNS	*)	benefit	-	1	-	-
+chtb_0229	0	23	have	VBP	(VP*	have	01	-	-	-
+chtb_0229	0	24	also	RB	(ADVP*)	-	-	-	-	-
+chtb_0229	0	25	tremendously	RB	(ADVP*)	-	-	-	-	-
+chtb_0229	0	26	increased	VBN	(VP*)))	increase	01	1	-	-
+chtb_0229	0	27	.	.	*))	-	-	-	-	-
+
+chtb_0229	0	0	In	IN	(TOP(S(PP*	-	-	-	-	-
+chtb_0229	0	1	order	NN	(NP*	order	-	10	-	-
+chtb_0229	0	2	to	TO	(S(VP*	-	-	-	-	-
+chtb_0229	0	3	satisfy	VB	(VP*	satisfy	01	1	-	-
+chtb_0229	0	4	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0229	0	5	requirements	NNS	*)	requirement	-	2	-	-
+chtb_0229	0	6	of	IN	(PP*	-	-	-	-	-
+chtb_0229	0	7	the	DT	(NP*	-	-	-	-	-
+chtb_0229	0	8	continuously	RB	(ADJP*	-	-	-	-	-
+chtb_0229	0	9	expanding	VBG	*)	expand	01	-	-	-
+chtb_0229	0	10	overseas	JJ	*	-	-	-	-	-
+chtb_0229	0	11	markets	NNS	*))))))))	market	-	1	-	-
+chtb_0229	0	12	,	,	*	-	-	-	-	-
+chtb_0229	0	13	various	JJ	(NP(NP*	-	-	-	-	-
+chtb_0229	0	14	areas	NNS	*)	area	-	1	-	-
+chtb_0229	0	15	of	IN	(PP*	-	-	-	-	-
+chtb_0229	0	16	Guangdong	NNP	(NP*)))	-	-	-	-	(0)
+chtb_0229	0	17	have	VBP	(VP(VP*	have	01	-	-	-
+chtb_0229	0	18	adjusted	VBN	(VP(VP*	adjust	01	2	-	-
+chtb_0229	0	19	to	IN	(PP*	-	-	-	-	-
+chtb_0229	0	20	local	JJ	(NP*	-	-	-	-	-
+chtb_0229	0	21	conditions	NNS	*)))	condition	-	1	-	-
+chtb_0229	0	22	and	CC	*	-	-	-	-	-
+chtb_0229	0	23	selected	VBN	(VP*	select	01	1	-	-
+chtb_0229	0	24	famous	JJ	(NP(ADJP*	-	-	-	-	-
+chtb_0229	0	25	,	,	*	-	-	-	-	-
+chtb_0229	0	26	special	JJ	*	-	-	-	-	-
+chtb_0229	0	27	and	CC	*	-	-	-	-	-
+chtb_0229	0	28	improved	JJ	*)	-	-	-	-	-
+chtb_0229	0	29	varieties	NNS	*))))	variety	-	3	-	-
+chtb_0229	0	30	,	,	*	-	-	-	-	-
+chtb_0229	0	31	and	CC	*	-	-	-	-	-
+chtb_0229	0	32	have	VBP	(VP*	have	01	-	-	-
+chtb_0229	0	33	built	VBN	(VP*	build	05	3	-	-
+chtb_0229	0	34	up	RP	(PRT*)	-	-	-	-	-
+chtb_0229	0	35	more	JJR	(NP(QP*	-	-	-	-	-
+chtb_0229	0	36	than	IN	*	-	-	-	-	-
+chtb_0229	0	37	2,000	CD	*)	-	-	-	-	-
+chtb_0229	0	38	agricultural	JJ	(NML*	-	-	-	-	-
+chtb_0229	0	39	export	NN	*	export	-	1	-	-
+chtb_0229	0	40	merchandise	NN	*)	-	-	-	-	-
+chtb_0229	0	41	production	NN	(NML*	production	-	7	-	-
+chtb_0229	0	42	and	CC	*	-	-	-	-	-
+chtb_0229	0	43	processing	NN	*)	-	-	-	-	-
+chtb_0229	0	44	bases	NNS	*))))	basis	-	5	-	-
+chtb_0229	0	45	.	.	*))	-	-	-	-	-
+
+chtb_0229	0	0	In	IN	(TOP(S(PP*	-	-	-	-	-
+chtb_0229	0	1	order	NN	(NP*	order	-	10	-	-
+chtb_0229	0	2	to	TO	(S(VP*	-	-	-	-	-
+chtb_0229	0	3	make	VB	(VP*	make	16	16	-	-
+chtb_0229	0	4	up	RP	(PRT*)	-	-	-	-	-
+chtb_0229	0	5	for	IN	(PP*	-	-	-	-	-
+chtb_0229	0	6	deficiencies	NNS	(NP(NP*)	-	-	-	-	-
+chtb_0229	0	7	in	IN	(PP*	-	-	-	-	-
+chtb_0229	0	8	investment	NN	(NP*	investment	-	3	-	-
+chtb_0229	0	9	funds	NNS	*)))))))))	fund	-	2	-	-
+chtb_0229	0	10	,	,	*	-	-	-	-	-
+chtb_0229	0	11	Guangdong	NNP	(NP*	-	-	-	-	(0
+chtb_0229	0	12	Province	NNP	*)	-	-	-	-	0)
+chtb_0229	0	13	has	VBZ	(VP*	have	01	-	-	-
+chtb_0229	0	14	tried	VBN	(VP*	try	01	2	-	-
+chtb_0229	0	15	every	DT	(NP*	-	-	-	-	-
+chtb_0229	0	16	possible	JJ	*	-	-	-	-	-
+chtb_0229	0	17	means	NN	*	-	-	-	-	-
+chtb_0229	0	18	to	TO	(S(VP*	-	-	-	-	-
+chtb_0229	0	19	attract	VB	(VP*	attract	01	1	-	-
+chtb_0229	0	20	foreign	JJ	(NP*	-	-	-	-	-
+chtb_0229	0	21	capital	NN	*)))))))	capital	-	1	-	-
+chtb_0229	0	22	.	.	*))	-	-	-	-	-
+
+chtb_0229	0	0	The	DT	(TOP(S(S(NP*	-	-	-	-	*	*
+chtb_0229	0	1	entire	JJ	*	-	-	-	-	*	*
+chtb_0229	0	2	province	NN	*)	province	-	1	-	*	*
+chtb_0229	0	3	has	VBZ	(VP(VP*	have	04	12	-	*	*
+chtb_0229	0	4	actually	RB	(NP(NP(ADJP*	-	-	-	-	*	*
+chtb_0229	0	5	utilized	VBN	*)	utilize	01	1	-	*	*
+chtb_0229	0	6	foreign	JJ	*	-	-	-	-	*	*
+chtb_0229	0	7	funds	NNS	*)	fund	-	1	-	*	*
+chtb_0229	0	8	of	IN	(PP*	-	-	-	-	*	*
+chtb_0229	0	9	nearly	RB	(NP(QP*	-	-	-	-	*	*
+chtb_0229	0	10	1	CD	*	-	-	-	-	*	*
+chtb_0229	0	11	billion	CD	*)	-	-	-	-	*	*
+chtb_0229	0	12	US	NNP	*	-	-	-	-	*	*
+chtb_0229	0	13	dollars	NNS	*))))	-	-	-	-	*	*
+chtb_0229	0	14	,	,	*	-	-	-	-	*	*
+chtb_0229	0	15	and	CC	*	-	-	-	-	*	*
+chtb_0229	0	16	has	VBZ	(VP*	have	01	-	-	*	*
+chtb_0229	0	17	established	VBN	(VP*	establish	01	1	-	*	*
+chtb_0229	0	18	a	DT	(NP(NP*	-	-	-	-	*	*
+chtb_0229	0	19	large	JJ	*	-	-	-	-	*	*
+chtb_0229	0	20	number	NN	*)	number	-	1	-	*	*
+chtb_0229	0	21	of	IN	(PP*	-	-	-	-	*	*
+chtb_0229	0	22	extroverted	JJ	(NP(NP*	-	-	-	-	*	*
+chtb_0229	0	23	agricultural	JJ	*	-	-	-	-	*	*
+chtb_0229	0	24	"	``	(NML*	-	-	-	-	*	*
+chtb_0229	0	25	three	CD	*	-	-	-	-	*	*
+chtb_0229	0	26	capital	NN	*	capital	-	1	-	*	*
+chtb_0229	0	27	"	''	*)	-	-	-	-	*	*
+chtb_0229	0	28	enterprises	NNS	*)	-	-	-	-	*	*
+chtb_0229	0	29	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	*
+chtb_0229	0	30	combine	VBP	(S(VP(VP*	combine	01	1	-	*	*
+chtb_0229	0	31	agriculture	NN	(NP*	agriculture	-	1	-	*	*
+chtb_0229	0	32	,	,	*	-	-	-	-	*	*
+chtb_0229	0	33	industry	NN	*	industry	-	1	-	*	*
+chtb_0229	0	34	,	,	*	-	-	-	-	*	*
+chtb_0229	0	35	trade	NN	*	trade	01	1	-	*	*
+chtb_0229	0	36	and	CC	*	-	-	-	-	*	*
+chtb_0229	0	37	technology	NN	*))	technology	-	1	-	*	*
+chtb_0229	0	38	and	CC	*	-	-	-	-	*	*
+chtb_0229	0	39	integrate	VBP	(VP*	integrate	01	1	-	*	*
+chtb_0229	0	40	manufacturing	NN	(NP*	manufacture	-	1	-	*	*
+chtb_0229	0	41	,	,	*	-	-	-	-	*	*
+chtb_0229	0	42	supply	NN	*	supply	01	2	-	*	*
+chtb_0229	0	43	and	CC	*	-	-	-	-	*	*
+chtb_0229	0	44	marketing	NN	*))))))))))))	marketing	01	1	-	*	*
+chtb_0229	0	45	,	,	*	-	-	-	-	*	*
+chtb_0229	0	46	and	CC	*	-	-	-	-	*	*
+chtb_0229	0	47	through	IN	(S(PP*	-	-	-	-	*	*
+chtb_0229	0	48	foreign	JJ	(NP(NML*	-	-	-	-	*	*
+chtb_0229	0	49	merchants	NNS	*)	-	-	-	-	*	*
+chtb_0229	0	50	sales	NN	*	sale	-	1	-	*	*
+chtb_0229	0	51	channels	NNS	*))	channel	-	1	-	*	*
+chtb_0229	0	52	,	,	*	-	-	-	-	*	*
+chtb_0229	0	53	it	PRP	(NP*)	-	-	-	-	*	*
+chtb_0229	0	54	has	VBZ	(VP*	have	01	-	-	(V*)	(V*)
+chtb_0229	0	55	also	RB	(ADVP*)	-	-	-	-	*	*
+chtb_0229	0	56	expanded	VBN	(VP*	expand	01	1	-	*	*
+chtb_0229	0	57	its	PRP$	(NP(NP*	-	-	-	-	*	*
+chtb_0229	0	58	export	NN	*)	export	-	2	-	*	*
+chtb_0229	0	59	of	IN	(PP*	-	-	-	-	*	*
+chtb_0229	0	60	agricultural	JJ	(NP*	-	-	-	-	*	*
+chtb_0229	0	61	products	NNS	*))))))	product	-	1	-	*	*
+chtb_0229	0	62	.	.	*))	-	-	-	-	*	*
+
+chtb_0229	0	0	-LRB-	-LRB-	(TOP(NP*	-	-	-	-	-
+chtb_0229	0	1	End	NN	*	end	-	4	-	-
+chtb_0229	0	2	-RRB-	-RRB-	*))	-	-	-	-	-
+
+#end document

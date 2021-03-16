@@ -1,0 +1,308 @@
+# newdoc id = 3b1a1e65-c12a-4b2f-a433-90988ad9bf55
+# newpar id = 3b1a1e65-c12a-4b2f-a433-90988ad9bf55-p1
+# par_text = В Нью-Джерси скончалась самка двугорбого верблюда, которая в течение нескольких лет предсказывала результаты спортивных состязаний, сообщает Associated Press.
+# sent_id = 3b1a1e65-c12a-4b2f-a433-90988ad9bf55-p1-s1
+# text = В Нью-Джерси скончалась самка двугорбого верблюда, которая в течение нескольких лет предсказывала результаты спортивных состязаний, сообщает Associated Press.
+1	В	_	_	_	_	_	_	_	Shift=0
+2	Нью-Джерси	_	_	_	_	_	_	_	Shift=2
+3	скончалась	_	_	_	_	_	_	_	Shift=13
+4	самка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3518|RuCor_group_id=475324|RuCor_link_id=0|Shift=24
+5	двугорбого	_	_	_	_	_	_	_	RuCor_chain_id=3518|RuCor_group_id=475324|Shift=30
+6	верблюда	_	_	_	_	_	_	_	RuCor_chain_id=3518|RuCor_group_id=475324|Shift=41|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=49
+8	которая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=3518|RuCor_group_id=475325|RuCor_link_id=475324|Shift=51
+9	в	_	_	_	_	_	_	_	Shift=59
+10	течение	_	_	_	_	_	_	_	Shift=61
+11	нескольких	_	_	_	_	_	_	_	Shift=69
+12	лет	_	_	_	_	_	_	_	Shift=80
+13	предсказывала	_	_	_	_	_	_	_	Shift=84
+14	результаты	_	_	_	_	_	_	_	Shift=98
+15	спортивных	_	_	_	_	_	_	_	Shift=109
+16	состязаний	_	_	_	_	_	_	_	Shift=120|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=130
+18	сообщает	_	_	_	_	_	_	_	Shift=132
+19	Associated	_	_	_	_	_	_	_	Shift=141
+20	Press	_	_	_	_	_	_	_	Shift=152|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=157
+
+# newpar id = 3b1a1e65-c12a-4b2f-a433-90988ad9bf55-p2
+# par_text = 26-летнее животное было решено усыпить в связи с ухудшившимся состоянием его здоровья: верблюдиха страдала от артрита. Как рассказали в зоопарке в Лайси-Тауншипе, в последнее время болезнь самки по кличке Принцессы настолько обострилась, что она не могла стоять на ногах.
+# sent_id = 3b1a1e65-c12a-4b2f-a433-90988ad9bf55-p2-s1
+# text = 26-летнее животное было решено усыпить в связи с ухудшившимся состоянием его здоровья: верблюдиха страдала от артрита.
+1	26-летнее	_	_	_	_	_	_	_	Shift=159
+2	животное	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3518|RuCor_group_id=475326|RuCor_link_id=475324|Shift=169
+3	было	_	_	_	_	_	_	_	Shift=178
+4	решено	_	_	_	_	_	_	_	Shift=183
+5	усыпить	_	_	_	_	_	_	_	Shift=190
+6	в	_	_	_	_	_	_	_	Shift=198
+7	связи	_	_	_	_	_	_	_	Shift=200
+8	с	_	_	_	_	_	_	_	Shift=206
+9	ухудшившимся	_	_	_	_	_	_	_	Shift=208
+10	состоянием	_	_	_	_	_	_	_	Shift=221
+11	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3518|RuCor_group_id=475327|RuCor_link_id=475326|Shift=232
+12	здоровья	_	_	_	_	_	_	_	Shift=236|SpaceAfter=No
+13	:	_	_	_	_	_	_	_	Shift=244
+14	верблюдиха	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3518|RuCor_group_id=475328|RuCor_link_id=475324|Shift=246
+15	страдала	_	_	_	_	_	_	_	Shift=257
+16	от	_	_	_	_	_	_	_	Shift=266
+17	артрита	_	_	_	_	_	_	_	Shift=269|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=276
+
+# sent_id = 3b1a1e65-c12a-4b2f-a433-90988ad9bf55-p2-s2
+# text = Как рассказали в зоопарке в Лайси-Тауншипе, в последнее время болезнь самки по кличке Принцессы настолько обострилась, что она не могла стоять на ногах.
+1	Как	_	_	_	_	_	_	_	Shift=278
+2	рассказали	_	_	_	_	_	_	_	Shift=282
+3	в	_	_	_	_	_	_	_	Shift=293
+4	зоопарке	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3519|RuCor_group_id=475329|RuCor_link_id=0|Shift=295
+5	в	_	_	_	_	_	_	_	RuCor_chain_id=3519|RuCor_group_id=475329|Shift=304
+6	Лайси-Тауншипе	_	_	_	_	_	_	_	Shift=306|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=320
+8	в	_	_	_	_	_	_	_	Shift=322
+9	последнее	_	_	_	_	_	_	_	Shift=324
+10	время	_	_	_	_	_	_	_	Shift=334
+11	болезнь	_	_	_	_	_	_	_	Shift=340
+12	самки	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3518|RuCor_group_id=475330|RuCor_link_id=475328|Shift=348
+13	по	_	_	_	_	_	_	_	Shift=354
+14	кличке	_	_	_	_	_	_	_	Shift=357
+15	Принцессы	_	_	_	_	_	_	_	Shift=364
+16	настолько	_	_	_	_	_	_	_	Shift=374
+17	обострилась	_	_	_	_	_	_	_	Shift=384|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=395
+19	что	_	_	_	_	_	_	_	Shift=397
+20	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3518|RuCor_group_id=475331|RuCor_link_id=475330|Shift=401
+21	не	_	_	_	_	_	_	_	Shift=405
+22	могла	_	_	_	_	_	_	_	Shift=408
+23	стоять	_	_	_	_	_	_	_	Shift=414
+24	на	_	_	_	_	_	_	_	Shift=421
+25	ногах	_	_	_	_	_	_	_	Shift=424|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=429
+
+# newpar id = 3b1a1e65-c12a-4b2f-a433-90988ad9bf55-p3
+# par_text = Принцесса жила в зоопарке в течение десяти лет. Она прославилась, верно угадывая победителей в тех или иных спортивных состязаниях. Предсказания делались следующим образом: смотритель верблюдихи приносил ей печенины из муки грубого помола с названиями команд-соперниц, нанесенными на них. Животному предлагалось выбрать одно из них: «команда», которую Принцесса съедала, объявлялась потенциальным победителем.
+# sent_id = 3b1a1e65-c12a-4b2f-a433-90988ad9bf55-p3-s1
+# text = Принцесса жила в зоопарке в течение десяти лет.
+1	Принцесса	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3518|RuCor_group_id=475332|RuCor_link_id=475331|Shift=431
+2	жила	_	_	_	_	_	_	_	Shift=441
+3	в	_	_	_	_	_	_	_	Shift=446
+4	зоопарке	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3519|RuCor_group_id=475333|RuCor_link_id=475329|Shift=448
+5	в	_	_	_	_	_	_	_	Shift=457
+6	течение	_	_	_	_	_	_	_	Shift=459
+7	десяти	_	_	_	_	_	_	_	Shift=467
+8	лет	_	_	_	_	_	_	_	Shift=474|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=477
+
+# sent_id = 3b1a1e65-c12a-4b2f-a433-90988ad9bf55-p3-s2
+# text = Она прославилась, верно угадывая победителей в тех или иных спортивных состязаниях.
+1	Она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3518|RuCor_group_id=475334|RuCor_link_id=475332|Shift=479
+2	прославилась	_	_	_	_	_	_	_	Shift=483|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=495
+4	верно	_	_	_	_	_	_	_	Shift=497
+5	угадывая	_	_	_	_	_	_	_	Shift=503
+6	победителей	_	_	_	_	_	_	_	Shift=512
+7	в	_	_	_	_	_	_	_	Shift=524
+8	тех	_	_	_	_	_	_	_	Shift=526
+9	или	_	_	_	_	_	_	_	Shift=530
+10	иных	_	_	_	_	_	_	_	Shift=534
+11	спортивных	_	_	_	_	_	_	_	Shift=539
+12	состязаниях	_	_	_	_	_	_	_	Shift=550|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=561
+
+# sent_id = 3b1a1e65-c12a-4b2f-a433-90988ad9bf55-p3-s3
+# text = Предсказания делались следующим образом: смотритель верблюдихи приносил ей печенины из муки грубого помола с названиями команд - соперниц, нанесенными на них.
+1	Предсказания	_	_	_	_	_	_	_	Shift=563
+2	делались	_	_	_	_	_	_	_	Shift=576
+3	следующим	_	_	_	_	_	_	_	Shift=585
+4	образом	_	_	_	_	_	_	_	Shift=595|SpaceAfter=No
+5	:	_	_	_	_	_	_	_	Shift=602
+6	смотритель	_	_	_	_	_	_	_	Shift=604
+7	верблюдихи	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3518|RuCor_group_id=475335|RuCor_link_id=475334|Shift=615
+8	приносил	_	_	_	_	_	_	_	Shift=626
+9	ей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3518|RuCor_group_id=475336|RuCor_link_id=475335|Shift=635
+10	печенины	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3520|RuCor_group_id=475337|RuCor_link_id=0|Shift=638
+11	из	_	_	_	_	_	_	_	RuCor_chain_id=3520|RuCor_group_id=475337|Shift=647
+12	муки	_	_	_	_	_	_	_	RuCor_chain_id=3520|RuCor_group_id=475337|Shift=650
+13	грубого	_	_	_	_	_	_	_	RuCor_chain_id=3520|RuCor_group_id=475337|Shift=655
+14	помола	_	_	_	_	_	_	_	RuCor_chain_id=3520|RuCor_group_id=475337|Shift=663
+15	с	_	_	_	_	_	_	_	Shift=670
+16	названиями	_	_	_	_	_	_	_	Shift=672
+17	команд	_	_	_	_	_	_	_	Shift=683
+18	-	_	_	_	_	_	_	_	Shift=689
+19	соперниц	_	_	_	_	_	_	_	Shift=690|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=698
+21	нанесенными	_	_	_	_	_	_	_	Shift=700
+22	на	_	_	_	_	_	_	_	Shift=712
+23	них	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3520|RuCor_group_id=475338|RuCor_link_id=475337|Shift=715|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=718
+
+# sent_id = 3b1a1e65-c12a-4b2f-a433-90988ad9bf55-p3-s4
+# text = Животному предлагалось выбрать одно из них: ``команда'', которую Принцесса съедала, объявлялась потенциальным победителем.
+1	Животному	_	_	_	_	_	_	_	Shift=720
+2	предлагалось	_	_	_	_	_	_	_	Shift=730
+3	выбрать	_	_	_	_	_	_	_	Shift=743
+4	одно	_	_	_	_	_	_	_	Shift=751
+5	из	_	_	_	_	_	_	_	Shift=756
+6	них	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=3520|RuCor_group_id=475339|RuCor_link_id=475338|Shift=759|SpaceAfter=No
+7	:	_	_	_	_	_	_	_	Shift=762
+8	``	_	_	_	_	_	_	_	RuCor_chain_id=3521|RuCor_group_id=475340|Shift=764|SpaceAfter=No
+9	команда	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3521|RuCor_group_id=475340|RuCor_link_id=0|Shift=765|SpaceAfter=No
+10	''	_	_	_	_	_	_	_	RuCor_chain_id=3521|RuCor_group_id=475340|Shift=772|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=773
+12	которую	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=3521|RuCor_group_id=475341|RuCor_link_id=475340|Shift=775
+13	Принцесса	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3518|RuCor_group_id=475342|RuCor_link_id=475334|Shift=783
+14	съедала	_	_	_	_	_	_	_	Shift=793|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=800
+16	объявлялась	_	_	_	_	_	_	_	Shift=802
+17	потенциальным	_	_	_	_	_	_	_	Shift=814
+18	победителем	_	_	_	_	_	_	_	Shift=828|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=839
+
+# newpar id = 3b1a1e65-c12a-4b2f-a433-90988ad9bf55-p4
+# par_text = Самым удачным для нее был 2008 год, когда она сделала верный прогноз в 17 случаях из 22. В 2013 году она предсказала победу клуба Национальной футбольной лиги (НФЛ) «Балтимор Рейвенс» в матче за Супербоул.
+# sent_id = 3b1a1e65-c12a-4b2f-a433-90988ad9bf55-p4-s1
+# text = Самым удачным для нее был 2008 год, когда она сделала верный прогноз в 17 случаях из 22.
+1	Самым	_	_	_	_	_	_	_	Shift=841
+2	удачным	_	_	_	_	_	_	_	Shift=847
+3	для	_	_	_	_	_	_	_	Shift=855
+4	нее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3518|RuCor_group_id=475343|RuCor_link_id=475342|Shift=859
+5	был	_	_	_	_	_	_	_	Shift=863
+6	2008	_	_	_	_	_	_	_	Shift=867
+7	год	_	_	_	_	_	_	_	Shift=872|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=875
+9	когда	_	_	_	_	_	_	_	Shift=877
+10	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3518|RuCor_group_id=475344|RuCor_link_id=475342|Shift=883
+11	сделала	_	_	_	_	_	_	_	Shift=887
+12	верный	_	_	_	_	_	_	_	Shift=895
+13	прогноз	_	_	_	_	_	_	_	Shift=902
+14	в	_	_	_	_	_	_	_	Shift=910
+15	17	_	_	_	_	_	_	_	Shift=912
+16	случаях	_	_	_	_	_	_	_	Shift=915
+17	из	_	_	_	_	_	_	_	Shift=923
+18	22	_	_	_	_	_	_	_	Shift=926|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=928
+
+# sent_id = 3b1a1e65-c12a-4b2f-a433-90988ad9bf55-p4-s2
+# text = В 2013 году она предсказала победу клуба Национальной футбольной лиги (НФЛ) ``Балтимор Рейвенс'' в матче за Супербоул.
+1	В	_	_	_	_	_	_	_	Shift=930
+2	2013	_	_	_	_	_	_	_	Shift=932
+3	году	_	_	_	_	_	_	_	Shift=937
+4	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3518|RuCor_group_id=475345|RuCor_link_id=475343|Shift=942
+5	предсказала	_	_	_	_	_	_	_	Shift=946
+6	победу	_	_	_	_	_	_	_	Shift=958
+7	клуба	_	_	_	_	_	_	_	Shift=965
+8	Национальной	_	_	_	_	_	_	_	RuCor_chain_id=3522|RuCor_group_id=475346|Shift=971
+9	футбольной	_	_	_	_	_	_	_	RuCor_chain_id=3522|RuCor_group_id=475346|Shift=984
+10	лиги	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3522|RuCor_group_id=475346|RuCor_link_id=0|Shift=995
+11	(	_	_	_	_	_	_	_	Shift=1000|SpaceAfter=No
+12	НФЛ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3522|RuCor_group_id=475347|RuCor_link_id=475346|Shift=1001|SpaceAfter=No
+13	)	_	_	_	_	_	_	_	Shift=1004
+14	``	_	_	_	_	_	_	_	Shift=1006|SpaceAfter=No
+15	Балтимор	_	_	_	_	_	_	_	Shift=1007
+16	Рейвенс	_	_	_	_	_	_	_	Shift=1016|SpaceAfter=No
+17	''	_	_	_	_	_	_	_	Shift=1023
+18	в	_	_	_	_	_	_	_	Shift=1025
+19	матче	_	_	_	_	_	_	_	Shift=1027
+20	за	_	_	_	_	_	_	_	Shift=1033
+21	Супербоул	_	_	_	_	_	_	_	Shift=1036|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=1045
+
+# newpar id = 3b1a1e65-c12a-4b2f-a433-90988ad9bf55-p5
+# par_text = Одним из самых известных животных-предсказателей спортивных результатов был осьминог Пауль из немецкого аквариума. Он прославился своими прогнозами матчей во время чемпионата мира по футболу в ЮАР в 2010 году. В конце октября того же года моллюск скончался в возрасте, предположительно, двух лет.
+# sent_id = 3b1a1e65-c12a-4b2f-a433-90988ad9bf55-p5-s1
+# text = Одним из самых известных животных - предсказателей спортивных результатов был осьминог Пауль из немецкого аквариума.
+1	Одним	_	_	_	_	_	_	_	Shift=1047
+2	из	_	_	_	_	_	_	_	Shift=1053
+3	самых	_	_	_	_	_	_	_	Shift=1056
+4	известных	_	_	_	_	_	_	_	Shift=1062
+5	животных	_	_	_	_	_	_	_	Shift=1072
+6	-	_	_	_	_	_	_	_	Shift=1080
+7	предсказателей	_	_	_	_	_	_	_	Shift=1081
+8	спортивных	_	_	_	_	_	_	_	Shift=1096
+9	результатов	_	_	_	_	_	_	_	Shift=1107
+10	был	_	_	_	_	_	_	_	Shift=1119
+11	осьминог	_	_	_	_	_	_	_	RuCor_chain_id=3523|RuCor_group_id=475348|Shift=1123
+12	Пауль	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3523|RuCor_group_id=475348|RuCor_link_id=0|Shift=1132
+13	из	_	_	_	_	_	_	_	RuCor_chain_id=3523|RuCor_group_id=475348|Shift=1138
+14	немецкого	_	_	_	_	_	_	_	RuCor_chain_id=3523|RuCor_group_id=475348|Shift=1141
+15	аквариума	_	_	_	_	_	_	_	RuCor_chain_id=3523|RuCor_group_id=475348|Shift=1151|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=1160
+
+# sent_id = 3b1a1e65-c12a-4b2f-a433-90988ad9bf55-p5-s2
+# text = Он прославился своими прогнозами матчей во время чемпионата мира по футболу в ЮАР в 2010 году.
+1	Он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3523|RuCor_group_id=475349|RuCor_link_id=475348|Shift=1162
+2	прославился	_	_	_	_	_	_	_	Shift=1165
+3	своими	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3523|RuCor_group_id=475350|RuCor_link_id=475349|Shift=1177
+4	прогнозами	_	_	_	_	_	_	_	Shift=1184
+5	матчей	_	_	_	_	_	_	_	Shift=1195
+6	во	_	_	_	_	_	_	_	Shift=1202
+7	время	_	_	_	_	_	_	_	Shift=1205
+8	чемпионата	_	_	_	_	_	_	_	Shift=1211
+9	мира	_	_	_	_	_	_	_	Shift=1222
+10	по	_	_	_	_	_	_	_	Shift=1227
+11	футболу	_	_	_	_	_	_	_	Shift=1230
+12	в	_	_	_	_	_	_	_	Shift=1238
+13	ЮАР	_	_	_	_	_	_	_	Shift=1240
+14	в	_	_	_	_	_	_	_	Shift=1244
+15	2010	_	_	_	_	_	_	_	Shift=1246
+16	году	_	_	_	_	_	_	_	Shift=1251|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=1255
+
+# sent_id = 3b1a1e65-c12a-4b2f-a433-90988ad9bf55-p5-s3
+# text = В конце октября того же года моллюск скончался в возрасте, предположительно, двух лет.
+1	В	_	_	_	_	_	_	_	Shift=1257
+2	конце	_	_	_	_	_	_	_	Shift=1259
+3	октября	_	_	_	_	_	_	_	Shift=1265
+4	того	_	_	_	_	_	_	_	Shift=1273
+5	же	_	_	_	_	_	_	_	Shift=1278
+6	года	_	_	_	_	_	_	_	Shift=1281
+7	моллюск	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3523|RuCor_group_id=475351|RuCor_link_id=475349|Shift=1286
+8	скончался	_	_	_	_	_	_	_	Shift=1294
+9	в	_	_	_	_	_	_	_	Shift=1304
+10	возрасте	_	_	_	_	_	_	_	Shift=1306|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=1314
+12	предположительно	_	_	_	_	_	_	_	Shift=1316|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=1332
+14	двух	_	_	_	_	_	_	_	Shift=1334
+15	лет	_	_	_	_	_	_	_	Shift=1339|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=1342
+
+# newpar id = 3b1a1e65-c12a-4b2f-a433-90988ad9bf55-p6
+# par_text = Осьминог Пауль стал предтечей традиции доверять предсказание итогов того или иного мероприятия животным. В разных странах оракулами выступали краб, енот, хряк, опоссум, дикобраз и другие представители фауны.
+# sent_id = 3b1a1e65-c12a-4b2f-a433-90988ad9bf55-p6-s1
+# text = Осьминог Пауль стал предтечей традиции доверять предсказание итогов того или иного мероприятия животным.
+1	Осьминог	_	_	_	_	_	_	_	RuCor_chain_id=3523|RuCor_group_id=475352|Shift=1344
+2	Пауль	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3523|RuCor_group_id=475352|RuCor_link_id=475351|Shift=1353
+3	стал	_	_	_	_	_	_	_	Shift=1359
+4	предтечей	_	_	_	_	_	_	_	Shift=1364
+5	традиции	_	_	_	_	_	_	_	Shift=1374
+6	доверять	_	_	_	_	_	_	_	Shift=1383
+7	предсказание	_	_	_	_	_	_	_	Shift=1392
+8	итогов	_	_	_	_	_	_	_	Shift=1405
+9	того	_	_	_	_	_	_	_	Shift=1412
+10	или	_	_	_	_	_	_	_	Shift=1417
+11	иного	_	_	_	_	_	_	_	Shift=1421
+12	мероприятия	_	_	_	_	_	_	_	Shift=1427
+13	животным	_	_	_	_	_	_	_	Shift=1439|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=1447
+
+# sent_id = 3b1a1e65-c12a-4b2f-a433-90988ad9bf55-p6-s2
+# text = В разных странах оракулами выступали краб, енот, хряк, опоссум, дикобраз и другие представители фауны.
+1	В	_	_	_	_	_	_	_	Shift=1449
+2	разных	_	_	_	_	_	_	_	Shift=1451
+3	странах	_	_	_	_	_	_	_	Shift=1458
+4	оракулами	_	_	_	_	_	_	_	Shift=1466
+5	выступали	_	_	_	_	_	_	_	Shift=1476
+6	краб	_	_	_	_	_	_	_	Shift=1486|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=1490
+8	енот	_	_	_	_	_	_	_	Shift=1492|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1496
+10	хряк	_	_	_	_	_	_	_	Shift=1498|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=1502
+12	опоссум	_	_	_	_	_	_	_	Shift=1504|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=1511
+14	дикобраз	_	_	_	_	_	_	_	Shift=1513
+15	и	_	_	_	_	_	_	_	Shift=1522
+16	другие	_	_	_	_	_	_	_	Shift=1524
+17	представители	_	_	_	_	_	_	_	Shift=1531
+18	фауны	_	_	_	_	_	_	_	Shift=1545|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	_
+

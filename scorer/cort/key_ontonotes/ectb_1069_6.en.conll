@@ -1,0 +1,109 @@
+#begin document (ectb_1069_6); part 000
+ectb_1069	6	0	p.	NN	(TOP(NP*	-	-	-	-	-
+ectb_1069	6	1	18	CD	*))	-	-	-	-	-
+
+ectb_1069	6	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	-
+ectb_1069	6	1	shackles	NNS	*)	-	-	-	-	-
+ectb_1069	6	2	of	IN	(PP*	-	-	-	-	-
+ectb_1069	6	3	midlife	NN	(NP*)))	-	-	-	-	-
+ectb_1069	6	4	make	VBP	(VP*	make	02	3	-	-
+ectb_1069	6	5	middle	NN	(S(NP(ADJP*	-	-	-	-	-
+ectb_1069	6	6	-	HYPH	*	-	-	-	-	-
+ectb_1069	6	7	aged	JJ	*)	-	-	-	-	-
+ectb_1069	6	8	steps	NNS	*)	step	01	3	-	-
+ectb_1069	6	9	heavy	JJ	(ADJP*)))	-	-	-	-	-
+ectb_1069	6	10	.	.	*))	-	-	-	-	-
+
+ectb_1069	6	0	How	WRB	(TOP(SBARQ(WHADVP*)	-	-	-	-	-
+ectb_1069	6	1	can	MD	(SQ*	-	-	-	-	-
+ectb_1069	6	2	one	PRP	(NP*)	-	-	-	-	-
+ectb_1069	6	3	escape	VB	(VP*	escape	01	2	-	-
+ectb_1069	6	4	from	IN	(PP*	-	-	-	-	-
+ectb_1069	6	5	one	CD	(NP(NP*	-	-	-	-	-
+ectb_1069	6	6	's	POS	*)	-	-	-	-	-
+ectb_1069	6	7	commitments	NNS	*))	commitment	-	2	-	-
+ectb_1069	6	8	to	TO	(S(VP*	-	-	-	-	-
+ectb_1069	6	9	snatch	VB	(VP(VP*	snatch	01	1	-	-
+ectb_1069	6	10	half	PDT	(NP(NP*	-	-	-	-	-
+ectb_1069	6	11	a	DT	*	-	-	-	-	-
+ectb_1069	6	12	day	NN	*)	day	-	3	-	-
+ectb_1069	6	13	of	IN	(PP*	-	-	-	-	-
+ectb_1069	6	14	freedom	NN	(NP*))))	freedom	-	1	-	-
+ectb_1069	6	15	,	,	*	-	-	-	-	-
+ectb_1069	6	16	and	CC	*	-	-	-	-	-
+ectb_1069	6	17	appreciate	VB	(VP*	appreciate	02	2	-	-
+ectb_1069	6	18	the	DT	(NP*	-	-	-	-	-
+ectb_1069	6	19	world	NN	*)	world	-	2	-	-
+ectb_1069	6	20	from	IN	(PP*	-	-	-	-	-
+ectb_1069	6	21	a	DT	(NP*	-	-	-	-	-
+ectb_1069	6	22	new	JJ	*	-	-	-	-	-
+ectb_1069	6	23	perspective	NN	*))))))))	perspective	-	1	-	-
+ectb_1069	6	24	?	.	*))	-	-	-	-	-
+
+ectb_1069	6	0	p.	NN	(TOP(NP*	-	-	-	-	-
+ectb_1069	6	1	20	CD	*))	-	-	-	-	-
+
+ectb_1069	6	0	-LRB-	-LRB-	(TOP(NP*	-	-	-	-	-
+ectb_1069	6	1	facing	VBG	*	face	01	-	-	-
+ectb_1069	6	2	page	NN	*	page	-	1	-	-
+ectb_1069	6	3	-RRB-	-RRB-	*))	-	-	-	-	-
+
+ectb_1069	6	0	The	DT	(TOP(S(NP*	-	-	-	-	-
+ectb_1069	6	1	middle	NN	*	-	-	-	-	-
+ectb_1069	6	2	-	HYPH	*	-	-	-	-	-
+ectb_1069	6	3	aged	JJ	*)	-	-	-	-	-
+ectb_1069	6	4	have	VBP	(VP*	have	03	4	-	-
+ectb_1069	6	5	dreams	NNS	(NP*))	dream	-	2	-	(33)
+ectb_1069	6	6	.	.	*))	-	-	-	-	-
+
+ectb_1069	6	0	If	IN	(TOP(S(SBAR*	-	-	-	-	-
+ectb_1069	6	1	built	VBN	(S(VP*	build	01	-	-	-
+ectb_1069	6	2	on	IN	(PP*	-	-	-	-	-
+ectb_1069	6	3	a	DT	(NP*	-	-	-	-	-
+ectb_1069	6	4	solid	JJ	*	-	-	-	-	-
+ectb_1069	6	5	foundation	NN	*)))))	foundation	-	1	-	-
+ectb_1069	6	6	,	,	*	-	-	-	-	-
+ectb_1069	6	7	they	PRP	(NP*)	-	-	-	-	(33)
+ectb_1069	6	8	can	MD	(VP*	-	-	-	-	-
+ectb_1069	6	9	make	VB	(VP*	make	02	3	-	-
+ectb_1069	6	10	life	NN	(S(NP*)	life	-	1	-	-
+ectb_1069	6	11	more	RBR	(ADJP*	-	-	-	-	-
+ectb_1069	6	12	enjoyable	JJ	*	-	-	-	-	-
+ectb_1069	6	13	and	CC	*	-	-	-	-	-
+ectb_1069	6	14	fulfilling	JJ	*))))	-	-	-	-	-
+ectb_1069	6	15	.	.	*))	-	-	-	-	-
+
+ectb_1069	6	0	p.	NN	(TOP(NP*	-	-	-	-	-
+ectb_1069	6	1	22	CD	*))	-	-	-	-	-
+
+ectb_1069	6	0	Is	VBZ	(TOP(SQ*	be	03	-	-	-
+ectb_1069	6	1	life	NN	(NP*)	life	-	1	-	-
+ectb_1069	6	2	getting	VBG	(VP*	get	05	3	-	-
+ectb_1069	6	3	you	PRP	(NP*)	-	-	-	-	-
+ectb_1069	6	4	down	RB	(ADVP*))	-	-	-	-	-
+ectb_1069	6	5	?	.	*))	-	-	-	-	-
+
+ectb_1069	6	0	Go	VB	(TOP(S(S(VP(VP*	go	02	1	-	-
+ectb_1069	6	1	into	IN	(PP*	-	-	-	-	-
+ectb_1069	6	2	the	DT	(NP*	-	-	-	-	-
+ectb_1069	6	3	crowd	NN	*)))	-	-	-	-	-
+ectb_1069	6	4	,	,	*	-	-	-	-	-
+ectb_1069	6	5	find	VB	(VP*	find	01	1	-	-
+ectb_1069	6	6	things	NNS	(NP(NP*)	thing	-	1	-	-
+ectb_1069	6	7	to	TO	(SBAR(S(VP*	-	-	-	-	-
+ectb_1069	6	8	do	VB	(VP*))))))))	do	02	1	-	-
+ectb_1069	6	9	,	,	*	-	-	-	-	-
+ectb_1069	6	10	and	CC	*	-	-	-	-	-
+ectb_1069	6	11	you	PRP	(S(NP*)	-	-	-	-	-
+ectb_1069	6	12	will	MD	(VP*	-	-	-	-	-
+ectb_1069	6	13	rediscover	VB	(VP*	rediscover	01	-	-	-
+ectb_1069	6	14	a	DT	(NP(NP*	-	-	-	-	-
+ectb_1069	6	15	sense	NN	*)	sense	-	1	-	-
+ectb_1069	6	16	of	IN	(PP*	-	-	-	-	-
+ectb_1069	6	17	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1069	6	18	value	NN	*)	value	-	1	-	-
+ectb_1069	6	19	of	IN	(PP*	-	-	-	-	-
+ectb_1069	6	20	life	NN	(NP*))))))))	life	-	1	-	-
+ectb_1069	6	21	.	.	*))	-	-	-	-	-
+
+#end document

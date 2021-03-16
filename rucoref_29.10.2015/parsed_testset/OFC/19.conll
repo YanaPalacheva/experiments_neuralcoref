@@ -1,0 +1,1535 @@
+# newdoc id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p1
+# par_text = 15 октября 1929 года родился Милорад Павич
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p1-s1
+# text = 15 октября 1929 года родился Милорад Павич
+1	15	_	_	_	_	_	_	_	Shift=0
+2	октября	_	_	_	_	_	_	_	Shift=3
+3	1929	_	_	_	_	_	_	_	Shift=11
+4	года	_	_	_	_	_	_	_	Shift=16
+5	родился	_	_	_	_	_	_	_	Shift=21
+6	Милорад	_	_	_	_	_	_	_	RuCor_chain_id=1939|RuCor_group_id=468817|Shift=29
+7	Павич	_	_	_	_	_	_	_	RuCor_chain_id=1939|RuCor_group_id=468817|Shift=37
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p2
+# par_text = Сын скульптора и преподавательницы философии, он работал критиком и переводчиком, стал доктором философских наук в области истории литературы в Загребском университете, был преподавателем в Париже, Вене, Фрайбурге, Регенсбурге и Белграде.
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p2-s1
+# text = Сын скульптора и преподавательницы философии, он работал критиком и переводчиком, стал доктором философских наук в области истории литературы в Загребском университете, был преподавателем в Париже, Вене, Фрайбурге, Регенсбурге и Белграде.
+1	Сын	_	_	_	_	_	_	_	Shift=43
+2	скульптора	_	_	_	_	_	_	_	Shift=47
+3	и	_	_	_	_	_	_	_	Shift=58
+4	преподавательницы	_	_	_	_	_	_	_	Shift=60
+5	философии	_	_	_	_	_	_	_	Shift=78|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=87
+7	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468818|RuCor_link_id=468817|Shift=89
+8	работал	_	_	_	_	_	_	_	Shift=92
+9	критиком	_	_	_	_	_	_	_	Shift=100
+10	и	_	_	_	_	_	_	_	Shift=109
+11	переводчиком	_	_	_	_	_	_	_	Shift=111|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=123
+13	стал	_	_	_	_	_	_	_	Shift=125
+14	доктором	_	_	_	_	_	_	_	Shift=130
+15	философских	_	_	_	_	_	_	_	Shift=139
+16	наук	_	_	_	_	_	_	_	Shift=151
+17	в	_	_	_	_	_	_	_	Shift=156
+18	области	_	_	_	_	_	_	_	Shift=158
+19	истории	_	_	_	_	_	_	_	Shift=166
+20	литературы	_	_	_	_	_	_	_	Shift=174
+21	в	_	_	_	_	_	_	_	Shift=185
+22	Загребском	_	_	_	_	_	_	_	Shift=187
+23	университете	_	_	_	_	_	_	_	Shift=198|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=210
+25	был	_	_	_	_	_	_	_	Shift=212
+26	преподавателем	_	_	_	_	_	_	_	Shift=216
+27	в	_	_	_	_	_	_	_	Shift=231
+28	Париже	_	_	_	_	_	_	_	Shift=233|SpaceAfter=No
+29	,	_	_	_	_	_	_	_	Shift=239
+30	Вене	_	_	_	_	_	_	_	Shift=241|SpaceAfter=No
+31	,	_	_	_	_	_	_	_	Shift=245
+32	Фрайбурге	_	_	_	_	_	_	_	Shift=247|SpaceAfter=No
+33	,	_	_	_	_	_	_	_	Shift=256
+34	Регенсбурге	_	_	_	_	_	_	_	Shift=258
+35	и	_	_	_	_	_	_	_	Shift=270
+36	Белграде	_	_	_	_	_	_	_	Shift=272|SpaceAfter=No
+37	.	_	_	_	_	_	_	_	Shift=280
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p3
+# par_text = Владел русским языком (переводил, к примеру, «Полтаву» и «Евгения Онегина» Пушкина).
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p3-s1
+# text = Владел русским языком (переводил, к примеру, ``Полтаву'' и ``Евгения Онегина'' Пушкина).
+1	Владел	_	_	_	_	_	_	_	Shift=282
+2	русским	_	_	_	_	_	_	_	Shift=289
+3	языком	_	_	_	_	_	_	_	Shift=297
+4	(	_	_	_	_	_	_	_	Shift=304|SpaceAfter=No
+5	переводил	_	_	_	_	_	_	_	Shift=305|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=314
+7	к	_	_	_	_	_	_	_	Shift=316
+8	примеру	_	_	_	_	_	_	_	Shift=318|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=325
+10	``	_	_	_	_	_	_	_	Shift=327|SpaceAfter=No
+11	Полтаву	_	_	_	_	_	_	_	Shift=328|SpaceAfter=No
+12	''	_	_	_	_	_	_	_	Shift=335
+13	и	_	_	_	_	_	_	_	Shift=337
+14	``	_	_	_	_	_	_	_	Shift=339|SpaceAfter=No
+15	Евгения	_	_	_	_	_	_	_	Shift=340
+16	Онегина	_	_	_	_	_	_	_	Shift=348|SpaceAfter=No
+17	''	_	_	_	_	_	_	_	Shift=355
+18	Пушкина	_	_	_	_	_	_	_	Shift=357|SpaceAfter=No
+19	)	_	_	_	_	_	_	_	Shift=364|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=365
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p4
+# par_text = Так же хорошо, как и немецким, французским, английским, древнегреческим.
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p4-s1
+# text = Так же хорошо, как и немецким, французским, английским, древнегреческим.
+1	Так	_	_	_	_	_	_	_	Shift=367
+2	же	_	_	_	_	_	_	_	Shift=371
+3	хорошо	_	_	_	_	_	_	_	Shift=374|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=380
+5	как	_	_	_	_	_	_	_	Shift=382
+6	и	_	_	_	_	_	_	_	Shift=386
+7	немецким	_	_	_	_	_	_	_	Shift=388|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=396
+9	французским	_	_	_	_	_	_	_	Shift=398|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=409
+11	английским	_	_	_	_	_	_	_	Shift=411|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=421
+13	древнегреческим	_	_	_	_	_	_	_	Shift=423|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=438
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p5
+# par_text = Павич начал литературную карьеру с поэзии (первый его сборник вышел в 1967-м).
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p5-s1
+# text = Павич начал литературную карьеру с поэзии (первый его сборник вышел в 1967-м).
+1	Павич	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468819|RuCor_link_id=468818|Shift=440
+2	начал	_	_	_	_	_	_	_	Shift=446
+3	литературную	_	_	_	_	_	_	_	Shift=452
+4	карьеру	_	_	_	_	_	_	_	Shift=465
+5	с	_	_	_	_	_	_	_	Shift=473
+6	поэзии	_	_	_	_	_	_	_	Shift=475
+7	(	_	_	_	_	_	_	_	Shift=482|SpaceAfter=No
+8	первый	_	_	_	_	_	_	_	Shift=483
+9	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468820|RuCor_link_id=468819|Shift=490
+10	сборник	_	_	_	_	_	_	_	Shift=494
+11	вышел	_	_	_	_	_	_	_	Shift=502
+12	в	_	_	_	_	_	_	_	Shift=508
+13	1967-м	_	_	_	_	_	_	_	Shift=510|SpaceAfter=No
+14	)	_	_	_	_	_	_	_	Shift=516|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=517
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p6
+# par_text = И долго не мог добиться успеха.
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p6-s1
+# text = И долго не мог добиться успеха.
+1	И	_	_	_	_	_	_	_	Shift=519
+2	долго	_	_	_	_	_	_	_	Shift=521
+3	не	_	_	_	_	_	_	_	Shift=527
+4	мог	_	_	_	_	_	_	_	Shift=530
+5	добиться	_	_	_	_	_	_	_	Shift=534
+6	успеха	_	_	_	_	_	_	_	Shift=543|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=549
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p7
+# par_text = Вот что писал он об этом в автобиографии: «Я был самым нечитаемым писателем своей страны до 1984 года, когда вдруг за один день превратился в самого читаемого».
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p7-s1
+# text = Вот что писал он об этом в автобиографии: ``Я был самым нечитаемым писателем своей страны до 1984 года, когда вдруг за один день превратился в самого читаемого''.
+1	Вот	_	_	_	_	_	_	_	Shift=551
+2	что	_	_	_	_	_	_	_	Shift=555
+3	писал	_	_	_	_	_	_	_	Shift=559
+4	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468821|RuCor_link_id=468820|Shift=565
+5	об	_	_	_	_	_	_	_	Shift=568
+6	этом	_	_	_	_	_	_	_	Shift=571
+7	в	_	_	_	_	_	_	_	Shift=576
+8	автобиографии	_	_	_	_	_	_	_	Shift=578|SpaceAfter=No
+9	:	_	_	_	_	_	_	_	Shift=591
+10	``	_	_	_	_	_	_	_	Shift=593|SpaceAfter=No
+11	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468822|RuCor_link_id=468821|Shift=594
+12	был	_	_	_	_	_	_	_	Shift=596
+13	самым	_	_	_	_	_	_	_	Shift=600
+14	нечитаемым	_	_	_	_	_	_	_	Shift=606
+15	писателем	_	_	_	_	_	_	_	Shift=617
+16	своей	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468823|RuCor_link_id=468822|Shift=627
+17	страны	_	_	_	_	_	_	_	Shift=633
+18	до	_	_	_	_	_	_	_	Shift=640
+19	1984	_	_	_	_	_	_	_	Shift=643
+20	года	_	_	_	_	_	_	_	Shift=648|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=652
+22	когда	_	_	_	_	_	_	_	Shift=654
+23	вдруг	_	_	_	_	_	_	_	Shift=660
+24	за	_	_	_	_	_	_	_	Shift=666
+25	один	_	_	_	_	_	_	_	Shift=669
+26	день	_	_	_	_	_	_	_	Shift=674
+27	превратился	_	_	_	_	_	_	_	Shift=679
+28	в	_	_	_	_	_	_	_	Shift=691
+29	самого	_	_	_	_	_	_	_	Shift=693
+30	читаемого	_	_	_	_	_	_	_	Shift=700|SpaceAfter=No
+31	''	_	_	_	_	_	_	_	Shift=709|SpaceAfter=No
+32	.	_	_	_	_	_	_	_	Shift=710
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p8
+# par_text = Это был год, когда вышел его «Хазарский словарь», который спустя годы назовут «новой «Илиадой» для мира, где главное место заняли компьютеры».
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p8-s1
+# text = Это был год, когда вышел его ``Хазарский словарь'', который спустя годы назовут ``новой ``Илиадой'' для мира, где главное место заняли компьютеры''.
+1	Это	_	_	_	_	_	_	_	Shift=712
+2	был	_	_	_	_	_	_	_	Shift=716
+3	год	_	_	_	_	_	_	_	Shift=720|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=723
+5	когда	_	_	_	_	_	_	_	Shift=725
+6	вышел	_	_	_	_	_	_	_	Shift=731
+7	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468824|RuCor_link_id=468822|Shift=737
+8	``	_	_	_	_	_	_	_	RuCor_chain_id=1940|RuCor_group_id=468825|Shift=741|SpaceAfter=No
+9	Хазарский	_	_	_	_	_	_	_	RuCor_chain_id=1940|RuCor_group_id=468825|Shift=742
+10	словарь	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1940|RuCor_group_id=468825|RuCor_link_id=0|Shift=752|SpaceAfter=No
+11	''	_	_	_	_	_	_	_	RuCor_chain_id=1940|RuCor_group_id=468825|Shift=759|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=760
+13	который	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=1940|RuCor_group_id=468826|RuCor_link_id=468825|Shift=762
+14	спустя	_	_	_	_	_	_	_	Shift=770
+15	годы	_	_	_	_	_	_	_	Shift=777
+16	назовут	_	_	_	_	_	_	_	Shift=782
+17	``	_	_	_	_	_	_	_	Shift=790|SpaceAfter=No
+18	новой	_	_	_	_	_	_	_	Shift=791
+19	``	_	_	_	_	_	_	_	Shift=797|SpaceAfter=No
+20	Илиадой	_	_	_	_	_	_	_	Shift=798|SpaceAfter=No
+21	''	_	_	_	_	_	_	_	Shift=805
+22	для	_	_	_	_	_	_	_	Shift=807
+23	мира	_	_	_	_	_	_	_	Shift=811|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=815
+25	где	_	_	_	_	_	_	_	Shift=817
+26	главное	_	_	_	_	_	_	_	Shift=821
+27	место	_	_	_	_	_	_	_	Shift=829
+28	заняли	_	_	_	_	_	_	_	Shift=835
+29	компьютеры	_	_	_	_	_	_	_	Shift=842|SpaceAfter=No
+30	''	_	_	_	_	_	_	_	Shift=852|SpaceAfter=No
+31	.	_	_	_	_	_	_	_	Shift=853
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p9
+# par_text = Сейчас гипертекст — это уже нечто очевидное и само собой разумеющееся.
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p9-s1
+# text = Сейчас гипертекст - это уже нечто очевидное и само собой разумеющееся.
+1	Сейчас	_	_	_	_	_	_	_	Shift=855
+2	гипертекст	_	_	_	_	_	_	_	Shift=862
+3	-	_	_	_	_	_	_	_	Shift=873
+4	это	_	_	_	_	_	_	_	Shift=875
+5	уже	_	_	_	_	_	_	_	Shift=879
+6	нечто	_	_	_	_	_	_	_	Shift=883
+7	очевидное	_	_	_	_	_	_	_	Shift=889
+8	и	_	_	_	_	_	_	_	Shift=899
+9	само	_	_	_	_	_	_	_	Shift=901
+10	собой	_	_	_	_	_	_	_	Shift=906
+11	разумеющееся	_	_	_	_	_	_	_	Shift=912|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=924
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p10
+# par_text = Новый роман проще разместить в интернете и сразу превратить его в самостоятельный сайт (одна из глав романа Павича «Ящик для письменных принадлежностей», кстати, только в Сети и существует).
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p10-s1
+# text = Новый роман проще разместить в интернете и сразу превратить его в самостоятельный сайт (одна из глав романа Павича ``Ящик для письменных принадлежностей'', кстати, только в Сети и существует).
+1	Новый	_	_	_	_	_	_	_	RuCor_chain_id=1941|RuCor_group_id=468827|Shift=926
+2	роман	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1941|RuCor_group_id=468827|RuCor_link_id=0|Shift=932
+3	проще	_	_	_	_	_	_	_	Shift=938
+4	разместить	_	_	_	_	_	_	_	Shift=944
+5	в	_	_	_	_	_	_	_	Shift=955
+6	интернете	_	_	_	_	_	_	_	Shift=957
+7	и	_	_	_	_	_	_	_	Shift=967
+8	сразу	_	_	_	_	_	_	_	Shift=969
+9	превратить	_	_	_	_	_	_	_	Shift=975
+10	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1941|RuCor_group_id=468828|RuCor_link_id=468827|Shift=986
+11	в	_	_	_	_	_	_	_	Shift=990
+12	самостоятельный	_	_	_	_	_	_	_	Shift=992
+13	сайт	_	_	_	_	_	_	_	Shift=1008
+14	(	_	_	_	_	_	_	_	Shift=1013|SpaceAfter=No
+15	одна	_	_	_	_	_	_	_	Shift=1014
+16	из	_	_	_	_	_	_	_	Shift=1019
+17	глав	_	_	_	_	_	_	_	Shift=1022
+18	романа	_	_	_	_	_	_	_	Shift=1027
+19	Павича	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468829|RuCor_link_id=468819|Shift=1034
+20	``	_	_	_	_	_	_	_	Shift=1041|SpaceAfter=No
+21	Ящик	_	_	_	_	_	_	_	Shift=1042
+22	для	_	_	_	_	_	_	_	Shift=1047
+23	письменных	_	_	_	_	_	_	_	Shift=1051
+24	принадлежностей	_	_	_	_	_	_	_	Shift=1062|SpaceAfter=No
+25	''	_	_	_	_	_	_	_	Shift=1077|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	Shift=1078
+27	кстати	_	_	_	_	_	_	_	Shift=1080|SpaceAfter=No
+28	,	_	_	_	_	_	_	_	Shift=1086
+29	только	_	_	_	_	_	_	_	Shift=1088
+30	в	_	_	_	_	_	_	_	Shift=1095
+31	Сети	_	_	_	_	_	_	_	Shift=1097
+32	и	_	_	_	_	_	_	_	Shift=1102
+33	существует	_	_	_	_	_	_	_	Shift=1104|SpaceAfter=No
+34	)	_	_	_	_	_	_	_	Shift=1114|SpaceAfter=No
+35	.	_	_	_	_	_	_	_	Shift=1115
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p11
+# par_text = Однако в 80-х книга, которую читатель может изучать как пожелает (помня при этом, что от него во многом зависит, какой сюжет он получит в итоге), была для многих откровением.
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p11-s1
+# text = Однако в 80-х книга, которую читатель может изучать как пожелает (помня при этом, что от него во многом зависит, какой сюжет он получит в итоге), была для многих откровением.
+1	Однако	_	_	_	_	_	_	_	Shift=1117
+2	в	_	_	_	_	_	_	_	Shift=1124
+3	80-х	_	_	_	_	_	_	_	Shift=1126
+4	книга	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1942|RuCor_group_id=468830|RuCor_link_id=0|Shift=1131|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1136
+6	которую	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=1942|RuCor_group_id=468831|RuCor_link_id=468830|Shift=1138
+7	читатель	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1943|RuCor_group_id=468832|RuCor_link_id=0|Shift=1146
+8	может	_	_	_	_	_	_	_	Shift=1155
+9	изучать	_	_	_	_	_	_	_	Shift=1161
+10	как	_	_	_	_	_	_	_	Shift=1169
+11	пожелает	_	_	_	_	_	_	_	Shift=1173
+12	(	_	_	_	_	_	_	_	Shift=1182|SpaceAfter=No
+13	помня	_	_	_	_	_	_	_	Shift=1183
+14	при	_	_	_	_	_	_	_	Shift=1189
+15	этом	_	_	_	_	_	_	_	Shift=1193|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=1197
+17	что	_	_	_	_	_	_	_	Shift=1199
+18	от	_	_	_	_	_	_	_	Shift=1203
+19	него	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1943|RuCor_group_id=468833|RuCor_link_id=468832|Shift=1206
+20	во	_	_	_	_	_	_	_	Shift=1211
+21	многом	_	_	_	_	_	_	_	Shift=1214
+22	зависит	_	_	_	_	_	_	_	Shift=1221|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=1228
+24	какой	_	_	_	_	_	_	_	Shift=1230
+25	сюжет	_	_	_	_	_	_	_	Shift=1236
+26	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1943|RuCor_group_id=468834|RuCor_link_id=468833|Shift=1242
+27	получит	_	_	_	_	_	_	_	Shift=1245
+28	в	_	_	_	_	_	_	_	Shift=1253
+29	итоге	_	_	_	_	_	_	_	Shift=1255|SpaceAfter=No
+30	)	_	_	_	_	_	_	_	Shift=1260|SpaceAfter=No
+31	,	_	_	_	_	_	_	_	Shift=1261
+32	была	_	_	_	_	_	_	_	Shift=1263
+33	для	_	_	_	_	_	_	_	Shift=1268
+34	многих	_	_	_	_	_	_	_	Shift=1272
+35	откровением	_	_	_	_	_	_	_	Shift=1279|SpaceAfter=No
+36	.	_	_	_	_	_	_	_	Shift=1290
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p12
+# par_text = И стала бестселлером по всей планете.
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p12-s1
+# text = И стала бестселлером по всей планете.
+1	И	_	_	_	_	_	_	_	Shift=1292
+2	стала	_	_	_	_	_	_	_	Shift=1294
+3	бестселлером	_	_	_	_	_	_	_	Shift=1300
+4	по	_	_	_	_	_	_	_	Shift=1313
+5	всей	_	_	_	_	_	_	_	Shift=1316
+6	планете	_	_	_	_	_	_	_	Shift=1321|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=1328
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p13
+# par_text = А мужскую и женскую его версии (отличающиеся ровно на один абзац) до сих пор дарят друг другу влюблённые пары.
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p13-s1
+# text = А мужскую и женскую его версии (отличающиеся ровно на один абзац) до сих пор дарят друг другу влюблённые пары.
+1	А	_	_	_	_	_	_	_	Shift=1330
+2	мужскую	_	_	_	_	_	_	_	Shift=1332
+3	и	_	_	_	_	_	_	_	Shift=1340
+4	женскую	_	_	_	_	_	_	_	Shift=1342
+5	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1940|RuCor_group_id=468835|RuCor_link_id=468825|Shift=1350
+6	версии	_	_	_	_	_	_	_	Shift=1354
+7	(	_	_	_	_	_	_	_	Shift=1361|SpaceAfter=No
+8	отличающиеся	_	_	_	_	_	_	_	Shift=1362
+9	ровно	_	_	_	_	_	_	_	Shift=1375
+10	на	_	_	_	_	_	_	_	Shift=1381
+11	один	_	_	_	_	_	_	_	Shift=1384
+12	абзац	_	_	_	_	_	_	_	Shift=1389|SpaceAfter=No
+13	)	_	_	_	_	_	_	_	Shift=1394
+14	до	_	_	_	_	_	_	_	Shift=1396
+15	сих	_	_	_	_	_	_	_	Shift=1399
+16	пор	_	_	_	_	_	_	_	Shift=1403
+17	дарят	_	_	_	_	_	_	_	Shift=1407
+18	друг	_	_	_	_	_	_	_	Shift=1413
+19	другу	_	_	_	_	_	_	_	Shift=1418
+20	влюблённые	_	_	_	_	_	_	_	Shift=1424
+21	пары	_	_	_	_	_	_	_	Shift=1435|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=1439
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p14
+# par_text = «Я всегда хотел превратить литературу, необратимое искусство, в обратимое.
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p14-s1
+# text = ``Я всегда хотел превратить литературу, необратимое искусство, в обратимое.
+1	``	_	_	_	_	_	_	_	Shift=1441|SpaceAfter=No
+2	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468836|RuCor_link_id=468824|Shift=1442
+3	всегда	_	_	_	_	_	_	_	Shift=1444
+4	хотел	_	_	_	_	_	_	_	Shift=1451
+5	превратить	_	_	_	_	_	_	_	Shift=1457
+6	литературу	_	_	_	_	_	_	_	Shift=1468|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=1478
+8	необратимое	_	_	_	_	_	_	_	Shift=1480
+9	искусство	_	_	_	_	_	_	_	Shift=1492|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=1501
+11	в	_	_	_	_	_	_	_	Shift=1503
+12	обратимое	_	_	_	_	_	_	_	Shift=1505|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=1514
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p15
+# par_text = Поэтому мои книги не имеют ни начала, ни конца в классическом понимании этого слова»,
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p15-s1
+# text = Поэтому мои книги не имеют ни начала, ни конца в классическом понимании этого слова'',
+1	Поэтому	_	_	_	_	_	_	_	Shift=1516
+2	мои	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468837|RuCor_link_id=468836|Shift=1524
+3	книги	_	_	_	_	_	_	_	Shift=1528
+4	не	_	_	_	_	_	_	_	Shift=1534
+5	имеют	_	_	_	_	_	_	_	Shift=1537
+6	ни	_	_	_	_	_	_	_	Shift=1543
+7	начала	_	_	_	_	_	_	_	Shift=1546|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1552
+9	ни	_	_	_	_	_	_	_	Shift=1554
+10	конца	_	_	_	_	_	_	_	Shift=1557
+11	в	_	_	_	_	_	_	_	Shift=1563
+12	классическом	_	_	_	_	_	_	_	Shift=1565
+13	понимании	_	_	_	_	_	_	_	Shift=1578
+14	этого	_	_	_	_	_	_	_	Shift=1588
+15	слова	_	_	_	_	_	_	_	Shift=1594|SpaceAfter=No
+16	''	_	_	_	_	_	_	_	Shift=1599|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=1600
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p16
+# par_text = — писал Павич в программном тексте «Начало и конец романа».
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p16-s1
+# text = - писал Павич в программном тексте ``Начало и конец романа''.
+1	-	_	_	_	_	_	_	_	Shift=1602
+2	писал	_	_	_	_	_	_	_	Shift=1604
+3	Павич	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468838|RuCor_link_id=468837|Shift=1610
+4	в	_	_	_	_	_	_	_	Shift=1616
+5	программном	_	_	_	_	_	_	_	Shift=1618
+6	тексте	_	_	_	_	_	_	_	Shift=1630
+7	``	_	_	_	_	_	_	_	Shift=1637|SpaceAfter=No
+8	Начало	_	_	_	_	_	_	_	Shift=1638
+9	и	_	_	_	_	_	_	_	Shift=1645
+10	конец	_	_	_	_	_	_	_	Shift=1647
+11	романа	_	_	_	_	_	_	_	Shift=1653|SpaceAfter=No
+12	''	_	_	_	_	_	_	_	Shift=1659|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=1660
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p17
+# par_text = Его произведения — это наглядное пособие по постмодерну: аллюзии и семиотическая избыточность, эклектика, гипертекстуальность, форма как идея произведения…
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p17-s1
+# text = Его произведения - это наглядное пособие по постмодерну: аллюзии и семиотическая избыточность, эклектика, гипертекстуальность, форма как идея произведения...
+1	Его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468839|RuCor_link_id=468838|Shift=1662
+2	произведения	_	_	_	_	_	_	_	Shift=1666
+3	-	_	_	_	_	_	_	_	Shift=1679
+4	это	_	_	_	_	_	_	_	Shift=1681
+5	наглядное	_	_	_	_	_	_	_	Shift=1685
+6	пособие	_	_	_	_	_	_	_	Shift=1695
+7	по	_	_	_	_	_	_	_	Shift=1703
+8	постмодерну	_	_	_	_	_	_	_	Shift=1706|SpaceAfter=No
+9	:	_	_	_	_	_	_	_	Shift=1717
+10	аллюзии	_	_	_	_	_	_	_	Shift=1719
+11	и	_	_	_	_	_	_	_	Shift=1727
+12	семиотическая	_	_	_	_	_	_	_	Shift=1729
+13	избыточность	_	_	_	_	_	_	_	Shift=1743|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=1755
+15	эклектика	_	_	_	_	_	_	_	Shift=1757|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=1766
+17	гипертекстуальность	_	_	_	_	_	_	_	Shift=1768|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=1787
+19	форма	_	_	_	_	_	_	_	Shift=1789
+20	как	_	_	_	_	_	_	_	Shift=1795
+21	идея	_	_	_	_	_	_	_	Shift=1799
+22	произведения	_	_	_	_	_	_	_	Shift=1804|SpaceAfter=No
+23	...	_	_	_	_	_	_	_	Shift=1816
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p18
+# par_text = Ещё ранние сборники его рассказов 1970-х годов местные критики сравнивали с компьютерными играми: вопросы ставились в одних новеллах, ответы появлялись в других.
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p18-s1
+# text = Ещё ранние сборники его рассказов 1970-х годов местные критики сравнивали с компьютерными играми: вопросы ставились в одних новеллах, ответы появлялись в других.
+1	Ещё	_	_	_	_	_	_	_	Shift=1818
+2	ранние	_	_	_	_	_	_	_	Shift=1822
+3	сборники	_	_	_	_	_	_	_	Shift=1829
+4	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468840|RuCor_link_id=468839|Shift=1838
+5	рассказов	_	_	_	_	_	_	_	Shift=1842
+6	1970-х	_	_	_	_	_	_	_	Shift=1852
+7	годов	_	_	_	_	_	_	_	Shift=1859
+8	местные	_	_	_	_	_	_	_	Shift=1865
+9	критики	_	_	_	_	_	_	_	Shift=1873
+10	сравнивали	_	_	_	_	_	_	_	Shift=1881
+11	с	_	_	_	_	_	_	_	Shift=1892
+12	компьютерными	_	_	_	_	_	_	_	Shift=1894
+13	играми	_	_	_	_	_	_	_	Shift=1908|SpaceAfter=No
+14	:	_	_	_	_	_	_	_	Shift=1914
+15	вопросы	_	_	_	_	_	_	_	Shift=1916
+16	ставились	_	_	_	_	_	_	_	Shift=1924
+17	в	_	_	_	_	_	_	_	Shift=1934
+18	одних	_	_	_	_	_	_	_	Shift=1936
+19	новеллах	_	_	_	_	_	_	_	Shift=1942|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=1950
+21	ответы	_	_	_	_	_	_	_	Shift=1952
+22	появлялись	_	_	_	_	_	_	_	Shift=1959
+23	в	_	_	_	_	_	_	_	Shift=1970
+24	других	_	_	_	_	_	_	_	Shift=1972|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=1978
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p19
+# par_text = А далее были роман-энциклопедия, роман-кроссворд, роман-клепсидра, роман-справочник, роман на основе карт Таро, сборник пародий на писателей из всех стран, что его издают.
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p19-s1
+# text = А далее были роман - энциклопедия, роман - кроссворд, роман - клепсидра, роман - справочник, роман на основе карт Таро, сборник пародий на писателей из всех стран, что его издают.
+1	А	_	_	_	_	_	_	_	Shift=1980
+2	далее	_	_	_	_	_	_	_	Shift=1982
+3	были	_	_	_	_	_	_	_	Shift=1988
+4	роман	_	_	_	_	_	_	_	Shift=1993
+5	-	_	_	_	_	_	_	_	Shift=1998
+6	энциклопедия	_	_	_	_	_	_	_	Shift=1999|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=2011
+8	роман	_	_	_	_	_	_	_	Shift=2013
+9	-	_	_	_	_	_	_	_	Shift=2018
+10	кроссворд	_	_	_	_	_	_	_	Shift=2019|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=2028
+12	роман	_	_	_	_	_	_	_	Shift=2030
+13	-	_	_	_	_	_	_	_	Shift=2035
+14	клепсидра	_	_	_	_	_	_	_	Shift=2036|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=2045
+16	роман	_	_	_	_	_	_	_	Shift=2047
+17	-	_	_	_	_	_	_	_	Shift=2052
+18	справочник	_	_	_	_	_	_	_	Shift=2053|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=2063
+20	роман	_	_	_	_	_	_	_	Shift=2065
+21	на	_	_	_	_	_	_	_	Shift=2071
+22	основе	_	_	_	_	_	_	_	Shift=2074
+23	карт	_	_	_	_	_	_	_	Shift=2081
+24	Таро	_	_	_	_	_	_	_	Shift=2086|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=2090
+26	сборник	_	_	_	_	_	_	_	Shift=2092
+27	пародий	_	_	_	_	_	_	_	Shift=2100
+28	на	_	_	_	_	_	_	_	Shift=2108
+29	писателей	_	_	_	_	_	_	_	Shift=2111
+30	из	_	_	_	_	_	_	_	Shift=2121
+31	всех	_	_	_	_	_	_	_	Shift=2124
+32	стран	_	_	_	_	_	_	_	Shift=2129|SpaceAfter=No
+33	,	_	_	_	_	_	_	_	Shift=2134
+34	что	_	_	_	_	_	_	_	Shift=2136
+35	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468841|RuCor_link_id=468840|Shift=2140
+36	издают	_	_	_	_	_	_	_	Shift=2144|SpaceAfter=No
+37	.	_	_	_	_	_	_	_	Shift=2150
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p20
+# par_text = И у читателя не возникало ощущения, что всё это чересчур.
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p20-s1
+# text = И у читателя не возникало ощущения, что всё это чересчур.
+1	И	_	_	_	_	_	_	_	Shift=2152
+2	у	_	_	_	_	_	_	_	Shift=2154
+3	читателя	_	_	_	_	_	_	_	Shift=2156
+4	не	_	_	_	_	_	_	_	Shift=2165
+5	возникало	_	_	_	_	_	_	_	Shift=2168
+6	ощущения	_	_	_	_	_	_	_	Shift=2178|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=2186
+8	что	_	_	_	_	_	_	_	Shift=2188
+9	всё	_	_	_	_	_	_	_	Shift=2192
+10	это	_	_	_	_	_	_	_	Shift=2196
+11	чересчур	_	_	_	_	_	_	_	Shift=2200|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=2208
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p21
+# par_text = Просто играй по правилам, анализируй, включайся.
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p21-s1
+# text = Просто играй по правилам, анализируй, включайся.
+1	Просто	_	_	_	_	_	_	_	Shift=2210
+2	играй	_	_	_	_	_	_	_	Shift=2217
+3	по	_	_	_	_	_	_	_	Shift=2223
+4	правилам	_	_	_	_	_	_	_	Shift=2226|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=2234
+6	анализируй	_	_	_	_	_	_	_	Shift=2236|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=2246
+8	включайся	_	_	_	_	_	_	_	Shift=2248|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=2257
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p22
+# par_text = И жди, что ещё там придумает автор, который не любил повторяться.
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p22-s1
+# text = И жди, что ещё там придумает автор, который не любил повторяться.
+1	И	_	_	_	_	_	_	_	Shift=2259
+2	жди	_	_	_	_	_	_	_	Shift=2261|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=2264
+4	что	_	_	_	_	_	_	_	Shift=2266
+5	ещё	_	_	_	_	_	_	_	Shift=2270
+6	там	_	_	_	_	_	_	_	Shift=2274
+7	придумает	_	_	_	_	_	_	_	Shift=2278
+8	автор	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468842|RuCor_link_id=468841|Shift=2288|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=2293
+10	который	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468843|RuCor_link_id=468842|Shift=2295
+11	не	_	_	_	_	_	_	_	Shift=2303
+12	любил	_	_	_	_	_	_	_	Shift=2306
+13	повторяться	_	_	_	_	_	_	_	Shift=2312|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=2323
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p23
+# par_text = «Кроме того, книгу эту вовсе не обязательно читать целиком, можно прочесть лишь половину или какую-нибудь часть и на этом остановиться, что, кстати, всегда и бывает со словарями», — писал Павич в «Хазарском речнике» (так в оригинале называется «Хазарский словарь»).
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p23-s1
+# text = ``Кроме того, книгу эту вовсе не обязательно читать целиком, можно прочесть лишь половину или какую-нибудь часть и на этом остановиться, что, кстати, всегда и бывает со словарями'', - писал Павич в ``Хазарском речнике'' (так в оригинале называется ``Хазарский словарь'').
+1	``	_	_	_	_	_	_	_	Shift=2325|SpaceAfter=No
+2	Кроме	_	_	_	_	_	_	_	Shift=2326
+3	того	_	_	_	_	_	_	_	Shift=2332|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2336
+5	книгу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1940|RuCor_group_id=468844|RuCor_link_id=468835|Shift=2338
+6	эту	_	_	_	_	_	_	_	RuCor_chain_id=1940|RuCor_group_id=468844|Shift=2344
+7	вовсе	_	_	_	_	_	_	_	Shift=2348
+8	не	_	_	_	_	_	_	_	Shift=2354
+9	обязательно	_	_	_	_	_	_	_	Shift=2357
+10	читать	_	_	_	_	_	_	_	Shift=2369
+11	целиком	_	_	_	_	_	_	_	Shift=2376|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=2383
+13	можно	_	_	_	_	_	_	_	Shift=2385
+14	прочесть	_	_	_	_	_	_	_	Shift=2391
+15	лишь	_	_	_	_	_	_	_	Shift=2400
+16	половину	_	_	_	_	_	_	_	Shift=2405
+17	или	_	_	_	_	_	_	_	Shift=2414
+18	какую-нибудь	_	_	_	_	_	_	_	Shift=2418
+19	часть	_	_	_	_	_	_	_	Shift=2431
+20	и	_	_	_	_	_	_	_	Shift=2437
+21	на	_	_	_	_	_	_	_	Shift=2439
+22	этом	_	_	_	_	_	_	_	Shift=2442
+23	остановиться	_	_	_	_	_	_	_	Shift=2447|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=2459
+25	что	_	_	_	_	_	_	_	Shift=2461|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	Shift=2464
+27	кстати	_	_	_	_	_	_	_	Shift=2466|SpaceAfter=No
+28	,	_	_	_	_	_	_	_	Shift=2472
+29	всегда	_	_	_	_	_	_	_	Shift=2474
+30	и	_	_	_	_	_	_	_	Shift=2481
+31	бывает	_	_	_	_	_	_	_	Shift=2483
+32	со	_	_	_	_	_	_	_	Shift=2490
+33	словарями	_	_	_	_	_	_	_	Shift=2493|SpaceAfter=No
+34	''	_	_	_	_	_	_	_	Shift=2502|SpaceAfter=No
+35	,	_	_	_	_	_	_	_	Shift=2503
+36	-	_	_	_	_	_	_	_	Shift=2505
+37	писал	_	_	_	_	_	_	_	Shift=2507
+38	Павич	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468845|RuCor_link_id=468842|Shift=2513
+39	в	_	_	_	_	_	_	_	Shift=2519
+40	``	_	_	_	_	_	_	_	RuCor_chain_id=1940|RuCor_group_id=468846|Shift=2521|SpaceAfter=No
+41	Хазарском	_	_	_	_	_	_	_	RuCor_chain_id=1940|RuCor_group_id=468846|Shift=2522
+42	речнике	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1940|RuCor_group_id=468846|RuCor_link_id=468844|Shift=2532|SpaceAfter=No
+43	''	_	_	_	_	_	_	_	RuCor_chain_id=1940|RuCor_group_id=468846|Shift=2539
+44	(	_	_	_	_	_	_	_	Shift=2541|SpaceAfter=No
+45	так	_	_	_	_	_	_	_	Shift=2542
+46	в	_	_	_	_	_	_	_	Shift=2546
+47	оригинале	_	_	_	_	_	_	_	Shift=2548
+48	называется	_	_	_	_	_	_	_	Shift=2558
+49	``	_	_	_	_	_	_	_	RuCor_chain_id=1940|RuCor_group_id=468847|Shift=2569|SpaceAfter=No
+50	Хазарский	_	_	_	_	_	_	_	RuCor_chain_id=1940|RuCor_group_id=468847|Shift=2570
+51	словарь	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1940|RuCor_group_id=468847|RuCor_link_id=468846|Shift=2580|SpaceAfter=No
+52	''	_	_	_	_	_	_	_	RuCor_chain_id=1940|RuCor_group_id=468847|Shift=2587|SpaceAfter=No
+53	)	_	_	_	_	_	_	_	Shift=2588|SpaceAfter=No
+54	.	_	_	_	_	_	_	_	Shift=2589
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p24
+# par_text = Второй (после формы) большой любовью Павича были мифы.
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p24-s1
+# text = Второй (после формы) большой любовью Павича были мифы.
+1	Второй	_	_	_	_	_	_	_	Shift=2592
+2	(	_	_	_	_	_	_	_	Shift=2599|SpaceAfter=No
+3	после	_	_	_	_	_	_	_	Shift=2600
+4	формы	_	_	_	_	_	_	_	Shift=2606|SpaceAfter=No
+5	)	_	_	_	_	_	_	_	Shift=2611
+6	большой	_	_	_	_	_	_	_	Shift=2613
+7	любовью	_	_	_	_	_	_	_	Shift=2621
+8	Павича	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468848|RuCor_link_id=468845|Shift=2629
+9	были	_	_	_	_	_	_	_	Shift=2636
+10	мифы	_	_	_	_	_	_	_	Shift=2641|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=2645
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p25
+# par_text = Он писал учебники по сербской литературе и уделял при этом большое внимание народному устному творчеству.
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p25-s1
+# text = Он писал учебники по сербской литературе и уделял при этом большое внимание народному устному творчеству.
+1	Он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468849|RuCor_link_id=468848|Shift=2647
+2	писал	_	_	_	_	_	_	_	Shift=2650
+3	учебники	_	_	_	_	_	_	_	Shift=2656
+4	по	_	_	_	_	_	_	_	Shift=2665
+5	сербской	_	_	_	_	_	_	_	Shift=2668
+6	литературе	_	_	_	_	_	_	_	Shift=2677
+7	и	_	_	_	_	_	_	_	Shift=2688
+8	уделял	_	_	_	_	_	_	_	Shift=2690
+9	при	_	_	_	_	_	_	_	Shift=2697
+10	этом	_	_	_	_	_	_	_	Shift=2701
+11	большое	_	_	_	_	_	_	_	Shift=2706
+12	внимание	_	_	_	_	_	_	_	Shift=2714
+13	народному	_	_	_	_	_	_	_	Shift=2723
+14	устному	_	_	_	_	_	_	_	Shift=2733
+15	творчеству	_	_	_	_	_	_	_	Shift=2741|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=2751
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p26
+# par_text = А для своих художественных книг — придумывал источники, а потом и целую эпоху, которая при этом могла существовать, и всё это — в нескольких вариантах.
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p26-s1
+# text = А для своих художественных книг - придумывал источники, а потом и целую эпоху, которая при этом могла существовать, и всё это - в нескольких вариантах.
+1	А	_	_	_	_	_	_	_	Shift=2753
+2	для	_	_	_	_	_	_	_	Shift=2755
+3	своих	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468850|RuCor_link_id=468849|Shift=2759
+4	художественных	_	_	_	_	_	_	_	Shift=2765
+5	книг	_	_	_	_	_	_	_	Shift=2780
+6	-	_	_	_	_	_	_	_	Shift=2785
+7	придумывал	_	_	_	_	_	_	_	Shift=2787
+8	источники	_	_	_	_	_	_	_	Shift=2798|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=2807
+10	а	_	_	_	_	_	_	_	Shift=2809
+11	потом	_	_	_	_	_	_	_	Shift=2811
+12	и	_	_	_	_	_	_	_	Shift=2817
+13	целую	_	_	_	_	_	_	_	RuCor_chain_id=1944|RuCor_group_id=468851|Shift=2819
+14	эпоху	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1944|RuCor_group_id=468851|RuCor_link_id=0|Shift=2825|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=2830
+16	которая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=1944|RuCor_group_id=468852|RuCor_link_id=468851|Shift=2832
+17	при	_	_	_	_	_	_	_	Shift=2840
+18	этом	_	_	_	_	_	_	_	Shift=2844
+19	могла	_	_	_	_	_	_	_	Shift=2849
+20	существовать	_	_	_	_	_	_	_	Shift=2855|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=2867
+22	и	_	_	_	_	_	_	_	Shift=2869
+23	всё	_	_	_	_	_	_	_	Shift=2871
+24	это	_	_	_	_	_	_	_	Shift=2875
+25	-	_	_	_	_	_	_	_	Shift=2879
+26	в	_	_	_	_	_	_	_	Shift=2881
+27	нескольких	_	_	_	_	_	_	_	Shift=2883
+28	вариантах	_	_	_	_	_	_	_	Shift=2894|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	Shift=2903
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p27
+# par_text = И мечтал о бесконечном пространстве и произвольном времени: в мирах Павича «всегда» и «сейчас» постоянно пересекались, а потому он мог одновременно рассказывать об одновременно действующих хазарах, монахах XVII века и убийцах двух профессоров в почти современном Царьграде.
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p27-s1
+# text = И мечтал о бесконечном пространстве и произвольном времени: в мирах Павича ``всегда'' и ``сейчас'' постоянно пересекались, а потому он мог одновременно рассказывать об одновременно действующих хазарах, монахах XVII века и убийцах двух профессоров в почти современном Царьграде.
+1	И	_	_	_	_	_	_	_	Shift=2905
+2	мечтал	_	_	_	_	_	_	_	Shift=2907
+3	о	_	_	_	_	_	_	_	Shift=2914
+4	бесконечном	_	_	_	_	_	_	_	Shift=2916
+5	пространстве	_	_	_	_	_	_	_	Shift=2928
+6	и	_	_	_	_	_	_	_	Shift=2941
+7	произвольном	_	_	_	_	_	_	_	Shift=2943
+8	времени	_	_	_	_	_	_	_	Shift=2956|SpaceAfter=No
+9	:	_	_	_	_	_	_	_	Shift=2963
+10	в	_	_	_	_	_	_	_	Shift=2965
+11	мирах	_	_	_	_	_	_	_	Shift=2967
+12	Павича	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468853|RuCor_link_id=468845|Shift=2973
+13	``	_	_	_	_	_	_	_	Shift=2980|SpaceAfter=No
+14	всегда	_	_	_	_	_	_	_	Shift=2981|SpaceAfter=No
+15	''	_	_	_	_	_	_	_	Shift=2987
+16	и	_	_	_	_	_	_	_	Shift=2989
+17	``	_	_	_	_	_	_	_	Shift=2991|SpaceAfter=No
+18	сейчас	_	_	_	_	_	_	_	Shift=2992|SpaceAfter=No
+19	''	_	_	_	_	_	_	_	Shift=2998
+20	постоянно	_	_	_	_	_	_	_	Shift=3000
+21	пересекались	_	_	_	_	_	_	_	Shift=3010|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=3022
+23	а	_	_	_	_	_	_	_	Shift=3024
+24	потому	_	_	_	_	_	_	_	Shift=3026
+25	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468854|RuCor_link_id=468853|Shift=3033
+26	мог	_	_	_	_	_	_	_	Shift=3036
+27	одновременно	_	_	_	_	_	_	_	Shift=3040
+28	рассказывать	_	_	_	_	_	_	_	Shift=3053
+29	об	_	_	_	_	_	_	_	Shift=3066
+30	одновременно	_	_	_	_	_	_	_	Shift=3069
+31	действующих	_	_	_	_	_	_	_	Shift=3082
+32	хазарах	_	_	_	_	_	_	_	Shift=3094|SpaceAfter=No
+33	,	_	_	_	_	_	_	_	Shift=3101
+34	монахах	_	_	_	_	_	_	_	Shift=3103
+35	XVII	_	_	_	_	_	_	_	Shift=3111
+36	века	_	_	_	_	_	_	_	Shift=3116
+37	и	_	_	_	_	_	_	_	Shift=3121
+38	убийцах	_	_	_	_	_	_	_	Shift=3123
+39	двух	_	_	_	_	_	_	_	Shift=3131
+40	профессоров	_	_	_	_	_	_	_	Shift=3136
+41	в	_	_	_	_	_	_	_	Shift=3148
+42	почти	_	_	_	_	_	_	_	Shift=3150
+43	современном	_	_	_	_	_	_	_	Shift=3156
+44	Царьграде	_	_	_	_	_	_	_	Shift=3168|SpaceAfter=No
+45	.	_	_	_	_	_	_	_	Shift=3177
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p28
+# par_text = Павич зачастую создавал тексты, которые не так-то легко разложить на графы.
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p28-s1
+# text = Павич зачастую создавал тексты, которые не так-то легко разложить на графы.
+1	Павич	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468855|RuCor_link_id=468853|Shift=3179
+2	зачастую	_	_	_	_	_	_	_	Shift=3185
+3	создавал	_	_	_	_	_	_	_	Shift=3194
+4	тексты	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1945|RuCor_group_id=468856|RuCor_link_id=0|Shift=3203|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=3209
+6	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=1945|RuCor_group_id=468857|RuCor_link_id=468856|Shift=3211
+7	не	_	_	_	_	_	_	_	Shift=3219
+8	так-то	_	_	_	_	_	_	_	Shift=3222
+9	легко	_	_	_	_	_	_	_	Shift=3229
+10	разложить	_	_	_	_	_	_	_	Shift=3235
+11	на	_	_	_	_	_	_	_	Shift=3245
+12	графы	_	_	_	_	_	_	_	Shift=3248|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=3253
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p29
+# par_text = В них от взглядов падают птицы, от тишины цветут волосы, а человек похож на судовой компас: «…вертится вокруг своей оси и видит все четыре стороны света, однако то, что происходит снизу и сверху, остаётся скрытым, оно ему недоступно» .
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p29-s1
+# text = В них от взглядов падают птицы, от тишины цветут волосы, а человек похож на судовой компас: ``... вертится вокруг своей оси и видит все четыре стороны света, однако то, что происходит снизу и сверху, остаётся скрытым, оно ему недоступно''.
+1	В	_	_	_	_	_	_	_	Shift=3255
+2	них	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1945|RuCor_group_id=468858|RuCor_link_id=468857|Shift=3257
+3	от	_	_	_	_	_	_	_	Shift=3261
+4	взглядов	_	_	_	_	_	_	_	Shift=3264
+5	падают	_	_	_	_	_	_	_	Shift=3273
+6	птицы	_	_	_	_	_	_	_	Shift=3280|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=3285
+8	от	_	_	_	_	_	_	_	Shift=3287
+9	тишины	_	_	_	_	_	_	_	Shift=3290
+10	цветут	_	_	_	_	_	_	_	Shift=3297
+11	волосы	_	_	_	_	_	_	_	Shift=3304|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=3310
+13	а	_	_	_	_	_	_	_	Shift=3312
+14	человек	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1946|RuCor_group_id=468859|RuCor_link_id=0|Shift=3314
+15	похож	_	_	_	_	_	_	_	Shift=3322
+16	на	_	_	_	_	_	_	_	Shift=3328
+17	судовой	_	_	_	_	_	_	_	Shift=3331
+18	компас	_	_	_	_	_	_	_	Shift=3339|SpaceAfter=No
+19	:	_	_	_	_	_	_	_	Shift=3345
+20	``	_	_	_	_	_	_	_	Shift=3347|SpaceAfter=No
+21	...	_	_	_	_	_	_	_	Shift=3348
+22	вертится	_	_	_	_	_	_	_	Shift=3349
+23	вокруг	_	_	_	_	_	_	_	Shift=3358
+24	своей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=1946|RuCor_group_id=468860|RuCor_link_id=468859|Shift=3365
+25	оси	_	_	_	_	_	_	_	Shift=3371
+26	и	_	_	_	_	_	_	_	Shift=3375
+27	видит	_	_	_	_	_	_	_	Shift=3377
+28	все	_	_	_	_	_	_	_	Shift=3383
+29	четыре	_	_	_	_	_	_	_	Shift=3387
+30	стороны	_	_	_	_	_	_	_	Shift=3394
+31	света	_	_	_	_	_	_	_	Shift=3402|SpaceAfter=No
+32	,	_	_	_	_	_	_	_	Shift=3407
+33	однако	_	_	_	_	_	_	_	Shift=3409
+34	то	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1947|RuCor_group_id=468861|RuCor_link_id=0|Shift=3416|SpaceAfter=No
+35	,	_	_	_	_	_	_	_	Shift=3418
+36	что	_	_	_	_	_	_	_	Shift=3420
+37	происходит	_	_	_	_	_	_	_	Shift=3424
+38	снизу	_	_	_	_	_	_	_	Shift=3435
+39	и	_	_	_	_	_	_	_	Shift=3441
+40	сверху	_	_	_	_	_	_	_	Shift=3443|SpaceAfter=No
+41	,	_	_	_	_	_	_	_	Shift=3449
+42	остаётся	_	_	_	_	_	_	_	Shift=3451
+43	скрытым	_	_	_	_	_	_	_	Shift=3460|SpaceAfter=No
+44	,	_	_	_	_	_	_	_	Shift=3467
+45	оно	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1947|RuCor_group_id=468862|RuCor_link_id=468861|Shift=3469
+46	ему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1946|RuCor_group_id=468863|RuCor_link_id=468859|Shift=3473
+47	недоступно	_	_	_	_	_	_	_	Shift=3477|SpaceAfter=No
+48	''	_	_	_	_	_	_	_	Shift=3487|SpaceAfter=No
+49	.	_	_	_	_	_	_	_	Shift=3489
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p30
+# par_text = Особенность его лучших произведений в том, что совершенно необязательно в них действительно выстраивать свою версию сюжета — можно просто изучать, как попирается смысл и испаряется быт.
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p30-s1
+# text = Особенность его лучших произведений в том, что совершенно необязательно в них действительно выстраивать свою версию сюжета - можно просто изучать, как попирается смысл и испаряется быт.
+1	Особенность	_	_	_	_	_	_	_	Shift=3491
+2	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1948|RuCor_group_id=468865|RuCor_link_id=468853|Shift=3503
+3	лучших	_	_	_	_	_	_	_	RuCor_chain_id=1948|RuCor_group_id=468865|Shift=3507
+4	произведений	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1948|RuCor_group_id=468865|RuCor_link_id=0|Shift=3514
+5	в	_	_	_	_	_	_	_	Shift=3527
+6	том	_	_	_	_	_	_	_	Shift=3529|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=3532
+8	что	_	_	_	_	_	_	_	Shift=3534
+9	совершенно	_	_	_	_	_	_	_	Shift=3538
+10	необязательно	_	_	_	_	_	_	_	Shift=3549
+11	в	_	_	_	_	_	_	_	Shift=3563
+12	них	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1948|RuCor_group_id=468866|RuCor_link_id=468865|Shift=3565
+13	действительно	_	_	_	_	_	_	_	Shift=3569
+14	выстраивать	_	_	_	_	_	_	_	Shift=3583
+15	свою	_	_	_	_	_	_	_	Shift=3595
+16	версию	_	_	_	_	_	_	_	Shift=3600
+17	сюжета	_	_	_	_	_	_	_	Shift=3607
+18	-	_	_	_	_	_	_	_	Shift=3614
+19	можно	_	_	_	_	_	_	_	Shift=3616
+20	просто	_	_	_	_	_	_	_	Shift=3622
+21	изучать	_	_	_	_	_	_	_	Shift=3629|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=3636
+23	как	_	_	_	_	_	_	_	Shift=3638
+24	попирается	_	_	_	_	_	_	_	Shift=3642
+25	смысл	_	_	_	_	_	_	_	Shift=3653
+26	и	_	_	_	_	_	_	_	Shift=3659
+27	испаряется	_	_	_	_	_	_	_	Shift=3661
+28	быт	_	_	_	_	_	_	_	Shift=3672|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	Shift=3675
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p31
+# par_text = Наиболее близкими к Павичу писателями в этом плане оказываются Кортасар и Борхес — такие же мастера рассказов, пародий и многосоставных романов, создатели литературных калейдоскопов.
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p31-s1
+# text = Наиболее близкими к Павичу писателями в этом плане оказываются Кортасар и Борхес - такие же мастера рассказов, пародий и многосоставных романов, создатели литературных калейдоскопов.
+1	Наиболее	_	_	_	_	_	_	_	Shift=3677
+2	близкими	_	_	_	_	_	_	_	Shift=3686
+3	к	_	_	_	_	_	_	_	Shift=3695
+4	Павичу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468867|RuCor_link_id=468855|Shift=3697
+5	писателями	_	_	_	_	_	_	_	Shift=3704
+6	в	_	_	_	_	_	_	_	Shift=3715
+7	этом	_	_	_	_	_	_	_	Shift=3717
+8	плане	_	_	_	_	_	_	_	Shift=3722
+9	оказываются	_	_	_	_	_	_	_	Shift=3728
+10	Кортасар	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1949|RuCor_group_id=468869|RuCor_link_id=0|Shift=3740
+11	и	_	_	_	_	_	_	_	RuCor_chain_id=1951|RuCor_group_id=468868|Shift=3749
+12	Борхес	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1950|RuCor_group_id=468870|RuCor_link_id=0|Shift=3751
+13	-	_	_	_	_	_	_	_	Shift=3758
+14	такие	_	_	_	_	_	_	_	Shift=3760
+15	же	_	_	_	_	_	_	_	Shift=3766
+16	мастера	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1951|RuCor_group_id=468871|RuCor_link_id=0|Shift=3769
+17	рассказов	_	_	_	_	_	_	_	Shift=3777|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=3786
+19	пародий	_	_	_	_	_	_	_	Shift=3788
+20	и	_	_	_	_	_	_	_	Shift=3796
+21	многосоставных	_	_	_	_	_	_	_	Shift=3798
+22	романов	_	_	_	_	_	_	_	Shift=3813|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=3820
+24	создатели	_	_	_	_	_	_	_	Shift=3822
+25	литературных	_	_	_	_	_	_	_	Shift=3832
+26	калейдоскопов	_	_	_	_	_	_	_	Shift=3845|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=3858
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p32
+# par_text = Фокусники, жонглирующие символами, которые внезапно исчезают, чтобы появиться у читателей на руках в виде козырей, — только вот игра уже закончена, писатель опять победил.
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p32-s1
+# text = Фокусники, жонглирующие символами, которые внезапно исчезают, чтобы появиться у читателей на руках в виде козырей, - только вот игра уже закончена, писатель опять победил.
+1	Фокусники	_	_	_	_	_	_	_	Shift=3860|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=3869
+3	жонглирующие	_	_	_	_	_	_	_	Shift=3871
+4	символами	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1952|RuCor_group_id=468872|RuCor_link_id=0|Shift=3884|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=3893
+6	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1952|RuCor_group_id=468873|RuCor_link_id=468872|Shift=3895
+7	внезапно	_	_	_	_	_	_	_	Shift=3903
+8	исчезают	_	_	_	_	_	_	_	Shift=3912|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=3920
+10	чтобы	_	_	_	_	_	_	_	Shift=3922
+11	появиться	_	_	_	_	_	_	_	Shift=3928
+12	у	_	_	_	_	_	_	_	Shift=3938
+13	читателей	_	_	_	_	_	_	_	Shift=3940
+14	на	_	_	_	_	_	_	_	Shift=3950
+15	руках	_	_	_	_	_	_	_	Shift=3953
+16	в	_	_	_	_	_	_	_	Shift=3959
+17	виде	_	_	_	_	_	_	_	Shift=3961
+18	козырей	_	_	_	_	_	_	_	Shift=3966|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=3973
+20	-	_	_	_	_	_	_	_	Shift=3975
+21	только	_	_	_	_	_	_	_	Shift=3977
+22	вот	_	_	_	_	_	_	_	Shift=3984
+23	игра	_	_	_	_	_	_	_	Shift=3988
+24	уже	_	_	_	_	_	_	_	Shift=3993
+25	закончена	_	_	_	_	_	_	_	Shift=3997|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	Shift=4006
+27	писатель	_	_	_	_	_	_	_	Shift=4008
+28	опять	_	_	_	_	_	_	_	Shift=4017
+29	победил	_	_	_	_	_	_	_	Shift=4023|SpaceAfter=No
+30	.	_	_	_	_	_	_	_	Shift=4030
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p33
+# par_text = Как и Хулио Кортасар, Павич делал ставку на неожиданное развитие сюжета, а причиной иррациональности мира ставил самого человека: обыденность, таким образом, становится трагичной историей.
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p33-s1
+# text = Как и Хулио Кортасар, Павич делал ставку на неожиданное развитие сюжета, а причиной иррациональности мира ставил самого человека: обыденность, таким образом, становится трагичной историей.
+1	Как	_	_	_	_	_	_	_	Shift=4032
+2	и	_	_	_	_	_	_	_	Shift=4036
+3	Хулио	_	_	_	_	_	_	_	RuCor_chain_id=1949|RuCor_group_id=468874|Shift=4038
+4	Кортасар	_	_	_	_	_	_	_	RuCor_chain_id=1949|RuCor_group_id=468874|Shift=4044|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=4052
+6	Павич	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468875|RuCor_link_id=468867|Shift=4054
+7	делал	_	_	_	_	_	_	_	Shift=4060
+8	ставку	_	_	_	_	_	_	_	Shift=4066
+9	на	_	_	_	_	_	_	_	Shift=4073
+10	неожиданное	_	_	_	_	_	_	_	Shift=4076
+11	развитие	_	_	_	_	_	_	_	Shift=4088
+12	сюжета	_	_	_	_	_	_	_	Shift=4097|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=4103
+14	а	_	_	_	_	_	_	_	Shift=4105
+15	причиной	_	_	_	_	_	_	_	Shift=4107
+16	иррациональности	_	_	_	_	_	_	_	Shift=4116
+17	мира	_	_	_	_	_	_	_	Shift=4133
+18	ставил	_	_	_	_	_	_	_	Shift=4138
+19	самого	_	_	_	_	_	_	_	Shift=4145
+20	человека	_	_	_	_	_	_	_	Shift=4152|SpaceAfter=No
+21	:	_	_	_	_	_	_	_	Shift=4160
+22	обыденность	_	_	_	_	_	_	_	Shift=4162|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=4173
+24	таким	_	_	_	_	_	_	_	Shift=4175
+25	образом	_	_	_	_	_	_	_	Shift=4181|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	Shift=4188
+27	становится	_	_	_	_	_	_	_	Shift=4190
+28	трагичной	_	_	_	_	_	_	_	Shift=4201
+29	историей	_	_	_	_	_	_	_	Shift=4211|SpaceAfter=No
+30	.	_	_	_	_	_	_	_	Shift=4219
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p34
+# par_text = Как и Хорхе Луис Борхес, Павич большое внимание уделял теме грёз.
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p34-s1
+# text = Как и Хорхе Луис Борхес, Павич большое внимание уделял теме грёз.
+1	Как	_	_	_	_	_	_	_	Shift=4221
+2	и	_	_	_	_	_	_	_	Shift=4225
+3	Хорхе	_	_	_	_	_	_	_	RuCor_chain_id=1950|RuCor_group_id=468876|Shift=4227
+4	Луис	_	_	_	_	_	_	_	RuCor_chain_id=1950|RuCor_group_id=468876|Shift=4233
+5	Борхес	_	_	_	_	_	_	_	RuCor_chain_id=1950|RuCor_group_id=468876|Shift=4238|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=4244
+7	Павич	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468877|RuCor_link_id=468875|Shift=4246
+8	большое	_	_	_	_	_	_	_	Shift=4252
+9	внимание	_	_	_	_	_	_	_	Shift=4260
+10	уделял	_	_	_	_	_	_	_	Shift=4269
+11	теме	_	_	_	_	_	_	_	Shift=4276
+12	грёз	_	_	_	_	_	_	_	Shift=4281|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=4285
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p35
+# par_text = И любил раскладывать по полочкам явления, предметы и жителей сказочных просторов.
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p35-s1
+# text = И любил раскладывать по полочкам явления, предметы и жителей сказочных просторов.
+1	И	_	_	_	_	_	_	_	Shift=4287
+2	любил	_	_	_	_	_	_	_	Shift=4289
+3	раскладывать	_	_	_	_	_	_	_	Shift=4295
+4	по	_	_	_	_	_	_	_	Shift=4308
+5	полочкам	_	_	_	_	_	_	_	Shift=4311
+6	явления	_	_	_	_	_	_	_	Shift=4320|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=4327
+8	предметы	_	_	_	_	_	_	_	Shift=4329
+9	и	_	_	_	_	_	_	_	Shift=4338
+10	жителей	_	_	_	_	_	_	_	Shift=4340
+11	сказочных	_	_	_	_	_	_	_	Shift=4348
+12	просторов	_	_	_	_	_	_	_	Shift=4358|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=4367
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p36
+# par_text = Сербский гений вполне мог бы стать героем новеллы «Фунес, чудо памяти» и запоминать всё, что он почувствовал.
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p36-s1
+# text = Сербский гений вполне мог бы стать героем новеллы ``Фунес, чудо памяти'' и запоминать всё, что он почувствовал.
+1	Сербский	_	_	_	_	_	_	_	RuCor_chain_id=1939|RuCor_group_id=468878|Shift=4369
+2	гений	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468878|RuCor_link_id=468877|Shift=4378
+3	вполне	_	_	_	_	_	_	_	Shift=4384
+4	мог	_	_	_	_	_	_	_	Shift=4391
+5	бы	_	_	_	_	_	_	_	Shift=4395
+6	стать	_	_	_	_	_	_	_	Shift=4398
+7	героем	_	_	_	_	_	_	_	Shift=4404
+8	новеллы	_	_	_	_	_	_	_	Shift=4411
+9	``	_	_	_	_	_	_	_	Shift=4419|SpaceAfter=No
+10	Фунес	_	_	_	_	_	_	_	Shift=4420|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=4425
+12	чудо	_	_	_	_	_	_	_	Shift=4427
+13	памяти	_	_	_	_	_	_	_	Shift=4432|SpaceAfter=No
+14	''	_	_	_	_	_	_	_	Shift=4438
+15	и	_	_	_	_	_	_	_	Shift=4440
+16	запоминать	_	_	_	_	_	_	_	Shift=4442
+17	всё	_	_	_	_	_	_	_	Shift=4453|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=4456
+19	что	_	_	_	_	_	_	_	Shift=4458
+20	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468879|RuCor_link_id=468878|Shift=4462
+21	почувствовал	_	_	_	_	_	_	_	Shift=4465|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=4477
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p37
+# par_text = А борхесовский сборник о преступниках «Всемирная история низости» отлично пошёл бы в наборе с павичевским «Словарём».
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p37-s1
+# text = А борхесовский сборник о преступниках ``Всемирная история низости'' отлично пошёл бы в наборе с павичевским ``Словарём''.
+1	А	_	_	_	_	_	_	_	Shift=4479
+2	борхесовский	_	_	_	_	_	_	_	RuCor_attrs_ref=misc|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1950|RuCor_group_id=468880|RuCor_link_id=468876|Shift=4481
+3	сборник	_	_	_	_	_	_	_	Shift=4494
+4	о	_	_	_	_	_	_	_	Shift=4502
+5	преступниках	_	_	_	_	_	_	_	Shift=4504
+6	``	_	_	_	_	_	_	_	Shift=4517|SpaceAfter=No
+7	Всемирная	_	_	_	_	_	_	_	Shift=4518
+8	история	_	_	_	_	_	_	_	Shift=4528
+9	низости	_	_	_	_	_	_	_	Shift=4536|SpaceAfter=No
+10	''	_	_	_	_	_	_	_	Shift=4543
+11	отлично	_	_	_	_	_	_	_	Shift=4545
+12	пошёл	_	_	_	_	_	_	_	Shift=4553
+13	бы	_	_	_	_	_	_	_	Shift=4559
+14	в	_	_	_	_	_	_	_	Shift=4562
+15	наборе	_	_	_	_	_	_	_	Shift=4564
+16	с	_	_	_	_	_	_	_	Shift=4571
+17	павичевским	_	_	_	_	_	_	_	RuCor_attrs_ref=misc|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1940|RuCor_group_id=468882|RuCor_link_id=468879|Shift=4573
+18	``	_	_	_	_	_	_	_	RuCor_chain_id=1940|RuCor_group_id=468882|Shift=4585|SpaceAfter=No
+19	Словарём	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1940|RuCor_group_id=468882|RuCor_link_id=468847|Shift=4586|SpaceAfter=No
+20	''	_	_	_	_	_	_	_	RuCor_chain_id=1940|RuCor_group_id=468882|Shift=4594|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=4595
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p38
+# par_text = Как и, конечно же, кортасаровская «Модель для сборки».
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p38-s1
+# text = Как и, конечно же, кортасаровская ``Модель для сборки''.
+1	Как	_	_	_	_	_	_	_	Shift=4597
+2	и	_	_	_	_	_	_	_	Shift=4601|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=4602
+4	конечно	_	_	_	_	_	_	_	Shift=4604
+5	же	_	_	_	_	_	_	_	Shift=4612|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=4614
+7	кортасаровская	_	_	_	_	_	_	_	RuCor_attrs_ref=misc|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1949|RuCor_group_id=468883|RuCor_link_id=468874|Shift=4616
+8	``	_	_	_	_	_	_	_	Shift=4631|SpaceAfter=No
+9	Модель	_	_	_	_	_	_	_	Shift=4632
+10	для	_	_	_	_	_	_	_	Shift=4639
+11	сборки	_	_	_	_	_	_	_	Shift=4643|SpaceAfter=No
+12	''	_	_	_	_	_	_	_	Shift=4649|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=4650
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p39
+# par_text = Всё верно — их можно читать с любого места, в любом количестве, в любом порядке!
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p39-s1
+# text = Всё верно - их можно читать с любого места, в любом количестве, в любом порядке!
+1	Всё	_	_	_	_	_	_	_	Shift=4652
+2	верно	_	_	_	_	_	_	_	Shift=4656
+3	-	_	_	_	_	_	_	_	Shift=4662
+4	их	_	_	_	_	_	_	_	Shift=4664
+5	можно	_	_	_	_	_	_	_	Shift=4667
+6	читать	_	_	_	_	_	_	_	Shift=4673
+7	с	_	_	_	_	_	_	_	Shift=4680
+8	любого	_	_	_	_	_	_	_	Shift=4682
+9	места	_	_	_	_	_	_	_	Shift=4689|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=4694
+11	в	_	_	_	_	_	_	_	Shift=4696
+12	любом	_	_	_	_	_	_	_	Shift=4698
+13	количестве	_	_	_	_	_	_	_	Shift=4704|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=4714
+15	в	_	_	_	_	_	_	_	Shift=4716
+16	любом	_	_	_	_	_	_	_	Shift=4718
+17	порядке	_	_	_	_	_	_	_	Shift=4724|SpaceAfter=No
+18	!	_	_	_	_	_	_	_	Shift=4731
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p40
+# par_text = Впрочем, внимательный поклонник найдёт параллели в его творчестве с «Шумом и яростью» Фолкнера, «Тристрамом Шенди» Стерна, «Улиссом» Джойса.
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p40-s1
+# text = Впрочем, внимательный поклонник найдёт параллели в его творчестве с ``Шумом и яростью'' Фолкнера, ``Тристрамом Шенди'' Стерна, ``Улиссом'' Джойса.
+1	Впрочем	_	_	_	_	_	_	_	Shift=4733|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=4740
+3	внимательный	_	_	_	_	_	_	_	Shift=4742
+4	поклонник	_	_	_	_	_	_	_	Shift=4755
+5	найдёт	_	_	_	_	_	_	_	Shift=4765
+6	параллели	_	_	_	_	_	_	_	Shift=4772
+7	в	_	_	_	_	_	_	_	Shift=4782
+8	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468884|RuCor_link_id=468878|Shift=4784
+9	творчестве	_	_	_	_	_	_	_	Shift=4788
+10	с	_	_	_	_	_	_	_	Shift=4799
+11	``	_	_	_	_	_	_	_	Shift=4801|SpaceAfter=No
+12	Шумом	_	_	_	_	_	_	_	Shift=4802
+13	и	_	_	_	_	_	_	_	Shift=4808
+14	яростью	_	_	_	_	_	_	_	Shift=4810|SpaceAfter=No
+15	''	_	_	_	_	_	_	_	Shift=4817
+16	Фолкнера	_	_	_	_	_	_	_	Shift=4819|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=4827
+18	``	_	_	_	_	_	_	_	Shift=4829|SpaceAfter=No
+19	Тристрамом	_	_	_	_	_	_	_	Shift=4830
+20	Шенди	_	_	_	_	_	_	_	Shift=4841|SpaceAfter=No
+21	''	_	_	_	_	_	_	_	Shift=4846
+22	Стерна	_	_	_	_	_	_	_	Shift=4848|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=4854
+24	``	_	_	_	_	_	_	_	Shift=4856|SpaceAfter=No
+25	Улиссом	_	_	_	_	_	_	_	Shift=4857|SpaceAfter=No
+26	''	_	_	_	_	_	_	_	Shift=4864
+27	Джойса	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1953|RuCor_group_id=468885|RuCor_link_id=0|Shift=4866|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=4872
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p41
+# par_text = Павич не был автором, придумавшим нелинейность для того, чтобы удивить читателя, — он достойным образом продолжал развитие мировой литературы.
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p41-s1
+# text = Павич не был автором, придумавшим нелинейность для того, чтобы удивить читателя, - он достойным образом продолжал развитие мировой литературы.
+1	Павич	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468886|RuCor_link_id=468884|Shift=4874
+2	не	_	_	_	_	_	_	_	Shift=4880
+3	был	_	_	_	_	_	_	_	Shift=4883
+4	автором	_	_	_	_	_	_	_	Shift=4887|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=4894
+6	придумавшим	_	_	_	_	_	_	_	Shift=4896
+7	нелинейность	_	_	_	_	_	_	_	Shift=4908
+8	для	_	_	_	_	_	_	_	Shift=4921
+9	того	_	_	_	_	_	_	_	Shift=4925|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=4929
+11	чтобы	_	_	_	_	_	_	_	Shift=4931
+12	удивить	_	_	_	_	_	_	_	Shift=4937
+13	читателя	_	_	_	_	_	_	_	Shift=4945|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=4953
+15	-	_	_	_	_	_	_	_	Shift=4955
+16	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468887|RuCor_link_id=468886|Shift=4957
+17	достойным	_	_	_	_	_	_	_	Shift=4960
+18	образом	_	_	_	_	_	_	_	Shift=4970
+19	продолжал	_	_	_	_	_	_	_	Shift=4978
+20	развитие	_	_	_	_	_	_	_	Shift=4988
+21	мировой	_	_	_	_	_	_	_	Shift=4997
+22	литературы	_	_	_	_	_	_	_	Shift=5005|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=5015
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p42
+# par_text = Ведь он был писателем, искренне любившим изучать чужие тексты:
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p42-s1
+# text = Ведь он был писателем, искренне любившим изучать чужие тексты:
+1	Ведь	_	_	_	_	_	_	_	Shift=5017
+2	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468888|RuCor_link_id=468886|Shift=5022
+3	был	_	_	_	_	_	_	_	Shift=5025
+4	писателем	_	_	_	_	_	_	_	Shift=5029|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=5038
+6	искренне	_	_	_	_	_	_	_	Shift=5040
+7	любившим	_	_	_	_	_	_	_	Shift=5049
+8	изучать	_	_	_	_	_	_	_	Shift=5058
+9	чужие	_	_	_	_	_	_	_	Shift=5066
+10	тексты	_	_	_	_	_	_	_	Shift=5072|SpaceAfter=No
+11	:	_	_	_	_	_	_	_	Shift=5078
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p43
+# par_text = «Я чувствую, что книги в качестве подарка скоро вообще перестанут восприниматься.
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p43-s1
+# text = ``Я чувствую, что книги в качестве подарка скоро вообще перестанут восприниматься.
+1	``	_	_	_	_	_	_	_	Shift=5080|SpaceAfter=No
+2	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468889|RuCor_link_id=468888|Shift=5081
+3	чувствую	_	_	_	_	_	_	_	Shift=5083|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=5091
+5	что	_	_	_	_	_	_	_	Shift=5093
+6	книги	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1954|RuCor_group_id=468890|RuCor_link_id=0|Shift=5097
+7	в	_	_	_	_	_	_	_	Shift=5103
+8	качестве	_	_	_	_	_	_	_	Shift=5105
+9	подарка	_	_	_	_	_	_	_	Shift=5114
+10	скоро	_	_	_	_	_	_	_	Shift=5122
+11	вообще	_	_	_	_	_	_	_	Shift=5128
+12	перестанут	_	_	_	_	_	_	_	Shift=5135
+13	восприниматься	_	_	_	_	_	_	_	Shift=5146|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=5160
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p44
+# par_text = Люди не будут понимать, что с ними делать, когда прочитают.
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p44-s1
+# text = Люди не будут понимать, что с ними делать, когда прочитают.
+1	Люди	_	_	_	_	_	_	_	Shift=5162
+2	не	_	_	_	_	_	_	_	Shift=5167
+3	будут	_	_	_	_	_	_	_	Shift=5170
+4	понимать	_	_	_	_	_	_	_	Shift=5176|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=5184
+6	что	_	_	_	_	_	_	_	Shift=5186
+7	с	_	_	_	_	_	_	_	Shift=5190
+8	ними	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1954|RuCor_group_id=468891|RuCor_link_id=468890|Shift=5192
+9	делать	_	_	_	_	_	_	_	Shift=5197|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=5203
+11	когда	_	_	_	_	_	_	_	Shift=5205
+12	прочитают	_	_	_	_	_	_	_	Shift=5211|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=5220
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p45
+# par_text = Если прочитают.
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p45-s1
+# text = Если прочитают.
+1	Если	_	_	_	_	_	_	_	Shift=5222
+2	прочитают	_	_	_	_	_	_	_	Shift=5227|SpaceAfter=No
+3	.	_	_	_	_	_	_	_	Shift=5236
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p46
+# par_text = В «Очень большой библиотеке» имени Франсуа Миттерана, построенной из стекла на берегу Сены в Париже, читателей всё меньше и меньше.
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p46-s1
+# text = В ``Очень большой библиотеке'' имени Франсуа Миттерана, построенной из стекла на берегу Сены в Париже, читателей всё меньше и меньше.
+1	В	_	_	_	_	_	_	_	Shift=5238
+2	``	_	_	_	_	_	_	_	Shift=5240|SpaceAfter=No
+3	Очень	_	_	_	_	_	_	_	Shift=5241
+4	большой	_	_	_	_	_	_	_	Shift=5247
+5	библиотеке	_	_	_	_	_	_	_	Shift=5255|SpaceAfter=No
+6	''	_	_	_	_	_	_	_	Shift=5265
+7	имени	_	_	_	_	_	_	_	Shift=5267
+8	Франсуа	_	_	_	_	_	_	_	Shift=5273
+9	Миттерана	_	_	_	_	_	_	_	Shift=5281|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=5290
+11	построенной	_	_	_	_	_	_	_	Shift=5292
+12	из	_	_	_	_	_	_	_	Shift=5304
+13	стекла	_	_	_	_	_	_	_	Shift=5307
+14	на	_	_	_	_	_	_	_	Shift=5314
+15	берегу	_	_	_	_	_	_	_	Shift=5317
+16	Сены	_	_	_	_	_	_	_	Shift=5324
+17	в	_	_	_	_	_	_	_	Shift=5329
+18	Париже	_	_	_	_	_	_	_	Shift=5331|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=5337
+20	читателей	_	_	_	_	_	_	_	Shift=5339
+21	всё	_	_	_	_	_	_	_	Shift=5349
+22	меньше	_	_	_	_	_	_	_	Shift=5353
+23	и	_	_	_	_	_	_	_	Shift=5360
+24	меньше	_	_	_	_	_	_	_	Shift=5362|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=5368
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p47
+# par_text = Я смотрю на свою внучку и вижу, что ей больше нравится получать в подарок CD с видеоиграми или музыкой».
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p47-s1
+# text = Я смотрю на свою внучку и вижу, что ей больше нравится получать в подарок CD с видеоиграми или музыкой''.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468892|RuCor_link_id=468889|Shift=5370
+2	смотрю	_	_	_	_	_	_	_	Shift=5372
+3	на	_	_	_	_	_	_	_	Shift=5379
+4	свою	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1955|RuCor_group_id=468894|RuCor_link_id=468892|Shift=5382
+5	внучку	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1955|RuCor_group_id=468894|RuCor_link_id=0|Shift=5387
+6	и	_	_	_	_	_	_	_	Shift=5394
+7	вижу	_	_	_	_	_	_	_	Shift=5396|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=5400
+9	что	_	_	_	_	_	_	_	Shift=5402
+10	ей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1955|RuCor_group_id=468895|RuCor_link_id=468894|Shift=5406
+11	больше	_	_	_	_	_	_	_	Shift=5409
+12	нравится	_	_	_	_	_	_	_	Shift=5416
+13	получать	_	_	_	_	_	_	_	Shift=5425
+14	в	_	_	_	_	_	_	_	Shift=5434
+15	подарок	_	_	_	_	_	_	_	Shift=5436
+16	CD	_	_	_	_	_	_	_	Shift=5444
+17	с	_	_	_	_	_	_	_	Shift=5447
+18	видеоиграми	_	_	_	_	_	_	_	Shift=5449
+19	или	_	_	_	_	_	_	_	Shift=5461
+20	музыкой	_	_	_	_	_	_	_	Shift=5465|SpaceAfter=No
+21	''	_	_	_	_	_	_	_	Shift=5472|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=5473
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p48
+# par_text = При этом он ратовал за ридеры (чтобы ради бумажных книг не вырубались леса).
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p48-s1
+# text = При этом он ратовал за ридеры (чтобы ради бумажных книг не вырубались леса).
+1	При	_	_	_	_	_	_	_	Shift=5475
+2	этом	_	_	_	_	_	_	_	Shift=5479
+3	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468896|RuCor_link_id=468889|Shift=5484
+4	ратовал	_	_	_	_	_	_	_	Shift=5487
+5	за	_	_	_	_	_	_	_	Shift=5495
+6	ридеры	_	_	_	_	_	_	_	Shift=5498
+7	(	_	_	_	_	_	_	_	Shift=5505|SpaceAfter=No
+8	чтобы	_	_	_	_	_	_	_	Shift=5506
+9	ради	_	_	_	_	_	_	_	Shift=5512
+10	бумажных	_	_	_	_	_	_	_	Shift=5517
+11	книг	_	_	_	_	_	_	_	Shift=5526
+12	не	_	_	_	_	_	_	_	Shift=5531
+13	вырубались	_	_	_	_	_	_	_	Shift=5534
+14	леса	_	_	_	_	_	_	_	Shift=5545|SpaceAfter=No
+15	)	_	_	_	_	_	_	_	Shift=5549|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=5550
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p49
+# par_text = Писал карандашом и ручкой, но обрабатывал тексты на компьютере.
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p49-s1
+# text = Писал карандашом и ручкой, но обрабатывал тексты на компьютере.
+1	Писал	_	_	_	_	_	_	_	Shift=5552
+2	карандашом	_	_	_	_	_	_	_	Shift=5558
+3	и	_	_	_	_	_	_	_	Shift=5569
+4	ручкой	_	_	_	_	_	_	_	Shift=5571|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=5577
+6	но	_	_	_	_	_	_	_	Shift=5579
+7	обрабатывал	_	_	_	_	_	_	_	Shift=5582
+8	тексты	_	_	_	_	_	_	_	Shift=5594
+9	на	_	_	_	_	_	_	_	Shift=5601
+10	компьютере	_	_	_	_	_	_	_	Shift=5604|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=5614
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p50
+# par_text = Играл на компьютере онлайн с женой Ясминой Михайлович, которая написала с ним вместе несколько книг.
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p50-s1
+# text = Играл на компьютере онлайн с женой Ясминой Михайлович, которая написала с ним вместе несколько книг.
+1	Играл	_	_	_	_	_	_	_	Shift=5616
+2	на	_	_	_	_	_	_	_	Shift=5622
+3	компьютере	_	_	_	_	_	_	_	Shift=5625
+4	онлайн	_	_	_	_	_	_	_	Shift=5636
+5	с	_	_	_	_	_	_	_	Shift=5643
+6	женой	_	_	_	_	_	_	_	RuCor_chain_id=1956|RuCor_group_id=468897|Shift=5645
+7	Ясминой	_	_	_	_	_	_	_	RuCor_chain_id=1956|RuCor_group_id=468897|Shift=5651
+8	Михайлович	_	_	_	_	_	_	_	RuCor_chain_id=1956|RuCor_group_id=468897|Shift=5659|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=5669
+10	которая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=1956|RuCor_group_id=468898|RuCor_link_id=468897|Shift=5671
+11	написала	_	_	_	_	_	_	_	Shift=5679
+12	с	_	_	_	_	_	_	_	Shift=5688
+13	ним	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468899|RuCor_link_id=468889|Shift=5690
+14	вместе	_	_	_	_	_	_	_	Shift=5694
+15	несколько	_	_	_	_	_	_	_	Shift=5701
+16	книг	_	_	_	_	_	_	_	Shift=5711|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=5715
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p51
+# par_text = Последнее его произведение — «Мушка. Три коротких нелинейных романа о любви» — совсем недавно было опубликовано и на сербском, и на русском, и на многих других языках.
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p51-s1
+# text = Последнее его произведение - ``Мушка.
+1	Последнее	_	_	_	_	_	_	_	Shift=5717
+2	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468900|RuCor_link_id=468889|Shift=5727
+3	произведение	_	_	_	_	_	_	_	Shift=5731
+4	-	_	_	_	_	_	_	_	Shift=5744
+5	``	_	_	_	_	_	_	_	Shift=5746|SpaceAfter=No
+6	Мушка	_	_	_	_	_	_	_	Shift=5747|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=5752
+
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p51-s2
+# text = Три коротких нелинейных романа о любви'' - совсем недавно было опубликовано и на сербском, и на русском, и на многих других языках.
+1	Три	_	_	_	_	_	_	_	Shift=5754
+2	коротких	_	_	_	_	_	_	_	Shift=5758
+3	нелинейных	_	_	_	_	_	_	_	Shift=5767
+4	романа	_	_	_	_	_	_	_	Shift=5778
+5	о	_	_	_	_	_	_	_	Shift=5785
+6	любви	_	_	_	_	_	_	_	Shift=5787|SpaceAfter=No
+7	''	_	_	_	_	_	_	_	Shift=5792
+8	-	_	_	_	_	_	_	_	Shift=5794
+9	совсем	_	_	_	_	_	_	_	Shift=5796
+10	недавно	_	_	_	_	_	_	_	Shift=5803
+11	было	_	_	_	_	_	_	_	Shift=5811
+12	опубликовано	_	_	_	_	_	_	_	Shift=5816
+13	и	_	_	_	_	_	_	_	Shift=5829
+14	на	_	_	_	_	_	_	_	Shift=5831
+15	сербском	_	_	_	_	_	_	_	Shift=5834|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=5842
+17	и	_	_	_	_	_	_	_	Shift=5844
+18	на	_	_	_	_	_	_	_	Shift=5846
+19	русском	_	_	_	_	_	_	_	Shift=5849|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=5856
+21	и	_	_	_	_	_	_	_	Shift=5858
+22	на	_	_	_	_	_	_	_	Shift=5860
+23	многих	_	_	_	_	_	_	_	Shift=5863
+24	других	_	_	_	_	_	_	_	Shift=5870
+25	языках	_	_	_	_	_	_	_	Shift=5877|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=5883
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p52
+# par_text = Павич был не просто любим в России на расстоянии — он постоянно здесь присутствовал деятельно.
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p52-s1
+# text = Павич был не просто любим в России на расстоянии - он постоянно здесь присутствовал деятельно.
+1	Павич	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468901|RuCor_link_id=468900|Shift=5885
+2	был	_	_	_	_	_	_	_	Shift=5891
+3	не	_	_	_	_	_	_	_	Shift=5895
+4	просто	_	_	_	_	_	_	_	Shift=5898
+5	любим	_	_	_	_	_	_	_	Shift=5905
+6	в	_	_	_	_	_	_	_	Shift=5911
+7	России	_	_	_	_	_	_	_	Shift=5913
+8	на	_	_	_	_	_	_	_	Shift=5920
+9	расстоянии	_	_	_	_	_	_	_	Shift=5923
+10	-	_	_	_	_	_	_	_	Shift=5934
+11	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468902|RuCor_link_id=468901|Shift=5936
+12	постоянно	_	_	_	_	_	_	_	Shift=5939
+13	здесь	_	_	_	_	_	_	_	Shift=5949
+14	присутствовал	_	_	_	_	_	_	_	Shift=5955
+15	деятельно	_	_	_	_	_	_	_	Shift=5969|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=5978
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p53
+# par_text = Состоял в международном совете журнала «Иностранная литература», где в 1991-м появился его «Хазарский словарь», и очень ответственно подходил к этой работе — и авторов рекомендовал, и свои тексты отдавал.
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p53-s1
+# text = Состоял в международном совете журнала ``Иностранная литература'', где в 1991-м появился его ``Хазарский словарь'', и очень ответственно подходил к этой работе - и авторов рекомендовал, и свои тексты отдавал.
+1	Состоял	_	_	_	_	_	_	_	Shift=5980
+2	в	_	_	_	_	_	_	_	Shift=5988
+3	международном	_	_	_	_	_	_	_	Shift=5990
+4	совете	_	_	_	_	_	_	_	Shift=6004
+5	журнала	_	_	_	_	_	_	_	Shift=6011
+6	``	_	_	_	_	_	_	_	Shift=6019|SpaceAfter=No
+7	Иностранная	_	_	_	_	_	_	_	Shift=6020
+8	литература	_	_	_	_	_	_	_	Shift=6032|SpaceAfter=No
+9	''	_	_	_	_	_	_	_	Shift=6042|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=6043
+11	где	_	_	_	_	_	_	_	Shift=6045
+12	в	_	_	_	_	_	_	_	Shift=6049
+13	1991-м	_	_	_	_	_	_	_	Shift=6051
+14	появился	_	_	_	_	_	_	_	Shift=6058
+15	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468904|RuCor_link_id=468901|Shift=6067
+16	``	_	_	_	_	_	_	_	RuCor_chain_id=1940|RuCor_group_id=468903|Shift=6071|SpaceAfter=No
+17	Хазарский	_	_	_	_	_	_	_	RuCor_chain_id=1940|RuCor_group_id=468903|Shift=6072
+18	словарь	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1940|RuCor_group_id=468903|RuCor_link_id=468882|Shift=6082|SpaceAfter=No
+19	''	_	_	_	_	_	_	_	Shift=6089|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=6090
+21	и	_	_	_	_	_	_	_	Shift=6092
+22	очень	_	_	_	_	_	_	_	Shift=6094
+23	ответственно	_	_	_	_	_	_	_	Shift=6100
+24	подходил	_	_	_	_	_	_	_	Shift=6113
+25	к	_	_	_	_	_	_	_	Shift=6122
+26	этой	_	_	_	_	_	_	_	Shift=6124
+27	работе	_	_	_	_	_	_	_	Shift=6129
+28	-	_	_	_	_	_	_	_	Shift=6136
+29	и	_	_	_	_	_	_	_	Shift=6138
+30	авторов	_	_	_	_	_	_	_	Shift=6140
+31	рекомендовал	_	_	_	_	_	_	_	Shift=6148|SpaceAfter=No
+32	,	_	_	_	_	_	_	_	Shift=6160
+33	и	_	_	_	_	_	_	_	Shift=6162
+34	свои	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468905|RuCor_link_id=468901|Shift=6164
+35	тексты	_	_	_	_	_	_	_	Shift=6169
+36	отдавал	_	_	_	_	_	_	_	Shift=6176|SpaceAfter=No
+37	.	_	_	_	_	_	_	_	Shift=6183
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p54
+# par_text = Он даже вел блог на русском языке.
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p54-s1
+# text = Он даже вел блог на русском языке.
+1	Он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468906|RuCor_link_id=468901|Shift=6185
+2	даже	_	_	_	_	_	_	_	Shift=6188
+3	вел	_	_	_	_	_	_	_	Shift=6193
+4	блог	_	_	_	_	_	_	_	Shift=6197
+5	на	_	_	_	_	_	_	_	Shift=6202
+6	русском	_	_	_	_	_	_	_	Shift=6205
+7	языке	_	_	_	_	_	_	_	Shift=6213|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=6218
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p55
+# par_text = А 24 июня 2009-го в Москве Павичу открыли памятник — во внутреннем дворике Библиотеки иностранной литературы (рядом с Джойсом и Фирдоуси).
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p55-s1
+# text = А 24 июня 2009-го в Москве Павичу открыли памятник - во внутреннем дворике Библиотеки иностранной литературы (рядом с Джойсом и Фирдоуси).
+1	А	_	_	_	_	_	_	_	Shift=6220
+2	24	_	_	_	_	_	_	_	Shift=6222
+3	июня	_	_	_	_	_	_	_	Shift=6225
+4	2009-го	_	_	_	_	_	_	_	Shift=6230
+5	в	_	_	_	_	_	_	_	Shift=6238
+6	Москве	_	_	_	_	_	_	_	Shift=6240
+7	Павичу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468907|RuCor_link_id=468906|Shift=6247
+8	открыли	_	_	_	_	_	_	_	Shift=6254
+9	памятник	_	_	_	_	_	_	_	Shift=6262
+10	-	_	_	_	_	_	_	_	Shift=6271
+11	во	_	_	_	_	_	_	_	Shift=6273
+12	внутреннем	_	_	_	_	_	_	_	Shift=6276
+13	дворике	_	_	_	_	_	_	_	Shift=6287
+14	Библиотеки	_	_	_	_	_	_	_	Shift=6295
+15	иностранной	_	_	_	_	_	_	_	Shift=6306
+16	литературы	_	_	_	_	_	_	_	Shift=6318
+17	(	_	_	_	_	_	_	_	Shift=6329|SpaceAfter=No
+18	рядом	_	_	_	_	_	_	_	Shift=6330
+19	с	_	_	_	_	_	_	_	Shift=6336
+20	Джойсом	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1953|RuCor_group_id=468908|RuCor_link_id=468885|Shift=6338
+21	и	_	_	_	_	_	_	_	Shift=6346
+22	Фирдоуси	_	_	_	_	_	_	_	Shift=6348|SpaceAfter=No
+23	)	_	_	_	_	_	_	_	Shift=6356|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=6357
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p56
+# par_text = Плохое самочувствие помешало тогда самому герою присутствовать  на церемонии.
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p56-s1
+# text = Плохое самочувствие помешало тогда самому герою присутствовать на церемонии.
+1	Плохое	_	_	_	_	_	_	_	Shift=6359
+2	самочувствие	_	_	_	_	_	_	_	Shift=6366
+3	помешало	_	_	_	_	_	_	_	Shift=6379
+4	тогда	_	_	_	_	_	_	_	Shift=6388
+5	самому	_	_	_	_	_	_	_	RuCor_chain_id=1939|RuCor_group_id=468909|Shift=6394
+6	герою	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468909|RuCor_link_id=468907|Shift=6401
+7	присутствовать	_	_	_	_	_	_	_	Shift=6407
+8	на	_	_	_	_	_	_	_	Shift=6423
+9	церемонии	_	_	_	_	_	_	_	Shift=6426|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=6435
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p57
+# par_text = А незадолго до своей смерти (он умер чуть меньше года назад) Павич работал над «Сербской книгой мёртвых».
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p57-s1
+# text = А незадолго до своей смерти (он умер чуть меньше года назад) Павич работал над ``Сербской книгой мёртвых''.
+1	А	_	_	_	_	_	_	_	Shift=6437
+2	незадолго	_	_	_	_	_	_	_	Shift=6439
+3	до	_	_	_	_	_	_	_	Shift=6449
+4	своей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468910|RuCor_link_id=468907|Shift=6452
+5	смерти	_	_	_	_	_	_	_	Shift=6458
+6	(	_	_	_	_	_	_	_	Shift=6465|SpaceAfter=No
+7	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468911|RuCor_link_id=468907|Shift=6466
+8	умер	_	_	_	_	_	_	_	Shift=6469
+9	чуть	_	_	_	_	_	_	_	Shift=6474
+10	меньше	_	_	_	_	_	_	_	Shift=6479
+11	года	_	_	_	_	_	_	_	Shift=6486
+12	назад	_	_	_	_	_	_	_	Shift=6491|SpaceAfter=No
+13	)	_	_	_	_	_	_	_	Shift=6496
+14	Павич	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468912|RuCor_link_id=468911|Shift=6498
+15	работал	_	_	_	_	_	_	_	Shift=6504
+16	над	_	_	_	_	_	_	_	Shift=6512
+17	``	_	_	_	_	_	_	_	RuCor_chain_id=1957|RuCor_group_id=468913|Shift=6516|SpaceAfter=No
+18	Сербской	_	_	_	_	_	_	_	RuCor_chain_id=1957|RuCor_group_id=468913|Shift=6517
+19	книгой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1957|RuCor_group_id=468913|RuCor_link_id=0|Shift=6526
+20	мёртвых	_	_	_	_	_	_	_	RuCor_chain_id=1957|RuCor_group_id=468913|Shift=6533|SpaceAfter=No
+21	''	_	_	_	_	_	_	_	RuCor_chain_id=1957|RuCor_group_id=468913|Shift=6540|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=6541
+
+# newpar id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p58
+# par_text = Возможно, он и сейчас над ней работает, ведь, как он говорил в одном из последних своих интервью, «смерть является тем моментом, когда ты перестаёшь жить и обретаешь другое будущее».
+# sent_id = 291d3977-6cf9-4a45-b6fe-ff2c246ea666-p58-s1
+# text = Возможно, он и сейчас над ней работает, ведь, как он говорил в одном из последних своих интервью, ``смерть является тем моментом, когда ты перестаёшь жить и обретаешь другое будущее''.
+1	Возможно	_	_	_	_	_	_	_	Shift=6543|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=6551
+3	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468914|RuCor_link_id=468911|Shift=6553
+4	и	_	_	_	_	_	_	_	Shift=6556
+5	сейчас	_	_	_	_	_	_	_	Shift=6558
+6	над	_	_	_	_	_	_	_	Shift=6565
+7	ней	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1957|RuCor_group_id=468915|RuCor_link_id=468913|Shift=6569
+8	работает	_	_	_	_	_	_	_	Shift=6573|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=6581
+10	ведь	_	_	_	_	_	_	_	Shift=6583|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=6587
+12	как	_	_	_	_	_	_	_	Shift=6589
+13	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468916|RuCor_link_id=468914|Shift=6593
+14	говорил	_	_	_	_	_	_	_	Shift=6596
+15	в	_	_	_	_	_	_	_	Shift=6604
+16	одном	_	_	_	_	_	_	_	Shift=6606
+17	из	_	_	_	_	_	_	_	Shift=6612
+18	последних	_	_	_	_	_	_	_	Shift=6615
+19	своих	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1939|RuCor_group_id=468917|RuCor_link_id=468916|Shift=6625
+20	интервью	_	_	_	_	_	_	_	Shift=6631|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=6639
+22	``	_	_	_	_	_	_	_	Shift=6641|SpaceAfter=No
+23	смерть	_	_	_	_	_	_	_	Shift=6642
+24	является	_	_	_	_	_	_	_	Shift=6649
+25	тем	_	_	_	_	_	_	_	Shift=6658
+26	моментом	_	_	_	_	_	_	_	Shift=6662|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=6670
+28	когда	_	_	_	_	_	_	_	Shift=6672
+29	ты	_	_	_	_	_	_	_	Shift=6678
+30	перестаёшь	_	_	_	_	_	_	_	Shift=6681
+31	жить	_	_	_	_	_	_	_	Shift=6692
+32	и	_	_	_	_	_	_	_	Shift=6697
+33	обретаешь	_	_	_	_	_	_	_	Shift=6699
+34	другое	_	_	_	_	_	_	_	Shift=6709
+35	будущее	_	_	_	_	_	_	_	Shift=6716|SpaceAfter=No
+36	''	_	_	_	_	_	_	_	SpaceAfter=No
+37	.	_	_	_	_	_	_	_	_
+

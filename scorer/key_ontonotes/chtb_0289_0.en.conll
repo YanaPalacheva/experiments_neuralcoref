@@ -1,0 +1,466 @@
+#begin document (chtb_0289_0); part 000
+chtb_0289	0	0	Xinhua	-
+chtb_0289	0	1	News	-
+chtb_0289	0	2	Agency	-
+chtb_0289	0	3	,	-
+chtb_0289	0	4	Beijing	-
+chtb_0289	0	5	,	-
+chtb_0289	0	6	August	-
+chtb_0289	0	7	31st	-
+
+chtb_0289	0	0	The	*	*
+chtb_0289	0	1	main	*	*
+chtb_0289	0	2	Bureau	*	*
+chtb_0289	0	3	of	*	*
+chtb_0289	0	4	Customs	*	*
+chtb_0289	0	5	recently	*	*
+chtb_0289	0	6	issued	*	*
+chtb_0289	0	7	an	*	*
+chtb_0289	0	8	announcement	*	*
+chtb_0289	0	9	that	*	*
+chtb_0289	0	10	Customs	*	*
+chtb_0289	0	11	would	*	*
+chtb_0289	0	12	implement	*	*
+chtb_0289	0	13	protective	*	*
+chtb_0289	0	14	measures	*	*
+chtb_0289	0	15	for	*	*
+chtb_0289	0	16	intellectual	*	*
+chtb_0289	0	17	property	*	*
+chtb_0289	0	18	rights	*	*
+chtb_0289	0	19	at	*	*
+chtb_0289	0	20	border	*	*
+chtb_0289	0	21	entry	*	*
+chtb_0289	0	22	and	*	*
+chtb_0289	0	23	exit	*	*
+chtb_0289	0	24	junctions	*	*
+chtb_0289	0	25	starting	*	*
+chtb_0289	0	26	on	*	*
+chtb_0289	0	27	September	*	*
+chtb_0289	0	28	15th	*	*
+chtb_0289	0	29	,	*	*
+chtb_0289	0	30	1994	*	*
+chtb_0289	0	31	in	*	*
+chtb_0289	0	32	accordance	*	*
+chtb_0289	0	33	with	*	*
+chtb_0289	0	34	currently	*	*
+chtb_0289	0	35	implemented	*	*
+chtb_0289	0	36	related	*	*
+chtb_0289	0	37	laws	*	*
+chtb_0289	0	38	and	*	*
+chtb_0289	0	39	the	*	*
+chtb_0289	0	40	"	*	*
+chtb_0289	0	41	decision	*	*
+chtb_0289	0	42	regarding	*	*
+chtb_0289	0	43	the	*	*
+chtb_0289	0	44	further	*	*
+chtb_0289	0	45	strengthening	*	*
+chtb_0289	0	46	of	*	*
+chtb_0289	0	47	work	(ARG0*)	(ARG0*)
+chtb_0289	0	48	protecting	(V*)	(V*)
+chtb_0289	0	49	intellectual	(ARG1*	(ARG1*
+chtb_0289	0	50	property	*	*
+chtb_0289	0	51	rights	*)	*)
+chtb_0289	0	52	"	*	*
+chtb_0289	0	53	by	*	*
+chtb_0289	0	54	the	*	*
+chtb_0289	0	55	State	*	*
+chtb_0289	0	56	Council	*	*
+chtb_0289	0	57	.	*	*
+
+chtb_0289	0	0	The	*	*
+chtb_0289	0	1	announcement	*	*
+chtb_0289	0	2	clearly	*	*
+chtb_0289	0	3	pointed	*	*
+chtb_0289	0	4	out	*	*
+chtb_0289	0	5	that	*	*
+chtb_0289	0	6	goods	*	*
+chtb_0289	0	7	violating	*	*
+chtb_0289	0	8	intellectual	*	*
+chtb_0289	0	9	property	*	*
+chtb_0289	0	10	rights	*	*
+chtb_0289	0	11	,	*	*
+chtb_0289	0	12	including	*	*
+chtb_0289	0	13	exclusive	*	*
+chtb_0289	0	14	rights	*	*
+chtb_0289	0	15	of	*	*
+chtb_0289	0	16	trademarks	*	*
+chtb_0289	0	17	,	*	*
+chtb_0289	0	18	copyrights	*	*
+chtb_0289	0	19	and	*	*
+chtb_0289	0	20	patent	*	*
+chtb_0289	0	21	rights	*	*
+chtb_0289	0	22	,	*	*
+chtb_0289	0	23	were	*	*
+chtb_0289	0	24	not	*	*
+chtb_0289	0	25	allowed	*	*
+chtb_0289	0	26	to	*	*
+chtb_0289	0	27	be	*	*
+chtb_0289	0	28	imported	*	*
+chtb_0289	0	29	or	*	*
+chtb_0289	0	30	exported	*	*
+chtb_0289	0	31	;	*	*
+chtb_0289	0	32	when	*	*
+chtb_0289	0	33	Customs	*	*
+chtb_0289	0	34	discovers	*	*
+chtb_0289	0	35	the	*	*
+chtb_0289	0	36	import	*	*
+chtb_0289	0	37	and	*	*
+chtb_0289	0	38	export	*	*
+chtb_0289	0	39	of	*	*
+chtb_0289	0	40	goods	*	*
+chtb_0289	0	41	that	*	*
+chtb_0289	0	42	are	*	*
+chtb_0289	0	43	reported	*	*
+chtb_0289	0	44	as	*	*
+chtb_0289	0	45	violating	*	*
+chtb_0289	0	46	rights	*	*
+chtb_0289	0	47	and	*	*
+chtb_0289	0	48	other	(ARG2*	(ARG2*
+chtb_0289	0	49	goods	*)	*)
+chtb_0289	0	50	that	(R-ARG2*)	(R-ARG2*)
+chtb_0289	0	51	were	*	*
+chtb_0289	0	52	suspected	(V*)	(V*)
+chtb_0289	0	53	of	(ARG1*	(ARG1*
+chtb_0289	0	54	violating	*	*
+chtb_0289	0	55	intellectual	*	*
+chtb_0289	0	56	property	*	*
+chtb_0289	0	57	rights	*)	*)
+chtb_0289	0	58	,	*	*
+chtb_0289	0	59	it	*	*
+chtb_0289	0	60	has	*	*
+chtb_0289	0	61	the	*	*
+chtb_0289	0	62	right	*	*
+chtb_0289	0	63	to	*	*
+chtb_0289	0	64	ask	*	*
+chtb_0289	0	65	the	*	*
+chtb_0289	0	66	people	*	*
+chtb_0289	0	67	importing	*	*
+chtb_0289	0	68	and	*	*
+chtb_0289	0	69	exporting	*	*
+chtb_0289	0	70	the	*	*
+chtb_0289	0	71	goods	*	*
+chtb_0289	0	72	to	*	*
+chtb_0289	0	73	provide	*	*
+chtb_0289	0	74	legal	*	*
+chtb_0289	0	75	proof	*	*
+chtb_0289	0	76	of	*	*
+chtb_0289	0	77	use	*	*
+chtb_0289	0	78	of	*	*
+chtb_0289	0	79	related	*	*
+chtb_0289	0	80	intellectual	*	*
+chtb_0289	0	81	property	*	*
+chtb_0289	0	82	rights	*	*
+chtb_0289	0	83	and	*	*
+chtb_0289	0	84	make	*	*
+chtb_0289	0	85	additional	*	*
+chtb_0289	0	86	reports	*	*
+chtb_0289	0	87	to	*	*
+chtb_0289	0	88	Customs	*	*
+chtb_0289	0	89	about	*	*
+chtb_0289	0	90	the	*	*
+chtb_0289	0	91	state	*	*
+chtb_0289	0	92	of	*	*
+chtb_0289	0	93	the	*	*
+chtb_0289	0	94	intellectual	*	*
+chtb_0289	0	95	property	*	*
+chtb_0289	0	96	rights	*	*
+chtb_0289	0	97	of	*	*
+chtb_0289	0	98	goods	*	*
+chtb_0289	0	99	.	*	*
+
+chtb_0289	0	0	Customs	*	*
+chtb_0289	0	1	is	*	*
+chtb_0289	0	2	entitled	*	*
+chtb_0289	0	3	to	*	*
+chtb_0289	0	4	reject	*	*
+chtb_0289	0	5	shipments	*	*
+chtb_0289	0	6	of	*	*
+chtb_0289	0	7	goods	*	*
+chtb_0289	0	8	that	*	*
+chtb_0289	0	9	can	*	*
+chtb_0289	0	10	not	*	*
+chtb_0289	0	11	provide	*	*
+chtb_0289	0	12	legal	*	*
+chtb_0289	0	13	proof	*	*
+chtb_0289	0	14	;	*	*
+chtb_0289	0	15	for	*	*
+chtb_0289	0	16	importing	*	*
+chtb_0289	0	17	and	*	*
+chtb_0289	0	18	exporting	*	*
+chtb_0289	0	19	laser	*	*
+chtb_0289	0	20	discs	*	*
+chtb_0289	0	21	,	*	*
+chtb_0289	0	22	laser	*	*
+chtb_0289	0	23	video	*	*
+chtb_0289	0	24	discs	*	*
+chtb_0289	0	25	and	*	*
+chtb_0289	0	26	importing	*	*
+chtb_0289	0	27	laser	*	*
+chtb_0289	0	28	disc	*	*
+chtb_0289	0	29	molds	*	*
+chtb_0289	0	30	and	*	*
+chtb_0289	0	31	materials	*	*
+chtb_0289	0	32	and	*	*
+chtb_0289	0	33	laser	*	*
+chtb_0289	0	34	videos	*	*
+chtb_0289	0	35	as	*	*
+chtb_0289	0	36	part	*	*
+chtb_0289	0	37	of	*	*
+chtb_0289	0	38	processing	*	*
+chtb_0289	0	39	trade	*	*
+chtb_0289	0	40	,	*	*
+chtb_0289	0	41	the	*	*
+chtb_0289	0	42	consignors	*	*
+chtb_0289	0	43	and	*	*
+chtb_0289	0	44	consignees	*	*
+chtb_0289	0	45	shall	*	*
+chtb_0289	0	46	complete	*	*
+chtb_0289	0	47	Customs	(ARG1*	(ARG1*
+chtb_0289	0	48	formalities	*)	*)
+chtb_0289	0	49	based	(V*)	(V*)
+chtb_0289	0	50	on	(ARG2*	(ARG2*
+chtb_0289	0	51	relevant	*	*
+chtb_0289	0	52	regulations	*	*
+chtb_0289	0	53	of	*	*
+chtb_0289	0	54	the	*	*
+chtb_0289	0	55	country	*)	*)
+chtb_0289	0	56	and	*	*
+chtb_0289	0	57	proof	*	*
+chtb_0289	0	58	of	*	*
+chtb_0289	0	59	approval	*	*
+chtb_0289	0	60	issued	*	*
+chtb_0289	0	61	by	*	*
+chtb_0289	0	62	relevant	*	*
+chtb_0289	0	63	departments	*	*
+chtb_0289	0	64	concerned	*	*
+chtb_0289	0	65	with	*	*
+chtb_0289	0	66	audio	*	*
+chtb_0289	0	67	and	*	*
+chtb_0289	0	68	video	*	*
+chtb_0289	0	69	products	*	*
+chtb_0289	0	70	;	*	*
+chtb_0289	0	71	when	*	*
+chtb_0289	0	72	importing	*	*
+chtb_0289	0	73	and	*	*
+chtb_0289	0	74	exporting	*	*
+chtb_0289	0	75	goods	*	*
+chtb_0289	0	76	,	*	*
+chtb_0289	0	77	if	*	*
+chtb_0289	0	78	the	*	*
+chtb_0289	0	79	consignors	*	*
+chtb_0289	0	80	and	*	*
+chtb_0289	0	81	consignees	*	*
+chtb_0289	0	82	falsify	*	*
+chtb_0289	0	83	conditions	*	*
+chtb_0289	0	84	of	*	*
+chtb_0289	0	85	the	*	*
+chtb_0289	0	86	property	*	*
+chtb_0289	0	87	rights	*	*
+chtb_0289	0	88	of	*	*
+chtb_0289	0	89	the	*	*
+chtb_0289	0	90	goods	*	*
+chtb_0289	0	91	,	*	*
+chtb_0289	0	92	evade	*	*
+chtb_0289	0	93	supervision	*	*
+chtb_0289	0	94	of	*	*
+chtb_0289	0	95	Customs	*	*
+chtb_0289	0	96	,	*	*
+chtb_0289	0	97	and	*	*
+chtb_0289	0	98	smuggle	*	*
+chtb_0289	0	99	goods	*	*
+chtb_0289	0	100	that	*	*
+chtb_0289	0	101	violate	*	*
+chtb_0289	0	102	rights	*	*
+chtb_0289	0	103	,	*	*
+chtb_0289	0	104	Customs	*	*
+chtb_0289	0	105	will	*	*
+chtb_0289	0	106	handle	*	*
+chtb_0289	0	107	them	*	*
+chtb_0289	0	108	in	*	*
+chtb_0289	0	109	accordance	*	*
+chtb_0289	0	110	with	*	*
+chtb_0289	0	111	the	*	*
+chtb_0289	0	112	relevant	*	*
+chtb_0289	0	113	regulations	*	*
+chtb_0289	0	114	.	*	*
+
+chtb_0289	0	0	The	(1
+chtb_0289	0	1	announcement	1)
+chtb_0289	0	2	also	-
+chtb_0289	0	3	made	-
+chtb_0289	0	4	some	-
+chtb_0289	0	5	stipulations	-
+chtb_0289	0	6	about	-
+chtb_0289	0	7	the	-
+chtb_0289	0	8	rights	-
+chtb_0289	0	9	,	-
+chtb_0289	0	10	responsibilities	-
+chtb_0289	0	11	and	-
+chtb_0289	0	12	obligations	-
+chtb_0289	0	13	of	-
+chtb_0289	0	14	the	(3
+chtb_0289	0	15	owners	-
+chtb_0289	0	16	of	-
+chtb_0289	0	17	intellectual	-
+chtb_0289	0	18	property	-
+chtb_0289	0	19	rights	3)
+chtb_0289	0	20	.	-
+
+chtb_0289	0	0	The	(3
+chtb_0289	0	1	owners	-
+chtb_0289	0	2	of	-
+chtb_0289	0	3	intellectual	(7
+chtb_0289	0	4	property	-
+chtb_0289	0	5	rights	7)
+chtb_0289	0	6	who	-
+chtb_0289	0	7	are	-
+chtb_0289	0	8	protected	-
+chtb_0289	0	9	by	-
+chtb_0289	0	10	China	(6
+chtb_0289	0	11	's	6)
+chtb_0289	0	12	law	3)
+chtb_0289	0	13	can	-
+chtb_0289	0	14	report	-
+chtb_0289	0	15	to	-
+chtb_0289	0	16	local	-
+chtb_0289	0	17	Customs	-
+chtb_0289	0	18	when	-
+chtb_0289	0	19	they	(3)
+chtb_0289	0	20	discover	-
+chtb_0289	0	21	that	-
+chtb_0289	0	22	goods	-
+chtb_0289	0	23	that	-
+chtb_0289	0	24	violate	-
+chtb_0289	0	25	their	(7|(3)
+chtb_0289	0	26	rights	7)
+chtb_0289	0	27	are	-
+chtb_0289	0	28	going	-
+chtb_0289	0	29	to	-
+chtb_0289	0	30	be	-
+chtb_0289	0	31	imported	-
+chtb_0289	0	32	or	-
+chtb_0289	0	33	exported	-
+chtb_0289	0	34	.	-
+
+chtb_0289	0	0	Based	*	*
+chtb_0289	0	1	on	*	*
+chtb_0289	0	2	rights	*	*
+chtb_0289	0	3	certificates	*	*
+chtb_0289	0	4	of	*	*
+chtb_0289	0	5	the	*	*
+chtb_0289	0	6	intellectual	*	*
+chtb_0289	0	7	property	*	*
+chtb_0289	0	8	rights	*	*
+chtb_0289	0	9	-LRB-	*	*
+chtb_0289	0	10	for	*	*
+chtb_0289	0	11	example	*	*
+chtb_0289	0	12	certificates	*	*
+chtb_0289	0	13	of	*	*
+chtb_0289	0	14	registration	*	*
+chtb_0289	0	15	of	*	*
+chtb_0289	0	16	intellectual	*	*
+chtb_0289	0	17	property	*	*
+chtb_0289	0	18	rights	*	*
+chtb_0289	0	19	or	*	*
+chtb_0289	0	20	samples	*	*
+chtb_0289	0	21	of	*	*
+chtb_0289	0	22	the	*	*
+chtb_0289	0	23	works	*	*
+chtb_0289	0	24	that	*	*
+chtb_0289	0	25	are	*	*
+chtb_0289	0	26	copyrighted	*	*
+chtb_0289	0	27	and	*	*
+chtb_0289	0	28	related	*	*
+chtb_0289	0	29	materials	*	*
+chtb_0289	0	30	sufficient	*	*
+chtb_0289	0	31	to	*	*
+chtb_0289	0	32	prove	*	*
+chtb_0289	0	33	their	*	*
+chtb_0289	0	34	rights	*	*
+chtb_0289	0	35	-RRB-	*	*
+chtb_0289	0	36	,	*	*
+chtb_0289	0	37	they	*	*
+chtb_0289	0	38	can	*	*
+chtb_0289	0	39	report	*	*
+chtb_0289	0	40	to	*	*
+chtb_0289	0	41	Custom	*	*
+chtb_0289	0	42	locations	*	*
+chtb_0289	0	43	where	*	*
+chtb_0289	0	44	the	*	*
+chtb_0289	0	45	relevant	*	*
+chtb_0289	0	46	goods	*	*
+chtb_0289	0	47	are	*	*
+chtb_0289	0	48	imported	*	*
+chtb_0289	0	49	or	*	*
+chtb_0289	0	50	exported	*	*
+chtb_0289	0	51	and	*	*
+chtb_0289	0	52	also	*	*
+chtb_0289	0	53	request	*	*
+chtb_0289	0	54	Customs	*	*
+chtb_0289	0	55	to	*	*
+chtb_0289	0	56	investigate	*	*
+chtb_0289	0	57	and	*	*
+chtb_0289	0	58	deal	*	*
+chtb_0289	0	59	with	*	*
+chtb_0289	0	60	the	*	*
+chtb_0289	0	61	import	(V*)	(V*)
+chtb_0289	0	62	and	*	*
+chtb_0289	0	63	export	*	*
+chtb_0289	0	64	of	(ARG1*	(ARG1*
+chtb_0289	0	65	goods	*	*
+chtb_0289	0	66	that	*	*
+chtb_0289	0	67	violate	*)	*)
+chtb_0289	0	68	.	*	*
+
+chtb_0289	0	0	Owners	-	-
+chtb_0289	0	1	of	-	-
+chtb_0289	0	2	intellectual	-	-
+chtb_0289	0	3	property	-	-
+chtb_0289	0	4	rights	-	-
+chtb_0289	0	5	,	-	-
+chtb_0289	0	6	when	-	-
+chtb_0289	0	7	requesting	-	-
+chtb_0289	0	8	Customs	(2)	(2)
+chtb_0289	0	9	to	-	-
+chtb_0289	0	10	investigate	-	-
+chtb_0289	0	11	and	-	-
+chtb_0289	0	12	deal	-	-
+chtb_0289	0	13	with	-	-
+chtb_0289	0	14	goods	-	-
+chtb_0289	0	15	that	-	-
+chtb_0289	0	16	violate	-	-
+chtb_0289	0	17	rights	-	-
+chtb_0289	0	18	,	-	-
+chtb_0289	0	19	should	-	-
+chtb_0289	0	20	bear	-	-
+chtb_0289	0	21	responsibility	-	-
+chtb_0289	0	22	for	-	-
+chtb_0289	0	23	reporting	-	-
+chtb_0289	0	24	,	-	-
+chtb_0289	0	25	assist	-	-
+chtb_0289	0	26	Customs	(2)	(2)
+chtb_0289	0	27	to	-	-
+chtb_0289	0	28	develop	-	-
+chtb_0289	0	29	investigation	-	-
+chtb_0289	0	30	work	-	-
+chtb_0289	0	31	and	-	-
+chtb_0289	0	32	pay	-	-
+chtb_0289	0	33	the	-	-
+chtb_0289	0	34	appraisal	-	-
+chtb_0289	0	35	and	-	-
+chtb_0289	0	36	investigation	-	-
+chtb_0289	0	37	of	-	-
+chtb_0289	0	38	the	-	-
+chtb_0289	0	39	related	-	-
+chtb_0289	0	40	goods	-	-
+chtb_0289	0	41	and	-	-
+chtb_0289	0	42	other	-	-
+chtb_0289	0	43	related	-	-
+chtb_0289	0	44	expenses	-	-
+chtb_0289	0	45	.	-	-
+
+chtb_0289	0	0	-LRB-	-
+chtb_0289	0	1	End	-
+chtb_0289	0	2	-RRB-	-
+
+#end document

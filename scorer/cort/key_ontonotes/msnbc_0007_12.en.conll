@@ -1,0 +1,48 @@
+#begin document (msnbc_0007_12); part 000
+msnbc_0007	12	0	Coming	VBG	(TOP(FRAG(S(VP*	come	01	2	Tim_Russert	-
+msnbc_0007	12	1	next	RB	(ADVP*)))	-	-	-	Tim_Russert	-
+msnbc_0007	12	2	,	,	*	-	-	-	Tim_Russert	-
+msnbc_0007	12	3	President	NNP	(S(NP*	-	-	-	Tim_Russert	(116
+msnbc_0007	12	4	Bush	NNP	*)	-	-	-	Tim_Russert	116)
+msnbc_0007	12	5	celebrated	VBD	(VP*	celebrate	01	1	Tim_Russert	-
+msnbc_0007	12	6	his	PRP$	(NP*	-	-	-	Tim_Russert	(116)
+msnbc_0007	12	7	sixtieth	NN	*	-	-	-	Tim_Russert	-
+msnbc_0007	12	8	birthday	NN	*)	-	-	-	Tim_Russert	-
+msnbc_0007	12	9	this	DT	(NP*	-	-	-	Tim_Russert	-
+msnbc_0007	12	10	week	NN	*)))	-	-	-	Tim_Russert	-
+msnbc_0007	12	11	/.	.	*))	-	-	-	Tim_Russert	-
+
+msnbc_0007	12	0	And	CC	(TOP(S*	-	-	-	Tim_Russert	-
+msnbc_0007	12	1	thirty	CD	(ADVP(NP(QP*	-	-	-	Tim_Russert	-
+msnbc_0007	12	2	one	CD	*)	-	-	-	Tim_Russert	-
+msnbc_0007	12	3	years	NNS	*)	-	-	-	Tim_Russert	-
+msnbc_0007	12	4	ago	RB	*)	-	-	-	Tim_Russert	-
+msnbc_0007	12	5	on	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	12	6	Meet	NNP	(NP*	-	-	-	Tim_Russert	(13
+msnbc_0007	12	7	The	DT	*	-	-	-	Tim_Russert	-
+msnbc_0007	12	8	Press	NNP	*))	-	-	-	Tim_Russert	13)
+msnbc_0007	12	9	then	RB	(NP(NML*	-	-	-	Tim_Russert	-
+msnbc_0007	12	10	president	NN	*)	president	-	3	Tim_Russert	-
+msnbc_0007	12	11	Gerald	NNP	*	-	-	-	Tim_Russert	-
+msnbc_0007	12	12	Ford	NNP	*)	-	-	-	Tim_Russert	-
+msnbc_0007	12	13	talked	VBD	(VP*	talk	01	1	Tim_Russert	-
+msnbc_0007	12	14	about	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	12	15	being	VBG	(S(VP(VP*	be	01	-	Tim_Russert	-
+msnbc_0007	12	16	sixty	CD	(ADJP*))	-	-	-	Tim_Russert	-
+msnbc_0007	12	17	and	CC	*	-	-	-	Tim_Russert	-
+msnbc_0007	12	18	serving	VBG	(VP*	serve	01	3	Tim_Russert	-
+msnbc_0007	12	19	as	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	12	20	president	NN	(NP*)))))))	president	-	3	Tim_Russert	-
+msnbc_0007	12	21	/.	.	*))	-	-	-	Tim_Russert	-
+
+msnbc_0007	12	0	Coming	VBG	(TOP(S(VP*	come	11	2	Tim_Russert	-
+msnbc_0007	12	1	up	RP	(PRT*)	-	-	-	Tim_Russert	-
+msnbc_0007	12	2	right	RB	(ADVP*	-	-	-	Tim_Russert	-
+msnbc_0007	12	3	here	RB	*	-	-	-	Tim_Russert	-
+msnbc_0007	12	4	on	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	12	5	Meet	NNP	(NP*	-	-	-	Tim_Russert	(13
+msnbc_0007	12	6	The	DT	*	-	-	-	Tim_Russert	-
+msnbc_0007	12	7	Press	NNP	*))))	-	-	-	Tim_Russert	13)
+msnbc_0007	12	8	/.	.	*))	-	-	-	Tim_Russert	-
+
+#end document

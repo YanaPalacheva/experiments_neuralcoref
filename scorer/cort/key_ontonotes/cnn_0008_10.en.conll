@@ -1,0 +1,1142 @@
+#begin document (cnn_0008_10); part 000
+cnn_0008	10	0	Welcome	VBP	(TOP(S(VP*	welcome	01	2	Howard_Kurtz	-
+cnn_0008	10	1	back	RP	(PRT*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	2	to	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	3	the	DT	(NP(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	4	second	JJ	*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	5	half	NN	*)	half	-	1	Howard_Kurtz	-
+cnn_0008	10	6	of	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	7	Reliable	NNP	(NP*	-	-	-	Howard_Kurtz	(11
+cnn_0008	10	8	Sources	NNPS	*)))))	-	-	-	Howard_Kurtz	11)
+cnn_0008	10	9	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	10	0	Our	PRP$	(TOP(S(NP*	-	-	-	Howard_Kurtz	(11)
+cnn_0008	10	1	new	JJ	*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	2	time	NN	*)	time	-	2	Howard_Kurtz	-
+cnn_0008	10	3	for	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	4	those	DT	(NP(NP(NP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	5	of	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	6	you	PRP	(NP*)))	-	-	-	Howard_Kurtz	-
+cnn_0008	10	7	just	RB	(VP(ADVP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	8	turning	VBG	*	turn	06	-	Howard_Kurtz	-
+cnn_0008	10	9	in	RP	(PRT*))))	-	-	-	Howard_Kurtz	-
+cnn_0008	10	10	is	VBZ	(VP*	be	01	1	Howard_Kurtz	-
+cnn_0008	10	11	ten	CD	(NP(NP(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	12	AM	NN	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	13	eastern	JJ	(NP*))	-	-	-	Howard_Kurtz	-
+cnn_0008	10	14	seven	CD	(NP(NP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	15	on	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	16	the	DT	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	17	west	NN	*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	18	coast	NN	*)))))	-	-	-	Howard_Kurtz	-
+cnn_0008	10	19	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	10	0	And	CC	(TOP(S*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	1	we	PRP	(NP*)	-	-	-	Howard_Kurtz	(11)
+cnn_0008	10	2	'll	MD	(VP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	3	be	VB	(VP*	be	03	-	Howard_Kurtz	-
+cnn_0008	10	4	bringing	VBG	(VP*	bring	01	3	Howard_Kurtz	-
+cnn_0008	10	5	you	PRP	(NP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	6	a	DT	(NP(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	7	full	JJ	*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	8	hour	NN	*)	hour	-	1	Howard_Kurtz	-
+cnn_0008	10	9	of	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	10	media	NNS	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	11	interviews	NNS	*	interview	01	1	Howard_Kurtz	-
+cnn_0008	10	12	and	CC	*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	13	analysis	NN	*)))	analysis	01	1	Howard_Kurtz	-
+cnn_0008	10	14	each	DT	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	15	week	NN	*))))	-	-	-	Howard_Kurtz	-
+cnn_0008	10	16	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	10	0	The	DT	(TOP(S(NP(NP*	-	-	-	Howard_Kurtz	(164	(164
+cnn_0008	10	1	Iraq	NNP	*	-	-	-	Howard_Kurtz	(109)	(109)
+cnn_0008	10	2	story	NN	*)	story	-	1	Howard_Kurtz	-	-
+cnn_0008	10	3	which	WDT	(SBAR(WHNP*)	-	-	-	Howard_Kurtz	-	-
+cnn_0008	10	4	the	DT	(S(NP*	-	-	-	Howard_Kurtz	-	-
+cnn_0008	10	5	media	NNS	*)	-	-	-	Howard_Kurtz	-	-
+cnn_0008	10	6	has	VBZ	(VP*	have	01	-	Howard_Kurtz	-	-
+cnn_0008	10	7	placed	VBN	(VP*	place	01	1	Howard_Kurtz	-	-
+cnn_0008	10	8	on	IN	(PP*	-	-	-	Howard_Kurtz	-	-
+cnn_0008	10	9	the	DT	(NP*	-	-	-	Howard_Kurtz	-	-
+cnn_0008	10	10	back	JJ	*	-	-	-	Howard_Kurtz	-	-
+cnn_0008	10	11	burner	NN	*))	-	-	-	Howard_Kurtz	-	-
+cnn_0008	10	12	in	IN	(PP*	-	-	-	Howard_Kurtz	-	-
+cnn_0008	10	13	recent	JJ	(NP*	-	-	-	Howard_Kurtz	-	-
+cnn_0008	10	14	months	NNS	*)))))))	month	-	2	Howard_Kurtz	164)	164)
+cnn_0008	10	15	is	VBZ	(VP*	be	03	-	Howard_Kurtz	-	-
+cnn_0008	10	16	simmering	VBG	(VP*	simmer	01	2	Howard_Kurtz	-	-
+cnn_0008	10	17	again	RB	(ADVP*)	-	-	-	Howard_Kurtz	-	-
+cnn_0008	10	18	as	IN	(SBAR*	-	-	-	Howard_Kurtz	-	-
+cnn_0008	10	19	voters	NNS	(S(NP(NP*)	-	-	-	Howard_Kurtz	-	-
+cnn_0008	10	20	in	IN	(PP*	-	-	-	Howard_Kurtz	-	-
+cnn_0008	10	21	that	DT	(NP*	-	-	-	Howard_Kurtz	(109	(109
+cnn_0008	10	22	war	NN	(ADJP*	war	-	1	Howard_Kurtz	-	-
+cnn_0008	10	23	torn	VBN	*)	tear	01	-	Howard_Kurtz	-	-
+cnn_0008	10	24	country	NN	*)))	country	-	3	Howard_Kurtz	109)	109)
+cnn_0008	10	25	went	VBD	(VP*	go	02	1	Howard_Kurtz	-	-
+cnn_0008	10	26	to	IN	(PP*	-	-	-	Howard_Kurtz	-	-
+cnn_0008	10	27	the	DT	(NP*	-	-	-	Howard_Kurtz	-	-
+cnn_0008	10	28	polls	NNS	*))	-	-	-	Howard_Kurtz	-	-
+cnn_0008	10	29	yesterday	NN	(NP*)	yesterday	-	1	Howard_Kurtz	-	-
+cnn_0008	10	30	to	TO	(S(VP*	-	-	-	Howard_Kurtz	-	-
+cnn_0008	10	31	vote	VB	(VP*	vote	01	1	Howard_Kurtz	-	-
+cnn_0008	10	32	on	IN	(PP*	-	-	-	Howard_Kurtz	-	-
+cnn_0008	10	33	a	DT	(NP*	-	-	-	Howard_Kurtz	-	-
+cnn_0008	10	34	new	JJ	*	-	-	-	Howard_Kurtz	-	-
+cnn_0008	10	35	constitution	NN	*))))))))	-	-	-	Howard_Kurtz	-	-
+cnn_0008	10	36	with	IN	(PP*	-	-	-	Howard_Kurtz	-	-
+cnn_0008	10	37	the	DT	(S(NP*	-	-	-	Howard_Kurtz	-	-
+cnn_0008	10	38	results	NNS	*)	result	-	3	Howard_Kurtz	-	-
+cnn_0008	10	39	yet	RB	(ADVP*)	-	-	-	Howard_Kurtz	-	-
+cnn_0008	10	40	to	TO	(VP*	-	-	-	Howard_Kurtz	-	-
+cnn_0008	10	41	be	VB	(VP*	be	03	-	Howard_Kurtz	-	-
+cnn_0008	10	42	counted	VBN	(VP*)))))))	count	01	-	Howard_Kurtz	-	-
+cnn_0008	10	43	/.	.	*))	-	-	-	Howard_Kurtz	-	-
+
+cnn_0008	10	0	But	CC	(TOP(SQ*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	1	are	VBP	*	be	03	-	Howard_Kurtz	-
+cnn_0008	10	2	journalists	NNS	(NP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	3	getting	VBG	(VP*	get	01	1	Howard_Kurtz	-
+cnn_0008	10	4	the	DT	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	5	real	JJ	*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	6	story	NN	*)	story	-	4	Howard_Kurtz	-
+cnn_0008	10	7	there	RB	(ADVP*))	-	-	-	Howard_Kurtz	-
+cnn_0008	10	8	/?	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	10	0	To	TO	(TOP(S(S(VP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	1	help	VB	(VP*	help	01	1	Howard_Kurtz	-
+cnn_0008	10	2	us	PRP	(S(NP*)	-	-	-	Howard_Kurtz	(11)
+cnn_0008	10	3	scrutinize	VB	(VP*	scrutinize	01	1	Howard_Kurtz	-
+cnn_0008	10	4	the	DT	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	5	coverage	NN	*))))))	coverage	03	3	Howard_Kurtz	-
+cnn_0008	10	6	I	PRP	(NP*)	-	-	-	Howard_Kurtz	(216)
+cnn_0008	10	7	sat	VBD	(VP*	sit	02	1	Howard_Kurtz	-
+cnn_0008	10	8	down	RP	(PRT*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	9	with	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	10	a	DT	(NP(NP(NP*	-	-	-	Howard_Kurtz	(59
+cnn_0008	10	11	foreign	JJ	(NML*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	12	affairs	NNS	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	13	columnist	NN	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	14	of	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	15	the	DT	(NP*	-	-	-	Howard_Kurtz	(190
+cnn_0008	10	16	New	NNP	(NML*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	17	York	NNP	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	18	Times	NNP	*)))	-	-	-	Howard_Kurtz	190)
+cnn_0008	10	19	three	CD	(NP(NP(NML(NML*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	20	time	NN	*)	time	-	1	Howard_Kurtz	-
+cnn_0008	10	21	Pulitzer	NNP	*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	22	winner	NN	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	23	Tom	NNP	*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	24	Friedman	NNP	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	25	and	CC	*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	26	the	DT	(NP(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	27	author	NN	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	28	most	RBS	(ADVP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	29	recently	RB	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	30	of	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	31	The	DT	(S(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	32	World	NN	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	33	is	VBZ	(VP*	be	01	1	Howard_Kurtz	-
+cnn_0008	10	34	Flat	JJ	(ADJP*)))))))))	-	-	-	Howard_Kurtz	59)
+cnn_0008	10	35	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	10	0	Tom	NNP	(TOP(FRAG(NP*	-	-	-	Howard_Kurtz	(59
+cnn_0008	10	1	Friedman	NNP	*)	-	-	-	Howard_Kurtz	59)
+cnn_0008	10	2	welcome	UH	(INTJ*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	3	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	10	0	Good	JJ	(TOP(FRAG(ADJP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	1	to	TO	(S(VP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	2	be	VB	(VP*	be	01	4	Tom_Friedman	-
+cnn_0008	10	3	here	RB	(ADVP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	4	Howie	NNP	(NP*))))	-	-	-	Tom_Friedman	(216)
+cnn_0008	10	5	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	thank	VBP	(TOP(S(VP*	thank	01	1	Tom_Friedman	-
+cnn_0008	10	1	you	PRP	(NP*))	-	-	-	Tom_Friedman	(216)
+cnn_0008	10	2	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	The	DT	(TOP(S(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	1	other	JJ	*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	2	day	NN	*)	day	-	3	Howard_Kurtz	-
+cnn_0008	10	3	you	PRP	(NP*)	-	-	-	Howard_Kurtz	(59)
+cnn_0008	10	4	wrote	VBD	(VP*	write	01	1	Howard_Kurtz	-
+cnn_0008	10	5	that	IN	(SBAR*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	6	if	IN	(S(SBAR*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	7	you	PRP	(S(NP*)	-	-	-	Howard_Kurtz	(59)
+cnn_0008	10	8	were	VBD	(VP*	be	01	1	Howard_Kurtz	-
+cnn_0008	10	9	the	DT	(NP(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	10	editor	NN	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	11	of	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	12	the	DT	(NP*	-	-	-	Howard_Kurtz	(190
+cnn_0008	10	13	New	NNP	(NML*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	14	York	NNP	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	15	Times	NNP	*))))))	-	-	-	Howard_Kurtz	190)
+cnn_0008	10	16	you	PRP	(NP*)	-	-	-	Howard_Kurtz	(59)
+cnn_0008	10	17	would	MD	(VP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	18	've	VB	(VP*	have	01	12	Howard_Kurtz	-
+cnn_0008	10	19	led	VBN	(VP*	lead	01	2	Howard_Kurtz	-
+cnn_0008	10	20	the	DT	(NP*	-	-	-	Howard_Kurtz	(190
+cnn_0008	10	21	paper	NN	*)	paper	-	2	Howard_Kurtz	190)
+cnn_0008	10	22	with	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	23	the	DT	(NP(NP*	-	-	-	Howard_Kurtz	(103
+cnn_0008	10	24	news	NN	*)	news	-	1	Howard_Kurtz	-
+cnn_0008	10	25	of	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	26	recent	JJ	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	27	days	NNS	*))	day	-	4	Howard_Kurtz	-
+cnn_0008	10	28	that	IN	(SBAR*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	29	a	DT	(S(NP*	-	-	-	Howard_Kurtz	(117
+cnn_0008	10	30	Sunni	NNP	*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	31	suicide	NN	*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	32	bomber	NN	*)	-	-	-	Howard_Kurtz	117)
+cnn_0008	10	33	on	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	34	Ramadan	NNP	(NP*))	-	-	-	Howard_Kurtz	(165)
+cnn_0008	10	35	had	VBD	(VP*	have	01	-	Howard_Kurtz	-
+cnn_0008	10	36	attacked	VBN	(VP*	attack	01	1	Howard_Kurtz	-
+cnn_0008	10	37	a	DT	(NP*	-	-	-	Howard_Kurtz	(189
+cnn_0008	10	38	Shiite	JJ	*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	39	mosque	NN	*)))))))))))))	-	-	-	Howard_Kurtz	189)|103)
+cnn_0008	10	40	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	10	0	Now	UH	(TOP(S(INTJ*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	1	in	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	2	reality	NN	(NP*))	reality	-	1	Howard_Kurtz	-
+cnn_0008	10	3	the	DT	(NP(NP(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	4	world	NN	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	5	that	WDT	(SBAR(WHNP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	6	you	PRP	(S(NP*)	-	-	-	Howard_Kurtz	(59)
+cnn_0008	10	7	do	VBP	(VP*	do	01	-	Howard_Kurtz	-
+cnn_0008	10	8	n't	RB	*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	9	rule	VB	(VP*)))))	rule	03	1	Howard_Kurtz	-
+cnn_0008	10	10	New	NNP	(NP(NP(NML*	-	-	-	Howard_Kurtz	(190
+cnn_0008	10	11	York	NNP	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	12	Times	NNP	*)	-	-	-	Howard_Kurtz	190)
+cnn_0008	10	13	Washington	NNP	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	14	Post	NNP	*)))	-	-	-	Howard_Kurtz	-
+cnn_0008	10	15	made	VBD	(VP*	make	02	3	Howard_Kurtz	-
+cnn_0008	10	16	that	DT	(S(NP*)	-	-	-	Howard_Kurtz	(103)
+cnn_0008	10	17	part	NN	(NP(NP*)	part	-	1	Howard_Kurtz	-
+cnn_0008	10	18	of	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	19	a	DT	(NP(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	20	larger	JJR	*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	21	story	NN	*)	story	-	1	Howard_Kurtz	-
+cnn_0008	10	22	on	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	23	Iraq	NNP	(NP*)))))))	-	-	-	Howard_Kurtz	(109)
+cnn_0008	10	24	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	10	0	Uh	UH	(TOP(S(INTJ*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	1	nobody	NN	(NP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	2	put	VBD	(VP*	put	01	1	Howard_Kurtz	-
+cnn_0008	10	3	it	PRP	(NP*)	-	-	-	Howard_Kurtz	(103)
+cnn_0008	10	4	on	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	5	the	DT	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	6	front	JJ	*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	7	page	NN	*)))	page	-	1	Howard_Kurtz	-
+cnn_0008	10	8	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	10	0	Bad	JJ	(TOP(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	1	news	NN	*	news	-	1	Howard_Kurtz	-
+cnn_0008	10	2	judgement	NN	*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	3	/?	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	10	0	Uh	UH	(TOP(S(INTJ*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	1	I	PRP	(NP*)	-	-	-	Tom_Friedman	(59)
+cnn_0008	10	2	think	VBP	(VP*	think	01	1	Tom_Friedman	-
+cnn_0008	10	3	so	RB	(ADVP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	4	Howie	NNP	(NP*))	-	-	-	Tom_Friedman	(216)
+cnn_0008	10	5	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	I	PRP	(TOP(S(NP*)	-	-	-	Tom_Friedman	(59)
+cnn_0008	10	1	'm	VBP	(VP*	be	01	4	Tom_Friedman	-
+cnn_0008	10	2	not	RB	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	3	here	RB	(ADVP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	4	to	TO	(S(VP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	5	make	VB	(VP*	make	01	2	Tom_Friedman	-
+cnn_0008	10	6	a	DT	(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	7	news	NN	*	news	-	1	Tom_Friedman	-
+cnn_0008	10	8	point	NN	*)	point	-	4	Tom_Friedman	-
+cnn_0008	10	9	though	RB	(ADVP*)))))	-	-	-	Tom_Friedman	-
+cnn_0008	10	10	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	I	PRP	(TOP(S(NP*)	-	-	-	Tom_Friedman	(59)
+cnn_0008	10	1	'm	VBP	(VP*	be	03	-	Tom_Friedman	-
+cnn_0008	10	2	really	RB	(ADVP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	3	making	VBG	(VP*	make	01	2	Tom_Friedman	-
+cnn_0008	10	4	a	DT	(NP(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	5	larger	JJR	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	6	point	NN	*)	point	-	4	Tom_Friedman	-
+cnn_0008	10	7	which	WDT	(SBAR(WHNP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	8	is	VBZ	(S(VP*	be	01	1	Tom_Friedman	-
+cnn_0008	10	9	about	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	10	the	DT	(NP(NP*	-	-	-	Tom_Friedman	(16
+cnn_0008	10	11	war	NN	*)	war	01	1	Tom_Friedman	-
+cnn_0008	10	12	on	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	13	terrorism	NN	(NP*))))))))))	-	-	-	Tom_Friedman	16)
+cnn_0008	10	14	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	I	PRP	(TOP(S(NP*)	-	-	-	Tom_Friedman	(59)
+cnn_0008	10	1	'm	VBP	(VP*	be	01	1	Tom_Friedman	-
+cnn_0008	10	2	a	DT	(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	3	firm	JJ	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	4	believer	NN	*))	-	-	-	Tom_Friedman	-
+cnn_0008	10	5	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	How	WRB	(TOP(SBARQ(WHADVP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	1	we	PRP	(SQ(NP*)	-	-	-	Tom_Friedman	(29)
+cnn_0008	10	2	ever	RB	(ADVP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	3	going	VBG	(VP*	go	04	7	Tom_Friedman	-
+cnn_0008	10	4	to	TO	(S(VP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	5	win	VB	(VP*	win	01	1	Tom_Friedman	(97)
+cnn_0008	10	6	this	DT	(NP*	-	-	-	Tom_Friedman	(16
+cnn_0008	10	7	war	NN	*))))))	war	01	1	Tom_Friedman	16)
+cnn_0008	10	8	/?	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	We	PRP	(TOP(S(NP*)	-	-	-	Tom_Friedman	(29)
+cnn_0008	10	1	're	VBP	(VP*	be	03	-	Tom_Friedman	-
+cnn_0008	10	2	never	RB	(ADVP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	3	going	VBG	(VP*	go	04	7	Tom_Friedman	-
+cnn_0008	10	4	to	TO	(S(VP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	5	win	VB	(VP*	win	01	1	Tom_Friedman	(97)
+cnn_0008	10	6	it	PRP	(NP*)	-	-	-	Tom_Friedman	(16)
+cnn_0008	10	7	by	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	8	way	NN	(NP(NP*)	way	-	8	Tom_Friedman	-
+cnn_0008	10	9	of	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	10	American	JJ	(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	11	intelligence	NN	*))))	-	-	-	Tom_Friedman	-
+cnn_0008	10	12	finding	VBG	(S(VP*	find	01	1	Tom_Friedman	-
+cnn_0008	10	13	this	DT	(NP(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	14	terrorist	NN	*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	15	or	CC	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	16	that	DT	(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	17	terrorist	NN	*)))))))))	-	-	-	Tom_Friedman	-
+cnn_0008	10	18	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	We	PRP	(TOP(S(NP*)	-	-	-	Tom_Friedman	(29)
+cnn_0008	10	1	get	VBP	(VP*	get	03	3	Tom_Friedman	-
+cnn_0008	10	2	lucky	JJ	(ADJP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	3	every	DT	(ADVP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	4	once	RB	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	5	in	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	6	a	DT	(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	7	while	NN	*))))	-	-	-	Tom_Friedman	-
+cnn_0008	10	8	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	but	CC	(TOP(S*	-	-	-	Tom_Friedman	-
+cnn_0008	10	1	there	EX	(S(NP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	2	's	VBZ	(VP*	be	02	3	Tom_Friedman	-
+cnn_0008	10	3	only	JJ	(NP(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	4	{one?}	CD	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	5	way	NN	*)	way	-	2	Tom_Friedman	-
+cnn_0008	10	6	we	PRP	(SBAR(S(NP*)	-	-	-	Tom_Friedman	(29)
+cnn_0008	10	7	win	VBP	(VP*	win	01	1	Tom_Friedman	(97)
+cnn_0008	10	8	this	DT	(NP*	-	-	-	Tom_Friedman	(16
+cnn_0008	10	9	war	NN	*)	war	01	1	Tom_Friedman	16)
+cnn_0008	10	10	Howie	NNP	(NP*)))))))	-	-	-	Tom_Friedman	(216)
+cnn_0008	10	11	is	VBZ	(VP*	be	01	1	Tom_Friedman	-
+cnn_0008	10	12	it	PRP	(S(NP*)	-	-	-	Tom_Friedman	(97)
+cnn_0008	10	13	takes	VBZ	(VP*	take	01	3	Tom_Friedman	-
+cnn_0008	10	14	a	DT	(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	15	village	NN	*))))	village	-	1	Tom_Friedman	-
+cnn_0008	10	16	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	It	PRP	(TOP(S(NP*)	-	-	-	Tom_Friedman	(97)
+cnn_0008	10	1	only	RB	(ADVP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	2	happens	VBZ	(VP*	happen	01	1	Tom_Friedman	-
+cnn_0008	10	3	when	WRB	(SBAR(SBAR(WHADVP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	4	the	DT	(S(NP*	-	-	-	Tom_Friedman	(202
+cnn_0008	10	5	Sunni	NNP	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	6	Muslim	NNP	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	7	world	NN	*)	-	-	-	Tom_Friedman	202)
+cnn_0008	10	8	basically	RB	(ADVP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	9	turns	VBZ	(VP*	turn	06	11	Tom_Friedman	-
+cnn_0008	10	10	people	NNS	(NP*)	people	-	1	Tom_Friedman	-
+cnn_0008	10	11	in	RP	(PRT*))))	-	-	-	Tom_Friedman	-
+cnn_0008	10	12	and	CC	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	13	when	WRB	(SBAR(WHADVP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	14	the	DT	(S(NP*	-	-	-	Tom_Friedman	(202
+cnn_0008	10	15	Sunni	NNP	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	16	Muslim	NNP	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	17	world	NN	*)	-	-	-	Tom_Friedman	202)
+cnn_0008	10	18	restrains	NNS	(VP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	19	their	PRP$	(NP*	-	-	-	Tom_Friedman	(202)
+cnn_0008	10	20	own	JJ	*))))))	-	-	-	Tom_Friedman	-
+cnn_0008	10	21	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	And	CC	(TOP(S*	-	-	-	Tom_Friedman	-
+cnn_0008	10	1	what	WP	(SBAR(WHNP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	2	was	VBD	(S(VP*	be	01	1	Tom_Friedman	-
+cnn_0008	10	3	so	RB	(ADJP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	4	shocking	JJ	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	5	to	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	6	me	PRP	(NP*))	-	-	-	Tom_Friedman	(59)
+cnn_0008	10	7	about	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	8	this	DT	(NP*	-	-	-	Tom_Friedman	(103
+cnn_0008	10	9	story	NN	*))))))	story	-	1	Tom_Friedman	103)
+cnn_0008	10	10	a	DT	(NP*	-	-	-	Tom_Friedman	(117
+cnn_0008	10	11	Sunni	NNP	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	12	Jihadi	NNP	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	13	suicide	NN	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	14	bomber	NN	*)	-	-	-	Tom_Friedman	117)
+cnn_0008	10	15	blows	VBZ	(VP*	blow	06	4	Tom_Friedman	(1)
+cnn_0008	10	16	up	RP	(PRT*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	17	a	DT	(NP*	-	-	-	Tom_Friedman	(189
+cnn_0008	10	18	mosque	NN	*)	-	-	-	Tom_Friedman	189)
+cnn_0008	10	19	number	NN	(LST*	number	-	2	Tom_Friedman	-
+cnn_0008	10	20	one	CD	*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	21	on	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	22	the	DT	(NP(NP*	-	-	-	Tom_Friedman	(187
+cnn_0008	10	23	first	JJ	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	24	day	NN	*)	day	-	2	Tom_Friedman	-
+cnn_0008	10	25	of	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	26	Ramadan	NNP	(NP*)))))	-	-	-	Tom_Friedman	(165)|187)
+cnn_0008	10	27	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	What	WP	(TOP(S(SBAR(WHNP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	1	that	DT	(S(NP*)	-	-	-	Tom_Friedman	(1)
+cnn_0008	10	2	tells	VBZ	(VP*	tell	01	1	Tom_Friedman	-
+cnn_0008	10	3	you	PRP	(NP*))))	-	-	-	Tom_Friedman	-
+cnn_0008	10	4	is	VBZ	(VP*	be	01	1	Tom_Friedman	-
+cnn_0008	10	5	that	IN	(SBAR*	-	-	-	Tom_Friedman	-
+cnn_0008	10	6	there	EX	(S(NP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	7	's	VBZ	(VP*	be	02	3	Tom_Friedman	-
+cnn_0008	10	8	no	DT	(NP(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	9	controlling	VBG	*	control	01	-	Tom_Friedman	-
+cnn_0008	10	10	moral	JJ	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	11	authority	NN	*)	authority	-	1	Tom_Friedman	-
+cnn_0008	10	12	today	NN	(NP*)	today	-	1	Tom_Friedman	(105)
+cnn_0008	10	13	in	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	14	the	DT	(NP*	-	-	-	Tom_Friedman	(202
+cnn_0008	10	15	Sunni	NNP	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	16	Muslim	NNP	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	17	world	NN	*)))))))	-	-	-	Tom_Friedman	202)
+cnn_0008	10	18	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	Well	UH	(TOP(SBARQ(INTJ*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	1	what	WP	(WHNP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	2	is	VBZ	(SQ*	be	01	1	Howard_Kurtz	-
+cnn_0008	10	3	the	DT	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	4	bigger	JJR	*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	5	story	NN	*))	story	-	6	Howard_Kurtz	-
+cnn_0008	10	6	/?	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	10	0	And	CC	(TOP(S*	-	-	-	Tom_Friedman	-
+cnn_0008	10	1	that	DT	(NP*)	-	-	-	Tom_Friedman	(103)
+cnn_0008	10	2	is	VBZ	(VP*	be	01	1	Tom_Friedman	-
+cnn_0008	10	3	a	DT	(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	4	huge	JJ	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	5	story	NN	*))	story	-	1	Tom_Friedman	-
+cnn_0008	10	6	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	I	PRP	(TOP(S(NP*)	-	-	-	Tom_Friedman	(59)
+cnn_0008	10	1	think	VBP	(VP*	think	01	1	Tom_Friedman	-
+cnn_0008	10	2	it	PRP	(SBAR(S(NP*)	-	-	-	Tom_Friedman	(103)
+cnn_0008	10	3	should	MD	(VP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	4	have	VB	(VP*	have	01	-	Tom_Friedman	-
+cnn_0008	10	5	been	VBN	(VP*	be	01	1	Tom_Friedman	-
+cnn_0008	10	6	a	DT	(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	7	big	JJ	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	8	story	NN	*)))))))	story	-	1	Tom_Friedman	-
+cnn_0008	10	9	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	Why	WRB	(TOP(SBARQ(WHADVP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	1	was	VBD	(SQ*	be	03	-	Howard_Kurtz	-
+cnn_0008	10	2	n't	RB	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	3	/-	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	10	0	Is	VBZ	(TOP(SQ*	be	01	1	Howard_Kurtz	-
+cnn_0008	10	1	it	PRP	(NP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	2	because	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	3	of	IN	*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	4	Iraq	NNP	(NP*	-	-	-	Howard_Kurtz	(109)
+cnn_0008	10	5	fatigue	NN	*))	-	-	-	Howard_Kurtz	-
+cnn_0008	10	6	/?	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	10	0	Um	UH	(TOP(INTJ*	-	-	-	Tom_Friedman	-
+cnn_0008	10	1	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	I	PRP	(TOP(S(NP*)	-	-	-	Tom_Friedman	(59)
+cnn_0008	10	1	think	VBP	(VP*	think	01	1	Tom_Friedman	-
+cnn_0008	10	2	it	PRP	(SBAR(S(NP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	3	is	VBZ	(VP*	be	01	1	Tom_Friedman	-
+cnn_0008	10	4	yeah	UH	(INTJ*)))))	-	-	-	Tom_Friedman	-
+cnn_0008	10	5	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	Think	VBP	(TOP(S(VP*	think	01	1	Tom_Friedman	-
+cnn_0008	10	1	it	PRP	(SBAR(S(NP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	2	's	VBZ	(VP*))))	be	01	1	Tom_Friedman	-
+cnn_0008	10	3	/-	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	Are	VBP	(TOP(SQ*	be	03	-	Howard_Kurtz	-
+cnn_0008	10	1	all	PDT	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	2	the	DT	*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	3	editors	NNS	(NML(NML*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	4	and	CC	*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	5	producers	NNS	(NML*)	producer	-	2	Howard_Kurtz	-
+cnn_0008	10	6	and	CC	*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	7	new	JJ	(NML*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	8	executives	NNS	*)))	-	-	-	Howard_Kurtz	-
+cnn_0008	10	9	feeling	VBG	(VP*	feel	01	1	Howard_Kurtz	-
+cnn_0008	10	10	another	DT	(FRAG(FRAG(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	11	day	NN	*)	day	-	2	Howard_Kurtz	-
+cnn_0008	10	12	another	DT	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	13	bombing	NN	*))	bomb	-	1	Howard_Kurtz	-
+cnn_0008	10	14	ten	CD	(FRAG(NP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	15	killed	VBN	(VP*))	kill	01	1	Howard_Kurtz	-
+cnn_0008	10	16	twenty	CD	(FRAG(NP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	17	killed	VBN	(VP*))	kill	01	1	Howard_Kurtz	-
+cnn_0008	10	18	fifteen	CD	(FRAG(NP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	19	killed	VBN	(VP*))))	kill	01	1	Howard_Kurtz	-
+cnn_0008	10	20	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	10	0	and	CC	(TOP(S*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	1	it	PRP	(NP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	2	does	VBZ	(VP*	do	01	-	Howard_Kurtz	-
+cnn_0008	10	3	n't	RB	*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	4	rise	VB	(VP*	rise	01	2	Howard_Kurtz	-
+cnn_0008	10	5	anymore	RB	(ADVP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	6	to	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	7	the	DT	(NP(NP(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	8	top	NN	*)	top	-	1	Howard_Kurtz	-
+cnn_0008	10	9	of	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	10	the	DT	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	11	newscast	NN	*)))	-	-	-	Howard_Kurtz	-
+cnn_0008	10	12	or	CC	*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	13	the	DT	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	14	front	JJ	*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	15	page	NN	*)))))	page	-	1	Howard_Kurtz	-
+cnn_0008	10	16	/?	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	10	0	Right	UH	(TOP(INTJ*	-	-	-	Tom_Friedman	-
+cnn_0008	10	1	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	Yeah	UH	(TOP(S(INTJ*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	1	and	CC	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	2	I	PRP	(NP*)	-	-	-	Tom_Friedman	(59)
+cnn_0008	10	3	think	VBP	(VP*	think	01	1	Tom_Friedman	-
+cnn_0008	10	4	that	DT	(SBAR(S(NP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	5	's	VBZ	(VP*	be	01	1	Tom_Friedman	-
+cnn_0008	10	6	right	JJ	(ADJP*)))))	-	-	-	Tom_Friedman	-
+cnn_0008	10	7	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	There	EX	(TOP(S(NP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	1	is	VBZ	(VP*	be	02	3	Tom_Friedman	-
+cnn_0008	10	2	Iraq	NNP	(NP*	-	-	-	Tom_Friedman	(109)
+cnn_0008	10	3	fatigue	NN	*))	-	-	-	Tom_Friedman	-
+cnn_0008	10	4	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	And	CC	(TOP(S*	-	-	-	Tom_Friedman	-
+cnn_0008	10	1	there	EX	(NP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	2	's	VBZ	(VP*	be	02	3	Tom_Friedman	-
+cnn_0008	10	3	so	RB	(NP(NP(ADJP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	4	much	JJ	*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	5	fatigue	NN	*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	6	that	IN	(SBAR*	-	-	-	Tom_Friedman	-
+cnn_0008	10	7	we	PRP	(S(NP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	8	do	VBP	(VP*	do	01	-	Tom_Friedman	-
+cnn_0008	10	9	n't	RB	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	10	sit	VB	(VP(VP*	sit	01	3	Tom_Friedman	-
+cnn_0008	10	11	back	RP	(PRT*))	-	-	-	Tom_Friedman	-
+cnn_0008	10	12	and	CC	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	13	say	VB	(VP*	say	01	1	Tom_Friedman	-
+cnn_0008	10	14	wait	VB	(S(VP*	wait	01	1	Tom_Friedman	-
+cnn_0008	10	15	a	DT	(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	16	minute	NN	*))))))))))	minute	-	1	Tom_Friedman	-
+cnn_0008	10	17	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	what	WP	(TOP(SBARQ(WHNP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	1	happened	VBD	(S(VP*	happen	01	1	Tom_Friedman	-
+cnn_0008	10	2	today	NN	(NP*)))	today	-	2	Tom_Friedman	(105)
+cnn_0008	10	3	/?	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	A	DT	(TOP(S(NP*	-	-	-	Tom_Friedman	(117
+cnn_0008	10	1	Sunni	NNP	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	2	Muslim	NNP	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	3	fundamentalist	NN	*)	-	-	-	Tom_Friedman	117)
+cnn_0008	10	4	went	VBD	(VP*	go	02	1	Tom_Friedman	-
+cnn_0008	10	5	into	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	6	a	DT	(NP*	-	-	-	Tom_Friedman	(189
+cnn_0008	10	7	mosque	NN	*))	-	-	-	Tom_Friedman	189)
+cnn_0008	10	8	on	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	9	the	DT	(NP(NP*	-	-	-	Tom_Friedman	(187
+cnn_0008	10	10	first	JJ	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	11	day	NN	*)	day	-	2	Tom_Friedman	-
+cnn_0008	10	12	of	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	13	Ramadan	NNP	(NP(NP*)	-	-	-	Tom_Friedman	(165)
+cnn_0008	10	14	their	PRP$	(NP*	-	-	-	Tom_Friedman	(183)
+cnn_0008	10	15	holiest	JJS	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	16	day	NN	*))))))	day	-	5	Tom_Friedman	187)
+cnn_0008	10	17	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	and	CC	(TOP(S*	-	-	-	Tom_Friedman	-
+cnn_0008	10	1	no	DT	(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	2	one	NN	*)	one	-	2	Tom_Friedman	-
+cnn_0008	10	3	says	VBZ	(VP*	say	01	1	Tom_Friedman	-
+cnn_0008	10	4	boo	UH	(INTJ*))	-	-	-	Tom_Friedman	-
+cnn_0008	10	5	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	this	DT	(TOP(S(NP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	1	is	VBZ	(VP*	be	01	1	Tom_Friedman	-
+cnn_0008	10	2	civilization	NN	(NP(NP*)	-	-	-	Tom_Friedman	(183
+cnn_0008	10	3	that	WDT	(SBAR(WHADVP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	4	when	WRB	(S(SBAR(WHADVP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	5	we	PRP	(S(NP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	6	accidentally	RB	(ADVP(ADVP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	7	or	CC	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	8	deliberately	RB	*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	9	I	PRP	(PRN(S(NP*)	-	-	-	Tom_Friedman	(59)
+cnn_0008	10	10	do	VBP	(VP*	do	01	-	Tom_Friedman	-
+cnn_0008	10	11	n't	RB	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	12	know	VB	(VP*)))))	know	01	1	Tom_Friedman	-
+cnn_0008	10	13	abused	VBD	(VP*	abuse	01	1	Tom_Friedman	-
+cnn_0008	10	14	the	DT	(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	15	Koran	NNP	*))))	-	-	-	Tom_Friedman	-
+cnn_0008	10	16	people	NNS	(NP*)	people	-	1	Tom_Friedman	-
+cnn_0008	10	17	rioted	VBD	(VP*	riot	01	-	Tom_Friedman	-
+cnn_0008	10	18	in	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	19	Pakistan	NNP	(NP*)))))))	-	-	-	Tom_Friedman	183)
+cnn_0008	10	20	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	Yet	RB	(TOP(S(ADVP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	1	their	PRP$	(NP*	-	-	-	Tom_Friedman	(183)
+cnn_0008	10	2	own	JJ	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	3	houses	NNS	(NML(NML(NML*)	house	-	4	Tom_Friedman	-
+cnn_0008	10	4	of	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	5	worship	NN	(NP*)))	-	-	-	Tom_Friedman	-
+cnn_0008	10	6	and	CC	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	7	holidays	NNS	(NML*)))	-	-	-	Tom_Friedman	-
+cnn_0008	10	8	are	VBP	(VP*	be	03	-	Tom_Friedman	-
+cnn_0008	10	9	being	VBG	(VP*	be	03	-	Tom_Friedman	-
+cnn_0008	10	10	defiled	VBN	(VP*)))	defile	01	-	Tom_Friedman	(204)
+cnn_0008	10	11	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	And	CC	(TOP(S*	-	-	-	Tom_Friedman	*	*
+cnn_0008	10	1	I	PRP	(NP*)	-	-	-	Tom_Friedman	*	*
+cnn_0008	10	2	think	VBP	(VP*	think	01	1	Tom_Friedman	*	*
+cnn_0008	10	3	it	PRP	(SBAR(SBAR(S(NP(NP*))	-	-	-	Tom_Friedman	*	*
+cnn_0008	10	4	is	VBZ	(VP*	be	01	1	Tom_Friedman	*	*
+cnn_0008	10	5	a	DT	(NP(NP*	-	-	-	Tom_Friedman	*	*
+cnn_0008	10	6	measure	NN	*)	measure	-	2	Tom_Friedman	*	*
+cnn_0008	10	7	of	IN	(PP*	-	-	-	Tom_Friedman	*	*
+cnn_0008	10	8	how	WRB	(SBAR(WHNP*	-	-	-	Tom_Friedman	*	*
+cnn_0008	10	9	much	JJ	*)	-	-	-	Tom_Friedman	*	*
+cnn_0008	10	10	we	PRP	(S(NP*)	-	-	-	Tom_Friedman	*	*
+cnn_0008	10	11	've	VBP	(VP*	have	01	12	Tom_Friedman	*	*
+cnn_0008	10	12	kind	RB	(ADVP*	-	-	-	Tom_Friedman	*	*
+cnn_0008	10	13	of	RB	*)	-	-	-	Tom_Friedman	*	*
+cnn_0008	10	14	lost	VBN	(VP(VP*)	lose	02	4	Tom_Friedman	*	*
+cnn_0008	10	15	been	VBN	(VP*	be	03	-	Tom_Friedman	*	*
+cnn_0008	10	16	numbed	VBN	(VP*	numb	01	-	Tom_Friedman	*	*
+cnn_0008	10	17	by	IN	(PP*	-	-	-	Tom_Friedman	*	*
+cnn_0008	10	18	all	DT	(NP(NP*)	-	-	-	Tom_Friedman	*	*
+cnn_0008	10	19	of	IN	(PP*	-	-	-	Tom_Friedman	*	*
+cnn_0008	10	20	this	DT	(NP*))))))))))))	-	-	-	Tom_Friedman	*	*
+cnn_0008	10	21	that	IN	(SBAR*	-	-	-	Tom_Friedman	*	*
+cnn_0008	10	22	we	PRP	(S(NP*)	-	-	-	Tom_Friedman	*	*
+cnn_0008	10	23	do	VBP	(VP*	do	01	-	Tom_Friedman	*	*
+cnn_0008	10	24	n't	RB	*	-	-	-	Tom_Friedman	*	*
+cnn_0008	10	25	sit	VB	(VP(VP*	sit	01	3	Tom_Friedman	*	*
+cnn_0008	10	26	back	RP	(PRT*))	-	-	-	Tom_Friedman	*	*
+cnn_0008	10	27	and	CC	*	-	-	-	Tom_Friedman	*	*
+cnn_0008	10	28	say	VB	(VP*	say	01	1	Tom_Friedman	*	*
+cnn_0008	10	29	wow	UH	(S(INTJ*)	-	-	-	Tom_Friedman	(ARGM-DIS*)	(ARGM-DIS*)
+cnn_0008	10	30	wait	VB	(VP*	wait	01	1	Tom_Friedman	(V*)	(V*)
+cnn_0008	10	31	a	DT	(NP*	-	-	-	Tom_Friedman	(ARGM-TMP*	(ARGM-TMP*
+cnn_0008	10	32	minute	NN	*)))))))))))))	minute	-	1	Tom_Friedman	*)	*)
+cnn_0008	10	33	/.	.	*))	-	-	-	Tom_Friedman	*	*
+
+cnn_0008	10	0	that	DT	(TOP(S(NP*)	-	-	-	Tom_Friedman	(204)
+cnn_0008	10	1	really	RB	(ADVP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	2	crosses	VBZ	(VP*	cross	02	8	Tom_Friedman	(131)
+cnn_0008	10	3	the	DT	(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	4	line	NN	*))	line	-	6	Tom_Friedman	-
+cnn_0008	10	5	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	and	CC	(TOP(S*	-	-	-	Tom_Friedman	-
+cnn_0008	10	1	we	PRP	(NP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	2	have	VBP	(VP*	have	02	12	Tom_Friedman	-
+cnn_0008	10	3	to	TO	(S(VP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	4	call	VB	(VP*	call	02	6	Tom_Friedman	-
+cnn_0008	10	5	them	PRP	(NP*)	-	-	-	Tom_Friedman	(183)
+cnn_0008	10	6	on	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	7	it	PRP	(NP*)))))	-	-	-	Tom_Friedman	(131)
+cnn_0008	10	8	even	RB	(SBAR(ADVP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	9	if	IN	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	10	they	PRP	(S(NP*)	-	-	-	Tom_Friedman	(183)
+cnn_0008	10	11	do	VBP	(VP*	do	01	-	Tom_Friedman	-
+cnn_0008	10	12	n't	RB	*))))	-	-	-	Tom_Friedman	-
+cnn_0008	10	13	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	You	PRP	(TOP(S(NP*)	-	-	-	Howard_Kurtz	(59)
+cnn_0008	10	1	're	VBP	(VP*	be	01	1	Howard_Kurtz	-
+cnn_0008	10	2	recently	RB	(ADVP(ADVP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	3	back	RB	*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	4	from	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	5	Iraq	NNP	(NP*))))	-	-	-	Howard_Kurtz	(109)
+cnn_0008	10	6	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	10	0	and	CC	(TOP(S*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	1	you	PRP	(NP*)	-	-	-	Howard_Kurtz	(59)
+cnn_0008	10	2	write	VBP	(VP*	write	01	1	Howard_Kurtz	-
+cnn_0008	10	3	about	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	4	driving	VBG	(S(VP*	drive	01	-	Howard_Kurtz	(18)
+cnn_0008	10	5	in	RB	(ADVP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	6	from	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	7	Kuwait	NNP	(NP*)))))))	-	-	-	Howard_Kurtz	-
+cnn_0008	10	8	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	10	0	You	PRP	(TOP(S(NP*)	-	-	-	Howard_Kurtz	(59)
+cnn_0008	10	1	were	VBD	(VP*	be	03	-	Howard_Kurtz	-
+cnn_0008	10	2	guarded	VBN	(VP*	guard	01	1	Howard_Kurtz	-
+cnn_0008	10	3	by	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	4	the	DT	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	5	US	NNP	*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	6	navy	NN	*))))	-	-	-	Howard_Kurtz	-
+cnn_0008	10	7	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	10	0	and	CC	(TOP(S*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	1	yet	RB	(ADVP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	2	it	PRP	(NP*)	-	-	-	Howard_Kurtz	(18)
+cnn_0008	10	3	was	VBD	(VP*	be	01	1	Howard_Kurtz	-
+cnn_0008	10	4	kind	RB	(NP(ADVP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	5	of	RB	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	6	a	DT	*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	7	harrowing	JJ	*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	8	experience	NN	*))	experience	01	2	Howard_Kurtz	-
+cnn_0008	10	9	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	10	0	Why	WRB	(TOP(SBARQ(WHADVP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	1	so	RB	(FRAG(ADVP*))	-	-	-	Howard_Kurtz	-
+cnn_0008	10	2	/?	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	10	0	Um	UH	(TOP(SQ(INTJ*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	1	you	PRP	(NP*)	-	-	-	Tom_Friedman	(216)
+cnn_0008	10	2	know	VBP	(VP*	know	01	1	Tom_Friedman	-
+cnn_0008	10	3	the	DT	(NP(NP(NP(NP*	-	-	-	Tom_Friedman	(53
+cnn_0008	10	4	south	NN	*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	5	of	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	6	Iraq	NNP	(NP*)))	-	-	-	Tom_Friedman	(109)
+cnn_0008	10	7	which	WDT	(SBAR(WHNP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	8	is	VBZ	(S(VP*	be	01	1	Tom_Friedman	-
+cnn_0008	10	9	where	WRB	(SBAR(WHADVP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	10	I	PRP	(S(NP*)	-	-	-	Tom_Friedman	(59)
+cnn_0008	10	11	was	VBD	(VP*)))))))	be	01	4	Tom_Friedman	-
+cnn_0008	10	12	the	DT	(NP(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	13	area	NN	*)	area	-	1	Tom_Friedman	-
+cnn_0008	10	14	around	IN	(PP*))))	-	-	-	Tom_Friedman	53)
+cnn_0008	10	15	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	This	DT	(TOP(S(NP*)	-	-	-	Howard_Kurtz	(53)
+cnn_0008	10	1	is	VBZ	(VP*	be	01	1	Howard_Kurtz	-
+cnn_0008	10	2	the	DT	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	3	safe	JJ	*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	4	part	NN	*))	part	-	1	Howard_Kurtz	-
+cnn_0008	10	5	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	10	0	Right	UH	(TOP(FRAG(INTJ*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	1	exactly	RB	(ADVP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	2	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	I	PRP	(TOP(S(NP*)	-	-	-	Tom_Friedman	(59)
+cnn_0008	10	1	was	VBD	(VP*	be	01	4	Tom_Friedman	-
+cnn_0008	10	2	in	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	3	the	DT	(NP*	-	-	-	Tom_Friedman	(53
+cnn_0008	10	4	safe	JJ	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	5	district	NN	*)))	district	-	1	Tom_Friedman	53)
+cnn_0008	10	6	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	I	PRP	(TOP(S(NP*)	-	-	-	Tom_Friedman	(59)
+cnn_0008	10	1	was	VBD	(VP*	be	03	-	Tom_Friedman	-
+cnn_0008	10	2	guarded	VBN	(VP*	guard	01	1	Tom_Friedman	-
+cnn_0008	10	3	uh	UH	(INTJ*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	4	by	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	5	the	DT	(NP*	-	-	-	Tom_Friedman	(172
+cnn_0008	10	6	British	JJ	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	7	Royal	NNP	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	8	Marines	NNPS	*))	-	-	-	Tom_Friedman	172)
+cnn_0008	10	9	actually	RB	(ADVP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	10	because	IN	(SBAR*	-	-	-	Tom_Friedman	-
+cnn_0008	10	11	unfortunately	RB	(S(ADVP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	12	they	PRP	(NP*)	-	-	-	Tom_Friedman	(172)
+cnn_0008	10	13	've	VBP	(VP*	have	01	12	Tom_Friedman	-
+cnn_0008	10	14	had	VBN	(VP*	have	03	4	Tom_Friedman	-
+cnn_0008	10	15	now	RB	(ADVP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	16	um	UH	(INTJ*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	17	uh	UH	(INTJ*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	18	roadside	NN	(NP(NP(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	19	bombs	NNS	*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	20	down	RB	(ADVP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	21	there	RB	*))	-	-	-	Tom_Friedman	-
+cnn_0008	10	22	not	RB	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	23	suicide	NN	(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	24	bombs	NNS	*))))))))	-	-	-	Tom_Friedman	-
+cnn_0008	10	25	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	And	CC	(TOP(S*	-	-	-	Tom_Friedman	-
+cnn_0008	10	1	it	PRP	(NP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	2	's	VBZ	(VP*	be	01	1	Tom_Friedman	-
+cnn_0008	10	3	part	NN	(NP(NP*)	part	-	1	Tom_Friedman	-
+cnn_0008	10	4	of	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	5	the	DT	(NP(NP(NP*	-	-	-	Tom_Friedman	(6
+cnn_0008	10	6	general	JJ	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	7	continuing	VBG	*	continue	01	-	Tom_Friedman	-
+cnn_0008	10	8	insecurity	NN	*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	9	of	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	10	Iraq	NNP	(NP*)))	-	-	-	Tom_Friedman	(109)
+cnn_0008	10	11	that	WDT	(SBAR(WHNP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	12	um	UH	(INTJ*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	13	I	PRP	(S(PRN(S(NP*)	-	-	-	Tom_Friedman	(59)
+cnn_0008	10	14	'm	VBP	(VP*	be	01	1	Tom_Friedman	-
+cnn_0008	10	15	afraid	JJ	(ADJP*))))	-	-	-	Tom_Friedman	-
+cnn_0008	10	16	has	VBZ	(VP*	have	01	-	Tom_Friedman	-
+cnn_0008	10	17	plagued	VBN	(VP*	plague	01	1	Tom_Friedman	-
+cnn_0008	10	18	this	DT	(NP*	-	-	-	Tom_Friedman	(164
+cnn_0008	10	19	story	NN	*)	story	-	1	Tom_Friedman	164)
+cnn_0008	10	20	from	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	21	the	DT	(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	22	very	JJ	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	23	beginning	NN	*))))))))))	beginning	01	1	Tom_Friedman	6)
+cnn_0008	10	24	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	And	CC	(TOP(S*	-	-	-	Tom_Friedman	-
+cnn_0008	10	1	it	PRP	(NP*)	-	-	-	Tom_Friedman	(6)
+cnn_0008	10	2	's	VBZ	(VP*	be	03	9	Tom_Friedman	-
+cnn_0008	10	3	been	VBN	(VP*	be	01	1	Tom_Friedman	-
+cnn_0008	10	4	I	PRP	(PRN(S(NP*)	-	-	-	Tom_Friedman	(59)
+cnn_0008	10	5	've	VBP	(VP*	have	01	12	Tom_Friedman	-
+cnn_0008	10	6	always	RB	(ADVP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	7	felt	VBN	(VP*))))	feel	02	1	Tom_Friedman	-
+cnn_0008	10	8	the	DT	(NP(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	9	Achille	NNP	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	10	's	POS	*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	11	heel	NN	*)))	-	-	-	Tom_Friedman	-
+cnn_0008	10	12	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	You	PRP	(TOP(S(PRN(S(NP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	1	know	VBP	(VP*)))	know	01	1	Tom_Friedman	-
+cnn_0008	10	2	my	PRP$	(NP(NP*	-	-	-	Tom_Friedman	(59)
+cnn_0008	10	3	criticism	NN	*)	criticism	-	1	Tom_Friedman	-
+cnn_0008	10	4	of	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	5	the	DT	(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	6	Bush	NNP	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	7	administration	NN	*)))	-	-	-	Tom_Friedman	-
+cnn_0008	10	8	as	IN	(SBAR*	-	-	-	Tom_Friedman	-
+cnn_0008	10	9	you	PRP	(S(NP*)	-	-	-	Tom_Friedman	(216)
+cnn_0008	10	10	know	VBP	(VP*	know	01	1	Tom_Friedman	-
+cnn_0008	10	11	we	PRP	(PRN(S(NP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	12	've	VBP	(VP*	have	01	12	Tom_Friedman	-
+cnn_0008	10	13	talked	VBN	(VP*	talk	01	1	Tom_Friedman	-
+cnn_0008	10	14	about	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	15	this	DT	(NP*))	-	-	-	Tom_Friedman	-
+cnn_0008	10	16	before	RB	(ADVP*))))))))	-	-	-	Tom_Friedman	-
+cnn_0008	10	17	is	VBZ	(VP*	be	01	1	Tom_Friedman	-
+cnn_0008	10	18	not	RB	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	19	that	IN	(SBAR*	-	-	-	Tom_Friedman	-
+cnn_0008	10	20	this	DT	(S(NP*	-	-	-	Tom_Friedman	(16
+cnn_0008	10	21	war	NN	*)	war	01	1	Tom_Friedman	16)
+cnn_0008	10	22	is	VBZ	(VP*	be	01	1	Tom_Friedman	-
+cnn_0008	10	23	not	RB	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	24	important	JJ	(ADJP*)))))	-	-	-	Tom_Friedman	-
+cnn_0008	10	25	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	I	PRP	(TOP(S(NP*)	-	-	-	Tom_Friedman	(59)
+cnn_0008	10	1	believe	VBP	(VP*	believe	01	1	Tom_Friedman	-
+cnn_0008	10	2	it	PRP	(SBAR(S(NP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	3	is	VBZ	(VP*	be	01	1	Tom_Friedman	-
+cnn_0008	10	4	important	JJ	(ADJP(ADJP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	5	much	RB	(ADJP(ADJP(ADVP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	6	more	RBR	*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	7	important	JJ	*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	8	than	IN	(SBAR*	-	-	-	Tom_Friedman	-
+cnn_0008	10	9	I	PRP	(S(NP*)	-	-	-	Tom_Friedman	(59)
+cnn_0008	10	10	think	VBP	(VP*	think	01	1	Tom_Friedman	-
+cnn_0008	10	11	the	DT	(SBAR(S(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	12	left	NN	*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	13	has	VBZ	(VP*	have	01	-	Tom_Friedman	-
+cnn_0008	10	14	ever	RB	(ADVP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	15	fully	RB	(ADVP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	16	recognized	VBN	(VP*)))))))))))))	recognize	01	2	Tom_Friedman	-
+cnn_0008	10	17	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	But	CC	(TOP(S*	-	-	-	Tom_Friedman	-
+cnn_0008	10	1	it	PRP	(NP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	2	's	VBZ	(VP*	be	01	1	Tom_Friedman	-
+cnn_0008	10	3	so	RB	(ADJP(ADJP(ADVP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	4	much	RB	*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	5	harder	JJR	*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	6	than	IN	(SBAR*	-	-	-	Tom_Friedman	-
+cnn_0008	10	7	the	DT	(S(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	8	right	NN	*)	right	-	4	Tom_Friedman	-
+cnn_0008	10	9	has	VBZ	(VP*	have	01	-	Tom_Friedman	-
+cnn_0008	10	10	ever	RB	(ADVP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	11	been	VBN	(VP*	be	01	1	Tom_Friedman	-
+cnn_0008	10	12	willing	JJ	(ADJP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	13	to	TO	(S(VP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	14	acknowledge	VB	(VP*))))))))))	acknowledge	01	1	Tom_Friedman	-
+cnn_0008	10	15	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	And	CC	(TOP(S*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	1	on	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	2	that	DT	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	3	trip	NN	*))	trip	01	1	Howard_Kurtz	-
+cnn_0008	10	4	you	PRP	(NP*)	-	-	-	Howard_Kurtz	(59)
+cnn_0008	10	5	put	VBP	(VP*	put	08	7.26	Howard_Kurtz	-
+cnn_0008	10	6	on	RP	(PRT*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	7	body	NN	(NP*	body	-	2	Howard_Kurtz	-
+cnn_0008	10	8	armor	NN	*))	-	-	-	Howard_Kurtz	-
+cnn_0008	10	9	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	10	0	their	PRP$	(TOP(S(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	1	rifles	NNS	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	2	were	VBD	(VP*	be	01	4	Howard_Kurtz	-
+cnn_0008	10	3	out	RB	(ADVP*))	-	-	-	Howard_Kurtz	-
+cnn_0008	10	4	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	10	0	Yeah	UH	(TOP(INTJ*	-	-	-	Tom_Friedman	-
+cnn_0008	10	1	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	Um	UH	(TOP(SBARQ(INTJ*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	1	how	WRB	(WHADVP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	2	does	VBZ	(SQ*	do	01	-	Howard_Kurtz	-
+cnn_0008	10	3	that	DT	(NP*)	-	-	-	Howard_Kurtz	(32)
+cnn_0008	10	4	affect	VB	(VP*	affect	01	1	Howard_Kurtz	-
+cnn_0008	10	5	your	PRP$	(NP*	-	-	-	Howard_Kurtz	(59)
+cnn_0008	10	6	perception	NN	*)	perception	01	1	Howard_Kurtz	-
+cnn_0008	10	7	as	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	8	a	DT	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	9	journalist	NN	*))))	-	-	-	Howard_Kurtz	-
+cnn_0008	10	10	/?	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	10	0	You	PRP	(TOP(S(NP*)	-	-	-	Howard_Kurtz	(59)
+cnn_0008	10	1	're	VBP	(VP*	be	01	4	Howard_Kurtz	-
+cnn_0008	10	2	there	RB	(ADVP*))	-	-	-	Howard_Kurtz	-
+cnn_0008	10	3	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	10	0	you	PRP	(TOP(S(NP*)	-	-	-	Howard_Kurtz	(59)
+cnn_0008	10	1	're	VBP	(VP*	be	03	-	Howard_Kurtz	-
+cnn_0008	10	2	being	VBG	(VP*	be	03	-	Howard_Kurtz	-
+cnn_0008	10	3	protected	VBN	(VP*)))	protect	01	1	Howard_Kurtz	(32)
+cnn_0008	10	4	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	10	0	and	CC	(TOP(S*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	1	you	PRP	(NP*)	-	-	-	Howard_Kurtz	(59)
+cnn_0008	10	2	must	MD	(VP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	3	have	VB	(VP*	have	01	-	Howard_Kurtz	-
+cnn_0008	10	4	been	VBN	(VP*	be	01	1	Howard_Kurtz	-
+cnn_0008	10	5	a	DT	(ADJP(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	6	little	JJ	*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	7	bit	NN	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	8	nervous	JJ	*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	9	of	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	10	what	WP	(SBAR(WHNP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	11	the	DT	(S(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	12	safety	NN	*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	13	situation	NN	*)	situation	-	1	Howard_Kurtz	-
+cnn_0008	10	14	is	VBZ	(VP*	be	01	1	Howard_Kurtz	-
+cnn_0008	10	15	in	RB	(ADVP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	16	there	RB	*)))))))))	-	-	-	Howard_Kurtz	-
+cnn_0008	10	17	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	10	0	Well	UH	(TOP(S(INTJ*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	1	I	PRP	(NP*)	-	-	-	Tom_Friedman	(59)
+cnn_0008	10	2	'll	MD	(VP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	3	tell	VB	(VP*	tell	01	1	Tom_Friedman	-
+cnn_0008	10	4	you	PRP	(NP*)	-	-	-	Tom_Friedman	(216)
+cnn_0008	10	5	what	WP	(SBAR(WHNP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	6	's	VBZ	(S(VP*	be	01	1	Tom_Friedman	-
+cnn_0008	10	7	really	RB	(ADJP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	8	frustrating	JJ	*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	9	from	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	10	a	DT	(NP(NP(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	11	journalist	NN	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	12	's	POS	*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	13	point	NN	*)	point	-	3	Tom_Friedman	-
+cnn_0008	10	14	of	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	15	view	NN	(NP*))))	view	-	1	Tom_Friedman	-
+cnn_0008	10	16	as	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	17	one	CD	(NP(NP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	18	who	WP	(SBAR(WHNP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	19	have	VBP	(S(VP(VP*	have	01	-	Tom_Friedman	-
+cnn_0008	10	20	lived	VBN	(VP*	live	01	2	Tom_Friedman	-
+cnn_0008	10	21	in	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	22	Beirut	NNP	(NP*))	-	-	-	Tom_Friedman	-
+cnn_0008	10	23	for	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	24	nearly	RB	(NP(QP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	25	five	CD	*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	26	years	NNS	*))))	-	-	-	Tom_Friedman	-
+cnn_0008	10	27	covered	VBD	(VP*	cover	03	2	Tom_Friedman	-
+cnn_0008	10	28	that	DT	(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	29	war	NN	*))))))))))))	war	01	1	Tom_Friedman	-
+cnn_0008	10	30	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	When	WRB	(TOP(S(SBAR(WHADVP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	1	I	PRP	(S(NP*)	-	-	-	Tom_Friedman	(59)
+cnn_0008	10	2	worked	VBD	(VP*	work	01	1	Tom_Friedman	-
+cnn_0008	10	3	in	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	4	Lebanon	NNP	(NP*)))))	-	-	-	Tom_Friedman	(91)
+cnn_0008	10	5	you	PRP	(NP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	6	could	MD	(VP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	7	go	VB	(VP*	go	02	1	Tom_Friedman	-
+cnn_0008	10	8	anywhere	RB	(ADVP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	9	on	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	10	that	DT	(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	11	story	NN	*))))	story	-	1	Tom_Friedman	-
+cnn_0008	10	12	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	You	PRP	(TOP(S(NP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	1	could	MD	(VP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	2	cross	VB	(VP*	cross	02	1	Tom_Friedman	-
+cnn_0008	10	3	lines	NNS	(NP*)))	line	-	6	Tom_Friedman	-
+cnn_0008	10	4	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	Journalists	NNS	(TOP(S(NP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	1	worked	VBD	(VP*	work	01	1	Tom_Friedman	-
+cnn_0008	10	2	for	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	3	the	DT	(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	4	most	JJS	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	5	part	NN	*))	part	-	2	Tom_Friedman	-
+cnn_0008	10	6	until	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	7	the	DT	(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	8	very	JJ	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	9	end	NN	*))	end	-	10	Tom_Friedman	-
+cnn_0008	10	10	with	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	11	Terry	NNP	(NP(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	12	Anderson	NNP	*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	13	the	DT	(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	14	kidnappings	NNS	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	15	targets	NNS	*))))	target	-	2	Tom_Friedman	-
+cnn_0008	10	16	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	Therefore	RB	(TOP(S(ADVP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	1	by	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	2	the	DT	(NP(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	3	end	NN	*)	end	-	4	Tom_Friedman	-
+cnn_0008	10	4	of	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	5	the	DT	(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	6	Lebanon	NNP	*	-	-	-	Tom_Friedman	(91)
+cnn_0008	10	7	story	NN	*))))	story	-	6	Tom_Friedman	-
+cnn_0008	10	8	I	PRP	(NP*)	-	-	-	Tom_Friedman	(59)
+cnn_0008	10	9	thought	VBD	(VP*	think	01	1	Tom_Friedman	-
+cnn_0008	10	10	the	DT	(SBAR(S(NP(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	11	best	JJS	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	12	journalists	NNS	*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	13	there	RB	(ADVP*))	-	-	-	Tom_Friedman	-
+cnn_0008	10	14	knew	VBD	(VP*	know	01	1	Tom_Friedman	-
+cnn_0008	10	15	more	JJR	(NP(ADJP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	16	than	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	17	the	DT	(NP*	-	-	-	Tom_Friedman	(206
+cnn_0008	10	18	Lebanese	JJ	*)))))))	-	-	-	Tom_Friedman	206)
+cnn_0008	10	19	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	I	PRP	(TOP(S(NP*)	-	-	-	Tom_Friedman	(59)
+cnn_0008	10	1	always	RB	(ADVP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	2	thought	VBD	(VP*	think	01	1	Tom_Friedman	-
+cnn_0008	10	3	the	DT	(SBAR(S(NP(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	4	best	JJS	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	5	compliment	NN	*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	6	you	PRP	(SBAR(S(NP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	7	could	MD	(VP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	8	get	VB	(VP*	get	01	1	Tom_Friedman	-
+cnn_0008	10	9	as	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	10	a	DT	(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	11	journalist	NN	*)))))))	-	-	-	Tom_Friedman	-
+cnn_0008	10	12	is	VBZ	(VP*	be	01	1	Tom_Friedman	-
+cnn_0008	10	13	when	WRB	(SBAR(WHADVP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	14	you	PRP	(S(NP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	15	told	VBD	(VP*	tell	01	1	Tom_Friedman	-
+cnn_0008	10	16	the	DT	(NP*	-	-	-	Tom_Friedman	(206
+cnn_0008	10	17	Lebanese	JJ	*)	-	-	-	Tom_Friedman	206)
+cnn_0008	10	18	something	NN	(NP(NP*)	something	-	4	Tom_Friedman	-
+cnn_0008	10	19	they	PRP	(SBAR(S(NP*)	-	-	-	Tom_Friedman	(206)
+cnn_0008	10	20	did	VBD	(VP*	do	01	-	Tom_Friedman	-
+cnn_0008	10	21	n't	RB	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	22	know	VB	(VP*))))))))	know	01	1	Tom_Friedman	-
+cnn_0008	10	23	because	IN	(SBAR*	-	-	-	Tom_Friedman	-
+cnn_0008	10	24	you	PRP	(S(NP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	25	were	VBD	(VP*	be	03	-	Tom_Friedman	-
+cnn_0008	10	26	moving	VBG	(VP*	move	01	1	Tom_Friedman	-
+cnn_0008	10	27	around	RB	(ADVP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	28	so	RB	(ADVP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	29	much	RB	*)))))))))	-	-	-	Tom_Friedman	-
+cnn_0008	10	30	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	What	WP	(TOP(S(SBAR(WHNP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	1	's	VBZ	(S(VP*	be	01	1	Tom_Friedman	-
+cnn_0008	10	2	so	RB	(ADJP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	3	frustrating	JJ	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	4	about	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	5	the	DT	(NP*	-	-	-	Tom_Friedman	(164
+cnn_0008	10	6	Iraq	NNP	*	-	-	-	Tom_Friedman	(109)
+cnn_0008	10	7	story	NN	*)))	story	-	6	Tom_Friedman	164)
+cnn_0008	10	8	Howie	NNP	(NP*))))	-	-	-	Tom_Friedman	(216)
+cnn_0008	10	9	no	DT	(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	10	one	NN	*)	one	-	2	Tom_Friedman	-
+cnn_0008	10	11	has	VBZ	(VP*	have	03	4	Tom_Friedman	-
+cnn_0008	10	12	a	DT	(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	13	bird	NN	(NML(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	14	's	POS	*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	15	eye	NN	*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	16	view	NN	*))	view	-	1	Tom_Friedman	-
+cnn_0008	10	17	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	I	PRP	(TOP(S(NP*)	-	-	-	Tom_Friedman	(59)
+cnn_0008	10	1	care	VBP	(VP*	care	01	1	Tom_Friedman	-
+cnn_0008	10	2	passionately	RB	(ADVP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	3	about	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	4	this	DT	(NP*	-	-	-	Tom_Friedman	(164
+cnn_0008	10	5	story	NN	*)))	story	-	1	Tom_Friedman	164)
+cnn_0008	10	6	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	I	PRP	(TOP(S(NP*)	-	-	-	Tom_Friedman	(59)
+cnn_0008	10	1	'm	VBP	(VP*	be	01	1	Tom_Friedman	-
+cnn_0008	10	2	so	RB	(ADJP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	3	interested	JJ	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	4	in	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	5	it	PRP	(NP*))))	-	-	-	Tom_Friedman	(164)
+cnn_0008	10	6	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	but	CC	(TOP(S*	-	-	-	Tom_Friedman	-
+cnn_0008	10	1	because	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	2	of	IN	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	3	the	DT	(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	4	securtiy	JJ	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	5	situation	NN	*))	situation	-	1	Tom_Friedman	-
+cnn_0008	10	6	you	PRP	(NP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	7	ca	MD	(VP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	8	n't	RB	*	-	-	-	Tom_Friedman	-
+cnn_0008	10	9	move	VB	(VP*	move	01	1	Tom_Friedman	-
+cnn_0008	10	10	around	RB	(ADVP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	11	with	IN	(PP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	12	the	DT	(NP(NP*	-	-	-	Tom_Friedman	-
+cnn_0008	10	13	freedom	NN	*)	freedom	-	3	Tom_Friedman	-
+cnn_0008	10	14	you	PRP	(SBAR(S(NP*)	-	-	-	Tom_Friedman	-
+cnn_0008	10	15	want	VBP	(VP*)))))))	want	01	1	Tom_Friedman	-
+cnn_0008	10	16	/.	.	*))	-	-	-	Tom_Friedman	-
+
+cnn_0008	10	0	And	CC	(TOP(S*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	1	the	DT	(NP(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	2	brave	JJ	*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	3	reporters	NNS	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	4	who	WP	(SBAR(WHNP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	5	are	VBP	(S(VP*	be	01	4	Howard_Kurtz	-
+cnn_0008	10	6	there	RB	(ADVP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	7	every	DT	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	8	day	NN	*)))))	day	-	2	Howard_Kurtz	-
+cnn_0008	10	9	do	VBP	(VP*	do	01	-	Howard_Kurtz	-
+cnn_0008	10	10	n't	RB	*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	11	have	VB	(VP*	have	03	1	Howard_Kurtz	-
+cnn_0008	10	12	that	DT	(NP(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	13	freedom	NN	*)	freedom	-	3	Howard_Kurtz	-
+cnn_0008	10	14	of	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	15	movement	NN	(NP*)))	movement	01	1	Howard_Kurtz	-
+cnn_0008	10	16	either	RB	(ADVP*)))	-	-	-	Howard_Kurtz	-
+cnn_0008	10	17	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	10	0	And	CC	(TOP(S*	-	-	-	Howard_Kurtz	-
+cnn_0008	10	1	therefore	RB	(ADVP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	10	2	it	PRP	(NP*)	-	-	-	Howard_Kurtz	(164)
+cnn_0008	10	3	's	VBZ	(VP*	be	01	1	Howard_Kurtz	-
+cnn_0008	10	4	limited	JJ	(ADJP*))	-	-	-	Howard_Kurtz	-
+cnn_0008	10	5	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+#end document

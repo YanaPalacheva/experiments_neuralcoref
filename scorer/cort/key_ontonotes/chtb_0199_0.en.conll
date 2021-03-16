@@ -1,0 +1,55 @@
+#begin document (chtb_0199_0); part 000
+chtb_0199	0	0	On	IN	(TOP(S(PP*	-	-	-	-	-
+chtb_0199	0	1	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0199	0	2	invitation	NN	*)	invitation	-	1	-	-
+chtb_0199	0	3	of	IN	(PP*	-	-	-	-	-
+chtb_0199	0	4	Prime	NNP	(NP(NP(NML*	-	-	-	-	-
+chtb_0199	0	5	Minister	NNP	*)	-	-	-	-	-
+chtb_0199	0	6	Mahathir	NNP	*)	-	-	-	-	-
+chtb_0199	0	7	of	IN	(PP*	-	-	-	-	-
+chtb_0199	0	8	Malaysia	NNP	(NP*))))))	-	-	-	-	(1)
+chtb_0199	0	9	,	,	*	-	-	-	-	-
+chtb_0199	0	10	Premier	NNP	(NP*	-	-	-	-	(2
+chtb_0199	0	11	Peng	NNP	*	-	-	-	-	-
+chtb_0199	0	12	Li	NNP	*)	-	-	-	-	2)
+chtb_0199	0	13	arrived	VBD	(VP*	arrive	01	1	-	-
+chtb_0199	0	14	in	IN	(PP*	-	-	-	-	-
+chtb_0199	0	15	Malaysia	NNP	(NP*))	-	-	-	-	(1)
+chtb_0199	0	16	on	IN	(PP*	-	-	-	-	-
+chtb_0199	0	17	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0199	0	18	afternoon	NN	*)	-	-	-	-	-
+chtb_0199	0	19	of	IN	(PP*	-	-	-	-	-
+chtb_0199	0	20	December	NNP	(NP*	-	-	-	-	-
+chtb_0199	0	21	10th	NN	*	-	-	-	-	-
+chtb_0199	0	22	,	,	*	-	-	-	-	-
+chtb_0199	0	23	1990	CD	*))))	-	-	-	-	-
+chtb_0199	0	24	to	TO	(S(VP*	-	-	-	-	-
+chtb_0199	0	25	carry	VB	(VP*	carry	03	8	-	-
+chtb_0199	0	26	out	RP	(PRT*)	-	-	-	-	-
+chtb_0199	0	27	a	DT	(NP*	-	-	-	-	-
+chtb_0199	0	28	friendly	JJ	*	-	-	-	-	-
+chtb_0199	0	29	official	NN	*	official	-	3	-	-
+chtb_0199	0	30	visit	NN	*)))))	visit	-	1	-	-
+chtb_0199	0	31	.	.	*))	-	-	-	-	-
+
+chtb_0199	0	0	The	DT	(TOP(S(NP*	-	-	-	-	(0
+chtb_0199	0	1	picture	NN	*)	picture	-	2	-	0)
+chtb_0199	0	2	showed	VBD	(VP*	show	01	1	-	-
+chtb_0199	0	3	Premier	NNP	(S(NP*	-	-	-	-	(2
+chtb_0199	0	4	Peng	NNP	*	-	-	-	-	-
+chtb_0199	0	5	Li	NNP	*)	-	-	-	-	2)
+chtb_0199	0	6	visiting	VBG	(VP*	visit	01	1	-	-
+chtb_0199	0	7	Malacca	NNP	(NP*	-	-	-	-	-
+chtb_0199	0	8	State	NNP	*))))))	-	-	-	-	-
+
+chtb_0199	0	0	Picture	NNP	(TOP(FRAG(NP*)	-	-	-	-	(0)
+chtb_0199	0	1	taken	VBN	(VP*	take	01	1	-	-
+chtb_0199	0	2	by	IN	(PP*	-	-	-	-	-
+chtb_0199	0	3	Xinhua	NNP	(NP(NML(NML*	-	-	-	-	-
+chtb_0199	0	4	News	NNP	*	-	-	-	-	-
+chtb_0199	0	5	Agency	NNP	*)	-	-	-	-	-
+chtb_0199	0	6	reporter	NN	*)	-	-	-	-	-
+chtb_0199	0	7	Shengnan	NNP	*	-	-	-	-	-
+chtb_0199	0	8	Li	NNP	*)))))	-	-	-	-	-
+
+#end document

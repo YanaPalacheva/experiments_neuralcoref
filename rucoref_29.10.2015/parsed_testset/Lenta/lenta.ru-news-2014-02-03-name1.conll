@@ -1,0 +1,439 @@
+# newdoc id = 23750a2a-4bd0-42d3-9415-c53840f87cdf
+# newpar id = 23750a2a-4bd0-42d3-9415-c53840f87cdf-p1
+# par_text = Установлена личность молодого человека, захватившего заложников в московской школе номер 263: это ученик 11 или 10 класса той же школы. Об этом 3 февраля сообщается на сайте газеты «Коммерсантъ».
+# sent_id = 23750a2a-4bd0-42d3-9415-c53840f87cdf-p1-s1
+# text = Установлена личность молодого человека, захватившего заложников в московской школе номер 263: это ученик 11 или 10 класса той же школы.
+1	Установлена	_	_	_	_	_	_	_	Shift=0
+2	личность	_	_	_	_	_	_	_	Shift=12
+3	молодого	_	_	_	_	_	_	_	RuCor_chain_id=486|RuCor_group_id=411647|Shift=21
+4	человека	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=486|RuCor_group_id=411647|RuCor_link_id=0|Shift=30|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=38
+6	захватившего	_	_	_	_	_	_	_	Shift=40
+7	заложников	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=485|RuCor_group_id=411650|RuCor_link_id=0|Shift=53
+8	в	_	_	_	_	_	_	_	Shift=64
+9	московской	_	_	_	_	_	_	_	Shift=66
+10	школе	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=484|RuCor_group_id=411655|RuCor_link_id=0|Shift=77
+11	номер	_	_	_	_	_	_	_	RuCor_chain_id=484|RuCor_group_id=411655|Shift=83
+12	263	_	_	_	_	_	_	_	RuCor_chain_id=484|RuCor_group_id=411655|Shift=89|SpaceAfter=No
+13	:	_	_	_	_	_	_	_	Shift=92
+14	это	_	_	_	_	_	_	_	Shift=94
+15	ученик	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=486|RuCor_group_id=411648|RuCor_link_id=411647|Shift=98
+16	11	_	_	_	_	_	_	_	RuCor_chain_id=486|RuCor_group_id=411648|Shift=105
+17	или	_	_	_	_	_	_	_	RuCor_chain_id=486|RuCor_group_id=411648|Shift=108
+18	10	_	_	_	_	_	_	_	RuCor_chain_id=486|RuCor_group_id=411648|Shift=112
+19	класса	_	_	_	_	_	_	_	RuCor_chain_id=486|RuCor_group_id=411648|Shift=115
+20	той	_	_	_	_	_	_	_	RuCor_chain_id=484|RuCor_group_id=411656|Shift=122
+21	же	_	_	_	_	_	_	_	RuCor_chain_id=484|RuCor_group_id=411656|Shift=126
+22	школы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=484|RuCor_group_id=411656|RuCor_link_id=411655|Shift=129|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=134
+
+# sent_id = 23750a2a-4bd0-42d3-9415-c53840f87cdf-p1-s2
+# text = Об этом 3 февраля сообщается на сайте газеты ``Коммерсантъ''.
+1	Об	_	_	_	_	_	_	_	Shift=136
+2	этом	_	_	_	_	_	_	_	Shift=139
+3	3	_	_	_	_	_	_	_	Shift=144
+4	февраля	_	_	_	_	_	_	_	Shift=146
+5	сообщается	_	_	_	_	_	_	_	Shift=154
+6	на	_	_	_	_	_	_	_	Shift=165
+7	сайте	_	_	_	_	_	_	_	Shift=168
+8	газеты	_	_	_	_	_	_	_	Shift=174
+9	``	_	_	_	_	_	_	_	Shift=181|SpaceAfter=No
+10	Коммерсантъ	_	_	_	_	_	_	_	Shift=182|SpaceAfter=No
+11	''	_	_	_	_	_	_	_	Shift=193|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=194
+
+# newpar id = 23750a2a-4bd0-42d3-9415-c53840f87cdf-p2
+# par_text = В МВД заявили, что преступник задержан. Все заложники (от 20 до 29 учеников 10 класса) освобождены, никто из них не пострадал. Источник в правоохранительных органах сообщил агентству «Интерфакс», что мотивом преступления, по предварительным данным, стал конфликт в школе.
+# sent_id = 23750a2a-4bd0-42d3-9415-c53840f87cdf-p2-s1
+# text = В МВД заявили, что преступник задержан.
+1	В	_	_	_	_	_	_	_	Shift=196
+2	МВД	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=475|RuCor_group_id=411692|RuCor_link_id=0|Shift=198
+3	заявили	_	_	_	_	_	_	_	Shift=202|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=209
+5	что	_	_	_	_	_	_	_	Shift=211
+6	преступник	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=486|RuCor_group_id=411649|RuCor_link_id=411647|Shift=215
+7	задержан	_	_	_	_	_	_	_	Shift=226|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=234
+
+# sent_id = 23750a2a-4bd0-42d3-9415-c53840f87cdf-p2-s2
+# text = Все заложники (от 20 до 29 учеников 10 класса) освобождены, никто из них не пострадал.
+1	Все	_	_	_	_	_	_	_	RuCor_chain_id=485|RuCor_group_id=411651|Shift=236
+2	заложники	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=485|RuCor_group_id=411651|RuCor_link_id=411650|Shift=240
+3	(	_	_	_	_	_	_	_	Shift=250|SpaceAfter=No
+4	от	_	_	_	_	_	_	_	RuCor_chain_id=485|RuCor_group_id=411652|Shift=251
+5	20	_	_	_	_	_	_	_	RuCor_chain_id=485|RuCor_group_id=411652|Shift=254
+6	до	_	_	_	_	_	_	_	RuCor_chain_id=485|RuCor_group_id=411652|Shift=257
+7	29	_	_	_	_	_	_	_	RuCor_chain_id=485|RuCor_group_id=411652|Shift=260
+8	учеников	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=485|RuCor_group_id=411652|RuCor_link_id=411650|Shift=263
+9	10	_	_	_	_	_	_	_	RuCor_chain_id=478|RuCor_group_id=411683|Shift=272
+10	класса	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=478|RuCor_group_id=411683|RuCor_link_id=0|Shift=275|SpaceAfter=No
+11	)	_	_	_	_	_	_	_	Shift=281
+12	освобождены	_	_	_	_	_	_	_	Shift=283|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=294
+14	никто	_	_	_	_	_	_	_	Shift=296
+15	из	_	_	_	_	_	_	_	Shift=302
+16	них	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=485|RuCor_group_id=411653|RuCor_link_id=411651|Shift=305
+17	не	_	_	_	_	_	_	_	Shift=309
+18	пострадал	_	_	_	_	_	_	_	Shift=312|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=321
+
+# sent_id = 23750a2a-4bd0-42d3-9415-c53840f87cdf-p2-s3
+# text = Источник в правоохранительных органах сообщил агентству ``Интерфакс'', что мотивом преступления, по предварительным данным, стал конфликт в школе.
+1	Источник	_	_	_	_	_	_	_	Shift=323
+2	в	_	_	_	_	_	_	_	Shift=332
+3	правоохранительных	_	_	_	_	_	_	_	RuCor_chain_id=475|RuCor_group_id=411654|Shift=334
+4	органах	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=475|RuCor_group_id=411654|RuCor_link_id=411692|Shift=353
+5	сообщил	_	_	_	_	_	_	_	Shift=361
+6	агентству	_	_	_	_	_	_	_	Shift=369
+7	``	_	_	_	_	_	_	_	Shift=379|SpaceAfter=No
+8	Интерфакс	_	_	_	_	_	_	_	Shift=380|SpaceAfter=No
+9	''	_	_	_	_	_	_	_	Shift=389|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=390
+11	что	_	_	_	_	_	_	_	Shift=392
+12	мотивом	_	_	_	_	_	_	_	Shift=396
+13	преступления	_	_	_	_	_	_	_	Shift=404|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=416
+15	по	_	_	_	_	_	_	_	Shift=418
+16	предварительным	_	_	_	_	_	_	_	Shift=421
+17	данным	_	_	_	_	_	_	_	Shift=437|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=443
+19	стал	_	_	_	_	_	_	_	Shift=445
+20	конфликт	_	_	_	_	_	_	_	Shift=450
+21	в	_	_	_	_	_	_	_	Shift=459
+22	школе	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=484|RuCor_group_id=411657|RuCor_link_id=411655|Shift=461|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=466
+
+# newpar id = 23750a2a-4bd0-42d3-9415-c53840f87cdf-p3
+# par_text = При этом один из школьников рассказал телеканалу Life News, что захватчик заложников был лучшим учеником в классе. Ни в какие конфликты он вовлечен не был. Также ученики рассказали, что на входе в школу размещен турникет для входа по карточкам. Некоторое время назад карточки поменяли, ученикам не дали новых карточек, и турникет не работал.
+# sent_id = 23750a2a-4bd0-42d3-9415-c53840f87cdf-p3-s1
+# text = При этом один из школьников рассказал телеканалу Life News, что захватчик заложников был лучшим учеником в классе.
+1	При	_	_	_	_	_	_	_	Shift=468
+2	этом	_	_	_	_	_	_	_	Shift=472
+3	один	_	_	_	_	_	_	_	Shift=477
+4	из	_	_	_	_	_	_	_	Shift=482
+5	школьников	_	_	_	_	_	_	_	Shift=485
+6	рассказал	_	_	_	_	_	_	_	Shift=496
+7	телеканалу	_	_	_	_	_	_	_	RuCor_chain_id=483|RuCor_group_id=411658|Shift=506
+8	Life	_	_	_	_	_	_	_	RuCor_chain_id=483|RuCor_group_id=411658|Shift=517
+9	News	_	_	_	_	_	_	_	RuCor_chain_id=483|RuCor_group_id=411658|Shift=522|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=526
+11	что	_	_	_	_	_	_	_	Shift=528
+12	захватчик	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=486|RuCor_group_id=411659|RuCor_link_id=411647|Shift=532
+13	заложников	_	_	_	_	_	_	_	RuCor_chain_id=486|RuCor_group_id=411659|Shift=542
+14	был	_	_	_	_	_	_	_	Shift=553
+15	лучшим	_	_	_	_	_	_	_	RuCor_chain_id=486|RuCor_group_id=411660|Shift=557
+16	учеником	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=486|RuCor_group_id=411660|RuCor_link_id=411659|Shift=564
+17	в	_	_	_	_	_	_	_	Shift=573
+18	классе	_	_	_	_	_	_	_	Shift=575|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=581
+
+# sent_id = 23750a2a-4bd0-42d3-9415-c53840f87cdf-p3-s2
+# text = Ни в какие конфликты он вовлечен не был.
+1	Ни	_	_	_	_	_	_	_	Shift=583
+2	в	_	_	_	_	_	_	_	Shift=586
+3	какие	_	_	_	_	_	_	_	Shift=588
+4	конфликты	_	_	_	_	_	_	_	Shift=594
+5	он	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=486|RuCor_group_id=411661|RuCor_link_id=411659|Shift=604
+6	вовлечен	_	_	_	_	_	_	_	Shift=607
+7	не	_	_	_	_	_	_	_	Shift=616
+8	был	_	_	_	_	_	_	_	Shift=619|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=622
+
+# sent_id = 23750a2a-4bd0-42d3-9415-c53840f87cdf-p3-s3
+# text = Также ученики рассказали, что на входе в школу размещен турникет для входа по карточкам.
+1	Также	_	_	_	_	_	_	_	Shift=624
+2	ученики	_	_	_	_	_	_	_	Shift=630
+3	рассказали	_	_	_	_	_	_	_	Shift=638|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=648
+5	что	_	_	_	_	_	_	_	Shift=650
+6	на	_	_	_	_	_	_	_	Shift=654
+7	входе	_	_	_	_	_	_	_	Shift=657
+8	в	_	_	_	_	_	_	_	Shift=663
+9	школу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=484|RuCor_group_id=411662|RuCor_link_id=411655|Shift=665
+10	размещен	_	_	_	_	_	_	_	Shift=671
+11	турникет	_	_	_	_	_	_	_	Shift=680
+12	для	_	_	_	_	_	_	_	Shift=689
+13	входа	_	_	_	_	_	_	_	Shift=693
+14	по	_	_	_	_	_	_	_	Shift=699
+15	карточкам	_	_	_	_	_	_	_	Shift=702|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=711
+
+# sent_id = 23750a2a-4bd0-42d3-9415-c53840f87cdf-p3-s4
+# text = Некоторое время назад карточки поменяли, ученикам не дали новых карточек, и турникет не работал.
+1	Некоторое	_	_	_	_	_	_	_	Shift=713
+2	время	_	_	_	_	_	_	_	Shift=723
+3	назад	_	_	_	_	_	_	_	Shift=729
+4	карточки	_	_	_	_	_	_	_	Shift=735
+5	поменяли	_	_	_	_	_	_	_	Shift=744|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=752
+7	ученикам	_	_	_	_	_	_	_	Shift=754
+8	не	_	_	_	_	_	_	_	Shift=763
+9	дали	_	_	_	_	_	_	_	Shift=766
+10	новых	_	_	_	_	_	_	_	Shift=771
+11	карточек	_	_	_	_	_	_	_	Shift=777|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=785
+13	и	_	_	_	_	_	_	_	Shift=787
+14	турникет	_	_	_	_	_	_	_	Shift=789
+15	не	_	_	_	_	_	_	_	Shift=798
+16	работал	_	_	_	_	_	_	_	Shift=801|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=808
+
+# newpar id = 23750a2a-4bd0-42d3-9415-c53840f87cdf-p4
+# par_text = Точной информации о погибших и пострадавших полицейских и учителе пока нет. Некоторые источники сообщают о двух раненых полицейских, другие источники — об убитом полицейском, его раненом коллеге и раненом учителе. Также сообщалось, что раненый учитель якобы скончался. Журналистам Life News стало известно имя предположительно погибшего полицейского, это старший сержант Сергей Бусюев или Бушуев. Имя погибшего или раненого учителя — Андрей Кириллов, он преподавал географию. Ученики отзываются о нем хорошо, конфликтов с захватчиком заложников у него не было.
+# sent_id = 23750a2a-4bd0-42d3-9415-c53840f87cdf-p4-s1
+# text = Точной информации о погибших и пострадавших полицейских и учителе пока нет.
+1	Точной	_	_	_	_	_	_	_	Shift=810
+2	информации	_	_	_	_	_	_	_	Shift=817
+3	о	_	_	_	_	_	_	_	Shift=828
+4	погибших	_	_	_	_	_	_	_	Shift=830
+5	и	_	_	_	_	_	_	_	Shift=839
+6	пострадавших	_	_	_	_	_	_	_	Shift=841
+7	полицейских	_	_	_	_	_	_	_	Shift=854
+8	и	_	_	_	_	_	_	_	Shift=866
+9	учителе	_	_	_	_	_	_	_	Shift=868
+10	пока	_	_	_	_	_	_	_	Shift=876
+11	нет	_	_	_	_	_	_	_	Shift=881|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=884
+
+# sent_id = 23750a2a-4bd0-42d3-9415-c53840f87cdf-p4-s2
+# text = Некоторые источники сообщают о двух раненых полицейских, другие источники - об убитом полицейском, его раненом коллеге и раненом учителе.
+1	Некоторые	_	_	_	_	_	_	_	Shift=886
+2	источники	_	_	_	_	_	_	_	Shift=896
+3	сообщают	_	_	_	_	_	_	_	Shift=906
+4	о	_	_	_	_	_	_	_	Shift=915
+5	двух	_	_	_	_	_	_	_	Shift=917
+6	раненых	_	_	_	_	_	_	_	Shift=922
+7	полицейских	_	_	_	_	_	_	_	Shift=930|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=941
+9	другие	_	_	_	_	_	_	_	Shift=943
+10	источники	_	_	_	_	_	_	_	Shift=950
+11	-	_	_	_	_	_	_	_	Shift=960
+12	об	_	_	_	_	_	_	_	Shift=962
+13	убитом	_	_	_	_	_	_	_	RuCor_chain_id=482|RuCor_group_id=411663|Shift=965
+14	полицейском	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=482|RuCor_group_id=411663|RuCor_link_id=0|Shift=972|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=983
+16	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=482|RuCor_group_id=411664|RuCor_link_id=411663|Shift=985
+17	раненом	_	_	_	_	_	_	_	Shift=989
+18	коллеге	_	_	_	_	_	_	_	Shift=997
+19	и	_	_	_	_	_	_	_	Shift=1005
+20	раненом	_	_	_	_	_	_	_	RuCor_chain_id=481|RuCor_group_id=411665|Shift=1007
+21	учителе	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=481|RuCor_group_id=411665|RuCor_link_id=0|Shift=1015|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=1022
+
+# sent_id = 23750a2a-4bd0-42d3-9415-c53840f87cdf-p4-s3
+# text = Также сообщалось, что раненый учитель якобы скончался.
+1	Также	_	_	_	_	_	_	_	Shift=1024
+2	сообщалось	_	_	_	_	_	_	_	Shift=1030|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1040
+4	что	_	_	_	_	_	_	_	Shift=1042
+5	раненый	_	_	_	_	_	_	_	RuCor_chain_id=481|RuCor_group_id=411666|Shift=1046
+6	учитель	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=481|RuCor_group_id=411666|RuCor_link_id=411665|Shift=1054
+7	якобы	_	_	_	_	_	_	_	Shift=1062
+8	скончался	_	_	_	_	_	_	_	Shift=1068|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=1077
+
+# sent_id = 23750a2a-4bd0-42d3-9415-c53840f87cdf-p4-s4
+# text = Журналистам Life News стало известно имя предположительно погибшего полицейского, это старший сержант Сергей Бусюев или Бушуев.
+1	Журналистам	_	_	_	_	_	_	_	Shift=1079
+2	Life	_	_	_	_	_	_	_	RuCor_chain_id=483|RuCor_group_id=411667|Shift=1091
+3	News	_	_	_	_	_	_	_	RuCor_chain_id=483|RuCor_group_id=411667|Shift=1096
+4	стало	_	_	_	_	_	_	_	Shift=1101
+5	известно	_	_	_	_	_	_	_	Shift=1107
+6	имя	_	_	_	_	_	_	_	Shift=1116
+7	предположительно	_	_	_	_	_	_	_	Shift=1120
+8	погибшего	_	_	_	_	_	_	_	RuCor_chain_id=480|RuCor_group_id=411668|Shift=1137
+9	полицейского	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=480|RuCor_group_id=411668|RuCor_link_id=0|Shift=1147|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=1159
+11	это	_	_	_	_	_	_	_	Shift=1161
+12	старший	_	_	_	_	_	_	_	RuCor_chain_id=480|RuCor_group_id=411670|Shift=1165
+13	сержант	_	_	_	_	_	_	_	RuCor_chain_id=480|RuCor_group_id=411670|Shift=1173
+14	Сергей	_	_	_	_	_	_	_	RuCor_chain_id=480|RuCor_group_id=411670|Shift=1181
+15	Бусюев	_	_	_	_	_	_	_	RuCor_chain_id=480|RuCor_group_id=411670|Shift=1188
+16	или	_	_	_	_	_	_	_	RuCor_chain_id=480|RuCor_group_id=411670|Shift=1195
+17	Бушуев	_	_	_	_	_	_	_	RuCor_chain_id=480|RuCor_group_id=411670|Shift=1199|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=1205
+
+# sent_id = 23750a2a-4bd0-42d3-9415-c53840f87cdf-p4-s5
+# text = Имя погибшего или раненого учителя - Андрей Кириллов, он преподавал географию.
+1	Имя	_	_	_	_	_	_	_	Shift=1207
+2	погибшего	_	_	_	_	_	_	_	RuCor_chain_id=481|RuCor_group_id=411669|Shift=1211
+3	или	_	_	_	_	_	_	_	RuCor_chain_id=481|RuCor_group_id=411669|Shift=1221
+4	раненого	_	_	_	_	_	_	_	RuCor_chain_id=481|RuCor_group_id=411669|Shift=1225
+5	учителя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=481|RuCor_group_id=411669|RuCor_link_id=411666|Shift=1234
+6	-	_	_	_	_	_	_	_	Shift=1242
+7	Андрей	_	_	_	_	_	_	_	RuCor_chain_id=481|RuCor_group_id=411671|Shift=1244
+8	Кириллов	_	_	_	_	_	_	_	RuCor_chain_id=481|RuCor_group_id=411671|Shift=1251|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1259
+10	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=481|RuCor_group_id=411672|RuCor_link_id=411671|Shift=1261
+11	преподавал	_	_	_	_	_	_	_	Shift=1264
+12	географию	_	_	_	_	_	_	_	Shift=1275|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=1284
+
+# sent_id = 23750a2a-4bd0-42d3-9415-c53840f87cdf-p4-s6
+# text = Ученики отзываются о нем хорошо, конфликтов с захватчиком заложников у него не было.
+1	Ученики	_	_	_	_	_	_	_	Shift=1286
+2	отзываются	_	_	_	_	_	_	_	Shift=1294
+3	о	_	_	_	_	_	_	_	Shift=1305
+4	нем	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=481|RuCor_group_id=411673|RuCor_link_id=411672|Shift=1307
+5	хорошо	_	_	_	_	_	_	_	Shift=1311|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1317
+7	конфликтов	_	_	_	_	_	_	_	Shift=1319
+8	с	_	_	_	_	_	_	_	Shift=1330
+9	захватчиком	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=486|RuCor_group_id=411674|RuCor_link_id=411649|Shift=1332
+10	заложников	_	_	_	_	_	_	_	RuCor_chain_id=486|RuCor_group_id=411674|Shift=1344
+11	у	_	_	_	_	_	_	_	Shift=1355
+12	него	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=481|RuCor_group_id=411675|RuCor_link_id=411672|Shift=1357
+13	не	_	_	_	_	_	_	_	Shift=1362
+14	было	_	_	_	_	_	_	_	Shift=1365|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=1369
+
+# newpar id = 23750a2a-4bd0-42d3-9415-c53840f87cdf-p5
+# par_text = Старшеклассник ворвался в школу в районе Отрадное днем 3 февраля. Угрожая оружием охраннику, он заставил его пройти вместе с ним в кабинет биологии, где проходил урок у десятого класса. Охранник успел вызвать полицию с помощью «тревожной кнопки». Преступник открыл огонь из окна по прибывшим полицейским и взял в заложники учеников. На место прибыли дополнительные наряды полиции, скорой помощи, вертолет МЧС, спасатели с бронещитом, защищающим от взрывов, машина Следственного комитета РФ и лично глава МВД РФ Владимир Колокольцев. Учеников из школы эвакуировали. По одним данным, их разместили в соседней школе номер 1459. По другим данным, эта школа, наоборот, на всякий случай также была эвакуирована.
+# sent_id = 23750a2a-4bd0-42d3-9415-c53840f87cdf-p5-s1
+# text = Старшеклассник ворвался в школу в районе Отрадное днем 3 февраля.
+1	Старшеклассник	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=486|RuCor_group_id=411676|RuCor_link_id=411674|Shift=1371
+2	ворвался	_	_	_	_	_	_	_	Shift=1386
+3	в	_	_	_	_	_	_	_	Shift=1395
+4	школу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=484|RuCor_group_id=411677|RuCor_link_id=411655|Shift=1397
+5	в	_	_	_	_	_	_	_	Shift=1403
+6	районе	_	_	_	_	_	_	_	Shift=1405
+7	Отрадное	_	_	_	_	_	_	_	Shift=1412
+8	днем	_	_	_	_	_	_	_	Shift=1421
+9	3	_	_	_	_	_	_	_	Shift=1426
+10	февраля	_	_	_	_	_	_	_	Shift=1428|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=1435
+
+# sent_id = 23750a2a-4bd0-42d3-9415-c53840f87cdf-p5-s2
+# text = Угрожая оружием охраннику, он заставил его пройти вместе с ним в кабинет биологии, где проходил урок у десятого класса.
+1	Угрожая	_	_	_	_	_	_	_	Shift=1437
+2	оружием	_	_	_	_	_	_	_	Shift=1445
+3	охраннику	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=479|RuCor_group_id=411679|RuCor_link_id=0|Shift=1453|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1462
+5	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=486|RuCor_group_id=411678|RuCor_link_id=411676|Shift=1464
+6	заставил	_	_	_	_	_	_	_	Shift=1467
+7	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=479|RuCor_group_id=411680|RuCor_link_id=411679|Shift=1476
+8	пройти	_	_	_	_	_	_	_	Shift=1480
+9	вместе	_	_	_	_	_	_	_	Shift=1487
+10	с	_	_	_	_	_	_	_	Shift=1494
+11	ним	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=486|RuCor_group_id=411681|RuCor_link_id=411678|Shift=1496
+12	в	_	_	_	_	_	_	_	Shift=1500
+13	кабинет	_	_	_	_	_	_	_	Shift=1502
+14	биологии	_	_	_	_	_	_	_	Shift=1510|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=1518
+16	где	_	_	_	_	_	_	_	Shift=1520
+17	проходил	_	_	_	_	_	_	_	Shift=1524
+18	урок	_	_	_	_	_	_	_	Shift=1533
+19	у	_	_	_	_	_	_	_	Shift=1538
+20	десятого	_	_	_	_	_	_	_	RuCor_chain_id=478|RuCor_group_id=411682|Shift=1540
+21	класса	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=478|RuCor_group_id=411682|RuCor_link_id=411683|Shift=1549|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=1555
+
+# sent_id = 23750a2a-4bd0-42d3-9415-c53840f87cdf-p5-s3
+# text = Охранник успел вызвать полицию с помощью ``тревожной кнопки''.
+1	Охранник	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=479|RuCor_group_id=411684|RuCor_link_id=411679|Shift=1557
+2	успел	_	_	_	_	_	_	_	Shift=1566
+3	вызвать	_	_	_	_	_	_	_	Shift=1572
+4	полицию	_	_	_	_	_	_	_	Shift=1580
+5	с	_	_	_	_	_	_	_	Shift=1588
+6	помощью	_	_	_	_	_	_	_	Shift=1590
+7	``	_	_	_	_	_	_	_	Shift=1598|SpaceAfter=No
+8	тревожной	_	_	_	_	_	_	_	Shift=1599
+9	кнопки	_	_	_	_	_	_	_	Shift=1609|SpaceAfter=No
+10	''	_	_	_	_	_	_	_	Shift=1615|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=1616
+
+# sent_id = 23750a2a-4bd0-42d3-9415-c53840f87cdf-p5-s4
+# text = Преступник открыл огонь из окна по прибывшим полицейским и взял в заложники учеников.
+1	Преступник	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=486|RuCor_group_id=411685|RuCor_link_id=411678|Shift=1618
+2	открыл	_	_	_	_	_	_	_	Shift=1629
+3	огонь	_	_	_	_	_	_	_	Shift=1636
+4	из	_	_	_	_	_	_	_	Shift=1642
+5	окна	_	_	_	_	_	_	_	Shift=1645
+6	по	_	_	_	_	_	_	_	Shift=1650
+7	прибывшим	_	_	_	_	_	_	_	Shift=1653
+8	полицейским	_	_	_	_	_	_	_	Shift=1663
+9	и	_	_	_	_	_	_	_	Shift=1675
+10	взял	_	_	_	_	_	_	_	Shift=1677
+11	в	_	_	_	_	_	_	_	Shift=1682
+12	заложники	_	_	_	_	_	_	_	Shift=1684
+13	учеников	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=485|RuCor_group_id=411686|RuCor_link_id=411652|Shift=1694|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=1702
+
+# sent_id = 23750a2a-4bd0-42d3-9415-c53840f87cdf-p5-s5
+# text = На место прибыли дополнительные наряды полиции, скорой помощи, вертолет МЧС, спасатели с бронещитом, защищающим от взрывов, машина Следственного комитета РФ и лично глава МВД РФ Владимир Колокольцев.
+1	На	_	_	_	_	_	_	_	Shift=1704
+2	место	_	_	_	_	_	_	_	Shift=1707
+3	прибыли	_	_	_	_	_	_	_	Shift=1713
+4	дополнительные	_	_	_	_	_	_	_	Shift=1721
+5	наряды	_	_	_	_	_	_	_	Shift=1736
+6	полиции	_	_	_	_	_	_	_	Shift=1743|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=1750
+8	скорой	_	_	_	_	_	_	_	Shift=1752
+9	помощи	_	_	_	_	_	_	_	Shift=1759|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=1765
+11	вертолет	_	_	_	_	_	_	_	Shift=1767
+12	МЧС	_	_	_	_	_	_	_	Shift=1776|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=1779
+14	спасатели	_	_	_	_	_	_	_	Shift=1781
+15	с	_	_	_	_	_	_	_	Shift=1791
+16	бронещитом	_	_	_	_	_	_	_	Shift=1793|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=1803
+18	защищающим	_	_	_	_	_	_	_	Shift=1805
+19	от	_	_	_	_	_	_	_	Shift=1816
+20	взрывов	_	_	_	_	_	_	_	Shift=1819|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=1826
+22	машина	_	_	_	_	_	_	_	Shift=1828
+23	Следственного	_	_	_	_	_	_	_	Shift=1835
+24	комитета	_	_	_	_	_	_	_	Shift=1849
+25	РФ	_	_	_	_	_	_	_	Shift=1858
+26	и	_	_	_	_	_	_	_	Shift=1861
+27	лично	_	_	_	_	_	_	_	Shift=1863
+28	глава	_	_	_	_	_	_	_	Shift=1869
+29	МВД	_	_	_	_	_	_	_	Shift=1875
+30	РФ	_	_	_	_	_	_	_	Shift=1879
+31	Владимир	_	_	_	_	_	_	_	Shift=1882
+32	Колокольцев	_	_	_	_	_	_	_	Shift=1891|SpaceAfter=No
+33	.	_	_	_	_	_	_	_	Shift=1902
+
+# sent_id = 23750a2a-4bd0-42d3-9415-c53840f87cdf-p5-s6
+# text = Учеников из школы эвакуировали.
+1	Учеников	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=476|RuCor_group_id=411690|RuCor_link_id=0|Shift=1904
+2	из	_	_	_	_	_	_	_	Shift=1913
+3	школы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=484|RuCor_group_id=411687|RuCor_link_id=411677|Shift=1916
+4	эвакуировали	_	_	_	_	_	_	_	Shift=1922|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=1934
+
+# sent_id = 23750a2a-4bd0-42d3-9415-c53840f87cdf-p5-s7
+# text = По одним данным, их разместили в соседней школе номер 1459.
+1	По	_	_	_	_	_	_	_	Shift=1936
+2	одним	_	_	_	_	_	_	_	Shift=1939
+3	данным	_	_	_	_	_	_	_	Shift=1945|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1951
+5	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=476|RuCor_group_id=411691|RuCor_link_id=411690|Shift=1953
+6	разместили	_	_	_	_	_	_	_	Shift=1956
+7	в	_	_	_	_	_	_	_	Shift=1967
+8	соседней	_	_	_	_	_	_	_	Shift=1969
+9	школе	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=477|RuCor_group_id=411688|RuCor_link_id=0|Shift=1978
+10	номер	_	_	_	_	_	_	_	RuCor_chain_id=477|RuCor_group_id=411688|Shift=1984
+11	1459	_	_	_	_	_	_	_	RuCor_chain_id=477|RuCor_group_id=411688|Shift=1990|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=1994
+
+# sent_id = 23750a2a-4bd0-42d3-9415-c53840f87cdf-p5-s8
+# text = По другим данным, эта школа, наоборот, на всякий случай также была эвакуирована.
+1	По	_	_	_	_	_	_	_	Shift=1996
+2	другим	_	_	_	_	_	_	_	Shift=1999
+3	данным	_	_	_	_	_	_	_	Shift=2006|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2012
+5	эта	_	_	_	_	_	_	_	RuCor_chain_id=477|RuCor_group_id=411689|Shift=2014
+6	школа	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=477|RuCor_group_id=411689|RuCor_link_id=411688|Shift=2018|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=2023
+8	наоборот	_	_	_	_	_	_	_	Shift=2025|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=2033
+10	на	_	_	_	_	_	_	_	Shift=2035
+11	всякий	_	_	_	_	_	_	_	Shift=2038
+12	случай	_	_	_	_	_	_	_	Shift=2045
+13	также	_	_	_	_	_	_	_	Shift=2052
+14	была	_	_	_	_	_	_	_	Shift=2058
+15	эвакуирована	_	_	_	_	_	_	_	Shift=2063|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	_
+

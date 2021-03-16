@@ -1,0 +1,1367 @@
+# newdoc id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c
+# newpar id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p1
+# par_text = - Дьевка, хдье папа? Дьевка! Гаварьи, или пух-пух! - худой фриц нависал над  Верой,  махая  перед ее  лицом пистолетом  и  источая  приторный  запах мужского лосьона. Вера все плотнее вжималась в угол сарая. Единственной ее  мечтой было - это исчезнуть, испариться. Казалось, этот кошмар не кончится никогда. А фриц орал и орал, пока Вера сама не закричала от беспомощности и страха, и...
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p1-s1
+# text = - Дьевка, хдье папа?
+1	-	_	_	_	_	_	_	_	Shift=1
+2	Дьевка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3565|RuCor_group_id=475516|RuCor_link_id=0|Shift=3|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=9
+4	хдье	_	_	_	_	_	_	_	Shift=11
+5	папа	_	_	_	_	_	_	_	Shift=16|SpaceAfter=No
+6	?	_	_	_	_	_	_	_	Shift=20
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p1-s2
+# text = Дьевка!
+1	Дьевка	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3565|RuCor_group_id=475517|RuCor_link_id=475516|Shift=22|SpaceAfter=No
+2	!	_	_	_	_	_	_	_	Shift=28
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p1-s3
+# text = Гаварьи, или пух - пух!
+1	Гаварьи	_	_	_	_	_	_	_	Shift=30|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=37
+3	или	_	_	_	_	_	_	_	Shift=39
+4	пух	_	_	_	_	_	_	_	Shift=43
+5	-	_	_	_	_	_	_	_	Shift=46
+6	пух	_	_	_	_	_	_	_	Shift=47|SpaceAfter=No
+7	!	_	_	_	_	_	_	_	Shift=50
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p1-s4
+# text = - худой фриц нависал над Верой, махая перед ее лицом пистолетом и источая приторный запах мужского лосьона.
+1	-	_	_	_	_	_	_	_	Shift=52
+2	худой	_	_	_	_	_	_	_	RuCor_chain_id=3566|RuCor_group_id=475518|Shift=54
+3	фриц	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3566|RuCor_group_id=475518|RuCor_link_id=0|Shift=60
+4	нависал	_	_	_	_	_	_	_	Shift=65
+5	над	_	_	_	_	_	_	_	Shift=73
+6	Верой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3565|RuCor_group_id=475519|RuCor_link_id=475517|Shift=78|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=83
+8	махая	_	_	_	_	_	_	_	Shift=86
+9	перед	_	_	_	_	_	_	_	Shift=93
+10	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3565|RuCor_group_id=475520|RuCor_link_id=475519|Shift=99
+11	лицом	_	_	_	_	_	_	_	Shift=103
+12	пистолетом	_	_	_	_	_	_	_	Shift=109
+13	и	_	_	_	_	_	_	_	Shift=121
+14	источая	_	_	_	_	_	_	_	Shift=124
+15	приторный	_	_	_	_	_	_	_	Shift=133
+16	запах	_	_	_	_	_	_	_	Shift=144
+17	мужского	_	_	_	_	_	_	_	Shift=150
+18	лосьона	_	_	_	_	_	_	_	Shift=159|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=166
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p1-s5
+# text = Вера все плотнее вжималась в угол сарая.
+1	Вера	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3565|RuCor_group_id=475521|RuCor_link_id=475520|Shift=168
+2	все	_	_	_	_	_	_	_	Shift=173
+3	плотнее	_	_	_	_	_	_	_	Shift=177
+4	вжималась	_	_	_	_	_	_	_	Shift=185
+5	в	_	_	_	_	_	_	_	Shift=195
+6	угол	_	_	_	_	_	_	_	Shift=197
+7	сарая	_	_	_	_	_	_	_	Shift=202|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=207
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p1-s6
+# text = Единственной ее мечтой было - это исчезнуть, испариться.
+1	Единственной	_	_	_	_	_	_	_	Shift=209
+2	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3565|RuCor_group_id=475522|RuCor_link_id=475521|Shift=222
+3	мечтой	_	_	_	_	_	_	_	Shift=226
+4	было	_	_	_	_	_	_	_	Shift=233
+5	-	_	_	_	_	_	_	_	Shift=238
+6	это	_	_	_	_	_	_	_	Shift=240
+7	исчезнуть	_	_	_	_	_	_	_	Shift=244|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=253
+9	испариться	_	_	_	_	_	_	_	Shift=255|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=265
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p1-s7
+# text = Казалось, этот кошмар не кончится никогда.
+1	Казалось	_	_	_	_	_	_	_	Shift=267|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=275
+3	этот	_	_	_	_	_	_	_	Shift=277
+4	кошмар	_	_	_	_	_	_	_	Shift=282
+5	не	_	_	_	_	_	_	_	Shift=289
+6	кончится	_	_	_	_	_	_	_	Shift=292
+7	никогда	_	_	_	_	_	_	_	Shift=301|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=308
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p1-s8
+# text = А фриц орал и орал, пока Вера сама не закричала от беспомощности и страха, и...
+1	А	_	_	_	_	_	_	_	Shift=310
+2	фриц	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3566|RuCor_group_id=475523|RuCor_link_id=475518|Shift=312
+3	орал	_	_	_	_	_	_	_	Shift=317
+4	и	_	_	_	_	_	_	_	Shift=322
+5	орал	_	_	_	_	_	_	_	Shift=324|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=328
+7	пока	_	_	_	_	_	_	_	Shift=330
+8	Вера	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3565|RuCor_group_id=475524|RuCor_link_id=475522|Shift=335
+9	сама	_	_	_	_	_	_	_	Shift=340
+10	не	_	_	_	_	_	_	_	Shift=345
+11	закричала	_	_	_	_	_	_	_	Shift=348
+12	от	_	_	_	_	_	_	_	Shift=358
+13	беспомощности	_	_	_	_	_	_	_	Shift=361
+14	и	_	_	_	_	_	_	_	Shift=375
+15	страха	_	_	_	_	_	_	_	Shift=377|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=383
+17	и	_	_	_	_	_	_	_	Shift=385|SpaceAfter=No
+18	...	_	_	_	_	_	_	_	Shift=386
+
+# newpar id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p2
+# par_text = И проснулась. Но проснулась уже Вера  Степановна, женщина,  разменявшая шестой  десяток лет. Она еще немного полежала, вглядываясь сквозь полумрак в темный ковер на противоположной стене  - такой, до боли, родной  и домашний. Глубоко вздохнула, сбрасывая с себя остатки кошмарного сна, и села, стараясь ногой нащупать тапочки. Более  сорока  лет  мучал ее  этот сон  с  завидным постоянством, возвращаясь вновь и вновь.
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p2-s1
+# text = И проснулась.
+1	И	_	_	_	_	_	_	_	Shift=391
+2	проснулась	_	_	_	_	_	_	_	Shift=393|SpaceAfter=No
+3	.	_	_	_	_	_	_	_	Shift=403
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p2-s2
+# text = Но проснулась уже Вера Степановна, женщина, разменявшая шестой десяток лет.
+1	Но	_	_	_	_	_	_	_	Shift=405
+2	проснулась	_	_	_	_	_	_	_	Shift=408
+3	уже	_	_	_	_	_	_	_	Shift=419
+4	Вера	_	_	_	_	_	_	_	RuCor_chain_id=3565|RuCor_group_id=475525|Shift=423
+5	Степановна	_	_	_	_	_	_	_	RuCor_chain_id=3565|RuCor_group_id=475525|Shift=429|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=439
+7	женщина	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=appo|RuCor_attrs_type=coref|RuCor_chain_id=3565|RuCor_group_id=475526|RuCor_link_id=475525|Shift=441|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=448
+9	разменявшая	_	_	_	_	_	_	_	Shift=451
+10	шестой	_	_	_	_	_	_	_	Shift=463
+11	десяток	_	_	_	_	_	_	_	Shift=471
+12	лет	_	_	_	_	_	_	_	Shift=479|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=482
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p2-s3
+# text = Она еще немного полежала, вглядываясь сквозь полумрак в темный ковер на противоположной стене - такой, до боли, родной и домашний.
+1	Она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3565|RuCor_group_id=475527|RuCor_link_id=475526|Shift=484
+2	еще	_	_	_	_	_	_	_	Shift=488
+3	немного	_	_	_	_	_	_	_	Shift=492
+4	полежала	_	_	_	_	_	_	_	Shift=500|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=508
+6	вглядываясь	_	_	_	_	_	_	_	Shift=510
+7	сквозь	_	_	_	_	_	_	_	Shift=522
+8	полумрак	_	_	_	_	_	_	_	Shift=529
+9	в	_	_	_	_	_	_	_	Shift=538
+10	темный	_	_	_	_	_	_	_	Shift=540
+11	ковер	_	_	_	_	_	_	_	Shift=547
+12	на	_	_	_	_	_	_	_	Shift=553
+13	противоположной	_	_	_	_	_	_	_	Shift=556
+14	стене	_	_	_	_	_	_	_	Shift=572
+15	-	_	_	_	_	_	_	_	Shift=579
+16	такой	_	_	_	_	_	_	_	Shift=581|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=586
+18	до	_	_	_	_	_	_	_	Shift=588
+19	боли	_	_	_	_	_	_	_	Shift=591|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=595
+21	родной	_	_	_	_	_	_	_	Shift=597
+22	и	_	_	_	_	_	_	_	Shift=605
+23	домашний	_	_	_	_	_	_	_	Shift=607|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=615
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p2-s4
+# text = Глубоко вздохнула, сбрасывая с себя остатки кошмарного сна, и села, стараясь ногой нащупать тапочки.
+1	Глубоко	_	_	_	_	_	_	_	Shift=617
+2	вздохнула	_	_	_	_	_	_	_	Shift=625|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=634
+4	сбрасывая	_	_	_	_	_	_	_	Shift=636
+5	с	_	_	_	_	_	_	_	Shift=646
+6	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=3565|RuCor_group_id=475528|RuCor_link_id=475527|Shift=648
+7	остатки	_	_	_	_	_	_	_	Shift=653
+8	кошмарного	_	_	_	_	_	_	_	Shift=661
+9	сна	_	_	_	_	_	_	_	Shift=672|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=675
+11	и	_	_	_	_	_	_	_	Shift=677
+12	села	_	_	_	_	_	_	_	Shift=679|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=683
+14	стараясь	_	_	_	_	_	_	_	Shift=685
+15	ногой	_	_	_	_	_	_	_	Shift=694
+16	нащупать	_	_	_	_	_	_	_	Shift=700
+17	тапочки	_	_	_	_	_	_	_	Shift=709|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=716
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p2-s5
+# text = Более сорока лет мучал ее этот сон с завидным постоянством, возвращаясь вновь и вновь.
+1	Более	_	_	_	_	_	_	_	Shift=718
+2	сорока	_	_	_	_	_	_	_	Shift=725
+3	лет	_	_	_	_	_	_	_	Shift=733
+4	мучал	_	_	_	_	_	_	_	Shift=738
+5	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3565|RuCor_group_id=475529|RuCor_link_id=475528|Shift=744
+6	этот	_	_	_	_	_	_	_	Shift=748
+7	сон	_	_	_	_	_	_	_	Shift=753
+8	с	_	_	_	_	_	_	_	Shift=758
+9	завидным	_	_	_	_	_	_	_	Shift=761
+10	постоянством	_	_	_	_	_	_	_	Shift=770|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=782
+12	возвращаясь	_	_	_	_	_	_	_	Shift=784
+13	вновь	_	_	_	_	_	_	_	Shift=796
+14	и	_	_	_	_	_	_	_	Shift=802
+15	вновь	_	_	_	_	_	_	_	Shift=804|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=809
+
+# newpar id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p3
+# par_text = Ее муж, Ефим Викторович, развалясь  на другой стороне  кровати, во  всю мощь  своего горла, раскатисто храпел. Духота в комнате стояла неимоверная. Потому-то и снится всякая гадость.
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p3-s1
+# text = Ее муж, Ефим Викторович, развалясь на другой стороне кровати, во всю мощь своего горла, раскатисто храпел.
+1	Ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3565|RuCor_group_id=475531|RuCor_link_id=475529|Shift=812
+2	муж	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3567|RuCor_group_id=475530|RuCor_link_id=0|Shift=815|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=818
+4	Ефим	_	_	_	_	_	_	_	RuCor_chain_id=3567|RuCor_group_id=475532|Shift=820
+5	Викторович	_	_	_	_	_	_	_	RuCor_chain_id=3567|RuCor_group_id=475532|Shift=825|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=835
+7	развалясь	_	_	_	_	_	_	_	Shift=837
+8	на	_	_	_	_	_	_	_	Shift=848
+9	другой	_	_	_	_	_	_	_	Shift=851
+10	стороне	_	_	_	_	_	_	_	Shift=858
+11	кровати	_	_	_	_	_	_	_	Shift=867|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=874
+13	во	_	_	_	_	_	_	_	Shift=876
+14	всю	_	_	_	_	_	_	_	Shift=880
+15	мощь	_	_	_	_	_	_	_	Shift=884
+16	своего	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3567|RuCor_group_id=475533|RuCor_link_id=475532|Shift=890
+17	горла	_	_	_	_	_	_	_	Shift=897|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=902
+19	раскатисто	_	_	_	_	_	_	_	Shift=904
+20	храпел	_	_	_	_	_	_	_	Shift=915|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=921
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p3-s2
+# text = Духота в комнате стояла неимоверная.
+1	Духота	_	_	_	_	_	_	_	Shift=923
+2	в	_	_	_	_	_	_	_	Shift=930
+3	комнате	_	_	_	_	_	_	_	Shift=932
+4	стояла	_	_	_	_	_	_	_	Shift=940
+5	неимоверная	_	_	_	_	_	_	_	Shift=947|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=958
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p3-s3
+# text = Потому - то и снится всякая гадость.
+1	Потому	_	_	_	_	_	_	_	Shift=960
+2	-	_	_	_	_	_	_	_	Shift=966
+3	то	_	_	_	_	_	_	_	Shift=967
+4	и	_	_	_	_	_	_	_	Shift=970
+5	снится	_	_	_	_	_	_	_	Shift=972
+6	всякая	_	_	_	_	_	_	_	Shift=979
+7	гадость	_	_	_	_	_	_	_	Shift=986|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=993
+
+# newpar id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p4
+# par_text = -  Фим,  а Фим!  Повернись набок-то!  Грохочешь  на  всю  квартиру!  Да повернись же!  Внука разбудишь! Зайковский, ты меня слышишь?  По-вер-нись! - Вера Степановна тормошила мужа, пока  тот, мыча что-то нечленораздельное, не подчинился. Хрюкнув на прощание,  он  уткнулся носом в стенку и стало тихо. Только древние ходики мирно щелкали на стене.
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p4-s1
+# text = - Фим, а Фим!
+1	-	_	_	_	_	_	_	_	Shift=996
+2	Фим	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3567|RuCor_group_id=475534|RuCor_link_id=475533|Shift=999|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1002
+4	а	_	_	_	_	_	_	_	Shift=1005
+5	Фим	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3567|RuCor_group_id=475535|RuCor_link_id=475534|Shift=1007|SpaceAfter=No
+6	!	_	_	_	_	_	_	_	Shift=1010
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p4-s2
+# text = Повернись набок - то!
+1	Повернись	_	_	_	_	_	_	_	Shift=1013
+2	набок	_	_	_	_	_	_	_	Shift=1023
+3	-	_	_	_	_	_	_	_	Shift=1028
+4	то	_	_	_	_	_	_	_	Shift=1029|SpaceAfter=No
+5	!	_	_	_	_	_	_	_	Shift=1031
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p4-s3
+# text = Грохочешь на всю квартиру!
+1	Грохочешь	_	_	_	_	_	_	_	Shift=1034
+2	на	_	_	_	_	_	_	_	Shift=1045
+3	всю	_	_	_	_	_	_	_	Shift=1049
+4	квартиру	_	_	_	_	_	_	_	Shift=1054|SpaceAfter=No
+5	!	_	_	_	_	_	_	_	Shift=1062
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p4-s4
+# text = Да повернись же!
+1	Да	_	_	_	_	_	_	_	Shift=1065
+2	повернись	_	_	_	_	_	_	_	Shift=1068
+3	же	_	_	_	_	_	_	_	Shift=1078|SpaceAfter=No
+4	!	_	_	_	_	_	_	_	Shift=1080
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p4-s5
+# text = Внука разбудишь!
+1	Внука	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3568|RuCor_group_id=475536|RuCor_link_id=0|Shift=1083
+2	разбудишь	_	_	_	_	_	_	_	Shift=1089|SpaceAfter=No
+3	!	_	_	_	_	_	_	_	Shift=1098
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p4-s6
+# text = Зайковский, ты меня слышишь?
+1	Зайковский	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3567|RuCor_group_id=475537|RuCor_link_id=475535|Shift=1100|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=1110
+3	ты	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3567|RuCor_group_id=475538|RuCor_link_id=475537|Shift=1112
+4	меня	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3565|RuCor_group_id=475539|RuCor_link_id=475531|Shift=1115
+5	слышишь	_	_	_	_	_	_	_	Shift=1120|SpaceAfter=No
+6	?	_	_	_	_	_	_	_	Shift=1127
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p4-s7
+# text = По - вер - нись!
+1	По	_	_	_	_	_	_	_	Shift=1130
+2	-	_	_	_	_	_	_	_	Shift=1132
+3	вер	_	_	_	_	_	_	_	Shift=1133
+4	-	_	_	_	_	_	_	_	Shift=1136
+5	нись	_	_	_	_	_	_	_	Shift=1137|SpaceAfter=No
+6	!	_	_	_	_	_	_	_	Shift=1141
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p4-s8
+# text = - Вера Степановна тормошила мужа, пока тот, мыча что-то нечленораздельное, не подчинился.
+1	-	_	_	_	_	_	_	_	Shift=1143
+2	Вера	_	_	_	_	_	_	_	RuCor_chain_id=3565|RuCor_group_id=475540|Shift=1145
+3	Степановна	_	_	_	_	_	_	_	RuCor_chain_id=3565|RuCor_group_id=475540|Shift=1150
+4	тормошила	_	_	_	_	_	_	_	Shift=1161
+5	мужа	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3567|RuCor_group_id=475541|RuCor_link_id=475538|Shift=1171|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1175
+7	пока	_	_	_	_	_	_	_	Shift=1177
+8	тот	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=dem|RuCor_attrs_type=coref|RuCor_chain_id=3567|RuCor_group_id=475542|RuCor_link_id=475541|Shift=1183|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1186
+10	мыча	_	_	_	_	_	_	_	Shift=1188
+11	что-то	_	_	_	_	_	_	_	Shift=1193
+12	нечленораздельное	_	_	_	_	_	_	_	Shift=1200|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=1217
+14	не	_	_	_	_	_	_	_	Shift=1219
+15	подчинился	_	_	_	_	_	_	_	Shift=1222|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=1232
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p4-s9
+# text = Хрюкнув на прощание, он уткнулся носом в стенку и стало тихо.
+1	Хрюкнув	_	_	_	_	_	_	_	Shift=1234
+2	на	_	_	_	_	_	_	_	Shift=1242
+3	прощание	_	_	_	_	_	_	_	Shift=1245|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1253
+5	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3567|RuCor_group_id=475543|RuCor_link_id=475542|Shift=1256
+6	уткнулся	_	_	_	_	_	_	_	Shift=1260
+7	носом	_	_	_	_	_	_	_	Shift=1269
+8	в	_	_	_	_	_	_	_	Shift=1275
+9	стенку	_	_	_	_	_	_	_	Shift=1277
+10	и	_	_	_	_	_	_	_	Shift=1284
+11	стало	_	_	_	_	_	_	_	Shift=1286
+12	тихо	_	_	_	_	_	_	_	Shift=1292|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=1296
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p4-s10
+# text = Только древние ходики мирно щелкали на стене.
+1	Только	_	_	_	_	_	_	_	Shift=1298
+2	древние	_	_	_	_	_	_	_	Shift=1305
+3	ходики	_	_	_	_	_	_	_	Shift=1313
+4	мирно	_	_	_	_	_	_	_	Shift=1320
+5	щелкали	_	_	_	_	_	_	_	Shift=1326
+6	на	_	_	_	_	_	_	_	Shift=1334
+7	стене	_	_	_	_	_	_	_	Shift=1337|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=1342
+
+# newpar id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p5
+# par_text = Степановна встала, накинула халатик, бросила взгляд за окно. А там снег валил, синий в темноте. Женщина улыбнулась и прошептала:
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p5-s1
+# text = Степановна встала, накинула халатик, бросила взгляд за окно.
+1	Степановна	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3565|RuCor_group_id=475544|RuCor_link_id=475540|Shift=1345
+2	встала	_	_	_	_	_	_	_	Shift=1356|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1362
+4	накинула	_	_	_	_	_	_	_	Shift=1364
+5	халатик	_	_	_	_	_	_	_	Shift=1373|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1380
+7	бросила	_	_	_	_	_	_	_	Shift=1382
+8	взгляд	_	_	_	_	_	_	_	Shift=1390
+9	за	_	_	_	_	_	_	_	Shift=1397
+10	окно	_	_	_	_	_	_	_	Shift=1400|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=1404
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p5-s2
+# text = А там снег валил, синий в темноте.
+1	А	_	_	_	_	_	_	_	Shift=1406
+2	там	_	_	_	_	_	_	_	Shift=1408
+3	снег	_	_	_	_	_	_	_	Shift=1412
+4	валил	_	_	_	_	_	_	_	Shift=1417|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1422
+6	синий	_	_	_	_	_	_	_	Shift=1424
+7	в	_	_	_	_	_	_	_	Shift=1430
+8	темноте	_	_	_	_	_	_	_	Shift=1432|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=1439
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p5-s3
+# text = Женщина улыбнулась и прошептала:
+1	Женщина	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3565|RuCor_group_id=475545|RuCor_link_id=475544|Shift=1441
+2	улыбнулась	_	_	_	_	_	_	_	Shift=1449
+3	и	_	_	_	_	_	_	_	Shift=1460
+4	прошептала	_	_	_	_	_	_	_	Shift=1462|SpaceAfter=No
+5	:	_	_	_	_	_	_	_	Shift=1472
+
+# newpar id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p6
+# par_text = -  Первый  снег! Вот Васька-то завтра будет рад-радешенек! Что-то в это
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p6-s1
+# text = - Первый снег!
+1	-	_	_	_	_	_	_	_	Shift=1476
+2	Первый	_	_	_	_	_	_	_	Shift=1479
+3	снег	_	_	_	_	_	_	_	Shift=1487|SpaceAfter=No
+4	!	_	_	_	_	_	_	_	Shift=1491
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p6-s2
+# text = Вот Васька - то завтра будет рад - радешенек!
+1	Вот	_	_	_	_	_	_	_	Shift=1493
+2	Васька	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3568|RuCor_group_id=475546|RuCor_link_id=475536|Shift=1497
+3	-	_	_	_	_	_	_	_	Shift=1503
+4	то	_	_	_	_	_	_	_	Shift=1504
+5	завтра	_	_	_	_	_	_	_	Shift=1507
+6	будет	_	_	_	_	_	_	_	Shift=1514
+7	рад	_	_	_	_	_	_	_	Shift=1520
+8	-	_	_	_	_	_	_	_	Shift=1523
+9	радешенек	_	_	_	_	_	_	_	Shift=1524|SpaceAfter=No
+10	!	_	_	_	_	_	_	_	Shift=1533
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p6-s3
+# text = Что-то в это
+1	Что-то	_	_	_	_	_	_	_	Shift=1535
+2	в	_	_	_	_	_	_	_	Shift=1542
+3	это	_	_	_	_	_	_	_	Shift=1544
+
+# newpar id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p7
+# par_text = году снежок припоздни-и-ился. - Счастливо вздохнув и побрела в туалет.
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p7-s1
+# text = году снежок припоздни-и - ился.
+1	году	_	_	_	_	_	_	_	Shift=1548
+2	снежок	_	_	_	_	_	_	_	Shift=1553
+3	припоздни-и	_	_	_	_	_	_	_	Shift=1560
+4	-	_	_	_	_	_	_	_	Shift=1569
+5	ился	_	_	_	_	_	_	_	Shift=1572|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=1576
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p7-s2
+# text = - Счастливо вздохнув и побрела в туалет.
+1	-	_	_	_	_	_	_	_	Shift=1578
+2	Счастливо	_	_	_	_	_	_	_	Shift=1580
+3	вздохнув	_	_	_	_	_	_	_	Shift=1590
+4	и	_	_	_	_	_	_	_	Shift=1599
+5	побрела	_	_	_	_	_	_	_	Shift=1601
+6	в	_	_	_	_	_	_	_	Shift=1609
+7	туалет	_	_	_	_	_	_	_	Shift=1611|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=1617
+
+# newpar id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p8
+# par_text = Сначала заглянула в комнату к внуку. Как он там?
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p8-s1
+# text = Сначала заглянула в комнату к внуку.
+1	Сначала	_	_	_	_	_	_	_	Shift=1620
+2	заглянула	_	_	_	_	_	_	_	Shift=1628
+3	в	_	_	_	_	_	_	_	Shift=1638
+4	комнату	_	_	_	_	_	_	_	Shift=1640
+5	к	_	_	_	_	_	_	_	Shift=1648
+6	внуку	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3568|RuCor_group_id=475547|RuCor_link_id=475546|Shift=1650|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=1655
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p8-s2
+# text = Как он там?
+1	Как	_	_	_	_	_	_	_	Shift=1657
+2	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3568|RuCor_group_id=475548|RuCor_link_id=475547|Shift=1661
+3	там	_	_	_	_	_	_	_	Shift=1664|SpaceAfter=No
+4	?	_	_	_	_	_	_	_	Shift=1667
+
+# newpar id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p9
+# par_text = Ваську, на выходные, дочка с сыном всегда к бабе  и деду "забрасывали". А тот и рад - шибко его здесь любят. Дочка иногда ругается, что закармливают здесь внучка. Сладости, вишь, горой! Васька потом всю неделю житья не дает - просится к старикам. Ну и пусть лакомится - расти ему надо. Шесть годков,  а малой такой!
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p9-s1
+# text = Ваську, на выходные, дочка с сыном всегда к бабе и деду ``забрасывали''.
+1	Ваську	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3568|RuCor_group_id=475549|RuCor_link_id=475548|Shift=1670|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=1676
+3	на	_	_	_	_	_	_	_	Shift=1678
+4	выходные	_	_	_	_	_	_	_	Shift=1681|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1689
+6	дочка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3569|RuCor_group_id=475550|RuCor_link_id=0|Shift=1691
+7	с	_	_	_	_	_	_	_	Shift=1697
+8	сыном	_	_	_	_	_	_	_	Shift=1699
+9	всегда	_	_	_	_	_	_	_	Shift=1705
+10	к	_	_	_	_	_	_	_	Shift=1712
+11	бабе	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3565|RuCor_group_id=475551|RuCor_link_id=475545|Shift=1714
+12	и	_	_	_	_	_	_	_	Shift=1720
+13	деду	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3567|RuCor_group_id=475552|RuCor_link_id=475543|Shift=1722
+14	``	_	_	_	_	_	_	_	Shift=1727|SpaceAfter=No
+15	забрасывали	_	_	_	_	_	_	_	Shift=1728|SpaceAfter=No
+16	''	_	_	_	_	_	_	_	Shift=1739|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=1740
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p9-s2
+# text = А тот и рад - шибко его здесь любят.
+1	А	_	_	_	_	_	_	_	Shift=1742
+2	тот	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=dem|RuCor_attrs_type=coref|RuCor_chain_id=3568|RuCor_group_id=475553|RuCor_link_id=475549|Shift=1744
+3	и	_	_	_	_	_	_	_	Shift=1748
+4	рад	_	_	_	_	_	_	_	Shift=1750
+5	-	_	_	_	_	_	_	_	Shift=1754
+6	шибко	_	_	_	_	_	_	_	Shift=1756
+7	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3568|RuCor_group_id=475554|RuCor_link_id=475553|Shift=1762
+8	здесь	_	_	_	_	_	_	_	Shift=1766
+9	любят	_	_	_	_	_	_	_	Shift=1772|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=1777
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p9-s3
+# text = Дочка иногда ругается, что закармливают здесь внучка.
+1	Дочка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3569|RuCor_group_id=475555|RuCor_link_id=475550|Shift=1779
+2	иногда	_	_	_	_	_	_	_	Shift=1785
+3	ругается	_	_	_	_	_	_	_	Shift=1792|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1800
+5	что	_	_	_	_	_	_	_	Shift=1802
+6	закармливают	_	_	_	_	_	_	_	Shift=1806
+7	здесь	_	_	_	_	_	_	_	Shift=1819
+8	внучка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3568|RuCor_group_id=475556|RuCor_link_id=475554|Shift=1825|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=1831
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p9-s4
+# text = Сладости, вишь, горой!
+1	Сладости	_	_	_	_	_	_	_	Shift=1833|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=1841
+3	вишь	_	_	_	_	_	_	_	Shift=1843|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1847
+5	горой	_	_	_	_	_	_	_	Shift=1849|SpaceAfter=No
+6	!	_	_	_	_	_	_	_	Shift=1854
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p9-s5
+# text = Васька потом всю неделю житья не дает - просится к старикам.
+1	Васька	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3568|RuCor_group_id=475557|RuCor_link_id=475556|Shift=1856
+2	потом	_	_	_	_	_	_	_	Shift=1863
+3	всю	_	_	_	_	_	_	_	Shift=1869
+4	неделю	_	_	_	_	_	_	_	Shift=1873
+5	житья	_	_	_	_	_	_	_	Shift=1880
+6	не	_	_	_	_	_	_	_	Shift=1886
+7	дает	_	_	_	_	_	_	_	Shift=1889
+8	-	_	_	_	_	_	_	_	Shift=1894
+9	просится	_	_	_	_	_	_	_	Shift=1896
+10	к	_	_	_	_	_	_	_	Shift=1905
+11	старикам	_	_	_	_	_	_	_	Shift=1907|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=1915
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p9-s6
+# text = Ну и пусть лакомится - расти ему надо.
+1	Ну	_	_	_	_	_	_	_	Shift=1917
+2	и	_	_	_	_	_	_	_	Shift=1920
+3	пусть	_	_	_	_	_	_	_	Shift=1922
+4	лакомится	_	_	_	_	_	_	_	Shift=1928
+5	-	_	_	_	_	_	_	_	Shift=1938
+6	расти	_	_	_	_	_	_	_	Shift=1940
+7	ему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3568|RuCor_group_id=475558|RuCor_link_id=475557|Shift=1946
+8	надо	_	_	_	_	_	_	_	Shift=1950|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=1954
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p9-s7
+# text = Шесть годков, а малой такой!
+1	Шесть	_	_	_	_	_	_	_	Shift=1956
+2	годков	_	_	_	_	_	_	_	Shift=1962|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1968
+4	а	_	_	_	_	_	_	_	Shift=1971
+5	малой	_	_	_	_	_	_	_	Shift=1973
+6	такой	_	_	_	_	_	_	_	Shift=1979|SpaceAfter=No
+7	!	_	_	_	_	_	_	_	Shift=1984
+
+# newpar id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p10
+# par_text = Возвращаясь  в  спальню,  Степановна  услышала  шорох  в  подъезде,  да звяканье какое-то.
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p10-s1
+# text = Возвращаясь в спальню, Степановна услышала шорох в подъезде, да звяканье какое-то.
+1	Возвращаясь	_	_	_	_	_	_	_	Shift=1987
+2	в	_	_	_	_	_	_	_	Shift=2000
+3	спальню	_	_	_	_	_	_	_	Shift=2003|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2010
+5	Степановна	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3565|RuCor_group_id=475559|RuCor_link_id=475551|Shift=2013
+6	услышала	_	_	_	_	_	_	_	Shift=2025
+7	шорох	_	_	_	_	_	_	_	Shift=2035
+8	в	_	_	_	_	_	_	_	Shift=2042
+9	подъезде	_	_	_	_	_	_	_	Shift=2045|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=2053
+11	да	_	_	_	_	_	_	_	Shift=2056
+12	звяканье	_	_	_	_	_	_	_	Shift=2059
+13	какое-то	_	_	_	_	_	_	_	Shift=2068|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=2076
+
+# newpar id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p11
+# par_text = - Ой! Да не  уж-то вор? - женщина тихо подошла к двери и приложила ухо. В глазок глядеть не стала -  еще ширанут чем-нибудь. Мало ли случаев  было? Точно - кто-то там возится. У Степановны так и похолодело все внутри. Бежать что  ли мужа будить? Ага, его сейчас разбудишь - спит как  сурок! В подъезде скрипнула чья-то дверь и стало тихо.
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p11-s1
+# text = - Ой!
+1	-	_	_	_	_	_	_	_	Shift=2079
+2	Ой	_	_	_	_	_	_	_	Shift=2081|SpaceAfter=No
+3	!	_	_	_	_	_	_	_	Shift=2083
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p11-s2
+# text = Да не уж - то вор?
+1	Да	_	_	_	_	_	_	_	Shift=2085
+2	не	_	_	_	_	_	_	_	Shift=2088
+3	уж	_	_	_	_	_	_	_	Shift=2092
+4	-	_	_	_	_	_	_	_	Shift=2094
+5	то	_	_	_	_	_	_	_	Shift=2095
+6	вор	_	_	_	_	_	_	_	Shift=2098|SpaceAfter=No
+7	?	_	_	_	_	_	_	_	Shift=2101
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p11-s3
+# text = - женщина тихо подошла к двери и приложила ухо.
+1	-	_	_	_	_	_	_	_	Shift=2103
+2	женщина	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3565|RuCor_group_id=475560|RuCor_link_id=475559|Shift=2105
+3	тихо	_	_	_	_	_	_	_	Shift=2113
+4	подошла	_	_	_	_	_	_	_	Shift=2118
+5	к	_	_	_	_	_	_	_	Shift=2126
+6	двери	_	_	_	_	_	_	_	Shift=2128
+7	и	_	_	_	_	_	_	_	Shift=2134
+8	приложила	_	_	_	_	_	_	_	Shift=2136
+9	ухо	_	_	_	_	_	_	_	Shift=2146|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=2149
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p11-s4
+# text = В глазок глядеть не стала - еще ширанут чем-нибудь.
+1	В	_	_	_	_	_	_	_	Shift=2151
+2	глазок	_	_	_	_	_	_	_	Shift=2153
+3	глядеть	_	_	_	_	_	_	_	Shift=2160
+4	не	_	_	_	_	_	_	_	Shift=2168
+5	стала	_	_	_	_	_	_	_	Shift=2171
+6	-	_	_	_	_	_	_	_	Shift=2177
+7	еще	_	_	_	_	_	_	_	Shift=2180
+8	ширанут	_	_	_	_	_	_	_	Shift=2184
+9	чем-нибудь	_	_	_	_	_	_	_	Shift=2192|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=2202
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p11-s5
+# text = Мало ли случаев было?
+1	Мало	_	_	_	_	_	_	_	Shift=2204
+2	ли	_	_	_	_	_	_	_	Shift=2209
+3	случаев	_	_	_	_	_	_	_	Shift=2212
+4	было	_	_	_	_	_	_	_	Shift=2221|SpaceAfter=No
+5	?	_	_	_	_	_	_	_	Shift=2225
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p11-s6
+# text = Точно - кто-то там возится.
+1	Точно	_	_	_	_	_	_	_	Shift=2227
+2	-	_	_	_	_	_	_	_	Shift=2233
+3	кто-то	_	_	_	_	_	_	_	Shift=2235
+4	там	_	_	_	_	_	_	_	Shift=2242
+5	возится	_	_	_	_	_	_	_	Shift=2246|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=2253
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p11-s7
+# text = У Степановны так и похолодело все внутри.
+1	У	_	_	_	_	_	_	_	Shift=2255
+2	Степановны	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3565|RuCor_group_id=475561|RuCor_link_id=475560|Shift=2257
+3	так	_	_	_	_	_	_	_	Shift=2268
+4	и	_	_	_	_	_	_	_	Shift=2272
+5	похолодело	_	_	_	_	_	_	_	Shift=2274
+6	все	_	_	_	_	_	_	_	Shift=2285
+7	внутри	_	_	_	_	_	_	_	Shift=2289|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=2295
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p11-s8
+# text = Бежать что ли мужа будить?
+1	Бежать	_	_	_	_	_	_	_	Shift=2297
+2	что	_	_	_	_	_	_	_	Shift=2304
+3	ли	_	_	_	_	_	_	_	Shift=2309
+4	мужа	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3567|RuCor_group_id=475562|RuCor_link_id=475552|Shift=2312
+5	будить	_	_	_	_	_	_	_	Shift=2317|SpaceAfter=No
+6	?	_	_	_	_	_	_	_	Shift=2323
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p11-s9
+# text = Ага, его сейчас разбудишь - спит как сурок!
+1	Ага	_	_	_	_	_	_	_	Shift=2325|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=2328
+3	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3567|RuCor_group_id=475563|RuCor_link_id=475562|Shift=2330
+4	сейчас	_	_	_	_	_	_	_	Shift=2334
+5	разбудишь	_	_	_	_	_	_	_	Shift=2341
+6	-	_	_	_	_	_	_	_	Shift=2351
+7	спит	_	_	_	_	_	_	_	Shift=2353
+8	как	_	_	_	_	_	_	_	Shift=2358
+9	сурок	_	_	_	_	_	_	_	Shift=2363|SpaceAfter=No
+10	!	_	_	_	_	_	_	_	Shift=2368
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p11-s10
+# text = В подъезде скрипнула чья-то дверь и стало тихо.
+1	В	_	_	_	_	_	_	_	Shift=2370
+2	подъезде	_	_	_	_	_	_	_	Shift=2372
+3	скрипнула	_	_	_	_	_	_	_	Shift=2381
+4	чья-то	_	_	_	_	_	_	_	Shift=2391
+5	дверь	_	_	_	_	_	_	_	Shift=2398
+6	и	_	_	_	_	_	_	_	Shift=2404
+7	стало	_	_	_	_	_	_	_	Shift=2406
+8	тихо	_	_	_	_	_	_	_	Shift=2412|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=2416
+
+# newpar id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p12
+# par_text = -  К  Михайловскому  залез,  паскуда! Надо звонить  в  милицию! -  Вера Степановна накинула старенькое пальто, обулась - единственный телефон был на улице, через  дорогу. Взяла в руки оружие самозащиты  - мужнин валенок, тихо приоткрыла дверь и выскользнула на площадку. В нос ударил запах картофельной кожуры  - следы  последнй  ссоры Степановны и Михайловского. Ссорились  они часто.
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p12-s1
+# text = - К Михайловскому залез, паскуда!
+1	-	_	_	_	_	_	_	_	Shift=2419
+2	К	_	_	_	_	_	_	_	Shift=2422
+3	Михайловскому	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3570|RuCor_group_id=475564|RuCor_link_id=0|Shift=2425
+4	залез	_	_	_	_	_	_	_	Shift=2440|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=2445
+6	паскуда	_	_	_	_	_	_	_	Shift=2448|SpaceAfter=No
+7	!	_	_	_	_	_	_	_	Shift=2455
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p12-s2
+# text = Надо звонить в милицию!
+1	Надо	_	_	_	_	_	_	_	Shift=2457
+2	звонить	_	_	_	_	_	_	_	Shift=2462
+3	в	_	_	_	_	_	_	_	Shift=2471
+4	милицию	_	_	_	_	_	_	_	Shift=2474|SpaceAfter=No
+5	!	_	_	_	_	_	_	_	Shift=2481
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p12-s3
+# text = - Вера Степановна накинула старенькое пальто, обулась - единственный телефон был на улице, через дорогу.
+1	-	_	_	_	_	_	_	_	Shift=2483
+2	Вера	_	_	_	_	_	_	_	RuCor_chain_id=3565|RuCor_group_id=475565|Shift=2486
+3	Степановна	_	_	_	_	_	_	_	RuCor_chain_id=3565|RuCor_group_id=475565|Shift=2491
+4	накинула	_	_	_	_	_	_	_	Shift=2502
+5	старенькое	_	_	_	_	_	_	_	Shift=2511
+6	пальто	_	_	_	_	_	_	_	Shift=2522|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=2528
+8	обулась	_	_	_	_	_	_	_	Shift=2530
+9	-	_	_	_	_	_	_	_	Shift=2538
+10	единственный	_	_	_	_	_	_	_	Shift=2540
+11	телефон	_	_	_	_	_	_	_	Shift=2553
+12	был	_	_	_	_	_	_	_	Shift=2561
+13	на	_	_	_	_	_	_	_	Shift=2565
+14	улице	_	_	_	_	_	_	_	Shift=2568|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=2573
+16	через	_	_	_	_	_	_	_	Shift=2575
+17	дорогу	_	_	_	_	_	_	_	Shift=2582|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=2588
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p12-s4
+# text = Взяла в руки оружие самозащиты - мужнин валенок, тихо приоткрыла дверь и выскользнула на площадку.
+1	Взяла	_	_	_	_	_	_	_	Shift=2590
+2	в	_	_	_	_	_	_	_	Shift=2596
+3	руки	_	_	_	_	_	_	_	Shift=2598
+4	оружие	_	_	_	_	_	_	_	Shift=2603
+5	самозащиты	_	_	_	_	_	_	_	Shift=2610
+6	-	_	_	_	_	_	_	_	Shift=2622
+7	мужнин	_	_	_	_	_	_	_	Shift=2624
+8	валенок	_	_	_	_	_	_	_	Shift=2631|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=2638
+10	тихо	_	_	_	_	_	_	_	Shift=2640
+11	приоткрыла	_	_	_	_	_	_	_	Shift=2645
+12	дверь	_	_	_	_	_	_	_	Shift=2656
+13	и	_	_	_	_	_	_	_	Shift=2662
+14	выскользнула	_	_	_	_	_	_	_	Shift=2664
+15	на	_	_	_	_	_	_	_	Shift=2677
+16	площадку	_	_	_	_	_	_	_	Shift=2680|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=2688
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p12-s5
+# text = В нос ударил запах картофельной кожуры - следы последнй ссоры Степановны и Михайловского.
+1	В	_	_	_	_	_	_	_	Shift=2690
+2	нос	_	_	_	_	_	_	_	Shift=2692
+3	ударил	_	_	_	_	_	_	_	Shift=2696
+4	запах	_	_	_	_	_	_	_	Shift=2703
+5	картофельной	_	_	_	_	_	_	_	Shift=2709
+6	кожуры	_	_	_	_	_	_	_	Shift=2722
+7	-	_	_	_	_	_	_	_	Shift=2730
+8	следы	_	_	_	_	_	_	_	Shift=2732
+9	последнй	_	_	_	_	_	_	_	Shift=2739
+10	ссоры	_	_	_	_	_	_	_	Shift=2749
+11	Степановны	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3565|RuCor_group_id=475566|RuCor_link_id=475565|Shift=2755
+12	и	_	_	_	_	_	_	_	Shift=2766
+13	Михайловского	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3570|RuCor_group_id=475567|RuCor_link_id=475564|Shift=2768|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=2781
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p12-s6
+# text = Ссорились они часто.
+1	Ссорились	_	_	_	_	_	_	_	Shift=2783
+2	они	_	_	_	_	_	_	_	Shift=2794
+3	часто	_	_	_	_	_	_	_	Shift=2798|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=2803
+
+# newpar id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p13
+# par_text = Летом,  например,  сосед  своего  пса  выгулял  на  цветочной  клумбе у подъезда. Клумбу  эту  Степановна выхаживала всю  весну. Ирод какой! Совсем совесть  потерял. Она значит на карачках ползала, по-уши в  грязи,  а  его, значить, пес, помять все и загадить должон?
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p13-s1
+# text = Летом, например, сосед своего пса выгулял на цветочной клумбе у подъезда.
+1	Летом	_	_	_	_	_	_	_	Shift=2806|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=2811
+3	например	_	_	_	_	_	_	_	Shift=2814|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2822
+5	сосед	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3570|RuCor_group_id=475568|RuCor_link_id=475567|Shift=2825
+6	своего	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3570|RuCor_group_id=475570|RuCor_link_id=475568|Shift=2832
+7	пса	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3571|RuCor_group_id=475569|RuCor_link_id=0|Shift=2840
+8	выгулял	_	_	_	_	_	_	_	Shift=2845
+9	на	_	_	_	_	_	_	_	Shift=2854
+10	цветочной	_	_	_	_	_	_	_	RuCor_chain_id=3572|RuCor_group_id=475571|Shift=2858
+11	клумбе	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3572|RuCor_group_id=475571|RuCor_link_id=0|Shift=2869
+12	у	_	_	_	_	_	_	_	RuCor_chain_id=3572|RuCor_group_id=475571|Shift=2876
+13	подъезда	_	_	_	_	_	_	_	RuCor_chain_id=3572|RuCor_group_id=475571|Shift=2878|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=2886
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p13-s2
+# text = Клумбу эту Степановна выхаживала всю весну.
+1	Клумбу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3572|RuCor_group_id=475572|RuCor_link_id=475571|Shift=2888
+2	эту	_	_	_	_	_	_	_	RuCor_chain_id=3572|RuCor_group_id=475572|Shift=2896
+3	Степановна	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3565|RuCor_group_id=475573|RuCor_link_id=475566|Shift=2901
+4	выхаживала	_	_	_	_	_	_	_	Shift=2912
+5	всю	_	_	_	_	_	_	_	Shift=2923
+6	весну	_	_	_	_	_	_	_	Shift=2928|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=2933
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p13-s3
+# text = Ирод какой!
+1	Ирод	_	_	_	_	_	_	_	Shift=2935
+2	какой	_	_	_	_	_	_	_	Shift=2940|SpaceAfter=No
+3	!	_	_	_	_	_	_	_	Shift=2945
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p13-s4
+# text = Совсем совесть потерял.
+1	Совсем	_	_	_	_	_	_	_	Shift=2947
+2	совесть	_	_	_	_	_	_	_	Shift=2954
+3	потерял	_	_	_	_	_	_	_	Shift=2963|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=2970
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p13-s5
+# text = Она значит на карачках ползала, по - уши в грязи, а его, значить, пес, помять все и загадить должон?
+1	Она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3565|RuCor_group_id=475574|RuCor_link_id=475573|Shift=2972
+2	значит	_	_	_	_	_	_	_	Shift=2976
+3	на	_	_	_	_	_	_	_	Shift=2983
+4	карачках	_	_	_	_	_	_	_	Shift=2986
+5	ползала	_	_	_	_	_	_	_	Shift=2995|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=3002
+7	по	_	_	_	_	_	_	_	Shift=3004
+8	-	_	_	_	_	_	_	_	Shift=3006
+9	уши	_	_	_	_	_	_	_	Shift=3007
+10	в	_	_	_	_	_	_	_	Shift=3011
+11	грязи	_	_	_	_	_	_	_	Shift=3014|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=3019
+13	а	_	_	_	_	_	_	_	Shift=3022
+14	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3570|RuCor_group_id=475575|RuCor_link_id=475570|Shift=3025|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=3028
+16	значить	_	_	_	_	_	_	_	Shift=3030|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=3037
+18	пес	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3571|RuCor_group_id=475576|RuCor_link_id=475569|Shift=3039|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=3042
+20	помять	_	_	_	_	_	_	_	Shift=3044
+21	все	_	_	_	_	_	_	_	Shift=3051
+22	и	_	_	_	_	_	_	_	Shift=3055
+23	загадить	_	_	_	_	_	_	_	Shift=3057
+24	должон	_	_	_	_	_	_	_	Shift=3066|SpaceAfter=No
+25	?	_	_	_	_	_	_	_	Shift=3072
+
+# newpar id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p14
+# par_text = А недавно Васька  мусор выносил, да и просыпал  картофельные очистки на лестнице. Степановна уже собралась пойти  собрать, а тут Михайловский явился и  потребовал  убрать  немедленно  мусор. Хам,  а? Из упрямства,  не  стала убирать. Хлопнула перед его лицом дверью - сам уберет, если не нравится!
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p14-s1
+# text = А недавно Васька мусор выносил, да и просыпал картофельные очистки на лестнице.
+1	А	_	_	_	_	_	_	_	Shift=3075
+2	недавно	_	_	_	_	_	_	_	Shift=3077
+3	Васька	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3568|RuCor_group_id=475577|RuCor_link_id=475558|Shift=3085
+4	мусор	_	_	_	_	_	_	_	Shift=3093
+5	выносил	_	_	_	_	_	_	_	Shift=3099|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=3106
+7	да	_	_	_	_	_	_	_	Shift=3108
+8	и	_	_	_	_	_	_	_	Shift=3111
+9	просыпал	_	_	_	_	_	_	_	Shift=3113
+10	картофельные	_	_	_	_	_	_	_	Shift=3123
+11	очистки	_	_	_	_	_	_	_	Shift=3136
+12	на	_	_	_	_	_	_	_	Shift=3144
+13	лестнице	_	_	_	_	_	_	_	Shift=3147|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=3155
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p14-s2
+# text = Степановна уже собралась пойти собрать, а тут Михайловский явился и потребовал убрать немедленно мусор.
+1	Степановна	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3565|RuCor_group_id=475578|RuCor_link_id=475574|Shift=3157
+2	уже	_	_	_	_	_	_	_	Shift=3168
+3	собралась	_	_	_	_	_	_	_	Shift=3172
+4	пойти	_	_	_	_	_	_	_	Shift=3182
+5	собрать	_	_	_	_	_	_	_	Shift=3189|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=3196
+7	а	_	_	_	_	_	_	_	Shift=3198
+8	тут	_	_	_	_	_	_	_	Shift=3200
+9	Михайловский	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3570|RuCor_group_id=475579|RuCor_link_id=475575|Shift=3204
+10	явился	_	_	_	_	_	_	_	Shift=3217
+11	и	_	_	_	_	_	_	_	Shift=3224
+12	потребовал	_	_	_	_	_	_	_	Shift=3227
+13	убрать	_	_	_	_	_	_	_	Shift=3239
+14	немедленно	_	_	_	_	_	_	_	Shift=3247
+15	мусор	_	_	_	_	_	_	_	Shift=3259|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=3264
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p14-s3
+# text = Хам, а?
+1	Хам	_	_	_	_	_	_	_	Shift=3266|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=3269
+3	а	_	_	_	_	_	_	_	Shift=3272|SpaceAfter=No
+4	?	_	_	_	_	_	_	_	Shift=3273
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p14-s4
+# text = Из упрямства, не стала убирать.
+1	Из	_	_	_	_	_	_	_	Shift=3275
+2	упрямства	_	_	_	_	_	_	_	Shift=3278|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=3287
+4	не	_	_	_	_	_	_	_	Shift=3290
+5	стала	_	_	_	_	_	_	_	Shift=3294
+6	убирать	_	_	_	_	_	_	_	Shift=3300|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=3307
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p14-s5
+# text = Хлопнула перед его лицом дверью - сам уберет, если не нравится!
+1	Хлопнула	_	_	_	_	_	_	_	Shift=3309
+2	перед	_	_	_	_	_	_	_	Shift=3318
+3	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3570|RuCor_group_id=475580|RuCor_link_id=475579|Shift=3324
+4	лицом	_	_	_	_	_	_	_	Shift=3328
+5	дверью	_	_	_	_	_	_	_	Shift=3334
+6	-	_	_	_	_	_	_	_	Shift=3341
+7	сам	_	_	_	_	_	_	_	Shift=3343
+8	уберет	_	_	_	_	_	_	_	Shift=3347|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=3353
+10	если	_	_	_	_	_	_	_	Shift=3355
+11	не	_	_	_	_	_	_	_	Shift=3360
+12	нравится	_	_	_	_	_	_	_	Shift=3363|SpaceAfter=No
+13	!	_	_	_	_	_	_	_	Shift=3371
+
+# newpar id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p15
+# par_text = Дня три уж валяются  очистки на лестнице  и ни кому  до них нет дела  - этаж у них последний, а на площадке только их две квартиры...
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p15-s1
+# text = Дня три уж валяются очистки на лестнице и ни кому до них нет дела - этаж у них последний, а на площадке только их две квартиры...
+1	Дня	_	_	_	_	_	_	_	Shift=3374
+2	три	_	_	_	_	_	_	_	Shift=3378
+3	уж	_	_	_	_	_	_	_	Shift=3382
+4	валяются	_	_	_	_	_	_	_	Shift=3385
+5	очистки	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3573|RuCor_group_id=475581|RuCor_link_id=0|Shift=3395
+6	на	_	_	_	_	_	_	_	Shift=3403
+7	лестнице	_	_	_	_	_	_	_	Shift=3406
+8	и	_	_	_	_	_	_	_	Shift=3416
+9	ни	_	_	_	_	_	_	_	Shift=3418
+10	кому	_	_	_	_	_	_	_	Shift=3421
+11	до	_	_	_	_	_	_	_	Shift=3427
+12	них	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=3573|RuCor_group_id=475582|RuCor_link_id=475581|Shift=3430
+13	нет	_	_	_	_	_	_	_	Shift=3434
+14	дела	_	_	_	_	_	_	_	Shift=3438
+15	-	_	_	_	_	_	_	_	Shift=3444
+16	этаж	_	_	_	_	_	_	_	Shift=3446
+17	у	_	_	_	_	_	_	_	Shift=3451
+18	них	_	_	_	_	_	_	_	Shift=3453
+19	последний	_	_	_	_	_	_	_	Shift=3457|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=3466
+21	а	_	_	_	_	_	_	_	Shift=3468
+22	на	_	_	_	_	_	_	_	Shift=3470
+23	площадке	_	_	_	_	_	_	_	Shift=3473
+24	только	_	_	_	_	_	_	_	Shift=3482
+25	их	_	_	_	_	_	_	_	Shift=3489
+26	две	_	_	_	_	_	_	_	Shift=3492
+27	квартиры	_	_	_	_	_	_	_	Shift=3496|SpaceAfter=No
+28	...	_	_	_	_	_	_	_	Shift=3504
+
+# newpar id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p16
+# par_text = Но  сейчас не до  ссор  - вор залез! А потому женщина переступила через мусор и понеслась  вниз по лестнице. И  откуда только силы взялись - в ее-то годах? Вспомнилась, наверно ее партизанская молодость, вся ненависть к врагу - вот и бежала она, пока не выскочила на улицу.
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p16-s1
+# text = Но сейчас не до ссор - вор залез!
+1	Но	_	_	_	_	_	_	_	Shift=3509
+2	сейчас	_	_	_	_	_	_	_	Shift=3513
+3	не	_	_	_	_	_	_	_	Shift=3520
+4	до	_	_	_	_	_	_	_	Shift=3523
+5	ссор	_	_	_	_	_	_	_	Shift=3527
+6	-	_	_	_	_	_	_	_	Shift=3533
+7	вор	_	_	_	_	_	_	_	Shift=3535
+8	залез	_	_	_	_	_	_	_	Shift=3539|SpaceAfter=No
+9	!	_	_	_	_	_	_	_	Shift=3544
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p16-s2
+# text = А потому женщина переступила через мусор и понеслась вниз по лестнице.
+1	А	_	_	_	_	_	_	_	Shift=3546
+2	потому	_	_	_	_	_	_	_	Shift=3548
+3	женщина	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3565|RuCor_group_id=475583|RuCor_link_id=475578|Shift=3555
+4	переступила	_	_	_	_	_	_	_	Shift=3563
+5	через	_	_	_	_	_	_	_	Shift=3575
+6	мусор	_	_	_	_	_	_	_	Shift=3581
+7	и	_	_	_	_	_	_	_	Shift=3587
+8	понеслась	_	_	_	_	_	_	_	Shift=3589
+9	вниз	_	_	_	_	_	_	_	Shift=3600
+10	по	_	_	_	_	_	_	_	Shift=3605
+11	лестнице	_	_	_	_	_	_	_	Shift=3608|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=3616
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p16-s3
+# text = И откуда только силы взялись - в ее - то годах?
+1	И	_	_	_	_	_	_	_	Shift=3618
+2	откуда	_	_	_	_	_	_	_	Shift=3621
+3	только	_	_	_	_	_	_	_	Shift=3628
+4	силы	_	_	_	_	_	_	_	Shift=3635
+5	взялись	_	_	_	_	_	_	_	Shift=3640
+6	-	_	_	_	_	_	_	_	Shift=3648
+7	в	_	_	_	_	_	_	_	Shift=3650
+8	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3565|RuCor_group_id=475584|RuCor_link_id=475583|Shift=3652
+9	-	_	_	_	_	_	_	_	Shift=3654
+10	то	_	_	_	_	_	_	_	Shift=3655
+11	годах	_	_	_	_	_	_	_	Shift=3658|SpaceAfter=No
+12	?	_	_	_	_	_	_	_	Shift=3663
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p16-s4
+# text = Вспомнилась, наверно ее партизанская молодость, вся ненависть к врагу - вот и бежала она, пока не выскочила на улицу.
+1	Вспомнилась	_	_	_	_	_	_	_	Shift=3665|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=3676
+3	наверно	_	_	_	_	_	_	_	Shift=3678
+4	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3565|RuCor_group_id=475585|RuCor_link_id=475584|Shift=3686
+5	партизанская	_	_	_	_	_	_	_	Shift=3689
+6	молодость	_	_	_	_	_	_	_	Shift=3702|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=3711
+8	вся	_	_	_	_	_	_	_	Shift=3713
+9	ненависть	_	_	_	_	_	_	_	Shift=3717
+10	к	_	_	_	_	_	_	_	Shift=3727
+11	врагу	_	_	_	_	_	_	_	Shift=3729
+12	-	_	_	_	_	_	_	_	Shift=3735
+13	вот	_	_	_	_	_	_	_	Shift=3737
+14	и	_	_	_	_	_	_	_	Shift=3741
+15	бежала	_	_	_	_	_	_	_	Shift=3743
+16	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3565|RuCor_group_id=475586|RuCor_link_id=475585|Shift=3750|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=3753
+18	пока	_	_	_	_	_	_	_	Shift=3755
+19	не	_	_	_	_	_	_	_	Shift=3760
+20	выскочила	_	_	_	_	_	_	_	Shift=3763
+21	на	_	_	_	_	_	_	_	Shift=3773
+22	улицу	_	_	_	_	_	_	_	Shift=3776|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=3781
+
+# newpar id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p17
+# par_text = Холодный ветер  тут-же вцепился в волосы  Веры Степановны, разметал их, обсыпал снегом. Нагнувшись супротив ветра, посеменила Степановна к телефону. Ветер метался вокруг, стараясь распахнуть пальтишко старой женщины.
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p17-s1
+# text = Холодный ветер тут же вцепился в волосы Веры Степановны, разметал их, обсыпал снегом.
+1	Холодный	_	_	_	_	_	_	_	Shift=3784
+2	ветер	_	_	_	_	_	_	_	Shift=3793
+3	тут	_	_	_	_	_	_	_	Shift=3800
+4	же	_	_	_	_	_	_	_	Shift=3804
+5	вцепился	_	_	_	_	_	_	_	Shift=3807
+6	в	_	_	_	_	_	_	_	Shift=3816
+7	волосы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3574|RuCor_group_id=475587|RuCor_link_id=0|Shift=3818
+8	Веры	_	_	_	_	_	_	_	RuCor_chain_id=3565|RuCor_group_id=475588|Shift=3826
+9	Степановны	_	_	_	_	_	_	_	RuCor_chain_id=3565|RuCor_group_id=475588|Shift=3831|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=3841
+11	разметал	_	_	_	_	_	_	_	Shift=3843
+12	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=3574|RuCor_group_id=475589|RuCor_link_id=475587|Shift=3852|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=3854
+14	обсыпал	_	_	_	_	_	_	_	Shift=3856
+15	снегом	_	_	_	_	_	_	_	Shift=3864|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=3870
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p17-s2
+# text = Нагнувшись супротив ветра, посеменила Степановна к телефону.
+1	Нагнувшись	_	_	_	_	_	_	_	Shift=3872
+2	супротив	_	_	_	_	_	_	_	Shift=3883
+3	ветра	_	_	_	_	_	_	_	Shift=3892|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=3897
+5	посеменила	_	_	_	_	_	_	_	Shift=3899
+6	Степановна	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3565|RuCor_group_id=475590|RuCor_link_id=475588|Shift=3910
+7	к	_	_	_	_	_	_	_	Shift=3921
+8	телефону	_	_	_	_	_	_	_	Shift=3923|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=3931
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p17-s3
+# text = Ветер метался вокруг, стараясь распахнуть пальтишко старой женщины.
+1	Ветер	_	_	_	_	_	_	_	Shift=3933
+2	метался	_	_	_	_	_	_	_	Shift=3939
+3	вокруг	_	_	_	_	_	_	_	Shift=3947|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=3953
+5	стараясь	_	_	_	_	_	_	_	Shift=3955
+6	распахнуть	_	_	_	_	_	_	_	Shift=3964
+7	пальтишко	_	_	_	_	_	_	_	Shift=3975
+8	старой	_	_	_	_	_	_	_	RuCor_chain_id=3565|RuCor_group_id=475591|Shift=3985
+9	женщины	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3565|RuCor_group_id=475591|RuCor_link_id=475590|Shift=3992|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=3999
+
+# newpar id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p18
+# par_text = - Ох! Я свою  квартиру-то не  закрыла, дура старая! К нам то ж залазет, выродок!  - Степановна от этой мысли встала,  как вкопанная. Оглянулась  на свои окна. Те грустно смотрели на женщину темными стеклами, а вот...
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p18-s1
+# text = - Ох!
+1	-	_	_	_	_	_	_	_	Shift=4002
+2	Ох	_	_	_	_	_	_	_	Shift=4004|SpaceAfter=No
+3	!	_	_	_	_	_	_	_	Shift=4006
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p18-s2
+# text = Я свою квартиру - то не закрыла, дура старая!
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3565|RuCor_group_id=475592|RuCor_link_id=475591|Shift=4008
+2	свою	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3565|RuCor_group_id=475594|RuCor_link_id=475592|Shift=4010
+3	квартиру	_	_	_	_	_	_	_	RuCor_chain_id=3575|RuCor_group_id=475593|Shift=4016
+4	-	_	_	_	_	_	_	_	Shift=4024
+5	то	_	_	_	_	_	_	_	Shift=4025
+6	не	_	_	_	_	_	_	_	Shift=4028
+7	закрыла	_	_	_	_	_	_	_	Shift=4032|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=4039
+9	дура	_	_	_	_	_	_	_	Shift=4041
+10	старая	_	_	_	_	_	_	_	Shift=4046|SpaceAfter=No
+11	!	_	_	_	_	_	_	_	Shift=4052
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p18-s3
+# text = К нам то ж залазет, выродок!
+1	К	_	_	_	_	_	_	_	Shift=4054
+2	нам	_	_	_	_	_	_	_	Shift=4056
+3	то	_	_	_	_	_	_	_	Shift=4060
+4	ж	_	_	_	_	_	_	_	Shift=4063
+5	залазет	_	_	_	_	_	_	_	Shift=4065|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=4072
+7	выродок	_	_	_	_	_	_	_	Shift=4074|SpaceAfter=No
+8	!	_	_	_	_	_	_	_	Shift=4081
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p18-s4
+# text = - Степановна от этой мысли встала, как вкопанная.
+1	-	_	_	_	_	_	_	_	Shift=4084
+2	Степановна	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3565|RuCor_group_id=475595|RuCor_link_id=475594|Shift=4086
+3	от	_	_	_	_	_	_	_	Shift=4097
+4	этой	_	_	_	_	_	_	_	Shift=4100
+5	мысли	_	_	_	_	_	_	_	Shift=4105
+6	встала	_	_	_	_	_	_	_	Shift=4111|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=4117
+8	как	_	_	_	_	_	_	_	Shift=4120
+9	вкопанная	_	_	_	_	_	_	_	Shift=4124|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=4133
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p18-s5
+# text = Оглянулась на свои окна.
+1	Оглянулась	_	_	_	_	_	_	_	Shift=4135
+2	на	_	_	_	_	_	_	_	Shift=4147
+3	свои	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3576|RuCor_group_id=475597|RuCor_link_id=475595|Shift=4150
+4	окна	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3576|RuCor_group_id=475597|RuCor_link_id=0|Shift=4155|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=4159
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p18-s6
+# text = Те грустно смотрели на женщину темными стеклами, а вот...
+1	Те	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=3576|RuCor_group_id=475598|RuCor_link_id=475597|Shift=4161
+2	грустно	_	_	_	_	_	_	_	Shift=4164
+3	смотрели	_	_	_	_	_	_	_	Shift=4172
+4	на	_	_	_	_	_	_	_	Shift=4181
+5	женщину	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3565|RuCor_group_id=475599|RuCor_link_id=475596|Shift=4184
+6	темными	_	_	_	_	_	_	_	Shift=4192
+7	стеклами	_	_	_	_	_	_	_	Shift=4200|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=4208
+9	а	_	_	_	_	_	_	_	Shift=4210
+10	вот	_	_	_	_	_	_	_	Shift=4212|SpaceAfter=No
+11	...	_	_	_	_	_	_	_	Shift=4215
+
+# newpar id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p19
+# par_text = А  вот у Михайловского  горел свет! Смутное  воспоминание  шевельнулось где-то в голове:
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p19-s1
+# text = А вот у Михайловского горел свет!
+1	А	_	_	_	_	_	_	_	Shift=4220
+2	вот	_	_	_	_	_	_	_	Shift=4223
+3	у	_	_	_	_	_	_	_	Shift=4227
+4	Михайловского	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3570|RuCor_group_id=475600|RuCor_link_id=475580|Shift=4229
+5	горел	_	_	_	_	_	_	_	Shift=4244
+6	свет	_	_	_	_	_	_	_	Shift=4250|SpaceAfter=No
+7	!	_	_	_	_	_	_	_	Shift=4254
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p19-s2
+# text = Смутное воспоминание шевельнулось где-то в голове:
+1	Смутное	_	_	_	_	_	_	_	Shift=4256
+2	воспоминание	_	_	_	_	_	_	_	Shift=4265
+3	шевельнулось	_	_	_	_	_	_	_	Shift=4279
+4	где-то	_	_	_	_	_	_	_	Shift=4292
+5	в	_	_	_	_	_	_	_	Shift=4299
+6	голове	_	_	_	_	_	_	_	Shift=4301|SpaceAfter=No
+7	:	_	_	_	_	_	_	_	Shift=4307
+
+# newpar id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p20
+# par_text = - Вроде  сын сегодня должон  был приехать  к Михайловскоу  с севера?  - прошептала Степановна, - Точно!  Старик  Михайловский еще кому-то из соседей днем хвалился! Ой, правда!
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p20-s1
+# text = - Вроде сын сегодня должон был приехать к Михайловскоу с севера?
+1	-	_	_	_	_	_	_	_	Shift=4310
+2	Вроде	_	_	_	_	_	_	_	Shift=4312
+3	сын	_	_	_	_	_	_	_	Shift=4319
+4	сегодня	_	_	_	_	_	_	_	Shift=4323
+5	должон	_	_	_	_	_	_	_	Shift=4331
+6	был	_	_	_	_	_	_	_	Shift=4339
+7	приехать	_	_	_	_	_	_	_	Shift=4343
+8	к	_	_	_	_	_	_	_	Shift=4353
+9	Михайловскоу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3570|RuCor_group_id=475601|RuCor_link_id=475600|Shift=4355
+10	с	_	_	_	_	_	_	_	Shift=4369
+11	севера	_	_	_	_	_	_	_	Shift=4371|SpaceAfter=No
+12	?	_	_	_	_	_	_	_	Shift=4377
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p20-s2
+# text = - прошептала Степановна, - Точно!
+1	-	_	_	_	_	_	_	_	Shift=4380
+2	прошептала	_	_	_	_	_	_	_	Shift=4382
+3	Степановна	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3565|RuCor_group_id=475602|RuCor_link_id=475599|Shift=4393|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=4403
+5	-	_	_	_	_	_	_	_	Shift=4405
+6	Точно	_	_	_	_	_	_	_	Shift=4407|SpaceAfter=No
+7	!	_	_	_	_	_	_	_	Shift=4412
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p20-s3
+# text = Старик Михайловский еще кому-то из соседей днем хвалился!
+1	Старик	_	_	_	_	_	_	_	RuCor_chain_id=3570|RuCor_group_id=475603|Shift=4415
+2	Михайловский	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3570|RuCor_group_id=475603|RuCor_link_id=475601|Shift=4423
+3	еще	_	_	_	_	_	_	_	Shift=4436
+4	кому-то	_	_	_	_	_	_	_	Shift=4440
+5	из	_	_	_	_	_	_	_	Shift=4448
+6	соседей	_	_	_	_	_	_	_	Shift=4451
+7	днем	_	_	_	_	_	_	_	Shift=4459
+8	хвалился	_	_	_	_	_	_	_	Shift=4464|SpaceAfter=No
+9	!	_	_	_	_	_	_	_	Shift=4472
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p20-s4
+# text = Ой, правда!
+1	Ой	_	_	_	_	_	_	_	Shift=4474|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=4476
+3	правда	_	_	_	_	_	_	_	Shift=4478|SpaceAfter=No
+4	!	_	_	_	_	_	_	_	Shift=4484
+
+# newpar id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p21
+# par_text = Женщина запрокинула голову на встречу  снегопаду  и тихо засмеялась над собственной глупостью.
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p21-s1
+# text = Женщина запрокинула голову на встречу снегопаду и тихо засмеялась над собственной глупостью.
+1	Женщина	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3565|RuCor_group_id=475604|RuCor_link_id=475602|Shift=4487
+2	запрокинула	_	_	_	_	_	_	_	Shift=4495
+3	голову	_	_	_	_	_	_	_	Shift=4507
+4	на	_	_	_	_	_	_	_	Shift=4514
+5	встречу	_	_	_	_	_	_	_	Shift=4517
+6	снегопаду	_	_	_	_	_	_	_	Shift=4526
+7	и	_	_	_	_	_	_	_	Shift=4537
+8	тихо	_	_	_	_	_	_	_	Shift=4539
+9	засмеялась	_	_	_	_	_	_	_	Shift=4544
+10	над	_	_	_	_	_	_	_	Shift=4555
+11	собственной	_	_	_	_	_	_	_	Shift=4559
+12	глупостью	_	_	_	_	_	_	_	Shift=4571|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=4580
+
+# newpar id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p22
+# par_text = Обратная дорога тяжело ей далась - и как это она вперед бежала?
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p22-s1
+# text = Обратная дорога тяжело ей далась - и как это она вперед бежала?
+1	Обратная	_	_	_	_	_	_	_	Shift=4583
+2	дорога	_	_	_	_	_	_	_	Shift=4592
+3	тяжело	_	_	_	_	_	_	_	Shift=4599
+4	ей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3565|RuCor_group_id=475605|RuCor_link_id=475604|Shift=4606
+5	далась	_	_	_	_	_	_	_	Shift=4609
+6	-	_	_	_	_	_	_	_	Shift=4616
+7	и	_	_	_	_	_	_	_	Shift=4618
+8	как	_	_	_	_	_	_	_	Shift=4620
+9	это	_	_	_	_	_	_	_	Shift=4624
+10	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3565|RuCor_group_id=475606|RuCor_link_id=475605|Shift=4628
+11	вперед	_	_	_	_	_	_	_	Shift=4632
+12	бежала	_	_	_	_	_	_	_	Shift=4639|SpaceAfter=No
+13	?	_	_	_	_	_	_	_	Shift=4645
+
+# newpar id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p23
+# par_text = За   дверью  соседа  слышен  был   молодой  мужской  басок,   хихиканье Михайловского и  хлопанье дверцы холодильника. Улыбнувшись, Вера Степановна вернулась  в квартиру, которая  встретила ее  тишиной,  покоем и нарастающим храпением Ефима Викторовича...
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p23-s1
+# text = За дверью соседа слышен был молодой мужской басок, хихиканье Михайловского и хлопанье дверцы холодильника.
+1	За	_	_	_	_	_	_	_	Shift=4648
+2	дверью	_	_	_	_	_	_	_	Shift=4653
+3	соседа	_	_	_	_	_	_	_	Shift=4661
+4	слышен	_	_	_	_	_	_	_	Shift=4669
+5	был	_	_	_	_	_	_	_	Shift=4677
+6	молодой	_	_	_	_	_	_	_	Shift=4683
+7	мужской	_	_	_	_	_	_	_	Shift=4692
+8	басок	_	_	_	_	_	_	_	Shift=4701|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=4706
+10	хихиканье	_	_	_	_	_	_	_	Shift=4710
+11	Михайловского	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3570|RuCor_group_id=475607|RuCor_link_id=475603|Shift=4720
+12	и	_	_	_	_	_	_	_	Shift=4734
+13	хлопанье	_	_	_	_	_	_	_	Shift=4737
+14	дверцы	_	_	_	_	_	_	_	Shift=4746
+15	холодильника	_	_	_	_	_	_	_	Shift=4753|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=4765
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p23-s2
+# text = Улыбнувшись, Вера Степановна вернулась в квартиру, которая встретила ее тишиной, покоем и нарастающим храпением Ефима Викторовича...
+1	Улыбнувшись	_	_	_	_	_	_	_	Shift=4767|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=4778
+3	Вера	_	_	_	_	_	_	_	RuCor_chain_id=3565|RuCor_group_id=475608|Shift=4780
+4	Степановна	_	_	_	_	_	_	_	RuCor_chain_id=3565|RuCor_group_id=475608|Shift=4785
+5	вернулась	_	_	_	_	_	_	_	Shift=4796
+6	в	_	_	_	_	_	_	_	Shift=4807
+7	квартиру	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3575|RuCor_group_id=475609|RuCor_link_id=475593|Shift=4809|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=4817
+9	которая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=3575|RuCor_group_id=475610|RuCor_link_id=475609|Shift=4819
+10	встретила	_	_	_	_	_	_	_	Shift=4828
+11	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3565|RuCor_group_id=475611|RuCor_link_id=475608|Shift=4838
+12	тишиной	_	_	_	_	_	_	_	Shift=4842|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=4849
+14	покоем	_	_	_	_	_	_	_	Shift=4852
+15	и	_	_	_	_	_	_	_	Shift=4859
+16	нарастающим	_	_	_	_	_	_	_	Shift=4861
+17	храпением	_	_	_	_	_	_	_	Shift=4873
+18	Ефима	_	_	_	_	_	_	_	RuCor_chain_id=3567|RuCor_group_id=475612|Shift=4883
+19	Викторовича	_	_	_	_	_	_	_	RuCor_chain_id=3567|RuCor_group_id=475612|Shift=4889|SpaceAfter=No
+20	...	_	_	_	_	_	_	_	Shift=4900
+
+# newpar id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p24
+# par_text = На следующее  утро в  окна старой квартиры  на  пятом  этаже, заглянуло солнце, залив прозрачными и  теплыми  лучами  скачущего  по  комнатам пацана Ваську:
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p24-s1
+# text = На следующее утро в окна старой квартиры на пятом этаже, заглянуло солнце, залив прозрачными и теплыми лучами скачущего по комнатам пацана Ваську:
+1	На	_	_	_	_	_	_	_	Shift=4905
+2	следующее	_	_	_	_	_	_	_	Shift=4908
+3	утро	_	_	_	_	_	_	_	Shift=4919
+4	в	_	_	_	_	_	_	_	Shift=4924
+5	окна	_	_	_	_	_	_	_	Shift=4927
+6	старой	_	_	_	_	_	_	_	RuCor_chain_id=3575|RuCor_group_id=475613|Shift=4932
+7	квартиры	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3575|RuCor_group_id=475613|RuCor_link_id=475610|Shift=4939
+8	на	_	_	_	_	_	_	_	RuCor_chain_id=3575|RuCor_group_id=475613|Shift=4949
+9	пятом	_	_	_	_	_	_	_	RuCor_chain_id=3575|RuCor_group_id=475613|Shift=4953
+10	этаже	_	_	_	_	_	_	_	RuCor_chain_id=3575|RuCor_group_id=475613|Shift=4960|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=4965
+12	заглянуло	_	_	_	_	_	_	_	Shift=4967
+13	солнце	_	_	_	_	_	_	_	Shift=4977|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=4983
+15	залив	_	_	_	_	_	_	_	Shift=4985
+16	прозрачными	_	_	_	_	_	_	_	Shift=4991
+17	и	_	_	_	_	_	_	_	Shift=5003
+18	теплыми	_	_	_	_	_	_	_	Shift=5006
+19	лучами	_	_	_	_	_	_	_	Shift=5015
+20	скачущего	_	_	_	_	_	_	_	Shift=5023
+21	по	_	_	_	_	_	_	_	Shift=5034
+22	комнатам	_	_	_	_	_	_	_	Shift=5038
+23	пацана	_	_	_	_	_	_	_	RuCor_chain_id=3568|RuCor_group_id=475614|Shift=5047
+24	Ваську	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3568|RuCor_group_id=475614|RuCor_link_id=475577|Shift=5054|SpaceAfter=No
+25	:	_	_	_	_	_	_	_	Shift=5060
+
+# newpar id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p25
+# par_text = - Снег! Первый снег! Деда, вставай! Все белое-белое! Пошли гулять!
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p25-s1
+# text = - Снег!
+1	-	_	_	_	_	_	_	_	Shift=5063
+2	Снег	_	_	_	_	_	_	_	Shift=5065|SpaceAfter=No
+3	!	_	_	_	_	_	_	_	Shift=5069
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p25-s2
+# text = Первый снег!
+1	Первый	_	_	_	_	_	_	_	Shift=5071
+2	снег	_	_	_	_	_	_	_	Shift=5078|SpaceAfter=No
+3	!	_	_	_	_	_	_	_	Shift=5082
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p25-s3
+# text = Деда, вставай!
+1	Деда	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3567|RuCor_group_id=475615|RuCor_link_id=475612|Shift=5084|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=5088
+3	вставай	_	_	_	_	_	_	_	Shift=5090|SpaceAfter=No
+4	!	_	_	_	_	_	_	_	Shift=5097
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p25-s4
+# text = Все белое - белое!
+1	Все	_	_	_	_	_	_	_	Shift=5099
+2	белое	_	_	_	_	_	_	_	Shift=5103
+3	-	_	_	_	_	_	_	_	Shift=5108
+4	белое	_	_	_	_	_	_	_	Shift=5109|SpaceAfter=No
+5	!	_	_	_	_	_	_	_	Shift=5114
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p25-s5
+# text = Пошли гулять!
+1	Пошли	_	_	_	_	_	_	_	Shift=5116
+2	гулять	_	_	_	_	_	_	_	Shift=5122|SpaceAfter=No
+3	!	_	_	_	_	_	_	_	Shift=5128
+
+# newpar id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p26
+# par_text = Заглянуло солнце и в  подъезд,  где старая женщина  отскребала совочком примерзшие  картофельные очистки. Так родился день. Новый,  морозно-чистый, несущий всем мир, день!
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p26-s1
+# text = Заглянуло солнце и в подъезд, где старая женщина отскребала совочком примерзшие картофельные очистки.
+1	Заглянуло	_	_	_	_	_	_	_	Shift=5132
+2	солнце	_	_	_	_	_	_	_	Shift=5142
+3	и	_	_	_	_	_	_	_	Shift=5149
+4	в	_	_	_	_	_	_	_	Shift=5151
+5	подъезд	_	_	_	_	_	_	_	Shift=5154|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=5161
+7	где	_	_	_	_	_	_	_	Shift=5164
+8	старая	_	_	_	_	_	_	_	RuCor_chain_id=3565|RuCor_group_id=475616|Shift=5168
+9	женщина	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3565|RuCor_group_id=475616|RuCor_link_id=475611|Shift=5175
+10	отскребала	_	_	_	_	_	_	_	Shift=5184
+11	совочком	_	_	_	_	_	_	_	Shift=5195
+12	примерзшие	_	_	_	_	_	_	_	Shift=5204
+13	картофельные	_	_	_	_	_	_	_	Shift=5216
+14	очистки	_	_	_	_	_	_	_	Shift=5229|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=5236
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p26-s2
+# text = Так родился день.
+1	Так	_	_	_	_	_	_	_	Shift=5238
+2	родился	_	_	_	_	_	_	_	Shift=5242
+3	день	_	_	_	_	_	_	_	Shift=5250|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=5254
+
+# sent_id = f8062e41-1aee-4e5a-8034-5e369d0f1b1c-p26-s3
+# text = Новый, морозно - чистый, несущий всем мир, день!
+1	Новый	_	_	_	_	_	_	_	Shift=5256|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=5261
+3	морозно	_	_	_	_	_	_	_	Shift=5264
+4	-	_	_	_	_	_	_	_	Shift=5271
+5	чистый	_	_	_	_	_	_	_	Shift=5272|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=5278
+7	несущий	_	_	_	_	_	_	_	Shift=5280
+8	всем	_	_	_	_	_	_	_	Shift=5288
+9	мир	_	_	_	_	_	_	_	Shift=5293|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=5296
+11	день	_	_	_	_	_	_	_	Shift=5298|SpaceAfter=No
+12	!	_	_	_	_	_	_	_	_
+

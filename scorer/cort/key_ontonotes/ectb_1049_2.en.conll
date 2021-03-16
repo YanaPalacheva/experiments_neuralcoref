@@ -1,0 +1,517 @@
+#begin document (ectb_1049_2); part 000
+ectb_1049	2	0	Tanshui	NNP	(TOP(S(NP*)	-	-	-	-	(47)
+ectb_1049	2	1	is	VBZ	(VP*	be	01	1	-	-
+ectb_1049	2	2	a	DT	(NP(NP(NP*	-	-	-	-	-
+ectb_1049	2	3	place	NN	*)	place	-	1	-	-
+ectb_1049	2	4	of	IN	(PP*	-	-	-	-	-
+ectb_1049	2	5	many	JJ	(NP*	-	-	-	-	-
+ectb_1049	2	6	historic	JJ	*	-	-	-	-	-
+ectb_1049	2	7	sites	NNS	*)))	site	-	1	-	-
+ectb_1049	2	8	,	,	*	-	-	-	-	-
+ectb_1049	2	9	a	DT	(NP(NP*	-	-	-	-	-
+ectb_1049	2	10	place	NN	*)	place	-	1	-	-
+ectb_1049	2	11	that	WDT	(SBAR(WHNP*)	-	-	-	-	-
+ectb_1049	2	12	invites	VBZ	(S(VP*	invite	01	1	-	-
+ectb_1049	2	13	reflection	NN	(NP(NP*)	reflection	02	2	-	-
+ectb_1049	2	14	on	IN	(PP*	-	-	-	-	-
+ectb_1049	2	15	things	NNS	(NP(NP*)	thing	-	1	-	-
+ectb_1049	2	16	past	JJ	(ADJP*))))))))))	-	-	-	-	-
+ectb_1049	2	17	.	.	*))	-	-	-	-	-
+
+ectb_1049	2	0	In	IN	(TOP(S(S(PP*	-	-	-	-	-
+ectb_1049	2	1	the	DT	(NP*	-	-	-	-	(29
+ectb_1049	2	2	"	``	*	-	-	-	-	-
+ectb_1049	2	3	foreign	JJ	*	-	-	-	-	-
+ectb_1049	2	4	district	NN	*))	-	-	-	-	29)
+ectb_1049	2	5	,	,	*	-	-	-	-	-
+ectb_1049	2	6	"	''	*	-	-	-	-	-
+ectb_1049	2	7	a	DT	(NP(NP*	-	-	-	-	-
+ectb_1049	2	8	missionary	NN	*)	-	-	-	-	-
+ectb_1049	2	9	named	VBN	(VP*	name	01	1	-	-
+ectb_1049	2	10	George	NNP	(S(NP*	-	-	-	-	-
+ectb_1049	2	11	Mackay	NNP	*))))	-	-	-	-	-
+ectb_1049	2	12	established	VBD	(VP*	establish	01	1	-	-
+ectb_1049	2	13	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1049	2	14	first	JJ	*	-	-	-	-	-
+ectb_1049	2	15	hospital	NN	*)	-	-	-	-	-
+ectb_1049	2	16	for	IN	(PP*	-	-	-	-	-
+ectb_1049	2	17	Western	JJ	(NP*	-	-	-	-	-
+ectb_1049	2	18	medicine	NN	*)))	medicine	-	1	-	-
+ectb_1049	2	19	in	IN	(PP*	-	-	-	-	-
+ectb_1049	2	20	Taiwan	NNP	(NP*))))	-	-	-	-	(37)
+ectb_1049	2	21	;	,	*	-	-	-	-	-
+ectb_1049	2	22	it	PRP	(S(NP*)	-	-	-	-	-
+ectb_1049	2	23	was	VBD	(VP*	be	01	4	-	-
+ectb_1049	2	24	here	RB	(ADVP*)	-	-	-	-	-
+ectb_1049	2	25	that	WRB	(SBAR(WHADVP*)	-	-	-	-	-
+ectb_1049	2	26	in	IN	(S(PP*	-	-	-	-	-
+ectb_1049	2	27	1878	CD	(NP*))	-	-	-	-	-
+ectb_1049	2	28	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1049	2	29	first	JJ	*	-	-	-	-	-
+ectb_1049	2	30	case	NN	*)	case	-	4	-	-
+ectb_1049	2	31	of	IN	(PP*	-	-	-	-	-
+ectb_1049	2	32	paragonimiasis	NN	(NP*))	-	-	-	-	-
+ectb_1049	2	33	in	IN	(PP*	-	-	-	-	-
+ectb_1049	2	34	the	DT	(NP*	-	-	-	-	-
+ectb_1049	2	35	world	NN	*)))	world	-	1	-	-
+ectb_1049	2	36	was	VBD	(VP*	be	03	-	-	-
+ectb_1049	2	37	diagnosed	VBN	(VP*))))))	diagnose	01	2	-	-
+ectb_1049	2	38	.	.	*))	-	-	-	-	-
+
+ectb_1049	2	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	-
+ectb_1049	2	1	old	JJ	*	-	-	-	-	-
+ectb_1049	2	2	church	NN	*)	-	-	-	-	-
+ectb_1049	2	3	next	JJ	(ADJP*	-	-	-	-	-
+ectb_1049	2	4	to	IN	(PP*	-	-	-	-	-
+ectb_1049	2	5	the	DT	(NP*	-	-	-	-	-
+ectb_1049	2	6	hospital	NN	*))))	-	-	-	-	-
+ectb_1049	2	7	is	VBZ	(VP*	be	01	1	-	-
+ectb_1049	2	8	a	DT	(NP(NP*	-	-	-	-	-
+ectb_1049	2	9	mecca	NN	*)	-	-	-	-	-
+ectb_1049	2	10	for	IN	(PP*	-	-	-	-	-
+ectb_1049	2	11	Tanshui	NNP	(NP*	-	-	-	-	(47)
+ectb_1049	2	12	painters	NNS	*))))	-	-	-	-	-
+ectb_1049	2	13	.	.	*))	-	-	-	-	-
+
+ectb_1049	2	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	-
+ectb_1049	2	1	schools	NNS	*	school	-	1	-	-
+ectb_1049	2	2	,	,	*	-	-	-	-	-
+ectb_1049	2	3	homes	NNS	*	home	-	1	-	-
+ectb_1049	2	4	,	,	*	-	-	-	-	-
+ectb_1049	2	5	and	CC	*	-	-	-	-	-
+ectb_1049	2	6	consulates	NNS	*)	-	-	-	-	-
+ectb_1049	2	7	in	IN	(PP*	-	-	-	-	-
+ectb_1049	2	8	the	DT	(NP*	-	-	-	-	(29
+ectb_1049	2	9	foreign	JJ	*	-	-	-	-	-
+ectb_1049	2	10	district	NN	*))	-	-	-	-	29)
+ectb_1049	2	11	-	,	(PRN*	-	-	-	-	-
+ectb_1049	2	12	some	DT	(S(S(NP*)	-	-	-	-	-
+ectb_1049	2	13	long	RB	(ADVP*)	-	-	-	-	-
+ectb_1049	2	14	gone	VBN	(VP*))	go	13	-	-	-
+ectb_1049	2	15	,	,	*	-	-	-	-	-
+ectb_1049	2	16	some	RB	(S(NP*)	-	-	-	-	-
+ectb_1049	2	17	still	RB	(ADVP*)	-	-	-	-	-
+ectb_1049	2	18	standing	VBG	(VP*)))	stand	04	4	-	-
+ectb_1049	2	19	-	,	*))	-	-	-	-	-
+ectb_1049	2	20	testify	VBP	(VP*	testify	01	2	-	-
+ectb_1049	2	21	to	IN	(PP*	-	-	-	-	-
+ectb_1049	2	22	the	DT	(NP*	-	-	-	-	-
+ectb_1049	2	23	fact	NN	*	fact	-	2	-	-
+ectb_1049	2	24	that	IN	(SBAR*	-	-	-	-	-
+ectb_1049	2	25	this	DT	(S(NP*)	-	-	-	-	(29)
+ectb_1049	2	26	was	VBD	(VP*	be	01	1	-	-
+ectb_1049	2	27	a	DT	(NP(NP*	-	-	-	-	-
+ectb_1049	2	28	place	NN	*)	place	-	1	-	-
+ectb_1049	2	29	of	IN	(PP*	-	-	-	-	-
+ectb_1049	2	30	intensive	JJ	(NP(NP*	-	-	-	-	-
+ectb_1049	2	31	interaction	NN	*)	interaction	01	1	-	-
+ectb_1049	2	32	between	IN	(PP*	-	-	-	-	-
+ectb_1049	2	33	Chinese	JJ	(NP(ADJP*	-	-	-	-	-
+ectb_1049	2	34	and	CC	*	-	-	-	-	-
+ectb_1049	2	35	Western	JJ	*)	-	-	-	-	-
+ectb_1049	2	36	cultures	NNS	*)))))))))))	culture	-	1	-	-
+ectb_1049	2	37	.	.	*))	-	-	-	-	-
+
+ectb_1049	2	0	If	IN	(TOP(S(SBAR*	-	-	-	-	-
+ectb_1049	2	1	you	PRP	(S(NP*)	-	-	-	-	-
+ectb_1049	2	2	go	VBP	(VP*	go	02	1	-	-
+ectb_1049	2	3	up	IN	(PP*	-	-	-	-	-
+ectb_1049	2	4	Sanmin	NNP	(NP*	-	-	-	-	-
+ectb_1049	2	5	Street	NNP	*)))))	-	-	-	-	-
+ectb_1049	2	6	,	,	*	-	-	-	-	-
+ectb_1049	2	7	you	PRP	(NP*)	-	-	-	-	-
+ectb_1049	2	8	will	MD	(VP*	-	-	-	-	-
+ectb_1049	2	9	discover	VB	(VP*	discover	01	1	-	-
+ectb_1049	2	10	the	DT	(NP(NP*	-	-	-	-	(31
+ectb_1049	2	11	head	NN	*)	-	-	-	-	-
+ectb_1049	2	12	of	IN	(PP*	-	-	-	-	-
+ectb_1049	2	13	an	DT	(NP*	-	-	-	-	-
+ectb_1049	2	14	old	JJ	(ADJP*	-	-	-	-	-
+ectb_1049	2	15	and	CC	*	-	-	-	-	-
+ectb_1049	2	16	disused	JJ	*)	-	-	-	-	-
+ectb_1049	2	17	water	NN	*	water	-	2	-	-
+ectb_1049	2	18	pipe	NN	*)))))	pipe	-	2	-	31)
+ectb_1049	2	19	.	.	*))	-	-	-	-	-
+
+ectb_1049	2	0	This	DT	(TOP(S(NP*)	-	-	-	-	(31)
+ectb_1049	2	1	could	MD	(VP*	-	-	-	-	-
+ectb_1049	2	2	be	VB	(VP*	be	01	1	-	-
+ectb_1049	2	3	a	DT	(NP(NP*	-	-	-	-	-
+ectb_1049	2	4	relic	NN	*)	-	-	-	-	-
+ectb_1049	2	5	left	VBN	(VP*	leave	02	2	-	-
+ectb_1049	2	6	behind	RP	(PRT*)	-	-	-	-	-
+ectb_1049	2	7	by	IN	(PP*	-	-	-	-	-
+ectb_1049	2	8	one	CD	(NP(NP(NP*)	-	-	-	-	-
+ectb_1049	2	9	of	IN	(PP*	-	-	-	-	-
+ectb_1049	2	10	the	DT	(NP*	-	-	-	-	-
+ectb_1049	2	11	major	JJ	*	-	-	-	-	-
+ectb_1049	2	12	Japanese	JJ	*	-	-	-	-	-
+ectb_1049	2	13	infrastructure	NN	*	infrastructure	-	1	-	-
+ectb_1049	2	14	projects	NNS	*)))	project	-	1	-	-
+ectb_1049	2	15	,	,	*	-	-	-	-	-
+ectb_1049	2	16	the	DT	(NP*	-	-	-	-	-
+ectb_1049	2	17	first	JJ	*	-	-	-	-	-
+ectb_1049	2	18	tap	NN	(NML*	tap	-	3	-	-
+ectb_1049	2	19	water	NN	*)	water	-	2	-	-
+ectb_1049	2	20	station	NN	*)))))))	station	-	1	-	-
+ectb_1049	2	21	.	.	*))	-	-	-	-	-
+
+ectb_1049	2	0	Or	CC	(TOP(S*	-	-	-	-	-
+ectb_1049	2	1	you	PRP	(NP*)	-	-	-	-	-
+ectb_1049	2	2	could	MD	(VP*	-	-	-	-	-
+ectb_1049	2	3	walk	VB	(VP(VP*	walk	01	1	-	-
+ectb_1049	2	4	instead	RB	(ADVP*)	-	-	-	-	-
+ectb_1049	2	5	next	RB	(ADVP*	-	-	-	-	-
+ectb_1049	2	6	to	IN	(PP*	-	-	-	-	-
+ectb_1049	2	7	the	DT	(NP*	-	-	-	-	-
+ectb_1049	2	8	MRT	NNP	*	-	-	-	-	-
+ectb_1049	2	9	station	NN	*))))	station	-	1	-	-
+ectb_1049	2	10	and	CC	*	-	-	-	-	-
+ectb_1049	2	11	see	VB	(VP*	see	01	3	-	-
+ectb_1049	2	12	another	DT	(NP(NP(NP*	-	-	-	-	-
+ectb_1049	2	13	first	JJ	*)	-	-	-	-	-
+ectb_1049	2	14	for	IN	(PP*	-	-	-	-	-
+ectb_1049	2	15	Taiwan	NNP	(NP*)))	-	-	-	-	(37)
+ectb_1049	2	16	:	:	*	-	-	-	-	-
+ectb_1049	2	17	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1049	2	18	first	JJ	*	-	-	-	-	-
+ectb_1049	2	19	seaplane	NN	*	-	-	-	-	-
+ectb_1049	2	20	landing	NN	*	-	-	-	-	-
+ectb_1049	2	21	area	NN	*)	-	-	-	-	-
+ectb_1049	2	22	,	,	*	-	-	-	-	-
+ectb_1049	2	23	also	RB	(VP(ADVP*)	-	-	-	-	-
+ectb_1049	2	24	built	VBN	*	build	01	-	-	-
+ectb_1049	2	25	in	IN	(PP*	-	-	-	-	-
+ectb_1049	2	26	the	DT	(NP*	-	-	-	-	(10
+ectb_1049	2	27	Japanese	JJ	(NML*	-	-	-	-	-
+ectb_1049	2	28	occupation	NN	*)	-	-	-	-	-
+ectb_1049	2	29	era	NN	*))))))))	-	-	-	-	10)
+ectb_1049	2	30	.	.	*))	-	-	-	-	-
+
+ectb_1049	2	0	Or	CC	(TOP(S*	-	-	-	-	-
+ectb_1049	2	1	you	PRP	(NP*)	-	-	-	-	-
+ectb_1049	2	2	could	MD	(VP*	-	-	-	-	-
+ectb_1049	2	3	visit	VB	(VP*	visit	01	1	-	-
+ectb_1049	2	4	the	DT	(NP*	-	-	-	-	(49
+ectb_1049	2	5	venerable	JJ	*	-	-	-	-	-
+ectb_1049	2	6	Tamkang	NNP	*	-	-	-	-	-
+ectb_1049	2	7	Secondary	NNP	*	-	-	-	-	-
+ectb_1049	2	8	School	NNP	*)))	-	-	-	-	49)
+ectb_1049	2	9	.	.	*))	-	-	-	-	-
+
+ectb_1049	2	0	As	IN	(TOP(S(SBAR*	-	-	-	-	-
+ectb_1049	2	1	you	PRP	(S(NP*)	-	-	-	-	-
+ectb_1049	2	2	watch	VBP	(VP*	watch	01	1	-	-
+ectb_1049	2	3	the	DT	(S(NP*	-	-	-	-	-
+ectb_1049	2	4	children	NNS	*)	child	-	1	-	-
+ectb_1049	2	5	laughing	VBG	(VP*	laugh	01	1	-	-
+ectb_1049	2	6	and	CC	*	-	-	-	-	-
+ectb_1049	2	7	arguing	VBG	*	argue	01	1	-	-
+ectb_1049	2	8	and	CC	*	-	-	-	-	-
+ectb_1049	2	9	playing	VBG	*)))))	play	01	1	-	-
+ectb_1049	2	10	,	,	*	-	-	-	-	-
+ectb_1049	2	11	you	PRP	(NP*)	-	-	-	-	-
+ectb_1049	2	12	can	MD	(VP*	-	-	-	-	-
+ectb_1049	2	13	think	VB	(VP*	think	01	-	-	-
+ectb_1049	2	14	back	RB	(ADVP*	-	-	-	-	-
+ectb_1049	2	15	to	IN	(PP*	-	-	-	-	-
+ectb_1049	2	16	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1049	2	17	time	NN	*)	time	-	2	-	-
+ectb_1049	2	18	when	WRB	(SBAR(WHADVP*)	-	-	-	-	-
+ectb_1049	2	19	the	DT	(S(NP*	-	-	-	-	-
+ectb_1049	2	20	Japanese	JJ	*	-	-	-	-	-
+ectb_1049	2	21	government	NN	*)	government	-	1	-	-
+ectb_1049	2	22	did	VBD	(VP*	do	01	-	-	-
+ectb_1049	2	23	not	RB	*	-	-	-	-	-
+ectb_1049	2	24	allow	VB	(VP*	allow	01	1	-	(25)
+ectb_1049	2	25	Taiwanese	NNPS	(S(NP*	-	-	-	-	-
+ectb_1049	2	26	and	CC	*	-	-	-	-	-
+ectb_1049	2	27	Japanese	NNPS	*)	-	-	-	-	-
+ectb_1049	2	28	to	TO	(VP*	-	-	-	-	-
+ectb_1049	2	29	attend	VB	(VP*	attend	01	1	-	-
+ectb_1049	2	30	school	NN	(NP*)	school	-	2	-	-
+ectb_1049	2	31	together	RB	(ADVP*)))))))))))))	-	-	-	-	-
+ectb_1049	2	32	.	.	*))	-	-	-	-	-
+
+ectb_1049	2	0	Under	IN	(TOP(S(PP*	-	-	-	-	-
+ectb_1049	2	1	those	DT	(NP*	-	-	-	-	(25
+ectb_1049	2	2	circumstances	NNS	*))	-	-	-	-	25)
+ectb_1049	2	3	,	,	*	-	-	-	-	-
+ectb_1049	2	4	Tamkang	NNP	(NP*	-	-	-	-	(49
+ectb_1049	2	5	Middle	NNP	*	-	-	-	-	-
+ectb_1049	2	6	School	NNP	*)	-	-	-	-	49)
+ectb_1049	2	7	became	VBD	(VP*	become	01	1	-	-
+ectb_1049	2	8	a	DT	(NP(NP*	-	-	-	-	-
+ectb_1049	2	9	cradle	NN	*)	-	-	-	-	-
+ectb_1049	2	10	for	IN	(PP*	-	-	-	-	-
+ectb_1049	2	11	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1049	2	12	training	NN	*)	training	01	1	-	-
+ectb_1049	2	13	of	IN	(PP*	-	-	-	-	-
+ectb_1049	2	14	Taiwanese	JJ	(NP*	-	-	-	-	-
+ectb_1049	2	15	elites	NNS	*))))))	-	-	-	-	-
+ectb_1049	2	16	.	.	*))	-	-	-	-	-
+
+ectb_1049	2	0	Gradually	RB	(TOP(S(ADVP*)	-	-	-	-	-
+ectb_1049	2	1	you	PRP	(NP*)	-	-	-	-	-
+ectb_1049	2	2	will	MD	(VP*	-	-	-	-	-
+ectb_1049	2	3	discover	VB	(VP*	discover	01	1	-	-
+ectb_1049	2	4	that	IN	(SBAR*	-	-	-	-	-
+ectb_1049	2	5	Tanshui	NNP	(S(NP*)	-	-	-	-	(47)
+ectb_1049	2	6	is	VBZ	(VP*	be	01	1	-	-
+ectb_1049	2	7	a	DT	(NP*	-	-	-	-	-
+ectb_1049	2	8	bookish	JJ	*	-	-	-	-	-
+ectb_1049	2	9	place	NN	*))))))	place	-	1	-	-
+ectb_1049	2	10	.	.	*))	-	-	-	-	-
+
+ectb_1049	2	0	This	DT	(TOP(S(NP*	-	-	-	-	(47
+ectb_1049	2	1	little	JJ	*	-	-	-	-	-
+ectb_1049	2	2	town	NN	*)	town	-	1	-	47)
+ectb_1049	2	3	has	VBZ	(VP*	have	03	1	-	-
+ectb_1049	2	4	everything	NN	(NP(NP*)	-	-	-	-	-
+ectb_1049	2	5	from	IN	(PP(PP*	-	-	-	-	-
+ectb_1049	2	6	nursery	NN	(NP*	-	-	-	-	-
+ectb_1049	2	7	schools	NNS	*))	school	-	2	-	-
+ectb_1049	2	8	to	IN	(PP*	-	-	-	-	-
+ectb_1049	2	9	graduate	NN	(NP*	-	-	-	-	-
+ectb_1049	2	10	schools	NNS	*)))))	school	-	2	-	-
+ectb_1049	2	11	.	.	*))	-	-	-	-	-
+
+ectb_1049	2	0	During	IN	(TOP(S(PP(PP*	-	-	-	-	-
+ectb_1049	2	1	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1049	2	2	reign	NN	*)	-	-	-	-	-
+ectb_1049	2	3	of	IN	(PP*	-	-	-	-	-
+ectb_1049	2	4	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1049	2	5	Guangxu	NNP	*	-	-	-	-	-
+ectb_1049	2	6	emperor	NN	*)	-	-	-	-	-
+ectb_1049	2	7	of	IN	(PP*	-	-	-	-	-
+ectb_1049	2	8	the	DT	(NP*	-	-	-	-	-
+ectb_1049	2	9	Qing	NNP	*	-	-	-	-	-
+ectb_1049	2	10	dynasty	NN	*	-	-	-	-	-
+ectb_1049	2	11	-LRB-	-LRB-	(PRN*	-	-	-	-	-
+ectb_1049	2	12	which	WDT	(SBAR(WHNP*)	-	-	-	-	-
+ectb_1049	2	13	began	VBD	(S(VP*	begin	01	1	-	-
+ectb_1049	2	14	in	IN	(PP*	-	-	-	-	-
+ectb_1049	2	15	1875	CD	(NP*)))))	-	-	-	-	-
+ectb_1049	2	16	-RRB-	-RRB-	*)))))))	-	-	-	-	-
+ectb_1049	2	17	,	,	*	-	-	-	-	-
+ectb_1049	2	18	and	CC	*	-	-	-	-	-
+ectb_1049	2	19	prior	IN	(PP*	-	-	-	-	-
+ectb_1049	2	20	to	IN	(PP*	-	-	-	-	-
+ectb_1049	2	21	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1049	2	22	beginning	NN	*)	beginning	01	1	-	-
+ectb_1049	2	23	of	IN	(PP*	-	-	-	-	-
+ectb_1049	2	24	the	DT	(NP*	-	-	-	-	(10
+ectb_1049	2	25	Japanese	JJ	*	-	-	-	-	-
+ectb_1049	2	26	occupation	NN	*))	occupation	01	2	-	10)
+ectb_1049	2	27	in	IN	(PP*	-	-	-	-	-
+ectb_1049	2	28	1895	CD	(NP*))))))	-	-	-	-	-
+ectb_1049	2	29	,	,	*	-	-	-	-	-
+ectb_1049	2	30	Tanshui	NNP	(NP*)	-	-	-	-	(47)
+ectb_1049	2	31	produced	VBD	(VP*	produce	01	1	-	-
+ectb_1049	2	32	two	CD	(NP(NP(NP*	-	-	-	-	-
+ectb_1049	2	33	successful	JJ	*	-	-	-	-	-
+ectb_1049	2	34	candidates	NNS	*)	-	-	-	-	-
+ectb_1049	2	35	in	IN	(PP*	-	-	-	-	-
+ectb_1049	2	36	the	DT	(NP*	-	-	-	-	-
+ectb_1049	2	37	highest	JJS	(NML*	-	-	-	-	-
+ectb_1049	2	38	level	NN	*)	level	-	6	-	-
+ectb_1049	2	39	military	JJ	*	-	-	-	-	-
+ectb_1049	2	40	exam	NN	*)))	-	-	-	-	-
+ectb_1049	2	41	,	,	*	-	-	-	-	-
+ectb_1049	2	42	one	CD	(NP(NP*)	-	-	-	-	-
+ectb_1049	2	43	in	IN	(PP*	-	-	-	-	-
+ectb_1049	2	44	the	DT	(NP*	-	-	-	-	-
+ectb_1049	2	45	highest	JJS	(NML*	-	-	-	-	-
+ectb_1049	2	46	level	NN	*)	level	-	6	-	-
+ectb_1049	2	47	civil	JJ	*	-	-	-	-	-
+ectb_1049	2	48	exam	NN	*)))	-	-	-	-	-
+ectb_1049	2	49	,	,	*	-	-	-	-	-
+ectb_1049	2	50	and	CC	*	-	-	-	-	-
+ectb_1049	2	51	countless	JJ	(NP(NP*	-	-	-	-	-
+ectb_1049	2	52	successes	NNS	*)	success	01	2	-	-
+ectb_1049	2	53	in	IN	(PP*	-	-	-	-	-
+ectb_1049	2	54	lower	JJR	(NP(NML*	-	-	-	-	-
+ectb_1049	2	55	-	HYPH	*	-	-	-	-	-
+ectb_1049	2	56	level	NN	*)	-	-	-	-	-
+ectb_1049	2	57	imperial	JJ	*	-	-	-	-	-
+ectb_1049	2	58	exams	NNS	*)))))	-	-	-	-	-
+ectb_1049	2	59	.	.	*))	-	-	-	-	-
+
+ectb_1049	2	0	Even	RB	(TOP(S(S(PP(ADVP*)	-	-	-	-	*	*
+ectb_1049	2	1	in	IN	*	-	-	-	-	*	*
+ectb_1049	2	2	modern	JJ	(NP*	-	-	-	-	*	*
+ectb_1049	2	3	times	NNS	*))	time	-	2	-	*	*
+ectb_1049	2	4	,	,	*	-	-	-	-	*	*
+ectb_1049	2	5	the	DT	(NP*	-	-	-	-	*	*
+ectb_1049	2	6	town	NN	*)	town	-	1	-	*	*
+ectb_1049	2	7	has	VBZ	(VP*	have	01	-	-	*	*
+ectb_1049	2	8	not	RB	*	-	-	-	-	*	*
+ectb_1049	2	9	passed	VBN	(VP*	pass	13	-	-	*	*
+ectb_1049	2	10	up	RP	(PRT*)	-	-	-	-	*	*
+ectb_1049	2	11	chances	NNS	(NP*	chance	-	1	-	*	*
+ectb_1049	2	12	to	TO	(S(VP*	-	-	-	-	*	*
+ectb_1049	2	13	embrace	VB	(VP*	embrace	01	1	-	*	*
+ectb_1049	2	14	knowledge	NN	(NP*))))))))	-	-	-	-	*	*
+ectb_1049	2	15	:	,	*	-	-	-	-	*	*
+ectb_1049	2	16	When	WRB	(S(SBAR(WHADVP*)	-	-	-	-	(ARGM-TMP*	(ARGM-TMP*
+ectb_1049	2	17	the	DT	(S(NP(NP*	-	-	-	-	*	*
+ectb_1049	2	18	idea	NN	*)	idea	-	4	-	*	*
+ectb_1049	2	19	of	IN	(PP*	-	-	-	-	*	*
+ectb_1049	2	20	founding	VBG	(S(VP*	found	01	-	-	*	*
+ectb_1049	2	21	Tam	NNP	(NP(NML*	-	-	-	-	*	*
+ectb_1049	2	22	-	HYPH	*	-	-	-	-	*	*
+ectb_1049	2	23	kang	NNP	*)	-	-	-	-	*	*
+ectb_1049	2	24	University	NNP	*)	-	-	-	-	*	*
+ectb_1049	2	25	in	IN	(PP*	-	-	-	-	*	*
+ectb_1049	2	26	Tanshui	NNP	(NP*))))))	-	-	-	-	*	*
+ectb_1049	2	27	was	VBD	(VP*	be	03	-	-	*	*
+ectb_1049	2	28	going	VBG	(VP*	go	04	7	-	*	*
+ectb_1049	2	29	to	TO	(S(VP*	-	-	-	-	*	*
+ectb_1049	2	30	be	VB	(VP*	be	03	-	-	*	*
+ectb_1049	2	31	abandoned	VBN	(VP*	abandon	01	1	-	*	*
+ectb_1049	2	32	because	IN	(PP*	-	-	-	-	*	*
+ectb_1049	2	33	of	IN	*	-	-	-	-	*	*
+ectb_1049	2	34	a	DT	(NP(NP*	-	-	-	-	*	*
+ectb_1049	2	35	lack	NN	*)	-	-	-	-	*	*
+ectb_1049	2	36	of	IN	(PP*	-	-	-	-	*	*
+ectb_1049	2	37	land	NN	(NP*	land	-	1	-	*	*
+ectb_1049	2	38	and	CC	*	-	-	-	-	*	*
+ectb_1049	2	39	money	NN	*))))))))))))	money	-	2	-	*)	*)
+ectb_1049	2	40	,	,	*	-	-	-	-	*	*
+ectb_1049	2	41	local	JJ	(NP*	-	-	-	-	(ARG0*	(ARG0*
+ectb_1049	2	42	residents	NNS	*)	-	-	-	-	*)	*)
+ectb_1049	2	43	offered	VBD	(VP(VP*	offer	01	1	-	*	*
+ectb_1049	2	44	cheap	JJ	(NP*	-	-	-	-	*	*
+ectb_1049	2	45	land	NN	*))	land	-	1	-	*	*
+ectb_1049	2	46	,	,	*	-	-	-	-	*	*
+ectb_1049	2	47	donated	VBD	(VP*	donate	01	1	-	(V*)	(V*)
+ectb_1049	2	48	money	NN	(NP*))	money	-	2	-	(ARG1*)	(ARG1*)
+ectb_1049	2	49	,	,	*	-	-	-	-	*	*
+ectb_1049	2	50	and	CC	*	-	-	-	-	*	*
+ectb_1049	2	51	lobbied	VBD	(VP*)	lobby	01	1	-	*	*
+ectb_1049	2	52	so	IN	(SBAR*	-	-	-	-	(ARGM-PRP*	(ARGM-PRP*
+ectb_1049	2	53	that	IN	*	-	-	-	-	*	*
+ectb_1049	2	54	the	DT	(S(NP*	-	-	-	-	*	*
+ectb_1049	2	55	university	NN	*)	-	-	-	-	*	*
+ectb_1049	2	56	could	MD	(VP*	-	-	-	-	*	*
+ectb_1049	2	57	set	VB	(VP*	set	01	7	-	*	*
+ectb_1049	2	58	its	PRP$	(NP*	-	-	-	-	*	*
+ectb_1049	2	59	roots	NNS	*)	-	-	-	-	*	*
+ectb_1049	2	60	in	IN	(PP*	-	-	-	-	*	*
+ectb_1049	2	61	town	NN	(NP*))))))))	town	-	1	-	*)	*)
+ectb_1049	2	62	.	.	*))	-	-	-	-	*	*
+
+ectb_1049	2	0	These	DT	(TOP(S(NP*	-	-	-	-	-
+ectb_1049	2	1	historic	JJ	*	-	-	-	-	-
+ectb_1049	2	2	sites	NNS	*)	site	-	1	-	-
+ectb_1049	2	3	are	VBP	(VP(VP*	be	01	4	-	-
+ectb_1049	2	4	near	IN	(PP*	-	-	-	-	-
+ectb_1049	2	5	the	DT	(NP*	-	-	-	-	-
+ectb_1049	2	6	river	NN	*)))	-	-	-	-	-
+ectb_1049	2	7	,	,	*	-	-	-	-	-
+ectb_1049	2	8	but	CC	*	-	-	-	-	-
+ectb_1049	2	9	do	VBP	(VP*	do	01	-	-	-
+ectb_1049	2	10	n't	RB	*	-	-	-	-	-
+ectb_1049	2	11	spend	VB	(VP*	spend	02	1	-	-
+ectb_1049	2	12	all	PDT	(NP*	-	-	-	-	-
+ectb_1049	2	13	your	PRP$	*	-	-	-	-	-
+ectb_1049	2	14	time	NN	*)	time	-	3	-	-
+ectb_1049	2	15	there	RB	(ADVP*))))	-	-	-	-	-
+ectb_1049	2	16	.	.	*))	-	-	-	-	-
+
+ectb_1049	2	0	Do	VB	(TOP(S(VP*	do	01	-	-	-
+ectb_1049	2	1	n't	RB	*	-	-	-	-	-
+ectb_1049	2	2	forget	VB	(VP*	forget	01	1	-	-
+ectb_1049	2	3	the	DT	(NP(NP*	-	-	-	-	(36
+ectb_1049	2	4	Tatun	NNP	*	-	-	-	-	-
+ectb_1049	2	5	Mountains	NNPS	*)	-	-	-	-	-
+ectb_1049	2	6	,	,	*	-	-	-	-	-
+ectb_1049	2	7	which	WDT	(SBAR(WHNP*)	-	-	-	-	-
+ectb_1049	2	8	shelter	VBP	(S(VP*	shelter	01	1	-	-
+ectb_1049	2	9	the	DT	(NP*	-	-	-	-	(47
+ectb_1049	2	10	town	NN	*)))))))	town	-	1	-	47)|36)
+ectb_1049	2	11	.	.	*))	-	-	-	-	-
+
+ectb_1049	2	0	In	IN	(TOP(S(PP*	-	-	-	-	-
+ectb_1049	2	1	the	DT	(NP*	-	-	-	-	-
+ectb_1049	2	2	old	JJ	*	-	-	-	-	-
+ectb_1049	2	3	days	NNS	*))	day	-	4	-	-
+ectb_1049	2	4	,	,	*	-	-	-	-	-
+ectb_1049	2	5	Tanshui	NNP	(NP(NP*	-	-	-	-	(32|(47)
+ectb_1049	2	6	folk	NN	*)	-	-	-	-	-
+ectb_1049	2	7	who	WP	(SBAR(WHNP*)	-	-	-	-	-
+ectb_1049	2	8	cultivated	VBD	(S(VP*	cultivate	01	2	-	-
+ectb_1049	2	9	farms	NNS	(NP*)	-	-	-	-	-
+ectb_1049	2	10	on	IN	(PP*	-	-	-	-	-
+ectb_1049	2	11	the	DT	(NP*	-	-	-	-	-
+ectb_1049	2	12	slopes	NNS	*))))))	slope	-	1	-	32)
+ectb_1049	2	13	had	VBD	(VP*	have	02	12	-	-
+ectb_1049	2	14	to	TO	(S(VP*	-	-	-	-	-
+ectb_1049	2	15	walk	VB	(VP*	walk	01	1	-	-
+ectb_1049	2	16	for	IN	(PP*	-	-	-	-	-
+ectb_1049	2	17	an	DT	(NP*	-	-	-	-	-
+ectb_1049	2	18	hour	NN	*))	hour	-	1	-	-
+ectb_1049	2	19	to	TO	(S(VP*	-	-	-	-	-
+ectb_1049	2	20	get	VB	(VP*	get	05	4	-	-
+ectb_1049	2	21	to	IN	(PP*	-	-	-	-	-
+ectb_1049	2	22	their	PRP$	(NP*	-	-	-	-	(32)
+ectb_1049	2	23	crops	NNS	*)))))))))	crop	-	2	-	-
+ectb_1049	2	24	.	.	*))	-	-	-	-	-
+
+ectb_1049	2	0	These	DT	(TOP(S(NP*	-	-	-	-	-
+ectb_1049	2	1	days	NNS	*)	day	-	2	-	-
+ectb_1049	2	2	you	PRP	(NP*)	-	-	-	-	-
+ectb_1049	2	3	can	MD	(VP*	-	-	-	-	-
+ectb_1049	2	4	take	VB	(VP*	take	01	8	-	-
+ectb_1049	2	5	a	DT	(NP*	-	-	-	-	-
+ectb_1049	2	6	local	JJ	*	-	-	-	-	-
+ectb_1049	2	7	mini-bus	NN	*)))	-	-	-	-	-
+ectb_1049	2	8	.	.	*))	-	-	-	-	-
+
+ectb_1049	2	0	In	IN	(TOP(S(PP*	-	-	-	-	-
+ectb_1049	2	1	the	DT	(NP*	-	-	-	-	(36
+ectb_1049	2	2	mountains	NNS	*))	-	-	-	-	36)
+ectb_1049	2	3	you	PRP	(NP*)	-	-	-	-	-
+ectb_1049	2	4	will	MD	(VP*	-	-	-	-	-
+ectb_1049	2	5	see	VB	(VP*	see	01	1	-	-
+ectb_1049	2	6	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1049	2	7	occasional	JJ	*	-	-	-	-	-
+ectb_1049	2	8	terraced	JJ	*	-	-	-	-	-
+ectb_1049	2	9	field	NN	*)	field	-	1	-	-
+ectb_1049	2	10	grown	VBN	(VP*	grow	01	-	-	-
+ectb_1049	2	11	over	RP	(PRT*)	-	-	-	-	-
+ectb_1049	2	12	with	IN	(PP*	-	-	-	-	-
+ectb_1049	2	13	weeds	NNS	(NP*))))))	-	-	-	-	-
+ectb_1049	2	14	.	.	*))	-	-	-	-	-
+
+ectb_1049	2	0	This	DT	(TOP(S(NP(NP*	-	-	-	-	-
+ectb_1049	2	1	land	NN	*)	land	-	2	-	-
+ectb_1049	2	2	,	,	*	-	-	-	-	-
+ectb_1049	2	3	which	WDT	(SBAR(WHNP*)	-	-	-	-	-
+ectb_1049	2	4	has	VBZ	(S(VP*	have	01	-	-	-
+ectb_1049	2	5	gone	VBN	(VP*	go	01	4	-	-
+ectb_1049	2	6	from	IN	(UCP(PP(PP*	-	-	-	-	-
+ectb_1049	2	7	grass	NN	(NP*))	-	-	-	-	-
+ectb_1049	2	8	to	IN	(PP*	-	-	-	-	-
+ectb_1049	2	9	grain	NN	(NP*)))	-	-	-	-	-
+ectb_1049	2	10	and	CC	*	-	-	-	-	-
+ectb_1049	2	11	back	RB	(ADVP(ADVP*	-	-	-	-	-
+ectb_1049	2	12	to	IN	(PP*	-	-	-	-	-
+ectb_1049	2	13	grass	NN	(NP*)))	-	-	-	-	-
+ectb_1049	2	14	again	RB	(ADVP*))))))))	-	-	-	-	-
+ectb_1049	2	15	,	,	*	-	-	-	-	-
+ectb_1049	2	16	is	VBZ	(VP*	be	01	1	-	-
+ectb_1049	2	17	where	WRB	(SBAR(WHADVP*)	-	-	-	-	-
+ectb_1049	2	18	many	JJ	(S(NP*	-	-	-	-	(33
+ectb_1049	2	19	an	DT	*	-	-	-	-	-
+ectb_1049	2	20	old	JJ	*	-	-	-	-	-
+ectb_1049	2	21	Tanshui	NNP	*	-	-	-	-	-
+ectb_1049	2	22	native	NN	*)	-	-	-	-	33)
+ectb_1049	2	23	played	VBD	(VP*	play	01	1	-	-
+ectb_1049	2	24	when	WRB	(SBAR(WHADVP*)	-	-	-	-	-
+ectb_1049	2	25	they	PRP	(S(NP*)	-	-	-	-	(33)
+ectb_1049	2	26	were	VBD	(VP*	be	01	1	-	-
+ectb_1049	2	27	children	NNS	(NP*))))))))	child	-	1	-	-
+ectb_1049	2	28	.	.	*))	-	-	-	-	-
+
+#end document

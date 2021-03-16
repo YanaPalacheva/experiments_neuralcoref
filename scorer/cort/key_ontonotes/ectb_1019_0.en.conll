@@ -1,0 +1,181 @@
+#begin document (ectb_1019_0); part 000
+ectb_1019	0	0	Genteel	JJ	(TOP(NP*	-	-	-	-	-
+ectb_1019	0	1	Journalis	NN	*	-	-	-	-	-
+ectb_1019	0	2	--	:	*))	-	-	-	-	-
+
+ectb_1019	0	0	Thomas	NNP	(TOP(NP*	-	-	-	-	(1
+ectb_1019	0	1	Lu	NNP	*))	-	-	-	-	1)
+
+ectb_1019	0	0	-LRB-	-LRB-	(TOP(FRAG*	-	-	-	-	-
+ectb_1019	0	1	Eric	NNP	(NP*	-	-	-	-	-
+ectb_1019	0	2	Lin	NNP	*)	-	-	-	-	-
+ectb_1019	0	3	/	:	*	-	-	-	-	-
+ectb_1019	0	4	tr.	VBN	(VP*	translate	01	-	-	-
+ectb_1019	0	5	by	IN	(PP*	-	-	-	-	-
+ectb_1019	0	6	Robert	NNP	(NP*	-	-	-	-	-
+ectb_1019	0	7	Taylor	NNP	*)))	-	-	-	-	-
+ectb_1019	0	8	-RRB-	-RRB-	*))	-	-	-	-	-
+
+ectb_1019	0	0	Thomas	DT	(TOP(S(NP*	-	-	-	-	(1
+ectb_1019	0	1	Lu	NNP	*)	-	-	-	-	1)
+ectb_1019	0	2	is	VBZ	(VP*	be	01	2	-	-
+ectb_1019	0	3	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1019	0	4	doyen	NN	*)	-	-	-	-	-
+ectb_1019	0	5	of	IN	(PP*	-	-	-	-	-
+ectb_1019	0	6	the	DT	(NP*	-	-	-	-	-
+ectb_1019	0	7	Chinese	JJ	*	-	-	-	-	-
+ectb_1019	0	8	news	NN	*	news	-	1	-	-
+ectb_1019	0	9	media	NN	*))))	-	-	-	-	-
+ectb_1019	0	10	.	.	*))	-	-	-	-	-
+
+ectb_1019	0	0	Still	RB	(TOP(S(S(ADVP*)	-	-	-	-	-
+ectb_1019	0	1	out	IN	(PP*	-	-	-	-	-
+ectb_1019	0	2	on	IN	(PP*	-	-	-	-	-
+ectb_1019	0	3	the	DT	(NP*	-	-	-	-	-
+ectb_1019	0	4	journalistic	JJ	*	-	-	-	-	-
+ectb_1019	0	5	front	NN	*	front	-	3	-	-
+ectb_1019	0	6	lines	NNS	*)))	line	-	6	-	-
+ectb_1019	0	7	at	IN	(PP*	-	-	-	-	-
+ectb_1019	0	8	81	CD	(NP*)))	-	-	-	-	-
+ectb_1019	0	9	,	,	*	-	-	-	-	-
+ectb_1019	0	10	this	DT	(NP*	-	-	-	-	(1
+ectb_1019	0	11	spry	JJ	*	-	-	-	-	-
+ectb_1019	0	12	,	,	*	-	-	-	-	-
+ectb_1019	0	13	forthright	JJ	*	-	-	-	-	-
+ectb_1019	0	14	veteran	NN	*)	-	-	-	-	1)
+ectb_1019	0	15	has	VBZ	(VP*	have	03	2	-	-
+ectb_1019	0	16	an	DT	(NP(NP*	-	-	-	-	-
+ectb_1019	0	17	immense	JJ	*	-	-	-	-	-
+ectb_1019	0	18	zest	NN	*)	-	-	-	-	-
+ectb_1019	0	19	for	IN	(PP*	-	-	-	-	-
+ectb_1019	0	20	life	NN	(NP*))))	life	-	1	-	-
+ectb_1019	0	21	.	.	*))	-	-	-	-	-
+
+ectb_1019	0	0	At	IN	(TOP(S(PP*	-	-	-	-	-
+ectb_1019	0	1	78	CD	(NP*))	-	-	-	-	-
+ectb_1019	0	2	,	,	*	-	-	-	-	-
+ectb_1019	0	3	drawing	VBG	(S(VP*	draw	02	3	-	-
+ectb_1019	0	4	on	IN	(PP*	-	-	-	-	-
+ectb_1019	0	5	his	PRP$	(NP*	-	-	-	-	(1)
+ectb_1019	0	6	astonishingly	RB	(ADJP*	-	-	-	-	-
+ectb_1019	0	7	sharp	JJ	*)	-	-	-	-	-
+ectb_1019	0	8	memory	NN	*))))	memory	-	2	-	-
+ectb_1019	0	9	,	,	*	-	-	-	-	-
+ectb_1019	0	10	he	PRP	(NP*)	-	-	-	-	(1)
+ectb_1019	0	11	completed	VBD	(VP*	complete	01	1	-	-
+ectb_1019	0	12	his	PRP$	(NP*	-	-	-	-	(1)
+ectb_1019	0	13	reminiscences	NNS	(NML(NML*)	-	-	-	-	-
+ectb_1019	0	14	and	CC	*	-	-	-	-	-
+ectb_1019	0	15	"	``	*	-	-	-	-	-
+ectb_1019	0	16	record	NN	(NML(NML*)	record	-	1	-	-
+ectb_1019	0	17	of	IN	(PP*	-	-	-	-	-
+ectb_1019	0	18	emotional	JJ	(NP*	-	-	-	-	-
+ectb_1019	0	19	regrets	NNS	*))))))	regret	01	1	-	-
+ectb_1019	0	20	.	.	*	-	-	-	-	-
+ectb_1019	0	21	"	''	*))	-	-	-	-	-
+
+ectb_1019	0	0	He	PRP	(TOP(S(NP*)	-	-	-	-	(1)
+ectb_1019	0	1	is	VBZ	(VP(VP*	be	01	2	-	-
+ectb_1019	0	2	not	RB	(CONJP*	-	-	-	-	-
+ectb_1019	0	3	only	RB	*)	-	-	-	-	-
+ectb_1019	0	4	one	CD	(NP(NP*)	-	-	-	-	-
+ectb_1019	0	5	of	IN	(PP*	-	-	-	-	-
+ectb_1019	0	6	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1019	0	7	"	``	*	-	-	-	-	-
+ectb_1019	0	8	wonders	NNS	*	wonder	-	1	-	-
+ectb_1019	0	9	"	''	*)	-	-	-	-	-
+ectb_1019	0	10	of	IN	(PP*	-	-	-	-	-
+ectb_1019	0	11	Taiwan	NNP	(NP(NP*	-	-	-	-	-
+ectb_1019	0	12	's	POS	*)	-	-	-	-	-
+ectb_1019	0	13	journalistic	JJ	*	-	-	-	-	-
+ectb_1019	0	14	world	NN	*))))))	world	-	4	-	-
+ectb_1019	0	15	,	,	*	-	-	-	-	-
+ectb_1019	0	16	but	CC	*	-	-	-	-	-
+ectb_1019	0	17	is	VBZ	(VP*	be	03	-	-	-
+ectb_1019	0	18	also	RB	(ADVP*)	-	-	-	-	-
+ectb_1019	0	19	recognized	VBN	(VP*	recognize	01	2	-	-
+ectb_1019	0	20	by	IN	(PP*	-	-	-	-	-
+ectb_1019	0	21	those	DT	(NP(NP*)	-	-	-	-	-
+ectb_1019	0	22	of	IN	(PP*	-	-	-	-	-
+ectb_1019	0	23	his	PRP$	(NP*	-	-	-	-	(1)
+ectb_1019	0	24	generation	NN	*))))	generation	-	4	-	-
+ectb_1019	0	25	as	IN	(PP*	-	-	-	-	-
+ectb_1019	0	26	a	DT	(NP(NP*	-	-	-	-	-
+ectb_1019	0	27	gentleman	NN	*)	-	-	-	-	-
+ectb_1019	0	28	and	CC	*	-	-	-	-	-
+ectb_1019	0	29	a	DT	(NP*	-	-	-	-	-
+ectb_1019	0	30	"	``	*	-	-	-	-	-
+ectb_1019	0	31	good	JJ	(ADJP*	-	-	-	-	-
+ectb_1019	0	32	-	HYPH	*	-	-	-	-	-
+ectb_1019	0	33	looking	VBG	*)	look	02	-	-	-
+ectb_1019	0	34	man	NN	*))))))	man	-	2	-	-
+ectb_1019	0	35	.	.	*	-	-	-	-	-
+ectb_1019	0	36	"	''	*))	-	-	-	-	-
+
+ectb_1019	0	0	A	DT	(TOP(S(NP(NP*	-	-	-	-	(5
+ectb_1019	0	1	person	NN	*	person	-	1	-	-
+ectb_1019	0	2	's	POS	*)	-	-	-	-	5)
+ectb_1019	0	3	looks	NNS	*)	look	02	3	-	-
+ectb_1019	0	4	change	VBP	(VP*	change	01	1	-	-
+ectb_1019	0	5	with	IN	(PP*	-	-	-	-	-
+ectb_1019	0	6	their	PRP$	(NP(NP*	-	-	-	-	(5)
+ectb_1019	0	7	age	NN	*)	age	-	1	-	-
+ectb_1019	0	8	and	CC	*	-	-	-	-	-
+ectb_1019	0	9	their	PRP$	(NP(NP*	-	-	-	-	(5)
+ectb_1019	0	10	state	NN	*)	state	-	3	-	-
+ectb_1019	0	11	of	IN	(PP*	-	-	-	-	-
+ectb_1019	0	12	mind	NN	(NP*))))))	mind	-	1	-	-
+ectb_1019	0	13	.	.	*))	-	-	-	-	-
+
+ectb_1019	0	0	Many	JJ	(TOP(S(NP*	-	-	-	-	-
+ectb_1019	0	1	friends	NNS	*)	-	-	-	-	-
+ectb_1019	0	2	have	VBP	(VP*	have	01	-	-	-
+ectb_1019	0	3	told	VBN	(VP*	tell	01	1	-	-
+ectb_1019	0	4	me	PRP	(NP*)	-	-	-	-	(1)
+ectb_1019	0	5	I	PRP	(SBAR(S(NP*)	-	-	-	-	(1)
+ectb_1019	0	6	look	VBP	(VP*	look	02	2	-	-
+ectb_1019	0	7	better	JJR	(ADJP*)	-	-	-	-	-
+ectb_1019	0	8	the	DT	(S(ADJP*	-	-	-	-	-
+ectb_1019	0	9	older	JJR	*)	-	-	-	-	-
+ectb_1019	0	10	I	PRP	(NP*)	-	-	-	-	(1)
+ectb_1019	0	11	get	VBP	(VP*)))))))	get	03	3	-	-
+ectb_1019	0	12	.	.	*))	-	-	-	-	-
+
+ectb_1019	0	0	People	NNS	(TOP(S(S(NP*)	people	-	1	-	-	-
+ectb_1019	0	1	do	VBP	(VP*	do	01	-	-	-	-
+ectb_1019	0	2	n't	RB	*	-	-	-	-	-	-
+ectb_1019	0	3	know	VB	(VP*	know	01	1	-	-	-
+ectb_1019	0	4	that	IN	(SBAR*	-	-	-	-	-	-
+ectb_1019	0	5	when	WRB	(S(SBAR(WHADVP*)	-	-	-	-	-	-
+ectb_1019	0	6	I	PRP	(S(NP*)	-	-	-	-	(1)	(1)
+ectb_1019	0	7	was	VBD	(VP*	be	01	1	-	-	-
+ectb_1019	0	8	young	JJ	(ADJP*))))	-	-	-	-	-	-
+ectb_1019	0	9	I	PRP	(NP*)	-	-	-	-	(1)	(1)
+ectb_1019	0	10	had	VBD	(VP*	have	03	2	-	-	-
+ectb_1019	0	11	dreadful	JJ	(NP*	-	-	-	-	-	-
+ectb_1019	0	12	protruding	VBG	*	protrude	01	-	-	-	-
+ectb_1019	0	13	teeth	NNS	*)))))))	-	-	-	-	-	-
+ectb_1019	0	14	,	,	*	-	-	-	-	-	-
+ectb_1019	0	15	but	CC	*	-	-	-	-	-	-
+ectb_1019	0	16	now	RB	(S(ADVP*)	-	-	-	-	-	-
+ectb_1019	0	17	not	RB	(CONJP*	-	-	-	-	-	-
+ectb_1019	0	18	only	RB	*)	-	-	-	-	-	-
+ectb_1019	0	19	do	VBP	(SINV*	do	01	-	-	-	-
+ectb_1019	0	20	my	PRP$	(NP*	-	-	-	-	(1)	(1)
+ectb_1019	0	21	teeth	NNS	*)	-	-	-	-	-	-
+ectb_1019	0	22	no	DT	(ADVP*	-	-	-	-	-	-
+ectb_1019	0	23	longer	RBR	*)	-	-	-	-	-	-
+ectb_1019	0	24	show	VBP	(VP*))	show	01	1	-	-	-
+ectb_1019	0	25	,	,	*	-	-	-	-	-	-
+ectb_1019	0	26	but	CC	*	-	-	-	-	-	-
+ectb_1019	0	27	the	DT	(S(NP(NP*	-	-	-	-	-	-
+ectb_1019	0	28	lines	NNS	*)	line	-	2	-	-	-
+ectb_1019	0	29	of	IN	(PP*	-	-	-	-	-	-
+ectb_1019	0	30	my	PRP$	(NP*	-	-	-	-	(1)	(1)
+ectb_1019	0	31	face	NN	*)))	face	-	1	-	-	-
+ectb_1019	0	32	have	VBP	(VP*	have	01	-	-	-	-
+ectb_1019	0	33	also	RB	(ADVP*)	-	-	-	-	-	-
+ectb_1019	0	34	softened	VBN	(VP*))))	soften	01	2	-	-	-
+ectb_1019	0	35	.	.	*))	-	-	-	-	-	-
+
+#end document

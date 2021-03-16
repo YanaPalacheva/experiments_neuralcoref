@@ -1,0 +1,594 @@
+#begin document (ectb_1069_5); part 000
+ectb_1069	5	0	5.	LS	(TOP(S(LST*)	-	-	-	-	-
+ectb_1069	5	1	Change	VB	(VP*	change	01	1	-	-
+ectb_1069	5	2	your	PRP$	(NP*	-	-	-	-	-
+ectb_1069	5	3	perspective	NN	*))))	perspective	-	1	-	-
+
+ectb_1069	5	0	In	IN	(TOP(S(S(PP*	-	-	-	-	-
+ectb_1069	5	1	middle	JJ	(NP*	-	-	-	-	-
+ectb_1069	5	2	age	NN	*))	age	-	1	-	-
+ectb_1069	5	3	,	,	*	-	-	-	-	-
+ectb_1069	5	4	one	PRP	(NP(NP*	-	-	-	-	-
+ectb_1069	5	5	's	POS	*)	-	-	-	-	-
+ectb_1069	5	6	life	NN	*)	life	-	1	-	-
+ectb_1069	5	7	is	VBZ	(VP*	be	01	1	-	-
+ectb_1069	5	8	already	RB	(ADVP*)	-	-	-	-	-
+ectb_1069	5	9	half	RB	(ADVP*	-	-	-	-	-
+ectb_1069	5	10	over	RB	*)))	-	-	-	-	-
+ectb_1069	5	11	,	,	*	-	-	-	-	-
+ectb_1069	5	12	and	CC	*	-	-	-	-	-
+ectb_1069	5	13	one	PRP	(S(NP*)	-	-	-	-	-
+ectb_1069	5	14	has	VBZ	(VP*	have	01	-	-	-
+ectb_1069	5	15	already	RB	(ADVP*)	-	-	-	-	-
+ectb_1069	5	16	amply	RB	(ADVP*)	-	-	-	-	-
+ectb_1069	5	17	tasted	VBN	(VP*	taste	01	3	-	-
+ectb_1069	5	18	of	IN	(PP*	-	-	-	-	-
+ectb_1069	5	19	life	NN	(NP(NP(NP*	life	-	1	-	-
+ectb_1069	5	20	's	POS	*)	-	-	-	-	-
+ectb_1069	5	21	fruits	NNS	*)	-	-	-	-	-
+ectb_1069	5	22	,	,	*	-	-	-	-	-
+ectb_1069	5	23	both	PDT	(NP*	-	-	-	-	-
+ectb_1069	5	24	the	DT	(NML(NML*	-	-	-	-	-
+ectb_1069	5	25	bitter	JJ	*)	-	-	-	-	-
+ectb_1069	5	26	and	CC	*	-	-	-	-	-
+ectb_1069	5	27	the	DT	(NML*	-	-	-	-	-
+ectb_1069	5	28	sweet	JJ	*))))))))	-	-	-	-	-
+ectb_1069	5	29	.	.	*))	-	-	-	-	-
+
+ectb_1069	5	0	"	``	(TOP(SINV*	-	-	-	-	-
+ectb_1069	5	1	I	PRP	(S(NP*)	-	-	-	-	(12)
+ectb_1069	5	2	am	VBP	(VP*	be	01	1	-	-
+ectb_1069	5	3	thankful	JJ	(ADJP*	-	-	-	-	-
+ectb_1069	5	4	for	IN	(PP*	-	-	-	-	-
+ectb_1069	5	5	the	DT	(NP*	-	-	-	-	(23
+ectb_1069	5	6	bad	JJ	*	-	-	-	-	-
+ectb_1069	5	7	times	NNS	*)))	time	-	12	-	23)
+ectb_1069	5	8	,	,	*	-	-	-	-	-
+ectb_1069	5	9	for	IN	(SBAR*	-	-	-	-	-
+ectb_1069	5	10	they	PRP	(S(NP*)	-	-	-	-	(23)
+ectb_1069	5	11	have	VBP	(VP*	have	01	-	-	-
+ectb_1069	5	12	given	VBN	(VP*	give	01	4	-	-
+ectb_1069	5	13	me	PRP	(NP*)	-	-	-	-	(12)
+ectb_1069	5	14	more	JJR	(NP(NP(NP*	-	-	-	-	-
+ectb_1069	5	15	insight	NN	*)	-	-	-	-	-
+ectb_1069	5	16	into	IN	(PP*	-	-	-	-	-
+ectb_1069	5	17	life	NN	(NP*)))	life	-	1	-	-
+ectb_1069	5	18	and	CC	*	-	-	-	-	-
+ectb_1069	5	19	a	DT	(NP*	-	-	-	-	-
+ectb_1069	5	20	better	JJR	*	-	-	-	-	-
+ectb_1069	5	21	opportunity	NN	*	-	-	-	-	-
+ectb_1069	5	22	to	TO	(S(VP*	-	-	-	-	-
+ectb_1069	5	23	understand	VB	(VP*	understand	01	1	-	-
+ectb_1069	5	24	myself	PRP	(NP*))))))))))))	-	-	-	-	(12)
+ectb_1069	5	25	,	,	*	-	-	-	-	-
+ectb_1069	5	26	"	''	*	-	-	-	-	-
+ectb_1069	5	27	says	VBZ	(VP*)	say	01	1	-	-
+ectb_1069	5	28	Lin	NNP	(NP(NP(NP*	-	-	-	-	(12
+ectb_1069	5	29	Hung	NNP	*	-	-	-	-	-
+ectb_1069	5	30	-	HYPH	*	-	-	-	-	-
+ectb_1069	5	31	kuei	NNP	*)	-	-	-	-	-
+ectb_1069	5	32	,	,	*	-	-	-	-	-
+ectb_1069	5	33	an	DT	(NP*	-	-	-	-	-
+ectb_1069	5	34	I	NNP	(NML(NML*	-	-	-	-	-
+ectb_1069	5	35	-	HYPH	*	-	-	-	-	-
+ectb_1069	5	36	kuan	NNP	*)	-	-	-	-	-
+ectb_1069	5	37	Tao	NNP	*)	-	-	-	-	-
+ectb_1069	5	38	devotee	NN	*))	-	-	-	-	-
+ectb_1069	5	39	,	,	*	-	-	-	-	-
+ectb_1069	5	40	who	WP	(SBAR(WHNP*)	-	-	-	-	-
+ectb_1069	5	41	has	VBZ	(S(VP*	have	01	-	-	-
+ectb_1069	5	42	studied	VBN	(VP*	study	01	2	-	-
+ectb_1069	5	43	the	DT	(NP(NP(NP*	-	-	-	-	-
+ectb_1069	5	44	Book	NNP	*)	-	-	-	-	-
+ectb_1069	5	45	of	IN	(PP*	-	-	-	-	-
+ectb_1069	5	46	Changes	NNPS	(NP*)))	-	-	-	-	-
+ectb_1069	5	47	and	CC	*	-	-	-	-	-
+ectb_1069	5	48	fengshui	NN	(NP*)))))))	-	-	-	-	12)
+ectb_1069	5	49	.	.	*))	-	-	-	-	-
+
+ectb_1069	5	0	Taking	VBG	(TOP(S(NP(S(VP*	-	-	-	-	(25
+ectb_1069	5	1	care	NN	(NP*)	care	-	1	-	-
+ectb_1069	5	2	of	IN	(PP*	-	-	-	-	-
+ectb_1069	5	3	your	PRP$	(NP*	-	-	-	-	-
+ectb_1069	5	4	parents	NNS	*))))	-	-	-	-	-
+ectb_1069	5	5	,	,	*	-	-	-	-	-
+ectb_1069	5	6	losing	VBG	(S(VP*	lose	02	-	-	-
+ectb_1069	5	7	your	PRP$	(NP*	-	-	-	-	-
+ectb_1069	5	8	job	NN	*)))	job	-	1	-	-
+ectb_1069	5	9	,	,	*	-	-	-	-	-
+ectb_1069	5	10	illness	NN	(NP*)	-	-	-	-	-
+ectb_1069	5	11	and	CC	*	-	-	-	-	-
+ectb_1069	5	12	even	RB	(S(ADVP*)	-	-	-	-	-
+ectb_1069	5	13	being	VBG	(VP*	be	03	-	-	-
+ectb_1069	5	14	cheated	VBN	(VP*	cheat	01	-	-	-
+ectb_1069	5	15	out	IN	(PP*	-	-	-	-	-
+ectb_1069	5	16	of	IN	(PP*	-	-	-	-	-
+ectb_1069	5	17	money	NN	(NP*)))))))	money	-	2	-	25)
+ectb_1069	5	18	can	MD	(VP*	-	-	-	-	-
+ectb_1069	5	19	be	VB	(VP*	be	03	-	-	-
+ectb_1069	5	20	embraced	VBN	(VP*	embrace	01	1	-	-
+ectb_1069	5	21	as	IN	(PP*	-	-	-	-	-
+ectb_1069	5	22	opportunities	NNS	(NP*	-	-	-	-	-
+ectb_1069	5	23	to	TO	(S(VP*	-	-	-	-	-
+ectb_1069	5	24	experience	VB	(VP*	experience	01	1	-	-
+ectb_1069	5	25	life	NN	(NP*)))))))))	life	-	1	-	-
+ectb_1069	5	26	.	.	*))	-	-	-	-	-
+
+ectb_1069	5	0	They	PRP	(TOP(S(NP*)	-	-	-	-	(25)
+ectb_1069	5	1	are	VBP	(VP*	be	01	1	-	-
+ectb_1069	5	2	lessons	NNS	(NP(NP*)	lesson	-	4	-	-
+ectb_1069	5	3	that	WDT	(SBAR(WHNP*)	-	-	-	-	-
+ectb_1069	5	4	the	DT	(S(NP*	-	-	-	-	-
+ectb_1069	5	5	middle	NN	*	-	-	-	-	-
+ectb_1069	5	6	-	HYPH	*	-	-	-	-	-
+ectb_1069	5	7	aged	JJ	*)	-	-	-	-	-
+ectb_1069	5	8	learn	VBP	(VP*	learn	01	1	-	-
+ectb_1069	5	9	from	IN	(PP*)	-	-	-	-	-
+ectb_1069	5	10	to	TO	(S(VP*	-	-	-	-	-
+ectb_1069	5	11	become	VB	(VP*	become	01	1	-	-
+ectb_1069	5	12	more	RBR	(ADJP*	-	-	-	-	-
+ectb_1069	5	13	proficient	JJ	*	-	-	-	-	-
+ectb_1069	5	14	at	IN	(PP*	-	-	-	-	-
+ectb_1069	5	15	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1069	5	16	art	NN	*)	-	-	-	-	-
+ectb_1069	5	17	of	IN	(PP*	-	-	-	-	-
+ectb_1069	5	18	living	NN	(NP*)))))))))))))	-	-	-	-	-
+ectb_1069	5	19	.	.	*))	-	-	-	-	-
+
+ectb_1069	5	0	"	``	(TOP(SINV*	-	-	-	-	-
+ectb_1069	5	1	By	IN	(S(PP*	-	-	-	-	-
+ectb_1069	5	2	changing	VBG	(S(VP*	change	01	-	-	-
+ectb_1069	5	3	perspective	NN	(NP*))))	perspective	-	1	-	-
+ectb_1069	5	4	,	,	*	-	-	-	-	-
+ectb_1069	5	5	you	PRP	(NP*)	-	-	-	-	-
+ectb_1069	5	6	can	MD	(VP*	-	-	-	-	-
+ectb_1069	5	7	understand	VB	(VP*	understand	01	1	-	-
+ectb_1069	5	8	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1069	5	9	insignificance	NN	*)	-	-	-	-	-
+ectb_1069	5	10	of	IN	(PP*	-	-	-	-	-
+ectb_1069	5	11	your	PRP$	(NP*	-	-	-	-	-
+ectb_1069	5	12	problems	NNS	*))))))	problem	-	1	-	-
+ectb_1069	5	13	,	,	*	-	-	-	-	-
+ectb_1069	5	14	"	''	*	-	-	-	-	-
+ectb_1069	5	15	points	VBZ	(VP*)	point	02	1	-	-
+ectb_1069	5	16	out	RP	(PRT*)	-	-	-	-	-
+ectb_1069	5	17	Chiu	NNP	(NP*	-	-	-	-	(9
+ectb_1069	5	18	Chia	NNP	*	-	-	-	-	-
+ectb_1069	5	19	-	HYPH	*	-	-	-	-	-
+ectb_1069	5	20	li	NNP	*)	-	-	-	-	9)
+ectb_1069	5	21	.	.	*))	-	-	-	-	-
+
+ectb_1069	5	0	It	PRP	(TOP(S(NP(NP*))	-	-	-	-	-
+ectb_1069	5	1	is	VBZ	(VP*	be	01	1	-	-
+ectb_1069	5	2	very	RB	(ADJP*	-	-	-	-	-
+ectb_1069	5	3	important	JJ	*)	-	-	-	-	-
+ectb_1069	5	4	to	TO	(S(VP*	-	-	-	-	-
+ectb_1069	5	5	adjust	VB	(VP*	adjust	01	1	-	-
+ectb_1069	5	6	your	PRP$	(NP(NP*	-	-	-	-	-
+ectb_1069	5	7	frame	NN	*)	-	-	-	-	-
+ectb_1069	5	8	of	IN	(PP*	-	-	-	-	-
+ectb_1069	5	9	mind	NN	(NP*)))))))	mind	-	1	-	-
+ectb_1069	5	10	.	.	*))	-	-	-	-	-
+
+ectb_1069	5	0	You	PRP	(TOP(S(NP*)	-	-	-	-	-
+ectb_1069	5	1	should	MD	(VP*	-	-	-	-	-
+ectb_1069	5	2	n't	RB	*	-	-	-	-	-
+ectb_1069	5	3	think	VB	(VP*	think	01	1	-	-
+ectb_1069	5	4	that	IN	(SBAR*	-	-	-	-	-
+ectb_1069	5	5	there	EX	(S(NP*)	-	-	-	-	-
+ectb_1069	5	6	is	VBZ	(VP*	be	01	3	-	-
+ectb_1069	5	7	only	RB	(ADVP*)	-	-	-	-	-
+ectb_1069	5	8	one	CD	(NP(NP*	-	-	-	-	-
+ectb_1069	5	9	way	NN	*)	way	-	2	-	-
+ectb_1069	5	10	that	WRB	(SBAR(WHADVP*)	-	-	-	-	-
+ectb_1069	5	11	you	PRP	(S(NP*)	-	-	-	-	-
+ectb_1069	5	12	can	MD	(VP*	-	-	-	-	-
+ectb_1069	5	13	be	VB	(VP*))))))))))	be	01	1	-	-
+ectb_1069	5	14	.	.	*))	-	-	-	-	-
+
+ectb_1069	5	0	As	RB	(TOP(S(ADVP(ADVP*	-	-	-	-	-
+ectb_1069	5	1	long	RB	*)	-	-	-	-	-
+ectb_1069	5	2	as	IN	(SBAR*	-	-	-	-	-
+ectb_1069	5	3	you	PRP	(S(NP*)	-	-	-	-	-
+ectb_1069	5	4	can	MD	(VP*	-	-	-	-	-
+ectb_1069	5	5	accept	VB	(VP*	accept	01	2	-	-
+ectb_1069	5	6	yourself	PRP	(NP*))))))	-	-	-	-	-
+ectb_1069	5	7	,	,	*	-	-	-	-	-
+ectb_1069	5	8	then	RB	(ADVP*)	-	-	-	-	-
+ectb_1069	5	9	everything	NN	(NP*)	-	-	-	-	-
+ectb_1069	5	10	is	VBZ	(VP*	be	01	1	-	-
+ectb_1069	5	11	all	RB	(ADJP*	-	-	-	-	-
+ectb_1069	5	12	right	JJ	*))	-	-	-	-	-
+ectb_1069	5	13	.	.	*))	-	-	-	-	-
+
+ectb_1069	5	0	As	IN	(TOP(S(S(PP*	-	-	-	-	-
+ectb_1069	5	1	for	IN	(PP*	-	-	-	-	-
+ectb_1069	5	2	losing	VBG	(S(VP*	lose	02	-	-	-
+ectb_1069	5	3	your	PRP$	(NP*	-	-	-	-	-
+ectb_1069	5	4	job	NN	*)	job	-	1	-	-
+ectb_1069	5	5	in	IN	(PP*	-	-	-	-	-
+ectb_1069	5	6	middle	JJ	(NP*	-	-	-	-	-
+ectb_1069	5	7	age	NN	*))))))	age	-	1	-	-
+ectb_1069	5	8	,	,	*	-	-	-	-	-
+ectb_1069	5	9	some	DT	(NP*	-	-	-	-	-
+ectb_1069	5	10	people	NNS	*)	people	-	1	-	-
+ectb_1069	5	11	make	VBP	(VP*	make	05	7	-	-
+ectb_1069	5	12	NT$	$	(NP(QP*	-	-	-	-	(41
+ectb_1069	5	13	100,000	CD	*))))	-	-	-	-	41)
+ectb_1069	5	14	and	CC	*	-	-	-	-	-
+ectb_1069	5	15	it	PRP	(S(NP*)	-	-	-	-	(41)
+ectb_1069	5	16	's	VBZ	(VP*	be	01	1	-	-
+ectb_1069	5	17	not	RB	*	-	-	-	-	-
+ectb_1069	5	18	enough	JJ	(ADJP*)))	-	-	-	-	-
+ectb_1069	5	19	.	.	*))	-	-	-	-	-
+
+ectb_1069	5	0	Other's	NNS	(TOP(S(NP*)	-	-	-	-	-
+ectb_1069	5	1	find	VBP	(VP*	find	02	1	-	-
+ectb_1069	5	2	that	IN	(SBAR*	-	-	-	-	-
+ectb_1069	5	3	NT$	$	(S(NP(QP*	-	-	-	-	-
+ectb_1069	5	4	20,000	CD	*))	-	-	-	-	-
+ectb_1069	5	5	is	VBZ	(VP*	be	01	1	-	-
+ectb_1069	5	6	more	JJR	(ADJP(ADJP*)	-	-	-	-	-
+ectb_1069	5	7	than	IN	(PP*	-	-	-	-	-
+ectb_1069	5	8	enough	JJ	(ADJP*	-	-	-	-	-
+ectb_1069	5	9	to	TO	(S(VP*	-	-	-	-	-
+ectb_1069	5	10	support	VB	(VP*	support	01	2	-	-
+ectb_1069	5	11	the	DT	(NP*	-	-	-	-	-
+ectb_1069	5	12	family	NN	*)))))))))))	family	-	1	-	-
+ectb_1069	5	13	.	.	*))	-	-	-	-	-
+
+ectb_1069	5	0	The	DT	(TOP(S(NP*	-	-	-	-	-
+ectb_1069	5	1	problem	NN	*)	problem	-	1	-	-
+ectb_1069	5	2	is	VBZ	(VP*	be	01	2	-	-
+ectb_1069	5	3	that	IN	(SBAR*	-	-	-	-	-
+ectb_1069	5	4	by	IN	(S(PP*	-	-	-	-	-
+ectb_1069	5	5	insisting	VBG	(S(VP*	insist	01	1	-	-
+ectb_1069	5	6	on	IN	(PP*	-	-	-	-	-
+ectb_1069	5	7	making	VBG	(S(VP*	make	05	7	-	-
+ectb_1069	5	8	NT$	$	(NP(NP(QP*	-	-	-	-	-
+ectb_1069	5	9	100,000	CD	*))	-	-	-	-	-
+ectb_1069	5	10	a	DT	(NP*	-	-	-	-	-
+ectb_1069	5	11	month	NN	*))))))))	month	-	1	-	-
+ectb_1069	5	12	,	,	*	-	-	-	-	-
+ectb_1069	5	13	you	PRP	(NP*)	-	-	-	-	-
+ectb_1069	5	14	may	MD	(VP*	-	-	-	-	-
+ectb_1069	5	15	pass	VB	(VP*	pass	17	-	-	-
+ectb_1069	5	16	by	RP	(PRT*)	-	-	-	-	-
+ectb_1069	5	17	a	DT	(NP(NP*	-	-	-	-	-
+ectb_1069	5	18	suitable	JJ	*	-	-	-	-	-
+ectb_1069	5	19	job	NN	*)	job	-	1	-	-
+ectb_1069	5	20	that	WDT	(SBAR(WHNP*)	-	-	-	-	-
+ectb_1069	5	21	pays	VBZ	(S(VP*	pay	01	1	-	-
+ectb_1069	5	22	NT$	$	(NP(QP*	-	-	-	-	-
+ectb_1069	5	23	20,000	CD	*)))))))))))	-	-	-	-	-
+ectb_1069	5	24	.	.	*))	-	-	-	-	-
+
+ectb_1069	5	0	Chang	NNP	(TOP(S(NP*)	-	-	-	-	*	*
+ectb_1069	5	1	also	RB	(ADVP*)	-	-	-	-	*	*
+ectb_1069	5	2	notes	VBZ	(VP*	note	01	1	-	*	*
+ectb_1069	5	3	that	IN	(SBAR*	-	-	-	-	*	*
+ectb_1069	5	4	when	WRB	(S(S(SBAR(WHADVP*)	-	-	-	-	*	*
+ectb_1069	5	5	people	NNS	(S(NP*)	people	-	1	-	*	*
+ectb_1069	5	6	come	VBP	(VP*	come	01	1	-	*	*
+ectb_1069	5	7	to	IN	(PP*	-	-	-	-	*	*
+ectb_1069	5	8	forks	NNS	(NP(NP*)	-	-	-	-	*	*
+ectb_1069	5	9	in	IN	(PP*	-	-	-	-	*	*
+ectb_1069	5	10	the	DT	(NP*	-	-	-	-	*	*
+ectb_1069	5	11	road	NN	*))))	road	-	2	-	*	*
+ectb_1069	5	12	when	WRB	(SBAR(WHADVP*)	-	-	-	-	*	*
+ectb_1069	5	13	they	PRP	(S(NP*)	-	-	-	-	*	*
+ectb_1069	5	14	reach	VBP	(VP*	reach	01	1	-	*	*
+ectb_1069	5	15	middle	JJ	(NP*	-	-	-	-	*	*
+ectb_1069	5	16	age	NN	*)))))))	age	-	1	-	*	*
+ectb_1069	5	17	,	,	*	-	-	-	-	*	*
+ectb_1069	5	18	they	PRP	(NP*)	-	-	-	-	*	*
+ectb_1069	5	19	may	MD	(VP*	-	-	-	-	*	*
+ectb_1069	5	20	look	VB	(VP(VP*	look	01	1	-	*	*
+ectb_1069	5	21	around	RB	(ADVP*)	-	-	-	-	*	*
+ectb_1069	5	22	in	IN	(PP*	-	-	-	-	*	*
+ectb_1069	5	23	all	DT	(NP*	-	-	-	-	*	*
+ectb_1069	5	24	directions	NNS	*)))	direction	-	2	-	*	*
+ectb_1069	5	25	and	CC	*	-	-	-	-	*	*
+ectb_1069	5	26	feel	VB	(VP*	feel	01	1	-	*	*
+ectb_1069	5	27	at	IN	(PP*	-	-	-	-	*	*
+ectb_1069	5	28	a	DT	(NP*	-	-	-	-	*	*
+ectb_1069	5	29	loss	NN	*))))))	loss	-	3	-	*	*
+ectb_1069	5	30	,	,	*	-	-	-	-	*	*
+ectb_1069	5	31	but	CC	*	-	-	-	-	*	*
+ectb_1069	5	32	they	PRP	(S(NP*)	-	-	-	-	*	*
+ectb_1069	5	33	've	VBP	(VP*	have	01	12	-	*	*
+ectb_1069	5	34	got	VBN	(VP*	get	06	-	-	*	*
+ectb_1069	5	35	to	TO	(S(VP*	-	-	-	-	*	*
+ectb_1069	5	36	encourage	VB	(VP*	encourage	01	2	-	*	*
+ectb_1069	5	37	themselves	PRP	(NP*)	-	-	-	-	(ARG0*)	(ARG0*)
+ectb_1069	5	38	to	TO	(S(VP*	-	-	-	-	*	*
+ectb_1069	5	39	keep	VB	(VP*	keep	02	1	-	*	*
+ectb_1069	5	40	pressing	VBG	(VP*	press	02	2	-	(V*)	(V*)
+ectb_1069	5	41	ahead	RB	(ADVP*))))))))))))))	-	-	-	-	(ARGM-DIR*)	(ARGM-DIR*)
+ectb_1069	5	42	.	.	*))	-	-	-	-	*	*
+
+ectb_1069	5	0	"	``	(TOP(S*	-	-	-	-	-
+ectb_1069	5	1	Even	RB	(SBAR(ADVP*)	-	-	-	-	-
+ectb_1069	5	2	if	IN	*	-	-	-	-	-
+ectb_1069	5	3	you	PRP	(S(NP*)	-	-	-	-	-
+ectb_1069	5	4	feel	VBP	(VP*	feel	01	1	-	-
+ectb_1069	5	5	uncertain	JJ	(ADJP*))))	-	-	-	-	-
+ectb_1069	5	6	,	,	*	-	-	-	-	-
+ectb_1069	5	7	it	PRP	(NP*)	-	-	-	-	-
+ectb_1069	5	8	should	MD	(VP*	-	-	-	-	-
+ectb_1069	5	9	be	VB	(VP*	be	01	1	-	-
+ectb_1069	5	10	a	DT	(NP(NP*	-	-	-	-	-
+ectb_1069	5	11	positive	JJ	*	-	-	-	-	-
+ectb_1069	5	12	feeling	NN	*)	feeling	-	1	-	-
+ectb_1069	5	13	of	IN	(PP*	-	-	-	-	-
+ectb_1069	5	14	uncertainty	NN	(NP*)))))	-	-	-	-	-
+ectb_1069	5	15	.	.	*	-	-	-	-	-
+ectb_1069	5	16	"	''	*))	-	-	-	-	-
+
+ectb_1069	5	0	At	IN	(TOP(S(PP*	-	-	-	-	-
+ectb_1069	5	1	the	DT	(NP*	-	-	-	-	-
+ectb_1069	5	2	very	RB	*	-	-	-	-	-
+ectb_1069	5	3	least	JJS	*))	-	-	-	-	-
+ectb_1069	5	4	,	,	*	-	-	-	-	-
+ectb_1069	5	5	you	PRP	(NP*)	-	-	-	-	-
+ectb_1069	5	6	've	VBP	(VP*	have	01	12	-	-
+ectb_1069	5	7	got	VBN	(VP*	get	06	-	-	-
+ectb_1069	5	8	to	TO	(S(VP*	-	-	-	-	-
+ectb_1069	5	9	work	VB	(VP*	work	01	1	-	-
+ectb_1069	5	10	hard	RB	(ADVP*)	-	-	-	-	-
+ectb_1069	5	11	at	IN	(PP*	-	-	-	-	-
+ectb_1069	5	12	establishing	VBG	(S(VP*	establish	01	-	-	-
+ectb_1069	5	13	a	DT	(NP(NP*	-	-	-	-	-
+ectb_1069	5	14	sense	NN	*)	sense	-	1	-	-
+ectb_1069	5	15	of	IN	(PP*	-	-	-	-	-
+ectb_1069	5	16	direction	NN	(NP*)))))))))))	direction	-	2	-	-
+ectb_1069	5	17	.	.	*))	-	-	-	-	-
+
+ectb_1069	5	0	When	WRB	(TOP(S(SBAR(WHADVP*)	-	-	-	-	-
+ectb_1069	5	1	Li	NNP	(S(NP*	-	-	-	-	(45
+ectb_1069	5	2	Liang	NNP	*	-	-	-	-	-
+ectb_1069	5	3	-	HYPH	*	-	-	-	-	-
+ectb_1069	5	4	che	NNP	*)	-	-	-	-	45)
+ectb_1069	5	5	starts	VBZ	(VP*	start	01	2	-	-
+ectb_1069	5	6	feeling	VBG	(S(VP*	feel	01	1	-	-
+ectb_1069	5	7	sorry	JJ	(ADJP*	-	-	-	-	-
+ectb_1069	5	8	for	IN	(PP*	-	-	-	-	-
+ectb_1069	5	9	himself	PRP	(NP*))))))))	-	-	-	-	(45)
+ectb_1069	5	10	,	,	*	-	-	-	-	-
+ectb_1069	5	11	he	PRP	(NP*)	-	-	-	-	(45)
+ectb_1069	5	12	uses	VBZ	(VP*	use	01	1	-	-
+ectb_1069	5	13	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1069	5	14	age	NN	(ADJP*	-	-	-	-	-
+ectb_1069	5	15	-	HYPH	*	-	-	-	-	-
+ectb_1069	5	16	old	JJ	*)	-	-	-	-	-
+ectb_1069	5	17	method	NN	*)	-	-	-	-	-
+ectb_1069	5	18	of	IN	(PP*	-	-	-	-	-
+ectb_1069	5	19	considering	VBG	(S(VP*	consider	02	-	-	-
+ectb_1069	5	20	those	DT	(NP(NP*)	-	-	-	-	-
+ectb_1069	5	21	who	WP	(SBAR(WHNP*)	-	-	-	-	-
+ectb_1069	5	22	are	VBP	(S(VP*	be	01	1	-	-
+ectb_1069	5	23	even	RB	(ADJP*	-	-	-	-	-
+ectb_1069	5	24	worse	JJR	*	-	-	-	-	-
+ectb_1069	5	25	off	RP	*))))))))))	-	-	-	-	-
+ectb_1069	5	26	.	.	*))	-	-	-	-	-
+
+ectb_1069	5	0	Those	DT	(TOP(S(S(NP(NP*	-	-	-	-	(20
+ectb_1069	5	1	people	NNS	*)	people	-	1	-	-
+ectb_1069	5	2	who	WP	(SBAR(WHNP*)	-	-	-	-	-
+ectb_1069	5	3	are	VBP	(S(VP*	be	03	-	-	-
+ectb_1069	5	4	always	RB	(ADVP*)	-	-	-	-	-
+ectb_1069	5	5	complaining	VBG	(VP*	complain	01	1	-	-
+ectb_1069	5	6	about	IN	(PP*	-	-	-	-	-
+ectb_1069	5	7	their	PRP$	(NP(NP*	-	-	-	-	(20)
+ectb_1069	5	8	lot	NN	*)	lot	-	3	-	-
+ectb_1069	5	9	in	IN	(PP*	-	-	-	-	-
+ectb_1069	5	10	life	NN	(NP*)))))))))	life	-	1	-	20)
+ectb_1069	5	11	should	MD	(VP*	-	-	-	-	-
+ectb_1069	5	12	take	VB	(VP*	take	-	2	-	-
+ectb_1069	5	13	a	DT	(NP(NP*	-	-	-	-	-
+ectb_1069	5	14	walk	NN	*)	walk	01	1	-	-
+ectb_1069	5	15	around	IN	(PP*	-	-	-	-	-
+ectb_1069	5	16	a	DT	(NP*	-	-	-	-	-
+ectb_1069	5	17	cancer	NN	*	cancer	-	1	-	-
+ectb_1069	5	18	ward	NN	*))))))	ward	-	3	-	-
+ectb_1069	5	19	,	,	*	-	-	-	-	-
+ectb_1069	5	20	"	''	*	-	-	-	-	-
+ectb_1069	5	21	Li	NNP	(NP*)	-	-	-	-	(45)
+ectb_1069	5	22	says	VBZ	(VP*)	say	01	1	-	-
+ectb_1069	5	23	.	.	*))	-	-	-	-	-
+
+ectb_1069	5	0	Then	RB	(TOP(S(ADVP*)	-	-	-	-	-
+ectb_1069	5	1	they	PRP	(NP*)	-	-	-	-	(20)
+ectb_1069	5	2	'll	MD	(VP*	-	-	-	-	-
+ectb_1069	5	3	realize	VB	(VP*	realize	01	1	-	-
+ectb_1069	5	4	how	WRB	(SBAR(WHADJP*	-	-	-	-	-
+ectb_1069	5	5	lucky	JJ	*)	-	-	-	-	-
+ectb_1069	5	6	they	PRP	(S(NP*)	-	-	-	-	(20)
+ectb_1069	5	7	are	VBP	(VP*)))))	be	01	1	-	-
+ectb_1069	5	8	.	.	*	-	-	-	-	-
+ectb_1069	5	9	"	''	*))	-	-	-	-	-
+
+ectb_1069	5	0	Chiu	NNP	(TOP(S(NP*	-	-	-	-	(9
+ectb_1069	5	1	Chia	NNP	*	-	-	-	-	-
+ectb_1069	5	2	-	HYPH	*	-	-	-	-	-
+ectb_1069	5	3	li	NNP	*)	-	-	-	-	9)
+ectb_1069	5	4	,	,	*	-	-	-	-	-
+ectb_1069	5	5	on	IN	(PP*	-	-	-	-	-
+ectb_1069	5	6	the	DT	(NP*	-	-	-	-	-
+ectb_1069	5	7	other	JJ	*	-	-	-	-	-
+ectb_1069	5	8	hand	NN	*))	hand	-	7	-	-
+ectb_1069	5	9	,	,	*	-	-	-	-	-
+ectb_1069	5	10	encourages	VBZ	(VP*	encourage	01	2	-	-
+ectb_1069	5	11	the	DT	(NP*	-	-	-	-	(43
+ectb_1069	5	12	middle	NN	*	-	-	-	-	-
+ectb_1069	5	13	-	HYPH	*	-	-	-	-	-
+ectb_1069	5	14	aged	JJ	*)	-	-	-	-	43)
+ectb_1069	5	15	not	RB	(S*	-	-	-	-	-
+ectb_1069	5	16	to	TO	(VP*	-	-	-	-	-
+ectb_1069	5	17	close	VB	(VP*	close	05	2	-	-
+ectb_1069	5	18	themselves	PRP	(NP*)	-	-	-	-	(43)
+ectb_1069	5	19	off	RP	(PRT*)))))	-	-	-	-	-
+ectb_1069	5	20	.	.	*))	-	-	-	-	-
+
+ectb_1069	5	0	They	PRP	(TOP(S(NP*)	-	-	-	-	(43)
+ectb_1069	5	1	must	MD	(VP*	-	-	-	-	-
+ectb_1069	5	2	get	VB	(VP(VP*	get	05	11.2	-	-
+ectb_1069	5	3	out	RB	(ADVP*))	-	-	-	-	-
+ectb_1069	5	4	and	CC	*	-	-	-	-	-
+ectb_1069	5	5	make	VB	(VP*	make	01	7	-	-
+ectb_1069	5	6	friends	NNS	(NP*)	-	-	-	-	-
+ectb_1069	5	7	,	,	*	-	-	-	-	-
+ectb_1069	5	8	so	IN	(SBAR*	-	-	-	-	-
+ectb_1069	5	9	as	IN	*	-	-	-	-	-
+ectb_1069	5	10	to	TO	(S(VP*	-	-	-	-	-
+ectb_1069	5	11	get	VB	(VP(VP*	get	05	-	-	-
+ectb_1069	5	12	things	NNS	(NP*)	thing	-	1	-	-
+ectb_1069	5	13	off	IN	(PP*	-	-	-	-	-
+ectb_1069	5	14	their	PRP$	(NP*	-	-	-	-	(43)
+ectb_1069	5	15	chests	NNS	*)))	-	-	-	-	-
+ectb_1069	5	16	and	CC	*	-	-	-	-	-
+ectb_1069	5	17	find	VB	(VP*	find	01	1	-	-
+ectb_1069	5	18	support	NN	(NP(NP*)	support	01	7	-	-
+ectb_1069	5	19	from	IN	(PP*	-	-	-	-	-
+ectb_1069	5	20	each	DT	(NP*	-	-	-	-	-
+ectb_1069	5	21	other	JJ	*)))))))))))	-	-	-	-	-
+ectb_1069	5	22	.	.	*))	-	-	-	-	-
+
+ectb_1069	5	0	This	DT	(TOP(S(NP*)	-	-	-	-	-
+ectb_1069	5	1	makes	VBZ	(VP*	make	02	3	-	-
+ectb_1069	5	2	it	PRP	(S(NP(NP*))	-	-	-	-	-
+ectb_1069	5	3	easier	JJR	(ADJP*)	-	-	-	-	-
+ectb_1069	5	4	to	TO	(S(VP*	-	-	-	-	-
+ectb_1069	5	5	get	VB	(VP*	get	05	11.31	-	-
+ectb_1069	5	6	through	IN	(PP*	-	-	-	-	-
+ectb_1069	5	7	the	DT	(NP*	-	-	-	-	-
+ectb_1069	5	8	bad	JJ	*	-	-	-	-	-
+ectb_1069	5	9	times	NNS	*)))))))	time	-	12	-	-
+ectb_1069	5	10	.	.	*))	-	-	-	-	-
+
+ectb_1069	5	0	Finally	RB	(TOP(S(ADVP*)	-	-	-	-	-
+ectb_1069	5	1	,	,	*	-	-	-	-	-
+ectb_1069	5	2	there	EX	(NP*)	-	-	-	-	-
+ectb_1069	5	3	is	VBZ	(VP(VP*	be	02	3	-	-
+ectb_1069	5	4	something	NN	(NP(NP(NP*)	-	-	-	-	-
+ectb_1069	5	5	that	WDT	(SBAR(WHNP*)	-	-	-	-	-
+ectb_1069	5	6	may	MD	(S(VP*	-	-	-	-	-
+ectb_1069	5	7	seem	VB	(VP*	seem	01	1	-	-
+ectb_1069	5	8	a	DT	(S(ADJP(NP*	-	-	-	-	-
+ectb_1069	5	9	little	RB	*)	-	-	-	-	-
+ectb_1069	5	10	cliched	JJ	*)))))))))	-	-	-	-	-
+ectb_1069	5	11	but	CC	*	-	-	-	-	-
+ectb_1069	5	12	is	VBZ	(VP*	be	01	1	-	-
+ectb_1069	5	13	often	RB	(ADVP*)	-	-	-	-	-
+ectb_1069	5	14	very	RB	(ADJP*	-	-	-	-	-
+ectb_1069	5	15	useful	JJ	*)	-	-	-	-	-
+ectb_1069	5	16	-	,	*	-	-	-	-	-
+ectb_1069	5	17	namely	RB	(NP(ADVP*)	-	-	-	-	-
+ectb_1069	5	18	the	DT	*	-	-	-	-	-
+ectb_1069	5	19	realization	NN	*	realization	01	1	-	-
+ectb_1069	5	20	that	IN	(SBAR(SBAR*	-	-	-	-	-
+ectb_1069	5	21	things	NNS	(S(NP*)	thing	-	1	-	-
+ectb_1069	5	22	will	MD	(VP*	-	-	-	-	-
+ectb_1069	5	23	get	VB	(VP*	get	03	3	-	-
+ectb_1069	5	24	better	JJR	(ADJP*)))))	-	-	-	-	-
+ectb_1069	5	25	,	,	*	-	-	-	-	-
+ectb_1069	5	26	that	IN	(SBAR*	-	-	-	-	-
+ectb_1069	5	27	tomorrow	NN	(S(NP*)	-	-	-	-	-
+ectb_1069	5	28	is	VBZ	(VP*	be	01	1	-	-
+ectb_1069	5	29	another	DT	(NP*	-	-	-	-	-
+ectb_1069	5	30	day	NN	*))))))))	day	-	3	-	-
+ectb_1069	5	31	.	.	*))	-	-	-	-	-
+
+ectb_1069	5	0	"	``	(TOP(SINV*	-	-	-	-	-
+ectb_1069	5	1	Whether	IN	(S(SBAR*	-	-	-	-	-
+ectb_1069	5	2	you	PRP	(S(NP*)	-	-	-	-	-
+ectb_1069	5	3	are	VBP	(VP*	be	01	1	-	-
+ectb_1069	5	4	depressed	JJ	(UCP(ADJP*)	-	-	-	-	-
+ectb_1069	5	5	or	CC	*	-	-	-	-	-
+ectb_1069	5	6	going	VBG	(VP*	go	08	4	-	-
+ectb_1069	5	7	berserk	RB	(ADVP*))))))	-	-	-	-	-
+ectb_1069	5	8	,	,	*	-	-	-	-	-
+ectb_1069	5	9	it	PRP	(NP(NP*))	-	-	-	-	-
+ectb_1069	5	10	's	VBZ	(VP*	be	01	1	-	-
+ectb_1069	5	11	important	JJ	(ADJP*)	-	-	-	-	-
+ectb_1069	5	12	to	TO	(S(VP*	-	-	-	-	-
+ectb_1069	5	13	remember	VB	(VP*	remember	01	1	-	-
+ectb_1069	5	14	that	IN	(SBAR*	-	-	-	-	-
+ectb_1069	5	15	hormones	NNS	(S(NP*)	-	-	-	-	-
+ectb_1069	5	16	are	VBP	(VP*	be	03	-	-	-
+ectb_1069	5	17	raging	VBG	(VP*	rage	02	1	-	-
+ectb_1069	5	18	inside	IN	(PP*	-	-	-	-	-
+ectb_1069	5	19	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1069	5	20	bodies	NNS	*)	body	-	2	-	-
+ectb_1069	5	21	of	IN	(PP*	-	-	-	-	-
+ectb_1069	5	22	the	DT	(NP*	-	-	-	-	(10
+ectb_1069	5	23	middle	NN	*	-	-	-	-	-
+ectb_1069	5	24	-	HYPH	*	-	-	-	-	-
+ectb_1069	5	25	aged	JJ	*)))))))))))))	-	-	-	-	10)
+ectb_1069	5	26	,	,	*	-	-	-	-	-
+ectb_1069	5	27	"	''	*	-	-	-	-	-
+ectb_1069	5	28	says	VBZ	(VP*)	say	01	1	-	-
+ectb_1069	5	29	Chang	NNP	(NP*)	-	-	-	-	(38)
+ectb_1069	5	30	.	.	*))	-	-	-	-	-
+
+ectb_1069	5	0	Much	RB	(TOP(S(PP(ADVP*)	-	-	-	-	-
+ectb_1069	5	1	like	IN	*	-	-	-	-	-
+ectb_1069	5	2	rebellious	JJ	(NP*	-	-	-	-	-
+ectb_1069	5	3	adolescents	NNS	*))	-	-	-	-	-
+ectb_1069	5	4	,	,	*	-	-	-	-	-
+ectb_1069	5	5	they	PRP	(NP*)	-	-	-	-	(10)
+ectb_1069	5	6	may	MD	(VP*	-	-	-	-	-
+ectb_1069	5	7	merely	RB	(ADVP*)	-	-	-	-	-
+ectb_1069	5	8	need	VB	(VP*	need	01	2	-	-
+ectb_1069	5	9	to	TO	(S(VP*	-	-	-	-	-
+ectb_1069	5	10	pass	VB	(VP*	pass	03	-	-	-
+ectb_1069	5	11	through	RB	(ADVP*)	-	-	-	-	-
+ectb_1069	5	12	into	IN	(PP*	-	-	-	-	-
+ectb_1069	5	13	another	DT	(NP*	-	-	-	-	-
+ectb_1069	5	14	stage	NN	*))	stage	-	2	-	-
+ectb_1069	5	15	for	IN	(SBAR*	-	-	-	-	-
+ectb_1069	5	16	the	DT	(S(NP*	-	-	-	-	-
+ectb_1069	5	17	sky	NN	*)	-	-	-	-	-
+ectb_1069	5	18	to	TO	(VP*	-	-	-	-	-
+ectb_1069	5	19	become	VB	(VP*	become	01	1	-	-
+ectb_1069	5	20	blue	JJ	(ADJP*)	-	-	-	-	-
+ectb_1069	5	21	again	RB	(ADVP*))))))))))	-	-	-	-	-
+ectb_1069	5	22	.	.	*))	-	-	-	-	-
+
+ectb_1069	5	0	Do	VB	(TOP(S(VP*	do	01	-	-	-
+ectb_1069	5	1	n't	RB	*	-	-	-	-	-
+ectb_1069	5	2	give	VB	(VP(VP*	give	07	5	-	-
+ectb_1069	5	3	up	RP	(PRT*)	-	-	-	-	-
+ectb_1069	5	4	hope	NN	(NP*)	hope	-	1	-	-
+ectb_1069	5	5	too	RB	(ADVP*	-	-	-	-	-
+ectb_1069	5	6	early	RB	*))	-	-	-	-	-
+ectb_1069	5	7	,	,	*	-	-	-	-	-
+ectb_1069	5	8	and	CC	*	-	-	-	-	-
+ectb_1069	5	9	do	VB	(VP*	do	01	-	-	-
+ectb_1069	5	10	n't	RB	*	-	-	-	-	-
+ectb_1069	5	11	be	VB	(VP*	be	01	1	-	-
+ectb_1069	5	12	afraid	JJ	(ADJP*	-	-	-	-	-
+ectb_1069	5	13	of	IN	(PP*	-	-	-	-	-
+ectb_1069	5	14	asking	VBG	(S(VP*	ask	02	-	-	-
+ectb_1069	5	15	for	IN	(PP*	-	-	-	-	-
+ectb_1069	5	16	assistance	NN	(NP*))))))))))	assistance	01	1	-	-
+ectb_1069	5	17	.	.	*))	-	-	-	-	-
+
+ectb_1069	5	0	When	WRB	(TOP(S(SBAR(WHADVP*)	-	-	-	-	-
+ectb_1069	5	1	you	PRP	(S(NP*)	-	-	-	-	-
+ectb_1069	5	2	feel	VBP	(VP*	feel	01	1	-	-
+ectb_1069	5	3	at	IN	(PP*	-	-	-	-	-
+ectb_1069	5	4	a	DT	(NP*	-	-	-	-	-
+ectb_1069	5	5	loss	NN	*))	loss	-	3	-	-
+ectb_1069	5	6	emotionally	RB	(ADVP*))))	-	-	-	-	-
+ectb_1069	5	7	,	,	*	-	-	-	-	-
+ectb_1069	5	8	the	DT	(NP*	-	-	-	-	-
+ectb_1069	5	9	experts	NNS	*)	-	-	-	-	-
+ectb_1069	5	10	will	MD	(VP*	-	-	-	-	-
+ectb_1069	5	11	be	VB	(VP*	be	01	1	-	-
+ectb_1069	5	12	able	JJ	(ADJP*	-	-	-	-	-
+ectb_1069	5	13	to	TO	(S(VP*	-	-	-	-	-
+ectb_1069	5	14	help	VB	(VP*))))))	help	01	1	-	-
+ectb_1069	5	15	.	.	*))	-	-	-	-	-
+
+#end document

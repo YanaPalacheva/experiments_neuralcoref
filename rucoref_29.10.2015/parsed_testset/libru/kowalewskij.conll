@@ -1,0 +1,517 @@
+# newdoc id = 885b47d0-fd34-42d3-908d-a523f16122ac
+# newpar id = 885b47d0-fd34-42d3-908d-a523f16122ac-p1
+# par_text = Я проснулся оттого, что упала и начала гулять по кухне пустая банка из-под кофе. Я еще тогда подумал: "Вот так начинается полтергейст..."
+# sent_id = 885b47d0-fd34-42d3-908d-a523f16122ac-p1-s1
+# text = Я проснулся оттого, что упала и начала гулять по кухне пустая банка из-под кофе.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3527|RuCor_group_id=475369|RuCor_link_id=0|Shift=1
+2	проснулся	_	_	_	_	_	_	_	Shift=3
+3	оттого	_	_	_	_	_	_	_	Shift=13|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=19
+5	что	_	_	_	_	_	_	_	Shift=21
+6	упала	_	_	_	_	_	_	_	Shift=25
+7	и	_	_	_	_	_	_	_	Shift=31
+8	начала	_	_	_	_	_	_	_	Shift=33
+9	гулять	_	_	_	_	_	_	_	Shift=40
+10	по	_	_	_	_	_	_	_	Shift=47
+11	кухне	_	_	_	_	_	_	_	Shift=50
+12	пустая	_	_	_	_	_	_	_	Shift=56
+13	банка	_	_	_	_	_	_	_	Shift=63
+14	из-под	_	_	_	_	_	_	_	Shift=69
+15	кофе	_	_	_	_	_	_	_	Shift=76|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=80
+
+# sent_id = 885b47d0-fd34-42d3-908d-a523f16122ac-p1-s2
+# text = Я еще тогда подумал: " Вот так начинается полтергейст...
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3527|RuCor_group_id=475370|RuCor_link_id=475369|Shift=82
+2	еще	_	_	_	_	_	_	_	Shift=84
+3	тогда	_	_	_	_	_	_	_	Shift=88
+4	подумал	_	_	_	_	_	_	_	Shift=94|SpaceAfter=No
+5	:	_	_	_	_	_	_	_	Shift=101
+6	``	_	_	_	_	_	_	_	QuotationStart="|Shift=103
+7	Вот	_	_	_	_	_	_	_	Shift=104
+8	так	_	_	_	_	_	_	_	Shift=108
+9	начинается	_	_	_	_	_	_	_	Shift=112
+10	полтергейст	_	_	_	_	_	_	_	Shift=123|SpaceAfter=No
+11	...	_	_	_	_	_	_	_	Shift=134
+
+# sent_id = 885b47d0-fd34-42d3-908d-a523f16122ac-p1-s3
+# text = "
+1	''	_	_	_	_	_	_	_	QuotationEnd="|Shift=137
+
+# newpar id = 885b47d0-fd34-42d3-908d-a523f16122ac-p2
+# par_text = И тут на меня недружелюбно двинулся шкаф. Не поехал, не заскользил по полу, - а пошел. Топая и раскачиваясь. Как-то жалобно задрожала кровать - и в ее дрожании я уловил боязливую интонацию: "А может, не надо?.."
+# sent_id = 885b47d0-fd34-42d3-908d-a523f16122ac-p2-s1
+# text = И тут на меня недружелюбно двинулся шкаф.
+1	И	_	_	_	_	_	_	_	Shift=140
+2	тут	_	_	_	_	_	_	_	Shift=142
+3	на	_	_	_	_	_	_	_	Shift=146
+4	меня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3527|RuCor_group_id=475371|RuCor_link_id=475370|Shift=149
+5	недружелюбно	_	_	_	_	_	_	_	Shift=154
+6	двинулся	_	_	_	_	_	_	_	Shift=167
+7	шкаф	_	_	_	_	_	_	_	Shift=176|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=180
+
+# sent_id = 885b47d0-fd34-42d3-908d-a523f16122ac-p2-s2
+# text = Не поехал, не заскользил по полу, - а пошел.
+1	Не	_	_	_	_	_	_	_	Shift=182
+2	поехал	_	_	_	_	_	_	_	Shift=185|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=191
+4	не	_	_	_	_	_	_	_	Shift=193
+5	заскользил	_	_	_	_	_	_	_	Shift=196
+6	по	_	_	_	_	_	_	_	Shift=207
+7	полу	_	_	_	_	_	_	_	Shift=210|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=214
+9	-	_	_	_	_	_	_	_	Shift=216
+10	а	_	_	_	_	_	_	_	Shift=218
+11	пошел	_	_	_	_	_	_	_	Shift=220|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=225
+
+# sent_id = 885b47d0-fd34-42d3-908d-a523f16122ac-p2-s3
+# text = Топая и раскачиваясь.
+1	Топая	_	_	_	_	_	_	_	Shift=227
+2	и	_	_	_	_	_	_	_	Shift=233
+3	раскачиваясь	_	_	_	_	_	_	_	Shift=235|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=247
+
+# sent_id = 885b47d0-fd34-42d3-908d-a523f16122ac-p2-s4
+# text = Как-то жалобно задрожала кровать - и в ее дрожании я уловил боязливую интонацию: " А может, не надо? "
+1	Как-то	_	_	_	_	_	_	_	Shift=249
+2	жалобно	_	_	_	_	_	_	_	Shift=256
+3	задрожала	_	_	_	_	_	_	_	Shift=264
+4	кровать	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3528|RuCor_group_id=475372|RuCor_link_id=0|Shift=274
+5	-	_	_	_	_	_	_	_	Shift=282
+6	и	_	_	_	_	_	_	_	Shift=284
+7	в	_	_	_	_	_	_	_	Shift=286
+8	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3528|RuCor_group_id=475373|RuCor_link_id=475372|Shift=288
+9	дрожании	_	_	_	_	_	_	_	Shift=291
+10	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3527|RuCor_group_id=475374|RuCor_link_id=475370|Shift=300
+11	уловил	_	_	_	_	_	_	_	Shift=302
+12	боязливую	_	_	_	_	_	_	_	Shift=309
+13	интонацию	_	_	_	_	_	_	_	Shift=319|SpaceAfter=No
+14	:	_	_	_	_	_	_	_	Shift=328
+15	``	_	_	_	_	_	_	_	QuotationStart="|Shift=330
+16	А	_	_	_	_	_	_	_	Shift=331
+17	может	_	_	_	_	_	_	_	Shift=333|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=338
+19	не	_	_	_	_	_	_	_	Shift=340
+20	надо	_	_	_	_	_	_	_	Shift=343|SpaceAfter=No
+21	?	_	_	_	_	_	_	_	Shift=347
+22	''	_	_	_	_	_	_	_	QuotationEnd="|Shift=350
+
+# newpar id = 885b47d0-fd34-42d3-908d-a523f16122ac-p3
+# par_text = Я тряхнул головой и, отмахиваясь от собственной одежды, летающей по квартире, выскочил из комнаты.
+# sent_id = 885b47d0-fd34-42d3-908d-a523f16122ac-p3-s1
+# text = Я тряхнул головой и, отмахиваясь от собственной одежды, летающей по квартире, выскочил из комнаты.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3527|RuCor_group_id=475375|RuCor_link_id=475370|Shift=353
+2	тряхнул	_	_	_	_	_	_	_	Shift=355
+3	головой	_	_	_	_	_	_	_	Shift=363
+4	и	_	_	_	_	_	_	_	Shift=371|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=372
+6	отмахиваясь	_	_	_	_	_	_	_	Shift=374
+7	от	_	_	_	_	_	_	_	Shift=386
+8	собственной	_	_	_	_	_	_	_	Shift=389
+9	одежды	_	_	_	_	_	_	_	Shift=401|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=407
+11	летающей	_	_	_	_	_	_	_	Shift=409
+12	по	_	_	_	_	_	_	_	Shift=418
+13	квартире	_	_	_	_	_	_	_	Shift=421|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=429
+15	выскочил	_	_	_	_	_	_	_	Shift=431
+16	из	_	_	_	_	_	_	_	Shift=440
+17	комнаты	_	_	_	_	_	_	_	Shift=443|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=450
+
+# newpar id = 885b47d0-fd34-42d3-908d-a523f16122ac-p4
+# par_text = В зале стоял тарарам! В воздухе с лязгом и грюканьем летала посуда. Из угла в угол, перебирая кривыми ножками, семенили стулья. Методично и тупо об стену бился стол. В углу возле окна, подобно лимонному пудингу, колыхался телевизор. Люстра остервенело стряхивала с себя взъерошеного, орущего и цепляющегося за нее черного кота. Когда к нему заинтересовано подлетали тарелки с голубой каемочкойи непочатой порцией консервированых в масле сардин, кот еще более выгибался дугой, отчаянно шипел и плевался. Тарелки давали задний ход, инлгда врезаясь в другую посуду, - и тогда из ходиков высовывалась кукушка, соловело оглядывала происходящее, быстро-быстро чесала деревянной лапкой в затылке и засовывалась обратно, хлопая дервянной же дверцей. Ни черного кота, ни ходиков с придурковатой кукушкой у меня никогда не было...
+# sent_id = 885b47d0-fd34-42d3-908d-a523f16122ac-p4-s1
+# text = В зале стоял тарарам!
+1	В	_	_	_	_	_	_	_	Shift=453
+2	зале	_	_	_	_	_	_	_	Shift=455
+3	стоял	_	_	_	_	_	_	_	Shift=460
+4	тарарам	_	_	_	_	_	_	_	Shift=466|SpaceAfter=No
+5	!	_	_	_	_	_	_	_	Shift=473
+
+# sent_id = 885b47d0-fd34-42d3-908d-a523f16122ac-p4-s2
+# text = В воздухе с лязгом и грюканьем летала посуда.
+1	В	_	_	_	_	_	_	_	Shift=475
+2	воздухе	_	_	_	_	_	_	_	Shift=477
+3	с	_	_	_	_	_	_	_	Shift=485
+4	лязгом	_	_	_	_	_	_	_	Shift=487
+5	и	_	_	_	_	_	_	_	Shift=494
+6	грюканьем	_	_	_	_	_	_	_	Shift=496
+7	летала	_	_	_	_	_	_	_	Shift=506
+8	посуда	_	_	_	_	_	_	_	Shift=513|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=519
+
+# sent_id = 885b47d0-fd34-42d3-908d-a523f16122ac-p4-s3
+# text = Из угла в угол, перебирая кривыми ножками, семенили стулья.
+1	Из	_	_	_	_	_	_	_	Shift=521
+2	угла	_	_	_	_	_	_	_	Shift=524
+3	в	_	_	_	_	_	_	_	Shift=529
+4	угол	_	_	_	_	_	_	_	Shift=531|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=535
+6	перебирая	_	_	_	_	_	_	_	Shift=537
+7	кривыми	_	_	_	_	_	_	_	Shift=547
+8	ножками	_	_	_	_	_	_	_	Shift=555|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=562
+10	семенили	_	_	_	_	_	_	_	Shift=564
+11	стулья	_	_	_	_	_	_	_	Shift=573|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=579
+
+# sent_id = 885b47d0-fd34-42d3-908d-a523f16122ac-p4-s4
+# text = Методично и тупо об стену бился стол. В углу возле окна, подобно лимонному пудингу, колыхался телевизор.
+1	Методично	_	_	_	_	_	_	_	Shift=581
+2	и	_	_	_	_	_	_	_	Shift=591
+3	тупо	_	_	_	_	_	_	_	Shift=593
+4	об	_	_	_	_	_	_	_	Shift=598
+5	стену	_	_	_	_	_	_	_	Shift=601
+6	бился	_	_	_	_	_	_	_	Shift=607
+7	стол.	_	_	_	_	_	_	_	Shift=613
+8	В	_	_	_	_	_	_	_	Shift=619
+9	углу	_	_	_	_	_	_	_	Shift=621
+10	возле	_	_	_	_	_	_	_	Shift=626
+11	окна	_	_	_	_	_	_	_	Shift=632|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=636
+13	подобно	_	_	_	_	_	_	_	Shift=638
+14	лимонному	_	_	_	_	_	_	_	Shift=646
+15	пудингу	_	_	_	_	_	_	_	Shift=656|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=663
+17	колыхался	_	_	_	_	_	_	_	Shift=665
+18	телевизор	_	_	_	_	_	_	_	Shift=675|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=684
+
+# sent_id = 885b47d0-fd34-42d3-908d-a523f16122ac-p4-s5
+# text = Люстра остервенело стряхивала с себя взъерошеного, орущего и цепляющегося за нее черного кота.
+1	Люстра	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3529|RuCor_group_id=475376|RuCor_link_id=0|Shift=686
+2	остервенело	_	_	_	_	_	_	_	Shift=693
+3	стряхивала	_	_	_	_	_	_	_	Shift=705
+4	с	_	_	_	_	_	_	_	Shift=716
+5	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=3529|RuCor_group_id=475377|RuCor_link_id=475376|Shift=718
+6	взъерошеного	_	_	_	_	_	_	_	Shift=723|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=735
+8	орущего	_	_	_	_	_	_	_	RuCor_chain_id=3530|RuCor_group_id=475378|Shift=737
+9	и	_	_	_	_	_	_	_	RuCor_chain_id=3530|RuCor_group_id=475378|Shift=745
+10	цепляющегося	_	_	_	_	_	_	_	RuCor_chain_id=3530|RuCor_group_id=475378|Shift=747
+11	за	_	_	_	_	_	_	_	RuCor_chain_id=3530|RuCor_group_id=475378|Shift=760
+12	нее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3529|RuCor_group_id=475379|RuCor_link_id=475376|Shift=763
+13	черного	_	_	_	_	_	_	_	RuCor_chain_id=3530|RuCor_group_id=475378|Shift=767
+14	кота	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3530|RuCor_group_id=475378|RuCor_link_id=0|Shift=775|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=779
+
+# sent_id = 885b47d0-fd34-42d3-908d-a523f16122ac-p4-s6
+# text = Когда к нему заинтересовано подлетали тарелки с голубой каемочкойи непочатой порцией консервированых в масле сардин, кот еще более выгибался дугой, отчаянно шипел и плевался.
+1	Когда	_	_	_	_	_	_	_	Shift=781
+2	к	_	_	_	_	_	_	_	Shift=787
+3	нему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3530|RuCor_group_id=475380|RuCor_link_id=475382|Shift=789
+4	заинтересовано	_	_	_	_	_	_	_	Shift=794
+5	подлетали	_	_	_	_	_	_	_	Shift=809
+6	тарелки	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3531|RuCor_group_id=475381|RuCor_link_id=0|Shift=819
+7	с	_	_	_	_	_	_	_	RuCor_chain_id=3531|RuCor_group_id=475381|Shift=827
+8	голубой	_	_	_	_	_	_	_	RuCor_chain_id=3531|RuCor_group_id=475381|Shift=829
+9	каемочкойи	_	_	_	_	_	_	_	RuCor_chain_id=3531|RuCor_group_id=475381|Shift=837
+10	непочатой	_	_	_	_	_	_	_	RuCor_chain_id=3531|RuCor_group_id=475381|Shift=848
+11	порцией	_	_	_	_	_	_	_	RuCor_chain_id=3531|RuCor_group_id=475381|Shift=858
+12	консервированых	_	_	_	_	_	_	_	RuCor_chain_id=3531|RuCor_group_id=475381|Shift=866
+13	в	_	_	_	_	_	_	_	RuCor_chain_id=3531|RuCor_group_id=475381|Shift=882
+14	масле	_	_	_	_	_	_	_	RuCor_chain_id=3531|RuCor_group_id=475381|Shift=884
+15	сардин	_	_	_	_	_	_	_	RuCor_chain_id=3531|RuCor_group_id=475381|Shift=890|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=896
+17	кот	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3530|RuCor_group_id=475382|RuCor_link_id=475378|Shift=898
+18	еще	_	_	_	_	_	_	_	Shift=902
+19	более	_	_	_	_	_	_	_	Shift=906
+20	выгибался	_	_	_	_	_	_	_	Shift=912
+21	дугой	_	_	_	_	_	_	_	Shift=922|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=927
+23	отчаянно	_	_	_	_	_	_	_	Shift=929
+24	шипел	_	_	_	_	_	_	_	Shift=938
+25	и	_	_	_	_	_	_	_	Shift=944
+26	плевался	_	_	_	_	_	_	_	Shift=946|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=954
+
+# sent_id = 885b47d0-fd34-42d3-908d-a523f16122ac-p4-s7
+# text = Тарелки давали задний ход, инлгда врезаясь в другую посуду, - и тогда из ходиков высовывалась кукушка, соловело оглядывала происходящее, быстро - быстро чесала деревянной лапкой в затылке и засовывалась обратно, хлопая дервянной же дверцей.
+1	Тарелки	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3531|RuCor_group_id=475383|RuCor_link_id=475381|Shift=956
+2	давали	_	_	_	_	_	_	_	Shift=964
+3	задний	_	_	_	_	_	_	_	Shift=971
+4	ход	_	_	_	_	_	_	_	Shift=978|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=981
+6	инлгда	_	_	_	_	_	_	_	Shift=983
+7	врезаясь	_	_	_	_	_	_	_	Shift=990
+8	в	_	_	_	_	_	_	_	Shift=999
+9	другую	_	_	_	_	_	_	_	Shift=1001
+10	посуду	_	_	_	_	_	_	_	Shift=1008|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=1014
+12	-	_	_	_	_	_	_	_	Shift=1016
+13	и	_	_	_	_	_	_	_	Shift=1018
+14	тогда	_	_	_	_	_	_	_	Shift=1020
+15	из	_	_	_	_	_	_	_	Shift=1026
+16	ходиков	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3532|RuCor_group_id=475384|RuCor_link_id=0|Shift=1029
+17	высовывалась	_	_	_	_	_	_	_	Shift=1037
+18	кукушка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3533|RuCor_group_id=475385|RuCor_link_id=0|Shift=1050|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=1057
+20	соловело	_	_	_	_	_	_	_	Shift=1059
+21	оглядывала	_	_	_	_	_	_	_	Shift=1068
+22	происходящее	_	_	_	_	_	_	_	Shift=1079|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=1091
+24	быстро	_	_	_	_	_	_	_	Shift=1093
+25	-	_	_	_	_	_	_	_	Shift=1099
+26	быстро	_	_	_	_	_	_	_	Shift=1100
+27	чесала	_	_	_	_	_	_	_	Shift=1107
+28	деревянной	_	_	_	_	_	_	_	Shift=1114
+29	лапкой	_	_	_	_	_	_	_	Shift=1125
+30	в	_	_	_	_	_	_	_	Shift=1132
+31	затылке	_	_	_	_	_	_	_	Shift=1134
+32	и	_	_	_	_	_	_	_	Shift=1142
+33	засовывалась	_	_	_	_	_	_	_	Shift=1144
+34	обратно	_	_	_	_	_	_	_	Shift=1157|SpaceAfter=No
+35	,	_	_	_	_	_	_	_	Shift=1164
+36	хлопая	_	_	_	_	_	_	_	Shift=1166
+37	дервянной	_	_	_	_	_	_	_	Shift=1173
+38	же	_	_	_	_	_	_	_	Shift=1183
+39	дверцей	_	_	_	_	_	_	_	Shift=1186|SpaceAfter=No
+40	.	_	_	_	_	_	_	_	Shift=1193
+
+# sent_id = 885b47d0-fd34-42d3-908d-a523f16122ac-p4-s8
+# text = Ни черного кота, ни ходиков с придурковатой кукушкой у меня никогда не было...
+1	Ни	_	_	_	_	_	_	_	Shift=1195
+2	черного	_	_	_	_	_	_	_	RuCor_chain_id=3530|RuCor_group_id=475386|Shift=1198
+3	кота	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3530|RuCor_group_id=475386|RuCor_link_id=475382|Shift=1206|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1210
+5	ни	_	_	_	_	_	_	_	Shift=1212
+6	ходиков	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3532|RuCor_group_id=475387|RuCor_link_id=475384|Shift=1215
+7	с	_	_	_	_	_	_	_	RuCor_chain_id=3532|RuCor_group_id=475387|Shift=1223
+8	придурковатой	_	_	_	_	_	_	_	RuCor_chain_id=3533|RuCor_group_id=475388|Shift=1225
+9	кукушкой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3533|RuCor_group_id=475388|RuCor_link_id=475385|Shift=1239
+10	у	_	_	_	_	_	_	_	Shift=1248
+11	меня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3527|RuCor_group_id=475389|RuCor_link_id=475375|Shift=1250
+12	никогда	_	_	_	_	_	_	_	Shift=1255
+13	не	_	_	_	_	_	_	_	Shift=1263
+14	было	_	_	_	_	_	_	_	Shift=1266|SpaceAfter=No
+15	...	_	_	_	_	_	_	_	Shift=1270
+
+# newpar id = 885b47d0-fd34-42d3-908d-a523f16122ac-p5
+# par_text = Зато когда-то была литровая банка малинового варенья, содержимое которой теперь носилось за мной в виде бесфоррменной массы, норовя вымазать меня с ног до головы.
+# sent_id = 885b47d0-fd34-42d3-908d-a523f16122ac-p5-s1
+# text = Зато когда-то была литровая банка малинового варенья, содержимое которой теперь носилось за мной в виде бесфоррменной массы, норовя вымазать меня с ног до головы.
+1	Зато	_	_	_	_	_	_	_	Shift=1275
+2	когда-то	_	_	_	_	_	_	_	Shift=1280
+3	была	_	_	_	_	_	_	_	Shift=1289
+4	литровая	_	_	_	_	_	_	_	RuCor_chain_id=3534|RuCor_group_id=475390|Shift=1294
+5	банка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3534|RuCor_group_id=475390|RuCor_link_id=0|Shift=1303
+6	малинового	_	_	_	_	_	_	_	RuCor_chain_id=3534|RuCor_group_id=475390|Shift=1309
+7	варенья	_	_	_	_	_	_	_	RuCor_chain_id=3534|RuCor_group_id=475390|Shift=1320|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1327
+9	содержимое	_	_	_	_	_	_	_	Shift=1329
+10	которой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=3534|RuCor_group_id=475391|RuCor_link_id=475390|Shift=1340
+11	теперь	_	_	_	_	_	_	_	Shift=1348
+12	носилось	_	_	_	_	_	_	_	Shift=1355
+13	за	_	_	_	_	_	_	_	Shift=1364
+14	мной	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3527|RuCor_group_id=475392|RuCor_link_id=475389|Shift=1367
+15	в	_	_	_	_	_	_	_	Shift=1372
+16	виде	_	_	_	_	_	_	_	Shift=1374
+17	бесфоррменной	_	_	_	_	_	_	_	Shift=1379
+18	массы	_	_	_	_	_	_	_	Shift=1393|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=1398
+20	норовя	_	_	_	_	_	_	_	Shift=1400
+21	вымазать	_	_	_	_	_	_	_	Shift=1407
+22	меня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3527|RuCor_group_id=475393|RuCor_link_id=475392|Shift=1416
+23	с	_	_	_	_	_	_	_	Shift=1421
+24	ног	_	_	_	_	_	_	_	Shift=1423
+25	до	_	_	_	_	_	_	_	Shift=1427
+26	головы	_	_	_	_	_	_	_	Shift=1430|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=1436
+
+# newpar id = 885b47d0-fd34-42d3-908d-a523f16122ac-p6
+# par_text = Я бросился в ванную.
+# sent_id = 885b47d0-fd34-42d3-908d-a523f16122ac-p6-s1
+# text = Я бросился в ванную.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3527|RuCor_group_id=475394|RuCor_link_id=475392|Shift=1439
+2	бросился	_	_	_	_	_	_	_	Shift=1441
+3	в	_	_	_	_	_	_	_	Shift=1450
+4	ванную	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3535|RuCor_group_id=475395|RuCor_link_id=0|Shift=1452|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=1458
+
+# newpar id = 885b47d0-fd34-42d3-908d-a523f16122ac-p7
+# par_text = Но и там все происходило так, как должно было происходить в Пятницу, 13-го числа.
+# sent_id = 885b47d0-fd34-42d3-908d-a523f16122ac-p7-s1
+# text = Но и там все происходило так, как должно было происходить в Пятницу, 13-го числа.
+1	Но	_	_	_	_	_	_	_	Shift=1461
+2	и	_	_	_	_	_	_	_	Shift=1464
+3	там	_	_	_	_	_	_	_	Shift=1466
+4	все	_	_	_	_	_	_	_	Shift=1470
+5	происходило	_	_	_	_	_	_	_	Shift=1474
+6	так	_	_	_	_	_	_	_	Shift=1486|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=1489
+8	как	_	_	_	_	_	_	_	Shift=1491
+9	должно	_	_	_	_	_	_	_	Shift=1495
+10	было	_	_	_	_	_	_	_	Shift=1502
+11	происходить	_	_	_	_	_	_	_	Shift=1507
+12	в	_	_	_	_	_	_	_	Shift=1519
+13	Пятницу	_	_	_	_	_	_	_	Shift=1521|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=1528
+15	13-го	_	_	_	_	_	_	_	Shift=1530
+16	числа	_	_	_	_	_	_	_	Shift=1536|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=1541
+
+# newpar id = 885b47d0-fd34-42d3-908d-a523f16122ac-p8
+# par_text = Ванна пыталась удержаться на шести выросших у нее куриных ногах, но на кафельном полу они раз'езжались, - и ванна с глубинным "Бумм! " опускалась снова. Затем включалась и выключалась стиральная машина; на зеркале перламутрово-красной губной помадой было написано "Домовой", а в унитазном бачке, видимо, нерестились русалки.	Раздался звонок в дверь, и все немедленно стихло.
+# sent_id = 885b47d0-fd34-42d3-908d-a523f16122ac-p8-s1
+# text = Ванна пыталась удержаться на шести выросших у нее куриных ногах, но на кафельном полу они раз'езжались, - и ванна с глубинным ``Бумм!''
+1	Ванна	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3536|RuCor_group_id=475396|RuCor_link_id=0|Shift=1544
+2	пыталась	_	_	_	_	_	_	_	Shift=1550
+3	удержаться	_	_	_	_	_	_	_	Shift=1559
+4	на	_	_	_	_	_	_	_	Shift=1570
+5	шести	_	_	_	_	_	_	_	Shift=1573
+6	выросших	_	_	_	_	_	_	_	Shift=1579
+7	у	_	_	_	_	_	_	_	Shift=1588
+8	нее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3536|RuCor_group_id=475397|RuCor_link_id=475396|Shift=1590
+9	куриных	_	_	_	_	_	_	_	RuCor_chain_id=3537|RuCor_group_id=475398|Shift=1594
+10	ногах	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3537|RuCor_group_id=475398|RuCor_link_id=0|Shift=1602|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=1607
+12	но	_	_	_	_	_	_	_	Shift=1609
+13	на	_	_	_	_	_	_	_	Shift=1612
+14	кафельном	_	_	_	_	_	_	_	Shift=1615
+15	полу	_	_	_	_	_	_	_	Shift=1625
+16	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=3537|RuCor_group_id=475399|RuCor_link_id=475398|Shift=1630
+17	раз'езжались	_	_	_	_	_	_	_	Shift=1634|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=1646
+19	-	_	_	_	_	_	_	_	Shift=1648
+20	и	_	_	_	_	_	_	_	Shift=1650
+21	ванна	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3536|RuCor_group_id=475400|RuCor_link_id=475396|Shift=1652
+22	с	_	_	_	_	_	_	_	Shift=1658
+23	глубинным	_	_	_	_	_	_	_	Shift=1660
+24	``	_	_	_	_	_	_	_	Shift=1670|SpaceAfter=No
+25	Бумм	_	_	_	_	_	_	_	Shift=1671|SpaceAfter=No
+26	!	_	_	_	_	_	_	_	Shift=1675|SpaceAfter=No
+27	''	_	_	_	_	_	_	_	Shift=1677
+
+# sent_id = 885b47d0-fd34-42d3-908d-a523f16122ac-p8-s2
+# text = опускалась снова.
+1	опускалась	_	_	_	_	_	_	_	Shift=1679
+2	снова	_	_	_	_	_	_	_	Shift=1690|SpaceAfter=No
+3	.	_	_	_	_	_	_	_	Shift=1695
+
+# sent_id = 885b47d0-fd34-42d3-908d-a523f16122ac-p8-s3
+# text = Затем включалась и выключалась стиральная машина.
+1	Затем	_	_	_	_	_	_	_	Shift=1697
+2	включалась	_	_	_	_	_	_	_	Shift=1703
+3	и	_	_	_	_	_	_	_	Shift=1714
+4	выключалась	_	_	_	_	_	_	_	Shift=1716
+5	стиральная	_	_	_	_	_	_	_	Shift=1728
+6	машина	_	_	_	_	_	_	_	Shift=1739|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=1745
+
+# sent_id = 885b47d0-fd34-42d3-908d-a523f16122ac-p8-s4
+# text = на зеркале перламутрово - красной губной помадой было написано ``Домовой'', а в унитазном бачке, видимо, нерестились русалки...
+1	на	_	_	_	_	_	_	_	Shift=1747
+2	зеркале	_	_	_	_	_	_	_	Shift=1750
+3	перламутрово	_	_	_	_	_	_	_	Shift=1758
+4	-	_	_	_	_	_	_	_	Shift=1770
+5	красной	_	_	_	_	_	_	_	Shift=1771
+6	губной	_	_	_	_	_	_	_	Shift=1779
+7	помадой	_	_	_	_	_	_	_	Shift=1786
+8	было	_	_	_	_	_	_	_	Shift=1794
+9	написано	_	_	_	_	_	_	_	Shift=1799
+10	``	_	_	_	_	_	_	_	Shift=1808|SpaceAfter=No
+11	Домовой	_	_	_	_	_	_	_	Shift=1809|SpaceAfter=No
+12	''	_	_	_	_	_	_	_	Shift=1816|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=1817
+14	а	_	_	_	_	_	_	_	Shift=1819
+15	в	_	_	_	_	_	_	_	Shift=1821
+16	унитазном	_	_	_	_	_	_	_	Shift=1823
+17	бачке	_	_	_	_	_	_	_	Shift=1833|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=1838
+19	видимо	_	_	_	_	_	_	_	Shift=1840|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=1846
+21	нерестились	_	_	_	_	_	_	_	Shift=1848
+22	русалки	_	_	_	_	_	_	_	Shift=1860|SpaceAfter=No
+23	...	_	_	_	_	_	_	_	Shift=1867
+
+# sent_id = 885b47d0-fd34-42d3-908d-a523f16122ac-p8-s5
+# text = Раздался звонок в дверь, и все немедленно стихло.
+1	Раздался	_	_	_	_	_	_	_	Shift=1869
+2	звонок	_	_	_	_	_	_	_	Shift=1878
+3	в	_	_	_	_	_	_	_	Shift=1885
+4	дверь	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3538|RuCor_group_id=475401|RuCor_link_id=0|Shift=1887|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1892
+6	и	_	_	_	_	_	_	_	Shift=1894
+7	все	_	_	_	_	_	_	_	Shift=1896
+8	немедленно	_	_	_	_	_	_	_	Shift=1900
+9	стихло	_	_	_	_	_	_	_	Shift=1911|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=1917
+
+# newpar id = 885b47d0-fd34-42d3-908d-a523f16122ac-p9
+# par_text = Я осторожно высунулся из своего ненадежного укрытия и, озираясь, пошлепал к двери.
+# sent_id = 885b47d0-fd34-42d3-908d-a523f16122ac-p9-s1
+# text = Я осторожно высунулся из своего ненадежного укрытия и, озираясь, пошлепал к двери.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3527|RuCor_group_id=475402|RuCor_link_id=475394|Shift=1920
+2	осторожно	_	_	_	_	_	_	_	Shift=1922
+3	высунулся	_	_	_	_	_	_	_	Shift=1932
+4	из	_	_	_	_	_	_	_	Shift=1942
+5	своего	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3535|RuCor_group_id=475404|RuCor_link_id=475402|Shift=1945
+6	ненадежного	_	_	_	_	_	_	_	RuCor_chain_id=3535|RuCor_group_id=475404|Shift=1952
+7	укрытия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3535|RuCor_group_id=475404|RuCor_link_id=475395|Shift=1964
+8	и	_	_	_	_	_	_	_	Shift=1972|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1973
+10	озираясь	_	_	_	_	_	_	_	Shift=1975|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=1983
+12	пошлепал	_	_	_	_	_	_	_	Shift=1985
+13	к	_	_	_	_	_	_	_	Shift=1994
+14	двери	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3538|RuCor_group_id=475405|RuCor_link_id=475401|Shift=1996|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=2001
+
+# newpar id = 885b47d0-fd34-42d3-908d-a523f16122ac-p10
+# par_text = Поглядев в глазок, я увидел, что пришли мои однокласники. Они были с цветами и подарками. Я вспомнил, что у меня сегодня День рождения.
+# sent_id = 885b47d0-fd34-42d3-908d-a523f16122ac-p10-s1
+# text = Поглядев в глазок, я увидел, что пришли мои однокласники.
+1	Поглядев	_	_	_	_	_	_	_	Shift=2004
+2	в	_	_	_	_	_	_	_	Shift=2013
+3	глазок	_	_	_	_	_	_	_	Shift=2015|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2021
+5	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3527|RuCor_group_id=475406|RuCor_link_id=475402|Shift=2023
+6	увидел	_	_	_	_	_	_	_	Shift=2025|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=2031
+8	что	_	_	_	_	_	_	_	Shift=2033
+9	пришли	_	_	_	_	_	_	_	Shift=2037
+10	мои	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3539|RuCor_group_id=475408|RuCor_link_id=475406|Shift=2044
+11	однокласники	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3539|RuCor_group_id=475408|RuCor_link_id=0|Shift=2048|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=2060
+
+# sent_id = 885b47d0-fd34-42d3-908d-a523f16122ac-p10-s2
+# text = Они были с цветами и подарками.
+1	Они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=3539|RuCor_group_id=475409|RuCor_link_id=475408|Shift=2062
+2	были	_	_	_	_	_	_	_	Shift=2066
+3	с	_	_	_	_	_	_	_	Shift=2071
+4	цветами	_	_	_	_	_	_	_	Shift=2073
+5	и	_	_	_	_	_	_	_	Shift=2081
+6	подарками	_	_	_	_	_	_	_	Shift=2083|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=2092
+
+# sent_id = 885b47d0-fd34-42d3-908d-a523f16122ac-p10-s3
+# text = Я вспомнил, что у меня сегодня День рождения.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3527|RuCor_group_id=475410|RuCor_link_id=475402|Shift=2094
+2	вспомнил	_	_	_	_	_	_	_	Shift=2096|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=2104
+4	что	_	_	_	_	_	_	_	Shift=2106
+5	у	_	_	_	_	_	_	_	Shift=2110
+6	меня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3527|RuCor_group_id=475411|RuCor_link_id=475410|Shift=2112
+7	сегодня	_	_	_	_	_	_	_	Shift=2117
+8	День	_	_	_	_	_	_	_	Shift=2125
+9	рождения	_	_	_	_	_	_	_	Shift=2130|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=2138
+
+# newpar id = 885b47d0-fd34-42d3-908d-a523f16122ac-p11
+# par_text = Среди подарков были ходики с кукушкой и черный кот.
+# sent_id = 885b47d0-fd34-42d3-908d-a523f16122ac-p11-s1
+# text = Среди подарков были ходики с кукушкой и черный кот.
+1	Среди	_	_	_	_	_	_	_	Shift=2141
+2	подарков	_	_	_	_	_	_	_	Shift=2147
+3	были	_	_	_	_	_	_	_	Shift=2156
+4	ходики	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3532|RuCor_group_id=475412|RuCor_link_id=475387|Shift=2161
+5	с	_	_	_	_	_	_	_	RuCor_chain_id=3532|RuCor_group_id=475412|Shift=2168
+6	кукушкой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3533|RuCor_group_id=475413|RuCor_link_id=475388|Shift=2170
+7	и	_	_	_	_	_	_	_	Shift=2179
+8	черный	_	_	_	_	_	_	_	RuCor_chain_id=3530|RuCor_group_id=475414|Shift=2181
+9	кот	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3530|RuCor_group_id=475414|RuCor_link_id=475386|Shift=2188|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	_
+

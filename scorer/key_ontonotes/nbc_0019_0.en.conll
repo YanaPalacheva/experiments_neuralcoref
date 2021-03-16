@@ -1,0 +1,188 @@
+#begin document (nbc_0019_0); part 000
+nbc_0019	0	0	As	*	*
+nbc_0019	0	1	we	*	*
+nbc_0019	0	2	heard	*	*
+nbc_0019	0	3	from	*	*
+nbc_0019	0	4	David	*	*
+nbc_0019	0	5	Gregory	*	*
+nbc_0019	0	6	,	*	*
+nbc_0019	0	7	one	*	*
+nbc_0019	0	8	of	*	*
+nbc_0019	0	9	Governor	*	*
+nbc_0019	0	10	Bush	*	*
+nbc_0019	0	11	's	*	*
+nbc_0019	0	12	main	*	*
+nbc_0019	0	13	themes	*	*
+nbc_0019	0	14	in	*	*
+nbc_0019	0	15	these	*	*
+nbc_0019	0	16	last	*	*
+nbc_0019	0	17	days	*	*
+nbc_0019	0	18	of	*	*
+nbc_0019	0	19	the	*	*
+nbc_0019	0	20	campaign	*	*
+nbc_0019	0	21	is	*	*
+nbc_0019	0	22	getting	*	*
+nbc_0019	0	23	rid	*	*
+nbc_0019	0	24	of	*	*
+nbc_0019	0	25	partisan	*	*
+nbc_0019	0	26	gridlock	*	*
+nbc_0019	0	27	in	*	*
+nbc_0019	0	28	Washington	*	*
+nbc_0019	0	29	,	*	*
+nbc_0019	0	30	which	*	*
+nbc_0019	0	31	was	*	*
+nbc_0019	0	32	exactly	*	*
+nbc_0019	0	33	what	*	*
+nbc_0019	0	34	the	*	*
+nbc_0019	0	35	President	*	*
+nbc_0019	0	36	was	*	*
+nbc_0019	0	37	talking	*	*
+nbc_0019	0	38	about	*	*
+nbc_0019	0	39	today	*	*
+nbc_0019	0	40	--	*	*
+nbc_0019	0	41	an	*	*
+nbc_0019	0	42	attempt	*	*
+nbc_0019	0	43	to	*	*
+nbc_0019	0	44	reopen	*	*
+nbc_0019	0	45	debate	*	*
+nbc_0019	0	46	on	*	*
+nbc_0019	0	47	a	*	*
+nbc_0019	0	48	$	(ARG2*	(ARG2*
+nbc_0019	0	49	240	*	*
+nbc_0019	0	50	billion	*)	*)
+nbc_0019	0	51	tax	(ARG1*)	(ARG1*)
+nbc_0019	0	52	cut	(V*)	(V*)
+nbc_0019	0	53	plan	*	*
+nbc_0019	0	54	,	*	*
+nbc_0019	0	55	saying	*	*
+nbc_0019	0	56	the	*	*
+nbc_0019	0	57	version	*	*
+nbc_0019	0	58	House	*	*
+nbc_0019	0	59	Republicans	*	*
+nbc_0019	0	60	passed	*	*
+nbc_0019	0	61	is	*	*
+nbc_0019	0	62	unacceptable	*	*
+nbc_0019	0	63	,	*	*
+nbc_0019	0	64	because	*	*
+nbc_0019	0	65	it	*	*
+nbc_0019	0	66	is	*	*
+nbc_0019	0	67	unfair	*	*
+nbc_0019	0	68	,	*	*
+nbc_0019	0	69	according	*	*
+nbc_0019	0	70	to	*	*
+nbc_0019	0	71	the	*	*
+nbc_0019	0	72	President	*	*
+nbc_0019	0	73	,	*	*
+nbc_0019	0	74	to	*	*
+nbc_0019	0	75	children	*	*
+nbc_0019	0	76	and	*	*
+nbc_0019	0	77	seniors	*	*
+nbc_0019	0	78	.	*	*
+
+nbc_0019	0	0	Instead	-
+nbc_0019	0	1	of	-
+nbc_0019	0	2	meeting	-
+nbc_0019	0	3	us	-
+nbc_0019	0	4	on	-
+nbc_0019	0	5	common	-
+nbc_0019	0	6	ground	-
+nbc_0019	0	7	,	-
+nbc_0019	0	8	instead	-
+nbc_0019	0	9	of	-
+nbc_0019	0	10	working	-
+nbc_0019	0	11	with	-
+nbc_0019	0	12	the	-
+nbc_0019	0	13	White	-
+nbc_0019	0	14	House	-
+nbc_0019	0	15	or	-
+nbc_0019	0	16	congressional	-
+nbc_0019	0	17	Democrats	-
+nbc_0019	0	18	,	-
+nbc_0019	0	19	the	(0
+nbc_0019	0	20	Republican	-
+nbc_0019	0	21	leadership	0)
+nbc_0019	0	22	closed	-
+nbc_0019	0	23	its	(3|(0)
+nbc_0019	0	24	doors	3)
+nbc_0019	0	25	to	-
+nbc_0019	0	26	compromise	-
+nbc_0019	0	27	--	-
+nbc_0019	0	28	literally	-
+nbc_0019	0	29	closed	-
+nbc_0019	0	30	the	(3
+nbc_0019	0	31	doors	3)
+nbc_0019	0	32	to	-
+nbc_0019	0	33	compromise	-
+nbc_0019	0	34	.	-
+
+nbc_0019	0	0	They	(0)
+nbc_0019	0	1	crafted	-
+nbc_0019	0	2	their	(5|(0)
+nbc_0019	0	3	own	-
+nbc_0019	0	4	partisan	-
+nbc_0019	0	5	tax	-
+nbc_0019	0	6	package	5)
+nbc_0019	0	7	and	-
+nbc_0019	0	8	passed	-
+nbc_0019	0	9	it	(5)
+nbc_0019	0	10	last	-
+nbc_0019	0	11	night	-
+nbc_0019	0	12	on	-
+nbc_0019	0	13	a	-
+nbc_0019	0	14	party	-
+nbc_0019	0	15	-	-
+nbc_0019	0	16	line	-
+nbc_0019	0	17	vote	-
+nbc_0019	0	18	.	-
+
+nbc_0019	0	0	Republican	(2
+nbc_0019	0	1	leaders	2)
+nbc_0019	0	2	for	-
+nbc_0019	0	3	their	(2)
+nbc_0019	0	4	part	-
+nbc_0019	0	5	said	-
+nbc_0019	0	6	reopening	-
+nbc_0019	0	7	the	(4
+nbc_0019	0	8	tax	-
+nbc_0019	0	9	debate	4)
+nbc_0019	0	10	is	-
+nbc_0019	0	11	not	-
+nbc_0019	0	12	now	-
+nbc_0019	0	13	realistic	-
+nbc_0019	0	14	and	-
+nbc_0019	0	15	the	(5
+nbc_0019	0	16	tax	-
+nbc_0019	0	17	cut	-
+nbc_0019	0	18	bill	5)
+nbc_0019	0	19	is	-
+nbc_0019	0	20	probably	-
+nbc_0019	0	21	tombed	-
+nbc_0019	0	22	.	-
+
+nbc_0019	0	0	They	(2)
+nbc_0019	0	1	are	-
+nbc_0019	0	2	angry	-
+nbc_0019	0	3	that	-
+nbc_0019	0	4	the	(1
+nbc_0019	0	5	President	1)
+nbc_0019	0	6	is	-
+nbc_0019	0	7	threatening	-
+nbc_0019	0	8	to	-
+nbc_0019	0	9	veto	-
+nbc_0019	0	10	it	(5)
+nbc_0019	0	11	saying	-
+nbc_0019	0	12	it	-
+nbc_0019	0	13	's	-
+nbc_0019	0	14	wrong	-
+nbc_0019	0	15	to	-
+nbc_0019	0	16	have	-
+nbc_0019	0	17	political	-
+nbc_0019	0	18	budget	-
+nbc_0019	0	19	battles	-
+nbc_0019	0	20	right	-
+nbc_0019	0	21	before	-
+nbc_0019	0	22	the	-
+nbc_0019	0	23	election	-
+nbc_0019	0	24	.	-
+
+#end document

@@ -1,0 +1,93 @@
+#begin document (pri_0099_0); part 000
+pri_0099	0	0	President	NNP	(TOP(S(NP*	-	-	-	-	(1
+pri_0099	0	1	Clinton	NNP	*)	-	-	-	-	1)
+pri_0099	0	2	has	VBZ	(VP*	have	01	-	-	-
+pri_0099	0	3	pardoned	VBN	(VP*	pardon	01	2	-	-
+pri_0099	0	4	a	DT	(NP(NP(NP*	-	-	-	-	(0
+pri_0099	0	5	former	JJ	*	-	-	-	-	-
+pri_0099	0	6	leading	VBG	*	lead	02	-	-	-
+pri_0099	0	7	member	NN	*)	member	-	1	-	-
+pri_0099	0	8	of	IN	(PP*	-	-	-	-	-
+pri_0099	0	9	the	DT	(NP(NP*	-	-	-	-	(2
+pri_0099	0	10	House	NNP	*)	-	-	-	-	-
+pri_0099	0	11	of	IN	(PP*	-	-	-	-	-
+pri_0099	0	12	Representatives	NNPS	(NP*)))))	-	-	-	-	2)
+pri_0099	0	13	convicted	VBN	(VP*	convict	01	1	-	-
+pri_0099	0	14	of	IN	(PP*	-	-	-	-	-
+pri_0099	0	15	corruption	NN	(NP*	-	-	-	-	-
+pri_0099	0	16	charges	NNS	*))	charge	03	3	-	-
+pri_0099	0	17	in	IN	(PP*	-	-	-	-	-
+pri_0099	0	18	1996	CD	(NP*))))))	-	-	-	-	0)
+pri_0099	0	19	.	.	*))	-	-	-	-	-
+
+pri_0099	0	0	Former	JJ	(TOP(S(NP(NML(NML*	-	-	-	-	(0
+pri_0099	0	1	Chairman	NNP	*)	-	-	-	-	-
+pri_0099	0	2	of	IN	(PP*	-	-	-	-	-
+pri_0099	0	3	the	DT	(NP*	-	-	-	-	-
+pri_0099	0	4	House	NNP	*	-	-	-	-	(2)
+pri_0099	0	5	Ways	NNPS	(NML*	-	-	-	-	-
+pri_0099	0	6	and	CC	*	-	-	-	-	-
+pri_0099	0	7	Means	NNP	*)	-	-	-	-	-
+pri_0099	0	8	Committee	NNP	*)))	-	-	-	-	-
+pri_0099	0	9	Dan	NNP	*	-	-	-	-	-
+pri_0099	0	10	Rostenkowski	NNP	*)	-	-	-	-	0)
+pri_0099	0	11	was	VBD	(VP*	be	01	1	-	-
+pri_0099	0	12	among	IN	(PP*	-	-	-	-	-
+pri_0099	0	13	59	CD	(NP(NP*	-	-	-	-	-
+pri_0099	0	14	convicted	VBN	*	convict	01	-	-	-
+pri_0099	0	15	criminals	NNS	*)	-	-	-	-	-
+pri_0099	0	16	pardoned	VBN	(VP*	pardon	01	2	-	-
+pri_0099	0	17	by	IN	(PP*	-	-	-	-	-
+pri_0099	0	18	the	DT	(NP*	-	-	-	-	(1
+pri_0099	0	19	President	NNP	*))))))	-	-	-	-	1)
+pri_0099	0	20	.	.	*))	-	-	-	-	-
+
+pri_0099	0	0	He	PRP	(TOP(S(NP*)	-	-	-	-	(0)
+pri_0099	0	1	was	VBD	(VP*	be	03	-	-	-
+pri_0099	0	2	sentenced	VBN	(VP(VP*	sentence	01	1	-	-
+pri_0099	0	3	to	IN	(PP*	-	-	-	-	-
+pri_0099	0	4	17	CD	(NP(NP*	-	-	-	-	-
+pri_0099	0	5	months	NNS	*)	month	-	1	-	-
+pri_0099	0	6	in	IN	(PP*	-	-	-	-	-
+pri_0099	0	7	prison	NN	(NP*)))))	-	-	-	-	-
+pri_0099	0	8	and	CC	*	-	-	-	-	-
+pri_0099	0	9	fined	VBN	(VP*	fine	01	1	-	-
+pri_0099	0	10	100,000	CD	(NP*	-	-	-	-	-
+pri_0099	0	11	dollars	NNS	*)	-	-	-	-	-
+pri_0099	0	12	after	IN	(PP*	-	-	-	-	-
+pri_0099	0	13	pleading	VBG	(S(VP*	plead	02	3	-	-
+pri_0099	0	14	guilty	JJ	(S(ADJP*	-	-	-	-	-
+pri_0099	0	15	to	IN	(PP*	-	-	-	-	-
+pri_0099	0	16	mail	NN	(NP*	mail	-	2	-	-
+pri_0099	0	17	fraud	NN	*))))))))))	-	-	-	-	-
+pri_0099	0	18	.	.	*))	-	-	-	-	-
+
+pri_0099	0	0	Clinton	NNP	(TOP(S(NP*)	-	-	-	-	(1)
+pri_0099	0	1	is	VBZ	(VP*	be	03	-	-	-
+pri_0099	0	2	also	RB	(ADVP*)	-	-	-	-	-
+pri_0099	0	3	considering	VBG	(VP*	consider	02	2	-	-
+pri_0099	0	4	clemency	NN	(NP(NP*)	-	-	-	-	-
+pri_0099	0	5	for	IN	(PP*	-	-	-	-	-
+pri_0099	0	6	several	JJ	(NP*	-	-	-	-	-
+pri_0099	0	7	other	JJ	*	-	-	-	-	-
+pri_0099	0	8	convicted	VBN	*	convict	01	-	-	-
+pri_0099	0	9	criminals	NNS	*)))))	-	-	-	-	-
+pri_0099	0	10	.	.	*))	-	-	-	-	-
+
+pri_0099	0	0	BBC	NNP	(TOP(NP(NP*	-	-	-	-	-
+pri_0099	0	1	News	NNP	*)	-	-	-	-	-
+pri_0099	0	2	for	IN	(PP*	-	-	-	-	-
+pri_0099	0	3	The	DT	(NP*	-	-	-	-	-
+pri_0099	0	4	World	NNP	*))	-	-	-	-	-
+pri_0099	0	5	.	.	*))	-	-	-	-	-
+
+pri_0099	0	0	In	IN	(TOP(S(PP*	-	-	-	-	-
+pri_0099	0	1	London	NNP	(NP*))	-	-	-	-	-
+pri_0099	0	2	,	,	*	-	-	-	-	-
+pri_0099	0	3	I	PRP	(NP*)	-	-	-	-	-
+pri_0099	0	4	am	VBP	(VP*	be	01	1	-	-
+pri_0099	0	5	James	NNP	(NP*	-	-	-	-	-
+pri_0099	0	6	Cowling	NNP	*))	-	-	-	-	-
+pri_0099	0	7	.	.	*))	-	-	-	-	-
+
+#end document

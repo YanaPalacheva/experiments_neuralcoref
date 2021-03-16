@@ -1,0 +1,758 @@
+# newdoc id = ee2a0dd1-6de6-4dad-ab19-c856cb10d6d5
+# newpar id = ee2a0dd1-6de6-4dad-ab19-c856cb10d6d5-p1
+# par_text = Итак, в числе этой дворни, которой было множество и кроме Макара Иванова, была одна девица, и была уже лет восемнадцати, когда пятидесятилетний Макар Долгорукий вдруг обнаружил намерение на ней жениться. Браки дворовых, как известно, происходили во времена крепостного права с дозволения господ, а иногда и прямо по распоряжению их. При имении находилась тогда тетушка; то есть она мне не тетушка, а сама помещица; но, не знаю почему, все всю жизнь ее звали тетушкой, не только моей, но и вообще, равно как и в семействе Версилова, которому она чуть ли и в самом деле не сродни. Это - Татьяна Павловна Пруткова. Тогда у ней еще было в той же губернии и в том же уезде тридцать пять своих душ. Она не то что управляла, но по соседству надзирала над имением Версилова (в пятьсот душ), и этот надзор, как я слышал, стоил надзора какого-нибудь управляющего из ученых. Впрочем, до знаний ее мне решительно нет дела; я только хочу прибавить, откинув всякую мысль лести и заискивания, что эта Татьяна Павловна - существо благородное и даже оригинальное.
+# sent_id = ee2a0dd1-6de6-4dad-ab19-c856cb10d6d5-p1-s1
+# text = Итак, в числе этой дворни, которой было множество и кроме Макара Иванова, была одна девица, и была уже лет восемнадцати, когда пятидесятилетний Макар Долгорукий вдруг обнаружил намерение на ней жениться.
+1	Итак	_	_	_	_	_	_	_	Shift=0|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=4
+3	в	_	_	_	_	_	_	_	Shift=6
+4	числе	_	_	_	_	_	_	_	Shift=8
+5	этой	_	_	_	_	_	_	_	RuCor_chain_id=736|RuCor_group_id=410225|Shift=14
+6	дворни	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=736|RuCor_group_id=410225|RuCor_link_id=0|Shift=19|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=25
+8	которой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=736|RuCor_group_id=410226|RuCor_link_id=410225|Shift=27
+9	было	_	_	_	_	_	_	_	Shift=35
+10	множество	_	_	_	_	_	_	_	Shift=40
+11	и	_	_	_	_	_	_	_	Shift=50
+12	кроме	_	_	_	_	_	_	_	Shift=52
+13	Макара	_	_	_	_	_	_	_	RuCor_chain_id=728|RuCor_group_id=410270|Shift=58
+14	Иванова	_	_	_	_	_	_	_	RuCor_chain_id=728|RuCor_group_id=410270|Shift=65|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=72
+16	была	_	_	_	_	_	_	_	Shift=74
+17	одна	_	_	_	_	_	_	_	RuCor_chain_id=735|RuCor_group_id=410227|Shift=79
+18	девица	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=735|RuCor_group_id=410227|RuCor_link_id=0|Shift=84|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=90
+20	и	_	_	_	_	_	_	_	Shift=92
+21	была	_	_	_	_	_	_	_	Shift=94
+22	уже	_	_	_	_	_	_	_	Shift=99
+23	лет	_	_	_	_	_	_	_	Shift=103
+24	восемнадцати	_	_	_	_	_	_	_	Shift=107|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=119
+26	когда	_	_	_	_	_	_	_	Shift=121
+27	пятидесятилетний	_	_	_	_	_	_	_	RuCor_chain_id=728|RuCor_group_id=410251|Shift=127
+28	Макар	_	_	_	_	_	_	_	RuCor_chain_id=728|RuCor_group_id=410251|Shift=144
+29	Долгорукий	_	_	_	_	_	_	_	RuCor_chain_id=728|RuCor_group_id=410251|Shift=150
+30	вдруг	_	_	_	_	_	_	_	Shift=161
+31	обнаружил	_	_	_	_	_	_	_	Shift=167
+32	намерение	_	_	_	_	_	_	_	Shift=177
+33	на	_	_	_	_	_	_	_	Shift=187
+34	ней	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=735|RuCor_group_id=410228|RuCor_link_id=410227|Shift=190
+35	жениться	_	_	_	_	_	_	_	Shift=194|SpaceAfter=No
+36	.	_	_	_	_	_	_	_	Shift=202
+
+# sent_id = ee2a0dd1-6de6-4dad-ab19-c856cb10d6d5-p1-s2
+# text = Браки дворовых, как известно, происходили во времена крепостного права с дозволения господ, а иногда и прямо по распоряжению их.
+1	Браки	_	_	_	_	_	_	_	Shift=204
+2	дворовых	_	_	_	_	_	_	_	Shift=210|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=218
+4	как	_	_	_	_	_	_	_	Shift=220
+5	известно	_	_	_	_	_	_	_	Shift=224|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=232
+7	происходили	_	_	_	_	_	_	_	Shift=234
+8	во	_	_	_	_	_	_	_	Shift=246
+9	времена	_	_	_	_	_	_	_	Shift=249
+10	крепостного	_	_	_	_	_	_	_	Shift=257
+11	права	_	_	_	_	_	_	_	Shift=269
+12	с	_	_	_	_	_	_	_	Shift=275
+13	дозволения	_	_	_	_	_	_	_	Shift=277
+14	господ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=734|RuCor_group_id=410229|RuCor_link_id=0|Shift=288|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=294
+16	а	_	_	_	_	_	_	_	Shift=296
+17	иногда	_	_	_	_	_	_	_	Shift=298
+18	и	_	_	_	_	_	_	_	Shift=305
+19	прямо	_	_	_	_	_	_	_	Shift=307
+20	по	_	_	_	_	_	_	_	Shift=313
+21	распоряжению	_	_	_	_	_	_	_	Shift=316
+22	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=734|RuCor_group_id=410230|RuCor_link_id=410229|Shift=329|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=331
+
+# sent_id = ee2a0dd1-6de6-4dad-ab19-c856cb10d6d5-p1-s3
+# text = При имении находилась тогда тетушка.
+1	При	_	_	_	_	_	_	_	Shift=333
+2	имении	_	_	_	_	_	_	_	Shift=337
+3	находилась	_	_	_	_	_	_	_	Shift=344
+4	тогда	_	_	_	_	_	_	_	Shift=355
+5	тетушка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=733|RuCor_group_id=410231|RuCor_link_id=0|Shift=361|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=368
+
+# sent_id = ee2a0dd1-6de6-4dad-ab19-c856cb10d6d5-p1-s4
+# text = то есть она мне не тетушка, а сама помещица.
+1	то	_	_	_	_	_	_	_	Shift=370
+2	есть	_	_	_	_	_	_	_	Shift=373
+3	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=733|RuCor_group_id=410232|RuCor_link_id=410231|Shift=378
+4	мне	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=732|RuCor_group_id=410233|RuCor_link_id=0|Shift=382
+5	не	_	_	_	_	_	_	_	Shift=386
+6	тетушка	_	_	_	_	_	_	_	Shift=389|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=396
+8	а	_	_	_	_	_	_	_	Shift=398
+9	сама	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=733|RuCor_group_id=410307|RuCor_link_id=410234|Shift=400
+10	помещица	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=733|RuCor_group_id=410234|RuCor_link_id=410232|Shift=405|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=413
+
+# sent_id = ee2a0dd1-6de6-4dad-ab19-c856cb10d6d5-p1-s5
+# text = но, не знаю почему, все всю жизнь ее звали тетушкой, не только моей, но и вообще, равно как и в семействе Версилова, которому она чуть ли и в самом деле не сродни.
+1	но	_	_	_	_	_	_	_	Shift=415|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=417
+3	не	_	_	_	_	_	_	_	Shift=419
+4	знаю	_	_	_	_	_	_	_	Shift=422
+5	почему	_	_	_	_	_	_	_	Shift=427|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=433
+7	все	_	_	_	_	_	_	_	Shift=435
+8	всю	_	_	_	_	_	_	_	Shift=439
+9	жизнь	_	_	_	_	_	_	_	Shift=443
+10	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=733|RuCor_group_id=410235|RuCor_link_id=410232|Shift=449
+11	звали	_	_	_	_	_	_	_	Shift=452
+12	тетушкой	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=733|RuCor_group_id=410308|RuCor_link_id=410235|Shift=458|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=466
+14	не	_	_	_	_	_	_	_	Shift=468
+15	только	_	_	_	_	_	_	_	Shift=471
+16	моей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=732|RuCor_group_id=410236|RuCor_link_id=410233|Shift=478|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=482
+18	но	_	_	_	_	_	_	_	Shift=484
+19	и	_	_	_	_	_	_	_	Shift=487
+20	вообще	_	_	_	_	_	_	_	Shift=489|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=495
+22	равно	_	_	_	_	_	_	_	Shift=497
+23	как	_	_	_	_	_	_	_	Shift=503
+24	и	_	_	_	_	_	_	_	Shift=507
+25	в	_	_	_	_	_	_	_	Shift=509
+26	семействе	_	_	_	_	_	_	_	Shift=511
+27	Версилова	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=731|RuCor_group_id=410237|RuCor_link_id=0|Shift=521|SpaceAfter=No
+28	,	_	_	_	_	_	_	_	Shift=530
+29	которому	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=731|RuCor_group_id=410238|RuCor_link_id=410237|Shift=532
+30	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=733|RuCor_group_id=410239|RuCor_link_id=410235|Shift=541
+31	чуть	_	_	_	_	_	_	_	Shift=545
+32	ли	_	_	_	_	_	_	_	Shift=550
+33	и	_	_	_	_	_	_	_	Shift=553
+34	в	_	_	_	_	_	_	_	Shift=555
+35	самом	_	_	_	_	_	_	_	Shift=557
+36	деле	_	_	_	_	_	_	_	Shift=563
+37	не	_	_	_	_	_	_	_	Shift=568
+38	сродни	_	_	_	_	_	_	_	Shift=571|SpaceAfter=No
+39	.	_	_	_	_	_	_	_	Shift=577
+
+# sent_id = ee2a0dd1-6de6-4dad-ab19-c856cb10d6d5-p1-s6
+# text = Это - Татьяна Павловна Пруткова.
+1	Это	_	_	_	_	_	_	_	Shift=579
+2	-	_	_	_	_	_	_	_	Shift=583
+3	Татьяна	_	_	_	_	_	_	_	RuCor_chain_id=733|RuCor_group_id=410240|Shift=585
+4	Павловна	_	_	_	_	_	_	_	RuCor_chain_id=733|RuCor_group_id=410240|Shift=593
+5	Пруткова	_	_	_	_	_	_	_	RuCor_chain_id=733|RuCor_group_id=410240|Shift=602|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=610
+
+# sent_id = ee2a0dd1-6de6-4dad-ab19-c856cb10d6d5-p1-s7
+# text = Тогда у ней еще было в той же губернии и в том же уезде тридцать пять своих душ.
+1	Тогда	_	_	_	_	_	_	_	Shift=612
+2	у	_	_	_	_	_	_	_	Shift=618
+3	ней	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=733|RuCor_group_id=410241|RuCor_link_id=410240|Shift=620
+4	еще	_	_	_	_	_	_	_	Shift=624
+5	было	_	_	_	_	_	_	_	Shift=628
+6	в	_	_	_	_	_	_	_	Shift=633
+7	той	_	_	_	_	_	_	_	Shift=635
+8	же	_	_	_	_	_	_	_	Shift=639
+9	губернии	_	_	_	_	_	_	_	Shift=642
+10	и	_	_	_	_	_	_	_	Shift=651
+11	в	_	_	_	_	_	_	_	Shift=653
+12	том	_	_	_	_	_	_	_	Shift=655
+13	же	_	_	_	_	_	_	_	Shift=659
+14	уезде	_	_	_	_	_	_	_	Shift=662
+15	тридцать	_	_	_	_	_	_	_	Shift=668
+16	пять	_	_	_	_	_	_	_	Shift=677
+17	своих	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=733|RuCor_group_id=410242|RuCor_link_id=410241|Shift=682
+18	душ	_	_	_	_	_	_	_	Shift=688|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=691
+
+# sent_id = ee2a0dd1-6de6-4dad-ab19-c856cb10d6d5-p1-s8
+# text = Она не то что управляла, но по соседству надзирала над имением Версилова (в пятьсот душ), и этот надзор, как я слышал, стоил надзора какого-нибудь управляющего из ученых.
+1	Она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=733|RuCor_group_id=410243|RuCor_link_id=410242|Shift=693
+2	не	_	_	_	_	_	_	_	Shift=697
+3	то	_	_	_	_	_	_	_	Shift=700
+4	что	_	_	_	_	_	_	_	Shift=703
+5	управляла	_	_	_	_	_	_	_	Shift=707|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=716
+7	но	_	_	_	_	_	_	_	Shift=718
+8	по	_	_	_	_	_	_	_	Shift=721
+9	соседству	_	_	_	_	_	_	_	Shift=724
+10	надзирала	_	_	_	_	_	_	_	Shift=734
+11	над	_	_	_	_	_	_	_	Shift=744
+12	имением	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=726|RuCor_group_id=410303|RuCor_link_id=410302|Shift=748
+13	Версилова	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=731|RuCor_group_id=410304|RuCor_link_id=410237|Shift=756
+14	(	_	_	_	_	_	_	_	Shift=766|SpaceAfter=No
+15	в	_	_	_	_	_	_	_	Shift=767
+16	пятьсот	_	_	_	_	_	_	_	Shift=769
+17	душ	_	_	_	_	_	_	_	Shift=777|SpaceAfter=No
+18	)	_	_	_	_	_	_	_	Shift=780|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=781
+20	и	_	_	_	_	_	_	_	Shift=783
+21	этот	_	_	_	_	_	_	_	Shift=785
+22	надзор	_	_	_	_	_	_	_	Shift=790|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=796
+24	как	_	_	_	_	_	_	_	Shift=798
+25	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=732|RuCor_group_id=410244|RuCor_link_id=410233|Shift=802
+26	слышал	_	_	_	_	_	_	_	Shift=804|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=810
+28	стоил	_	_	_	_	_	_	_	Shift=812
+29	надзора	_	_	_	_	_	_	_	Shift=818
+30	какого-нибудь	_	_	_	_	_	_	_	Shift=826
+31	управляющего	_	_	_	_	_	_	_	Shift=840
+32	из	_	_	_	_	_	_	_	Shift=853
+33	ученых	_	_	_	_	_	_	_	Shift=856|SpaceAfter=No
+34	.	_	_	_	_	_	_	_	Shift=862
+
+# sent_id = ee2a0dd1-6de6-4dad-ab19-c856cb10d6d5-p1-s9
+# text = Впрочем, до знаний ее мне решительно нет дела.
+1	Впрочем	_	_	_	_	_	_	_	Shift=864|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=871
+3	до	_	_	_	_	_	_	_	Shift=873
+4	знаний	_	_	_	_	_	_	_	Shift=876
+5	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=733|RuCor_group_id=410245|RuCor_link_id=410243|Shift=883
+6	мне	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=732|RuCor_group_id=410246|RuCor_link_id=410244|Shift=886
+7	решительно	_	_	_	_	_	_	_	Shift=890
+8	нет	_	_	_	_	_	_	_	Shift=901
+9	дела	_	_	_	_	_	_	_	Shift=905|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=909
+
+# sent_id = ee2a0dd1-6de6-4dad-ab19-c856cb10d6d5-p1-s10
+# text = я только хочу прибавить, откинув всякую мысль лести и заискивания, что эта Татьяна Павловна - существо благородное и даже оригинальное.
+1	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=732|RuCor_group_id=410247|RuCor_link_id=410246|Shift=911
+2	только	_	_	_	_	_	_	_	Shift=913
+3	хочу	_	_	_	_	_	_	_	Shift=920
+4	прибавить	_	_	_	_	_	_	_	Shift=925|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=934
+6	откинув	_	_	_	_	_	_	_	Shift=936
+7	всякую	_	_	_	_	_	_	_	Shift=944
+8	мысль	_	_	_	_	_	_	_	Shift=951
+9	лести	_	_	_	_	_	_	_	Shift=957
+10	и	_	_	_	_	_	_	_	Shift=963
+11	заискивания	_	_	_	_	_	_	_	Shift=965|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=976
+13	что	_	_	_	_	_	_	_	Shift=978
+14	эта	_	_	_	_	_	_	_	RuCor_chain_id=733|RuCor_group_id=410248|Shift=982
+15	Татьяна	_	_	_	_	_	_	_	RuCor_chain_id=733|RuCor_group_id=410248|Shift=986
+16	Павловна	_	_	_	_	_	_	_	RuCor_chain_id=733|RuCor_group_id=410248|Shift=994
+17	-	_	_	_	_	_	_	_	Shift=1003
+18	существо	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=733|RuCor_group_id=410249|RuCor_link_id=410248|Shift=1005
+19	благородное	_	_	_	_	_	_	_	RuCor_chain_id=733|RuCor_group_id=410249|Shift=1014
+20	и	_	_	_	_	_	_	_	RuCor_chain_id=733|RuCor_group_id=410249|Shift=1026
+21	даже	_	_	_	_	_	_	_	RuCor_chain_id=733|RuCor_group_id=410249|Shift=1028
+22	оригинальное	_	_	_	_	_	_	_	RuCor_chain_id=733|RuCor_group_id=410249|Shift=1033|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=1045
+
+# newpar id = ee2a0dd1-6de6-4dad-ab19-c856cb10d6d5-p2
+# par_text = Вот она-то не только не отклонила супружеские наклонности мрачного Макара Долгорукого (говорили, что он был тогда мрачен), но, напротив, для чего-то в высшей степени их поощрила. Софья Андреева (эта восемнадцатилетняя дворовая, то есть мать моя) была круглою сиротою уже несколько лет; покойный же отец ее, чрезвычайно уважавший Макара Долгорукого и ему чем-то обязанный, тоже дворовый, шесть лет перед тем, помирая, на одре смерти, говорят даже, за четверть часа до последнего издыхания, так что за нужду можно бы было принять и за бред, если бы он и без того не был неправоспособен, как крепостной, подозвав Макара Долгорукого, при всей дворне и при присутствовавшем священнике, завещал ему вслух и настоятельно, указывая на дочь: "Взрасти и возьми за себя". Это все слышали. Что же до Макара Иванова, то не знаю, в каком смысле он потом женился, то есть с большим ли удовольствием или только исполняя обязанность. Вероятнее, что имел вид полного равнодушия. Это был человек, который и тогда уже умел "показать себя". Он не то чтобы был начетчик или грамотей (хотя знал церковную службу всю и особенно житие некоторых святых, но более понаслышке), не то чтобы был вроде, так сказать, дворового резонера, он просто был характера упрямого, подчас даже рискованного; говорил с амбицией, судил бесповоротно и, в заключение, "жил почтительно", - по собственному удивительному его выражению, - вот он каков был тогда. Конечно, уважение он приобрел всеобщее, но, говорят, был всем несносен. Другое дело, когда вышел из дворни: тут уж его не иначе поминали как какого-нибудь святого и много претерпевшего. Об этом я знаю наверно.
+# sent_id = ee2a0dd1-6de6-4dad-ab19-c856cb10d6d5-p2-s1
+# text = Вот она - то не только не отклонила супружеские наклонности мрачного Макара Долгорукого (говорили, что он был тогда мрачен), но, напротив, для чего-то в высшей степени их поощрила.
+1	Вот	_	_	_	_	_	_	_	Shift=1048
+2	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=733|RuCor_group_id=410250|RuCor_link_id=410248|Shift=1052
+3	-	_	_	_	_	_	_	_	RuCor_chain_id=733|RuCor_group_id=410250|Shift=1055
+4	то	_	_	_	_	_	_	_	RuCor_chain_id=733|RuCor_group_id=410250|Shift=1056
+5	не	_	_	_	_	_	_	_	Shift=1059
+6	только	_	_	_	_	_	_	_	Shift=1062
+7	не	_	_	_	_	_	_	_	Shift=1069
+8	отклонила	_	_	_	_	_	_	_	Shift=1072
+9	супружеские	_	_	_	_	_	_	_	RuCor_chain_id=730|RuCor_group_id=410254|Shift=1082
+10	наклонности	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=730|RuCor_group_id=410254|RuCor_link_id=0|Shift=1094
+11	мрачного	_	_	_	_	_	_	_	RuCor_chain_id=730|RuCor_group_id=410254|Shift=1106
+12	Макара	_	_	_	_	_	_	_	RuCor_chain_id=728|RuCor_group_id=410252|Shift=1115
+13	Долгорукого	_	_	_	_	_	_	_	RuCor_chain_id=728|RuCor_group_id=410252|Shift=1122
+14	(	_	_	_	_	_	_	_	Shift=1134|SpaceAfter=No
+15	говорили	_	_	_	_	_	_	_	Shift=1135|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=1143
+17	что	_	_	_	_	_	_	_	Shift=1145
+18	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=728|RuCor_group_id=410253|RuCor_link_id=410252|Shift=1149
+19	был	_	_	_	_	_	_	_	Shift=1152
+20	тогда	_	_	_	_	_	_	_	Shift=1156
+21	мрачен	_	_	_	_	_	_	_	Shift=1162|SpaceAfter=No
+22	)	_	_	_	_	_	_	_	Shift=1168|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=1169
+24	но	_	_	_	_	_	_	_	Shift=1171|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=1173
+26	напротив	_	_	_	_	_	_	_	Shift=1175|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=1183
+28	для	_	_	_	_	_	_	_	Shift=1185
+29	чего-то	_	_	_	_	_	_	_	Shift=1189
+30	в	_	_	_	_	_	_	_	Shift=1197
+31	высшей	_	_	_	_	_	_	_	Shift=1199
+32	степени	_	_	_	_	_	_	_	Shift=1206
+33	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=730|RuCor_group_id=410255|RuCor_link_id=410254|Shift=1214
+34	поощрила	_	_	_	_	_	_	_	Shift=1217|SpaceAfter=No
+35	.	_	_	_	_	_	_	_	Shift=1225
+
+# sent_id = ee2a0dd1-6de6-4dad-ab19-c856cb10d6d5-p2-s2
+# text = Софья Андреева (эта восемнадцатилетняя дворовая, то есть мать моя) была круглою сиротою уже несколько лет.
+1	Софья	_	_	_	_	_	_	_	RuCor_chain_id=735|RuCor_group_id=410256|Shift=1227
+2	Андреева	_	_	_	_	_	_	_	RuCor_chain_id=735|RuCor_group_id=410256|Shift=1233
+3	(	_	_	_	_	_	_	_	Shift=1242|SpaceAfter=No
+4	эта	_	_	_	_	_	_	_	RuCor_chain_id=735|RuCor_group_id=410257|Shift=1243
+5	восемнадцатилетняя	_	_	_	_	_	_	_	RuCor_chain_id=735|RuCor_group_id=410257|Shift=1247
+6	дворовая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=appo|RuCor_attrs_type=coref|RuCor_chain_id=735|RuCor_group_id=410257|RuCor_link_id=410256|Shift=1266|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=1274
+8	то	_	_	_	_	_	_	_	Shift=1276
+9	есть	_	_	_	_	_	_	_	Shift=1279
+10	мать	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=appo|RuCor_attrs_type=coref|RuCor_chain_id=735|RuCor_group_id=410258|RuCor_link_id=410257|Shift=1284
+11	моя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=732|RuCor_group_id=410259|RuCor_link_id=410247|Shift=1289|SpaceAfter=No
+12	)	_	_	_	_	_	_	_	Shift=1292
+13	была	_	_	_	_	_	_	_	Shift=1294
+14	круглою	_	_	_	_	_	_	_	RuCor_chain_id=735|RuCor_group_id=410260|Shift=1299
+15	сиротою	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=735|RuCor_group_id=410260|RuCor_link_id=410256|Shift=1307
+16	уже	_	_	_	_	_	_	_	Shift=1315
+17	несколько	_	_	_	_	_	_	_	Shift=1319
+18	лет	_	_	_	_	_	_	_	Shift=1329|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=1332
+
+# sent_id = ee2a0dd1-6de6-4dad-ab19-c856cb10d6d5-p2-s3
+# text = покойный же отец ее, чрезвычайно уважавший Макара Долгорукого и ему чем-то обязанный, тоже дворовый, шесть лет перед тем, помирая, на одре смерти, говорят даже, за четверть часа до последнего издыхания, так что за нужду можно бы было принять и за бред, если бы он и без того не был неправоспособен, как крепостной, подозвав Макара Долгорукого, при всей дворне и при присутствовавшем священнике, завещал ему вслух и настоятельно, указывая на дочь:'' Взрасти и возьми за себя''.
+1	покойный	_	_	_	_	_	_	_	RuCor_chain_id=729|RuCor_group_id=410261|Shift=1334
+2	же	_	_	_	_	_	_	_	RuCor_chain_id=729|RuCor_group_id=410261|Shift=1343
+3	отец	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=729|RuCor_group_id=410261|RuCor_link_id=0|Shift=1346
+4	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=735|RuCor_group_id=410262|RuCor_link_id=410256|Shift=1351|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1353
+6	чрезвычайно	_	_	_	_	_	_	_	Shift=1355
+7	уважавший	_	_	_	_	_	_	_	Shift=1367
+8	Макара	_	_	_	_	_	_	_	RuCor_chain_id=728|RuCor_group_id=410263|Shift=1377
+9	Долгорукого	_	_	_	_	_	_	_	RuCor_chain_id=728|RuCor_group_id=410263|Shift=1384
+10	и	_	_	_	_	_	_	_	Shift=1396
+11	ему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=728|RuCor_group_id=410264|RuCor_link_id=410263|Shift=1398
+12	чем-то	_	_	_	_	_	_	_	Shift=1402
+13	обязанный	_	_	_	_	_	_	_	Shift=1409|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=1418
+15	тоже	_	_	_	_	_	_	_	Shift=1420
+16	дворовый	_	_	_	_	_	_	_	Shift=1425|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=1433
+18	шесть	_	_	_	_	_	_	_	Shift=1435
+19	лет	_	_	_	_	_	_	_	Shift=1441
+20	перед	_	_	_	_	_	_	_	Shift=1445
+21	тем	_	_	_	_	_	_	_	Shift=1451|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=1454
+23	помирая	_	_	_	_	_	_	_	Shift=1456|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=1463
+25	на	_	_	_	_	_	_	_	Shift=1465
+26	одре	_	_	_	_	_	_	_	Shift=1468
+27	смерти	_	_	_	_	_	_	_	Shift=1473|SpaceAfter=No
+28	,	_	_	_	_	_	_	_	Shift=1479
+29	говорят	_	_	_	_	_	_	_	Shift=1481
+30	даже	_	_	_	_	_	_	_	Shift=1489|SpaceAfter=No
+31	,	_	_	_	_	_	_	_	Shift=1493
+32	за	_	_	_	_	_	_	_	Shift=1495
+33	четверть	_	_	_	_	_	_	_	Shift=1498
+34	часа	_	_	_	_	_	_	_	Shift=1507
+35	до	_	_	_	_	_	_	_	Shift=1512
+36	последнего	_	_	_	_	_	_	_	Shift=1515
+37	издыхания	_	_	_	_	_	_	_	Shift=1526|SpaceAfter=No
+38	,	_	_	_	_	_	_	_	Shift=1535
+39	так	_	_	_	_	_	_	_	Shift=1537
+40	что	_	_	_	_	_	_	_	Shift=1541
+41	за	_	_	_	_	_	_	_	Shift=1545
+42	нужду	_	_	_	_	_	_	_	Shift=1548
+43	можно	_	_	_	_	_	_	_	Shift=1554
+44	бы	_	_	_	_	_	_	_	Shift=1560
+45	было	_	_	_	_	_	_	_	Shift=1563
+46	принять	_	_	_	_	_	_	_	Shift=1568
+47	и	_	_	_	_	_	_	_	Shift=1576
+48	за	_	_	_	_	_	_	_	Shift=1578
+49	бред	_	_	_	_	_	_	_	Shift=1581|SpaceAfter=No
+50	,	_	_	_	_	_	_	_	Shift=1585
+51	если	_	_	_	_	_	_	_	Shift=1587
+52	бы	_	_	_	_	_	_	_	Shift=1592
+53	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=729|RuCor_group_id=410265|RuCor_link_id=410261|Shift=1595
+54	и	_	_	_	_	_	_	_	Shift=1598
+55	без	_	_	_	_	_	_	_	Shift=1600
+56	того	_	_	_	_	_	_	_	Shift=1604
+57	не	_	_	_	_	_	_	_	Shift=1609
+58	был	_	_	_	_	_	_	_	Shift=1612
+59	неправоспособен	_	_	_	_	_	_	_	Shift=1616|SpaceAfter=No
+60	,	_	_	_	_	_	_	_	Shift=1631
+61	как	_	_	_	_	_	_	_	Shift=1633
+62	крепостной	_	_	_	_	_	_	_	Shift=1637|SpaceAfter=No
+63	,	_	_	_	_	_	_	_	Shift=1647
+64	подозвав	_	_	_	_	_	_	_	Shift=1649
+65	Макара	_	_	_	_	_	_	_	RuCor_chain_id=728|RuCor_group_id=410266|Shift=1658
+66	Долгорукого	_	_	_	_	_	_	_	RuCor_chain_id=728|RuCor_group_id=410266|Shift=1665|SpaceAfter=No
+67	,	_	_	_	_	_	_	_	Shift=1676
+68	при	_	_	_	_	_	_	_	Shift=1678
+69	всей	_	_	_	_	_	_	_	Shift=1682
+70	дворне	_	_	_	_	_	_	_	Shift=1687
+71	и	_	_	_	_	_	_	_	Shift=1694
+72	при	_	_	_	_	_	_	_	Shift=1696
+73	присутствовавшем	_	_	_	_	_	_	_	Shift=1700
+74	священнике	_	_	_	_	_	_	_	Shift=1717|SpaceAfter=No
+75	,	_	_	_	_	_	_	_	Shift=1727
+76	завещал	_	_	_	_	_	_	_	Shift=1729
+77	ему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=728|RuCor_group_id=410267|RuCor_link_id=410266|Shift=1737
+78	вслух	_	_	_	_	_	_	_	Shift=1741
+79	и	_	_	_	_	_	_	_	Shift=1747
+80	настоятельно	_	_	_	_	_	_	_	Shift=1749|SpaceAfter=No
+81	,	_	_	_	_	_	_	_	Shift=1761
+82	указывая	_	_	_	_	_	_	_	Shift=1763
+83	на	_	_	_	_	_	_	_	Shift=1772
+84	дочь	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=735|RuCor_group_id=410268|RuCor_link_id=410256|Shift=1775|SpaceAfter=No
+85	:	_	_	_	_	_	_	_	Shift=1779|SpaceAfter=No
+86	''	_	_	_	_	_	_	_	Shift=1781
+87	Взрасти	_	_	_	_	_	_	_	Shift=1782
+88	и	_	_	_	_	_	_	_	Shift=1790
+89	возьми	_	_	_	_	_	_	_	Shift=1792
+90	за	_	_	_	_	_	_	_	Shift=1799
+91	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=728|RuCor_group_id=410269|RuCor_link_id=410267|Shift=1802|SpaceAfter=No
+92	''	_	_	_	_	_	_	_	Shift=1806|SpaceAfter=No
+93	.	_	_	_	_	_	_	_	Shift=1807
+
+# sent_id = ee2a0dd1-6de6-4dad-ab19-c856cb10d6d5-p2-s4
+# text = Это все слышали.
+1	Это	_	_	_	_	_	_	_	Shift=1809
+2	все	_	_	_	_	_	_	_	Shift=1813
+3	слышали	_	_	_	_	_	_	_	Shift=1817|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=1824
+
+# sent_id = ee2a0dd1-6de6-4dad-ab19-c856cb10d6d5-p2-s5
+# text = Что же до Макара Иванова, то не знаю, в каком смысле он потом женился, то есть с большим ли удовольствием или только исполняя обязанность.
+1	Что	_	_	_	_	_	_	_	Shift=1826
+2	же	_	_	_	_	_	_	_	Shift=1830
+3	до	_	_	_	_	_	_	_	Shift=1833
+4	Макара	_	_	_	_	_	_	_	RuCor_chain_id=728|RuCor_group_id=410271|Shift=1836
+5	Иванова	_	_	_	_	_	_	_	RuCor_chain_id=728|RuCor_group_id=410271|Shift=1843|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1850
+7	то	_	_	_	_	_	_	_	Shift=1852
+8	не	_	_	_	_	_	_	_	Shift=1855
+9	знаю	_	_	_	_	_	_	_	Shift=1858|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=1862
+11	в	_	_	_	_	_	_	_	Shift=1864
+12	каком	_	_	_	_	_	_	_	Shift=1866
+13	смысле	_	_	_	_	_	_	_	Shift=1872
+14	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=728|RuCor_group_id=410272|RuCor_link_id=410271|Shift=1879
+15	потом	_	_	_	_	_	_	_	Shift=1882
+16	женился	_	_	_	_	_	_	_	Shift=1888|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=1895
+18	то	_	_	_	_	_	_	_	Shift=1897
+19	есть	_	_	_	_	_	_	_	Shift=1900
+20	с	_	_	_	_	_	_	_	Shift=1905
+21	большим	_	_	_	_	_	_	_	Shift=1907
+22	ли	_	_	_	_	_	_	_	Shift=1915
+23	удовольствием	_	_	_	_	_	_	_	Shift=1918
+24	или	_	_	_	_	_	_	_	Shift=1932
+25	только	_	_	_	_	_	_	_	Shift=1936
+26	исполняя	_	_	_	_	_	_	_	Shift=1943
+27	обязанность	_	_	_	_	_	_	_	Shift=1952|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=1963
+
+# sent_id = ee2a0dd1-6de6-4dad-ab19-c856cb10d6d5-p2-s6
+# text = Вероятнее, что имел вид полного равнодушия.
+1	Вероятнее	_	_	_	_	_	_	_	Shift=1965|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=1974
+3	что	_	_	_	_	_	_	_	Shift=1976
+4	имел	_	_	_	_	_	_	_	Shift=1980
+5	вид	_	_	_	_	_	_	_	Shift=1985
+6	полного	_	_	_	_	_	_	_	Shift=1989
+7	равнодушия	_	_	_	_	_	_	_	Shift=1997|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=2007
+
+# sent_id = ee2a0dd1-6de6-4dad-ab19-c856cb10d6d5-p2-s7
+# text = Это был человек, который и тогда уже умел ``показать себя''.
+1	Это	_	_	_	_	_	_	_	Shift=2009
+2	был	_	_	_	_	_	_	_	Shift=2013
+3	человек	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=727|RuCor_group_id=410273|RuCor_link_id=0|Shift=2017|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2024
+5	который	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=727|RuCor_group_id=410274|RuCor_link_id=410273|Shift=2026
+6	и	_	_	_	_	_	_	_	Shift=2034
+7	тогда	_	_	_	_	_	_	_	Shift=2036
+8	уже	_	_	_	_	_	_	_	Shift=2042
+9	умел	_	_	_	_	_	_	_	Shift=2046
+10	``	_	_	_	_	_	_	_	Shift=2051|SpaceAfter=No
+11	показать	_	_	_	_	_	_	_	Shift=2052
+12	себя	_	_	_	_	_	_	_	Shift=2061|SpaceAfter=No
+13	''	_	_	_	_	_	_	_	Shift=2065|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=2066
+
+# sent_id = ee2a0dd1-6de6-4dad-ab19-c856cb10d6d5-p2-s8
+# text = Он не то чтобы был начетчик или грамотей (хотя знал церковную службу всю и особенно житие некоторых святых, но более понаслышке), не то чтобы был вроде, так сказать, дворового резонера, он просто был характера упрямого, подчас даже рискованного.
+1	Он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=728|RuCor_group_id=410275|RuCor_link_id=410271|Shift=2068
+2	не	_	_	_	_	_	_	_	Shift=2071
+3	то	_	_	_	_	_	_	_	Shift=2074
+4	чтобы	_	_	_	_	_	_	_	Shift=2077
+5	был	_	_	_	_	_	_	_	Shift=2083
+6	начетчик	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=728|RuCor_group_id=410276|RuCor_link_id=410275|Shift=2087
+7	или	_	_	_	_	_	_	_	Shift=2096
+8	грамотей	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=728|RuCor_group_id=410277|RuCor_link_id=410275|Shift=2100
+9	(	_	_	_	_	_	_	_	Shift=2109|SpaceAfter=No
+10	хотя	_	_	_	_	_	_	_	Shift=2110
+11	знал	_	_	_	_	_	_	_	Shift=2115
+12	церковную	_	_	_	_	_	_	_	Shift=2120
+13	службу	_	_	_	_	_	_	_	Shift=2130
+14	всю	_	_	_	_	_	_	_	Shift=2137
+15	и	_	_	_	_	_	_	_	Shift=2141
+16	особенно	_	_	_	_	_	_	_	Shift=2143
+17	житие	_	_	_	_	_	_	_	Shift=2152
+18	некоторых	_	_	_	_	_	_	_	Shift=2158
+19	святых	_	_	_	_	_	_	_	Shift=2168|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=2174
+21	но	_	_	_	_	_	_	_	Shift=2176
+22	более	_	_	_	_	_	_	_	Shift=2179
+23	понаслышке	_	_	_	_	_	_	_	Shift=2185|SpaceAfter=No
+24	)	_	_	_	_	_	_	_	Shift=2195|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=2196
+26	не	_	_	_	_	_	_	_	Shift=2198
+27	то	_	_	_	_	_	_	_	Shift=2201
+28	чтобы	_	_	_	_	_	_	_	Shift=2204
+29	был	_	_	_	_	_	_	_	Shift=2210
+30	вроде	_	_	_	_	_	_	_	Shift=2214|SpaceAfter=No
+31	,	_	_	_	_	_	_	_	Shift=2219
+32	так	_	_	_	_	_	_	_	Shift=2221
+33	сказать	_	_	_	_	_	_	_	Shift=2225|SpaceAfter=No
+34	,	_	_	_	_	_	_	_	Shift=2232
+35	дворового	_	_	_	_	_	_	_	Shift=2234
+36	резонера	_	_	_	_	_	_	_	Shift=2244|SpaceAfter=No
+37	,	_	_	_	_	_	_	_	Shift=2252
+38	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=728|RuCor_group_id=410278|RuCor_link_id=410275|Shift=2254
+39	просто	_	_	_	_	_	_	_	Shift=2257
+40	был	_	_	_	_	_	_	_	Shift=2264
+41	характера	_	_	_	_	_	_	_	Shift=2268
+42	упрямого	_	_	_	_	_	_	_	Shift=2278|SpaceAfter=No
+43	,	_	_	_	_	_	_	_	Shift=2286
+44	подчас	_	_	_	_	_	_	_	Shift=2288
+45	даже	_	_	_	_	_	_	_	Shift=2295
+46	рискованного	_	_	_	_	_	_	_	Shift=2300|SpaceAfter=No
+47	.	_	_	_	_	_	_	_	Shift=2312
+
+# sent_id = ee2a0dd1-6de6-4dad-ab19-c856cb10d6d5-p2-s9
+# text = говорил с амбицией, судил бесповоротно и, в заключение, ``жил почтительно'', - по собственному удивительному его выражению, - вот он каков был тогда.
+1	говорил	_	_	_	_	_	_	_	Shift=2314
+2	с	_	_	_	_	_	_	_	Shift=2322
+3	амбицией	_	_	_	_	_	_	_	Shift=2324|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2332
+5	судил	_	_	_	_	_	_	_	Shift=2334
+6	бесповоротно	_	_	_	_	_	_	_	Shift=2340
+7	и	_	_	_	_	_	_	_	Shift=2353|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=2354
+9	в	_	_	_	_	_	_	_	Shift=2356
+10	заключение	_	_	_	_	_	_	_	Shift=2358|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=2368
+12	``	_	_	_	_	_	_	_	Shift=2370|SpaceAfter=No
+13	жил	_	_	_	_	_	_	_	Shift=2371
+14	почтительно	_	_	_	_	_	_	_	Shift=2375|SpaceAfter=No
+15	''	_	_	_	_	_	_	_	Shift=2386|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=2387
+17	-	_	_	_	_	_	_	_	Shift=2389
+18	по	_	_	_	_	_	_	_	Shift=2391
+19	собственному	_	_	_	_	_	_	_	Shift=2394
+20	удивительному	_	_	_	_	_	_	_	Shift=2407
+21	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=728|RuCor_group_id=410279|RuCor_link_id=410278|Shift=2421
+22	выражению	_	_	_	_	_	_	_	Shift=2425|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=2434
+24	-	_	_	_	_	_	_	_	Shift=2436
+25	вот	_	_	_	_	_	_	_	Shift=2438
+26	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=728|RuCor_group_id=410280|RuCor_link_id=410279|Shift=2442
+27	каков	_	_	_	_	_	_	_	Shift=2445
+28	был	_	_	_	_	_	_	_	Shift=2451
+29	тогда	_	_	_	_	_	_	_	Shift=2455|SpaceAfter=No
+30	.	_	_	_	_	_	_	_	Shift=2460
+
+# sent_id = ee2a0dd1-6de6-4dad-ab19-c856cb10d6d5-p2-s10
+# text = Конечно, уважение он приобрел всеобщее, но, говорят, был всем несносен.
+1	Конечно	_	_	_	_	_	_	_	Shift=2462|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=2469
+3	уважение	_	_	_	_	_	_	_	Shift=2471
+4	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=728|RuCor_group_id=410281|RuCor_link_id=410280|Shift=2480
+5	приобрел	_	_	_	_	_	_	_	Shift=2483
+6	всеобщее	_	_	_	_	_	_	_	Shift=2492|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=2500
+8	но	_	_	_	_	_	_	_	Shift=2502|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=2504
+10	говорят	_	_	_	_	_	_	_	Shift=2506|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=2513
+12	был	_	_	_	_	_	_	_	Shift=2515
+13	всем	_	_	_	_	_	_	_	Shift=2519
+14	несносен	_	_	_	_	_	_	_	Shift=2524|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=2532
+
+# sent_id = ee2a0dd1-6de6-4dad-ab19-c856cb10d6d5-p2-s11
+# text = Другое дело, когда вышел из дворни: тут уж его не иначе поминали как какого-нибудь святого и много претерпевшего.
+1	Другое	_	_	_	_	_	_	_	Shift=2534
+2	дело	_	_	_	_	_	_	_	Shift=2541|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=2545
+4	когда	_	_	_	_	_	_	_	Shift=2547
+5	вышел	_	_	_	_	_	_	_	Shift=2553
+6	из	_	_	_	_	_	_	_	Shift=2559
+7	дворни	_	_	_	_	_	_	_	Shift=2562|SpaceAfter=No
+8	:	_	_	_	_	_	_	_	Shift=2568
+9	тут	_	_	_	_	_	_	_	Shift=2570
+10	уж	_	_	_	_	_	_	_	Shift=2574
+11	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=728|RuCor_group_id=410283|RuCor_link_id=410281|Shift=2577
+12	не	_	_	_	_	_	_	_	Shift=2581
+13	иначе	_	_	_	_	_	_	_	Shift=2584
+14	поминали	_	_	_	_	_	_	_	Shift=2590
+15	как	_	_	_	_	_	_	_	Shift=2599
+16	какого-нибудь	_	_	_	_	_	_	_	Shift=2603
+17	святого	_	_	_	_	_	_	_	Shift=2617
+18	и	_	_	_	_	_	_	_	Shift=2625
+19	много	_	_	_	_	_	_	_	Shift=2627
+20	претерпевшего	_	_	_	_	_	_	_	Shift=2633|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=2646
+
+# sent_id = ee2a0dd1-6de6-4dad-ab19-c856cb10d6d5-p2-s12
+# text = Об этом я знаю наверно.
+1	Об	_	_	_	_	_	_	_	Shift=2648
+2	этом	_	_	_	_	_	_	_	Shift=2651
+3	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=732|RuCor_group_id=410284|RuCor_link_id=410259|Shift=2656
+4	знаю	_	_	_	_	_	_	_	Shift=2658
+5	наверно	_	_	_	_	_	_	_	Shift=2663|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=2670
+
+# newpar id = ee2a0dd1-6de6-4dad-ab19-c856cb10d6d5-p3
+# par_text = Что же до характера моей матери, то до восемнадцати лет Татьяна Павловна продержала ее при себе, несмотря на настояния приказчика отдать в Москву в ученье, и дала ей некоторое воспитание, то есть научила шить, кроить, ходить с девичьими манерами и даже слегка читать. Писать моя мать никогда не умела сносно. В глазах ее этот брак с Макаром Ивановым был давно уже делом решенным, и все, что тогда с нею произошло, она нашла превосходным и самым лучшим; под венец пошла с самым спокойным видом, какой только можно иметь в таких случаях, так что сама уж Татьяна Павловна назвала ее тогда рыбой. Все это о тогдашнем характере матери я слышал от самой же Татьяны Павловны. Версилов приехал в деревню ровно полгода спустя после этой свадьбы.
+# sent_id = ee2a0dd1-6de6-4dad-ab19-c856cb10d6d5-p3-s1
+# text = Что же до характера моей матери, то до восемнадцати лет Татьяна Павловна продержала ее при себе, несмотря на настояния приказчика отдать в Москву в ученье, и дала ей некоторое воспитание, то есть научила шить, кроить, ходить с девичьими манерами и даже слегка читать.
+1	Что	_	_	_	_	_	_	_	Shift=2673
+2	же	_	_	_	_	_	_	_	Shift=2677
+3	до	_	_	_	_	_	_	_	Shift=2680
+4	характера	_	_	_	_	_	_	_	Shift=2683
+5	моей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=735|RuCor_group_id=410286|RuCor_link_id=410284|Shift=2693
+6	матери	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=735|RuCor_group_id=410286|RuCor_link_id=410268|Shift=2698|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=2704
+8	то	_	_	_	_	_	_	_	Shift=2706
+9	до	_	_	_	_	_	_	_	Shift=2709
+10	восемнадцати	_	_	_	_	_	_	_	Shift=2712
+11	лет	_	_	_	_	_	_	_	Shift=2725
+12	Татьяна	_	_	_	_	_	_	_	RuCor_chain_id=733|RuCor_group_id=410287|Shift=2729
+13	Павловна	_	_	_	_	_	_	_	RuCor_chain_id=733|RuCor_group_id=410287|Shift=2737
+14	продержала	_	_	_	_	_	_	_	Shift=2746
+15	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=735|RuCor_group_id=410288|RuCor_link_id=410286|Shift=2757
+16	при	_	_	_	_	_	_	_	Shift=2760
+17	себе	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=733|RuCor_group_id=410289|RuCor_link_id=410287|Shift=2764|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=2768
+19	несмотря	_	_	_	_	_	_	_	Shift=2770
+20	на	_	_	_	_	_	_	_	Shift=2779
+21	настояния	_	_	_	_	_	_	_	Shift=2782
+22	приказчика	_	_	_	_	_	_	_	Shift=2792
+23	отдать	_	_	_	_	_	_	_	Shift=2803
+24	в	_	_	_	_	_	_	_	Shift=2810
+25	Москву	_	_	_	_	_	_	_	Shift=2812
+26	в	_	_	_	_	_	_	_	Shift=2819
+27	ученье	_	_	_	_	_	_	_	Shift=2821|SpaceAfter=No
+28	,	_	_	_	_	_	_	_	Shift=2827
+29	и	_	_	_	_	_	_	_	Shift=2829
+30	дала	_	_	_	_	_	_	_	Shift=2831
+31	ей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=735|RuCor_group_id=410290|RuCor_link_id=410288|Shift=2836
+32	некоторое	_	_	_	_	_	_	_	Shift=2839
+33	воспитание	_	_	_	_	_	_	_	Shift=2849|SpaceAfter=No
+34	,	_	_	_	_	_	_	_	Shift=2859
+35	то	_	_	_	_	_	_	_	Shift=2861
+36	есть	_	_	_	_	_	_	_	Shift=2864
+37	научила	_	_	_	_	_	_	_	Shift=2869
+38	шить	_	_	_	_	_	_	_	Shift=2877|SpaceAfter=No
+39	,	_	_	_	_	_	_	_	Shift=2881
+40	кроить	_	_	_	_	_	_	_	Shift=2883|SpaceAfter=No
+41	,	_	_	_	_	_	_	_	Shift=2889
+42	ходить	_	_	_	_	_	_	_	Shift=2891
+43	с	_	_	_	_	_	_	_	Shift=2898
+44	девичьими	_	_	_	_	_	_	_	Shift=2900
+45	манерами	_	_	_	_	_	_	_	Shift=2910
+46	и	_	_	_	_	_	_	_	Shift=2919
+47	даже	_	_	_	_	_	_	_	Shift=2921
+48	слегка	_	_	_	_	_	_	_	Shift=2926
+49	читать	_	_	_	_	_	_	_	Shift=2933|SpaceAfter=No
+50	.	_	_	_	_	_	_	_	Shift=2939
+
+# sent_id = ee2a0dd1-6de6-4dad-ab19-c856cb10d6d5-p3-s2
+# text = Писать моя мать никогда не умела сносно.
+1	Писать	_	_	_	_	_	_	_	Shift=2941
+2	моя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=732|RuCor_group_id=410292|RuCor_link_id=410285|Shift=2948
+3	мать	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=735|RuCor_group_id=410291|RuCor_link_id=410286|Shift=2952
+4	никогда	_	_	_	_	_	_	_	Shift=2957
+5	не	_	_	_	_	_	_	_	Shift=2965
+6	умела	_	_	_	_	_	_	_	Shift=2968
+7	сносно	_	_	_	_	_	_	_	Shift=2974|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=2980
+
+# sent_id = ee2a0dd1-6de6-4dad-ab19-c856cb10d6d5-p3-s3
+# text = В глазах ее этот брак с Макаром Ивановым был давно уже делом решенным, и все, что тогда с нею произошло, она нашла превосходным и самым лучшим.
+1	В	_	_	_	_	_	_	_	Shift=2982
+2	глазах	_	_	_	_	_	_	_	Shift=2984
+3	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=735|RuCor_group_id=410293|RuCor_link_id=410291|Shift=2991
+4	этот	_	_	_	_	_	_	_	RuCor_chain_id=725|RuCor_group_id=410306|Shift=2994
+5	брак	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=725|RuCor_group_id=410306|RuCor_link_id=410305|Shift=2999
+6	с	_	_	_	_	_	_	_	RuCor_chain_id=725|RuCor_group_id=410306|Shift=3004
+7	Макаром	_	_	_	_	_	_	_	RuCor_chain_id=728|RuCor_group_id=410294|Shift=3006
+8	Ивановым	_	_	_	_	_	_	_	RuCor_chain_id=728|RuCor_group_id=410294|Shift=3014
+9	был	_	_	_	_	_	_	_	Shift=3023
+10	давно	_	_	_	_	_	_	_	Shift=3027
+11	уже	_	_	_	_	_	_	_	Shift=3033
+12	делом	_	_	_	_	_	_	_	Shift=3037
+13	решенным	_	_	_	_	_	_	_	Shift=3043|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=3051
+15	и	_	_	_	_	_	_	_	Shift=3053
+16	все	_	_	_	_	_	_	_	Shift=3055|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=3058
+18	что	_	_	_	_	_	_	_	Shift=3060
+19	тогда	_	_	_	_	_	_	_	Shift=3064
+20	с	_	_	_	_	_	_	_	Shift=3070
+21	нею	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=735|RuCor_group_id=410295|RuCor_link_id=410293|Shift=3072
+22	произошло	_	_	_	_	_	_	_	Shift=3076|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=3085
+24	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=735|RuCor_group_id=410296|RuCor_link_id=410295|Shift=3087
+25	нашла	_	_	_	_	_	_	_	Shift=3091
+26	превосходным	_	_	_	_	_	_	_	Shift=3097
+27	и	_	_	_	_	_	_	_	Shift=3110
+28	самым	_	_	_	_	_	_	_	Shift=3112
+29	лучшим	_	_	_	_	_	_	_	Shift=3118|SpaceAfter=No
+30	.	_	_	_	_	_	_	_	Shift=3124
+
+# sent_id = ee2a0dd1-6de6-4dad-ab19-c856cb10d6d5-p3-s4
+# text = под венец пошла с самым спокойным видом, какой только можно иметь в таких случаях, так что сама уж Татьяна Павловна назвала ее тогда рыбой.
+1	под	_	_	_	_	_	_	_	Shift=3126
+2	венец	_	_	_	_	_	_	_	Shift=3130
+3	пошла	_	_	_	_	_	_	_	Shift=3136
+4	с	_	_	_	_	_	_	_	Shift=3142
+5	самым	_	_	_	_	_	_	_	Shift=3144
+6	спокойным	_	_	_	_	_	_	_	Shift=3150
+7	видом	_	_	_	_	_	_	_	Shift=3160|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=3165
+9	какой	_	_	_	_	_	_	_	Shift=3167
+10	только	_	_	_	_	_	_	_	Shift=3173
+11	можно	_	_	_	_	_	_	_	Shift=3180
+12	иметь	_	_	_	_	_	_	_	Shift=3186
+13	в	_	_	_	_	_	_	_	Shift=3192
+14	таких	_	_	_	_	_	_	_	Shift=3194
+15	случаях	_	_	_	_	_	_	_	Shift=3200|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=3207
+17	так	_	_	_	_	_	_	_	Shift=3209
+18	что	_	_	_	_	_	_	_	Shift=3213
+19	сама	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=733|RuCor_group_id=410282|RuCor_link_id=410297|Shift=3217
+20	уж	_	_	_	_	_	_	_	Shift=3222
+21	Татьяна	_	_	_	_	_	_	_	RuCor_chain_id=733|RuCor_group_id=410297|Shift=3225
+22	Павловна	_	_	_	_	_	_	_	RuCor_chain_id=733|RuCor_group_id=410297|Shift=3233
+23	назвала	_	_	_	_	_	_	_	Shift=3242
+24	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=735|RuCor_group_id=410298|RuCor_link_id=410296|Shift=3250
+25	тогда	_	_	_	_	_	_	_	Shift=3253
+26	рыбой	_	_	_	_	_	_	_	Shift=3259|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=3264
+
+# sent_id = ee2a0dd1-6de6-4dad-ab19-c856cb10d6d5-p3-s5
+# text = Все это о тогдашнем характере матери я слышал от самой же Татьяны Павловны.
+1	Все	_	_	_	_	_	_	_	Shift=3266
+2	это	_	_	_	_	_	_	_	Shift=3270
+3	о	_	_	_	_	_	_	_	Shift=3274
+4	тогдашнем	_	_	_	_	_	_	_	Shift=3276
+5	характере	_	_	_	_	_	_	_	Shift=3286
+6	матери	_	_	_	_	_	_	_	Shift=3296
+7	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=732|RuCor_group_id=410299|RuCor_link_id=410292|Shift=3303
+8	слышал	_	_	_	_	_	_	_	Shift=3305
+9	от	_	_	_	_	_	_	_	Shift=3312
+10	самой	_	_	_	_	_	_	_	Shift=3315
+11	же	_	_	_	_	_	_	_	Shift=3321
+12	Татьяны	_	_	_	_	_	_	_	RuCor_chain_id=733|RuCor_group_id=410300|Shift=3324
+13	Павловны	_	_	_	_	_	_	_	RuCor_chain_id=733|RuCor_group_id=410300|Shift=3332|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=3340
+
+# sent_id = ee2a0dd1-6de6-4dad-ab19-c856cb10d6d5-p3-s6
+# text = Версилов приехал в деревню ровно полгода спустя после этой свадьбы.
+1	Версилов	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=731|RuCor_group_id=410301|RuCor_link_id=410237|Shift=3342
+2	приехал	_	_	_	_	_	_	_	Shift=3351
+3	в	_	_	_	_	_	_	_	Shift=3359
+4	деревню	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=726|RuCor_group_id=410302|RuCor_link_id=0|Shift=3361
+5	ровно	_	_	_	_	_	_	_	Shift=3369
+6	полгода	_	_	_	_	_	_	_	Shift=3375
+7	спустя	_	_	_	_	_	_	_	Shift=3383
+8	после	_	_	_	_	_	_	_	Shift=3390
+9	этой	_	_	_	_	_	_	_	RuCor_chain_id=725|RuCor_group_id=410305|Shift=3396
+10	свадьбы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=725|RuCor_group_id=410305|RuCor_link_id=0|Shift=3401|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	_
+

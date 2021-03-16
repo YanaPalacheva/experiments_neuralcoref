@@ -1,0 +1,406 @@
+# newdoc id = 5f5031db-4757-46e8-9bbf-23bd4b15c70e
+# newpar id = 5f5031db-4757-46e8-9bbf-23bd4b15c70e-p1
+# par_text = Лидер оппозиционной партии УДАР, депутат Верховной Рады Виталий Кличко является резидентом США — имеет статус, позволяющий ему жить и работать на территории Соединенных Штатов, а также обязывающий его платить там налоги. Об этом свидетельствуют документы, которые опубликовала 20 января газета «Закон и Бизнес».
+# sent_id = 5f5031db-4757-46e8-9bbf-23bd4b15c70e-p1-s1
+# text = Лидер оппозиционной партии УДАР, депутат Верховной Рады Виталий Кличко является резидентом США - имеет статус, позволяющий ему жить и работать на территории Соединенных Штатов, а также обязывающий его платить там налоги.
+1	Лидер	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3478|RuCor_group_id=475164|RuCor_link_id=0|Shift=0
+2	оппозиционной	_	_	_	_	_	_	_	RuCor_chain_id=3479|RuCor_group_id=475165|Shift=6
+3	партии	_	_	_	_	_	_	_	RuCor_chain_id=3479|RuCor_group_id=475165|Shift=20
+4	УДАР	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3479|RuCor_group_id=475165|RuCor_link_id=0|Shift=27|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=31
+6	депутат	_	_	_	_	_	_	_	RuCor_chain_id=3478|RuCor_group_id=475166|Shift=33
+7	Верховной	_	_	_	_	_	_	_	RuCor_chain_id=3478|RuCor_group_id=475166|Shift=41
+8	Рады	_	_	_	_	_	_	_	RuCor_chain_id=3478|RuCor_group_id=475166|Shift=51
+9	Виталий	_	_	_	_	_	_	_	RuCor_chain_id=3478|RuCor_group_id=475166|Shift=56
+10	Кличко	_	_	_	_	_	_	_	RuCor_chain_id=3478|RuCor_group_id=475166|Shift=64
+11	является	_	_	_	_	_	_	_	Shift=71
+12	резидентом	_	_	_	_	_	_	_	Shift=80
+13	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3480|RuCor_group_id=475167|RuCor_link_id=0|Shift=91
+14	-	_	_	_	_	_	_	_	Shift=95
+15	имеет	_	_	_	_	_	_	_	Shift=97
+16	статус	_	_	_	_	_	_	_	Shift=103|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=109
+18	позволяющий	_	_	_	_	_	_	_	Shift=111
+19	ему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3478|RuCor_group_id=475168|RuCor_link_id=475166|Shift=123
+20	жить	_	_	_	_	_	_	_	Shift=127
+21	и	_	_	_	_	_	_	_	Shift=132
+22	работать	_	_	_	_	_	_	_	Shift=134
+23	на	_	_	_	_	_	_	_	Shift=143
+24	территории	_	_	_	_	_	_	_	Shift=146
+25	Соединенных	_	_	_	_	_	_	_	RuCor_chain_id=3480|RuCor_group_id=475169|Shift=157
+26	Штатов	_	_	_	_	_	_	_	RuCor_chain_id=3480|RuCor_group_id=475169|Shift=169|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=175
+28	а	_	_	_	_	_	_	_	Shift=177
+29	также	_	_	_	_	_	_	_	Shift=179
+30	обязывающий	_	_	_	_	_	_	_	Shift=185
+31	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3478|RuCor_group_id=475170|RuCor_link_id=475168|Shift=197
+32	платить	_	_	_	_	_	_	_	Shift=201
+33	там	_	_	_	_	_	_	_	Shift=209
+34	налоги	_	_	_	_	_	_	_	Shift=213|SpaceAfter=No
+35	.	_	_	_	_	_	_	_	Shift=219
+
+# sent_id = 5f5031db-4757-46e8-9bbf-23bd4b15c70e-p1-s2
+# text = Об этом свидетельствуют документы, которые опубликовала 20 января газета ``Закон и Бизнес''.
+1	Об	_	_	_	_	_	_	_	Shift=221
+2	этом	_	_	_	_	_	_	_	Shift=224
+3	свидетельствуют	_	_	_	_	_	_	_	Shift=229
+4	документы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3481|RuCor_group_id=475171|RuCor_link_id=0|Shift=245|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=254
+6	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=3481|RuCor_group_id=475172|RuCor_link_id=475171|Shift=256
+7	опубликовала	_	_	_	_	_	_	_	Shift=264
+8	20	_	_	_	_	_	_	_	Shift=277
+9	января	_	_	_	_	_	_	_	Shift=280
+10	газета	_	_	_	_	_	_	_	Shift=287
+11	``	_	_	_	_	_	_	_	Shift=294|SpaceAfter=No
+12	Закон	_	_	_	_	_	_	_	Shift=295
+13	и	_	_	_	_	_	_	_	Shift=301
+14	Бизнес	_	_	_	_	_	_	_	Shift=303|SpaceAfter=No
+15	''	_	_	_	_	_	_	_	Shift=309|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=310
+
+# newpar id = 5f5031db-4757-46e8-9bbf-23bd4b15c70e-p2
+# par_text = По данным издания, Кличко сдал налоговую декларацию, содержащую номер социального страхования США (SSN - Social Security Number). Этот уникальный номер правительство Соединенных штатов использует для идентификации своих граждан и резидентов, а также учета их заработков. Согласно представленной декларации, такие номера имеют также члены семьи Кличко — жена и дети.
+# sent_id = 5f5031db-4757-46e8-9bbf-23bd4b15c70e-p2-s1
+# text = По данным издания, Кличко сдал налоговую декларацию, содержащую номер социального страхования США (SSN - Social Security Number).
+1	По	_	_	_	_	_	_	_	Shift=312
+2	данным	_	_	_	_	_	_	_	Shift=315
+3	издания	_	_	_	_	_	_	_	Shift=322|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=329
+5	Кличко	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3478|RuCor_group_id=475173|RuCor_link_id=475170|Shift=331
+6	сдал	_	_	_	_	_	_	_	Shift=338
+7	налоговую	_	_	_	_	_	_	_	RuCor_chain_id=3482|RuCor_group_id=475174|Shift=343
+8	декларацию	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3482|RuCor_group_id=475174|RuCor_link_id=0|Shift=353|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=363
+10	содержащую	_	_	_	_	_	_	_	Shift=365
+11	номер	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3483|RuCor_group_id=475175|RuCor_link_id=0|Shift=376
+12	социального	_	_	_	_	_	_	_	RuCor_chain_id=3483|RuCor_group_id=475175|Shift=382
+13	страхования	_	_	_	_	_	_	_	RuCor_chain_id=3483|RuCor_group_id=475175|Shift=394
+14	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3480|RuCor_group_id=475176|RuCor_link_id=475169|Shift=406
+15	(	_	_	_	_	_	_	_	Shift=410|SpaceAfter=No
+16	SSN	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3483|RuCor_group_id=475177|RuCor_link_id=475175|Shift=411
+17	-	_	_	_	_	_	_	_	Shift=415
+18	Social	_	_	_	_	_	_	_	RuCor_chain_id=3483|RuCor_group_id=475178|Shift=417
+19	Security	_	_	_	_	_	_	_	RuCor_chain_id=3483|RuCor_group_id=475178|Shift=424
+20	Number	_	_	_	_	_	_	_	RuCor_chain_id=3483|RuCor_group_id=475178|Shift=433|SpaceAfter=No
+21	)	_	_	_	_	_	_	_	Shift=439|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=440
+
+# sent_id = 5f5031db-4757-46e8-9bbf-23bd4b15c70e-p2-s2
+# text = Этот уникальный номер правительство Соединенных штатов использует для идентификации своих граждан и резидентов, а также учета их заработков.
+1	Этот	_	_	_	_	_	_	_	RuCor_chain_id=3483|RuCor_group_id=475179|Shift=442
+2	уникальный	_	_	_	_	_	_	_	RuCor_chain_id=3483|RuCor_group_id=475179|Shift=447
+3	номер	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3483|RuCor_group_id=475179|RuCor_link_id=475175|Shift=458
+4	правительство	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3484|RuCor_group_id=475180|RuCor_link_id=0|Shift=464
+5	Соединенных	_	_	_	_	_	_	_	RuCor_chain_id=3480|RuCor_group_id=475181|Shift=478
+6	штатов	_	_	_	_	_	_	_	RuCor_chain_id=3480|RuCor_group_id=475181|Shift=490
+7	использует	_	_	_	_	_	_	_	Shift=497
+8	для	_	_	_	_	_	_	_	Shift=508
+9	идентификации	_	_	_	_	_	_	_	Shift=512
+10	своих	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=3484|RuCor_group_id=475182|RuCor_link_id=475180|Shift=526
+11	граждан	_	_	_	_	_	_	_	Shift=532
+12	и	_	_	_	_	_	_	_	Shift=540
+13	резидентов	_	_	_	_	_	_	_	Shift=542|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=552
+15	а	_	_	_	_	_	_	_	Shift=554
+16	также	_	_	_	_	_	_	_	Shift=556
+17	учета	_	_	_	_	_	_	_	Shift=562
+18	их	_	_	_	_	_	_	_	Shift=568
+19	заработков	_	_	_	_	_	_	_	Shift=571|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=581
+
+# sent_id = 5f5031db-4757-46e8-9bbf-23bd4b15c70e-p2-s3
+# text = Согласно представленной декларации, такие номера имеют также члены семьи Кличко - жена и дети.
+1	Согласно	_	_	_	_	_	_	_	Shift=583
+2	представленной	_	_	_	_	_	_	_	RuCor_chain_id=3482|RuCor_group_id=475183|Shift=592
+3	декларации	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3482|RuCor_group_id=475183|RuCor_link_id=475174|Shift=607|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=617
+5	такие	_	_	_	_	_	_	_	RuCor_chain_id=3483|RuCor_group_id=475184|Shift=619
+6	номера	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3483|RuCor_group_id=475184|RuCor_link_id=475175|Shift=625
+7	имеют	_	_	_	_	_	_	_	Shift=632
+8	также	_	_	_	_	_	_	_	Shift=638
+9	члены	_	_	_	_	_	_	_	Shift=644
+10	семьи	_	_	_	_	_	_	_	Shift=650
+11	Кличко	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3478|RuCor_group_id=475185|RuCor_link_id=475173|Shift=656
+12	-	_	_	_	_	_	_	_	Shift=663
+13	жена	_	_	_	_	_	_	_	Shift=665
+14	и	_	_	_	_	_	_	_	Shift=670
+15	дети	_	_	_	_	_	_	_	Shift=672|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=676
+
+# newpar id = 5f5031db-4757-46e8-9bbf-23bd4b15c70e-p3
+# par_text = Доход Кличко в 2012 году, согласно декларации, составил почти 12 миллионов долларов (почти 100 миллионов гривен).
+# sent_id = 5f5031db-4757-46e8-9bbf-23bd4b15c70e-p3-s1
+# text = Доход Кличко в 2012 году, согласно декларации, составил почти 12 миллионов долларов (почти 100 миллионов гривен).
+1	Доход	_	_	_	_	_	_	_	Shift=678
+2	Кличко	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3478|RuCor_group_id=475186|RuCor_link_id=475185|Shift=684
+3	в	_	_	_	_	_	_	_	Shift=691
+4	2012	_	_	_	_	_	_	_	Shift=693
+5	году	_	_	_	_	_	_	_	Shift=698|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=702
+7	согласно	_	_	_	_	_	_	_	Shift=704
+8	декларации	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3482|RuCor_group_id=475187|RuCor_link_id=475183|Shift=713|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=723
+10	составил	_	_	_	_	_	_	_	Shift=725
+11	почти	_	_	_	_	_	_	_	Shift=734
+12	12	_	_	_	_	_	_	_	Shift=740
+13	миллионов	_	_	_	_	_	_	_	Shift=743
+14	долларов	_	_	_	_	_	_	_	Shift=753
+15	(	_	_	_	_	_	_	_	Shift=762|SpaceAfter=No
+16	почти	_	_	_	_	_	_	_	Shift=763
+17	100	_	_	_	_	_	_	_	Shift=769
+18	миллионов	_	_	_	_	_	_	_	Shift=773
+19	гривен	_	_	_	_	_	_	_	Shift=783|SpaceAfter=No
+20	)	_	_	_	_	_	_	_	Shift=789|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=790
+
+# newpar id = 5f5031db-4757-46e8-9bbf-23bd4b15c70e-p4
+# par_text = Лидер УДАРа ранее объявил о намерении участвовать в выборах президента Украины, которые намечены на 2015 года. Однако его выдвижению могут помешать поправки в Налоговый кодекс, которые касаются регистрации налогоплательщиков. Рада приняла этот документ 24 октября, а президент Виктор Янукович подписал 8 ноября. Речь идет о положении, которое звучит так: «В случае, если лицо имеет право постоянного проживания на территории иностранного государства, оно, считается, не проживает на Украине».
+# sent_id = 5f5031db-4757-46e8-9bbf-23bd4b15c70e-p4-s1
+# text = Лидер УДАРа ранее объявил о намерении участвовать в выборах президента Украины, которые намечены на 2015 года.
+1	Лидер	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3478|RuCor_group_id=475188|RuCor_link_id=475186|Shift=792
+2	УДАРа	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3479|RuCor_group_id=475189|RuCor_link_id=475165|Shift=798
+3	ранее	_	_	_	_	_	_	_	Shift=804
+4	объявил	_	_	_	_	_	_	_	Shift=810
+5	о	_	_	_	_	_	_	_	Shift=818
+6	намерении	_	_	_	_	_	_	_	Shift=820
+7	участвовать	_	_	_	_	_	_	_	Shift=830
+8	в	_	_	_	_	_	_	_	Shift=842
+9	выборах	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3485|RuCor_group_id=475190|RuCor_link_id=0|Shift=844
+10	президента	_	_	_	_	_	_	_	RuCor_chain_id=3485|RuCor_group_id=475190|Shift=852
+11	Украины	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3486|RuCor_group_id=475191|RuCor_link_id=0|Shift=863|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=870
+13	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=3485|RuCor_group_id=475192|RuCor_link_id=475190|Shift=872
+14	намечены	_	_	_	_	_	_	_	Shift=880
+15	на	_	_	_	_	_	_	_	Shift=889
+16	2015	_	_	_	_	_	_	_	Shift=892
+17	года	_	_	_	_	_	_	_	Shift=897|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=901
+
+# sent_id = 5f5031db-4757-46e8-9bbf-23bd4b15c70e-p4-s2
+# text = Однако его выдвижению могут помешать поправки в Налоговый кодекс, которые касаются регистрации налогоплательщиков.
+1	Однако	_	_	_	_	_	_	_	Shift=903
+2	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3478|RuCor_group_id=475193|RuCor_link_id=475188|Shift=910
+3	выдвижению	_	_	_	_	_	_	_	Shift=914
+4	могут	_	_	_	_	_	_	_	Shift=925
+5	помешать	_	_	_	_	_	_	_	Shift=931
+6	поправки	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3487|RuCor_group_id=475194|RuCor_link_id=0|Shift=940
+7	в	_	_	_	_	_	_	_	RuCor_chain_id=3487|RuCor_group_id=475194|Shift=949
+8	Налоговый	_	_	_	_	_	_	_	RuCor_chain_id=3487|RuCor_group_id=475194|Shift=951
+9	кодекс	_	_	_	_	_	_	_	RuCor_chain_id=3487|RuCor_group_id=475194|Shift=961|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=967
+11	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=3487|RuCor_group_id=475195|RuCor_link_id=475194|Shift=969
+12	касаются	_	_	_	_	_	_	_	Shift=977
+13	регистрации	_	_	_	_	_	_	_	Shift=986
+14	налогоплательщиков	_	_	_	_	_	_	_	Shift=998|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=1016
+
+# sent_id = 5f5031db-4757-46e8-9bbf-23bd4b15c70e-p4-s3
+# text = Рада приняла этот документ 24 октября, а президент Виктор Янукович подписал 8 ноября.
+1	Рада	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3488|RuCor_group_id=475196|RuCor_link_id=0|Shift=1018
+2	приняла	_	_	_	_	_	_	_	Shift=1023
+3	этот	_	_	_	_	_	_	_	RuCor_chain_id=3487|RuCor_group_id=475197|Shift=1031
+4	документ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3487|RuCor_group_id=475197|RuCor_link_id=475194|Shift=1036
+5	24	_	_	_	_	_	_	_	Shift=1045
+6	октября	_	_	_	_	_	_	_	Shift=1048|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=1055
+8	а	_	_	_	_	_	_	_	Shift=1057
+9	президент	_	_	_	_	_	_	_	RuCor_chain_id=3489|RuCor_group_id=475198|Shift=1059
+10	Виктор	_	_	_	_	_	_	_	RuCor_chain_id=3489|RuCor_group_id=475198|Shift=1069
+11	Янукович	_	_	_	_	_	_	_	RuCor_chain_id=3489|RuCor_group_id=475198|Shift=1076
+12	подписал	_	_	_	_	_	_	_	Shift=1085
+13	8	_	_	_	_	_	_	_	Shift=1094
+14	ноября	_	_	_	_	_	_	_	Shift=1096|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=1102
+
+# sent_id = 5f5031db-4757-46e8-9bbf-23bd4b15c70e-p4-s4
+# text = Речь идет о положении, которое звучит так: ``В случае, если лицо имеет право постоянного проживания на территории иностранного государства, оно, считается, не проживает на Украине''.
+1	Речь	_	_	_	_	_	_	_	Shift=1104
+2	идет	_	_	_	_	_	_	_	Shift=1109
+3	о	_	_	_	_	_	_	_	Shift=1114
+4	положении	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3487|RuCor_group_id=475199|RuCor_link_id=475197|Shift=1116|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1125
+6	которое	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=3487|RuCor_group_id=475200|RuCor_link_id=475199|Shift=1127
+7	звучит	_	_	_	_	_	_	_	Shift=1135
+8	так	_	_	_	_	_	_	_	Shift=1142|SpaceAfter=No
+9	:	_	_	_	_	_	_	_	Shift=1145
+10	``	_	_	_	_	_	_	_	Shift=1147|SpaceAfter=No
+11	В	_	_	_	_	_	_	_	Shift=1148
+12	случае	_	_	_	_	_	_	_	Shift=1150|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=1156
+14	если	_	_	_	_	_	_	_	Shift=1158
+15	лицо	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3490|RuCor_group_id=475201|RuCor_link_id=0|Shift=1163
+16	имеет	_	_	_	_	_	_	_	Shift=1168
+17	право	_	_	_	_	_	_	_	Shift=1174
+18	постоянного	_	_	_	_	_	_	_	Shift=1180
+19	проживания	_	_	_	_	_	_	_	Shift=1192
+20	на	_	_	_	_	_	_	_	Shift=1203
+21	территории	_	_	_	_	_	_	_	Shift=1206
+22	иностранного	_	_	_	_	_	_	_	Shift=1217
+23	государства	_	_	_	_	_	_	_	Shift=1230|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=1241
+25	оно	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=3490|RuCor_group_id=475202|RuCor_link_id=475201|Shift=1243|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	Shift=1246
+27	считается	_	_	_	_	_	_	_	Shift=1248|SpaceAfter=No
+28	,	_	_	_	_	_	_	_	Shift=1257
+29	не	_	_	_	_	_	_	_	Shift=1259
+30	проживает	_	_	_	_	_	_	_	Shift=1262
+31	на	_	_	_	_	_	_	_	Shift=1272
+32	Украине	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3486|RuCor_group_id=475203|RuCor_link_id=475191|Shift=1275|SpaceAfter=No
+33	''	_	_	_	_	_	_	_	Shift=1282|SpaceAfter=No
+34	.	_	_	_	_	_	_	_	Shift=1283
+
+# newpar id = 5f5031db-4757-46e8-9bbf-23bd4b15c70e-p5
+# par_text = Инициатором рассмотрения документа в Верховной Раде был депутат от «Батькивщины» (одного из партнеров УДАРа по оппозиции) Игорь Бриченко. Сам он позднее от законопроекта открестился, заявив, что не имеет к нему отношения.
+# sent_id = 5f5031db-4757-46e8-9bbf-23bd4b15c70e-p5-s1
+# text = Инициатором рассмотрения документа в Верховной Раде был депутат от ``Батькивщины'' (одного из партнеров УДАРа по оппозиции) Игорь Бриченко.
+1	Инициатором	_	_	_	_	_	_	_	Shift=1285
+2	рассмотрения	_	_	_	_	_	_	_	Shift=1297
+3	документа	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3487|RuCor_group_id=475204|RuCor_link_id=475197|Shift=1310
+4	в	_	_	_	_	_	_	_	Shift=1320
+5	Верховной	_	_	_	_	_	_	_	RuCor_chain_id=3488|RuCor_group_id=475205|Shift=1322
+6	Раде	_	_	_	_	_	_	_	RuCor_chain_id=3488|RuCor_group_id=475205|Shift=1332
+7	был	_	_	_	_	_	_	_	Shift=1337
+8	депутат	_	_	_	_	_	_	_	Shift=1341
+9	от	_	_	_	_	_	_	_	Shift=1349
+10	``	_	_	_	_	_	_	_	Shift=1352|SpaceAfter=No
+11	Батькивщины	_	_	_	_	_	_	_	Shift=1353|SpaceAfter=No
+12	''	_	_	_	_	_	_	_	Shift=1364
+13	(	_	_	_	_	_	_	_	Shift=1366|SpaceAfter=No
+14	одного	_	_	_	_	_	_	_	Shift=1367
+15	из	_	_	_	_	_	_	_	Shift=1374
+16	партнеров	_	_	_	_	_	_	_	Shift=1377
+17	УДАРа	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3479|RuCor_group_id=475206|RuCor_link_id=475165|Shift=1387
+18	по	_	_	_	_	_	_	_	Shift=1393
+19	оппозиции	_	_	_	_	_	_	_	Shift=1396|SpaceAfter=No
+20	)	_	_	_	_	_	_	_	Shift=1405
+21	Игорь	_	_	_	_	_	_	_	RuCor_chain_id=3491|RuCor_group_id=475207|Shift=1407
+22	Бриченко	_	_	_	_	_	_	_	RuCor_chain_id=3491|RuCor_group_id=475207|Shift=1413|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	RuCor_chain_id=3491|RuCor_group_id=475207|Shift=1421
+
+# sent_id = 5f5031db-4757-46e8-9bbf-23bd4b15c70e-p5-s2
+# text = Сам он позднее от законопроекта открестился, заявив, что не имеет к нему отношения.
+1	Сам	_	_	_	_	_	_	_	Shift=1423
+2	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3491|RuCor_group_id=475208|RuCor_link_id=475207|Shift=1427
+3	позднее	_	_	_	_	_	_	_	Shift=1430
+4	от	_	_	_	_	_	_	_	Shift=1438
+5	законопроекта	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3487|RuCor_group_id=475209|RuCor_link_id=475204|Shift=1441
+6	открестился	_	_	_	_	_	_	_	Shift=1455|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=1466
+8	заявив	_	_	_	_	_	_	_	Shift=1468|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1474
+10	что	_	_	_	_	_	_	_	Shift=1476
+11	не	_	_	_	_	_	_	_	Shift=1480
+12	имеет	_	_	_	_	_	_	_	Shift=1483
+13	к	_	_	_	_	_	_	_	Shift=1489
+14	нему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3487|RuCor_group_id=475210|RuCor_link_id=475209|Shift=1491
+15	отношения	_	_	_	_	_	_	_	Shift=1496|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=1505
+
+# newpar id = 5f5031db-4757-46e8-9bbf-23bd4b15c70e-p6
+# par_text = В случае, если Кличко (который, как утверждалось, имеет также вид на жительство в Германии) попадет под действие этих поправок, ему могут отказать в регистрации, так как по закону кандидат в президенты должен жить на Украине в течение десяти лет, предшествующих дню выборов. Соратники политика по УДАРу пробовали оспорить принятые изменения в Налоговый кодекс в суде, однако тот отклонил их жалобу.
+# sent_id = 5f5031db-4757-46e8-9bbf-23bd4b15c70e-p6-s1
+# text = В случае, если Кличко (который, как утверждалось, имеет также вид на жительство в Германии) попадет под действие этих поправок, ему могут отказать в регистрации, так как по закону кандидат в президенты должен жить на Украине в течение десяти лет, предшествующих дню выборов.
+1	В	_	_	_	_	_	_	_	Shift=1507
+2	случае	_	_	_	_	_	_	_	Shift=1509|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1515
+4	если	_	_	_	_	_	_	_	Shift=1517
+5	Кличко	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3478|RuCor_group_id=475211|RuCor_link_id=475193|Shift=1522
+6	(	_	_	_	_	_	_	_	Shift=1529|SpaceAfter=No
+7	который	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=3478|RuCor_group_id=475212|RuCor_link_id=475211|Shift=1530|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1537
+9	как	_	_	_	_	_	_	_	Shift=1539
+10	утверждалось	_	_	_	_	_	_	_	Shift=1543|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=1555
+12	имеет	_	_	_	_	_	_	_	Shift=1557
+13	также	_	_	_	_	_	_	_	Shift=1563
+14	вид	_	_	_	_	_	_	_	Shift=1569
+15	на	_	_	_	_	_	_	_	Shift=1573
+16	жительство	_	_	_	_	_	_	_	Shift=1576
+17	в	_	_	_	_	_	_	_	Shift=1587
+18	Германии	_	_	_	_	_	_	_	Shift=1589|SpaceAfter=No
+19	)	_	_	_	_	_	_	_	Shift=1597
+20	попадет	_	_	_	_	_	_	_	Shift=1599
+21	под	_	_	_	_	_	_	_	Shift=1607
+22	действие	_	_	_	_	_	_	_	Shift=1611
+23	этих	_	_	_	_	_	_	_	RuCor_chain_id=3487|RuCor_group_id=475213|Shift=1620
+24	поправок	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3487|RuCor_group_id=475213|RuCor_link_id=475194|Shift=1625|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=1633
+26	ему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3478|RuCor_group_id=475214|RuCor_link_id=475211|Shift=1635
+27	могут	_	_	_	_	_	_	_	Shift=1639
+28	отказать	_	_	_	_	_	_	_	Shift=1645
+29	в	_	_	_	_	_	_	_	Shift=1654
+30	регистрации	_	_	_	_	_	_	_	Shift=1656|SpaceAfter=No
+31	,	_	_	_	_	_	_	_	Shift=1667
+32	так	_	_	_	_	_	_	_	Shift=1669
+33	как	_	_	_	_	_	_	_	Shift=1673
+34	по	_	_	_	_	_	_	_	Shift=1677
+35	закону	_	_	_	_	_	_	_	Shift=1680
+36	кандидат	_	_	_	_	_	_	_	Shift=1687
+37	в	_	_	_	_	_	_	_	Shift=1696
+38	президенты	_	_	_	_	_	_	_	Shift=1698
+39	должен	_	_	_	_	_	_	_	Shift=1709
+40	жить	_	_	_	_	_	_	_	Shift=1716
+41	на	_	_	_	_	_	_	_	Shift=1721
+42	Украине	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3486|RuCor_group_id=475215|RuCor_link_id=475191|Shift=1724
+43	в	_	_	_	_	_	_	_	Shift=1732
+44	течение	_	_	_	_	_	_	_	Shift=1734
+45	десяти	_	_	_	_	_	_	_	Shift=1742
+46	лет	_	_	_	_	_	_	_	Shift=1749|SpaceAfter=No
+47	,	_	_	_	_	_	_	_	Shift=1752
+48	предшествующих	_	_	_	_	_	_	_	Shift=1754
+49	дню	_	_	_	_	_	_	_	Shift=1769
+50	выборов	_	_	_	_	_	_	_	Shift=1773|SpaceAfter=No
+51	.	_	_	_	_	_	_	_	Shift=1780
+
+# sent_id = 5f5031db-4757-46e8-9bbf-23bd4b15c70e-p6-s2
+# text = Соратники политика по УДАРу пробовали оспорить принятые изменения в Налоговый кодекс в суде, однако тот отклонил их жалобу.
+1	Соратники	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3492|RuCor_group_id=475216|RuCor_link_id=0|Shift=1782
+2	политика	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3478|RuCor_group_id=475217|RuCor_link_id=475211|Shift=1792
+3	по	_	_	_	_	_	_	_	RuCor_chain_id=3492|RuCor_group_id=475216|Shift=1801
+4	УДАРу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3479|RuCor_group_id=475218|RuCor_link_id=475206|Shift=1804
+5	пробовали	_	_	_	_	_	_	_	Shift=1810
+6	оспорить	_	_	_	_	_	_	_	Shift=1820
+7	принятые	_	_	_	_	_	_	_	RuCor_chain_id=3487|RuCor_group_id=475219|Shift=1829
+8	изменения	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3487|RuCor_group_id=475219|RuCor_link_id=475194|Shift=1838
+9	в	_	_	_	_	_	_	_	RuCor_chain_id=3487|RuCor_group_id=475219|Shift=1848
+10	Налоговый	_	_	_	_	_	_	_	RuCor_chain_id=3487|RuCor_group_id=475219|Shift=1850
+11	кодекс	_	_	_	_	_	_	_	RuCor_chain_id=3487|RuCor_group_id=475219|Shift=1860
+12	в	_	_	_	_	_	_	_	Shift=1867
+13	суде	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3493|RuCor_group_id=475220|RuCor_link_id=0|Shift=1869|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=1873
+15	однако	_	_	_	_	_	_	_	Shift=1875
+16	тот	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=3493|RuCor_group_id=475221|RuCor_link_id=475220|Shift=1882
+17	отклонил	_	_	_	_	_	_	_	Shift=1886
+18	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=3492|RuCor_group_id=475222|RuCor_link_id=475216|Shift=1895
+19	жалобу	_	_	_	_	_	_	_	Shift=1898|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=1904
+
+# newpar id = 5f5031db-4757-46e8-9bbf-23bd4b15c70e-p7
+# par_text = Ранее эксперты утверждали, что Кличко на предстоящем голосовании может стать главным соперником Виктора Януковича, который ранее решил баллотироваться на второй срок.
+# sent_id = 5f5031db-4757-46e8-9bbf-23bd4b15c70e-p7-s1
+# text = Ранее эксперты утверждали, что Кличко на предстоящем голосовании может стать главным соперником Виктора Януковича, который ранее решил баллотироваться на второй срок.
+1	Ранее	_	_	_	_	_	_	_	Shift=1906
+2	эксперты	_	_	_	_	_	_	_	Shift=1912
+3	утверждали	_	_	_	_	_	_	_	Shift=1921|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1931
+5	что	_	_	_	_	_	_	_	Shift=1933
+6	Кличко	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3478|RuCor_group_id=475223|RuCor_link_id=475211|Shift=1937
+7	на	_	_	_	_	_	_	_	Shift=1944
+8	предстоящем	_	_	_	_	_	_	_	Shift=1947
+9	голосовании	_	_	_	_	_	_	_	Shift=1959
+10	может	_	_	_	_	_	_	_	Shift=1971
+11	стать	_	_	_	_	_	_	_	Shift=1977
+12	главным	_	_	_	_	_	_	_	Shift=1983
+13	соперником	_	_	_	_	_	_	_	Shift=1991
+14	Виктора	_	_	_	_	_	_	_	RuCor_chain_id=3489|RuCor_group_id=475224|Shift=2002
+15	Януковича	_	_	_	_	_	_	_	RuCor_chain_id=3489|RuCor_group_id=475224|Shift=2010|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=2019
+17	который	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=3489|RuCor_group_id=475225|RuCor_link_id=475224|Shift=2021
+18	ранее	_	_	_	_	_	_	_	Shift=2029
+19	решил	_	_	_	_	_	_	_	Shift=2035
+20	баллотироваться	_	_	_	_	_	_	_	Shift=2041
+21	на	_	_	_	_	_	_	_	Shift=2057
+22	второй	_	_	_	_	_	_	_	Shift=2060
+23	срок	_	_	_	_	_	_	_	Shift=2067|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	_
+

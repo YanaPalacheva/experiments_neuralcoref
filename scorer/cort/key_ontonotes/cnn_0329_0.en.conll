@@ -1,0 +1,350 @@
+#begin document (cnn_0329_0); part 000
+cnn_0329	0	0	Back	RB	(TOP(ADVP*	-	-	-	-	-
+cnn_0329	0	1	to	IN	(PP*	-	-	-	-	-
+cnn_0329	0	2	the	DT	(NP(NP*	-	-	-	-	-
+cnn_0329	0	3	scene	NN	*)	-	-	-	-	-
+cnn_0329	0	4	in	IN	(PP*	-	-	-	-	-
+cnn_0329	0	5	Orlando	NNP	(NP*	-	-	-	-	(5
+cnn_0329	0	6	Florida	NNP	*))))	-	-	-	-	(0)|5)
+cnn_0329	0	7	.	.	*))	-	-	-	-	-
+
+cnn_0329	0	0	We	PRP	(TOP(S(S(NP*)	-	-	-	-	(10)
+cnn_0329	0	1	were	VBD	(VP*	be	01	4	-	-
+cnn_0329	0	2	here	RB	(ADVP(ADVP*))	-	-	-	-	-
+cnn_0329	0	3	moments	NNS	(ADVP(NP*)	moment	-	1	-	-
+cnn_0329	0	4	ago	RB	*)	-	-	-	-	-
+cnn_0329	0	5	where	WRB	(SBAR(WHADVP*)	-	-	-	-	-
+cnn_0329	0	6	the	DT	(S(NP(NP(NP*	-	-	-	-	(8
+cnn_0329	0	7	man	NN	*)	man	-	2	-	-
+cnn_0329	0	8	in	IN	(PP*	-	-	-	-	-
+cnn_0329	0	9	the	DT	(NP*	-	-	-	-	-
+cnn_0329	0	10	green	NN	*))	-	-	-	-	-
+cnn_0329	0	11	in	IN	(PP*	-	-	-	-	-
+cnn_0329	0	12	the	DT	(NP(NP*	-	-	-	-	-
+cnn_0329	0	13	forefront	NN	*)	-	-	-	-	-
+cnn_0329	0	14	of	IN	(PP*	-	-	-	-	-
+cnn_0329	0	15	the	DT	(NP(NP*	-	-	-	-	-
+cnn_0329	0	16	screen	NN	*)	screen	-	3	-	-
+cnn_0329	0	17	there	RB	(ADVP*))))))	-	-	-	-	-
+cnn_0329	0	18	,	,	*	-	-	-	-	-
+cnn_0329	0	19	the	DT	(NP(NP*	-	-	-	-	-
+cnn_0329	0	20	former	JJ	*	-	-	-	-	-
+cnn_0329	0	21	POW	NN	*)	-	-	-	-	-
+cnn_0329	0	22	David	NNP	(NP*	-	-	-	-	-
+cnn_0329	0	23	Williams	NNP	*)))	-	-	-	-	8)
+cnn_0329	0	24	was	VBD	(VP*	be	03	-	-	-
+cnn_0329	0	25	speaking	VBG	(VP*	speak	01	2	-	-
+cnn_0329	0	26	to	IN	(PP*	-	-	-	-	-
+cnn_0329	0	27	the	DT	(NP*	-	-	-	-	-
+cnn_0329	0	28	crowd	NN	*))	-	-	-	-	-
+cnn_0329	0	29	rather	RB	(ADVP*	-	-	-	-	-
+cnn_0329	0	30	emotionally	RB	*)))))))	-	-	-	-	-
+cnn_0329	0	31	and	CC	*	-	-	-	-	-
+cnn_0329	0	32	now	RB	(S(ADVP*)	-	-	-	-	-
+cnn_0329	0	33	you	PRP	(NP*)	-	-	-	-	-
+cnn_0329	0	34	see	VBP	(VP*	see	01	3	-	-
+cnn_0329	0	35	he	PRP	(SBAR(S(NP*)	-	-	-	-	(8)
+cnn_0329	0	36	is	VBZ	(VP*	be	03	-	-	-
+cnn_0329	0	37	taking	VBG	(VP*	take	22	11	-	-
+cnn_0329	0	38	down	RP	(PRT*)	-	-	-	-	-
+cnn_0329	0	39	the	DT	(NP*	-	-	-	-	(9
+cnn_0329	0	40	black	JJ	(ADJP*	-	-	-	-	-
+cnn_0329	0	41	and	CC	*	-	-	-	-	-
+cnn_0329	0	42	white	JJ	*)	-	-	-	-	-
+cnn_0329	0	43	POW	NN	*	-	-	-	-	-
+cnn_0329	0	44	flag	NN	*)))))))	-	-	-	-	9)
+cnn_0329	0	45	.	.	*))	-	-	-	-	-
+
+cnn_0329	0	0	I	PRP	(TOP(S(NP*)	-	-	-	-	(15)
+cnn_0329	0	1	wish	VBP	(VP*	wish	01	1	-	-
+cnn_0329	0	2	I	PRP	(SBAR(S(NP*)	-	-	-	-	(15)
+cnn_0329	0	3	could	MD	(VP*	-	-	-	-	-
+cnn_0329	0	4	tell	VB	(VP*	tell	01	1	-	-
+cnn_0329	0	5	you	PRP	(NP*)	-	-	-	-	-
+cnn_0329	0	6	which	WDT	(SBAR(WHNP*	-	-	-	-	-
+cnn_0329	0	7	site	NN	*)	site	-	1	-	-
+cnn_0329	0	8	this	DT	(S(NP*	-	-	-	-	(9
+cnn_0329	0	9	flag	NN	*)	-	-	-	-	9)
+cnn_0329	0	10	was	VBD	(VP*	be	03	-	-	-
+cnn_0329	0	11	hoisted	VBN	(VP*	hoist	01	-	-	-
+cnn_0329	0	12	in	IN	(PP*))))))))))	-	-	-	-	-
+cnn_0329	0	13	.	.	*))	-	-	-	-	-
+
+cnn_0329	0	0	We	PRP	(TOP(S(NP*)	-	-	-	-	(10)
+cnn_0329	0	1	have	VBP	(VP*	have	03	2	-	-
+cnn_0329	0	2	the	DT	(S(NP*	-	-	-	-	-
+cnn_0329	0	3	pictures	NNS	*)	picture	-	6	-	-
+cnn_0329	0	4	coming	VBG	(VP*	come	01	5	-	-
+cnn_0329	0	5	in	IN	(ADVP*	-	-	-	-	-
+cnn_0329	0	6	from	IN	(PP*	-	-	-	-	-
+cnn_0329	0	7	Central	NNP	(NP*	-	-	-	-	-
+cnn_0329	0	8	Florida	NNP	*)))	-	-	-	-	-
+cnn_0329	0	9	,	,	*	-	-	-	-	-
+cnn_0329	0	10	News	NNP	(NP*	-	-	-	-	-
+cnn_0329	0	11	13	CD	*))))	-	-	-	-	-
+cnn_0329	0	12	.	.	*))	-	-	-	-	-
+
+cnn_0329	0	0	This	DT	(TOP(S(SBAR(S(NP*)	-	-	-	-	-
+cnn_0329	0	1	is	VBZ	(VP*	be	01	1	-	-
+cnn_0329	0	2	that	DT	(NP(NP*	-	-	-	-	-
+cnn_0329	0	3	City	NNP	*	-	-	-	-	-
+cnn_0329	0	4	Hall	NNP	*)	-	-	-	-	-
+cnn_0329	0	5	in	IN	(PP*	-	-	-	-	-
+cnn_0329	0	6	Orlando	NNP	(NP*))))))	-	-	-	-	(5)
+cnn_0329	0	7	,	,	*	-	-	-	-	-
+cnn_0329	0	8	now	RB	(ADVP*)	-	-	-	-	-
+cnn_0329	0	9	I	PRP	(NP*)	-	-	-	-	-
+cnn_0329	0	10	'm	VBP	(VP*	-	-	-	-	-
+cnn_0329	0	11	being	VBG	(VP*	be	03	-	-	-
+cnn_0329	0	12	told	VBN	(VP*)))	tell	01	1	-	-
+cnn_0329	0	13	.	.	*))	-	-	-	-	-
+
+cnn_0329	0	0	Quite	PDT	(TOP(FRAG(NP*	-	-	-	-	-
+cnn_0329	0	1	an	DT	*	-	-	-	-	-
+cnn_0329	0	2	emotional	JJ	*	-	-	-	-	-
+cnn_0329	0	3	scene	NN	*)	-	-	-	-	-
+cnn_0329	0	4	this	DT	(NP*	-	-	-	-	-
+cnn_0329	0	5	morning	NN	*)	morning	-	1	-	-
+cnn_0329	0	6	.	.	*))	-	-	-	-	-
+
+cnn_0329	0	0	David	NNP	(TOP(NP(NP(NP*	-	-	-	-	(8
+cnn_0329	0	1	Williams	NNP	*)	-	-	-	-	-
+cnn_0329	0	2	,	,	*	-	-	-	-	-
+cnn_0329	0	3	one	CD	(NP(NP*)	-	-	-	-	-
+cnn_0329	0	4	of	IN	(PP*	-	-	-	-	-
+cnn_0329	0	5	the	DT	(NP*	-	-	-	-	(1
+cnn_0329	0	6	POWs	NNS	*))))	-	-	-	-	1)
+cnn_0329	0	7	whose	WP$	(SBAR(WHNP*	-	-	-	-	-
+cnn_0329	0	8	face	NN	*)	face	-	1	-	-
+cnn_0329	0	9	we	PRP	(S(NP*)	-	-	-	-	(12)
+cnn_0329	0	10	got	VBD	(VP*	get	-	3	-	-
+cnn_0329	0	11	to	TO	(S(VP*	-	-	-	-	-
+cnn_0329	0	12	know	VB	(VP*	know	01	2	-	-
+cnn_0329	0	13	in	IN	(PP*	-	-	-	-	-
+cnn_0329	0	14	the	DT	(NP(NP(NP*	-	-	-	-	-
+cnn_0329	0	15	coverage	NN	*)	coverage	03	3	-	-
+cnn_0329	0	16	that	WDT	(SBAR(WHNP*)	-	-	-	-	-
+cnn_0329	0	17	we	PRP	(S(NP*)	-	-	-	-	(12)
+cnn_0329	0	18	saw	VBD	(VP*))))	see	01	-	-	-
+cnn_0329	0	19	coming	VBG	(VP*	come	01	5	-	-
+cnn_0329	0	20	from	IN	(PP*	-	-	-	-	-
+cnn_0329	0	21	Iraq	NNP	(NP*)))))))))))	-	-	-	-	(11)
+cnn_0329	0	22	.	.	*))	-	-	-	-	8)
+
+cnn_0329	0	0	Other	JJ	(TOP(FRAG(NP(NP*	-	-	-	-	*	*
+cnn_0329	0	1	POWs	NNS	*)	-	-	-	-	*	*
+cnn_0329	0	2	from	IN	(PP*	-	-	-	-	*	*
+cnn_0329	0	3	Iraq	NNP	(NP*))	-	-	-	-	*	*
+cnn_0329	0	4	after	IN	(SBAR*	-	-	-	-	*	*
+cnn_0329	0	5	they	PRP	(S(NP*)	-	-	-	-	*	*
+cnn_0329	0	6	were	VBD	(VP*	be	03	-	-	*	*
+cnn_0329	0	7	captured	VBN	(VP*	capture	01	3	-	*	*
+cnn_0329	0	8	and	CC	*	-	-	-	-	*	*
+cnn_0329	0	9	released	VBN	*)))))	release	01	1	-	*	*
+cnn_0329	0	10	,	,	*	-	-	-	-	*	*
+cnn_0329	0	11	that	DT	(NP(NP*	-	-	-	-	*	*
+cnn_0329	0	12	dramatic	JJ	*	-	-	-	-	*	*
+cnn_0329	0	13	release	NN	*)	release	01	3	-	*	*
+cnn_0329	0	14	that	DT	(NP(NP*	-	-	-	-	*	*
+cnn_0329	0	15	Sunday	NNP	*	-	-	-	-	*	*
+cnn_0329	0	16	morning	NN	*)	-	-	-	-	*	*
+cnn_0329	0	17	when	WRB	(SBAR(WHADVP*)	-	-	-	-	*	*
+cnn_0329	0	18	they	PRP	(S(NP*)	-	-	-	-	*	*
+cnn_0329	0	19	were	VBD	(VP*	be	03	-	-	*	*
+cnn_0329	0	20	picked	VBN	(VP*	pick	04	7.2	-	*	*
+cnn_0329	0	21	up	RP	(PRT*)	-	-	-	-	*	*
+cnn_0329	0	22	by	IN	(PP*	-	-	-	-	*	*
+cnn_0329	0	23	a	DT	(NP(NP(NP*	-	-	-	-	(ARG2*	(ARG2*
+cnn_0329	0	24	squadron	NN	*)	-	-	-	-	*	*
+cnn_0329	0	25	of	IN	(PP*	-	-	-	-	*	*
+cnn_0329	0	26	Marines	NNPS	(NP*)))	-	-	-	-	*)	*)
+cnn_0329	0	27	who	WP	(SBAR(WHNP*)	-	-	-	-	(R-ARG2*)	(R-ARG2*)
+cnn_0329	0	28	had	VBD	(S(VP(VP*	have	01	-	-	*	*
+cnn_0329	0	29	wandered	VBN	(VP*	wander	01	1	-	*	*
+cnn_0329	0	30	in	IN	(PP*	-	-	-	-	*	*
+cnn_0329	0	31	a	DT	(NP(NP*	-	-	-	-	*	*
+cnn_0329	0	32	town	NN	*)	town	-	1	-	*	*
+cnn_0329	0	33	in	IN	(PP*	-	-	-	-	*	*
+cnn_0329	0	34	Baghdad	NNP	(NP*))))))	-	-	-	-	*	*
+cnn_0329	0	35	and	CC	*	-	-	-	-	*	*
+cnn_0329	0	36	were	VBD	(VP*	be	03	-	-	*	*
+cnn_0329	0	37	told	VBN	(VP*	tell	01	1	-	(V*)	(V*)
+cnn_0329	0	38	where	WRB	(SBAR(WHADVP*)	-	-	-	-	(ARG1*	(ARG1*
+cnn_0329	0	39	they	PRP	(S(NP*)	-	-	-	-	*	*
+cnn_0329	0	40	were	VBD	(VP*	be	03	-	-	*	*
+cnn_0329	0	41	being	VBG	(VP*	be	03	-	-	*	*
+cnn_0329	0	42	kept	VBN	(VP*))))))))))))))))))	keep	01	3	-	*)	*)
+cnn_0329	0	43	.	.	*))	-	-	-	-	*	*
+
+cnn_0329	0	0	Dramatic	JJ	(TOP(NP(NP*	-	-	-	-	(13
+cnn_0329	0	1	rescue	NN	*)	-	-	-	-	13)
+cnn_0329	0	2	and	CC	*	-	-	-	-	-
+cnn_0329	0	3	then	RB	(ADVP*)	-	-	-	-	-
+cnn_0329	0	4	a	DT	(NP(NP*	-	-	-	-	-
+cnn_0329	0	5	return	NN	*)	return	01	3	-	-
+cnn_0329	0	6	home	RB	(ADVP*))	-	-	-	-	-
+cnn_0329	0	7	.	.	*))	-	-	-	-	-
+
+cnn_0329	0	0	Quite	PDT	(TOP(FRAG(NP*	-	-	-	-	(14
+cnn_0329	0	1	an	DT	*	-	-	-	-	-
+cnn_0329	0	2	emotional	JJ	*	-	-	-	-	-
+cnn_0329	0	3	experience	NN	*)	experience	01	2	-	14)
+cnn_0329	0	4	and	CC	*	-	-	-	-	-
+cnn_0329	0	5	one	CD	(S(NP(NP*)	-	-	-	-	-
+cnn_0329	0	6	of	IN	(PP*	-	-	-	-	-
+cnn_0329	0	7	us	PRP	(NP*)))	-	-	-	-	-
+cnn_0329	0	8	can	MD	(VP*	-	-	-	-	-
+cnn_0329	0	9	only	RB	(ADVP*)	-	-	-	-	-
+cnn_0329	0	10	imagine	VB	(VP*	imagine	01	1	-	-
+cnn_0329	0	11	what	WP	(SBAR(WHNP*)	-	-	-	-	-
+cnn_0329	0	12	it	PRP	(S(NP*)	-	-	-	-	(14)
+cnn_0329	0	13	must	MD	(VP*	-	-	-	-	-
+cnn_0329	0	14	have	VB	(VP*	have	01	-	-	-
+cnn_0329	0	15	been	VBN	(VP*	be	01	1	-	-
+cnn_0329	0	16	like	IN	(PP*	-	-	-	-	-
+cnn_0329	0	17	to	TO	(SBAR(S(VP*	-	-	-	-	-
+cnn_0329	0	18	endure	VB	(VP*)))))))))))))	endure	01	2	-	-
+cnn_0329	0	19	.	.	*))	-	-	-	-	-
+
+cnn_0329	0	0	As	IN	(TOP(FRAG(SBAR*	-	-	-	-	-
+cnn_0329	0	1	we	PRP	(S(NP*)	-	-	-	-	(10)
+cnn_0329	0	2	said	VBD	(VP*)))	say	01	1	-	-
+cnn_0329	0	3	,	,	*	-	-	-	-	-
+cnn_0329	0	4	quite	PDT	(NP(NP*	-	-	-	-	-
+cnn_0329	0	5	an	DT	*	-	-	-	-	-
+cnn_0329	0	6	emotional	JJ	*	-	-	-	-	-
+cnn_0329	0	7	moment	NN	*)	moment	-	2	-	-
+cnn_0329	0	8	in	IN	(PP*	-	-	-	-	-
+cnn_0329	0	9	Orlando	NNP	(NP(NP*)	-	-	-	-	(5
+cnn_0329	0	10	,	,	*	-	-	-	-	-
+cnn_0329	0	11	Florida	NNP	(NP*))))	-	-	-	-	(0)|5)
+cnn_0329	0	12	.	.	*))	-	-	-	-	-
+
+cnn_0329	0	0	And	CC	(TOP(S*	-	-	-	-	-
+cnn_0329	0	1	you	PRP	(S(NP*)	-	-	-	-	-
+cnn_0329	0	2	see	VBP	(VP*	see	-	3	-	-
+cnn_0329	0	3	Apache	NNP	(NP(NP(NML*	-	-	-	-	(3
+cnn_0329	0	4	helicopter	NN	*)	-	-	-	-	-
+cnn_0329	0	5	pilot	NN	*)	-	-	-	-	3)
+cnn_0329	0	6	and	CC	*	-	-	-	-	-
+cnn_0329	0	7	his	PRP$	(NP(NP(NP*	-	-	-	-	(2|(3)
+cnn_0329	0	8	wife	NN	*)	-	-	-	-	-
+cnn_0329	0	9	Michelle	NNP	(NP*))	-	-	-	-	-
+cnn_0329	0	10	who	WP	(SBAR(WHNP*)	-	-	-	-	-
+cnn_0329	0	11	was	VBD	(S(VP*	be	03	-	-	-
+cnn_0329	0	12	talking	VBG	(VP*	talk	-	1	-	-
+cnn_0329	0	13	with	IN	(PP*	-	-	-	-	-
+cnn_0329	0	14	us	PRP	(NP*))	-	-	-	-	(10)
+cnn_0329	0	15	on	IN	(PP*	-	-	-	-	-
+cnn_0329	0	16	the	DT	(NP*	-	-	-	-	-
+cnn_0329	0	17	telephone	NN	*))	telephone	-	2	-	-
+cnn_0329	0	18	the	DT	(NP(NP*	-	-	-	-	(6
+cnn_0329	0	19	Sunday	NNP	*	-	-	-	-	-
+cnn_0329	0	20	morning	NN	*)	-	-	-	-	-
+cnn_0329	0	21	when	WRB	(SBAR(WHADVP*)	-	-	-	-	-
+cnn_0329	0	22	the	DT	(S(NP(NP*	-	-	-	-	-
+cnn_0329	0	23	video	NN	*))	-	-	-	-	-
+cnn_0329	0	24	came	VBD	(VP*	come	01	1	-	-
+cnn_0329	0	25	in	IN	(ADVP*)	-	-	-	-	-
+cnn_0329	0	26	of	IN	(PP*	-	-	-	-	-
+cnn_0329	0	27	the	DT	(NP(NP*	-	-	-	-	(13
+cnn_0329	0	28	rescue	NN	*)	-	-	-	-	-
+cnn_0329	0	29	of	IN	(PP*	-	-	-	-	-
+cnn_0329	0	30	the	DT	(NP*	-	-	-	-	(1
+cnn_0329	0	31	POWs	NNS	*))))))))))))))))	-	-	-	-	13)|6)|2)|1)
+cnn_0329	0	32	and	CC	*	-	-	-	-	-
+cnn_0329	0	33	,	,	(S(S*	-	-	-	-	-
+cnn_0329	0	34	she	PRP	(NP*)	-	-	-	-	(2)
+cnn_0329	0	35	identified	VBD	(VP*	identify	01	1	-	(7)
+cnn_0329	0	36	her	PRP$	(NP*	-	-	-	-	(3|(2)
+cnn_0329	0	37	husband	NN	*)))	-	-	-	-	3)
+cnn_0329	0	38	and	CC	*	-	-	-	-	-
+cnn_0329	0	39	life	NN	(S(NP*)	life	-	2	-	-
+cnn_0329	0	40	just	RB	(ADVP*)	-	-	-	-	-
+cnn_0329	0	41	got	VBD	(VP*	get	03	3	-	-
+cnn_0329	0	42	better	JJR	(ADJP(ADJP*	-	-	-	-	-
+cnn_0329	0	43	and	CC	*	-	-	-	-	-
+cnn_0329	0	44	better	JJR	*)	-	-	-	-	-
+cnn_0329	0	45	for	IN	(PP*	-	-	-	-	-
+cnn_0329	0	46	her	PRP	(NP*)))	-	-	-	-	(2)
+cnn_0329	0	47	after	IN	(PP*	-	-	-	-	-
+cnn_0329	0	48	that	DT	(NP*)))))	-	-	-	-	(7)
+cnn_0329	0	49	.	.	*))	-	-	-	-	-
+
+cnn_0329	0	0	Moving	VBG	(TOP(S(S(VP*	move	01	1	-	-
+cnn_0329	0	1	on	RP	(PRT*)	-	-	-	-	-
+cnn_0329	0	2	now	RB	(ADVP*)))	-	-	-	-	-
+cnn_0329	0	3	,	,	*	-	-	-	-	-
+cnn_0329	0	4	in	IN	(PP*	-	-	-	-	-
+cnn_0329	0	5	upstate	JJ	(NP*	-	-	-	-	-
+cnn_0329	0	6	New	NNP	*	-	-	-	-	-
+cnn_0329	0	7	York	NNP	*))	-	-	-	-	-
+cnn_0329	0	8	Stock	NNP	(NP(NML*	-	-	-	-	-
+cnn_0329	0	9	Exchange	NNP	*)	-	-	-	-	-
+cnn_0329	0	10	criminal	JJ	*	-	-	-	-	-
+cnn_0329	0	11	charges	NNS	*)	charge	03	3	-	-
+cnn_0329	0	12	have	VBP	(VP*	have	01	-	-	-
+cnn_0329	0	13	been	VBN	(VP*	be	03	-	-	-
+cnn_0329	0	14	filed	VBN	(VP*	file	01	1	-	-
+cnn_0329	0	15	in	IN	(PP*	-	-	-	-	-
+cnn_0329	0	16	last	JJ	(NP(NP(NP*	-	-	-	-	-
+cnn_0329	0	17	month	NN	*	month	-	2	-	-
+cnn_0329	0	18	's	POS	*)	-	-	-	-	-
+cnn_0329	0	19	fraternity	NN	*	fraternity	-	1	-	-
+cnn_0329	0	20	hazing	NN	*	-	-	-	-	-
+cnn_0329	0	21	death	NN	*)	death	-	1	-	-
+cnn_0329	0	22	at	IN	(PP*	-	-	-	-	-
+cnn_0329	0	23	Platsberg	NNP	(NP(NP*	-	-	-	-	-
+cnn_0329	0	24	State	NNP	*	-	-	-	-	-
+cnn_0329	0	25	University	NNP	*)	-	-	-	-	-
+cnn_0329	0	26	of	IN	(PP*	-	-	-	-	-
+cnn_0329	0	27	New	NNP	(NP*	-	-	-	-	-
+cnn_0329	0	28	York	NNP	*)))))))))	-	-	-	-	-
+cnn_0329	0	29	.	.	*))	-	-	-	-	-
+
+cnn_0329	0	0	11	CD	(TOP(S(NP*	-	-	-	-	-
+cnn_0329	0	1	members	NNS	*)	member	-	1	-	-
+cnn_0329	0	2	had	VBD	(VP*	have	01	-	-	-
+cnn_0329	0	3	been	VBN	(VP*	be	03	-	-	-
+cnn_0329	0	4	charged	VBN	(VP*	charge	05	3	-	-
+cnn_0329	0	5	with	IN	(PP*	-	-	-	-	-
+cnn_0329	0	6	negligent	JJ	(NP*	-	-	-	-	-
+cnn_0329	0	7	homicide	NN	*))	-	-	-	-	-
+cnn_0329	0	8	for	IN	(PP*	-	-	-	-	-
+cnn_0329	0	9	forcing	VBG	(S(VP*	force	01	1	-	-
+cnn_0329	0	10	18	CD	(NP(NML(ADJP(NML*	-	-	-	-	-
+cnn_0329	0	11	-	HYPH	*	-	-	-	-	-
+cnn_0329	0	12	year	NN	*)	-	-	-	-	-
+cnn_0329	0	13	-	HYPH	*	-	-	-	-	-
+cnn_0329	0	14	old	JJ	*)	-	-	-	-	-
+cnn_0329	0	15	pledge	NN	*)	-	-	-	-	-
+cnn_0329	0	16	Walter	NNP	*	-	-	-	-	-
+cnn_0329	0	17	Dean	NNP	*	-	-	-	-	-
+cnn_0329	0	18	Jenning	NNP	*)	-	-	-	-	-
+cnn_0329	0	19	to	TO	(S(VP*	-	-	-	-	-
+cnn_0329	0	20	drink	VB	(VP*	drink	01	1	-	-
+cnn_0329	0	21	an	DT	(NP(NP*	-	-	-	-	-
+cnn_0329	0	22	excessive	JJ	*	-	-	-	-	-
+cnn_0329	0	23	amount	NN	*)	amount	-	1	-	-
+cnn_0329	0	24	of	IN	(PP*	-	-	-	-	-
+cnn_0329	0	25	water	NN	(NP*))))))))))))	water	-	1	-	-
+cnn_0329	0	26	.	.	*))	-	-	-	-	-
+
+cnn_0329	0	0	The	DT	(TOP(S(NP*	-	-	-	-	-
+cnn_0329	0	1	fraternity	NN	*)	fraternity	-	1	-	-
+cnn_0329	0	2	also	RB	(ADVP*)	-	-	-	-	-
+cnn_0329	0	3	faces	VBZ	(VP*	face	01	1	-	-
+cnn_0329	0	4	more	JJR	(NP(NP(QP*	-	-	-	-	-
+cnn_0329	0	5	than	IN	*	-	-	-	-	-
+cnn_0329	0	6	150	CD	*)	-	-	-	-	-
+cnn_0329	0	7	charges	NNS	*)	charge	03	3	-	-
+cnn_0329	0	8	for	IN	(PP*	-	-	-	-	-
+cnn_0329	0	9	other	JJ	(NP*	-	-	-	-	-
+cnn_0329	0	10	hazing	NN	*	-	-	-	-	-
+cnn_0329	0	11	activities	NNS	*)))	activity	-	1	-	-
+cnn_0329	0	12	,	,	*	-	-	-	-	-
+cnn_0329	0	13	as	RB	(ADVP*	-	-	-	-	-
+cnn_0329	0	14	well	RB	*))	-	-	-	-	-
+cnn_0329	0	15	.	.	*))	-	-	-	-	-
+
+#end document

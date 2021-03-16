@@ -1,0 +1,480 @@
+# newdoc id = bbc6b314-223e-45b2-a8fd-fc6e856c82fa
+# newpar id = bbc6b314-223e-45b2-a8fd-fc6e856c82fa-p1
+# par_text = Компания Google заявила о своих планах превратить домен .search, на который ранее подала заявку, в бесточечный домен http://search/. Об этом сообщил портал TechCrunch.
+# sent_id = bbc6b314-223e-45b2-a8fd-fc6e856c82fa-p1-s1
+# text = Компания Google заявила о своих планах превратить домен.
+1	Компания	_	_	_	_	_	_	_	RuCor_chain_id=567|RuCor_group_id=411314|Shift=0
+2	Google	_	_	_	_	_	_	_	RuCor_chain_id=567|RuCor_group_id=411314|Shift=9
+3	заявила	_	_	_	_	_	_	_	Shift=16
+4	о	_	_	_	_	_	_	_	Shift=24
+5	своих	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=567|RuCor_group_id=411315|RuCor_link_id=411314|Shift=26
+6	планах	_	_	_	_	_	_	_	Shift=32
+7	превратить	_	_	_	_	_	_	_	Shift=39
+8	домен	_	_	_	_	_	_	_	RuCor_chain_id=566|RuCor_group_id=411316|Shift=50|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	RuCor_chain_id=566|RuCor_group_id=411316|Shift=56
+
+# sent_id = bbc6b314-223e-45b2-a8fd-fc6e856c82fa-p1-s2
+# text = search, на который ранее подала заявку, в бесточечный домен http://search/.
+1	search	_	_	_	_	_	_	_	RuCor_chain_id=566|RuCor_group_id=411316|Shift=57|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=63
+3	на	_	_	_	_	_	_	_	Shift=65
+4	который	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=566|RuCor_group_id=411317|RuCor_link_id=411316|Shift=68
+5	ранее	_	_	_	_	_	_	_	Shift=76
+6	подала	_	_	_	_	_	_	_	Shift=82
+7	заявку	_	_	_	_	_	_	_	Shift=89|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=95
+9	в	_	_	_	_	_	_	_	Shift=97
+10	бесточечный	_	_	_	_	_	_	_	Shift=99
+11	домен	_	_	_	_	_	_	_	Shift=111
+12	адрес	_	_	_	_	_	_	_	EntityUri=http://search/|Shift=117|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=131
+
+# sent_id = bbc6b314-223e-45b2-a8fd-fc6e856c82fa-p1-s3
+# text = Об этом сообщил портал TechCrunch.
+1	Об	_	_	_	_	_	_	_	Shift=133
+2	этом	_	_	_	_	_	_	_	Shift=136
+3	сообщил	_	_	_	_	_	_	_	Shift=141
+4	портал	_	_	_	_	_	_	_	Shift=149
+5	TechCrunch	_	_	_	_	_	_	_	Shift=156|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=166
+
+# newpar id = bbc6b314-223e-45b2-a8fd-fc6e856c82fa-p2
+# par_text = О своих намерениях поисковик известил письмом организацию ICANN, занимающуюся регулированием вопросов функционирования Интернета. Google подчеркнул, что не собирается использовать домен только для своих нужд. Напротив, компания пообещала перенаправлять запросы с него на поисковые сервисы по выбору пользователя. О реакции представителей ICANN на публикацию письма и его содержание пока неизвестно.
+# sent_id = bbc6b314-223e-45b2-a8fd-fc6e856c82fa-p2-s1
+# text = О своих намерениях поисковик известил письмом организацию ICANN, занимающуюся регулированием вопросов функционирования Интернета.
+1	О	_	_	_	_	_	_	_	Shift=168
+2	своих	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=567|RuCor_group_id=411318|RuCor_link_id=411315|Shift=170
+3	намерениях	_	_	_	_	_	_	_	Shift=176
+4	поисковик	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=567|RuCor_group_id=411319|RuCor_link_id=411318|Shift=187
+5	известил	_	_	_	_	_	_	_	Shift=197
+6	письмом	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=560|RuCor_group_id=411353|RuCor_link_id=0|Shift=206
+7	организацию	_	_	_	_	_	_	_	RuCor_chain_id=565|RuCor_group_id=411326|Shift=214
+8	ICANN	_	_	_	_	_	_	_	RuCor_chain_id=565|RuCor_group_id=411326|Shift=226|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=231
+10	занимающуюся	_	_	_	_	_	_	_	Shift=233
+11	регулированием	_	_	_	_	_	_	_	Shift=246
+12	вопросов	_	_	_	_	_	_	_	Shift=261
+13	функционирования	_	_	_	_	_	_	_	Shift=270
+14	Интернета	_	_	_	_	_	_	_	Shift=287|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=296
+
+# sent_id = bbc6b314-223e-45b2-a8fd-fc6e856c82fa-p2-s2
+# text = Google подчеркнул, что не собирается использовать домен только для своих нужд.
+1	Google	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=567|RuCor_group_id=411320|RuCor_link_id=411319|Shift=298
+2	подчеркнул	_	_	_	_	_	_	_	Shift=305|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=315
+4	что	_	_	_	_	_	_	_	Shift=317
+5	не	_	_	_	_	_	_	_	Shift=321
+6	собирается	_	_	_	_	_	_	_	Shift=324
+7	использовать	_	_	_	_	_	_	_	Shift=335
+8	домен	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=566|RuCor_group_id=411322|RuCor_link_id=411316|Shift=348
+9	только	_	_	_	_	_	_	_	Shift=354
+10	для	_	_	_	_	_	_	_	Shift=361
+11	своих	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=567|RuCor_group_id=411321|RuCor_link_id=411319|Shift=365
+12	нужд	_	_	_	_	_	_	_	Shift=371|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=375
+
+# sent_id = bbc6b314-223e-45b2-a8fd-fc6e856c82fa-p2-s3
+# text = Напротив, компания пообещала перенаправлять запросы с него на поисковые сервисы по выбору пользователя.
+1	Напротив	_	_	_	_	_	_	_	Shift=377|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=385
+3	компания	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=567|RuCor_group_id=411323|RuCor_link_id=411321|Shift=387
+4	пообещала	_	_	_	_	_	_	_	Shift=396
+5	перенаправлять	_	_	_	_	_	_	_	Shift=406
+6	запросы	_	_	_	_	_	_	_	Shift=421
+7	с	_	_	_	_	_	_	_	Shift=429
+8	него	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=566|RuCor_group_id=411324|RuCor_link_id=411322|Shift=431
+9	на	_	_	_	_	_	_	_	Shift=436
+10	поисковые	_	_	_	_	_	_	_	Shift=439
+11	сервисы	_	_	_	_	_	_	_	Shift=449
+12	по	_	_	_	_	_	_	_	Shift=457
+13	выбору	_	_	_	_	_	_	_	Shift=460
+14	пользователя	_	_	_	_	_	_	_	Shift=467|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=479
+
+# sent_id = bbc6b314-223e-45b2-a8fd-fc6e856c82fa-p2-s4
+# text = О реакции представителей ICANN на публикацию письма и его содержание пока неизвестно.
+1	О	_	_	_	_	_	_	_	Shift=481
+2	реакции	_	_	_	_	_	_	_	Shift=483
+3	представителей	_	_	_	_	_	_	_	Shift=491
+4	ICANN	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=565|RuCor_group_id=411325|RuCor_link_id=411326|Shift=506
+5	на	_	_	_	_	_	_	_	Shift=512
+6	публикацию	_	_	_	_	_	_	_	Shift=515
+7	письма	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=560|RuCor_group_id=411327|RuCor_link_id=411353|Shift=526
+8	и	_	_	_	_	_	_	_	Shift=533
+9	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=560|RuCor_group_id=411328|RuCor_link_id=411327|Shift=535
+10	содержание	_	_	_	_	_	_	_	Shift=539
+11	пока	_	_	_	_	_	_	_	Shift=550
+12	неизвестно	_	_	_	_	_	_	_	Shift=555|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=565
+
+# newpar id = bbc6b314-223e-45b2-a8fd-fc6e856c82fa-p3
+# par_text = Ранее ICANN высказалась против бесточечных доменов. С точки зрения организации, такие адреса могут оказаться недоступными для некоторых пользователей. Мнения экспертов индустрии на этот счет разделились. Большинство из них соглашается, что бесточечные домены могут привести к таким проблемам, как недоступность почтовых SMTP-серверов. В то же время, на форумах ICANN появилось много призывов не создавать «ненужные запреты».
+# sent_id = bbc6b314-223e-45b2-a8fd-fc6e856c82fa-p3-s1
+# text = Ранее ICANN высказалась против бесточечных доменов.
+1	Ранее	_	_	_	_	_	_	_	Shift=567
+2	ICANN	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=565|RuCor_group_id=411329|RuCor_link_id=411325|Shift=573
+3	высказалась	_	_	_	_	_	_	_	Shift=579
+4	против	_	_	_	_	_	_	_	Shift=591
+5	бесточечных	_	_	_	_	_	_	_	Shift=598
+6	доменов	_	_	_	_	_	_	_	Shift=610|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=617
+
+# sent_id = bbc6b314-223e-45b2-a8fd-fc6e856c82fa-p3-s2
+# text = С точки зрения организации, такие адреса могут оказаться недоступными для некоторых пользователей.
+1	С	_	_	_	_	_	_	_	Shift=619
+2	точки	_	_	_	_	_	_	_	Shift=621
+3	зрения	_	_	_	_	_	_	_	Shift=627
+4	организации	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=565|RuCor_group_id=411330|RuCor_link_id=411329|Shift=634|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=645
+6	такие	_	_	_	_	_	_	_	Shift=647
+7	адреса	_	_	_	_	_	_	_	Shift=653
+8	могут	_	_	_	_	_	_	_	Shift=660
+9	оказаться	_	_	_	_	_	_	_	Shift=666
+10	недоступными	_	_	_	_	_	_	_	Shift=676
+11	для	_	_	_	_	_	_	_	Shift=689
+12	некоторых	_	_	_	_	_	_	_	Shift=693
+13	пользователей	_	_	_	_	_	_	_	Shift=703|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=716
+
+# sent_id = bbc6b314-223e-45b2-a8fd-fc6e856c82fa-p3-s3
+# text = Мнения экспертов индустрии на этот счет разделились.
+1	Мнения	_	_	_	_	_	_	_	Shift=718
+2	экспертов	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=564|RuCor_group_id=411331|RuCor_link_id=0|Shift=725
+3	индустрии	_	_	_	_	_	_	_	RuCor_chain_id=564|RuCor_group_id=411331|Shift=735
+4	на	_	_	_	_	_	_	_	Shift=745
+5	этот	_	_	_	_	_	_	_	Shift=748
+6	счет	_	_	_	_	_	_	_	Shift=753
+7	разделились	_	_	_	_	_	_	_	Shift=758|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=769
+
+# sent_id = bbc6b314-223e-45b2-a8fd-fc6e856c82fa-p3-s4
+# text = Большинство из них соглашается, что бесточечные домены могут привести к таким проблемам, как недоступность почтовых SMTP- серверов.
+1	Большинство	_	_	_	_	_	_	_	Shift=771
+2	из	_	_	_	_	_	_	_	Shift=783
+3	них	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=564|RuCor_group_id=411332|RuCor_link_id=411331|Shift=786
+4	соглашается	_	_	_	_	_	_	_	Shift=790|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=801
+6	что	_	_	_	_	_	_	_	Shift=803
+7	бесточечные	_	_	_	_	_	_	_	Shift=807
+8	домены	_	_	_	_	_	_	_	Shift=819
+9	могут	_	_	_	_	_	_	_	Shift=826
+10	привести	_	_	_	_	_	_	_	Shift=832
+11	к	_	_	_	_	_	_	_	Shift=841
+12	таким	_	_	_	_	_	_	_	Shift=843
+13	проблемам	_	_	_	_	_	_	_	Shift=849|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=858
+15	как	_	_	_	_	_	_	_	Shift=860
+16	недоступность	_	_	_	_	_	_	_	Shift=864
+17	почтовых	_	_	_	_	_	_	_	Shift=878
+18	SMTP-	_	_	_	_	_	_	_	Shift=887
+19	серверов	_	_	_	_	_	_	_	Shift=892|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=900
+
+# sent_id = bbc6b314-223e-45b2-a8fd-fc6e856c82fa-p3-s5
+# text = В то же время, на форумах ICANN появилось много призывов не создавать ``ненужные запреты''.
+1	В	_	_	_	_	_	_	_	Shift=902
+2	то	_	_	_	_	_	_	_	Shift=904
+3	же	_	_	_	_	_	_	_	Shift=907
+4	время	_	_	_	_	_	_	_	Shift=910|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=915
+6	на	_	_	_	_	_	_	_	Shift=917
+7	форумах	_	_	_	_	_	_	_	Shift=920
+8	ICANN	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=565|RuCor_group_id=411333|RuCor_link_id=411329|Shift=928
+9	появилось	_	_	_	_	_	_	_	Shift=934
+10	много	_	_	_	_	_	_	_	Shift=944
+11	призывов	_	_	_	_	_	_	_	Shift=950
+12	не	_	_	_	_	_	_	_	Shift=959
+13	создавать	_	_	_	_	_	_	_	Shift=962
+14	``	_	_	_	_	_	_	_	Shift=972|SpaceAfter=No
+15	ненужные	_	_	_	_	_	_	_	Shift=973
+16	запреты	_	_	_	_	_	_	_	Shift=982|SpaceAfter=No
+17	''	_	_	_	_	_	_	_	Shift=989|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=990
+
+# newpar id = bbc6b314-223e-45b2-a8fd-fc6e856c82fa-p4
+# par_text = В 2012 году компания Google подала 100 заявок на доменные зоны первого уровня, среди которых такие адреса как .google, .gmail, .youtube, .android, а также .lol, .wow, .love и другие. В письме ICANN поисковик пообещал также открыть для других компаний домены .cloud, .blog и .app в случае, если ему предоставят права на них. Для будущего менеджмента подобных «открытых» доменов и предоставления к ним доступа Google создал отдельное подразделение Charleston Road Registry, от имени которого и было отправлено письмо.
+# sent_id = bbc6b314-223e-45b2-a8fd-fc6e856c82fa-p4-s1
+# text = В 2012 году компания Google подала 100 заявок на доменные зоны первого уровня, среди которых такие адреса как.
+1	В	_	_	_	_	_	_	_	Shift=992
+2	2012	_	_	_	_	_	_	_	Shift=994
+3	году	_	_	_	_	_	_	_	Shift=999
+4	компания	_	_	_	_	_	_	_	RuCor_chain_id=567|RuCor_group_id=411334|Shift=1004
+5	Google	_	_	_	_	_	_	_	RuCor_chain_id=567|RuCor_group_id=411334|Shift=1013
+6	подала	_	_	_	_	_	_	_	Shift=1020
+7	100	_	_	_	_	_	_	_	Shift=1027
+8	заявок	_	_	_	_	_	_	_	Shift=1031
+9	на	_	_	_	_	_	_	_	Shift=1038
+10	доменные	_	_	_	_	_	_	_	RuCor_chain_id=563|RuCor_group_id=411335|Shift=1041
+11	зоны	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=563|RuCor_group_id=411335|RuCor_link_id=0|Shift=1050
+12	первого	_	_	_	_	_	_	_	RuCor_chain_id=563|RuCor_group_id=411335|Shift=1055
+13	уровня	_	_	_	_	_	_	_	RuCor_chain_id=563|RuCor_group_id=411335|Shift=1063|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=1069
+15	среди	_	_	_	_	_	_	_	Shift=1071
+16	которых	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=563|RuCor_group_id=411336|RuCor_link_id=411335|Shift=1077
+17	такие	_	_	_	_	_	_	_	Shift=1085
+18	адреса	_	_	_	_	_	_	_	Shift=1091
+19	как	_	_	_	_	_	_	_	Shift=1098|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=1102
+
+# sent_id = bbc6b314-223e-45b2-a8fd-fc6e856c82fa-p4-s2
+# text = google.gmail.youtube.android, а также.
+1	google.gmail.youtube.android	_	_	_	_	_	_	_	Shift=1103|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=1109
+3	а	_	_	_	_	_	_	_	Shift=1139
+4	также	_	_	_	_	_	_	_	Shift=1141|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=1147
+
+# sent_id = bbc6b314-223e-45b2-a8fd-fc6e856c82fa-p4-s3
+# text = lol.wow.love и другие.
+1	lol.wow.love	_	_	_	_	_	_	_	Shift=1148
+2	и	_	_	_	_	_	_	_	Shift=1165
+3	другие	_	_	_	_	_	_	_	Shift=1167|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=1173
+
+# sent_id = bbc6b314-223e-45b2-a8fd-fc6e856c82fa-p4-s4
+# text = В письме ICANN поисковик пообещал также открыть для других компаний домены.
+1	В	_	_	_	_	_	_	_	Shift=1175
+2	письме	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=560|RuCor_group_id=411355|RuCor_link_id=411327|Shift=1177
+3	ICANN	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=565|RuCor_group_id=411337|RuCor_link_id=411333|Shift=1184
+4	поисковик	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=567|RuCor_group_id=411338|RuCor_link_id=411334|Shift=1190
+5	пообещал	_	_	_	_	_	_	_	Shift=1200
+6	также	_	_	_	_	_	_	_	Shift=1209
+7	открыть	_	_	_	_	_	_	_	Shift=1215
+8	для	_	_	_	_	_	_	_	Shift=1223
+9	других	_	_	_	_	_	_	_	Shift=1227
+10	компаний	_	_	_	_	_	_	_	Shift=1234
+11	домены	_	_	_	_	_	_	_	RuCor_chain_id=559|RuCor_group_id=411356|Shift=1243|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	RuCor_chain_id=559|RuCor_group_id=411356|Shift=1250
+
+# sent_id = bbc6b314-223e-45b2-a8fd-fc6e856c82fa-p4-s5
+# text = cloud.blog и.
+1	cloud.blog	_	_	_	_	_	_	_	Shift=1251
+2	и	_	_	_	_	_	_	_	RuCor_chain_id=559|RuCor_group_id=411356|Shift=1264|SpaceAfter=No
+3	.	_	_	_	_	_	_	_	RuCor_chain_id=559|RuCor_group_id=411356|Shift=1266
+
+# sent_id = bbc6b314-223e-45b2-a8fd-fc6e856c82fa-p4-s6
+# text = app в случае, если ему предоставят права на них.
+1	app	_	_	_	_	_	_	_	RuCor_chain_id=559|RuCor_group_id=411356|Shift=1267
+2	в	_	_	_	_	_	_	_	Shift=1271
+3	случае	_	_	_	_	_	_	_	Shift=1273|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1279
+5	если	_	_	_	_	_	_	_	Shift=1281
+6	ему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=567|RuCor_group_id=411339|RuCor_link_id=411338|Shift=1286
+7	предоставят	_	_	_	_	_	_	_	Shift=1290
+8	права	_	_	_	_	_	_	_	Shift=1302
+9	на	_	_	_	_	_	_	_	Shift=1308
+10	них	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=559|RuCor_group_id=411357|RuCor_link_id=411356|Shift=1311|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=1314
+
+# sent_id = bbc6b314-223e-45b2-a8fd-fc6e856c82fa-p4-s7
+# text = Для будущего менеджмента подобных ``открытых'' доменов и предоставления к ним доступа Google создал отдельное подразделение Charleston Road Registry, от имени которого и было отправлено письмо.
+1	Для	_	_	_	_	_	_	_	Shift=1316
+2	будущего	_	_	_	_	_	_	_	Shift=1320
+3	менеджмента	_	_	_	_	_	_	_	Shift=1329
+4	подобных	_	_	_	_	_	_	_	RuCor_chain_id=558|RuCor_group_id=411358|Shift=1341
+5	``	_	_	_	_	_	_	_	RuCor_chain_id=558|RuCor_group_id=411358|Shift=1350|SpaceAfter=No
+6	открытых	_	_	_	_	_	_	_	RuCor_chain_id=558|RuCor_group_id=411358|Shift=1351|SpaceAfter=No
+7	''	_	_	_	_	_	_	_	RuCor_chain_id=558|RuCor_group_id=411358|Shift=1359
+8	доменов	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=558|RuCor_group_id=411358|RuCor_link_id=0|Shift=1361
+9	и	_	_	_	_	_	_	_	Shift=1369
+10	предоставления	_	_	_	_	_	_	_	Shift=1371
+11	к	_	_	_	_	_	_	_	Shift=1386
+12	ним	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=558|RuCor_group_id=411359|RuCor_link_id=411358|Shift=1388
+13	доступа	_	_	_	_	_	_	_	Shift=1392
+14	Google	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=567|RuCor_group_id=411340|RuCor_link_id=411334|Shift=1400
+15	создал	_	_	_	_	_	_	_	Shift=1407
+16	отдельное	_	_	_	_	_	_	_	RuCor_chain_id=562|RuCor_group_id=411341|Shift=1414
+17	подразделение	_	_	_	_	_	_	_	RuCor_chain_id=562|RuCor_group_id=411341|Shift=1424
+18	Charleston	_	_	_	_	_	_	_	RuCor_chain_id=562|RuCor_group_id=411341|Shift=1438
+19	Road	_	_	_	_	_	_	_	RuCor_chain_id=562|RuCor_group_id=411341|Shift=1449
+20	Registry	_	_	_	_	_	_	_	RuCor_chain_id=562|RuCor_group_id=411341|Shift=1454|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=1462
+22	от	_	_	_	_	_	_	_	Shift=1464
+23	имени	_	_	_	_	_	_	_	Shift=1467
+24	которого	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=562|RuCor_group_id=411342|RuCor_link_id=411341|Shift=1473
+25	и	_	_	_	_	_	_	_	Shift=1482
+26	было	_	_	_	_	_	_	_	Shift=1484
+27	отправлено	_	_	_	_	_	_	_	Shift=1489
+28	письмо	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=560|RuCor_group_id=411354|RuCor_link_id=411327|Shift=1500|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	Shift=1506
+
+# newpar id = bbc6b314-223e-45b2-a8fd-fc6e856c82fa-p5
+# par_text = ICANN открыла прием заявок на домены первого уровня в начале 2012 года. Всего организация получила почти две тысячи предложений от более чем 500 компаний. ICANN занята рассмотрением заявок, выбирая, кому она предоставит права на доменные имена. Информация о заявках содержится в открытом доступе.
+# sent_id = bbc6b314-223e-45b2-a8fd-fc6e856c82fa-p5-s1
+# text = ICANN открыла прием заявок на домены первого уровня в начале 2012 года.
+1	ICANN	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=565|RuCor_group_id=411343|RuCor_link_id=411337|Shift=1508
+2	открыла	_	_	_	_	_	_	_	Shift=1514
+3	прием	_	_	_	_	_	_	_	Shift=1522
+4	заявок	_	_	_	_	_	_	_	Shift=1528
+5	на	_	_	_	_	_	_	_	Shift=1535
+6	домены	_	_	_	_	_	_	_	Shift=1538
+7	первого	_	_	_	_	_	_	_	Shift=1545
+8	уровня	_	_	_	_	_	_	_	Shift=1553
+9	в	_	_	_	_	_	_	_	Shift=1560
+10	начале	_	_	_	_	_	_	_	Shift=1562
+11	2012	_	_	_	_	_	_	_	Shift=1569
+12	года	_	_	_	_	_	_	_	Shift=1574|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=1578
+
+# sent_id = bbc6b314-223e-45b2-a8fd-fc6e856c82fa-p5-s2
+# text = Всего организация получила почти две тысячи предложений от более чем 500 компаний.
+1	Всего	_	_	_	_	_	_	_	Shift=1580
+2	организация	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=565|RuCor_group_id=411344|RuCor_link_id=411343|Shift=1586
+3	получила	_	_	_	_	_	_	_	Shift=1598
+4	почти	_	_	_	_	_	_	_	Shift=1607
+5	две	_	_	_	_	_	_	_	Shift=1613
+6	тысячи	_	_	_	_	_	_	_	Shift=1617
+7	предложений	_	_	_	_	_	_	_	Shift=1624
+8	от	_	_	_	_	_	_	_	Shift=1636
+9	более	_	_	_	_	_	_	_	Shift=1639
+10	чем	_	_	_	_	_	_	_	Shift=1645
+11	500	_	_	_	_	_	_	_	Shift=1649
+12	компаний	_	_	_	_	_	_	_	Shift=1653|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=1661
+
+# sent_id = bbc6b314-223e-45b2-a8fd-fc6e856c82fa-p5-s3
+# text = ICANN занята рассмотрением заявок, выбирая, кому она предоставит права на доменные имена.
+1	ICANN	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=565|RuCor_group_id=411345|RuCor_link_id=411343|Shift=1663
+2	занята	_	_	_	_	_	_	_	Shift=1669
+3	рассмотрением	_	_	_	_	_	_	_	Shift=1676
+4	заявок	_	_	_	_	_	_	_	Shift=1690|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1696
+6	выбирая	_	_	_	_	_	_	_	Shift=1698|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=1705
+8	кому	_	_	_	_	_	_	_	Shift=1707
+9	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=565|RuCor_group_id=411346|RuCor_link_id=411345|Shift=1712
+10	предоставит	_	_	_	_	_	_	_	Shift=1716
+11	права	_	_	_	_	_	_	_	Shift=1728
+12	на	_	_	_	_	_	_	_	Shift=1734
+13	доменные	_	_	_	_	_	_	_	Shift=1737
+14	имена	_	_	_	_	_	_	_	Shift=1746|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=1751
+
+# sent_id = bbc6b314-223e-45b2-a8fd-fc6e856c82fa-p5-s4
+# text = Информация о заявках содержится в открытом доступе.
+1	Информация	_	_	_	_	_	_	_	Shift=1753
+2	о	_	_	_	_	_	_	_	Shift=1764
+3	заявках	_	_	_	_	_	_	_	Shift=1766
+4	содержится	_	_	_	_	_	_	_	Shift=1774
+5	в	_	_	_	_	_	_	_	Shift=1785
+6	открытом	_	_	_	_	_	_	_	Shift=1787
+7	доступе	_	_	_	_	_	_	_	Shift=1796|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=1803
+
+# newpar id = bbc6b314-223e-45b2-a8fd-fc6e856c82fa-p6
+# par_text = Принятая на сегодняшний день структура доменных имен состоит из домена первого (верхнего) уровня и отделенного от него точкой домена второго уровня (наименование сайта или организации). Домены верхнего уровня до нововведений ICANN делились на стандартные (.com, .net., .org и некоторые другие), инфраструктурные (.arpa) и региональные (например, .ru, .ua, .uk и прочие, закрепленные за конкретными странами). Благодаря инициативе ICANN список имен первого уровня значительно расширится. В то же время, бесточечные домены пока не классифицируются ICANN и не рассматриваются ей для массового пользования.
+# sent_id = bbc6b314-223e-45b2-a8fd-fc6e856c82fa-p6-s1
+# text = Принятая на сегодняшний день структура доменных имен состоит из домена первого (верхнего) уровня и отделенного от него точкой домена второго уровня (наименование сайта или организации).
+1	Принятая	_	_	_	_	_	_	_	Shift=1805
+2	на	_	_	_	_	_	_	_	Shift=1814
+3	сегодняшний	_	_	_	_	_	_	_	Shift=1817
+4	день	_	_	_	_	_	_	_	Shift=1829
+5	структура	_	_	_	_	_	_	_	Shift=1834
+6	доменных	_	_	_	_	_	_	_	Shift=1844
+7	имен	_	_	_	_	_	_	_	Shift=1853
+8	состоит	_	_	_	_	_	_	_	Shift=1858
+9	из	_	_	_	_	_	_	_	Shift=1866
+10	домена	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=561|RuCor_group_id=411347|RuCor_link_id=0|Shift=1869
+11	первого	_	_	_	_	_	_	_	RuCor_chain_id=561|RuCor_group_id=411347|Shift=1876
+12	(	_	_	_	_	_	_	_	RuCor_chain_id=561|RuCor_group_id=411347|Shift=1884|SpaceAfter=No
+13	верхнего	_	_	_	_	_	_	_	RuCor_chain_id=561|RuCor_group_id=411347|Shift=1885|SpaceAfter=No
+14	)	_	_	_	_	_	_	_	RuCor_chain_id=561|RuCor_group_id=411347|Shift=1893
+15	уровня	_	_	_	_	_	_	_	RuCor_chain_id=561|RuCor_group_id=411347|Shift=1895
+16	и	_	_	_	_	_	_	_	Shift=1902
+17	отделенного	_	_	_	_	_	_	_	Shift=1904
+18	от	_	_	_	_	_	_	_	Shift=1916
+19	него	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=561|RuCor_group_id=411348|RuCor_link_id=411347|Shift=1919
+20	точкой	_	_	_	_	_	_	_	Shift=1924
+21	домена	_	_	_	_	_	_	_	Shift=1931
+22	второго	_	_	_	_	_	_	_	Shift=1938
+23	уровня	_	_	_	_	_	_	_	Shift=1946
+24	(	_	_	_	_	_	_	_	Shift=1953|SpaceAfter=No
+25	наименование	_	_	_	_	_	_	_	Shift=1954
+26	сайта	_	_	_	_	_	_	_	Shift=1967
+27	или	_	_	_	_	_	_	_	Shift=1973
+28	организации	_	_	_	_	_	_	_	Shift=1977|SpaceAfter=No
+29	)	_	_	_	_	_	_	_	Shift=1988|SpaceAfter=No
+30	.	_	_	_	_	_	_	_	Shift=1989
+
+# sent_id = bbc6b314-223e-45b2-a8fd-fc6e856c82fa-p6-s2
+# text = Домены верхнего уровня до нововведений ICANN делились на стандартные (.
+1	Домены	_	_	_	_	_	_	_	Shift=1991
+2	верхнего	_	_	_	_	_	_	_	Shift=1998
+3	уровня	_	_	_	_	_	_	_	Shift=2007
+4	до	_	_	_	_	_	_	_	Shift=2014
+5	нововведений	_	_	_	_	_	_	_	Shift=2017
+6	ICANN	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=565|RuCor_group_id=411349|RuCor_link_id=411345|Shift=2030
+7	делились	_	_	_	_	_	_	_	Shift=2036
+8	на	_	_	_	_	_	_	_	Shift=2045
+9	стандартные	_	_	_	_	_	_	_	Shift=2048
+10	(	_	_	_	_	_	_	_	Shift=2060|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=2061
+
+# sent_id = bbc6b314-223e-45b2-a8fd-fc6e856c82fa-p6-s3
+# text = com.net... org и некоторые другие), инфраструктурные (.
+1	com.net	_	_	_	_	_	_	_	Shift=2062|SpaceAfter=No
+2	...	_	_	_	_	_	_	_	Shift=2067
+3	org	_	_	_	_	_	_	_	Shift=2075
+4	и	_	_	_	_	_	_	_	Shift=2079
+5	некоторые	_	_	_	_	_	_	_	Shift=2081
+6	другие	_	_	_	_	_	_	_	Shift=2091|SpaceAfter=No
+7	)	_	_	_	_	_	_	_	Shift=2097|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=2098
+9	инфраструктурные	_	_	_	_	_	_	_	Shift=2100
+10	(	_	_	_	_	_	_	_	Shift=2117|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=2118
+
+# sent_id = bbc6b314-223e-45b2-a8fd-fc6e856c82fa-p6-s4
+# text = arpa) и региональные (например.ru.ua.uk и прочие, закрепленные за конкретными странами).
+1	arpa	_	_	_	_	_	_	_	Shift=2119|SpaceAfter=No
+2	)	_	_	_	_	_	_	_	Shift=2123
+3	и	_	_	_	_	_	_	_	Shift=2125
+4	региональные	_	_	_	_	_	_	_	Shift=2127
+5	(	_	_	_	_	_	_	_	Shift=2140|SpaceAfter=No
+6	например.ru.ua.uk	_	_	_	_	_	_	_	Shift=2141
+7	и	_	_	_	_	_	_	_	Shift=2165
+8	прочие	_	_	_	_	_	_	_	Shift=2167|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=2173
+10	закрепленные	_	_	_	_	_	_	_	Shift=2175
+11	за	_	_	_	_	_	_	_	Shift=2188
+12	конкретными	_	_	_	_	_	_	_	Shift=2191
+13	странами	_	_	_	_	_	_	_	Shift=2203|SpaceAfter=No
+14	)	_	_	_	_	_	_	_	Shift=2211|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=2212
+
+# sent_id = bbc6b314-223e-45b2-a8fd-fc6e856c82fa-p6-s5
+# text = Благодаря инициативе ICANN список имен первого уровня значительно расширится.
+1	Благодаря	_	_	_	_	_	_	_	Shift=2214
+2	инициативе	_	_	_	_	_	_	_	Shift=2224
+3	ICANN	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=565|RuCor_group_id=411350|RuCor_link_id=411349|Shift=2235
+4	список	_	_	_	_	_	_	_	Shift=2241
+5	имен	_	_	_	_	_	_	_	Shift=2248
+6	первого	_	_	_	_	_	_	_	Shift=2253
+7	уровня	_	_	_	_	_	_	_	Shift=2261
+8	значительно	_	_	_	_	_	_	_	Shift=2268
+9	расширится	_	_	_	_	_	_	_	Shift=2280|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=2290
+
+# sent_id = bbc6b314-223e-45b2-a8fd-fc6e856c82fa-p6-s6
+# text = В то же время, бесточечные домены пока не классифицируются ICANN и не рассматриваются ей для массового пользования.
+1	В	_	_	_	_	_	_	_	Shift=2292
+2	то	_	_	_	_	_	_	_	Shift=2294
+3	же	_	_	_	_	_	_	_	Shift=2297
+4	время	_	_	_	_	_	_	_	Shift=2300|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=2305
+6	бесточечные	_	_	_	_	_	_	_	Shift=2307
+7	домены	_	_	_	_	_	_	_	Shift=2319
+8	пока	_	_	_	_	_	_	_	Shift=2326
+9	не	_	_	_	_	_	_	_	Shift=2331
+10	классифицируются	_	_	_	_	_	_	_	Shift=2334
+11	ICANN	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=565|RuCor_group_id=411351|RuCor_link_id=411350|Shift=2351
+12	и	_	_	_	_	_	_	_	Shift=2357
+13	не	_	_	_	_	_	_	_	Shift=2359
+14	рассматриваются	_	_	_	_	_	_	_	Shift=2362
+15	ей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=565|RuCor_group_id=411352|RuCor_link_id=411351|Shift=2378
+16	для	_	_	_	_	_	_	_	Shift=2381
+17	массового	_	_	_	_	_	_	_	Shift=2385
+18	пользования	_	_	_	_	_	_	_	Shift=2395|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	_
+

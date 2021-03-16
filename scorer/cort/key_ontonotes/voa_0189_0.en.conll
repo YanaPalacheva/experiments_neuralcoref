@@ -1,0 +1,50 @@
+#begin document (voa_0189_0); part 000
+voa_0189	0	0	Violence	NN	(TOP(S(NP(NP*)	-	-	-	-	(0
+voa_0189	0	1	between	IN	(PP*	-	-	-	-	-
+voa_0189	0	2	Israelis	NNPS	(NP*	-	-	-	-	-
+voa_0189	0	3	and	CC	*	-	-	-	-	-
+voa_0189	0	4	Palestinians	NNPS	*)))	-	-	-	-	0)
+voa_0189	0	5	continued	VBD	(VP*	continue	01	1	-	-
+voa_0189	0	6	in	IN	(PP*	-	-	-	-	-
+voa_0189	0	7	its	PRP$	(NP*	-	-	-	-	(0)
+voa_0189	0	8	third	JJ	*	-	-	-	-	-
+voa_0189	0	9	month	NN	*))	month	-	2	-	-
+voa_0189	0	10	,	,	*	-	-	-	-	-
+voa_0189	0	11	though	IN	(SBAR*	-	-	-	-	-
+voa_0189	0	12	at	IN	(FRAG(PP*	-	-	-	-	-
+voa_0189	0	13	a	DT	(NP(NP*	-	-	-	-	-
+voa_0189	0	14	slightly	RB	(ADJP*	-	-	-	-	-
+voa_0189	0	15	reduced	VBN	*)	reduce	01	-	-	-
+voa_0189	0	16	level	NN	*)	level	-	2	-	-
+voa_0189	0	17	overall	RB	(ADVP*))))))	-	-	-	-	-
+voa_0189	0	18	.	.	*))	-	-	-	-	-
+
+voa_0189	0	0	Israeli	JJ	(TOP(S(NP(ADJP*	-	-	-	-	(1
+voa_0189	0	1	and	CC	*	-	-	-	-	-
+voa_0189	0	2	Palestinian	JJ	*)	-	-	-	-	-
+voa_0189	0	3	negotiators	NNS	*)	-	-	-	-	1)
+voa_0189	0	4	met	VBD	(VP*	meet	03	2	-	-
+voa_0189	0	5	separately	RB	(ADVP*)	-	-	-	-	-
+voa_0189	0	6	at	IN	(PP*	-	-	-	-	-
+voa_0189	0	7	the	DT	(NP*	-	-	-	-	-
+voa_0189	0	8	White	NNP	*	-	-	-	-	-
+voa_0189	0	9	House	NNP	*))	-	-	-	-	-
+voa_0189	0	10	with	IN	(PP*	-	-	-	-	-
+voa_0189	0	11	President	NNP	(NP*	-	-	-	-	-
+voa_0189	0	12	Bill	NNP	*	-	-	-	-	-
+voa_0189	0	13	Clinton	NNP	*))	-	-	-	-	-
+voa_0189	0	14	in	IN	(PP*	-	-	-	-	-
+voa_0189	0	15	hopes	NNS	(NP(NP*)	hope	-	1	-	-
+voa_0189	0	16	of	IN	(PP*	-	-	-	-	-
+voa_0189	0	17	restarting	VBG	(S(VP*	restart	01	-	-	-
+voa_0189	0	18	direct	JJ	(NP(NP*	-	-	-	-	-
+voa_0189	0	19	negotiations	NNS	*)	negotiation	01	1	-	-
+voa_0189	0	20	between	IN	(PP*	-	-	-	-	-
+voa_0189	0	21	them	PRP	(NP*))	-	-	-	-	(1)
+voa_0189	0	22	for	IN	(PP*	-	-	-	-	-
+voa_0189	0	23	a	DT	(NP*	-	-	-	-	-
+voa_0189	0	24	final	JJ	*	-	-	-	-	-
+voa_0189	0	25	settlement	NN	*)))))))))	settlement	01	3	-	-
+voa_0189	0	26	.	.	*))	-	-	-	-	-
+
+#end document

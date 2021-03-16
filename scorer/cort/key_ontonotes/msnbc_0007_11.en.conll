@@ -1,0 +1,1287 @@
+#begin document (msnbc_0007_11); part 000
+msnbc_0007	11	0	Let	VB	(TOP(S(VP*	let	01	1	Tim_Russert	-
+msnbc_0007	11	1	me	PRP	(S(NP*)	-	-	-	Tim_Russert	(22)
+msnbc_0007	11	2	show	VB	(VP*	show	01	1	Tim_Russert	-
+msnbc_0007	11	3	you	PRP	(NP(NP*)	-	-	-	Tim_Russert	(206
+msnbc_0007	11	4	all	DT	(NP*))	-	-	-	Tim_Russert	206)
+msnbc_0007	11	5	two	CD	(NP(NP(NP*	-	-	-	Tim_Russert	(29
+msnbc_0007	11	6	presidents	NNS	*)	president	-	3	Tim_Russert	-
+msnbc_0007	11	7	Bill	NNP	(NP(NP(NP*	-	-	-	Tim_Russert	(67
+msnbc_0007	11	8	Clinton	NNP	*)	-	-	-	Tim_Russert	-
+msnbc_0007	11	9	back	RB	(ADVP*	-	-	-	Tim_Russert	-
+msnbc_0007	11	10	in	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	11	11	nineteen	CD	(NP*	-	-	-	Tim_Russert	-
+msnbc_0007	11	12	ninety	NN	*	-	-	-	Tim_Russert	-
+msnbc_0007	11	13	three	CD	*))))	-	-	-	Tim_Russert	67)
+msnbc_0007	11	14	George	NNP	(NP(NP*	-	-	-	Tim_Russert	(172
+msnbc_0007	11	15	Bush	NNP	*)	-	-	-	Tim_Russert	-
+msnbc_0007	11	16	ten	CD	(ADVP(NP*	-	-	-	Tim_Russert	-
+msnbc_0007	11	17	years	NNS	*)	-	-	-	Tim_Russert	-
+msnbc_0007	11	18	later	RB	*))))	-	-	-	Tim_Russert	172)|29)
+msnbc_0007	11	19	talking	VBG	(VP*	talk	01	1	Tim_Russert	(155)
+msnbc_0007	11	20	to	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	11	21	the	DT	(NP*	-	-	-	Tim_Russert	(169
+msnbc_0007	11	22	North	NNPS	*	-	-	-	Tim_Russert	-
+msnbc_0007	11	23	Koreans	NNPS	*))	-	-	-	Tim_Russert	169)
+msnbc_0007	11	24	in	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	11	25	effect	NN	(NP*)))))))	effect	-	1	Tim_Russert	-
+msnbc_0007	11	26	/.	.	*))	-	-	-	Tim_Russert	-
+
+msnbc_0007	11	0	And	CC	(TOP(S*	-	-	-	Tim_Russert	-
+msnbc_0007	11	1	I	PRP	(NP*)	-	-	-	Tim_Russert	(22)
+msnbc_0007	11	2	'm	VBP	(VP*	be	03	-	Tim_Russert	-
+msnbc_0007	11	3	asking	VBG	(VP*	ask	02	2	Tim_Russert	-
+msnbc_0007	11	4	you	PRP	(NP*)	-	-	-	Tim_Russert	(206)
+msnbc_0007	11	5	to	TO	(S(VP*	-	-	-	Tim_Russert	-
+msnbc_0007	11	6	put	VB	(VP*	put	01	1	Tim_Russert	-
+msnbc_0007	11	7	your	PRP$	(NP*	-	-	-	Tim_Russert	(206)
+msnbc_0007	11	8	mind	NN	*)	mind	-	1	Tim_Russert	-
+msnbc_0007	11	9	in	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	11	10	place	NN	(NP(NP*)	place	-	8	Tim_Russert	-
+msnbc_0007	11	11	of	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	11	12	a	DT	(NP(NP*	-	-	-	Tim_Russert	-
+msnbc_0007	11	13	North	NNP	*	-	-	-	Tim_Russert	-
+msnbc_0007	11	14	Korean	NNP	*)	-	-	-	Tim_Russert	-
+msnbc_0007	11	15	watching	VBG	(VP*	watch	01	1	Tim_Russert	-
+msnbc_0007	11	16	this	DT	(NP*)))))))))))	-	-	-	Tim_Russert	(155)
+msnbc_0007	11	17	/.	.	*))	-	-	-	Tim_Russert	-
+
+msnbc_0007	11	0	President	NNP	(TOP(NP(NP*	-	-	-	Tim_Russert	(29|(67
+msnbc_0007	11	1	Clinton	NNP	*)	-	-	-	Tim_Russert	67)
+msnbc_0007	11	2	President	NNP	(NP*	-	-	-	Tim_Russert	(172
+msnbc_0007	11	3	Bush	NNP	*)	-	-	-	Tim_Russert	172)
+msnbc_0007	11	4	/.	.	*))	-	-	-	Tim_Russert	29)
+
+msnbc_0007	11	0	North	NNP	(TOP(S(NP*	-	-	-	Bill_Clinton	(169
+msnbc_0007	11	1	Korea	NNP	*)	-	-	-	Bill_Clinton	169)
+msnbc_0007	11	2	can	MD	(VP*	-	-	-	Bill_Clinton	-
+msnbc_0007	11	3	not	RB	*	-	-	-	Bill_Clinton	-
+msnbc_0007	11	4	be	VB	(VP*	be	03	-	Bill_Clinton	-
+msnbc_0007	11	5	allowed	VBN	(VP*	allow	01	1	Bill_Clinton	(98)
+msnbc_0007	11	6	to	TO	(S(VP*	-	-	-	Bill_Clinton	-
+msnbc_0007	11	7	develop	VB	(VP*	develop	02	1	Bill_Clinton	-
+msnbc_0007	11	8	a	DT	(NP*	-	-	-	Bill_Clinton	-
+msnbc_0007	11	9	nuclear	JJ	*	-	-	-	Bill_Clinton	-
+msnbc_0007	11	10	bomb	NN	*)))))))	-	-	-	Bill_Clinton	-
+msnbc_0007	11	11	/.	.	*))	-	-	-	Bill_Clinton	-
+
+msnbc_0007	11	0	We	PRP	(TOP(S(NP*)	-	-	-	Bill_Clinton	(158)
+msnbc_0007	11	1	had	VBD	(VP*	have	02	12	Bill_Clinton	-
+msnbc_0007	11	2	to	TO	(S(VP*	-	-	-	Bill_Clinton	-
+msnbc_0007	11	3	be	VB	(VP*	be	01	1	Bill_Clinton	-
+msnbc_0007	11	4	very	RB	(ADJP*	-	-	-	Bill_Clinton	-
+msnbc_0007	11	5	firm	JJ	*	-	-	-	Bill_Clinton	-
+msnbc_0007	11	6	about	IN	(PP*	-	-	-	Bill_Clinton	-
+msnbc_0007	11	7	it	PRP	(NP*)))))))	-	-	-	Bill_Clinton	(98)
+msnbc_0007	11	8	/.	.	*))	-	-	-	Bill_Clinton	-
+
+msnbc_0007	11	0	We	PRP	(TOP(S(NP*)	-	-	-	President_Bush	(158)
+msnbc_0007	11	1	will	MD	(VP*	-	-	-	President_Bush	-
+msnbc_0007	11	2	not	RB	*	-	-	-	President_Bush	-
+msnbc_0007	11	3	tolerate	VB	(VP*	tolerate	01	1	President_Bush	-
+msnbc_0007	11	4	nuclear	JJ	(NP(NP*	-	-	-	President_Bush	-
+msnbc_0007	11	5	weapons	NNS	*)	weapon	-	1	President_Bush	-
+msnbc_0007	11	6	in	IN	(PP*	-	-	-	President_Bush	-
+msnbc_0007	11	7	North	NNP	(NP*	-	-	-	President_Bush	(113
+msnbc_0007	11	8	Korea	NNP	*)))))	-	-	-	President_Bush	113)
+msnbc_0007	11	9	/.	.	*))	-	-	-	President_Bush	-
+
+msnbc_0007	11	0	Ash	NNP	(TOP(FRAG(NP*	-	-	-	Tim_Russert	(42
+msnbc_0007	11	1	Carter	NNP	*)	-	-	-	Tim_Russert	42)
+msnbc_0007	11	2	both	DT	(NP*	-	-	-	Tim_Russert	(29
+msnbc_0007	11	3	presidents	NNS	*)	president	-	3	Tim_Russert	29)
+msnbc_0007	11	4	making	VBG	(VP*	make	-	1	Tim_Russert	-
+msnbc_0007	11	5	very	RB	(NP(ADJP*	-	-	-	Tim_Russert	-
+msnbc_0007	11	6	firm	JJ	*)	-	-	-	Tim_Russert	-
+msnbc_0007	11	7	resolved	JJ	*	-	-	-	Tim_Russert	-
+msnbc_0007	11	8	statements	NNS	*))	statement	01	1	Tim_Russert	-
+msnbc_0007	11	9	/.	.	*))	-	-	-	Tim_Russert	-
+
+msnbc_0007	11	0	if	IN	(TOP(SBARQ(SBAR*	-	-	-	Tim_Russert	-
+msnbc_0007	11	1	you	PRP	(S(NP*)	-	-	-	Tim_Russert	-
+msnbc_0007	11	2	're	VBP	(VP*	be	01	4	Tim_Russert	-
+msnbc_0007	11	3	in	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	11	4	North	NNP	(NP*	-	-	-	Tim_Russert	(113
+msnbc_0007	11	5	Korean	NNP	*))	-	-	-	Tim_Russert	113)
+msnbc_0007	11	6	watching	VBG	(S(VP*	watch	01	1	Tim_Russert	-
+msnbc_0007	11	7	that	DT	(NP*)))	-	-	-	Tim_Russert	(155)
+msnbc_0007	11	8	knowing	VBG	(S(VP*	know	01	1	Tim_Russert	-
+msnbc_0007	11	9	that	IN	(SBAR*	-	-	-	Tim_Russert	-
+msnbc_0007	11	10	you	PRP	(S(NP*)	-	-	-	Tim_Russert	-
+msnbc_0007	11	11	now	RB	(ADVP*)	-	-	-	Tim_Russert	-
+msnbc_0007	11	12	have	VBP	(VP*	have	03	2	Tim_Russert	-
+msnbc_0007	11	13	the	DT	(NP(NP*	-	-	-	Tim_Russert	-
+msnbc_0007	11	14	potential	NN	*)	potential	-	1	Tim_Russert	-
+msnbc_0007	11	15	of	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	11	16	building	VBG	(S(VP*	build	01	1	Tim_Russert	-
+msnbc_0007	11	17	eight	CD	(NP*	-	-	-	Tim_Russert	-
+msnbc_0007	11	18	nuclear	JJ	*	-	-	-	Tim_Russert	-
+msnbc_0007	11	19	bombs	NNS	*)))))))))))))	-	-	-	Tim_Russert	-
+msnbc_0007	11	20	what	WP	(WHNP*)	-	-	-	Tim_Russert	-
+msnbc_0007	11	21	are	VBP	(SQ*	be	03	-	Tim_Russert	-
+msnbc_0007	11	22	you	PRP	(NP*)	-	-	-	Tim_Russert	-
+msnbc_0007	11	23	thinking	VBG	(VP*))	think	01	2	Tim_Russert	-
+msnbc_0007	11	24	/?	.	*))	-	-	-	Tim_Russert	-
+
+msnbc_0007	11	0	Well	UH	(TOP(S(INTJ*)	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	1	I	PRP	(NP*)	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	2	'm	VBP	(VP*	be	01	1	Ashton_Carter	*	*
+msnbc_0007	11	3	concerned	JJ	(ADJP*	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	4	that	IN	(SBAR*	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	5	they	PRP	(S(NP*)	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	6	're	VBP	(VP*	be	03	-	Ashton_Carter	*	*
+msnbc_0007	11	7	thinking	VBG	(VP*	think	01	1	Ashton_Carter	*	*
+msnbc_0007	11	8	that	IN	(SBAR*	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	9	we	PRP	(S(NP*)	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	10	're	VBP	(VP*	be	03	-	Ashton_Carter	*	*
+msnbc_0007	11	11	giving	VBG	(VP*	give	01	3	Ashton_Carter	*	*
+msnbc_0007	11	12	a	DT	(NP*	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	13	new	JJ	*	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	14	meaning	NN	*)	meaning	-	1	Ashton_Carter	*	*
+msnbc_0007	11	15	to	IN	(PP*	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	16	the	DT	(NP(NP*	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	17	word	NN	*)	word	-	1	Ashton_Carter	*	*
+msnbc_0007	11	18	intolerable	JJ	(NP*))))))))))))	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	19	Because	IN	(SBAR*	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	20	they	PRP	(S(S(NP*)	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	21	keep	VBP	(VP*	keep	02	1	Ashton_Carter	*	*
+msnbc_0007	11	22	doing	VBG	(VP*	do	02	1	Ashton_Carter	*	*
+msnbc_0007	11	23	things	NNS	(NP(NP*)	thing	-	1	Ashton_Carter	*	*
+msnbc_0007	11	24	that	WDT	(SBAR(WHNP*)	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	25	we	PRP	(S(NP*)	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	26	say	VBP	(VP*	say	01	1	Ashton_Carter	*	*
+msnbc_0007	11	27	are	VBP	(SBAR(S(VP*	be	01	1	Ashton_Carter	*	*
+msnbc_0007	11	28	intolerable	JJ	(ADJP*)))))))))))	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	29	and	CC	*	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	30	then	RB	(ADVP*)	-	-	-	Ashton_Carter	(ARGM-TMP*)	(ARGM-TMP*)
+msnbc_0007	11	31	we	PRP	(NP*)	-	-	-	Ashton_Carter	(ARG0*)	(ARG0*)
+msnbc_0007	11	32	tolerate	VBP	(VP*	tolerate	01	1	Ashton_Carter	(V*)	(V*)
+msnbc_0007	11	33	them	PRP	(NP*)))))	-	-	-	Ashton_Carter	(ARG1*)	(ARG1*)
+msnbc_0007	11	34	/.	.	*))	-	-	-	Ashton_Carter	*	*
+
+msnbc_0007	11	0	That	DT	(TOP(S(NP*)	-	-	-	Ashton_Carter	(135)
+msnbc_0007	11	1	's	VBZ	(VP*	be	01	1	Ashton_Carter	-
+msnbc_0007	11	2	why	WRB	(SBAR(WHADVP*)	-	-	-	Ashton_Carter	-
+msnbc_0007	11	3	I	PRP	(S(NP*)	-	-	-	Ashton_Carter	(42)
+msnbc_0007	11	4	think	VBP	(VP*	think	01	1	Ashton_Carter	-
+msnbc_0007	11	5	at	IN	(SBAR(S(PP*	-	-	-	Ashton_Carter	-
+msnbc_0007	11	6	some	DT	(NP*	-	-	-	Ashton_Carter	-
+msnbc_0007	11	7	point	NN	*))	point	-	5	Ashton_Carter	-
+msnbc_0007	11	8	you	PRP	(NP*)	-	-	-	Ashton_Carter	-
+msnbc_0007	11	9	have	VBP	(VP*	have	02	12	Ashton_Carter	-
+msnbc_0007	11	10	to	TO	(S(VP*	-	-	-	Ashton_Carter	-
+msnbc_0007	11	11	draw	VB	(VP*	draw	01	11	Ashton_Carter	-
+msnbc_0007	11	12	the	DT	(NP*	-	-	-	Ashton_Carter	-
+msnbc_0007	11	13	line	NN	*)	line	-	6	Ashton_Carter	-
+msnbc_0007	11	14	with	IN	(PP*	-	-	-	Ashton_Carter	-
+msnbc_0007	11	15	the	DT	(NP*	-	-	-	Ashton_Carter	(169
+msnbc_0007	11	16	North	NNP	*	-	-	-	Ashton_Carter	-
+msnbc_0007	11	17	Koreans	NNPS	*))))))))))))	-	-	-	Ashton_Carter	169)
+msnbc_0007	11	18	/.	.	*))	-	-	-	Ashton_Carter	-
+
+msnbc_0007	11	0	I	PRP	(TOP(S(NP*)	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	1	do	VBP	(VP*	do	01	-	Ashton_Carter	*	*
+msnbc_0007	11	2	think	VB	(VP*	think	01	1	Ashton_Carter	*	*
+msnbc_0007	11	3	and	CC	(PRN(S*	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	4	here	RB	(ADVP*)	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	5	I	PRP	(NP*)	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	6	agree	VBP	(VP*	agree	01	1	Ashton_Carter	*	*
+msnbc_0007	11	7	with	IN	(PP*	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	8	both	DT	(NP(NP*)	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	9	of	IN	(PP*	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	10	the	DT	(NP(NP(NP*	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	11	other	JJ	*	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	12	gentlemen	NNS	*)	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	13	you	PRP	(SBAR(S(NP*)	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	14	have	VBP	(VP*	have	03	8	Ashton_Carter	*	*
+msnbc_0007	11	15	on	IN	(PP*	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	16	the	DT	(NP*	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	17	show	NN	*))))))	show	01	2	Ashton_Carter	*	*
+msnbc_0007	11	18	who	WP	(SBAR(WHNP*)	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	19	have	VBP	(S(VP*	have	01	-	Ashton_Carter	*	*
+msnbc_0007	11	20	shown	VBN	(VP*	show	01	1	Ashton_Carter	*	*
+msnbc_0007	11	21	it	PRP	(SBAR(S(NP(NP*))	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	22	's	VBZ	(VP*	be	01	1	Ashton_Carter	*	*
+msnbc_0007	11	23	possible	JJ	(ADJP*)	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	24	to	TO	(S(VP(VP*	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	25	reach	VB	(VP*	reach	01	1	Ashton_Carter	*	*
+msnbc_0007	11	26	an	DT	(NP(NP*	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	27	agreement	NN	*)	agreement	-	1	Ashton_Carter	*	*
+msnbc_0007	11	28	with	IN	(PP*	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	29	North	NNP	(NP*	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	30	Korea	NNP	*)))))	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	31	and	CC	*	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	32	to	TO	(VP*	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	33	get	VB	(VP*	get	01	1	Ashton_Carter	(V*)	(V*)
+msnbc_0007	11	34	agreements	NNS	(NP(NP*)	agreement	-	1	Ashton_Carter	(ARG1*	(ARG1*
+msnbc_0007	11	35	that	WDT	(SBAR(WHNP*)	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	36	serve	VBP	(S(VP*	serve	02	1	Ashton_Carter	*	*
+msnbc_0007	11	37	our	PRP$	(NP*	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	38	interests	NNS	*))))	interest	-	1	Ashton_Carter	*	*
+msnbc_0007	11	39	The	DT	(NP*	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	40	much	RB	(ADJP*	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	41	maligned	VBN	*)	malign	01	-	Ashton_Carter	*	*
+msnbc_0007	11	42	agreed	VBN	*	agree	01	-	Ashton_Carter	*	*
+msnbc_0007	11	43	framework	NN	*))))))))))))))))))))	framework	-	1	Ashton_Carter	*)	*)
+msnbc_0007	11	44	as	IN	(SBAR(S(SBAR*	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	45	Bob	NNP	(S(NP*	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	46	Galluci	NNP	*)	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	47	pointed	VBD	(VP*	point	02	1	Ashton_Carter	*	*
+msnbc_0007	11	48	out	RP	(PRT*))))	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	49	without	IN	(PP*	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	50	that	DT	(NP*	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	51	agreed	VBN	*	agree	01	-	Ashton_Carter	*	*
+msnbc_0007	11	52	framework	NN	*))	framework	-	1	Ashton_Carter	*	*
+msnbc_0007	11	53	North	NNP	(NP*	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	54	Korea	NNP	*)	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	55	by	IN	(PP*	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	56	all	PDT	(NP(NP*	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	57	the	DT	*	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	58	calculations	NNS	*)	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	59	of	IN	(PP*	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	60	the	DT	(NP*	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	61	experts	NNS	*))))	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	62	would	MD	(VP*	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	63	now	RB	(ADVP*)	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	64	have	VB	(VP*	have	03	1	Ashton_Carter	*	*
+msnbc_0007	11	65	fifty	CD	(NP*	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	66	nuclear	JJ	*	-	-	-	Ashton_Carter	*	*
+msnbc_0007	11	67	weapons	NNS	*)))))))	weapon	-	1	Ashton_Carter	*	*
+msnbc_0007	11	68	/.	.	*))	-	-	-	Ashton_Carter	*	*
+
+msnbc_0007	11	0	So	RB	(TOP(S(ADVP*)	-	-	-	Ashton_Carter	-
+msnbc_0007	11	1	we	PRP	(NP*)	-	-	-	Ashton_Carter	(158)
+msnbc_0007	11	2	were	VBD	(VP*	be	01	1	Ashton_Carter	-
+msnbc_0007	11	3	better	RBR	(ADJP(ADJP*	-	-	-	Ashton_Carter	-
+msnbc_0007	11	4	off	JJ	*	-	-	-	Ashton_Carter	-
+msnbc_0007	11	5	with	IN	(PP*	-	-	-	Ashton_Carter	-
+msnbc_0007	11	6	the	DT	(NP*	-	-	-	Ashton_Carter	(175
+msnbc_0007	11	7	agreement	NN	*)))	agreement	-	1	Ashton_Carter	175)
+msnbc_0007	11	8	than	IN	(PP*	-	-	-	Ashton_Carter	-
+msnbc_0007	11	9	without	IN	(PP*	-	-	-	Ashton_Carter	-
+msnbc_0007	11	10	it	PRP	(NP*)))))	-	-	-	Ashton_Carter	(175)
+msnbc_0007	11	11	/.	.	*))	-	-	-	Ashton_Carter	-
+
+msnbc_0007	11	0	It	PRP	(TOP(S(NP(NP*))	-	-	-	Ashton_Carter	-	-
+msnbc_0007	11	1	is	VBZ	(VP*	be	01	1	Ashton_Carter	-	-
+msnbc_0007	11	2	possible	JJ	(ADJP*)	-	-	-	Ashton_Carter	-	-
+msnbc_0007	11	3	to	TO	(S(VP*	-	-	-	Ashton_Carter	-	-
+msnbc_0007	11	4	reach	VB	(VP*	reach	01	1	Ashton_Carter	-	-
+msnbc_0007	11	5	agreement	NN	(NP(NP*)	agreement	-	1	Ashton_Carter	-	-
+msnbc_0007	11	6	with	IN	(PP*	-	-	-	Ashton_Carter	-	-
+msnbc_0007	11	7	the	DT	(NP*	-	-	-	Ashton_Carter	(169	(169
+msnbc_0007	11	8	North	NNPS	*	-	-	-	Ashton_Carter	-	-
+msnbc_0007	11	9	Koreans	NNPS	*)))	-	-	-	Ashton_Carter	169)	169)
+msnbc_0007	11	10	But	CC	(NAC*	-	-	-	Ashton_Carter	-	-
+msnbc_0007	11	11	not	RB	(SBAR(ADVP*)	-	-	-	Ashton_Carter	-	-
+msnbc_0007	11	12	when	WRB	(WHADVP*)	-	-	-	Ashton_Carter	-	-
+msnbc_0007	11	13	they	PRP	(S(NP*)	-	-	-	Ashton_Carter	(169)	(169)
+msnbc_0007	11	14	see	VBP	(VP*	see	01	1	Ashton_Carter	-	-
+msnbc_0007	11	15	the	DT	(NP(NP(NP(NP*	-	-	-	Ashton_Carter	-	-
+msnbc_0007	11	16	kind	NN	*)	-	-	-	Ashton_Carter	-	-
+msnbc_0007	11	17	of	IN	(PP*	-	-	-	Ashton_Carter	-	-
+msnbc_0007	11	18	footage	NN	(NP*)))	-	-	-	Ashton_Carter	-	-
+msnbc_0007	11	19	that	WDT	(SBAR(WHNP*)	-	-	-	Ashton_Carter	-	-
+msnbc_0007	11	20	you	PRP	(S(NP*)	-	-	-	Ashton_Carter	(22)	(22)
+msnbc_0007	11	21	uh	UH	(INTJ*)	-	-	-	Ashton_Carter	-	-
+msnbc_0007	11	22	showed	VBD	(VP*))))	show	01	1	Ashton_Carter	-	-
+msnbc_0007	11	23	Which	WDT	(SBAR(WHNP*)	-	-	-	Ashton_Carter	-	-
+msnbc_0007	11	24	is	VBZ	(S(VP*	be	01	1	Ashton_Carter	-	-
+msnbc_0007	11	25	uh	UH	(INTJ*)	-	-	-	Ashton_Carter	-	-
+msnbc_0007	11	26	uh	UH	(INTJ*)	-	-	-	Ashton_Carter	-	-
+msnbc_0007	11	27	uh	UH	(INTJ*)	-	-	-	Ashton_Carter	-	-
+msnbc_0007	11	28	Americans	NNPS	(NP(NP*)	-	-	-	Ashton_Carter	(158)	(158)
+msnbc_0007	11	29	drawing	VBG	(VP(VP*	draw	01	11	Ashton_Carter	-	-
+msnbc_0007	11	30	a	DT	(NP*	-	-	-	Ashton_Carter	(168	(168
+msnbc_0007	11	31	line	NN	*)	line	-	6	Ashton_Carter	168)	168)
+msnbc_0007	11	32	in	IN	(PP*	-	-	-	Ashton_Carter	-	-
+msnbc_0007	11	33	the	DT	(NP*	-	-	-	Ashton_Carter	-	-
+msnbc_0007	11	34	sand	NN	*)))	-	-	-	Ashton_Carter	-	-
+msnbc_0007	11	35	and	CC	*	-	-	-	Ashton_Carter	-	-
+msnbc_0007	11	36	then	RB	(ADVP*)	-	-	-	Ashton_Carter	-	-
+msnbc_0007	11	37	stepping	VBG	(VP*	step	01	1	Ashton_Carter	-	-
+msnbc_0007	11	38	back	RB	(ADVP*	-	-	-	Ashton_Carter	-	-
+msnbc_0007	11	39	from	IN	(PP*	-	-	-	Ashton_Carter	-	-
+msnbc_0007	11	40	that	DT	(NP*	-	-	-	Ashton_Carter	(168	(168
+msnbc_0007	11	41	line	NN	*))))	line	-	6	Ashton_Carter	168)	168)
+msnbc_0007	11	42	And	CC	*	-	-	-	Ashton_Carter	-	-
+msnbc_0007	11	43	drawing	VBG	(VP*	draw	01	11	Ashton_Carter	-	-
+msnbc_0007	11	44	a	DT	(NP*	-	-	-	Ashton_Carter	-	-
+msnbc_0007	11	45	line	NN	*)	line	-	6	Ashton_Carter	-	-
+msnbc_0007	11	46	in	IN	(PP*	-	-	-	Ashton_Carter	-	-
+msnbc_0007	11	47	the	DT	(NP*	-	-	-	Ashton_Carter	-	-
+msnbc_0007	11	48	sand	NN	*)))	-	-	-	Ashton_Carter	-	-
+msnbc_0007	11	49	and	CC	*	-	-	-	Ashton_Carter	-	-
+msnbc_0007	11	50	then	RB	(ADVP*)	-	-	-	Ashton_Carter	-	-
+msnbc_0007	11	51	stepping	VBG	(VP*	step	01	1	Ashton_Carter	-	-
+msnbc_0007	11	52	back	RB	(ADVP*))))))))))))))))	-	-	-	Ashton_Carter	-	-
+msnbc_0007	11	53	/.	.	*))	-	-	-	Ashton_Carter	-	-
+
+msnbc_0007	11	0	I	PRP	(TOP(S(NP*)	-	-	-	Ashton_Carter	(42)
+msnbc_0007	11	1	think	VBP	(VP*	think	01	1	Ashton_Carter	-
+msnbc_0007	11	2	our	PRP$	(SBAR(S(NP*	-	-	-	Ashton_Carter	(125|(158)
+msnbc_0007	11	3	diplomacy	NN	*)	-	-	-	Ashton_Carter	125)
+msnbc_0007	11	4	has	VBZ	(VP*	have	02	12	Ashton_Carter	-
+msnbc_0007	11	5	to	TO	(S(VP*	-	-	-	Ashton_Carter	-
+msnbc_0007	11	6	have	VB	(VP*	have	03	5	Ashton_Carter	-
+msnbc_0007	11	7	carrots	NNS	(NP*)	-	-	-	Ashton_Carter	-
+msnbc_0007	11	8	in	IN	(PP*	-	-	-	Ashton_Carter	-
+msnbc_0007	11	9	it	PRP	(NP*))))))	-	-	-	Ashton_Carter	(125)
+msnbc_0007	11	10	but	CC	*	-	-	-	Ashton_Carter	-
+msnbc_0007	11	11	it	PRP	(S(NP*)	-	-	-	Ashton_Carter	(125)
+msnbc_0007	11	12	has	VBZ	(VP*	have	02	12	Ashton_Carter	-
+msnbc_0007	11	13	to	TO	(S(VP*	-	-	-	Ashton_Carter	-
+msnbc_0007	11	14	stand	VB	(VP*	stand	01	2	Ashton_Carter	-
+msnbc_0007	11	15	somewhere	RB	(ADVP*)))))))))	-	-	-	Ashton_Carter	-
+msnbc_0007	11	16	/.	.	*))	-	-	-	Ashton_Carter	-
+
+msnbc_0007	11	0	and	CC	(TOP(S*	-	-	-	Ashton_Carter	-
+msnbc_0007	11	1	as	IN	(SBAR*	-	-	-	Ashton_Carter	-
+msnbc_0007	11	2	I	PRP	(S(NP*)	-	-	-	Ashton_Carter	(42)
+msnbc_0007	11	3	suggested	VBD	(VP*	suggest	01	2	Ashton_Carter	-
+msnbc_0007	11	4	earlier	RB	(ADVP*))))	-	-	-	Ashton_Carter	-
+msnbc_0007	11	5	I	PRP	(NP*)	-	-	-	Ashton_Carter	(42)
+msnbc_0007	11	6	think	VBP	(VP*	think	01	1	Ashton_Carter	-
+msnbc_0007	11	7	the	DT	(SBAR(S(NP*	-	-	-	Ashton_Carter	-
+msnbc_0007	11	8	missile	NN	*	-	-	-	Ashton_Carter	-
+msnbc_0007	11	9	tests	NNS	*)	test	-	1	Ashton_Carter	-
+msnbc_0007	11	10	are	VBP	(VP*	be	01	1	Ashton_Carter	-
+msnbc_0007	11	11	a	DT	(NP(NP*	-	-	-	Ashton_Carter	-
+msnbc_0007	11	12	good	JJ	*	-	-	-	Ashton_Carter	-
+msnbc_0007	11	13	place	NN	*)	place	-	5	Ashton_Carter	-
+msnbc_0007	11	14	to	TO	(SBAR(S(VP*	-	-	-	Ashton_Carter	-
+msnbc_0007	11	15	take	VB	(VP*	take	-	14.1	Ashton_Carter	-
+msnbc_0007	11	16	a	DT	(NP*	-	-	-	Ashton_Carter	-
+msnbc_0007	11	17	stand	NN	*))))))))))	stand	01	8	Ashton_Carter	-
+msnbc_0007	11	18	/.	.	*))	-	-	-	Ashton_Carter	-
+
+msnbc_0007	11	0	Governor	NNP	(TOP(S(NP*	-	-	-	Tim_Russert	(82
+msnbc_0007	11	1	Richardson	NNP	*)	-	-	-	Tim_Russert	82)
+msnbc_0007	11	2	draw	VB	(VP(VP*	draw	01	11	Tim_Russert	-
+msnbc_0007	11	3	a	DT	(NP*	-	-	-	Tim_Russert	-
+msnbc_0007	11	4	line	NN	*)	line	-	6	Tim_Russert	-
+msnbc_0007	11	5	in	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	11	6	the	DT	(NP*	-	-	-	Tim_Russert	-
+msnbc_0007	11	7	stand	NN	*)))	stand	-	12	Tim_Russert	-
+msnbc_0007	11	8	and	CC	*	-	-	-	Tim_Russert	-
+msnbc_0007	11	9	step	VB	(VP*	step	01	1	Tim_Russert	-
+msnbc_0007	11	10	back	RB	(ADVP*)))	-	-	-	Tim_Russert	-
+msnbc_0007	11	11	/.	.	*))	-	-	-	Tim_Russert	-
+
+msnbc_0007	11	0	the	DT	(TOP(S(NP*	-	-	-	Tim_Russert	(47
+msnbc_0007	11	1	North	NNPS	*	-	-	-	Tim_Russert	-
+msnbc_0007	11	2	Koreans	NNPS	*)	-	-	-	Tim_Russert	47)
+msnbc_0007	11	3	watch	VBP	(VP*	watch	01	1	Tim_Russert	-
+msnbc_0007	11	4	that	DT	(NP*))	-	-	-	Tim_Russert	(43)
+msnbc_0007	11	5	/.	.	*))	-	-	-	Tim_Russert	-
+
+msnbc_0007	11	0	they	PRP	(TOP(S(NP*)	-	-	-	Tim_Russert	(47)
+msnbc_0007	11	1	observe	VBP	(VP*	observe	01	1	Tim_Russert	-
+msnbc_0007	11	2	that	DT	(NP*))	-	-	-	Tim_Russert	(43)
+msnbc_0007	11	3	/.	.	*))	-	-	-	Tim_Russert	-
+
+msnbc_0007	11	0	they	PRP	(TOP(S(NP*)	-	-	-	Tim_Russert	(47)
+msnbc_0007	11	1	know	VBP	(VP*	know	01	1	Tim_Russert	-
+msnbc_0007	11	2	what	WP	(SBAR(WHNP*)	-	-	-	Tim_Russert	-
+msnbc_0007	11	3	their	PRP$	(S(NP*	-	-	-	Tim_Russert	(47)
+msnbc_0007	11	4	own	JJ	*)	-	-	-	Tim_Russert	-
+msnbc_0007	11	5	has	VBZ	(VP*	have	01	-	Tim_Russert	-
+msnbc_0007	11	6	been	VBN	(VP*)))))	be	01	1	Tim_Russert	-
+msnbc_0007	11	7	/.	.	*))	-	-	-	Tim_Russert	-
+
+msnbc_0007	11	0	How	WRB	(TOP(SBARQ(WHADVP*)	-	-	-	Tim_Russert	-
+msnbc_0007	11	1	do	VBP	(SQ*	do	01	-	Tim_Russert	-
+msnbc_0007	11	2	you	PRP	(NP*)	-	-	-	Tim_Russert	(82)
+msnbc_0007	11	3	have	VB	(VP*	have	03	2	Tim_Russert	-
+msnbc_0007	11	4	any	DT	(NP*	-	-	-	Tim_Russert	-
+msnbc_0007	11	5	strength	NN	*)	strength	-	3	Tim_Russert	-
+msnbc_0007	11	6	in	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	11	7	negotiating	VBG	(S(VP*	negotiate	01	1	Tim_Russert	-
+msnbc_0007	11	8	with	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	11	9	people	NNS	(NP(NP*)	people	-	1	Tim_Russert	-
+msnbc_0007	11	10	like	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	11	11	that	DT	(NP*)))))))))	-	-	-	Tim_Russert	(47)
+msnbc_0007	11	12	/?	.	*))	-	-	-	Tim_Russert	-
+
+msnbc_0007	11	0	The	DT	(TOP(S(NP*	-	-	-	Governor_Richardson	(47
+msnbc_0007	11	1	North	NNPS	*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	2	Koreans	NNPS	*)	-	-	-	Governor_Richardson	47)
+msnbc_0007	11	3	in	IN	(PP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	4	my	PRP$	(NP(NP*	-	-	-	Governor_Richardson	(82)
+msnbc_0007	11	5	dealings	NNS	*)	-	-	-	Governor_Richardson	-
+msnbc_0007	11	6	with	IN	(PP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	7	them	PRP	(NP*))))	-	-	-	Governor_Richardson	(47)
+msnbc_0007	11	8	they	PRP	(NP*)	-	-	-	Governor_Richardson	(47)
+msnbc_0007	11	9	care	VBP	(VP*	care	01	1	Governor_Richardson	-
+msnbc_0007	11	10	more	RBR	(ADVP(ADVP*))	-	-	-	Governor_Richardson	-
+msnbc_0007	11	11	about	IN	(PP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	12	form	NN	(NP*))	form	-	1	Governor_Richardson	-
+msnbc_0007	11	13	than	IN	(SBAR*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	14	they	PRP	(S(NP*)	-	-	-	Governor_Richardson	(47)
+msnbc_0007	11	15	do	VBP	(VP*	do	01	-	Governor_Richardson	-
+msnbc_0007	11	16	substance	NN	(VP(NP*))))))	substance	-	5	Governor_Richardson	-
+msnbc_0007	11	17	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	In	IN	(TOP(S(PP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	1	your	PRP$	(NP*	-	-	-	Governor_Richardson	(22)
+msnbc_0007	11	2	earlier	JJR	*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	3	segment	NN	*))	segment	-	3	Governor_Richardson	-
+msnbc_0007	11	4	you	PRP	(NP*)	-	-	-	Governor_Richardson	(22)
+msnbc_0007	11	5	showed	VBD	(VP*	show	01	1	Governor_Richardson	-
+msnbc_0007	11	6	president	NNP	(S(NP*	-	-	-	Governor_Richardson	(172
+msnbc_0007	11	7	Bush	NNP	*)	-	-	-	Governor_Richardson	172)
+msnbc_0007	11	8	calling	VBG	(VP*	call	01	5	Governor_Richardson	-
+msnbc_0007	11	9	him	PRP	(NP*)	-	-	-	Governor_Richardson	(16)
+msnbc_0007	11	10	a	DT	(S(NP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	11	tyrant	NN	*)))))	-	-	-	Governor_Richardson	-
+msnbc_0007	11	12	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	But	CC	(TOP(S*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	1	then	RB	(ADVP*)	-	-	-	Governor_Richardson	-
+msnbc_0007	11	2	later	RB	(ADVP*)	-	-	-	Governor_Richardson	-
+msnbc_0007	11	3	he	PRP	(NP*)	-	-	-	Governor_Richardson	(172)
+msnbc_0007	11	4	called	VBD	(VP*	call	01	5	Governor_Richardson	(145)
+msnbc_0007	11	5	him	PRP	(NP*)	-	-	-	Governor_Richardson	(16)
+msnbc_0007	11	6	Mister	NNP	(S(NP*	-	-	-	Governor_Richardson	(16
+msnbc_0007	11	7	Kim	NNP	*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	8	Jong	NNP	*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	9	-	HYPH	*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	10	Il	NNP	*)))	-	-	-	Governor_Richardson	16)
+msnbc_0007	11	11	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	I	PRP	(TOP(S(NP*)	-	-	-	Governor_Richardson	(82)
+msnbc_0007	11	1	was	VBD	(VP*	be	01	4	Governor_Richardson	-
+msnbc_0007	11	2	in	IN	(PP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	3	North	NNP	(NP*	-	-	-	Governor_Richardson	(113
+msnbc_0007	11	4	Korea	NNP	*))	-	-	-	Governor_Richardson	113)
+msnbc_0007	11	5	when	WRB	(SBAR(WHADVP*)	-	-	-	Governor_Richardson	-
+msnbc_0007	11	6	that	DT	(S(NP*)	-	-	-	Governor_Richardson	(145)
+msnbc_0007	11	7	happened	VBD	(VP*))))	happen	01	1	Governor_Richardson	-
+msnbc_0007	11	8	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	The	DT	(TOP(S(NP*	-	-	-	Governor_Richardson	(47
+msnbc_0007	11	1	North	NNPS	*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	2	Koreans	NNPS	*)	-	-	-	Governor_Richardson	47)
+msnbc_0007	11	3	were	VBD	(VP*	be	03	-	Governor_Richardson	-
+msnbc_0007	11	4	delighted	VBN	(VP*	delight	01	1	Governor_Richardson	-
+msnbc_0007	11	5	because	IN	(SBAR*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	6	they	PRP	(S(NP*)	-	-	-	Governor_Richardson	(47)
+msnbc_0007	11	7	felt	VBD	(VP*	feel	02	1	Governor_Richardson	-
+msnbc_0007	11	8	they	PRP	(SBAR(S(NP*)	-	-	-	Governor_Richardson	(47)
+msnbc_0007	11	9	'd	VBD	(VP*	have	01	-	Governor_Richardson	-
+msnbc_0007	11	10	been	VBN	(VP*	be	03	-	Governor_Richardson	-
+msnbc_0007	11	11	treated	VBN	(VP*	treat	01	1	Governor_Richardson	-
+msnbc_0007	11	12	with	IN	(PP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	13	respect	NN	(NP*))))))))))))	respect	01	5	Governor_Richardson	-
+msnbc_0007	11	14	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	They	PRP	(TOP(S(NP*)	-	-	-	Governor_Richardson	(47)
+msnbc_0007	11	1	care	VBP	(VP*	care	01	1	Governor_Richardson	-
+msnbc_0007	11	2	deeply	RB	(ADVP*)	-	-	-	Governor_Richardson	-
+msnbc_0007	11	3	about	IN	(PP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	4	protocol	NN	(NP*)))	protocol	-	2	Governor_Richardson	-
+msnbc_0007	11	5	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	And	CC	(TOP(S*	-	-	-	Governor_Richardson	-	-
+msnbc_0007	11	1	this	DT	(NP*)	-	-	-	Governor_Richardson	-	-
+msnbc_0007	11	2	is	VBZ	(VP*	be	01	1	Governor_Richardson	-	-
+msnbc_0007	11	3	another	DT	(NP(NP*	-	-	-	Governor_Richardson	-	-
+msnbc_0007	11	4	reason	NN	*)	reason	-	1	Governor_Richardson	-	-
+msnbc_0007	11	5	why	WRB	(SBAR(WHADVP*)	-	-	-	Governor_Richardson	-	-
+msnbc_0007	11	6	I	PRP	(S(NP*)	-	-	-	Governor_Richardson	(82)	(82)
+msnbc_0007	11	7	think	VBP	(VP*	think	01	1	Governor_Richardson	-	-
+msnbc_0007	11	8	for	IN	(SBAR(S(PP*	-	-	-	Governor_Richardson	-	-
+msnbc_0007	11	9	a	DT	(NP*	-	-	-	Governor_Richardson	-	-
+msnbc_0007	11	10	relatively	RB	(ADJP*	-	-	-	Governor_Richardson	-	-
+msnbc_0007	11	11	cheap	JJ	*)	-	-	-	Governor_Richardson	-	-
+msnbc_0007	11	12	price	NN	*))	price	-	2	Governor_Richardson	-	-
+msnbc_0007	11	13	a	DT	(NP(NP*	-	-	-	Governor_Richardson	-	-
+msnbc_0007	11	14	face	NN	(NML(NML*)	face	-	1	Governor_Richardson	-	-
+msnbc_0007	11	15	to	IN	(PP*	-	-	-	Governor_Richardson	-	-
+msnbc_0007	11	16	face	NN	(NP*)))	face	-	1	Governor_Richardson	-	-
+msnbc_0007	11	17	negotiation	NN	*)	negotiation	01	1	Governor_Richardson	-	-
+msnbc_0007	11	18	at	IN	(PP*	-	-	-	Governor_Richardson	-	-
+msnbc_0007	11	19	the	DT	(NP(NP*	-	-	-	Governor_Richardson	-	-
+msnbc_0007	11	20	level	NN	*)	level	-	6	Governor_Richardson	-	-
+msnbc_0007	11	21	of	IN	(PP*	-	-	-	Governor_Richardson	-	-
+msnbc_0007	11	22	Chris	NNP	(NP(NP*	-	-	-	Governor_Richardson	(159	(159
+msnbc_0007	11	23	Hill	NNP	*)	-	-	-	Governor_Richardson	-	-
+msnbc_0007	11	24	who	WP	(SBAR(WHNP*)	-	-	-	Governor_Richardson	-	-
+msnbc_0007	11	25	again	RB	(S(ADVP*)	-	-	-	Governor_Richardson	-	-
+msnbc_0007	11	26	is	VBZ	(VP*	be	01	1	Governor_Richardson	-	-
+msnbc_0007	11	27	very	RB	(ADJP*	-	-	-	Governor_Richardson	-	-
+msnbc_0007	11	28	competent	JJ	*)))))))))	-	-	-	Governor_Richardson	159)	159)
+msnbc_0007	11	29	I	PRP	(PRN(S(NP*)	-	-	-	Governor_Richardson	(82)	(82)
+msnbc_0007	11	30	believe	VBP	(VP*)))	believe	01	1	Governor_Richardson	-	-
+msnbc_0007	11	31	would	MD	(VP*	-	-	-	Governor_Richardson	-	-
+msnbc_0007	11	32	set	VB	(VP*	set	08	4	Governor_Richardson	-	-
+msnbc_0007	11	33	the	DT	(NP*	-	-	-	Governor_Richardson	-	-
+msnbc_0007	11	34	stage	NN	*)	stage	-	6	Governor_Richardson	-	-
+msnbc_0007	11	35	for	IN	(PP*	-	-	-	Governor_Richardson	-	-
+msnbc_0007	11	36	a	DT	(NP(NP(NP*	-	-	-	Governor_Richardson	-	-
+msnbc_0007	11	37	final	JJ	*	-	-	-	Governor_Richardson	-	-
+msnbc_0007	11	38	agreement	NN	*)	agreement	-	1	Governor_Richardson	-	-
+msnbc_0007	11	39	at	IN	(PP*	-	-	-	Governor_Richardson	-	-
+msnbc_0007	11	40	the	DT	(NP*	-	-	-	Governor_Richardson	-	-
+msnbc_0007	11	41	six	CD	(NML*	-	-	-	Governor_Richardson	-	-
+msnbc_0007	11	42	party	NN	*)	-	-	-	Governor_Richardson	-	-
+msnbc_0007	11	43	talks	NNS	*)))	talk	01	3	Governor_Richardson	-	-
+msnbc_0007	11	44	Which	WDT	(SBAR(WHNP*)	-	-	-	Governor_Richardson	-	-
+msnbc_0007	11	45	is	VBZ	(S(VP*	be	01	1	Governor_Richardson	-	-
+msnbc_0007	11	46	essential	JJ	(ADJP*))))	-	-	-	Governor_Richardson	-	-
+msnbc_0007	11	47	Which	WDT	(SBAR(WHNP*)	-	-	-	Governor_Richardson	-	-
+msnbc_0007	11	48	is	VBZ	(S(VP*	be	01	1	Governor_Richardson	-	-
+msnbc_0007	11	49	basically	RB	(ADVP*)	-	-	-	Governor_Richardson	-	-
+msnbc_0007	11	50	a	DT	(NP*	-	-	-	Governor_Richardson	-	-
+msnbc_0007	11	51	good	JJ	*	-	-	-	Governor_Richardson	-	-
+msnbc_0007	11	52	agreement	NN	*)))))))))))))))	agreement	-	1	Governor_Richardson	-	-
+msnbc_0007	11	53	/.	.	*))	-	-	-	Governor_Richardson	-	-
+
+msnbc_0007	11	0	In	IN	(TOP(S(PP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	1	exchange	NN	(NP(NP*)	exchange	01	1	Governor_Richardson	-
+msnbc_0007	11	2	for	IN	(PP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	3	North	NNP	(S(NP*	-	-	-	Governor_Richardson	(169
+msnbc_0007	11	4	Korea	NNP	*)	-	-	-	Governor_Richardson	169)
+msnbc_0007	11	5	dismantling	VBG	(VP*	dismantle	01	1	Governor_Richardson	-
+msnbc_0007	11	6	its	PRP$	(NP(NP*	-	-	-	Governor_Richardson	(169)
+msnbc_0007	11	7	nuclear	JJ	*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	8	weapons	NNS	*)	weapon	-	1	Governor_Richardson	-
+msnbc_0007	11	9	its	PRP$	(NP*	-	-	-	Governor_Richardson	(169)
+msnbc_0007	11	10	missiles	NNS	*)))))))	-	-	-	Governor_Richardson	-
+msnbc_0007	11	11	they	PRP	(NP*)	-	-	-	Governor_Richardson	(169)
+msnbc_0007	11	12	get	VBP	(VP*	get	01	1	Governor_Richardson	-
+msnbc_0007	11	13	an	DT	(NP(NP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	14	armistice	NN	*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	15	agreement	NN	*)	-	-	-	Governor_Richardson	-
+msnbc_0007	11	16	where	WRB	(SBAR(WHADVP*)	-	-	-	Governor_Richardson	-
+msnbc_0007	11	17	they	PRP	(S(NP*)	-	-	-	Governor_Richardson	(169)
+msnbc_0007	11	18	are	VBP	(VP*	be	03	-	Governor_Richardson	-
+msnbc_0007	11	19	not	RB	*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	20	attacked	VBN	(VP*))))))	attack	01	1	Governor_Richardson	-
+msnbc_0007	11	21	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	they	PRP	(TOP(S(NP*)	-	-	-	Governor_Richardson	(169)
+msnbc_0007	11	1	get	VBP	(VP*	get	01	1	Governor_Richardson	-
+msnbc_0007	11	2	food	NN	(NP(NP*)	food	-	1	Governor_Richardson	-
+msnbc_0007	11	3	fuel	NN	(NP*)	-	-	-	Governor_Richardson	-
+msnbc_0007	11	4	energy	NN	(NP*	energy	-	1	Governor_Richardson	-
+msnbc_0007	11	5	assistance	NN	*)))	assistance	01	1	Governor_Richardson	-
+msnbc_0007	11	6	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	Security	NN	(TOP(NP*	security	-	3	Tim_Russert	(117
+msnbc_0007	11	1	assurances	NNS	*	-	-	-	Tim_Russert	-
+msnbc_0007	11	2	we	PRP	(SBAR(S(NP*)	-	-	-	Tim_Russert	(158)
+msnbc_0007	11	3	will	MD	(VP*	-	-	-	Tim_Russert	-
+msnbc_0007	11	4	not	RB	*	-	-	-	Tim_Russert	-
+msnbc_0007	11	5	topple	VB	(VP*	topple	01	2	Tim_Russert	-
+msnbc_0007	11	6	their	PRP$	(NP*	-	-	-	Tim_Russert	(169
+msnbc_0007	11	7	regime	NN	*)))))	-	-	-	Tim_Russert	169)
+msnbc_0007	11	8	/.	.	*))	-	-	-	Tim_Russert	117)
+
+msnbc_0007	11	0	That	DT	(TOP(S(NP*)	-	-	-	Governor_Richardson	(117)
+msnbc_0007	11	1	's	VBZ	(VP*	be	01	1	Governor_Richardson	-
+msnbc_0007	11	2	right	JJ	(ADJP*))	-	-	-	Governor_Richardson	-
+msnbc_0007	11	3	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	yeah	UH	(TOP(S(INTJ*)	-	-	-	Governor_Richardson	-
+msnbc_0007	11	1	that	DT	(NP*)	-	-	-	Governor_Richardson	(117)
+msnbc_0007	11	2	's	VBZ	(VP*	be	01	1	Governor_Richardson	-
+msnbc_0007	11	3	right	JJ	(ADJP*))	-	-	-	Governor_Richardson	-
+msnbc_0007	11	4	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	that	DT	(TOP(S(NP*)	-	-	-	Governor_Richardson	(117)
+msnbc_0007	11	1	's	VBZ	(VP*	be	01	4	Governor_Richardson	-
+msnbc_0007	11	2	in	IN	(PP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	3	that	DT	(NP(NP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	4	September	NNP	*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	5	agreement	NN	*)	agreement	-	1	Governor_Richardson	-
+msnbc_0007	11	6	that	WDT	(SBAR(WHNP*)	-	-	-	Governor_Richardson	-
+msnbc_0007	11	7	Chris	NNP	(S(NP*	-	-	-	Governor_Richardson	(159
+msnbc_0007	11	8	Hill	NNP	*)	-	-	-	Governor_Richardson	159)
+msnbc_0007	11	9	negotiated	VBD	(VP*))))))	negotiate	01	1	Governor_Richardson	-
+msnbc_0007	11	10	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	My	PRP$	(TOP(S(NP*	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	1	point	NN	*)	point	-	3	Governor_Richardson	*	*
+msnbc_0007	11	2	is	VBZ	(VP*	be	01	1	Governor_Richardson	*	*
+msnbc_0007	11	3	if	IN	(SBAR(S(SBAR*	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	4	it	PRP	(S(S(NP*)	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	5	's	VBZ	(VP*	be	03	-	Governor_Richardson	*	*
+msnbc_0007	11	6	just	RB	(ADVP*)	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	7	going	VBG	(VP*	go	04	7	Governor_Richardson	*	*
+msnbc_0007	11	8	to	TO	(S(VP*	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	9	be	VB	(VP*	be	01	5	Governor_Richardson	*	*
+msnbc_0007	11	10	a	DT	(NP(NP*	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	11	face	NN	(NML(NML*)	face	-	1	Governor_Richardson	*	*
+msnbc_0007	11	12	to	IN	(PP*	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	13	face	NN	(NP*)))	face	-	1	Governor_Richardson	*	*
+msnbc_0007	11	14	meeting	NN	*)	meeting	-	1	Governor_Richardson	*	*
+msnbc_0007	11	15	that	WDT	(SBAR(WHNP*)	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	16	serves	VBZ	(S(VP*	serve	01	1	Governor_Richardson	*	*
+msnbc_0007	11	17	as	IN	(PP*	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	18	a	DT	(NP*	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	19	precursor	NN	*)))))	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	20	that	WDT	(SBAR(WHNP*)	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	21	also	RB	(S(ADVP*)	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	22	deals	VBZ	(VP*	deal	01	1	Governor_Richardson	*	*
+msnbc_0007	11	23	with	IN	(PP*	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	24	this	DT	(NP(NP*	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	25	frozen	JJ	(NML*	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	26	assets	NNS	*)	asset	-	2	Governor_Richardson	*	*
+msnbc_0007	11	27	issue	NN	*)	issue	-	1	Governor_Richardson	*	*
+msnbc_0007	11	28	which	WDT	(SBAR(WHNP*)	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	29	has	VBZ	(S(VP*	have	01	-	Governor_Richardson	*	*
+msnbc_0007	11	30	directly	RB	(ADVP*)	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	31	hit	VBN	(VP*	hit	01	2	Governor_Richardson	*	*
+msnbc_0007	11	32	the	DT	(NP*	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	33	North	JJ	(ADJP*	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	34	Korean	JJ	*)	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	35	regime	NN	*)	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	36	cause	IN	(SBAR*	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	37	it	PRP	(S(NP*)	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	38	controls	VBZ	(VP*	control	01	1	Governor_Richardson	*	*
+msnbc_0007	11	39	the	DT	(NP(NP*	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	40	foreign	JJ	*	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	41	expenditures	NNS	*)	expenditure	-	1	Governor_Richardson	*	*
+msnbc_0007	11	42	of	IN	(PP*	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	43	Kim	NNP	(NP*	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	44	Jong	NNP	*	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	45	-	HYPH	*	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	46	Il	NNP	*))))))))))))))))))))))	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	47	and	CC	*	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	48	you	PRP	(S(NP*)	-	-	-	Governor_Richardson	(ARG0*)	(ARG0*)
+msnbc_0007	11	49	deal	VBP	(VP*	deal	01	1	Governor_Richardson	(V*)	(V*)
+msnbc_0007	11	50	with	IN	(PP*	-	-	-	Governor_Richardson	(ARG1*	(ARG1*
+msnbc_0007	11	51	this	DT	(NP*	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	52	light	JJ	(NML*	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	53	water	NN	*)	water	-	1	Governor_Richardson	*	*
+msnbc_0007	11	54	reactor	NN	*))	-	-	-	Governor_Richardson	*)	*)
+msnbc_0007	11	55	especially	RB	(ADVP*	-	-	-	Governor_Richardson	(ARGM-TMP*	(ARGM-TMP*
+msnbc_0007	11	56	now	RB	*)	-	-	-	Governor_Richardson	*)	*)
+msnbc_0007	11	57	after	IN	(SBAR*	-	-	-	Governor_Richardson	(ARGM-TMP*	(ARGM-TMP*
+msnbc_0007	11	58	we	PRP	(S(NP*)	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	59	've	VBP	(VP*	have	01	12	Governor_Richardson	*	*
+msnbc_0007	11	60	promised	VBN	(VP(VP*	promise	01	1	Governor_Richardson	*	*
+msnbc_0007	11	61	it	PRP	(NP*)	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	62	to	IN	(PP*	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	63	Iran	NNP	(NP*)))	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	64	and	CC	*	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	65	economic	JJ	(VP(NP*	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	66	incentives	NNS	*)	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	67	to	IN	(PP*	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	68	Iran	NNP	(NP*)))))))))))	-	-	-	Governor_Richardson	*)	*)
+msnbc_0007	11	69	I	PRP	(NP*)	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	70	think	VBP	(VP*	think	01	1	Governor_Richardson	*	*
+msnbc_0007	11	71	the	DT	(SBAR(S(NP*	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	72	timing	NN	*)	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	73	is	VBZ	(VP*	be	01	1	Governor_Richardson	*	*
+msnbc_0007	11	74	right	JJ	(ADJP*	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	75	for	IN	(PP*	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	76	this	DT	(NP(NP*	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	77	new	JJ	*	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	78	stage	NN	*)	stage	-	2	Governor_Richardson	*	*
+msnbc_0007	11	79	of	IN	(PP*	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	80	direct	JJ	(NP*	-	-	-	Governor_Richardson	*	*
+msnbc_0007	11	81	negotiation	NN	*))))))))))))	negotiation	01	1	Governor_Richardson	*	*
+msnbc_0007	11	82	/.	.	*))	-	-	-	Governor_Richardson	*	*
+
+msnbc_0007	11	0	Ambassador	NNP	(TOP(SQ(NP*	-	-	-	Tim_Russert	(151
+msnbc_0007	11	1	Galluci	NNP	*)	-	-	-	Tim_Russert	151)
+msnbc_0007	11	2	based	VBN	(PP*	base	02	1	Tim_Russert	-
+msnbc_0007	11	3	on	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	11	4	your	PRP$	(NP*	-	-	-	Tim_Russert	(151)
+msnbc_0007	11	5	experience	NN	*)))	experience	-	1	Tim_Russert	-
+msnbc_0007	11	6	do	VBP	*	do	01	-	Tim_Russert	-
+msnbc_0007	11	7	you	PRP	(NP*)	-	-	-	Tim_Russert	(151)
+msnbc_0007	11	8	believe	VB	(VP*	believe	01	1	Tim_Russert	-
+msnbc_0007	11	9	the	DT	(SBAR(S(NP*	-	-	-	Tim_Russert	(169
+msnbc_0007	11	10	North	NNPS	*	-	-	-	Tim_Russert	-
+msnbc_0007	11	11	Koreans	NNPS	*)	-	-	-	Tim_Russert	169)
+msnbc_0007	11	12	would	MD	(VP*	-	-	-	Tim_Russert	-
+msnbc_0007	11	13	give	VB	(VP(VP*	give	07	5	Tim_Russert	-
+msnbc_0007	11	14	up	RP	(PRT*)	-	-	-	Tim_Russert	-
+msnbc_0007	11	15	their	PRP$	(NP*	-	-	-	Tim_Russert	(169)
+msnbc_0007	11	16	nuclear	JJ	*	-	-	-	Tim_Russert	-
+msnbc_0007	11	17	program	NN	*))	program	-	1	Tim_Russert	-
+msnbc_0007	11	18	give	VB	(VP*	give	08	5	Tim_Russert	-
+msnbc_0007	11	19	up	RP	(PRT*)	-	-	-	Tim_Russert	-
+msnbc_0007	11	20	their	PRP$	(NP(NP*	-	-	-	Tim_Russert	(169)
+msnbc_0007	11	21	nuclear	JJ	*	-	-	-	Tim_Russert	-
+msnbc_0007	11	22	bombs	NNS	*)	-	-	-	Tim_Russert	-
+msnbc_0007	11	23	which	WDT	(SBAR(WHNP*)	-	-	-	Tim_Russert	-
+msnbc_0007	11	24	they	PRP	(S(NP*)	-	-	-	Tim_Russert	(169)
+msnbc_0007	11	25	believe	VBP	(VP*	believe	01	1	Tim_Russert	(205)
+msnbc_0007	11	26	in	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	11	27	their	PRP$	(NP*	-	-	-	Tim_Russert	(169)
+msnbc_0007	11	28	mind	NN	*))	mind	-	3	Tim_Russert	-
+msnbc_0007	11	29	is	VBZ	(SBAR(S(VP*	be	01	1	Tim_Russert	-
+msnbc_0007	11	30	an	DT	(NP(NP*	-	-	-	Tim_Russert	-
+msnbc_0007	11	31	insurance	NN	*	insurance	-	1	Tim_Russert	-
+msnbc_0007	11	32	policy	NN	*)	policy	-	2	Tim_Russert	-
+msnbc_0007	11	33	against	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	11	34	an	DT	(NP*	-	-	-	Tim_Russert	-
+msnbc_0007	11	35	American	JJ	*	-	-	-	Tim_Russert	-
+msnbc_0007	11	36	invasion	NN	*)))))))))))	-	-	-	Tim_Russert	-
+msnbc_0007	11	37	for	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	11	38	economic	JJ	(NP(NP*	-	-	-	Tim_Russert	-
+msnbc_0007	11	39	assistance	NN	*)	assistance	01	1	Tim_Russert	-
+msnbc_0007	11	40	light	JJ	(NP(NML*	-	-	-	Tim_Russert	-
+msnbc_0007	11	41	water	NN	*)	water	-	1	Tim_Russert	-
+msnbc_0007	11	42	reactors	NNS	*))))))))	-	-	-	Tim_Russert	-
+msnbc_0007	11	43	/?	.	*))	-	-	-	Tim_Russert	-
+
+msnbc_0007	11	0	At	IN	(TOP(S(PP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	1	the	DT	(NP(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	2	end	NN	*)	end	01	3	Robert_Gallucci	-
+msnbc_0007	11	3	of	IN	(PP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	4	the	DT	(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	5	day	NN	*))))	day	-	3	Robert_Gallucci	-
+msnbc_0007	11	6	I	PRP	(NP*)	-	-	-	Robert_Gallucci	(151)
+msnbc_0007	11	7	do	VBP	(VP*	do	01	-	Robert_Gallucci	-
+msnbc_0007	11	8	n't	RB	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	9	know	VB	(VP*))	know	01	1	Robert_Gallucci	-
+msnbc_0007	11	10	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	11	0	Um	UH	(TOP(S(INTJ*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	1	but	CC	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	2	that	DT	(NP*)	-	-	-	Robert_Gallucci	(205)
+msnbc_0007	11	3	leaves	VBZ	(VP*	leave	02	2	Robert_Gallucci	-
+msnbc_0007	11	4	me	PRP	(NP*)	-	-	-	Robert_Gallucci	(151)
+msnbc_0007	11	5	to	TO	(S(VP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	6	conclude	VB	(VP*	conclude	01	1	Robert_Gallucci	-
+msnbc_0007	11	7	since	IN	(SBAR(SBAR*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	8	I	PRP	(S(NP*)	-	-	-	Robert_Gallucci	(151)
+msnbc_0007	11	9	really	RB	(ADVP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	10	do	VBP	(VP*	do	01	-	Robert_Gallucci	-
+msnbc_0007	11	11	n't	RB	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	12	know	VB	(VP*))))	know	01	1	Robert_Gallucci	-
+msnbc_0007	11	13	that	IN	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	14	it	PRP	(S(NP(NP*))	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	15	's	VBZ	(VP*	be	01	1	Robert_Gallucci	-
+msnbc_0007	11	16	a	DT	(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	17	good	JJ	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	18	idea	NN	*)	idea	-	1	Robert_Gallucci	-
+msnbc_0007	11	19	to	TO	(S(VP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	20	find	VB	(VP*	find	03	2	Robert_Gallucci	-
+msnbc_0007	11	21	out	RP	(PRT*)))))))))))	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	22	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	11	0	It	PRP	(TOP(S(NP(NP*))	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	1	's	VBZ	(VP*	be	01	1	Robert_Gallucci	-
+msnbc_0007	11	2	a	DT	(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	3	good	JJ	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	4	idea	NN	*)	idea	-	4	Robert_Gallucci	-
+msnbc_0007	11	5	it	PRP	(PRN(S(NP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	6	was	VBD	(VP*	be	01	5	Robert_Gallucci	-
+msnbc_0007	11	7	in	IN	(PP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	8	nineteen	CD	(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	9	ninety	CD	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	10	four	CD	*)))))	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	11	to	TO	(S(VP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	12	do	VB	(VP*	do	-	1	Robert_Gallucci	-
+msnbc_0007	11	13	a	DT	(NP(NP(NP*	-	-	-	Robert_Gallucci	(118
+msnbc_0007	11	14	deal	NN	*)	deal	01	1	Robert_Gallucci	-
+msnbc_0007	11	15	with	IN	(PP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	16	the	DT	(NP*	-	-	-	Robert_Gallucci	(169
+msnbc_0007	11	17	North	NNP	*)))	-	-	-	Robert_Gallucci	169)
+msnbc_0007	11	18	that	WDT	(SBAR(WHNP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	19	required	VBD	(S(VP*	require	01	2	Robert_Gallucci	-
+msnbc_0007	11	20	them	PRP	(NP*)	-	-	-	Robert_Gallucci	(169)
+msnbc_0007	11	21	to	TO	(S(VP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	22	give	VB	(VP*	give	07	5	Robert_Gallucci	-
+msnbc_0007	11	23	up	RP	(PRT*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	24	the	DT	(NP*	-	-	-	Robert_Gallucci	(124
+msnbc_0007	11	25	program	NN	*))))))))))))	program	-	1	Robert_Gallucci	124)|118)
+msnbc_0007	11	26	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	11	0	We	PRP	(TOP(S(NP*)	-	-	-	Robert_Gallucci	(158)
+msnbc_0007	11	1	did	VBD	(VP*	do	02	1	Robert_Gallucci	-
+msnbc_0007	11	2	that	DT	(NP*))	-	-	-	Robert_Gallucci	(118)
+msnbc_0007	11	3	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	11	0	and	CC	(TOP(S*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	1	for	IN	(PP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	2	a	DT	(NP(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	3	period	NN	*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	4	of	IN	(PP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	5	years	NNS	(NP*))))	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	6	we	PRP	(NP*)	-	-	-	Robert_Gallucci	(158)
+msnbc_0007	11	7	were	VBD	(VP*	be	01	4	Robert_Gallucci	-
+msnbc_0007	11	8	in	IN	(PP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	9	a	DT	(NP(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	10	position	NN	*)	position	-	3	Robert_Gallucci	-
+msnbc_0007	11	11	to	TO	(SBAR(S(VP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	12	monitor	VB	(VP*	monitor	01	1	Robert_Gallucci	-
+msnbc_0007	11	13	that	DT	(NP*)	-	-	-	Robert_Gallucci	(118)
+msnbc_0007	11	14	closely	RB	(ADVP*))))))))	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	15	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	11	0	and	CC	(TOP(S*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	1	they	PRP	(NP*)	-	-	-	Robert_Gallucci	(169)
+msnbc_0007	11	2	did	VBD	(VP*	do	01	-	Robert_Gallucci	-
+msnbc_0007	11	3	give	VB	(VP*	give	07	5	Robert_Gallucci	-
+msnbc_0007	11	4	it	PRP	(NP*)	-	-	-	Robert_Gallucci	(124)
+msnbc_0007	11	5	up	RP	(PRT*)))	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	6	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	11	0	Indeed	RB	(TOP(S(ADVP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	1	you	PRP	(NP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	2	can	MD	(VP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	3	make	VB	(VP*	make	-	1	Robert_Gallucci	-
+msnbc_0007	11	4	an	DT	(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	5	argument	NN	*	argument	-	1	Robert_Gallucci	-
+msnbc_0007	11	6	that	IN	(SBAR*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	7	while	IN	(S(SBAR*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	8	the	DT	(S(NP(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	9	centrifuge	NN	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	10	program	NN	*)	program	-	1	Robert_Gallucci	-
+msnbc_0007	11	11	with	IN	(PP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	12	the	DT	(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	13	Pakistanis	NNPS	*)))	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	14	is	VBZ	(VP*	be	01	1	Robert_Gallucci	-
+msnbc_0007	11	15	clearly	RB	(ADVP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	16	cheating	NN	(NP*))))	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	17	was	VBD	(VP(VP*	be	01	1	Robert_Gallucci	-
+msnbc_0007	11	18	n't	RB	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	19	yet	RB	(ADVP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	20	a	DT	(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	21	genuine	JJ	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	22	nuclear	JJ	(NML*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	23	weapons	NNS	*)	weapon	-	1	Robert_Gallucci	-
+msnbc_0007	11	24	program	NN	*))	program	-	1	Robert_Gallucci	-
+msnbc_0007	11	25	had	VBD	(VP*	have	01	-	Robert_Gallucci	-
+msnbc_0007	11	26	n't	RB	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	27	produced	VBN	(VP*	produce	01	1	Robert_Gallucci	-
+msnbc_0007	11	28	anything	NN	(NP*)))	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	29	and	CC	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	30	probably	RB	(ADVP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	31	still	RB	(ADVP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	32	has	VBZ	(VP*	have	01	-	Robert_Gallucci	-
+msnbc_0007	11	33	n't	RB	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	34	produced	VBN	(VP*	produce	01	1	Robert_Gallucci	-
+msnbc_0007	11	35	anything	NN	(NP*)))))))))	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	36	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	11	0	So	RB	(TOP(S(ADVP*)	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	11	1	you	PRP	(NP*)	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	11	2	have	VBP	(VP*	have	03	4	Robert_Gallucci	*	*
+msnbc_0007	11	3	the	DT	(NP*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	11	4	possibility	NN	*)	possibility	-	1	Robert_Gallucci	*	*
+msnbc_0007	11	5	if	IN	(SBAR*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	11	6	the	DT	(S(NP*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	11	7	North	NNPS	*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	11	8	Koreans	NNPS	*)	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	11	9	are	VBP	(VP*	be	03	-	Robert_Gallucci	*	*
+msnbc_0007	11	10	thinking	VBG	(VP*	think	01	2	Robert_Gallucci	*	*
+msnbc_0007	11	11	the	DT	(NP(NP(NP*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	11	12	way	NN	*)	way	-	1	Robert_Gallucci	*	*
+msnbc_0007	11	13	they	PRP	(SBAR(S(NP*)	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	11	14	may	MD	(VP*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	11	15	be	VB	(VP*	be	03	-	Robert_Gallucci	*	*
+msnbc_0007	11	16	thinking	VBG	(VP*))))))	think	01	1	Robert_Gallucci	*	*
+msnbc_0007	11	17	that	IN	(SBAR*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	11	18	they	PRP	(S(S(NP*)	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	11	19	need	VBP	(VP*	need	01	1	Robert_Gallucci	*	*
+msnbc_0007	11	20	one	CD	(NP(NP*)	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	11	21	or	CC	*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	11	22	the	DT	(NP*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	11	23	other	JJ	*))))	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	11	24	,	,	*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	11	25	they	PRP	(S(S(NP*)	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	11	26	need	VBP	(VP*	need	01	1	Robert_Gallucci	*	*
+msnbc_0007	11	27	either	CC	*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	11	28	nuclear	JJ	(NP*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	11	29	weapons	NNS	*)	weapon	-	1	Robert_Gallucci	*	*
+msnbc_0007	11	30	to	TO	(S(VP*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	11	31	deter	VB	(VP*	deter	01	1	Robert_Gallucci	*	*
+msnbc_0007	11	32	the	DT	(NP*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	11	33	United	NNP	*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	11	34	States	NNP	*)	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	11	35	from	IN	(PP*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	11	36	regime	NN	(NP*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	11	37	change	NN	*)))))))	change	-	1	Robert_Gallucci	*	*
+msnbc_0007	11	38	or	CC	*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	11	39	they	PRP	(S(NP*)	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	11	40	need	VBP	(VP*	need	01	1	Robert_Gallucci	*	*
+msnbc_0007	11	41	a	DT	(NP(NP(NP*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	11	42	relationship	NN	*)	relationship	01	3	Robert_Gallucci	(V*)	(V*)
+msnbc_0007	11	43	with	IN	(PP*	-	-	-	Robert_Gallucci	(ARG2*	(ARG2*
+msnbc_0007	11	44	us	PRP	(NP*)))	-	-	-	Robert_Gallucci	*)	*)
+msnbc_0007	11	45	that	WDT	(SBAR(WHNP*)	-	-	-	Robert_Gallucci	(ARGM-ADJ*	(ARGM-ADJ*
+msnbc_0007	11	46	makes	VBZ	(S(VP*	make	02	3	Robert_Gallucci	*	*
+msnbc_0007	11	47	it	PRP	(S(NP(NP*))	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	11	48	unnecessary	JJ	(ADJP*)	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	11	49	for	IN	(SBAR*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	11	50	them	PRP	(S(NP*)	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	11	51	to	TO	(VP*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	11	52	have	VB	(VP*	have	03	1	Robert_Gallucci	*	*
+msnbc_0007	11	53	nuclear	JJ	(NP*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	11	54	weapons	NNS	*)))))))))))))))))))))	weapon	-	1	Robert_Gallucci	*)	*)
+msnbc_0007	11	55	/.	.	*))	-	-	-	Robert_Gallucci	*	*
+
+msnbc_0007	11	0	The	DT	(TOP(S(NP(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	1	only	JJ	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	2	way	NN	*)	way	-	2	Robert_Gallucci	-
+msnbc_0007	11	3	to	TO	(SBAR(S(VP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	4	find	VB	(VP*	find	03	2	Robert_Gallucci	-
+msnbc_0007	11	5	out	RP	(PRT*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	6	whether	IN	(SBAR*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	7	they	PRP	(S(NP*)	-	-	-	Robert_Gallucci	(169)
+msnbc_0007	11	8	'll	MD	(VP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	9	ultimately	RB	(ADVP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	10	give	VB	(VP*	give	08	5	Robert_Gallucci	-
+msnbc_0007	11	11	up	RP	(PRT*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	12	those	DT	(NP*	-	-	-	Robert_Gallucci	(20
+msnbc_0007	11	13	weapons	NNS	*))))))))))	weapon	-	1	Robert_Gallucci	20)
+msnbc_0007	11	14	is	VBZ	(VP*	be	01	2	Robert_Gallucci	-
+msnbc_0007	11	15	to	TO	(S(VP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	16	do	VB	(VP*	do	-	1	Robert_Gallucci	-
+msnbc_0007	11	17	a	DT	(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	11	18	deal	NN	*)))))	deal	01	1	Robert_Gallucci	-
+msnbc_0007	11	19	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	11	0	We	PRP	(TOP(S(NP*)	-	-	-	Tim_Russert	-
+msnbc_0007	11	1	hear	VBP	(VP*	hear	01	1	Tim_Russert	-
+msnbc_0007	11	2	so	RB	(NP(NP(ADJP*	-	-	-	Tim_Russert	-
+msnbc_0007	11	3	much	JJ	*)	-	-	-	Tim_Russert	-
+msnbc_0007	11	4	talk	NN	*)	talk	01	5	Tim_Russert	-
+msnbc_0007	11	5	about	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	11	6	Kim	NNP	(NP(NP*	-	-	-	Tim_Russert	(16
+msnbc_0007	11	7	Jong	NNP	*	-	-	-	Tim_Russert	-
+msnbc_0007	11	8	-	HYPH	*	-	-	-	Tim_Russert	-
+msnbc_0007	11	9	Il	NNP	*)	-	-	-	Tim_Russert	-
+msnbc_0007	11	10	tyrant	NN	(NP*)	-	-	-	Tim_Russert	-
+msnbc_0007	11	11	spoiled	JJ	(NP*	-	-	-	Tim_Russert	-
+msnbc_0007	11	12	child	NN	*)))))	child	-	3	Tim_Russert	16)
+msnbc_0007	11	13	/.	.	*))	-	-	-	Tim_Russert	-
+
+msnbc_0007	11	0	others	NNS	(TOP(S(NP*)	-	-	-	Tim_Russert	-
+msnbc_0007	11	1	have	VBP	(VP*	have	01	-	Tim_Russert	-
+msnbc_0007	11	2	said	VBN	(VP*	say	01	1	Tim_Russert	-
+msnbc_0007	11	3	madman	NN	(NP*)))	-	-	-	Tim_Russert	(16)
+msnbc_0007	11	4	/.	.	*))	-	-	-	Tim_Russert	-
+
+msnbc_0007	11	0	you	PRP	(TOP(S(NP*)	-	-	-	Tim_Russert	(82)
+msnbc_0007	11	1	've	VBP	(VP*	have	01	12	Tim_Russert	-
+msnbc_0007	11	2	been	VBN	(VP*	be	01	4	Tim_Russert	-
+msnbc_0007	11	3	in	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	11	4	that	DT	(NP*	-	-	-	Tim_Russert	(113
+msnbc_0007	11	5	country	NN	*)	country	-	3	Tim_Russert	113)
+msnbc_0007	11	6	five	CD	(NP*	-	-	-	Tim_Russert	(32
+msnbc_0007	11	7	times	NNS	*))))	time	-	1	Tim_Russert	32)
+msnbc_0007	11	8	/.	.	*))	-	-	-	Tim_Russert	-
+
+msnbc_0007	11	0	who	WP	(TOP(SBARQ(WHNP*)	-	-	-	Tim_Russert	-
+msnbc_0007	11	1	is	VBZ	(SQ*	be	01	1	Tim_Russert	-
+msnbc_0007	11	2	he	PRP	(NP*))	-	-	-	Tim_Russert	(16)
+msnbc_0007	11	3	/?	.	*))	-	-	-	Tim_Russert	-
+
+msnbc_0007	11	0	What	WP	(TOP(SBARQ(WHNP*)	-	-	-	Tim_Russert	-
+msnbc_0007	11	1	is	VBZ	(SQ*	be	01	1	Tim_Russert	-
+msnbc_0007	11	2	he	PRP	(NP*))	-	-	-	Tim_Russert	(16)
+msnbc_0007	11	3	/?	.	*))	-	-	-	Tim_Russert	-
+
+msnbc_0007	11	0	Well	UH	(TOP(S(INTJ*)	-	-	-	Governor_Richardson	-
+msnbc_0007	11	1	I	PRP	(NP*)	-	-	-	Governor_Richardson	(82)
+msnbc_0007	11	2	've	VBP	(VP*	have	01	12	Governor_Richardson	-
+msnbc_0007	11	3	never	RB	(ADVP*)	-	-	-	Governor_Richardson	-
+msnbc_0007	11	4	met	VBN	(VP*	meet	02	1	Governor_Richardson	-
+msnbc_0007	11	5	him	PRP	(NP*)))	-	-	-	Governor_Richardson	(16)
+msnbc_0007	11	6	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	I	PRP	(TOP(S(NP*)	-	-	-	Governor_Richardson	(82)
+msnbc_0007	11	1	met	VBD	(VP*	meet	02	1	Governor_Richardson	-
+msnbc_0007	11	2	the	DT	(NP(NP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	3	number	NN	*	number	-	2	Governor_Richardson	-
+msnbc_0007	11	4	two	CD	*)	-	-	-	Governor_Richardson	-
+msnbc_0007	11	5	in	IN	(PP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	6	command	NN	(NP*))))	command	-	3	Governor_Richardson	-
+msnbc_0007	11	7	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	He	PRP	(TOP(S(NP*)	-	-	-	Governor_Richardson	(16)
+msnbc_0007	11	1	is	VBZ	(VP*	be	01	2	Governor_Richardson	-
+msnbc_0007	11	2	the	DT	(NP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	3	entire	JJ	*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	4	nation	NN	*))	nation	-	1	Governor_Richardson	-
+msnbc_0007	11	5	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	he	PRP	(TOP(S(NP*)	-	-	-	Governor_Richardson	(16)
+msnbc_0007	11	1	is	VBZ	(VP*	be	01	1	Governor_Richardson	-
+msnbc_0007	11	2	basically	RB	(ADVP*)	-	-	-	Governor_Richardson	-
+msnbc_0007	11	3	a	DT	(NP(NP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	4	cult	NN	*)	-	-	-	Governor_Richardson	-
+msnbc_0007	11	5	of	IN	(PP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	6	personality	NN	(NP*))))	-	-	-	Governor_Richardson	-
+msnbc_0007	11	7	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	He	PRP	(TOP(S(NP*)	-	-	-	Governor_Richardson	(16)
+msnbc_0007	11	1	runs	VBZ	(VP*	run	01	3	Governor_Richardson	-
+msnbc_0007	11	2	everything	NN	(NP*))	-	-	-	Governor_Richardson	-
+msnbc_0007	11	3	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	He	PRP	(TOP(S(NP*)	-	-	-	Governor_Richardson	(16)
+msnbc_0007	11	1	knows	VBZ	(VP*	know	01	1	Governor_Richardson	-
+msnbc_0007	11	2	everything	NN	(NP(NP*)	-	-	-	Governor_Richardson	-
+msnbc_0007	11	3	that	WDT	(SBAR(WHNP*)	-	-	-	Governor_Richardson	-
+msnbc_0007	11	4	's	VBZ	(S(VP*	be	03	-	Governor_Richardson	-
+msnbc_0007	11	5	happening	VBG	(VP*))))))	happen	01	1	Governor_Richardson	-
+msnbc_0007	11	6	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	All	DT	(TOP(S(NP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	1	power	NN	*)	power	-	1	Governor_Richardson	-
+msnbc_0007	11	2	flows	VBZ	(VP*	flow	01	1	Governor_Richardson	(192)
+msnbc_0007	11	3	through	IN	(PP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	4	him	PRP	(NP*)))	-	-	-	Governor_Richardson	(16)
+msnbc_0007	11	5	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	Uh	UH	(TOP(S(INTJ*)	-	-	-	Governor_Richardson	-
+msnbc_0007	11	1	what	WP	(SBAR(WHNP*)	-	-	-	Governor_Richardson	-
+msnbc_0007	11	2	that	DT	(S(NP*)	-	-	-	Governor_Richardson	(192)
+msnbc_0007	11	3	causes	VBZ	(VP*	cause	01	1	Governor_Richardson	-
+msnbc_0007	11	4	unfortunately	RB	(ADVP*))))	-	-	-	Governor_Richardson	-
+msnbc_0007	11	5	is	VBZ	(VP*	be	01	1	Governor_Richardson	-
+msnbc_0007	11	6	an	DT	(NP*	-	-	-	Governor_Richardson	(169
+msnbc_0007	11	7	isolated	JJ	*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	8	North	NNP	*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	9	Korea	NNP	*))	-	-	-	Governor_Richardson	169)
+msnbc_0007	11	10	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	His	PRP$	(TOP(S(NP*	-	-	-	Governor_Richardson	(47|(16)
+msnbc_0007	11	1	people	NNS	*)	people	-	5	Governor_Richardson	47)
+msnbc_0007	11	2	are	VBP	(VP*	be	01	1	Governor_Richardson	-
+msnbc_0007	11	3	in	IN	(PP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	4	terrible	JJ	(NP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	5	shape	NN	*))	shape	-	4	Governor_Richardson	-
+msnbc_0007	11	6	economically	RB	(ADVP*))	-	-	-	Governor_Richardson	-
+msnbc_0007	11	7	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	I	PRP	(TOP(S(NP*)	-	-	-	Governor_Richardson	(82)
+msnbc_0007	11	1	been	VBN	(VP*	be	01	4	Governor_Richardson	-
+msnbc_0007	11	2	there	RB	(ADVP*)	-	-	-	Governor_Richardson	-
+msnbc_0007	11	3	five	CD	(NP*	-	-	-	Governor_Richardson	(32
+msnbc_0007	11	4	times	NNS	*))	time	-	1	Governor_Richardson	32)
+msnbc_0007	11	5	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	I	PRP	(TOP(S(NP*)	-	-	-	Governor_Richardson	(82)
+msnbc_0007	11	1	think	VBP	(VP*	think	01	1	Governor_Richardson	-
+msnbc_0007	11	2	I	PRP	(SBAR(S(NP*)	-	-	-	Governor_Richardson	(82)
+msnbc_0007	11	3	've	VBP	(VP*	have	01	12	Governor_Richardson	-
+msnbc_0007	11	4	seen	VBN	(VP*	see	01	1	Governor_Richardson	-
+msnbc_0007	11	5	one	CD	(NP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	6	tractor	NN	*))))))	-	-	-	Governor_Richardson	-
+msnbc_0007	11	7	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	I	PRP	(TOP(S(NP*)	-	-	-	Governor_Richardson	(82)
+msnbc_0007	11	1	see	VBP	(VP*	see	01	1	Governor_Richardson	-
+msnbc_0007	11	2	people	NNS	(S(NP*)	people	-	1	Governor_Richardson	(47)
+msnbc_0007	11	3	weak	JJ	(ADJP(ADJP*)	-	-	-	Governor_Richardson	-
+msnbc_0007	11	4	and	CC	*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	5	drawn	VBN	(ADJP*	draw	02	-	Governor_Richardson	-
+msnbc_0007	11	6	out	RP	*))))	-	-	-	Governor_Richardson	-
+msnbc_0007	11	7	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	they	PRP	(TOP(S(NP*)	-	-	-	Governor_Richardson	(47)
+msnbc_0007	11	1	look	VBP	(VP*	look	01	2	Governor_Richardson	-
+msnbc_0007	11	2	like	IN	(SBAR*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	3	they	PRP	(S(NP*)	-	-	-	Governor_Richardson	(47)
+msnbc_0007	11	4	need	VBP	(VP*	need	01	1	Governor_Richardson	-
+msnbc_0007	11	5	nourishment	NN	(NP*)))))	-	-	-	Governor_Richardson	-
+msnbc_0007	11	6	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	A	DT	(TOP(S(NP(NP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	1	lot	NN	*)	lot	-	1	Governor_Richardson	-
+msnbc_0007	11	2	of	IN	(PP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	3	people	NNS	(NP*)))	people	-	1	Governor_Richardson	-
+msnbc_0007	11	4	are	VBP	(VP*	be	03	-	Governor_Richardson	-
+msnbc_0007	11	5	starving	VBG	(VP*	starve	01	1	Governor_Richardson	-
+msnbc_0007	11	6	there	RB	(ADVP*)))	-	-	-	Governor_Richardson	-
+msnbc_0007	11	7	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	They	PRP	(TOP(S(NP*)	-	-	-	Governor_Richardson	(169)
+msnbc_0007	11	1	have	VBP	(VP*	have	03	4	Governor_Richardson	-
+msnbc_0007	11	2	human	JJ	(NP(NML*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	3	rights	NNS	*)	-	-	-	Governor_Richardson	-
+msnbc_0007	11	4	violations	NNS	*))	-	-	-	Governor_Richardson	-
+msnbc_0007	11	5	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	He	PRP	(TOP(S(NP*)	-	-	-	Governor_Richardson	(16)
+msnbc_0007	11	1	is	VBZ	(VP*	be	01	1	Governor_Richardson	-
+msnbc_0007	11	2	a	DT	(NP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	3	mercurial	JJ	*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	4	character	NN	*))	-	-	-	Governor_Richardson	-
+msnbc_0007	11	5	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	But	CC	(TOP(S*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	1	I	PRP	(NP*)	-	-	-	Governor_Richardson	(82)
+msnbc_0007	11	2	think	VBP	(VP*	think	01	1	Governor_Richardson	-
+msnbc_0007	11	3	he	PRP	(SBAR(S(NP*)	-	-	-	Governor_Richardson	(16)
+msnbc_0007	11	4	's	VBZ	(VP*	be	01	1	Governor_Richardson	-
+msnbc_0007	11	5	crazy	JJ	(ADJP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	6	like	IN	(PP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	7	a	DT	(NP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	8	fox	NN	*)))))))	-	-	-	Governor_Richardson	-
+msnbc_0007	11	9	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	He	PRP	(TOP(S(NP*)	-	-	-	Governor_Richardson	(16)
+msnbc_0007	11	1	is	VBZ	(VP*	be	01	1	Governor_Richardson	-
+msnbc_0007	11	2	not	RB	*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	3	somebody	NN	(NP(NP*)	-	-	-	Governor_Richardson	(36
+msnbc_0007	11	4	that	WDT	(SBAR(WHNP*)	-	-	-	Governor_Richardson	-
+msnbc_0007	11	5	is	VBZ	(S(VP*	be	01	1	Governor_Richardson	-
+msnbc_0007	11	6	uh	UH	(INTJ*)	-	-	-	Governor_Richardson	-
+msnbc_0007	11	7	out	IN	(PP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	8	of	IN	(PP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	9	his	PRP$	(NP*	-	-	-	Governor_Richardson	(36)
+msnbc_0007	11	10	mind	NN	*))))))))	mind	-	1	Governor_Richardson	36)
+msnbc_0007	11	11	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	he	PRP	(TOP(S(NP*)	-	-	-	Governor_Richardson	(16)
+msnbc_0007	11	1	may	MD	(VP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	2	be	VB	(VP*	be	01	1	Governor_Richardson	-
+msnbc_0007	11	3	totally	RB	(ADJP(ADJP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	4	unpredictable	JJ	*)	-	-	-	Governor_Richardson	-
+msnbc_0007	11	5	isolated	JJ	(ADJP*))))	-	-	-	Governor_Richardson	-
+msnbc_0007	11	6	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	but	CC	(TOP(S*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	1	he	PRP	(NP*)	-	-	-	Governor_Richardson	(16)
+msnbc_0007	11	2	's	VBZ	(VP*	be	01	1	Governor_Richardson	-
+msnbc_0007	11	3	calculating	JJ	(ADJP*))	-	-	-	Governor_Richardson	-
+msnbc_0007	11	4	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	and	CC	(TOP(S*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	1	he	PRP	(NP*)	-	-	-	Governor_Richardson	(16)
+msnbc_0007	11	2	's	VBZ	(VP*	be	03	-	Governor_Richardson	-
+msnbc_0007	11	3	used	VBN	(VP*	use	01	1	Governor_Richardson	-
+msnbc_0007	11	4	the	DT	(NP(NP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	5	Fourth	NNP	*)	-	-	-	Governor_Richardson	-
+msnbc_0007	11	6	of	IN	(PP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	7	July	NNP	(NP*)))))	-	-	-	Governor_Richardson	-
+msnbc_0007	11	8	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	every	DT	(TOP(S(NP(NP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	1	time	NN	*)	time	-	1	Governor_Richardson	-
+msnbc_0007	11	2	he	PRP	(SBAR(S(NP*)	-	-	-	Governor_Richardson	(16)
+msnbc_0007	11	3	feels	VBZ	(VP*	feel	02	1	Governor_Richardson	-
+msnbc_0007	11	4	he	PRP	(SBAR(S(NP*)	-	-	-	Governor_Richardson	(16)
+msnbc_0007	11	5	's	VBZ	(VP*	be	03	-	Governor_Richardson	-
+msnbc_0007	11	6	backed	VBN	(VP*	back	02	6	Governor_Richardson	-
+msnbc_0007	11	7	down	RP	(PRT*)))))))))	-	-	-	Governor_Richardson	-
+msnbc_0007	11	8	he	PRP	(NP*)	-	-	-	Governor_Richardson	(16)
+msnbc_0007	11	9	moves	VBZ	(VP(VP*)	move	01	2	Governor_Richardson	-
+msnbc_0007	11	10	and	CC	*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	11	does	VBZ	(VP*	do	02	1	Governor_Richardson	-
+msnbc_0007	11	12	something	NN	(NP(NP*)	something	-	4	Governor_Richardson	-
+msnbc_0007	11	13	irrational	JJ	(ADJP*))))	-	-	-	Governor_Richardson	-
+msnbc_0007	11	14	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	Uh	UH	(TOP(S(INTJ*)	-	-	-	Governor_Richardson	-
+msnbc_0007	11	1	he	PRP	(NP*)	-	-	-	Governor_Richardson	(16)
+msnbc_0007	11	2	shoots	VBZ	(VP*	shoot	04	1	Governor_Richardson	(129)
+msnbc_0007	11	3	missiles	NNS	(NP*)	-	-	-	Governor_Richardson	-
+msnbc_0007	11	4	off	RP	(PRT*))	-	-	-	Governor_Richardson	-
+msnbc_0007	11	5	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	he	PRP	(TOP(S(NP*)	-	-	-	Governor_Richardson	(16)
+msnbc_0007	11	1	's	VBZ	(VP*	be	03	-	Governor_Richardson	-
+msnbc_0007	11	2	done	VBN	(VP*	do	02	1	Governor_Richardson	-
+msnbc_0007	11	3	it	PRP	(NP*)	-	-	-	Governor_Richardson	(129)
+msnbc_0007	11	4	twice	RB	(ADVP*)))	-	-	-	Governor_Richardson	-
+msnbc_0007	11	5	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	He	PRP	(TOP(S(NP*)	-	-	-	Governor_Richardson	(16)
+msnbc_0007	11	1	cancels	VBZ	(VP*	cancel	01	1	Governor_Richardson	-
+msnbc_0007	11	2	agreements	NNS	(NP*))	agreement	-	1	Governor_Richardson	-
+msnbc_0007	11	3	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	he	PRP	(TOP(S(NP*)	-	-	-	Governor_Richardson	(16)
+msnbc_0007	11	1	gets	VBZ	(VP*	get	05	3	Governor_Richardson	-
+msnbc_0007	11	2	the	DT	(NP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	3	nuclear	JJ	*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	4	inspectors	NNS	*)	-	-	-	Governor_Richardson	-
+msnbc_0007	11	5	out	RP	(PRT*)	-	-	-	Governor_Richardson	-
+msnbc_0007	11	6	in	IN	(PP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	7	two	CD	(NP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	8	thousand	CD	*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	9	and	CC	*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	10	two	CD	*)))	-	-	-	Governor_Richardson	-
+msnbc_0007	11	11	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	This	DT	(TOP(S(NP*)	-	-	-	Governor_Richardson	-
+msnbc_0007	11	1	is	VBZ	(VP*	be	01	1	Governor_Richardson	-
+msnbc_0007	11	2	the	DT	(NP(NP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	3	way	NN	*)	way	-	1	Governor_Richardson	-
+msnbc_0007	11	4	he	PRP	(SBAR(S(NP*)	-	-	-	Governor_Richardson	(16)
+msnbc_0007	11	5	operates	VBZ	(VP*)))))	operate	01	1	Governor_Richardson	-
+msnbc_0007	11	6	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	And	CC	(TOP(S*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	1	what	WP	(SBAR(WHNP*)	-	-	-	Governor_Richardson	-
+msnbc_0007	11	2	we	PRP	(S(NP*)	-	-	-	Governor_Richardson	(158)
+msnbc_0007	11	3	should	MD	(VP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	4	do	VB	(VP*))))	do	02	1	Governor_Richardson	-
+msnbc_0007	11	5	is	VBZ	(VP*	be	01	-	Governor_Richardson	-
+msnbc_0007	11	6	take	VB	(S(VP*	take	01	14.1	Governor_Richardson	-
+msnbc_0007	11	7	advantage	NN	(NP*)	advantage	-	1	Governor_Richardson	-
+msnbc_0007	11	8	of	IN	(PP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	9	his	PRP$	(NP*	-	-	-	Governor_Richardson	(16)
+msnbc_0007	11	10	vulnerability	NN	*)))))	vulnerability	-	1	Governor_Richardson	-
+msnbc_0007	11	11	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	He	PRP	(TOP(S(NP*)	-	-	-	Governor_Richardson	(16)
+msnbc_0007	11	1	also	RB	(ADVP*)	-	-	-	Governor_Richardson	-
+msnbc_0007	11	2	is	VBZ	(VP*	be	01	1	Governor_Richardson	-
+msnbc_0007	11	3	vulnerable	JJ	(ADJP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	4	in	IN	(PP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	5	the	DT	(NP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	6	sense	NN	*	sense	-	2	Governor_Richardson	-
+msnbc_0007	11	7	that	IN	(SBAR*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	8	the	DT	(S(NP*	-	-	-	Governor_Richardson	(169
+msnbc_0007	11	9	country	NN	*)	country	-	3	Governor_Richardson	169)
+msnbc_0007	11	10	is	VBZ	(VP*	be	01	1	Governor_Richardson	-
+msnbc_0007	11	11	weak	JJ	(ADJP(ADJP*)	-	-	-	Governor_Richardson	-
+msnbc_0007	11	12	economically	RB	(ADVP*)))))))))	-	-	-	Governor_Richardson	-
+msnbc_0007	11	13	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	it	PRP	(TOP(S(NP*)	-	-	-	Governor_Richardson	(169)
+msnbc_0007	11	1	desperately	RB	(ADVP*)	-	-	-	Governor_Richardson	-
+msnbc_0007	11	2	needs	VBZ	(VP*	need	01	1	Governor_Richardson	-
+msnbc_0007	11	3	an	DT	(NP(NP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	4	elimination	NN	*)	elimination	01	1	Governor_Richardson	-
+msnbc_0007	11	5	of	IN	(PP*	-	-	-	Governor_Richardson	-
+msnbc_0007	11	6	sanctions	NNS	(NP*))))	-	-	-	Governor_Richardson	-
+msnbc_0007	11	7	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	they	PRP	(TOP(S(NP*)	-	-	-	Governor_Richardson	(169)
+msnbc_0007	11	1	need	VBP	(VP*	need	01	1	Governor_Richardson	-
+msnbc_0007	11	2	food	NN	(NP*	food	-	1	Governor_Richardson	-
+msnbc_0007	11	3	electricity	NN	*))	-	-	-	Governor_Richardson	-
+msnbc_0007	11	4	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	He	PRP	(TOP(S(S(NP*)	-	-	-	Governor_Richardson	(16)
+msnbc_0007	11	1	's	VBZ	(VP*	be	01	1	Governor_Richardson	-
+msnbc_0007	11	2	realistic	JJ	(ADJP*)	-	-	-	Governor_Richardson	-
+msnbc_0007	11	3	too	RB	(ADVP*)))	-	-	-	Governor_Richardson	-
+msnbc_0007	11	4	I	PRP	(NP*)	-	-	-	Governor_Richardson	(82)
+msnbc_0007	11	5	believe	VBP	(VP*)	believe	01	1	Governor_Richardson	-
+msnbc_0007	11	6	/.	.	*))	-	-	-	Governor_Richardson	-
+
+msnbc_0007	11	0	Bill	NNP	(TOP(S(NP(NP*	-	-	-	Tim_Russert	(82|(206
+msnbc_0007	11	1	Richardson	NNP	*)	-	-	-	Tim_Russert	82)
+msnbc_0007	11	2	Robert	NNP	(NP*	-	-	-	Tim_Russert	(151
+msnbc_0007	11	3	Gallucci	NNP	*)	-	-	-	Tim_Russert	151)
+msnbc_0007	11	4	Ashton	NNP	(NP*	-	-	-	Tim_Russert	(42
+msnbc_0007	11	5	Carter	NNP	*))	-	-	-	Tim_Russert	206)|42)
+msnbc_0007	11	6	thank	VBP	(VP*	thank	01	1	Tim_Russert	-
+msnbc_0007	11	7	you	PRP	(NP(NP*)	-	-	-	Tim_Russert	(206
+msnbc_0007	11	8	all	DT	(NP*))	-	-	-	Tim_Russert	206)
+msnbc_0007	11	9	for	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	11	10	a	DT	(NP*	-	-	-	Tim_Russert	-
+msnbc_0007	11	11	very	RB	(ADJP*	-	-	-	Tim_Russert	-
+msnbc_0007	11	12	sobering	JJ	*	-	-	-	Tim_Russert	-
+msnbc_0007	11	13	but	CC	*	-	-	-	Tim_Russert	-
+msnbc_0007	11	14	important	JJ	*)	-	-	-	Tim_Russert	-
+msnbc_0007	11	15	discussion	NN	*)))	discussion	-	1	Tim_Russert	-
+msnbc_0007	11	16	/.	.	*))	-	-	-	Tim_Russert	-
+
+#end document

@@ -1,0 +1,527 @@
+#begin document (chtb_0119_0); part 000
+chtb_0119	0	0	Xinhua	NNP	(TOP(FRAG(NP*	-	-	-	-	-
+chtb_0119	0	1	News	NNP	*	-	-	-	-	-
+chtb_0119	0	2	Agency	NNP	*)	-	-	-	-	-
+chtb_0119	0	3	,	,	*	-	-	-	-	-
+chtb_0119	0	4	Beijing	NNP	(NP*)	-	-	-	-	-
+chtb_0119	0	5	,	,	*	-	-	-	-	-
+chtb_0119	0	6	January	NNP	(NP*	-	-	-	-	-
+chtb_0119	0	7	3rd	NN	*)))	-	-	-	-	-
+
+chtb_0119	0	0	In	IN	(TOP(S(SBAR*	-	-	-	-	-
+chtb_0119	0	1	order	NN	*	order	-	10	-	-
+chtb_0119	0	2	to	TO	(S(VP*	-	-	-	-	-
+chtb_0119	0	3	perfect	VB	(VP*	perfect	01	-	-	-
+chtb_0119	0	4	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0119	0	5	management	NN	*)	management	01	1	-	-
+chtb_0119	0	6	of	IN	(PP*	-	-	-	-	-
+chtb_0119	0	7	international	JJ	(NP*	-	-	-	-	-
+chtb_0119	0	8	commercial	JJ	*	-	-	-	-	-
+chtb_0119	0	9	loans	NNS	*)))))))	loan	-	1	-	-
+chtb_0119	0	10	,	,	*	-	-	-	-	-
+chtb_0119	0	11	the	DT	(NP*	-	-	-	-	(5
+chtb_0119	0	12	National	NNP	*	-	-	-	-	-
+chtb_0119	0	13	Foreign	NNP	(NML*	-	-	-	-	-
+chtb_0119	0	14	Exchange	NNP	*)	-	-	-	-	-
+chtb_0119	0	15	Bureau	NNP	*)	-	-	-	-	5)
+chtb_0119	0	16	decided	VBD	(VP*	decide	01	1	-	-
+chtb_0119	0	17	to	TO	(S(VP*	-	-	-	-	-
+chtb_0119	0	18	implement	VB	(VP*	implement	01	1	-	-
+chtb_0119	0	19	a	DT	(NP(NP*	-	-	-	-	-
+chtb_0119	0	20	new	JJ	*	-	-	-	-	-
+chtb_0119	0	21	method	NN	*)	-	-	-	-	-
+chtb_0119	0	22	of	IN	(PP*	-	-	-	-	-
+chtb_0119	0	23	managing	VBG	(S(VP*	manage	01	2	-	-
+chtb_0119	0	24	international	JJ	(NP(NP*	-	-	-	-	-
+chtb_0119	0	25	commercial	JJ	*	-	-	-	-	-
+chtb_0119	0	26	loans	NNS	*)	loan	-	1	-	-
+chtb_0119	0	27	borrowed	VBN	(VP*	borrow	01	1	-	-
+chtb_0119	0	28	by	IN	(PP*	-	-	-	-	-
+chtb_0119	0	29	domestic	JJ	(NP*	-	-	-	-	-
+chtb_0119	0	30	institutions	NNS	*))	institution	-	1	-	-
+chtb_0119	0	31	from	IN	(PP*	-	-	-	-	-
+chtb_0119	0	32	January	NNP	(NP*	-	-	-	-	-
+chtb_0119	0	33	1st	NN	*))	-	-	-	-	-
+chtb_0119	0	34	this	DT	(NP*	-	-	-	-	-
+chtb_0119	0	35	year	NN	*)))))))))))	-	-	-	-	-
+chtb_0119	0	36	.	.	*))	-	-	-	-	-
+
+chtb_0119	0	0	According	VBG	(TOP(S(PP*	-	-	-	-	-
+chtb_0119	0	1	to	IN	(PP*	-	-	-	-	-
+chtb_0119	0	2	regulations	NNS	(NP(NP*)	regulation	-	1	-	-
+chtb_0119	0	3	by	IN	(PP*	-	-	-	-	-
+chtb_0119	0	4	the	DT	(NP*	-	-	-	-	(5
+chtb_0119	0	5	National	NNP	*	-	-	-	-	-
+chtb_0119	0	6	Foreign	NNP	(NML(NML*	-	-	-	-	-
+chtb_0119	0	7	Exchange	NNP	*)	-	-	-	-	-
+chtb_0119	0	8	Management	NNP	*)	-	-	-	-	-
+chtb_0119	0	9	Bureau	NNP	*)))))	-	-	-	-	5)
+chtb_0119	0	10	,	,	*	-	-	-	-	-
+chtb_0119	0	11	international	JJ	(NP*	-	-	-	-	-
+chtb_0119	0	12	commercial	JJ	*	-	-	-	-	-
+chtb_0119	0	13	loans	NNS	*)	loan	-	1	-	-
+chtb_0119	0	14	indicate	VBP	(VP*	indicate	01	1	-	-
+chtb_0119	0	15	loans	NNS	(NP(NP*)	loan	-	1	-	-
+chtb_0119	0	16	raised	VBN	(VP*	raise	02	4	-	-
+chtb_0119	0	17	and	CC	*	-	-	-	-	-
+chtb_0119	0	18	borrowed	VBN	*	borrow	01	1	-	-
+chtb_0119	0	19	by	IN	(PP*	-	-	-	-	-
+chtb_0119	0	20	domestic	JJ	(NP*	-	-	-	-	-
+chtb_0119	0	21	institutions	NNS	*))	institution	-	1	-	-
+chtb_0119	0	22	from	IN	(PP(PP*	-	-	-	-	-
+chtb_0119	0	23	financial	JJ	(NP(NP(NP*	-	-	-	-	-
+chtb_0119	0	24	institutions	NNS	*)	institution	-	1	-	-
+chtb_0119	0	25	,	,	*	-	-	-	-	-
+chtb_0119	0	26	enterprises	NNS	(NP*)	-	-	-	-	-
+chtb_0119	0	27	,	,	*	-	-	-	-	-
+chtb_0119	0	28	individual	JJ	(NP(ADJP(ADJP*)	-	-	-	-	-
+chtb_0119	0	29	or	CC	*	-	-	-	-	-
+chtb_0119	0	30	other	JJ	(ADJP*	-	-	-	-	-
+chtb_0119	0	31	economic	JJ	*))	-	-	-	-	-
+chtb_0119	0	32	organizations	NNS	*))	organization	-	1	-	-
+chtb_0119	0	33	abroad	RB	(ADVP*)))	-	-	-	-	-
+chtb_0119	0	34	,	,	*	-	-	-	-	-
+chtb_0119	0	35	and	CC	*	-	-	-	-	-
+chtb_0119	0	36	from	IN	(PP*	-	-	-	-	-
+chtb_0119	0	37	foreign	JJ	(NP(NP(NP(ADJP*	-	-	-	-	-
+chtb_0119	0	38	-	HYPH	*	-	-	-	-	-
+chtb_0119	0	39	funded	VBN	*)	fund	01	1	-	-
+chtb_0119	0	40	financial	JJ	*	-	-	-	-	-
+chtb_0119	0	41	institutions	NNS	*)	institution	-	1	-	-
+chtb_0119	0	42	within	IN	(PP*	-	-	-	-	-
+chtb_0119	0	43	China	NNP	(NP(NP*	-	-	-	-	(1
+chtb_0119	0	44	's	POS	*)	-	-	-	-	1)
+chtb_0119	0	45	border	NN	*)))	border	-	1	-	-
+chtb_0119	0	46	,	,	*	-	-	-	-	-
+chtb_0119	0	47	whose	WP$	(SBAR(WHNP*	-	-	-	-	-
+chtb_0119	0	48	contractual	JJ	*	-	-	-	-	-
+chtb_0119	0	49	repayment	NN	*	-	-	-	-	-
+chtb_0119	0	50	obligations	NNS	*)	-	-	-	-	-
+chtb_0119	0	51	are	VBP	(S(VP*	be	-	1	-	-
+chtb_0119	0	52	in	IN	(PP*	-	-	-	-	-
+chtb_0119	0	53	foreign	JJ	(NP*	-	-	-	-	-
+chtb_0119	0	54	currency	NN	*)))))))))))	currency	-	5	-	-
+chtb_0119	0	55	.	.	*))	-	-	-	-	-
+
+chtb_0119	0	0	Export	NN	(TOP(S(NP(NP*	export	-	1	-	(ARG1*	(ARG1*
+chtb_0119	0	1	credits	NNS	*)	credit	-	5	-	*	*
+chtb_0119	0	2	,	,	*	-	-	-	-	*	*
+chtb_0119	0	3	international	JJ	(NP*	-	-	-	-	*	*
+chtb_0119	0	4	financing	NN	*	-	-	-	-	*	*
+chtb_0119	0	5	leaseholds	NNS	*)	-	-	-	-	*	*
+chtb_0119	0	6	,	,	*	-	-	-	-	*	*
+chtb_0119	0	7	compensation	NN	(NP(NP*	compensation	-	1	-	*	*
+chtb_0119	0	8	trades	NNS	*)	trade	01	1	-	*	*
+chtb_0119	0	9	with	IN	(PP*	-	-	-	-	*	*
+chtb_0119	0	10	foreign	JJ	(NP(NML*	-	-	-	-	*	*
+chtb_0119	0	11	exchange	NN	*)	exchange	01	5	-	*	*
+chtb_0119	0	12	repayment	NN	*	-	-	-	-	*	*
+chtb_0119	0	13	methods	NNS	*)))	-	-	-	-	*	*
+chtb_0119	0	14	,	,	*	-	-	-	-	*	*
+chtb_0119	0	15	overseas	JJ	(NP(NP(NP(NP*	-	-	-	-	*	*
+chtb_0119	0	16	institution	NN	*	institution	-	1	-	*	*
+chtb_0119	0	17	's	POS	*)	-	-	-	-	*	*
+chtb_0119	0	18	and	CC	*	-	-	-	-	*	*
+chtb_0119	0	19	individual	NN	(NP*	individual	-	1	-	*	*
+chtb_0119	0	20	's	POS	*))	-	-	-	-	*	*
+chtb_0119	0	21	foreign	JJ	(NML*	-	-	-	-	*	*
+chtb_0119	0	22	exchange	NN	*)	exchange	01	5	-	*	*
+chtb_0119	0	23	deposits	NNS	*)	deposit	-	1	-	*	*
+chtb_0119	0	24	-LRB-	-LRB-	(PP*	-	-	-	-	*	*
+chtb_0119	0	25	excluding	VBG	*	exclude	01	-	-	*	*
+chtb_0119	0	26	foreign	JJ	(NP(NP(NML*	-	-	-	-	*	*
+chtb_0119	0	27	exchange	NN	*)	exchange	01	5	-	*	*
+chtb_0119	0	28	deposits	NNS	*)	deposit	-	1	-	*	*
+chtb_0119	0	29	in	IN	(PP*	-	-	-	-	*	*
+chtb_0119	0	30	banks	NNS	(NP(NP*)	-	-	-	-	*	*
+chtb_0119	0	31	approved	VBN	(VP*	approve	01	-	-	*	*
+chtb_0119	0	32	for	IN	(PP*	-	-	-	-	*	*
+chtb_0119	0	33	offshore	JJ	(NP*	-	-	-	-	*	*
+chtb_0119	0	34	operations	NNS	*))))))	operation	-	3	-	*	*
+chtb_0119	0	35	-RRB-	-RRB-	*))	-	-	-	-	*	*
+chtb_0119	0	36	,	,	*	-	-	-	-	*	*
+chtb_0119	0	37	project	NN	(NP*	project	-	1	-	*	*
+chtb_0119	0	38	financing	NN	*)	finance	01	1	-	*	*
+chtb_0119	0	39	,	,	*	-	-	-	-	*	*
+chtb_0119	0	40	financing	NN	(NP(NP*)	finance	01	1	-	*	*
+chtb_0119	0	41	under	IN	(PP*	-	-	-	-	*	*
+chtb_0119	0	42	trade	NN	(NP*	trade	-	1	-	*	*
+chtb_0119	0	43	projects	NNS	*))	project	-	1	-	*	*
+chtb_0119	0	44	over	IN	(PP*	-	-	-	-	*	*
+chtb_0119	0	45	90	CD	(NP*	-	-	-	-	*	*
+chtb_0119	0	46	days	NNS	*)))	day	-	2	-	*	*
+chtb_0119	0	47	and	CC	*	-	-	-	-	*	*
+chtb_0119	0	48	other	JJ	(NP(NP*	-	-	-	-	*	*
+chtb_0119	0	49	forms	NNS	*)	form	-	5	-	*	*
+chtb_0119	0	50	of	IN	(PP*	-	-	-	-	*	*
+chtb_0119	0	51	foreign	JJ	(NP(NML*	-	-	-	-	*	*
+chtb_0119	0	52	exchange	NN	*)	exchange	01	5	-	*	*
+chtb_0119	0	53	loans	NNS	*))))	loan	-	1	-	*)	*)
+chtb_0119	0	54	will	MD	(VP*	-	-	-	-	(ARGM-MOD*)	(ARGM-MOD*)
+chtb_0119	0	55	all	RB	*	-	-	-	-	(ARGM-ADV*)	(ARGM-ADV*)
+chtb_0119	0	56	be	VB	(VP*	-	-	-	-	*	*
+chtb_0119	0	57	treated	VBN	(VP*	treat	01	1	-	(V*)	(V*)
+chtb_0119	0	58	and	CC	*	-	-	-	-	*	*
+chtb_0119	0	59	managed	VBN	*	manage	01	2	-	*	*
+chtb_0119	0	60	as	IN	(PP*	-	-	-	-	(ARG2*	(ARG2*
+chtb_0119	0	61	international	JJ	(NP*	-	-	-	-	*	*
+chtb_0119	0	62	commercial	JJ	*	-	-	-	-	*	*
+chtb_0119	0	63	loans	NNS	*)))))	loan	-	1	-	*)	*)
+chtb_0119	0	64	.	.	*))	-	-	-	-	*	*
+
+chtb_0119	0	0	According	VBG	(TOP(S(S(PP*	-	-	-	-	-
+chtb_0119	0	1	to	IN	(PP*	-	-	-	-	-
+chtb_0119	0	2	regulations	NNS	(NP*)))	regulation	-	1	-	-
+chtb_0119	0	3	,	,	*	-	-	-	-	-
+chtb_0119	0	4	the	DT	(NP(NP(NP*	-	-	-	-	(0
+chtb_0119	0	5	People	NNPS	*	-	-	-	-	-
+chtb_0119	0	6	's	POS	*)	-	-	-	-	-
+chtb_0119	0	7	Bank	NNP	*)	-	-	-	-	-
+chtb_0119	0	8	of	IN	(PP*	-	-	-	-	-
+chtb_0119	0	9	China	NNP	(NP*)))	-	-	-	-	0)
+chtb_0119	0	10	is	VBZ	(VP*	be	-	2	-	-
+chtb_0119	0	11	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0119	0	12	approving	VBG	*	approve	01	-	-	-
+chtb_0119	0	13	authority	NN	*)	authority	-	5	-	-
+chtb_0119	0	14	for	IN	(PP*	-	-	-	-	-
+chtb_0119	0	15	international	JJ	(NP(NP*	-	-	-	-	-
+chtb_0119	0	16	commercial	JJ	*	-	-	-	-	-
+chtb_0119	0	17	loans	NNS	*)	loan	-	1	-	-
+chtb_0119	0	18	borrowed	VBN	(VP*	borrow	01	1	-	-
+chtb_0119	0	19	by	IN	(PP*	-	-	-	-	-
+chtb_0119	0	20	domestic	JJ	(NP*	-	-	-	-	-
+chtb_0119	0	21	institutions	NNS	*))))))))	institution	-	1	-	-
+chtb_0119	0	22	,	,	*	-	-	-	-	-
+chtb_0119	0	23	the	DT	(S(NP(NP(NP*	-	-	-	-	(0
+chtb_0119	0	24	People	NNPS	*	-	-	-	-	-
+chtb_0119	0	25	's	POS	*)	-	-	-	-	-
+chtb_0119	0	26	Bank	NNP	*)	-	-	-	-	-
+chtb_0119	0	27	of	IN	(PP*	-	-	-	-	-
+chtb_0119	0	28	China	NNP	(NP*)))	-	-	-	-	0)
+chtb_0119	0	29	has	VBZ	(VP*	have	01	-	-	-
+chtb_0119	0	30	authorized	VBN	(VP*	authorize	01	2	-	-
+chtb_0119	0	31	the	DT	(NP*	-	-	-	-	(5
+chtb_0119	0	32	National	NNP	*	-	-	-	-	-
+chtb_0119	0	33	Foreign	NNP	(NML(NML*	-	-	-	-	-
+chtb_0119	0	34	Exchange	NNP	*)	-	-	-	-	-
+chtb_0119	0	35	Management	NNP	*)	-	-	-	-	-
+chtb_0119	0	36	Bureau	NNP	*)	-	-	-	-	5)
+chtb_0119	0	37	to	TO	(S(VP*	-	-	-	-	-
+chtb_0119	0	38	be	VB	(VP*	be	-	1	-	-
+chtb_0119	0	39	specifically	RB	(ADJP*	-	-	-	-	-
+chtb_0119	0	40	responsible	JJ	*	-	-	-	-	-
+chtb_0119	0	41	for	IN	(PP*	-	-	-	-	-
+chtb_0119	0	42	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0119	0	43	approval	NN	*	approval	01	1	-	-
+chtb_0119	0	44	,	,	*	-	-	-	-	-
+chtb_0119	0	45	supervision	NN	*	-	-	-	-	-
+chtb_0119	0	46	and	CC	*	-	-	-	-	-
+chtb_0119	0	47	management	NN	*)	management	01	1	-	-
+chtb_0119	0	48	of	IN	(PP*	-	-	-	-	-
+chtb_0119	0	49	commercial	JJ	(NP*	-	-	-	-	-
+chtb_0119	0	50	loans	NNS	*))	loan	-	1	-	-
+chtb_0119	0	51	by	IN	(PP*	-	-	-	-	-
+chtb_0119	0	52	domestic	JJ	(NP*	-	-	-	-	-
+chtb_0119	0	53	institutions	NNS	*)))))))))))	institution	-	1	-	-
+chtb_0119	0	54	.	.	*))	-	-	-	-	-
+
+chtb_0119	0	0	All	DT	(TOP(S(NP(NP*	-	-	-	-	-
+chtb_0119	0	1	international	JJ	*	-	-	-	-	-
+chtb_0119	0	2	commercial	JJ	*	-	-	-	-	-
+chtb_0119	0	3	loans	NNS	*)	loan	-	1	-	-
+chtb_0119	0	4	borrowed	VBN	(VP*	borrow	01	1	-	-
+chtb_0119	0	5	by	IN	(PP*	-	-	-	-	-
+chtb_0119	0	6	domestic	JJ	(NP*	-	-	-	-	-
+chtb_0119	0	7	institutions	NNS	*))))	institution	-	1	-	-
+chtb_0119	0	8	should	MD	(VP*	-	-	-	-	-
+chtb_0119	0	9	be	VB	(VP*	-	-	-	-	-
+chtb_0119	0	10	approved	VBN	(VP*	approve	01	1	-	-
+chtb_0119	0	11	by	IN	(PP*	-	-	-	-	-
+chtb_0119	0	12	the	DT	(NP*	-	-	-	-	(5
+chtb_0119	0	13	National	NNP	*	-	-	-	-	-
+chtb_0119	0	14	Foreign	NNP	(NML(NML*	-	-	-	-	-
+chtb_0119	0	15	Exchange	NNP	*)	-	-	-	-	-
+chtb_0119	0	16	Management	NNP	*)	-	-	-	-	-
+chtb_0119	0	17	Bureau	NNP	*)))))	-	-	-	-	5)
+chtb_0119	0	18	.	.	*))	-	-	-	-	-
+
+chtb_0119	0	0	International	JJ	(TOP(S(S(NP(NP*	-	-	-	-	(3
+chtb_0119	0	1	business	NN	*	business	-	1	-	-
+chtb_0119	0	2	loans	NNS	*)	loan	-	1	-	3)
+chtb_0119	0	3	that	WDT	(SBAR(WHNP*)	-	-	-	-	-
+chtb_0119	0	4	have	VBP	(S(VP(VP*	have	01	-	-	-
+chtb_0119	0	5	not	RB	*	-	-	-	-	-
+chtb_0119	0	6	been	VBN	(VP*	-	-	-	-	-
+chtb_0119	0	7	approved	VBN	(VP*)))	approve	01	1	-	-
+chtb_0119	0	8	but	CC	*	-	-	-	-	-
+chtb_0119	0	9	were	VBD	(VP*	-	-	-	-	-
+chtb_0119	0	10	signed	VBN	(VP*	sign	01	-	-	-
+chtb_0119	0	11	on	IN	(PP*	-	-	-	-	-
+chtb_0119	0	12	their	PRP$	(NP*	-	-	-	-	(3)
+chtb_0119	0	13	own	JJ	*	-	-	-	-	-
+chtb_0119	0	14	authority	NN	*))))))))	authority	-	1	-	-
+chtb_0119	0	15	will	MD	(VP*	-	-	-	-	-
+chtb_0119	0	16	not	RB	*	-	-	-	-	-
+chtb_0119	0	17	be	VB	(VP*	be	-	1	-	-
+chtb_0119	0	18	valid	JJ	(ADJP*))))	-	-	-	-	-
+chtb_0119	0	19	,	,	*	-	-	-	-	-
+chtb_0119	0	20	the	DT	(S(NP*	-	-	-	-	(5
+chtb_0119	0	21	Foreign	NNP	(NML(NML*	-	-	-	-	-
+chtb_0119	0	22	Exchange	NNP	*)	-	-	-	-	-
+chtb_0119	0	23	Management	NNP	*)	-	-	-	-	-
+chtb_0119	0	24	Bureau	NNP	*)	-	-	-	-	5)
+chtb_0119	0	25	will	MD	(VP*	-	-	-	-	-
+chtb_0119	0	26	not	RB	*	-	-	-	-	-
+chtb_0119	0	27	process	VB	(VP*	process	01	3	-	-
+chtb_0119	0	28	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0119	0	29	registration	NN	*)	registration	01	1	-	-
+chtb_0119	0	30	of	IN	(PP*	-	-	-	-	-
+chtb_0119	0	31	foreign	JJ	(NP*	-	-	-	-	(4
+chtb_0119	0	32	debts	NNS	*))))))	debt	-	2	-	4)
+chtb_0119	0	33	,	,	*	-	-	-	-	-
+chtb_0119	0	34	banks	NNS	(S(NP*)	-	-	-	-	(2)
+chtb_0119	0	35	are	VBP	(VP*	-	-	-	-	-
+chtb_0119	0	36	not	RB	*	-	-	-	-	-
+chtb_0119	0	37	allowed	VBN	(VP*	allow	01	1	-	-
+chtb_0119	0	38	to	TO	(S(VP*	-	-	-	-	-
+chtb_0119	0	39	open	VB	(VP*	open	01	2	-	-
+chtb_0119	0	40	exclusive	JJ	(NP*	-	-	-	-	-
+chtb_0119	0	41	foreign	JJ	(NML*	-	-	-	-	-
+chtb_0119	0	42	debt	NN	*)	debt	-	2	-	-
+chtb_0119	0	43	accounts	NNS	*)	account	-	1	-	-
+chtb_0119	0	44	for	IN	(PP*	-	-	-	-	-
+chtb_0119	0	45	them	PRP	(NP*))))))))	-	-	-	-	(4)
+chtb_0119	0	46	,	,	*	-	-	-	-	-
+chtb_0119	0	47	loan	NN	(S(NP*	loan	-	1	-	-
+chtb_0119	0	48	principals	NNS	*	-	-	-	-	-
+chtb_0119	0	49	and	CC	*	-	-	-	-	-
+chtb_0119	0	50	interests	NNS	*)	interest	-	4	-	-
+chtb_0119	0	51	are	VBP	(VP*	be	-	1	-	-
+chtb_0119	0	52	not	RB	*	-	-	-	-	-
+chtb_0119	0	53	to	TO	(S(VP*	-	-	-	-	-
+chtb_0119	0	54	be	VB	(VP*	-	-	-	-	-
+chtb_0119	0	55	remitted	VBN	(VP*	remit	01	-	-	-
+chtb_0119	0	56	out	RB	(ADVP*)	-	-	-	-	-
+chtb_0119	0	57	on	IN	(PP*	-	-	-	-	-
+chtb_0119	0	58	their	PRP$	(NP*	-	-	-	-	(2)
+chtb_0119	0	59	own	JJ	*	-	-	-	-	-
+chtb_0119	0	60	authority	NN	*))))))))	authority	-	1	-	-
+chtb_0119	0	61	.	.	*))	-	-	-	-	-
+
+chtb_0119	0	0	The	DT	(TOP(S(NP*	-	-	-	-	(5
+chtb_0119	0	1	National	NNP	*	-	-	-	-	-
+chtb_0119	0	2	Foreign	NNP	(NML(NML*	-	-	-	-	-
+chtb_0119	0	3	Exchange	NNP	*)	-	-	-	-	-
+chtb_0119	0	4	Management	NNP	*)	-	-	-	-	-
+chtb_0119	0	5	Bureau	NNP	*)	-	-	-	-	5)
+chtb_0119	0	6	clearly	RB	(ADVP*)	-	-	-	-	-
+chtb_0119	0	7	stipulated	VBD	(VP*	stipulate	01	1	-	-
+chtb_0119	0	8	in	IN	(PP*	-	-	-	-	-
+chtb_0119	0	9	the	DT	(NP*	-	-	-	-	-
+chtb_0119	0	10	new	JJ	*	-	-	-	-	-
+chtb_0119	0	11	method	NN	*))	-	-	-	-	-
+chtb_0119	0	12	that	IN	(SBAR*	-	-	-	-	-
+chtb_0119	0	13	,	,	*	-	-	-	-	-
+chtb_0119	0	14	domestic	JJ	(S(NP(NP*	-	-	-	-	-
+chtb_0119	0	15	institutions	NNS	*)	institution	-	1	-	-
+chtb_0119	0	16	borrowing	VBG	(VP*	borrow	01	1	-	-
+chtb_0119	0	17	international	JJ	(NP*	-	-	-	-	-
+chtb_0119	0	18	commercial	JJ	*	-	-	-	-	-
+chtb_0119	0	19	loans	NNS	*)	loan	-	1	-	-
+chtb_0119	0	20	externally	RB	(ADVP*)))	-	-	-	-	-
+chtb_0119	0	21	are	VBP	(VP*	-	-	-	-	-
+chtb_0119	0	22	only	RB	(ADVP*)	-	-	-	-	-
+chtb_0119	0	23	limited	VBN	(VP*	-	-	-	-	-
+chtb_0119	0	24	to	IN	(PP*	-	-	-	-	-
+chtb_0119	0	25	:	:	*	-	-	-	-	-
+chtb_0119	0	26	China	NNP	(NP(NP(NP(NML*	-	-	-	-	(1)
+chtb_0119	0	27	-	HYPH	*	-	-	-	-	-
+chtb_0119	0	28	capital	NN	*)	capital	-	1	-	-
+chtb_0119	0	29	financial	JJ	*	-	-	-	-	-
+chtb_0119	0	30	institutions	NNS	*)	institution	-	1	-	-
+chtb_0119	0	31	approved	VBN	(VP*	approve	01	1	-	-
+chtb_0119	0	32	by	IN	(PP*	-	-	-	-	-
+chtb_0119	0	33	the	DT	(NP*	-	-	-	-	(5
+chtb_0119	0	34	Foreign	NNP	(NML(NML*	-	-	-	-	-
+chtb_0119	0	35	Exchange	NNP	*)	-	-	-	-	-
+chtb_0119	0	36	Management	NNP	*)	-	-	-	-	-
+chtb_0119	0	37	Bureau	NNP	*))	-	-	-	-	5)
+chtb_0119	0	38	to	TO	(S(VP*	-	-	-	-	-
+chtb_0119	0	39	operate	VB	(VP*	operate	01	2	-	-
+chtb_0119	0	40	foreign	JJ	(NP(NML*	-	-	-	-	-
+chtb_0119	0	41	exchange	NN	*)	exchange	01	5	-	-
+chtb_0119	0	42	loan	NN	*	loan	-	1	-	-
+chtb_0119	0	43	business	NN	*))))))	business	-	1	-	-
+chtb_0119	0	44	;	,	*	-	-	-	-	-
+chtb_0119	0	45	juridical	JJ	(NP(NP*	-	-	-	-	-
+chtb_0119	0	46	people	NNS	*)	people	-	1	-	-
+chtb_0119	0	47	of	IN	(PP*	-	-	-	-	-
+chtb_0119	0	48	non-financial	JJ	(NP(NP*	-	-	-	-	-
+chtb_0119	0	49	corporations	NNS	*)	corporation	-	1	-	-
+chtb_0119	0	50	approved	VBN	(VP*	approve	01	-	-	-
+chtb_0119	0	51	by	IN	(PP*	-	-	-	-	-
+chtb_0119	0	52	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0119	0	53	State	NNP	*	-	-	-	-	-
+chtb_0119	0	54	Department	NNP	*	-	-	-	-	-
+chtb_0119	0	55	's	POS	*)	-	-	-	-	-
+chtb_0119	0	56	Authorization	NNP	*	-	-	-	-	-
+chtb_0119	0	57	Department	NNP	*)))))))))))))	-	-	-	-	-
+chtb_0119	0	58	.	.	*))	-	-	-	-	-
+
+chtb_0119	0	0	Juridical	JJ	(TOP(S(NP(NP(NP*	-	-	-	-	*	*
+chtb_0119	0	1	people	NNS	*)	people	-	1	-	*	*
+chtb_0119	0	2	of	IN	(PP*	-	-	-	-	*	*
+chtb_0119	0	3	non-financial	JJ	(NP*	-	-	-	-	*	*
+chtb_0119	0	4	institutions	NNS	*)))	institution	-	1	-	*	*
+chtb_0119	0	5	who	WP	(SBAR(WHNP*)	-	-	-	-	*	*
+chtb_0119	0	6	borrow	VBP	(S(VP*	borrow	01	1	-	*	*
+chtb_0119	0	7	international	JJ	(NP*	-	-	-	-	*	*
+chtb_0119	0	8	commercial	JJ	*	-	-	-	-	*	*
+chtb_0119	0	9	loans	NNS	*)	loan	-	1	-	*	*
+chtb_0119	0	10	directly	RB	(ADVP*)))))	-	-	-	-	*	*
+chtb_0119	0	11	must	MD	(VP*	-	-	-	-	*	*
+chtb_0119	0	12	possess	VB	(VP(VP*	possess	01	1	-	*	*
+chtb_0119	0	13	these	DT	(NP*	-	-	-	-	*	*
+chtb_0119	0	14	several	JJ	*	-	-	-	-	*	*
+chtb_0119	0	15	conditions	NNS	*))	condition	-	2	-	*	*
+chtb_0119	0	16	,	,	(PRN*	-	-	-	-	*	*
+chtb_0119	0	17	that	DT	(S(NP*)	-	-	-	-	*	*
+chtb_0119	0	18	is	VBZ	(VP*))	be	-	1	-	*	*
+chtb_0119	0	19	,	,	*)	-	-	-	-	*	*
+chtb_0119	0	20	have	VBP	(VP(VP*	have	03	1	-	*	*
+chtb_0119	0	21	continual	JJ	(NP*	-	-	-	-	*	*
+chtb_0119	0	22	profits	NNS	*)	profit	-	1	-	*	*
+chtb_0119	0	23	for	IN	(PP*	-	-	-	-	*	*
+chtb_0119	0	24	the	DT	(NP*	-	-	-	-	*	*
+chtb_0119	0	25	last	JJ	*	-	-	-	-	*	*
+chtb_0119	0	26	three	CD	*	-	-	-	-	*	*
+chtb_0119	0	27	years	NNS	*)))	-	-	-	-	*	*
+chtb_0119	0	28	,	,	*	-	-	-	-	*	*
+chtb_0119	0	29	have	VBP	(VP*	have	03	2	-	*	*
+chtb_0119	0	30	import	NN	(NP(NML*	import	01	2	-	*	*
+chtb_0119	0	31	and	CC	*	-	-	-	-	*	*
+chtb_0119	0	32	export	NN	*)	export	-	1	-	*	*
+chtb_0119	0	33	business	NN	*	-	-	-	-	*	*
+chtb_0119	0	34	permission	NN	*))	permission	01	1	-	*	*
+chtb_0119	0	35	,	,	*	-	-	-	-	*	*
+chtb_0119	0	36	belong	VBP	(VP*	belong	01	2	-	*	*
+chtb_0119	0	37	to	IN	(PP*	-	-	-	-	*	*
+chtb_0119	0	38	a	DT	(NP*	-	-	-	-	*	*
+chtb_0119	0	39	national	JJ	*	-	-	-	-	*	*
+chtb_0119	0	40	encouraged	VBN	*	encourage	02	1	-	*	*
+chtb_0119	0	41	industry	NN	*)))	industry	-	1	-	*	*
+chtb_0119	0	42	;	,	*	-	-	-	-	*	*
+chtb_0119	0	43	possess	VBP	(VP*	possess	01	1	-	*	*
+chtb_0119	0	44	a	DT	(NP*	-	-	-	-	*	*
+chtb_0119	0	45	complete	JJ	*	-	-	-	-	*	*
+chtb_0119	0	46	financial	JJ	(NML*	-	-	-	-	(ARG1*)	(ARG1*)
+chtb_0119	0	47	management	NN	*)	management	01	1	-	(V*)	(V*)
+chtb_0119	0	48	system	NN	*))	-	-	-	-	*	*
+chtb_0119	0	49	;	,	*	-	-	-	-	*	*
+chtb_0119	0	50	must	MD	(VP*	-	-	-	-	*	*
+chtb_0119	0	51	have	VB	(VP*	have	03	1	-	*	*
+chtb_0119	0	52	a	DT	(NP(NP(NP*	-	-	-	-	*	*
+chtb_0119	0	53	ratio	NN	*)	-	-	-	-	*	*
+chtb_0119	0	54	of	IN	(PP*	-	-	-	-	*	*
+chtb_0119	0	55	net	JJ	(NP(NP*	-	-	-	-	*	*
+chtb_0119	0	56	assets	NNS	*)	asset	-	2	-	*	*
+chtb_0119	0	57	to	IN	(PP*	-	-	-	-	*	*
+chtb_0119	0	58	total	JJ	(NP*	-	-	-	-	*	*
+chtb_0119	0	59	assets	NNS	*)))))	asset	-	2	-	*	*
+chtb_0119	0	60	not	RB	(RRC*	-	-	-	-	*	*
+chtb_0119	0	61	lower	JJR	(ADJP(ADJP*)	-	-	-	-	*	*
+chtb_0119	0	62	than	IN	(PP*	-	-	-	-	*	*
+chtb_0119	0	63	15	CD	(NP*	-	-	-	-	*	*
+chtb_0119	0	64	%	NN	*)))))	-	-	-	-	*	*
+chtb_0119	0	65	for	IN	(PP*	-	-	-	-	*	*
+chtb_0119	0	66	juridical	JJ	(NP(NP*	-	-	-	-	*	*
+chtb_0119	0	67	people	NNS	*)	people	-	1	-	*	*
+chtb_0119	0	68	of	IN	(PP*	-	-	-	-	*	*
+chtb_0119	0	69	trade	NN	(NP(NML*	trade	-	1	-	*	*
+chtb_0119	0	70	-	HYPH	*	-	-	-	-	*	*
+chtb_0119	0	71	type	NN	*)	type	-	1	-	*	*
+chtb_0119	0	72	non-financial	JJ	*	-	-	-	-	*	*
+chtb_0119	0	73	corporations	NNS	*))))))	corporation	-	1	-	*	*
+chtb_0119	0	74	,	,	*	-	-	-	-	*	*
+chtb_0119	0	75	must	MD	(VP*	-	-	-	-	*	*
+chtb_0119	0	76	have	VB	(VP*	have	03	1	-	*	*
+chtb_0119	0	77	ratios	NNS	(NP(NP(NP*)	-	-	-	-	*	*
+chtb_0119	0	78	of	IN	(PP*	-	-	-	-	*	*
+chtb_0119	0	79	net	JJ	(NP(NP*	-	-	-	-	*	*
+chtb_0119	0	80	assets	NNS	*)	asset	-	2	-	*	*
+chtb_0119	0	81	to	IN	(PP*	-	-	-	-	*	*
+chtb_0119	0	82	total	JJ	(NP*	-	-	-	-	*	*
+chtb_0119	0	83	assets	NNS	*)))))	asset	-	2	-	*	*
+chtb_0119	0	84	not	RB	(RRC*	-	-	-	-	*	*
+chtb_0119	0	85	lower	JJR	(ADJP(ADJP*)	-	-	-	-	*	*
+chtb_0119	0	86	than	IN	(PP*	-	-	-	-	*	*
+chtb_0119	0	87	30	CD	(NP*	-	-	-	-	*	*
+chtb_0119	0	88	%	NN	*)))))	-	-	-	-	*	*
+chtb_0119	0	89	for	IN	(PP*	-	-	-	-	*	*
+chtb_0119	0	90	juridical	JJ	(NP(NP*	-	-	-	-	*	*
+chtb_0119	0	91	people	NNS	*)	people	-	1	-	*	*
+chtb_0119	0	92	of	IN	(PP*	-	-	-	-	*	*
+chtb_0119	0	93	non	AFX	(NP(NML*	-	-	-	-	*	*
+chtb_0119	0	94	trade	NN	*	trade	-	1	-	*	*
+chtb_0119	0	95	-	HYPH	*	-	-	-	-	*	*
+chtb_0119	0	96	type	NN	*)	type	-	1	-	*	*
+chtb_0119	0	97	non-financial	JJ	(ADJP*)	-	-	-	-	*	*
+chtb_0119	0	98	corporations	NNS	*))))))	corporation	-	1	-	*	*
+chtb_0119	0	99	;	,	*	-	-	-	-	*	*
+chtb_0119	0	100	must	MD	(VP*	-	-	-	-	*	*
+chtb_0119	0	101	have	VB	(VP*	have	03	1	-	*	*
+chtb_0119	0	102	a	DT	(NP(NP(NP*	-	-	-	-	*	*
+chtb_0119	0	103	total	JJ	*	-	-	-	-	*	*
+chtb_0119	0	104	sum	NN	*)	sum	-	1	-	*	*
+chtb_0119	0	105	of	IN	(PP*	-	-	-	-	*	*
+chtb_0119	0	106	international	JJ	(NP(NP(NP*	-	-	-	-	*	*
+chtb_0119	0	107	business	NN	*	business	-	1	-	*	*
+chtb_0119	0	108	loans	NNS	*)	loan	-	1	-	*	*
+chtb_0119	0	109	borrowed	VBN	(VP*))	borrow	01	1	-	*	*
+chtb_0119	0	110	and	CC	*	-	-	-	-	*	*
+chtb_0119	0	111	foreign	JJ	(NP(NML*	-	-	-	-	*	*
+chtb_0119	0	112	guarantee	NN	*)	guarantee	-	3	-	*	*
+chtb_0119	0	113	surpluses	NNS	*))))	-	-	-	-	*	*
+chtb_0119	0	114	not	RB	(RRC*	-	-	-	-	*	*
+chtb_0119	0	115	exceeding	VBG	(VP*	exceed	01	1	-	*	*
+chtb_0119	0	116	50	CD	(NP(NP*	-	-	-	-	*	*
+chtb_0119	0	117	%	NN	*)	-	-	-	-	*	*
+chtb_0119	0	118	of	IN	(PP*	-	-	-	-	*	*
+chtb_0119	0	119	net	JJ	(NP(NP*	-	-	-	-	*	*
+chtb_0119	0	120	asset	NN	*	asset	-	2	-	*	*
+chtb_0119	0	121	's	POS	*)	-	-	-	-	*	*
+chtb_0119	0	122	equivalent	NN	*	-	-	-	-	*	*
+chtb_0119	0	123	foreign	JJ	(NML*	-	-	-	-	*	*
+chtb_0119	0	124	exchange	NN	*)	exchange	01	5	-	*	*
+chtb_0119	0	125	worth	NN	*))))))))	-	-	-	-	*	*
+chtb_0119	0	126	;	,	*	-	-	-	-	*	*
+chtb_0119	0	127	must	MD	(VP*	-	-	-	-	*	*
+chtb_0119	0	128	have	VB	(VP*	have	03	1	-	*	*
+chtb_0119	0	129	total	JJ	(NP(NP(NP*)	-	-	-	-	*	*
+chtb_0119	0	130	of	IN	(PP*	-	-	-	-	*	*
+chtb_0119	0	131	foreign	JJ	(NP(NML(NML(NML*	-	-	-	-	*	*
+chtb_0119	0	132	exchange	NN	*)	exchange	01	5	-	*	*
+chtb_0119	0	133	loan	NN	*)	loan	-	1	-	*	*
+chtb_0119	0	134	and	CC	*	-	-	-	-	*	*
+chtb_0119	0	135	foreign	JJ	(NML(NML*	-	-	-	-	*	*
+chtb_0119	0	136	exchange	NN	*)	exchange	01	5	-	*	*
+chtb_0119	0	137	guarantee	NN	*))	guarantee	-	3	-	*	*
+chtb_0119	0	138	surplus	NN	*)))	-	-	-	-	*	*
+chtb_0119	0	139	not	RB	(RRC*	-	-	-	-	*	*
+chtb_0119	0	140	exceeding	VBG	(VP*	exceed	01	1	-	*	*
+chtb_0119	0	141	the	DT	(NP(NP(NP*	-	-	-	-	*	*
+chtb_0119	0	142	amount	NN	*)	amount	-	3	-	*	*
+chtb_0119	0	143	of	IN	(PP*	-	-	-	-	*	*
+chtb_0119	0	144	exchange	NN	(NP*)))	exchange	01	5	-	*	*
+chtb_0119	0	145	created	VBN	(VP*	create	01	1	-	*	*
+chtb_0119	0	146	in	IN	(PP*	-	-	-	-	*	*
+chtb_0119	0	147	the	DT	(NP*	-	-	-	-	*	*
+chtb_0119	0	148	previous	JJ	*	-	-	-	-	*	*
+chtb_0119	0	149	year	NN	*))))))))))))	-	-	-	-	*	*
+chtb_0119	0	150	.	.	*))	-	-	-	-	*	*
+
+chtb_0119	0	0	-LRB-	-LRB-	(TOP(NP*	-	-	-	-	-
+chtb_0119	0	1	End	NN	*	end	-	4	-	-
+chtb_0119	0	2	-RRB-	-RRB-	*))	-	-	-	-	-
+
+#end document

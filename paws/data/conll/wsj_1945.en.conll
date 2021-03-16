@@ -1,0 +1,59 @@
+#begin document wsj_1945
+1	T.	t.	_	NNP	_	_	_	3	_	Atr	_	_	_	_	_	EnglishA-wsj_1945-s1-t1	(2
+2	Rowe	rowe	_	NNP	_	_	_	3	_	Atr	_	_	_	_	_	EnglishA-wsj_1945-s1-t2	_
+3	Price	price	_	NNP	_	_	_	4	_	Atr	_	_	_	_	_	EnglishA-wsj_1945-s1-t3	_
+4	Associates	Associates	_	NNP	_	_	_	5	_	Atr	_	_	_	_	_	EnglishA-wsj_1945-s1-t4	_
+5	Inc.	inc.	_	NNP	_	_	_	6	_	Sb	_	_	_	_	_	EnglishA-wsj_1945-s1-t5	2)
+6	said	say	_	VBD	_	_	_	0	_	Pred	_	_	_	_	_	EnglishA-wsj_1945-s1-t6	_
+7	directors	director	_	NNS	_	_	_	8	_	Sb	_	_	_	_	_	EnglishA-wsj_1945-s1-t8	(3
+8	recommended	recommend	_	VBD	_	_	_	6	_	Adv	_	_	_	_	_	EnglishA-wsj_1945-s1-t9	_
+9	stockholders	stockholder	_	NNS	_	_	_	10	_	Sb	_	_	_	_	_	EnglishA-wsj_1945-s1-t11	(1)
+10	approve	approve	_	VB	_	_	_	8	_	Adv	_	_	_	_	_	EnglishA-wsj_1945-s1-t12	_
+11	a	a	_	DT	_	_	_	14	_	AuxA	_	_	_	_	_	EnglishA-wsj_1945-s1-t13	_
+12	2-for-1	2-for-1	_	JJ	_	_	_	14	_	Atr	_	_	_	_	_	EnglishA-wsj_1945-s1-t14	_
+13	stock	stock	_	NN	_	_	_	14	_	Atr	_	_	_	_	_	EnglishA-wsj_1945-s1-t15	_
+14	split	split	_	NN	_	_	_	15	_	Obj	_	_	_	_	_	EnglishA-wsj_1945-s1-t16	_
+15	and	and	_	CC	_	_	_	10	_	Coord	_	_	_	_	_	EnglishA-wsj_1945-s1-t17	_
+16	an	an	_	DT	_	_	_	17	_	AuxA	_	_	_	_	_	EnglishA-wsj_1945-s1-t18	_
+17	increase	increase	_	NN	_	_	_	15	_	Obj	_	_	_	_	_	EnglishA-wsj_1945-s1-t19	_
+18	in	in	_	IN	_	_	_	17	_	AuxP	_	_	_	_	_	EnglishA-wsj_1945-s1-t20	_
+19	authorized	authorized	_	JJ	_	_	_	20	_	Atr	_	_	_	_	_	EnglishA-wsj_1945-s1-t21	_
+20	shares	share	_	NNS	_	_	_	18	_	Atr	_	_	_	_	_	EnglishA-wsj_1945-s1-t22	_
+21	to	to	_	TO	_	_	_	17	_	AuxP	_	_	_	_	_	EnglishA-wsj_1945-s1-t23	_
+22	25	25	_	CD	_	_	_	23	_	Atr	_	_	_	_	_	EnglishA-wsj_1945-s1-t24	_
+23	million	million	_	CD	_	_	_	21	_	Atr	_	_	_	_	_	EnglishA-wsj_1945-s1-t25	_
+24	from	from	_	IN	_	_	_	17	_	AuxP	_	_	_	_	_	EnglishA-wsj_1945-s1-t26	_
+25	10	10	_	CD	_	_	_	26	_	Atr	_	_	_	_	_	EnglishA-wsj_1945-s1-t27	_
+26	million	million	_	CD	_	_	_	24	_	Atr	_	_	_	_	_	EnglishA-wsj_1945-s1-t28	3)
+27	.	.	_	.	_	_	_	6	_	AuxG	_	_	_	_	_	EnglishA-wsj_1945-s1-t29	_
+
+28	Stockholders	stockholder	_	NNS	_	_	_	29	_	Sb	_	_	_	_	_	EnglishA-wsj_1945-s2-t1	_
+29	will	will	_	MD	_	_	_	0	_	AuxV	_	_	_	_	_	EnglishA-wsj_1945-s2-t2	_
+30	vote	vote	_	VB	_	_	_	29	_	Pred	_	_	_	_	_	EnglishA-wsj_1945-s2-t3	_
+31	on	on	_	IN	_	_	_	30	_	AuxP	_	_	_	_	_	EnglishA-wsj_1945-s2-t4	_
+32	the	the	_	DT	_	_	_	33	_	AuxA	_	_	_	_	_	EnglishA-wsj_1945-s2-t5	(3
+33	proposal	proposal	_	NN	_	_	_	31	_	Adv	_	_	_	_	_	EnglishA-wsj_1945-s2-t6	3)
+34	at	at	_	IN	_	_	_	30	_	AuxP	_	_	_	_	_	EnglishA-wsj_1945-s2-t7	_
+35	a	a	_	DT	_	_	_	36	_	AuxA	_	_	_	_	_	EnglishA-wsj_1945-s2-t8	_
+36	meeting	meeting	_	NN	_	_	_	34	_	Adv	_	_	_	_	_	EnglishA-wsj_1945-s2-t9	_
+37	Dec.	dec.	_	NNP	_	_	_	30	_	Obj	_	_	_	_	_	EnglishA-wsj_1945-s2-t10	_
+38	13	13	_	CD	_	_	_	37	_	Atr	_	_	_	_	_	EnglishA-wsj_1945-s2-t11	_
+39	.	.	_	.	_	_	_	30	_	AuxG	_	_	_	_	_	EnglishA-wsj_1945-s2-t12	_
+
+40	T.	t.	_	NNP	_	_	_	42	_	Atr	_	_	_	_	_	EnglishA-wsj_1945-s3-t1	(2
+41	Rowe	rowe	_	NNP	_	_	_	42	_	Atr	_	_	_	_	_	EnglishA-wsj_1945-s3-t2	_
+42	Price	price	_	NNP	_	_	_	43	_	Sb	_	_	_	_	_	EnglishA-wsj_1945-s3-t3	2)
+43	is	be	_	VBZ	_	_	_	0	_	Pred	_	_	_	_	_	EnglishA-wsj_1945-s3-t4	_
+44	an	an	_	DT	_	_	_	46	_	AuxA	_	_	_	_	_	EnglishA-wsj_1945-s3-t5	_
+45	investment	investment	_	NN	_	_	_	46	_	Atr	_	_	_	_	_	EnglishA-wsj_1945-s3-t6	_
+46	adviser	adviser	_	NN	_	_	_	43	_	Pnom	_	_	_	_	_	EnglishA-wsj_1945-s3-t7	_
+47	to	to	_	TO	_	_	_	46	_	AuxP	_	_	_	_	_	EnglishA-wsj_1945-s3-t8	_
+48	mutual	mutual	_	JJ	_	_	_	49	_	Atr	_	_	_	_	_	EnglishA-wsj_1945-s3-t9	_
+49	funds	fund	_	NNS	_	_	_	52	_	Atr	_	_	_	_	_	EnglishA-wsj_1945-s3-t10	_
+50	,	,	_	,	_	_	_	52	_	AuxX	_	_	_	_	_	EnglishA-wsj_1945-s3-t11	_
+51	institutions	institution	_	NNS	_	_	_	52	_	Atr	_	_	_	_	_	EnglishA-wsj_1945-s3-t12	_
+52	and	and	_	CC	_	_	_	47	_	Coord	_	_	_	_	_	EnglishA-wsj_1945-s3-t13	_
+53	individuals	individual	_	NNS	_	_	_	52	_	Atr	_	_	_	_	_	EnglishA-wsj_1945-s3-t14	_
+54	.	.	_	.	_	_	_	43	_	AuxG	_	_	_	_	_	EnglishA-wsj_1945-s3-t15	_
+
+#end document wsj_1945

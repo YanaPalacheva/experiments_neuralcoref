@@ -1,0 +1,58 @@
+#begin document (cnn_0279_0); part 000
+cnn_0279	0	0	A	DT	(TOP(S(NP*	-	-	-	-	-
+cnn_0279	0	1	federal	JJ	*	-	-	-	-	-
+cnn_0279	0	2	appeals	NNS	*	appeal	-	3	-	-
+cnn_0279	0	3	court	NN	*)	court	-	2	-	-
+cnn_0279	0	4	will	MD	(VP*	-	-	-	-	-
+cnn_0279	0	5	decide	VB	(VP*	decide	01	1	-	-
+cnn_0279	0	6	how	WRB	(SBAR(SBAR(WHADVP*	-	-	-	-	-
+cnn_0279	0	7	long	RB	*)	-	-	-	-	-
+cnn_0279	0	8	dirty	JJ	(S(NP(NML(NML*	-	-	-	-	(0
+cnn_0279	0	9	bomb	NN	*)	-	-	-	-	-
+cnn_0279	0	10	suspect	NN	*)	-	-	-	-	-
+cnn_0279	0	11	Jose	NNP	*	-	-	-	-	-
+cnn_0279	0	12	Padilla	NNP	*)	-	-	-	-	0)
+cnn_0279	0	13	can	MD	(VP*	-	-	-	-	-
+cnn_0279	0	14	be	VB	(VP*	be	03	-	-	-
+cnn_0279	0	15	retained	VBN	(VP*)))))	retain	01	1	-	-
+cnn_0279	0	16	and	CC	*	-	-	-	-	-
+cnn_0279	0	17	whether	IN	(SBAR*	-	-	-	-	-
+cnn_0279	0	18	he	PRP	(S(NP*)	-	-	-	-	(0)
+cnn_0279	0	19	can	MD	(VP*	-	-	-	-	-
+cnn_0279	0	20	meet	VB	(VP*	meet	03	2	-	-
+cnn_0279	0	21	with	IN	(PP*	-	-	-	-	-
+cnn_0279	0	22	attorneys	NNS	(NP*)))))))))	-	-	-	-	-
+cnn_0279	0	23	.	.	*))	-	-	-	-	-
+
+cnn_0279	0	0	The	DT	(TOP(S(NP*	-	-	-	-	-
+cnn_0279	0	1	U.S.	NNP	*	-	-	-	-	-
+cnn_0279	0	2	attorney	NN	*)	-	-	-	-	-
+cnn_0279	0	3	says	VBZ	(VP*	say	01	1	-	-
+cnn_0279	0	4	Padilla	NNP	(SBAR(S(NP*)	-	-	-	-	(0)
+cnn_0279	0	5	is	VBZ	(VP*	be	01	1	-	-
+cnn_0279	0	6	an	DT	(NP(NP*	-	-	-	-	-
+cnn_0279	0	7	enemy	NN	*	enemy	-	1	-	-
+cnn_0279	0	8	combattant	NN	*)	-	-	-	-	-
+cnn_0279	0	9	and	CC	*	-	-	-	-	-
+cnn_0279	0	10	not	RB	(ADJP*	-	-	-	-	-
+cnn_0279	0	11	entitled	JJ	*	-	-	-	-	-
+cnn_0279	0	12	to	IN	(PP*	-	-	-	-	-
+cnn_0279	0	13	counsel	NN	(NP*))))))))	counsel	-	1	-	-
+cnn_0279	0	14	.	.	*))	-	-	-	-	-
+
+cnn_0279	0	0	He	PRP	(TOP(S(NP*)	-	-	-	-	(0)
+cnn_0279	0	1	is	VBZ	(VP*	be	01	-	-	-
+cnn_0279	0	2	accused	VBN	(VP*	accuse	01	1	-	-
+cnn_0279	0	3	of	IN	(PP*	-	-	-	-	-
+cnn_0279	0	4	attempting	VBG	(S(VP*	attempt	01	1	-	-
+cnn_0279	0	5	to	TO	(S(VP*	-	-	-	-	-
+cnn_0279	0	6	ignite	VB	(VP*	ignite	01	1	-	-
+cnn_0279	0	7	a	DT	(NP*	-	-	-	-	-
+cnn_0279	0	8	dirty	JJ	*	-	-	-	-	-
+cnn_0279	0	9	bomb	NN	*)	-	-	-	-	-
+cnn_0279	0	10	in	IN	(PP*	-	-	-	-	-
+cnn_0279	0	11	this	DT	(NP*	-	-	-	-	-
+cnn_0279	0	12	country	NN	*))))))))))	country	-	3	-	-
+cnn_0279	0	13	.	.	*))	-	-	-	-	-
+
+#end document

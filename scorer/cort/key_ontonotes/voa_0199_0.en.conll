@@ -1,0 +1,51 @@
+#begin document (voa_0199_0); part 000
+voa_0199	0	0	Colombian	JJ	(TOP(S(NP*	-	-	-	-	-
+voa_0199	0	1	authorities	NNS	*)	authority	-	3	-	-
+voa_0199	0	2	say	VBP	(VP*	say	01	1	-	-
+voa_0199	0	3	the	DT	(SBAR(S(NP(NP*	-	-	-	-	-
+voa_0199	0	4	country	NN	*	country	-	3	-	-
+voa_0199	0	5	's	POS	*)	-	-	-	-	-
+voa_0199	0	6	largest	JJS	*	-	-	-	-	-
+voa_0199	0	7	Marxist	JJ	*	-	-	-	-	-
+voa_0199	0	8	rebel	JJ	*	-	-	-	-	-
+voa_0199	0	9	group	NN	*)	group	-	1	-	-
+voa_0199	0	10	has	VBZ	(VP*	have	01	-	-	-
+voa_0199	0	11	shot	VBN	(VP*	shoot	02	1	-	-
+voa_0199	0	12	and	CC	*	-	-	-	-	-
+voa_0199	0	13	killed	VBN	*	kill	01	1	-	-
+voa_0199	0	14	a	DT	(NP(NP*	-	-	-	-	(0|(2
+voa_0199	0	15	leading	VBG	*	lead	02	-	-	-
+voa_0199	0	16	opposition	NN	*	opposition	-	4	-	-
+voa_0199	0	17	congressman	NN	*)	-	-	-	-	2)
+voa_0199	0	18	and	CC	*	-	-	-	-	-
+voa_0199	0	19	five	CD	(NP*	-	-	-	-	(1
+voa_0199	0	20	others	NNS	*))	-	-	-	-	1)|0)
+voa_0199	0	21	in	IN	(PP*	-	-	-	-	-
+voa_0199	0	22	a	DT	(NP(NP*	-	-	-	-	-
+voa_0199	0	23	roadside	NN	*	-	-	-	-	-
+voa_0199	0	24	ambush	NN	*)	-	-	-	-	-
+voa_0199	0	25	in	IN	(PP*	-	-	-	-	-
+voa_0199	0	26	a	DT	(NP(NP*	-	-	-	-	-
+voa_0199	0	27	rebel	NN	(NML*	-	-	-	-	-
+voa_0199	0	28	held	VBN	*)	hold	01	-	-	-
+voa_0199	0	29	area	NN	*)	area	-	1	-	-
+voa_0199	0	30	of	IN	(PP*	-	-	-	-	-
+voa_0199	0	31	southern	JJ	(NP*	-	-	-	-	-
+voa_0199	0	32	Colombia	NNP	*)))))))))))	-	-	-	-	-
+voa_0199	0	33	.	.	*))	-	-	-	-	-
+
+voa_0199	0	0	Police	NNS	(TOP(S(NP*)	-	-	-	-	-
+voa_0199	0	1	say	VBP	(VP*	say	01	1	-	-
+voa_0199	0	2	the	DT	(SBAR(S(NP*	-	-	-	-	-
+voa_0199	0	3	gunmen	NNS	*)	-	-	-	-	-
+voa_0199	0	4	attacked	VBD	(VP*	attack	01	1	-	-
+voa_0199	0	5	lawmaker	NN	(NP(NP*	-	-	-	-	(0|(2
+voa_0199	0	6	Diego	NNP	*	-	-	-	-	-
+voa_0199	0	7	Turbai	NNP	*)	-	-	-	-	2)
+voa_0199	0	8	and	CC	*	-	-	-	-	-
+voa_0199	0	9	his	PRP$	(NP*	-	-	-	-	(1|(2)
+voa_0199	0	10	entourage	NN	*))	-	-	-	-	1)|0)
+voa_0199	0	11	Friday	NNP	(NP*)))))	-	-	-	-	-
+voa_0199	0	12	.	.	*))	-	-	-	-	-
+
+#end document

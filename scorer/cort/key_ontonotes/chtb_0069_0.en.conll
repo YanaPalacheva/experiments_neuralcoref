@@ -1,0 +1,523 @@
+#begin document (chtb_0069_0); part 000
+chtb_0069	0	0	Xinhua	NNP	(TOP(FRAG(NP*	-	-	-	-	-
+chtb_0069	0	1	News	NNP	*	-	-	-	-	-
+chtb_0069	0	2	Agency	NNP	*)	-	-	-	-	-
+chtb_0069	0	3	,	,	*	-	-	-	-	-
+chtb_0069	0	4	Guiyang	NNP	(NP*)	-	-	-	-	-
+chtb_0069	0	5	,	,	*	-	-	-	-	-
+chtb_0069	0	6	December	NNP	(NP*	-	-	-	-	-
+chtb_0069	0	7	22nd	NN	*)	-	-	-	-	-
+chtb_0069	0	8	,	,	*	-	-	-	-	-
+chtb_0069	0	9	by	IN	(PP*	-	-	-	-	-
+chtb_0069	0	10	reporter	NN	(NP*	-	-	-	-	-
+chtb_0069	0	11	Fang	NNP	*	-	-	-	-	-
+chtb_0069	0	12	Fang	NNP	*))))	-	-	-	-	-
+
+chtb_0069	0	0	Guizhou	NNP	(TOP(S(NP(NP(NML*	-	-	-	-	-
+chtb_0069	0	1	Mao	NNP	*	-	-	-	-	(3
+chtb_0069	0	2	-	HYPH	*	-	-	-	-	-
+chtb_0069	0	3	tai	NNP	*)	-	-	-	-	-
+chtb_0069	0	4	Distillery	NNP	*)	-	-	-	-	-
+chtb_0069	0	5	,	,	*	-	-	-	-	-
+chtb_0069	0	6	which	WDT	(SBAR(WHNP*)	-	-	-	-	-
+chtb_0069	0	7	is	VBZ	(S(VP*	be	-	1	-	-
+chtb_0069	0	8	well	RB	(ADJP*	-	-	-	-	-
+chtb_0069	0	9	-	HYPH	*	-	-	-	-	-
+chtb_0069	0	10	known	JJ	*)	-	-	-	-	-
+chtb_0069	0	11	in	IN	(UCP(PP*	-	-	-	-	-
+chtb_0069	0	12	China	NNP	(NP*))	-	-	-	-	(7)
+chtb_0069	0	13	and	CC	*	-	-	-	-	-
+chtb_0069	0	14	abroad	RB	(ADVP*))))))	-	-	-	-	3)
+chtb_0069	0	15	,	,	*	-	-	-	-	-
+chtb_0069	0	16	plans	VBZ	(VP*	plan	01	2	-	-
+chtb_0069	0	17	to	TO	(S(VP*	-	-	-	-	-
+chtb_0069	0	18	implement	VB	(VP*	implement	01	1	-	-
+chtb_0069	0	19	a	DT	(NP(NP*	-	-	-	-	(5
+chtb_0069	0	20	technology	NN	*	technology	-	1	-	-
+chtb_0069	0	21	renovation	NN	*	renovation	-	1	-	-
+chtb_0069	0	22	project	NN	*)	project	-	1	-	-
+chtb_0069	0	23	with	IN	(PP*	-	-	-	-	-
+chtb_0069	0	24	an	DT	(NP(NP*	-	-	-	-	-
+chtb_0069	0	25	investment	NN	*)	investment	01	3	-	-
+chtb_0069	0	26	surpassing	VBG	(VP*	surpass	01	1	-	-
+chtb_0069	0	27	400	CD	(NP(QP*	-	-	-	-	-
+chtb_0069	0	28	million	CD	*)	-	-	-	-	-
+chtb_0069	0	29	RMB	NN	*)))))	-	-	-	-	5)
+chtb_0069	0	30	to	TO	(S(VP*	-	-	-	-	-
+chtb_0069	0	31	further	RB	(ADVP*)	-	-	-	-	-
+chtb_0069	0	32	increase	VB	(VP*	increase	01	1	-	-
+chtb_0069	0	33	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0069	0	34	output	NN	*)	output	-	1	-	-
+chtb_0069	0	35	of	IN	(PP*	-	-	-	-	-
+chtb_0069	0	36	Mao	NNP	(NP*	-	-	-	-	-
+chtb_0069	0	37	-	HYPH	*	-	-	-	-	-
+chtb_0069	0	38	tai	NNP	*)))	-	-	-	-	-
+chtb_0069	0	39	in	IN	(PP*	-	-	-	-	-
+chtb_0069	0	40	the	DT	(NP*	-	-	-	-	-
+chtb_0069	0	41	next	JJ	*	-	-	-	-	-
+chtb_0069	0	42	three	CD	*	-	-	-	-	-
+chtb_0069	0	43	years	NNS	*)))))))))	-	-	-	-	-
+chtb_0069	0	44	.	.	*))	-	-	-	-	-
+
+chtb_0069	0	0	In	IN	(TOP(S(PP*	-	-	-	-	-
+chtb_0069	0	1	order	NN	(NP*	order	-	10	-	-
+chtb_0069	0	2	to	TO	(S(VP*	-	-	-	-	-
+chtb_0069	0	3	solve	VB	(VP*	solve	01	2	-	-
+chtb_0069	0	4	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0069	0	5	enormous	JJ	*	-	-	-	-	-
+chtb_0069	0	6	need	NN	*)	need	01	1	-	-
+chtb_0069	0	7	for	IN	(PP*	-	-	-	-	-
+chtb_0069	0	8	capital	NN	(NP*))))))))	capital	-	1	-	-
+chtb_0069	0	9	,	,	*	-	-	-	-	-
+chtb_0069	0	10	the	DT	(NP*	-	-	-	-	(3
+chtb_0069	0	11	company	NN	*)	company	-	1	-	3)
+chtb_0069	0	12	is	VBZ	(VP*	-	-	-	-	-
+chtb_0069	0	13	now	RB	(ADVP*)	-	-	-	-	-
+chtb_0069	0	14	striving	VBG	(VP*	strive	01	1	-	-
+chtb_0069	0	15	to	TO	(S(VP(VP*	-	-	-	-	-
+chtb_0069	0	16	issue	VB	(VP*	issue	01	1	-	-
+chtb_0069	0	17	stock	NN	(NP*)))	stock	-	1	-	-
+chtb_0069	0	18	and	CC	*	-	-	-	-	-
+chtb_0069	0	19	to	TO	(VP*	-	-	-	-	-
+chtb_0069	0	20	attempt	VB	(VP*	attempt	01	1	-	-
+chtb_0069	0	21	more	JJR	(NP*	-	-	-	-	-
+chtb_0069	0	22	financing	NN	*	-	-	-	-	-
+chtb_0069	0	23	channels	NNS	*)))))))	channel	-	1	-	-
+chtb_0069	0	24	.	.	*))	-	-	-	-	-
+
+chtb_0069	0	0	The	DT	(TOP(S(NP*	-	-	-	-	-
+chtb_0069	0	1	information	NN	*)	information	-	1	-	-
+chtb_0069	0	2	was	VBD	(VP*	-	-	-	-	-
+chtb_0069	0	3	revealed	VBN	(VP*	reveal	01	2	-	-
+chtb_0069	0	4	a	DT	(ADVP(NP*	-	-	-	-	-
+chtb_0069	0	5	few	JJ	*	-	-	-	-	-
+chtb_0069	0	6	days	NNS	*)	day	-	4	-	-
+chtb_0069	0	7	ago	RB	*)	-	-	-	-	-
+chtb_0069	0	8	by	IN	(PP*	-	-	-	-	-
+chtb_0069	0	9	Keliang	NNP	(NP(NP*	-	-	-	-	(2
+chtb_0069	0	10	Ji	NNP	*)	-	-	-	-	-
+chtb_0069	0	11	,	,	*	-	-	-	-	-
+chtb_0069	0	12	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0069	0	13	board	NN	*	board	-	4	-	-
+chtb_0069	0	14	chairman	NN	*)	-	-	-	-	-
+chtb_0069	0	15	of	IN	(PP*	-	-	-	-	-
+chtb_0069	0	16	the	DT	(NP(NP*	-	-	-	-	(3
+chtb_0069	0	17	Guizhou	NNP	(NML*	-	-	-	-	-
+chtb_0069	0	18	Mao	NNP	*	-	-	-	-	-
+chtb_0069	0	19	-	HYPH	*	-	-	-	-	-
+chtb_0069	0	20	tai	NNP	*)	-	-	-	-	-
+chtb_0069	0	21	Distillery	NNP	*	-	-	-	-	-
+chtb_0069	0	22	-LRB-	-LRB-	*	-	-	-	-	-
+chtb_0069	0	23	Group	NNP	*	-	-	-	-	-
+chtb_0069	0	24	-RRB-	-RRB-	*	-	-	-	-	-
+chtb_0069	0	25	Company	NNP	*)	-	-	-	-	-
+chtb_0069	0	26	of	IN	(PP*	-	-	-	-	-
+chtb_0069	0	27	China	NNP	(NP*)))))))))	-	-	-	-	(7)|3)|2)
+chtb_0069	0	28	.	.	*))	-	-	-	-	-
+
+chtb_0069	0	0	Keliang	NNP	(TOP(S(NP*	-	-	-	-	(2
+chtb_0069	0	1	Ji	NNP	*)	-	-	-	-	2)
+chtb_0069	0	2	said	VBD	(VP*	say	01	1	-	-
+chtb_0069	0	3	this	DT	(SBAR(S(NP*	-	-	-	-	(5
+chtb_0069	0	4	expansion	NN	*	expansion	-	3	-	-
+chtb_0069	0	5	project	NN	*)	-	-	-	-	5)
+chtb_0069	0	6	would	MD	(VP*	-	-	-	-	-
+chtb_0069	0	7	increase	VB	(VP*	increase	01	1	-	-
+chtb_0069	0	8	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0069	0	9	annual	JJ	*	-	-	-	-	-
+chtb_0069	0	10	output	NN	*	output	-	1	-	-
+chtb_0069	0	11	capacity	NN	*)	-	-	-	-	-
+chtb_0069	0	12	of	IN	(PP*	-	-	-	-	-
+chtb_0069	0	13	Mao	NNP	(NP*	-	-	-	-	-
+chtb_0069	0	14	-	HYPH	*	-	-	-	-	-
+chtb_0069	0	15	tai	NNP	*)))	-	-	-	-	-
+chtb_0069	0	16	by	IN	(PP*	-	-	-	-	-
+chtb_0069	0	17	2,000	CD	(NP*	-	-	-	-	-
+chtb_0069	0	18	tons	NNS	*))	ton	-	1	-	-
+chtb_0069	0	19	,	,	*	-	-	-	-	-
+chtb_0069	0	20	reaching	VBG	(S(VP*	reach	01	1	-	-
+chtb_0069	0	21	an	DT	(NP(NP*	-	-	-	-	-
+chtb_0069	0	22	output	NN	*)	output	-	1	-	-
+chtb_0069	0	23	of	IN	(PP*	-	-	-	-	-
+chtb_0069	0	24	6,000	CD	(NP(NP*	-	-	-	-	-
+chtb_0069	0	25	tons	NNS	*)	ton	-	1	-	-
+chtb_0069	0	26	per	IN	(PP*	-	-	-	-	-
+chtb_0069	0	27	year	NN	(NP*)))))	-	-	-	-	-
+chtb_0069	0	28	by	IN	(PP*	-	-	-	-	-
+chtb_0069	0	29	2000	CD	(NP*)))))))))	-	-	-	-	-
+chtb_0069	0	30	.	.	*))	-	-	-	-	-
+
+chtb_0069	0	0	Mao	NNP	(TOP(S(NP(NP*	-	-	-	-	-
+chtb_0069	0	1	-	HYPH	*	-	-	-	-	-
+chtb_0069	0	2	tai	NNP	*)	-	-	-	-	-
+chtb_0069	0	3	,	,	*	-	-	-	-	-
+chtb_0069	0	4	which	WDT	(SBAR(WHNP*)	-	-	-	-	-
+chtb_0069	0	5	is	VBZ	(S(VP*	-	-	-	-	-
+chtb_0069	0	6	praised	VBN	(VP*	praise	01	1	-	-
+chtb_0069	0	7	as	IN	(PP*	-	-	-	-	-
+chtb_0069	0	8	China	NNP	(NP(NP*	-	-	-	-	(7
+chtb_0069	0	9	's	POS	*)	-	-	-	-	7)
+chtb_0069	0	10	"	``	*	-	-	-	-	-
+chtb_0069	0	11	national	JJ	*	-	-	-	-	-
+chtb_0069	0	12	alcoholic	JJ	*	-	-	-	-	-
+chtb_0069	0	13	drink	NN	*)))))))	drink	-	1	-	-
+chtb_0069	0	14	"	''	*	-	-	-	-	-
+chtb_0069	0	15	,	,	*	-	-	-	-	-
+chtb_0069	0	16	has	VBZ	(VP(VP*	have	03	1	-	-
+chtb_0069	0	17	a	DT	(NP*	-	-	-	-	-
+chtb_0069	0	18	very	RB	(ADJP*	-	-	-	-	-
+chtb_0069	0	19	long	JJ	*)	-	-	-	-	-
+chtb_0069	0	20	history	NN	*))	history	-	1	-	-
+chtb_0069	0	21	,	,	*	-	-	-	-	-
+chtb_0069	0	22	and	CC	*	-	-	-	-	-
+chtb_0069	0	23	is	VBZ	(VP*	-	-	-	-	-
+chtb_0069	0	24	called	VBN	(VP*	call	01	5	-	-
+chtb_0069	0	25	one	CD	(S(NP(NP*)	-	-	-	-	-
+chtb_0069	0	26	of	IN	(PP*	-	-	-	-	-
+chtb_0069	0	27	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0069	0	28	world	NN	*	world	-	1	-	-
+chtb_0069	0	29	's	POS	*)	-	-	-	-	-
+chtb_0069	0	30	three	CD	*	-	-	-	-	-
+chtb_0069	0	31	famous	JJ	*	-	-	-	-	-
+chtb_0069	0	32	distilled	VBN	*	distill	01	-	-	-
+chtb_0069	0	33	spirits	NNS	*)))	-	-	-	-	-
+chtb_0069	0	34	,	,	*	-	-	-	-	-
+chtb_0069	0	35	the	DT	(S(NP*	-	-	-	-	-
+chtb_0069	0	36	other	JJ	*	-	-	-	-	-
+chtb_0069	0	37	two	CD	*)	-	-	-	-	-
+chtb_0069	0	38	being	VBG	(VP*	-	-	-	-	-
+chtb_0069	0	39	French	JJ	(NP(NP*	-	-	-	-	-
+chtb_0069	0	40	Cognac	NN	*)	-	-	-	-	-
+chtb_0069	0	41	and	CC	*	-	-	-	-	-
+chtb_0069	0	42	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0069	0	43	UK	NNP	*	-	-	-	-	-
+chtb_0069	0	44	's	POS	*)	-	-	-	-	-
+chtb_0069	0	45	Scotch	JJ	*	-	-	-	-	-
+chtb_0069	0	46	whiskey	NN	*))))))))	-	-	-	-	-
+chtb_0069	0	47	.	.	*))	-	-	-	-	-
+
+chtb_0069	0	0	Because	IN	(TOP(S(SBAR*	-	-	-	-	-
+chtb_0069	0	1	the	DT	(S(S(NP(NP*	-	-	-	-	-
+chtb_0069	0	2	art	NN	*)	-	-	-	-	-
+chtb_0069	0	3	of	IN	(PP*	-	-	-	-	-
+chtb_0069	0	4	manufacturing	VBG	(S(VP*	manufacture	01	1	-	-
+chtb_0069	0	5	Mao	NNP	(NP*	-	-	-	-	(1
+chtb_0069	0	6	-	HYPH	*	-	-	-	-	-
+chtb_0069	0	7	tai	NNP	*)))))	-	-	-	-	1)
+chtb_0069	0	8	is	VBZ	(VP*	be	-	1	-	-
+chtb_0069	0	9	complicated	JJ	(ADJP*)))	-	-	-	-	-
+chtb_0069	0	10	and	CC	*	-	-	-	-	-
+chtb_0069	0	11	its	PRP$	(S(NP*	-	-	-	-	(1)
+chtb_0069	0	12	production	NN	*	production	-	6	-	-
+chtb_0069	0	13	cycle	NN	*)	-	-	-	-	-
+chtb_0069	0	14	is	VBZ	(VP*	be	-	1	-	-
+chtb_0069	0	15	long	JJ	(ADJP*)))))	-	-	-	-	-
+chtb_0069	0	16	,	,	*	-	-	-	-	-
+chtb_0069	0	17	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0069	0	18	output	NN	*)	output	-	1	-	-
+chtb_0069	0	19	of	IN	(PP*	-	-	-	-	-
+chtb_0069	0	20	Mao	NNP	(NP*	-	-	-	-	-
+chtb_0069	0	21	-	HYPH	*	-	-	-	-	-
+chtb_0069	0	22	tai	NNP	*)))	-	-	-	-	-
+chtb_0069	0	23	is	VBZ	(VP*	be	-	1	-	-
+chtb_0069	0	24	extremely	RB	(ADJP*	-	-	-	-	-
+chtb_0069	0	25	limited	JJ	*))	-	-	-	-	-
+chtb_0069	0	26	.	.	*))	-	-	-	-	-
+
+chtb_0069	0	0	The	DT	(TOP(S(NP*	-	-	-	-	-
+chtb_0069	0	1	annual	JJ	*	-	-	-	-	-
+chtb_0069	0	2	output	NN	*)	output	-	1	-	-
+chtb_0069	0	3	only	RB	(ADVP*)	-	-	-	-	-
+chtb_0069	0	4	reached	VBD	(VP*	reach	01	1	-	-
+chtb_0069	0	5	1,200	CD	(NP*	-	-	-	-	-
+chtb_0069	0	6	tons	NNS	*)	ton	-	1	-	-
+chtb_0069	0	7	in	IN	(PP*	-	-	-	-	-
+chtb_0069	0	8	1987	CD	(NP*)))	-	-	-	-	-
+chtb_0069	0	9	.	.	*))	-	-	-	-	-
+
+chtb_0069	0	0	In	IN	(TOP(S(PP*	-	-	-	-	-
+chtb_0069	0	1	recent	JJ	(NP*	-	-	-	-	-
+chtb_0069	0	2	years	NNS	*))	-	-	-	-	-
+chtb_0069	0	3	,	,	*	-	-	-	-	-
+chtb_0069	0	4	under	IN	(PP*	-	-	-	-	-
+chtb_0069	0	5	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0069	0	6	support	NN	*)	support	01	7	-	-
+chtb_0069	0	7	of	IN	(PP*	-	-	-	-	-
+chtb_0069	0	8	the	DT	(NP(NP(NP*	-	-	-	-	-
+chtb_0069	0	9	national	JJ	*	-	-	-	-	-
+chtb_0069	0	10	Ministry	NNP	*)	-	-	-	-	-
+chtb_0069	0	11	of	IN	(PP*	-	-	-	-	-
+chtb_0069	0	12	Finance	NNP	(NP*)))	-	-	-	-	-
+chtb_0069	0	13	and	CC	*	-	-	-	-	-
+chtb_0069	0	14	the	DT	(NP*	-	-	-	-	-
+chtb_0069	0	15	Light	NNP	(NML*	-	-	-	-	-
+chtb_0069	0	16	Industry	NNP	*)	-	-	-	-	-
+chtb_0069	0	17	Headquarters	NNP	*)))))	-	-	-	-	-
+chtb_0069	0	18	,	,	*	-	-	-	-	-
+chtb_0069	0	19	the	DT	(NP*	-	-	-	-	(3
+chtb_0069	0	20	Mao	NNP	(NML*	-	-	-	-	-
+chtb_0069	0	21	-	HYPH	*	-	-	-	-	-
+chtb_0069	0	22	tai	NNP	*)	-	-	-	-	-
+chtb_0069	0	23	Distillery	NNP	*)	-	-	-	-	3)
+chtb_0069	0	24	invested	VBD	(VP*	invest	01	1	-	-
+chtb_0069	0	25	530	CD	(NP(QP*	-	-	-	-	-
+chtb_0069	0	26	million	CD	*)	-	-	-	-	-
+chtb_0069	0	27	yuan	NNS	*	yuan	-	1	-	-
+chtb_0069	0	28	RMB	NN	*)	-	-	-	-	-
+chtb_0069	0	29	to	TO	(S(VP*	-	-	-	-	-
+chtb_0069	0	30	successively	RB	(ADVP*)	-	-	-	-	-
+chtb_0069	0	31	implement	VB	(VP*	implement	01	1	-	-
+chtb_0069	0	32	a	DT	(NP*	-	-	-	-	-
+chtb_0069	0	33	two	CD	(NML*	-	-	-	-	-
+chtb_0069	0	34	-	HYPH	*	-	-	-	-	-
+chtb_0069	0	35	phase	NN	*)	phase	-	1	-	-
+chtb_0069	0	36	expansion	NN	*	expansion	-	3	-	-
+chtb_0069	0	37	and	CC	*	-	-	-	-	-
+chtb_0069	0	38	technology	NN	*	technology	-	1	-	-
+chtb_0069	0	39	renovation	NN	*)))))	renovation	01	1	-	-
+chtb_0069	0	40	.	.	*))	-	-	-	-	-
+
+chtb_0069	0	0	Currently	RB	(TOP(S(ADVP*)	-	-	-	-	-
+chtb_0069	0	1	,	,	*	-	-	-	-	-
+chtb_0069	0	2	it	PRP	(NP*)	-	-	-	-	(3)
+chtb_0069	0	3	has	VBZ	(VP*	have	03	1	-	-
+chtb_0069	0	4	an	DT	(NP(NP*	-	-	-	-	-
+chtb_0069	0	5	annual	JJ	*	-	-	-	-	-
+chtb_0069	0	6	production	NN	*	-	-	-	-	-
+chtb_0069	0	7	capacity	NN	*)	-	-	-	-	-
+chtb_0069	0	8	of	IN	(PP*	-	-	-	-	-
+chtb_0069	0	9	4,000	CD	(NP*	-	-	-	-	-
+chtb_0069	0	10	tons	NNS	*))))	ton	-	1	-	-
+chtb_0069	0	11	.	.	*))	-	-	-	-	-
+
+chtb_0069	0	0	In	IN	(TOP(S(PP*	-	-	-	-	-
+chtb_0069	0	1	1997	CD	(NP*))	-	-	-	-	-
+chtb_0069	0	2	,	,	*	-	-	-	-	-
+chtb_0069	0	3	this	DT	(NP*	-	-	-	-	(3
+chtb_0069	0	4	plant	NN	*)	plant	-	1	-	3)
+chtb_0069	0	5	made	VBN	(VP*	make	01	2	-	-
+chtb_0069	0	6	over	IN	(NP(NP(QP*	-	-	-	-	-
+chtb_0069	0	7	4,400	CD	*)	-	-	-	-	-
+chtb_0069	0	8	tons	NNS	*)	ton	-	1	-	-
+chtb_0069	0	9	of	IN	(PP*	-	-	-	-	-
+chtb_0069	0	10	Mao	NNP	(NP*	-	-	-	-	-
+chtb_0069	0	11	-	HYPH	*	-	-	-	-	-
+chtb_0069	0	12	tai	NNP	*)))	-	-	-	-	-
+chtb_0069	0	13	;	,	*	-	-	-	-	-
+chtb_0069	0	14	with	IN	(PP*	-	-	-	-	-
+chtb_0069	0	15	sales	NNS	(S(S(NP*	sale	-	1	-	-
+chtb_0069	0	16	income	NN	*)	-	-	-	-	-
+chtb_0069	0	17	exceeding	VBG	(VP*	exceed	01	1	-	-
+chtb_0069	0	18	500	CD	(NP(QP*	-	-	-	-	-
+chtb_0069	0	19	million	CD	*)	-	-	-	-	-
+chtb_0069	0	20	yuan	NN	*	yuan	-	1	-	-
+chtb_0069	0	21	RMB	NN	*)))	-	-	-	-	-
+chtb_0069	0	22	,	,	*	-	-	-	-	-
+chtb_0069	0	23	and	CC	*	-	-	-	-	-
+chtb_0069	0	24	profit	NN	(S(NP*	profit	-	1	-	-
+chtb_0069	0	25	and	CC	*	-	-	-	-	-
+chtb_0069	0	26	taxes	NNS	*)	tax	-	1	-	-
+chtb_0069	0	27	reaching	VBG	(VP*	reach	01	1	-	-
+chtb_0069	0	28	370	CD	(NP(QP*	-	-	-	-	-
+chtb_0069	0	29	million	CD	*)	-	-	-	-	-
+chtb_0069	0	30	RMB	NN	*)))	-	-	-	-	-
+chtb_0069	0	31	,	,	*))	-	-	-	-	-
+chtb_0069	0	32	both	CC	(S(NP*)	-	-	-	-	-
+chtb_0069	0	33	being	VBG	(VP*	be	-	1	-	-
+chtb_0069	0	34	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0069	0	35	best	JJS	*	-	-	-	-	-
+chtb_0069	0	36	levels	NNS	*)	level	-	6	-	-
+chtb_0069	0	37	in	IN	(PP*	-	-	-	-	-
+chtb_0069	0	38	history	NN	(NP*))))))	history	-	1	-	-
+chtb_0069	0	39	.	.	*))	-	-	-	-	-
+
+chtb_0069	0	0	Mao	NNP	(TOP(S(NP(NP*	-	-	-	-	(0
+chtb_0069	0	1	-	HYPH	*	-	-	-	-	-
+chtb_0069	0	2	tai	NNP	*)	-	-	-	-	-
+chtb_0069	0	3	,	,	*	-	-	-	-	-
+chtb_0069	0	4	which	WDT	(SBAR(WHNP*)	-	-	-	-	-
+chtb_0069	0	5	is	VBZ	(S(VP*	-	-	-	-	-
+chtb_0069	0	6	made	VBN	(VP*	make	01	2	-	-
+chtb_0069	0	7	in	IN	(PP*	-	-	-	-	-
+chtb_0069	0	8	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0069	0	9	Chishui	NNP	*	-	-	-	-	(6
+chtb_0069	0	10	river	NN	*	-	-	-	-	6)
+chtb_0069	0	11	valley	NN	*	-	-	-	-	-
+chtb_0069	0	12	area	NN	*)	-	-	-	-	-
+chtb_0069	0	13	in	IN	(PP*	-	-	-	-	-
+chtb_0069	0	14	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0069	0	15	northern	JJ	*	-	-	-	-	-
+chtb_0069	0	16	part	NN	*)	part	-	1	-	-
+chtb_0069	0	17	of	IN	(PP*	-	-	-	-	-
+chtb_0069	0	18	Guizhou	NNP	(NP(NP*	-	-	-	-	-
+chtb_0069	0	19	Province	NNP	*)	-	-	-	-	-
+chtb_0069	0	20	in	IN	(PP*	-	-	-	-	-
+chtb_0069	0	21	southwest	NN	(NP*	-	-	-	-	-
+chtb_0069	0	22	China	NNP	*)))))))))))))	-	-	-	-	0)
+chtb_0069	0	23	,	,	*	-	-	-	-	-
+chtb_0069	0	24	is	VBZ	(VP*	-	-	-	-	-
+chtb_0069	0	25	known	VBN	(VP*	know	01	-	-	-
+chtb_0069	0	26	for	IN	(PP*	-	-	-	-	-
+chtb_0069	0	27	its	PRP$	(NP*	-	-	-	-	(0)
+chtb_0069	0	28	extremely	RB	(ADJP*	-	-	-	-	-
+chtb_0069	0	29	special	JJ	*)	-	-	-	-	-
+chtb_0069	0	30	fermentation	JJ	*	-	-	-	-	-
+chtb_0069	0	31	technique	NN	*))))	technique	-	3	-	-
+chtb_0069	0	32	.	.	*))	-	-	-	-	-
+
+chtb_0069	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	-
+chtb_0069	0	1	water	NN	*)	water	-	1	-	-
+chtb_0069	0	2	used	VBN	(VP*))	use	01	1	-	-
+chtb_0069	0	3	comes	VBZ	(VP(VP*	come	03	5	-	-
+chtb_0069	0	4	from	IN	(PP*	-	-	-	-	-
+chtb_0069	0	5	the	DT	(NP(NP*	-	-	-	-	(6
+chtb_0069	0	6	Chishui	NNP	*	-	-	-	-	-
+chtb_0069	0	7	river	NN	*)	-	-	-	-	-
+chtb_0069	0	8	that	WDT	(SBAR(WHNP*)	-	-	-	-	-
+chtb_0069	0	9	flows	VBZ	(S(VP*	flow	01	1	-	-
+chtb_0069	0	10	over	IN	(PP*	-	-	-	-	-
+chtb_0069	0	11	cinnabar	NN	(NP*	-	-	-	-	-
+chtb_0069	0	12	quality	NN	*	quality	-	3	-	-
+chtb_0069	0	13	soil	NN	*))))))))	soil	-	1	-	6)
+chtb_0069	0	14	and	CC	*	-	-	-	-	-
+chtb_0069	0	15	selectively	RB	(VP(ADVP*)	-	-	-	-	-
+chtb_0069	0	16	uses	VBZ	*	use	01	3	-	-
+chtb_0069	0	17	such	JJ	(NP(NP*	-	-	-	-	-
+chtb_0069	0	18	locally	RB	(ADJP*	-	-	-	-	-
+chtb_0069	0	19	produced	VBN	*)	produce	01	1	-	-
+chtb_0069	0	20	raw	JJ	*	-	-	-	-	-
+chtb_0069	0	21	materials	NNS	*)	material	-	2	-	-
+chtb_0069	0	22	as	IN	(PP*	-	-	-	-	-
+chtb_0069	0	23	sorghum	NN	(NP(NP*)	-	-	-	-	-
+chtb_0069	0	24	,	,	*	-	-	-	-	-
+chtb_0069	0	25	high	JJ	(NP(ADJP*	-	-	-	-	-
+chtb_0069	0	26	quality	NN	*)	quality	-	1	-	-
+chtb_0069	0	27	wheat	NN	*)	-	-	-	-	-
+chtb_0069	0	28	,	,	*	-	-	-	-	-
+chtb_0069	0	29	etc.	FW	(ADVP*)))))	-	-	-	-	-
+chtb_0069	0	30	and	CC	*	-	-	-	-	-
+chtb_0069	0	31	is	VBZ	(VP*	-	-	-	-	-
+chtb_0069	0	32	fermented	VBN	(VP*	ferment	01	-	-	-
+chtb_0069	0	33	during	IN	(PP*	-	-	-	-	-
+chtb_0069	0	34	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0069	0	35	period	NN	*)	-	-	-	-	-
+chtb_0069	0	36	from	IN	(PP*	-	-	-	-	-
+chtb_0069	0	37	the	DT	(NP*	-	-	-	-	-
+chtb_0069	0	38	Chinese	NNP	*	-	-	-	-	-
+chtb_0069	0	39	Dragon	NNP	(NML*	-	-	-	-	-
+chtb_0069	0	40	Boat	NNP	*)	-	-	-	-	-
+chtb_0069	0	41	Festival	NNP	*))	-	-	-	-	-
+chtb_0069	0	42	to	IN	(PP*	-	-	-	-	-
+chtb_0069	0	43	the	DT	(NP*	-	-	-	-	-
+chtb_0069	0	44	Double	NNP	(NML*	-	-	-	-	-
+chtb_0069	0	45	Ninth	NNP	*)	-	-	-	-	-
+chtb_0069	0	46	Festival	NNP	*)))))))	-	-	-	-	-
+chtb_0069	0	47	.	.	*))	-	-	-	-	-
+
+chtb_0069	0	0	After	IN	(TOP(S(PP*	-	-	-	-	(ARGM-TMP*	(ARGM-TMP*
+chtb_0069	0	1	a	DT	(NP(NP*	-	-	-	-	*	*
+chtb_0069	0	2	total	NN	*)	-	-	-	-	*	*
+chtb_0069	0	3	of	IN	(PP*	-	-	-	-	*	*
+chtb_0069	0	4	10	CD	(NP(NP*	-	-	-	-	*	*
+chtb_0069	0	5	months	NNS	*	month	-	1	-	*	*
+chtb_0069	0	6	fermentation	NN	*)	-	-	-	-	*	*
+chtb_0069	0	7	,	,	*	-	-	-	-	*	*
+chtb_0069	0	8	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	*
+chtb_0069	0	9	requires	VBZ	(S(VP*	require	01	1	-	*	*
+chtb_0069	0	10	adding	VBG	(S(VP(VP*	add	02	1	-	*	*
+chtb_0069	0	11	material	NN	(NP*)	material	-	2	-	*	*
+chtb_0069	0	12	twice	RB	(ADVP*))	-	-	-	-	*	*
+chtb_0069	0	13	,	,	*	-	-	-	-	*	*
+chtb_0069	0	14	distilling	VBG	(VP*	distil	01	1	-	*	*
+chtb_0069	0	15	7	CD	(NP*	-	-	-	-	*	*
+chtb_0069	0	16	times	NNS	*))	time	-	1	-	*	*
+chtb_0069	0	17	,	,	*	-	-	-	-	*	*
+chtb_0069	0	18	fermenting	VBG	(VP*	ferment	01	1	-	*	*
+chtb_0069	0	19	8	CD	(NP*	-	-	-	-	*	*
+chtb_0069	0	20	times	NNS	*))	time	-	1	-	*	*
+chtb_0069	0	21	,	,	*	-	-	-	-	*	*
+chtb_0069	0	22	and	CC	*	-	-	-	-	*	*
+chtb_0069	0	23	braising	VBG	(VP*	braise	01	-	-	*	*
+chtb_0069	0	24	and	CC	*	-	-	-	-	*	*
+chtb_0069	0	25	boiling	VBG	*	boil	01	2	-	*	*
+chtb_0069	0	26	9	CD	(NP*	-	-	-	-	*	*
+chtb_0069	0	27	times	NNS	*)))))))))))	time	-	1	-	*)	*)
+chtb_0069	0	28	,	,	*	-	-	-	-	*	*
+chtb_0069	0	29	the	DT	(NP*	-	-	-	-	(ARG1*	(ARG1*
+chtb_0069	0	30	spirit	NN	*)	-	-	-	-	*)	*)
+chtb_0069	0	31	is	VBZ	(VP*	-	-	-	-	*	*
+chtb_0069	0	32	then	RB	(ADVP*)	-	-	-	-	(ARGM-TMP*)	(ARGM-TMP*)
+chtb_0069	0	33	put	VBN	(VP(VP*	put	01	1	-	*	*
+chtb_0069	0	34	into	IN	(PP*	-	-	-	-	*	*
+chtb_0069	0	35	specially	RB	(NP(ADJP*	-	-	-	-	*	*
+chtb_0069	0	36	made	VBN	*)	make	01	-	-	*	*
+chtb_0069	0	37	earthen	JJ	*	-	-	-	-	*	*
+chtb_0069	0	38	jars	NNS	*)))	-	-	-	-	*	*
+chtb_0069	0	39	,	,	*	-	-	-	-	*	*
+chtb_0069	0	40	sealed	VBN	(VP*)	seal	01	1	-	*	*
+chtb_0069	0	41	and	CC	*	-	-	-	-	*	*
+chtb_0069	0	42	stored	VBN	(VP*	store	01	1	-	(V*)	(V*)
+chtb_0069	0	43	for	IN	(PP*	-	-	-	-	(ARGM-TMP*	(ARGM-TMP*
+chtb_0069	0	44	over	IN	(NP(QP*	-	-	-	-	*	*
+chtb_0069	0	45	three	CD	*)	-	-	-	-	*	*
+chtb_0069	0	46	years	NNS	*)))))	-	-	-	-	*)	*)
+chtb_0069	0	47	.	.	*))	-	-	-	-	*	*
+
+chtb_0069	0	0	Finally	RB	(TOP(S(ADVP*)	-	-	-	-	-
+chtb_0069	0	1	,	,	*	-	-	-	-	-
+chtb_0069	0	2	it	PRP	(NP*)	-	-	-	-	(0)
+chtb_0069	0	3	is	VBZ	(VP*	-	-	-	-	-
+chtb_0069	0	4	finished	VBN	(VP*	finish	01	1	-	-
+chtb_0069	0	5	by	IN	(PP*	-	-	-	-	-
+chtb_0069	0	6	veteran	NN	(S(NP*	-	-	-	-	-
+chtb_0069	0	7	brewers	NNS	*)	-	-	-	-	-
+chtb_0069	0	8	carefully	RB	(ADVP*)	-	-	-	-	-
+chtb_0069	0	9	mixing	VBG	(VP*	mix	01	1	-	-
+chtb_0069	0	10	additives	NNS	(NP*))))))	-	-	-	-	-
+chtb_0069	0	11	.	.	*))	-	-	-	-	-
+
+chtb_0069	0	0	What	WP	(TOP(S(SBAR(WHNP*)	-	-	-	-	-
+chtb_0069	0	1	makes	VBZ	(S(VP*	make	02	3	-	-
+chtb_0069	0	2	Mao	NNP	(S(NP*	-	-	-	-	(4
+chtb_0069	0	3	-	HYPH	*	-	-	-	-	-
+chtb_0069	0	4	tai	NNP	*)	-	-	-	-	4)
+chtb_0069	0	5	even	RB	(ADJP(ADVP*	-	-	-	-	-
+chtb_0069	0	6	more	RBR	*)	-	-	-	-	-
+chtb_0069	0	7	famous	JJ	*)))))	-	-	-	-	-
+chtb_0069	0	8	is	VBZ	(VP*	be	-	2	-	-
+chtb_0069	0	9	that	IN	(SBAR*	-	-	-	-	-
+chtb_0069	0	10	first	JJ	(S(NP(NP*	-	-	-	-	-
+chtb_0069	0	11	generation	NN	*	generation	-	4	-	-
+chtb_0069	0	12	leaders	NNS	*)	leader	-	1	-	-
+chtb_0069	0	13	of	IN	(PP*	-	-	-	-	-
+chtb_0069	0	14	new	JJ	(NP*	-	-	-	-	-
+chtb_0069	0	15	China	NNP	*)))	-	-	-	-	-
+chtb_0069	0	16	had	VBD	(VP*	have	01	-	-	-
+chtb_0069	0	17	used	VBN	(VP*	use	01	1	-	-
+chtb_0069	0	18	it	PRP	(NP*)	-	-	-	-	(4)
+chtb_0069	0	19	to	TO	(S(VP*	-	-	-	-	-
+chtb_0069	0	20	entertain	VB	(VP*	entertain	01	1	-	-
+chtb_0069	0	21	distinguished	JJ	(NP(NP*	-	-	-	-	-
+chtb_0069	0	22	guests	NNS	*)	-	-	-	-	-
+chtb_0069	0	23	such	JJ	(PP*	-	-	-	-	-
+chtb_0069	0	24	as	IN	*	-	-	-	-	-
+chtb_0069	0	25	former	JJ	(NP(NP(NP(NML*	-	-	-	-	-
+chtb_0069	0	26	president	NN	*)	president	-	3	-	-
+chtb_0069	0	27	Nixon	NNP	*)	-	-	-	-	-
+chtb_0069	0	28	of	IN	(PP*	-	-	-	-	-
+chtb_0069	0	29	the	DT	(NP*	-	-	-	-	-
+chtb_0069	0	30	US	NNP	*)))	-	-	-	-	-
+chtb_0069	0	31	,	,	*	-	-	-	-	-
+chtb_0069	0	32	Tanaka	NNP	(NP(NP*	-	-	-	-	-
+chtb_0069	0	33	Kakuei	NNP	*)	-	-	-	-	-
+chtb_0069	0	34	,	,	*	-	-	-	-	-
+chtb_0069	0	35	former	JJ	(NP(NP*	-	-	-	-	-
+chtb_0069	0	36	prime	JJ	*	-	-	-	-	-
+chtb_0069	0	37	minister	NN	*)	minister	-	2	-	-
+chtb_0069	0	38	of	IN	(PP*	-	-	-	-	-
+chtb_0069	0	39	Japan	NNP	(NP*))))	-	-	-	-	-
+chtb_0069	0	40	,	,	*	-	-	-	-	-
+chtb_0069	0	41	etc	FW	(ADVP*))))))))))))	-	-	-	-	-
+chtb_0069	0	42	.	.	*))	-	-	-	-	-
+
+#end document

@@ -1,0 +1,100 @@
+#begin document (cnn_0139_0); part 000
+cnn_0139	0	0	The	DT	(TOP(S(NP*	-	-	-	-	(0
+cnn_0139	0	1	damaged	VBN	*	damage	01	-	-	-
+cnn_0139	0	2	``	``	*	-	-	-	-	-
+cnn_0139	0	3	USS	NNP	*	-	-	-	-	-
+cnn_0139	0	4	Cole	NNP	*	-	-	-	-	-
+cnn_0139	0	5	''	''	*)	-	-	-	-	0)
+cnn_0139	0	6	comes	VBZ	(VP*	come	01	1	-	-
+cnn_0139	0	7	home	RB	(ADVP*)	-	-	-	-	-
+cnn_0139	0	8	today	NN	(NP*))	today	-	2	-	-
+cnn_0139	0	9	.	.	*))	-	-	-	-	-
+
+cnn_0139	0	0	It	PRP	(TOP(S(NP*)	-	-	-	-	(0)
+cnn_0139	0	1	's	VBZ	(VP*	be	-	1	-	-
+cnn_0139	0	2	due	JJ	(ADJP*	-	-	-	-	-
+cnn_0139	0	3	to	TO	(S(VP*	-	-	-	-	-
+cnn_0139	0	4	arrive	VB	(VP*	arrive	01	1	-	-
+cnn_0139	0	5	in	IN	(PP*	-	-	-	-	-
+cnn_0139	0	6	Pascagoula	NNP	(NP(NP*)	-	-	-	-	-
+cnn_0139	0	7	,	,	*	-	-	-	-	-
+cnn_0139	0	8	Mississippi	NNP	(NP*)))	-	-	-	-	-
+cnn_0139	0	9	,	,	*	-	-	-	-	-
+cnn_0139	0	10	this	DT	(NP*	-	-	-	-	-
+cnn_0139	0	11	morning	NN	*))))))	morning	-	1	-	-
+cnn_0139	0	12	.	.	*))	-	-	-	-	-
+
+cnn_0139	0	0	The	DT	(TOP(S(NP*	-	-	-	-	(0
+cnn_0139	0	1	destroyer	NN	*)	-	-	-	-	0)
+cnn_0139	0	2	was	VBD	(VP*	be	03	-	-	-
+cnn_0139	0	3	christened	VBN	(VP*	christen	01	-	-	-
+cnn_0139	0	4	there	RB	(ADVP*)	-	-	-	-	-
+cnn_0139	0	5	five	CD	(ADVP(NP*	-	-	-	-	-
+cnn_0139	0	6	years	NNS	*)	-	-	-	-	-
+cnn_0139	0	7	ago	RB	*)))	-	-	-	-	-
+cnn_0139	0	8	.	.	*))	-	-	-	-	-
+
+cnn_0139	0	0	Repairs	NNS	(TOP(S(NP*)	repair	-	1	-	-
+cnn_0139	0	1	are	VBP	(VP*	be	03	-	-	-
+cnn_0139	0	2	expected	VBN	(VP*	expect	01	1	-	-
+cnn_0139	0	3	to	TO	(S(VP*	-	-	-	-	-
+cnn_0139	0	4	cost	VB	(VP*	cost	01	1	-	-
+cnn_0139	0	5	about	RB	(NP(QP*	-	-	-	-	-
+cnn_0139	0	6	$	$	*	-	-	-	-	-
+cnn_0139	0	7	240	CD	*	-	-	-	-	-
+cnn_0139	0	8	million	CD	*)))))))	-	-	-	-	-
+cnn_0139	0	9	.	.	*))	-	-	-	-	-
+
+cnn_0139	0	0	Yemeni	JJ	(TOP(S(NP(UCP*	-	-	-	-	-
+cnn_0139	0	1	and	CC	*	-	-	-	-	-
+cnn_0139	0	2	U.S.	NNP	*)	-	-	-	-	-
+cnn_0139	0	3	authorities	NNS	*)	authority	-	3	-	-
+cnn_0139	0	4	are	VBP	(VP*	be	03	-	-	-
+cnn_0139	0	5	still	RB	(ADVP*)	-	-	-	-	-
+cnn_0139	0	6	investigating	VBG	(VP*	investigate	01	1	-	-
+cnn_0139	0	7	the	DT	(NP*	-	-	-	-	(2
+cnn_0139	0	8	October	NNP	*	-	-	-	-	-
+cnn_0139	0	9	bombing	NN	*)))	bomb	-	1	-	2)
+cnn_0139	0	10	.	.	*))	-	-	-	-	-
+
+cnn_0139	0	0	17	CD	(TOP(S(NP*	-	-	-	-	-
+cnn_0139	0	1	sailors	NNS	*)	-	-	-	-	-
+cnn_0139	0	2	were	VBD	(VP*	be	03	-	-	-
+cnn_0139	0	3	killed	VBN	(VP*))	kill	01	1	-	-
+cnn_0139	0	4	.	.	*))	-	-	-	-	-
+
+cnn_0139	0	0	Yemen	NNP	(TOP(S(NP(NP*	-	-	-	-	-
+cnn_0139	0	1	's	POS	*)	-	-	-	-	-
+cnn_0139	0	2	Prime	NNP	*	-	-	-	-	-
+cnn_0139	0	3	Minister	NNP	*)	-	-	-	-	-
+cnn_0139	0	4	says	VBZ	(VP*	say	01	1	-	-
+cnn_0139	0	5	at	IN	(SBAR(S(NP(QP(ADVP*	-	-	-	-	(1
+cnn_0139	0	6	least	JJS	*)	-	-	-	-	-
+cnn_0139	0	7	three	CD	*)	-	-	-	-	-
+cnn_0139	0	8	Yemenis	NNPS	*)	-	-	-	-	1)
+cnn_0139	0	9	will	MD	(VP*	-	-	-	-	-
+cnn_0139	0	10	go	VB	(VP*	go	08	1	-	-
+cnn_0139	0	11	on	IN	(PP*	-	-	-	-	-
+cnn_0139	0	12	trial	NN	(NP*))	trial	02	3	-	-
+cnn_0139	0	13	next	JJ	(NP*	-	-	-	-	-
+cnn_0139	0	14	month	NN	*)	month	-	2	-	-
+cnn_0139	0	15	in	IN	(PP*	-	-	-	-	-
+cnn_0139	0	16	connection	NN	(NP(NP*)	connection	01	1	-	-
+cnn_0139	0	17	with	IN	(PP*	-	-	-	-	-
+cnn_0139	0	18	the	DT	(NP*	-	-	-	-	(2
+cnn_0139	0	19	attack	NN	*)))))))))	-	-	-	-	2)
+cnn_0139	0	20	.	.	*))	-	-	-	-	-
+
+cnn_0139	0	0	They	PRP	(TOP(S(NP*)	-	-	-	-	(1)
+cnn_0139	0	1	're	VBP	(VP*	-	-	-	-	-
+cnn_0139	0	2	suspected	VBN	(VP*	suspect	01	1	-	-
+cnn_0139	0	3	of	IN	(PP*	-	-	-	-	-
+cnn_0139	0	4	belonging	VBG	(S(VP*	belong	01	2	-	-
+cnn_0139	0	5	to	IN	(PP*	-	-	-	-	-
+cnn_0139	0	6	an	DT	(NP*	-	-	-	-	-
+cnn_0139	0	7	international	JJ	*	-	-	-	-	-
+cnn_0139	0	8	terrorist	JJ	*	-	-	-	-	-
+cnn_0139	0	9	network	NN	*)))))))	network	-	1	-	-
+cnn_0139	0	10	.	.	*))	-	-	-	-	-
+
+#end document

@@ -1,0 +1,176 @@
+#begin document (cnn_0008_0); part 000
+cnn_0008	0	0	Iraq	NNP	(TOP(NP(NP*)	-	-	-	Announcer	(169)
+cnn_0008	0	1	in	IN	(PP*	-	-	-	Announcer	-
+cnn_0008	0	2	the	DT	(NP*	-	-	-	Announcer	-
+cnn_0008	0	3	shadows	NNS	*))	-	-	-	Announcer	-
+cnn_0008	0	4	/.	.	*))	-	-	-	Announcer	-
+
+cnn_0008	0	0	As	IN	(TOP(SQ(SBAR*	-	-	-	Announcer	-
+cnn_0008	0	1	Iraqis	NNPS	(S(NP*)	-	-	-	Announcer	-
+cnn_0008	0	2	vote	VBP	(VP*	vote	01	1	Announcer	-
+cnn_0008	0	3	on	IN	(PP*	-	-	-	Announcer	-
+cnn_0008	0	4	a	DT	(NP*	-	-	-	Announcer	-
+cnn_0008	0	5	new	JJ	*	-	-	-	Announcer	-
+cnn_0008	0	6	constitution	NN	*)))))	-	-	-	Announcer	-
+cnn_0008	0	7	have	VBP	*	have	01	12	Announcer	-
+cnn_0008	0	8	the	DT	(NP*	-	-	-	Announcer	-
+cnn_0008	0	9	media	NNS	*)	-	-	-	Announcer	-
+cnn_0008	0	10	dropped	VBN	(VP*	drop	01	-	Announcer	-
+cnn_0008	0	11	the	DT	(NP*	-	-	-	Announcer	-
+cnn_0008	0	12	ball	NN	*)	-	-	-	Announcer	-
+cnn_0008	0	13	on	IN	(PP*	-	-	-	Announcer	-
+cnn_0008	0	14	this	DT	(NP*	-	-	-	Announcer	-
+cnn_0008	0	15	long	JJ	(ADJP*	-	-	-	Announcer	-
+cnn_0008	0	16	and	CC	*	-	-	-	Announcer	-
+cnn_0008	0	17	bloody	JJ	*)	-	-	-	Announcer	-
+cnn_0008	0	18	war	NN	*)))	war	01	1	Announcer	-
+cnn_0008	0	19	/?	.	*))	-	-	-	Announcer	-
+
+cnn_0008	0	0	Has	VBZ	(TOP(SQ*	have	01	12	Announcer	-
+cnn_0008	0	1	Iraq	NNP	(NP*)	-	-	-	Announcer	(169)
+cnn_0008	0	2	been	VBN	(VP*	be	03	-	Announcer	-
+cnn_0008	0	3	overshadowed	VBN	(VP*	overshadow	01	1	Announcer	-
+cnn_0008	0	4	by	IN	(PP*	-	-	-	Announcer	-
+cnn_0008	0	5	Katrina	NNP	(NP(NP*)	-	-	-	Announcer	-
+cnn_0008	0	6	and	CC	*	-	-	-	Announcer	-
+cnn_0008	0	7	Tom	NNP	(NP*	-	-	-	Announcer	-
+cnn_0008	0	8	DeLay	NNP	*)	-	-	-	Announcer	-
+cnn_0008	0	9	and	CC	*	-	-	-	Announcer	-
+cnn_0008	0	10	Harriet	NNP	(NP*	-	-	-	Announcer	-
+cnn_0008	0	11	Meyers	NNP	*)	-	-	-	Announcer	-
+cnn_0008	0	12	and	CC	*	-	-	-	Announcer	-
+cnn_0008	0	13	the	DT	(NP*	-	-	-	Announcer	-
+cnn_0008	0	14	Pakistan	NNP	*	-	-	-	Announcer	-
+cnn_0008	0	15	quake	NN	*)))))	-	-	-	Announcer	-
+cnn_0008	0	16	/?	.	*))	-	-	-	Announcer	-
+
+cnn_0008	0	0	A	DT	(TOP(NP(NP*	-	-	-	Announcer	(96
+cnn_0008	0	1	conversation	NN	*)	-	-	-	Announcer	-
+cnn_0008	0	2	with	IN	(PP*	-	-	-	Announcer	-
+cnn_0008	0	3	columnist	NN	(NP*	-	-	-	Announcer	(53
+cnn_0008	0	4	Tom	NNP	*	-	-	-	Announcer	-
+cnn_0008	0	5	Friedman	NNP	*))	-	-	-	Announcer	53)
+cnn_0008	0	6	/.	.	*))	-	-	-	Announcer	96)
+
+cnn_0008	0	0	Was	VBD	(TOP(SQ*	be	01	1	Announcer	-
+cnn_0008	0	1	Sixty	NNP	(NP*	-	-	-	Announcer	-
+cnn_0008	0	2	Minutes	NNPS	*)	-	-	-	Announcer	-
+cnn_0008	0	3	unfair	JJ	(ADJP*	-	-	-	Announcer	-
+cnn_0008	0	4	to	IN	(PP*	-	-	-	Announcer	-
+cnn_0008	0	5	Bill	NNP	(NP*	-	-	-	Announcer	(113
+cnn_0008	0	6	Clinton	NNP	*)))	-	-	-	Announcer	113)
+cnn_0008	0	7	in	IN	(PP*	-	-	-	Announcer	-
+cnn_0008	0	8	airing	VBG	(S(VP*	air	01	2	Announcer	-
+cnn_0008	0	9	Louis	NNP	(NP(NP(NP*	-	-	-	Announcer	-
+cnn_0008	0	10	Freeh	NNP	*	-	-	-	Announcer	-
+cnn_0008	0	11	's	POS	*)	-	-	-	Announcer	-
+cnn_0008	0	12	charges	NNS	*)	charge	03	3	Announcer	-
+cnn_0008	0	13	against	IN	(PP*	-	-	-	Announcer	-
+cnn_0008	0	14	him	PRP	(NP*))))))	-	-	-	Announcer	(113)
+cnn_0008	0	15	/?	.	*))	-	-	-	Announcer	-
+
+cnn_0008	0	0	Former	JJ	(TOP(NP(NP(NML*	-	-	-	Announcer	-
+cnn_0008	0	1	Clinton	NNP	*	-	-	-	Announcer	(113)
+cnn_0008	0	2	lawyer	NN	*)	-	-	-	Announcer	-
+cnn_0008	0	3	Lanny	NNP	*	-	-	-	Announcer	-
+cnn_0008	0	4	Davis	NNP	*)	-	-	-	Announcer	-
+cnn_0008	0	5	in	IN	(PP*	-	-	-	Announcer	-
+cnn_0008	0	6	our	PRP$	(NP*	-	-	-	Announcer	(54)
+cnn_0008	0	7	new	JJ	*	-	-	-	Announcer	-
+cnn_0008	0	8	Talk	VB	(NML(S*	talk	01	1	Announcer	-
+cnn_0008	0	9	Back	RP	(PRT*)	-	-	-	Announcer	-
+cnn_0008	0	10	to	IN	(PP*	-	-	-	Announcer	-
+cnn_0008	0	11	the	DT	(NP*	-	-	-	Announcer	-
+cnn_0008	0	12	Media	NN	*))))	-	-	-	Announcer	-
+cnn_0008	0	13	segment	NN	*))	segment	-	3	Announcer	-
+cnn_0008	0	14	/.	.	*))	-	-	-	Announcer	-
+
+cnn_0008	0	0	Plus	CC	(TOP(FRAG*	-	-	-	Announcer	-
+cnn_0008	0	1	that	DT	(NP*	-	-	-	Announcer	-
+cnn_0008	0	2	bogus	JJ	*	-	-	-	Announcer	-
+cnn_0008	0	3	subway	NN	*	-	-	-	Announcer	-
+cnn_0008	0	4	terror	NN	*	-	-	-	Announcer	-
+cnn_0008	0	5	alert	NN	*)	alert	-	2	Announcer	-
+cnn_0008	0	6	/.	.	*))	-	-	-	Announcer	-
+
+cnn_0008	0	0	Why	WRB	(TOP(SBARQ(WHADVP*)	-	-	-	Announcer	-
+cnn_0008	0	1	did	VBD	(SQ*	do	01	-	Announcer	-
+cnn_0008	0	2	n't	RB	*	-	-	-	Announcer	-
+cnn_0008	0	3	television	NN	(NP*)	television	-	1	Announcer	-
+cnn_0008	0	4	slam	VB	(VP*	slam	02	1	Announcer	-
+cnn_0008	0	5	on	RP	(PRT*)	-	-	-	Announcer	-
+cnn_0008	0	6	the	DT	(NP*	-	-	-	Announcer	-
+cnn_0008	0	7	brakes	NNS	*)))	-	-	-	Announcer	-
+cnn_0008	0	8	/?	.	*))	-	-	-	Announcer	-
+
+cnn_0008	0	0	Welcome	VBP	(TOP(S(VP*	welcome	01	2	Howard_Kurtz	-
+cnn_0008	0	1	to	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	0	2	Reliable	NNP	(NP*	-	-	-	Howard_Kurtz	(54
+cnn_0008	0	3	Sources	NNPS	*)))	-	-	-	Howard_Kurtz	54)
+cnn_0008	0	4	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	0	0	I	PRP	(TOP(S(NP*)	-	-	-	Howard_Kurtz	(142)
+cnn_0008	0	1	'm	VBP	(VP*	be	01	2	Howard_Kurtz	-
+cnn_0008	0	2	Howard	NNP	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	0	3	Kurtz	NNP	*))	-	-	-	Howard_Kurtz	-
+cnn_0008	0	4	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	0	0	You	PRP	(TOP(S(NP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	0	1	're	VBP	(VP*	be	03	-	Howard_Kurtz	-
+cnn_0008	0	2	joining	VBG	(VP*	join	04	4	Howard_Kurtz	-
+cnn_0008	0	3	us	PRP	(NP*)	-	-	-	Howard_Kurtz	(54)
+cnn_0008	0	4	at	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	0	5	our	PRP$	(NP(NP*	-	-	-	Howard_Kurtz	(54)
+cnn_0008	0	6	new	JJ	*	-	-	-	Howard_Kurtz	-
+cnn_0008	0	7	time	NN	*)	time	-	2	Howard_Kurtz	-
+cnn_0008	0	8	ten	CD	(NP(NP(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	0	9	AM	NN	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	0	10	eastern	JJ	(NP*))	-	-	-	Howard_Kurtz	-
+cnn_0008	0	11	seven	CD	(NP(NP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	0	12	pacific	JJ	(NP*)))))	-	-	-	Howard_Kurtz	-
+cnn_0008	0	13	for	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	0	14	a	DT	(NP(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	0	15	full	JJ	*	-	-	-	Howard_Kurtz	-
+cnn_0008	0	16	hour	NN	*)	hour	-	1	Howard_Kurtz	-
+cnn_0008	0	17	of	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	0	18	media	NNS	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	0	19	analysis	NN	*))	analysis	01	1	Howard_Kurtz	-
+cnn_0008	0	20	every	DT	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	0	21	week	NN	*)))))	-	-	-	Howard_Kurtz	-
+cnn_0008	0	22	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	0	0	We	PRP	(TOP(S(NP*)	-	-	-	Howard_Kurtz	(54)
+cnn_0008	0	1	have	VBP	(VP*	have	03	1	Howard_Kurtz	-
+cnn_0008	0	2	some	DT	(NP(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	0	3	new	JJ	*	-	-	-	Howard_Kurtz	-
+cnn_0008	0	4	segments	NNS	*)	segment	-	3	Howard_Kurtz	-
+cnn_0008	0	5	we	PRP	(SBAR(S(NP*)	-	-	-	Howard_Kurtz	(54)
+cnn_0008	0	6	'll	MD	(VP*	-	-	-	Howard_Kurtz	-
+cnn_0008	0	7	be	VB	(VP*	be	03	-	Howard_Kurtz	-
+cnn_0008	0	8	adding	VBG	(VP*	add	02	1	Howard_Kurtz	-
+cnn_0008	0	9	in	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	0	10	the	DT	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	0	11	coming	VBG	*	come	01	-	Howard_Kurtz	-
+cnn_0008	0	12	week	NN	*)))))))))	-	-	-	Howard_Kurtz	-
+cnn_0008	0	13	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	0	0	so	RB	(TOP(S(ADVP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	0	1	stay	VB	(VP*	stay	01	1	Howard_Kurtz	-
+cnn_0008	0	2	tuned	VBN	(ADJP*))	tune	01	-	Howard_Kurtz	-
+cnn_0008	0	3	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	0	0	I	PRP	(TOP(S(NP*)	-	-	-	Howard_Kurtz	(142)
+cnn_0008	0	1	had	VBD	(VP*	have	03	8	Howard_Kurtz	-
+cnn_0008	0	2	a	DT	(NP(NP*	-	-	-	Howard_Kurtz	(96
+cnn_0008	0	3	wide	RB	(ADJP*	-	-	-	Howard_Kurtz	-
+cnn_0008	0	4	ranging	VBG	*)	range	01	-	Howard_Kurtz	-
+cnn_0008	0	5	sitdown	NN	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	0	6	with	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	0	7	Pulitzer	NNP	(NP(NML*	-	-	-	Howard_Kurtz	(53
+cnn_0008	0	8	Prize	NNP	*	-	-	-	Howard_Kurtz	-
+cnn_0008	0	9	winner	NN	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	0	10	Tom	NNP	*	-	-	-	Howard_Kurtz	-
+cnn_0008	0	11	Friedman	NNP	*))))	-	-	-	Howard_Kurtz	96)|53)
+cnn_0008	0	12	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+#end document

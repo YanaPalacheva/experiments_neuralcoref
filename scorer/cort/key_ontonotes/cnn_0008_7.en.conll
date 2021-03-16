@@ -1,0 +1,843 @@
+#begin document (cnn_0008_7); part 000
+cnn_0008	7	0	On	IN	(TOP(S(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	1	that	DT	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	2	point	NN	*))	point	-	4	Howard_Kurtz	-
+cnn_0008	7	3	let	VB	(VP*	let	01	1	Howard_Kurtz	-
+cnn_0008	7	4	me	PRP	(S(NP*)	-	-	-	Howard_Kurtz	(77)
+cnn_0008	7	5	read	VB	(VP*	read	01	4	Howard_Kurtz	-
+cnn_0008	7	6	a	DT	(NP(NP*	-	-	-	Howard_Kurtz	(73
+cnn_0008	7	7	statement	NN	*)	statement	01	1	Howard_Kurtz	-
+cnn_0008	7	8	from	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	9	a	DT	(NP*	-	-	-	Howard_Kurtz	(85
+cnn_0008	7	10	Sixty	NNP	(NML*	-	-	-	Howard_Kurtz	(21
+cnn_0008	7	11	Minutes	NNP	*)	-	-	-	Howard_Kurtz	21)
+cnn_0008	7	12	spokesman	NN	*))))))	-	-	-	Howard_Kurtz	85)|73)
+cnn_0008	7	13	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	7	0	And	CC	(TOP(S*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	1	this	DT	(NP*)	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	2	involves	VBZ	(VP*	involve	01	2	Howard_Kurtz	*	*
+cnn_0008	7	3	uh	UH	(INTJ*)	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	4	their	PRP$	(S(NP*)	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	5	saying	VBG	(VP*	say	01	-	Howard_Kurtz	*	*
+cnn_0008	7	6	that	IN	(SBAR*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	7	they	PRP	(S(S(NP*)	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	8	contacted	VBD	(VP*	contact	01	1	Howard_Kurtz	*	*
+cnn_0008	7	9	Clinton	NNP	(NP(NP*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	10	's	POS	*)	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	11	office	NN	*)	office	-	5	Howard_Kurtz	*	*
+cnn_0008	7	12	back	RB	(ADVP*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	13	in	IN	(PP*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	14	August	NNP	(NP*)))	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	15	with	IN	(PP*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	16	a	DT	(NP(NP*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	17	detailed	VBN	*	detail	01	-	Howard_Kurtz	*	*
+cnn_0008	7	18	list	NN	*)	list	-	1	Howard_Kurtz	*	*
+cnn_0008	7	19	of	IN	(PP*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	20	charges	NNS	(NP*))))))	charge	03	3	Howard_Kurtz	*	*
+cnn_0008	7	21	and	CC	*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	22	then	RB	(S(ADVP*)	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	23	quote	UH	(INTJ*)	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	24	in	IN	(PP*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	25	subsequent	JJ	(NP*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	26	phone	NN	*	phone	-	1	Howard_Kurtz	*	*
+cnn_0008	7	27	calls	NNS	*))	call	-	4	Howard_Kurtz	*	*
+cnn_0008	7	28	the	DT	(NP(NP*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	29	President	NNP	*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	30	's	POS	*)	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	31	people	NNS	*)	people	-	4	Howard_Kurtz	*	*
+cnn_0008	7	32	said	VBD	(VP*	say	01	1	Howard_Kurtz	*	*
+cnn_0008	7	33	he	PRP	(SBAR(S(NP*)	-	-	-	Howard_Kurtz	(ARG1*)	(ARG1*)
+cnn_0008	7	34	did	VBD	(VP*	do	01	-	Howard_Kurtz	*	*
+cnn_0008	7	35	not	RB	*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	36	want	VB	(VP*	want	01	1	Howard_Kurtz	*	*
+cnn_0008	7	37	to	TO	(S(VP*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	38	be	VB	(VP*	be	03	-	Howard_Kurtz	*	*
+cnn_0008	7	39	interviewed	VBN	(VP*)))))))))))))))	interview	01	1	Howard_Kurtz	(V*)	(V*)
+cnn_0008	7	40	/.	.	*))	-	-	-	Howard_Kurtz	*	*
+
+cnn_0008	7	0	They	PRP	(TOP(S(NP*)	-	-	-	Howard_Kurtz	(11)	(11)
+cnn_0008	7	1	gave	VBD	(VP*	give	-	2	Howard_Kurtz	-	-
+cnn_0008	7	2	no	DT	(NP(NP*	-	-	-	Howard_Kurtz	-	-
+cnn_0008	7	3	+substantive	JJ	*	-	-	-	Howard_Kurtz	-	-
+cnn_0008	7	4	response	NN	*)	response	01	3	Howard_Kurtz	-	-
+cnn_0008	7	5	to	IN	(PP*	-	-	-	Howard_Kurtz	-	-
+cnn_0008	7	6	any	DT	(NP(NP*)	-	-	-	Howard_Kurtz	-	-
+cnn_0008	7	7	of	IN	(PP*	-	-	-	Howard_Kurtz	-	-
+cnn_0008	7	8	the	DT	(NP*	-	-	-	Howard_Kurtz	(193	(193
+cnn_0008	7	9	allegations	NNS	*)))))	allegation	01	1	Howard_Kurtz	193)	193)
+cnn_0008	7	10	until	IN	(SBAR*	-	-	-	Howard_Kurtz	-	-
+cnn_0008	7	11	Lanny	NNP	(S(NP*	-	-	-	Howard_Kurtz	(130	(130
+cnn_0008	7	12	Davis	NNP	*)	-	-	-	Howard_Kurtz	130)	130)
+cnn_0008	7	13	launched	VBD	(VP(VP*	launch	01	2	Howard_Kurtz	-	-
+cnn_0008	7	14	his	PRP$	(NP*	-	-	-	Howard_Kurtz	(130)	(130)
+cnn_0008	7	15	PR	NN	*	-	-	-	Howard_Kurtz	-	-
+cnn_0008	7	16	campaign	NN	*)	campaign	-	2	Howard_Kurtz	-	-
+cnn_0008	7	17	on	IN	(PP*	-	-	-	Howard_Kurtz	-	-
+cnn_0008	7	18	the	DT	(NP(NP*	-	-	-	Howard_Kurtz	-	-
+cnn_0008	7	19	Thursday	NNP	*)	-	-	-	Howard_Kurtz	-	-
+cnn_0008	7	20	before	IN	(PP*	-	-	-	Howard_Kurtz	-	-
+cnn_0008	7	21	the	DT	(NP*	-	-	-	Howard_Kurtz	-	-
+cnn_0008	7	22	broadcast	NN	*)))))	broadcast	01	2	Howard_Kurtz	-	-
+cnn_0008	7	23	and	CC	*	-	-	-	Howard_Kurtz	-	-
+cnn_0008	7	24	offered	VBD	(VP*	offer	01	4	Howard_Kurtz	-	-
+cnn_0008	7	25	himself	PRP	(NP*)	-	-	-	Howard_Kurtz	(130)	(130)
+cnn_0008	7	26	as	IN	(PP*	-	-	-	Howard_Kurtz	-	-
+cnn_0008	7	27	the	DT	(NP(NP(NP*	-	-	-	Howard_Kurtz	-	-
+cnn_0008	7	28	person	NN	*)	person	-	1	Howard_Kurtz	-	-
+cnn_0008	7	29	from	IN	(PP*	-	-	-	Howard_Kurtz	-	-
+cnn_0008	7	30	the	DT	(NP*	-	-	-	Howard_Kurtz	(11	(11
+cnn_0008	7	31	camp	NN	*)))	camp	-	6	Howard_Kurtz	11)	11)
+cnn_0008	7	32	who	WP	(SBAR(WHNP*)	-	-	-	Howard_Kurtz	-	-
+cnn_0008	7	33	would	MD	(S(VP*	-	-	-	Howard_Kurtz	-	-
+cnn_0008	7	34	merely	RB	(ADVP*)	-	-	-	Howard_Kurtz	-	-
+cnn_0008	7	35	disparage	VB	(VP(VP*	disparage	01	-	Howard_Kurtz	-	-
+cnn_0008	7	36	and	CC	*	-	-	-	Howard_Kurtz	-	-
+cnn_0008	7	37	attack	VB	*	attack	01	2	Howard_Kurtz	-	-
+cnn_0008	7	38	Freeh	NNP	(NP*))	-	-	-	Howard_Kurtz	(134)	(134)
+cnn_0008	7	39	rather	RB	(CONJP*	-	-	-	Howard_Kurtz	-	-
+cnn_0008	7	40	than	IN	*)	-	-	-	Howard_Kurtz	-	-
+cnn_0008	7	41	deal	VB	(VP*	deal	01	1	Howard_Kurtz	-	-
+cnn_0008	7	42	with	IN	(PP*	-	-	-	Howard_Kurtz	-	-
+cnn_0008	7	43	his	PRP$	(NP*	-	-	-	Howard_Kurtz	(193|(134)	(193|(134)
+cnn_0008	7	44	allegations	NNS	*))))))))))))))	allegation	01	1	Howard_Kurtz	193)	193)
+cnn_0008	7	45	/.	.	*))	-	-	-	Howard_Kurtz	-	-
+
+cnn_0008	7	0	Denials	NNS	(TOP(S(NP(NP(NP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	7	1	from	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	2	President	NNP	(NP(NP*	-	-	-	Howard_Kurtz	(12
+cnn_0008	7	3	Clinton	NNP	*)	-	-	-	Howard_Kurtz	12)
+cnn_0008	7	4	and	CC	*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	5	Sandy	NNP	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	6	Berger	NNP	*))))	-	-	-	Howard_Kurtz	-
+cnn_0008	7	7	that	WDT	(SBAR(WHNP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	7	8	did	VBD	(S(VP*	do	01	-	Howard_Kurtz	-
+cnn_0008	7	9	deal	VB	(VP*	deal	01	3	Howard_Kurtz	-
+cnn_0008	7	10	with	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	11	Freeh	NNP	(NP(NP*	-	-	-	Howard_Kurtz	(134|(193
+cnn_0008	7	12	's	POS	*)	-	-	-	Howard_Kurtz	134)
+cnn_0008	7	13	allegations	NNS	*)))))))	allegation	01	1	Howard_Kurtz	193)
+cnn_0008	7	14	were	VBD	(VP*	be	03	-	Howard_Kurtz	-
+cnn_0008	7	15	included	VBN	(VP*	include	01	1	Howard_Kurtz	-
+cnn_0008	7	16	in	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	17	the	DT	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	18	Sixty	NNP	(NML*	-	-	-	Howard_Kurtz	(21
+cnn_0008	7	19	Minutes	NNP	*)	-	-	-	Howard_Kurtz	21)
+cnn_0008	7	20	report	NN	*))))	report	01	2	Howard_Kurtz	-
+cnn_0008	7	21	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	7	0	Well	UH	(TOP(S(INTJ*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	1	first	RB	(ADVP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	2	of	IN	(PP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	3	all	DT	(NP*)))	-	-	-	Lanny_Davis	-
+cnn_0008	7	4	it	PRP	(NP(NP*))	-	-	-	Lanny_Davis	-
+cnn_0008	7	5	's	VBZ	(VP*	be	01	1	Lanny_Davis	-
+cnn_0008	7	6	false	JJ	(ADJP*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	7	to	TO	(S(VP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	8	say	VB	(VP*	say	01	1	Lanny_Davis	-
+cnn_0008	7	9	that	IN	(SBAR*	-	-	-	Lanny_Davis	-
+cnn_0008	7	10	I	PRP	(S(NP*)	-	-	-	Lanny_Davis	(130)
+cnn_0008	7	11	was	VBD	(VP*	be	03	-	Lanny_Davis	-
+cnn_0008	7	12	asking	VBG	(VP*	ask	02	1	Lanny_Davis	-
+cnn_0008	7	13	to	TO	(S(VP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	14	disparage	VB	(VP*	disparage	01	-	Lanny_Davis	-
+cnn_0008	7	15	Freeh	NNP	(NP*))))))))))))	-	-	-	Lanny_Davis	(134)
+cnn_0008	7	16	/.	.	*))	-	-	-	Lanny_Davis	-
+
+cnn_0008	7	0	I	PRP	(TOP(S(NP*)	-	-	-	Lanny_Davis	(130)
+cnn_0008	7	1	was	VBD	(VP*	be	03	-	Lanny_Davis	-
+cnn_0008	7	2	asking	VBG	(VP*	ask	02	2	Lanny_Davis	-
+cnn_0008	7	3	to	TO	(S(VP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	4	talk	VB	(VP*	talk	01	1	Lanny_Davis	-
+cnn_0008	7	5	about	IN	(PP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	6	facts	NNS	(NP(NP(NP*)	fact	-	1	Lanny_Davis	-
+cnn_0008	7	7	that	WDT	(SBAR(WHNP*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	8	Freeh	NNP	(S(NP*)	-	-	-	Lanny_Davis	(134)
+cnn_0008	7	9	was	VBD	(VP*	be	03	-	Lanny_Davis	-
+cnn_0008	7	10	saying	VBG	(VP*)))))	say	01	1	Lanny_Davis	-
+cnn_0008	7	11	that	DT	(SBAR(WHNP*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	12	were	VBD	(S(VP*	be	01	1	Lanny_Davis	-
+cnn_0008	7	13	not	RB	*	-	-	-	Lanny_Davis	-
+cnn_0008	7	14	true	JJ	(ADJP*)))))))))))	-	-	-	Lanny_Davis	-
+cnn_0008	7	15	/.	.	*))	-	-	-	Lanny_Davis	-
+
+cnn_0008	7	0	You	PRP	(TOP(S(NP*)	-	-	-	Howard_Kurtz	(130)
+cnn_0008	7	1	do	VBP	(VP*	do	01	-	Howard_Kurtz	-
+cnn_0008	7	2	n't	RB	*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	3	mind	VB	(VP*	mind	01	1	Howard_Kurtz	-
+cnn_0008	7	4	disparaging	VBG	(S(VP*	disparage	01	-	Howard_Kurtz	-
+cnn_0008	7	5	Freeh	NNP	(NP*)))))	-	-	-	Howard_Kurtz	(134)
+cnn_0008	7	6	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	7	0	my	PRP$	(TOP(NP*	-	-	-	Howard_Kurtz	(77)
+cnn_0008	7	1	observation	NN	*	observation	-	3	Howard_Kurtz	-
+cnn_0008	7	2	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	7	0	no	UH	(TOP(S(INTJ*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	1	in	IN	(PP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	2	fact	NN	(NP*))	fact	-	5	Lanny_Davis	-
+cnn_0008	7	3	I	PRP	(NP*)	-	-	-	Lanny_Davis	(130)
+cnn_0008	7	4	disparage	VBP	(VP*	disparage	01	-	Lanny_Davis	-
+cnn_0008	7	5	any	DT	(NP(NP*	-	-	-	Lanny_Davis	(211
+cnn_0008	7	6	man	NN	*)	man	-	3	Lanny_Davis	-
+cnn_0008	7	7	who	WP	(SBAR(WHNP*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	8	as	IN	(S(PP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	9	FBI	NNP	(NP*	-	-	-	Lanny_Davis	(82)
+cnn_0008	7	10	director	NN	*))	director	-	1	Lanny_Davis	-
+cnn_0008	7	11	has	VBZ	(VP*	have	03	2	Lanny_Davis	-
+cnn_0008	7	12	a	DT	(NP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	13	personal	JJ	*	-	-	-	Lanny_Davis	-
+cnn_0008	7	14	pique	NN	*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	15	rather	RB	(PP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	16	than	IN	*	-	-	-	Lanny_Davis	-
+cnn_0008	7	17	doing	VBG	(S(VP*	do	02	1	Lanny_Davis	-
+cnn_0008	7	18	his	PRP$	(NP*	-	-	-	Lanny_Davis	(211)
+cnn_0008	7	19	job	NN	*)))))))))	job	-	2	Lanny_Davis	211)
+cnn_0008	7	20	/.	.	*))	-	-	-	Lanny_Davis	-
+
+cnn_0008	7	0	That	DT	(TOP(S(NP*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	1	's	VBZ	(VP*	be	01	1	Lanny_Davis	-
+cnn_0008	7	2	disparaging	JJ	(ADJP*))	-	-	-	Lanny_Davis	-
+cnn_0008	7	3	/.	.	*))	-	-	-	Lanny_Davis	-
+
+cnn_0008	7	0	Secondly	RB	(TOP(S(ADVP*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	1	it	PRP	(NP(NP*))	-	-	-	Lanny_Davis	-
+cnn_0008	7	2	is	VBZ	(VP*	be	01	1	Lanny_Davis	-
+cnn_0008	7	3	absolutely	RB	(ADVP*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	4	a	DT	(NP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	5	misrepresentation	NN	*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	6	that	IN	(SBAR*	-	-	-	Lanny_Davis	-
+cnn_0008	7	7	they	PRP	(S(NP*)	-	-	-	Lanny_Davis	(21)
+cnn_0008	7	8	told	VBD	(VP*	tell	02	1	Lanny_Davis	-
+cnn_0008	7	9	us	PRP	(NP*)	-	-	-	Lanny_Davis	(11)
+cnn_0008	7	10	before	IN	(PP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	11	just	RB	(NP(NP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	12	the	DT	*	-	-	-	Lanny_Davis	-
+cnn_0008	7	13	week	NN	*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	14	before	RB	(ADVP*)))))))	-	-	-	Lanny_Davis	-
+cnn_0008	7	15	/.	.	*))	-	-	-	Lanny_Davis	-
+
+cnn_0008	7	0	When	WRB	(TOP(S(SBAR(WHADVP*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	1	Mister	NNP	(S(NP(NP*	-	-	-	Lanny_Davis	(99
+cnn_0008	7	2	Carson	NNP	*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	3	the	DT	(NP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	4	representative	NN	*))	representative	-	1	Lanny_Davis	99)
+cnn_0008	7	5	spoke	VBD	(VP*	speak	01	1	Lanny_Davis	-
+cnn_0008	7	6	to	IN	(PP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	7	Mister	NNP	(NP*	-	-	-	Lanny_Davis	(86
+cnn_0008	7	8	Wallace	NNP	*)))))	-	-	-	Lanny_Davis	86)
+cnn_0008	7	9	Mister	NNP	(NP*	-	-	-	Lanny_Davis	(86
+cnn_0008	7	10	Wallace	NNP	*)	-	-	-	Lanny_Davis	86)
+cnn_0008	7	11	agreed	VBD	(VP*	agree	01	1	Lanny_Davis	-
+cnn_0008	7	12	that	IN	(SBAR*	-	-	-	Lanny_Davis	-
+cnn_0008	7	13	they	PRP	(S(NP*)	-	-	-	Lanny_Davis	(21)
+cnn_0008	7	14	had	VBD	(VP*	have	01	-	Lanny_Davis	-
+cnn_0008	7	15	never	RB	(ADVP*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	16	verified	VBN	(VP*	verify	01	1	Lanny_Davis	-
+cnn_0008	7	17	what	WP	(SBAR(WHNP*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	18	Mister	NNP	(S(NP*	-	-	-	Lanny_Davis	(134
+cnn_0008	7	19	uh	UH	(INTJ*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	20	Freeh	NNP	*)	-	-	-	Lanny_Davis	134)
+cnn_0008	7	21	had	VBD	(VP*	have	01	-	Lanny_Davis	-
+cnn_0008	7	22	said	VBD	(VP*)))))))))	say	01	1	Lanny_Davis	-
+cnn_0008	7	23	/.	.	*))	-	-	-	Lanny_Davis	-
+
+cnn_0008	7	0	They	PRP	(TOP(S(NP*)	-	-	-	Lanny_Davis	(21)
+cnn_0008	7	1	never	RB	(ADVP*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	2	talked	VBD	(VP*	talk	01	1	Lanny_Davis	-
+cnn_0008	7	3	to	IN	(PP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	4	Mister	NNP	(NP*	-	-	-	Lanny_Davis	(134
+cnn_0008	7	5	Freeh	NNP	*)))	-	-	-	Lanny_Davis	134)
+cnn_0008	7	6	/.	.	*))	-	-	-	Lanny_Davis	-
+
+cnn_0008	7	0	and	CC	(TOP(S*	-	-	-	Lanny_Davis	-
+cnn_0008	7	1	in	IN	(PP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	2	fact	NN	(NP*))	fact	-	5	Lanny_Davis	-
+cnn_0008	7	3	it	PRP	(NP*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	4	was	VBD	(VP*	be	01	1	Lanny_Davis	-
+cnn_0008	7	5	n't	RB	*	-	-	-	Lanny_Davis	-
+cnn_0008	7	6	until	IN	(PP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	7	that	DT	(NP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	8	Friday	NNP	*))	-	-	-	Lanny_Davis	-
+cnn_0008	7	9	that	WDT	(SBAR(WHADVP*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	10	we	PRP	(S(NP*)	-	-	-	Lanny_Davis	(11)
+cnn_0008	7	11	learned	VBD	(VP*	learn	01	2	Lanny_Davis	-
+cnn_0008	7	12	the	DT	(NP(NP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	13	substance	NN	*)	substance	-	2	Lanny_Davis	-
+cnn_0008	7	14	of	IN	(PP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	15	Mister	NNP	(NP(NP*	-	-	-	Lanny_Davis	(134|(193
+cnn_0008	7	16	Freeh	NNP	*	-	-	-	Lanny_Davis	-
+cnn_0008	7	17	's	POS	*)	-	-	-	Lanny_Davis	134)
+cnn_0008	7	18	charges	NNS	*)))))))	charge	03	3	Lanny_Davis	193)
+cnn_0008	7	19	/.	.	*))	-	-	-	Lanny_Davis	-
+
+cnn_0008	7	0	So	RB	(TOP(S(ADVP*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	1	Sixty	NNP	(NP*	-	-	-	Lanny_Davis	(21
+cnn_0008	7	2	Minutes	NNP	*)	-	-	-	Lanny_Davis	21)
+cnn_0008	7	3	I	PRP	(PRN(S(NP*)	-	-	-	Lanny_Davis	(130)
+cnn_0008	7	4	think	VBP	(VP*)))	think	01	1	Lanny_Davis	-
+cnn_0008	7	5	has	VBZ	(VP*	have	01	-	Lanny_Davis	-
+cnn_0008	7	6	just	RB	(ADVP*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	7	said	VBN	(VP*	say	01	1	Lanny_Davis	-
+cnn_0008	7	8	something	NN	(NP(NP*)	something	-	4	Lanny_Davis	-
+cnn_0008	7	9	that	WDT	(SBAR(WHNP*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	10	is	VBZ	(S(VP*	be	01	1	Lanny_Davis	-
+cnn_0008	7	11	false	JJ	(ADJP*)))))))	-	-	-	Lanny_Davis	-
+cnn_0008	7	12	/.	.	*))	-	-	-	Lanny_Davis	-
+
+cnn_0008	7	0	When	WRB	(TOP(SBARQ(WHADVP*)	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	1	did	VBD	(SQ*	do	01	-	Howard_Kurtz	*	*
+cnn_0008	7	2	the	DT	(NP*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	3	Clinton	NNP	*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	4	team	NN	*)	team	-	1	Howard_Kurtz	*	*
+cnn_0008	7	5	find	VB	(VP*	find	03	1	Howard_Kurtz	*	*
+cnn_0008	7	6	out	RP	(PRT*)	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	7	that	IN	(SBAR*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	8	Sixty	NNP	(S(NP*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	9	Minutes	NNP	*)	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	10	was	VBD	(VP*	be	03	-	Howard_Kurtz	*	*
+cnn_0008	7	11	going	VBG	(VP*	go	04	7	Howard_Kurtz	*	*
+cnn_0008	7	12	to	TO	(S(VP*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	13	report	VB	(VP*	report	01	1	Howard_Kurtz	*	*
+cnn_0008	7	14	that	IN	(SBAR*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	15	Louis	NNP	(S(NP(NP*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	16	Freeh	NNP	*)	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	17	with	IN	(PP*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	18	his	PRP$	(NP*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	19	new	JJ	*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	20	book	NN	*)))	book	-	1	Howard_Kurtz	*	*
+cnn_0008	7	21	was	VBD	(VP*	be	03	-	Howard_Kurtz	*	*
+cnn_0008	7	22	going	VBG	(VP*	go	04	7	Howard_Kurtz	*	*
+cnn_0008	7	23	to	TO	(S(VP*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	24	have	VB	(VP*	have	03	4	Howard_Kurtz	*	*
+cnn_0008	7	25	a	DT	(NP(NP*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	26	specific	JJ	*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	27	allegation	NN	*)	allegation	01	2	Howard_Kurtz	*	*
+cnn_0008	7	28	about	IN	(PP*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	29	Clinton	NNP	(NP(NP(NP(NP*	-	-	-	Howard_Kurtz	(ARG0*	(ARG0*
+cnn_0008	7	30	's	POS	*)	-	-	-	Howard_Kurtz	*)	*)
+cnn_0008	7	31	handling	NN	*)	handling	01	3	Howard_Kurtz	(V*)	(V*)
+cnn_0008	7	32	of	IN	(PP*	-	-	-	Howard_Kurtz	(ARG1*	(ARG1*
+cnn_0008	7	33	the	DT	(NP*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	34	Khobar	NNP	(NML*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	35	Towers	NNPS	*)	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	36	investigation	NN	*)))	investigation	-	1	Howard_Kurtz	*)	*)
+cnn_0008	7	37	and	CC	*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	38	the	DT	(NP(NP*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	39	business	NN	*)	business	-	4	Howard_Kurtz	*	*
+cnn_0008	7	40	about	IN	(PP*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	41	the	DT	(NP*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	42	presidential	JJ	(NML*	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	43	library	NN	*)	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	44	solicitation	NN	*))))))))))))))))))))))	-	-	-	Howard_Kurtz	*	*
+cnn_0008	7	45	/.	.	*))	-	-	-	Howard_Kurtz	*	*
+
+cnn_0008	7	0	When	WRB	(TOP(SINV(SBAR(WHADVP*)	-	-	-	Lanny_Davis	*	*
+cnn_0008	7	1	somebody	NN	(S(NP(NP*)	-	-	-	Lanny_Davis	*	*
+cnn_0008	7	2	named	VBN	(VP*	name	01	-	Lanny_Davis	*	*
+cnn_0008	7	3	Howard	NNP	(S(NP*	-	-	-	Lanny_Davis	*	*
+cnn_0008	7	4	Kurtz	NNP	*))))	-	-	-	Lanny_Davis	*	*
+cnn_0008	7	5	wrote	VBD	(VP*	write	01	1	Lanny_Davis	*	*
+cnn_0008	7	6	a	DT	(NP(NP*	-	-	-	Lanny_Davis	*	*
+cnn_0008	7	7	story	NN	*)	story	-	1	Lanny_Davis	*	*
+cnn_0008	7	8	in	IN	(PP*	-	-	-	Lanny_Davis	*	*
+cnn_0008	7	9	the	DT	(NP*	-	-	-	Lanny_Davis	*	*
+cnn_0008	7	10	Washington	NNP	*	-	-	-	Lanny_Davis	*	*
+cnn_0008	7	11	Post	NNP	*))	-	-	-	Lanny_Davis	*	*
+cnn_0008	7	12	on	IN	(PP*	-	-	-	Lanny_Davis	*	*
+cnn_0008	7	13	Friday	NNP	(NP*	-	-	-	Lanny_Davis	*	*
+cnn_0008	7	14	morning	NN	*))))))	morning	-	1	Lanny_Davis	*	*
+cnn_0008	7	15	is	VBZ	(VP*)	be	01	1	Lanny_Davis	*	*
+cnn_0008	7	16	the	DT	(NP(NP*	-	-	-	Lanny_Davis	*	*
+cnn_0008	7	17	first	JJ	*	-	-	-	Lanny_Davis	*	*
+cnn_0008	7	18	time	NN	*)	time	-	1	Lanny_Davis	*	*
+cnn_0008	7	19	that	WDT	(SBAR(WHADVP*)	-	-	-	Lanny_Davis	*	*
+cnn_0008	7	20	the	DT	(S(NP*	-	-	-	Lanny_Davis	*	*
+cnn_0008	7	21	Clinton	NNP	*	-	-	-	Lanny_Davis	*	*
+cnn_0008	7	22	forces	NNS	*)	force	-	7	Lanny_Davis	*	*
+cnn_0008	7	23	learned	VBD	(VP*	learn	01	2	Lanny_Davis	*	*
+cnn_0008	7	24	about	IN	(PP*	-	-	-	Lanny_Davis	*	*
+cnn_0008	7	25	that	DT	(NP(NP*	-	-	-	Lanny_Davis	*	*
+cnn_0008	7	26	false	JJ	(ADJP(ADJP*)	-	-	-	Lanny_Davis	*	*
+cnn_0008	7	27	and	CC	*	-	-	-	Lanny_Davis	*	*
+cnn_0008	7	28	demonstrably	RB	(ADJP*	-	-	-	Lanny_Davis	*	*
+cnn_0008	7	29	false	JJ	*))	-	-	-	Lanny_Davis	*	*
+cnn_0008	7	30	charge	NN	*)	charge	03	3	Lanny_Davis	*	*
+cnn_0008	7	31	that	WDT	(SBAR(WHNP*)	-	-	-	Lanny_Davis	*	*
+cnn_0008	7	32	good	JJ	(X(NP(NP*	-	-	-	Lanny_Davis	*	*
+cnn_0008	7	33	reporting	NN	*)	-	-	-	Lanny_Davis	*	*
+cnn_0008	7	34	by	IN	(PP*	-	-	-	Lanny_Davis	*	*
+cnn_0008	7	35	calling	VBG	(S(VP*	call	02	4	Lanny_Davis	*	*
+cnn_0008	7	36	people	NNS	(NP(NP*)	people	-	1	Lanny_Davis	*	*
+cnn_0008	7	37	who	WP	(SBAR(WHNP*)	-	-	-	Lanny_Davis	*	*
+cnn_0008	7	38	were	VBD	(S(VP*	be	01	4	Lanny_Davis	*	*
+cnn_0008	7	39	at	IN	(PP*	-	-	-	Lanny_Davis	*	*
+cnn_0008	7	40	the	DT	(NP*	-	-	-	Lanny_Davis	*	*
+cnn_0008	7	41	meeting	NN	*))))))))))	meeting	-	1	Lanny_Davis	*	*
+cnn_0008	7	42	could	MD	(VP*	-	-	-	Lanny_Davis	*	*
+cnn_0008	7	43	have	VB	(VP*	have	01	-	Lanny_Davis	*	*
+cnn_0008	7	44	done	VBN	(VP*)))	do	02	1	Lanny_Davis	*	*
+cnn_0008	7	45	would	MD	(VP*	-	-	-	Lanny_Davis	*	*
+cnn_0008	7	46	have	VB	(VP*	have	01	-	Lanny_Davis	(V*)	(V*)
+cnn_0008	7	47	verified	VBN	(VP*	verify	01	1	Lanny_Davis	*	*
+cnn_0008	7	48	that	IN	(SBAR*	-	-	-	Lanny_Davis	*	*
+cnn_0008	7	49	Mister	NNP	(S(NP*	-	-	-	Lanny_Davis	*	*
+cnn_0008	7	50	Freeh	NNP	*)	-	-	-	Lanny_Davis	*	*
+cnn_0008	7	51	made	VBD	(VP*	make	-	1	Lanny_Davis	*	*
+cnn_0008	7	52	a	DT	(NP*	-	-	-	Lanny_Davis	*	*
+cnn_0008	7	53	false	JJ	*	-	-	-	Lanny_Davis	*	*
+cnn_0008	7	54	charge	NN	*)))))))))))))))	charge	03	3	Lanny_Davis	*	*
+cnn_0008	7	55	/.	.	*))	-	-	-	Lanny_Davis	*	*
+
+cnn_0008	7	0	And	CC	(TOP(S*	-	-	-	Lanny_Davis	-
+cnn_0008	7	1	even	RB	(PP(ADVP*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	2	since	IN	*	-	-	-	Lanny_Davis	-
+cnn_0008	7	3	that	DT	(NP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	4	interview	NN	*))	interview	01	1	Lanny_Davis	-
+cnn_0008	7	5	Mister	NNP	(NP*	-	-	-	Lanny_Davis	(134
+cnn_0008	7	6	Freeh	NNP	*)	-	-	-	Lanny_Davis	134)
+cnn_0008	7	7	has	VBZ	(VP(VP*	have	01	-	Lanny_Davis	-
+cnn_0008	7	8	backed	VBN	(VP*	back	11	6	Lanny_Davis	-
+cnn_0008	7	9	off	RP	(PRT*)))	-	-	-	Lanny_Davis	-
+cnn_0008	7	10	and	CC	*	-	-	-	Lanny_Davis	-
+cnn_0008	7	11	has	VBZ	(VP*	have	01	-	Lanny_Davis	-
+cnn_0008	7	12	not	RB	*	-	-	-	Lanny_Davis	-
+cnn_0008	7	13	told	VBN	(VP*	tell	01	1	Lanny_Davis	-
+cnn_0008	7	14	people	NNS	(NP*)	people	-	1	Lanny_Davis	-
+cnn_0008	7	15	who	WP	(SBAR(WHNP*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	16	his	PRP$	(S(NP*	-	-	-	Lanny_Davis	(171|(134)
+cnn_0008	7	17	source	NN	*)	source	-	3	Lanny_Davis	171)
+cnn_0008	7	18	is	VBZ	(VP*))))))	be	01	1	Lanny_Davis	-
+cnn_0008	7	19	/.	.	*))	-	-	-	Lanny_Davis	-
+
+cnn_0008	7	0	and	CC	(TOP(S*	-	-	-	Lanny_Davis	-
+cnn_0008	7	1	he	PRP	(NP*)	-	-	-	Lanny_Davis	(134)
+cnn_0008	7	2	has	VBZ	(VP*	have	01	-	Lanny_Davis	-
+cnn_0008	7	3	n't	RB	*	-	-	-	Lanny_Davis	-
+cnn_0008	7	4	even	RB	(ADVP*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	5	insisted	VBN	(VP*	insist	01	2	Lanny_Davis	-
+cnn_0008	7	6	that	IN	(SBAR*	-	-	-	Lanny_Davis	-
+cnn_0008	7	7	it	PRP	(S(NP*)	-	-	-	Lanny_Davis	(120)
+cnn_0008	7	8	was	VBD	(VP*	be	01	1	Lanny_Davis	-
+cnn_0008	7	9	true	JJ	(ADJP*))))))	-	-	-	Lanny_Davis	-
+cnn_0008	7	10	/.	.	*))	-	-	-	Lanny_Davis	-
+
+cnn_0008	7	0	He	PRP	(TOP(S(NP*)	-	-	-	Lanny_Davis	(134)
+cnn_0008	7	1	just	RB	(ADVP*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	2	said	VBD	(VP*	say	01	1	Lanny_Davis	-
+cnn_0008	7	3	somebody	NN	(SBAR(S(NP*)	-	-	-	Lanny_Davis	(171)
+cnn_0008	7	4	told	VBD	(VP*	tell	01	1	Lanny_Davis	-
+cnn_0008	7	5	him	PRP	(NP*)	-	-	-	Lanny_Davis	(134)
+cnn_0008	7	6	it	PRP	(SBAR(S(NP*)	-	-	-	Lanny_Davis	(120)
+cnn_0008	7	7	was	VBD	(VP*	be	01	1	Lanny_Davis	-
+cnn_0008	7	8	true	JJ	(ADJP*))))))))	-	-	-	Lanny_Davis	-
+cnn_0008	7	9	/.	.	*))	-	-	-	Lanny_Davis	-
+
+cnn_0008	7	0	Hold	VB	(TOP(S(VP*	hold	05	3	Howard_Kurtz	-
+cnn_0008	7	1	on	RP	(PRT*))	-	-	-	Howard_Kurtz	-
+cnn_0008	7	2	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	7	0	Sixty	NNP	(TOP(S(NP(NML(NML*	-	-	-	Howard_Kurtz	(85
+cnn_0008	7	1	Minutes	NNP	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	7	2	spokesman	NN	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	7	3	Kevin	NNP	*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	4	Tedesco	NNP	*)	-	-	-	Howard_Kurtz	85)
+cnn_0008	7	5	said	VBD	(VP*	say	01	1	Howard_Kurtz	-
+cnn_0008	7	6	in	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	7	the	DT	(NP(NP*	-	-	-	Howard_Kurtz	(73
+cnn_0008	7	8	statement	NN	*)	statement	01	1	Howard_Kurtz	-
+cnn_0008	7	9	I	PRP	(SBAR(S(NP*)	-	-	-	Howard_Kurtz	(77)
+cnn_0008	7	10	just	RB	(ADVP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	7	11	referred	VBD	(VP*	refer	01	2	Howard_Kurtz	-
+cnn_0008	7	12	to	IN	(PP*))))))	-	-	-	Howard_Kurtz	73)
+cnn_0008	7	13	that	IN	(SBAR*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	14	the	DT	(S(NP*	-	-	-	Howard_Kurtz	(11
+cnn_0008	7	15	Clinton	NNP	*	-	-	-	Howard_Kurtz	(12)
+cnn_0008	7	16	office	NN	*)	office	-	5	Howard_Kurtz	11)
+cnn_0008	7	17	was	VBD	(VP*	be	03	-	Howard_Kurtz	-
+cnn_0008	7	18	contacted	VBN	(VP*	contact	01	1	Howard_Kurtz	(70)
+cnn_0008	7	19	in	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	20	August	NNP	(NP*))	-	-	-	Howard_Kurtz	(128)
+cnn_0008	7	21	with	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	22	a	DT	(NP(NP*	-	-	-	Howard_Kurtz	(135
+cnn_0008	7	23	detailed	JJ	*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	24	list	NN	*)	list	-	1	Howard_Kurtz	-
+cnn_0008	7	25	of	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	26	charges	NNS	(NP*)))))))))	charge	03	3	Howard_Kurtz	135)
+cnn_0008	7	27	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	7	0	That	DT	(TOP(S(NP*)	-	-	-	Lanny_Davis	(70)
+cnn_0008	7	1	's	VBZ	(VP*	be	01	1	Lanny_Davis	-
+cnn_0008	7	2	false	JJ	(ADJP*))	-	-	-	Lanny_Davis	-
+cnn_0008	7	3	/.	.	*))	-	-	-	Lanny_Davis	-
+
+cnn_0008	7	0	Are	VBP	(TOP(SQ*	be	03	-	Howard_Kurtz	-
+cnn_0008	7	1	you	PRP	(NP*)	-	-	-	Howard_Kurtz	(130)
+cnn_0008	7	2	saying	VBG	(VP*	say	01	1	Howard_Kurtz	-
+cnn_0008	7	3	that	DT	(SBAR(S(NP*)	-	-	-	Howard_Kurtz	(70)
+cnn_0008	7	4	's	VBZ	(VP*	be	01	1	Howard_Kurtz	-
+cnn_0008	7	5	false	JJ	(ADJP*)))))	-	-	-	Howard_Kurtz	-
+cnn_0008	7	6	/?	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	7	0	They	PRP	(TOP(S(NP*)	-	-	-	Lanny_Davis	(11)
+cnn_0008	7	1	were	VBD	(VP*	be	03	-	Lanny_Davis	-
+cnn_0008	7	2	never	RB	(ADVP*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	3	told	VBN	(VP*	tell	01	1	Lanny_Davis	-
+cnn_0008	7	4	/.	.	*))	-	-	-	Lanny_Davis	-
+cnn_0008	7	5	/.	.	*))	-	-	-	Lanny_Davis	-
+
+cnn_0008	7	0	or	CC	(TOP(S*	-	-	-	Lanny_Davis	-
+cnn_0008	7	1	at	IN	(ADVP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	2	least	JJS	*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	3	I	PRP	(NP*)	-	-	-	Lanny_Davis	(130)
+cnn_0008	7	4	'm	VBP	(VP*	be	03	-	Lanny_Davis	-
+cnn_0008	7	5	now	RB	(ADVP*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	6	basing	VBG	(VP*	base	02	1	Lanny_Davis	-
+cnn_0008	7	7	this	DT	(NP*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	8	on	IN	(PP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	9	what	WP	(SBAR(WHNP*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	10	Mister	NNP	(S(NP*	-	-	-	Lanny_Davis	(99
+cnn_0008	7	11	Carson	NNP	*)	-	-	-	Lanny_Davis	99)
+cnn_0008	7	12	has	VBZ	(VP*	have	01	-	Lanny_Davis	-
+cnn_0008	7	13	told	VBD	(VP*	tell	01	1	Lanny_Davis	-
+cnn_0008	7	14	me	PRP	(NP*))))))))	-	-	-	Lanny_Davis	(130)
+cnn_0008	7	15	/.	.	*))	-	-	-	Lanny_Davis	-
+
+cnn_0008	7	0	Jay	NNP	(TOP(S(NP*	-	-	-	Howard_Kurtz	(99
+cnn_0008	7	1	Carson	NNP	*)	-	-	-	Howard_Kurtz	99)
+cnn_0008	7	2	is	VBZ	(VP*	be	01	2	Howard_Kurtz	-
+cnn_0008	7	3	the	DT	(NP(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	4	spokesman	NN	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	7	5	for	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	6	former	JJ	(NP(NML*	-	-	-	Howard_Kurtz	(12
+cnn_0008	7	7	president	NN	*)	president	-	3	Howard_Kurtz	-
+cnn_0008	7	8	Bill	NNP	*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	9	Clinton	NNP	*))))	-	-	-	Howard_Kurtz	12)
+cnn_0008	7	10	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	7	0	Jay	NNP	(TOP(S(NP*	-	-	-	Lanny_Davis	(99
+cnn_0008	7	1	Carson	NNP	*)	-	-	-	Lanny_Davis	99)
+cnn_0008	7	2	is	VBZ	(VP(VP*	be	01	2	Lanny_Davis	-
+cnn_0008	7	3	the	DT	(NP(NP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	4	spokesperson	NN	*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	5	for	IN	(PP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	6	President	NNP	(NP*	-	-	-	Lanny_Davis	(12
+cnn_0008	7	7	Clinton	NNP	*))))	-	-	-	Lanny_Davis	12)
+cnn_0008	7	8	was	VBD	(VP*	be	03	-	Lanny_Davis	-
+cnn_0008	7	9	not	RB	*	-	-	-	Lanny_Davis	-
+cnn_0008	7	10	informed	VBN	(VP*	inform	01	1	Lanny_Davis	-
+cnn_0008	7	11	about	IN	(PP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	12	the	DT	(NP(NP(NP*	-	-	-	Lanny_Davis	(120
+cnn_0008	7	13	specific	JJ	*	-	-	-	Lanny_Davis	-
+cnn_0008	7	14	charge	NN	*)	charge	03	3	Lanny_Davis	-
+cnn_0008	7	15	about	IN	(PP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	16	the	DT	(NP*	-	-	-	Lanny_Davis	(123
+cnn_0008	7	17	Khobar	NNP	*	-	-	-	Lanny_Davis	-
+cnn_0008	7	18	Towers	NNPS	*)))	-	-	-	Lanny_Davis	123)
+cnn_0008	7	19	which	WDT	(SBAR(WHNP*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	20	happens	VBZ	(S(VP*	happen	02	2	Lanny_Davis	-
+cnn_0008	7	21	to	TO	(S(VP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	22	be	VB	(VP*	be	01	1	Lanny_Davis	-
+cnn_0008	7	23	not	RB	(ADJP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	24	true	JJ	*))))))))))))	-	-	-	Lanny_Davis	120)
+cnn_0008	7	25	/.	.	*))	-	-	-	Lanny_Davis	-
+
+cnn_0008	7	0	President	NNP	(TOP(S(NP*	-	-	-	Lanny_Davis	(12
+cnn_0008	7	1	Clinton	NNP	*)	-	-	-	Lanny_Davis	12)
+cnn_0008	7	2	at	IN	(PP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	3	that	DT	(NP*	-	-	-	Lanny_Davis	(43
+cnn_0008	7	4	uh	UH	*	-	-	-	Lanny_Davis	-
+cnn_0008	7	5	meeting	NN	*))	meeting	-	1	Lanny_Davis	43)
+cnn_0008	7	6	did	VBD	(VP*	do	01	-	Lanny_Davis	-
+cnn_0008	7	7	press	VB	(VP*	press	01	3	Lanny_Davis	-
+cnn_0008	7	8	the	DT	(NP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	9	uh	UH	*	-	-	-	Lanny_Davis	-
+cnn_0008	7	10	Crown	NNP	*	-	-	-	Lanny_Davis	-
+cnn_0008	7	11	Prince	NNP	*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	12	to	TO	(S(VP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	13	cooperate	VB	(VP*	cooperate	01	1	Lanny_Davis	-
+cnn_0008	7	14	with	IN	(PP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	15	the	DT	(NP*	-	-	-	Lanny_Davis	(82
+cnn_0008	7	16	FBI	NNP	*)))))))	-	-	-	Lanny_Davis	82)
+cnn_0008	7	17	/.	.	*))	-	-	-	Lanny_Davis	-
+
+cnn_0008	7	0	so	RB	(TOP(S(ADVP*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	1	what	WP	(SBAR(WHNP*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	2	Mister	NNP	(S(NP*	-	-	-	Lanny_Davis	(134
+cnn_0008	7	3	Freeh	NNP	*)	-	-	-	Lanny_Davis	134)
+cnn_0008	7	4	said	VBD	(VP*)))	say	01	1	Lanny_Davis	-
+cnn_0008	7	5	was	VBD	(VP*	be	01	1	Lanny_Davis	-
+cnn_0008	7	6	false	JJ	(ADJP*))	-	-	-	Lanny_Davis	-
+cnn_0008	7	7	/.	.	*))	-	-	-	Lanny_Davis	-
+
+cnn_0008	7	0	That	DT	(TOP(S(NP*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	1	was	VBD	(VP*	be	03	-	Lanny_Davis	-
+cnn_0008	7	2	not	RB	*	-	-	-	Lanny_Davis	-
+cnn_0008	7	3	understood	VBN	(VP*	understand	01	1	Lanny_Davis	-
+cnn_0008	7	4	by	IN	(PP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	5	the	DT	(NP*	-	-	-	Lanny_Davis	(11
+cnn_0008	7	6	Clinton	NNP	*	-	-	-	Lanny_Davis	(12)
+cnn_0008	7	7	people	NNS	*))	people	-	4	Lanny_Davis	11)
+cnn_0008	7	8	until	IN	(SBAR*	-	-	-	Lanny_Davis	-
+cnn_0008	7	9	it	PRP	(S(NP*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	10	was	VBD	(VP*	be	03	-	Lanny_Davis	-
+cnn_0008	7	11	read	VBN	(VP*	read	01	1	Lanny_Davis	-
+cnn_0008	7	12	in	IN	(PP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	13	the	DT	(NP*	-	-	-	Lanny_Davis	(48
+cnn_0008	7	14	Washington	NNP	*	-	-	-	Lanny_Davis	-
+cnn_0008	7	15	Post	NNP	*))	-	-	-	Lanny_Davis	48)
+cnn_0008	7	16	in	IN	(PP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	17	the	DT	(NP(NP*	-	-	-	Lanny_Davis	(208
+cnn_0008	7	18	story	NN	*)	story	-	1	Lanny_Davis	-
+cnn_0008	7	19	that	WDT	(SBAR(WHNP*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	20	you	PRP	(S(NP*)	-	-	-	Lanny_Davis	(77)
+cnn_0008	7	21	wrote	VBD	(VP*	write	01	1	Lanny_Davis	-
+cnn_0008	7	22	because	IN	(SBAR*	-	-	-	Lanny_Davis	-
+cnn_0008	7	23	Sixty	NNP	(S(NP*	-	-	-	Lanny_Davis	(21
+cnn_0008	7	24	Minutes	NNP	*)	-	-	-	Lanny_Davis	21)
+cnn_0008	7	25	put	VBP	(VP*	put	10	3	Lanny_Davis	-
+cnn_0008	7	26	a	DT	(NP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	27	press	NN	*	press	-	1	Lanny_Davis	-
+cnn_0008	7	28	release	NN	*)	release	-	5	Lanny_Davis	-
+cnn_0008	7	29	out	RP	(PRT*)))))))))))))))	-	-	-	Lanny_Davis	208)
+cnn_0008	7	30	/.	.	*))	-	-	-	Lanny_Davis	-
+
+cnn_0008	7	0	Uh	UH	(TOP(S(INTJ*)	-	-	-	Howard_Kurtz	-
+cnn_0008	7	1	now	UH	(INTJ*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	2	look	VB	*)	look	09	1	Howard_Kurtz	-
+cnn_0008	7	3	Lanny	NNP	(NP*	-	-	-	Howard_Kurtz	(130
+cnn_0008	7	4	Davis	NNP	*)	-	-	-	Howard_Kurtz	130)
+cnn_0008	7	5	Sixty	NNP	(NP*	-	-	-	Howard_Kurtz	(21
+cnn_0008	7	6	Minutes	NNP	*)	-	-	-	Howard_Kurtz	21)
+cnn_0008	7	7	gave	VBD	(VP*	give	01	3	Howard_Kurtz	-
+cnn_0008	7	8	Bill	NNP	(NP*	-	-	-	Howard_Kurtz	(12
+cnn_0008	7	9	Clinton	NNP	*)	-	-	-	Howard_Kurtz	12)
+cnn_0008	7	10	one	CD	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	11	hour	NN	*)	hour	-	1	Howard_Kurtz	-
+cnn_0008	7	12	last	JJ	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	13	year	NN	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	7	14	to	TO	(S(VP*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	15	push	VB	(VP*	push	04	3	Howard_Kurtz	-
+cnn_0008	7	16	his	PRP$	(NP*	-	-	-	Howard_Kurtz	(12)
+cnn_0008	7	17	own	JJ	*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	18	ten	CD	(NML(QP*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	19	million	CD	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	7	20	dollar	NN	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	7	21	autobiography	NN	*)))))	-	-	-	Howard_Kurtz	-
+cnn_0008	7	22	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	7	0	He	PRP	(TOP(S(NP*)	-	-	-	Howard_Kurtz	(12)
+cnn_0008	7	1	criticized	VBD	(VP*	criticize	01	1	Howard_Kurtz	-
+cnn_0008	7	2	people	NNS	(NP*))	people	-	1	Howard_Kurtz	-
+cnn_0008	7	3	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	7	0	He	PRP	(TOP(S(NP*)	-	-	-	Howard_Kurtz	(12)
+cnn_0008	7	1	criticized	VBD	(VP*	criticize	01	1	Howard_Kurtz	-
+cnn_0008	7	2	Ken	NNP	(NP*	-	-	-	Howard_Kurtz	(112
+cnn_0008	7	3	Starr	NNP	*))	-	-	-	Howard_Kurtz	112)
+cnn_0008	7	4	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	7	0	They	PRP	(TOP(S(NP*)	-	-	-	Howard_Kurtz	(21)
+cnn_0008	7	1	did	VBD	(VP*	do	01	-	Howard_Kurtz	-
+cnn_0008	7	2	n't	RB	*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	3	have	VB	(VP*	have	03	6	Howard_Kurtz	-
+cnn_0008	7	4	Ken	NNP	(NP*	-	-	-	Howard_Kurtz	(112
+cnn_0008	7	5	Starr	NNP	*)	-	-	-	Howard_Kurtz	112)
+cnn_0008	7	6	on	RP	(PRT*)	-	-	-	Howard_Kurtz	-
+cnn_0008	7	7	to	TO	(S(VP*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	8	rebut	VB	(VP*)))))	rebut	01	-	Howard_Kurtz	-
+cnn_0008	7	9	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	7	0	Now	RB	(TOP(S(ADVP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	7	1	the	DT	(NP(NP(NP*	-	-	-	Howard_Kurtz	(134
+cnn_0008	7	2	former	JJ	*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	3	director	NN	*)	director	-	1	Howard_Kurtz	-
+cnn_0008	7	4	of	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	5	the	DT	(NP(NP*	-	-	-	Howard_Kurtz	(82
+cnn_0008	7	6	Federal	NNP	*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	7	Bureau	NNP	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	7	8	of	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	9	Investigation	NNP	(NP*)))))	-	-	-	Howard_Kurtz	82)
+cnn_0008	7	10	uh	UH	(INTJ*)	-	-	-	Howard_Kurtz	-
+cnn_0008	7	11	who	WP	(SBAR(WHNP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	7	12	ca	MD	(S(VP*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	13	n't	RB	*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	14	stand	VB	(VP*	stand	03	4	Howard_Kurtz	-
+cnn_0008	7	15	Clinton	NNP	(NP*)	-	-	-	Howard_Kurtz	(12)
+cnn_0008	7	16	clearly	RB	(ADVP*))))))	-	-	-	Howard_Kurtz	134)
+cnn_0008	7	17	writes	VBZ	(VP(VP*	write	01	1	Howard_Kurtz	-
+cnn_0008	7	18	a	DT	(NP*	-	-	-	Howard_Kurtz	(96
+cnn_0008	7	19	book	NN	*))	book	-	1	Howard_Kurtz	96)
+cnn_0008	7	20	gets	VBZ	(VP*	get	01	1	Howard_Kurtz	-
+cnn_0008	7	21	one	CD	(NP(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	22	segment	NN	*)	segment	-	3	Howard_Kurtz	-
+cnn_0008	7	23	for	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	24	his	PRP$	(NP*	-	-	-	Howard_Kurtz	(96|(134)
+cnn_0008	7	25	book	NN	*)))))	book	-	1	Howard_Kurtz	96)
+cnn_0008	7	26	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	7	0	and	CC	(TOP(S*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	1	you	PRP	(NP*)	-	-	-	Howard_Kurtz	(11)
+cnn_0008	7	2	cry	VBP	(VP*	cry	01	2	Howard_Kurtz	-
+cnn_0008	7	3	foul	NN	(NP*))	-	-	-	Howard_Kurtz	-
+cnn_0008	7	4	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	7	0	Nobody	NN	(TOP(S(NP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	7	1	was	VBD	(VP*	be	03	-	Howard_Kurtz	-
+cnn_0008	7	2	complaining	VBG	(VP*	complain	01	1	Howard_Kurtz	-
+cnn_0008	7	3	about	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	4	when	WRB	(SBAR(WHADVP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	7	5	Bill	NNP	(S(NP*	-	-	-	Howard_Kurtz	(12
+cnn_0008	7	6	Clinton	NNP	*)	-	-	-	Howard_Kurtz	12)
+cnn_0008	7	7	was	VBD	(VP*	be	03	-	Howard_Kurtz	-
+cnn_0008	7	8	getting	VBG	(VP*	get	01	1	Howard_Kurtz	-
+cnn_0008	7	9	all	PDT	(NP(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	10	this	DT	*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	11	airtime	NN	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	7	12	on	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	13	CBS	NNS	(NP*))))))))))	-	-	-	Howard_Kurtz	-
+cnn_0008	7	14	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	7	0	Look	VB	(TOP(INTJ*	look	09	1	Lanny_Davis	-
+cnn_0008	7	1	/.	.	*))	-	-	-	Lanny_Davis	-
+
+cnn_0008	7	0	Look	VB	(TOP(S(INTJ*)	look	09	1	Lanny_Davis	-
+cnn_0008	7	1	this	DT	(NP*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	2	is	VBZ	(VP*	be	01	1	Lanny_Davis	-
+cnn_0008	7	3	a	DT	(NP(NP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	4	program	NN	*)	program	-	2	Lanny_Davis	-
+cnn_0008	7	5	about	IN	(PP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	6	good	JJ	(NP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	7	journalism	NN	*))))	-	-	-	Lanny_Davis	-
+cnn_0008	7	8	/.	.	*))	-	-	-	Lanny_Davis	-
+
+cnn_0008	7	0	Let	VB	(TOP(S(VP*	let	01	1	Lanny_Davis	-	-
+cnn_0008	7	1	's	PRP	(S(NP*)	-	-	-	Lanny_Davis	-	-
+cnn_0008	7	2	ask	VB	(VP*	ask	02	2	Lanny_Davis	-	-
+cnn_0008	7	3	a	DT	(NP*	-	-	-	Lanny_Davis	-	-
+cnn_0008	7	4	Sixty	NNP	(NML*	-	-	-	Lanny_Davis	(21	(21
+cnn_0008	7	5	Minutes	NNP	*)	-	-	-	Lanny_Davis	21)	21)
+cnn_0008	7	6	uh	UH	*	-	-	-	Lanny_Davis	-	-
+cnn_0008	7	7	journalist	NN	*)	-	-	-	Lanny_Davis	-	-
+cnn_0008	7	8	to	TO	(S(VP*	-	-	-	Lanny_Davis	-	-
+cnn_0008	7	9	say	VB	(VP*	say	01	1	Lanny_Davis	-	-
+cnn_0008	7	10	do	VBP	(SQ*	do	01	-	Lanny_Davis	-	-
+cnn_0008	7	11	you	PRP	(NP*)	-	-	-	Lanny_Davis	-	-
+cnn_0008	7	12	have	VBP	(VP*	have	03	2	Lanny_Davis	-	-
+cnn_0008	7	13	an	DT	(NP*	-	-	-	Lanny_Davis	-	-
+cnn_0008	7	14	obligation	NN	*	obligation	01	2	Lanny_Davis	-	-
+cnn_0008	7	15	to	TO	(S(VP*	-	-	-	Lanny_Davis	-	-
+cnn_0008	7	16	verify	VB	(VP*	verify	01	1	Lanny_Davis	-	-
+cnn_0008	7	17	a	DT	(NP(NP*	-	-	-	Lanny_Davis	(120	(120
+cnn_0008	7	18	charge	NN	*)	charge	03	3	Lanny_Davis	-	-
+cnn_0008	7	19	made	VBN	(VP*	make	-	2	Lanny_Davis	-	-
+cnn_0008	7	20	by	IN	(PP*	-	-	-	Lanny_Davis	-	-
+cnn_0008	7	21	the	DT	(NP*	-	-	-	Lanny_Davis	(134	(134
+cnn_0008	7	22	former	JJ	*	-	-	-	Lanny_Davis	-	-
+cnn_0008	7	23	FBI	NNP	*	-	-	-	Lanny_Davis	(82)	(82)
+cnn_0008	7	24	director	NN	*))))	director	-	1	Lanny_Davis	134)|120)	134)|120)
+cnn_0008	7	25	as	IN	(PP*	-	-	-	Lanny_Davis	-	-
+cnn_0008	7	26	whether	IN	(SBAR*	-	-	-	Lanny_Davis	-	-
+cnn_0008	7	27	it	PRP	(S(NP*)	-	-	-	Lanny_Davis	(120)	(120)
+cnn_0008	7	28	's	VBZ	(VP*	be	01	1	Lanny_Davis	-	-
+cnn_0008	7	29	true	JJ	(ADJP*)))	-	-	-	Lanny_Davis	-	-
+cnn_0008	7	30	or	CC	*	-	-	-	Lanny_Davis	-	-
+cnn_0008	7	31	not	RB	*))))))))))))))	-	-	-	Lanny_Davis	-	-
+cnn_0008	7	32	/.	.	*))	-	-	-	Lanny_Davis	-	-
+
+cnn_0008	7	0	Is	VBZ	(TOP(SQ*	be	01	1	Lanny_Davis	-
+cnn_0008	7	1	it	PRP	(NP(NP*))	-	-	-	Lanny_Davis	-
+cnn_0008	7	2	good	JJ	(ADJP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	3	enough	RB	*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	4	to	TO	(S(VP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	5	air	VB	(VP*	air	01	3	Lanny_Davis	-
+cnn_0008	7	6	it	PRP	(NP*)	-	-	-	Lanny_Davis	(120)
+cnn_0008	7	7	just	RB	(SBAR(ADVP*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	8	because	IN	*	-	-	-	Lanny_Davis	-
+cnn_0008	7	9	he	PRP	(S(NP*)	-	-	-	Lanny_Davis	(134)
+cnn_0008	7	10	says	VBZ	(VP*	say	01	1	Lanny_Davis	-
+cnn_0008	7	11	it	PRP	(NP*)))))))	-	-	-	Lanny_Davis	(120)
+cnn_0008	7	12	/.	.	*))	-	-	-	Lanny_Davis	-
+
+cnn_0008	7	0	or	CC	(TOP(SQ*	-	-	-	Lanny_Davis	-
+cnn_0008	7	1	should	MD	*	-	-	-	Lanny_Davis	-
+cnn_0008	7	2	you	PRP	(NP*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	3	do	VB	(VP*	do	02	1	Lanny_Davis	-
+cnn_0008	7	4	reporting	NN	(NP*))	-	-	-	Lanny_Davis	-
+cnn_0008	7	5	/?	.	*))	-	-	-	Lanny_Davis	-
+
+cnn_0008	7	0	Good	JJ	(TOP(S(NP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	1	reporters	NNS	*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	2	would	MD	(VP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	3	hear	VB	(VP(VP*	hear	01	1	Lanny_Davis	-
+cnn_0008	7	4	that	DT	(NP*	-	-	-	Lanny_Davis	(120
+cnn_0008	7	5	charge	NN	*))	charge	03	3	Lanny_Davis	120)
+cnn_0008	7	6	and	CC	*	-	-	-	Lanny_Davis	-
+cnn_0008	7	7	say	VB	(VP*	say	01	1	Lanny_Davis	-
+cnn_0008	7	8	that	DT	(S(NP*)	-	-	-	Lanny_Davis	(120)
+cnn_0008	7	9	is	VBZ	(VP*	be	01	1	Lanny_Davis	-
+cnn_0008	7	10	an	DT	(NP(NP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	11	extremely	RB	(ADJP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	12	serious	JJ	*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	13	charge	NN	*)	charge	03	3	Lanny_Davis	-
+cnn_0008	7	14	to	TO	(SBAR(S(VP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	15	be	VB	(VP*	be	03	-	Lanny_Davis	-
+cnn_0008	7	16	levelled	VBN	(VP*	level	03	1	Lanny_Davis	-
+cnn_0008	7	17	against	IN	(PP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	18	former	JJ	(NP(NML*	-	-	-	Lanny_Davis	(12
+cnn_0008	7	19	president	NN	*)	president	-	3	Lanny_Davis	-
+cnn_0008	7	20	Clinton	NNP	*)))))))))))))	-	-	-	Lanny_Davis	12)
+cnn_0008	7	21	/.	.	*))	-	-	-	Lanny_Davis	-
+
+cnn_0008	7	0	Let	VB	(TOP(S(VP*	let	01	1	Lanny_Davis	-
+cnn_0008	7	1	's	PRP	(S(NP*)	-	-	-	Lanny_Davis	-
+cnn_0008	7	2	see	VB	(VP(VP*	see	01	4	Lanny_Davis	-
+cnn_0008	7	3	whether	IN	(SBAR*	-	-	-	Lanny_Davis	-
+cnn_0008	7	4	it	PRP	(S(NP*)	-	-	-	Lanny_Davis	(120)
+cnn_0008	7	5	's	VBZ	(VP*	be	01	1	Lanny_Davis	-
+cnn_0008	7	6	true	JJ	(ADJP*)))))	-	-	-	Lanny_Davis	-
+cnn_0008	7	7	and	CC	*	-	-	-	Lanny_Davis	-
+cnn_0008	7	8	start	VB	(VP*	start	01	2	Lanny_Davis	-
+cnn_0008	7	9	making	VBG	(S(VP*	make	-	1	Lanny_Davis	-
+cnn_0008	7	10	phone	NN	(NP*	phone	-	1	Lanny_Davis	-
+cnn_0008	7	11	calls	NNS	*)))))))	call	-	4	Lanny_Davis	-
+cnn_0008	7	12	/.	.	*))	-	-	-	Lanny_Davis	-
+
+cnn_0008	7	0	They	PRP	(TOP(S(NP*)	-	-	-	Lanny_Davis	(21)
+cnn_0008	7	1	did	VBD	(VP*	do	01	-	Lanny_Davis	-
+cnn_0008	7	2	not	RB	*	-	-	-	Lanny_Davis	-
+cnn_0008	7	3	do	VB	(VP*	do	02	1	Lanny_Davis	(175)
+cnn_0008	7	4	that	DT	(NP*)))	-	-	-	Lanny_Davis	-
+cnn_0008	7	5	/.	.	*))	-	-	-	Lanny_Davis	-
+
+cnn_0008	7	0	That	DT	(TOP(S(NP*)	-	-	-	Lanny_Davis	(175)
+cnn_0008	7	1	's	VBZ	(VP*	be	01	1	Lanny_Davis	-
+cnn_0008	7	2	a	DT	(NP*	-	-	-	Lanny_Davis	-
+cnn_0008	7	3	fact	NN	*))	fact	-	2	Lanny_Davis	-
+cnn_0008	7	4	/.	.	*))	-	-	-	Lanny_Davis	-
+
+cnn_0008	7	0	Alright	UH	(TOP(FRAG(INTJ*)	-	-	-	Howard_Kurtz	-
+cnn_0008	7	1	Lanny	NNP	(NP*	-	-	-	Howard_Kurtz	(130
+cnn_0008	7	2	Davis	NNP	*)	-	-	-	Howard_Kurtz	130)
+cnn_0008	7	3	thanks	NNS	(NP(NP*))	thanks	01	1	Howard_Kurtz	-
+cnn_0008	7	4	very	RB	(ADVP*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	5	much	RB	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	7	6	for	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	7	coming	VBG	(S(VP*	come	01	1	Howard_Kurtz	(33)
+cnn_0008	7	8	on	RP	(PRT*)	-	-	-	Howard_Kurtz	-
+cnn_0008	7	9	to	TO	(S(VP*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	10	Talk	VB	(VP*	talk	01	1	Howard_Kurtz	-
+cnn_0008	7	11	Back	RP	(PRT*)	-	-	-	Howard_Kurtz	-
+cnn_0008	7	12	to	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	13	the	DT	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	14	Media	NNS	*)))))	-	-	-	Howard_Kurtz	-
+cnn_0008	7	15	this	DT	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	7	16	morning	NN	*))))	morning	-	1	Howard_Kurtz	-
+cnn_0008	7	17	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	7	0	We	PRP	(TOP(S(NP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	7	1	appreciate	VBP	(VP*	appreciate	02	2	Howard_Kurtz	-
+cnn_0008	7	2	it	PRP	(NP*))	-	-	-	Howard_Kurtz	(33)
+cnn_0008	7	3	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+#end document

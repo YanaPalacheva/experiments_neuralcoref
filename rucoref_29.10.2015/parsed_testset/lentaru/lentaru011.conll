@@ -1,0 +1,697 @@
+# newdoc id = 3651a800-7d68-4414-a600-093e67967997
+# newpar id = 3651a800-7d68-4414-a600-093e67967997-p1
+# par_text = Руководство социальной сети «ВКонтакте» опровергло появившуюся в СМИ информацию об уходе Павла Дурова с поста генерального директора. Об этом в своем твиттере 20 января сообщил пресс-секретарь «ВКонтакте» Георгий Лобушкин.
+# sent_id = 3651a800-7d68-4414-a600-093e67967997-p1-s1
+# text = Руководство социальной сети ``ВКонтакте'' опровергло появившуюся в СМИ информацию об уходе Павла Дурова с поста генерального директора.
+1	Руководство	_	_	_	_	_	_	_	Shift=0
+2	социальной	_	_	_	_	_	_	_	RuCor_chain_id=3430|RuCor_group_id=474939|Shift=12
+3	сети	_	_	_	_	_	_	_	RuCor_chain_id=3430|RuCor_group_id=474939|Shift=23
+4	``	_	_	_	_	_	_	_	RuCor_chain_id=3430|RuCor_group_id=474939|Shift=28|SpaceAfter=No
+5	ВКонтакте	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3430|RuCor_group_id=474939|RuCor_link_id=0|Shift=29|SpaceAfter=No
+6	''	_	_	_	_	_	_	_	RuCor_chain_id=3430|RuCor_group_id=474939|Shift=38
+7	опровергло	_	_	_	_	_	_	_	Shift=40
+8	появившуюся	_	_	_	_	_	_	_	Shift=51
+9	в	_	_	_	_	_	_	_	Shift=63
+10	СМИ	_	_	_	_	_	_	_	Shift=65
+11	информацию	_	_	_	_	_	_	_	Shift=69
+12	об	_	_	_	_	_	_	_	Shift=80
+13	уходе	_	_	_	_	_	_	_	Shift=83
+14	Павла	_	_	_	_	_	_	_	RuCor_chain_id=3431|RuCor_group_id=474940|Shift=89
+15	Дурова	_	_	_	_	_	_	_	RuCor_chain_id=3431|RuCor_group_id=474940|Shift=95
+16	с	_	_	_	_	_	_	_	Shift=102
+17	поста	_	_	_	_	_	_	_	Shift=104
+18	генерального	_	_	_	_	_	_	_	Shift=110
+19	директора	_	_	_	_	_	_	_	Shift=123|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=132
+
+# sent_id = 3651a800-7d68-4414-a600-093e67967997-p1-s2
+# text = Об этом в своем твиттере 20 января сообщил пресс-секретарь ``ВКонтакте'' Георгий Лобушкин.
+1	Об	_	_	_	_	_	_	_	Shift=134
+2	этом	_	_	_	_	_	_	_	Shift=137
+3	в	_	_	_	_	_	_	_	Shift=142
+4	своем	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3432|RuCor_group_id=474941|RuCor_link_id=474942|Shift=144
+5	твиттере	_	_	_	_	_	_	_	Shift=150
+6	20	_	_	_	_	_	_	_	Shift=159
+7	января	_	_	_	_	_	_	_	Shift=162
+8	сообщил	_	_	_	_	_	_	_	Shift=169
+9	пресс-секретарь	_	_	_	_	_	_	_	Shift=177
+10	``	_	_	_	_	_	_	_	RuCor_chain_id=3430|RuCor_group_id=474943|Shift=193|SpaceAfter=No
+11	ВКонтакте	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3430|RuCor_group_id=474943|RuCor_link_id=474939|Shift=194|SpaceAfter=No
+12	''	_	_	_	_	_	_	_	RuCor_chain_id=3430|RuCor_group_id=474943|Shift=203
+13	Георгий	_	_	_	_	_	_	_	RuCor_chain_id=3432|RuCor_group_id=474942|Shift=205
+14	Лобушкин	_	_	_	_	_	_	_	RuCor_chain_id=3432|RuCor_group_id=474942|Shift=213|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=221
+
+# newpar id = 3651a800-7d68-4414-a600-093e67967997-p2
+# par_text = «Павел @durov НЕ покидал пост генерального директора», — написал Лобушкин. В посте на своей странице во «ВКонтакте» Лобушкин отметил, что «любая другая информация по этому поводу не соответствует действительности». Позже слова пресс-секретаря подтвердил генеральный директор компании USM Advisors Иван Стрешинский (USM Advisors управляет активами одного из крупных акционеров соцсети — бизнесмена Алишера Усманова). «Акции Mail.ru Group во "ВКонтакте" остаются под управлением Дурова, а он остается на посту гендиректора социальной сети, пока все так», — приводит слова Стрешинского «ИТАР-ТАСС».
+# sent_id = 3651a800-7d68-4414-a600-093e67967997-p2-s1
+# text = ``Павел @durov НЕ покидал пост генерального директора'', - написал Лобушкин.
+1	``	_	_	_	_	_	_	_	Shift=223|SpaceAfter=No
+2	Павел	_	_	_	_	_	_	_	RuCor_chain_id=3431|RuCor_group_id=474944|Shift=224
+3	ссылка	_	_	_	_	_	_	_	EntityNametag=@durov|Shift=231
+4	НЕ	_	_	_	_	_	_	_	Shift=237
+5	покидал	_	_	_	_	_	_	_	Shift=240
+6	пост	_	_	_	_	_	_	_	Shift=248
+7	генерального	_	_	_	_	_	_	_	Shift=253
+8	директора	_	_	_	_	_	_	_	Shift=266|SpaceAfter=No
+9	''	_	_	_	_	_	_	_	Shift=275|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=276
+11	-	_	_	_	_	_	_	_	Shift=278
+12	написал	_	_	_	_	_	_	_	Shift=280
+13	Лобушкин	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3432|RuCor_group_id=474945|RuCor_link_id=474942|Shift=288|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=296
+
+# sent_id = 3651a800-7d68-4414-a600-093e67967997-p2-s2
+# text = В посте на своей странице во ``ВКонтакте'' Лобушкин отметил, что ``любая другая информация по этому поводу не соответствует действительности''.
+1	В	_	_	_	_	_	_	_	Shift=298
+2	посте	_	_	_	_	_	_	_	Shift=300
+3	на	_	_	_	_	_	_	_	Shift=306
+4	своей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3432|RuCor_group_id=474946|RuCor_link_id=474945|Shift=309
+5	странице	_	_	_	_	_	_	_	Shift=315
+6	во	_	_	_	_	_	_	_	Shift=324
+7	``	_	_	_	_	_	_	_	RuCor_chain_id=3430|RuCor_group_id=474947|Shift=327|SpaceAfter=No
+8	ВКонтакте	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3430|RuCor_group_id=474947|RuCor_link_id=474943|Shift=328|SpaceAfter=No
+9	''	_	_	_	_	_	_	_	RuCor_chain_id=3430|RuCor_group_id=474947|Shift=337
+10	Лобушкин	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3432|RuCor_group_id=474948|RuCor_link_id=474946|Shift=339
+11	отметил	_	_	_	_	_	_	_	Shift=348|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=355
+13	что	_	_	_	_	_	_	_	Shift=357
+14	``	_	_	_	_	_	_	_	Shift=361|SpaceAfter=No
+15	любая	_	_	_	_	_	_	_	Shift=362
+16	другая	_	_	_	_	_	_	_	Shift=368
+17	информация	_	_	_	_	_	_	_	Shift=375
+18	по	_	_	_	_	_	_	_	Shift=386
+19	этому	_	_	_	_	_	_	_	Shift=389
+20	поводу	_	_	_	_	_	_	_	Shift=395
+21	не	_	_	_	_	_	_	_	Shift=402
+22	соответствует	_	_	_	_	_	_	_	Shift=405
+23	действительности	_	_	_	_	_	_	_	Shift=419|SpaceAfter=No
+24	''	_	_	_	_	_	_	_	Shift=435|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=436
+
+# sent_id = 3651a800-7d68-4414-a600-093e67967997-p2-s3
+# text = Позже слова пресс-секретаря подтвердил генеральный директор компании USM Advisors Иван Стрешинский (USM Advisors управляет активами одного из крупных акционеров соцсети - бизнесмена Алишера Усманова). ``Акции Mail.ru Group во ``ВКонтакте'' остаются под управлением Дурова, а он остается на посту гендиректора социальной сети, пока все так'', - приводит слова Стрешинского ``ИТАР-ТАСС''.
+1	Позже	_	_	_	_	_	_	_	Shift=438
+2	слова	_	_	_	_	_	_	_	Shift=444
+3	пресс-секретаря	_	_	_	_	_	_	_	Shift=450
+4	подтвердил	_	_	_	_	_	_	_	Shift=466
+5	генеральный	_	_	_	_	_	_	_	RuCor_chain_id=3433|RuCor_group_id=474950|Shift=477
+6	директор	_	_	_	_	_	_	_	RuCor_chain_id=3433|RuCor_group_id=474950|Shift=489
+7	компании	_	_	_	_	_	_	_	RuCor_chain_id=3434|RuCor_group_id=474951|Shift=498
+8	USM	_	_	_	_	_	_	_	RuCor_chain_id=3434|RuCor_group_id=474951|Shift=507
+9	Advisors	_	_	_	_	_	_	_	RuCor_chain_id=3434|RuCor_group_id=474951|Shift=511
+10	Иван	_	_	_	_	_	_	_	RuCor_chain_id=3433|RuCor_group_id=474950|Shift=520
+11	Стрешинский	_	_	_	_	_	_	_	RuCor_chain_id=3433|RuCor_group_id=474950|Shift=525
+12	(	_	_	_	_	_	_	_	Shift=537|SpaceAfter=No
+13	USM	_	_	_	_	_	_	_	RuCor_chain_id=3434|RuCor_group_id=474952|Shift=538
+14	Advisors	_	_	_	_	_	_	_	RuCor_chain_id=3434|RuCor_group_id=474952|Shift=542
+15	управляет	_	_	_	_	_	_	_	Shift=551
+16	активами	_	_	_	_	_	_	_	Shift=561
+17	одного	_	_	_	_	_	_	_	RuCor_chain_id=3435|RuCor_group_id=474953|Shift=570
+18	из	_	_	_	_	_	_	_	RuCor_chain_id=3435|RuCor_group_id=474953|Shift=577
+19	крупных	_	_	_	_	_	_	_	RuCor_chain_id=3435|RuCor_group_id=474953|Shift=580
+20	акционеров	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=appo|RuCor_attrs_type=coref|RuCor_chain_id=3435|RuCor_group_id=474953|RuCor_link_id=0|Shift=588
+21	соцсети	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3430|RuCor_group_id=474954|RuCor_link_id=474947|Shift=599
+22	-	_	_	_	_	_	_	_	Shift=607
+23	бизнесмена	_	_	_	_	_	_	_	RuCor_chain_id=3435|RuCor_group_id=474955|Shift=609
+24	Алишера	_	_	_	_	_	_	_	RuCor_chain_id=3435|RuCor_group_id=474955|Shift=620
+25	Усманова	_	_	_	_	_	_	_	RuCor_chain_id=3435|RuCor_group_id=474955|Shift=628|SpaceAfter=No
+26	)	_	_	_	_	_	_	_	Shift=636|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=637
+28	``	_	_	_	_	_	_	_	Shift=639|SpaceAfter=No
+29	Акции	_	_	_	_	_	_	_	Shift=640
+30	Mail.ru	_	_	_	_	_	_	_	RuCor_chain_id=3436|RuCor_group_id=474956|Shift=646
+31	Group	_	_	_	_	_	_	_	RuCor_chain_id=3436|RuCor_group_id=474956|Shift=654
+32	во	_	_	_	_	_	_	_	Shift=660
+33	``	_	_	_	_	_	_	_	RuCor_chain_id=3430|RuCor_group_id=474957|Shift=663|SpaceAfter=No
+34	ВКонтакте	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3430|RuCor_group_id=474957|RuCor_link_id=474954|Shift=664|SpaceAfter=No
+35	''	_	_	_	_	_	_	_	RuCor_chain_id=3430|RuCor_group_id=474957|Shift=673
+36	остаются	_	_	_	_	_	_	_	Shift=675
+37	под	_	_	_	_	_	_	_	Shift=684
+38	управлением	_	_	_	_	_	_	_	Shift=688
+39	Дурова	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3431|RuCor_group_id=474958|RuCor_link_id=474944|Shift=700|SpaceAfter=No
+40	,	_	_	_	_	_	_	_	Shift=706
+41	а	_	_	_	_	_	_	_	Shift=708
+42	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3431|RuCor_group_id=474959|RuCor_link_id=474958|Shift=710
+43	остается	_	_	_	_	_	_	_	Shift=713
+44	на	_	_	_	_	_	_	_	Shift=722
+45	посту	_	_	_	_	_	_	_	Shift=725
+46	гендиректора	_	_	_	_	_	_	_	Shift=731
+47	социальной	_	_	_	_	_	_	_	RuCor_chain_id=3430|RuCor_group_id=474960|Shift=744
+48	сети	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3430|RuCor_group_id=474960|RuCor_link_id=474957|Shift=755|SpaceAfter=No
+49	,	_	_	_	_	_	_	_	Shift=759
+50	пока	_	_	_	_	_	_	_	Shift=761
+51	все	_	_	_	_	_	_	_	Shift=766
+52	так	_	_	_	_	_	_	_	Shift=770|SpaceAfter=No
+53	''	_	_	_	_	_	_	_	Shift=773|SpaceAfter=No
+54	,	_	_	_	_	_	_	_	Shift=774
+55	-	_	_	_	_	_	_	_	Shift=776
+56	приводит	_	_	_	_	_	_	_	Shift=778
+57	слова	_	_	_	_	_	_	_	Shift=787
+58	Стрешинского	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3433|RuCor_group_id=474961|RuCor_link_id=474950|Shift=793
+59	``	_	_	_	_	_	_	_	Shift=806|SpaceAfter=No
+60	ИТАР-ТАСС	_	_	_	_	_	_	_	Shift=807|SpaceAfter=No
+61	''	_	_	_	_	_	_	_	Shift=816|SpaceAfter=No
+62	.	_	_	_	_	_	_	_	Shift=817
+
+# newpar id = 3651a800-7d68-4414-a600-093e67967997-p3
+# par_text = Ранее об уходе Дурова со ссылкой на источник, знакомый с ситуацией, сообщила газета «Известия». Заметка об отставке Дурова появилась на сайте «Известий» 20 января в 15:00 по московскому времени.
+# sent_id = 3651a800-7d68-4414-a600-093e67967997-p3-s1
+# text = Ранее об уходе Дурова со ссылкой на источник, знакомый с ситуацией, сообщила газета ``Известия''.
+1	Ранее	_	_	_	_	_	_	_	Shift=819
+2	об	_	_	_	_	_	_	_	Shift=825
+3	уходе	_	_	_	_	_	_	_	Shift=828
+4	Дурова	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3431|RuCor_group_id=474962|RuCor_link_id=474959|Shift=834
+5	со	_	_	_	_	_	_	_	Shift=841
+6	ссылкой	_	_	_	_	_	_	_	Shift=844
+7	на	_	_	_	_	_	_	_	Shift=852
+8	источник	_	_	_	_	_	_	_	Shift=855|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=863
+10	знакомый	_	_	_	_	_	_	_	Shift=865
+11	с	_	_	_	_	_	_	_	Shift=874
+12	ситуацией	_	_	_	_	_	_	_	Shift=876|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=885
+14	сообщила	_	_	_	_	_	_	_	Shift=887
+15	газета	_	_	_	_	_	_	_	RuCor_chain_id=3437|RuCor_group_id=474963|Shift=896
+16	``	_	_	_	_	_	_	_	RuCor_chain_id=3437|RuCor_group_id=474963|Shift=903|SpaceAfter=No
+17	Известия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3437|RuCor_group_id=474963|RuCor_link_id=0|Shift=904|SpaceAfter=No
+18	''	_	_	_	_	_	_	_	RuCor_chain_id=3437|RuCor_group_id=474963|Shift=912|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=913
+
+# sent_id = 3651a800-7d68-4414-a600-093e67967997-p3-s2
+# text = Заметка об отставке Дурова появилась на сайте ``Известий'' 20 января в 15:00 по московскому времени.
+1	Заметка	_	_	_	_	_	_	_	Shift=915
+2	об	_	_	_	_	_	_	_	Shift=923
+3	отставке	_	_	_	_	_	_	_	Shift=926
+4	Дурова	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3431|RuCor_group_id=474964|RuCor_link_id=474962|Shift=935
+5	появилась	_	_	_	_	_	_	_	Shift=942
+6	на	_	_	_	_	_	_	_	Shift=952
+7	сайте	_	_	_	_	_	_	_	Shift=955
+8	``	_	_	_	_	_	_	_	RuCor_chain_id=3437|RuCor_group_id=474965|Shift=961|SpaceAfter=No
+9	Известий	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3437|RuCor_group_id=474965|RuCor_link_id=474963|Shift=962|SpaceAfter=No
+10	''	_	_	_	_	_	_	_	RuCor_chain_id=3437|RuCor_group_id=474965|Shift=970
+11	20	_	_	_	_	_	_	_	Shift=972
+12	января	_	_	_	_	_	_	_	Shift=975
+13	в	_	_	_	_	_	_	_	Shift=982
+14	15:00	_	_	_	_	_	_	_	Shift=984
+15	по	_	_	_	_	_	_	_	Shift=990
+16	московскому	_	_	_	_	_	_	_	Shift=993
+17	времени	_	_	_	_	_	_	_	Shift=1005|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=1012
+
+# newpar id = 3651a800-7d68-4414-a600-093e67967997-p4
+# par_text = Как утверждалось в материале, Дуров ушел с поста генерального директора и сосредоточился на работе над ранее запущенным им сервисом обмена мгновенными сообщениями Telegram. По сведениям «Известий», вслед за Павлом Дуровым соцсеть покинуло и большинство разработчиков. Указывая, что конкретные причины ухода Павла Дурова пока не известны, газета приводила комментарий пресс-секретаря «ВКонтакте» Георгия Лобушкина, заявившего, что по поводу отставки гендиректора ему «пока нечего ответить».
+# sent_id = 3651a800-7d68-4414-a600-093e67967997-p4-s1
+# text = Как утверждалось в материале, Дуров ушел с поста генерального директора и сосредоточился на работе над ранее запущенным им сервисом обмена мгновенными сообщениями Telegram.
+1	Как	_	_	_	_	_	_	_	Shift=1014
+2	утверждалось	_	_	_	_	_	_	_	Shift=1018
+3	в	_	_	_	_	_	_	_	Shift=1031
+4	материале	_	_	_	_	_	_	_	Shift=1033|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1042
+6	Дуров	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3431|RuCor_group_id=474966|RuCor_link_id=474964|Shift=1044
+7	ушел	_	_	_	_	_	_	_	Shift=1050
+8	с	_	_	_	_	_	_	_	Shift=1055
+9	поста	_	_	_	_	_	_	_	Shift=1057
+10	генерального	_	_	_	_	_	_	_	Shift=1063
+11	директора	_	_	_	_	_	_	_	Shift=1076
+12	и	_	_	_	_	_	_	_	Shift=1086
+13	сосредоточился	_	_	_	_	_	_	_	Shift=1088
+14	на	_	_	_	_	_	_	_	Shift=1103
+15	работе	_	_	_	_	_	_	_	Shift=1106
+16	над	_	_	_	_	_	_	_	Shift=1113
+17	ранее	_	_	_	_	_	_	_	Shift=1117
+18	запущенным	_	_	_	_	_	_	_	Shift=1123
+19	им	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3431|RuCor_group_id=474967|RuCor_link_id=474966|Shift=1134
+20	сервисом	_	_	_	_	_	_	_	RuCor_chain_id=3438|RuCor_group_id=474968|Shift=1137
+21	обмена	_	_	_	_	_	_	_	RuCor_chain_id=3438|RuCor_group_id=474968|Shift=1146
+22	мгновенными	_	_	_	_	_	_	_	RuCor_chain_id=3438|RuCor_group_id=474968|Shift=1153
+23	сообщениями	_	_	_	_	_	_	_	RuCor_chain_id=3438|RuCor_group_id=474968|Shift=1165
+24	Telegram	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3438|RuCor_group_id=474968|RuCor_link_id=0|Shift=1177|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=1185
+
+# sent_id = 3651a800-7d68-4414-a600-093e67967997-p4-s2
+# text = По сведениям ``Известий'', вслед за Павлом Дуровым соцсеть покинуло и большинство разработчиков.
+1	По	_	_	_	_	_	_	_	Shift=1187
+2	сведениям	_	_	_	_	_	_	_	Shift=1190
+3	``	_	_	_	_	_	_	_	RuCor_chain_id=3437|RuCor_group_id=474969|Shift=1200|SpaceAfter=No
+4	Известий	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3437|RuCor_group_id=474969|RuCor_link_id=474965|Shift=1201|SpaceAfter=No
+5	''	_	_	_	_	_	_	_	RuCor_chain_id=3437|RuCor_group_id=474969|Shift=1209|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1210
+7	вслед	_	_	_	_	_	_	_	Shift=1212
+8	за	_	_	_	_	_	_	_	Shift=1218
+9	Павлом	_	_	_	_	_	_	_	RuCor_chain_id=3431|RuCor_group_id=474970|Shift=1221
+10	Дуровым	_	_	_	_	_	_	_	RuCor_chain_id=3431|RuCor_group_id=474970|Shift=1228
+11	соцсеть	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3430|RuCor_group_id=474971|RuCor_link_id=474954|Shift=1236
+12	покинуло	_	_	_	_	_	_	_	Shift=1244
+13	и	_	_	_	_	_	_	_	Shift=1253
+14	большинство	_	_	_	_	_	_	_	Shift=1255
+15	разработчиков	_	_	_	_	_	_	_	Shift=1267|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=1280
+
+# sent_id = 3651a800-7d68-4414-a600-093e67967997-p4-s3
+# text = Указывая, что конкретные причины ухода Павла Дурова пока не известны, газета приводила комментарий пресс-секретаря ``ВКонтакте'' Георгия Лобушкина, заявившего, что по поводу отставки гендиректора ему ``пока нечего ответить''.
+1	Указывая	_	_	_	_	_	_	_	Shift=1282|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=1290
+3	что	_	_	_	_	_	_	_	Shift=1292
+4	конкретные	_	_	_	_	_	_	_	Shift=1296
+5	причины	_	_	_	_	_	_	_	Shift=1307
+6	ухода	_	_	_	_	_	_	_	Shift=1315
+7	Павла	_	_	_	_	_	_	_	RuCor_chain_id=3431|RuCor_group_id=474972|Shift=1321
+8	Дурова	_	_	_	_	_	_	_	RuCor_chain_id=3431|RuCor_group_id=474972|Shift=1327
+9	пока	_	_	_	_	_	_	_	Shift=1334
+10	не	_	_	_	_	_	_	_	Shift=1339
+11	известны	_	_	_	_	_	_	_	Shift=1342|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=1350
+13	газета	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3437|RuCor_group_id=474973|RuCor_link_id=474969|Shift=1352
+14	приводила	_	_	_	_	_	_	_	Shift=1359
+15	комментарий	_	_	_	_	_	_	_	Shift=1369
+16	пресс-секретаря	_	_	_	_	_	_	_	Shift=1381
+17	``	_	_	_	_	_	_	_	RuCor_chain_id=3430|RuCor_group_id=474975|Shift=1397|SpaceAfter=No
+18	ВКонтакте	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3430|RuCor_group_id=474975|RuCor_link_id=474971|Shift=1398|SpaceAfter=No
+19	''	_	_	_	_	_	_	_	RuCor_chain_id=3430|RuCor_group_id=474975|Shift=1407
+20	Георгия	_	_	_	_	_	_	_	RuCor_chain_id=3432|RuCor_group_id=474974|Shift=1409
+21	Лобушкина	_	_	_	_	_	_	_	RuCor_chain_id=3432|RuCor_group_id=474974|Shift=1417|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=1426
+23	заявившего	_	_	_	_	_	_	_	Shift=1428|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=1438
+25	что	_	_	_	_	_	_	_	Shift=1440
+26	по	_	_	_	_	_	_	_	Shift=1444
+27	поводу	_	_	_	_	_	_	_	Shift=1447
+28	отставки	_	_	_	_	_	_	_	Shift=1454
+29	гендиректора	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3431|RuCor_group_id=474976|RuCor_link_id=474972|Shift=1463
+30	ему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3432|RuCor_group_id=474977|RuCor_link_id=474974|Shift=1476
+31	``	_	_	_	_	_	_	_	Shift=1480|SpaceAfter=No
+32	пока	_	_	_	_	_	_	_	Shift=1481
+33	нечего	_	_	_	_	_	_	_	Shift=1486
+34	ответить	_	_	_	_	_	_	_	Shift=1493|SpaceAfter=No
+35	''	_	_	_	_	_	_	_	Shift=1501|SpaceAfter=No
+36	.	_	_	_	_	_	_	_	Shift=1502
+
+# newpar id = 3651a800-7d68-4414-a600-093e67967997-p5
+# par_text = Слухи о возможном уходе из «ВКонтакте» основателя и гендиректора соцсети Павла Дурова стали появляться в СМИ после продажи 48 процентов акций компании фонду United Capital Partners (UCP). Сделка состоялась в апреле 2013 года.
+# sent_id = 3651a800-7d68-4414-a600-093e67967997-p5-s1
+# text = Слухи о возможном уходе из ``ВКонтакте'' основателя и гендиректора соцсети Павла Дурова стали появляться в СМИ после продажи 48 процентов акций компании фонду United Capital Partners (UCP).
+1	Слухи	_	_	_	_	_	_	_	Shift=1504
+2	о	_	_	_	_	_	_	_	Shift=1510
+3	возможном	_	_	_	_	_	_	_	Shift=1512
+4	уходе	_	_	_	_	_	_	_	Shift=1522
+5	из	_	_	_	_	_	_	_	Shift=1528
+6	``	_	_	_	_	_	_	_	RuCor_chain_id=3430|RuCor_group_id=474978|Shift=1531|SpaceAfter=No
+7	ВКонтакте	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3430|RuCor_group_id=474978|RuCor_link_id=474975|Shift=1532|SpaceAfter=No
+8	''	_	_	_	_	_	_	_	RuCor_chain_id=3430|RuCor_group_id=474978|Shift=1541
+9	основателя	_	_	_	_	_	_	_	RuCor_chain_id=3431|RuCor_group_id=474979|Shift=1543
+10	и	_	_	_	_	_	_	_	RuCor_chain_id=3431|RuCor_group_id=474979|Shift=1554
+11	гендиректора	_	_	_	_	_	_	_	RuCor_chain_id=3431|RuCor_group_id=474979|Shift=1556
+12	соцсети	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3430|RuCor_group_id=474980|RuCor_link_id=474978|Shift=1569
+13	Павла	_	_	_	_	_	_	_	RuCor_chain_id=3431|RuCor_group_id=474979|Shift=1577
+14	Дурова	_	_	_	_	_	_	_	RuCor_chain_id=3431|RuCor_group_id=474979|Shift=1583
+15	стали	_	_	_	_	_	_	_	Shift=1590
+16	появляться	_	_	_	_	_	_	_	Shift=1596
+17	в	_	_	_	_	_	_	_	Shift=1607
+18	СМИ	_	_	_	_	_	_	_	Shift=1609
+19	после	_	_	_	_	_	_	_	Shift=1613
+20	продажи	_	_	_	_	_	_	_	Shift=1619
+21	48	_	_	_	_	_	_	_	Shift=1627
+22	процентов	_	_	_	_	_	_	_	Shift=1630
+23	акций	_	_	_	_	_	_	_	Shift=1640
+24	компании	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3430|RuCor_group_id=474981|RuCor_link_id=474980|Shift=1646
+25	фонду	_	_	_	_	_	_	_	RuCor_chain_id=3439|RuCor_group_id=474982|Shift=1655
+26	United	_	_	_	_	_	_	_	RuCor_chain_id=3439|RuCor_group_id=474982|Shift=1661
+27	Capital	_	_	_	_	_	_	_	RuCor_chain_id=3439|RuCor_group_id=474982|Shift=1668
+28	Partners	_	_	_	_	_	_	_	RuCor_chain_id=3439|RuCor_group_id=474982|Shift=1676
+29	(	_	_	_	_	_	_	_	Shift=1685|SpaceAfter=No
+30	UCP	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3439|RuCor_group_id=474983|RuCor_link_id=474982|Shift=1686|SpaceAfter=No
+31	)	_	_	_	_	_	_	_	Shift=1689|SpaceAfter=No
+32	.	_	_	_	_	_	_	_	Shift=1690
+
+# sent_id = 3651a800-7d68-4414-a600-093e67967997-p5-s2
+# text = Сделка состоялась в апреле 2013 года.
+1	Сделка	_	_	_	_	_	_	_	Shift=1692
+2	состоялась	_	_	_	_	_	_	_	Shift=1699
+3	в	_	_	_	_	_	_	_	Shift=1710
+4	апреле	_	_	_	_	_	_	_	Shift=1712
+5	2013	_	_	_	_	_	_	_	Shift=1719
+6	года	_	_	_	_	_	_	_	Shift=1724|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=1728
+
+# newpar id = 3651a800-7d68-4414-a600-093e67967997-p6
+# par_text = В октябре 2013-го о готовящейся отставке Дурова из-за конфликта с новыми акционерами сообщил журнал Forbes. Представители фонда обвинили Дурова в использовании ресурсов «ВКонтакте» для развития своих сторонних проектов (в частности, сервиса Telegram). Как заявил тогда изданию один из партнеров UCP Юрий Качуро, действующий гендиректор «сам не знает, что он хочет». Позже в UCP опровергли намерение уволить Дурова. Сам Дуров заявил, что UCP действует в отношении него «исключительно методом угроз и прессинга».
+# sent_id = 3651a800-7d68-4414-a600-093e67967997-p6-s1
+# text = В октябре 2013-го о готовящейся отставке Дурова из-за конфликта с новыми акционерами сообщил журнал Forbes.
+1	В	_	_	_	_	_	_	_	Shift=1730
+2	октябре	_	_	_	_	_	_	_	Shift=1732
+3	2013-го	_	_	_	_	_	_	_	Shift=1740
+4	о	_	_	_	_	_	_	_	Shift=1748
+5	готовящейся	_	_	_	_	_	_	_	Shift=1750
+6	отставке	_	_	_	_	_	_	_	Shift=1762
+7	Дурова	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3431|RuCor_group_id=474984|RuCor_link_id=474979|Shift=1771
+8	из-за	_	_	_	_	_	_	_	Shift=1778
+9	конфликта	_	_	_	_	_	_	_	Shift=1784
+10	с	_	_	_	_	_	_	_	Shift=1794
+11	новыми	_	_	_	_	_	_	_	RuCor_chain_id=3439|RuCor_group_id=474985|Shift=1796
+12	акционерами	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3439|RuCor_group_id=474985|RuCor_link_id=474983|Shift=1803
+13	сообщил	_	_	_	_	_	_	_	Shift=1815
+14	журнал	_	_	_	_	_	_	_	RuCor_chain_id=3440|RuCor_group_id=474986|Shift=1823
+15	Forbes	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3440|RuCor_group_id=474986|RuCor_link_id=0|Shift=1830|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=1836
+
+# sent_id = 3651a800-7d68-4414-a600-093e67967997-p6-s2
+# text = Представители фонда обвинили Дурова в использовании ресурсов ``ВКонтакте'' для развития своих сторонних проектов (в частности, сервиса Telegram).
+1	Представители	_	_	_	_	_	_	_	Shift=1838
+2	фонда	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3439|RuCor_group_id=474987|RuCor_link_id=474985|Shift=1852
+3	обвинили	_	_	_	_	_	_	_	Shift=1858
+4	Дурова	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3431|RuCor_group_id=474988|RuCor_link_id=474984|Shift=1867
+5	в	_	_	_	_	_	_	_	Shift=1874
+6	использовании	_	_	_	_	_	_	_	Shift=1876
+7	ресурсов	_	_	_	_	_	_	_	Shift=1890
+8	``	_	_	_	_	_	_	_	RuCor_chain_id=3430|RuCor_group_id=474989|Shift=1899|SpaceAfter=No
+9	ВКонтакте	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3430|RuCor_group_id=474989|RuCor_link_id=474981|Shift=1900|SpaceAfter=No
+10	''	_	_	_	_	_	_	_	RuCor_chain_id=3430|RuCor_group_id=474989|Shift=1909
+11	для	_	_	_	_	_	_	_	Shift=1911
+12	развития	_	_	_	_	_	_	_	Shift=1915
+13	своих	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3431|RuCor_group_id=474990|RuCor_link_id=474988|Shift=1924
+14	сторонних	_	_	_	_	_	_	_	Shift=1930
+15	проектов	_	_	_	_	_	_	_	Shift=1940
+16	(	_	_	_	_	_	_	_	Shift=1949|SpaceAfter=No
+17	в	_	_	_	_	_	_	_	Shift=1950
+18	частности	_	_	_	_	_	_	_	Shift=1952|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=1961
+20	сервиса	_	_	_	_	_	_	_	RuCor_chain_id=3438|RuCor_group_id=474991|Shift=1963
+21	Telegram	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3438|RuCor_group_id=474991|RuCor_link_id=474968|Shift=1971|SpaceAfter=No
+22	)	_	_	_	_	_	_	_	Shift=1979|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=1980
+
+# sent_id = 3651a800-7d68-4414-a600-093e67967997-p6-s3
+# text = Как заявил тогда изданию один из партнеров UCP Юрий Качуро, действующий гендиректор ``сам не знает, что он хочет''.
+1	Как	_	_	_	_	_	_	_	Shift=1982
+2	заявил	_	_	_	_	_	_	_	Shift=1986
+3	тогда	_	_	_	_	_	_	_	Shift=1993
+4	изданию	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3440|RuCor_group_id=474992|RuCor_link_id=474986|Shift=1999
+5	один	_	_	_	_	_	_	_	Shift=2007
+6	из	_	_	_	_	_	_	_	Shift=2012
+7	партнеров	_	_	_	_	_	_	_	Shift=2015
+8	UCP	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3439|RuCor_group_id=474993|RuCor_link_id=474983|Shift=2025
+9	Юрий	_	_	_	_	_	_	_	Shift=2029
+10	Качуро	_	_	_	_	_	_	_	Shift=2034|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=2040
+12	действующий	_	_	_	_	_	_	_	RuCor_chain_id=3431|RuCor_group_id=474994|Shift=2042
+13	гендиректор	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3431|RuCor_group_id=474994|RuCor_link_id=474990|Shift=2054
+14	``	_	_	_	_	_	_	_	Shift=2066|SpaceAfter=No
+15	сам	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=3431|RuCor_group_id=474995|RuCor_link_id=474994|Shift=2067
+16	не	_	_	_	_	_	_	_	Shift=2071
+17	знает	_	_	_	_	_	_	_	Shift=2074|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=2079
+19	что	_	_	_	_	_	_	_	Shift=2081
+20	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3431|RuCor_group_id=474996|RuCor_link_id=474994|Shift=2085
+21	хочет	_	_	_	_	_	_	_	Shift=2088|SpaceAfter=No
+22	''	_	_	_	_	_	_	_	Shift=2093|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=2094
+
+# sent_id = 3651a800-7d68-4414-a600-093e67967997-p6-s4
+# text = Позже в UCP опровергли намерение уволить Дурова.
+1	Позже	_	_	_	_	_	_	_	Shift=2096
+2	в	_	_	_	_	_	_	_	Shift=2102
+3	UCP	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3439|RuCor_group_id=474997|RuCor_link_id=474993|Shift=2104
+4	опровергли	_	_	_	_	_	_	_	Shift=2108
+5	намерение	_	_	_	_	_	_	_	Shift=2119
+6	уволить	_	_	_	_	_	_	_	Shift=2129
+7	Дурова	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3431|RuCor_group_id=474998|RuCor_link_id=474996|Shift=2137|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=2143
+
+# sent_id = 3651a800-7d68-4414-a600-093e67967997-p6-s5
+# text = Сам Дуров заявил, что UCP действует в отношении него ``исключительно методом угроз и прессинга''.
+1	Сам	_	_	_	_	_	_	_	RuCor_chain_id=3431|RuCor_group_id=474999|Shift=2145
+2	Дуров	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3431|RuCor_group_id=474999|RuCor_link_id=474998|Shift=2149
+3	заявил	_	_	_	_	_	_	_	Shift=2155|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2161
+5	что	_	_	_	_	_	_	_	Shift=2163
+6	UCP	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3439|RuCor_group_id=475000|RuCor_link_id=474997|Shift=2167
+7	действует	_	_	_	_	_	_	_	Shift=2171
+8	в	_	_	_	_	_	_	_	Shift=2181
+9	отношении	_	_	_	_	_	_	_	Shift=2183
+10	него	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3431|RuCor_group_id=475001|RuCor_link_id=474999|Shift=2193
+11	``	_	_	_	_	_	_	_	Shift=2198|SpaceAfter=No
+12	исключительно	_	_	_	_	_	_	_	Shift=2199
+13	методом	_	_	_	_	_	_	_	Shift=2213
+14	угроз	_	_	_	_	_	_	_	Shift=2221
+15	и	_	_	_	_	_	_	_	Shift=2227
+16	прессинга	_	_	_	_	_	_	_	Shift=2229|SpaceAfter=No
+17	''	_	_	_	_	_	_	_	Shift=2238|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=2239
+
+# newpar id = 3651a800-7d68-4414-a600-093e67967997-p7
+# par_text = В конце декабря 2013 года о наличии претензий к Павлу Дурову также сообщил владелец Mail.ru Group Алишер Усманов (через Mail.ru Усманов контролирует около 40 процентов акций соцсети). Тем не менее, Усманов подчеркнул, что его претензии «не носят принципиального характера», а «Дуров остается пока генеральным директором».
+# sent_id = 3651a800-7d68-4414-a600-093e67967997-p7-s1
+# text = В конце декабря 2013 года о наличии претензий к Павлу Дурову также сообщил владелец Mail.ru Group Алишер Усманов (через Mail.ru Усманов контролирует около 40 процентов акций соцсети).
+1	В	_	_	_	_	_	_	_	Shift=2241
+2	конце	_	_	_	_	_	_	_	Shift=2243
+3	декабря	_	_	_	_	_	_	_	Shift=2249
+4	2013	_	_	_	_	_	_	_	Shift=2257
+5	года	_	_	_	_	_	_	_	Shift=2262
+6	о	_	_	_	_	_	_	_	Shift=2267
+7	наличии	_	_	_	_	_	_	_	Shift=2269
+8	претензий	_	_	_	_	_	_	_	Shift=2277
+9	к	_	_	_	_	_	_	_	Shift=2287
+10	Павлу	_	_	_	_	_	_	_	RuCor_chain_id=3431|RuCor_group_id=475002|Shift=2289
+11	Дурову	_	_	_	_	_	_	_	RuCor_chain_id=3431|RuCor_group_id=475002|Shift=2295
+12	также	_	_	_	_	_	_	_	Shift=2302
+13	сообщил	_	_	_	_	_	_	_	Shift=2308
+14	владелец	_	_	_	_	_	_	_	RuCor_chain_id=3435|RuCor_group_id=475003|Shift=2316
+15	Mail.ru	_	_	_	_	_	_	_	RuCor_chain_id=3436|RuCor_group_id=475004|Shift=2325
+16	Group	_	_	_	_	_	_	_	RuCor_chain_id=3436|RuCor_group_id=475004|Shift=2333
+17	Алишер	_	_	_	_	_	_	_	RuCor_chain_id=3435|RuCor_group_id=475003|Shift=2339
+18	Усманов	_	_	_	_	_	_	_	RuCor_chain_id=3435|RuCor_group_id=475003|Shift=2346
+19	(	_	_	_	_	_	_	_	Shift=2354|SpaceAfter=No
+20	через	_	_	_	_	_	_	_	Shift=2355
+21	Mail.ru	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3436|RuCor_group_id=475005|RuCor_link_id=475004|Shift=2361
+22	Усманов	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3435|RuCor_group_id=475006|RuCor_link_id=475003|Shift=2369
+23	контролирует	_	_	_	_	_	_	_	Shift=2377
+24	около	_	_	_	_	_	_	_	Shift=2390
+25	40	_	_	_	_	_	_	_	Shift=2396
+26	процентов	_	_	_	_	_	_	_	Shift=2399
+27	акций	_	_	_	_	_	_	_	Shift=2409
+28	соцсети	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3430|RuCor_group_id=475007|RuCor_link_id=474989|Shift=2415|SpaceAfter=No
+29	)	_	_	_	_	_	_	_	Shift=2422|SpaceAfter=No
+30	.	_	_	_	_	_	_	_	Shift=2423
+
+# sent_id = 3651a800-7d68-4414-a600-093e67967997-p7-s2
+# text = Тем не менее, Усманов подчеркнул, что его претензии ``не носят принципиального характера'', а ``Дуров остается пока генеральным директором''.
+1	Тем	_	_	_	_	_	_	_	Shift=2425
+2	не	_	_	_	_	_	_	_	Shift=2429
+3	менее	_	_	_	_	_	_	_	Shift=2432|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2437
+5	Усманов	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3435|RuCor_group_id=475008|RuCor_link_id=475006|Shift=2439
+6	подчеркнул	_	_	_	_	_	_	_	Shift=2447|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=2457
+8	что	_	_	_	_	_	_	_	Shift=2459
+9	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3435|RuCor_group_id=475009|RuCor_link_id=475008|Shift=2463
+10	претензии	_	_	_	_	_	_	_	Shift=2467
+11	``	_	_	_	_	_	_	_	Shift=2477|SpaceAfter=No
+12	не	_	_	_	_	_	_	_	Shift=2478
+13	носят	_	_	_	_	_	_	_	Shift=2481
+14	принципиального	_	_	_	_	_	_	_	Shift=2487
+15	характера	_	_	_	_	_	_	_	Shift=2503|SpaceAfter=No
+16	''	_	_	_	_	_	_	_	Shift=2512|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=2513
+18	а	_	_	_	_	_	_	_	Shift=2515
+19	``	_	_	_	_	_	_	_	Shift=2517|SpaceAfter=No
+20	Дуров	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3431|RuCor_group_id=475010|RuCor_link_id=475002|Shift=2518
+21	остается	_	_	_	_	_	_	_	Shift=2524
+22	пока	_	_	_	_	_	_	_	Shift=2533
+23	генеральным	_	_	_	_	_	_	_	Shift=2538
+24	директором	_	_	_	_	_	_	_	Shift=2550|SpaceAfter=No
+25	''	_	_	_	_	_	_	_	Shift=2560|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=2561
+
+# newpar id = 3651a800-7d68-4414-a600-093e67967997-p8
+# par_text = Социальная сеть была основана Павлом Дуровым в 2006 году. Первоначально Дурову принадлежало 20 процентов акций компании. Еще по 20 процентов находилось в руках первых инвесторов стартапа — Вячеслава Мирилашвили и Льва Левиева. Около 40 процентов акций принадлежало деду Вячеслава Мирилашвили. В 2007 году в число акционеров «ВКонтакте» вошел инвестор Юрий Мильнер. Позже его доля перешла под контроль Mail.ru Group и Алишера Усманова. В итоге Усманов стал владельцем 39,9 процента акций «ВКонтакте».
+# sent_id = 3651a800-7d68-4414-a600-093e67967997-p8-s1
+# text = Социальная сеть была основана Павлом Дуровым в 2006 году.
+1	Социальная	_	_	_	_	_	_	_	RuCor_chain_id=3430|RuCor_group_id=475011|Shift=2563
+2	сеть	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3430|RuCor_group_id=475011|RuCor_link_id=475007|Shift=2574
+3	была	_	_	_	_	_	_	_	Shift=2579
+4	основана	_	_	_	_	_	_	_	Shift=2584
+5	Павлом	_	_	_	_	_	_	_	RuCor_chain_id=3431|RuCor_group_id=475012|Shift=2593
+6	Дуровым	_	_	_	_	_	_	_	RuCor_chain_id=3431|RuCor_group_id=475012|Shift=2600
+7	в	_	_	_	_	_	_	_	Shift=2608
+8	2006	_	_	_	_	_	_	_	Shift=2610
+9	году	_	_	_	_	_	_	_	Shift=2615|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=2619
+
+# sent_id = 3651a800-7d68-4414-a600-093e67967997-p8-s2
+# text = Первоначально Дурову принадлежало 20 процентов акций компании.
+1	Первоначально	_	_	_	_	_	_	_	Shift=2621
+2	Дурову	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3431|RuCor_group_id=475013|RuCor_link_id=475012|Shift=2635
+3	принадлежало	_	_	_	_	_	_	_	Shift=2642
+4	20	_	_	_	_	_	_	_	Shift=2655
+5	процентов	_	_	_	_	_	_	_	Shift=2658
+6	акций	_	_	_	_	_	_	_	Shift=2668
+7	компании	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3430|RuCor_group_id=475014|RuCor_link_id=475011|Shift=2674|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=2682
+
+# sent_id = 3651a800-7d68-4414-a600-093e67967997-p8-s3
+# text = Еще по 20 процентов находилось в руках первых инвесторов стартапа - Вячеслава Мирилашвили и Льва Левиева.
+1	Еще	_	_	_	_	_	_	_	Shift=2684
+2	по	_	_	_	_	_	_	_	Shift=2688
+3	20	_	_	_	_	_	_	_	Shift=2691
+4	процентов	_	_	_	_	_	_	_	Shift=2694
+5	находилось	_	_	_	_	_	_	_	Shift=2704
+6	в	_	_	_	_	_	_	_	Shift=2715
+7	руках	_	_	_	_	_	_	_	Shift=2717
+8	первых	_	_	_	_	_	_	_	Shift=2723
+9	инвесторов	_	_	_	_	_	_	_	Shift=2730
+10	стартапа	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3430|RuCor_group_id=475015|RuCor_link_id=475014|Shift=2741
+11	-	_	_	_	_	_	_	_	Shift=2750
+12	Вячеслава	_	_	_	_	_	_	_	RuCor_chain_id=3441|RuCor_group_id=475016|Shift=2752
+13	Мирилашвили	_	_	_	_	_	_	_	RuCor_chain_id=3441|RuCor_group_id=475016|Shift=2762
+14	и	_	_	_	_	_	_	_	Shift=2774
+15	Льва	_	_	_	_	_	_	_	RuCor_chain_id=3442|RuCor_group_id=475017|Shift=2776
+16	Левиева	_	_	_	_	_	_	_	RuCor_chain_id=3442|RuCor_group_id=475017|Shift=2781|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=2788
+
+# sent_id = 3651a800-7d68-4414-a600-093e67967997-p8-s4
+# text = Около 40 процентов акций принадлежало деду Вячеслава Мирилашвили.
+1	Около	_	_	_	_	_	_	_	Shift=2790
+2	40	_	_	_	_	_	_	_	Shift=2796
+3	процентов	_	_	_	_	_	_	_	Shift=2799
+4	акций	_	_	_	_	_	_	_	Shift=2809
+5	принадлежало	_	_	_	_	_	_	_	Shift=2815
+6	деду	_	_	_	_	_	_	_	Shift=2828
+7	Вячеслава	_	_	_	_	_	_	_	RuCor_chain_id=3441|RuCor_group_id=475018|Shift=2833
+8	Мирилашвили	_	_	_	_	_	_	_	RuCor_chain_id=3441|RuCor_group_id=475018|Shift=2843|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=2854
+
+# sent_id = 3651a800-7d68-4414-a600-093e67967997-p8-s5
+# text = В 2007 году в число акционеров ``ВКонтакте'' вошел инвестор Юрий Мильнер.
+1	В	_	_	_	_	_	_	_	Shift=2856
+2	2007	_	_	_	_	_	_	_	Shift=2858
+3	году	_	_	_	_	_	_	_	Shift=2863
+4	в	_	_	_	_	_	_	_	Shift=2868
+5	число	_	_	_	_	_	_	_	Shift=2870
+6	акционеров	_	_	_	_	_	_	_	Shift=2876
+7	``	_	_	_	_	_	_	_	RuCor_chain_id=3430|RuCor_group_id=475019|Shift=2887|SpaceAfter=No
+8	ВКонтакте	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3430|RuCor_group_id=475019|RuCor_link_id=475015|Shift=2888|SpaceAfter=No
+9	''	_	_	_	_	_	_	_	RuCor_chain_id=3430|RuCor_group_id=475019|Shift=2897
+10	вошел	_	_	_	_	_	_	_	Shift=2899
+11	инвестор	_	_	_	_	_	_	_	RuCor_chain_id=3443|RuCor_group_id=475020|Shift=2905
+12	Юрий	_	_	_	_	_	_	_	RuCor_chain_id=3443|RuCor_group_id=475020|Shift=2914
+13	Мильнер	_	_	_	_	_	_	_	RuCor_chain_id=3443|RuCor_group_id=475020|Shift=2919|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=2926
+
+# sent_id = 3651a800-7d68-4414-a600-093e67967997-p8-s6
+# text = Позже его доля перешла под контроль Mail.ru Group и Алишера Усманова.
+1	Позже	_	_	_	_	_	_	_	Shift=2928
+2	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3443|RuCor_group_id=475021|RuCor_link_id=475020|Shift=2934
+3	доля	_	_	_	_	_	_	_	Shift=2938
+4	перешла	_	_	_	_	_	_	_	Shift=2943
+5	под	_	_	_	_	_	_	_	Shift=2951
+6	контроль	_	_	_	_	_	_	_	Shift=2955
+7	Mail.ru	_	_	_	_	_	_	_	RuCor_chain_id=3436|RuCor_group_id=475022|Shift=2964
+8	Group	_	_	_	_	_	_	_	RuCor_chain_id=3436|RuCor_group_id=475022|Shift=2972
+9	и	_	_	_	_	_	_	_	Shift=2978
+10	Алишера	_	_	_	_	_	_	_	RuCor_chain_id=3435|RuCor_group_id=475023|Shift=2980
+11	Усманова	_	_	_	_	_	_	_	RuCor_chain_id=3435|RuCor_group_id=475023|Shift=2988|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=2996
+
+# sent_id = 3651a800-7d68-4414-a600-093e67967997-p8-s7
+# text = В итоге Усманов стал владельцем 39, 9 процента акций ``ВКонтакте''.
+1	В	_	_	_	_	_	_	_	Shift=2998
+2	итоге	_	_	_	_	_	_	_	Shift=3000
+3	Усманов	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3435|RuCor_group_id=475024|RuCor_link_id=475023|Shift=3006
+4	стал	_	_	_	_	_	_	_	Shift=3014
+5	владельцем	_	_	_	_	_	_	_	Shift=3019
+6	39	_	_	_	_	_	_	_	Shift=3030|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=3032
+8	9	_	_	_	_	_	_	_	Shift=3033
+9	процента	_	_	_	_	_	_	_	Shift=3035
+10	акций	_	_	_	_	_	_	_	Shift=3044
+11	``	_	_	_	_	_	_	_	RuCor_chain_id=3430|RuCor_group_id=475025|Shift=3050|SpaceAfter=No
+12	ВКонтакте	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3430|RuCor_group_id=475025|RuCor_link_id=475019|Shift=3051|SpaceAfter=No
+13	''	_	_	_	_	_	_	_	RuCor_chain_id=3430|RuCor_group_id=475025|Shift=3060|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=3061
+
+# newpar id = 3651a800-7d68-4414-a600-093e67967997-p9
+# par_text = В апреле 2013 года Мирилашвили и Левиев продали свои доли фонду UCP, принадлежащему Илье Щербовичу (Щербович известен своими связями с нефтегазовой отраслью, он входит в совет директоров таких компаний, как «Роснефть» и «Транснефть»). В настоящее время UCP принадлежит 48 процентов акций социальной сети. Самому Дурову принадлежит только 12 процентов. При этом за Дуровым остается право голосовать пакетом Mail.ru.
+# sent_id = 3651a800-7d68-4414-a600-093e67967997-p9-s1
+# text = В апреле 2013 года Мирилашвили и Левиев продали свои доли фонду UCP, принадлежащему Илье Щербовичу (Щербович известен своими связями с нефтегазовой отраслью, он входит в совет директоров таких компаний, как ``Роснефть'' и ``Транснефть'').
+1	В	_	_	_	_	_	_	_	Shift=3063
+2	апреле	_	_	_	_	_	_	_	Shift=3065
+3	2013	_	_	_	_	_	_	_	Shift=3072
+4	года	_	_	_	_	_	_	_	Shift=3077
+5	Мирилашвили	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3441|RuCor_group_id=475026|RuCor_link_id=475018|Shift=3082
+6	и	_	_	_	_	_	_	_	Shift=3094
+7	Левиев	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3442|RuCor_group_id=475027|RuCor_link_id=475017|Shift=3096
+8	продали	_	_	_	_	_	_	_	Shift=3103
+9	свои	_	_	_	_	_	_	_	Shift=3111
+10	доли	_	_	_	_	_	_	_	Shift=3116
+11	фонду	_	_	_	_	_	_	_	Shift=3121
+12	UCP	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3439|RuCor_group_id=475028|RuCor_link_id=475000|Shift=3127|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=3130
+14	принадлежащему	_	_	_	_	_	_	_	Shift=3132
+15	Илье	_	_	_	_	_	_	_	RuCor_chain_id=3444|RuCor_group_id=475029|Shift=3147
+16	Щербовичу	_	_	_	_	_	_	_	RuCor_chain_id=3444|RuCor_group_id=475029|Shift=3152
+17	(	_	_	_	_	_	_	_	Shift=3162|SpaceAfter=No
+18	Щербович	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3444|RuCor_group_id=475030|RuCor_link_id=475029|Shift=3163
+19	известен	_	_	_	_	_	_	_	Shift=3172
+20	своими	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3444|RuCor_group_id=475031|RuCor_link_id=475030|Shift=3181
+21	связями	_	_	_	_	_	_	_	Shift=3188
+22	с	_	_	_	_	_	_	_	Shift=3196
+23	нефтегазовой	_	_	_	_	_	_	_	Shift=3198
+24	отраслью	_	_	_	_	_	_	_	Shift=3211|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=3219
+26	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3444|RuCor_group_id=475032|RuCor_link_id=475031|Shift=3221
+27	входит	_	_	_	_	_	_	_	Shift=3224
+28	в	_	_	_	_	_	_	_	Shift=3231
+29	совет	_	_	_	_	_	_	_	Shift=3233
+30	директоров	_	_	_	_	_	_	_	Shift=3239
+31	таких	_	_	_	_	_	_	_	Shift=3250
+32	компаний	_	_	_	_	_	_	_	Shift=3256|SpaceAfter=No
+33	,	_	_	_	_	_	_	_	Shift=3264
+34	как	_	_	_	_	_	_	_	Shift=3266
+35	``	_	_	_	_	_	_	_	Shift=3270|SpaceAfter=No
+36	Роснефть	_	_	_	_	_	_	_	Shift=3271|SpaceAfter=No
+37	''	_	_	_	_	_	_	_	Shift=3279
+38	и	_	_	_	_	_	_	_	Shift=3281
+39	``	_	_	_	_	_	_	_	Shift=3283|SpaceAfter=No
+40	Транснефть	_	_	_	_	_	_	_	Shift=3284|SpaceAfter=No
+41	''	_	_	_	_	_	_	_	Shift=3294|SpaceAfter=No
+42	)	_	_	_	_	_	_	_	Shift=3295|SpaceAfter=No
+43	.	_	_	_	_	_	_	_	Shift=3296
+
+# sent_id = 3651a800-7d68-4414-a600-093e67967997-p9-s2
+# text = В настоящее время UCP принадлежит 48 процентов акций социальной сети.
+1	В	_	_	_	_	_	_	_	Shift=3298
+2	настоящее	_	_	_	_	_	_	_	Shift=3300
+3	время	_	_	_	_	_	_	_	Shift=3310
+4	UCP	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3439|RuCor_group_id=475033|RuCor_link_id=475028|Shift=3316
+5	принадлежит	_	_	_	_	_	_	_	Shift=3320
+6	48	_	_	_	_	_	_	_	Shift=3332
+7	процентов	_	_	_	_	_	_	_	Shift=3335
+8	акций	_	_	_	_	_	_	_	Shift=3345
+9	социальной	_	_	_	_	_	_	_	RuCor_chain_id=3430|RuCor_group_id=475034|Shift=3351
+10	сети	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3430|RuCor_group_id=475034|RuCor_link_id=475025|Shift=3362|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=3366
+
+# sent_id = 3651a800-7d68-4414-a600-093e67967997-p9-s3
+# text = Самому Дурову принадлежит только 12 процентов.
+1	Самому	_	_	_	_	_	_	_	RuCor_chain_id=3431|RuCor_group_id=475035|Shift=3368
+2	Дурову	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3431|RuCor_group_id=475035|RuCor_link_id=475013|Shift=3375
+3	принадлежит	_	_	_	_	_	_	_	Shift=3382
+4	только	_	_	_	_	_	_	_	Shift=3394
+5	12	_	_	_	_	_	_	_	Shift=3401
+6	процентов	_	_	_	_	_	_	_	Shift=3404|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=3413
+
+# sent_id = 3651a800-7d68-4414-a600-093e67967997-p9-s4
+# text = При этом за Дуровым остается право голосовать пакетом Mail.ru.
+1	При	_	_	_	_	_	_	_	Shift=3415
+2	этом	_	_	_	_	_	_	_	Shift=3419
+3	за	_	_	_	_	_	_	_	Shift=3424
+4	Дуровым	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3431|RuCor_group_id=475036|RuCor_link_id=475035|Shift=3427
+5	остается	_	_	_	_	_	_	_	Shift=3435
+6	право	_	_	_	_	_	_	_	Shift=3444
+7	голосовать	_	_	_	_	_	_	_	Shift=3450
+8	пакетом	_	_	_	_	_	_	_	Shift=3461
+9	Mail.ru	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3436|RuCor_group_id=475037|RuCor_link_id=475022|Shift=3469|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	_
+

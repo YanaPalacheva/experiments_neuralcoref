@@ -1,0 +1,429 @@
+#begin document (cctv_0005_14); part 000
+cctv_0005	14	0	Ah	UH	(TOP(SBARQ(INTJ*)	-	-	-	Wang_shilin	-
+cctv_0005	14	1	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	14	2	apart	RB	(ADVP*	-	-	-	Wang_shilin	-
+cctv_0005	14	3	from	IN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	14	4	this	DT	(NP*)))	-	-	-	Wang_shilin	-
+cctv_0005	14	5	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	14	6	Professor	NNP	(NP*	-	-	-	Wang_shilin	(113
+cctv_0005	14	7	Zhou	NNP	*)	-	-	-	Wang_shilin	113)
+cctv_0005	14	8	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	14	9	what	WP	(WHNP*)	-	-	-	Wang_shilin	-
+cctv_0005	14	10	do	VBP	(SQ*	do	01	-	Wang_shilin	-
+cctv_0005	14	11	you	PRP	(NP*)	-	-	-	Wang_shilin	(113)
+cctv_0005	14	12	think	VB	(VP*	think	01	1	Wang_shilin	-
+cctv_0005	14	13	are	VBP	(SBAR(S(VP*	be	01	2	Wang_shilin	-
+cctv_0005	14	14	the	DT	(NP(NP*	-	-	-	Wang_shilin	-
+cctv_0005	14	15	areas	NNS	*)	-	-	-	Wang_shilin	-
+cctv_0005	14	16	for	IN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	14	17	improvement	NN	(NP*))	-	-	-	Wang_shilin	-
+cctv_0005	14	18	for	IN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	14	19	a	DT	(NP(NP*	-	-	-	Wang_shilin	-
+cctv_0005	14	20	city	NN	*)	-	-	-	Wang_shilin	-
+cctv_0005	14	21	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	14	22	especially	RB	(NP(ADVP*)	-	-	-	Wang_shilin	-
+cctv_0005	14	23	a	DT	*	-	-	-	Wang_shilin	-
+cctv_0005	14	24	booming	JJ	*	-	-	-	Wang_shilin	-
+cctv_0005	14	25	city	NN	*))))	-	-	-	Wang_shilin	-
+cctv_0005	14	26	,	,	*	-	-	-	Wang_shilin	-
+cctv_0005	14	27	when	WRB	(SBAR(WHADVP*)	-	-	-	Wang_shilin	-
+cctv_0005	14	28	handling	VBG	(S(VP*	handle	01	2	Wang_shilin	-
+cctv_0005	14	29	this	DT	(NP(NP*	-	-	-	Wang_shilin	-
+cctv_0005	14	30	kind	NN	*)	-	-	-	Wang_shilin	-
+cctv_0005	14	31	of	IN	(PP*	-	-	-	Wang_shilin	-
+cctv_0005	14	32	public	JJ	(NP*	-	-	-	Wang_shilin	-
+cctv_0005	14	33	emergency	NN	*)))))))))))	-	-	-	Wang_shilin	-
+cctv_0005	14	34	?	.	*))	-	-	-	Wang_shilin	-
+
+cctv_0005	14	0	Right	UH	(TOP(S(INTJ*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	1	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	2	I	PRP	(NP*)	-	-	-	Zhou_hanhua	(113)
+cctv_0005	14	3	think	VBP	(VP*	think	01	1	Zhou_hanhua	-
+cctv_0005	14	4	this	DT	(SBAR(S(NP*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	5	gave	VBD	(VP*	give	01	4	Zhou_hanhua	-
+cctv_0005	14	6	us	PRP	(NP*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	7	many	JJ	(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	8	revelations	NNS	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	9	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	10	ah	UH	(INTJ*)))))	-	-	-	Zhou_hanhua	-
+cctv_0005	14	11	.	.	*))	-	-	-	Zhou_hanhua	-
+
+cctv_0005	14	0	First	RB	(TOP(S(ADVP*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	1	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	2	I	PRP	(NP*)	-	-	-	Zhou_hanhua	(113)
+cctv_0005	14	3	think	VBP	(VP*	think	01	1	Zhou_hanhua	-
+cctv_0005	14	4	one	CD	(SBAR(S(NP(NP*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	5	that	WDT	(SBAR(WHNP*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	6	should	MD	(S(VP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	7	be	VB	(VP*	be	01	1	Zhou_hanhua	-
+cctv_0005	14	8	especially	RB	(ADJP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	9	important	JJ	*))))))	-	-	-	Zhou_hanhua	-
+cctv_0005	14	10	is	VBZ	(VP*	be	01	2	Zhou_hanhua	(27)
+cctv_0005	14	11	early	JJ	(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	12	warnings	NNS	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	13	and	CC	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	14	forecasts	NNS	*)))))	-	-	-	Zhou_hanhua	-
+cctv_0005	14	15	.	.	*))	-	-	-	Zhou_hanhua	-
+
+cctv_0005	14	0	This	DT	(TOP(S(NP*)	-	-	-	Zhou_hanhua	(27)
+cctv_0005	14	1	is	VBZ	(VP*	be	01	1	Zhou_hanhua	-
+cctv_0005	14	2	because	IN	(SBAR*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	3	currently	RB	(S(ADVP*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	4	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	5	there	EX	(NP*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	6	are	VBP	(VP*	be	02	3	Zhou_hanhua	-
+cctv_0005	14	7	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	8	ah	UH	(INTJ*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	9	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	10	frequently	RB	(ADVP*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	11	various	JJ	(NP(NP(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	12	kinds	NNS	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	13	of	IN	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	14	risks	NNS	(NP*)))	-	-	-	Zhou_hanhua	-
+cctv_0005	14	15	lurking	VBG	(VP*	lurk	01	2	Zhou_hanhua	-
+cctv_0005	14	16	in	IN	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	17	cities	NNS	(NP*))))	-	-	-	Zhou_hanhua	-
+cctv_0005	14	18	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	19	ah	UH	(INTJ*)))))	-	-	-	Zhou_hanhua	-
+cctv_0005	14	20	.	.	*))	-	-	-	Zhou_hanhua	-
+
+cctv_0005	14	0	Early	JJ	(TOP(NP*	-	-	-	Wang_shilin	-
+cctv_0005	14	1	warnings	NNS	*	-	-	-	Wang_shilin	-
+cctv_0005	14	2	and	CC	*	-	-	-	Wang_shilin	-
+cctv_0005	14	3	forecasts	NNS	*	-	-	-	Wang_shilin	-
+cctv_0005	14	4	.	.	*))	-	-	-	Wang_shilin	-
+
+cctv_0005	14	0	Yes	UH	(TOP(FRAG(INTJ*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	1	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	2	this	DT	(NP(NP*	-	-	-	Zhou_hanhua	(52
+cctv_0005	14	3	kind	NN	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	4	of	IN	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	5	early	JJ	(NP(NML*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	6	warning	NN	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	7	and	CC	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	8	forecast	NN	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	9	mechanism	NN	*)))	-	-	-	Zhou_hanhua	52)
+cctv_0005	14	10	.	.	*))	-	-	-	Zhou_hanhua	-
+
+cctv_0005	14	0	Uh-huh	UH	(TOP(INTJ*	-	-	-	Wang_shilin	-
+cctv_0005	14	1	.	.	*))	-	-	-	Wang_shilin	-
+
+cctv_0005	14	0	It	PRP	(TOP(S(S(NP*)	-	-	-	Zhou_hanhua	(52)
+cctv_0005	14	1	is	VBZ	(VP*	be	01	1	Zhou_hanhua	-
+cctv_0005	14	2	not	RB	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	3	only	RB	(ADVP*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	4	for	IN	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	5	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	6	this	DT	(NP(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	7	kind	NN	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	8	of	IN	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	9	sudden	JJ	(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	10	road	NN	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	11	cave	NN	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	12	-	HYPH	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	13	in	NN	*))))))	-	-	-	Zhou_hanhua	-
+cctv_0005	14	14	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	15	it	PRP	(S(NP*)	-	-	-	Zhou_hanhua	(52)
+cctv_0005	14	16	also	RB	(ADVP*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	17	includes	VBZ	(VP*	include	01	1	Zhou_hanhua	-
+cctv_0005	14	18	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	19	for	IN	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	20	instance	NN	(NP*))	-	-	-	Zhou_hanhua	-
+cctv_0005	14	21	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	22	security	NN	(NP(NP(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	23	incidents	NNS	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	24	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	25	ah	UH	(INTJ*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	26	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	27	in	IN	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	28	our	PRP$	(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	29	society	NN	*)))	-	-	-	Zhou_hanhua	-
+cctv_0005	14	30	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	31	as	RB	(CONJP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	32	well	RB	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	33	as	IN	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	34	natural	JJ	(UCP(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	35	disasters	NNS	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	36	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	37	ah	UH	(INTJ*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	38	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	39	and	CC	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	40	including	VBG	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	41	public	JJ	(NP(NML*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	42	health	NN	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	43	incidents	NNS	*))))))	-	-	-	Zhou_hanhua	-
+cctv_0005	14	44	.	.	*))	-	-	-	Zhou_hanhua	-
+
+cctv_0005	14	0	Uh-huh	UH	(TOP(INTJ*	-	-	-	Wang_shilin	-
+cctv_0005	14	1	.	.	*))	-	-	-	Wang_shilin	-
+
+cctv_0005	14	0	That	RB	(TOP(S(ADVP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	1	is	RB	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	2	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	3	this	DT	(NP(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	4	kind	NN	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	5	of	IN	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	6	scientific	JJ	(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	7	early	JJ	(NML*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	8	warning	NN	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	9	and	CC	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	10	forecast	NN	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	11	mechanism	NN	*)))	-	-	-	Zhou_hanhua	-
+cctv_0005	14	12	must	MD	(VP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	13	be	VB	(VP*	be	03	-	Zhou_hanhua	-
+cctv_0005	14	14	set	VBN	(VP*	set	03	-	Zhou_hanhua	-
+cctv_0005	14	15	up	RP	(PRT*))))	-	-	-	Zhou_hanhua	-
+cctv_0005	14	16	.	.	*))	-	-	-	Zhou_hanhua	-
+
+cctv_0005	14	0	Uh-huh	UH	(TOP(INTJ*	-	-	-	Wang_shilin	-
+cctv_0005	14	1	.	.	*))	-	-	-	Wang_shilin	-
+
+cctv_0005	14	0	In	IN	(TOP(S(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	1	this	DT	(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	2	way	NN	*))	-	-	-	Zhou_hanhua	-
+cctv_0005	14	3	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	4	you	PRP	(NP*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	5	can	MD	(VP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	6	manage	VB	(VP*	manage	01	2	Zhou_hanhua	-
+cctv_0005	14	7	and	CC	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	8	resolve	VB	*	resolve	01	1	Zhou_hanhua	-
+cctv_0005	14	9	an	DT	(NP*	-	-	-	Zhou_hanhua	(31
+cctv_0005	14	10	abnormal	JJ	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	11	situation	NN	*)	-	-	-	Zhou_hanhua	31)
+cctv_0005	14	12	by	IN	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	13	turning	VBG	(S(VP*	turn	02	2	Zhou_hanhua	-
+cctv_0005	14	14	it	PRP	(NP*)	-	-	-	Zhou_hanhua	(31)
+cctv_0005	14	15	into	IN	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	16	a	DT	(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	17	normal	JJ	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	18	situation	NN	*))	-	-	-	Zhou_hanhua	-
+cctv_0005	14	19	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	20	without	IN	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	21	evolving	VBG	(S(VP*	evolve	01	2	Zhou_hanhua	-
+cctv_0005	14	22	into	IN	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	23	a	DT	(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	24	sudden	JJ	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	25	public	JJ	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	26	emergency	NN	*))))))))))	-	-	-	Zhou_hanhua	-
+cctv_0005	14	27	.	.	*))	-	-	-	Zhou_hanhua	-
+
+cctv_0005	14	0	Uh-huh	UH	(TOP(INTJ*	-	-	-	Wang_shilin	-
+cctv_0005	14	1	.	.	*))	-	-	-	Wang_shilin	-
+
+cctv_0005	14	0	Another	DT	(TOP(S(NP(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	1	thing	NN	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	2	I	PRP	(SBAR(S(NP*)	-	-	-	Zhou_hanhua	(113)
+cctv_0005	14	3	want	VBP	(VP*	want	01	1	Zhou_hanhua	-
+cctv_0005	14	4	to	TO	(S(VP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	5	say	VB	(VP*)))))))	say	01	1	Zhou_hanhua	-
+cctv_0005	14	6	is	VBZ	(VP*	be	01	2	Zhou_hanhua	-
+cctv_0005	14	7	that	IN	(SBAR*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	8	besides	IN	(S(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	9	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	10	ah	UH	(INTJ*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	11	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	12	emergency	NN	(NP(NML(NML*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	13	response	NN	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	14	and	CC	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	15	speedy	JJ	(NML*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	16	integration	NN	*))	-	-	-	Zhou_hanhua	-
+cctv_0005	14	17	mechanisms	NNS	*))	-	-	-	Zhou_hanhua	-
+cctv_0005	14	18	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	19	I	PRP	(NP*)	-	-	-	Zhou_hanhua	(113)
+cctv_0005	14	20	think	VBP	(VP*	think	01	1	Zhou_hanhua	-
+cctv_0005	14	21	some	DT	(SBAR(S(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	22	corresponding	JJ	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	23	improvements	NNS	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	24	should	MD	(VP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	25	be	VB	(VP*	be	03	-	Zhou_hanhua	-
+cctv_0005	14	26	made	VBN	(VP*	make	01	1	Zhou_hanhua	-
+cctv_0005	14	27	to	IN	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	28	the	DT	(NP(NP(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	29	release	NN	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	30	of	IN	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	31	information	NN	(NP*)))	-	-	-	Zhou_hanhua	-
+cctv_0005	14	32	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	33	incident	NN	(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	34	investigation	NN	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	35	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	36	ah	UH	(INTJ*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	37	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	38	and	CC	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	39	the	DT	(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	40	relevant	JJ	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	41	post-incident	JJ	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	42	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	43	responsibility	NN	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	44	system	NN	*))))))))))))	-	-	-	Zhou_hanhua	-
+cctv_0005	14	45	.	.	*))	-	-	-	Zhou_hanhua	-
+
+cctv_0005	14	0	In	IN	(TOP(S(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	1	fact	NN	(NP*))	-	-	-	Zhou_hanhua	-
+cctv_0005	14	2	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	3	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	4	that	RB	(ADVP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	5	is	RB	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	6	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	7	we	PRP	(NP*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	8	should	MD	(VP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	9	say	VB	(VP*	say	01	1	Zhou_hanhua	-
+cctv_0005	14	10	that	IN	(SBAR*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	11	the	DT	(S(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	12	government	NN	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	13	already	RB	(ADVP*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	14	has	VBZ	(VP*	have	03	2	Zhou_hanhua	-
+cctv_0005	14	15	quite	PDT	(NP(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	16	a	DT	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	17	number	NN	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	18	of	IN	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	19	relevant	JJ	(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	20	systems	NNS	*)))	-	-	-	Zhou_hanhua	-
+cctv_0005	14	21	in	IN	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	22	this	DT	(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	23	respect	NN	*)))))))	-	-	-	Zhou_hanhua	-
+cctv_0005	14	24	.	.	*))	-	-	-	Zhou_hanhua	-
+
+cctv_0005	14	0	For	IN	(TOP(S(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	1	instance	NN	(NP*))	-	-	-	Zhou_hanhua	-
+cctv_0005	14	2	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	3	we	PRP	(NP*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	4	have	VBP	(VP*	have	03	2	Zhou_hanhua	-
+cctv_0005	14	5	an	DT	(NP(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	6	administrative	JJ	(NML*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	7	investigation	NN	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	8	system	NN	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	9	for	IN	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	10	incidents	NNS	(NP(NP*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	11	of	IN	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	12	major	JJ	(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	13	responsibility	NN	*))))))	-	-	-	Zhou_hanhua	-
+cctv_0005	14	14	.	.	*))	-	-	-	Zhou_hanhua	-
+
+cctv_0005	14	0	We	PRP	(TOP(S(NP*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	1	have	VBP	(VP*	have	03	2	Zhou_hanhua	-
+cctv_0005	14	2	regulations	NNS	(NP(NP*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	3	on	IN	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	4	investigation	NN	(NP(NP(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	5	procedures	NNS	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	6	for	IN	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	7	very	RB	(NP(ADJP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	8	major	JJ	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	9	incidents	NNS	*)))	-	-	-	Zhou_hanhua	-
+cctv_0005	14	10	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	11	as	RB	(CONJP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	12	well	RB	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	13	as	IN	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	14	others	NNS	(NP(NP*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	15	such	JJ	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	16	as	IN	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	17	emergency	NN	(NP(NP(NML*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	18	response	NN	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	19	methods	NNS	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	20	for	IN	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	21	handling	VBG	(S(VP*	handle	01	2	Zhou_hanhua	-
+cctv_0005	14	22	public	JJ	(NP(NP(NML*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	23	health	NN	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	24	incidents	NNS	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	25	and	CC	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	26	public	JJ	(NP(NML*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	27	health	NN	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	28	emergencies	NNS	*))))))))	-	-	-	Zhou_hanhua	-
+cctv_0005	14	29	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	30	among	IN	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	31	others	NNS	(NP*))))))	-	-	-	Zhou_hanhua	-
+cctv_0005	14	32	.	.	*))	-	-	-	Zhou_hanhua	-
+
+cctv_0005	14	0	That	DT	(TOP(S(PRN(S(NP*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	1	is	VBZ	(VP*	be	01	9	Zhou_hanhua	-
+cctv_0005	14	2	to	TO	(S(VP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	3	say	VB	(VP*))))))	say	01	1	Zhou_hanhua	-
+cctv_0005	14	4	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	5	we	PRP	(NP*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	6	have	VBP	(VP*	have	03	2	Zhou_hanhua	-
+cctv_0005	14	7	many	JJ	(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	8	corresponding	JJ	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	9	systems	NNS	*))	-	-	-	Zhou_hanhua	-
+cctv_0005	14	10	.	.	*))	-	-	-	Zhou_hanhua	-
+
+cctv_0005	14	0	However	RB	(TOP(S(ADVP*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	1	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	2	the	DT	(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	3	question	NN	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	4	is	VBZ	(VP*	be	01	2	Zhou_hanhua	-
+cctv_0005	14	5	how	WRB	(SBAR(WHADVP*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	6	city	NN	(S(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	7	management	NN	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	8	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	9	er	UH	(INTJ*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	10	,	,	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	11	handles	VBZ	(VP*	handle	01	2	Zhou_hanhua	-
+cctv_0005	14	12	these	DT	(NP(NP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	13	various	JJ	*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	14	kinds	NNS	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	15	of	IN	(PP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	16	perhaps	RB	(NP(ADJP*	-	-	-	Zhou_hanhua	-
+cctv_0005	14	17	unpredictable	JJ	*)	-	-	-	Zhou_hanhua	-
+cctv_0005	14	18	cases	NNS	*)))))))	-	-	-	Zhou_hanhua	-
+cctv_0005	14	19	.	.	*))	-	-	-	Zhou_hanhua	-
+
+cctv_0005	14	0	Since	IN	(TOP(S(SBAR*	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	1	we	PRP	(S(NP*)	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	2	are	VBP	(VP*	be	03	-	Zhou_hanhua	*	*
+cctv_0005	14	3	entering	VBG	(VP*	enter	01	1	Zhou_hanhua	*	*
+cctv_0005	14	4	new	JJ	(NP(NP(NP*	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	5	circumstances	NNS	*)	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	6	of	IN	(PP*	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	7	human	JJ	(NP*	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	8	living	NN	*)))	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	9	,	,	*	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	10	circumstances	NNS	(NP(NP*)	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	11	that	WDT	(SBAR(WHNP*)	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	12	contain	VBP	(S(VP(VP*	contain	01	1	Zhou_hanhua	*	*
+cctv_0005	14	13	high	JJ	(NP*	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	14	risk	NN	*))	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	15	and	CC	*	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	16	have	VBP	(VP*	have	03	2	Zhou_hanhua	*	*
+cctv_0005	14	17	an	DT	(NP*	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	18	increasingly	RB	(ADJP*	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	19	developed	VBN	*)	develop	02	-	Zhou_hanhua	*	*
+cctv_0005	14	20	urbanized	JJ	*	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	21	life	NN	*)))))))))))	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	22	,	,	*	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	23	well	UH	(INTJ*)	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	24	,	,	*	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	25	I	PRP	(NP*)	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	26	think	VBP	(VP*	think	01	1	Zhou_hanhua	*	*
+cctv_0005	14	27	corresponding	JJ	(SBAR(S(NP(NP*	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	28	improvements	NNS	*))	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	29	should	MD	(VP*	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	30	be	VB	(VP*	be	03	-	Zhou_hanhua	*	*
+cctv_0005	14	31	made	VBN	(VP*	make	01	1	Zhou_hanhua	*	*
+cctv_0005	14	32	to	IN	(PP*	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	33	the	DT	(NP(NP*	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	34	formation	NN	*)	formation	01	3	Zhou_hanhua	*	*
+cctv_0005	14	35	of	IN	(PP*	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	36	a	DT	(NP(NP*	-	-	-	Zhou_hanhua	(ARG2*	(ARG2*
+cctv_0005	14	37	series	NN	*)	-	-	-	Zhou_hanhua	*)	*)
+cctv_0005	14	38	of	IN	(PP*	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	39	systems	NNS	(NP*))	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	40	that	WDT	(SBAR(WHNP*)	-	-	-	Zhou_hanhua	(R-ARG2*)	(R-ARG2*)
+cctv_0005	14	41	includes	VBZ	(S(VP*	include	01	1	Zhou_hanhua	(V*)	(V*)
+cctv_0005	14	42	scientific	JJ	(NP(NP*	-	-	-	Zhou_hanhua	(ARG1*	(ARG1*
+cctv_0005	14	43	planning	NN	*)	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	44	,	,	*	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	45	early	JJ	(NP*	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	46	warning	NN	*	warning	01	1	Zhou_hanhua	*	*
+cctv_0005	14	47	and	CC	*	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	48	forecast	NN	*)	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	49	,	,	*	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	50	emergency	NN	(NP*	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	51	response	NN	*)	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	52	,	,	*	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	53	accident	NN	(NP*	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	54	investigation	NN	*)	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	55	,	,	*	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	56	and	CC	*	-	-	-	Zhou_hanhua	*	*
+cctv_0005	14	57	accountability	NN	(NP*)))))))))))))))	-	-	-	Zhou_hanhua	*)	*)
+cctv_0005	14	58	.	.	*))	-	-	-	Zhou_hanhua	*	*
+
+#end document

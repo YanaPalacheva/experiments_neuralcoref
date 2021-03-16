@@ -1,0 +1,114 @@
+#begin document (cctv_0005_0); part 000
+cctv_0005	0	0	--	:	(TOP(S*	-	-	-	speaker#1	-
+cctv_0005	0	1	basically	RB	(ADVP*)	-	-	-	speaker#1	-
+cctv_0005	0	2	,	,	*	-	-	-	speaker#1	-
+cctv_0005	0	3	it	PRP	(NP*)	-	-	-	speaker#1	-
+cctv_0005	0	4	was	VBD	(VP*	be	03	-	speaker#1	-
+cctv_0005	0	5	unanimously	RB	(ADVP*)	-	-	-	speaker#1	-
+cctv_0005	0	6	agreed	VBN	(VP*	agree	01	1	speaker#1	-
+cctv_0005	0	7	upon	IN	(PP*)	-	-	-	speaker#1	-
+cctv_0005	0	8	by	IN	(PP*	-	-	-	speaker#1	-
+cctv_0005	0	9	the	DT	(NP*	-	-	-	speaker#1	-
+cctv_0005	0	10	various	JJ	*	-	-	-	speaker#1	-
+cctv_0005	0	11	relevant	JJ	*	-	-	-	speaker#1	-
+cctv_0005	0	12	parties	NNS	*))))	-	-	-	speaker#1	-
+cctv_0005	0	13	.	.	*))	-	-	-	speaker#1	-
+
+cctv_0005	0	0	To	TO	(TOP(S(S(VP*	-	-	-	speaker#1	-
+cctv_0005	0	1	express	VB	(VP*	express	01	1	speaker#1	-
+cctv_0005	0	2	its	PRP$	(NP*	-	-	-	speaker#1	(42)
+cctv_0005	0	3	determination	NN	*))))	-	-	-	speaker#1	-
+cctv_0005	0	4	,	,	*	-	-	-	speaker#1	-
+cctv_0005	0	5	the	DT	(NP*	-	-	-	speaker#1	(42
+cctv_0005	0	6	Chinese	JJ	*	-	-	-	speaker#1	-
+cctv_0005	0	7	securities	NNS	*	-	-	-	speaker#1	-
+cctv_0005	0	8	regulatory	JJ	*	-	-	-	speaker#1	-
+cctv_0005	0	9	department	NN	*)	-	-	-	speaker#1	42)
+cctv_0005	0	10	compares	VBZ	(VP*	compare	01	2	speaker#1	-
+cctv_0005	0	11	this	DT	(NP*	-	-	-	speaker#1	(32
+cctv_0005	0	12	stock	NN	*	-	-	-	speaker#1	-
+cctv_0005	0	13	reform	NN	*)	-	-	-	speaker#1	32)
+cctv_0005	0	14	to	IN	(PP*	-	-	-	speaker#1	-
+cctv_0005	0	15	a	DT	(NP(NP*	-	-	-	speaker#1	-
+cctv_0005	0	16	die	NN	*)	-	-	-	speaker#1	-
+cctv_0005	0	17	that	WDT	(SBAR(WHNP*)	-	-	-	speaker#1	-
+cctv_0005	0	18	has	VBZ	(S(VP*	have	01	-	speaker#1	-
+cctv_0005	0	19	been	VBN	(VP*	be	03	-	speaker#1	-
+cctv_0005	0	20	cast	VBN	(VP*))))))))	cast	01	1	speaker#1	-
+cctv_0005	0	21	.	.	*))	-	-	-	speaker#1	-
+
+cctv_0005	0	0	It	PRP	(TOP(S(NP(NP*))	-	-	-	speaker#1	-
+cctv_0005	0	1	takes	VBZ	(VP*	take	10	3	speaker#1	-
+cctv_0005	0	2	time	NN	(NP*)	-	-	-	speaker#1	-
+cctv_0005	0	3	to	TO	(S(VP*	-	-	-	speaker#1	-
+cctv_0005	0	4	prove	VB	(VP*	prove	01	1	speaker#1	-
+cctv_0005	0	5	whether	IN	(SBAR(SBAR*	-	-	-	speaker#1	-
+cctv_0005	0	6	the	DT	(S(NP*	-	-	-	speaker#1	(32
+cctv_0005	0	7	stock	NN	*	-	-	-	speaker#1	-
+cctv_0005	0	8	reform	NN	*)	-	-	-	speaker#1	32)
+cctv_0005	0	9	can	MD	(VP*	-	-	-	speaker#1	-
+cctv_0005	0	10	really	RB	(ADVP*)	-	-	-	speaker#1	-
+cctv_0005	0	11	meet	VB	(VP*	meet	01	4	speaker#1	-
+cctv_0005	0	12	expectations	NNS	(NP*)))))	-	-	-	speaker#1	-
+cctv_0005	0	13	,	,	*	-	-	-	speaker#1	-
+cctv_0005	0	14	and	CC	*	-	-	-	speaker#1	-
+cctv_0005	0	15	whether	IN	(SBAR*	-	-	-	speaker#1	-
+cctv_0005	0	16	any	DT	(S(NP(NP*	-	-	-	speaker#1	-
+cctv_0005	0	17	deviations	NNS	*)	-	-	-	speaker#1	-
+cctv_0005	0	18	that	WDT	(SBAR(WHNP*)	-	-	-	speaker#1	-
+cctv_0005	0	19	arise	VBP	(S(VP*	arise	01	1	speaker#1	-
+cctv_0005	0	20	during	IN	(PP*	-	-	-	speaker#1	-
+cctv_0005	0	21	the	DT	(NP*	-	-	-	speaker#1	(32
+cctv_0005	0	22	stock	NN	*	-	-	-	speaker#1	-
+cctv_0005	0	23	reform	NN	*))))))	-	-	-	speaker#1	32)
+cctv_0005	0	24	can	MD	(VP*	-	-	-	speaker#1	-
+cctv_0005	0	25	be	VB	(VP*	be	03	-	speaker#1	-
+cctv_0005	0	26	promptly	RB	(ADVP*)	-	-	-	speaker#1	-
+cctv_0005	0	27	corrected	VBN	(VP*))))))))))	correct	01	1	speaker#1	-
+cctv_0005	0	28	.	.	*))	-	-	-	speaker#1	-
+
+cctv_0005	0	0	Dear	NNP	(TOP(S(NP*	-	-	-	Xu_li	-
+cctv_0005	0	1	viewers	NNS	*)	-	-	-	Xu_li	-
+cctv_0005	0	2	,	,	*	-	-	-	Xu_li	-
+cctv_0005	0	3	the	DT	(NP*	-	-	-	Xu_li	-
+cctv_0005	0	4	China	NNP	(NML*	-	-	-	Xu_li	-
+cctv_0005	0	5	News	NNP	*)	-	-	-	Xu_li	-
+cctv_0005	0	6	program	NN	*)	-	-	-	Xu_li	-
+cctv_0005	0	7	will	MD	(VP*	-	-	-	Xu_li	-
+cctv_0005	0	8	end	VB	(VP*	end	01	1	Xu_li	-
+cctv_0005	0	9	here	RB	(ADVP*)))	-	-	-	Xu_li	-
+cctv_0005	0	10	.	.	*))	-	-	-	Xu_li	-
+
+cctv_0005	0	0	This	DT	(TOP(S(NP*)	-	-	-	Xu_li	-
+cctv_0005	0	1	is	VBZ	(VP*	be	01	1	Xu_li	-
+cctv_0005	0	2	Xu	JJ	(NP*	-	-	-	Xu_li	-
+cctv_0005	0	3	Li	NNP	*))	-	-	-	Xu_li	-
+cctv_0005	0	4	.	.	*))	-	-	-	Xu_li	-
+
+cctv_0005	0	0	Thank	VBP	(TOP(S(VP*	thank	01	1	Xu_li	-
+cctv_0005	0	1	you	PRP	(NP*)	-	-	-	Xu_li	(116)
+cctv_0005	0	2	everyone	NN	(NP*)	-	-	-	Xu_li	(116)
+cctv_0005	0	3	for	IN	(PP*	-	-	-	Xu_li	-
+cctv_0005	0	4	watching	VBG	(S(VP*))))	watch	01	1	Xu_li	-
+cctv_0005	0	5	.	.	*))	-	-	-	Xu_li	-
+
+cctv_0005	0	0	Coming	VBG	(TOP(SINV(VP*	come	11	1	Xu_li	-
+cctv_0005	0	1	up	RP	(PRT*))	-	-	-	Xu_li	-
+cctv_0005	0	2	is	VBZ	(VP*)	be	03	-	Xu_li	-
+cctv_0005	0	3	the	DT	(NP(NP*	-	-	-	Xu_li	-
+cctv_0005	0	4	Focus	NNP	(NML*	-	-	-	Xu_li	-
+cctv_0005	0	5	Today	NNP	*)	-	-	-	Xu_li	-
+cctv_0005	0	6	program	NN	*)	-	-	-	Xu_li	-
+cctv_0005	0	7	hosted	VBN	(VP*	host	01	1	Xu_li	-
+cctv_0005	0	8	by	IN	(PP*	-	-	-	Xu_li	-
+cctv_0005	0	9	Wang	NNP	(NP*	-	-	-	Xu_li	-
+cctv_0005	0	10	Shilin	NNP	*))))	-	-	-	Xu_li	-
+cctv_0005	0	11	.	.	*))	-	-	-	Xu_li	-
+
+cctv_0005	0	0	Good-bye	UH	(TOP(FRAG(INTJ*)	-	-	-	Xu_li	-
+cctv_0005	0	1	,	,	*	-	-	-	Xu_li	-
+cctv_0005	0	2	dear	NN	(NP*	-	-	-	Xu_li	-
+cctv_0005	0	3	viewers	NNS	*)	-	-	-	Xu_li	-
+cctv_0005	0	4	.	.	*))	-	-	-	Xu_li	-
+
+#end document

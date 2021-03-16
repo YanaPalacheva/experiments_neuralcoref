@@ -1,0 +1,477 @@
+#begin document (cnn_0008_3); part 000
+cnn_0008	3	0	Frank	NNP	(TOP(S(NP*	-	-	-	Howard_Kurtz	(170
+cnn_0008	3	1	Sesno	NNP	*)	-	-	-	Howard_Kurtz	170)
+cnn_0008	3	2	the	DT	(NP*	-	-	-	Howard_Kurtz	(108
+cnn_0008	3	3	Times	NNP	*)	-	-	-	Howard_Kurtz	108)
+cnn_0008	3	4	was	VBD	(VP*	be	01	1	Howard_Kurtz	-
+cnn_0008	3	5	so	RB	(ADJP*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	6	hamstrung	JJ	*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	7	by	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	8	its	PRP$	(NP(NP*	-	-	-	Howard_Kurtz	(108)
+cnn_0008	3	9	passionate	JJ	*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	10	embrace	NN	*)	embrace	01	3	Howard_Kurtz	-
+cnn_0008	3	11	of	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	12	this	DT	(NP(NP*	-	-	-	Howard_Kurtz	(79
+cnn_0008	3	13	reporter	NN	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	3	14	who	WP	(SBAR(WHNP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	3	15	after	RB	(S(ADVP*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	16	all	RB	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	3	17	was	VBD	(VP(VP*	be	03	-	Howard_Kurtz	-
+cnn_0008	3	18	facing	VBG	(VP*	face	01	1	Howard_Kurtz	-
+cnn_0008	3	19	jail	NN	(NP*)))	-	-	-	Howard_Kurtz	-
+cnn_0008	3	20	did	VBD	(VP*	do	01	-	Howard_Kurtz	-
+cnn_0008	3	21	go	VB	(VP*	go	02	1	Howard_Kurtz	-
+cnn_0008	3	22	to	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	23	jail	NN	(NP*)))))))))))))	-	-	-	Howard_Kurtz	79)
+cnn_0008	3	24	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	3	0	One	PRP	(TOP(S(NP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	3	1	can	MD	(VP*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	2	understand	VB	(VP*	understand	01	1	Howard_Kurtz	-
+cnn_0008	3	3	the	DT	(NP(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	4	emotions	NNS	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	3	5	uh	UH	(INTJ*)	-	-	-	Howard_Kurtz	-
+cnn_0008	3	6	that	WDT	(SBAR(WHNP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	3	7	were	VBD	(S(VP*	be	03	-	Howard_Kurtz	-
+cnn_0008	3	8	unleashed	VBN	(VP*	unleash	01	1	Howard_Kurtz	-
+cnn_0008	3	9	here	RB	(ADVP*))))))))	-	-	-	Howard_Kurtz	-
+cnn_0008	3	10	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	3	0	and	CC	(TOP(S*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	1	yet	RB	(ADVP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	3	2	the	DT	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	3	editors	NNS	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	3	4	discouraged	VBD	(VP(VP*	discourage	01	2	Howard_Kurtz	-
+cnn_0008	3	5	stories	NNS	(NP(NP*)	story	-	1	Howard_Kurtz	-
+cnn_0008	3	6	on	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	7	the	DT	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	8	CIA	NNP	(NML*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	9	leak	NN	*)	leak	01	3	Howard_Kurtz	-
+cnn_0008	3	10	investigation	NN	*))))	investigation	-	1	Howard_Kurtz	-
+cnn_0008	3	11	and	CC	*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	12	one	CD	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	13	time	NN	*)	time	-	1	Howard_Kurtz	-
+cnn_0008	3	14	killed	VBD	(VP*	kill	01	3	Howard_Kurtz	-
+cnn_0008	3	15	a	DT	(NP(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	16	piece	NN	*)	piece	-	3	Howard_Kurtz	-
+cnn_0008	3	17	written	VBN	(VP*	write	01	-	Howard_Kurtz	-
+cnn_0008	3	18	by	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	19	a	DT	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	20	reporter	NN	*))	-	-	-	Howard_Kurtz	-
+cnn_0008	3	21	about	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	22	Scooter	NNP	(NP*	-	-	-	Howard_Kurtz	(44
+cnn_0008	3	23	Libby	NNP	*))))))	-	-	-	Howard_Kurtz	44)
+cnn_0008	3	24	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	3	0	Was	VBD	(TOP(SQ*	be	01	1	Howard_Kurtz	-
+cnn_0008	3	1	that	DT	(NP*)	-	-	-	Howard_Kurtz	(144)
+cnn_0008	3	2	an	DT	(NP(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	3	abdication	NN	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	3	4	of	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	5	journalistic	JJ	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	6	responsibility	NN	*)))	responsibility	-	1	Howard_Kurtz	-
+cnn_0008	3	7	/?	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	3	0	Maybe	RB	(TOP(FRAG(ADVP*)	-	-	-	Frank_Sesno	-
+cnn_0008	3	1	yeah	UH	(INTJ*)	-	-	-	Frank_Sesno	-
+cnn_0008	3	2	maybe	RB	(ADVP*)	-	-	-	Frank_Sesno	-
+cnn_0008	3	3	/.	.	*))	-	-	-	Frank_Sesno	-
+
+cnn_0008	3	0	I	PRP	(TOP(S(PRN(S(NP*)	-	-	-	Frank_Sesno	(170)
+cnn_0008	3	1	mean	VBP	(VP*)))	mean	01	1	Frank_Sesno	-
+cnn_0008	3	2	what	WP	(SBAR(WHNP*)	-	-	-	Frank_Sesno	-
+cnn_0008	3	3	it	PRP	(S(NP*)	-	-	-	Frank_Sesno	(144)
+cnn_0008	3	4	really	RB	(ADVP*)	-	-	-	Frank_Sesno	-
+cnn_0008	3	5	shows	VBZ	(VP*	show	01	1	Frank_Sesno	-
+cnn_0008	3	6	Howie	NNP	(NP*))))	-	-	-	Frank_Sesno	(201)
+cnn_0008	3	7	I	PRP	(PRN(S(NP*)	-	-	-	Frank_Sesno	(170)
+cnn_0008	3	8	think	VBP	(VP*)))	think	01	1	Frank_Sesno	-
+cnn_0008	3	9	is	VBZ	(VP*	be	01	1	Frank_Sesno	-
+cnn_0008	3	10	just	RB	(SBAR(WHADJP*	-	-	-	Frank_Sesno	-
+cnn_0008	3	11	how	WRB	*	-	-	-	Frank_Sesno	-
+cnn_0008	3	12	difficult	JJ	*)	-	-	-	Frank_Sesno	-
+cnn_0008	3	13	it	PRP	(S(NP(NP*))	-	-	-	Frank_Sesno	-
+cnn_0008	3	14	is	VBZ	(VP*	be	01	1	Frank_Sesno	-
+cnn_0008	3	15	for	IN	(SBAR*	-	-	-	Frank_Sesno	-
+cnn_0008	3	16	news	NN	(S(NP*	news	-	1	Frank_Sesno	(87
+cnn_0008	3	17	organizations	NNS	*)	organization	-	1	Frank_Sesno	87)
+cnn_0008	3	18	to	TO	(VP*	-	-	-	Frank_Sesno	-
+cnn_0008	3	19	report	VB	(VP*	report	01	1	Frank_Sesno	-
+cnn_0008	3	20	on	IN	(PP*	-	-	-	Frank_Sesno	-
+cnn_0008	3	21	themselves	PRP	(NP*))))))))))	-	-	-	Frank_Sesno	(87)
+cnn_0008	3	22	/.	.	*))	-	-	-	Frank_Sesno	-
+
+cnn_0008	3	0	You	PRP	(TOP(S(PRN(S(NP*)	-	-	-	Frank_Sesno	-
+cnn_0008	3	1	know	VBP	(VP*)))	know	01	1	Frank_Sesno	-
+cnn_0008	3	2	news	NN	(NP*	news	-	1	Frank_Sesno	(28
+cnn_0008	3	3	organizations	NNS	*)	organization	-	1	Frank_Sesno	28)
+cnn_0008	3	4	demand	VBP	(VP*	demand	01	2	Frank_Sesno	-
+cnn_0008	3	5	total	JJ	(NP*	-	-	-	Frank_Sesno	-
+cnn_0008	3	6	transparency	NN	*)	-	-	-	Frank_Sesno	-
+cnn_0008	3	7	whether	IN	(SBAR*	-	-	-	Frank_Sesno	-
+cnn_0008	3	8	you	PRP	(S(NP*)	-	-	-	Frank_Sesno	-
+cnn_0008	3	9	're	VBP	(VP*	be	01	1	Frank_Sesno	-
+cnn_0008	3	10	General	NNP	(NP(NP*	-	-	-	Frank_Sesno	-
+cnn_0008	3	11	Motors	NNPS	*)	-	-	-	Frank_Sesno	-
+cnn_0008	3	12	or	CC	*	-	-	-	Frank_Sesno	-
+cnn_0008	3	13	United	NNP	(NP(NML*	-	-	-	Frank_Sesno	-
+cnn_0008	3	14	States	NNP	*)	-	-	-	Frank_Sesno	-
+cnn_0008	3	15	government	NN	*))))))	government	-	1	Frank_Sesno	-
+cnn_0008	3	16	/.	.	*))	-	-	-	Frank_Sesno	-
+
+cnn_0008	3	0	We	PRP	(TOP(S(NP*)	-	-	-	Frank_Sesno	(28)
+cnn_0008	3	1	want	VBP	(VP*	want	01	1	Frank_Sesno	-
+cnn_0008	3	2	access	NN	(NP*))	access	01	1	Frank_Sesno	-
+cnn_0008	3	3	/.	.	*))	-	-	-	Frank_Sesno	-
+
+cnn_0008	3	0	We	PRP	(TOP(S(NP*)	-	-	-	Frank_Sesno	(28)
+cnn_0008	3	1	want	VBP	(VP*	want	01	1	Frank_Sesno	-
+cnn_0008	3	2	explanation	NN	(NP*))	explanation	-	1	Frank_Sesno	-
+cnn_0008	3	3	/.	.	*))	-	-	-	Frank_Sesno	-
+
+cnn_0008	3	0	We	PRP	(TOP(S(NP*)	-	-	-	Frank_Sesno	(28)
+cnn_0008	3	1	want	VBP	(VP*	want	01	1	Frank_Sesno	-
+cnn_0008	3	2	full	JJ	(NP*	-	-	-	Frank_Sesno	-
+cnn_0008	3	3	disclosure	NN	*))	-	-	-	Frank_Sesno	-
+cnn_0008	3	4	/.	.	*))	-	-	-	Frank_Sesno	-
+
+cnn_0008	3	0	But	CC	(TOP(S*	-	-	-	Frank_Sesno	-
+cnn_0008	3	1	it	PRP	(NP(NP*))	-	-	-	Frank_Sesno	-
+cnn_0008	3	2	's	VBZ	(VP*	be	01	1	Frank_Sesno	-
+cnn_0008	3	3	very	RB	(ADJP*	-	-	-	Frank_Sesno	-
+cnn_0008	3	4	difficult	JJ	*)	-	-	-	Frank_Sesno	-
+cnn_0008	3	5	for	IN	(SBAR*	-	-	-	Frank_Sesno	-
+cnn_0008	3	6	them	PRP	(S(NP*)	-	-	-	Frank_Sesno	(28)
+cnn_0008	3	7	to	TO	(VP*	-	-	-	Frank_Sesno	-
+cnn_0008	3	8	do	VB	(VP*	do	02	1	Frank_Sesno	-
+cnn_0008	3	9	it	PRP	(NP*)	-	-	-	Frank_Sesno	-
+cnn_0008	3	10	themselves	PRP	(NP*))))))	-	-	-	Frank_Sesno	(28)
+cnn_0008	3	11	/.	.	*))	-	-	-	Frank_Sesno	-
+
+cnn_0008	3	0	In	IN	(TOP(S(PP*	-	-	-	Frank_Sesno	-
+cnn_0008	3	1	this	DT	(NP*	-	-	-	Frank_Sesno	-
+cnn_0008	3	2	case	NN	*))	case	-	2	Frank_Sesno	-
+cnn_0008	3	3	and	CC	(PRN(S*	-	-	-	Frank_Sesno	-
+cnn_0008	3	4	the	DT	(NP*	-	-	-	Frank_Sesno	(108
+cnn_0008	3	5	Times	NNP	*)	-	-	-	Frank_Sesno	108)
+cnn_0008	3	6	makes	VBZ	(VP*	make	02	3	Frank_Sesno	-
+cnn_0008	3	7	it	PRP	(S(NP*)	-	-	-	Frank_Sesno	-
+cnn_0008	3	8	very	RB	(ADJP*	-	-	-	Frank_Sesno	-
+cnn_0008	3	9	plain	JJ	*)	-	-	-	Frank_Sesno	-
+cnn_0008	3	10	in	IN	(PP*	-	-	-	Frank_Sesno	-
+cnn_0008	3	11	their	PRP$	(NP(NP*	-	-	-	Frank_Sesno	(94|(108)
+cnn_0008	3	12	story	NN	*)	story	-	1	Frank_Sesno	-
+cnn_0008	3	13	today	NN	(NP*)))))))	today	-	2	Frank_Sesno	94)
+cnn_0008	3	14	they	PRP	(NP*)	-	-	-	Frank_Sesno	(108)
+cnn_0008	3	15	really	RB	(ADVP*)	-	-	-	Frank_Sesno	-
+cnn_0008	3	16	suffered	VBD	(VP*)	suffer	01	1	Frank_Sesno	-
+cnn_0008	3	17	/.	.	*))	-	-	-	Frank_Sesno	-
+
+cnn_0008	3	0	They	PRP	(TOP(S(NP*)	-	-	-	Frank_Sesno	(108)
+cnn_0008	3	1	were	VBD	(VP*	be	01	1	Frank_Sesno	-
+cnn_0008	3	2	behind	RB	(ADVP*	-	-	-	Frank_Sesno	-
+cnn_0008	3	3	on	IN	(PP*	-	-	-	Frank_Sesno	-
+cnn_0008	3	4	virtually	RB	(NP(NP(QP*	-	-	-	Frank_Sesno	-
+cnn_0008	3	5	every	DT	*)	-	-	-	Frank_Sesno	-
+cnn_0008	3	6	major	JJ	*	-	-	-	Frank_Sesno	-
+cnn_0008	3	7	aspect	NN	*)	-	-	-	Frank_Sesno	-
+cnn_0008	3	8	of	IN	(PP*	-	-	-	Frank_Sesno	-
+cnn_0008	3	9	the	DT	(NP*	-	-	-	Frank_Sesno	-
+cnn_0008	3	10	story	NN	*))))))	story	-	1	Frank_Sesno	-
+cnn_0008	3	11	/.	.	*))	-	-	-	Frank_Sesno	-
+
+cnn_0008	3	0	Even	RB	(TOP(SBAR(ADVP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	3	1	when	WRB	(WHADVP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	3	2	she	PRP	(S(NP*)	-	-	-	Howard_Kurtz	(79)
+cnn_0008	3	3	went	VBD	(VP*	go	02	1	Howard_Kurtz	-
+cnn_0008	3	4	to	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	5	jail	NN	(NP*))))	-	-	-	Howard_Kurtz	-
+cnn_0008	3	6	/?	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	3	0	Even	RB	(TOP(SBAR(ADVP*)	-	-	-	Frank_Sesno	-
+cnn_0008	3	1	when	WRB	(SBAR(WHADVP*)	-	-	-	Frank_Sesno	-
+cnn_0008	3	2	she	PRP	(S(NP*)	-	-	-	Frank_Sesno	(79)
+cnn_0008	3	3	went	VBD	(VP(VP*	go	02	1	Frank_Sesno	-
+cnn_0008	3	4	to	IN	(PP*	-	-	-	Frank_Sesno	-
+cnn_0008	3	5	jail	NN	(NP*)))	-	-	-	Frank_Sesno	-
+cnn_0008	3	6	and	CC	*	-	-	-	Frank_Sesno	-
+cnn_0008	3	7	w-	XX	*)))	-	-	-	Frank_Sesno	-
+cnn_0008	3	8	/.	.	*))	-	-	-	Frank_Sesno	-
+
+cnn_0008	3	0	When	WRB	(TOP(SBAR(WHADVP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	3	1	she	PRP	(S(NP*)	-	-	-	Howard_Kurtz	(79)
+cnn_0008	3	2	won	VBD	(VP*	win	01	2	Howard_Kurtz	-
+cnn_0008	3	3	release	NN	(NP(NP*)	release	01	3	Howard_Kurtz	-
+cnn_0008	3	4	from	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	5	jail	NN	(NP*)))))	-	-	-	Howard_Kurtz	-
+cnn_0008	3	6	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	3	0	Yeah	UH	(TOP(FRAG(INTJ*)	-	-	-	Frank_Sesno	-
+cnn_0008	3	1	at	IN	(PP*	-	-	-	Frank_Sesno	-
+cnn_0008	3	2	the	DT	(NP(NP*	-	-	-	Frank_Sesno	-
+cnn_0008	3	3	point	NN	*)	point	-	5	Frank_Sesno	-
+cnn_0008	3	4	that	WDT	(SBAR(WHADVP*)	-	-	-	Frank_Sesno	-
+cnn_0008	3	5	she	PRP	(S(NP*)	-	-	-	Frank_Sesno	(79)
+cnn_0008	3	6	came	VBD	(VP*	come	09	1	Frank_Sesno	-
+cnn_0008	3	7	out	RP	(PRT*))))))	-	-	-	Frank_Sesno	-
+cnn_0008	3	8	/.	.	*))	-	-	-	Frank_Sesno	-
+
+cnn_0008	3	0	They	PRP	(TOP(S(NP*)	-	-	-	Frank_Sesno	(108)
+cnn_0008	3	1	did	VBD	(VP*	do	01	-	Frank_Sesno	-
+cnn_0008	3	2	n't	RB	*	-	-	-	Frank_Sesno	-
+cnn_0008	3	3	say	VB	(VP*	say	01	1	Frank_Sesno	-
+cnn_0008	3	4	that	DT	(NP*)	-	-	-	Frank_Sesno	-
+cnn_0008	3	5	you	PRP	(PRN(S(NP*)	-	-	-	Frank_Sesno	-
+cnn_0008	3	6	know	VBP	(VP*)))	know	01	1	Frank_Sesno	-
+cnn_0008	3	7	until	IN	(SBAR*	-	-	-	Frank_Sesno	-
+cnn_0008	3	8	she	PRP	(S(NP*)	-	-	-	Frank_Sesno	(79)
+cnn_0008	3	9	walked	VBD	(VP*	walk	01	1	Frank_Sesno	-
+cnn_0008	3	10	out	RB	(ADVP*))))))	-	-	-	Frank_Sesno	-
+cnn_0008	3	11	/.	.	*))	-	-	-	Frank_Sesno	-
+
+cnn_0008	3	0	And	CC	(TOP(S*	-	-	-	Frank_Sesno	-
+cnn_0008	3	1	the	DT	(NP*	-	-	-	Frank_Sesno	(58
+cnn_0008	3	2	question	NN	*)	question	01	1	Frank_Sesno	58)
+cnn_0008	3	3	and	CC	(PRN*	-	-	-	Frank_Sesno	-
+cnn_0008	3	4	this	DT	(S(NP*)	-	-	-	Frank_Sesno	(58)
+cnn_0008	3	5	is	VBZ	(VP*	be	01	1	Frank_Sesno	-
+cnn_0008	3	6	a	DT	(NP*	-	-	-	Frank_Sesno	-
+cnn_0008	3	7	very	RB	(ADJP*	-	-	-	Frank_Sesno	-
+cnn_0008	3	8	serious	JJ	*)	-	-	-	Frank_Sesno	-
+cnn_0008	3	9	question	NN	*))))	question	01	1	Frank_Sesno	-
+cnn_0008	3	10	it	PRP	(NP*)	-	-	-	Frank_Sesno	(58)
+cnn_0008	3	11	's	VBZ	(VP*	be	03	9	Frank_Sesno	-
+cnn_0008	3	12	not	RB	*	-	-	-	Frank_Sesno	-
+cnn_0008	3	13	answered	VBN	(VP*	answer	-	1	Frank_Sesno	-
+cnn_0008	3	14	in	IN	(PP*	-	-	-	Frank_Sesno	-
+cnn_0008	3	15	the	DT	(NP*	-	-	-	Frank_Sesno	(94
+cnn_0008	3	16	article	NN	*))))	article	-	1	Frank_Sesno	94)
+cnn_0008	3	17	/.	.	*))	-	-	-	Frank_Sesno	-
+
+cnn_0008	3	0	Were	VBD	(TOP(SQ(SQ*	be	03	-	Frank_Sesno	-
+cnn_0008	3	1	editorial	JJ	(NP*	-	-	-	Frank_Sesno	-
+cnn_0008	3	2	higher	NN	*	-	-	-	Frank_Sesno	-
+cnn_0008	3	3	-	HYPH	*	-	-	-	Frank_Sesno	-
+cnn_0008	3	4	ups	NNS	*))	-	-	-	Frank_Sesno	-
+cnn_0008	3	5	and	CC	*	-	-	-	Frank_Sesno	-
+cnn_0008	3	6	were	VBD	(SQ*	be	03	-	Frank_Sesno	-
+cnn_0008	3	7	the	DT	(NP(NP*	-	-	-	Frank_Sesno	-
+cnn_0008	3	8	corporate	JJ	*	-	-	-	Frank_Sesno	-
+cnn_0008	3	9	lawyers	NNS	*)	-	-	-	Frank_Sesno	-
+cnn_0008	3	10	at	IN	(PP*	-	-	-	Frank_Sesno	-
+cnn_0008	3	11	the	DT	(NP*	-	-	-	Frank_Sesno	(108
+cnn_0008	3	12	New	NNP	(NML*	-	-	-	Frank_Sesno	-
+cnn_0008	3	13	York	NNP	*)	-	-	-	Frank_Sesno	-
+cnn_0008	3	14	Times	NNP	*))))	-	-	-	Frank_Sesno	108)
+cnn_0008	3	15	in	IN	(VP(PP*	-	-	-	Frank_Sesno	-
+cnn_0008	3	16	some	DT	(NP*	-	-	-	Frank_Sesno	-
+cnn_0008	3	17	way	NN	*))	way	-	1	Frank_Sesno	-
+cnn_0008	3	18	leaning	VBG	(VP*	lean	01	5	Frank_Sesno	-
+cnn_0008	3	19	on	IN	(PP*))	-	-	-	Frank_Sesno	-
+cnn_0008	3	20	suppressing	VBG	(VP*)	suppress	01	-	Frank_Sesno	-
+cnn_0008	3	21	and	CC	*	-	-	-	Frank_Sesno	-
+cnn_0008	3	22	distorting	VBG	(VP*)	distort	01	2	Frank_Sesno	-
+cnn_0008	3	23	the	DT	(NP(NP*	-	-	-	Frank_Sesno	-
+cnn_0008	3	24	coverage	NN	*)	coverage	03	3	Frank_Sesno	-
+cnn_0008	3	25	from	IN	(PP*	-	-	-	Frank_Sesno	-
+cnn_0008	3	26	the	DT	(NP*	-	-	-	Frank_Sesno	-
+cnn_0008	3	27	news	NN	*	news	-	1	Frank_Sesno	-
+cnn_0008	3	28	uh	UH	*	-	-	-	Frank_Sesno	-
+cnn_0008	3	29	section	NN	*))))	section	-	3	Frank_Sesno	-
+cnn_0008	3	30	/?	.	*))	-	-	-	Frank_Sesno	-
+
+cnn_0008	3	0	Arianna	NNP	(TOP(S(NP*	-	-	-	Howard_Kurtz	(121
+cnn_0008	3	1	Huffington	NNP	*)	-	-	-	Howard_Kurtz	121)
+cnn_0008	3	2	uh	UH	(INTJ*)	-	-	-	Howard_Kurtz	-
+cnn_0008	3	3	in	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	4	this	DT	(NP(NP*	-	-	-	Howard_Kurtz	(94
+cnn_0008	3	5	lengthy	JJ	*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	6	piece	NN	*)	piece	-	3	Howard_Kurtz	-
+cnn_0008	3	7	this	DT	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	8	morning	NN	*)))	morning	-	1	Howard_Kurtz	94)
+cnn_0008	3	9	uh	UH	(INTJ*)	-	-	-	Howard_Kurtz	-
+cnn_0008	3	10	uh	UH	(INTJ*)	-	-	-	Howard_Kurtz	-
+cnn_0008	3	11	Judy	NNP	(NP*	-	-	-	Howard_Kurtz	(79
+cnn_0008	3	12	Miller	NNP	*)	-	-	-	Howard_Kurtz	79)
+cnn_0008	3	13	is	VBZ	(VP*	be	03	-	Howard_Kurtz	-
+cnn_0008	3	14	quoted	VBN	(VP*	quote	01	-	Howard_Kurtz	-
+cnn_0008	3	15	excuse	VB	(PRN(S(VP*	excuse	01	2	Howard_Kurtz	-
+cnn_0008	3	16	me	PRP	(NP*))))	-	-	-	Howard_Kurtz	(201)
+cnn_0008	3	17	as	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	18	saying	VBG	(S(VP*	say	01	1	Howard_Kurtz	-
+cnn_0008	3	19	that	IN	(SBAR*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	20	there	EX	(S(NP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	3	21	was	VBD	(VP*	be	02	3	Howard_Kurtz	-
+cnn_0008	3	22	another	DT	(NP(NP(NP*	-	-	-	Howard_Kurtz	(23
+cnn_0008	3	23	source	NN	*)	source	-	3	Howard_Kurtz	-
+cnn_0008	3	24	beside	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	25	Scooter	NNP	(NP*	-	-	-	Howard_Kurtz	(44
+cnn_0008	3	26	Libby	NNP	*)))	-	-	-	Howard_Kurtz	44)
+cnn_0008	3	27	that	WDT	(SBAR(WHNP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	3	28	she	PRP	(S(NP*)	-	-	-	Howard_Kurtz	(79)
+cnn_0008	3	29	dealt	VBD	(VP*	deal	01	2	Howard_Kurtz	-
+cnn_0008	3	30	with	IN	(PP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	3	31	on	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	32	the	DT	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	33	Valerie	NNP	(NML*	-	-	-	Howard_Kurtz	(9
+cnn_0008	3	34	Plame	NNP	*)	-	-	-	Howard_Kurtz	9)
+cnn_0008	3	35	situation	NN	*))))))))))))))	situation	-	1	Howard_Kurtz	23)
+cnn_0008	3	36	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	3	0	She	PRP	(TOP(S(NP*)	-	-	-	Howard_Kurtz	(79)
+cnn_0008	3	1	does	VBZ	(VP*	do	01	-	Howard_Kurtz	-
+cnn_0008	3	2	n't	RB	*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	3	recall	VB	(VP*	recall	01	1	Howard_Kurtz	-
+cnn_0008	3	4	who	WP	(SBAR(WHNP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	3	5	that	DT	(S(NP*	-	-	-	Howard_Kurtz	(23
+cnn_0008	3	6	source	NN	*)	source	-	3	Howard_Kurtz	23)
+cnn_0008	3	7	was	VBD	(VP*)))	be	01	1	Howard_Kurtz	-
+cnn_0008	3	8	looking	VBG	(S(VP(VP*	look	01	1	Howard_Kurtz	-
+cnn_0008	3	9	at	IN	(PP*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	10	her	PRP$	(NP*	-	-	-	Howard_Kurtz	(35|(79)
+cnn_0008	3	11	notes	NNS	*)))	note	-	1	Howard_Kurtz	35)
+cnn_0008	3	12	and	CC	*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	13	seeing	VBG	(VP*	see	01	1	Howard_Kurtz	-
+cnn_0008	3	14	the	DT	(NP(NP*	-	-	-	Howard_Kurtz	(182
+cnn_0008	3	15	uh	UH	*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	16	notation	NN	*)	-	-	-	Howard_Kurtz	-
+cnn_0008	3	17	Valerie	NNP	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	18	Flame	NNP	*)))))))	-	-	-	Howard_Kurtz	182)
+cnn_0008	3	19	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	3	0	She	PRP	(TOP(S(NP*)	-	-	-	Howard_Kurtz	(79)
+cnn_0008	3	1	got	VBD	(VP*	get	04	1	Howard_Kurtz	-
+cnn_0008	3	2	the	DT	(S(NP*	-	-	-	Howard_Kurtz	(182
+cnn_0008	3	3	name	NN	*)	name	-	1	Howard_Kurtz	182)
+cnn_0008	3	4	wrong	JJ	(ADJP*)))	-	-	-	Howard_Kurtz	-
+cnn_0008	3	5	/.	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	3	0	Do	VBP	(TOP(SQ*	do	01	-	Howard_Kurtz	-
+cnn_0008	3	1	you	PRP	(NP*)	-	-	-	Howard_Kurtz	(121)
+cnn_0008	3	2	buy	VB	(VP*	buy	01	3	Howard_Kurtz	-
+cnn_0008	3	3	this	DT	(NP*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	4	notion	NN	*	notion	-	1	Howard_Kurtz	-
+cnn_0008	3	5	that	IN	(SBAR*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	6	she	PRP	(S(NP*)	-	-	-	Howard_Kurtz	(79)
+cnn_0008	3	7	does	VBZ	(VP*	do	01	-	Howard_Kurtz	-
+cnn_0008	3	8	n't	RB	*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	9	recall	VB	(VP*	recall	01	1	Howard_Kurtz	-
+cnn_0008	3	10	who	WP	(SBAR(WHNP*)	-	-	-	Howard_Kurtz	-
+cnn_0008	3	11	this	DT	(S(NP*	-	-	-	Howard_Kurtz	(23
+cnn_0008	3	12	other	JJ	*	-	-	-	Howard_Kurtz	-
+cnn_0008	3	13	source	NN	*)	source	-	3	Howard_Kurtz	23)
+cnn_0008	3	14	was	VBD	(VP*)))))))))	be	01	1	Howard_Kurtz	-
+cnn_0008	3	15	/?	.	*))	-	-	-	Howard_Kurtz	-
+
+cnn_0008	3	0	No	UH	(TOP(FRAG(INTJ*)	-	-	-	Arianna_Huffington	-
+cnn_0008	3	1	of	IN	(PP*	-	-	-	Arianna_Huffington	-
+cnn_0008	3	2	course	NN	(NP*))	course	-	13	Arianna_Huffington	-
+cnn_0008	3	3	not	RB	*	-	-	-	Arianna_Huffington	-
+cnn_0008	3	4	Howie	NNP	(NP*)	-	-	-	Arianna_Huffington	(201)
+cnn_0008	3	5	/.	.	*))	-	-	-	Arianna_Huffington	-
+
+cnn_0008	3	0	In	IN	(TOP(S(PP*	-	-	-	Arianna_Huffington	-
+cnn_0008	3	1	fact	NN	(NP*))	fact	-	5	Arianna_Huffington	-
+cnn_0008	3	2	I	PRP	(NP*)	-	-	-	Arianna_Huffington	(121)
+cnn_0008	3	3	think	VBP	(VP*	think	01	1	Arianna_Huffington	-
+cnn_0008	3	4	this	DT	(SBAR(S(NP*)	-	-	-	Arianna_Huffington	-
+cnn_0008	3	5	is	VBZ	(VP*	be	01	2	Arianna_Huffington	-
+cnn_0008	3	6	the	DT	(NP*	-	-	-	Arianna_Huffington	-
+cnn_0008	3	7	major	JJ	*	-	-	-	Arianna_Huffington	-
+cnn_0008	3	8	unanswered	JJ	*	-	-	-	Arianna_Huffington	-
+cnn_0008	3	9	question	NN	*)))))	question	01	1	Arianna_Huffington	-
+cnn_0008	3	10	/.	.	*))	-	-	-	Arianna_Huffington	-
+
+cnn_0008	3	0	We	PRP	(TOP(S(NP*)	-	-	-	Arianna_Huffington	-
+cnn_0008	3	1	do	VBP	(VP*	do	01	-	Arianna_Huffington	-
+cnn_0008	3	2	n't	RB	*	-	-	-	Arianna_Huffington	-
+cnn_0008	3	3	know	VB	(VP*	know	01	1	Arianna_Huffington	-
+cnn_0008	3	4	who	WP	(SBAR(WHNP*)	-	-	-	Arianna_Huffington	-
+cnn_0008	3	5	eh	UH	(INTJ*)	-	-	-	Arianna_Huffington	-
+cnn_0008	3	6	her	PRP$	(S(NP*	-	-	-	Arianna_Huffington	(23|(79)
+cnn_0008	3	7	source	NN	*)	source	-	3	Arianna_Huffington	23)
+cnn_0008	3	8	was	VBD	(VP*	be	01	1	Arianna_Huffington	-
+cnn_0008	3	9	when	WRB	(SBAR(WHADVP*)	-	-	-	Arianna_Huffington	-
+cnn_0008	3	10	it	PRP	(S(NP*)	-	-	-	Arianna_Huffington	-
+cnn_0008	3	11	comes	VBZ	(VP*	come	12	11	Arianna_Huffington	-
+cnn_0008	3	12	to	IN	(PP*	-	-	-	Arianna_Huffington	-
+cnn_0008	3	13	revealing	VBG	(S(VP*	reveal	01	2	Arianna_Huffington	-
+cnn_0008	3	14	the	DT	(NP(NP*	-	-	-	Arianna_Huffington	-
+cnn_0008	3	15	identity	NN	*)	-	-	-	Arianna_Huffington	-
+cnn_0008	3	16	of	IN	(PP*	-	-	-	Arianna_Huffington	-
+cnn_0008	3	17	Valerie	NNP	(NP*	-	-	-	Arianna_Huffington	(9
+cnn_0008	3	18	Plame	NNP	*))))))))))))))	-	-	-	Arianna_Huffington	9)
+cnn_0008	3	19	/.	.	*))	-	-	-	Arianna_Huffington	-
+
+cnn_0008	3	0	And	CC	(TOP(FRAG*	-	-	-	Arianna_Huffington	-	-
+cnn_0008	3	1	to	TO	(S(VP*	-	-	-	Arianna_Huffington	-	-
+cnn_0008	3	2	say	VB	(VP*	say	01	1	Arianna_Huffington	-	-
+cnn_0008	3	3	that	IN	(SBAR*	-	-	-	Arianna_Huffington	-	-
+cnn_0008	3	4	she	PRP	(S(NP*)	-	-	-	Arianna_Huffington	(79)	(79)
+cnn_0008	3	5	does	VBZ	(VP*	do	01	-	Arianna_Huffington	-	-
+cnn_0008	3	6	not	RB	*	-	-	-	Arianna_Huffington	-	-
+cnn_0008	3	7	recall	VB	(VP*)))))))	recall	01	1	Arianna_Huffington	-	-
+cnn_0008	3	8	is	VBZ	(VP*	be	01	1	Arianna_Huffington	-	-
+cnn_0008	3	9	really	RB	(ADVP*)	-	-	-	Arianna_Huffington	-	-
+cnn_0008	3	10	as	RB	(ADJP(ADJP*	-	-	-	Arianna_Huffington	-	-
+cnn_0008	3	11	convincing	JJ	*)	-	-	-	Arianna_Huffington	-	-
+cnn_0008	3	12	as	IN	(PP*	-	-	-	Arianna_Huffington	-	-
+cnn_0008	3	13	having	VBG	(S(VP*	have	03	12	Arianna_Huffington	-	-
+cnn_0008	3	14	Woodward	NNP	(S(NP*	-	-	-	Arianna_Huffington	(132	(132
+cnn_0008	3	15	and	CC	*	-	-	-	Arianna_Huffington	-	-
+cnn_0008	3	16	Bernstein	NNP	*)	-	-	-	Arianna_Huffington	132)	132)
+cnn_0008	3	17	saying	VBG	(VP*	say	01	1	Arianna_Huffington	-	-
+cnn_0008	3	18	that	IN	(SBAR*	-	-	-	Arianna_Huffington	-	-
+cnn_0008	3	19	they	PRP	(S(NP*)	-	-	-	Arianna_Huffington	(132)	(132)
+cnn_0008	3	20	do	VBP	(VP*	do	01	-	Arianna_Huffington	-	-
+cnn_0008	3	21	not	RB	*	-	-	-	Arianna_Huffington	-	-
+cnn_0008	3	22	recall	VB	(VP*	recall	01	1	Arianna_Huffington	-	-
+cnn_0008	3	23	who	WP	(SBAR(WHNP*)	-	-	-	Arianna_Huffington	-	-
+cnn_0008	3	24	Deep	NNP	(S(NP*	-	-	-	Arianna_Huffington	-	-
+cnn_0008	3	25	Throat	NNP	*)	-	-	-	Arianna_Huffington	-	-
+cnn_0008	3	26	was	VBD	(VP*))))))))))))))	be	01	1	Arianna_Huffington	-	-
+cnn_0008	3	27	/.	.	*))	-	-	-	Arianna_Huffington	-	-
+
+cnn_0008	3	0	After	RB	(TOP(S(ADVP*	-	-	-	Arianna_Huffington	-
+cnn_0008	3	1	all	RB	*)	-	-	-	Arianna_Huffington	-
+cnn_0008	3	2	these	DT	(NP*	-	-	-	Arianna_Huffington	(35
+cnn_0008	3	3	notes	NNS	*)	note	-	1	Arianna_Huffington	35)
+cnn_0008	3	4	were	VBD	(VP*	be	01	1	Arianna_Huffington	-
+cnn_0008	3	5	just	RB	(ADJP(NP(QP*	-	-	-	Arianna_Huffington	-
+cnn_0008	3	6	a	DT	*	-	-	-	Arianna_Huffington	-
+cnn_0008	3	7	few	JJ	*)	-	-	-	Arianna_Huffington	-
+cnn_0008	3	8	weeks	NNS	*)	-	-	-	Arianna_Huffington	-
+cnn_0008	3	9	old	JJ	*)	-	-	-	Arianna_Huffington	-
+cnn_0008	3	10	when	WRB	(SBAR(SBAR(WHADVP*)	-	-	-	Arianna_Huffington	-
+cnn_0008	3	11	um	UH	(INTJ*)	-	-	-	Arianna_Huffington	-
+cnn_0008	3	12	the	DT	(S(NP*	-	-	-	Arianna_Huffington	(148
+cnn_0008	3	13	Valerie	NNP	(NML(NML*	-	-	-	Arianna_Huffington	(9
+cnn_0008	3	14	Plame	NNP	*)	-	-	-	Arianna_Huffington	9)
+cnn_0008	3	15	Bob	NNP	(NML*	-	-	-	Arianna_Huffington	-
+cnn_0008	3	16	Novak	NNP	*))	-	-	-	Arianna_Huffington	-
+cnn_0008	3	17	column	NN	*)	column	-	4	Arianna_Huffington	148)
+cnn_0008	3	18	appeared	VBD	(VP*)))	appear	01	2	Arianna_Huffington	-
+cnn_0008	3	19	and	CC	*	-	-	-	Arianna_Huffington	-
+cnn_0008	3	20	when	WRB	(SBAR(WHADVP*)	-	-	-	Arianna_Huffington	-
+cnn_0008	3	21	the	DT	(S(NP(NP*	-	-	-	Arianna_Huffington	-
+cnn_0008	3	22	whole	JJ	*	-	-	-	Arianna_Huffington	-
+cnn_0008	3	23	Washington	NNP	*)	-	-	-	Arianna_Huffington	-
+cnn_0008	3	24	and	CC	*	-	-	-	Arianna_Huffington	-
+cnn_0008	3	25	the	DT	(NP*	-	-	-	Arianna_Huffington	-
+cnn_0008	3	26	whole	JJ	*	-	-	-	Arianna_Huffington	-
+cnn_0008	3	27	journalistic	JJ	*)	-	-	-	Arianna_Huffington	-
+cnn_0008	3	28	community	NN	(NML*))	-	-	-	Arianna_Huffington	-
+cnn_0008	3	29	was	VBD	(VP*	be	03	-	Arianna_Huffington	-
+cnn_0008	3	30	talking	VBG	(VP*	talk	01	1	Arianna_Huffington	-
+cnn_0008	3	31	about	IN	(PP*	-	-	-	Arianna_Huffington	-
+cnn_0008	3	32	it	PRP	(NP*))))))))	-	-	-	Arianna_Huffington	(148)
+cnn_0008	3	33	/.	.	*))	-	-	-	Arianna_Huffington	-
+
+cnn_0008	3	0	You	PRP	(TOP(S(PRN(S(NP*)	-	-	-	Lucy_Dalglish	-
+cnn_0008	3	1	know	VBP	(VP*)))	know	01	1	Lucy_Dalglish	-
+cnn_0008	3	2	I	PRP	(NP*)	-	-	-	Lucy_Dalglish	-
+cnn_0008	3	3	do	VBP	(VP*	do	01	-	Lucy_Dalglish	-
+cnn_0008	3	4	n't	RB	*)	-	-	-	Lucy_Dalglish	-
+cnn_0008	3	5	/-	.	*))	-	-	-	Lucy_Dalglish	-
+
+#end document

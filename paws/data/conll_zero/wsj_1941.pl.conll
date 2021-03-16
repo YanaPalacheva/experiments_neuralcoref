@@ -1,0 +1,87 @@
+#begin document wsj_1941
+1	Firmy	firma	_	NNFP1----------	_	_	_	4	_	Sb	_	_	_	_	_	a-a_tree-pl-s1-n1	(1)
+2	wymienione	wymienić	_	VsFP1--XX-AP---	_	_	_	1	_	Atr	_	_	_	_	_	a-a_tree-pl-s1-n2	_
+3	poniżej	poniżej	_	Db-------------	_	_	_	2	_	Adv	_	_	_	_	_	a-a_tree-pl-s1-n3	_
+4	ogłosiły	ogłosić	_	VBFP---XR------	_	_	_	0	_	Pred	_	_	_	_	_	a-a_tree-pl-s1-n4	_
+5	zysk	zysk	_	NNIS4----------	_	_	_	4	_	Obj	_	_	_	_	_	a-a_tree-pl-s1-n5	(2
+6	kwartalny	kwartalny	_	AAIS4----1-----	_	_	_	5	_	Atr	_	_	_	_	_	a-a_tree-pl-s1-n6	2)
+7	,	,	_	Z:-------------	_	_	_	9	_	AuxX	_	_	_	_	_	a-a_tree-pl-s1-n7	_
+8	który	który	_	AAIS4----1-----	_	_	_	9	_	Sb	_	_	_	_	_	a-a_tree-pl-s1-n8	(2)
+9	różni	różnić	_	VB-S---3P------	_	_	_	5	_	Atr	_	_	_	_	_	a-a_tree-pl-s1-n9	_
+10	się	się	_	P6-XX----------	_	_	_	9	_	AuxT	_	_	_	_	_	a-a_tree-pl-s1-n10	_
+11	zasadniczo	zasadniczo	_	NNNS4----------	_	_	_	9	_	Obj	_	_	_	_	_	a-a_tree-pl-s1-n11	_
+12	od	od	_	RR--2----------	_	_	_	9	_	AuxP	_	_	_	_	_	a-a_tree-pl-s1-n12	_
+13	średnich	średni	_	AAIP2----1-----	_	_	_	14	_	Atr	_	_	_	_	_	a-a_tree-pl-s1-n13	_
+14	prognoz	prognoza	_	NNIS4----------	_	_	_	12	_	Obj	_	_	_	_	_	a-a_tree-pl-s1-n14	_
+15	analityków	analityk	_	NNIP2----------	_	_	_	14	_	Atr	_	_	_	_	_	a-a_tree-pl-s1-n15	_
+16	.	.	_	Z:-------------	_	_	_	0	_	AuxK	_	_	_	_	_	a-a_tree-pl-s1-n16	_
+
+17	Firmy	firma	_	NNFP1----------	_	_	_	19	_	Sb	_	_	_	_	_	a-a_tree-pl-s2-n17	(1)
+18	są	być	_	VB-P---3P------	_	_	_	19	_	AuxV	_	_	_	_	_	a-a_tree-pl-s2-n18	_
+19	obserwowane	obserwować	_	VsNP1--XX-AP---	_	_	_	0	_	Coord	_	_	_	_	_	a-a_tree-pl-s2-n19	_
+20	przez	przez	_	RR--4----------	_	_	_	22	_	AuxP	_	_	_	_	_	a-a_tree-pl-s2-n20	_
+21	co	co	_	NNNS4----------	_	_	_	20	_	Atr	_	_	_	_	_	a-a_tree-pl-s2-n21	_
+22	najmniej	mało	_	Dg-------3-----	_	_	_	19	_	Adv	_	_	_	_	_	a-a_tree-pl-s2-n22	_
+23	trzech	trzy	_	CnMP1----------	_	_	_	19	_	Sb	_	_	_	_	_	a-a_tree-pl-s2-n23	_
+24	analityków	analityk	_	NNMP2----------	_	_	_	23	_	Atr	_	_	_	_	_	a-a_tree-pl-s2-n24	_
+25	i	i	_	J^-------------	_	_	_	19	_	AuxY	_	_	_	_	_	a-a_tree-pl-s2-n25	_
+26-8	_	#PersPron	_	_	_	_	_	26	_	ACT	_	_	_	_	_	t-t_tree-pl-s2-n140	(1)
+26	miały	mieć	_	VBFP---XR------	_	_	_	19	_	NR	_	_	_	_	_	a-a_tree-pl-s2-n26	_
+27	minimum	minimum	_	NNNS4----------	_	_	_	29	_	Atr	_	_	_	_	_	a-a_tree-pl-s2-n27	_
+28	5-centową	5-centowy	_	AAFS4----1-----	_	_	_	29	_	Atr	_	_	_	_	_	a-a_tree-pl-s2-n28	_
+29	zmianę	zmiana	_	NNFS4----------	_	_	_	26	_	Obj	_	_	_	_	_	a-a_tree-pl-s2-n29	_
+30	w	w	_	RR--6----------	_	_	_	29	_	AuxP	_	_	_	_	_	a-a_tree-pl-s2-n30	_
+31	zarobkach	zarobek	_	NNFP6----------	_	_	_	30	_	Atr	_	_	_	_	_	a-a_tree-pl-s2-n31	_
+32	za	za	_	RR--4----------	_	_	_	31	_	AuxP	_	_	_	_	_	a-a_tree-pl-s2-n32	_
+33	akcję	akcja	_	NNFS4----------	_	_	_	32	_	Atr	_	_	_	_	_	a-a_tree-pl-s2-n33	_
+34	.	.	_	Z:-------------	_	_	_	0	_	AuxK	_	_	_	_	_	a-a_tree-pl-s2-n34	_
+
+35	Informacje	informacja	_	NNFP1----------	_	_	_	44	_	Sb	_	_	_	_	_	a-a_tree-pl-s3-n35	_
+36	o	o	_	RR--6----------	_	_	_	35	_	AuxP	_	_	_	_	_	a-a_tree-pl-s3-n36	_
+37	szacowanych	szacowany	_	AAIP6----1-----	_	_	_	40	_	Coord	_	_	_	_	_	a-a_tree-pl-s3-n37	_
+38	i	i	_	J^-------------	_	_	_	37	_	AuxY	_	_	_	_	_	a-a_tree-pl-s3-n38	_
+39	faktycznych	faktyczny	_	AAIP6----1-----	_	_	_	37	_	NR	_	_	_	_	_	a-a_tree-pl-s3-n39	_
+40	wynikach	wynik	_	NNIP6----------	_	_	_	36	_	Atr	_	_	_	_	_	a-a_tree-pl-s3-n40	_
+41	dotyczących	dotyczyć	_	VpFP2--XP-AA---	_	_	_	40	_	Atr	_	_	_	_	_	a-a_tree-pl-s3-n41	_
+42	strat	strata	_	NNFP2----------	_	_	_	41	_	Obj	_	_	_	_	_	a-a_tree-pl-s3-n42	_
+43	nie	nie	_	TT-------------	_	_	_	44	_	NR	_	_	_	_	_	a-a_tree-pl-s3-n43	_
+44	są	być	_	VB-P---3P------	_	_	_	0	_	Pred	_	_	_	_	_	a-a_tree-pl-s3-n44	_
+45	podane	podany	_	AANS1-----A----	_	_	_	44	_	Pnom	_	_	_	_	_	a-a_tree-pl-s3-n45	_
+46	.	.	_	Z:-------------	_	_	_	0	_	AuxK	_	_	_	_	_	a-a_tree-pl-s3-n46	_
+
+47	Różnica	różnica	_	NNFS1----------	_	_	_	49	_	Sb	_	_	_	_	_	a-a_tree-pl-s4-n47	_
+48	procentowa	procentowy	_	AAFS1----1-----	_	_	_	47	_	Atr	_	_	_	_	_	a-a_tree-pl-s4-n48	_
+49	porównuje	porównować	_	VB-S---3P------	_	_	_	0	_	Pred	_	_	_	_	_	a-a_tree-pl-s4-n49	_
+50	realny	realny	_	AAIS4----1-----	_	_	_	51	_	Atr	_	_	_	_	_	a-a_tree-pl-s4-n50	_
+51	zysk	zysk	_	NNIS4----------	_	_	_	49	_	Obj	_	_	_	_	_	a-a_tree-pl-s4-n51	_
+52	z	z	_	RR--7----------	_	_	_	61	_	AuxP	_	_	_	_	_	a-a_tree-pl-s4-n52	_
+53	30-dniowym	30-dniowy	_	AAIS7----1-----	_	_	_	54	_	Atr	_	_	_	_	_	a-a_tree-pl-s4-n53	_
+54	szacunkiem	szacunek	_	NNIS7----------	_	_	_	52	_	Adv	_	_	_	_	_	a-a_tree-pl-s4-n54	_
+55	,	,	_	Z:-------------	_	_	_	61	_	AuxX	_	_	_	_	_	a-a_tree-pl-s4-n55	_
+56	gdzie	gdzie	_	Db-------------	_	_	_	61	_	Adv	_	_	_	_	_	a-a_tree-pl-s4-n56	_
+57	co	co	_	RR--4----------	_	_	_	58	_	Atr	_	_	_	_	_	a-a_tree-pl-s4-n57	_
+58	najmniej	mało	_	Dg-------3-----	_	_	_	59	_	AuxP	_	_	_	_	_	a-a_tree-pl-s4-n58	_
+59	trzech	trzy	_	CnMP1----------	_	_	_	61	_	Sb	_	_	_	_	_	a-a_tree-pl-s4-n59	_
+60	analityków	analityk	_	NNMP2----------	_	_	_	59	_	Atr	_	_	_	_	_	a-a_tree-pl-s4-n60	_
+61	wystawiło	wystawić	_	VBNS---XR------	_	_	_	49	_	Atr	_	_	_	_	_	a-a_tree-pl-s4-n61	_
+62	prognozy	prognoza	_	NNIP4----------	_	_	_	61	_	Obj	_	_	_	_	_	a-a_tree-pl-s4-n62	_
+63	w	w	_	RR--6----------	_	_	_	61	_	Adv	_	_	_	_	_	a-a_tree-pl-s4-n63	_
+64	ciągu	ciąge	_	NNIS6----------	_	_	_	63	_	AuxP	_	_	_	_	_	a-a_tree-pl-s4-n64	_
+65	ostatnich	ostatni	_	AAIP2----1-----	_	_	_	66	_	Atr	_	_	_	_	_	a-a_tree-pl-s4-n65	_
+66	30	30	_	CnIP2----------	_	_	_	64	_	Atr	_	_	_	_	_	a-a_tree-pl-s4-n66	_
+67	dni	dzień	_	NNIP2----------	_	_	_	66	_	Atr	_	_	_	_	_	a-a_tree-pl-s4-n67	_
+68	.	.	_	Z:-------------	_	_	_	0	_	AuxK	_	_	_	_	_	a-a_tree-pl-s4-n68	_
+
+69	W	w	_	RR--6----------	_	_	_	75	_	AuxP	_	_	_	_	_	a-a_tree-pl-s5-n69	_
+70	przeciwnym	przeciwny	_	AAIS6----1-----	_	_	_	71	_	Atr	_	_	_	_	_	a-a_tree-pl-s5-n70	_
+71	razie	raz	_	NNIS6----------	_	_	_	69	_	Adv	_	_	_	_	_	a-a_tree-pl-s5-n71	_
+72	realny	realny	_	AAIS1----1-----	_	_	_	73	_	Atr	_	_	_	_	_	a-a_tree-pl-s5-n72	_
+73	zysk	zysk	_	NNIS1----------	_	_	_	75	_	Sb	_	_	_	_	_	a-a_tree-pl-s5-n73	_
+74	jest	być	_	VB-S---3P------	_	_	_	75	_	AuxV	_	_	_	_	_	a-a_tree-pl-s5-n74	_
+75	porównywany	porównywać	_	VsIS1--XX-AP---	_	_	_	0	_	Pred	_	_	_	_	_	a-a_tree-pl-s5-n75	_
+76	z	z	_	RR--7----------	_	_	_	75	_	AuxP	_	_	_	_	_	a-a_tree-pl-s5-n76	_
+77	300-dniowym	300-dniowy	_	AAIS7----1-----	_	_	_	78	_	Atr	_	_	_	_	_	a-a_tree-pl-s5-n77	_
+78	szacunkiem	szacunek	_	NNIS7----------	_	_	_	76	_	Obj	_	_	_	_	_	a-a_tree-pl-s5-n78	_
+79	.	.	_	Z:-------------	_	_	_	0	_	AuxK	_	_	_	_	_	a-a_tree-pl-s5-n79	_
+
+#end document wsj_1941

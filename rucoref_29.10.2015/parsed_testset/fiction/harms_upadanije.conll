@@ -1,0 +1,502 @@
+# newdoc id = ae358295-001b-4437-8cac-db402a3d5f75
+# newpar id = ae358295-001b-4437-8cac-db402a3d5f75-p1
+# par_text = Два человека упали с крыши пятиэтажного дома, новостройки. Кажется, школы. Они съехали по крыше в сидячем положении до самой кромки и тут начали падать.
+# sent_id = ae358295-001b-4437-8cac-db402a3d5f75-p1-s1
+# text = Два человека упали с крыши пятиэтажного дома, новостройки.
+1	Два	_	_	_	_	_	_	_	RuCor_chain_id=611|RuCor_group_id=411039|Shift=0
+2	человека	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=611|RuCor_group_id=411039|RuCor_link_id=0|Shift=4
+3	упали	_	_	_	_	_	_	_	Shift=13
+4	с	_	_	_	_	_	_	_	Shift=19
+5	крыши	_	_	_	_	_	_	_	Shift=21
+6	пятиэтажного	_	_	_	_	_	_	_	RuCor_chain_id=601|RuCor_group_id=411091|Shift=27
+7	дома	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=601|RuCor_group_id=411091|RuCor_link_id=0|Shift=40|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=44
+9	новостройки	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=appo|RuCor_attrs_type=coref|RuCor_chain_id=601|RuCor_group_id=411092|RuCor_link_id=411091|Shift=46|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=57
+
+# sent_id = ae358295-001b-4437-8cac-db402a3d5f75-p1-s2
+# text = Кажется, школы.
+1	Кажется	_	_	_	_	_	_	_	Shift=59|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=66
+3	школы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=appo|RuCor_attrs_type=coref|RuCor_chain_id=601|RuCor_group_id=411093|RuCor_link_id=411092|Shift=68|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=73
+
+# sent_id = ae358295-001b-4437-8cac-db402a3d5f75-p1-s3
+# text = Они съехали по крыше в сидячем положении до самой кромки и тут начали падать.
+1	Они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=611|RuCor_group_id=411040|RuCor_link_id=411039|Shift=75
+2	съехали	_	_	_	_	_	_	_	Shift=79
+3	по	_	_	_	_	_	_	_	Shift=87
+4	крыше	_	_	_	_	_	_	_	Shift=90
+5	в	_	_	_	_	_	_	_	Shift=96
+6	сидячем	_	_	_	_	_	_	_	Shift=98
+7	положении	_	_	_	_	_	_	_	Shift=106
+8	до	_	_	_	_	_	_	_	Shift=116
+9	самой	_	_	_	_	_	_	_	Shift=119
+10	кромки	_	_	_	_	_	_	_	Shift=125
+11	и	_	_	_	_	_	_	_	Shift=132
+12	тут	_	_	_	_	_	_	_	Shift=134
+13	начали	_	_	_	_	_	_	_	Shift=138
+14	падать	_	_	_	_	_	_	_	Shift=145|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=151
+
+# newpar id = ae358295-001b-4437-8cac-db402a3d5f75-p2
+# par_text = Их падение раньше всех заметила Ида Марковна. Она стояла у окна в противоложном доме и сморкалась в стакан. И вдруг она увидела, что кто-то с крыши противоположного дома начинает падать. Вглядевшись, Ида Марковна увидела, что это начинают падать сразу целых двое. Совершенно растерявшись, Ида Марковна содрала с себя рубашку и начала этой рубашкой скорее протирать запотевшее оконное стекло, чтобы лучше разглядеть, кто там падает с крыши. Однако сообразив, что, пожалуй, падающие могут увидеть ее голой и невесть чего про нее подумать, Ида Марковна отскочила от окна за плетеный треножник, на котором стоял горшок с цветком.
+# sent_id = ae358295-001b-4437-8cac-db402a3d5f75-p2-s1
+# text = Их падение раньше всех заметила Ида Марковна.
+1	Их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=611|RuCor_group_id=411041|RuCor_link_id=411040|Shift=154
+2	падение	_	_	_	_	_	_	_	Shift=157
+3	раньше	_	_	_	_	_	_	_	Shift=165
+4	всех	_	_	_	_	_	_	_	Shift=172
+5	заметила	_	_	_	_	_	_	_	Shift=177
+6	Ида	_	_	_	_	_	_	_	RuCor_chain_id=610|RuCor_group_id=411042|Shift=186
+7	Марковна	_	_	_	_	_	_	_	RuCor_chain_id=610|RuCor_group_id=411042|Shift=190|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=198
+
+# sent_id = ae358295-001b-4437-8cac-db402a3d5f75-p2-s2
+# text = Она стояла у окна в противоложном доме и сморкалась в стакан.
+1	Она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=610|RuCor_group_id=411043|RuCor_link_id=411042|Shift=200
+2	стояла	_	_	_	_	_	_	_	Shift=204
+3	у	_	_	_	_	_	_	_	Shift=211
+4	окна	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=600|RuCor_group_id=411095|RuCor_link_id=0|Shift=213
+5	в	_	_	_	_	_	_	_	Shift=218
+6	противоложном	_	_	_	_	_	_	_	RuCor_chain_id=602|RuCor_group_id=411089|Shift=220
+7	доме	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=602|RuCor_group_id=411089|RuCor_link_id=0|Shift=234
+8	и	_	_	_	_	_	_	_	Shift=239
+9	сморкалась	_	_	_	_	_	_	_	Shift=241
+10	в	_	_	_	_	_	_	_	Shift=252
+11	стакан	_	_	_	_	_	_	_	Shift=254|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=260
+
+# sent_id = ae358295-001b-4437-8cac-db402a3d5f75-p2-s3
+# text = И вдруг она увидела, что кто-то с крыши противоположного дома начинает падать.
+1	И	_	_	_	_	_	_	_	Shift=262
+2	вдруг	_	_	_	_	_	_	_	Shift=264
+3	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=610|RuCor_group_id=411044|RuCor_link_id=411043|Shift=270
+4	увидела	_	_	_	_	_	_	_	Shift=274|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=281
+6	что	_	_	_	_	_	_	_	Shift=283
+7	кто-то	_	_	_	_	_	_	_	Shift=287
+8	с	_	_	_	_	_	_	_	Shift=294
+9	крыши	_	_	_	_	_	_	_	Shift=296
+10	противоположного	_	_	_	_	_	_	_	RuCor_chain_id=601|RuCor_group_id=411094|Shift=302
+11	дома	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=601|RuCor_group_id=411094|RuCor_link_id=411091|Shift=319
+12	начинает	_	_	_	_	_	_	_	Shift=324
+13	падать	_	_	_	_	_	_	_	Shift=333|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=339
+
+# sent_id = ae358295-001b-4437-8cac-db402a3d5f75-p2-s4
+# text = Вглядевшись, Ида Марковна увидела, что это начинают падать сразу целых двое.
+1	Вглядевшись	_	_	_	_	_	_	_	Shift=341|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=352
+3	Ида	_	_	_	_	_	_	_	RuCor_chain_id=610|RuCor_group_id=411045|Shift=354
+4	Марковна	_	_	_	_	_	_	_	RuCor_chain_id=610|RuCor_group_id=411045|Shift=358
+5	увидела	_	_	_	_	_	_	_	Shift=367|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=374
+7	что	_	_	_	_	_	_	_	Shift=376
+8	это	_	_	_	_	_	_	_	Shift=380
+9	начинают	_	_	_	_	_	_	_	Shift=384
+10	падать	_	_	_	_	_	_	_	Shift=393
+11	сразу	_	_	_	_	_	_	_	Shift=400
+12	целых	_	_	_	_	_	_	_	Shift=406
+13	двое	_	_	_	_	_	_	_	Shift=412|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=416
+
+# sent_id = ae358295-001b-4437-8cac-db402a3d5f75-p2-s5
+# text = Совершенно растерявшись, Ида Марковна содрала с себя рубашку и начала этой рубашкой скорее протирать запотевшее оконное стекло, чтобы лучше разглядеть, кто там падает с крыши.
+1	Совершенно	_	_	_	_	_	_	_	Shift=418
+2	растерявшись	_	_	_	_	_	_	_	Shift=429|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=441
+4	Ида	_	_	_	_	_	_	_	RuCor_chain_id=610|RuCor_group_id=411046|Shift=443
+5	Марковна	_	_	_	_	_	_	_	RuCor_chain_id=610|RuCor_group_id=411046|Shift=447
+6	содрала	_	_	_	_	_	_	_	Shift=456
+7	с	_	_	_	_	_	_	_	Shift=464
+8	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=610|RuCor_group_id=411047|RuCor_link_id=411046|Shift=466
+9	рубашку	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=609|RuCor_group_id=411048|RuCor_link_id=0|Shift=471
+10	и	_	_	_	_	_	_	_	Shift=479
+11	начала	_	_	_	_	_	_	_	Shift=481
+12	этой	_	_	_	_	_	_	_	RuCor_chain_id=609|RuCor_group_id=411049|Shift=488
+13	рубашкой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=609|RuCor_group_id=411049|RuCor_link_id=411048|Shift=493
+14	скорее	_	_	_	_	_	_	_	Shift=502
+15	протирать	_	_	_	_	_	_	_	Shift=509
+16	запотевшее	_	_	_	_	_	_	_	Shift=519
+17	оконное	_	_	_	_	_	_	_	RuCor_chain_id=600|RuCor_group_id=411096|Shift=530
+18	стекло	_	_	_	_	_	_	_	RuCor_attrs_ref=meton|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=600|RuCor_group_id=411096|RuCor_link_id=411095|Shift=538|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=544
+20	чтобы	_	_	_	_	_	_	_	Shift=546
+21	лучше	_	_	_	_	_	_	_	Shift=552
+22	разглядеть	_	_	_	_	_	_	_	Shift=558|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=568
+24	кто	_	_	_	_	_	_	_	Shift=570
+25	там	_	_	_	_	_	_	_	Shift=574
+26	падает	_	_	_	_	_	_	_	Shift=578
+27	с	_	_	_	_	_	_	_	Shift=585
+28	крыши	_	_	_	_	_	_	_	Shift=587|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	Shift=592
+
+# sent_id = ae358295-001b-4437-8cac-db402a3d5f75-p2-s6
+# text = Однако сообразив, что, пожалуй, падающие могут увидеть ее голой и невесть чего про нее подумать, Ида Марковна отскочила от окна за плетеный треножник, на котором стоял горшок с цветком.
+1	Однако	_	_	_	_	_	_	_	Shift=594
+2	сообразив	_	_	_	_	_	_	_	Shift=601|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=610
+4	что	_	_	_	_	_	_	_	Shift=612|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=615
+6	пожалуй	_	_	_	_	_	_	_	Shift=617|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=624
+8	падающие	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=611|RuCor_group_id=411050|RuCor_link_id=411041|Shift=626
+9	могут	_	_	_	_	_	_	_	Shift=635
+10	увидеть	_	_	_	_	_	_	_	Shift=641
+11	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=610|RuCor_group_id=411051|RuCor_link_id=411047|Shift=649
+12	голой	_	_	_	_	_	_	_	Shift=652
+13	и	_	_	_	_	_	_	_	Shift=658
+14	невесть	_	_	_	_	_	_	_	Shift=660
+15	чего	_	_	_	_	_	_	_	Shift=668
+16	про	_	_	_	_	_	_	_	Shift=673
+17	нее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=610|RuCor_group_id=411052|RuCor_link_id=411051|Shift=677
+18	подумать	_	_	_	_	_	_	_	Shift=681|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=689
+20	Ида	_	_	_	_	_	_	_	RuCor_chain_id=610|RuCor_group_id=411053|Shift=691
+21	Марковна	_	_	_	_	_	_	_	RuCor_chain_id=610|RuCor_group_id=411053|Shift=695
+22	отскочила	_	_	_	_	_	_	_	Shift=704
+23	от	_	_	_	_	_	_	_	Shift=714
+24	окна	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=600|RuCor_group_id=411097|RuCor_link_id=411096|Shift=717
+25	за	_	_	_	_	_	_	_	Shift=722
+26	плетеный	_	_	_	_	_	_	_	RuCor_chain_id=608|RuCor_group_id=411054|Shift=725
+27	треножник	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=608|RuCor_group_id=411054|RuCor_link_id=0|Shift=734|SpaceAfter=No
+28	,	_	_	_	_	_	_	_	Shift=743
+29	на	_	_	_	_	_	_	_	Shift=745
+30	котором	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=608|RuCor_group_id=411055|RuCor_link_id=411054|Shift=748
+31	стоял	_	_	_	_	_	_	_	Shift=756
+32	горшок	_	_	_	_	_	_	_	Shift=762
+33	с	_	_	_	_	_	_	_	Shift=769
+34	цветком	_	_	_	_	_	_	_	Shift=771|SpaceAfter=No
+35	.	_	_	_	_	_	_	_	Shift=778
+
+# newpar id = ae358295-001b-4437-8cac-db402a3d5f75-p3
+# par_text = В это время падающих с крыш увидела другая особа, живущая в том же доме, что и Ида Марковна, но только двумя этажами ниже. Особу эту тоже звали Ида Марковна. Она, как раз в это время, сидела с ногами на подоконнике и пришивала к своей туфле пуговку. Взгянув в окно, она увидела падающих с крыши. Ида Марковна взвизгнула и, вскочив с подоконника, начала спешно открывать окно, чтобы лучше увидеть, как падающие с крыши ударятся об землю. Но окно не открывалось. Ида Марковна вспомнила, что она забила окно снизу гвоздем, и кинулась к печке, в которой она хранила инструменты: четыре молотка, долото и клещи.
+# sent_id = ae358295-001b-4437-8cac-db402a3d5f75-p3-s1
+# text = В это время падающих с крыш увидела другая особа, живущая в том же доме, что и Ида Марковна, но только двумя этажами ниже.
+1	В	_	_	_	_	_	_	_	Shift=781
+2	это	_	_	_	_	_	_	_	Shift=783
+3	время	_	_	_	_	_	_	_	Shift=787
+4	падающих	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=611|RuCor_group_id=411056|RuCor_link_id=411050|Shift=793
+5	с	_	_	_	_	_	_	_	RuCor_chain_id=611|RuCor_group_id=411056|Shift=802
+6	крыш	_	_	_	_	_	_	_	RuCor_chain_id=611|RuCor_group_id=411056|Shift=804
+7	увидела	_	_	_	_	_	_	_	Shift=809
+8	другая	_	_	_	_	_	_	_	RuCor_chain_id=607|RuCor_group_id=411058|Shift=817
+9	особа	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=607|RuCor_group_id=411058|RuCor_link_id=0|Shift=824|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=829
+11	живущая	_	_	_	_	_	_	_	Shift=831
+12	в	_	_	_	_	_	_	_	Shift=839
+13	том	_	_	_	_	_	_	_	RuCor_chain_id=602|RuCor_group_id=411090|Shift=841
+14	же	_	_	_	_	_	_	_	RuCor_chain_id=602|RuCor_group_id=411090|Shift=845
+15	доме	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=602|RuCor_group_id=411090|RuCor_link_id=411089|Shift=848|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=852
+17	что	_	_	_	_	_	_	_	Shift=854
+18	и	_	_	_	_	_	_	_	Shift=858
+19	Ида	_	_	_	_	_	_	_	RuCor_chain_id=610|RuCor_group_id=411057|Shift=860
+20	Марковна	_	_	_	_	_	_	_	RuCor_chain_id=610|RuCor_group_id=411057|Shift=864|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=872
+22	но	_	_	_	_	_	_	_	Shift=874
+23	только	_	_	_	_	_	_	_	Shift=877
+24	двумя	_	_	_	_	_	_	_	Shift=884
+25	этажами	_	_	_	_	_	_	_	Shift=890
+26	ниже	_	_	_	_	_	_	_	Shift=898|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=902
+
+# sent_id = ae358295-001b-4437-8cac-db402a3d5f75-p3-s2
+# text = Особу эту тоже звали Ида Марковна.
+1	Особу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=607|RuCor_group_id=411059|RuCor_link_id=411058|Shift=904
+2	эту	_	_	_	_	_	_	_	RuCor_chain_id=607|RuCor_group_id=411059|Shift=910
+3	тоже	_	_	_	_	_	_	_	Shift=914
+4	звали	_	_	_	_	_	_	_	Shift=919
+5	Ида	_	_	_	_	_	_	_	Shift=925
+6	Марковна	_	_	_	_	_	_	_	Shift=929|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=937
+
+# sent_id = ae358295-001b-4437-8cac-db402a3d5f75-p3-s3
+# text = Она, как раз в это время, сидела с ногами на подоконнике и пришивала к своей туфле пуговку.
+1	Она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=607|RuCor_group_id=411060|RuCor_link_id=411059|Shift=939|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=942
+3	как	_	_	_	_	_	_	_	Shift=944
+4	раз	_	_	_	_	_	_	_	Shift=948
+5	в	_	_	_	_	_	_	_	Shift=952
+6	это	_	_	_	_	_	_	_	Shift=954
+7	время	_	_	_	_	_	_	_	Shift=958|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=963
+9	сидела	_	_	_	_	_	_	_	Shift=965
+10	с	_	_	_	_	_	_	_	Shift=972
+11	ногами	_	_	_	_	_	_	_	Shift=974
+12	на	_	_	_	_	_	_	_	Shift=981
+13	подоконнике	_	_	_	_	_	_	_	Shift=984
+14	и	_	_	_	_	_	_	_	Shift=996
+15	пришивала	_	_	_	_	_	_	_	Shift=998
+16	к	_	_	_	_	_	_	_	Shift=1008
+17	своей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=607|RuCor_group_id=411061|RuCor_link_id=411060|Shift=1010
+18	туфле	_	_	_	_	_	_	_	Shift=1016
+19	пуговку	_	_	_	_	_	_	_	Shift=1022|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=1029
+
+# sent_id = ae358295-001b-4437-8cac-db402a3d5f75-p3-s4
+# text = Взгянув в окно, она увидела падающих с крыши.
+1	Взгянув	_	_	_	_	_	_	_	Shift=1031
+2	в	_	_	_	_	_	_	_	Shift=1039
+3	окно	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=604|RuCor_group_id=411080|RuCor_link_id=0|Shift=1041|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1045
+5	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=607|RuCor_group_id=411062|RuCor_link_id=411061|Shift=1047
+6	увидела	_	_	_	_	_	_	_	Shift=1051
+7	падающих	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=611|RuCor_group_id=411079|RuCor_link_id=411056|Shift=1059
+8	с	_	_	_	_	_	_	_	RuCor_chain_id=611|RuCor_group_id=411079|Shift=1068
+9	крыши	_	_	_	_	_	_	_	RuCor_chain_id=611|RuCor_group_id=411079|Shift=1070|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=1075
+
+# sent_id = ae358295-001b-4437-8cac-db402a3d5f75-p3-s5
+# text = Ида Марковна взвизгнула и, вскочив с подоконника, начала спешно открывать окно, чтобы лучше увидеть, как падающие с крыши ударятся об землю.
+1	Ида	_	_	_	_	_	_	_	RuCor_chain_id=607|RuCor_group_id=411063|Shift=1077
+2	Марковна	_	_	_	_	_	_	_	RuCor_chain_id=607|RuCor_group_id=411063|Shift=1081
+3	взвизгнула	_	_	_	_	_	_	_	Shift=1090
+4	и	_	_	_	_	_	_	_	Shift=1101|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1102
+6	вскочив	_	_	_	_	_	_	_	Shift=1104
+7	с	_	_	_	_	_	_	_	Shift=1112
+8	подоконника	_	_	_	_	_	_	_	Shift=1114|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1125
+10	начала	_	_	_	_	_	_	_	Shift=1127
+11	спешно	_	_	_	_	_	_	_	Shift=1134
+12	открывать	_	_	_	_	_	_	_	Shift=1141
+13	окно	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=604|RuCor_group_id=411082|RuCor_link_id=411080|Shift=1151|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=1155
+15	чтобы	_	_	_	_	_	_	_	Shift=1157
+16	лучше	_	_	_	_	_	_	_	Shift=1163
+17	увидеть	_	_	_	_	_	_	_	Shift=1169|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=1176
+19	как	_	_	_	_	_	_	_	Shift=1178
+20	падающие	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=611|RuCor_group_id=411064|RuCor_link_id=411056|Shift=1182
+21	с	_	_	_	_	_	_	_	RuCor_chain_id=611|RuCor_group_id=411064|Shift=1191
+22	крыши	_	_	_	_	_	_	_	RuCor_chain_id=611|RuCor_group_id=411064|Shift=1193
+23	ударятся	_	_	_	_	_	_	_	Shift=1199
+24	об	_	_	_	_	_	_	_	Shift=1208
+25	землю	_	_	_	_	_	_	_	Shift=1211|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=1216
+
+# sent_id = ae358295-001b-4437-8cac-db402a3d5f75-p3-s6
+# text = Но окно не открывалось.
+1	Но	_	_	_	_	_	_	_	Shift=1218
+2	окно	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=604|RuCor_group_id=411081|RuCor_link_id=411082|Shift=1221
+3	не	_	_	_	_	_	_	_	Shift=1226
+4	открывалось	_	_	_	_	_	_	_	Shift=1229|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=1240
+
+# sent_id = ae358295-001b-4437-8cac-db402a3d5f75-p3-s7
+# text = Ида Марковна вспомнила, что она забила окно снизу гвоздем, и кинулась к печке, в которой она хранила инструменты: четыре молотка, долото и клещи.
+1	Ида	_	_	_	_	_	_	_	RuCor_chain_id=607|RuCor_group_id=411065|Shift=1242
+2	Марковна	_	_	_	_	_	_	_	RuCor_chain_id=607|RuCor_group_id=411065|Shift=1246
+3	вспомнила	_	_	_	_	_	_	_	Shift=1255|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1264
+5	что	_	_	_	_	_	_	_	Shift=1266
+6	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=607|RuCor_group_id=411066|RuCor_link_id=411065|Shift=1270
+7	забила	_	_	_	_	_	_	_	Shift=1274
+8	окно	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=604|RuCor_group_id=411084|RuCor_link_id=411082|Shift=1281
+9	снизу	_	_	_	_	_	_	_	Shift=1286
+10	гвоздем	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=603|RuCor_group_id=411085|RuCor_link_id=0|Shift=1292|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=1299
+12	и	_	_	_	_	_	_	_	Shift=1301
+13	кинулась	_	_	_	_	_	_	_	Shift=1303
+14	к	_	_	_	_	_	_	_	Shift=1312
+15	печке	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=606|RuCor_group_id=411067|RuCor_link_id=0|Shift=1314|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=1319
+17	в	_	_	_	_	_	_	_	Shift=1321
+18	которой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=606|RuCor_group_id=411068|RuCor_link_id=411067|Shift=1323
+19	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=607|RuCor_group_id=411069|RuCor_link_id=411066|Shift=1331
+20	хранила	_	_	_	_	_	_	_	Shift=1335
+21	инструменты	_	_	_	_	_	_	_	Shift=1343|SpaceAfter=No
+22	:	_	_	_	_	_	_	_	Shift=1354
+23	четыре	_	_	_	_	_	_	_	Shift=1356
+24	молотка	_	_	_	_	_	_	_	Shift=1363|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=1370
+26	долото	_	_	_	_	_	_	_	Shift=1372
+27	и	_	_	_	_	_	_	_	Shift=1379
+28	клещи	_	_	_	_	_	_	_	Shift=1381|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	Shift=1386
+
+# newpar id = ae358295-001b-4437-8cac-db402a3d5f75-p4
+# par_text = Схватив клещи, Ида Марковна опять подбежала к окну и выдернула гвоздь. Теперь окно легко распахнулось. Ида Марковна высунулась из окна и увидела, как падающие с крыши со свистом подлетали к земле.
+# sent_id = ae358295-001b-4437-8cac-db402a3d5f75-p4-s1
+# text = Схватив клещи, Ида Марковна опять подбежала к окну и выдернула гвоздь.
+1	Схватив	_	_	_	_	_	_	_	Shift=1389
+2	клещи	_	_	_	_	_	_	_	Shift=1397|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1402
+4	Ида	_	_	_	_	_	_	_	RuCor_chain_id=607|RuCor_group_id=411070|Shift=1404
+5	Марковна	_	_	_	_	_	_	_	RuCor_chain_id=607|RuCor_group_id=411070|Shift=1408
+6	опять	_	_	_	_	_	_	_	Shift=1417
+7	подбежала	_	_	_	_	_	_	_	Shift=1423
+8	к	_	_	_	_	_	_	_	Shift=1433
+9	окну	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=604|RuCor_group_id=411083|RuCor_link_id=411082|Shift=1435
+10	и	_	_	_	_	_	_	_	Shift=1440
+11	выдернула	_	_	_	_	_	_	_	Shift=1442
+12	гвоздь	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=603|RuCor_group_id=411086|RuCor_link_id=411085|Shift=1452|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=1458
+
+# sent_id = ae358295-001b-4437-8cac-db402a3d5f75-p4-s2
+# text = Теперь окно легко распахнулось.
+1	Теперь	_	_	_	_	_	_	_	Shift=1460
+2	окно	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=604|RuCor_group_id=411087|RuCor_link_id=411083|Shift=1467
+3	легко	_	_	_	_	_	_	_	Shift=1472
+4	распахнулось	_	_	_	_	_	_	_	Shift=1478|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=1490
+
+# sent_id = ae358295-001b-4437-8cac-db402a3d5f75-p4-s3
+# text = Ида Марковна высунулась из окна и увидела, как падающие с крыши со свистом подлетали к земле.
+1	Ида	_	_	_	_	_	_	_	RuCor_chain_id=607|RuCor_group_id=411071|Shift=1492
+2	Марковна	_	_	_	_	_	_	_	RuCor_chain_id=607|RuCor_group_id=411071|Shift=1496
+3	высунулась	_	_	_	_	_	_	_	Shift=1505
+4	из	_	_	_	_	_	_	_	Shift=1516
+5	окна	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=604|RuCor_group_id=411088|RuCor_link_id=411087|Shift=1519
+6	и	_	_	_	_	_	_	_	Shift=1524
+7	увидела	_	_	_	_	_	_	_	Shift=1526|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1533
+9	как	_	_	_	_	_	_	_	Shift=1535
+10	падающие	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=611|RuCor_group_id=411072|RuCor_link_id=411064|Shift=1539
+11	с	_	_	_	_	_	_	_	RuCor_chain_id=611|RuCor_group_id=411072|Shift=1548
+12	крыши	_	_	_	_	_	_	_	RuCor_chain_id=611|RuCor_group_id=411072|Shift=1550
+13	со	_	_	_	_	_	_	_	Shift=1556
+14	свистом	_	_	_	_	_	_	_	Shift=1559
+15	подлетали	_	_	_	_	_	_	_	Shift=1567
+16	к	_	_	_	_	_	_	_	Shift=1577
+17	земле	_	_	_	_	_	_	_	Shift=1579|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=1584
+
+# newpar id = ae358295-001b-4437-8cac-db402a3d5f75-p5
+# par_text = На улице собралась уже небольшая толпа. Уже раздавались свистки, и к месту ожидаемого происшествия не спеша подходил маленького роста милиционер. Носатый дворник суетился, расталкивая людей и поясняя, что падающие с крыши могут вдарить собравшихся по головам.
+# sent_id = ae358295-001b-4437-8cac-db402a3d5f75-p5-s1
+# text = На улице собралась уже небольшая толпа.
+1	На	_	_	_	_	_	_	_	Shift=1587
+2	улице	_	_	_	_	_	_	_	Shift=1590
+3	собралась	_	_	_	_	_	_	_	Shift=1596
+4	уже	_	_	_	_	_	_	_	Shift=1606
+5	небольшая	_	_	_	_	_	_	_	Shift=1610
+6	толпа	_	_	_	_	_	_	_	Shift=1620|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=1625
+
+# sent_id = ae358295-001b-4437-8cac-db402a3d5f75-p5-s2
+# text = Уже раздавались свистки, и к месту ожидаемого происшествия не спеша подходил маленького роста милиционер.
+1	Уже	_	_	_	_	_	_	_	Shift=1627
+2	раздавались	_	_	_	_	_	_	_	Shift=1631
+3	свистки	_	_	_	_	_	_	_	Shift=1643|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1650
+5	и	_	_	_	_	_	_	_	Shift=1652
+6	к	_	_	_	_	_	_	_	Shift=1654
+7	месту	_	_	_	_	_	_	_	Shift=1656
+8	ожидаемого	_	_	_	_	_	_	_	Shift=1662
+9	происшествия	_	_	_	_	_	_	_	Shift=1673
+10	не	_	_	_	_	_	_	_	Shift=1686
+11	спеша	_	_	_	_	_	_	_	Shift=1689
+12	подходил	_	_	_	_	_	_	_	Shift=1695
+13	маленького	_	_	_	_	_	_	_	Shift=1704
+14	роста	_	_	_	_	_	_	_	Shift=1715
+15	милиционер	_	_	_	_	_	_	_	Shift=1721|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=1731
+
+# sent_id = ae358295-001b-4437-8cac-db402a3d5f75-p5-s3
+# text = Носатый дворник суетился, расталкивая людей и поясняя, что падающие с крыши могут вдарить собравшихся по головам.
+1	Носатый	_	_	_	_	_	_	_	Shift=1733
+2	дворник	_	_	_	_	_	_	_	Shift=1741
+3	суетился	_	_	_	_	_	_	_	Shift=1749|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1757
+5	расталкивая	_	_	_	_	_	_	_	Shift=1759
+6	людей	_	_	_	_	_	_	_	Shift=1771
+7	и	_	_	_	_	_	_	_	Shift=1777
+8	поясняя	_	_	_	_	_	_	_	Shift=1779|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1786
+10	что	_	_	_	_	_	_	_	Shift=1788
+11	падающие	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=611|RuCor_group_id=411073|RuCor_link_id=411072|Shift=1792
+12	с	_	_	_	_	_	_	_	RuCor_chain_id=611|RuCor_group_id=411073|Shift=1801
+13	крыши	_	_	_	_	_	_	_	RuCor_chain_id=611|RuCor_group_id=411073|Shift=1803
+14	могут	_	_	_	_	_	_	_	Shift=1809
+15	вдарить	_	_	_	_	_	_	_	Shift=1815
+16	собравшихся	_	_	_	_	_	_	_	Shift=1823
+17	по	_	_	_	_	_	_	_	Shift=1835
+18	головам	_	_	_	_	_	_	_	Shift=1838|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=1845
+
+# newpar id = ae358295-001b-4437-8cac-db402a3d5f75-p6
+# par_text = К этому времени уже обе Иды Марковны, одна в платье, а другая голая, высунувшись в окно, визжали и били ногами.
+# sent_id = ae358295-001b-4437-8cac-db402a3d5f75-p6-s1
+# text = К этому времени уже обе Иды Марковны, одна в платье, а другая голая, высунувшись в окно, визжали и били ногами.
+1	К	_	_	_	_	_	_	_	Shift=1848
+2	этому	_	_	_	_	_	_	_	Shift=1850
+3	времени	_	_	_	_	_	_	_	Shift=1856
+4	уже	_	_	_	_	_	_	_	Shift=1864
+5	обе	_	_	_	_	_	_	_	Shift=1868
+6	Иды	_	_	_	_	_	_	_	Shift=1872
+7	Марковны	_	_	_	_	_	_	_	Shift=1876|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1884
+9	одна	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=607|RuCor_group_id=411077|RuCor_link_id=411071|Shift=1886
+10	в	_	_	_	_	_	_	_	RuCor_chain_id=607|RuCor_group_id=411077|Shift=1891
+11	платье	_	_	_	_	_	_	_	RuCor_chain_id=607|RuCor_group_id=411077|Shift=1893|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=1899
+13	а	_	_	_	_	_	_	_	Shift=1901
+14	другая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=610|RuCor_group_id=411078|RuCor_link_id=411057|Shift=1903
+15	голая	_	_	_	_	_	_	_	RuCor_chain_id=610|RuCor_group_id=411078|Shift=1910|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=1915
+17	высунувшись	_	_	_	_	_	_	_	Shift=1917
+18	в	_	_	_	_	_	_	_	Shift=1929
+19	окно	_	_	_	_	_	_	_	Shift=1931|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=1935
+21	визжали	_	_	_	_	_	_	_	Shift=1937
+22	и	_	_	_	_	_	_	_	Shift=1945
+23	били	_	_	_	_	_	_	_	Shift=1947
+24	ногами	_	_	_	_	_	_	_	Shift=1952|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=1958
+
+# newpar id = ae358295-001b-4437-8cac-db402a3d5f75-p7
+# par_text = И вот наконец, расставив руки и выпучив глаза, падающие с крыши ударились об землю.
+# sent_id = ae358295-001b-4437-8cac-db402a3d5f75-p7-s1
+# text = И вот наконец, расставив руки и выпучив глаза, падающие с крыши ударились об землю.
+1	И	_	_	_	_	_	_	_	Shift=1961
+2	вот	_	_	_	_	_	_	_	Shift=1963
+3	наконец	_	_	_	_	_	_	_	Shift=1967|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1974
+5	расставив	_	_	_	_	_	_	_	Shift=1976
+6	руки	_	_	_	_	_	_	_	Shift=1986
+7	и	_	_	_	_	_	_	_	Shift=1991
+8	выпучив	_	_	_	_	_	_	_	Shift=1993
+9	глаза	_	_	_	_	_	_	_	Shift=2001|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=2006
+11	падающие	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=611|RuCor_group_id=411074|RuCor_link_id=411073|Shift=2008
+12	с	_	_	_	_	_	_	_	RuCor_chain_id=611|RuCor_group_id=411074|Shift=2017
+13	крыши	_	_	_	_	_	_	_	RuCor_chain_id=611|RuCor_group_id=411074|Shift=2019
+14	ударились	_	_	_	_	_	_	_	Shift=2025
+15	об	_	_	_	_	_	_	_	Shift=2035
+16	землю	_	_	_	_	_	_	_	Shift=2038|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=2043
+
+# newpar id = ae358295-001b-4437-8cac-db402a3d5f75-p8
+# par_text = Так и мы иногда, упадая с высот достигнутых, ударяемся об унылую клеть нашей будущности.
+# sent_id = ae358295-001b-4437-8cac-db402a3d5f75-p8-s1
+# text = Так и мы иногда, упадая с высот достигнутых, ударяемся об унылую клеть нашей будущности.
+1	Так	_	_	_	_	_	_	_	Shift=2046
+2	и	_	_	_	_	_	_	_	Shift=2050
+3	мы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=605|RuCor_group_id=411076|RuCor_link_id=0|Shift=2052
+4	иногда	_	_	_	_	_	_	_	Shift=2055|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=2061
+6	упадая	_	_	_	_	_	_	_	Shift=2063
+7	с	_	_	_	_	_	_	_	Shift=2070
+8	высот	_	_	_	_	_	_	_	Shift=2072
+9	достигнутых	_	_	_	_	_	_	_	Shift=2078|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=2089
+11	ударяемся	_	_	_	_	_	_	_	Shift=2091
+12	об	_	_	_	_	_	_	_	Shift=2101
+13	унылую	_	_	_	_	_	_	_	Shift=2104
+14	клеть	_	_	_	_	_	_	_	Shift=2111
+15	нашей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=605|RuCor_group_id=411075|RuCor_link_id=411076|Shift=2117
+16	будущности	_	_	_	_	_	_	_	Shift=2123|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=2133
+
+# newpar id = ae358295-001b-4437-8cac-db402a3d5f75-p9
+# par_text = <7 сентября 1940>
+# sent_id = ae358295-001b-4437-8cac-db402a3d5f75-p9-s1
+# text = <7 сентября 1940>
+0.1	_	_	_	_	_	_	_	_	EntityUnk=<7|Shift=2139
+1	сентября	_	_	_	_	_	_	_	Shift=2141
+1.1	_	_	_	_	_	_	_	_	EntityUnk=1940>|Shift=2150
+

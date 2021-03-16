@@ -1,0 +1,43 @@
+#begin document (abc_0059_0); part 000
+abc_0059	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	(0
+abc_0059	0	1	Indonesian	JJ	*	-	-	-	-	-
+abc_0059	0	2	billionaire	NN	*)	-	-	-	-	-
+abc_0059	0	3	James	NNP	(NP*	-	-	-	-	-
+abc_0059	0	4	Riady	NNP	*))	-	-	-	-	0)
+abc_0059	0	5	has	VBZ	(VP*	have	01	-	-	-
+abc_0059	0	6	agreed	VBN	(VP*	agree	01	3	-	-
+abc_0059	0	7	to	TO	(S(VP*	-	-	-	-	-
+abc_0059	0	8	pay	VB	(VP(VP*	pay	01	1	-	-
+abc_0059	0	9	$	$	(NP(QP*	-	-	-	-	-
+abc_0059	0	10	8.5	CD	*	-	-	-	-	-
+abc_0059	0	11	million	CD	*)))	-	-	-	-	-
+abc_0059	0	12	and	CC	*	-	-	-	-	-
+abc_0059	0	13	plead	VB	(VP*	plead	02	3	-	-
+abc_0059	0	14	guilty	JJ	(S(ADJP*	-	-	-	-	-
+abc_0059	0	15	to	IN	(PP*	-	-	-	-	-
+abc_0059	0	16	illegally	RB	(S(ADVP*)	-	-	-	-	-
+abc_0059	0	17	donating	VBG	(VP*	donate	01	1	-	-
+abc_0059	0	18	money	NN	(NP(NP*)	money	-	2	-	-
+abc_0059	0	19	for	IN	(PP*	-	-	-	-	-
+abc_0059	0	20	Bill	NNP	(NP(NP*	-	-	-	-	-
+abc_0059	0	21	Clinton	NNP	*	-	-	-	-	-
+abc_0059	0	22	's	POS	*)	-	-	-	-	-
+abc_0059	0	23	1992	CD	*	-	-	-	-	-
+abc_0059	0	24	presidential	JJ	*	-	-	-	-	-
+abc_0059	0	25	campaign	NN	*))))))))))))))	campaign	-	1	-	-
+abc_0059	0	26	.	.	*))	-	-	-	-	-
+
+abc_0059	0	0	He	PRP	(TOP(S(NP*)	-	-	-	-	(0)
+abc_0059	0	1	admits	VBZ	(VP*	admit	01	1	-	-
+abc_0059	0	2	he	PRP	(SBAR(S(NP*)	-	-	-	-	(0)
+abc_0059	0	3	was	VBD	(VP*	be	03	-	-	-
+abc_0059	0	4	trying	VBG	(VP*	try	01	1	-	-
+abc_0059	0	5	to	TO	(S(VP*	-	-	-	-	-
+abc_0059	0	6	influence	VB	(VP*	influence	01	1	-	-
+abc_0059	0	7	American	JJ	(NP(NP*	-	-	-	-	-
+abc_0059	0	8	policy	NN	*)	policy	-	1	-	-
+abc_0059	0	9	on	IN	(PP*	-	-	-	-	-
+abc_0059	0	10	China	NNP	(NP*)))))))))))	-	-	-	-	-
+abc_0059	0	11	.	.	*))	-	-	-	-	-
+
+#end document

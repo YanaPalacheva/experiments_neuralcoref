@@ -1,0 +1,549 @@
+# newdoc id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc
+# newpar id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p1
+# par_text = 9 декабря в Лейпциге будет проведена жеребьёвка предварительных групп финальной стадии Чемпионата мира по футболу 2006 года.
+# sent_id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p1-s1
+# text = 9 декабря в Лейпциге будет проведена жеребьёвка предварительных групп финальной стадии Чемпионата мира по футболу 2006 года.
+1	9	_	_	_	_	_	_	_	Shift=0
+2	декабря	_	_	_	_	_	_	_	Shift=2
+3	в	_	_	_	_	_	_	_	Shift=10
+4	Лейпциге	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2457|RuCor_group_id=470972|RuCor_link_id=0|Shift=12
+5	будет	_	_	_	_	_	_	_	Shift=21
+6	проведена	_	_	_	_	_	_	_	Shift=27
+7	жеребьёвка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2458|RuCor_group_id=470973|RuCor_link_id=0|Shift=37
+8	предварительных	_	_	_	_	_	_	_	RuCor_chain_id=2458|RuCor_group_id=470973|Shift=48
+9	групп	_	_	_	_	_	_	_	RuCor_chain_id=2458|RuCor_group_id=470973|Shift=64
+10	финальной	_	_	_	_	_	_	_	RuCor_chain_id=2458|RuCor_group_id=470973|Shift=70
+11	стадии	_	_	_	_	_	_	_	RuCor_chain_id=2458|RuCor_group_id=470973|Shift=80
+12	Чемпионата	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2459|RuCor_group_id=470974|RuCor_link_id=0|Shift=87
+13	мира	_	_	_	_	_	_	_	RuCor_chain_id=2459|RuCor_group_id=470974|Shift=98
+14	по	_	_	_	_	_	_	_	RuCor_chain_id=2459|RuCor_group_id=470974|Shift=103
+15	футболу	_	_	_	_	_	_	_	RuCor_chain_id=2459|RuCor_group_id=470974|Shift=106
+16	2006	_	_	_	_	_	_	_	RuCor_chain_id=2459|RuCor_group_id=470974|Shift=114
+17	года	_	_	_	_	_	_	_	RuCor_chain_id=2459|RuCor_group_id=470974|Shift=119|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=123
+
+# newpar id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p2
+# par_text = В Чемпионате примут участие 32 сборные: Германия, Украина, Португалия, Нидерланды, Италия, Англия, Хорватия, Польша, Франция, Швеция, Сербия и Черногория, Швейцария, Испания, Чехия, Бразилия, Аргентина, Эквадор, Парагвай, Мексика, США, Коста-Рика, Тринидад и Тобаго, Того, Гана, Кот д`Ивуар, Ангола, Тунис, Саудовская Аравия, Южная Корея, Япония, Иран, Австралия.
+# sent_id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p2-s1
+# text = В Чемпионате примут участие 32 сборные: Германия, Украина, Португалия, Нидерланды, Италия, Англия, Хорватия, Польша, Франция, Швеция, Сербия и Черногория, Швейцария, Испания, Чехия, Бразилия, Аргентина, Эквадор, Парагвай, Мексика, США, Коста-Рика, Тринидад и Тобаго, Того, Гана, Кот д`Ивуар, Ангола, Тунис, Саудовская Аравия, Южная Корея, Япония, Иран, Австралия.
+1	В	_	_	_	_	_	_	_	Shift=125
+2	Чемпионате	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2459|RuCor_group_id=470975|RuCor_link_id=470974|Shift=127
+3	примут	_	_	_	_	_	_	_	Shift=138
+4	участие	_	_	_	_	_	_	_	Shift=145
+5	32	_	_	_	_	_	_	_	RuCor_chain_id=2460|RuCor_group_id=470976|Shift=153
+6	сборные	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2460|RuCor_group_id=470976|RuCor_link_id=0|Shift=156|SpaceAfter=No
+7	:	_	_	_	_	_	_	_	Shift=163
+8	Германия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2461|RuCor_group_id=470977|RuCor_link_id=0|Shift=165|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=173
+10	Украина	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2462|RuCor_group_id=470978|RuCor_link_id=0|Shift=175|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=182
+12	Португалия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2463|RuCor_group_id=470979|RuCor_link_id=0|Shift=184|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=194
+14	Нидерланды	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2464|RuCor_group_id=470980|RuCor_link_id=0|Shift=196|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=206
+16	Италия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2465|RuCor_group_id=470981|RuCor_link_id=0|Shift=208|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=214
+18	Англия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2466|RuCor_group_id=470982|RuCor_link_id=0|Shift=216|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=222
+20	Хорватия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2467|RuCor_group_id=470983|RuCor_link_id=0|Shift=224|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=232
+22	Польша	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2468|RuCor_group_id=470984|RuCor_link_id=0|Shift=234|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=240
+24	Франция	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2469|RuCor_group_id=470985|RuCor_link_id=0|Shift=242|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=249
+26	Швеция	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2470|RuCor_group_id=470986|RuCor_link_id=0|Shift=251|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=257
+28	Сербия	_	_	_	_	_	_	_	RuCor_chain_id=2471|RuCor_group_id=470987|Shift=259
+29	и	_	_	_	_	_	_	_	RuCor_chain_id=2471|RuCor_group_id=470987|Shift=266
+30	Черногория	_	_	_	_	_	_	_	RuCor_chain_id=2471|RuCor_group_id=470987|Shift=268|SpaceAfter=No
+31	,	_	_	_	_	_	_	_	Shift=278
+32	Швейцария	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2472|RuCor_group_id=470988|RuCor_link_id=0|Shift=280|SpaceAfter=No
+33	,	_	_	_	_	_	_	_	Shift=289
+34	Испания	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2473|RuCor_group_id=470989|RuCor_link_id=0|Shift=291|SpaceAfter=No
+35	,	_	_	_	_	_	_	_	Shift=298
+36	Чехия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2474|RuCor_group_id=470990|RuCor_link_id=0|Shift=300|SpaceAfter=No
+37	,	_	_	_	_	_	_	_	Shift=305
+38	Бразилия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2475|RuCor_group_id=470991|RuCor_link_id=0|Shift=307|SpaceAfter=No
+39	,	_	_	_	_	_	_	_	Shift=315
+40	Аргентина	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2476|RuCor_group_id=470992|RuCor_link_id=0|Shift=317|SpaceAfter=No
+41	,	_	_	_	_	_	_	_	Shift=326
+42	Эквадор	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2477|RuCor_group_id=470993|RuCor_link_id=0|Shift=328|SpaceAfter=No
+43	,	_	_	_	_	_	_	_	Shift=335
+44	Парагвай	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2478|RuCor_group_id=470994|RuCor_link_id=0|Shift=337|SpaceAfter=No
+45	,	_	_	_	_	_	_	_	Shift=345
+46	Мексика	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2479|RuCor_group_id=470995|RuCor_link_id=0|Shift=347|SpaceAfter=No
+47	,	_	_	_	_	_	_	_	Shift=354
+48	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2480|RuCor_group_id=470996|RuCor_link_id=0|Shift=356|SpaceAfter=No
+49	,	_	_	_	_	_	_	_	Shift=359
+50	Коста-Рика	_	_	_	_	_	_	_	Shift=361|SpaceAfter=No
+51	,	_	_	_	_	_	_	_	Shift=371
+52	Тринидад	_	_	_	_	_	_	_	RuCor_chain_id=2482|RuCor_group_id=470998|Shift=373
+53	и	_	_	_	_	_	_	_	RuCor_chain_id=2482|RuCor_group_id=470998|Shift=382
+54	Тобаго	_	_	_	_	_	_	_	RuCor_chain_id=2482|RuCor_group_id=470998|Shift=384|SpaceAfter=No
+55	,	_	_	_	_	_	_	_	Shift=390
+56	Того	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2483|RuCor_group_id=470999|RuCor_link_id=0|Shift=392|SpaceAfter=No
+57	,	_	_	_	_	_	_	_	Shift=396
+58	Гана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2484|RuCor_group_id=471000|RuCor_link_id=0|Shift=398|SpaceAfter=No
+59	,	_	_	_	_	_	_	_	Shift=402
+60	Кот	_	_	_	_	_	_	_	RuCor_chain_id=2485|RuCor_group_id=471001|Shift=404
+61	д`Ивуар	_	_	_	_	_	_	_	RuCor_chain_id=2485|RuCor_group_id=471001|Shift=408|SpaceAfter=No
+62	,	_	_	_	_	_	_	_	Shift=415
+63	Ангола	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2486|RuCor_group_id=471002|RuCor_link_id=0|Shift=417|SpaceAfter=No
+64	,	_	_	_	_	_	_	_	Shift=423
+65	Тунис	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2487|RuCor_group_id=471003|RuCor_link_id=0|Shift=425|SpaceAfter=No
+66	,	_	_	_	_	_	_	_	Shift=430
+67	Саудовская	_	_	_	_	_	_	_	RuCor_chain_id=2488|RuCor_group_id=471004|Shift=432
+68	Аравия	_	_	_	_	_	_	_	RuCor_chain_id=2488|RuCor_group_id=471004|Shift=443|SpaceAfter=No
+69	,	_	_	_	_	_	_	_	Shift=449
+70	Южная	_	_	_	_	_	_	_	RuCor_chain_id=2489|RuCor_group_id=471005|Shift=451
+71	Корея	_	_	_	_	_	_	_	RuCor_chain_id=2489|RuCor_group_id=471005|Shift=457|SpaceAfter=No
+72	,	_	_	_	_	_	_	_	Shift=462
+73	Япония	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2490|RuCor_group_id=471006|RuCor_link_id=0|Shift=464|SpaceAfter=No
+74	,	_	_	_	_	_	_	_	Shift=470
+75	Иран	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2491|RuCor_group_id=471007|RuCor_link_id=0|Shift=472|SpaceAfter=No
+76	,	_	_	_	_	_	_	_	Shift=476
+77	Австралия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2492|RuCor_group_id=471008|RuCor_link_id=0|Shift=478|SpaceAfter=No
+78	.	_	_	_	_	_	_	_	Shift=487
+
+# newpar id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p3
+# par_text = 32 участника Чемпионата мира будут распределены на 8 групп, которые имеют буквенные (латинский алфавит) обозначения — A, B, C, D, E, F, G, H.
+# sent_id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p3-s1
+# text = 32 участника Чемпионата мира будут распределены на 8 групп, которые имеют буквенные (латинский алфавит) обозначения - A, B, C, D, E, F, G, H.
+1	32	_	_	_	_	_	_	_	RuCor_chain_id=2460|RuCor_group_id=471009|Shift=489
+2	участника	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2460|RuCor_group_id=471009|RuCor_link_id=470976|Shift=492
+3	Чемпионата	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2459|RuCor_group_id=471010|RuCor_link_id=470975|Shift=502
+4	мира	_	_	_	_	_	_	_	RuCor_chain_id=2459|RuCor_group_id=471010|Shift=513
+5	будут	_	_	_	_	_	_	_	Shift=518
+6	распределены	_	_	_	_	_	_	_	Shift=524
+7	на	_	_	_	_	_	_	_	Shift=537
+8	8	_	_	_	_	_	_	_	RuCor_chain_id=2493|RuCor_group_id=471011|Shift=540
+9	групп	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2493|RuCor_group_id=471011|RuCor_link_id=0|Shift=542|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=547
+11	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2493|RuCor_group_id=471012|RuCor_link_id=471011|Shift=549
+12	имеют	_	_	_	_	_	_	_	Shift=557
+13	буквенные	_	_	_	_	_	_	_	Shift=563
+14	(	_	_	_	_	_	_	_	Shift=573|SpaceAfter=No
+15	латинский	_	_	_	_	_	_	_	Shift=574
+16	алфавит	_	_	_	_	_	_	_	Shift=584|SpaceAfter=No
+17	)	_	_	_	_	_	_	_	Shift=591
+18	обозначения	_	_	_	_	_	_	_	Shift=593
+19	-	_	_	_	_	_	_	_	Shift=605
+20	A	_	_	_	_	_	_	_	Shift=607|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=608
+22	B	_	_	_	_	_	_	_	Shift=610|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=611
+24	C	_	_	_	_	_	_	_	Shift=613|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=614
+26	D	_	_	_	_	_	_	_	Shift=616|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=617
+28	E	_	_	_	_	_	_	_	Shift=619|SpaceAfter=No
+29	,	_	_	_	_	_	_	_	Shift=620
+30	F	_	_	_	_	_	_	_	Shift=622|SpaceAfter=No
+31	,	_	_	_	_	_	_	_	Shift=623
+32	G	_	_	_	_	_	_	_	Shift=625|SpaceAfter=No
+33	,	_	_	_	_	_	_	_	Shift=626
+34	H	_	_	_	_	_	_	_	Shift=628|SpaceAfter=No
+35	.	_	_	_	_	_	_	_	Shift=629
+
+# newpar id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p4
+# par_text = В каждой группе по четыре команды, которые сыграют между собой по одному матчу.
+# sent_id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p4-s1
+# text = В каждой группе по четыре команды, которые сыграют между собой по одному матчу.
+1	В	_	_	_	_	_	_	_	Shift=631
+2	каждой	_	_	_	_	_	_	_	Shift=633
+3	группе	_	_	_	_	_	_	_	Shift=640
+4	по	_	_	_	_	_	_	_	Shift=647
+5	четыре	_	_	_	_	_	_	_	RuCor_chain_id=2494|RuCor_group_id=471013|Shift=650
+6	команды	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2494|RuCor_group_id=471013|RuCor_link_id=0|Shift=657|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=664
+8	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2494|RuCor_group_id=471014|RuCor_link_id=471013|Shift=666
+9	сыграют	_	_	_	_	_	_	_	Shift=674
+10	между	_	_	_	_	_	_	_	Shift=682
+11	собой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=2494|RuCor_group_id=471015|RuCor_link_id=471014|Shift=688
+12	по	_	_	_	_	_	_	_	Shift=694
+13	одному	_	_	_	_	_	_	_	Shift=697
+14	матчу	_	_	_	_	_	_	_	Shift=704|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=709
+
+# newpar id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p5
+# par_text = Команды, занявшие третье и четвёртое места, покидают соревнования.
+# sent_id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p5-s1
+# text = Команды, занявшие третье и четвёртое места, покидают соревнования.
+1	Команды	_	_	_	_	_	_	_	Shift=711|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=718
+3	занявшие	_	_	_	_	_	_	_	Shift=720
+4	третье	_	_	_	_	_	_	_	Shift=729
+5	и	_	_	_	_	_	_	_	Shift=736
+6	четвёртое	_	_	_	_	_	_	_	Shift=738
+7	места	_	_	_	_	_	_	_	Shift=748|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=753
+9	покидают	_	_	_	_	_	_	_	Shift=755
+10	соревнования	_	_	_	_	_	_	_	Shift=764|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=776
+
+# newpar id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p6
+# par_text = Команды, занявшие первое и второе места, продолжат борьбу по системе с выбыванием с одной восьмой финала.
+# sent_id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p6-s1
+# text = Команды, занявшие первое и второе места, продолжат борьбу по системе с выбыванием с одной восьмой финала.
+1	Команды	_	_	_	_	_	_	_	Shift=778|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=785
+3	занявшие	_	_	_	_	_	_	_	Shift=787
+4	первое	_	_	_	_	_	_	_	Shift=796
+5	и	_	_	_	_	_	_	_	Shift=803
+6	второе	_	_	_	_	_	_	_	Shift=805
+7	места	_	_	_	_	_	_	_	Shift=812|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=817
+9	продолжат	_	_	_	_	_	_	_	Shift=819
+10	борьбу	_	_	_	_	_	_	_	Shift=829
+11	по	_	_	_	_	_	_	_	Shift=836
+12	системе	_	_	_	_	_	_	_	Shift=839
+13	с	_	_	_	_	_	_	_	Shift=847
+14	выбыванием	_	_	_	_	_	_	_	Shift=849
+15	с	_	_	_	_	_	_	_	Shift=860
+16	одной	_	_	_	_	_	_	_	Shift=862
+17	восьмой	_	_	_	_	_	_	_	Shift=868
+18	финала	_	_	_	_	_	_	_	Shift=876|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=882
+
+# newpar id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p7
+# par_text = Чемпионат будет проходить в в двенадцати городах Германии с 9 июня по 9 июля 2006 года.
+# sent_id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p7-s1
+# text = Чемпионат будет проходить в в двенадцати городах Германии с 9 июня по 9 июля 2006 года.
+1	Чемпионат	_	_	_	_	_	_	_	Shift=884
+2	будет	_	_	_	_	_	_	_	Shift=894
+3	проходить	_	_	_	_	_	_	_	Shift=900
+4	в	_	_	_	_	_	_	_	Shift=910
+5	в	_	_	_	_	_	_	_	Shift=912
+6	двенадцати	_	_	_	_	_	_	_	Shift=914
+7	городах	_	_	_	_	_	_	_	Shift=925
+8	Германии	_	_	_	_	_	_	_	Shift=933
+9	с	_	_	_	_	_	_	_	Shift=942
+10	9	_	_	_	_	_	_	_	Shift=944
+11	июня	_	_	_	_	_	_	_	Shift=946
+12	по	_	_	_	_	_	_	_	Shift=951
+13	9	_	_	_	_	_	_	_	Shift=954
+14	июля	_	_	_	_	_	_	_	Shift=956
+15	2006	_	_	_	_	_	_	_	Shift=961
+16	года	_	_	_	_	_	_	_	Shift=966|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=970
+
+# newpar id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p8
+# par_text = Матч открытия состоится 9 июня на новом стадионе «Альянс Арена» (Allianz Arena) в Мюнхене.
+# sent_id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p8-s1
+# text = Матч открытия состоится 9 июня на новом стадионе ``Альянс Арена'' (Allianz Arena) в Мюнхене.
+1	Матч	_	_	_	_	_	_	_	Shift=972
+2	открытия	_	_	_	_	_	_	_	Shift=977
+3	состоится	_	_	_	_	_	_	_	Shift=986
+4	9	_	_	_	_	_	_	_	Shift=996
+5	июня	_	_	_	_	_	_	_	Shift=998
+6	на	_	_	_	_	_	_	_	Shift=1003
+7	новом	_	_	_	_	_	_	_	Shift=1006
+8	стадионе	_	_	_	_	_	_	_	Shift=1012
+9	``	_	_	_	_	_	_	_	Shift=1021|SpaceAfter=No
+10	Альянс	_	_	_	_	_	_	_	Shift=1022
+11	Арена	_	_	_	_	_	_	_	Shift=1029|SpaceAfter=No
+12	''	_	_	_	_	_	_	_	Shift=1034
+13	(	_	_	_	_	_	_	_	Shift=1036|SpaceAfter=No
+14	Allianz	_	_	_	_	_	_	_	Shift=1037
+15	Arena	_	_	_	_	_	_	_	Shift=1045|SpaceAfter=No
+16	)	_	_	_	_	_	_	_	Shift=1050
+17	в	_	_	_	_	_	_	_	Shift=1052
+18	Мюнхене	_	_	_	_	_	_	_	Shift=1054|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=1061
+
+# newpar id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p9
+# par_text = Финальный матч состоится 9 июля на Олимпийском стадионе в Берлине.
+# sent_id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p9-s1
+# text = Финальный матч состоится 9 июля на Олимпийском стадионе в Берлине.
+1	Финальный	_	_	_	_	_	_	_	Shift=1063
+2	матч	_	_	_	_	_	_	_	Shift=1073
+3	состоится	_	_	_	_	_	_	_	Shift=1078
+4	9	_	_	_	_	_	_	_	Shift=1088
+5	июля	_	_	_	_	_	_	_	Shift=1090
+6	на	_	_	_	_	_	_	_	Shift=1095
+7	Олимпийском	_	_	_	_	_	_	_	Shift=1098
+8	стадионе	_	_	_	_	_	_	_	Shift=1110
+9	в	_	_	_	_	_	_	_	Shift=1119
+10	Берлине	_	_	_	_	_	_	_	Shift=1121|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=1128
+
+# newpar id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p10
+# par_text = Перед жеребьёвкой ФИФА распределила всех участников по четырём корзинам.
+# sent_id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p10-s1
+# text = Перед жеребьёвкой ФИФА распределила всех участников по четырём корзинам.
+1	Перед	_	_	_	_	_	_	_	Shift=1130
+2	жеребьёвкой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2458|RuCor_group_id=471016|RuCor_link_id=470973|Shift=1136
+3	ФИФА	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2495|RuCor_group_id=471017|RuCor_link_id=0|Shift=1148
+4	распределила	_	_	_	_	_	_	_	Shift=1153
+5	всех	_	_	_	_	_	_	_	RuCor_chain_id=2460|RuCor_group_id=471018|Shift=1166
+6	участников	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2460|RuCor_group_id=471018|RuCor_link_id=471009|Shift=1171
+7	по	_	_	_	_	_	_	_	Shift=1182
+8	четырём	_	_	_	_	_	_	_	Shift=1185
+9	корзинам	_	_	_	_	_	_	_	Shift=1193|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=1201
+
+# newpar id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p11
+# par_text = В первую корзину попали команды имеющие наивысший рейтинг ФИФА и команда хозяев чемпионата.
+# sent_id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p11-s1
+# text = В первую корзину попали команды имеющие наивысший рейтинг ФИФА и команда хозяев чемпионата.
+1	В	_	_	_	_	_	_	_	Shift=1203
+2	первую	_	_	_	_	_	_	_	Shift=1205
+3	корзину	_	_	_	_	_	_	_	Shift=1212
+4	попали	_	_	_	_	_	_	_	Shift=1220
+5	команды	_	_	_	_	_	_	_	Shift=1227
+6	имеющие	_	_	_	_	_	_	_	Shift=1235
+7	наивысший	_	_	_	_	_	_	_	Shift=1243
+8	рейтинг	_	_	_	_	_	_	_	Shift=1253
+9	ФИФА	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2495|RuCor_group_id=471019|RuCor_link_id=471017|Shift=1261
+10	и	_	_	_	_	_	_	_	Shift=1266
+11	команда	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2461|RuCor_group_id=471020|RuCor_link_id=470977|Shift=1268
+12	хозяев	_	_	_	_	_	_	_	RuCor_chain_id=2461|RuCor_group_id=471020|Shift=1276
+13	чемпионата	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2459|RuCor_group_id=471021|RuCor_link_id=471010|Shift=1283|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=1293
+
+# newpar id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p12
+# par_text = Остальные команды были распределены по трём корзинам по географическому принципу.
+# sent_id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p12-s1
+# text = Остальные команды были распределены по трём корзинам по географическому принципу.
+1	Остальные	_	_	_	_	_	_	_	Shift=1295
+2	команды	_	_	_	_	_	_	_	Shift=1305
+3	были	_	_	_	_	_	_	_	Shift=1313
+4	распределены	_	_	_	_	_	_	_	Shift=1318
+5	по	_	_	_	_	_	_	_	Shift=1331
+6	трём	_	_	_	_	_	_	_	Shift=1334
+7	корзинам	_	_	_	_	_	_	_	Shift=1339
+8	по	_	_	_	_	_	_	_	Shift=1348
+9	географическому	_	_	_	_	_	_	_	Shift=1351
+10	принципу	_	_	_	_	_	_	_	Shift=1367|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=1375
+
+# newpar id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p13
+# par_text = Особый статус получила команда Сербии и Черногории, как слабейшая из европейских команд.
+# sent_id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p13-s1
+# text = Особый статус получила команда Сербии и Черногории, как слабейшая из европейских команд.
+1	Особый	_	_	_	_	_	_	_	Shift=1377
+2	статус	_	_	_	_	_	_	_	Shift=1384
+3	получила	_	_	_	_	_	_	_	Shift=1391
+4	команда	_	_	_	_	_	_	_	Shift=1400
+5	Сербии	_	_	_	_	_	_	_	RuCor_chain_id=2471|RuCor_group_id=471022|Shift=1408
+6	и	_	_	_	_	_	_	_	RuCor_chain_id=2471|RuCor_group_id=471022|Shift=1415
+7	Черногории	_	_	_	_	_	_	_	RuCor_chain_id=2471|RuCor_group_id=471022|Shift=1417|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1427
+9	как	_	_	_	_	_	_	_	Shift=1429
+10	слабейшая	_	_	_	_	_	_	_	Shift=1433
+11	из	_	_	_	_	_	_	_	Shift=1443
+12	европейских	_	_	_	_	_	_	_	Shift=1446
+13	команд	_	_	_	_	_	_	_	Shift=1458|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=1464
+
+# newpar id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p14
+# par_text = Составы корзин:
+# sent_id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p14-s1
+# text = Составы корзин:
+1	Составы	_	_	_	_	_	_	_	Shift=1466
+2	корзин	_	_	_	_	_	_	_	Shift=1474|SpaceAfter=No
+3	:	_	_	_	_	_	_	_	Shift=1480
+
+# newpar id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p15
+# par_text = 1-я — Германия, Бразилия, Италия, Франция, Аргентина, Испания, Мексика, Англия
+# sent_id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p15-s1
+# text = 1-я - Германия, Бразилия, Италия, Франция, Аргентина, Испания, Мексика, Англия
+1	1-я	_	_	_	_	_	_	_	Shift=1482
+2	-	_	_	_	_	_	_	_	Shift=1483
+3	Германия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2461|RuCor_group_id=471023|RuCor_link_id=470977|Shift=1488|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1496
+5	Бразилия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2475|RuCor_group_id=471024|RuCor_link_id=470991|Shift=1498|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1506
+7	Италия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2465|RuCor_group_id=471025|RuCor_link_id=470981|Shift=1508|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1514
+9	Франция	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2469|RuCor_group_id=471026|RuCor_link_id=470985|Shift=1516|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=1523
+11	Аргентина	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2476|RuCor_group_id=471027|RuCor_link_id=470992|Shift=1525|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=1534
+13	Испания	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2473|RuCor_group_id=471028|RuCor_link_id=470989|Shift=1536|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=1543
+15	Мексика	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2479|RuCor_group_id=471029|RuCor_link_id=470995|Shift=1545|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=1552
+17	Англия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2466|RuCor_group_id=471030|RuCor_link_id=470982|Shift=1554
+
+# newpar id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p16
+# par_text = 2-я — Гана, Кот-д’Ивуар, Того, Тунис, Ангола, Эквадор, Парагвай, Австралия
+# sent_id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p16-s1
+# text = 2-я - Гана, Кот - д’Ивуар, Того, Тунис, Ангола, Эквадор, Парагвай, Австралия
+1	2-я	_	_	_	_	_	_	_	Shift=1561
+2	-	_	_	_	_	_	_	_	Shift=1562
+3	Гана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2484|RuCor_group_id=471031|RuCor_link_id=471000|Shift=1567|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1571
+5	Кот	_	_	_	_	_	_	_	RuCor_chain_id=2485|RuCor_group_id=471032|Shift=1573
+6	-	_	_	_	_	_	_	_	RuCor_chain_id=2485|RuCor_group_id=471032|Shift=1576
+7	д’Ивуар	_	_	_	_	_	_	_	RuCor_chain_id=2485|RuCor_group_id=471032|Shift=1577|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1584
+9	Того	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2483|RuCor_group_id=471033|RuCor_link_id=470999|Shift=1586|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=1590
+11	Тунис	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2487|RuCor_group_id=471034|RuCor_link_id=471003|Shift=1592|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=1597
+13	Ангола	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2486|RuCor_group_id=471035|RuCor_link_id=471002|Shift=1599|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=1605
+15	Эквадор	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2477|RuCor_group_id=471036|RuCor_link_id=470993|Shift=1607|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=1614
+17	Парагвай	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2478|RuCor_group_id=471037|RuCor_link_id=470994|Shift=1616|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=1624
+19	Австралия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2492|RuCor_group_id=471038|RuCor_link_id=471008|Shift=1626
+
+# newpar id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p17
+# par_text = 3-я — Хорватия, Чехия, Нидерланды, Польша, Швеция, Португалия, Швейцария, Украина
+# sent_id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p17-s1
+# text = 3-я - Хорватия, Чехия, Нидерланды, Польша, Швеция, Португалия, Швейцария, Украина
+1	3-я	_	_	_	_	_	_	_	Shift=1636
+2	-	_	_	_	_	_	_	_	Shift=1637
+3	Хорватия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2467|RuCor_group_id=471039|RuCor_link_id=470983|Shift=1642|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1650
+5	Чехия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2474|RuCor_group_id=471040|RuCor_link_id=470990|Shift=1652|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1657
+7	Нидерланды	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2464|RuCor_group_id=471041|RuCor_link_id=470980|Shift=1659|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1669
+9	Польша	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2468|RuCor_group_id=471042|RuCor_link_id=470984|Shift=1671|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=1677
+11	Швеция	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2470|RuCor_group_id=471043|RuCor_link_id=470986|Shift=1679|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=1685
+13	Португалия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2463|RuCor_group_id=471044|RuCor_link_id=470979|Shift=1687|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=1697
+15	Швейцария	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2472|RuCor_group_id=471045|RuCor_link_id=470988|Shift=1699|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=1708
+17	Украина	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2462|RuCor_group_id=471046|RuCor_link_id=470978|Shift=1710
+
+# newpar id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p18
+# par_text = 4-я — Иран, Япония, Саудовская Аравия, Южная Корея, Тринидад и Тобаго, Коста.Рика, США
+# sent_id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p18-s1
+# text = 4-я - Иран, Япония, Саудовская Аравия, Южная Корея, Тринидад и Тобаго, Коста.
+1	4-я	_	_	_	_	_	_	_	Shift=1718
+2	-	_	_	_	_	_	_	_	Shift=1719
+3	Иран	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2491|RuCor_group_id=471047|RuCor_link_id=471007|Shift=1724|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1728
+5	Япония	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2490|RuCor_group_id=471048|RuCor_link_id=471006|Shift=1730|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1736
+7	Саудовская	_	_	_	_	_	_	_	RuCor_chain_id=2488|RuCor_group_id=471049|Shift=1738
+8	Аравия	_	_	_	_	_	_	_	RuCor_chain_id=2488|RuCor_group_id=471049|Shift=1749|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1755
+10	Южная	_	_	_	_	_	_	_	RuCor_chain_id=2489|RuCor_group_id=471050|Shift=1757
+11	Корея	_	_	_	_	_	_	_	RuCor_chain_id=2489|RuCor_group_id=471050|Shift=1763|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=1768
+13	Тринидад	_	_	_	_	_	_	_	RuCor_chain_id=2482|RuCor_group_id=471051|Shift=1770
+14	и	_	_	_	_	_	_	_	RuCor_chain_id=2482|RuCor_group_id=471051|Shift=1779
+15	Тобаго	_	_	_	_	_	_	_	RuCor_chain_id=2482|RuCor_group_id=471051|Shift=1781|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=1787
+17	Коста	_	_	_	_	_	_	_	Shift=1789|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=1794
+
+# sent_id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p18-s2
+# text = Рика, США
+1	Рика	_	_	_	_	_	_	_	Shift=1795|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=1799
+3	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2480|RuCor_group_id=471053|RuCor_link_id=470996|Shift=1801
+
+# newpar id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p19
+# par_text = 5-я — Сербия и Черногория
+# sent_id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p19-s1
+# text = 5-я - Сербия и Черногория
+1	5-я	_	_	_	_	_	_	_	Shift=1805
+2	-	_	_	_	_	_	_	_	Shift=1806
+3	Сербия	_	_	_	_	_	_	_	RuCor_chain_id=2471|RuCor_group_id=471054|Shift=1811
+4	и	_	_	_	_	_	_	_	RuCor_chain_id=2471|RuCor_group_id=471054|Shift=1818
+5	Черногория	_	_	_	_	_	_	_	RuCor_chain_id=2471|RuCor_group_id=471054|Shift=1820
+
+# newpar id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p20
+# par_text = В каждую из предварительных групп попадёт по одной команды из первых четырёх корзин.
+# sent_id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p20-s1
+# text = В каждую из предварительных групп попадёт по одной команды из первых четырёх корзин.
+1	В	_	_	_	_	_	_	_	Shift=1831
+2	каждую	_	_	_	_	_	_	_	Shift=1833
+3	из	_	_	_	_	_	_	_	Shift=1840
+4	предварительных	_	_	_	_	_	_	_	Shift=1843
+5	групп	_	_	_	_	_	_	_	Shift=1859
+6	попадёт	_	_	_	_	_	_	_	Shift=1865
+7	по	_	_	_	_	_	_	_	Shift=1873
+8	одной	_	_	_	_	_	_	_	Shift=1876
+9	команды	_	_	_	_	_	_	_	Shift=1882
+10	из	_	_	_	_	_	_	_	Shift=1890
+11	первых	_	_	_	_	_	_	_	Shift=1893
+12	четырёх	_	_	_	_	_	_	_	Shift=1900
+13	корзин	_	_	_	_	_	_	_	Shift=1908|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=1914
+
+# newpar id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p21
+# par_text = Сербия и Черногория будет направлена в группу, в которой будет лишь одна европейская команда.
+# sent_id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p21-s1
+# text = Сербия и Черногория будет направлена в группу, в которой будет лишь одна европейская команда.
+1	Сербия	_	_	_	_	_	_	_	Shift=1916
+2	и	_	_	_	_	_	_	_	Shift=1923
+3	Черногория	_	_	_	_	_	_	_	Shift=1925
+4	будет	_	_	_	_	_	_	_	Shift=1936
+5	направлена	_	_	_	_	_	_	_	Shift=1942
+6	в	_	_	_	_	_	_	_	Shift=1953
+7	группу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2496|RuCor_group_id=471055|RuCor_link_id=0|Shift=1955|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1961
+9	в	_	_	_	_	_	_	_	Shift=1963
+10	которой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2496|RuCor_group_id=471056|RuCor_link_id=471055|Shift=1965
+11	будет	_	_	_	_	_	_	_	Shift=1973
+12	лишь	_	_	_	_	_	_	_	Shift=1979
+13	одна	_	_	_	_	_	_	_	Shift=1984
+14	европейская	_	_	_	_	_	_	_	Shift=1989
+15	команда	_	_	_	_	_	_	_	Shift=2001|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=2008
+
+# newpar id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p22
+# par_text = Заранее определено, что Германия будет первой командой в группе А (А1), Бразилия — первой в группе F (F1).
+# sent_id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p22-s1
+# text = Заранее определено, что Германия будет первой командой в группе А (А1), Бразилия - первой в группе F (F1).
+1	Заранее	_	_	_	_	_	_	_	Shift=2010
+2	определено	_	_	_	_	_	_	_	Shift=2018|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=2028
+4	что	_	_	_	_	_	_	_	Shift=2030
+5	Германия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2461|RuCor_group_id=471057|RuCor_link_id=471023|Shift=2034
+6	будет	_	_	_	_	_	_	_	Shift=2043
+7	первой	_	_	_	_	_	_	_	Shift=2049
+8	командой	_	_	_	_	_	_	_	Shift=2056
+9	в	_	_	_	_	_	_	_	Shift=2065
+10	группе	_	_	_	_	_	_	_	Shift=2067
+11	А	_	_	_	_	_	_	_	Shift=2074
+12	(	_	_	_	_	_	_	_	Shift=2076|SpaceAfter=No
+13	А1	_	_	_	_	_	_	_	Shift=2077|SpaceAfter=No
+14	)	_	_	_	_	_	_	_	Shift=2079|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=2080
+16	Бразилия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2475|RuCor_group_id=471058|RuCor_link_id=471024|Shift=2082
+17	-	_	_	_	_	_	_	_	Shift=2091
+18	первой	_	_	_	_	_	_	_	Shift=2093
+19	в	_	_	_	_	_	_	_	Shift=2100
+20	группе	_	_	_	_	_	_	_	Shift=2102
+21	F	_	_	_	_	_	_	_	Shift=2109
+22	(	_	_	_	_	_	_	_	Shift=2111|SpaceAfter=No
+23	F1	_	_	_	_	_	_	_	Shift=2112|SpaceAfter=No
+24	)	_	_	_	_	_	_	_	Shift=2114|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=2115
+
+# newpar id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p23
+# par_text = Жеребьёвка начнётся в 20 часов 30 минут местного времени (Лейпциг) (19:30 UTC, 22:30 московского времени).
+# sent_id = b8f9581c-e22a-48bb-ab6b-c64edf5c7acc-p23-s1
+# text = Жеребьёвка начнётся в 20 часов 30 минут местного времени (Лейпциг) (19:30 UTC, 22:30 московского времени).
+1	Жеребьёвка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2458|RuCor_group_id=471059|RuCor_link_id=471016|Shift=2117
+2	начнётся	_	_	_	_	_	_	_	Shift=2128
+3	в	_	_	_	_	_	_	_	Shift=2137
+4	20	_	_	_	_	_	_	_	Shift=2139
+5	часов	_	_	_	_	_	_	_	Shift=2142
+6	30	_	_	_	_	_	_	_	Shift=2148
+7	минут	_	_	_	_	_	_	_	Shift=2151
+8	местного	_	_	_	_	_	_	_	Shift=2157
+9	времени	_	_	_	_	_	_	_	Shift=2166
+10	(	_	_	_	_	_	_	_	Shift=2174|SpaceAfter=No
+11	Лейпциг	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2457|RuCor_group_id=471060|RuCor_link_id=470972|Shift=2175|SpaceAfter=No
+12	)	_	_	_	_	_	_	_	Shift=2182
+13	(	_	_	_	_	_	_	_	Shift=2184|SpaceAfter=No
+14	19:30	_	_	_	_	_	_	_	Shift=2185
+15	UTC	_	_	_	_	_	_	_	Shift=2191|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=2194
+17	22:30	_	_	_	_	_	_	_	Shift=2196
+18	московского	_	_	_	_	_	_	_	Shift=2202
+19	времени	_	_	_	_	_	_	_	Shift=2214|SpaceAfter=No
+20	)	_	_	_	_	_	_	_	SpaceAfter=No
+21	.	_	_	_	_	_	_	_	_
+

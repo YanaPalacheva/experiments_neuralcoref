@@ -1,0 +1,315 @@
+#begin document (ectb_1029_6); part 000
+ectb_1029	6	0	Pushing	VBG	(TOP(S(VP*	push	05	1	-	-
+ectb_1029	6	1	the	DT	(NP*	-	-	-	-	-
+ectb_1029	6	2	envelope	NN	*))))	-	-	-	-	-
+
+ectb_1029	6	0	Although	IN	(TOP(S(SBAR*	-	-	-	-	-
+ectb_1029	6	1	at	IN	(S(PP*	-	-	-	-	-
+ectb_1029	6	2	their	PRP$	(NP(NP*	-	-	-	-	(40)
+ectb_1029	6	3	present	JJ	*	-	-	-	-	-
+ectb_1029	6	4	stage	NN	*)	stage	-	2	-	-
+ectb_1029	6	5	of	IN	(PP*	-	-	-	-	-
+ectb_1029	6	6	development	NN	(NP*))))	-	-	-	-	-
+ectb_1029	6	7	,	,	*	-	-	-	-	-
+ectb_1029	6	8	biochips	NNS	(NP*)	-	-	-	-	(40)
+ectb_1029	6	9	are	VBP	(VP*	be	01	1	-	-
+ectb_1029	6	10	already	RB	(ADVP*)	-	-	-	-	-
+ectb_1029	6	11	a	DT	(NP(NP*	-	-	-	-	-
+ectb_1029	6	12	great	JJ	*	-	-	-	-	-
+ectb_1029	6	13	help	NN	*)	help	-	3	-	-
+ectb_1029	6	14	to	IN	(PP*	-	-	-	-	-
+ectb_1029	6	15	researchers	NNS	(NP*))))))	-	-	-	-	-
+ectb_1029	6	16	,	,	*	-	-	-	-	-
+ectb_1029	6	17	they	PRP	(NP*)	-	-	-	-	(40)
+ectb_1029	6	18	are	VBP	(VP*	be	01	1	-	-
+ectb_1029	6	19	still	RB	(ADVP*)	-	-	-	-	-
+ectb_1029	6	20	far	RB	(ADJP*	-	-	-	-	-
+ectb_1029	6	21	removed	JJ	*	-	-	-	-	-
+ectb_1029	6	22	from	IN	(PP*	-	-	-	-	-
+ectb_1029	6	23	ordinary	JJ	(NP(NP*	-	-	-	-	-
+ectb_1029	6	24	people	NNS	*	people	-	1	-	-
+ectb_1029	6	25	's	POS	*)	-	-	-	-	-
+ectb_1029	6	26	lives	NNS	*))))	life	-	2	-	-
+ectb_1029	6	27	.	.	*))	-	-	-	-	-
+
+ectb_1029	6	0	But	CC	(TOP(S*	-	-	-	-	-
+ectb_1029	6	1	one	CD	(NP*	-	-	-	-	-
+ectb_1029	6	2	day	NN	*)	day	-	3	-	-
+ectb_1029	6	3	they	PRP	(NP*)	-	-	-	-	(40)
+ectb_1029	6	4	will	MD	(VP*	-	-	-	-	-
+ectb_1029	6	5	play	VB	(VP*	play	02	3	-	-
+ectb_1029	6	6	an	DT	(NP*	-	-	-	-	-
+ectb_1029	6	7	important	JJ	*	-	-	-	-	-
+ectb_1029	6	8	role	NN	*)	role	-	1	-	-
+ectb_1029	6	9	in	IN	(PP*	-	-	-	-	-
+ectb_1029	6	10	all	PDT	(NP*	-	-	-	-	-
+ectb_1029	6	11	our	PRP$	*	-	-	-	-	-
+ectb_1029	6	12	lives	NNS	*))))	life	-	2	-	-
+ectb_1029	6	13	.	.	*))	-	-	-	-	-
+
+ectb_1029	6	0	"	``	(TOP(SINV*	-	-	-	-	-
+ectb_1029	6	1	Applications	NNS	(S(NP*	-	-	-	-	-
+ectb_1029	6	2	and	CC	*	-	-	-	-	-
+ectb_1029	6	3	commercialization	NN	*)	-	-	-	-	-
+ectb_1029	6	4	are	VBP	(VP*	be	01	2	-	-
+ectb_1029	6	5	our	PRP$	(NP*	-	-	-	-	-
+ectb_1029	6	6	goal	NN	*)))	goal	-	1	-	-
+ectb_1029	6	7	,	,	*	-	-	-	-	-
+ectb_1029	6	8	"	''	*	-	-	-	-	-
+ectb_1029	6	9	says	VBZ	(VP*)	say	01	1	-	-
+ectb_1029	6	10	Johnsee	NNP	(NP*	-	-	-	-	(43
+ectb_1029	6	11	Lee	NNP	*)	-	-	-	-	43)
+ectb_1029	6	12	.	.	*))	-	-	-	-	-
+
+ectb_1029	6	0	He	PRP	(TOP(S(NP*)	-	-	-	-	(43)
+ectb_1029	6	1	says	VBZ	(VP*	say	01	1	-	-
+ectb_1029	6	2	that	IN	(SBAR*	-	-	-	-	-
+ectb_1029	6	3	only	RB	(SINV(SBAR(ADVP*)	-	-	-	-	-
+ectb_1029	6	4	if	IN	*	-	-	-	-	-
+ectb_1029	6	5	research	NN	(S(NP*	-	-	-	-	-
+ectb_1029	6	6	results	NNS	*)	result	-	2	-	-
+ectb_1029	6	7	are	VBP	(VP*	be	03	-	-	-
+ectb_1029	6	8	commercialized	VBN	(VP*))))	commercialize	01	-	-	-
+ectb_1029	6	9	does	VBZ	*	do	01	3	-	-
+ectb_1029	6	10	research	NN	(NP*)	research	-	1	-	-
+ectb_1029	6	11	produce	VBP	(VP*	produce	01	1	-	-
+ectb_1029	6	12	an	DT	(NP*	-	-	-	-	-
+ectb_1029	6	13	economic	JJ	*	-	-	-	-	-
+ectb_1029	6	14	payback	NN	*)))))	-	-	-	-	-
+ectb_1029	6	15	.	.	*))	-	-	-	-	-
+
+ectb_1029	6	0	Equally	RB	(TOP(S(ADVP*)	-	-	-	-	-
+ectb_1029	6	1	,	,	*	-	-	-	-	-
+ectb_1029	6	2	to	TO	(S(VP*	-	-	-	-	-
+ectb_1029	6	3	have	VB	(VP*	have	03	2	-	-
+ectb_1029	6	4	a	DT	(NP*	-	-	-	-	-
+ectb_1029	6	5	really	RB	(ADJP*	-	-	-	-	-
+ectb_1029	6	6	broad	JJ	*)	-	-	-	-	-
+ectb_1029	6	7	market	NN	*))))	market	-	1	-	-
+ectb_1029	6	8	biochips	NNS	(NP*)	-	-	-	-	-
+ectb_1029	6	9	need	VBP	(VP*	need	01	2	-	-
+ectb_1029	6	10	to	TO	(S(VP*	-	-	-	-	-
+ectb_1029	6	11	go	VB	(VP*	go	01	10	-	-
+ectb_1029	6	12	beyond	IN	(PP(PP*	-	-	-	-	-
+ectb_1029	6	13	the	DT	(NP*	-	-	-	-	-
+ectb_1029	6	14	laboratory	NN	*	-	-	-	-	-
+ectb_1029	6	15	researcher	NN	*))	-	-	-	-	-
+ectb_1029	6	16	,	,	*	-	-	-	-	-
+ectb_1029	6	17	and	CC	*	-	-	-	-	-
+ectb_1029	6	18	into	IN	(PP(PP*	-	-	-	-	-
+ectb_1029	6	19	hospitals	NNS	(NP(NP*)	-	-	-	-	-
+ectb_1029	6	20	,	,	*	-	-	-	-	-
+ectb_1029	6	21	clinics	NNS	(NP*	-	-	-	-	-
+ectb_1029	6	22	and	CC	*	-	-	-	-	-
+ectb_1029	6	23	homes	NNS	*)))	home	-	1	-	-
+ectb_1029	6	24	,	,	*	-	-	-	-	-
+ectb_1029	6	25	and	CC	*	-	-	-	-	-
+ectb_1029	6	26	to	IN	(PP*	-	-	-	-	-
+ectb_1029	6	27	individual	JJ	(NP*	-	-	-	-	-
+ectb_1029	6	28	users	NNS	*))))))))	-	-	-	-	-
+ectb_1029	6	29	.	.	*))	-	-	-	-	-
+
+ectb_1029	6	0	Lee	NNP	(TOP(S(NP*)	-	-	-	-	(43)	(43)
+ectb_1029	6	1	points	VBZ	(VP*	point	02	1	-	-	-
+ectb_1029	6	2	out	RP	(PRT*)	-	-	-	-	-	-
+ectb_1029	6	3	that	IN	(SBAR*	-	-	-	-	-	-
+ectb_1029	6	4	before	IN	(S(SBAR*	-	-	-	-	-	-
+ectb_1029	6	5	biochips	NNS	(S(NP*)	-	-	-	-	-	-
+ectb_1029	6	6	will	MD	(VP*	-	-	-	-	-	-
+ectb_1029	6	7	be	VB	(VP*	be	01	1	-	-	-
+ectb_1029	6	8	worth	JJ	(ADJP*	-	-	-	-	-	-
+ectb_1029	6	9	commercializing	VBG	(S(VP*)))))))	commercialize	01	-	-	-	-
+ectb_1029	6	10	,	,	*	-	-	-	-	-	-
+ectb_1029	6	11	sample	NN	(S(NP*	-	-	-	-	-	-
+ectb_1029	6	12	preparation	NN	*)	preparation	-	1	-	-	-
+ectb_1029	6	13	needs	VBZ	(VP*	need	01	2	-	-	-
+ectb_1029	6	14	to	TO	(S(VP*	-	-	-	-	-	-
+ectb_1029	6	15	be	VB	(VP*	be	03	-	-	-	-
+ectb_1029	6	16	made	VBN	(VP*	make	02	-	-	-	-
+ectb_1029	6	17	convenient	JJ	(S(ADJP*))))))))	-	-	-	-	-	-
+ectb_1029	6	18	,	,	*	-	-	-	-	-	-
+ectb_1029	6	19	reading	VBG	(S(NP*	-	-	-	-	-	-
+ectb_1029	6	20	results	NNS	*)	result	-	2	-	-	-
+ectb_1029	6	21	must	MD	(VP*	-	-	-	-	-	-
+ectb_1029	6	22	be	VB	(VP*	be	01	1	-	-	-
+ectb_1029	6	23	simple	JJ	(ADJP*	-	-	-	-	-	-
+ectb_1029	6	24	and	CC	*	-	-	-	-	-	-
+ectb_1029	6	25	easy	JJ	*))))	-	-	-	-	-	-
+ectb_1029	6	26	,	,	*	-	-	-	-	-	-
+ectb_1029	6	27	the	DT	(S(NP(NP*	-	-	-	-	(19	(19
+ectb_1029	6	28	chips	NN	*	chip	-	11	-	-	-
+ectb_1029	6	29	'	POS	*)	-	-	-	-	19)	19)
+ectb_1029	6	30	speed	NN	*	speed	-	2	-	-	-
+ectb_1029	6	31	and	CC	*	-	-	-	-	-	-
+ectb_1029	6	32	accuracy	NN	*)	-	-	-	-	-	-
+ectb_1029	6	33	must	MD	(VP*	-	-	-	-	-	-
+ectb_1029	6	34	be	VB	(VP*	be	01	1	-	-	-
+ectb_1029	6	35	high	JJ	(ADJP*))))	-	-	-	-	-	-
+ectb_1029	6	36	,	,	*	-	-	-	-	-	-
+ectb_1029	6	37	and	CC	*	-	-	-	-	-	-
+ectb_1029	6	38	their	PRP$	(S(NP*	-	-	-	-	(19)	(19)
+ectb_1029	6	39	cost	NN	*)	cost	-	1	-	-	-
+ectb_1029	6	40	must	MD	(VP*	-	-	-	-	-	-
+ectb_1029	6	41	be	VB	(VP*	be	01	1	-	-	-
+ectb_1029	6	42	low	JJ	(ADJP*)))))))	-	-	-	-	-	-
+ectb_1029	6	43	.	.	*))	-	-	-	-	-	-
+
+ectb_1029	6	0	He	PRP	(TOP(S(NP*)	-	-	-	-	(43)
+ectb_1029	6	1	predicts	VBZ	(VP*	predict	01	1	-	-
+ectb_1029	6	2	that	IN	(SBAR*	-	-	-	-	-
+ectb_1029	6	3	in	IN	(S(S(S(PP*	-	-	-	-	-
+ectb_1029	6	4	one	CD	(NP(QP*	-	-	-	-	-
+ectb_1029	6	5	to	IN	*	-	-	-	-	-
+ectb_1029	6	6	two	CD	*)	-	-	-	-	-
+ectb_1029	6	7	years	NNS	*))	-	-	-	-	-
+ectb_1029	6	8	,	,	*	-	-	-	-	-
+ectb_1029	6	9	biochips	NNS	(NP*)	-	-	-	-	(31)
+ectb_1029	6	10	will	MD	(VP*	-	-	-	-	-
+ectb_1029	6	11	be	VB	(VP*	be	01	1	-	-
+ectb_1029	6	12	suitable	JJ	(ADJP*	-	-	-	-	-
+ectb_1029	6	13	for	IN	(PP*	-	-	-	-	-
+ectb_1029	6	14	use	NN	(NP(NP*)	use	01	1	-	-
+ectb_1029	6	15	in	IN	(PP*	-	-	-	-	-
+ectb_1029	6	16	supplemental	JJ	(NP*	-	-	-	-	-
+ectb_1029	6	17	tests	NNS	*))))))))	test	-	1	-	-
+ectb_1029	6	18	,	,	*	-	-	-	-	-
+ectb_1029	6	19	and	CC	*	-	-	-	-	-
+ectb_1029	6	20	after	IN	(S(PP*	-	-	-	-	-
+ectb_1029	6	21	around	RB	(NP(QP*	-	-	-	-	-
+ectb_1029	6	22	three	CD	*)	-	-	-	-	-
+ectb_1029	6	23	years	NNS	*))	-	-	-	-	-
+ectb_1029	6	24	for	IN	(PP*	-	-	-	-	-
+ectb_1029	6	25	high	JJ	(NP(NML*	-	-	-	-	-
+ectb_1029	6	26	-	HYPH	*	-	-	-	-	-
+ectb_1029	6	27	throughput	NN	*)	-	-	-	-	-
+ectb_1029	6	28	screening	NN	*))))	-	-	-	-	-
+ectb_1029	6	29	;	,	*	-	-	-	-	-
+ectb_1029	6	30	in	IN	(S(PP*	-	-	-	-	-
+ectb_1029	6	31	five	CD	(NP*	-	-	-	-	-
+ectb_1029	6	32	years	NNS	*	-	-	-	-	-
+ectb_1029	6	33	time	NN	*))	time	-	2	-	-
+ectb_1029	6	34	it	PRP	(NP(NP*))	-	-	-	-	-
+ectb_1029	6	35	should	MD	(VP*	-	-	-	-	-
+ectb_1029	6	36	be	VB	(VP*	be	01	1	-	-
+ectb_1029	6	37	possible	JJ	(ADJP*)	-	-	-	-	-
+ectb_1029	6	38	to	TO	(S(VP*	-	-	-	-	-
+ectb_1029	6	39	develop	VB	(VP*	develop	02	2	-	-
+ectb_1029	6	40	them	PRP	(NP*)	-	-	-	-	(31)
+ectb_1029	6	41	into	IN	(PP*	-	-	-	-	-
+ectb_1029	6	42	general	JJ	(NP(NP*	-	-	-	-	-
+ectb_1029	6	43	screening	NN	*	-	-	-	-	-
+ectb_1029	6	44	tools	NNS	*)	-	-	-	-	-
+ectb_1029	6	45	which	WDT	(SBAR(WHNP*)	-	-	-	-	-
+ectb_1029	6	46	will	MD	(S(VP*	-	-	-	-	-
+ectb_1029	6	47	be	VB	(VP*	be	01	1	-	-
+ectb_1029	6	48	as	RB	(ADJP(ADJP(ADJP*	-	-	-	-	-
+ectb_1029	6	49	easy	JJ	*)	-	-	-	-	-
+ectb_1029	6	50	to	TO	(SBAR(S(VP*	-	-	-	-	-
+ectb_1029	6	51	use	VB	(VP*)))))	use	01	1	-	-
+ectb_1029	6	52	as	IN	(PP*	-	-	-	-	-
+ectb_1029	6	53	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1029	6	54	pregnancy	NN	(NML*	-	-	-	-	-
+ectb_1029	6	55	test	NN	*)	test	-	1	-	-
+ectb_1029	6	56	kits	NNS	*)	-	-	-	-	-
+ectb_1029	6	57	on	IN	(RRC(PP*	-	-	-	-	-
+ectb_1029	6	58	the	DT	(NP*	-	-	-	-	-
+ectb_1029	6	59	market	NN	*))	market	-	1	-	-
+ectb_1029	6	60	today	NN	(NP*))))))))))))))))))))	-	-	-	-	-
+ectb_1029	6	61	.	.	*))	-	-	-	-	-
+
+ectb_1029	6	0	IBMS	NNP	(TOP(S(NP(NML*	-	-	-	-	-
+ectb_1029	6	1	associate	NN	*	associate	-	3	-	-
+ectb_1029	6	2	research	NN	*	-	-	-	-	-
+ectb_1029	6	3	fellow	NN	*)	-	-	-	-	-
+ectb_1029	6	4	Konan	NNP	*	-	-	-	-	-
+ectb_1029	6	5	Peck	NNP	*)	-	-	-	-	-
+ectb_1029	6	6	agrees	VBZ	(VP*	agree	01	1	-	-
+ectb_1029	6	7	that	IN	(SBAR*	-	-	-	-	-
+ectb_1029	6	8	in	IN	(S(PP*	-	-	-	-	-
+ectb_1029	6	9	the	DT	(NP*	-	-	-	-	-
+ectb_1029	6	10	foreseeable	JJ	*	-	-	-	-	-
+ectb_1029	6	11	future	NN	*))	future	-	1	-	-
+ectb_1029	6	12	,	,	*	-	-	-	-	-
+ectb_1029	6	13	diagnostic	JJ	(NP*	-	-	-	-	-
+ectb_1029	6	14	chips	NNS	*)	chip	-	11	-	-
+ectb_1029	6	15	will	MD	(VP*	-	-	-	-	-
+ectb_1029	6	16	enable	VB	(VP*	enable	01	1	-	-
+ectb_1029	6	17	everyone	NN	(NP*)	-	-	-	-	(38)
+ectb_1029	6	18	to	TO	(S(VP*	-	-	-	-	-
+ectb_1029	6	19	learn	VB	(VP(VP*	learn	01	2	-	-
+ectb_1029	6	20	their	PRP$	(NP(NP*	-	-	-	-	(38)
+ectb_1029	6	21	current	JJ	*	-	-	-	-	-
+ectb_1029	6	22	state	NN	*)	state	-	2	-	-
+ectb_1029	6	23	of	IN	(PP*	-	-	-	-	-
+ectb_1029	6	24	health	NN	(NP*))))	health	-	1	-	-
+ectb_1029	6	25	and	CC	*	-	-	-	-	-
+ectb_1029	6	26	know	VB	(VP*	know	01	3	-	-
+ectb_1029	6	27	what	WDT	(SBAR(WHNP*	-	-	-	-	-
+ectb_1029	6	28	diseases	NNS	*)	-	-	-	-	-
+ectb_1029	6	29	they	PRP	(S(NP*)	-	-	-	-	(38)
+ectb_1029	6	30	may	MD	(VP*	-	-	-	-	-
+ectb_1029	6	31	develop	VB	(VP*	develop	01	1	-	-
+ectb_1029	6	32	in	IN	(PP*	-	-	-	-	-
+ectb_1029	6	33	the	DT	(NP*	-	-	-	-	-
+ectb_1029	6	34	future	NN	*)))))))))))))))	future	-	1	-	-
+ectb_1029	6	35	.	.	*))	-	-	-	-	-
+
+ectb_1029	6	0	But	CC	(TOP(S*	-	-	-	-	-
+ectb_1029	6	1	in	IN	(PP*	-	-	-	-	-
+ectb_1029	6	2	a	DT	(NP(NP*	-	-	-	-	-
+ectb_1029	6	3	situation	NN	*)	situation	-	1	-	-
+ectb_1029	6	4	where	WRB	(SBAR(WHADVP*)	-	-	-	-	-
+ectb_1029	6	5	testing	NN	(S(NP*	-	-	-	-	-
+ectb_1029	6	6	technology	NN	*)	technology	-	1	-	-
+ectb_1029	6	7	is	VBZ	(VP*	be	01	1	-	-
+ectb_1029	6	8	ahead	RB	(ADVP*	-	-	-	-	-
+ectb_1029	6	9	of	IN	(PP*	-	-	-	-	-
+ectb_1029	6	10	medical	JJ	(NP(NML*	-	-	-	-	-
+ectb_1029	6	11	treatment	NN	*)	treatment	-	1	-	-
+ectb_1029	6	12	technology	NN	*))))))))	technology	-	1	-	-
+ectb_1029	6	13	,	,	*	-	-	-	-	-
+ectb_1029	6	14	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1029	6	15	medical	JJ	*	-	-	-	-	-
+ectb_1029	6	16	problems	NNS	*)	problem	-	1	-	-
+ectb_1029	6	17	so	RB	(VP(ADVP*)	-	-	-	-	-
+ectb_1029	6	18	discovered	VBN	*))	discover	01	-	-	-
+ectb_1029	6	19	may	MD	(VP*	-	-	-	-	-
+ectb_1029	6	20	not	RB	*	-	-	-	-	-
+ectb_1029	6	21	be	VB	(VP*	be	01	1	-	-
+ectb_1029	6	22	treatable	JJ	(ADJP*)))	-	-	-	-	-
+ectb_1029	6	23	.	.	*))	-	-	-	-	-
+
+ectb_1029	6	0	Mankind	NN	(TOP(S(S(NP*)	-	-	-	-	(14)
+ectb_1029	6	1	is	VBZ	(VP*	be	03	-	-	-
+ectb_1029	6	2	always	RB	(ADVP*)	-	-	-	-	-
+ectb_1029	6	3	challenging	VBG	(VP*	challenge	01	2	-	-
+ectb_1029	6	4	his	PRP$	(NP*	-	-	-	-	(14)
+ectb_1029	6	5	limits	NNS	*))))	limit	-	2	-	-
+ectb_1029	6	6	,	,	*	-	-	-	-	-
+ectb_1029	6	7	and	CC	*	-	-	-	-	-
+ectb_1029	6	8	when	WRB	(S(SBAR(WHADVP*)	-	-	-	-	-
+ectb_1029	6	9	,	,	*	-	-	-	-	-
+ectb_1029	6	10	in	IN	(S(PP*	-	-	-	-	-
+ectb_1029	6	11	the	DT	(NP*	-	-	-	-	-
+ectb_1029	6	12	near	JJ	*	-	-	-	-	-
+ectb_1029	6	13	future	NN	*))	future	-	1	-	-
+ectb_1029	6	14	,	,	*	-	-	-	-	-
+ectb_1029	6	15	biochips	NNS	(NP*)	-	-	-	-	-
+ectb_1029	6	16	lift	VBP	(VP*	lift	02	3	-	-
+ectb_1029	6	17	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1029	6	18	veil	NN	*)	-	-	-	-	-
+ectb_1029	6	19	of	IN	(PP*	-	-	-	-	-
+ectb_1029	6	20	many	JJ	(NP*	-	-	-	-	-
+ectb_1029	6	21	diseases	NNS	*))))))	-	-	-	-	-
+ectb_1029	6	22	,	,	*	-	-	-	-	-
+ectb_1029	6	23	the	DT	(NP*	-	-	-	-	-
+ectb_1029	6	24	next	JJ	*	-	-	-	-	-
+ectb_1029	6	25	challenge	NN	*)	challenge	01	1	-	-
+ectb_1029	6	26	will	MD	(VP*	-	-	-	-	-
+ectb_1029	6	27	have	VB	(VP*	have	01	-	-	-
+ectb_1029	6	28	only	RB	(ADVP*)	-	-	-	-	-
+ectb_1029	6	29	just	RB	(ADVP*)	-	-	-	-	-
+ectb_1029	6	30	begun	VBN	(VP*))))	begin	01	1	-	-
+ectb_1029	6	31	.	.	*))	-	-	-	-	-
+
+#end document

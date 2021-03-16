@@ -1,0 +1,445 @@
+#begin document (abc_0009_0); part 000
+abc_0009	0	0	Tomorrow	(9
+abc_0009	0	1	's	-
+abc_0009	0	2	summit	-
+abc_0009	0	3	meeting	9)
+abc_0009	0	4	will	-
+abc_0009	0	5	bring	-
+abc_0009	0	6	Ehud	(3|(11
+abc_0009	0	7	Barak	3)
+abc_0009	0	8	and	-
+abc_0009	0	9	Yasser	(8
+abc_0009	0	10	Arafat	11)|8)
+abc_0009	0	11	to	-
+abc_0009	0	12	the	-
+abc_0009	0	13	resort	-
+abc_0009	0	14	city	-
+abc_0009	0	15	of	-
+abc_0009	0	16	Sharm	-
+abc_0009	0	17	El	-
+abc_0009	0	18	-	-
+abc_0009	0	19	eikh	-
+abc_0009	0	20	.	-
+
+abc_0009	0	0	Getting	-
+abc_0009	0	1	both	(11)
+abc_0009	0	2	to	-
+abc_0009	0	3	attend	-
+abc_0009	0	4	was	-
+abc_0009	0	5	not	-
+abc_0009	0	6	an	-
+abc_0009	0	7	easy	-
+abc_0009	0	8	task	-
+abc_0009	0	9	.	-
+
+abc_0009	0	0	The	-
+abc_0009	0	1	last	-
+abc_0009	0	2	thing	-
+abc_0009	0	3	President	(14
+abc_0009	0	4	Clinton	14)
+abc_0009	0	5	did	-
+abc_0009	0	6	today	(10)
+abc_0009	0	7	before	-
+abc_0009	0	8	heading	-
+abc_0009	0	9	to	-
+abc_0009	0	10	the	(12
+abc_0009	0	11	Mideast	12)
+abc_0009	0	12	is	-
+abc_0009	0	13	go	-
+abc_0009	0	14	to	-
+abc_0009	0	15	church	-
+abc_0009	0	16	--	-
+abc_0009	0	17	appropriate	-
+abc_0009	0	18	,	-
+abc_0009	0	19	perhaps	-
+abc_0009	0	20	,	-
+abc_0009	0	21	given	-
+abc_0009	0	22	the	-
+abc_0009	0	23	enormity	-
+abc_0009	0	24	of	-
+abc_0009	0	25	the	-
+abc_0009	0	26	task	-
+abc_0009	0	27	he	(14)
+abc_0009	0	28	and	-
+abc_0009	0	29	his	(14)
+abc_0009	0	30	national	-
+abc_0009	0	31	security	-
+abc_0009	0	32	team	-
+abc_0009	0	33	face	-
+abc_0009	0	34	in	-
+abc_0009	0	35	the	-
+abc_0009	0	36	days	-
+abc_0009	0	37	ahead	-
+abc_0009	0	38	.	-
+
+abc_0009	0	0	We	*	*
+abc_0009	0	1	do	*	*
+abc_0009	0	2	have	*	*
+abc_0009	0	3	to	*	*
+abc_0009	0	4	try	*	*
+abc_0009	0	5	to	*	*
+abc_0009	0	6	reduce	*	*
+abc_0009	0	7	the	*	*
+abc_0009	0	8	violee	*	*
+abc_0009	0	9	and	*	*
+abc_0009	0	10	take	*	*
+abc_0009	0	11	a	*	*
+abc_0009	0	12	turn	*	*
+abc_0009	0	13	back	*	*
+abc_0009	0	14	for	*	*
+abc_0009	0	15	a	*	*
+abc_0009	0	16	period	*	*
+abc_0009	0	17	of	*	*
+abc_0009	0	18	calmness	*	*
+abc_0009	0	19	so	*	*
+abc_0009	0	20	that	*	*
+abc_0009	0	21	we	*	*
+abc_0009	0	22	can	*	*
+abc_0009	0	23	move	*	*
+abc_0009	0	24	back	*	*
+abc_0009	0	25	to	*	*
+abc_0009	0	26	a	*	*
+abc_0009	0	27	peace	*	*
+abc_0009	0	28	process	*	*
+abc_0009	0	29	,	*	*
+abc_0009	0	30	but	*	*
+abc_0009	0	31	even	*	*
+abc_0009	0	32	if	*	*
+abc_0009	0	33	the	*	*
+abc_0009	0	34	violence	*	*
+abc_0009	0	35	subsides	*	*
+abc_0009	0	36	,	*	*
+abc_0009	0	37	Israelis	(ARG0*	(ARG0*
+abc_0009	0	38	and	*	*
+abc_0009	0	39	Palestinians	*)	*)
+abc_0009	0	40	will	*	*
+abc_0009	0	41	still	*	*
+abc_0009	0	42	have	*	*
+abc_0009	0	43	to	*	*
+abc_0009	0	44	deal	(V*)	(V*)
+abc_0009	0	45	with	(ARG1*	(ARG1*
+abc_0009	0	46	an	*	*
+abc_0009	0	47	open	*	*
+abc_0009	0	48	wound	*	*
+abc_0009	0	49	--	*	*
+abc_0009	0	50	a	*	*
+abc_0009	0	51	scar	*	*
+abc_0009	0	52	so	*	*
+abc_0009	0	53	long	*	*
+abc_0009	0	54	and	*	*
+abc_0009	0	55	so	*	*
+abc_0009	0	56	deep	*	*
+abc_0009	0	57	from	*	*
+abc_0009	0	58	these	*	*
+abc_0009	0	59	last	*	*
+abc_0009	0	60	two	*	*
+abc_0009	0	61	weeks	*	*
+abc_0009	0	62	,	*	*
+abc_0009	0	63	it	*	*
+abc_0009	0	64	may	*	*
+abc_0009	0	65	be	*	*
+abc_0009	0	66	years	*	*
+abc_0009	0	67	before	*	*
+abc_0009	0	68	there	*	*
+abc_0009	0	69	is	*	*
+abc_0009	0	70	a	*	*
+abc_0009	0	71	real	*	*
+abc_0009	0	72	effort	*	*
+abc_0009	0	73	at	*	*
+abc_0009	0	74	talking	*	*
+abc_0009	0	75	peace	*	*
+abc_0009	0	76	again	*)	*)
+abc_0009	0	77	.	*	*
+
+abc_0009	0	0	Both	(6
+abc_0009	0	1	sides	6)
+abc_0009	0	2	have	-
+abc_0009	0	3	almost	-
+abc_0009	0	4	stepped	-
+abc_0009	0	5	back	-
+abc_0009	0	6	six	(1
+abc_0009	0	7	years	1)
+abc_0009	0	8	in	-
+abc_0009	0	9	terms	-
+abc_0009	0	10	of	-
+abc_0009	0	11	their	(6)
+abc_0009	0	12	statements	-
+abc_0009	0	13	and	-
+abc_0009	0	14	attitudes	-
+abc_0009	0	15	,	-
+abc_0009	0	16	six	(1
+abc_0009	0	17	years	1)
+abc_0009	0	18	or	-
+abc_0009	0	19	more	-
+abc_0009	0	20	--	-
+abc_0009	0	21	before	-
+abc_0009	0	22	the	-
+abc_0009	0	23	Oslo	-
+abc_0009	0	24	accords	-
+abc_0009	0	25	,	-
+abc_0009	0	26	when	-
+abc_0009	0	27	the	(2
+abc_0009	0	28	Israelis	2)
+abc_0009	0	29	promised	-
+abc_0009	0	30	land	-
+abc_0009	0	31	and	-
+abc_0009	0	32	the	(15
+abc_0009	0	33	Palestinians	15)
+abc_0009	0	34	promised	-
+abc_0009	0	35	security	-
+abc_0009	0	36	.	-
+
+abc_0009	0	0	Today	(10)
+abc_0009	0	1	there	-
+abc_0009	0	2	is	-
+abc_0009	0	3	only	(0
+abc_0009	0	4	finger	-
+abc_0009	0	5	pointing	0)
+abc_0009	0	6	.	-
+
+abc_0009	0	0	Arafat	(8)
+abc_0009	0	1	deliberately	-
+abc_0009	0	2	launched	-
+abc_0009	0	3	it	(0)
+abc_0009	0	4	in	-
+abc_0009	0	5	order	-
+abc_0009	0	6	to	-
+abc_0009	0	7	attract	-
+abc_0009	0	8	the	-
+abc_0009	0	9	attention	-
+abc_0009	0	10	of	-
+abc_0009	0	11	the	-
+abc_0009	0	12	world	-
+abc_0009	0	13	by	-
+abc_0009	0	14	paying	-
+abc_0009	0	15	with	-
+abc_0009	0	16	the	-
+abc_0009	0	17	blood	-
+abc_0009	0	18	of	-
+abc_0009	0	19	his	(8)
+abc_0009	0	20	own	-
+abc_0009	0	21	people	-
+abc_0009	0	22	.	-
+
+abc_0009	0	0	I	(8)
+abc_0009	0	1	urge	-
+abc_0009	0	2	Mr.	(3
+abc_0009	0	3	Barak	3)
+abc_0009	0	4	to	-
+abc_0009	0	5	lift	-
+abc_0009	0	6	the	-
+abc_0009	0	7	siege	-
+abc_0009	0	8	of	-
+abc_0009	0	9	Palestinians	(15)
+abc_0009	0	10	,	-
+abc_0009	0	11	to	-
+abc_0009	0	12	speak	-
+abc_0009	0	13	to	-
+abc_0009	0	14	the	(15
+abc_0009	0	15	Palestinians	15)
+abc_0009	0	16	as	-
+abc_0009	0	17	its	(2)
+abc_0009	0	18	neighbors	-
+abc_0009	0	19	because	-
+abc_0009	0	20	they	(15)
+abc_0009	0	21	are	-
+abc_0009	0	22	his	(3)
+abc_0009	0	23	neighbors	-
+abc_0009	0	24	.	-
+
+abc_0009	0	0	The	(15
+abc_0009	0	1	Palestinians	15)
+abc_0009	0	2	clearly	-
+abc_0009	0	3	face	-
+abc_0009	0	4	the	-
+abc_0009	0	5	greatest	-
+abc_0009	0	6	pressure	-
+abc_0009	0	7	in	-
+abc_0009	0	8	this	(9
+abc_0009	0	9	summit	9)
+abc_0009	0	10	,	-
+abc_0009	0	11	since	-
+abc_0009	0	12	the	(2
+abc_0009	0	13	Israelis	2)
+abc_0009	0	14	are	-
+abc_0009	0	15	not	-
+abc_0009	0	16	the	-
+abc_0009	0	17	only	-
+abc_0009	0	18	ones	-
+abc_0009	0	19	blaming	-
+abc_0009	0	20	them	(15)
+abc_0009	0	21	for	-
+abc_0009	0	22	the	-
+abc_0009	0	23	outbreak	-
+abc_0009	0	24	of	-
+abc_0009	0	25	violence	-
+abc_0009	0	26	.	-
+
+abc_0009	0	0	I	-
+abc_0009	0	1	think	-
+abc_0009	0	2	we	-
+abc_0009	0	3	all	-
+abc_0009	0	4	know	-
+abc_0009	0	5	that	-
+abc_0009	0	6	Arafat	(8)
+abc_0009	0	7	is	-
+abc_0009	0	8	in	-
+abc_0009	0	9	charge	-
+abc_0009	0	10	of	-
+abc_0009	0	11	the	-
+abc_0009	0	12	Palestinian	-
+abc_0009	0	13	Authority	-
+abc_0009	0	14	.	-
+
+abc_0009	0	0	He	(8)
+abc_0009	0	1	has	-
+abc_0009	0	2	the	-
+abc_0009	0	3	responsibility	-
+abc_0009	0	4	for	-
+abc_0009	0	5	controlling	(7)
+abc_0009	0	6	the	(4
+abc_0009	0	7	violence	4)
+abc_0009	0	8	.	-
+
+abc_0009	0	0	But	-
+abc_0009	0	1	it	(7)
+abc_0009	0	2	may	-
+abc_0009	0	3	not	-
+abc_0009	0	4	be	-
+abc_0009	0	5	so	-
+abc_0009	0	6	easy	-
+abc_0009	0	7	for	-
+abc_0009	0	8	Arafat	(8)
+abc_0009	0	9	.	-
+
+abc_0009	0	0	Today	(10)
+abc_0009	0	1	,	-
+abc_0009	0	2	thousands	-
+abc_0009	0	3	of	-
+abc_0009	0	4	Palestinians	-
+abc_0009	0	5	are	-
+abc_0009	0	6	calling	-
+abc_0009	0	7	for	-
+abc_0009	0	8	continued	-
+abc_0009	0	9	fighting	-
+abc_0009	0	10	.	-
+
+abc_0009	0	0	Half	(5
+abc_0009	0	1	of	-
+abc_0009	0	2	the	(15
+abc_0009	0	3	Palestinian	-
+abc_0009	0	4	population	15)|5)
+abc_0009	0	5	is	-
+abc_0009	0	6	under	-
+abc_0009	0	7	the	-
+abc_0009	0	8	age	-
+abc_0009	0	9	of	-
+abc_0009	0	10	14	-
+abc_0009	0	11	and	-
+abc_0009	0	12	many	-
+abc_0009	0	13	have	-
+abc_0009	0	14	been	-
+abc_0009	0	15	influenced	-
+abc_0009	0	16	by	-
+abc_0009	0	17	military	-
+abc_0009	0	18	factions	-
+abc_0009	0	19	like	-
+abc_0009	0	20	Hamas	-
+abc_0009	0	21	and	-
+abc_0009	0	22	Hezbollah	-
+abc_0009	0	23	--	-
+abc_0009	0	24	not	-
+abc_0009	0	25	by	-
+abc_0009	0	26	Arafat	(8)
+abc_0009	0	27	.	-
+
+abc_0009	0	0	When	-
+abc_0009	0	1	you	-
+abc_0009	0	2	talk	-
+abc_0009	0	3	about	-
+abc_0009	0	4	Arafat	(8)
+abc_0009	0	5	and	-
+abc_0009	0	6	the	-
+abc_0009	0	7	people	-
+abc_0009	0	8	around	-
+abc_0009	0	9	him	(8)
+abc_0009	0	10	,	-
+abc_0009	0	11	you	-
+abc_0009	0	12	have	-
+abc_0009	0	13	to	-
+abc_0009	0	14	understand	-
+abc_0009	0	15	how	-
+abc_0009	0	16	young	-
+abc_0009	0	17	this	(5
+abc_0009	0	18	population	5)
+abc_0009	0	19	really	-
+abc_0009	0	20	is	-
+abc_0009	0	21	--	-
+abc_0009	0	22	how	-
+abc_0009	0	23	volatile	-
+abc_0009	0	24	,	-
+abc_0009	0	25	how	-
+abc_0009	0	26	close	-
+abc_0009	0	27	to	-
+abc_0009	0	28	exploding	-
+abc_0009	0	29	it	(5)
+abc_0009	0	30	really	-
+abc_0009	0	31	is	-
+abc_0009	0	32	.	-
+
+abc_0009	0	0	Almost	-
+abc_0009	0	1	no	-
+abc_0009	0	2	one	-
+abc_0009	0	3	seems	-
+abc_0009	0	4	optimistic	-
+abc_0009	0	5	about	-
+abc_0009	0	6	the	-
+abc_0009	0	7	future	-
+abc_0009	0	8	of	-
+abc_0009	0	9	the	(12
+abc_0009	0	10	Mideast	12)
+abc_0009	0	11	.	-
+
+abc_0009	0	0	That	-
+abc_0009	0	1	's	-
+abc_0009	0	2	the	-
+abc_0009	0	3	heartbreak	-
+abc_0009	0	4	of	-
+abc_0009	0	5	this	(12
+abc_0009	0	6	region	12)
+abc_0009	0	7	says	-
+abc_0009	0	8	one	-
+abc_0009	0	9	State	-
+abc_0009	0	10	Department	-
+abc_0009	0	11	official	-
+abc_0009	0	12	.	-
+
+abc_0009	0	0	Whenever	-
+abc_0009	0	1	you	-
+abc_0009	0	2	take	-
+abc_0009	0	3	a	-
+abc_0009	0	4	step	-
+abc_0009	0	5	forward	-
+abc_0009	0	6	,	-
+abc_0009	0	7	you	-
+abc_0009	0	8	are	-
+abc_0009	0	9	bound	-
+abc_0009	0	10	to	-
+abc_0009	0	11	be	-
+abc_0009	0	12	pushed	-
+abc_0009	0	13	way	-
+abc_0009	0	14	back	-
+abc_0009	0	15	.	-
+
+abc_0009	0	0	Martha	-
+abc_0009	0	1	Raddatz	-
+abc_0009	0	2	,	-
+abc_0009	0	3	ABC	-
+abc_0009	0	4	News	-
+abc_0009	0	5	,	-
+abc_0009	0	6	the	-
+abc_0009	0	7	State	-
+abc_0009	0	8	Department	-
+abc_0009	0	9	.	-
+
+#end document

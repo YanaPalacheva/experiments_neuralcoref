@@ -1,0 +1,320 @@
+#begin document (msnbc_0007_0); part 000
+msnbc_0007	0	0	Dealing	VBG	(TOP(VP*	deal	01	-	speaker_1	-
+msnbc_0007	0	1	with	IN	(PP*	-	-	-	speaker_1	-
+msnbc_0007	0	2	serial	JJ	(NP(NP*	-	-	-	speaker_1	(156
+msnbc_0007	0	3	crimes	NNS	*)	crime	-	1	speaker_1	156)
+msnbc_0007	0	4	per	FW	(ADVP*	-	-	-	speaker_1	-
+msnbc_0007	0	5	se	FW	*)))	-	-	-	speaker_1	-
+msnbc_0007	0	6	/.	.	*))	-	-	-	speaker_1	-
+
+msnbc_0007	0	0	We	PRP	(TOP(S(NP*)	-	-	-	speaker_1	(90)
+msnbc_0007	0	1	can	MD	(VP*	-	-	-	speaker_1	-
+msnbc_0007	0	2	see	VB	(VP*	see	01	3	speaker_1	-
+msnbc_0007	0	3	the	DT	(NP*	-	-	-	speaker_1	(115
+msnbc_0007	0	4	emerging	VBG	*	emerge	01	2	speaker_1	-
+msnbc_0007	0	5	behavior	NN	*)))	behaviour	-	2	speaker_1	115)
+msnbc_0007	0	6	/.	.	*))	-	-	-	speaker_1	-
+
+msnbc_0007	0	0	we	PRP	(TOP(S(NP*)	-	-	-	speaker_1	(90)
+msnbc_0007	0	1	can	MD	(VP*	-	-	-	speaker_1	-
+msnbc_0007	0	2	see	VB	(VP*	see	01	3	speaker_1	-
+msnbc_0007	0	3	that	IN	(SBAR*	-	-	-	speaker_1	-
+msnbc_0007	0	4	this	DT	(S(NP*)	-	-	-	speaker_1	(115)
+msnbc_0007	0	5	is	VBZ	(VP*	be	01	1	speaker_1	-
+msnbc_0007	0	6	a	DT	(NP(NP*	-	-	-	speaker_1	-
+msnbc_0007	0	7	behavior	NN	*)	behaviour	-	2	speaker_1	-
+msnbc_0007	0	8	that	WDT	(SBAR(WHNP*)	-	-	-	speaker_1	-
+msnbc_0007	0	9	is	VBZ	(S(VP*	be	03	-	speaker_1	-
+msnbc_0007	0	10	not	RB	*	-	-	-	speaker_1	-
+msnbc_0007	0	11	going	VBG	(VP*	go	04	7	speaker_1	-
+msnbc_0007	0	12	to	TO	(S(VP*	-	-	-	speaker_1	-
+msnbc_0007	0	13	stop	VB	(VP*)))))))))))))	stop	01	1	speaker_1	-
+msnbc_0007	0	14	/.	.	*))	-	-	-	speaker_1	-
+
+msnbc_0007	0	0	You	PRP	(TOP(S(NP*)	-	-	-	speaker_1	-
+msnbc_0007	0	1	can	MD	(VP(VP*	-	-	-	speaker_1	-
+msnbc_0007	0	2	have	VB	(VP*	have	03	5	speaker_1	-
+msnbc_0007	0	3	hundreds	NNS	(NP(NP*)	-	-	-	speaker_1	-
+msnbc_0007	0	4	of	IN	(PP*	-	-	-	speaker_1	-
+msnbc_0007	0	5	individuals	NNS	(NP*)))	individual	-	1	speaker_1	-
+msnbc_0007	0	6	as	IN	(PP*	-	-	-	speaker_1	-
+msnbc_0007	0	7	suspects	NNS	(NP*))))	-	-	-	speaker_1	-
+msnbc_0007	0	8	and	CC	*	-	-	-	speaker_1	-
+msnbc_0007	0	9	can	MD	(VP*	-	-	-	speaker_1	-
+msnbc_0007	0	10	narrow	VB	(VP*	narrow	01	1	speaker_1	-
+msnbc_0007	0	11	the	DT	(NP(NP*	-	-	-	speaker_1	-
+msnbc_0007	0	12	focus	NN	*)	focus	-	1	speaker_1	-
+msnbc_0007	0	13	of	IN	(PP*	-	-	-	speaker_1	-
+msnbc_0007	0	14	your	PRP$	(NP*	-	-	-	speaker_1	-
+msnbc_0007	0	15	investigation	NN	*)))	investigation	-	1	speaker_1	-
+msnbc_0007	0	16	to	IN	(PP*	-	-	-	speaker_1	-
+msnbc_0007	0	17	a	DT	(NP(NP*	-	-	-	speaker_1	(179
+msnbc_0007	0	18	smaller	JJR	*	-	-	-	speaker_1	-
+msnbc_0007	0	19	pool	NN	*)	pool	-	3	speaker_1	-
+msnbc_0007	0	20	of	IN	(PP*	-	-	-	speaker_1	-
+msnbc_0007	0	21	people	NNS	(NP*)))))))	people	-	1	speaker_1	179)
+msnbc_0007	0	22	/.	.	*))	-	-	-	speaker_1	-
+
+msnbc_0007	0	0	And	CC	(TOP(S*	-	-	-	speaker_1	-
+msnbc_0007	0	1	it	PRP	(NP*)	-	-	-	speaker_1	(179)
+msnbc_0007	0	2	gives	VBZ	(VP*	give	01	4	speaker_1	-
+msnbc_0007	0	3	you	PRP	(NP*)	-	-	-	speaker_1	-
+msnbc_0007	0	4	a	DT	(NP*	-	-	-	speaker_1	-
+msnbc_0007	0	5	starting	JJ	*	-	-	-	speaker_1	-
+msnbc_0007	0	6	point	NN	*))	point	-	2	speaker_1	-
+msnbc_0007	0	7	/.	.	*))	-	-	-	speaker_1	-
+
+msnbc_0007	0	0	The	DT	(TOP(S(NP*	-	-	-	speaker_2	*	*
+msnbc_0007	0	1	good	JJ	*	-	-	-	speaker_2	*	*
+msnbc_0007	0	2	news	NN	*)	news	-	1	speaker_2	*	*
+msnbc_0007	0	3	is	VBZ	(VP*	be	01	1	speaker_2	*	*
+msnbc_0007	0	4	even	RB	(SBAR(S(SBAR(ADVP*)	-	-	-	speaker_2	*	*
+msnbc_0007	0	5	though	IN	*	-	-	-	speaker_2	*	*
+msnbc_0007	0	6	at	IN	(SBAR(PP*	-	-	-	speaker_2	*	*
+msnbc_0007	0	7	any	DT	(NP(NP*	-	-	-	speaker_2	*	*
+msnbc_0007	0	8	given	VBN	*	give	01	-	speaker_2	*	*
+msnbc_0007	0	9	point	NN	*)	point	-	5	speaker_2	*	*
+msnbc_0007	0	10	in	IN	(PP*	-	-	-	speaker_2	*	*
+msnbc_0007	0	11	time	NN	(NP*))))	time	-	4	speaker_2	*	*
+msnbc_0007	0	12	that	IN	*	-	-	-	speaker_2	*	*
+msnbc_0007	0	13	there	EX	(S(NP*)	-	-	-	speaker_2	*	*
+msnbc_0007	0	14	are	VBP	(VP*	be	02	3	speaker_2	*	*
+msnbc_0007	0	15	these	DT	(NP(NP(NP*	-	-	-	speaker_2	*	*
+msnbc_0007	0	16	people	NNS	*)	people	-	1	speaker_2	*	*
+msnbc_0007	0	17	out	RB	(ADVP*	-	-	-	speaker_2	*	*
+msnbc_0007	0	18	there	RB	*))	-	-	-	speaker_2	*	*
+msnbc_0007	0	19	perpetrating	VBG	(VP*	perpetrate	01	-	speaker_2	*	*
+msnbc_0007	0	20	these	DT	(NP*	-	-	-	speaker_2	*	*
+msnbc_0007	0	21	crimes	NNS	*)))))))	crime	-	1	speaker_2	*	*
+msnbc_0007	0	22	we	PRP	(NP*)	-	-	-	speaker_2	*	*
+msnbc_0007	0	23	are	VBP	(VP*	be	03	-	speaker_2	*	*
+msnbc_0007	0	24	getting	VBG	(VP*	get	03	3	speaker_2	*	*
+msnbc_0007	0	25	better	JJR	(ADJP(ADJP*	-	-	-	speaker_2	*	*
+msnbc_0007	0	26	at	IN	(PP*	-	-	-	speaker_2	*	*
+msnbc_0007	0	27	catching	VBG	(S(VP*	catch	03	2	speaker_2	*	*
+msnbc_0007	0	28	them	PRP	(NP*)))))	-	-	-	speaker_2	*	*
+msnbc_0007	0	29	and	CC	*	-	-	-	speaker_2	*	*
+msnbc_0007	0	30	better	JJR	(ADJP*	-	-	-	speaker_2	*	*
+msnbc_0007	0	31	at	IN	(PP*	-	-	-	speaker_2	*	*
+msnbc_0007	0	32	catching	VBG	(S(VP*	catch	03	2	speaker_2	*	*
+msnbc_0007	0	33	them	PRP	(NP*)	-	-	-	speaker_2	*	*
+msnbc_0007	0	34	sooner	RB	(ADVP*))))))	-	-	-	speaker_2	*	*
+msnbc_0007	0	35	So	IN	(SBAR*	-	-	-	speaker_2	*	*
+msnbc_0007	0	36	that	IN	*	-	-	-	speaker_2	*	*
+msnbc_0007	0	37	instead	RB	(S(PP(PP*	-	-	-	speaker_2	*	*
+msnbc_0007	0	38	of	IN	*	-	-	-	speaker_2	*	*
+msnbc_0007	0	39	waiting	VBG	(S(VP*	wait	01	1	speaker_2	*	*
+msnbc_0007	0	40	until	IN	(SBAR*	-	-	-	speaker_2	*	*
+msnbc_0007	0	41	they	PRP	(S(NP*)	-	-	-	speaker_2	*	*
+msnbc_0007	0	42	've	VBP	(VP*	have	01	12	speaker_2	(V*)	(V*)
+msnbc_0007	0	43	committed	VBN	(VP*	commit	02	1	speaker_2	*	*
+msnbc_0007	0	44	twelve	CD	(NP*	-	-	-	speaker_2	*	*
+msnbc_0007	0	45	crimes	NNS	*))))))))	crime	-	1	speaker_2	*	*
+msnbc_0007	0	46	or	CC	*	-	-	-	speaker_2	*	*
+msnbc_0007	0	47	instead	RB	(PP*	-	-	-	speaker_2	*	*
+msnbc_0007	0	48	of	IN	*	-	-	-	speaker_2	*	*
+msnbc_0007	0	49	having	VBG	(S(VP*	have	03	-	speaker_2	*	*
+msnbc_0007	0	50	twelve	CD	(S(NP*	-	-	-	speaker_2	*	*
+msnbc_0007	0	51	murders	NNS	*)	murder	01	1	speaker_2	*	*
+msnbc_0007	0	52	take	VB	(VP*	take	14	14.1	speaker_2	*	*
+msnbc_0007	0	53	place	NN	(NP*)	place	-	3	speaker_2	*	*
+msnbc_0007	0	54	before	IN	(SBAR*	-	-	-	speaker_2	*	*
+msnbc_0007	0	55	we	PRP	(S(NP*)	-	-	-	speaker_2	*	*
+msnbc_0007	0	56	catch	VBP	(VP*	catch	03	2	speaker_2	*	*
+msnbc_0007	0	57	somebody	NN	(NP*))))))))))	-	-	-	speaker_2	*	*
+msnbc_0007	0	58	now	RB	(ADVP*)	-	-	-	speaker_2	*	*
+msnbc_0007	0	59	we	PRP	(NP*)	-	-	-	speaker_2	*	*
+msnbc_0007	0	60	may	MD	(VP*	-	-	-	speaker_2	*	*
+msnbc_0007	0	61	catch	VB	(VP*	catch	03	2	speaker_2	*	*
+msnbc_0007	0	62	them	PRP	(NP*)	-	-	-	speaker_2	*	*
+msnbc_0007	0	63	after	IN	(PP*	-	-	-	speaker_2	*	*
+msnbc_0007	0	64	the	DT	(NP*	-	-	-	speaker_2	*	*
+msnbc_0007	0	65	first	JJ	(ADJP*	-	-	-	speaker_2	*	*
+msnbc_0007	0	66	or	CC	*	-	-	-	speaker_2	*	*
+msnbc_0007	0	67	second	JJ	*)	-	-	-	speaker_2	*	*
+msnbc_0007	0	68	murder	NN	*)))))))))))	murder	01	1	speaker_2	*	*
+msnbc_0007	0	69	/.	.	*))	-	-	-	speaker_2	*	*
+
+msnbc_0007	0	0	I	PRP	(TOP(S(NP*)	-	-	-	speaker_1	(211)
+msnbc_0007	0	1	will	MD	(VP*	-	-	-	speaker_1	-
+msnbc_0007	0	2	never	RB	(ADVP*	-	-	-	speaker_1	-
+msnbc_0007	0	3	in	IN	(PP*	-	-	-	speaker_1	-
+msnbc_0007	0	4	my	PRP$	(NP*	-	-	-	speaker_1	(211)
+msnbc_0007	0	5	lifetime	NN	*)))	-	-	-	speaker_1	-
+msnbc_0007	0	6	learn	VB	(VP*	learn	01	2	speaker_1	-
+msnbc_0007	0	7	why	WRB	(SBAR(WHADVP*)	-	-	-	speaker_1	-
+msnbc_0007	0	8	a	DT	(S(NP*	-	-	-	speaker_1	-
+msnbc_0007	0	9	serial	JJ	*	-	-	-	speaker_1	-
+msnbc_0007	0	10	killer	NN	*)	-	-	-	speaker_1	-
+msnbc_0007	0	11	becomes	VBZ	(VP*	become	01	1	speaker_1	(7)
+msnbc_0007	0	12	a	DT	(NP*	-	-	-	speaker_1	-
+msnbc_0007	0	13	serial	JJ	*	-	-	-	speaker_1	-
+msnbc_0007	0	14	killer	NN	*))))))	-	-	-	speaker_1	-
+msnbc_0007	0	15	/.	.	*))	-	-	-	speaker_1	-
+
+msnbc_0007	0	0	But	CC	(TOP(S*	-	-	-	speaker_1	-
+msnbc_0007	0	1	maybe	RB	(ADVP*)	-	-	-	speaker_1	-
+msnbc_0007	0	2	the	DT	(NP(NP*	-	-	-	speaker_1	-
+msnbc_0007	0	3	work	NN	*)	work	01	1	speaker_1	-
+msnbc_0007	0	4	that	WDT	(SBAR(WHNP*)	-	-	-	speaker_1	-
+msnbc_0007	0	5	I	PRP	(S(NP*)	-	-	-	speaker_1	(211)
+msnbc_0007	0	6	'm	VBP	(VP*	be	03	-	speaker_1	-
+msnbc_0007	0	7	doing	VBG	(VP*	do	02	1	speaker_1	-
+msnbc_0007	0	8	now	RB	(ADVP*))))))	-	-	-	speaker_1	-
+msnbc_0007	0	9	will	MD	(VP*	-	-	-	speaker_1	-
+msnbc_0007	0	10	be	VB	(VP*	be	01	1	speaker_1	-
+msnbc_0007	0	11	able	JJ	(ADJP*	-	-	-	speaker_1	-
+msnbc_0007	0	12	to	TO	(S(VP*	-	-	-	speaker_1	-
+msnbc_0007	0	13	take	VB	(VP*	take	01	4	speaker_1	-
+msnbc_0007	0	14	other	JJ	(NP*	-	-	-	speaker_1	-
+msnbc_0007	0	15	people	NNS	*)	people	-	1	speaker_1	-
+msnbc_0007	0	16	down	IN	(PP*	-	-	-	speaker_1	-
+msnbc_0007	0	17	avenues	NNS	(NP(NP*)	-	-	-	speaker_1	-
+msnbc_0007	0	18	to	TO	(SBAR(S(VP*	-	-	-	speaker_1	-
+msnbc_0007	0	19	explore	VB	(VP*	explore	01	1	speaker_1	-
+msnbc_0007	0	20	with	IN	(PP(PP*	-	-	-	speaker_1	-
+msnbc_0007	0	21	more	JJR	(NP*	-	-	-	speaker_1	-
+msnbc_0007	0	22	tools	NNS	*))	-	-	-	speaker_1	-
+msnbc_0007	0	23	with	IN	(PP*	-	-	-	speaker_1	-
+msnbc_0007	0	24	more	JJR	(NP*	-	-	-	speaker_1	-
+msnbc_0007	0	25	ability	NN	*	ability	-	1	speaker_1	-
+msnbc_0007	0	26	to	TO	(S(VP*	-	-	-	speaker_1	-
+msnbc_0007	0	27	experiment	VB	(VP*)))))	experiment	01	1	speaker_1	-
+msnbc_0007	0	28	with	IN	(PP*	-	-	-	speaker_1	-
+msnbc_0007	0	29	more	JJR	(NP*	-	-	-	speaker_1	-
+msnbc_0007	0	30	ability	NN	*	ability	-	1	speaker_1	-
+msnbc_0007	0	31	to	TO	(S(VP*	-	-	-	speaker_1	-
+msnbc_0007	0	32	study	VB	(VP*	study	01	2	speaker_1	-
+msnbc_0007	0	33	on	IN	(PP*	-	-	-	speaker_1	-
+msnbc_0007	0	34	a	DT	(NP*	-	-	-	speaker_1	-
+msnbc_0007	0	35	hands	NNS	(NML*	-	-	-	speaker_1	-
+msnbc_0007	0	36	-	HYPH	*	-	-	-	speaker_1	-
+msnbc_0007	0	37	on	RP	*)	-	-	-	speaker_1	-
+msnbc_0007	0	38	basis	NN	*))))))))))))))))))))	basis	-	1	speaker_1	-
+msnbc_0007	0	39	/.	.	*))	-	-	-	speaker_1	-
+
+msnbc_0007	0	0	But	CC	(TOP(S*	-	-	-	speaker_1	-
+msnbc_0007	0	1	I	PRP	(NP*)	-	-	-	speaker_1	(211)
+msnbc_0007	0	2	will	MD	(VP*	-	-	-	speaker_1	-
+msnbc_0007	0	3	never	RB	(ADVP*)	-	-	-	speaker_1	-
+msnbc_0007	0	4	learn	VB	(VP*	learn	01	1	speaker_1	-
+msnbc_0007	0	5	that	DT	(NP*)))	-	-	-	speaker_1	(7)
+msnbc_0007	0	6	/.	.	*))	-	-	-	speaker_1	-
+
+msnbc_0007	0	0	As	IN	(TOP(S(PP*	-	-	-	speaker_2	-	-
+msnbc_0007	0	1	a	DT	(NP*	-	-	-	speaker_2	-	-
+msnbc_0007	0	2	psychologist	NN	*))	-	-	-	speaker_2	-	-
+msnbc_0007	0	3	through	IN	(PP*	-	-	-	speaker_2	-	-
+msnbc_0007	0	4	all	PDT	(NP(NP(NP*	-	-	-	speaker_2	-	-
+msnbc_0007	0	5	the	DT	*	-	-	-	speaker_2	-	-
+msnbc_0007	0	6	interviews	NNS	*)	interview	01	1	speaker_2	-	-
+msnbc_0007	0	7	that	WDT	(SBAR(WHNP*)	-	-	-	speaker_2	-	-
+msnbc_0007	0	8	I	PRP	(S(NP*)	-	-	-	speaker_2	(207)	(207)
+msnbc_0007	0	9	've	VBP	(VP*	have	01	12	speaker_2	-	-
+msnbc_0007	0	10	conducted	VBN	(VP*)))))	conduct	01	2	speaker_2	-	-
+msnbc_0007	0	11	all	PDT	(NP(NP*	-	-	-	speaker_2	-	-
+msnbc_0007	0	12	the	DT	*	-	-	-	speaker_2	-	-
+msnbc_0007	0	13	cases	NNS	*)	case	-	2	speaker_2	-	-
+msnbc_0007	0	14	that	WDT	(SBAR(WHNP*)	-	-	-	speaker_2	-	-
+msnbc_0007	0	15	I	PRP	(S(NP*)	-	-	-	speaker_2	(207)	(207)
+msnbc_0007	0	16	've	VBP	(VP*	have	01	12	speaker_2	-	-
+msnbc_0007	0	17	reviewed	VBN	(VP*)))))))	review	01	1	speaker_2	-	-
+msnbc_0007	0	18	what	WP	(SBAR(WHNP*)	-	-	-	speaker_2	-	-
+msnbc_0007	0	19	I	PRP	(S(NP*)	-	-	-	speaker_2	(207)	(207)
+msnbc_0007	0	20	've	VBP	(VP*	have	01	12	speaker_2	-	-
+msnbc_0007	0	21	learned	VBN	(VP*))))	learn	01	2	speaker_2	-	-
+msnbc_0007	0	22	is	VBZ	(VP*	be	01	1	speaker_2	-	-
+msnbc_0007	0	23	that	IN	(SBAR*	-	-	-	speaker_2	-	-
+msnbc_0007	0	24	these	DT	(S(NP*	-	-	-	speaker_2	(77	(77
+msnbc_0007	0	25	people	NNS	*)	people	-	1	speaker_2	77)	77)
+msnbc_0007	0	26	while	IN	(PP(PP*	-	-	-	speaker_2	-	-
+msnbc_0007	0	27	bright	JJ	(ADJP*))	-	-	-	speaker_2	-	-
+msnbc_0007	0	28	um	UH	(INTJ*)	-	-	-	speaker_2	-	-
+msnbc_0007	0	29	and	CC	*	-	-	-	speaker_2	-	-
+msnbc_0007	0	30	while	IN	(PP*	-	-	-	speaker_2	-	-
+msnbc_0007	0	31	at	IN	(FRAG(PP*	-	-	-	speaker_2	-	-
+msnbc_0007	0	32	some	DT	(NP*	-	-	-	speaker_2	-	-
+msnbc_0007	0	33	level	NN	*))	level	-	5	speaker_2	-	-
+msnbc_0007	0	34	charming	JJ	(ADJP*))))	-	-	-	speaker_2	-	-
+msnbc_0007	0	35	are	VBP	(VP*	be	01	1	speaker_2	-	-
+msnbc_0007	0	36	emotionally	RB	(ADJP(ADVP*	-	-	-	speaker_2	-	-
+msnbc_0007	0	37	and	CC	*	-	-	-	speaker_2	-	-
+msnbc_0007	0	38	spiritually	RB	*)	-	-	-	speaker_2	-	-
+msnbc_0007	0	39	bankrupt	JJ	*)))))	-	-	-	speaker_2	-	-
+msnbc_0007	0	40	/.	.	*))	-	-	-	speaker_2	-	-
+
+msnbc_0007	0	0	and	CC	(TOP(S*	-	-	-	speaker_2	-
+msnbc_0007	0	1	I	PRP	(NP*)	-	-	-	speaker_2	(207)
+msnbc_0007	0	2	've	VBP	(VP*	have	01	12	speaker_2	-
+msnbc_0007	0	3	learned	VBN	(VP*	learn	01	2	speaker_2	-
+msnbc_0007	0	4	that	IN	(SBAR*	-	-	-	speaker_2	-
+msnbc_0007	0	5	there	EX	(S(NP*)	-	-	-	speaker_2	-
+msnbc_0007	0	6	is	VBZ	(VP*	be	02	3	speaker_2	-
+msnbc_0007	0	7	such	PDT	(NP(NP*	-	-	-	speaker_2	-
+msnbc_0007	0	8	a	DT	*	-	-	-	speaker_2	-
+msnbc_0007	0	9	thing	NN	*)	thing	-	1	speaker_2	-
+msnbc_0007	0	10	as	IN	(PP*	-	-	-	speaker_2	-
+msnbc_0007	0	11	evil	NN	(NP*))))))))	-	-	-	speaker_2	-
+msnbc_0007	0	12	/.	.	*))	-	-	-	speaker_2	-
+
+msnbc_0007	0	0	While	IN	(TOP(S(SBAR*	-	-	-	speaker_3	-
+msnbc_0007	0	1	criminal	JJ	(S(NP*	-	-	-	speaker_3	(76
+msnbc_0007	0	2	profiling	NN	*)	-	-	-	speaker_3	76)
+msnbc_0007	0	3	has	VBZ	(VP*	have	01	-	speaker_3	-
+msnbc_0007	0	4	been	VBN	(VP*	be	01	2	speaker_3	-
+msnbc_0007	0	5	the	DT	(NP(NP*	-	-	-	speaker_3	-
+msnbc_0007	0	6	topic	NN	*)	-	-	-	speaker_3	-
+msnbc_0007	0	7	of	IN	(PP*	-	-	-	speaker_3	-
+msnbc_0007	0	8	best	RBS	(NP(NP(ADJP*	-	-	-	speaker_3	-
+msnbc_0007	0	9	selling	VBG	*)	sell	01	-	speaker_3	-
+msnbc_0007	0	10	books	NNS	*)	book	-	1	speaker_3	-
+msnbc_0007	0	11	and	CC	*	-	-	-	speaker_3	-
+msnbc_0007	0	12	award	NN	(NP(ADJP*	award	-	2	speaker_3	-
+msnbc_0007	0	13	winning	VBG	*)	win	01	-	speaker_3	-
+msnbc_0007	0	14	films	NNS	*))))))))	film	-	1	speaker_3	-
+msnbc_0007	0	15	it	PRP	(NP*)	-	-	-	speaker_3	(76)
+msnbc_0007	0	16	is	VBZ	(VP*	be	01	1	speaker_3	-
+msnbc_0007	0	17	merely	RB	(ADVP*)	-	-	-	speaker_3	-
+msnbc_0007	0	18	one	CD	(NP(NP*	-	-	-	speaker_3	-
+msnbc_0007	0	19	tool	NN	*)	-	-	-	speaker_3	-
+msnbc_0007	0	20	used	VBN	(VP*	use	01	1	speaker_3	-
+msnbc_0007	0	21	to	TO	(S(VP*	-	-	-	speaker_3	-
+msnbc_0007	0	22	solve	VB	(VP*	solve	01	1	speaker_3	-
+msnbc_0007	0	23	crimes	NNS	(NP*)))))))	crime	-	1	speaker_3	-
+msnbc_0007	0	24	/.	.	*))	-	-	-	speaker_3	-
+
+msnbc_0007	0	0	The	DT	(TOP(S(NP*	-	-	-	speaker_3	-
+msnbc_0007	0	1	fact	NN	*)	fact	-	2	speaker_3	-
+msnbc_0007	0	2	is	VBZ	(VP*	be	01	1	speaker_3	-
+msnbc_0007	0	3	that	IN	(SBAR*	-	-	-	speaker_3	-
+msnbc_0007	0	4	often	RB	(S(ADVP*)	-	-	-	speaker_3	-
+msnbc_0007	0	5	offenders	NNS	(NP*)	-	-	-	speaker_3	(107)
+msnbc_0007	0	6	are	VBP	(VP*	be	03	-	speaker_3	-
+msnbc_0007	0	7	caught	VBN	(VP*	catch	03	2	speaker_3	-
+msnbc_0007	0	8	while	IN	(UCP(SBAR*	-	-	-	speaker_3	-
+msnbc_0007	0	9	committing	VBG	(S(VP*	commit	02	1	speaker_3	-
+msnbc_0007	0	10	minor	JJ	(NP(NP*	-	-	-	speaker_3	-
+msnbc_0007	0	11	crimes	NNS	*)	crime	-	1	speaker_3	-
+msnbc_0007	0	12	like	IN	(PP*	-	-	-	speaker_3	-
+msnbc_0007	0	13	traffic	NN	(NP*	traffic	-	1	speaker_3	-
+msnbc_0007	0	14	violations	NNS	*))))))	-	-	-	speaker_3	-
+msnbc_0007	0	15	or	CC	*	-	-	-	speaker_3	-
+msnbc_0007	0	16	simply	RB	(SBAR(ADVP*)	-	-	-	speaker_3	-
+msnbc_0007	0	17	because	IN	*	-	-	-	speaker_3	-
+msnbc_0007	0	18	they	PRP	(S(NP*)	-	-	-	speaker_3	(107)
+msnbc_0007	0	19	raise	VBP	(VP*	raise	01	6	speaker_3	-
+msnbc_0007	0	20	suspicion	NN	(NP(NP*)	suspicion	01	1	speaker_3	-
+msnbc_0007	0	21	of	IN	(PP*	-	-	-	speaker_3	-
+msnbc_0007	0	22	local	JJ	(NP*	-	-	-	speaker_3	-
+msnbc_0007	0	23	police	NN	*))))))))))))	-	-	-	speaker_3	-
+msnbc_0007	0	24	/.	.	*))	-	-	-	speaker_3	-
+
+msnbc_0007	0	0	That	DT	(TOP(S(NP*)	-	-	-	speaker_3	-
+msnbc_0007	0	1	's	VBZ	(VP*	be	01	2	speaker_3	-
+msnbc_0007	0	2	our	PRP$	(NP*	-	-	-	speaker_3	-
+msnbc_0007	0	3	crime	NN	(NML*	crime	-	1	speaker_3	-
+msnbc_0007	0	4	files	NNS	*)	file	-	1	speaker_3	-
+msnbc_0007	0	5	investigation	NN	*))	investigation	-	1	speaker_3	-
+msnbc_0007	0	6	/.	.	*))	-	-	-	speaker_3	-
+
+#end document

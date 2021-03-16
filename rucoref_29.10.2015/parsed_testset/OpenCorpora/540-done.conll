@@ -1,0 +1,328 @@
+# newdoc id = eab7a4f7-03ff-41b7-9f3c-59e08ad66d10
+# newpar id = eab7a4f7-03ff-41b7-9f3c-59e08ad66d10-p1
+# par_text = Виктор Вексельберг хотел бы ангажировать Григория Перельмана для работы в Кремниевой долине.
+# sent_id = eab7a4f7-03ff-41b7-9f3c-59e08ad66d10-p1-s1
+# text = Виктор Вексельберг хотел бы ангажировать Григория Перельмана для работы в Кремниевой долине.
+1	Виктор	_	_	_	_	_	_	_	RuCor_chain_id=403|RuCor_group_id=412027|Shift=0
+2	Вексельберг	_	_	_	_	_	_	_	RuCor_chain_id=403|RuCor_group_id=412027|Shift=7
+3	хотел	_	_	_	_	_	_	_	Shift=19
+4	бы	_	_	_	_	_	_	_	Shift=25
+5	ангажировать	_	_	_	_	_	_	_	Shift=28
+6	Григория	_	_	_	_	_	_	_	RuCor_chain_id=402|RuCor_group_id=412028|Shift=41
+7	Перельмана	_	_	_	_	_	_	_	RuCor_chain_id=402|RuCor_group_id=412028|Shift=50
+8	для	_	_	_	_	_	_	_	Shift=61
+9	работы	_	_	_	_	_	_	_	Shift=65
+10	в	_	_	_	_	_	_	_	Shift=72
+11	Кремниевой	_	_	_	_	_	_	_	RuCor_chain_id=401|RuCor_group_id=412029|Shift=74
+12	долине	_	_	_	_	_	_	_	RuCor_chain_id=401|RuCor_group_id=412029|Shift=85|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=91
+
+# newpar id = eab7a4f7-03ff-41b7-9f3c-59e08ad66d10-p2
+# par_text = Фортуна повернулась к питерскому математику лицом: сначала мировое признание, затем миллион долларов. А теперь ещё и выгодное приглашение на работу, да не где-нибудь за границей, которую затворник Перельман на дух не переносит, а в родном отечестве. По словам руководителя иннограда в Сколкове, российский учёный Григорий Перельман может оказаться в обойме избранных, которые будут создавать славу Кремниевой долины в Подмосковье. «Наш проект откроет двери всем талантливым инициативным людям и даст возможность работать. Мы будем предлагать участвовать в нём всем, а Григорию Перельману в частности. Всё будет зависеть от его желания», — цитирует NEWSru.com Вексельберга.
+# sent_id = eab7a4f7-03ff-41b7-9f3c-59e08ad66d10-p2-s1
+# text = Фортуна повернулась к питерскому математику лицом: сначала мировое признание, затем миллион долларов.
+1	Фортуна	_	_	_	_	_	_	_	Shift=93
+2	повернулась	_	_	_	_	_	_	_	Shift=101
+3	к	_	_	_	_	_	_	_	Shift=113
+4	питерскому	_	_	_	_	_	_	_	RuCor_chain_id=402|RuCor_group_id=412030|Shift=115
+5	математику	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=402|RuCor_group_id=412030|RuCor_link_id=412028|Shift=126
+6	лицом	_	_	_	_	_	_	_	Shift=137|SpaceAfter=No
+7	:	_	_	_	_	_	_	_	Shift=142
+8	сначала	_	_	_	_	_	_	_	Shift=144
+9	мировое	_	_	_	_	_	_	_	Shift=152
+10	признание	_	_	_	_	_	_	_	Shift=160|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=169
+12	затем	_	_	_	_	_	_	_	Shift=171
+13	миллион	_	_	_	_	_	_	_	Shift=177
+14	долларов	_	_	_	_	_	_	_	Shift=185|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=193
+
+# sent_id = eab7a4f7-03ff-41b7-9f3c-59e08ad66d10-p2-s2
+# text = А теперь ещё и выгодное приглашение на работу, да не где-нибудь за границей, которую затворник Перельман на дух не переносит, а в родном отечестве.
+1	А	_	_	_	_	_	_	_	Shift=195
+2	теперь	_	_	_	_	_	_	_	Shift=197
+3	ещё	_	_	_	_	_	_	_	Shift=204
+4	и	_	_	_	_	_	_	_	Shift=208
+5	выгодное	_	_	_	_	_	_	_	Shift=210
+6	приглашение	_	_	_	_	_	_	_	Shift=219
+7	на	_	_	_	_	_	_	_	Shift=231
+8	работу	_	_	_	_	_	_	_	Shift=234|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=240
+10	да	_	_	_	_	_	_	_	Shift=242
+11	не	_	_	_	_	_	_	_	Shift=245
+12	где-нибудь	_	_	_	_	_	_	_	Shift=248
+13	за	_	_	_	_	_	_	_	RuCor_chain_id=400|RuCor_group_id=412031|Shift=259
+14	границей	_	_	_	_	_	_	_	RuCor_chain_id=400|RuCor_group_id=412031|Shift=262|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=270
+16	которую	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=400|RuCor_group_id=412032|RuCor_link_id=412031|Shift=272
+17	затворник	_	_	_	_	_	_	_	RuCor_chain_id=402|RuCor_group_id=412033|Shift=280
+18	Перельман	_	_	_	_	_	_	_	RuCor_chain_id=402|RuCor_group_id=412033|Shift=290
+19	на	_	_	_	_	_	_	_	Shift=300
+20	дух	_	_	_	_	_	_	_	Shift=303
+21	не	_	_	_	_	_	_	_	Shift=307
+22	переносит	_	_	_	_	_	_	_	Shift=310|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=319
+24	а	_	_	_	_	_	_	_	Shift=321
+25	в	_	_	_	_	_	_	_	Shift=323
+26	родном	_	_	_	_	_	_	_	Shift=325
+27	отечестве	_	_	_	_	_	_	_	Shift=332|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=341
+
+# sent_id = eab7a4f7-03ff-41b7-9f3c-59e08ad66d10-p2-s3
+# text = По словам руководителя иннограда в Сколкове, российский учёный Григорий Перельман может оказаться в обойме избранных, которые будут создавать славу Кремниевой долины в Подмосковье.
+1	По	_	_	_	_	_	_	_	Shift=343
+2	словам	_	_	_	_	_	_	_	Shift=346
+3	руководителя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=403|RuCor_group_id=412035|RuCor_link_id=412027|Shift=353
+4	иннограда	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=401|RuCor_group_id=412034|RuCor_link_id=412029|Shift=366
+5	в	_	_	_	_	_	_	_	RuCor_chain_id=401|RuCor_group_id=412034|Shift=376
+6	Сколкове	_	_	_	_	_	_	_	RuCor_chain_id=401|RuCor_group_id=412034|Shift=378|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=386
+8	российский	_	_	_	_	_	_	_	RuCor_chain_id=402|RuCor_group_id=412036|Shift=388
+9	учёный	_	_	_	_	_	_	_	RuCor_chain_id=402|RuCor_group_id=412036|Shift=399
+10	Григорий	_	_	_	_	_	_	_	RuCor_chain_id=402|RuCor_group_id=412036|Shift=406
+11	Перельман	_	_	_	_	_	_	_	RuCor_chain_id=402|RuCor_group_id=412036|Shift=415
+12	может	_	_	_	_	_	_	_	Shift=425
+13	оказаться	_	_	_	_	_	_	_	Shift=431
+14	в	_	_	_	_	_	_	_	Shift=441
+15	обойме	_	_	_	_	_	_	_	Shift=443
+16	избранных	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=399|RuCor_group_id=412037|RuCor_link_id=0|Shift=450|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=459
+18	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=399|RuCor_group_id=412038|RuCor_link_id=412037|Shift=461
+19	будут	_	_	_	_	_	_	_	Shift=469
+20	создавать	_	_	_	_	_	_	_	Shift=475
+21	славу	_	_	_	_	_	_	_	Shift=485
+22	Кремниевой	_	_	_	_	_	_	_	RuCor_chain_id=401|RuCor_group_id=412039|Shift=491
+23	долины	_	_	_	_	_	_	_	RuCor_chain_id=401|RuCor_group_id=412039|Shift=502
+24	в	_	_	_	_	_	_	_	RuCor_chain_id=401|RuCor_group_id=412039|Shift=509
+25	Подмосковье	_	_	_	_	_	_	_	RuCor_chain_id=401|RuCor_group_id=412039|Shift=511|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=522
+
+# sent_id = eab7a4f7-03ff-41b7-9f3c-59e08ad66d10-p2-s4
+# text = ``Наш проект откроет двери всем талантливым инициативным людям и даст возможность работать.
+1	``	_	_	_	_	_	_	_	Shift=524|SpaceAfter=No
+2	Наш	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=401|RuCor_group_id=412041|RuCor_link_id=0|Shift=525
+3	проект	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=401|RuCor_group_id=412041|RuCor_link_id=412039|Shift=529
+4	откроет	_	_	_	_	_	_	_	Shift=536
+5	двери	_	_	_	_	_	_	_	Shift=544
+6	всем	_	_	_	_	_	_	_	Shift=550
+7	талантливым	_	_	_	_	_	_	_	Shift=555
+8	инициативным	_	_	_	_	_	_	_	Shift=567
+9	людям	_	_	_	_	_	_	_	Shift=580
+10	и	_	_	_	_	_	_	_	Shift=586
+11	даст	_	_	_	_	_	_	_	Shift=588
+12	возможность	_	_	_	_	_	_	_	Shift=593
+13	работать	_	_	_	_	_	_	_	Shift=605|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=613
+
+# sent_id = eab7a4f7-03ff-41b7-9f3c-59e08ad66d10-p2-s5
+# text = Мы будем предлагать участвовать в нём всем, а Григорию Перельману в частности.
+1	Мы	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=398|RuCor_group_id=412042|RuCor_link_id=412040|Shift=615
+2	будем	_	_	_	_	_	_	_	Shift=618
+3	предлагать	_	_	_	_	_	_	_	Shift=624
+4	участвовать	_	_	_	_	_	_	_	Shift=635
+5	в	_	_	_	_	_	_	_	Shift=647
+6	нём	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=401|RuCor_group_id=412063|RuCor_link_id=412041|Shift=649
+7	всем	_	_	_	_	_	_	_	Shift=653|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=657
+9	а	_	_	_	_	_	_	_	Shift=659
+10	Григорию	_	_	_	_	_	_	_	RuCor_chain_id=402|RuCor_group_id=412043|Shift=661
+11	Перельману	_	_	_	_	_	_	_	RuCor_chain_id=402|RuCor_group_id=412043|Shift=670
+12	в	_	_	_	_	_	_	_	Shift=681
+13	частности	_	_	_	_	_	_	_	Shift=683|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=692
+
+# sent_id = eab7a4f7-03ff-41b7-9f3c-59e08ad66d10-p2-s6
+# text = Всё будет зависеть от его желания'', - цитирует NEWSru.com Вексельберга.
+1	Всё	_	_	_	_	_	_	_	Shift=694
+2	будет	_	_	_	_	_	_	_	Shift=698
+3	зависеть	_	_	_	_	_	_	_	Shift=704
+4	от	_	_	_	_	_	_	_	Shift=713
+5	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=402|RuCor_group_id=412044|RuCor_link_id=412043|Shift=716
+6	желания	_	_	_	_	_	_	_	Shift=720|SpaceAfter=No
+7	''	_	_	_	_	_	_	_	Shift=727|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=728
+9	-	_	_	_	_	_	_	_	Shift=730
+10	цитирует	_	_	_	_	_	_	_	Shift=732
+11	NEWSru.com	_	_	_	_	_	_	_	Shift=741
+12	Вексельберга	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=403|RuCor_group_id=412045|RuCor_link_id=412035|Shift=752|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=764
+
+# newpar id = eab7a4f7-03ff-41b7-9f3c-59e08ad66d10-p3
+# par_text = Напомним, петербургский учёный Перельман известен всему миру своим математическим талантом и затворническим образом жизни. Четыре года назад россиянин отказался получить присуждённую ему Филдсовскую премию, а ещё раньше пренебрёг математическими наградами и предложениями к сотрудничеству Принстона, Стэнфорда и других университетов. На этот раз Перельман был удостоен не менее престижной премии. Математический институт Клэя присудил российскому математику Премию тысячелетия за доказательство гипотезы Пуанкаре. Это одна из семи головоломок, за решение и доказательство которых американский институт присуждает Премию тысячелетия. Перельман решил эту задачу ещё в 2002 году и обнародовал своё решение в научной работе. «Доказательство гипотезы Пуанкаре Григорием Перельманом стало завершением поиска решения этой задачи, который продолжался почти столетие. Это значительный прогресс в истории математики», — заявил глава Института Клэя Джеймс Карлсон.
+# sent_id = eab7a4f7-03ff-41b7-9f3c-59e08ad66d10-p3-s1
+# text = Напомним, петербургский учёный Перельман известен всему миру своим математическим талантом и затворническим образом жизни.
+1	Напомним	_	_	_	_	_	_	_	Shift=766|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=774
+3	петербургский	_	_	_	_	_	_	_	RuCor_chain_id=402|RuCor_group_id=412046|Shift=776
+4	учёный	_	_	_	_	_	_	_	RuCor_chain_id=402|RuCor_group_id=412046|Shift=790
+5	Перельман	_	_	_	_	_	_	_	RuCor_chain_id=402|RuCor_group_id=412046|Shift=797
+6	известен	_	_	_	_	_	_	_	Shift=807
+7	всему	_	_	_	_	_	_	_	Shift=816
+8	миру	_	_	_	_	_	_	_	Shift=822
+9	своим	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=402|RuCor_group_id=412047|RuCor_link_id=412046|Shift=827
+10	математическим	_	_	_	_	_	_	_	Shift=833
+11	талантом	_	_	_	_	_	_	_	Shift=848
+12	и	_	_	_	_	_	_	_	Shift=857
+13	затворническим	_	_	_	_	_	_	_	Shift=859
+14	образом	_	_	_	_	_	_	_	Shift=874
+15	жизни	_	_	_	_	_	_	_	Shift=882|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=887
+
+# sent_id = eab7a4f7-03ff-41b7-9f3c-59e08ad66d10-p3-s2
+# text = Четыре года назад россиянин отказался получить присуждённую ему Филдсовскую премию, а ещё раньше пренебрёг математическими наградами и предложениями к сотрудничеству Принстона, Стэнфорда и других университетов.
+1	Четыре	_	_	_	_	_	_	_	Shift=889
+2	года	_	_	_	_	_	_	_	Shift=896
+3	назад	_	_	_	_	_	_	_	Shift=901
+4	россиянин	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=402|RuCor_group_id=412048|RuCor_link_id=412046|Shift=907
+5	отказался	_	_	_	_	_	_	_	Shift=917
+6	получить	_	_	_	_	_	_	_	Shift=927
+7	присуждённую	_	_	_	_	_	_	_	Shift=936
+8	ему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=402|RuCor_group_id=412049|RuCor_link_id=412048|Shift=949
+9	Филдсовскую	_	_	_	_	_	_	_	Shift=953
+10	премию	_	_	_	_	_	_	_	Shift=965|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=971
+12	а	_	_	_	_	_	_	_	Shift=973
+13	ещё	_	_	_	_	_	_	_	Shift=975
+14	раньше	_	_	_	_	_	_	_	Shift=979
+15	пренебрёг	_	_	_	_	_	_	_	Shift=986
+16	математическими	_	_	_	_	_	_	_	Shift=996
+17	наградами	_	_	_	_	_	_	_	Shift=1012
+18	и	_	_	_	_	_	_	_	Shift=1022
+19	предложениями	_	_	_	_	_	_	_	Shift=1024
+20	к	_	_	_	_	_	_	_	Shift=1038
+21	сотрудничеству	_	_	_	_	_	_	_	Shift=1040
+22	Принстона	_	_	_	_	_	_	_	Shift=1055|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=1064
+24	Стэнфорда	_	_	_	_	_	_	_	Shift=1066
+25	и	_	_	_	_	_	_	_	Shift=1076
+26	других	_	_	_	_	_	_	_	Shift=1078
+27	университетов	_	_	_	_	_	_	_	Shift=1085|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=1098
+
+# sent_id = eab7a4f7-03ff-41b7-9f3c-59e08ad66d10-p3-s3
+# text = На этот раз Перельман был удостоен не менее престижной премии.
+1	На	_	_	_	_	_	_	_	Shift=1100
+2	этот	_	_	_	_	_	_	_	Shift=1103
+3	раз	_	_	_	_	_	_	_	Shift=1108
+4	Перельман	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=402|RuCor_group_id=412050|RuCor_link_id=412048|Shift=1112
+5	был	_	_	_	_	_	_	_	Shift=1122
+6	удостоен	_	_	_	_	_	_	_	Shift=1126
+7	не	_	_	_	_	_	_	_	RuCor_chain_id=397|RuCor_group_id=412051|Shift=1135
+8	менее	_	_	_	_	_	_	_	RuCor_chain_id=397|RuCor_group_id=412051|Shift=1138
+9	престижной	_	_	_	_	_	_	_	RuCor_chain_id=397|RuCor_group_id=412051|Shift=1144
+10	премии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=397|RuCor_group_id=412051|RuCor_link_id=0|Shift=1155|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=1161
+
+# sent_id = eab7a4f7-03ff-41b7-9f3c-59e08ad66d10-p3-s4
+# text = Математический институт Клэя присудил российскому математику Премию тысячелетия за доказательство гипотезы Пуанкаре.
+1	Математический	_	_	_	_	_	_	_	RuCor_chain_id=395|RuCor_group_id=412056|Shift=1163
+2	институт	_	_	_	_	_	_	_	RuCor_chain_id=395|RuCor_group_id=412056|Shift=1178
+3	Клэя	_	_	_	_	_	_	_	RuCor_chain_id=395|RuCor_group_id=412056|Shift=1187
+4	присудил	_	_	_	_	_	_	_	Shift=1192
+5	российскому	_	_	_	_	_	_	_	RuCor_chain_id=402|RuCor_group_id=412052|Shift=1201
+6	математику	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=402|RuCor_group_id=412052|RuCor_link_id=412050|Shift=1213
+7	Премию	_	_	_	_	_	_	_	RuCor_chain_id=397|RuCor_group_id=412053|Shift=1224
+8	тысячелетия	_	_	_	_	_	_	_	RuCor_chain_id=397|RuCor_group_id=412053|Shift=1231
+9	за	_	_	_	_	_	_	_	Shift=1243
+10	доказательство	_	_	_	_	_	_	_	Shift=1246
+11	гипотезы	_	_	_	_	_	_	_	RuCor_chain_id=394|RuCor_group_id=412061|Shift=1261
+12	Пуанкаре	_	_	_	_	_	_	_	RuCor_chain_id=394|RuCor_group_id=412061|Shift=1270|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=1278
+
+# sent_id = eab7a4f7-03ff-41b7-9f3c-59e08ad66d10-p3-s5
+# text = Это одна из семи головоломок, за решение и доказательство которых американский институт присуждает Премию тысячелетия.
+1	Это	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=394|RuCor_group_id=412062|RuCor_link_id=412061|Shift=1280
+2	одна	_	_	_	_	_	_	_	Shift=1284
+3	из	_	_	_	_	_	_	_	Shift=1289
+4	семи	_	_	_	_	_	_	_	Shift=1292
+5	головоломок	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=396|RuCor_group_id=412054|RuCor_link_id=0|Shift=1297|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1308
+7	за	_	_	_	_	_	_	_	Shift=1310
+8	решение	_	_	_	_	_	_	_	Shift=1313
+9	и	_	_	_	_	_	_	_	Shift=1321
+10	доказательство	_	_	_	_	_	_	_	Shift=1323
+11	которых	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=396|RuCor_group_id=412055|RuCor_link_id=412054|Shift=1338
+12	американский	_	_	_	_	_	_	_	RuCor_chain_id=395|RuCor_group_id=412057|Shift=1346
+13	институт	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=395|RuCor_group_id=412057|RuCor_link_id=412056|Shift=1359
+14	присуждает	_	_	_	_	_	_	_	Shift=1368
+15	Премию	_	_	_	_	_	_	_	RuCor_chain_id=397|RuCor_group_id=412058|Shift=1379
+16	тысячелетия	_	_	_	_	_	_	_	RuCor_chain_id=397|RuCor_group_id=412058|Shift=1386|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=1397
+
+# sent_id = eab7a4f7-03ff-41b7-9f3c-59e08ad66d10-p3-s6
+# text = Перельман решил эту задачу ещё в 2002 году и обнародовал своё решение в научной работе.
+1	Перельман	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=402|RuCor_group_id=412059|RuCor_link_id=412052|Shift=1399
+2	решил	_	_	_	_	_	_	_	Shift=1409
+3	эту	_	_	_	_	_	_	_	RuCor_chain_id=394|RuCor_group_id=412060|Shift=1415
+4	задачу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=394|RuCor_group_id=412060|RuCor_link_id=412061|Shift=1419
+5	ещё	_	_	_	_	_	_	_	Shift=1426
+6	в	_	_	_	_	_	_	_	Shift=1430
+7	2002	_	_	_	_	_	_	_	Shift=1432
+8	году	_	_	_	_	_	_	_	Shift=1437
+9	и	_	_	_	_	_	_	_	Shift=1442
+10	обнародовал	_	_	_	_	_	_	_	Shift=1444
+11	своё	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=402|RuCor_group_id=412064|RuCor_link_id=412059|Shift=1456
+12	решение	_	_	_	_	_	_	_	Shift=1461
+13	в	_	_	_	_	_	_	_	Shift=1469
+14	научной	_	_	_	_	_	_	_	Shift=1471
+15	работе	_	_	_	_	_	_	_	Shift=1479|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=1485
+
+# sent_id = eab7a4f7-03ff-41b7-9f3c-59e08ad66d10-p3-s7
+# text = ``Доказательство гипотезы Пуанкаре Григорием Перельманом стало завершением поиска решения этой задачи, который продолжался почти столетие.
+1	``	_	_	_	_	_	_	_	Shift=1487|SpaceAfter=No
+2	Доказательство	_	_	_	_	_	_	_	Shift=1488
+3	гипотезы	_	_	_	_	_	_	_	RuCor_chain_id=394|RuCor_group_id=412065|Shift=1503
+4	Пуанкаре	_	_	_	_	_	_	_	RuCor_chain_id=394|RuCor_group_id=412065|Shift=1512
+5	Григорием	_	_	_	_	_	_	_	RuCor_chain_id=402|RuCor_group_id=412066|Shift=1521
+6	Перельманом	_	_	_	_	_	_	_	RuCor_chain_id=402|RuCor_group_id=412066|Shift=1531
+7	стало	_	_	_	_	_	_	_	Shift=1543
+8	завершением	_	_	_	_	_	_	_	Shift=1549
+9	поиска	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=393|RuCor_group_id=412068|RuCor_link_id=0|Shift=1561
+10	решения	_	_	_	_	_	_	_	RuCor_chain_id=393|RuCor_group_id=412068|Shift=1568
+11	этой	_	_	_	_	_	_	_	RuCor_chain_id=394|RuCor_group_id=412067|Shift=1576
+12	задачи	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=394|RuCor_group_id=412067|RuCor_link_id=412065|Shift=1581|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=1587
+14	который	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=393|RuCor_group_id=412069|RuCor_link_id=412068|Shift=1589
+15	продолжался	_	_	_	_	_	_	_	Shift=1597
+16	почти	_	_	_	_	_	_	_	Shift=1609
+17	столетие	_	_	_	_	_	_	_	Shift=1615|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=1623
+
+# sent_id = eab7a4f7-03ff-41b7-9f3c-59e08ad66d10-p3-s8
+# text = Это значительный прогресс в истории математики'', - заявил глава Института Клэя Джеймс Карлсон.
+1	Это	_	_	_	_	_	_	_	Shift=1625
+2	значительный	_	_	_	_	_	_	_	Shift=1629
+3	прогресс	_	_	_	_	_	_	_	Shift=1642
+4	в	_	_	_	_	_	_	_	Shift=1651
+5	истории	_	_	_	_	_	_	_	Shift=1653
+6	математики	_	_	_	_	_	_	_	Shift=1661|SpaceAfter=No
+7	''	_	_	_	_	_	_	_	Shift=1671|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1672
+9	-	_	_	_	_	_	_	_	Shift=1674
+10	заявил	_	_	_	_	_	_	_	Shift=1676
+11	глава	_	_	_	_	_	_	_	Shift=1683
+12	Института	_	_	_	_	_	_	_	RuCor_chain_id=395|RuCor_group_id=412070|Shift=1689
+13	Клэя	_	_	_	_	_	_	_	RuCor_chain_id=395|RuCor_group_id=412070|Shift=1699
+14	Джеймс	_	_	_	_	_	_	_	Shift=1704
+15	Карлсон	_	_	_	_	_	_	_	Shift=1711|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=1718
+
+# newpar id = eab7a4f7-03ff-41b7-9f3c-59e08ad66d10-p4
+# par_text = О феномене петербургского математика читайте в статье Частного корреспондента «Загвоздка Перельмана»
+# sent_id = eab7a4f7-03ff-41b7-9f3c-59e08ad66d10-p4-s1
+# text = О феномене петербургского математика читайте в статье Частного корреспондента ``Загвоздка Перельмана''
+1	О	_	_	_	_	_	_	_	Shift=1720
+2	феномене	_	_	_	_	_	_	_	Shift=1722
+3	петербургского	_	_	_	_	_	_	_	RuCor_chain_id=402|RuCor_group_id=412071|Shift=1731
+4	математика	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=402|RuCor_group_id=412071|RuCor_link_id=412066|Shift=1746
+5	читайте	_	_	_	_	_	_	_	Shift=1757
+6	в	_	_	_	_	_	_	_	Shift=1765
+7	статье	_	_	_	_	_	_	_	Shift=1767
+8	Частного	_	_	_	_	_	_	_	Shift=1774
+9	корреспондента	_	_	_	_	_	_	_	Shift=1783
+10	``	_	_	_	_	_	_	_	Shift=1798|SpaceAfter=No
+11	Загвоздка	_	_	_	_	_	_	_	Shift=1799
+12	Перельмана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=402|RuCor_group_id=412072|RuCor_link_id=412071|Shift=1809|SpaceAfter=No
+13	''	_	_	_	_	_	_	_	_
+

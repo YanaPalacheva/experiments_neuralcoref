@@ -1,0 +1,59 @@
+#begin document (wsj_1945.en); part 000
+wsj_1945.en	0	0	T.	NNP	*	_	_	3	_	(2
+wsj_1945.en	0	1	Rowe	NNP	*	_	_	3	_	-
+wsj_1945.en	0	2	Price	NNP	*	_	_	4	_	-
+wsj_1945.en	0	3	Associates	NNP	*	_	_	5	_	-
+wsj_1945.en	0	4	Inc.	NNP	*	_	_	6	_	2)
+wsj_1945.en	0	5	said	VBD	*	_	_	0	_	-
+wsj_1945.en	0	6	directors	NNS	*	_	_	8	_	(3
+wsj_1945.en	0	7	recommended	VBD	*	_	_	6	_	-
+wsj_1945.en	0	8	stockholders	NNS	*	_	_	10	_	(1)
+wsj_1945.en	0	9	approve	VB	*	_	_	8	_	-
+wsj_1945.en	0	10	a	DT	*	_	_	14	_	-
+wsj_1945.en	0	11	2-for-1	JJ	*	_	_	14	_	-
+wsj_1945.en	0	12	stock	NN	*	_	_	14	_	-
+wsj_1945.en	0	13	split	NN	*	_	_	15	_	-
+wsj_1945.en	0	14	and	CC	*	_	_	10	_	-
+wsj_1945.en	0	15	an	DT	*	_	_	17	_	-
+wsj_1945.en	0	16	increase	NN	*	_	_	15	_	-
+wsj_1945.en	0	17	in	IN	*	_	_	17	_	-
+wsj_1945.en	0	18	authorized	JJ	*	_	_	20	_	-
+wsj_1945.en	0	19	shares	NNS	*	_	_	18	_	-
+wsj_1945.en	0	20	to	TO	*	_	_	17	_	-
+wsj_1945.en	0	21	25	CD	*	_	_	23	_	-
+wsj_1945.en	0	22	million	CD	*	_	_	21	_	-
+wsj_1945.en	0	23	from	IN	*	_	_	17	_	-
+wsj_1945.en	0	24	10	CD	*	_	_	26	_	-
+wsj_1945.en	0	25	million	CD	*	_	_	24	_	3)
+wsj_1945.en	0	26	.	.	*	_	_	6	_	-
+
+wsj_1945.en	0	0	Stockholders	NNS	*	_	_	29	_	-
+wsj_1945.en	0	1	will	MD	*	_	_	0	_	-
+wsj_1945.en	0	2	vote	VB	*	_	_	29	_	-
+wsj_1945.en	0	3	on	IN	*	_	_	30	_	-
+wsj_1945.en	0	4	the	DT	*	_	_	33	_	(3
+wsj_1945.en	0	5	proposal	NN	*	_	_	31	_	3)
+wsj_1945.en	0	6	at	IN	*	_	_	30	_	-
+wsj_1945.en	0	7	a	DT	*	_	_	36	_	-
+wsj_1945.en	0	8	meeting	NN	*	_	_	34	_	-
+wsj_1945.en	0	9	Dec.	NNP	*	_	_	30	_	-
+wsj_1945.en	0	10	13	CD	*	_	_	37	_	-
+wsj_1945.en	0	11	.	.	*	_	_	30	_	-
+
+wsj_1945.en	0	0	T.	NNP	*	_	_	42	_	(2
+wsj_1945.en	0	1	Rowe	NNP	*	_	_	42	_	-
+wsj_1945.en	0	2	Price	NNP	*	_	_	43	_	2)
+wsj_1945.en	0	3	is	VBZ	*	_	_	0	_	-
+wsj_1945.en	0	4	an	DT	*	_	_	46	_	-
+wsj_1945.en	0	5	investment	NN	*	_	_	46	_	-
+wsj_1945.en	0	6	adviser	NN	*	_	_	43	_	-
+wsj_1945.en	0	7	to	TO	*	_	_	46	_	-
+wsj_1945.en	0	8	mutual	JJ	*	_	_	49	_	-
+wsj_1945.en	0	9	funds	NNS	*	_	_	52	_	-
+wsj_1945.en	0	10	,	,	*	_	_	52	_	-
+wsj_1945.en	0	11	institutions	NNS	*	_	_	52	_	-
+wsj_1945.en	0	12	and	CC	*	_	_	47	_	-
+wsj_1945.en	0	13	individuals	NNS	*	_	_	52	_	-
+wsj_1945.en	0	14	.	.	*	_	_	43	_	-
+
+#end document 

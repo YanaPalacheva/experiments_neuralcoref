@@ -1,0 +1,77 @@
+#begin document (voa_0229_0); part 000
+voa_0229	0	0	I	PRP	(TOP(S(NP*)	-	-	-	-	-
+voa_0229	0	1	am	VBP	(VP*	be	01	2	-	-
+voa_0229	0	2	David	NNP	(NP(NP*	-	-	-	-	-
+voa_0229	0	3	Coler	NNP	*)	-	-	-	-	-
+voa_0229	0	4	,	,	*	-	-	-	-	-
+voa_0229	0	5	VOA	NNP	(NP*	-	-	-	-	-
+voa_0229	0	6	News	NNP	*)))	-	-	-	-	-
+voa_0229	0	7	.	.	*))	-	-	-	-	-
+
+voa_0229	0	0	Israel	NNP	(TOP(S(NP(NP*)	-	-	-	-	(0|(1)
+voa_0229	0	1	and	CC	*	-	-	-	-	-
+voa_0229	0	2	the	DT	(NP*	-	-	-	-	-
+voa_0229	0	3	Palestinians	NNPS	*))	-	-	-	-	0)
+voa_0229	0	4	have	VBP	(VP*	have	01	-	-	-
+voa_0229	0	5	resumed	VBD	(VP*	resume	01	1	-	-
+voa_0229	0	6	high	JJ	(NP(NML*	-	-	-	-	-
+voa_0229	0	7	level	NN	*)	level	-	6	-	-
+voa_0229	0	8	peace	NN	*	peace	-	1	-	-
+voa_0229	0	9	talks	NNS	*)))	talk	01	3	-	-
+voa_0229	0	10	.	.	*))	-	-	-	-	-
+
+voa_0229	0	0	The	DT	(TOP(S(NP*	-	-	-	-	(0
+voa_0229	0	1	two	CD	*	-	-	-	-	-
+voa_0229	0	2	sides	NNS	*)	side	-	3	-	0)
+voa_0229	0	3	met	VBD	(VP*	meet	03	2	-	-
+voa_0229	0	4	into	IN	(PP*	-	-	-	-	-
+voa_0229	0	5	the	DT	(NP(NP*	-	-	-	-	-
+voa_0229	0	6	early	JJ	*	-	-	-	-	-
+voa_0229	0	7	hours	NNS	*)	hour	-	2	-	-
+voa_0229	0	8	Friday	NNP	(NP*)))	-	-	-	-	-
+voa_0229	0	9	at	IN	(PP*	-	-	-	-	-
+voa_0229	0	10	the	DT	(NP(NP*	-	-	-	-	-
+voa_0229	0	11	crossing	NN	*)	crossing	-	7	-	-
+voa_0229	0	12	between	IN	(PP*	-	-	-	-	-
+voa_0229	0	13	the	DT	(NP(NP*	-	-	-	-	-
+voa_0229	0	14	Gaza	NNP	*	-	-	-	-	-
+voa_0229	0	15	Strip	NNP	*)	-	-	-	-	-
+voa_0229	0	16	and	CC	*	-	-	-	-	-
+voa_0229	0	17	Israel	NNP	(NP*))))))	-	-	-	-	(1)
+voa_0229	0	18	.	.	*))	-	-	-	-	-
+
+voa_0229	0	0	Israeli	JJ	(TOP(S(NP*	-	-	-	-	-
+voa_0229	0	1	officials	NNS	*)	official	-	1	-	-
+voa_0229	0	2	say	VBP	(VP*	say	01	1	-	-
+voa_0229	0	3	Israel	NNP	(SBAR(S(NP*)	-	-	-	-	(1)
+voa_0229	0	4	is	VBZ	(VP*	be	01	1	-	-
+voa_0229	0	5	still	RB	(ADVP*)	-	-	-	-	-
+voa_0229	0	6	hopeful	JJ	(ADJP*	-	-	-	-	-
+voa_0229	0	7	that	IN	(SBAR*	-	-	-	-	-
+voa_0229	0	8	a	DT	(S(NP*	-	-	-	-	-
+voa_0229	0	9	framework	NN	*	framework	-	1	-	-
+voa_0229	0	10	peace	NN	*	peace	-	1	-	-
+voa_0229	0	11	agreement	NN	*)	-	-	-	-	-
+voa_0229	0	12	can	MD	(VP*	-	-	-	-	-
+voa_0229	0	13	be	VB	(VP*	be	03	-	-	-
+voa_0229	0	14	reached	VBN	(VP*	reach	01	1	-	-
+voa_0229	0	15	before	IN	(PP*	-	-	-	-	-
+voa_0229	0	16	the	DT	(NP(NP*	-	-	-	-	-
+voa_0229	0	17	unofficial	JJ	*	-	-	-	-	-
+voa_0229	0	18	deadline	NN	*)	-	-	-	-	-
+voa_0229	0	19	,	,	*	-	-	-	-	-
+voa_0229	0	20	the	DT	(NP(NP*	-	-	-	-	-
+voa_0229	0	21	end	NN	*)	end	01	3	-	-
+voa_0229	0	22	of	IN	(PP*	-	-	-	-	-
+voa_0229	0	23	President	NNP	(NP(NP(NP*	-	-	-	-	-
+voa_0229	0	24	Clinton	NNP	*	-	-	-	-	-
+voa_0229	0	25	's	POS	*)	-	-	-	-	-
+voa_0229	0	26	term	NN	*)	-	-	-	-	-
+voa_0229	0	27	in	IN	(PP*	-	-	-	-	-
+voa_0229	0	28	office	NN	(NP*))	office	-	4	-	-
+voa_0229	0	29	on	IN	(PP*	-	-	-	-	-
+voa_0229	0	30	January	NNP	(NP*	-	-	-	-	-
+voa_0229	0	31	20th	NN	*)))))))))))))))))	-	-	-	-	-
+voa_0229	0	32	.	.	*))	-	-	-	-	-
+
+#end document

@@ -1,0 +1,387 @@
+# newdoc id = b6977767-ce34-4012-afd0-10b36ccb3b77
+# newpar id = b6977767-ce34-4012-afd0-10b36ccb3b77-p1
+# par_text = 22-летний житель Аризоны, открывший стрельбу, в результате которой пострадали 20 человек, и попытавшийся убить члена Конгресса США, впервые предстал перед судом по обвинению в совершении федерального преступления.
+# sent_id = b6977767-ce34-4012-afd0-10b36ccb3b77-p1-s1
+# text = 22-летний житель Аризоны, открывший стрельбу, в результате которой пострадали 20 человек, и попытавшийся убить члена Конгресса США, впервые предстал перед судом по обвинению в совершении федерального преступления.
+1	22-летний	_	_	_	_	_	_	_	Shift=0
+2	житель	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3110|RuCor_group_id=473606|RuCor_link_id=473613|Shift=10
+3	Аризоны	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3106|RuCor_group_id=473607|RuCor_link_id=0|Shift=17|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=24
+5	открывший	_	_	_	_	_	_	_	Shift=26
+6	стрельбу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3107|RuCor_group_id=473608|RuCor_link_id=0|Shift=36|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=44
+8	в	_	_	_	_	_	_	_	Shift=46
+9	результате	_	_	_	_	_	_	_	Shift=48
+10	которой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=3107|RuCor_group_id=473609|RuCor_link_id=473608|Shift=59
+11	пострадали	_	_	_	_	_	_	_	Shift=67
+12	20	_	_	_	_	_	_	_	Shift=78
+13	человек	_	_	_	_	_	_	_	Shift=81|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=88
+15	и	_	_	_	_	_	_	_	Shift=90
+16	попытавшийся	_	_	_	_	_	_	_	Shift=92
+17	убить	_	_	_	_	_	_	_	Shift=105
+18	члена	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3108|RuCor_group_id=473610|RuCor_link_id=0|Shift=111
+19	Конгресса	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3113|RuCor_group_id=473611|RuCor_link_id=473635|Shift=117
+20	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3109|RuCor_group_id=473612|RuCor_link_id=0|Shift=127|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=130
+22	впервые	_	_	_	_	_	_	_	Shift=132
+23	предстал	_	_	_	_	_	_	_	Shift=140
+24	перед	_	_	_	_	_	_	_	Shift=149
+25	судом	_	_	_	_	_	_	_	Shift=155
+26	по	_	_	_	_	_	_	_	Shift=161
+27	обвинению	_	_	_	_	_	_	_	Shift=164
+28	в	_	_	_	_	_	_	_	Shift=174
+29	совершении	_	_	_	_	_	_	_	Shift=176
+30	федерального	_	_	_	_	_	_	_	Shift=187
+31	преступления	_	_	_	_	_	_	_	Shift=200|SpaceAfter=No
+32	.	_	_	_	_	_	_	_	Shift=212
+
+# newpar id = b6977767-ce34-4012-afd0-10b36ccb3b77-p2
+# par_text = В понедельник Джаред Лофнер в наручниках и в сопровождении нескольких охранников доставлен в суд в города Феникс.
+# sent_id = b6977767-ce34-4012-afd0-10b36ccb3b77-p2-s1
+# text = В понедельник Джаред Лофнер в наручниках и в сопровождении нескольких охранников доставлен в суд в города Феникс.
+1	В	_	_	_	_	_	_	_	Shift=214
+2	понедельник	_	_	_	_	_	_	_	Shift=216
+3	Джаред	_	_	_	_	_	_	_	RuCor_chain_id=3110|RuCor_group_id=473613|Shift=228
+4	Лофнер	_	_	_	_	_	_	_	RuCor_chain_id=3110|RuCor_group_id=473613|Shift=235
+5	в	_	_	_	_	_	_	_	Shift=242
+6	наручниках	_	_	_	_	_	_	_	Shift=244
+7	и	_	_	_	_	_	_	_	Shift=255
+8	в	_	_	_	_	_	_	_	Shift=257
+9	сопровождении	_	_	_	_	_	_	_	Shift=259
+10	нескольких	_	_	_	_	_	_	_	Shift=273
+11	охранников	_	_	_	_	_	_	_	Shift=284
+12	доставлен	_	_	_	_	_	_	_	Shift=295
+13	в	_	_	_	_	_	_	_	Shift=305
+14	суд	_	_	_	_	_	_	_	Shift=307
+15	в	_	_	_	_	_	_	_	Shift=311
+16	города	_	_	_	_	_	_	_	Shift=313
+17	Феникс	_	_	_	_	_	_	_	Shift=320|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=326
+
+# newpar id = b6977767-ce34-4012-afd0-10b36ccb3b77-p3
+# par_text = Побритый наголо и одетый в тюремную форму, он сказал, что знает свои права.
+# sent_id = b6977767-ce34-4012-afd0-10b36ccb3b77-p3-s1
+# text = Побритый наголо и одетый в тюремную форму, он сказал, что знает свои права.
+1	Побритый	_	_	_	_	_	_	_	Shift=328
+2	наголо	_	_	_	_	_	_	_	Shift=337
+3	и	_	_	_	_	_	_	_	Shift=344
+4	одетый	_	_	_	_	_	_	_	Shift=346
+5	в	_	_	_	_	_	_	_	Shift=353
+6	тюремную	_	_	_	_	_	_	_	Shift=355
+7	форму	_	_	_	_	_	_	_	Shift=364|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=369
+9	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3110|RuCor_group_id=473614|RuCor_link_id=473613|Shift=371
+10	сказал	_	_	_	_	_	_	_	Shift=374|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=380
+12	что	_	_	_	_	_	_	_	Shift=382
+13	знает	_	_	_	_	_	_	_	Shift=386
+14	свои	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3110|RuCor_group_id=473615|RuCor_link_id=473614|Shift=392
+15	права	_	_	_	_	_	_	_	Shift=397|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=402
+
+# newpar id = b6977767-ce34-4012-afd0-10b36ccb3b77-p4
+# par_text = Лофнер предстал перед судом через два дня после стрельбы в Тусоне.
+# sent_id = b6977767-ce34-4012-afd0-10b36ccb3b77-p4-s1
+# text = Лофнер предстал перед судом через два дня после стрельбы в Тусоне.
+1	Лофнер	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3110|RuCor_group_id=473616|RuCor_link_id=473614|Shift=404
+2	предстал	_	_	_	_	_	_	_	Shift=411
+3	перед	_	_	_	_	_	_	_	Shift=420
+4	судом	_	_	_	_	_	_	_	Shift=426
+5	через	_	_	_	_	_	_	_	Shift=432
+6	два	_	_	_	_	_	_	_	Shift=438
+7	дня	_	_	_	_	_	_	_	Shift=442
+8	после	_	_	_	_	_	_	_	Shift=446
+9	стрельбы	_	_	_	_	_	_	_	Shift=452
+10	в	_	_	_	_	_	_	_	Shift=461
+11	Тусоне	_	_	_	_	_	_	_	Shift=463|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=469
+
+# newpar id = b6977767-ce34-4012-afd0-10b36ccb3b77-p5
+# par_text = Тогда были убиты шесть человек, а член Палаты представителей Конгресса США от штата Аризона Гэбриэль Гиффордс получила ранение и в настоящее время находится в критическом состоянии.
+# sent_id = b6977767-ce34-4012-afd0-10b36ccb3b77-p5-s1
+# text = Тогда были убиты шесть человек, а член Палаты представителей Конгресса США от штата Аризона Гэбриэль Гиффордс получила ранение и в настоящее время находится в критическом состоянии.
+1	Тогда	_	_	_	_	_	_	_	Shift=471
+2	были	_	_	_	_	_	_	_	Shift=477
+3	убиты	_	_	_	_	_	_	_	Shift=482
+4	шесть	_	_	_	_	_	_	_	Shift=488
+5	человек	_	_	_	_	_	_	_	Shift=494|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=501
+7	а	_	_	_	_	_	_	_	Shift=503
+8	член	_	_	_	_	_	_	_	RuCor_chain_id=3108|RuCor_group_id=473617|Shift=505
+9	Палаты	_	_	_	_	_	_	_	RuCor_chain_id=3108|RuCor_group_id=473617|Shift=510
+10	представителей	_	_	_	_	_	_	_	RuCor_chain_id=3108|RuCor_group_id=473617|Shift=517
+11	Конгресса	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3113|RuCor_group_id=473618|RuCor_link_id=473611|Shift=532
+12	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3109|RuCor_group_id=473619|RuCor_link_id=473612|Shift=542
+13	от	_	_	_	_	_	_	_	RuCor_chain_id=3108|RuCor_group_id=473617|Shift=546
+14	штата	_	_	_	_	_	_	_	RuCor_chain_id=3106|RuCor_group_id=473620|Shift=549
+15	Аризона	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3106|RuCor_group_id=473620|RuCor_link_id=473607|Shift=555
+16	Гэбриэль	_	_	_	_	_	_	_	RuCor_chain_id=3108|RuCor_group_id=473617|Shift=563
+17	Гиффордс	_	_	_	_	_	_	_	RuCor_chain_id=3108|RuCor_group_id=473617|Shift=572
+18	получила	_	_	_	_	_	_	_	Shift=581
+19	ранение	_	_	_	_	_	_	_	Shift=590
+20	и	_	_	_	_	_	_	_	Shift=598
+21	в	_	_	_	_	_	_	_	Shift=600
+22	настоящее	_	_	_	_	_	_	_	Shift=602
+23	время	_	_	_	_	_	_	_	Shift=612
+24	находится	_	_	_	_	_	_	_	Shift=618
+25	в	_	_	_	_	_	_	_	Shift=628
+26	критическом	_	_	_	_	_	_	_	Shift=630
+27	состоянии	_	_	_	_	_	_	_	Shift=642|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=651
+
+# newpar id = b6977767-ce34-4012-afd0-10b36ccb3b77-p6
+# par_text = Были ранены еще 13 человек.
+# sent_id = b6977767-ce34-4012-afd0-10b36ccb3b77-p6-s1
+# text = Были ранены еще 13 человек.
+1	Были	_	_	_	_	_	_	_	Shift=653
+2	ранены	_	_	_	_	_	_	_	Shift=658
+3	еще	_	_	_	_	_	_	_	Shift=665
+4	13	_	_	_	_	_	_	_	Shift=669
+5	человек	_	_	_	_	_	_	_	Shift=672|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=679
+
+# newpar id = b6977767-ce34-4012-afd0-10b36ccb3b77-p7
+# par_text = В этот же день президент США Барак Обама заявил, что страна и народ до сих пор скорбят и не могут оправиться от шока, вызванного тем, что произошло в субботу.
+# sent_id = b6977767-ce34-4012-afd0-10b36ccb3b77-p7-s1
+# text = В этот же день президент США Барак Обама заявил, что страна и народ до сих пор скорбят и не могут оправиться от шока, вызванного тем, что произошло в субботу.
+1	В	_	_	_	_	_	_	_	Shift=681
+2	этот	_	_	_	_	_	_	_	Shift=683
+3	же	_	_	_	_	_	_	_	Shift=688
+4	день	_	_	_	_	_	_	_	Shift=691
+5	президент	_	_	_	_	_	_	_	RuCor_chain_id=3111|RuCor_group_id=473621|Shift=696
+6	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3109|RuCor_group_id=473622|RuCor_link_id=473612|Shift=706
+7	Барак	_	_	_	_	_	_	_	RuCor_chain_id=3111|RuCor_group_id=473621|Shift=710
+8	Обама	_	_	_	_	_	_	_	RuCor_chain_id=3111|RuCor_group_id=473621|Shift=716
+9	заявил	_	_	_	_	_	_	_	Shift=722|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=728
+11	что	_	_	_	_	_	_	_	Shift=730
+12	страна	_	_	_	_	_	_	_	Shift=734
+13	и	_	_	_	_	_	_	_	Shift=741
+14	народ	_	_	_	_	_	_	_	Shift=743
+15	до	_	_	_	_	_	_	_	Shift=749
+16	сих	_	_	_	_	_	_	_	Shift=752
+17	пор	_	_	_	_	_	_	_	Shift=756
+18	скорбят	_	_	_	_	_	_	_	Shift=760
+19	и	_	_	_	_	_	_	_	Shift=768
+20	не	_	_	_	_	_	_	_	Shift=770
+21	могут	_	_	_	_	_	_	_	Shift=773
+22	оправиться	_	_	_	_	_	_	_	Shift=779
+23	от	_	_	_	_	_	_	_	Shift=790
+24	шока	_	_	_	_	_	_	_	Shift=793|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=797
+26	вызванного	_	_	_	_	_	_	_	Shift=799
+27	тем	_	_	_	_	_	_	_	Shift=810|SpaceAfter=No
+28	,	_	_	_	_	_	_	_	Shift=813
+29	что	_	_	_	_	_	_	_	Shift=815
+30	произошло	_	_	_	_	_	_	_	Shift=819
+31	в	_	_	_	_	_	_	_	Shift=829
+32	субботу	_	_	_	_	_	_	_	Shift=831|SpaceAfter=No
+33	.	_	_	_	_	_	_	_	Shift=838
+
+# newpar id = b6977767-ce34-4012-afd0-10b36ccb3b77-p8
+# par_text = Обама выступал в Белом доме через несколько часов после того, как по всей стране прошла минута молчания в память о жертвах этого преступления.
+# sent_id = b6977767-ce34-4012-afd0-10b36ccb3b77-p8-s1
+# text = Обама выступал в Белом доме через несколько часов после того, как по всей стране прошла минута молчания в память о жертвах этого преступления.
+1	Обама	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3111|RuCor_group_id=473623|RuCor_link_id=473621|Shift=840
+2	выступал	_	_	_	_	_	_	_	Shift=846
+3	в	_	_	_	_	_	_	_	Shift=855
+4	Белом	_	_	_	_	_	_	_	Shift=857
+5	доме	_	_	_	_	_	_	_	Shift=863
+6	через	_	_	_	_	_	_	_	Shift=868
+7	несколько	_	_	_	_	_	_	_	Shift=874
+8	часов	_	_	_	_	_	_	_	Shift=884
+9	после	_	_	_	_	_	_	_	Shift=890
+10	того	_	_	_	_	_	_	_	Shift=896|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=900
+12	как	_	_	_	_	_	_	_	Shift=902
+13	по	_	_	_	_	_	_	_	Shift=906
+14	всей	_	_	_	_	_	_	_	Shift=909
+15	стране	_	_	_	_	_	_	_	Shift=914
+16	прошла	_	_	_	_	_	_	_	Shift=921
+17	минута	_	_	_	_	_	_	_	Shift=928
+18	молчания	_	_	_	_	_	_	_	Shift=935
+19	в	_	_	_	_	_	_	_	Shift=944
+20	память	_	_	_	_	_	_	_	Shift=946
+21	о	_	_	_	_	_	_	_	Shift=953
+22	жертвах	_	_	_	_	_	_	_	Shift=955
+23	этого	_	_	_	_	_	_	_	Shift=963
+24	преступления	_	_	_	_	_	_	_	Shift=969|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=981
+
+# newpar id = b6977767-ce34-4012-afd0-10b36ccb3b77-p9
+# par_text = Президент и первая леди Мишель Обама задержались в Белом доме, а персонал и посетители собрались на ступенях Капитолия.
+# sent_id = b6977767-ce34-4012-afd0-10b36ccb3b77-p9-s1
+# text = Президент и первая леди Мишель Обама задержались в Белом доме, а персонал и посетители собрались на ступенях Капитолия.
+1	Президент	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3111|RuCor_group_id=473624|RuCor_link_id=473623|Shift=983
+2	и	_	_	_	_	_	_	_	Shift=993
+3	первая	_	_	_	_	_	_	_	Shift=995
+4	леди	_	_	_	_	_	_	_	Shift=1002
+5	Мишель	_	_	_	_	_	_	_	Shift=1007
+6	Обама	_	_	_	_	_	_	_	Shift=1014
+7	задержались	_	_	_	_	_	_	_	Shift=1020
+8	в	_	_	_	_	_	_	_	Shift=1032
+9	Белом	_	_	_	_	_	_	_	Shift=1034
+10	доме	_	_	_	_	_	_	_	Shift=1040|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=1044
+12	а	_	_	_	_	_	_	_	Shift=1046
+13	персонал	_	_	_	_	_	_	_	Shift=1048
+14	и	_	_	_	_	_	_	_	Shift=1057
+15	посетители	_	_	_	_	_	_	_	Shift=1059
+16	собрались	_	_	_	_	_	_	_	Shift=1070
+17	на	_	_	_	_	_	_	_	Shift=1080
+18	ступенях	_	_	_	_	_	_	_	Shift=1083
+19	Капитолия	_	_	_	_	_	_	_	Shift=1092|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=1101
+
+# newpar id = b6977767-ce34-4012-afd0-10b36ccb3b77-p10
+# par_text = Нью-йоркская фондовая биржа и государственные учреждения также почтили память погибших.
+# sent_id = b6977767-ce34-4012-afd0-10b36ccb3b77-p10-s1
+# text = Нью-йоркская фондовая биржа и государственные учреждения также почтили память погибших.
+1	Нью-йоркская	_	_	_	_	_	_	_	Shift=1103
+2	фондовая	_	_	_	_	_	_	_	Shift=1116
+3	биржа	_	_	_	_	_	_	_	Shift=1125
+4	и	_	_	_	_	_	_	_	Shift=1131
+5	государственные	_	_	_	_	_	_	_	Shift=1133
+6	учреждения	_	_	_	_	_	_	_	Shift=1149
+7	также	_	_	_	_	_	_	_	Shift=1160
+8	почтили	_	_	_	_	_	_	_	Shift=1166
+9	память	_	_	_	_	_	_	_	Shift=1174
+10	погибших	_	_	_	_	_	_	_	Shift=1181|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=1189
+
+# newpar id = b6977767-ce34-4012-afd0-10b36ccb3b77-p11
+# par_text = Врачи, прооперировавшие и лечащие 40-летнюю Гиффордс, говорят, что они настроены немного более оптимистично.
+# sent_id = b6977767-ce34-4012-afd0-10b36ccb3b77-p11-s1
+# text = Врачи, прооперировавшие и лечащие 40-летнюю Гиффордс, говорят, что они настроены немного более оптимистично.
+1	Врачи	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3112|RuCor_group_id=473625|RuCor_link_id=0|Shift=1191|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=1196
+3	прооперировавшие	_	_	_	_	_	_	_	Shift=1198
+4	и	_	_	_	_	_	_	_	Shift=1215
+5	лечащие	_	_	_	_	_	_	_	Shift=1217
+6	40-летнюю	_	_	_	_	_	_	_	Shift=1225
+7	Гиффордс	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3108|RuCor_group_id=473626|RuCor_link_id=473617|Shift=1235|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1243
+9	говорят	_	_	_	_	_	_	_	Shift=1245|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=1252
+11	что	_	_	_	_	_	_	_	Shift=1254
+12	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=|RuCor_attrs_type=coref|RuCor_chain_id=3112|RuCor_group_id=473627|RuCor_link_id=473625|Shift=1258
+13	настроены	_	_	_	_	_	_	_	Shift=1262
+14	немного	_	_	_	_	_	_	_	Shift=1272
+15	более	_	_	_	_	_	_	_	Shift=1280
+16	оптимистично	_	_	_	_	_	_	_	Shift=1286|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=1298
+
+# newpar id = b6977767-ce34-4012-afd0-10b36ccb3b77-p12
+# par_text = По сообщениям докторов, она реагирует на простые команды.
+# sent_id = b6977767-ce34-4012-afd0-10b36ccb3b77-p12-s1
+# text = По сообщениям докторов, она реагирует на простые команды.
+1	По	_	_	_	_	_	_	_	Shift=1300
+2	сообщениям	_	_	_	_	_	_	_	Shift=1303
+3	докторов	_	_	_	_	_	_	_	Shift=1314|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1322
+5	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3108|RuCor_group_id=473628|RuCor_link_id=473626|Shift=1324
+6	реагирует	_	_	_	_	_	_	_	Shift=1328
+7	на	_	_	_	_	_	_	_	Shift=1338
+8	простые	_	_	_	_	_	_	_	Shift=1341
+9	команды	_	_	_	_	_	_	_	Shift=1349|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=1356
+
+# newpar id = b6977767-ce34-4012-afd0-10b36ccb3b77-p13
+# par_text = Вместе с тем, они предупреждают, что опасность еще не миновала, хотя состояние их пациентки стабилизировалось.
+# sent_id = b6977767-ce34-4012-afd0-10b36ccb3b77-p13-s1
+# text = Вместе с тем, они предупреждают, что опасность еще не миновала, хотя состояние их пациентки стабилизировалось.
+1	Вместе	_	_	_	_	_	_	_	Shift=1358
+2	с	_	_	_	_	_	_	_	Shift=1365
+3	тем	_	_	_	_	_	_	_	Shift=1367|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1370
+5	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3112|RuCor_group_id=473629|RuCor_link_id=473625|Shift=1372
+6	предупреждают	_	_	_	_	_	_	_	Shift=1376|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=1389
+8	что	_	_	_	_	_	_	_	Shift=1391
+9	опасность	_	_	_	_	_	_	_	Shift=1395
+10	еще	_	_	_	_	_	_	_	Shift=1405
+11	не	_	_	_	_	_	_	_	Shift=1409
+12	миновала	_	_	_	_	_	_	_	Shift=1412|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=1420
+14	хотя	_	_	_	_	_	_	_	Shift=1422
+15	состояние	_	_	_	_	_	_	_	Shift=1427
+16	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3108|RuCor_group_id=473631|RuCor_link_id=473629|Shift=1437
+17	пациентки	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3108|RuCor_group_id=473631|RuCor_link_id=473626|Shift=1440
+18	стабилизировалось	_	_	_	_	_	_	_	Shift=1450|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=1467
+
+# newpar id = b6977767-ce34-4012-afd0-10b36ccb3b77-p14
+# par_text = В субботу во время встречи с избирателями возле одного из супермаркетов Гиффордс получила пулевое ранение в голову.
+# sent_id = b6977767-ce34-4012-afd0-10b36ccb3b77-p14-s1
+# text = В субботу во время встречи с избирателями возле одного из супермаркетов Гиффордс получила пулевое ранение в голову.
+1	В	_	_	_	_	_	_	_	Shift=1469
+2	субботу	_	_	_	_	_	_	_	Shift=1471
+3	во	_	_	_	_	_	_	_	Shift=1479
+4	время	_	_	_	_	_	_	_	Shift=1482
+5	встречи	_	_	_	_	_	_	_	Shift=1488
+6	с	_	_	_	_	_	_	_	Shift=1496
+7	избирателями	_	_	_	_	_	_	_	Shift=1498
+8	возле	_	_	_	_	_	_	_	Shift=1511
+9	одного	_	_	_	_	_	_	_	Shift=1517
+10	из	_	_	_	_	_	_	_	Shift=1524
+11	супермаркетов	_	_	_	_	_	_	_	Shift=1527
+12	Гиффордс	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3108|RuCor_group_id=473632|RuCor_link_id=473631|Shift=1541
+13	получила	_	_	_	_	_	_	_	Shift=1550
+14	пулевое	_	_	_	_	_	_	_	Shift=1559
+15	ранение	_	_	_	_	_	_	_	Shift=1567
+16	в	_	_	_	_	_	_	_	Shift=1575
+17	голову	_	_	_	_	_	_	_	Shift=1577|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=1583
+
+# newpar id = b6977767-ce34-4012-afd0-10b36ccb3b77-p15
+# par_text = Лофнеру предъявлено обвинение, состоящее из нескольких пунктов.
+# sent_id = b6977767-ce34-4012-afd0-10b36ccb3b77-p15-s1
+# text = Лофнеру предъявлено обвинение, состоящее из нескольких пунктов.
+1	Лофнеру	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3110|RuCor_group_id=473633|RuCor_link_id=473616|Shift=1585
+2	предъявлено	_	_	_	_	_	_	_	Shift=1593
+3	обвинение	_	_	_	_	_	_	_	Shift=1605|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1614
+5	состоящее	_	_	_	_	_	_	_	Shift=1616
+6	из	_	_	_	_	_	_	_	Shift=1626
+7	нескольких	_	_	_	_	_	_	_	Shift=1629
+8	пунктов	_	_	_	_	_	_	_	Shift=1640|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=1647
+
+# newpar id = b6977767-ce34-4012-afd0-10b36ccb3b77-p16
+# par_text = Один из них – покушение на политическое убийство члена Конгресса, два пункта – покушение на убийство сотрудника федерального правительства и еще два пункта – покушение на убийство сотрудника федерального учреждения.
+# sent_id = b6977767-ce34-4012-afd0-10b36ccb3b77-p16-s1
+# text = Один из них - покушение на политическое убийство члена Конгресса, два пункта - покушение на убийство сотрудника федерального правительства и еще два пункта - покушение на убийство сотрудника федерального учреждения.
+1	Один	_	_	_	_	_	_	_	Shift=1649
+2	из	_	_	_	_	_	_	_	Shift=1654
+3	них	_	_	_	_	_	_	_	Shift=1657
+4	-	_	_	_	_	_	_	_	_
+5	покушение	_	_	_	_	_	_	_	Shift=1663
+6	на	_	_	_	_	_	_	_	Shift=1673
+7	политическое	_	_	_	_	_	_	_	Shift=1676
+8	убийство	_	_	_	_	_	_	_	Shift=1689
+9	члена	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3108|RuCor_group_id=473634|RuCor_link_id=473610|Shift=1698
+10	Конгресса	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3113|RuCor_group_id=473635|RuCor_link_id=0|Shift=1704|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=1713
+12	два	_	_	_	_	_	_	_	Shift=1715
+13	пункта	_	_	_	_	_	_	_	Shift=1719
+14	-	_	_	_	_	_	_	_	_
+15	покушение	_	_	_	_	_	_	_	Shift=1728
+16	на	_	_	_	_	_	_	_	Shift=1738
+17	убийство	_	_	_	_	_	_	_	Shift=1741
+18	сотрудника	_	_	_	_	_	_	_	Shift=1750
+19	федерального	_	_	_	_	_	_	_	Shift=1761
+20	правительства	_	_	_	_	_	_	_	Shift=1774
+21	и	_	_	_	_	_	_	_	Shift=1788
+22	еще	_	_	_	_	_	_	_	Shift=1790
+23	два	_	_	_	_	_	_	_	Shift=1794
+24	пункта	_	_	_	_	_	_	_	Shift=1798
+25	-	_	_	_	_	_	_	_	_
+26	покушение	_	_	_	_	_	_	_	Shift=1807
+27	на	_	_	_	_	_	_	_	Shift=1817
+28	убийство	_	_	_	_	_	_	_	Shift=1820
+29	сотрудника	_	_	_	_	_	_	_	Shift=1829
+30	федерального	_	_	_	_	_	_	_	Shift=1840
+31	учреждения	_	_	_	_	_	_	_	Shift=1853|SpaceAfter=No
+32	.	_	_	_	_	_	_	_	_
+

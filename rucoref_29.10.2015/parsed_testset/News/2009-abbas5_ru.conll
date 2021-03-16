@@ -1,0 +1,1010 @@
+# newdoc id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6
+# newpar id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p1
+# par_text = КЕМБРИДЖ – Террористическая атака в Мумбаи в прошлом месяце была направлена не только против экономики и чувства безопасности Индии. Она преследовала и более широкую цель, которая заключалась в том, чтобы пошатнуть индо-пакистанское потепление в отношениях, которое продолжалось с 2004 года. Нападавшие не скрывали своих лиц и не взрывали себя с помощью поясов смертников. Они не ставили перед собой цель действовать анонимно, а хотели, чтобы к ним относились, как к защитникам благородного дела. Если этот мотив не будет полностью осознан, а его корни не будут раскрыты во всем регионе, это нападение может оказаться началом уничтожения всей Южной Азии.
+# sent_id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p1-s1
+# text = КЕМБРИДЖ - Террористическая атака в Мумбаи в прошлом месяце была направлена не только против экономики и чувства безопасности Индии.
+1	КЕМБРИДЖ	_	_	_	_	_	_	_	Shift=2
+2	-	_	_	_	_	_	_	_	_
+3	Террористическая	_	_	_	_	_	_	_	RuCor_chain_id=134|RuCor_group_id=413183|Shift=13
+4	атака	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=134|RuCor_group_id=413183|RuCor_link_id=0|Shift=30
+5	в	_	_	_	_	_	_	_	RuCor_chain_id=134|RuCor_group_id=413183|Shift=36
+6	Мумбаи	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=116|RuCor_group_id=413252|RuCor_link_id=0|Shift=38
+7	в	_	_	_	_	_	_	_	RuCor_chain_id=134|RuCor_group_id=413183|Shift=45
+8	прошлом	_	_	_	_	_	_	_	RuCor_chain_id=134|RuCor_group_id=413183|Shift=47
+9	месяце	_	_	_	_	_	_	_	RuCor_chain_id=134|RuCor_group_id=413183|Shift=55
+10	была	_	_	_	_	_	_	_	Shift=62
+11	направлена	_	_	_	_	_	_	_	Shift=67
+12	не	_	_	_	_	_	_	_	Shift=78
+13	только	_	_	_	_	_	_	_	Shift=81
+14	против	_	_	_	_	_	_	_	Shift=88
+15	экономики	_	_	_	_	_	_	_	Shift=95
+16	и	_	_	_	_	_	_	_	Shift=105
+17	чувства	_	_	_	_	_	_	_	Shift=107
+18	безопасности	_	_	_	_	_	_	_	Shift=115
+19	Индии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=127|RuCor_group_id=413202|RuCor_link_id=0|Shift=128|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=133
+
+# sent_id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p1-s2
+# text = Она преследовала и более широкую цель, которая заключалась в том, чтобы пошатнуть индо-пакистанское потепление в отношениях, которое продолжалось с 2004 года.
+1	Она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=134|RuCor_group_id=413184|RuCor_link_id=413183|Shift=135
+2	преследовала	_	_	_	_	_	_	_	Shift=139
+3	и	_	_	_	_	_	_	_	Shift=152
+4	более	_	_	_	_	_	_	_	RuCor_chain_id=133|RuCor_group_id=413185|Shift=154
+5	широкую	_	_	_	_	_	_	_	RuCor_chain_id=133|RuCor_group_id=413185|Shift=160
+6	цель	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=133|RuCor_group_id=413185|RuCor_link_id=0|Shift=168|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=172
+8	которая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=133|RuCor_group_id=413186|RuCor_link_id=413185|Shift=174
+9	заключалась	_	_	_	_	_	_	_	Shift=182
+10	в	_	_	_	_	_	_	_	Shift=194
+11	том	_	_	_	_	_	_	_	Shift=196|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=199
+13	чтобы	_	_	_	_	_	_	_	Shift=201
+14	пошатнуть	_	_	_	_	_	_	_	Shift=207
+15	индо-пакистанское	_	_	_	_	_	_	_	Shift=217
+16	потепление	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=132|RuCor_group_id=413187|RuCor_link_id=0|Shift=235
+17	в	_	_	_	_	_	_	_	RuCor_chain_id=132|RuCor_group_id=413187|Shift=246
+18	отношениях	_	_	_	_	_	_	_	RuCor_chain_id=132|RuCor_group_id=413187|Shift=248|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=258
+20	которое	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=132|RuCor_group_id=413188|RuCor_link_id=413187|Shift=260
+21	продолжалось	_	_	_	_	_	_	_	Shift=268
+22	с	_	_	_	_	_	_	_	Shift=281
+23	2004	_	_	_	_	_	_	_	Shift=283
+24	года	_	_	_	_	_	_	_	Shift=288|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=292
+
+# sent_id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p1-s3
+# text = Нападавшие не скрывали своих лиц и не взрывали себя с помощью поясов смертников.
+1	Нападавшие	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=131|RuCor_group_id=413189|RuCor_link_id=0|Shift=294
+2	не	_	_	_	_	_	_	_	Shift=305
+3	скрывали	_	_	_	_	_	_	_	Shift=308
+4	своих	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=131|RuCor_group_id=413190|RuCor_link_id=413189|Shift=317
+5	лиц	_	_	_	_	_	_	_	Shift=323
+6	и	_	_	_	_	_	_	_	Shift=327
+7	не	_	_	_	_	_	_	_	Shift=329
+8	взрывали	_	_	_	_	_	_	_	Shift=332
+9	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=131|RuCor_group_id=413191|RuCor_link_id=413190|Shift=341
+10	с	_	_	_	_	_	_	_	Shift=346
+11	помощью	_	_	_	_	_	_	_	Shift=348
+12	поясов	_	_	_	_	_	_	_	Shift=356
+13	смертников	_	_	_	_	_	_	_	Shift=363|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=373
+
+# sent_id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p1-s4
+# text = Они не ставили перед собой цель действовать анонимно, а хотели, чтобы к ним относились, как к защитникам благородного дела.
+1	Они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=131|RuCor_group_id=413192|RuCor_link_id=413191|Shift=375
+2	не	_	_	_	_	_	_	_	Shift=379
+3	ставили	_	_	_	_	_	_	_	Shift=382
+4	перед	_	_	_	_	_	_	_	Shift=390
+5	собой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=131|RuCor_group_id=413193|RuCor_link_id=413192|Shift=396
+6	цель	_	_	_	_	_	_	_	Shift=402
+7	действовать	_	_	_	_	_	_	_	Shift=407
+8	анонимно	_	_	_	_	_	_	_	Shift=419|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=427
+10	а	_	_	_	_	_	_	_	Shift=429
+11	хотели	_	_	_	_	_	_	_	Shift=431|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=437
+13	чтобы	_	_	_	_	_	_	_	Shift=439
+14	к	_	_	_	_	_	_	_	Shift=445
+15	ним	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=131|RuCor_group_id=413194|RuCor_link_id=413193|Shift=447
+16	относились	_	_	_	_	_	_	_	Shift=451|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=461
+18	как	_	_	_	_	_	_	_	Shift=463
+19	к	_	_	_	_	_	_	_	Shift=467
+20	защитникам	_	_	_	_	_	_	_	Shift=469
+21	благородного	_	_	_	_	_	_	_	Shift=480
+22	дела	_	_	_	_	_	_	_	Shift=493|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=497
+
+# sent_id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p1-s5
+# text = Если этот мотив не будет полностью осознан, а его корни не будут раскрыты во всем регионе, это нападение может оказаться началом уничтожения всей Южной Азии.
+1	Если	_	_	_	_	_	_	_	Shift=499
+2	этот	_	_	_	_	_	_	_	RuCor_chain_id=130|RuCor_group_id=413196|Shift=504
+3	мотив	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=130|RuCor_group_id=413196|RuCor_link_id=0|Shift=509
+4	не	_	_	_	_	_	_	_	Shift=515
+5	будет	_	_	_	_	_	_	_	Shift=518
+6	полностью	_	_	_	_	_	_	_	Shift=524
+7	осознан	_	_	_	_	_	_	_	Shift=534|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=541
+9	а	_	_	_	_	_	_	_	Shift=543
+10	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=130|RuCor_group_id=413195|RuCor_link_id=413196|Shift=545
+11	корни	_	_	_	_	_	_	_	Shift=549
+12	не	_	_	_	_	_	_	_	Shift=555
+13	будут	_	_	_	_	_	_	_	Shift=558
+14	раскрыты	_	_	_	_	_	_	_	Shift=564
+15	во	_	_	_	_	_	_	_	Shift=573
+16	всем	_	_	_	_	_	_	_	Shift=576
+17	регионе	_	_	_	_	_	_	_	Shift=581|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=588
+19	это	_	_	_	_	_	_	_	RuCor_chain_id=134|RuCor_group_id=413311|Shift=590
+20	нападение	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=134|RuCor_group_id=413311|RuCor_link_id=413184|Shift=594
+21	может	_	_	_	_	_	_	_	Shift=604
+22	оказаться	_	_	_	_	_	_	_	Shift=610
+23	началом	_	_	_	_	_	_	_	Shift=620
+24	уничтожения	_	_	_	_	_	_	_	Shift=628
+25	всей	_	_	_	_	_	_	_	RuCor_chain_id=128|RuCor_group_id=413199|Shift=640
+26	Южной	_	_	_	_	_	_	_	RuCor_chain_id=128|RuCor_group_id=413199|Shift=645
+27	Азии	_	_	_	_	_	_	_	RuCor_chain_id=128|RuCor_group_id=413199|Shift=651|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=655
+
+# newpar id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p2
+# par_text = Региональный конфликт, в котором участвуют все государства региона и все больше негосударственных участников, привел к появлению большого количества обученных бойцов, которые ждут призыва к славе. Внутри Индии и Пакистана экономические различия и чувство социальной несправедливости создали плодородную почву для конфликта. Использование религиозного пыла и злоупотребление им, будь это «джихад» или «индусский фундаментализм», подрывает основу общей гармонии во всей Южной Азии.
+# sent_id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p2-s1
+# text = Региональный конфликт, в котором участвуют все государства региона и все больше негосударственных участников, привел к появлению большого количества обученных бойцов, которые ждут призыва к славе.
+1	Региональный	_	_	_	_	_	_	_	RuCor_chain_id=129|RuCor_group_id=413197|Shift=658
+2	конфликт	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=129|RuCor_group_id=413197|RuCor_link_id=0|Shift=671|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=679
+4	в	_	_	_	_	_	_	_	Shift=681
+5	котором	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=129|RuCor_group_id=413198|RuCor_link_id=413197|Shift=683
+6	участвуют	_	_	_	_	_	_	_	Shift=691
+7	все	_	_	_	_	_	_	_	Shift=701
+8	государства	_	_	_	_	_	_	_	Shift=705
+9	региона	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=128|RuCor_group_id=413200|RuCor_link_id=413199|Shift=717
+10	и	_	_	_	_	_	_	_	Shift=725
+11	все	_	_	_	_	_	_	_	Shift=727
+12	больше	_	_	_	_	_	_	_	Shift=731
+13	негосударственных	_	_	_	_	_	_	_	Shift=738
+14	участников	_	_	_	_	_	_	_	Shift=756|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=766
+16	привел	_	_	_	_	_	_	_	Shift=768
+17	к	_	_	_	_	_	_	_	Shift=775
+18	появлению	_	_	_	_	_	_	_	Shift=777
+19	большого	_	_	_	_	_	_	_	RuCor_chain_id=107|RuCor_group_id=413312|Shift=787
+20	количества	_	_	_	_	_	_	_	RuCor_chain_id=107|RuCor_group_id=413312|Shift=796
+21	обученных	_	_	_	_	_	_	_	RuCor_chain_id=107|RuCor_group_id=413312|Shift=807
+22	бойцов	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=107|RuCor_group_id=413312|RuCor_link_id=0|Shift=817|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=823
+24	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=107|RuCor_group_id=413201|RuCor_link_id=413312|Shift=825
+25	ждут	_	_	_	_	_	_	_	Shift=833
+26	призыва	_	_	_	_	_	_	_	Shift=838
+27	к	_	_	_	_	_	_	_	Shift=846
+28	славе	_	_	_	_	_	_	_	Shift=848|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	Shift=853
+
+# sent_id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p2-s2
+# text = Внутри Индии и Пакистана экономические различия и чувство социальной несправедливости создали плодородную почву для конфликта.
+1	Внутри	_	_	_	_	_	_	_	Shift=855
+2	Индии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=127|RuCor_group_id=413203|RuCor_link_id=413202|Shift=862
+3	и	_	_	_	_	_	_	_	Shift=868
+4	Пакистана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=124|RuCor_group_id=413212|RuCor_link_id=0|Shift=870
+5	экономические	_	_	_	_	_	_	_	Shift=880
+6	различия	_	_	_	_	_	_	_	Shift=894
+7	и	_	_	_	_	_	_	_	Shift=903
+8	чувство	_	_	_	_	_	_	_	Shift=905
+9	социальной	_	_	_	_	_	_	_	Shift=913
+10	несправедливости	_	_	_	_	_	_	_	Shift=924
+11	создали	_	_	_	_	_	_	_	Shift=941
+12	плодородную	_	_	_	_	_	_	_	Shift=949
+13	почву	_	_	_	_	_	_	_	Shift=961
+14	для	_	_	_	_	_	_	_	Shift=967
+15	конфликта	_	_	_	_	_	_	_	Shift=971|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=980
+
+# sent_id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p2-s3
+# text = Использование религиозного пыла и злоупотребление им, будь это ``джихад'' или ``индусский фундаментализм'', подрывает основу общей гармонии во всей Южной Азии.
+1	Использование	_	_	_	_	_	_	_	Shift=982
+2	религиозного	_	_	_	_	_	_	_	RuCor_chain_id=126|RuCor_group_id=413204|Shift=996
+3	пыла	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=126|RuCor_group_id=413204|RuCor_link_id=0|Shift=1009
+4	и	_	_	_	_	_	_	_	Shift=1014
+5	злоупотребление	_	_	_	_	_	_	_	Shift=1016
+6	им	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=126|RuCor_group_id=413205|RuCor_link_id=413204|Shift=1032|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=1034
+8	будь	_	_	_	_	_	_	_	Shift=1036
+9	это	_	_	_	_	_	_	_	Shift=1041
+10	``	_	_	_	_	_	_	_	Shift=1045|SpaceAfter=No
+11	джихад	_	_	_	_	_	_	_	Shift=1046|SpaceAfter=No
+12	''	_	_	_	_	_	_	_	Shift=1052
+13	или	_	_	_	_	_	_	_	Shift=1054
+14	``	_	_	_	_	_	_	_	Shift=1058|SpaceAfter=No
+15	индусский	_	_	_	_	_	_	_	Shift=1059
+16	фундаментализм	_	_	_	_	_	_	_	Shift=1069|SpaceAfter=No
+17	''	_	_	_	_	_	_	_	Shift=1083|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=1084
+19	подрывает	_	_	_	_	_	_	_	Shift=1086
+20	основу	_	_	_	_	_	_	_	Shift=1096
+21	общей	_	_	_	_	_	_	_	Shift=1103
+22	гармонии	_	_	_	_	_	_	_	Shift=1109
+23	во	_	_	_	_	_	_	_	Shift=1118
+24	всей	_	_	_	_	_	_	_	RuCor_chain_id=128|RuCor_group_id=413206|Shift=1121
+25	Южной	_	_	_	_	_	_	_	RuCor_chain_id=128|RuCor_group_id=413206|Shift=1126
+26	Азии	_	_	_	_	_	_	_	RuCor_chain_id=128|RuCor_group_id=413206|Shift=1132|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=1136
+
+# newpar id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p3
+# par_text = Самое сильное проявление сегодняшних проблем можно проследить в Афганистане, трагедия которого никогда не ограничивалась рамками обозначенных границ страны. Динамика региона изменилась, когда афганские борцы за свободу 1980-х годов преступным способом были преобразованы в «моджахедов»; в этом вместе участвовали как Запад, так и мусульманский мир. Пакистан, который всегда чувствовал угрозу со стороны Индии, оказался в центре этого преобразования. Запад полагал, что после падения советской империи регион будет развиваться дальше, однако он – а теперь все больше и мировое сообщество - продолжает платить огромную цену за этот нечестивый проект.
+# sent_id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p3-s1
+# text = Самое сильное проявление сегодняшних проблем можно проследить в Афганистане, трагедия которого никогда не ограничивалась рамками обозначенных границ страны.
+1	Самое	_	_	_	_	_	_	_	Shift=1138
+2	сильное	_	_	_	_	_	_	_	Shift=1144
+3	проявление	_	_	_	_	_	_	_	Shift=1152
+4	сегодняшних	_	_	_	_	_	_	_	Shift=1163
+5	проблем	_	_	_	_	_	_	_	Shift=1175
+6	можно	_	_	_	_	_	_	_	Shift=1183
+7	проследить	_	_	_	_	_	_	_	Shift=1189
+8	в	_	_	_	_	_	_	_	Shift=1200
+9	Афганистане	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=125|RuCor_group_id=413207|RuCor_link_id=0|Shift=1202|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=1213
+11	трагедия	_	_	_	_	_	_	_	Shift=1215
+12	которого	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=125|RuCor_group_id=413208|RuCor_link_id=413207|Shift=1224
+13	никогда	_	_	_	_	_	_	_	Shift=1233
+14	не	_	_	_	_	_	_	_	Shift=1241
+15	ограничивалась	_	_	_	_	_	_	_	Shift=1244
+16	рамками	_	_	_	_	_	_	_	Shift=1259
+17	обозначенных	_	_	_	_	_	_	_	Shift=1267
+18	границ	_	_	_	_	_	_	_	Shift=1280
+19	страны	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=125|RuCor_group_id=413209|RuCor_link_id=413208|Shift=1287|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=1293
+
+# sent_id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p3-s2
+# text = Динамика региона изменилась, когда афганские борцы за свободу 1980-х годов преступным способом были преобразованы в ``моджахедов''.
+1	Динамика	_	_	_	_	_	_	_	Shift=1295
+2	региона	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=128|RuCor_group_id=413210|RuCor_link_id=413206|Shift=1304
+3	изменилась	_	_	_	_	_	_	_	Shift=1312|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1322
+5	когда	_	_	_	_	_	_	_	Shift=1324
+6	афганские	_	_	_	_	_	_	_	Shift=1330
+7	борцы	_	_	_	_	_	_	_	Shift=1340
+8	за	_	_	_	_	_	_	_	Shift=1346
+9	свободу	_	_	_	_	_	_	_	Shift=1349
+10	1980-х	_	_	_	_	_	_	_	Shift=1357
+11	годов	_	_	_	_	_	_	_	Shift=1364
+12	преступным	_	_	_	_	_	_	_	Shift=1370
+13	способом	_	_	_	_	_	_	_	Shift=1381
+14	были	_	_	_	_	_	_	_	Shift=1390
+15	преобразованы	_	_	_	_	_	_	_	Shift=1395
+16	в	_	_	_	_	_	_	_	Shift=1409
+17	``	_	_	_	_	_	_	_	Shift=1411|SpaceAfter=No
+18	моджахедов	_	_	_	_	_	_	_	Shift=1412|SpaceAfter=No
+19	''	_	_	_	_	_	_	_	Shift=1422|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=1423
+
+# sent_id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p3-s3
+# text = в этом вместе участвовали как Запад, так и мусульманский мир. Пакистан, который всегда чувствовал угрозу со стороны Индии, оказался в центре этого преобразования.
+1	в	_	_	_	_	_	_	_	Shift=1425
+2	этом	_	_	_	_	_	_	_	Shift=1427
+3	вместе	_	_	_	_	_	_	_	Shift=1432
+4	участвовали	_	_	_	_	_	_	_	Shift=1439
+5	как	_	_	_	_	_	_	_	Shift=1451
+6	Запад	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=123|RuCor_group_id=413215|RuCor_link_id=0|Shift=1455|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=1460
+8	так	_	_	_	_	_	_	_	Shift=1462
+9	и	_	_	_	_	_	_	_	Shift=1466
+10	мусульманский	_	_	_	_	_	_	_	Shift=1468
+11	мир.	_	_	_	_	_	_	_	Shift=1482
+12	Пакистан	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=124|RuCor_group_id=413211|RuCor_link_id=413212|Shift=1487|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=1495
+14	который	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=124|RuCor_group_id=413213|RuCor_link_id=413211|Shift=1497
+15	всегда	_	_	_	_	_	_	_	Shift=1505
+16	чувствовал	_	_	_	_	_	_	_	Shift=1512
+17	угрозу	_	_	_	_	_	_	_	Shift=1523
+18	со	_	_	_	_	_	_	_	Shift=1530
+19	стороны	_	_	_	_	_	_	_	Shift=1533
+20	Индии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=127|RuCor_group_id=413214|RuCor_link_id=413203|Shift=1541|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=1546
+22	оказался	_	_	_	_	_	_	_	Shift=1548
+23	в	_	_	_	_	_	_	_	Shift=1557
+24	центре	_	_	_	_	_	_	_	Shift=1559
+25	этого	_	_	_	_	_	_	_	Shift=1566
+26	преобразования	_	_	_	_	_	_	_	Shift=1572|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=1586
+
+# sent_id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p3-s4
+# text = Запад полагал, что после падения советской империи регион будет развиваться дальше, однако он - а теперь все больше и мировое сообщество - продолжает платить огромную цену за этот нечестивый проект.
+1	Запад	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=123|RuCor_group_id=413216|RuCor_link_id=413215|Shift=1588
+2	полагал	_	_	_	_	_	_	_	Shift=1594|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1601
+4	что	_	_	_	_	_	_	_	Shift=1603
+5	после	_	_	_	_	_	_	_	Shift=1607
+6	падения	_	_	_	_	_	_	_	Shift=1613
+7	советской	_	_	_	_	_	_	_	Shift=1621
+8	империи	_	_	_	_	_	_	_	Shift=1631
+9	регион	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=128|RuCor_group_id=413217|RuCor_link_id=413210|Shift=1639
+10	будет	_	_	_	_	_	_	_	Shift=1646
+11	развиваться	_	_	_	_	_	_	_	Shift=1652
+12	дальше	_	_	_	_	_	_	_	Shift=1664|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=1670
+14	однако	_	_	_	_	_	_	_	Shift=1672
+15	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=128|RuCor_group_id=413218|RuCor_link_id=413217|Shift=1679
+16	-	_	_	_	_	_	_	_	_
+17	а	_	_	_	_	_	_	_	Shift=1684
+18	теперь	_	_	_	_	_	_	_	Shift=1686
+19	все	_	_	_	_	_	_	_	Shift=1693
+20	больше	_	_	_	_	_	_	_	Shift=1697
+21	и	_	_	_	_	_	_	_	Shift=1704
+22	мировое	_	_	_	_	_	_	_	Shift=1706
+23	сообщество	_	_	_	_	_	_	_	Shift=1714
+24	-	_	_	_	_	_	_	_	Shift=1725
+25	продолжает	_	_	_	_	_	_	_	Shift=1727
+26	платить	_	_	_	_	_	_	_	Shift=1738
+27	огромную	_	_	_	_	_	_	_	Shift=1746
+28	цену	_	_	_	_	_	_	_	Shift=1755
+29	за	_	_	_	_	_	_	_	Shift=1760
+30	этот	_	_	_	_	_	_	_	Shift=1763
+31	нечестивый	_	_	_	_	_	_	_	Shift=1768
+32	проект	_	_	_	_	_	_	_	Shift=1779|SpaceAfter=No
+33	.	_	_	_	_	_	_	_	Shift=1785
+
+# newpar id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p4
+# par_text = Все беды двух десятилетий Южной Азии можно приписать афганским годам джихада: расцвет Талибана, доминирование спонсируемых пакистанцами религиозных фанатиков в рамках движения за свободу Кашмира и последующее распространение сектантского конфликта на территории Пакистана. В Афганистане вооруженные силы и спецслужбы Пакистана стремились найти «стратегическую глубину» против Индии. Более того, они хотели отомстить Индии за ее поддержку восстания в 1960-х и 1970-х годах, которое привело к независимости Бангладеша от Пакистана.
+# sent_id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p4-s1
+# text = Все беды двух десятилетий Южной Азии можно приписать афганским годам джихада: расцвет Талибана, доминирование спонсируемых пакистанцами религиозных фанатиков в рамках движения за свободу Кашмира и последующее распространение сектантского конфликта на территории Пакистана.
+1	Все	_	_	_	_	_	_	_	Shift=1787
+2	беды	_	_	_	_	_	_	_	Shift=1791
+3	двух	_	_	_	_	_	_	_	Shift=1796
+4	десятилетий	_	_	_	_	_	_	_	Shift=1801
+5	Южной	_	_	_	_	_	_	_	RuCor_chain_id=128|RuCor_group_id=413219|Shift=1813
+6	Азии	_	_	_	_	_	_	_	RuCor_chain_id=128|RuCor_group_id=413219|Shift=1819
+7	можно	_	_	_	_	_	_	_	Shift=1824
+8	приписать	_	_	_	_	_	_	_	Shift=1830
+9	афганским	_	_	_	_	_	_	_	Shift=1840
+10	годам	_	_	_	_	_	_	_	Shift=1850
+11	джихада	_	_	_	_	_	_	_	Shift=1856|SpaceAfter=No
+12	:	_	_	_	_	_	_	_	Shift=1863
+13	расцвет	_	_	_	_	_	_	_	Shift=1865
+14	Талибана	_	_	_	_	_	_	_	Shift=1873|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=1881
+16	доминирование	_	_	_	_	_	_	_	Shift=1883
+17	спонсируемых	_	_	_	_	_	_	_	Shift=1897
+18	пакистанцами	_	_	_	_	_	_	_	Shift=1910
+19	религиозных	_	_	_	_	_	_	_	Shift=1923
+20	фанатиков	_	_	_	_	_	_	_	Shift=1935
+21	в	_	_	_	_	_	_	_	Shift=1945
+22	рамках	_	_	_	_	_	_	_	Shift=1947
+23	движения	_	_	_	_	_	_	_	Shift=1954
+24	за	_	_	_	_	_	_	_	Shift=1963
+25	свободу	_	_	_	_	_	_	_	Shift=1966
+26	Кашмира	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=120|RuCor_group_id=413233|RuCor_link_id=0|Shift=1974
+27	и	_	_	_	_	_	_	_	Shift=1982
+28	последующее	_	_	_	_	_	_	_	Shift=1984
+29	распространение	_	_	_	_	_	_	_	Shift=1996
+30	сектантского	_	_	_	_	_	_	_	Shift=2012
+31	конфликта	_	_	_	_	_	_	_	Shift=2025
+32	на	_	_	_	_	_	_	_	Shift=2035
+33	территории	_	_	_	_	_	_	_	Shift=2038
+34	Пакистана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=124|RuCor_group_id=413220|RuCor_link_id=413213|Shift=2049|SpaceAfter=No
+35	.	_	_	_	_	_	_	_	Shift=2058
+
+# sent_id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p4-s2
+# text = В Афганистане вооруженные силы и спецслужбы Пакистана стремились найти ``стратегическую глубину'' против Индии.
+1	В	_	_	_	_	_	_	_	Shift=2060
+2	Афганистане	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=125|RuCor_group_id=413221|RuCor_link_id=413209|Shift=2062
+3	вооруженные	_	_	_	_	_	_	_	RuCor_chain_id=122|RuCor_group_id=413224|Shift=2074
+4	силы	_	_	_	_	_	_	_	RuCor_chain_id=122|RuCor_group_id=413224|Shift=2086
+5	и	_	_	_	_	_	_	_	RuCor_chain_id=122|RuCor_group_id=413224|Shift=2091
+6	спецслужбы	_	_	_	_	_	_	_	RuCor_chain_id=122|RuCor_group_id=413224|Shift=2093
+7	Пакистана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=124|RuCor_group_id=413222|RuCor_link_id=413220|Shift=2104
+8	стремились	_	_	_	_	_	_	_	Shift=2114
+9	найти	_	_	_	_	_	_	_	Shift=2125
+10	``	_	_	_	_	_	_	_	Shift=2131|SpaceAfter=No
+11	стратегическую	_	_	_	_	_	_	_	Shift=2132
+12	глубину	_	_	_	_	_	_	_	Shift=2147|SpaceAfter=No
+13	''	_	_	_	_	_	_	_	Shift=2154
+14	против	_	_	_	_	_	_	_	Shift=2156
+15	Индии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=127|RuCor_group_id=413223|RuCor_link_id=413214|Shift=2163|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=2168
+
+# sent_id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p4-s3
+# text = Более того, они хотели отомстить Индии за ее поддержку восстания в 1960-х и 1970-х годах, которое привело к независимости Бангладеша от Пакистана.
+1	Более	_	_	_	_	_	_	_	Shift=2170
+2	того	_	_	_	_	_	_	_	Shift=2176|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=2180
+4	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=122|RuCor_group_id=413225|RuCor_link_id=413224|Shift=2182
+5	хотели	_	_	_	_	_	_	_	Shift=2186
+6	отомстить	_	_	_	_	_	_	_	Shift=2193
+7	Индии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=127|RuCor_group_id=413226|RuCor_link_id=413223|Shift=2203
+8	за	_	_	_	_	_	_	_	Shift=2209
+9	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=127|RuCor_group_id=413227|RuCor_link_id=413226|Shift=2212
+10	поддержку	_	_	_	_	_	_	_	Shift=2215
+11	восстания	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=121|RuCor_group_id=413228|RuCor_link_id=0|Shift=2225
+12	в	_	_	_	_	_	_	_	RuCor_chain_id=121|RuCor_group_id=413228|Shift=2235
+13	1960-х	_	_	_	_	_	_	_	Shift=2237
+14	и	_	_	_	_	_	_	_	RuCor_chain_id=121|RuCor_group_id=413228|Shift=2244
+15	1970-х	_	_	_	_	_	_	_	Shift=2246
+16	годах	_	_	_	_	_	_	_	RuCor_chain_id=121|RuCor_group_id=413228|Shift=2253|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=2258
+18	которое	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=121|RuCor_group_id=413229|RuCor_link_id=413228|Shift=2260
+19	привело	_	_	_	_	_	_	_	Shift=2268
+20	к	_	_	_	_	_	_	_	Shift=2276
+21	независимости	_	_	_	_	_	_	_	Shift=2278
+22	Бангладеша	_	_	_	_	_	_	_	Shift=2292
+23	от	_	_	_	_	_	_	_	Shift=2303
+24	Пакистана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=124|RuCor_group_id=413230|RuCor_link_id=413222|Shift=2306|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=2315
+
+# newpar id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p5
+# par_text = В этом вопросе Индия не является безупречной. Она преследовала двойную стратегию, приводя доводы в пользу того, что в Кашмире все было хорошо (явная ложь), и поддерживая этническую конфронтацию в Пакистане. Жестокие войны спецслужб между Службой разведки Пакистана (ISI) и Отделом исследований и анализа Индии (RAW) стали суровой действительностью в Южной Азии.
+# sent_id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p5-s1
+# text = В этом вопросе Индия не является безупречной.
+1	В	_	_	_	_	_	_	_	Shift=2317
+2	этом	_	_	_	_	_	_	_	Shift=2319
+3	вопросе	_	_	_	_	_	_	_	Shift=2324
+4	Индия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=127|RuCor_group_id=413231|RuCor_link_id=413227|Shift=2332
+5	не	_	_	_	_	_	_	_	Shift=2338
+6	является	_	_	_	_	_	_	_	Shift=2341
+7	безупречной	_	_	_	_	_	_	_	Shift=2350|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=2361
+
+# sent_id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p5-s2
+# text = Она преследовала двойную стратегию, приводя доводы в пользу того, что в Кашмире все было хорошо (явная ложь), и поддерживая этническую конфронтацию в Пакистане.
+1	Она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=127|RuCor_group_id=413232|RuCor_link_id=413231|Shift=2363
+2	преследовала	_	_	_	_	_	_	_	Shift=2367
+3	двойную	_	_	_	_	_	_	_	Shift=2380
+4	стратегию	_	_	_	_	_	_	_	Shift=2388|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=2397
+6	приводя	_	_	_	_	_	_	_	Shift=2399
+7	доводы	_	_	_	_	_	_	_	Shift=2407
+8	в	_	_	_	_	_	_	_	Shift=2414
+9	пользу	_	_	_	_	_	_	_	Shift=2416
+10	того	_	_	_	_	_	_	_	Shift=2423|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=2427
+12	что	_	_	_	_	_	_	_	Shift=2429
+13	в	_	_	_	_	_	_	_	Shift=2433
+14	Кашмире	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=120|RuCor_group_id=413234|RuCor_link_id=413233|Shift=2435
+15	все	_	_	_	_	_	_	_	Shift=2443
+16	было	_	_	_	_	_	_	_	Shift=2447
+17	хорошо	_	_	_	_	_	_	_	Shift=2452
+18	(	_	_	_	_	_	_	_	Shift=2459|SpaceAfter=No
+19	явная	_	_	_	_	_	_	_	Shift=2460
+20	ложь	_	_	_	_	_	_	_	Shift=2466|SpaceAfter=No
+21	)	_	_	_	_	_	_	_	Shift=2470|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=2471
+23	и	_	_	_	_	_	_	_	Shift=2473
+24	поддерживая	_	_	_	_	_	_	_	Shift=2475
+25	этническую	_	_	_	_	_	_	_	Shift=2487
+26	конфронтацию	_	_	_	_	_	_	_	Shift=2498
+27	в	_	_	_	_	_	_	_	Shift=2511
+28	Пакистане	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=124|RuCor_group_id=413235|RuCor_link_id=413230|Shift=2513|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	Shift=2522
+
+# sent_id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p5-s3
+# text = Жестокие войны спецслужб между Службой разведки Пакистана (ISI) и Отделом исследований и анализа Индии (RAW) стали суровой действительностью в Южной Азии.
+1	Жестокие	_	_	_	_	_	_	_	Shift=2524
+2	войны	_	_	_	_	_	_	_	Shift=2533
+3	спецслужб	_	_	_	_	_	_	_	Shift=2539
+4	между	_	_	_	_	_	_	_	Shift=2549
+5	Службой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=119|RuCor_group_id=413238|RuCor_link_id=0|Shift=2555
+6	разведки	_	_	_	_	_	_	_	RuCor_chain_id=119|RuCor_group_id=413238|Shift=2563
+7	Пакистана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=124|RuCor_group_id=413236|RuCor_link_id=413235|Shift=2572
+8	(	_	_	_	_	_	_	_	Shift=2582|SpaceAfter=No
+9	ISI	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=appo|RuCor_attrs_type=coref|RuCor_chain_id=119|RuCor_group_id=413239|RuCor_link_id=413238|Shift=2583|SpaceAfter=No
+10	)	_	_	_	_	_	_	_	Shift=2586
+11	и	_	_	_	_	_	_	_	Shift=2588
+12	Отделом	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=118|RuCor_group_id=413240|RuCor_link_id=0|Shift=2590
+13	исследований	_	_	_	_	_	_	_	RuCor_chain_id=118|RuCor_group_id=413240|Shift=2598
+14	и	_	_	_	_	_	_	_	RuCor_chain_id=118|RuCor_group_id=413240|Shift=2611
+15	анализа	_	_	_	_	_	_	_	RuCor_chain_id=118|RuCor_group_id=413240|Shift=2613
+16	Индии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=127|RuCor_group_id=413241|RuCor_link_id=413232|Shift=2621
+17	(	_	_	_	_	_	_	_	Shift=2627|SpaceAfter=No
+18	RAW	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=appo|RuCor_attrs_type=coref|RuCor_chain_id=118|RuCor_group_id=413242|RuCor_link_id=413240|Shift=2628|SpaceAfter=No
+19	)	_	_	_	_	_	_	_	Shift=2631
+20	стали	_	_	_	_	_	_	_	Shift=2633
+21	суровой	_	_	_	_	_	_	_	Shift=2639
+22	действительностью	_	_	_	_	_	_	_	Shift=2647
+23	в	_	_	_	_	_	_	_	Shift=2665
+24	Южной	_	_	_	_	_	_	_	RuCor_chain_id=128|RuCor_group_id=413237|Shift=2667
+25	Азии	_	_	_	_	_	_	_	RuCor_chain_id=128|RuCor_group_id=413237|Shift=2673|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=2677
+
+# newpar id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p6
+# par_text = Лашкар-и-Тайба (LET, Армия за чистоту), воинственная группировка в Пакистане, которая поддерживает мятеж в индийской части провинции Кашмир, была продуктом этих лет. Согласно индийским экспертам, эта группировка замешана в нападениях на Мумбаи. Запрет Пакистана на ее офисы по всей стране по существу подтверждает это заключение, хотя Пакистан публично требует больше доказательств.
+# sent_id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p6-s1
+# text = Лашкар-и - Тайба (LET, Армия за чистоту), воинственная группировка в Пакистане, которая поддерживает мятеж в индийской части провинции Кашмир, была продуктом этих лет.
+1	Лашкар-и	_	_	_	_	_	_	_	Shift=2679
+2	-	_	_	_	_	_	_	_	RuCor_chain_id=117|RuCor_group_id=413243|Shift=2685
+3	Тайба	_	_	_	_	_	_	_	RuCor_chain_id=117|RuCor_group_id=413243|Shift=2688
+4	(	_	_	_	_	_	_	_	Shift=2694|SpaceAfter=No
+5	LET	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=117|RuCor_group_id=413244|RuCor_link_id=413243|Shift=2695|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=2698
+7	Армия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=117|RuCor_group_id=413245|RuCor_link_id=413244|Shift=2700
+8	за	_	_	_	_	_	_	_	RuCor_chain_id=117|RuCor_group_id=413245|Shift=2706
+9	чистоту	_	_	_	_	_	_	_	RuCor_chain_id=117|RuCor_group_id=413245|Shift=2709|SpaceAfter=No
+10	)	_	_	_	_	_	_	_	Shift=2716|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=2717
+12	воинственная	_	_	_	_	_	_	_	RuCor_chain_id=117|RuCor_group_id=413246|Shift=2719
+13	группировка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=appo|RuCor_attrs_type=coref|RuCor_chain_id=117|RuCor_group_id=413246|RuCor_link_id=413245|Shift=2732
+14	в	_	_	_	_	_	_	_	RuCor_chain_id=117|RuCor_group_id=413246|Shift=2744
+15	Пакистане	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=124|RuCor_group_id=413247|RuCor_link_id=413236|Shift=2746|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=2755
+17	которая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=117|RuCor_group_id=413248|RuCor_link_id=413246|Shift=2757
+18	поддерживает	_	_	_	_	_	_	_	Shift=2765
+19	мятеж	_	_	_	_	_	_	_	Shift=2778
+20	в	_	_	_	_	_	_	_	Shift=2784
+21	индийской	_	_	_	_	_	_	_	Shift=2786
+22	части	_	_	_	_	_	_	_	Shift=2796
+23	провинции	_	_	_	_	_	_	_	RuCor_chain_id=120|RuCor_group_id=413249|Shift=2802
+24	Кашмир	_	_	_	_	_	_	_	RuCor_chain_id=120|RuCor_group_id=413249|Shift=2812|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=2818
+26	была	_	_	_	_	_	_	_	Shift=2820
+27	продуктом	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=117|RuCor_group_id=413251|RuCor_link_id=413248|Shift=2825
+28	этих	_	_	_	_	_	_	_	RuCor_chain_id=117|RuCor_group_id=413251|Shift=2835
+29	лет	_	_	_	_	_	_	_	RuCor_chain_id=117|RuCor_group_id=413251|Shift=2840|SpaceAfter=No
+30	.	_	_	_	_	_	_	_	Shift=2843
+
+# sent_id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p6-s2
+# text = Согласно индийским экспертам, эта группировка замешана в нападениях на Мумбаи.
+1	Согласно	_	_	_	_	_	_	_	Shift=2845
+2	индийским	_	_	_	_	_	_	_	Shift=2854
+3	экспертам	_	_	_	_	_	_	_	Shift=2864|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2873
+5	эта	_	_	_	_	_	_	_	RuCor_chain_id=117|RuCor_group_id=413250|Shift=2875
+6	группировка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=117|RuCor_group_id=413250|RuCor_link_id=413251|Shift=2879
+7	замешана	_	_	_	_	_	_	_	Shift=2891
+8	в	_	_	_	_	_	_	_	Shift=2900
+9	нападениях	_	_	_	_	_	_	_	Shift=2902
+10	на	_	_	_	_	_	_	_	Shift=2913
+11	Мумбаи	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=116|RuCor_group_id=413253|RuCor_link_id=413252|Shift=2916|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=2922
+
+# sent_id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p6-s3
+# text = Запрет Пакистана на ее офисы по всей стране по существу подтверждает это заключение, хотя Пакистан публично требует больше доказательств.
+1	Запрет	_	_	_	_	_	_	_	Shift=2924
+2	Пакистана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=124|RuCor_group_id=413254|RuCor_link_id=413247|Shift=2931
+3	на	_	_	_	_	_	_	_	Shift=2941
+4	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=117|RuCor_group_id=413255|RuCor_link_id=413250|Shift=2944
+5	офисы	_	_	_	_	_	_	_	Shift=2947
+6	по	_	_	_	_	_	_	_	RuCor_chain_id=124|RuCor_group_id=413256|Shift=2953
+7	всей	_	_	_	_	_	_	_	RuCor_chain_id=124|RuCor_group_id=413256|Shift=2956
+8	стране	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=124|RuCor_group_id=413256|RuCor_link_id=413254|Shift=2961
+9	по	_	_	_	_	_	_	_	Shift=2968
+10	существу	_	_	_	_	_	_	_	Shift=2971
+11	подтверждает	_	_	_	_	_	_	_	Shift=2980
+12	это	_	_	_	_	_	_	_	Shift=2993
+13	заключение	_	_	_	_	_	_	_	Shift=2997|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=3007
+15	хотя	_	_	_	_	_	_	_	Shift=3009
+16	Пакистан	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=124|RuCor_group_id=413257|RuCor_link_id=413256|Shift=3014
+17	публично	_	_	_	_	_	_	_	Shift=3023
+18	требует	_	_	_	_	_	_	_	Shift=3032
+19	больше	_	_	_	_	_	_	_	Shift=3040
+20	доказательств	_	_	_	_	_	_	_	Shift=3047|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=3060
+
+# newpar id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p7
+# par_text = LET была вооруженным крылом организации Ахле Хадит, южно-азиатской версии фундаментализма в саудовском стиле, целью которого было нанести удар по индийским силам в Кашмире. Хотя группировка была запрещена бывшим пакистанским президентом Первезом Мушаррафом после террористических нападений на Соединенные Штаты 11 сентября 2001 года, некоторые ее члены ушли в подполье, а другие вступили в Джамаат-уд-Дава (JuD, Партия для обращения в свою веру) – организацию, которая управляет религиозными образовательными центрами и благотворительными учреждениями.
+# sent_id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p7-s1
+# text = LET была вооруженным крылом организации Ахле Хадит, южно - азиатской версии фундаментализма в саудовском стиле, целью которого было нанести удар по индийским силам в Кашмире.
+1	LET	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=117|RuCor_group_id=413258|RuCor_link_id=413255|Shift=3062
+2	была	_	_	_	_	_	_	_	Shift=3066
+3	вооруженным	_	_	_	_	_	_	_	Shift=3071
+4	крылом	_	_	_	_	_	_	_	Shift=3083
+5	организации	_	_	_	_	_	_	_	RuCor_chain_id=106|RuCor_group_id=413313|Shift=3090
+6	Ахле	_	_	_	_	_	_	_	RuCor_chain_id=106|RuCor_group_id=413313|Shift=3102
+7	Хадит	_	_	_	_	_	_	_	RuCor_chain_id=106|RuCor_group_id=413313|Shift=3107|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=3112
+9	южно	_	_	_	_	_	_	_	RuCor_chain_id=106|RuCor_group_id=413259|Shift=3114
+10	-	_	_	_	_	_	_	_	RuCor_chain_id=106|RuCor_group_id=413259|Shift=3118
+11	азиатской	_	_	_	_	_	_	_	RuCor_chain_id=106|RuCor_group_id=413259|Shift=3119
+12	версии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=appo|RuCor_attrs_type=coref|RuCor_chain_id=106|RuCor_group_id=413259|RuCor_link_id=413313|Shift=3129
+13	фундаментализма	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=115|RuCor_group_id=413260|RuCor_link_id=0|Shift=3136
+14	в	_	_	_	_	_	_	_	RuCor_chain_id=115|RuCor_group_id=413260|Shift=3152
+15	саудовском	_	_	_	_	_	_	_	RuCor_chain_id=115|RuCor_group_id=413260|Shift=3154
+16	стиле	_	_	_	_	_	_	_	RuCor_chain_id=115|RuCor_group_id=413260|Shift=3165|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=3170
+18	целью	_	_	_	_	_	_	_	Shift=3172
+19	которого	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=115|RuCor_group_id=413261|RuCor_link_id=413260|Shift=3178
+20	было	_	_	_	_	_	_	_	Shift=3187
+21	нанести	_	_	_	_	_	_	_	Shift=3192
+22	удар	_	_	_	_	_	_	_	Shift=3200
+23	по	_	_	_	_	_	_	_	Shift=3205
+24	индийским	_	_	_	_	_	_	_	Shift=3208
+25	силам	_	_	_	_	_	_	_	Shift=3218
+26	в	_	_	_	_	_	_	_	Shift=3224
+27	Кашмире	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=120|RuCor_group_id=413262|RuCor_link_id=413249|Shift=3226|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=3233
+
+# sent_id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p7-s2
+# text = Хотя группировка была запрещена бывшим пакистанским президентом Первезом Мушаррафом после террористических нападений на Соединенные Штаты 11 сентября 2001 года, некоторые ее члены ушли в подполье, а другие вступили в Джамаат-уд - Дава (JuD, Партия для обращения в свою веру) - организацию, которая управляет религиозными образовательными центрами и благотворительными учреждениями.
+1	Хотя	_	_	_	_	_	_	_	Shift=3235
+2	группировка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=106|RuCor_group_id=413263|RuCor_link_id=413259|Shift=3240
+3	была	_	_	_	_	_	_	_	Shift=3252
+4	запрещена	_	_	_	_	_	_	_	Shift=3257
+5	бывшим	_	_	_	_	_	_	_	Shift=3267
+6	пакистанским	_	_	_	_	_	_	_	Shift=3274
+7	президентом	_	_	_	_	_	_	_	Shift=3287
+8	Первезом	_	_	_	_	_	_	_	Shift=3299
+9	Мушаррафом	_	_	_	_	_	_	_	Shift=3308
+10	после	_	_	_	_	_	_	_	Shift=3319
+11	террористических	_	_	_	_	_	_	_	Shift=3325
+12	нападений	_	_	_	_	_	_	_	Shift=3342
+13	на	_	_	_	_	_	_	_	Shift=3352
+14	Соединенные	_	_	_	_	_	_	_	Shift=3355
+15	Штаты	_	_	_	_	_	_	_	Shift=3367
+16	11	_	_	_	_	_	_	_	Shift=3373
+17	сентября	_	_	_	_	_	_	_	Shift=3376
+18	2001	_	_	_	_	_	_	_	Shift=3385
+19	года	_	_	_	_	_	_	_	Shift=3390|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=3394
+21	некоторые	_	_	_	_	_	_	_	Shift=3396
+22	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=106|RuCor_group_id=413264|RuCor_link_id=413263|Shift=3406
+23	члены	_	_	_	_	_	_	_	Shift=3409
+24	ушли	_	_	_	_	_	_	_	Shift=3415
+25	в	_	_	_	_	_	_	_	Shift=3420
+26	подполье	_	_	_	_	_	_	_	Shift=3422|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=3430
+28	а	_	_	_	_	_	_	_	Shift=3432
+29	другие	_	_	_	_	_	_	_	Shift=3434
+30	вступили	_	_	_	_	_	_	_	Shift=3441
+31	в	_	_	_	_	_	_	_	Shift=3450
+32	Джамаат-уд	_	_	_	_	_	_	_	Shift=3452
+33	-	_	_	_	_	_	_	_	RuCor_chain_id=114|RuCor_group_id=413265|Shift=3459
+34	Дава	_	_	_	_	_	_	_	RuCor_chain_id=114|RuCor_group_id=413265|Shift=3463
+35	(	_	_	_	_	_	_	_	Shift=3468|SpaceAfter=No
+36	JuD	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=114|RuCor_group_id=413266|RuCor_link_id=413265|Shift=3469|SpaceAfter=No
+37	,	_	_	_	_	_	_	_	Shift=3472
+38	Партия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=114|RuCor_group_id=413267|RuCor_link_id=413266|Shift=3474
+39	для	_	_	_	_	_	_	_	RuCor_chain_id=114|RuCor_group_id=413267|Shift=3481
+40	обращения	_	_	_	_	_	_	_	RuCor_chain_id=114|RuCor_group_id=413267|Shift=3485
+41	в	_	_	_	_	_	_	_	RuCor_chain_id=114|RuCor_group_id=413267|Shift=3495
+42	свою	_	_	_	_	_	_	_	RuCor_chain_id=114|RuCor_group_id=413267|Shift=3497
+43	веру	_	_	_	_	_	_	_	RuCor_chain_id=114|RuCor_group_id=413267|Shift=3502|SpaceAfter=No
+44	)	_	_	_	_	_	_	_	Shift=3506
+45	-	_	_	_	_	_	_	_	_
+46	организацию	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=appo|RuCor_attrs_type=coref|RuCor_chain_id=114|RuCor_group_id=413268|RuCor_link_id=413267|Shift=3510|SpaceAfter=No
+47	,	_	_	_	_	_	_	_	Shift=3521
+48	которая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=114|RuCor_group_id=413269|RuCor_link_id=413268|Shift=3523
+49	управляет	_	_	_	_	_	_	_	Shift=3531
+50	религиозными	_	_	_	_	_	_	_	Shift=3541
+51	образовательными	_	_	_	_	_	_	_	Shift=3554
+52	центрами	_	_	_	_	_	_	_	Shift=3571
+53	и	_	_	_	_	_	_	_	Shift=3580
+54	благотворительными	_	_	_	_	_	_	_	Shift=3582
+55	учреждениями	_	_	_	_	_	_	_	Shift=3601|SpaceAfter=No
+56	.	_	_	_	_	_	_	_	Shift=3613
+
+# newpar id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p8
+# par_text = Учитывая ее укоренившиеся связи с разведывательными подразделениями Пакистана, эта группировка никогда не была серьезной мишенью. Фактически, она даже принимала участие в спасательных операциях на пакистанской стороне Кашмира после разрушительного землетрясения, которое произошло там в 2005 году.
+# sent_id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p8-s1
+# text = Учитывая ее укоренившиеся связи с разведывательными подразделениями Пакистана, эта группировка никогда не была серьезной мишенью.
+1	Учитывая	_	_	_	_	_	_	_	Shift=3615
+2	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=114|RuCor_group_id=413270|RuCor_link_id=413269|Shift=3624
+3	укоренившиеся	_	_	_	_	_	_	_	Shift=3627
+4	связи	_	_	_	_	_	_	_	Shift=3641
+5	с	_	_	_	_	_	_	_	Shift=3647
+6	разведывательными	_	_	_	_	_	_	_	Shift=3649
+7	подразделениями	_	_	_	_	_	_	_	Shift=3667
+8	Пакистана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=124|RuCor_group_id=413271|RuCor_link_id=413257|Shift=3683|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=3692
+10	эта	_	_	_	_	_	_	_	RuCor_chain_id=114|RuCor_group_id=413272|Shift=3694
+11	группировка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=114|RuCor_group_id=413272|RuCor_link_id=413270|Shift=3698
+12	никогда	_	_	_	_	_	_	_	Shift=3710
+13	не	_	_	_	_	_	_	_	Shift=3718
+14	была	_	_	_	_	_	_	_	Shift=3721
+15	серьезной	_	_	_	_	_	_	_	RuCor_chain_id=114|RuCor_group_id=413273|Shift=3726
+16	мишенью	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=114|RuCor_group_id=413273|RuCor_link_id=413272|Shift=3736|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=3743
+
+# sent_id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p8-s2
+# text = Фактически, она даже принимала участие в спасательных операциях на пакистанской стороне Кашмира после разрушительного землетрясения, которое произошло там в 2005 году.
+1	Фактически	_	_	_	_	_	_	_	Shift=3745|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=3755
+3	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=114|RuCor_group_id=413274|RuCor_link_id=413273|Shift=3757
+4	даже	_	_	_	_	_	_	_	Shift=3761
+5	принимала	_	_	_	_	_	_	_	Shift=3766
+6	участие	_	_	_	_	_	_	_	Shift=3776
+7	в	_	_	_	_	_	_	_	Shift=3784
+8	спасательных	_	_	_	_	_	_	_	Shift=3786
+9	операциях	_	_	_	_	_	_	_	Shift=3799
+10	на	_	_	_	_	_	_	_	Shift=3809
+11	пакистанской	_	_	_	_	_	_	_	Shift=3812
+12	стороне	_	_	_	_	_	_	_	Shift=3825
+13	Кашмира	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=120|RuCor_group_id=413275|RuCor_link_id=413262|Shift=3833
+14	после	_	_	_	_	_	_	_	Shift=3841
+15	разрушительного	_	_	_	_	_	_	_	RuCor_chain_id=113|RuCor_group_id=413276|Shift=3847
+16	землетрясения	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=113|RuCor_group_id=413276|RuCor_link_id=0|Shift=3863|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=3876
+18	которое	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=113|RuCor_group_id=413277|RuCor_link_id=413276|Shift=3878
+19	произошло	_	_	_	_	_	_	_	Shift=3886
+20	там	_	_	_	_	_	_	_	Shift=3896
+21	в	_	_	_	_	_	_	_	Shift=3900
+22	2005	_	_	_	_	_	_	_	Shift=3902
+23	году	_	_	_	_	_	_	_	Shift=3907|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=3911
+
+# newpar id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p9
+# par_text = Но военные стратеги Пакистана не смогли понять, что у таких группировок как LET и JuD есть также и своя местная программа действий – преобразование Пакистана в теократию. Хафиз Саид, основатель LET и в настоящее время глава JuD, когда-то гордо заявил: “Мы верим в столкновение цивилизаций, и наш джихад продолжится до тех пор, пока Ислам не станет господствующей религией”.
+# sent_id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p9-s1
+# text = Но военные стратеги Пакистана не смогли понять, что у таких группировок как LET и JuD есть также и своя местная программа действий - преобразование Пакистана в теократию.
+1	Но	_	_	_	_	_	_	_	Shift=3913
+2	военные	_	_	_	_	_	_	_	Shift=3916
+3	стратеги	_	_	_	_	_	_	_	Shift=3924
+4	Пакистана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=124|RuCor_group_id=413278|RuCor_link_id=413271|Shift=3933
+5	не	_	_	_	_	_	_	_	Shift=3943
+6	смогли	_	_	_	_	_	_	_	Shift=3946
+7	понять	_	_	_	_	_	_	_	Shift=3953|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=3959
+9	что	_	_	_	_	_	_	_	Shift=3961
+10	у	_	_	_	_	_	_	_	Shift=3965
+11	таких	_	_	_	_	_	_	_	RuCor_chain_id=112|RuCor_group_id=413281|Shift=3967
+12	группировок	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=112|RuCor_group_id=413281|RuCor_link_id=0|Shift=3973
+13	как	_	_	_	_	_	_	_	RuCor_chain_id=112|RuCor_group_id=413281|Shift=3985
+14	LET	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=106|RuCor_group_id=413279|RuCor_link_id=413264|Shift=3989
+15	и	_	_	_	_	_	_	_	RuCor_chain_id=112|RuCor_group_id=413281|Shift=3993
+16	JuD	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=114|RuCor_group_id=413280|RuCor_link_id=413274|Shift=3995
+17	есть	_	_	_	_	_	_	_	Shift=3999
+18	также	_	_	_	_	_	_	_	Shift=4004
+19	и	_	_	_	_	_	_	_	Shift=4010
+20	своя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=112|RuCor_group_id=413282|RuCor_link_id=413281|Shift=4012
+21	местная	_	_	_	_	_	_	_	Shift=4017
+22	программа	_	_	_	_	_	_	_	Shift=4025
+23	действий	_	_	_	_	_	_	_	Shift=4035
+24	-	_	_	_	_	_	_	_	_
+25	преобразование	_	_	_	_	_	_	_	Shift=4046
+26	Пакистана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=124|RuCor_group_id=413283|RuCor_link_id=413278|Shift=4061
+27	в	_	_	_	_	_	_	_	Shift=4071
+28	теократию	_	_	_	_	_	_	_	Shift=4073|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	Shift=4082
+
+# sent_id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p9-s2
+# text = Хафиз Саид, основатель LET и в настоящее время глава JuD, когда-то гордо заявил: ``Мы верим в столкновение цивилизаций, и наш джихад продолжится до тех пор, пока Ислам не станет господствующей религией''.
+1	Хафиз	_	_	_	_	_	_	_	RuCor_chain_id=111|RuCor_group_id=413286|Shift=4084
+2	Саид	_	_	_	_	_	_	_	RuCor_chain_id=111|RuCor_group_id=413286|Shift=4090|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=4094
+4	основатель	_	_	_	_	_	_	_	RuCor_chain_id=111|RuCor_group_id=413287|Shift=4096
+5	LET	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=106|RuCor_group_id=413284|RuCor_link_id=413279|Shift=4107
+6	и	_	_	_	_	_	_	_	RuCor_chain_id=111|RuCor_group_id=413287|Shift=4111
+7	в	_	_	_	_	_	_	_	RuCor_chain_id=111|RuCor_group_id=413287|Shift=4113
+8	настоящее	_	_	_	_	_	_	_	RuCor_chain_id=111|RuCor_group_id=413287|Shift=4115
+9	время	_	_	_	_	_	_	_	RuCor_chain_id=111|RuCor_group_id=413287|Shift=4125
+10	глава	_	_	_	_	_	_	_	RuCor_chain_id=111|RuCor_group_id=413287|Shift=4131
+11	JuD	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=114|RuCor_group_id=413285|RuCor_link_id=413280|Shift=4137|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=4140
+13	когда-то	_	_	_	_	_	_	_	Shift=4142
+14	гордо	_	_	_	_	_	_	_	Shift=4151
+15	заявил	_	_	_	_	_	_	_	Shift=4157|SpaceAfter=No
+16	:	_	_	_	_	_	_	_	Shift=4163
+17	``	_	_	_	_	_	_	_	Shift=4165|SpaceAfter=No
+18	Мы	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=110|RuCor_group_id=413288|RuCor_link_id=0|Shift=4166
+19	верим	_	_	_	_	_	_	_	Shift=4169
+20	в	_	_	_	_	_	_	_	Shift=4175
+21	столкновение	_	_	_	_	_	_	_	Shift=4177
+22	цивилизаций	_	_	_	_	_	_	_	Shift=4190|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=4201
+24	и	_	_	_	_	_	_	_	Shift=4203
+25	наш	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=110|RuCor_group_id=413289|RuCor_link_id=413288|Shift=4205
+26	джихад	_	_	_	_	_	_	_	Shift=4209
+27	продолжится	_	_	_	_	_	_	_	Shift=4216
+28	до	_	_	_	_	_	_	_	Shift=4228
+29	тех	_	_	_	_	_	_	_	Shift=4231
+30	пор	_	_	_	_	_	_	_	Shift=4235|SpaceAfter=No
+31	,	_	_	_	_	_	_	_	Shift=4238
+32	пока	_	_	_	_	_	_	_	Shift=4240
+33	Ислам	_	_	_	_	_	_	_	Shift=4245
+34	не	_	_	_	_	_	_	_	Shift=4251
+35	станет	_	_	_	_	_	_	_	Shift=4254
+36	господствующей	_	_	_	_	_	_	_	Shift=4261
+37	религией	_	_	_	_	_	_	_	Shift=4276|SpaceAfter=No
+38	''	_	_	_	_	_	_	_	SpaceAfter=No
+39	.	_	_	_	_	_	_	_	Shift=4285
+
+# newpar id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p10
+# par_text = JuD, наряду со многими другими аналогично мыслящими группировками, внушила радикальные взгляды тысячам молодых пакистанцев. Через свои печатные и Интернет издания она также постоянно подвергала сомнению учения суфийских мистиков, которые изначально внедрили Ислам в Южную Азию, поддерживая плюрализм и любовь к человечеству.
+# sent_id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p10-s1
+# text = JuD, наряду со многими другими аналогично мыслящими группировками, внушила радикальные взгляды тысячам молодых пакистанцев.
+1	JuD	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=114|RuCor_group_id=413290|RuCor_link_id=413285|Shift=4288|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=4291
+3	наряду	_	_	_	_	_	_	_	Shift=4293
+4	со	_	_	_	_	_	_	_	Shift=4300
+5	многими	_	_	_	_	_	_	_	Shift=4303
+6	другими	_	_	_	_	_	_	_	Shift=4311
+7	аналогично	_	_	_	_	_	_	_	Shift=4319
+8	мыслящими	_	_	_	_	_	_	_	Shift=4330
+9	группировками	_	_	_	_	_	_	_	Shift=4340|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=4353
+11	внушила	_	_	_	_	_	_	_	Shift=4355
+12	радикальные	_	_	_	_	_	_	_	Shift=4363
+13	взгляды	_	_	_	_	_	_	_	Shift=4375
+14	тысячам	_	_	_	_	_	_	_	Shift=4383
+15	молодых	_	_	_	_	_	_	_	Shift=4391
+16	пакистанцев	_	_	_	_	_	_	_	Shift=4399|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=4410
+
+# sent_id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p10-s2
+# text = Через свои печатные и Интернет издания она также постоянно подвергала сомнению учения суфийских мистиков, которые изначально внедрили Ислам в Южную Азию, поддерживая плюрализм и любовь к человечеству.
+1	Через	_	_	_	_	_	_	_	Shift=4412
+2	свои	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=114|RuCor_group_id=413291|RuCor_link_id=413290|Shift=4418
+3	печатные	_	_	_	_	_	_	_	Shift=4423
+4	и	_	_	_	_	_	_	_	Shift=4432
+5	Интернет	_	_	_	_	_	_	_	Shift=4434
+6	издания	_	_	_	_	_	_	_	Shift=4443
+7	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=114|RuCor_group_id=413292|RuCor_link_id=413291|Shift=4451
+8	также	_	_	_	_	_	_	_	Shift=4455
+9	постоянно	_	_	_	_	_	_	_	Shift=4461
+10	подвергала	_	_	_	_	_	_	_	Shift=4471
+11	сомнению	_	_	_	_	_	_	_	Shift=4482
+12	учения	_	_	_	_	_	_	_	Shift=4491
+13	суфийских	_	_	_	_	_	_	_	RuCor_chain_id=109|RuCor_group_id=413293|Shift=4498
+14	мистиков	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=109|RuCor_group_id=413293|RuCor_link_id=0|Shift=4508|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=4516
+16	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=109|RuCor_group_id=413294|RuCor_link_id=413293|Shift=4518
+17	изначально	_	_	_	_	_	_	_	Shift=4526
+18	внедрили	_	_	_	_	_	_	_	Shift=4537
+19	Ислам	_	_	_	_	_	_	_	Shift=4546
+20	в	_	_	_	_	_	_	_	Shift=4552
+21	Южную	_	_	_	_	_	_	_	RuCor_chain_id=128|RuCor_group_id=413295|Shift=4554
+22	Азию	_	_	_	_	_	_	_	RuCor_chain_id=128|RuCor_group_id=413295|Shift=4560|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=4564
+24	поддерживая	_	_	_	_	_	_	_	Shift=4566
+25	плюрализм	_	_	_	_	_	_	_	Shift=4578
+26	и	_	_	_	_	_	_	_	Shift=4588
+27	любовь	_	_	_	_	_	_	_	Shift=4590
+28	к	_	_	_	_	_	_	_	Shift=4597
+29	человечеству	_	_	_	_	_	_	_	Shift=4599|SpaceAfter=No
+30	.	_	_	_	_	_	_	_	Shift=4611
+
+# newpar id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p11
+# par_text = Даже требуя принять строгие меры против JuD, Индия должна признать, что Пакистан сам является жертвой террора. Любая военная конфронтация с Пакистаном всего лишь укрепит пакистанских радикалов. Индия также должна заглянуть внутрь, поскольку насилие в отношении мусульман в Гуджарате и действия индусских фундаменталистских группировок потенциально создали возможности для вербовки мусульманских экстремистов внутри Индии. Мирное разрешение Кашмирского конфликта только поможет улучшить мирные перспективы в Южной Азии.
+# sent_id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p11-s1
+# text = Даже требуя принять строгие меры против JuD, Индия должна признать, что Пакистан сам является жертвой террора.
+1	Даже	_	_	_	_	_	_	_	Shift=4613
+2	требуя	_	_	_	_	_	_	_	Shift=4618
+3	принять	_	_	_	_	_	_	_	Shift=4625
+4	строгие	_	_	_	_	_	_	_	Shift=4633
+5	меры	_	_	_	_	_	_	_	Shift=4641
+6	против	_	_	_	_	_	_	_	Shift=4646
+7	JuD	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=114|RuCor_group_id=413296|RuCor_link_id=413292|Shift=4653|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=4656
+9	Индия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=127|RuCor_group_id=413297|RuCor_link_id=413241|Shift=4658
+10	должна	_	_	_	_	_	_	_	Shift=4664
+11	признать	_	_	_	_	_	_	_	Shift=4671|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=4679
+13	что	_	_	_	_	_	_	_	Shift=4681
+14	Пакистан	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=124|RuCor_group_id=413298|RuCor_link_id=413283|Shift=4685
+15	сам	_	_	_	_	_	_	_	Shift=4694
+16	является	_	_	_	_	_	_	_	Shift=4698
+17	жертвой	_	_	_	_	_	_	_	Shift=4707
+18	террора	_	_	_	_	_	_	_	Shift=4715|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=4722
+
+# sent_id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p11-s2
+# text = Любая военная конфронтация с Пакистаном всего лишь укрепит пакистанских радикалов.
+1	Любая	_	_	_	_	_	_	_	Shift=4724
+2	военная	_	_	_	_	_	_	_	Shift=4730
+3	конфронтация	_	_	_	_	_	_	_	Shift=4738
+4	с	_	_	_	_	_	_	_	Shift=4751
+5	Пакистаном	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=124|RuCor_group_id=413299|RuCor_link_id=413298|Shift=4753
+6	всего	_	_	_	_	_	_	_	Shift=4764
+7	лишь	_	_	_	_	_	_	_	Shift=4770
+8	укрепит	_	_	_	_	_	_	_	Shift=4775
+9	пакистанских	_	_	_	_	_	_	_	Shift=4783
+10	радикалов	_	_	_	_	_	_	_	Shift=4796|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=4805
+
+# sent_id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p11-s3
+# text = Индия также должна заглянуть внутрь, поскольку насилие в отношении мусульман в Гуджарате и действия индусских фундаменталистских группировок потенциально создали возможности для вербовки мусульманских экстремистов внутри Индии.
+1	Индия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=127|RuCor_group_id=413300|RuCor_link_id=413297|Shift=4807
+2	также	_	_	_	_	_	_	_	Shift=4813
+3	должна	_	_	_	_	_	_	_	Shift=4819
+4	заглянуть	_	_	_	_	_	_	_	Shift=4826
+5	внутрь	_	_	_	_	_	_	_	Shift=4836|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=4842
+7	поскольку	_	_	_	_	_	_	_	Shift=4844
+8	насилие	_	_	_	_	_	_	_	Shift=4854
+9	в	_	_	_	_	_	_	_	Shift=4862
+10	отношении	_	_	_	_	_	_	_	Shift=4864
+11	мусульман	_	_	_	_	_	_	_	Shift=4874
+12	в	_	_	_	_	_	_	_	Shift=4884
+13	Гуджарате	_	_	_	_	_	_	_	Shift=4886
+14	и	_	_	_	_	_	_	_	Shift=4896
+15	действия	_	_	_	_	_	_	_	Shift=4898
+16	индусских	_	_	_	_	_	_	_	Shift=4907
+17	фундаменталистских	_	_	_	_	_	_	_	Shift=4917
+18	группировок	_	_	_	_	_	_	_	Shift=4936
+19	потенциально	_	_	_	_	_	_	_	Shift=4948
+20	создали	_	_	_	_	_	_	_	Shift=4961
+21	возможности	_	_	_	_	_	_	_	Shift=4969
+22	для	_	_	_	_	_	_	_	Shift=4981
+23	вербовки	_	_	_	_	_	_	_	Shift=4985
+24	мусульманских	_	_	_	_	_	_	_	Shift=4994
+25	экстремистов	_	_	_	_	_	_	_	Shift=5008
+26	внутри	_	_	_	_	_	_	_	Shift=5021
+27	Индии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=127|RuCor_group_id=413301|RuCor_link_id=413300|Shift=5028|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=5033
+
+# sent_id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p11-s4
+# text = Мирное разрешение Кашмирского конфликта только поможет улучшить мирные перспективы в Южной Азии.
+1	Мирное	_	_	_	_	_	_	_	Shift=5035
+2	разрешение	_	_	_	_	_	_	_	Shift=5042
+3	Кашмирского	_	_	_	_	_	_	_	Shift=5053
+4	конфликта	_	_	_	_	_	_	_	Shift=5065
+5	только	_	_	_	_	_	_	_	Shift=5075
+6	поможет	_	_	_	_	_	_	_	Shift=5082
+7	улучшить	_	_	_	_	_	_	_	Shift=5090
+8	мирные	_	_	_	_	_	_	_	Shift=5099
+9	перспективы	_	_	_	_	_	_	_	Shift=5106
+10	в	_	_	_	_	_	_	_	Shift=5118
+11	Южной	_	_	_	_	_	_	_	RuCor_chain_id=128|RuCor_group_id=413302|Shift=5120
+12	Азии	_	_	_	_	_	_	_	RuCor_chain_id=128|RuCor_group_id=413302|Shift=5126|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=5130
+
+# newpar id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p12
+# par_text = Для Пакистана необходимы согласованные и продолжительные усилия против всех экстремистских группировок, работающих в стране. Боевики всех мастей должны быть полностью и прозрачно выведены из строя. Одинаково важным для Пакистана является расширение и реформа его общественной системы образования и улучшение основных услуг, чтобы радикальные группы не могли завлечь молодых людей в свои образовательные сети и сети благосостояния. Иначе, статус-кво может стать серьезной угрозой для будущего Пакистана, а также и всей Южной Азии.
+# sent_id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p12-s1
+# text = Для Пакистана необходимы согласованные и продолжительные усилия против всех экстремистских группировок, работающих в стране.
+1	Для	_	_	_	_	_	_	_	Shift=5132
+2	Пакистана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=124|RuCor_group_id=413303|RuCor_link_id=413298|Shift=5136
+3	необходимы	_	_	_	_	_	_	_	Shift=5146
+4	согласованные	_	_	_	_	_	_	_	Shift=5157
+5	и	_	_	_	_	_	_	_	Shift=5171
+6	продолжительные	_	_	_	_	_	_	_	Shift=5173
+7	усилия	_	_	_	_	_	_	_	Shift=5189
+8	против	_	_	_	_	_	_	_	Shift=5196
+9	всех	_	_	_	_	_	_	_	Shift=5203
+10	экстремистских	_	_	_	_	_	_	_	Shift=5208
+11	группировок	_	_	_	_	_	_	_	Shift=5223|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=5234
+13	работающих	_	_	_	_	_	_	_	Shift=5236
+14	в	_	_	_	_	_	_	_	Shift=5247
+15	стране	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=124|RuCor_group_id=413304|RuCor_link_id=413303|Shift=5249|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=5255
+
+# sent_id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p12-s2
+# text = Боевики всех мастей должны быть полностью и прозрачно выведены из строя.
+1	Боевики	_	_	_	_	_	_	_	Shift=5257
+2	всех	_	_	_	_	_	_	_	Shift=5265
+3	мастей	_	_	_	_	_	_	_	Shift=5270
+4	должны	_	_	_	_	_	_	_	Shift=5277
+5	быть	_	_	_	_	_	_	_	Shift=5284
+6	полностью	_	_	_	_	_	_	_	Shift=5289
+7	и	_	_	_	_	_	_	_	Shift=5299
+8	прозрачно	_	_	_	_	_	_	_	Shift=5301
+9	выведены	_	_	_	_	_	_	_	Shift=5311
+10	из	_	_	_	_	_	_	_	Shift=5320
+11	строя	_	_	_	_	_	_	_	Shift=5323|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=5328
+
+# sent_id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p12-s3
+# text = Одинаково важным для Пакистана является расширение и реформа его общественной системы образования и улучшение основных услуг, чтобы радикальные группы не могли завлечь молодых людей в свои образовательные сети и сети благосостояния.
+1	Одинаково	_	_	_	_	_	_	_	Shift=5330
+2	важным	_	_	_	_	_	_	_	Shift=5340
+3	для	_	_	_	_	_	_	_	Shift=5347
+4	Пакистана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=124|RuCor_group_id=413305|RuCor_link_id=413304|Shift=5351
+5	является	_	_	_	_	_	_	_	Shift=5361
+6	расширение	_	_	_	_	_	_	_	Shift=5370
+7	и	_	_	_	_	_	_	_	Shift=5381
+8	реформа	_	_	_	_	_	_	_	Shift=5383
+9	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=124|RuCor_group_id=413306|RuCor_link_id=413305|Shift=5391
+10	общественной	_	_	_	_	_	_	_	Shift=5395
+11	системы	_	_	_	_	_	_	_	Shift=5408
+12	образования	_	_	_	_	_	_	_	Shift=5416
+13	и	_	_	_	_	_	_	_	Shift=5428
+14	улучшение	_	_	_	_	_	_	_	Shift=5430
+15	основных	_	_	_	_	_	_	_	Shift=5440
+16	услуг	_	_	_	_	_	_	_	Shift=5449|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=5454
+18	чтобы	_	_	_	_	_	_	_	Shift=5456
+19	радикальные	_	_	_	_	_	_	_	RuCor_chain_id=108|RuCor_group_id=413307|Shift=5462
+20	группы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=108|RuCor_group_id=413307|RuCor_link_id=0|Shift=5474
+21	не	_	_	_	_	_	_	_	Shift=5481
+22	могли	_	_	_	_	_	_	_	Shift=5484
+23	завлечь	_	_	_	_	_	_	_	Shift=5490
+24	молодых	_	_	_	_	_	_	_	Shift=5498
+25	людей	_	_	_	_	_	_	_	Shift=5506
+26	в	_	_	_	_	_	_	_	Shift=5512
+27	свои	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=108|RuCor_group_id=413308|RuCor_link_id=413307|Shift=5514
+28	образовательные	_	_	_	_	_	_	_	Shift=5519
+29	сети	_	_	_	_	_	_	_	Shift=5535
+30	и	_	_	_	_	_	_	_	Shift=5540
+31	сети	_	_	_	_	_	_	_	Shift=5542
+32	благосостояния	_	_	_	_	_	_	_	Shift=5547|SpaceAfter=No
+33	.	_	_	_	_	_	_	_	Shift=5561
+
+# sent_id = 8422465e-f5ef-4837-bfab-d91be1cbd6a6-p12-s4
+# text = Иначе, статус-кво может стать серьезной угрозой для будущего Пакистана, а также и всей Южной Азии.
+1	Иначе	_	_	_	_	_	_	_	Shift=5563|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=5568
+3	статус-кво	_	_	_	_	_	_	_	Shift=5570
+4	может	_	_	_	_	_	_	_	Shift=5581
+5	стать	_	_	_	_	_	_	_	Shift=5587
+6	серьезной	_	_	_	_	_	_	_	Shift=5593
+7	угрозой	_	_	_	_	_	_	_	Shift=5603
+8	для	_	_	_	_	_	_	_	Shift=5611
+9	будущего	_	_	_	_	_	_	_	Shift=5615
+10	Пакистана	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=124|RuCor_group_id=413309|RuCor_link_id=413306|Shift=5624|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=5633
+12	а	_	_	_	_	_	_	_	Shift=5635
+13	также	_	_	_	_	_	_	_	Shift=5637
+14	и	_	_	_	_	_	_	_	Shift=5643
+15	всей	_	_	_	_	_	_	_	Shift=5645
+16	Южной	_	_	_	_	_	_	_	RuCor_chain_id=128|RuCor_group_id=413310|Shift=5650
+17	Азии	_	_	_	_	_	_	_	RuCor_chain_id=128|RuCor_group_id=413310|Shift=5656|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	_
+

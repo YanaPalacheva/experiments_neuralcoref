@@ -1,0 +1,461 @@
+#begin document (nbc_0029_0); part 000
+nbc_0029	0	0	NBC	(6|(10
+nbc_0029	0	1	's	6)
+nbc_0029	0	2	David	-
+nbc_0029	0	3	Gregory	10)
+nbc_0029	0	4	is	-
+nbc_0029	0	5	at	-
+nbc_0029	0	6	his	(10)
+nbc_0029	0	7	post	-
+nbc_0029	0	8	as	-
+nbc_0029	0	9	well	-
+nbc_0029	0	10	in	-
+nbc_0029	0	11	Austin	(2
+nbc_0029	0	12	,	-
+nbc_0029	0	13	Texas	(9)|2)
+nbc_0029	0	14	.	-
+
+nbc_0029	0	0	David	(10)
+nbc_0029	0	1	any	-
+nbc_0029	0	2	reaction	-
+nbc_0029	0	3	from	-
+nbc_0029	0	4	the	(0
+nbc_0029	0	5	Bush	(4)
+nbc_0029	0	6	team	0)
+nbc_0029	0	7	on	-
+nbc_0029	0	8	the	-
+nbc_0029	0	9	Democrats	-
+nbc_0029	0	10	'	-
+nbc_0029	0	11	plan	-
+nbc_0029	0	12	to	-
+nbc_0029	0	13	contest	-
+nbc_0029	0	14	the	-
+nbc_0029	0	15	vote	-
+nbc_0029	0	16	in	-
+nbc_0029	0	17	Miami	-
+nbc_0029	0	18	-	-
+nbc_0029	0	19	Dade	-
+nbc_0029	0	20	?	-
+
+nbc_0029	0	0	Well	-
+nbc_0029	0	1	,	-
+nbc_0029	0	2	John	(11)
+nbc_0029	0	3	,	-
+nbc_0029	0	4	there	-
+nbc_0029	0	5	has	-
+nbc_0029	0	6	been	-
+nbc_0029	0	7	reaction	-
+nbc_0029	0	8	from	-
+nbc_0029	0	9	the	(0
+nbc_0029	0	10	Bush	(4)
+nbc_0029	0	11	team	0)
+nbc_0029	0	12	.	-
+
+nbc_0029	0	0	You	*	*
+nbc_0029	0	1	know	*	*
+nbc_0029	0	2	,	*	*
+nbc_0029	0	3	this	*	*
+nbc_0029	0	4	decision	*	*
+nbc_0029	0	5	by	*	*
+nbc_0029	0	6	the	*	*
+nbc_0029	0	7	Gore	*	*
+nbc_0029	0	8	campaign	*	*
+nbc_0029	0	9	,	*	*
+nbc_0029	0	10	a	*	*
+nbc_0029	0	11	refusal	*	*
+nbc_0029	0	12	to	*	*
+nbc_0029	0	13	concede	*	*
+nbc_0029	0	14	even	*	*
+nbc_0029	0	15	if	*	*
+nbc_0029	0	16	they	*	*
+nbc_0029	0	17	do	*	*
+nbc_0029	0	18	not	*	*
+nbc_0029	0	19	prevail	*	*
+nbc_0029	0	20	in	*	*
+nbc_0029	0	21	the	*	*
+nbc_0029	0	22	manual	*	*
+nbc_0029	0	23	recounts	*	*
+nbc_0029	0	24	under	*	*
+nbc_0029	0	25	way	*	*
+nbc_0029	0	26	certainly	*	*
+nbc_0029	0	27	carries	*	*
+nbc_0029	0	28	some	*	*
+nbc_0029	0	29	political	*	*
+nbc_0029	0	30	risk	*	*
+nbc_0029	0	31	,	*	*
+nbc_0029	0	32	but	*	*
+nbc_0029	0	33	the	*	*
+nbc_0029	0	34	Gore	*	*
+nbc_0029	0	35	team	*	*
+nbc_0029	0	36	tonight	*	*
+nbc_0029	0	37	defends	*	*
+nbc_0029	0	38	the	*	*
+nbc_0029	0	39	decision	*	*
+nbc_0029	0	40	,	*	*
+nbc_0029	0	41	saying	*	*
+nbc_0029	0	42	that	*	*
+nbc_0029	0	43	fellow	(ARG0*	(ARG0*
+nbc_0029	0	44	Democrats	*	*
+nbc_0029	0	45	and	*	*
+nbc_0029	0	46	the	*	*
+nbc_0029	0	47	public	*)	*)
+nbc_0029	0	48	would	(ARGM-MOD*)	(ARGM-MOD*)
+nbc_0029	0	49	not	*	*
+nbc_0029	0	50	only	*	*
+nbc_0029	0	51	accept	(V*)	(V*)
+nbc_0029	0	52	but	*	*
+nbc_0029	0	53	demand	*	*
+nbc_0029	0	54	what	(ARG1*	(ARG1*
+nbc_0029	0	55	they	*	*
+nbc_0029	0	56	call	*	*
+nbc_0029	0	57	a	*	*
+nbc_0029	0	58	fair	*	*
+nbc_0029	0	59	and	*	*
+nbc_0029	0	60	accurate	*	*
+nbc_0029	0	61	recount	*	*
+nbc_0029	0	62	in	*	*
+nbc_0029	0	63	all	*	*
+nbc_0029	0	64	the	*	*
+nbc_0029	0	65	relevant	*	*
+nbc_0029	0	66	counties	*)	*)
+nbc_0029	0	67	.	*	*
+
+nbc_0029	0	0	The	(0
+nbc_0029	0	1	Bush	(4)
+nbc_0029	0	2	team	0)
+nbc_0029	0	3	,	-
+nbc_0029	0	4	responding	-
+nbc_0029	0	5	quickly	-
+nbc_0029	0	6	saying	-
+nbc_0029	0	7	there	-
+nbc_0029	0	8	would	-
+nbc_0029	0	9	not	-
+nbc_0029	0	10	be	-
+nbc_0029	0	11	such	-
+nbc_0029	0	12	support	-
+nbc_0029	0	13	and	-
+nbc_0029	0	14	that	-
+nbc_0029	0	15	in	-
+nbc_0029	0	16	that	-
+nbc_0029	0	17	scenario	-
+nbc_0029	0	18	Gore	(18)
+nbc_0029	0	19	could	-
+nbc_0029	0	20	only	-
+nbc_0029	0	21	be	-
+nbc_0029	0	22	seen	-
+nbc_0029	0	23	as	-
+nbc_0029	0	24	a	-
+nbc_0029	0	25	sore	-
+nbc_0029	0	26	loser	-
+nbc_0029	0	27	.	-
+
+nbc_0029	0	0	Despite	-
+nbc_0029	0	1	the	-
+nbc_0029	0	2	holiday	-
+nbc_0029	0	3	,	-
+nbc_0029	0	4	there	-
+nbc_0029	0	5	is	-
+nbc_0029	0	6	no	-
+nbc_0029	0	7	letup	-
+nbc_0029	0	8	in	-
+nbc_0029	0	9	the	(5
+nbc_0029	0	10	fight	-
+nbc_0029	0	11	for	-
+nbc_0029	0	12	Florida	(19)|5)
+nbc_0029	0	13	.	-
+
+nbc_0029	0	0	A	-
+nbc_0029	0	1	holiday	-
+nbc_0029	0	2	legal	-
+nbc_0029	0	3	victory	-
+nbc_0029	0	4	to	-
+nbc_0029	0	5	be	-
+nbc_0029	0	6	thankful	-
+nbc_0029	0	7	for	-
+nbc_0029	0	8	,	-
+nbc_0029	0	9	George	(8|(4)
+nbc_0029	0	10	and	-
+nbc_0029	0	11	Laura	-
+nbc_0029	0	12	Bush	-
+nbc_0029	0	13	,	-
+nbc_0029	0	14	all	-
+nbc_0029	0	15	smiles	-
+nbc_0029	0	16	in	-
+nbc_0029	0	17	Austin	(2)
+nbc_0029	0	18	today	(13)
+nbc_0029	0	19	before	-
+nbc_0029	0	20	a	-
+nbc_0029	0	21	pot	-
+nbc_0029	0	22	luck	-
+nbc_0029	0	23	Thanksgiving	-
+nbc_0029	0	24	meal	-
+nbc_0029	0	25	with	-
+nbc_0029	0	26	their	(8)
+nbc_0029	0	27	twin	-
+nbc_0029	0	28	daughters	-
+nbc_0029	0	29	and	-
+nbc_0029	0	30	friends	8)
+nbc_0029	0	31	.	-
+
+nbc_0029	0	0	The	(4
+nbc_0029	0	1	Texas	(9)
+nbc_0029	0	2	governor	4)
+nbc_0029	0	3	makes	-
+nbc_0029	0	4	time	-
+nbc_0029	0	5	for	-
+nbc_0029	0	6	recreation	-
+nbc_0029	0	7	with	-
+nbc_0029	0	8	a	-
+nbc_0029	0	9	morning	-
+nbc_0029	0	10	jog	-
+nbc_0029	0	11	and	-
+nbc_0029	0	12	prepares	-
+nbc_0029	0	13	for	-
+nbc_0029	0	14	some	-
+nbc_0029	0	15	fishing	-
+nbc_0029	0	16	at	-
+nbc_0029	0	17	his	(4)
+nbc_0029	0	18	ranch	-
+nbc_0029	0	19	this	-
+nbc_0029	0	20	weekend	-
+nbc_0029	0	21	.	-
+
+nbc_0029	0	0	The	(18
+nbc_0029	0	1	Vice	-
+nbc_0029	0	2	President	18)
+nbc_0029	0	3	out	-
+nbc_0029	0	4	of	-
+nbc_0029	0	5	sight	-
+nbc_0029	0	6	today	(13)
+nbc_0029	0	7	at	-
+nbc_0029	0	8	his	(18)
+nbc_0029	0	9	residence	-
+nbc_0029	0	10	,	-
+nbc_0029	0	11	aides	-
+nbc_0029	0	12	saying	-
+nbc_0029	0	13	the	-
+nbc_0029	0	14	entire	-
+nbc_0029	0	15	family	-
+nbc_0029	0	16	together	-
+nbc_0029	0	17	for	-
+nbc_0029	0	18	a	-
+nbc_0029	0	19	meal	-
+nbc_0029	0	20	and	-
+nbc_0029	0	21	football	-
+nbc_0029	0	22	on	-
+nbc_0029	0	23	TV	-
+nbc_0029	0	24	.	-
+
+nbc_0029	0	0	While	-
+nbc_0029	0	1	the	-
+nbc_0029	0	2	Gore	(18)
+nbc_0029	0	3	menu	-
+nbc_0029	0	4	remains	-
+nbc_0029	0	5	a	-
+nbc_0029	0	6	family	-
+nbc_0029	0	7	secret	-
+nbc_0029	0	8	,	-
+nbc_0029	0	9	the	-
+nbc_0029	0	10	Bush	(4)
+nbc_0029	0	11	clan	-
+nbc_0029	0	12	all	-
+nbc_0029	0	13	to	-
+nbc_0029	0	14	happy	-
+nbc_0029	0	15	to	-
+nbc_0029	0	16	share	-
+nbc_0029	0	17	some	-
+nbc_0029	0	18	of	-
+nbc_0029	0	19	his	(4)
+nbc_0029	0	20	favorite	-
+nbc_0029	0	21	fare	-
+nbc_0029	0	22	--	-
+nbc_0029	0	23	jalapeno	-
+nbc_0029	0	24	pecan	-
+nbc_0029	0	25	cornbread	-
+nbc_0029	0	26	stuffing	-
+nbc_0029	0	27	and	-
+nbc_0029	0	28	coconut	-
+nbc_0029	0	29	cake	-
+nbc_0029	0	30	.	-
+
+nbc_0029	0	0	For	-
+nbc_0029	0	1	vice	(16
+nbc_0029	0	2	presidential	-
+nbc_0029	0	3	candidate	-
+nbc_0029	0	4	Dick	-
+nbc_0029	0	5	Cheney	16)
+nbc_0029	0	6	,	-
+nbc_0029	0	7	turkey	-
+nbc_0029	0	8	in	-
+nbc_0029	0	9	the	-
+nbc_0029	0	10	hospital	-
+nbc_0029	0	11	with	-
+nbc_0029	0	12	his	(16)
+nbc_0029	0	13	wife	-
+nbc_0029	0	14	and	-
+nbc_0029	0	15	daughter	-
+nbc_0029	0	16	this	-
+nbc_0029	0	17	afternoon	-
+nbc_0029	0	18	.	-
+
+nbc_0029	0	0	After	-
+nbc_0029	0	1	suffering	-
+nbc_0029	0	2	a	(14
+nbc_0029	0	3	mild	-
+nbc_0029	0	4	heart	-
+nbc_0029	0	5	attack	14)
+nbc_0029	0	6	yesterday	-
+nbc_0029	0	7	,	-
+nbc_0029	0	8	his	(14|(16)
+nbc_0029	0	9	fourth	14)
+nbc_0029	0	10	,	-
+nbc_0029	0	11	doctors	-
+nbc_0029	0	12	say	-
+nbc_0029	0	13	today	(13)
+nbc_0029	0	14	he	(16)
+nbc_0029	0	15	's	-
+nbc_0029	0	16	recovering	-
+nbc_0029	0	17	well	-
+nbc_0029	0	18	.	-
+
+nbc_0029	0	0	Cheney	*	*
+nbc_0029	0	1	gets	*	*
+nbc_0029	0	2	a	*	*
+nbc_0029	0	3	checkup	*	*
+nbc_0029	0	4	call	*	*
+nbc_0029	0	5	from	*	*
+nbc_0029	0	6	Governor	*	*
+nbc_0029	0	7	Bush	*	*
+nbc_0029	0	8	and	*	*
+nbc_0029	0	9	still	*	*
+nbc_0029	0	10	expects	*	*
+nbc_0029	0	11	to	*	*
+nbc_0029	0	12	be	*	*
+nbc_0029	0	13	released	*	*
+nbc_0029	0	14	as	*	*
+nbc_0029	0	15	early	*	*
+nbc_0029	0	16	as	*	*
+nbc_0029	0	17	tomorrow	*	*
+nbc_0029	0	18	,	*	*
+nbc_0029	0	19	and	*	*
+nbc_0029	0	20	today	*	*
+nbc_0029	0	21	,	*	*
+nbc_0029	0	22	President	*	*
+nbc_0029	0	23	Clinton	*	*
+nbc_0029	0	24	cautiously	*	*
+nbc_0029	0	25	speaks	*	*
+nbc_0029	0	26	out	*	*
+nbc_0029	0	27	about	*	*
+nbc_0029	0	28	the	*	*
+nbc_0029	0	29	Florida	*	*
+nbc_0029	0	30	vote	*	*
+nbc_0029	0	31	fight	*	*
+nbc_0029	0	32	,	*	*
+nbc_0029	0	33	saying	*	*
+nbc_0029	0	34	everyone	*	*
+nbc_0029	0	35	should	*	*
+nbc_0029	0	36	,	*	*
+nbc_0029	0	37	``	*	*
+nbc_0029	0	38	let	*	*
+nbc_0029	0	39	the	(ARG1*	(ARG1*
+nbc_0029	0	40	process	*)	*)
+nbc_0029	0	41	play	(V*)	(V*)
+nbc_0029	0	42	out	*	*
+nbc_0029	0	43	.	*	*
+nbc_0029	0	44	''	*	*
+
+nbc_0029	0	0	I	(15)
+nbc_0029	0	1	want	-
+nbc_0029	0	2	everybody	(17
+nbc_0029	0	3	who	-
+nbc_0029	0	4	tried	-
+nbc_0029	0	5	to	-
+nbc_0029	0	6	vote	-
+nbc_0029	0	7	who	-
+nbc_0029	0	8	legally	-
+nbc_0029	0	9	voted	17)
+nbc_0029	0	10	to	-
+nbc_0029	0	11	have	-
+nbc_0029	0	12	their	(17)
+nbc_0029	0	13	vote	-
+nbc_0029	0	14	count	-
+nbc_0029	0	15	,	-
+nbc_0029	0	16	including	-
+nbc_0029	0	17	service	-
+nbc_0029	0	18	people	-
+nbc_0029	0	19	.	-
+
+nbc_0029	0	0	Everybody	(17
+nbc_0029	0	1	.	17)
+
+nbc_0029	0	0	Tonight	(3)
+nbc_0029	0	1	for	-
+nbc_0029	0	2	both	-
+nbc_0029	0	3	George	(4|(12
+nbc_0029	0	4	Bush	4)
+nbc_0029	0	5	and	-
+nbc_0029	0	6	Al	(18
+nbc_0029	0	7	Gore	18)|12)
+nbc_0029	0	8	and	-
+nbc_0029	0	9	their	(12)
+nbc_0029	0	10	war	-
+nbc_0029	0	11	rooms	-
+nbc_0029	0	12	all	-
+nbc_0029	0	13	their	(12)
+nbc_0029	0	14	advisers	-
+nbc_0029	0	15	,	-
+nbc_0029	0	16	this	-
+nbc_0029	0	17	really	-
+nbc_0029	0	18	comes	-
+nbc_0029	0	19	down	-
+nbc_0029	0	20	to	-
+nbc_0029	0	21	a	-
+nbc_0029	0	22	numbers	-
+nbc_0029	0	23	game	-
+nbc_0029	0	24	.	-
+
+nbc_0029	0	0	Everybody	-
+nbc_0029	0	1	keeping	-
+nbc_0029	0	2	a	-
+nbc_0029	0	3	sharp	-
+nbc_0029	0	4	eye	-
+nbc_0029	0	5	on	-
+nbc_0029	0	6	these	-
+nbc_0029	0	7	recount	-
+nbc_0029	0	8	tallies	-
+nbc_0029	0	9	and	-
+nbc_0029	0	10	on	-
+nbc_0029	0	11	Sunday	-
+nbc_0029	0	12	's	-
+nbc_0029	0	13	deadline	-
+nbc_0029	0	14	at	-
+nbc_0029	0	15	5:00	-
+nbc_0029	0	16	p.m.	-
+nbc_0029	0	17	.	-
+
+nbc_0029	0	0	John	(11
+nbc_0029	0	1	?	11)
+
+nbc_0029	0	0	NBC	(6|(10
+nbc_0029	0	1	's	6)
+nbc_0029	0	2	David	-
+nbc_0029	0	3	Gregory	10)
+nbc_0029	0	4	in	-
+nbc_0029	0	5	Austin	(2)
+nbc_0029	0	6	.	-
+
+nbc_0029	0	0	David	(10)
+nbc_0029	0	1	,	-
+nbc_0029	0	2	thank	-
+nbc_0029	0	3	you	(10)
+nbc_0029	0	4	.	-
+
+nbc_0029	0	0	Up	-
+nbc_0029	0	1	next	-
+nbc_0029	0	2	,	-
+nbc_0029	0	3	from	-
+nbc_0029	0	4	recounts	-
+nbc_0029	0	5	to	-
+nbc_0029	0	6	--	-
+
+#end document

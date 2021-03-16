@@ -1,0 +1,92 @@
+#begin document (cnn_0399_0); part 000
+cnn_0399	0	0	Want	VBP	(TOP(S(VP*	want	01	1	-	-
+cnn_0399	0	1	to	TO	(S(VP*	-	-	-	-	-
+cnn_0399	0	2	get	VB	(VP*	get	05	4	-	-
+cnn_0399	0	3	to	IN	(PP*	-	-	-	-	-
+cnn_0399	0	4	Florida	NNP	(NP(NP*)))	-	-	-	-	-
+cnn_0399	0	5	,	,	*	-	-	-	-	-
+cnn_0399	0	6	a	DT	(S(NP*	-	-	-	-	-
+cnn_0399	0	7	massive	JJ	*	-	-	-	-	-
+cnn_0399	0	8	manhunt	NN	*)	-	-	-	-	-
+cnn_0399	0	9	underway	JJ	(ADJP*))	-	-	-	-	-
+cnn_0399	0	10	where	WRB	(SBAR(WHADVP*)	-	-	-	-	-
+cnn_0399	0	11	a	DT	(S(NP*	-	-	-	-	(1
+cnn_0399	0	12	rapist	NN	*)	-	-	-	-	1)
+cnn_0399	0	13	is	VBZ	(VP*	be	03	-	-	-
+cnn_0399	0	14	targeting	VBG	(VP*	target	01	1	-	-
+cnn_0399	0	15	children	NNS	(NP*)))))))))	child	-	1	-	-
+cnn_0399	0	16	.	.	*))	-	-	-	-	-
+
+cnn_0399	0	0	DNA	NN	(TOP(S(NP*	-	-	-	-	-
+cnn_0399	0	1	testing	NN	*)	test	-	1	-	-
+cnn_0399	0	2	has	VBZ	(VP*	have	01	-	-	-
+cnn_0399	0	3	conclusively	RB	(ADVP*)	-	-	-	-	-
+cnn_0399	0	4	linked	VBN	(VP*	link	01	1	-	-
+cnn_0399	0	5	one	CD	(NP*	-	-	-	-	(1
+cnn_0399	0	6	man	NN	*)))	man	-	2	-	1)
+cnn_0399	0	7	.	.	*))	-	-	-	-	-
+
+cnn_0399	0	0	The	DT	(TOP(FRAG(NP*	-	-	-	-	-
+cnn_0399	0	1	two	CD	*	-	-	-	-	-
+cnn_0399	0	2	most	RBS	(ADJP*	-	-	-	-	-
+cnn_0399	0	3	recent	JJ	*)	-	-	-	-	-
+cnn_0399	0	4	victims	NNS	*)	victim	-	1	-	-
+cnn_0399	0	5	,	,	*	-	-	-	-	-
+cnn_0399	0	6	age	NN	(NP*	age	-	1	-	-
+cnn_0399	0	7	11	CD	*	-	-	-	-	-
+cnn_0399	0	8	and	CC	*	-	-	-	-	-
+cnn_0399	0	9	13	CD	*)	-	-	-	-	-
+cnn_0399	0	10	.	.	*))	-	-	-	-	-
+
+cnn_0399	0	0	They	PRP	(TOP(S(NP*)	-	-	-	-	-
+cnn_0399	0	1	also	RB	(ADVP*)	-	-	-	-	-
+cnn_0399	0	2	believed	VBD	(VP*	believe	01	1	-	-
+cnn_0399	0	3	one	CD	(SBAR(S(NP(NP*)	-	-	-	-	-
+cnn_0399	0	4	of	IN	(PP*	-	-	-	-	-
+cnn_0399	0	5	those	DT	(NP(NP*)	-	-	-	-	-
+cnn_0399	0	6	attacked	VBN	(VP*	attack	01	1	-	-
+cnn_0399	0	7	in	IN	(PP*	-	-	-	-	-
+cnn_0399	0	8	this	DT	(NP*	-	-	-	-	-
+cnn_0399	0	9	string	NN	*))))))	string	-	4	-	-
+cnn_0399	0	10	is	VBZ	(VP*	be	01	1	-	-
+cnn_0399	0	11	age	NN	(NP*	age	-	1	-	-
+cnn_0399	0	12	79	CD	*)	-	-	-	-	-
+cnn_0399	0	13	as	RB	(ADVP*	-	-	-	-	-
+cnn_0399	0	14	well	RB	*)))))	-	-	-	-	-
+cnn_0399	0	15	.	.	*))	-	-	-	-	-
+
+cnn_0399	0	0	We	PRP	(TOP(S(S(NP*)	-	-	-	-	-
+cnn_0399	0	1	talked	VBD	(VP*	talk	01	1	-	-
+cnn_0399	0	2	with	IN	(PP*	-	-	-	-	-
+cnn_0399	0	3	the	DT	(NP(NP*	-	-	-	-	-
+cnn_0399	0	4	lieutenant	NN	*)	-	-	-	-	-
+cnn_0399	0	5	in	IN	(PP*	-	-	-	-	-
+cnn_0399	0	6	Miami	NNP	(NP*))))))	-	-	-	-	(0)
+cnn_0399	0	7	and	CC	*	-	-	-	-	-
+cnn_0399	0	8	there	EX	(S(NP*)	-	-	-	-	-
+cnn_0399	0	9	is	VBZ	(VP*	be	02	3	-	-
+cnn_0399	0	10	big	JJ	(NP(NP(NML*	-	-	-	-	-
+cnn_0399	0	11	time	NN	*)	time	-	12	-	-
+cnn_0399	0	12	concern	NN	*)	concern	-	2	-	-
+cnn_0399	0	13	in	IN	(PP*	-	-	-	-	-
+cnn_0399	0	14	the	DT	(NP(NP*	-	-	-	-	-
+cnn_0399	0	15	Shenandoah	NNP	*	-	-	-	-	-
+cnn_0399	0	16	neighborhood	NN	*)	-	-	-	-	-
+cnn_0399	0	17	,	,	*	-	-	-	-	-
+cnn_0399	0	18	southwestern	JJ	(NP(NP*	-	-	-	-	-
+cnn_0399	0	19	portion	NN	*)	portion	-	1	-	-
+cnn_0399	0	20	of	IN	(PP*	-	-	-	-	-
+cnn_0399	0	21	Miami	NNP	(NP*))))))))	-	-	-	-	(0)
+cnn_0399	0	22	.	.	*))	-	-	-	-	-
+
+cnn_0399	0	0	Overseas	RB	(TOP(FRAG(ADVP*	-	-	-	-	-
+cnn_0399	0	1	in	IN	(PP*	-	-	-	-	-
+cnn_0399	0	2	Iraq	NNP	(NP*)))	-	-	-	-	-
+cnn_0399	0	3	,	,	*	-	-	-	-	-
+cnn_0399	0	4	a	DT	(NP*	-	-	-	-	-
+cnn_0399	0	5	major	JJ	*	-	-	-	-	-
+cnn_0399	0	6	operation	NN	*)	operation	-	1	-	-
+cnn_0399	0	7	underway	JJ	(ADJP*)	-	-	-	-	-
+cnn_0399	0	8	.	.	*))	-	-	-	-	-
+
+#end document

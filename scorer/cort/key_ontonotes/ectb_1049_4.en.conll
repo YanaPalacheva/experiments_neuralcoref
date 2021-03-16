@@ -1,0 +1,618 @@
+#begin document (ectb_1049_4); part 000
+ectb_1049	4	0	The	DT	(TOP(NP*	-	-	-	-	(47
+ectb_1049	4	1	weeping	VBG	*	weep	01	-	-	-
+ectb_1049	4	2	river	NN	*))	-	-	-	-	47)
+
+ectb_1049	4	0	Have	VBP	(TOP(SQ*	have	01	12	-	-
+ectb_1049	4	1	you	PRP	(NP*)	-	-	-	-	-
+ectb_1049	4	2	heard	VBN	(VP*	hear	01	1	-	-
+ectb_1049	4	3	of	IN	(PP*	-	-	-	-	-
+ectb_1049	4	4	the	DT	(NP*	-	-	-	-	(12
+ectb_1049	4	5	weeping	VBG	*	weep	01	-	-	-
+ectb_1049	4	6	junks	NNS	*)))	junk	-	3	-	12)
+ectb_1049	4	7	?	.	*))	-	-	-	-	-
+
+ectb_1049	4	0	During	IN	(TOP(S(PP*	-	-	-	-	-
+ectb_1049	4	1	the	DT	(NP*	-	-	-	-	-
+ectb_1049	4	2	Sino	JJ	(ADJP*	-	-	-	-	-
+ectb_1049	4	3	-	HYPH	*	-	-	-	-	-
+ectb_1049	4	4	French	JJ	*)	-	-	-	-	-
+ectb_1049	4	5	war	NN	*))	war	01	1	-	-
+ectb_1049	4	6	,	,	*	-	-	-	-	-
+ectb_1049	4	7	Taiwan	NNP	(NP(NP(NML*	-	-	-	-	-
+ectb_1049	4	8	governor	NN	*)	-	-	-	-	-
+ectb_1049	4	9	Liu	NNP	*	-	-	-	-	-
+ectb_1049	4	10	Mingchuan	NNP	*)	-	-	-	-	-
+ectb_1049	4	11	,	,	*	-	-	-	-	-
+ectb_1049	4	12	attempting	VBG	(VP*	attempt	01	1	-	-
+ectb_1049	4	13	to	TO	(S(VP*	-	-	-	-	-
+ectb_1049	4	14	obstruct	VB	(VP*	obstruct	01	1	-	-
+ectb_1049	4	15	a	DT	(NP*	-	-	-	-	-
+ectb_1049	4	16	French	JJ	*	-	-	-	-	-
+ectb_1049	4	17	landing	NN	*))))))	landing	01	3	-	-
+ectb_1049	4	18	,	,	*	-	-	-	-	-
+ectb_1049	4	19	scuttled	VBD	(VP*	scuttle	01	1	-	-
+ectb_1049	4	20	several	DT	(NP(NP*)	-	-	-	-	(12
+ectb_1049	4	21	of	IN	(PP*	-	-	-	-	-
+ectb_1049	4	22	these	DT	(NP*	-	-	-	-	-
+ectb_1049	4	23	boats	NNS	*))))	-	-	-	-	12)
+ectb_1049	4	24	.	.	*))	-	-	-	-	-
+
+ectb_1049	4	0	It	PRP	(TOP(S(NP(NP*))	-	-	-	-	-
+ectb_1049	4	1	is	VBZ	(VP*	be	03	-	-	-
+ectb_1049	4	2	said	VBN	(VP*	say	01	1	-	-
+ectb_1049	4	3	that	IN	(SBAR*	-	-	-	-	-
+ectb_1049	4	4	,	,	*	-	-	-	-	-
+ectb_1049	4	5	late	RB	(S(PP(ADVP*)	-	-	-	-	-
+ectb_1049	4	6	at	IN	*	-	-	-	-	-
+ectb_1049	4	7	night	NN	(NP*))	night	-	1	-	-
+ectb_1049	4	8	,	,	*	-	-	-	-	-
+ectb_1049	4	9	the	DT	(NP*	-	-	-	-	(12
+ectb_1049	4	10	sunken	JJ	*	-	-	-	-	-
+ectb_1049	4	11	junks	NNS	*)	junk	-	3	-	12)
+ectb_1049	4	12	make	VBP	(VP*	make	-	2	-	-
+ectb_1049	4	13	moaning	NN	(NP*	-	-	-	-	-
+ectb_1049	4	14	sounds	NNS	*))))))	sound	01	1	-	-
+ectb_1049	4	15	.	.	*))	-	-	-	-	-
+
+ectb_1049	4	0	But	CC	(TOP(S*	-	-	-	-	-
+ectb_1049	4	1	I	PRP	(NP*)	-	-	-	-	(35)
+ectb_1049	4	2	think	VBP	(VP*	think	01	1	-	-
+ectb_1049	4	3	that	IN	(SBAR*	-	-	-	-	-
+ectb_1049	4	4	it	PRP	(S(NP*)	-	-	-	-	-
+ectb_1049	4	5	may	MD	(VP*	-	-	-	-	-
+ectb_1049	4	6	be	VB	(VP*	be	01	1	-	-
+ectb_1049	4	7	the	DT	(NP(NP*	-	-	-	-	(47
+ectb_1049	4	8	river	NN	*)	-	-	-	-	-
+ectb_1049	4	9	itself	PRP	(NP*))	-	-	-	-	(47)|47)
+ectb_1049	4	10	that	WDT	(SBAR(WHNP*)	-	-	-	-	-
+ectb_1049	4	11	is	VBZ	(S(VP*	be	03	-	-	-
+ectb_1049	4	12	moaning	VBG	(VP*)))))))))	moan	01	-	-	-
+ectb_1049	4	13	.	.	*))	-	-	-	-	-
+
+ectb_1049	4	0	In	IN	(TOP(S(PP*	-	-	-	-	-
+ectb_1049	4	1	1998	CD	(NP*))	-	-	-	-	-
+ectb_1049	4	2	,	,	*	-	-	-	-	-
+ectb_1049	4	3	the	DT	(NP*	-	-	-	-	(50
+ectb_1049	4	4	government	NN	*)	government	-	1	-	50)
+ectb_1049	4	5	produced	VBD	(VP*	produce	01	2	-	-
+ectb_1049	4	6	a	DT	(NP(NP*	-	-	-	-	(22
+ectb_1049	4	7	plan	NN	*)	plan	-	3	-	-
+ectb_1049	4	8	for	IN	(PP*	-	-	-	-	-
+ectb_1049	4	9	a	DT	(NP(NP*	-	-	-	-	(2
+ectb_1049	4	10	riverside	NN	*	-	-	-	-	-
+ectb_1049	4	11	expressway	NN	*)	-	-	-	-	-
+ectb_1049	4	12	to	IN	(PP*	-	-	-	-	-
+ectb_1049	4	13	Tanshui	NNP	(NP*))))))	-	-	-	-	(3)|22)|2)
+ectb_1049	4	14	.	.	*))	-	-	-	-	-
+
+ectb_1049	4	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	(2
+ectb_1049	4	1	road	NN	*)	road	-	1	-	-
+ectb_1049	4	2	,	,	*	-	-	-	-	-
+ectb_1049	4	3	which	WDT	(SBAR(WHNP*)	-	-	-	-	-
+ectb_1049	4	4	was	VBD	(S(VP*	be	03	-	-	-
+ectb_1049	4	5	expected	VBN	(VP*	expect	01	-	-	-
+ectb_1049	4	6	to	TO	(S(VP*	-	-	-	-	-
+ectb_1049	4	7	have	VB	(VP*	have	03	-	-	-
+ectb_1049	4	8	three	CD	(NP*	-	-	-	-	-
+ectb_1049	4	9	levels	NNS	*)))))))))	level	-	5	-	2)
+ectb_1049	4	10	,	,	*	-	-	-	-	-
+ectb_1049	4	11	would	MD	(VP*	-	-	-	-	-
+ectb_1049	4	12	have	VB	(VP*	have	01	-	-	-
+ectb_1049	4	13	cut	VBN	(VP(VP*	cut	01	1	-	-
+ectb_1049	4	14	through	IN	(PP*	-	-	-	-	-
+ectb_1049	4	15	rare	JJ	(NP*	-	-	-	-	-
+ectb_1049	4	16	mangroves	NNS	*)))	-	-	-	-	-
+ectb_1049	4	17	and	CC	*	-	-	-	-	-
+ectb_1049	4	18	created	VBN	(VP*	create	01	1	-	-
+ectb_1049	4	19	a	DT	(NP(NP*	-	-	-	-	-
+ectb_1049	4	20	barrier	NN	*)	barrier	-	1	-	-
+ectb_1049	4	21	between	IN	(PP*	-	-	-	-	-
+ectb_1049	4	22	the	DT	(NP(NP*	-	-	-	-	(47
+ectb_1049	4	23	river	NN	*)	-	-	-	-	47)
+ectb_1049	4	24	and	CC	*	-	-	-	-	-
+ectb_1049	4	25	the	DT	(NP(NP*	-	-	-	-	(3
+ectb_1049	4	26	town	NN	*)	town	-	1	-	-
+ectb_1049	4	27	of	IN	(PP*	-	-	-	-	-
+ectb_1049	4	28	Tanshui	NNP	(NP*))))))))))	-	-	-	-	3)
+ectb_1049	4	29	.	.	*))	-	-	-	-	-
+
+ectb_1049	4	0	If	IN	(TOP(S(SBAR*	-	-	-	-	*	*
+ectb_1049	4	1	the	DT	(S(NP*	-	-	-	-	*	*
+ectb_1049	4	2	plan	NN	*)	plan	-	3	-	*	*
+ectb_1049	4	3	had	VBD	(VP*	have	01	-	-	*	*
+ectb_1049	4	4	been	VBN	(VP*	be	03	-	-	*	*
+ectb_1049	4	5	implemented	VBN	(VP*)))))	implement	01	1	-	*	*
+ectb_1049	4	6	,	,	*	-	-	-	-	*	*
+ectb_1049	4	7	people	NNS	(NP(NP*)	people	-	1	-	(ARG0*	(ARG0*
+ectb_1049	4	8	who	WP	(SBAR(WHNP*)	-	-	-	-	*	*
+ectb_1049	4	9	wanted	VBD	(S(VP(VP*	want	01	1	-	*	*
+ectb_1049	4	10	to	TO	(S(VP*	-	-	-	-	*	*
+ectb_1049	4	11	go	VB	(VP*	go	02	1	-	*	*
+ectb_1049	4	12	to	IN	(PP*	-	-	-	-	*	*
+ectb_1049	4	13	Tanshui	NNP	(NP*))))))	-	-	-	-	*	*
+ectb_1049	4	14	and	CC	*	-	-	-	-	*	*
+ectb_1049	4	15	gaze	VBP	(VP*	gaze	01	-	-	*	*
+ectb_1049	4	16	out	RB	(ADVP*)	-	-	-	-	*	*
+ectb_1049	4	17	over	IN	(PP*	-	-	-	-	*	*
+ectb_1049	4	18	the	DT	(NP*	-	-	-	-	*	*
+ectb_1049	4	19	river	NN	*)))))))	-	-	-	-	*)	*)
+ectb_1049	4	20	would	MD	(VP*	-	-	-	-	*	*
+ectb_1049	4	21	have	VB	(VP*	have	01	-	-	*	*
+ectb_1049	4	22	had	VBN	(VP*	have	02	12	-	*	*
+ectb_1049	4	23	to	TO	(S(VP*	-	-	-	-	*	*
+ectb_1049	4	24	find	VB	(VP*	find	01	1	-	*	*
+ectb_1049	4	25	some	DT	(NP(NP*	-	-	-	-	*	*
+ectb_1049	4	26	very	RB	(ADJP*	-	-	-	-	*	*
+ectb_1049	4	27	high	JJ	*)	-	-	-	-	*	*
+ectb_1049	4	28	vantage	NN	*	-	-	-	-	*	*
+ectb_1049	4	29	point	NN	*)	point	-	2	-	*	*
+ectb_1049	4	30	in	IN	(PP*	-	-	-	-	*	*
+ectb_1049	4	31	town	NN	(NP*)))	town	-	1	-	*	*
+ectb_1049	4	32	to	TO	(S(VP*	-	-	-	-	*	*
+ectb_1049	4	33	do	VB	(VP*	do	02	1	-	(V*)	(V*)
+ectb_1049	4	34	so	RB	(ADVP*))))))))))	-	-	-	-	(ARG1*)	(ARG1*)
+ectb_1049	4	35	!	.	*))	-	-	-	-	*	*
+
+ectb_1049	4	0	Fortunately	RB	(TOP(S(ADVP*)	-	-	-	-	-	-
+ectb_1049	4	1	,	,	*	-	-	-	-	-	-
+ectb_1049	4	2	thanks	NNS	(NP(NP*)	thanks	-	3	-	-	-
+ectb_1049	4	3	to	IN	(PP*	-	-	-	-	-	-
+ectb_1049	4	4	efforts	NNS	(NP(NP*)	effort	-	1	-	-	-
+ectb_1049	4	5	by	IN	(PP*	-	-	-	-	-	-
+ectb_1049	4	6	cultural	JJ	(NP(NP(ADJP*	-	-	-	-	-	-
+ectb_1049	4	7	and	CC	*	-	-	-	-	-	-
+ectb_1049	4	8	environmental	JJ	*)	-	-	-	-	-	-
+ectb_1049	4	9	activists	NNS	*)	-	-	-	-	-	-
+ectb_1049	4	10	from	IN	(PP*	-	-	-	-	-	-
+ectb_1049	4	11	Tanshui	NNP	(NP*)))))))	-	-	-	-	(3)	(3)
+ectb_1049	4	12	,	,	*	-	-	-	-	-	-
+ectb_1049	4	13	the	DT	(NP*	-	-	-	-	(22	(22
+ectb_1049	4	14	plan	NN	*)	plan	-	2	-	22)	22)
+ectb_1049	4	15	was	VBD	(VP(VP*	be	03	-	-	-	-
+ectb_1049	4	16	first	RB	(ADVP*)	-	-	-	-	-	-
+ectb_1049	4	17	postponed	VBN	(VP*))	postpone	01	1	-	-	-
+ectb_1049	4	18	,	,	*	-	-	-	-	-	-
+ectb_1049	4	19	and	CC	*	-	-	-	-	-	-
+ectb_1049	4	20	then	RB	(VP(ADVP*)	-	-	-	-	-	-
+ectb_1049	4	21	was	VBD	*	be	03	-	-	-	-
+ectb_1049	4	22	ultimately	RB	(ADVP*)	-	-	-	-	-	-
+ectb_1049	4	23	killed	VBN	(VP*	kill	01	4	-	-	-
+ectb_1049	4	24	after	IN	(SBAR*	-	-	-	-	-	-
+ectb_1049	4	25	an	DT	(S(NP(NP*	-	-	-	-	-	-
+ectb_1049	4	26	environmental	JJ	(NML*	-	-	-	-	-	-
+ectb_1049	4	27	impact	NN	*)	impact	01	2	-	-	-
+ectb_1049	4	28	assessment	NN	*)	assessment	01	1	-	-	-
+ectb_1049	4	29	released	VBN	(VP*	release	01	2	-	-	-
+ectb_1049	4	30	in	IN	(PP*	-	-	-	-	-	-
+ectb_1049	4	31	September	NNP	(NP*))))	-	-	-	-	-	-
+ectb_1049	4	32	refused	VBD	(VP*	refuse	01	1	-	-	-
+ectb_1049	4	33	to	TO	(S(VP*	-	-	-	-	-	-
+ectb_1049	4	34	approve	VB	(VP*	approve	01	1	-	-	-
+ectb_1049	4	35	the	DT	(NP*	-	-	-	-	(22	(22
+ectb_1049	4	36	scheme	NN	*))))))))))	scheme	-	1	-	22)	22)
+ectb_1049	4	37	.	.	*))	-	-	-	-	-	-
+
+ectb_1049	4	0	But	CC	(TOP(S(S*	-	-	-	-	-
+ectb_1049	4	1	a	DT	(NP*	-	-	-	-	-
+ectb_1049	4	2	question	NN	*)	question	-	2	-	-
+ectb_1049	4	3	remains	VBZ	(VP*))	remain	01	2	-	-
+ectb_1049	4	4	:	:	*	-	-	-	-	-
+ectb_1049	4	5	Is	VBZ	(SQ*	be	02	1	-	-
+ectb_1049	4	6	something	NN	(NP(NP*)	-	-	-	-	-
+ectb_1049	4	7	like	IN	(PP*	-	-	-	-	-
+ectb_1049	4	8	this	DT	(NP*)))	-	-	-	-	-
+ectb_1049	4	9	bound	VBN	(VP*	bound	02	3	-	-
+ectb_1049	4	10	to	TO	(S(VP*	-	-	-	-	-
+ectb_1049	4	11	come	VB	(VP*	come	01	1	-	-
+ectb_1049	4	12	sooner	RBR	(ADVP*	-	-	-	-	-
+ectb_1049	4	13	or	CC	*	-	-	-	-	-
+ectb_1049	4	14	later	RBR	*))))))	-	-	-	-	-
+ectb_1049	4	15	?	.	*))	-	-	-	-	-
+
+ectb_1049	4	0	"	``	(TOP(S*	-	-	-	-	-
+ectb_1049	4	1	For	IN	(PP*	-	-	-	-	-
+ectb_1049	4	2	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1049	4	3	purposes	NNS	*)	purpose	-	1	-	-
+ectb_1049	4	4	of	IN	(PP*	-	-	-	-	-
+ectb_1049	4	5	development	NN	(NP*))))	-	-	-	-	-
+ectb_1049	4	6	,	,	*	-	-	-	-	-
+ectb_1049	4	7	the	DT	(NP*	-	-	-	-	-
+ectb_1049	4	8	Tanshui	NNP	*	-	-	-	-	(3)
+ectb_1049	4	9	coast	NN	*)	-	-	-	-	-
+ectb_1049	4	10	has	VBZ	(VP*	have	01	-	-	-
+ectb_1049	4	11	been	VBN	(VP*	be	03	-	-	-
+ectb_1049	4	12	constantly	RB	(ADVP*)	-	-	-	-	-
+ectb_1049	4	13	exploited	VBN	(VP*)))	exploit	01	1	-	-
+ectb_1049	4	14	.	.	*))	-	-	-	-	-
+
+ectb_1049	4	0	But	CC	(TOP(SINV(SBARQ*	-	-	-	-	-
+ectb_1049	4	1	what	WP	(WHNP*)	-	-	-	-	-
+ectb_1049	4	2	will	MD	(SQ(VP*	-	-	-	-	-
+ectb_1049	4	3	be	VB	(VP*	be	01	1	-	-
+ectb_1049	4	4	result	NN	(NP(NP*)	result	-	1	-	-
+ectb_1049	4	5	of	IN	(PP*	-	-	-	-	-
+ectb_1049	4	6	this	DT	(NP(NP*	-	-	-	-	-
+ectb_1049	4	7	incessant	JJ	*	-	-	-	-	-
+ectb_1049	4	8	struggle	NN	*)	struggle	-	3	-	-
+ectb_1049	4	9	against	IN	(PP*	-	-	-	-	-
+ectb_1049	4	10	nature	NN	(NP*))))))))	-	-	-	-	-
+ectb_1049	4	11	?	.	*)	-	-	-	-	-
+ectb_1049	4	12	"	''	*	-	-	-	-	-
+ectb_1049	4	13	says	VBZ	(VP*)	say	01	1	-	-
+ectb_1049	4	14	an	DT	(NP*	-	-	-	-	(18
+ectb_1049	4	15	agitated	VBN	*	agitate	01	-	-	-
+ectb_1049	4	16	Tu	NNP	*	-	-	-	-	-
+ectb_1049	4	17	Hsiu	NNP	*	-	-	-	-	-
+ectb_1049	4	18	-	HYPH	*	-	-	-	-	-
+ectb_1049	4	19	yuan	NNP	*)	-	-	-	-	18)
+ectb_1049	4	20	.	.	*))	-	-	-	-	-
+
+ectb_1049	4	0	And	CC	(TOP(S*	-	-	-	-	-
+ectb_1049	4	1	Hsieh	NNP	(NP(NP*	-	-	-	-	-
+ectb_1049	4	2	Teh	NNP	*	-	-	-	-	-
+ectb_1049	4	3	-	HYPH	*	-	-	-	-	-
+ectb_1049	4	4	hsi	NNP	*)	-	-	-	-	-
+ectb_1049	4	5	of	IN	(PP*	-	-	-	-	-
+ectb_1049	4	6	the	DT	(NP*	-	-	-	-	-
+ectb_1049	4	7	Tamsui	NNP	(NML*	-	-	-	-	-
+ectb_1049	4	8	Culture	NNP	*)	-	-	-	-	-
+ectb_1049	4	9	Foundation	NNP	*)))	-	-	-	-	-
+ectb_1049	4	10	adds	VBZ	(VP*	add	01	1	-	-
+ectb_1049	4	11	:	:	*	-	-	-	-	-
+ectb_1049	4	12	"	``	*	-	-	-	-	-
+ectb_1049	4	13	High	JJ	(S(S(NP*	-	-	-	-	(5
+ectb_1049	4	14	-	HYPH	*	-	-	-	-	-
+ectb_1049	4	15	rises	NNS	*)	-	-	-	-	5)
+ectb_1049	4	16	are	VBP	(VP*	be	03	-	-	-
+ectb_1049	4	17	going	VBG	(VP*	go	01	15	-	-
+ectb_1049	4	18	up	RB	(ADVP*)	-	-	-	-	-
+ectb_1049	4	19	one	NN	(NP(NP*)	one	-	2	-	-
+ectb_1049	4	20	after	IN	(PP*	-	-	-	-	-
+ectb_1049	4	21	another	DT	(NP*)))	-	-	-	-	-
+ectb_1049	4	22	in	IN	(PP*	-	-	-	-	-
+ectb_1049	4	23	Tanshui	NNP	(NP(NP*	-	-	-	-	(13
+ectb_1049	4	24	New	NNP	*	-	-	-	-	-
+ectb_1049	4	25	Town	NNP	*)	-	-	-	-	-
+ectb_1049	4	26	[	-LRB-	*	-	-	-	-	-
+ectb_1049	4	27	a	NNP	(NP*	-	-	-	-	-
+ectb_1049	4	28	huge	JJ	*	-	-	-	-	-
+ectb_1049	4	29	government	NN	(ADJP*	government	-	1	-	-
+ectb_1049	4	30	-	HYPH	*	-	-	-	-	-
+ectb_1049	4	31	planned	VBN	*)	plan	01	-	-	-
+ectb_1049	4	32	development	NN	*)	-	-	-	-	-
+ectb_1049	4	33	]	-RRB-	*)))))	-	-	-	-	13)
+ectb_1049	4	34	,	,	*	-	-	-	-	-
+ectb_1049	4	35	but	CC	*	-	-	-	-	-
+ectb_1049	4	36	many	JJ	(S(NP(NP*)	-	-	-	-	-
+ectb_1049	4	37	of	IN	(PP*	-	-	-	-	-
+ectb_1049	4	38	the	DT	(NP*	-	-	-	-	(5
+ectb_1049	4	39	apartments	NNS	*)))	-	-	-	-	5)
+ectb_1049	4	40	remain	VBP	(VP*	remain	01	1	-	-
+ectb_1049	4	41	empty	JJ	(ADJP*)))))	-	-	-	-	-
+ectb_1049	4	42	.	.	*))	-	-	-	-	-
+
+ectb_1049	4	0	Everybody	NN	(TOP(S(NP(NP*)	-	-	-	-	-
+ectb_1049	4	1	here	RB	(ADVP*))	-	-	-	-	-
+ectb_1049	4	2	knows	VBZ	(VP*	know	01	1	-	-
+ectb_1049	4	3	that	IN	(SBAR*	-	-	-	-	-
+ectb_1049	4	4	when	WRB	(S(SBAR(WHADVP*)	-	-	-	-	-
+ectb_1049	4	5	the	DT	(S(NP*	-	-	-	-	-
+ectb_1049	4	6	northeast	NN	*	-	-	-	-	-
+ectb_1049	4	7	winds	NNS	*)	wind	-	1	-	-
+ectb_1049	4	8	blow	VBP	(VP*	blow	01	2	-	-
+ectb_1049	4	9	in	RB	(ADVP*)	-	-	-	-	-
+ectb_1049	4	10	during	IN	(PP*	-	-	-	-	-
+ectb_1049	4	11	the	DT	(NP*	-	-	-	-	-
+ectb_1049	4	12	winter	NN	*)))))	-	-	-	-	-
+ectb_1049	4	13	,	,	*	-	-	-	-	-
+ectb_1049	4	14	that	DT	(NP*)	-	-	-	-	(13)
+ectb_1049	4	15	is	VBZ	(VP*	be	01	1	-	-
+ectb_1049	4	16	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1049	4	17	coldest	JJS	*	-	-	-	-	-
+ectb_1049	4	18	place	NN	*)	place	-	2	-	-
+ectb_1049	4	19	around	RB	(ADVP*))))))	-	-	-	-	-
+ectb_1049	4	20	.	.	*))	-	-	-	-	-
+
+ectb_1049	4	0	No	DT	(TOP(NP*	-	-	-	-	-
+ectb_1049	4	1	wonder	NN	*	wonder	-	2	-	-
+ectb_1049	4	2	those	DT	(SBAR(S(NP*	-	-	-	-	(5
+ectb_1049	4	3	apartments	NNS	*)	-	-	-	-	5)
+ectb_1049	4	4	are	VBP	(VP*	be	03	-	-	-
+ectb_1049	4	5	not	RB	*	-	-	-	-	-
+ectb_1049	4	6	selling	VBG	(VP*))))	sell	01	1	-	-
+ectb_1049	4	7	!	.	*	-	-	-	-	-
+ectb_1049	4	8	"	''	*))	-	-	-	-	-
+
+ectb_1049	4	0	Tu	NNP	(TOP(S(NP*)	-	-	-	-	(18)
+ectb_1049	4	1	says	VBZ	(VP*	say	01	1	-	-
+ectb_1049	4	2	,	,	*	-	-	-	-	-
+ectb_1049	4	3	with	IN	(PP*	-	-	-	-	-
+ectb_1049	4	4	disbelief	NN	(NP(NP*	-	-	-	-	-
+ectb_1049	4	5	and	CC	*	-	-	-	-	-
+ectb_1049	4	6	exasperation	NN	*)	-	-	-	-	-
+ectb_1049	4	7	in	IN	(PP*	-	-	-	-	-
+ectb_1049	4	8	his	PRP$	(NP*	-	-	-	-	(18)
+ectb_1049	4	9	voice	NN	*))))	voice	-	1	-	-
+ectb_1049	4	10	:	:	*	-	-	-	-	-
+ectb_1049	4	11	"	``	*	-	-	-	-	-
+ectb_1049	4	12	Do	VBP	(SQ*	do	01	-	-	-
+ectb_1049	4	13	you	PRP	(NP*)	-	-	-	-	-
+ectb_1049	4	14	know	VB	(VP*	know	01	1	-	-
+ectb_1049	4	15	that	IN	(SBAR*	-	-	-	-	-
+ectb_1049	4	16	they	PRP	(S(NP*)	-	-	-	-	(50)
+ectb_1049	4	17	are	VBP	(VP*	be	03	-	-	-
+ectb_1049	4	18	going	VBG	(VP*	go	04	7	-	-
+ectb_1049	4	19	to	TO	(S(VP*	-	-	-	-	-
+ectb_1049	4	20	build	VB	(VP*	build	01	1	-	-
+ectb_1049	4	21	a	DT	(NP(NP*	-	-	-	-	-
+ectb_1049	4	22	huge	JJ	*	-	-	-	-	-
+ectb_1049	4	23	bridge	NN	*)	bridge	-	1	-	-
+ectb_1049	4	24	between	IN	(PP*	-	-	-	-	-
+ectb_1049	4	25	Tanshui	NNP	(NP*	-	-	-	-	(3)
+ectb_1049	4	26	and	CC	*	-	-	-	-	-
+ectb_1049	4	27	Pali	NNP	*)))))))))))))	-	-	-	-	-
+ectb_1049	4	28	?	.	*))	-	-	-	-	-
+
+ectb_1049	4	0	It	PRP	(TOP(S(S(NP*)	-	-	-	-	-
+ectb_1049	4	1	's	VBZ	(VP*	be	01	2	-	-
+ectb_1049	4	2	such	PDT	(NP*	-	-	-	-	-
+ectb_1049	4	3	a	DT	*	-	-	-	-	-
+ectb_1049	4	4	beautiful	JJ	(ADJP*	-	-	-	-	-
+ectb_1049	4	5	and	CC	*	-	-	-	-	-
+ectb_1049	4	6	historic	JJ	*)	-	-	-	-	-
+ectb_1049	4	7	location	NN	*)))	location	-	1	-	-
+ectb_1049	4	8	,	,	*	-	-	-	-	-
+ectb_1049	4	9	but	CC	*	-	-	-	-	-
+ectb_1049	4	10	they	PRP	(S(S(NP*)	-	-	-	-	(50)
+ectb_1049	4	11	are	VBP	(VP*	be	03	-	-	-
+ectb_1049	4	12	just	RB	(ADVP*)	-	-	-	-	-
+ectb_1049	4	13	going	VBG	(VP*	go	04	7	-	-
+ectb_1049	4	14	to	TO	(S(VP*	-	-	-	-	-
+ectb_1049	4	15	stick	VB	(VP*	stick	04	2	-	-
+ectb_1049	4	16	up	RB	(ADVP*)	-	-	-	-	-
+ectb_1049	4	17	a	DT	(NP*	-	-	-	-	-
+ectb_1049	4	18	bridge	NN	*)	bridge	-	1	-	-
+ectb_1049	4	19	there	RB	(ADVP*)))))))	-	-	-	-	-
+ectb_1049	4	20	,	,	*	-	-	-	-	-
+ectb_1049	4	21	and	CC	*	-	-	-	-	-
+ectb_1049	4	22	they	PRP	(S(NP*)	-	-	-	-	(50)
+ectb_1049	4	23	are	VBP	(VP*	be	03	-	-	-
+ectb_1049	4	24	even	RB	(ADVP*)	-	-	-	-	-
+ectb_1049	4	25	talking	VBG	(VP*	talk	01	1	-	-
+ectb_1049	4	26	about	IN	(PP*	-	-	-	-	-
+ectb_1049	4	27	having	VBG	(S(VP*	have	03	-	-	-
+ectb_1049	4	28	a	DT	(NP*	-	-	-	-	-
+ectb_1049	4	29	rotating	VBG	*	rotate	01	-	-	-
+ectb_1049	4	30	restaurant	NN	*)	-	-	-	-	-
+ectb_1049	4	31	on	IN	(PP*	-	-	-	-	-
+ectb_1049	4	32	top	NN	(NP*)))))))))	top	-	1	-	-
+ectb_1049	4	33	!	.	*	-	-	-	-	-
+ectb_1049	4	34	"	''	*))	-	-	-	-	-
+
+ectb_1049	4	0	Lovers	NNS	(TOP(S(NP(NP*)	-	-	-	-	(26
+ectb_1049	4	1	of	IN	(PP*	-	-	-	-	-
+ectb_1049	4	2	Tanshui	NNP	(NP*)))	-	-	-	-	(3)|26)
+ectb_1049	4	3	,	,	*	-	-	-	-	-
+ectb_1049	4	4	while	IN	(SBAR*	-	-	-	-	-
+ectb_1049	4	5	keeping	VBG	(S(VP*	keep	02	-	-	-
+ectb_1049	4	6	close	JJ	(NP*	-	-	-	-	-
+ectb_1049	4	7	watch	NN	*)	watch	01	3	-	-
+ectb_1049	4	8	over	IN	(PP*	-	-	-	-	-
+ectb_1049	4	9	her	PRP	(NP*)))))	-	-	-	-	(3)
+ectb_1049	4	10	,	,	*	-	-	-	-	-
+ectb_1049	4	11	are	VBP	(VP*	be	01	1	-	-
+ectb_1049	4	12	fearful	JJ	(ADJP*	-	-	-	-	-
+ectb_1049	4	13	that	IN	(SBAR*	-	-	-	-	-
+ectb_1049	4	14	the	DT	(S(NP(NP*	-	-	-	-	-
+ectb_1049	4	15	giant	JJ	*	-	-	-	-	-
+ectb_1049	4	16	beast	NN	*)	-	-	-	-	-
+ectb_1049	4	17	of	IN	(PP*	-	-	-	-	-
+ectb_1049	4	18	development	NN	(NP*)))	-	-	-	-	-
+ectb_1049	4	19	may	MD	(VP*	-	-	-	-	-
+ectb_1049	4	20	eventually	RB	(VP(VP(ADVP*)	-	-	-	-	-
+ectb_1049	4	21	come	VB	*)	come	01	1	-	-
+ectb_1049	4	22	and	CC	*	-	-	-	-	-
+ectb_1049	4	23	bulldoze	VB	(VP*	bulldoze	01	-	-	-
+ectb_1049	4	24	Tanshui	NNP	(NP*)	-	-	-	-	(3)
+ectb_1049	4	25	away	RB	(ADVP*)	-	-	-	-	-
+ectb_1049	4	26	one	CD	(NP(NP(NP*	-	-	-	-	-
+ectb_1049	4	27	piece	NN	*)	piece	-	1	-	-
+ectb_1049	4	28	of	IN	(PP*	-	-	-	-	-
+ectb_1049	4	29	land	NN	(NP*)))	land	-	1	-	-
+ectb_1049	4	30	at	IN	(PP*	-	-	-	-	-
+ectb_1049	4	31	a	DT	(NP*	-	-	-	-	-
+ectb_1049	4	32	time	NN	*))))))))))	time	-	1	-	-
+ectb_1049	4	33	.	.	*))	-	-	-	-	-
+
+ectb_1049	4	0	They	PRP	(TOP(S(NP*)	-	-	-	-	(26)
+ectb_1049	4	1	fear	VBP	(VP*	fear	01	2	-	-
+ectb_1049	4	2	that	IN	(SBAR*	-	-	-	-	-
+ectb_1049	4	3	their	PRP$	(S(NP(NP*	-	-	-	-	(26)
+ectb_1049	4	4	children	NNS	*)	child	-	2	-	-
+ectb_1049	4	5	,	,	*	-	-	-	-	-
+ectb_1049	4	6	like	IN	(PP*	-	-	-	-	-
+ectb_1049	4	7	they	PRP	(NP(NP*)	-	-	-	-	(26
+ectb_1049	4	8	themselves	PRP	(NP*))))	-	-	-	-	(26)|26)
+ectb_1049	4	9	,	,	*	-	-	-	-	-
+ectb_1049	4	10	will	MD	(VP*	-	-	-	-	-
+ectb_1049	4	11	have	VB	(VP*	have	02	12	-	-
+ectb_1049	4	12	to	TO	(S(VP*	-	-	-	-	-
+ectb_1049	4	13	search	VB	(VP*	search	01	1	-	-
+ectb_1049	4	14	through	IN	(PP*	-	-	-	-	-
+ectb_1049	4	15	photographs	NNS	(NP*	-	-	-	-	-
+ectb_1049	4	16	and	CC	*	-	-	-	-	-
+ectb_1049	4	17	memories	NNS	*))	-	-	-	-	-
+ectb_1049	4	18	to	TO	(S(VP*	-	-	-	-	-
+ectb_1049	4	19	find	VB	(VP*	find	01	1	-	-
+ectb_1049	4	20	Tanshui	NNP	(NP(NP(NP*	-	-	-	-	(3
+ectb_1049	4	21	's	POS	*)	-	-	-	-	3)
+ectb_1049	4	22	traditional	JJ	*	-	-	-	-	-
+ectb_1049	4	23	simplicity	NN	*)	-	-	-	-	-
+ectb_1049	4	24	and	CC	*	-	-	-	-	-
+ectb_1049	4	25	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1049	4	26	joys	NNS	*)	-	-	-	-	-
+ectb_1049	4	27	of	IN	(PP*	-	-	-	-	-
+ectb_1049	4	28	being	VBG	(S(VP*	be	01	1	-	-
+ectb_1049	4	29	close	RB	(ADJP*	-	-	-	-	-
+ectb_1049	4	30	to	IN	(PP*	-	-	-	-	-
+ectb_1049	4	31	nature	NN	(NP*)))))))))))))))))))	-	-	-	-	-
+ectb_1049	4	32	.	.	*))	-	-	-	-	-
+
+ectb_1049	4	0	When	WRB	(TOP(SQ(SBAR(WHADVP*)	-	-	-	-	-
+ectb_1049	4	1	the	DT	(S(S(NP*	-	-	-	-	-
+ectb_1049	4	2	old	JJ	*	-	-	-	-	-
+ectb_1049	4	3	buildings	NNS	*)	building	-	1	-	-
+ectb_1049	4	4	are	VBP	(VP*	be	01	1	-	-
+ectb_1049	4	5	gone	JJ	(ADJP*)))	-	-	-	-	-
+ectb_1049	4	6	,	,	*	-	-	-	-	-
+ectb_1049	4	7	and	CC	*	-	-	-	-	-
+ectb_1049	4	8	people	NNS	(S(NP*)	people	-	1	-	-
+ectb_1049	4	9	lose	VBP	(VP*	lose	02	4	-	-
+ectb_1049	4	10	contact	NN	(NP(NP*)	contact	01	3	-	-
+ectb_1049	4	11	with	IN	(PP*	-	-	-	-	-
+ectb_1049	4	12	the	DT	(NP*	-	-	-	-	-
+ectb_1049	4	13	great	JJ	*	-	-	-	-	-
+ectb_1049	4	14	outdoors	NNS	*)))))))	-	-	-	-	-
+ectb_1049	4	15	,	,	*	-	-	-	-	-
+ectb_1049	4	16	will	MD	*	-	-	-	-	-
+ectb_1049	4	17	Tanshui	NNP	(NP*)	-	-	-	-	(3)
+ectb_1049	4	18	even	RB	(ADVP*)	-	-	-	-	-
+ectb_1049	4	19	be	VB	(VP*	be	01	1	-	-
+ectb_1049	4	20	worthy	JJ	(ADJP*	-	-	-	-	-
+ectb_1049	4	21	of	IN	(PP*	-	-	-	-	-
+ectb_1049	4	22	its	PRP$	(NP*	-	-	-	-	(3)
+ectb_1049	4	23	reputation	NN	*)))	reputation	-	3	-	-
+ectb_1049	4	24	anymore	RB	(ADVP*))	-	-	-	-	-
+ectb_1049	4	25	?	.	*))	-	-	-	-	-
+
+ectb_1049	4	0	Scattered	JJ	(TOP(S(NP*	-	-	-	-	-
+ectb_1049	4	1	wooden	JJ	*	-	-	-	-	-
+ectb_1049	4	2	fishing	NN	*	-	-	-	-	-
+ectb_1049	4	3	boats	NNS	*)	-	-	-	-	-
+ectb_1049	4	4	bob	VBP	(VP*	bob	01	1	-	-
+ectb_1049	4	5	in	IN	(PP*	-	-	-	-	-
+ectb_1049	4	6	the	DT	(NP*	-	-	-	-	(47
+ectb_1049	4	7	river	NN	*)))	-	-	-	-	47)
+ectb_1049	4	8	.	.	*))	-	-	-	-	-
+
+ectb_1049	4	0	I	PRP	(TOP(S(NP*)	-	-	-	-	(35)
+ectb_1049	4	1	have	VBP	(VP*	have	01	-	-	-
+ectb_1049	4	2	n't	RB	*	-	-	-	-	-
+ectb_1049	4	3	met	VBN	(VP*	meet	02	1	-	-
+ectb_1049	4	4	any	DT	(NP(NP*)	-	-	-	-	-
+ectb_1049	4	5	of	IN	(PP*	-	-	-	-	-
+ectb_1049	4	6	the	DT	(NP(NP*	-	-	-	-	(9
+ectb_1049	4	7	fishermen	NNS	*)	-	-	-	-	-
+ectb_1049	4	8	who	WP	(SBAR(WHNP*)	-	-	-	-	-
+ectb_1049	4	9	these	DT	(S(NP*	-	-	-	-	-
+ectb_1049	4	10	days	NNS	*)	day	-	2	-	-
+ectb_1049	4	11	go	VBP	(VP(VP*	go	02	2	-	-
+ectb_1049	4	12	out	RB	(ADVP*))	-	-	-	-	-
+ectb_1049	4	13	and	CC	*	-	-	-	-	-
+ectb_1049	4	14	catch	VB	(VP*	catch	03	2	-	-
+ectb_1049	4	15	only	RB	(NP*	-	-	-	-	-
+ectb_1049	4	16	small	JJ	*	-	-	-	-	-
+ectb_1049	4	17	fry	NN	*))))))))))	-	-	-	-	9)
+ectb_1049	4	18	.	.	*))	-	-	-	-	-
+
+ectb_1049	4	0	They	PRP	(TOP(S(NP*)	-	-	-	-	(9)
+ectb_1049	4	1	might	MD	(VP*	-	-	-	-	-
+ectb_1049	4	2	relate	VB	(VP*	relate	02	4	-	-
+ectb_1049	4	3	how	WRB	(SBAR(WHADVP*)	-	-	-	-	-
+ectb_1049	4	4	in	IN	(S(PP*	-	-	-	-	-
+ectb_1049	4	5	the	DT	(NP*	-	-	-	-	-
+ectb_1049	4	6	old	JJ	*	-	-	-	-	-
+ectb_1049	4	7	days	NNS	*))	day	-	4	-	-
+ectb_1049	4	8	they	PRP	(NP*)	-	-	-	-	(9)
+ectb_1049	4	9	could	MD	(VP*	-	-	-	-	-
+ectb_1049	4	10	just	RB	(ADVP*)	-	-	-	-	-
+ectb_1049	4	11	put	VB	(VP(VP*	put	01	1	-	-
+ectb_1049	4	12	a	DT	(NP*	-	-	-	-	-
+ectb_1049	4	13	hand	NN	*)	hand	-	1	-	-
+ectb_1049	4	14	in	IN	(PP*	-	-	-	-	-
+ectb_1049	4	15	the	DT	(NP*	-	-	-	-	(47
+ectb_1049	4	16	river	NN	*)))	-	-	-	-	47)
+ectb_1049	4	17	and	CC	*	-	-	-	-	-
+ectb_1049	4	18	come	VB	(VP*	come	11	1	-	-
+ectb_1049	4	19	up	RP	(PRT*)	-	-	-	-	-
+ectb_1049	4	20	with	IN	(PP*	-	-	-	-	-
+ectb_1049	4	21	a	DT	(NP*	-	-	-	-	-
+ectb_1049	4	22	big	JJ	*	-	-	-	-	-
+ectb_1049	4	23	catch	NN	*)))))))))	catch	-	2	-	-
+ectb_1049	4	24	.	.	*))	-	-	-	-	-
+
+ectb_1049	4	0	The	DT	(TOP(S(NP*	-	-	-	-	-
+ectb_1049	4	1	lonely	JJ	*	-	-	-	-	-
+ectb_1049	4	2	fishing	NN	*	-	-	-	-	-
+ectb_1049	4	3	boats	NNS	*)	-	-	-	-	-
+ectb_1049	4	4	are	VBP	(VP*	be	03	-	-	-
+ectb_1049	4	5	waiting	VBG	(VP*	wait	01	1	-	-
+ectb_1049	4	6	for	IN	(SBAR*	-	-	-	-	-
+ectb_1049	4	7	the	DT	(S(NP*	-	-	-	-	(16
+ectb_1049	4	8	Tanshui	NNP	(NML*	-	-	-	-	-
+ectb_1049	4	9	-	HYPH	*	-	-	-	-	-
+ectb_1049	4	10	Pali	NNP	*)	-	-	-	-	-
+ectb_1049	4	11	ferry	NN	*)	-	-	-	-	16)
+ectb_1049	4	12	to	TO	(VP*	-	-	-	-	-
+ectb_1049	4	13	pass	VB	(VP(VP*	pass	17	-	-	-
+ectb_1049	4	14	by	RB	(ADVP*))	-	-	-	-	-
+ectb_1049	4	15	and	CC	*	-	-	-	-	-
+ectb_1049	4	16	say	VB	(VP*	say	01	2	-	-
+ectb_1049	4	17	hello	UH	(INTJ*))))))))	-	-	-	-	-
+ectb_1049	4	18	.	.	*))	-	-	-	-	-
+
+ectb_1049	4	0	Those	DT	(TOP(S(NP(NP*	-	-	-	-	-
+ectb_1049	4	1	lanterns	NNS	*)	-	-	-	-	-
+ectb_1049	4	2	moving	VBG	(VP*	move	01	1	-	-
+ectb_1049	4	3	through	IN	(PP*	-	-	-	-	-
+ectb_1049	4	4	the	DT	(NP*	-	-	-	-	(47
+ectb_1049	4	5	river	NN	*))))	-	-	-	-	47)
+ectb_1049	4	6	are	VBP	(VP*	be	01	1	-	-
+ectb_1049	4	7	actually	RB	(ADVP*)	-	-	-	-	-
+ectb_1049	4	8	the	DT	(NP*	-	-	-	-	(16
+ectb_1049	4	9	ferry	NN	*)	-	-	-	-	16)
+ectb_1049	4	10	,	,	*	-	-	-	-	-
+ectb_1049	4	11	while	IN	(SBAR*	-	-	-	-	-
+ectb_1049	4	12	those	DT	(S(NP(NP*	-	-	-	-	-
+ectb_1049	4	13	stars	NNS	*)	star	-	1	-	-
+ectb_1049	4	14	flashing	VBG	(VP*	flash	01	1	-	-
+ectb_1049	4	15	in	IN	(PP*	-	-	-	-	-
+ectb_1049	4	16	the	DT	(NP*	-	-	-	-	-
+ectb_1049	4	17	distance	NN	*))))	-	-	-	-	-
+ectb_1049	4	18	are	VBP	(VP*	be	01	1	-	-
+ectb_1049	4	19	beams	NNS	(NP(NP(NP*)	-	-	-	-	-
+ectb_1049	4	20	of	IN	(PP*	-	-	-	-	-
+ectb_1049	4	21	light	NN	(NP*)))	light	-	1	-	-
+ectb_1049	4	22	that	WDT	(SBAR(WHNP*)	-	-	-	-	-
+ectb_1049	4	23	come	VBP	(S(VP*	come	01	5	-	-
+ectb_1049	4	24	from	IN	(PP*	-	-	-	-	-
+ectb_1049	4	25	the	DT	(NP*	-	-	-	-	-
+ectb_1049	4	26	lighthouse	NN	*))	-	-	-	-	-
+ectb_1049	4	27	every	DT	(NP*	-	-	-	-	-
+ectb_1049	4	28	five	CD	*	-	-	-	-	-
+ectb_1049	4	29	seconds	NNS	*)))))))))	-	-	-	-	-
+ectb_1049	4	30	.	.	*))	-	-	-	-	-
+
+ectb_1049	4	0	It	PRP	(TOP(S(NP*)	-	-	-	-	-
+ectb_1049	4	1	is	VBZ	(VP*	be	01	1	-	-
+ectb_1049	4	2	only	RB	(ADVP*	-	-	-	-	-
+ectb_1049	4	3	now	RB	*)	-	-	-	-	-
+ectb_1049	4	4	that	WRB	(SBAR(WHADVP*)	-	-	-	-	-
+ectb_1049	4	5	I	PRP	(S(NP*)	-	-	-	-	(35)
+ectb_1049	4	6	realize	VBP	(VP*	realize	01	1	-	-
+ectb_1049	4	7	that	IN	(SBAR*	-	-	-	-	-
+ectb_1049	4	8	,	,	*	-	-	-	-	-
+ectb_1049	4	9	even	RB	(S(ADVP*)	-	-	-	-	-
+ectb_1049	4	10	in	IN	(PP*	-	-	-	-	-
+ectb_1049	4	11	the	DT	(NP*	-	-	-	-	-
+ectb_1049	4	12	drabbest	JJS	*	-	-	-	-	-
+ectb_1049	4	13	weather	NN	*))	-	-	-	-	-
+ectb_1049	4	14	,	,	*	-	-	-	-	-
+ectb_1049	4	15	Tanshui	NNP	(NP*)	-	-	-	-	(3)
+ectb_1049	4	16	is	VBZ	(VP*	be	01	1	-	-
+ectb_1049	4	17	still	RB	(ADVP*)	-	-	-	-	-
+ectb_1049	4	18	beautiful	JJ	(ADJP*))))))))	-	-	-	-	-
+ectb_1049	4	19	.	.	*))	-	-	-	-	-
+
+#end document

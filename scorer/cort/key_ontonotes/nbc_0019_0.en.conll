@@ -1,0 +1,188 @@
+#begin document (nbc_0019_0); part 000
+nbc_0019	0	0	As	IN	(TOP(S(SBAR*	-	-	-	-	*	*
+nbc_0019	0	1	we	PRP	(S(NP*)	-	-	-	-	*	*
+nbc_0019	0	2	heard	VBD	(VP*	hear	01	1	-	*	*
+nbc_0019	0	3	from	IN	(PP*	-	-	-	-	*	*
+nbc_0019	0	4	David	NNP	(NP*	-	-	-	-	*	*
+nbc_0019	0	5	Gregory	NNP	*)))))	-	-	-	-	*	*
+nbc_0019	0	6	,	,	*	-	-	-	-	*	*
+nbc_0019	0	7	one	CD	(NP(NP*)	-	-	-	-	*	*
+nbc_0019	0	8	of	IN	(PP*	-	-	-	-	*	*
+nbc_0019	0	9	Governor	NNP	(NP(NP(NP*	-	-	-	-	*	*
+nbc_0019	0	10	Bush	NNP	*	-	-	-	-	*	*
+nbc_0019	0	11	's	POS	*)	-	-	-	-	*	*
+nbc_0019	0	12	main	JJ	*	-	-	-	-	*	*
+nbc_0019	0	13	themes	NNS	*)	-	-	-	-	*	*
+nbc_0019	0	14	in	IN	(PP*	-	-	-	-	*	*
+nbc_0019	0	15	these	DT	(NP(NP*	-	-	-	-	*	*
+nbc_0019	0	16	last	JJ	*	-	-	-	-	*	*
+nbc_0019	0	17	days	NNS	*)	day	-	4	-	*	*
+nbc_0019	0	18	of	IN	(PP*	-	-	-	-	*	*
+nbc_0019	0	19	the	DT	(NP*	-	-	-	-	*	*
+nbc_0019	0	20	campaign	NN	*)))))))	campaign	-	1	-	*	*
+nbc_0019	0	21	is	VBZ	(VP*	be	03	-	-	*	*
+nbc_0019	0	22	getting	VBG	(VP*	get	04	11.37	-	*	*
+nbc_0019	0	23	rid	VBN	(VP*	rid	01	-	-	*	*
+nbc_0019	0	24	of	IN	(PP*	-	-	-	-	*	*
+nbc_0019	0	25	partisan	JJ	(NP(NP*	-	-	-	-	*	*
+nbc_0019	0	26	gridlock	NN	*)	-	-	-	-	*	*
+nbc_0019	0	27	in	IN	(PP*	-	-	-	-	*	*
+nbc_0019	0	28	Washington	NNP	(NP*)))))	-	-	-	-	*	*
+nbc_0019	0	29	,	,	*	-	-	-	-	*	*
+nbc_0019	0	30	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	*
+nbc_0019	0	31	was	VBD	(S(VP*	be	01	1	-	*	*
+nbc_0019	0	32	exactly	RB	(SBAR(WHNP*	-	-	-	-	*	*
+nbc_0019	0	33	what	WP	*)	-	-	-	-	*	*
+nbc_0019	0	34	the	DT	(S(NP*	-	-	-	-	*	*
+nbc_0019	0	35	President	NNP	*)	-	-	-	-	*	*
+nbc_0019	0	36	was	VBD	(VP*	be	03	-	-	*	*
+nbc_0019	0	37	talking	VBG	(VP*	talk	01	1	-	*	*
+nbc_0019	0	38	about	IN	(PP*)	-	-	-	-	*	*
+nbc_0019	0	39	today	NN	(NP*)	today	-	2	-	*	*
+nbc_0019	0	40	--	:	*	-	-	-	-	*	*
+nbc_0019	0	41	an	DT	(NP*	-	-	-	-	*	*
+nbc_0019	0	42	attempt	NN	*	attempt	-	1	-	*	*
+nbc_0019	0	43	to	TO	(S(VP*	-	-	-	-	*	*
+nbc_0019	0	44	reopen	VB	(VP*	reopen	01	1	-	*	*
+nbc_0019	0	45	debate	NN	(NP(NP*)	debate	01	1	-	*	*
+nbc_0019	0	46	on	IN	(PP*	-	-	-	-	*	*
+nbc_0019	0	47	a	DT	(NP*	-	-	-	-	*	*
+nbc_0019	0	48	$	$	(NML(NML(QP*	-	-	-	-	(ARG2*	(ARG2*
+nbc_0019	0	49	240	CD	*	-	-	-	-	*	*
+nbc_0019	0	50	billion	CD	*))	-	-	-	-	*)	*)
+nbc_0019	0	51	tax	NN	*	tax	-	1	-	(ARG1*)	(ARG1*)
+nbc_0019	0	52	cut	NN	*)	cut	02	9	-	(V*)	(V*)
+nbc_0019	0	53	plan	NN	*)))))))	plan	-	2	-	*	*
+nbc_0019	0	54	,	,	*	-	-	-	-	*	*
+nbc_0019	0	55	saying	VBG	(S(VP*	say	01	1	-	*	*
+nbc_0019	0	56	the	DT	(SBAR(S(NP(NP*	-	-	-	-	*	*
+nbc_0019	0	57	version	NN	*)	-	-	-	-	*	*
+nbc_0019	0	58	House	NNP	(SBAR(S(NP*	-	-	-	-	*	*
+nbc_0019	0	59	Republicans	NNPS	*)	-	-	-	-	*	*
+nbc_0019	0	60	passed	VBD	(VP*))))	pass	01	2	-	*	*
+nbc_0019	0	61	is	VBZ	(VP*	be	01	1	-	*	*
+nbc_0019	0	62	unacceptable	JJ	(ADJP*)	-	-	-	-	*	*
+nbc_0019	0	63	,	,	*	-	-	-	-	*	*
+nbc_0019	0	64	because	IN	(SBAR*	-	-	-	-	*	*
+nbc_0019	0	65	it	PRP	(S(NP*)	-	-	-	-	*	*
+nbc_0019	0	66	is	VBZ	(VP*	be	01	1	-	*	*
+nbc_0019	0	67	unfair	JJ	(ADJP*)	-	-	-	-	*	*
+nbc_0019	0	68	,	,	*	-	-	-	-	*	*
+nbc_0019	0	69	according	VBG	(PP*	accord	01	-	-	*	*
+nbc_0019	0	70	to	IN	(PP*	-	-	-	-	*	*
+nbc_0019	0	71	the	DT	(NP*	-	-	-	-	*	*
+nbc_0019	0	72	President	NNP	*)))	-	-	-	-	*	*
+nbc_0019	0	73	,	,	*	-	-	-	-	*	*
+nbc_0019	0	74	to	IN	(PP*	-	-	-	-	*	*
+nbc_0019	0	75	children	NNS	(NP*	child	-	1	-	*	*
+nbc_0019	0	76	and	CC	*	-	-	-	-	*	*
+nbc_0019	0	77	seniors	NNS	*)))))))))))))))))))	-	-	-	-	*	*
+nbc_0019	0	78	.	.	*))	-	-	-	-	*	*
+
+nbc_0019	0	0	Instead	RB	(TOP(S(PP*	-	-	-	-	-
+nbc_0019	0	1	of	IN	*	-	-	-	-	-
+nbc_0019	0	2	meeting	VBG	(S(VP*	meet	03	3	-	-
+nbc_0019	0	3	us	PRP	(NP*)	-	-	-	-	-
+nbc_0019	0	4	on	IN	(PP*	-	-	-	-	-
+nbc_0019	0	5	common	JJ	(NP*	-	-	-	-	-
+nbc_0019	0	6	ground	NN	*)))))	ground	-	2	-	-
+nbc_0019	0	7	,	,	*	-	-	-	-	-
+nbc_0019	0	8	instead	RB	(PP*	-	-	-	-	-
+nbc_0019	0	9	of	IN	*	-	-	-	-	-
+nbc_0019	0	10	working	VBG	(S(VP*	work	01	1	-	-
+nbc_0019	0	11	with	IN	(PP*	-	-	-	-	-
+nbc_0019	0	12	the	DT	(NP(NP*	-	-	-	-	-
+nbc_0019	0	13	White	NNP	*	-	-	-	-	-
+nbc_0019	0	14	House	NNP	*)	-	-	-	-	-
+nbc_0019	0	15	or	CC	*	-	-	-	-	-
+nbc_0019	0	16	congressional	JJ	(NP*	-	-	-	-	-
+nbc_0019	0	17	Democrats	NNPS	*))))))	-	-	-	-	-
+nbc_0019	0	18	,	,	*	-	-	-	-	-
+nbc_0019	0	19	the	DT	(NP*	-	-	-	-	(0
+nbc_0019	0	20	Republican	JJ	*	-	-	-	-	-
+nbc_0019	0	21	leadership	NN	*)	leadership	-	2	-	0)
+nbc_0019	0	22	closed	VBD	(VP(VP*	close	01	2	-	-
+nbc_0019	0	23	its	PRP$	(NP*	-	-	-	-	(3|(0)
+nbc_0019	0	24	doors	NNS	*)	door	-	3	-	3)
+nbc_0019	0	25	to	IN	(PP*	-	-	-	-	-
+nbc_0019	0	26	compromise	NN	(NP*)))	-	-	-	-	-
+nbc_0019	0	27	--	:	*	-	-	-	-	-
+nbc_0019	0	28	literally	RB	(VP(ADVP*)	-	-	-	-	-
+nbc_0019	0	29	closed	VBD	*	close	01	2	-	-
+nbc_0019	0	30	the	DT	(NP*	-	-	-	-	(3
+nbc_0019	0	31	doors	NNS	*)	door	-	3	-	3)
+nbc_0019	0	32	to	IN	(PP*	-	-	-	-	-
+nbc_0019	0	33	compromise	NN	(NP*))))	-	-	-	-	-
+nbc_0019	0	34	.	.	*))	-	-	-	-	-
+
+nbc_0019	0	0	They	PRP	(TOP(S(NP*)	-	-	-	-	(0)
+nbc_0019	0	1	crafted	VBD	(VP(VP*	craft	01	2	-	-
+nbc_0019	0	2	their	PRP$	(NP*	-	-	-	-	(5|(0)
+nbc_0019	0	3	own	JJ	*	-	-	-	-	-
+nbc_0019	0	4	partisan	JJ	*	-	-	-	-	-
+nbc_0019	0	5	tax	NN	*	-	-	-	-	-
+nbc_0019	0	6	package	NN	*))	-	-	-	-	5)
+nbc_0019	0	7	and	CC	*	-	-	-	-	-
+nbc_0019	0	8	passed	VBD	(VP*	pass	01	2	-	-
+nbc_0019	0	9	it	PRP	(NP*)	-	-	-	-	(5)
+nbc_0019	0	10	last	JJ	(NP*	-	-	-	-	-
+nbc_0019	0	11	night	NN	*)	night	-	1	-	-
+nbc_0019	0	12	on	IN	(PP*	-	-	-	-	-
+nbc_0019	0	13	a	DT	(NP*	-	-	-	-	-
+nbc_0019	0	14	party	NN	(NML*	-	-	-	-	-
+nbc_0019	0	15	-	HYPH	*	-	-	-	-	-
+nbc_0019	0	16	line	NN	*)	line	-	6	-	-
+nbc_0019	0	17	vote	NN	*))))	vote	01	1	-	-
+nbc_0019	0	18	.	.	*))	-	-	-	-	-
+
+nbc_0019	0	0	Republican	JJ	(TOP(S(NP*	-	-	-	-	(2
+nbc_0019	0	1	leaders	NNS	*)	leader	-	1	-	2)
+nbc_0019	0	2	for	IN	(PP*	-	-	-	-	-
+nbc_0019	0	3	their	PRP$	(NP*	-	-	-	-	(2)
+nbc_0019	0	4	part	NN	*))	part	-	2	-	-
+nbc_0019	0	5	said	VBD	(VP*	say	01	1	-	-
+nbc_0019	0	6	reopening	VBG	(SBAR(S(S(S(VP*	reopen	01	1	-	-
+nbc_0019	0	7	the	DT	(NP*	-	-	-	-	(4
+nbc_0019	0	8	tax	NN	*	tax	-	1	-	-
+nbc_0019	0	9	debate	NN	*)))	debate	01	1	-	4)
+nbc_0019	0	10	is	VBZ	(VP*	be	01	1	-	-
+nbc_0019	0	11	not	RB	*	-	-	-	-	-
+nbc_0019	0	12	now	RB	(ADVP*)	-	-	-	-	-
+nbc_0019	0	13	realistic	JJ	(ADJP*)))	-	-	-	-	-
+nbc_0019	0	14	and	CC	*	-	-	-	-	-
+nbc_0019	0	15	the	DT	(S(NP*	-	-	-	-	(5
+nbc_0019	0	16	tax	NN	(NML*	tax	-	1	-	-
+nbc_0019	0	17	cut	NN	*)	cut	02	9	-	-
+nbc_0019	0	18	bill	NN	*)	-	-	-	-	5)
+nbc_0019	0	19	is	VBZ	(VP*	be	03	-	-	-
+nbc_0019	0	20	probably	RB	(ADVP*)	-	-	-	-	-
+nbc_0019	0	21	tombed	VBN	(VP*))))))	tomb	01	-	-	-
+nbc_0019	0	22	.	.	*))	-	-	-	-	-
+
+nbc_0019	0	0	They	PRP	(TOP(S(NP*)	-	-	-	-	(2)
+nbc_0019	0	1	are	VBP	(VP*	be	01	1	-	-
+nbc_0019	0	2	angry	JJ	(ADJP*	-	-	-	-	-
+nbc_0019	0	3	that	IN	(SBAR*	-	-	-	-	-
+nbc_0019	0	4	the	DT	(S(NP*	-	-	-	-	(1
+nbc_0019	0	5	President	NNP	*)	-	-	-	-	1)
+nbc_0019	0	6	is	VBZ	(VP*	be	03	-	-	-
+nbc_0019	0	7	threatening	VBG	(VP*	threaten	01	1	-	-
+nbc_0019	0	8	to	TO	(S(VP*	-	-	-	-	-
+nbc_0019	0	9	veto	VB	(VP*	veto	01	1	-	-
+nbc_0019	0	10	it	PRP	(NP*)))))))))	-	-	-	-	(5)
+nbc_0019	0	11	saying	VBG	(S(VP*	say	01	1	-	-
+nbc_0019	0	12	it	PRP	(SBAR(S(NP(NP*))	-	-	-	-	-
+nbc_0019	0	13	's	VBZ	(VP*	be	-	1	-	-
+nbc_0019	0	14	wrong	JJ	(ADJP*)	-	-	-	-	-
+nbc_0019	0	15	to	TO	(S(VP*	-	-	-	-	-
+nbc_0019	0	16	have	VB	(VP*	have	-	8	-	-
+nbc_0019	0	17	political	JJ	(NP*	-	-	-	-	-
+nbc_0019	0	18	budget	NN	*	budget	-	2	-	-
+nbc_0019	0	19	battles	NNS	*)	battle	01	3	-	-
+nbc_0019	0	20	right	RB	(PP(ADVP*)	-	-	-	-	-
+nbc_0019	0	21	before	IN	*	-	-	-	-	-
+nbc_0019	0	22	the	DT	(NP*	-	-	-	-	-
+nbc_0019	0	23	election	NN	*)))))))))))	election	-	1	-	-
+nbc_0019	0	24	.	.	*))	-	-	-	-	-
+
+#end document

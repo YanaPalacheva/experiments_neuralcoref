@@ -1,0 +1,66 @@
+#begin document (voa_0099_0); part 000
+voa_0099	0	0	President	NNP	(TOP(S(NP*	-	-	-	-	(1
+voa_0099	0	1	Clinton	NNP	*)	-	-	-	-	1)
+voa_0099	0	2	arrived	VBD	(VP*	arrive	01	1	-	-
+voa_0099	0	3	in	IN	(PP*	-	-	-	-	-
+voa_0099	0	4	Brunei	NNP	(NP*))	-	-	-	-	(0)
+voa_0099	0	5	Tuesday	NNP	(NP*)	-	-	-	-	-
+voa_0099	0	6	,	,	*	-	-	-	-	-
+voa_0099	0	7	getting	VBG	(S(VP*	get	01	1	-	-
+voa_0099	0	8	a	DT	(NP(NP*	-	-	-	-	-
+voa_0099	0	9	red	JJ	(NML*	-	-	-	-	-
+voa_0099	0	10	carpet	NN	*)	-	-	-	-	-
+voa_0099	0	11	welcome	NN	*)	welcome	-	1	-	-
+voa_0099	0	12	from	IN	(PP*	-	-	-	-	-
+voa_0099	0	13	officials	NNS	(NP(NP*)	official	-	1	-	-
+voa_0099	0	14	of	IN	(PP*	-	-	-	-	-
+voa_0099	0	15	the	DT	(NP*	-	-	-	-	(0
+voa_0099	0	16	tiny	JJ	*	-	-	-	-	-
+voa_0099	0	17	Islamic	JJ	*	-	-	-	-	-
+voa_0099	0	18	sultanate	NN	*))))))))	-	-	-	-	0)
+voa_0099	0	19	.	.	*))	-	-	-	-	-
+
+voa_0099	0	0	He	PRP	(TOP(S(NP*)	-	-	-	-	(1)
+voa_0099	0	1	is	VBZ	(VP*	be	03	-	-	-
+voa_0099	0	2	scheduled	VBN	(VP*	schedule	01	1	-	-
+voa_0099	0	3	to	TO	(S(VP*	-	-	-	-	-
+voa_0099	0	4	deliver	VB	(VP*	deliver	01	1	-	-
+voa_0099	0	5	the	DT	(NP*	-	-	-	-	-
+voa_0099	0	6	keynote	JJ	*	-	-	-	-	-
+voa_0099	0	7	address	NN	*)	address	01	3	-	-
+voa_0099	0	8	today	NN	(NP*)	today	-	2	-	-
+voa_0099	0	9	at	IN	(PP*	-	-	-	-	-
+voa_0099	0	10	the	DT	(NP*	-	-	-	-	-
+voa_0099	0	11	Pacific	NNP	(NML*	-	-	-	-	-
+voa_0099	0	12	Rim	NNP	*)	-	-	-	-	-
+voa_0099	0	13	Conference	NNP	*)))))))	-	-	-	-	-
+voa_0099	0	14	.	.	*))	-	-	-	-	-
+
+voa_0099	0	0	The	DT	(TOP(S(NP*	-	-	-	-	-
+voa_0099	0	1	Pacific	NNP	(NML*	-	-	-	-	-
+voa_0099	0	2	Rim	NNP	*)	-	-	-	-	-
+voa_0099	0	3	leaders	NNS	*)	leader	-	1	-	-
+voa_0099	0	4	will	MD	(VP*	-	-	-	-	-
+voa_0099	0	5	discuss	VB	(VP*	discuss	01	1	-	-
+voa_0099	0	6	an	DT	(NP(NP*	-	-	-	-	-
+voa_0099	0	7	array	NN	*)	-	-	-	-	-
+voa_0099	0	8	of	IN	(PP*	-	-	-	-	-
+voa_0099	0	9	economic	JJ	(NP*	-	-	-	-	-
+voa_0099	0	10	issues	NNS	*)))	issue	-	1	-	-
+voa_0099	0	11	Wednesday	NNP	(NP*	-	-	-	-	-
+voa_0099	0	12	and	CC	*	-	-	-	-	-
+voa_0099	0	13	Thursday	NNP	*)	-	-	-	-	-
+voa_0099	0	14	,	,	*	-	-	-	-	-
+voa_0099	0	15	including	VBG	(PP*	include	01	1	-	-
+voa_0099	0	16	high	JJ	(NP(NP*	-	-	-	-	-
+voa_0099	0	17	oil	NN	*	oil	-	1	-	-
+voa_0099	0	18	prices	NNS	*)	price	-	1	-	-
+voa_0099	0	19	and	CC	*	-	-	-	-	-
+voa_0099	0	20	the	DT	(NP(NP*	-	-	-	-	-
+voa_0099	0	21	boom	NN	*)	-	-	-	-	-
+voa_0099	0	22	in	IN	(PP*	-	-	-	-	-
+voa_0099	0	23	electronic	JJ	(NP*	-	-	-	-	-
+voa_0099	0	24	commerce	NN	*)))))))	-	-	-	-	-
+voa_0099	0	25	.	.	*))	-	-	-	-	-
+
+#end document

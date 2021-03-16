@@ -1,0 +1,63 @@
+#begin document (wsj_2355_0); part 000
+wsj_2355	0	0	Kenneth	NNP	(TOP(S(NP(NP*	-	-	-	-	(0
+wsj_2355	0	1	J.	NNP	*	-	-	-	-	-
+wsj_2355	0	2	Thygerson	NNP	*)	-	-	-	-	-
+wsj_2355	0	3	,	,	*	-	-	-	-	-
+wsj_2355	0	4	who	WP	(SBAR(WHNP*)	-	-	-	-	-
+wsj_2355	0	5	was	VBD	(S(VP*	-	-	-	-	-
+wsj_2355	0	6	named	VBN	(VP*	name	01	3	-	-
+wsj_2355	0	7	president	NN	(S(NP(NP*)	president	-	1	-	(1
+wsj_2355	0	8	of	IN	(PP*	-	-	-	-	-
+wsj_2355	0	9	this	DT	(NP*	-	-	-	-	-
+wsj_2355	0	10	thrift	NN	(ADJP*	-	-	-	-	-
+wsj_2355	0	11	holding	VBG	*)	-	-	-	-	-
+wsj_2355	0	12	company	NN	*))))	-	-	-	-	1)
+wsj_2355	0	13	in	IN	(PP*	-	-	-	-	-
+wsj_2355	0	14	August	NNP	(NP*))))))	-	-	-	-	-
+wsj_2355	0	15	,	,	*)	-	-	-	-	0)
+wsj_2355	0	16	resigned	VBD	(VP*	resign	01	1	-	-
+wsj_2355	0	17	,	,	*	-	-	-	-	-
+wsj_2355	0	18	citing	VBG	(S(VP*	cite	01	2	-	-
+wsj_2355	0	19	personal	JJ	(NP*	-	-	-	-	-
+wsj_2355	0	20	reasons	NNS	*))))	reason	-	1	-	-
+wsj_2355	0	21	.	.	*))	-	-	-	-	-
+
+wsj_2355	0	0	Mr.	NNP	(TOP(S(NP*	-	-	-	-	(0
+wsj_2355	0	1	Thygerson	NNP	*)	-	-	-	-	0)
+wsj_2355	0	2	said	VBD	(VP*	say	01	1	-	-
+wsj_2355	0	3	he	PRP	(SBAR(S(NP*)	-	-	-	-	(0)
+wsj_2355	0	4	had	VBD	(VP(VP*	-	-	-	-	-
+wsj_2355	0	5	planned	VBN	(VP*	plan	01	1	-	-
+wsj_2355	0	6	to	TO	(S(VP*	-	-	-	-	-
+wsj_2355	0	7	travel	VB	(VP*	travel	01	1	-	-
+wsj_2355	0	8	between	IN	(PP*	-	-	-	-	-
+wsj_2355	0	9	the	DT	(NP(NP(NP*	-	-	-	-	(1
+wsj_2355	0	10	job	NN	*)	job	-	1	-	-
+wsj_2355	0	11	in	IN	(PP*	-	-	-	-	-
+wsj_2355	0	12	Denver	NNP	(NP*)))	-	-	-	-	1)
+wsj_2355	0	13	and	CC	*	-	-	-	-	-
+wsj_2355	0	14	his	PRP$	(NP*	-	-	-	-	(0)
+wsj_2355	0	15	San	NNP	(NML*	-	-	-	-	-
+wsj_2355	0	16	Diego	NNP	*)	-	-	-	-	-
+wsj_2355	0	17	home	NN	*))))))))	home	-	1	-	-
+wsj_2355	0	18	,	,	*	-	-	-	-	-
+wsj_2355	0	19	but	CC	*	-	-	-	-	-
+wsj_2355	0	20	has	VBZ	(VP*	-	-	-	-	-
+wsj_2355	0	21	found	VBN	(VP*	find	01	3	-	-
+wsj_2355	0	22	the	DT	(S(NP*	-	-	-	-	-
+wsj_2355	0	23	commute	NN	*)	-	-	-	-	-
+wsj_2355	0	24	too	RB	(ADJP*	-	-	-	-	-
+wsj_2355	0	25	difficult	JJ	*	-	-	-	-	-
+wsj_2355	0	26	to	TO	(SBAR(S(VP*	-	-	-	-	-
+wsj_2355	0	27	continue	VB	(VP*))))))))))))	continue	01	1	-	-
+wsj_2355	0	28	.	.	*))	-	-	-	-	-
+
+wsj_2355	0	0	A	DT	(TOP(S(NP*	-	-	-	-	-
+wsj_2355	0	1	new	JJ	*	-	-	-	-	-
+wsj_2355	0	2	president	NN	*)	president	-	1	-	-
+wsj_2355	0	3	was	VBD	(VP*	-	-	-	-	-
+wsj_2355	0	4	n't	RB	*	-	-	-	-	-
+wsj_2355	0	5	named	VBN	(VP*))	name	01	3	-	-
+wsj_2355	0	6	.	.	*))	-	-	-	-	-
+
+#end document

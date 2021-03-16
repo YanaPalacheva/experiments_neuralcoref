@@ -1,0 +1,117 @@
+#begin document (cnn_0379_0); part 000
+cnn_0379	0	0	Moving	VBG	(TOP(FRAG(S(VP*	move	01	1	-	-
+cnn_0379	0	1	on	RP	(PRT*)	-	-	-	-	-
+cnn_0379	0	2	to	IN	(PP*	-	-	-	-	-
+cnn_0379	0	3	the	DT	(NP*	-	-	-	-	-
+cnn_0379	0	4	Laci	NNP	(NML*	-	-	-	-	(5
+cnn_0379	0	5	Peterson	NNP	*	-	-	-	-	5)
+cnn_0379	0	6	case	NN	*)))))	case	-	2	-	-
+cnn_0379	0	7	Bill	NNP	(NP*)	-	-	-	-	-
+cnn_0379	0	8	,	,	*	-	-	-	-	-
+cnn_0379	0	9	an	DT	(NP(NP*	-	-	-	-	-
+cnn_0379	0	10	unusual	JJ	*	-	-	-	-	-
+cnn_0379	0	11	request	NN	*)	request	01	2	-	-
+cnn_0379	0	12	from	IN	(PP*	-	-	-	-	-
+cnn_0379	0	13	Scott	NNP	(NP(NP*	-	-	-	-	(1|(2
+cnn_0379	0	14	Peterson	NNP	*	-	-	-	-	-
+cnn_0379	0	15	's	POS	*)	-	-	-	-	1)
+cnn_0379	0	16	attorney	NN	*)))	-	-	-	-	2)
+cnn_0379	0	17	.	.	*))	-	-	-	-	-
+
+cnn_0379	0	0	A	DT	(TOP(S(NP(NP*	-	-	-	-	(3
+cnn_0379	0	1	pair	NN	*)	-	-	-	-	-
+cnn_0379	0	2	of	IN	(PP*	-	-	-	-	-
+cnn_0379	0	3	Laci	NNP	(NP(NP*	-	-	-	-	(5
+cnn_0379	0	4	Peterson	NNP	*	-	-	-	-	-
+cnn_0379	0	5	's	POS	*)	-	-	-	-	5)
+cnn_0379	0	6	missing	VBG	*	miss	01	-	-	-
+cnn_0379	0	7	shoes	NNS	*)))	-	-	-	-	3)
+cnn_0379	0	8	could	MD	(VP*	-	-	-	-	-
+cnn_0379	0	9	be	VB	(VP*	be	01	1	-	-
+cnn_0379	0	10	very	RB	(NP(NP(ADJP*	-	-	-	-	-
+cnn_0379	0	11	important	JJ	*)	-	-	-	-	-
+cnn_0379	0	12	evidence	NN	*)	evidence	-	3	-	-
+cnn_0379	0	13	in	IN	(PP*	-	-	-	-	-
+cnn_0379	0	14	Scott	NNP	(NP(NP*	-	-	-	-	(0|(1
+cnn_0379	0	15	's	POS	*)	-	-	-	-	1)
+cnn_0379	0	16	murder	NN	*	-	-	-	-	-
+cnn_0379	0	17	trial	NN	*)))))	-	-	-	-	0)
+cnn_0379	0	18	.	.	*))	-	-	-	-	-
+
+cnn_0379	0	0	She	PRP	(TOP(S(NP*)	-	-	-	-	(2)
+cnn_0379	0	1	is	VBZ	(VP*	be	03	-	-	-
+cnn_0379	0	2	asking	VBG	(VP*	ask	02	2	-	-
+cnn_0379	0	3	anyone	NN	(NP(NP*)	-	-	-	-	-
+cnn_0379	0	4	who	WP	(SBAR(WHNP*)	-	-	-	-	-
+cnn_0379	0	5	finds	VBZ	(S(VP*	find	01	1	-	-
+cnn_0379	0	6	the	DT	(NP*	-	-	-	-	(3
+cnn_0379	0	7	pair	NN	*)))))	-	-	-	-	3)
+cnn_0379	0	8	to	TO	(S(VP*	-	-	-	-	-
+cnn_0379	0	9	give	VB	(VP*	give	01	1	-	-
+cnn_0379	0	10	them	PRP	(NP*)	-	-	-	-	(3)
+cnn_0379	0	11	back	RP	(PRT*))))))	-	-	-	-	-
+cnn_0379	0	12	.	.	*))	-	-	-	-	-
+
+cnn_0379	0	0	No	DT	(TOP(NP(NP*	-	-	-	-	-
+cnn_0379	0	1	sign	NN	*)	sign	-	2	-	-
+cnn_0379	0	2	of	IN	(PP*	-	-	-	-	-
+cnn_0379	0	3	Geragos	NNP	(NP*	-	-	-	-	-
+cnn_0379	0	4	or	CC	*	-	-	-	-	-
+cnn_0379	0	5	Peterson	NNP	*))	-	-	-	-	(1)
+cnn_0379	0	6	in	IN	(PP*	-	-	-	-	-
+cnn_0379	0	7	court	NN	(NP*))	court	-	2	-	-
+cnn_0379	0	8	yesterday	NN	(NP(NP*)	yesterday	-	1	-	-
+cnn_0379	0	9	when	WRB	(SBAR(WHADVP*)	-	-	-	-	-
+cnn_0379	0	10	a	DT	(S(NP*	-	-	-	-	-
+cnn_0379	0	11	judge	NN	*)	judge	-	1	-	-
+cnn_0379	0	12	was	VBD	(VP*	be	03	-	-	-
+cnn_0379	0	13	considering	VBG	(VP*	consider	02	2	-	-
+cnn_0379	0	14	whether	IN	(SBAR*	-	-	-	-	-
+cnn_0379	0	15	to	TO	(S(VP*	-	-	-	-	-
+cnn_0379	0	16	unseal	VB	(VP*	unseal	01	-	-	-
+cnn_0379	0	17	warrants	NNS	(NP(NP*)	-	-	-	-	-
+cnn_0379	0	18	obtained	VBN	(VP*	obtain	01	1	-	-
+cnn_0379	0	19	before	IN	(PP*	-	-	-	-	-
+cnn_0379	0	20	Scott	NNP	(NP(NP*	-	-	-	-	(1
+cnn_0379	0	21	Peterson	NNP	*	-	-	-	-	-
+cnn_0379	0	22	's	POS	*)	-	-	-	-	1)
+cnn_0379	0	23	arrest	NN	*)))))))))))))	arrest	01	1	-	-
+cnn_0379	0	24	.	.	*))	-	-	-	-	-
+
+cnn_0379	0	0	Peterson	NNP	(TOP(FRAG(NP*)	-	-	-	-	(1)
+cnn_0379	0	1	awaiting	VBG	(VP*	await	01	1	-	-
+cnn_0379	0	2	trial	NN	(NP(NP*)	trial	02	3	-	(0
+cnn_0379	0	3	in	IN	(PP*	-	-	-	-	-
+cnn_0379	0	4	the	DT	(NP(NP*	-	-	-	-	-
+cnn_0379	0	5	murder	NN	*)	murder	01	1	-	-
+cnn_0379	0	6	of	IN	(PP*	-	-	-	-	-
+cnn_0379	0	7	his	PRP$	(NP(NP(NP*	-	-	-	-	(5|(1)
+cnn_0379	0	8	wife	NN	*)	-	-	-	-	-
+cnn_0379	0	9	Laci	NNP	(NP*))	-	-	-	-	5)
+cnn_0379	0	10	and	CC	*	-	-	-	-	-
+cnn_0379	0	11	their	PRP$	(NP*	-	-	-	-	-
+cnn_0379	0	12	unborn	JJ	*	-	-	-	-	-
+cnn_0379	0	13	son	NN	*)))))))	-	-	-	-	0)
+cnn_0379	0	14	.	.	*))	-	-	-	-	-
+
+cnn_0379	0	0	Joining	VBG	(TOP(FRAG(VP*	join	04	4	-	-
+cnn_0379	0	1	us	PRP	(NP*))	-	-	-	-	(4)
+cnn_0379	0	2	,	,	*	-	-	-	-	-
+cnn_0379	0	3	Beth	NNP	(NP*	-	-	-	-	-
+cnn_0379	0	4	Caras	NNP	*)	-	-	-	-	-
+cnn_0379	0	5	.	.	*))	-	-	-	-	-
+
+cnn_0379	0	0	Good	JJ	(TOP(FRAG(INTJ*	-	-	-	-	-
+cnn_0379	0	1	morning	NN	*)	morning	-	4	-	-
+cnn_0379	0	2	once	RB	(ADVP*	-	-	-	-	-
+cnn_0379	0	3	again	RB	*)	-	-	-	-	-
+cnn_0379	0	4	.	.	*))	-	-	-	-	-
+
+cnn_0379	0	0	Thanks	NNS	(TOP(NP(NP*)	thanks	01	1	-	-
+cnn_0379	0	1	for	IN	(PP*	-	-	-	-	-
+cnn_0379	0	2	being	VBG	(S(VP*	be	01	-	-	-
+cnn_0379	0	3	with	IN	(PP*	-	-	-	-	-
+cnn_0379	0	4	us	PRP	(NP*)))))	-	-	-	-	(4)
+cnn_0379	0	5	.	.	*))	-	-	-	-	-
+
+#end document

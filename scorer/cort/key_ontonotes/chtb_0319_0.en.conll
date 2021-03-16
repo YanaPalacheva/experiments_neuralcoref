@@ -1,0 +1,53 @@
+#begin document (chtb_0319_0); part 000
+chtb_0319	0	0	In	IN	(TOP(S(PP*	-	-	-	-	-
+chtb_0319	0	1	the	DT	(NP(NP(NP*	-	-	-	-	-
+chtb_0319	0	2	script	NN	*)	script	-	1	-	-
+chtb_0319	0	3	"	``	(S*	-	-	-	-	-
+chtb_0319	0	4	Mongolian	JJ	(NP*	-	-	-	-	-
+chtb_0319	0	5	handicapped	JJ	*	-	-	-	-	-
+chtb_0319	0	6	athletes	NNS	*)	-	-	-	-	-
+chtb_0319	0	7	prepare	VBP	(VP*	prepare	02	2	-	-
+chtb_0319	0	8	for	IN	(PP*	-	-	-	-	-
+chtb_0319	0	9	the	DT	(NP*	-	-	-	-	-
+chtb_0319	0	10	Far	NNP	(NML*	-	-	-	-	-
+chtb_0319	0	11	South	NNP	*)	-	-	-	-	-
+chtb_0319	0	12	Sports	NNPS	*	-	-	-	-	-
+chtb_0319	0	13	Meet	NNP	*)))	-	-	-	-	-
+chtb_0319	0	14	"	''	*))	-	-	-	-	-
+chtb_0319	0	15	broadcast	VBN	(VP*	broadcast	01	1	-	-
+chtb_0319	0	16	today	NN	(NP*))))	today	-	2	-	(0)
+chtb_0319	0	17	,	,	*	-	-	-	-	-
+chtb_0319	0	18	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0319	0	19	"	``	*	-	-	-	-	-
+chtb_0319	0	20	Sports	NNPS	(NML(NML*	-	-	-	-	-
+chtb_0319	0	21	Association	NNP	*)	-	-	-	-	-
+chtb_0319	0	22	Chairman	NNP	*)	-	-	-	-	-
+chtb_0319	0	23	Lahagewasu	NNP	*	-	-	-	-	-
+chtb_0319	0	24	"	''	*)	-	-	-	-	-
+chtb_0319	0	25	at	IN	(PP*	-	-	-	-	-
+chtb_0319	0	26	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0319	0	27	end	NN	*)	end	01	3	-	-
+chtb_0319	0	28	of	IN	(PP*	-	-	-	-	-
+chtb_0319	0	29	paragraph	NN	(NP*	-	-	-	-	-
+chtb_0319	0	30	three	CD	*)))))	-	-	-	-	-
+chtb_0319	0	31	should	MD	(VP*	-	-	-	-	-
+chtb_0319	0	32	be	VB	(VP*	-	-	-	-	-
+chtb_0319	0	33	changed	VBN	(VP*	change	01	2	-	-
+chtb_0319	0	34	to	IN	(PP*	-	-	-	-	-
+chtb_0319	0	35	"	``	(NP*	-	-	-	-	-
+chtb_0319	0	36	Sports	NNPS	(NML(NML*	-	-	-	-	-
+chtb_0319	0	37	Association	NNP	*)	-	-	-	-	-
+chtb_0319	0	38	Chairman	NNP	*)	-	-	-	-	-
+chtb_0319	0	39	Lahagewasulen	NNP	*	-	-	-	-	-
+chtb_0319	0	40	"	''	*)))))	-	-	-	-	-
+chtb_0319	0	41	.	.	*))	-	-	-	-	-
+
+chtb_0319	0	0	Xinhua	NNP	(TOP(FRAG(NP*	-	-	-	-	-
+chtb_0319	0	1	News	NNP	*	-	-	-	-	-
+chtb_0319	0	2	Agency	NNP	*)	-	-	-	-	-
+chtb_0319	0	3	,	,	*	-	-	-	-	-
+chtb_0319	0	4	August	NNP	(NP*	-	-	-	-	(0
+chtb_0319	0	5	31st	NN	*)	-	-	-	-	0)
+chtb_0319	0	6	.	.	*))	-	-	-	-	-
+
+#end document

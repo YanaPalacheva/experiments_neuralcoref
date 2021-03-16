@@ -1,0 +1,2304 @@
+# newdoc id = 39d13d93-e994-4a44-b139-930a0eb5fad1
+# newpar id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p1
+# par_text = КНЯГИНЯ НАТАЛЬЯ НИКОЛАЕВНА
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p1-s1
+# text = КНЯГИНЯ НАТАЛЬЯ НИКОЛАЕВНА
+1	КНЯГИНЯ	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410401|Shift=0
+2	НАТАЛЬЯ	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410401|Shift=8
+3	НИКОЛАЕВНА	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410401|Shift=16
+
+# newpar id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p2
+# par_text = Недели через две после того, как Аполлон Павлович поступил в университет, дядюшка объявил, что всех нас повезет к Наталье Николаевне. На другой день желтая карета, продребезжав довольно долгое время по Москве, провезла нас между двумя львами на воротах и, въехав на довольно обширный, усыпанный песком двор, остановилась у подъезда. Евсей, соскочив с запяток, побежал на крыльцо. Через минуту он воротился, подножка застучала, и мы все трое: Аполлон, Сережа и я, отправились за дядюшкой в приемную.
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p2-s1
+# text = Недели через две после того, как Аполлон Павлович поступил в университет, дядюшка объявил, что всех нас повезет к Наталье Николаевне.
+1	Недели	_	_	_	_	_	_	_	Shift=30
+2	через	_	_	_	_	_	_	_	Shift=37
+3	две	_	_	_	_	_	_	_	Shift=43
+4	после	_	_	_	_	_	_	_	Shift=47
+5	того	_	_	_	_	_	_	_	Shift=53|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=57
+7	как	_	_	_	_	_	_	_	Shift=59
+8	Аполлон	_	_	_	_	_	_	_	RuCor_chain_id=700|RuCor_group_id=410407|Shift=63
+9	Павлович	_	_	_	_	_	_	_	RuCor_chain_id=700|RuCor_group_id=410407|Shift=71
+10	поступил	_	_	_	_	_	_	_	Shift=80
+11	в	_	_	_	_	_	_	_	Shift=89
+12	университет	_	_	_	_	_	_	_	Shift=91|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=102
+14	дядюшка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=699|RuCor_group_id=410409|RuCor_link_id=0|Shift=104
+15	объявил	_	_	_	_	_	_	_	Shift=112|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=119
+17	что	_	_	_	_	_	_	_	Shift=121
+18	всех	_	_	_	_	_	_	_	Shift=125
+19	нас	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=701|RuCor_group_id=410406|RuCor_link_id=0|Shift=130
+20	повезет	_	_	_	_	_	_	_	Shift=134
+21	к	_	_	_	_	_	_	_	Shift=142
+22	Наталье	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410402|Shift=144
+23	Николаевне	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410402|Shift=152|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=162
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p2-s2
+# text = На другой день желтая карета, продребезжав довольно долгое время по Москве, провезла нас между двумя львами на воротах и, въехав на довольно обширный, усыпанный песком двор, остановилась у подъезда.
+1	На	_	_	_	_	_	_	_	Shift=164
+2	другой	_	_	_	_	_	_	_	Shift=167
+3	день	_	_	_	_	_	_	_	Shift=174
+4	желтая	_	_	_	_	_	_	_	Shift=179
+5	карета	_	_	_	_	_	_	_	Shift=186|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=192
+7	продребезжав	_	_	_	_	_	_	_	Shift=194
+8	довольно	_	_	_	_	_	_	_	Shift=207
+9	долгое	_	_	_	_	_	_	_	Shift=216
+10	время	_	_	_	_	_	_	_	Shift=223
+11	по	_	_	_	_	_	_	_	Shift=229
+12	Москве	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=672|RuCor_group_id=410684|RuCor_link_id=410630|Shift=232|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=238
+14	провезла	_	_	_	_	_	_	_	Shift=240
+15	нас	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=698|RuCor_group_id=410418|RuCor_link_id=0|Shift=249
+16	между	_	_	_	_	_	_	_	Shift=253
+17	двумя	_	_	_	_	_	_	_	Shift=259
+18	львами	_	_	_	_	_	_	_	Shift=265
+19	на	_	_	_	_	_	_	_	Shift=272
+20	воротах	_	_	_	_	_	_	_	Shift=275
+21	и	_	_	_	_	_	_	_	Shift=283|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=284
+23	въехав	_	_	_	_	_	_	_	Shift=286
+24	на	_	_	_	_	_	_	_	Shift=293
+25	довольно	_	_	_	_	_	_	_	Shift=296
+26	обширный	_	_	_	_	_	_	_	Shift=305|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=313
+28	усыпанный	_	_	_	_	_	_	_	Shift=315
+29	песком	_	_	_	_	_	_	_	Shift=325
+30	двор	_	_	_	_	_	_	_	Shift=332|SpaceAfter=No
+31	,	_	_	_	_	_	_	_	Shift=336
+32	остановилась	_	_	_	_	_	_	_	Shift=338
+33	у	_	_	_	_	_	_	_	Shift=351
+34	подъезда	_	_	_	_	_	_	_	Shift=353|SpaceAfter=No
+35	.	_	_	_	_	_	_	_	Shift=361
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p2-s3
+# text = Евсей, соскочив с запяток, побежал на крыльцо.
+1	Евсей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=702|RuCor_group_id=410403|RuCor_link_id=0|Shift=363|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=368
+3	соскочив	_	_	_	_	_	_	_	Shift=370
+4	с	_	_	_	_	_	_	_	Shift=379
+5	запяток	_	_	_	_	_	_	_	Shift=381|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=388
+7	побежал	_	_	_	_	_	_	_	Shift=390
+8	на	_	_	_	_	_	_	_	Shift=398
+9	крыльцо	_	_	_	_	_	_	_	Shift=401|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=408
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p2-s4
+# text = Через минуту он воротился, подножка застучала, и мы все трое: Аполлон, Сережа и я, отправились за дядюшкой в приемную.
+1	Через	_	_	_	_	_	_	_	Shift=410
+2	минуту	_	_	_	_	_	_	_	Shift=416
+3	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=702|RuCor_group_id=410404|RuCor_link_id=410403|Shift=423
+4	воротился	_	_	_	_	_	_	_	Shift=426|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=435
+6	подножка	_	_	_	_	_	_	_	Shift=437
+7	застучала	_	_	_	_	_	_	_	Shift=446|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=455
+9	и	_	_	_	_	_	_	_	Shift=457
+10	мы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=701|RuCor_group_id=410405|RuCor_link_id=410406|Shift=459
+11	все	_	_	_	_	_	_	_	Shift=462
+12	трое	_	_	_	_	_	_	_	Shift=466|SpaceAfter=No
+13	:	_	_	_	_	_	_	_	Shift=470
+14	Аполлон	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=701|RuCor_group_id=410438|RuCor_link_id=410407|Shift=472|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	RuCor_chain_id=701|RuCor_group_id=410438|Shift=479
+16	Сережа	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=691|RuCor_group_id=410450|RuCor_link_id=0|Shift=481
+17	и	_	_	_	_	_	_	_	RuCor_chain_id=701|RuCor_group_id=410438|Shift=488
+18	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=693|RuCor_group_id=410439|RuCor_link_id=0|Shift=490|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=491
+20	отправились	_	_	_	_	_	_	_	Shift=493
+21	за	_	_	_	_	_	_	_	Shift=505
+22	дядюшкой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=699|RuCor_group_id=410410|RuCor_link_id=410409|Shift=508
+23	в	_	_	_	_	_	_	_	Shift=517
+24	приемную	_	_	_	_	_	_	_	Shift=519|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=527
+
+# newpar id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p3
+# par_text = - Их сиятельство приказали просить в будуар, - сказал белокурый мальчик в гороховых штиблетах.
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p3-s1
+# text = - Их сиятельство приказали просить в будуар, - сказал белокурый мальчик в гороховых штиблетах.
+1	-	_	_	_	_	_	_	_	Shift=530
+2	Их	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410411|Shift=532
+3	сиятельство	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410411|RuCor_link_id=410402|Shift=535
+4	приказали	_	_	_	_	_	_	_	Shift=547
+5	просить	_	_	_	_	_	_	_	Shift=557
+6	в	_	_	_	_	_	_	_	Shift=565
+7	будуар	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=697|RuCor_group_id=410421|RuCor_link_id=0|Shift=567|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=573
+9	-	_	_	_	_	_	_	_	Shift=575
+10	сказал	_	_	_	_	_	_	_	Shift=577
+11	белокурый	_	_	_	_	_	_	_	RuCor_chain_id=704|RuCor_group_id=410398|Shift=584
+12	мальчик	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=704|RuCor_group_id=410398|RuCor_link_id=0|Shift=594
+13	в	_	_	_	_	_	_	_	RuCor_chain_id=704|RuCor_group_id=410398|Shift=602
+14	гороховых	_	_	_	_	_	_	_	RuCor_chain_id=704|RuCor_group_id=410398|Shift=604
+15	штиблетах	_	_	_	_	_	_	_	RuCor_chain_id=704|RuCor_group_id=410398|Shift=614|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=623
+
+# newpar id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p4
+# par_text = Дядюшка, взглянув в большое зеркало и увидев свое желтое, морщиноватое лицо, сделал кислую мину; зато Аполлон прищурился, поправил на носу очки и самодовольно закинул голову.
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p4-s1
+# text = Дядюшка, взглянув в большое зеркало и увидев свое желтое, морщиноватое лицо, сделал кислую мину.
+1	Дядюшка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=699|RuCor_group_id=410412|RuCor_link_id=410410|Shift=626|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=633
+3	взглянув	_	_	_	_	_	_	_	Shift=635
+4	в	_	_	_	_	_	_	_	Shift=644
+5	большое	_	_	_	_	_	_	_	Shift=646
+6	зеркало	_	_	_	_	_	_	_	Shift=654
+7	и	_	_	_	_	_	_	_	Shift=662
+8	увидев	_	_	_	_	_	_	_	Shift=664
+9	свое	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=699|RuCor_group_id=410399|RuCor_link_id=410412|Shift=671
+10	желтое	_	_	_	_	_	_	_	Shift=676|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=682
+12	морщиноватое	_	_	_	_	_	_	_	Shift=684
+13	лицо	_	_	_	_	_	_	_	Shift=697|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=701
+15	сделал	_	_	_	_	_	_	_	Shift=703
+16	кислую	_	_	_	_	_	_	_	Shift=710
+17	мину	_	_	_	_	_	_	_	Shift=717|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=721
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p4-s2
+# text = зато Аполлон прищурился, поправил на носу очки и самодовольно закинул голову.
+1	зато	_	_	_	_	_	_	_	Shift=723
+2	Аполлон	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=700|RuCor_group_id=410413|RuCor_link_id=410408|Shift=728
+3	прищурился	_	_	_	_	_	_	_	Shift=736|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=746
+5	поправил	_	_	_	_	_	_	_	Shift=748
+6	на	_	_	_	_	_	_	_	Shift=757
+7	носу	_	_	_	_	_	_	_	Shift=760
+8	очки	_	_	_	_	_	_	_	Shift=765
+9	и	_	_	_	_	_	_	_	Shift=770
+10	самодовольно	_	_	_	_	_	_	_	Shift=772
+11	закинул	_	_	_	_	_	_	_	Shift=785
+12	голову	_	_	_	_	_	_	_	Shift=793|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=799
+
+# newpar id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p5
+# par_text = - Пойдемте, - сказал дядюшка, покачиваясь с ноги на ногу и заметая змиеобразным движением платка свой след по паркету.
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p5-s1
+# text = - Пойдемте, - сказал дядюшка, покачиваясь с ноги на ногу и заметая змиеобразным движением платка свой след по паркету.
+1	-	_	_	_	_	_	_	_	Shift=802
+2	Пойдемте	_	_	_	_	_	_	_	Shift=804|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=812
+4	-	_	_	_	_	_	_	_	Shift=814
+5	сказал	_	_	_	_	_	_	_	Shift=816
+6	дядюшка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=699|RuCor_group_id=410414|RuCor_link_id=410412|Shift=823|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=830
+8	покачиваясь	_	_	_	_	_	_	_	Shift=832
+9	с	_	_	_	_	_	_	_	Shift=844
+10	ноги	_	_	_	_	_	_	_	Shift=846
+11	на	_	_	_	_	_	_	_	Shift=851
+12	ногу	_	_	_	_	_	_	_	Shift=854
+13	и	_	_	_	_	_	_	_	Shift=859
+14	заметая	_	_	_	_	_	_	_	Shift=861
+15	змиеобразным	_	_	_	_	_	_	_	Shift=869
+16	движением	_	_	_	_	_	_	_	Shift=882
+17	платка	_	_	_	_	_	_	_	Shift=892
+18	свой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=699|RuCor_group_id=410415|RuCor_link_id=410414|Shift=899
+19	след	_	_	_	_	_	_	_	Shift=904
+20	по	_	_	_	_	_	_	_	Shift=909
+21	паркету	_	_	_	_	_	_	_	Shift=912|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=919
+
+# newpar id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p6
+# par_text = Белокурый лакей, проведя нас через ряд комнат, остановился перед небольшой дверью красного дерева с хрустальной ручкой. Мы вошли в небольшую, затейливо меблированную комнату. Против дверей, на диване, лежала женщина в черном капоте и небольшом белом чепце, из-под которого виднелась черная шелковая шапочка, или сетка. Лицо ее почти прикрыто было совершенно мокрым платком, распространявшим по комнате сильный запах одеколона. Княгиня (это была она) громко хлюпала, втягивая носом воздух через мокрый платок.
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p6-s1
+# text = Белокурый лакей, проведя нас через ряд комнат, остановился перед небольшой дверью красного дерева с хрустальной ручкой.
+1	Белокурый	_	_	_	_	_	_	_	RuCor_chain_id=704|RuCor_group_id=410416|Shift=922
+2	лакей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=704|RuCor_group_id=410416|RuCor_link_id=410398|Shift=932|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=937
+4	проведя	_	_	_	_	_	_	_	Shift=939
+5	нас	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=698|RuCor_group_id=410417|RuCor_link_id=410418|Shift=947
+6	через	_	_	_	_	_	_	_	Shift=951
+7	ряд	_	_	_	_	_	_	_	Shift=957
+8	комнат	_	_	_	_	_	_	_	Shift=961|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=967
+10	остановился	_	_	_	_	_	_	_	Shift=969
+11	перед	_	_	_	_	_	_	_	Shift=981
+12	небольшой	_	_	_	_	_	_	_	Shift=987
+13	дверью	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=686|RuCor_group_id=410480|RuCor_link_id=0|Shift=997
+14	красного	_	_	_	_	_	_	_	RuCor_chain_id=686|RuCor_group_id=410480|Shift=1004
+15	дерева	_	_	_	_	_	_	_	RuCor_chain_id=686|RuCor_group_id=410480|Shift=1013
+16	с	_	_	_	_	_	_	_	Shift=1020
+17	хрустальной	_	_	_	_	_	_	_	Shift=1022
+18	ручкой	_	_	_	_	_	_	_	Shift=1034|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=1040
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p6-s2
+# text = Мы вошли в небольшую, затейливо меблированную комнату.
+1	Мы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=698|RuCor_group_id=410419|RuCor_link_id=410417|Shift=1042
+2	вошли	_	_	_	_	_	_	_	Shift=1045
+3	в	_	_	_	_	_	_	_	Shift=1051
+4	небольшую	_	_	_	_	_	_	_	RuCor_chain_id=697|RuCor_group_id=410420|Shift=1053|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	RuCor_chain_id=697|RuCor_group_id=410420|Shift=1062
+6	затейливо	_	_	_	_	_	_	_	RuCor_chain_id=697|RuCor_group_id=410420|Shift=1064
+7	меблированную	_	_	_	_	_	_	_	RuCor_chain_id=697|RuCor_group_id=410420|Shift=1074
+8	комнату	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=697|RuCor_group_id=410420|RuCor_link_id=410421|Shift=1088|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=1095
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p6-s3
+# text = Против дверей, на диване, лежала женщина в черном капоте и небольшом белом чепце, из-под которого виднелась черная шелковая шапочка, или сетка.
+1	Против	_	_	_	_	_	_	_	Shift=1097
+2	дверей	_	_	_	_	_	_	_	Shift=1104|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1110
+4	на	_	_	_	_	_	_	_	Shift=1112
+5	диване	_	_	_	_	_	_	_	Shift=1115|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1121
+7	лежала	_	_	_	_	_	_	_	Shift=1123
+8	женщина	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410422|RuCor_link_id=410411|Shift=1130
+9	в	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410422|Shift=1138
+10	черном	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410422|Shift=1140
+11	капоте	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410422|Shift=1147
+12	и	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410422|Shift=1154
+13	небольшом	_	_	_	_	_	_	_	RuCor_chain_id=696|RuCor_group_id=410423|Shift=1156
+14	белом	_	_	_	_	_	_	_	RuCor_chain_id=696|RuCor_group_id=410423|Shift=1166
+15	чепце	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=696|RuCor_group_id=410423|RuCor_link_id=0|Shift=1172|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=1177
+17	из-под	_	_	_	_	_	_	_	Shift=1179
+18	которого	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=696|RuCor_group_id=410424|RuCor_link_id=410423|Shift=1186
+19	виднелась	_	_	_	_	_	_	_	Shift=1195
+20	черная	_	_	_	_	_	_	_	Shift=1205
+21	шелковая	_	_	_	_	_	_	_	Shift=1212
+22	шапочка	_	_	_	_	_	_	_	Shift=1221|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=1228
+24	или	_	_	_	_	_	_	_	Shift=1230
+25	сетка	_	_	_	_	_	_	_	Shift=1234|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=1239
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p6-s4
+# text = Лицо ее почти прикрыто было совершенно мокрым платком, распространявшим по комнате сильный запах одеколона.
+1	Лицо	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=689|RuCor_group_id=410457|RuCor_link_id=0|Shift=1241
+2	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410425|RuCor_link_id=410422|Shift=1246
+3	почти	_	_	_	_	_	_	_	Shift=1249
+4	прикрыто	_	_	_	_	_	_	_	Shift=1255
+5	было	_	_	_	_	_	_	_	Shift=1264
+6	совершенно	_	_	_	_	_	_	_	RuCor_chain_id=694|RuCor_group_id=410400|Shift=1269
+7	мокрым	_	_	_	_	_	_	_	RuCor_chain_id=694|RuCor_group_id=410400|Shift=1280
+8	платком	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=694|RuCor_group_id=410400|RuCor_link_id=410429|Shift=1287|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1294
+10	распространявшим	_	_	_	_	_	_	_	Shift=1296
+11	по	_	_	_	_	_	_	_	Shift=1313
+12	комнате	_	_	_	_	_	_	_	Shift=1316
+13	сильный	_	_	_	_	_	_	_	Shift=1324
+14	запах	_	_	_	_	_	_	_	Shift=1332
+15	одеколона	_	_	_	_	_	_	_	Shift=1338|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=1347
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p6-s5
+# text = Княгиня (это была она) громко хлюпала, втягивая носом воздух через мокрый платок.
+1	Княгиня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410426|RuCor_link_id=410422|Shift=1349
+2	(	_	_	_	_	_	_	_	Shift=1357|SpaceAfter=No
+3	это	_	_	_	_	_	_	_	Shift=1358
+4	была	_	_	_	_	_	_	_	Shift=1362
+5	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410427|RuCor_link_id=410425|Shift=1367|SpaceAfter=No
+6	)	_	_	_	_	_	_	_	Shift=1370
+7	громко	_	_	_	_	_	_	_	Shift=1372
+8	хлюпала	_	_	_	_	_	_	_	Shift=1379|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1386
+10	втягивая	_	_	_	_	_	_	_	Shift=1388
+11	носом	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=695|RuCor_group_id=410428|RuCor_link_id=0|Shift=1397
+12	воздух	_	_	_	_	_	_	_	Shift=1403
+13	через	_	_	_	_	_	_	_	Shift=1410
+14	мокрый	_	_	_	_	_	_	_	RuCor_chain_id=694|RuCor_group_id=410429|Shift=1416
+15	платок	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=694|RuCor_group_id=410429|RuCor_link_id=0|Shift=1423|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=1429
+
+# newpar id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p7
+# par_text = - А, а! Павел Ильич! - сказала она, приподнявшись с подушки и отнимая от носа платок левою рукою, между тем как правую протягивала дядюшке. - Насилу собрались.
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p7-s1
+# text = - А, а!
+1	-	_	_	_	_	_	_	_	Shift=1432
+2	А	_	_	_	_	_	_	_	Shift=1434|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1435
+4	а	_	_	_	_	_	_	_	Shift=1437|SpaceAfter=No
+5	!	_	_	_	_	_	_	_	Shift=1438
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p7-s2
+# text = Павел Ильич!
+1	Павел	_	_	_	_	_	_	_	RuCor_chain_id=699|RuCor_group_id=410430|Shift=1440
+2	Ильич	_	_	_	_	_	_	_	RuCor_chain_id=699|RuCor_group_id=410430|Shift=1446|SpaceAfter=No
+3	!	_	_	_	_	_	_	_	Shift=1451
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p7-s3
+# text = - сказала она, приподнявшись с подушки и отнимая от носа платок левою рукою, между тем как правую протягивала дядюшке.
+1	-	_	_	_	_	_	_	_	Shift=1453
+2	сказала	_	_	_	_	_	_	_	Shift=1455
+3	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410431|RuCor_link_id=410427|Shift=1463|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1466
+5	приподнявшись	_	_	_	_	_	_	_	Shift=1468
+6	с	_	_	_	_	_	_	_	Shift=1482
+7	подушки	_	_	_	_	_	_	_	Shift=1484
+8	и	_	_	_	_	_	_	_	Shift=1492
+9	отнимая	_	_	_	_	_	_	_	Shift=1494
+10	от	_	_	_	_	_	_	_	Shift=1502
+11	носа	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=695|RuCor_group_id=410516|RuCor_link_id=410428|Shift=1505
+12	платок	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=694|RuCor_group_id=410432|RuCor_link_id=410429|Shift=1510
+13	левою	_	_	_	_	_	_	_	Shift=1517
+14	рукою	_	_	_	_	_	_	_	Shift=1523|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=1528
+16	между	_	_	_	_	_	_	_	Shift=1530
+17	тем	_	_	_	_	_	_	_	Shift=1536
+18	как	_	_	_	_	_	_	_	Shift=1540
+19	правую	_	_	_	_	_	_	_	Shift=1544
+20	протягивала	_	_	_	_	_	_	_	Shift=1551
+21	дядюшке	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=699|RuCor_group_id=410433|RuCor_link_id=410430|Shift=1563|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=1570
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p7-s4
+# text = - Насилу собрались.
+1	-	_	_	_	_	_	_	_	Shift=1572
+2	Насилу	_	_	_	_	_	_	_	Shift=1574
+3	собрались	_	_	_	_	_	_	_	Shift=1581|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=1590
+
+# newpar id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p8
+# par_text = - Позвольте, матушка Наталья Николавна, представить вам моих птенцов, - перебил ее дядюшка.
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p8-s1
+# text = - Позвольте, матушка Наталья Николавна, представить вам моих птенцов, - перебил ее дядюшка.
+1	-	_	_	_	_	_	_	_	Shift=1593
+2	Позвольте	_	_	_	_	_	_	_	Shift=1595|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1604
+4	матушка	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410434|Shift=1606
+5	Наталья	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410434|Shift=1614
+6	Николавна	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410434|Shift=1622|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=1631
+8	представить	_	_	_	_	_	_	_	Shift=1633
+9	вам	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410435|RuCor_link_id=410434|Shift=1645
+10	моих	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=701|RuCor_group_id=410437|RuCor_link_id=410433|Shift=1649
+11	птенцов	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=701|RuCor_group_id=410437|RuCor_link_id=410438|Shift=1654|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=1661
+13	-	_	_	_	_	_	_	_	Shift=1663
+14	перебил	_	_	_	_	_	_	_	Shift=1665
+15	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410440|RuCor_link_id=410431|Shift=1673
+16	дядюшка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=699|RuCor_group_id=410441|RuCor_link_id=410433|Shift=1676|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=1683
+
+# newpar id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p9
+# par_text = - Браво, браво! поздравляю! - сказала княгиня, обращаясь к Аполлону. - Давно ли вы, мой милый, получили известие от батюшки? - спросила она меня. - Мы с ним старинные приятели.
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p9-s1
+# text = - Браво, браво!
+1	-	_	_	_	_	_	_	_	Shift=1686
+2	Браво	_	_	_	_	_	_	_	Shift=1688|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1693
+4	браво	_	_	_	_	_	_	_	Shift=1695|SpaceAfter=No
+5	!	_	_	_	_	_	_	_	Shift=1700
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p9-s2
+# text = поздравляю!
+1	поздравляю	_	_	_	_	_	_	_	Shift=1702|SpaceAfter=No
+2	!	_	_	_	_	_	_	_	Shift=1712
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p9-s3
+# text = - сказала княгиня, обращаясь к Аполлону.
+1	-	_	_	_	_	_	_	_	Shift=1714
+2	сказала	_	_	_	_	_	_	_	Shift=1716
+3	княгиня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410442|RuCor_link_id=410440|Shift=1724|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1731
+5	обращаясь	_	_	_	_	_	_	_	Shift=1733
+6	к	_	_	_	_	_	_	_	Shift=1743
+7	Аполлону	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=700|RuCor_group_id=410443|RuCor_link_id=410408|Shift=1745|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=1753
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p9-s4
+# text = - Давно ли вы, мой милый, получили известие от батюшки?
+1	-	_	_	_	_	_	_	_	Shift=1755
+2	Давно	_	_	_	_	_	_	_	Shift=1757
+3	ли	_	_	_	_	_	_	_	Shift=1763
+4	вы	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=693|RuCor_group_id=410444|RuCor_link_id=410439|Shift=1766|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1768
+6	мой	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410445|RuCor_link_id=410442|Shift=1770
+7	милый	_	_	_	_	_	_	_	Shift=1774|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1779
+9	получили	_	_	_	_	_	_	_	Shift=1781
+10	известие	_	_	_	_	_	_	_	Shift=1790
+11	от	_	_	_	_	_	_	_	Shift=1799
+12	батюшки	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=692|RuCor_group_id=410446|RuCor_link_id=0|Shift=1802|SpaceAfter=No
+13	?	_	_	_	_	_	_	_	Shift=1809
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p9-s5
+# text = - спросила она меня.
+1	-	_	_	_	_	_	_	_	Shift=1811
+2	спросила	_	_	_	_	_	_	_	Shift=1813
+3	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410447|RuCor_link_id=410442|Shift=1822
+4	меня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=693|RuCor_group_id=410448|RuCor_link_id=410444|Shift=1826|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=1830
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p9-s6
+# text = - Мы с ним старинные приятели.
+1	-	_	_	_	_	_	_	_	Shift=1832
+2	Мы	_	_	_	_	_	_	_	Shift=1834
+3	с	_	_	_	_	_	_	_	Shift=1837
+4	ним	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=692|RuCor_group_id=410449|RuCor_link_id=410446|Shift=1839
+5	старинные	_	_	_	_	_	_	_	Shift=1843
+6	приятели	_	_	_	_	_	_	_	Shift=1853|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=1861
+
+# newpar id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p10
+# par_text = И Сереже была сказана любезность.
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p10-s1
+# text = И Сереже была сказана любезность.
+1	И	_	_	_	_	_	_	_	Shift=1864
+2	Сереже	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=691|RuCor_group_id=410451|RuCor_link_id=410450|Shift=1866
+3	была	_	_	_	_	_	_	_	Shift=1873
+4	сказана	_	_	_	_	_	_	_	Shift=1878
+5	любезность	_	_	_	_	_	_	_	Shift=1886|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=1896
+
+# newpar id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p11
+# par_text = - Как здоровье Сонечки? - спросил дядюшка.
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p11-s1
+# text = - Как здоровье Сонечки?
+1	-	_	_	_	_	_	_	_	Shift=1899
+2	Как	_	_	_	_	_	_	_	Shift=1901
+3	здоровье	_	_	_	_	_	_	_	Shift=1905
+4	Сонечки	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=687|RuCor_group_id=410465|RuCor_link_id=0|Shift=1914|SpaceAfter=No
+5	?	_	_	_	_	_	_	_	Shift=1921
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p11-s2
+# text = - спросил дядюшка.
+1	-	_	_	_	_	_	_	_	Shift=1923
+2	спросил	_	_	_	_	_	_	_	Shift=1925
+3	дядюшка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=699|RuCor_group_id=410452|RuCor_link_id=410441|Shift=1933|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=1940
+
+# newpar id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p12
+# par_text = - Позвони, мой друг, - обратилась княгиня к сидевшей над чулком уединенно у окна пожилой женщине.
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p12-s1
+# text = - Позвони, мой друг, - обратилась княгиня к сидевшей над чулком уединенно у окна пожилой женщине.
+1	-	_	_	_	_	_	_	_	Shift=1943
+2	Позвони	_	_	_	_	_	_	_	Shift=1945|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1952
+4	мой	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410455|RuCor_link_id=410453|Shift=1954
+5	друг	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=690|RuCor_group_id=410454|RuCor_link_id=0|Shift=1958|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1962
+7	-	_	_	_	_	_	_	_	Shift=1964
+8	обратилась	_	_	_	_	_	_	_	Shift=1966
+9	княгиня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410453|RuCor_link_id=410442|Shift=1977
+10	к	_	_	_	_	_	_	_	Shift=1985
+11	сидевшей	_	_	_	_	_	_	_	RuCor_chain_id=690|RuCor_group_id=410456|Shift=1987
+12	над	_	_	_	_	_	_	_	RuCor_chain_id=690|RuCor_group_id=410456|Shift=1996
+13	чулком	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=683|RuCor_group_id=410542|RuCor_link_id=0|Shift=2000
+14	уединенно	_	_	_	_	_	_	_	RuCor_chain_id=690|RuCor_group_id=410456|Shift=2007
+15	у	_	_	_	_	_	_	_	RuCor_chain_id=690|RuCor_group_id=410456|Shift=2017
+16	окна	_	_	_	_	_	_	_	RuCor_chain_id=690|RuCor_group_id=410456|Shift=2019
+17	пожилой	_	_	_	_	_	_	_	RuCor_chain_id=690|RuCor_group_id=410456|Shift=2024
+18	женщине	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=690|RuCor_group_id=410456|RuCor_link_id=410454|Shift=2032|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=2039
+
+# newpar id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p13
+# par_text = Если желтоватое, худое лицо княгини сохранило черты прежней красоты, то друг ее не мог этим похвастать.
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p13-s1
+# text = Если желтоватое, худое лицо княгини сохранило черты прежней красоты, то друг ее не мог этим похвастать.
+1	Если	_	_	_	_	_	_	_	Shift=2043
+2	желтоватое	_	_	_	_	_	_	_	RuCor_chain_id=689|RuCor_group_id=410458|Shift=2048|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	RuCor_chain_id=689|RuCor_group_id=410458|Shift=2058
+4	худое	_	_	_	_	_	_	_	RuCor_chain_id=689|RuCor_group_id=410458|Shift=2060
+5	лицо	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=689|RuCor_group_id=410458|RuCor_link_id=410457|Shift=2066
+6	княгини	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410459|RuCor_link_id=410453|Shift=2071
+7	сохранило	_	_	_	_	_	_	_	Shift=2079
+8	черты	_	_	_	_	_	_	_	Shift=2089
+9	прежней	_	_	_	_	_	_	_	Shift=2095
+10	красоты	_	_	_	_	_	_	_	Shift=2103|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=2110
+12	то	_	_	_	_	_	_	_	Shift=2112
+13	друг	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=690|RuCor_group_id=410460|RuCor_link_id=410456|Shift=2115
+14	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410461|RuCor_link_id=410459|Shift=2120
+15	не	_	_	_	_	_	_	_	Shift=2123
+16	мог	_	_	_	_	_	_	_	Shift=2126
+17	этим	_	_	_	_	_	_	_	Shift=2130
+18	похвастать	_	_	_	_	_	_	_	Shift=2135|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=2145
+
+# newpar id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p14
+# par_text = Чтоб составить портрет друга, нужно вообразить себе довольно полную женщину в шелковом капоте шоколадного цвета с двойным отливом, толстый, иссиза-красный нос, распространяющий какой-то лаковый блеск по угреватому лицу, открытую седую голову с зачесанными назад волосами, в виде хвостика, и приткнутыми черепаховой гребенкой на затылке, большие, подозрительно беспокойные серые глаза и довольно порядочные седые усы. Вошел лакей.
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p14-s1
+# text = Чтоб составить портрет друга, нужно вообразить себе довольно полную женщину в шелковом капоте шоколадного цвета с двойным отливом, толстый, иссиза-красный нос, распространяющий какой-то лаковый блеск по угреватому лицу, открытую седую голову с зачесанными назад волосами, в виде хвостика, и приткнутыми черепаховой гребенкой на затылке, большие, подозрительно беспокойные серые глаза и довольно порядочные седые усы.
+1	Чтоб	_	_	_	_	_	_	_	Shift=2148
+2	составить	_	_	_	_	_	_	_	Shift=2153
+3	портрет	_	_	_	_	_	_	_	Shift=2163
+4	друга	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=690|RuCor_group_id=410462|RuCor_link_id=410460|Shift=2171|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=2176
+6	нужно	_	_	_	_	_	_	_	Shift=2178
+7	вообразить	_	_	_	_	_	_	_	Shift=2184
+8	себе	_	_	_	_	_	_	_	Shift=2195
+9	довольно	_	_	_	_	_	_	_	Shift=2200
+10	полную	_	_	_	_	_	_	_	Shift=2209
+11	женщину	_	_	_	_	_	_	_	Shift=2216
+12	в	_	_	_	_	_	_	_	Shift=2224
+13	шелковом	_	_	_	_	_	_	_	Shift=2226
+14	капоте	_	_	_	_	_	_	_	Shift=2235
+15	шоколадного	_	_	_	_	_	_	_	Shift=2242
+16	цвета	_	_	_	_	_	_	_	Shift=2254
+17	с	_	_	_	_	_	_	_	Shift=2260
+18	двойным	_	_	_	_	_	_	_	Shift=2262
+19	отливом	_	_	_	_	_	_	_	Shift=2270|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=2277
+21	толстый	_	_	_	_	_	_	_	Shift=2279|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=2286
+23	иссиза-красный	_	_	_	_	_	_	_	Shift=2288
+24	нос	_	_	_	_	_	_	_	Shift=2303|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=2306
+26	распространяющий	_	_	_	_	_	_	_	Shift=2308
+27	какой-то	_	_	_	_	_	_	_	Shift=2325
+28	лаковый	_	_	_	_	_	_	_	Shift=2334
+29	блеск	_	_	_	_	_	_	_	Shift=2342
+30	по	_	_	_	_	_	_	_	Shift=2348
+31	угреватому	_	_	_	_	_	_	_	Shift=2351
+32	лицу	_	_	_	_	_	_	_	Shift=2362|SpaceAfter=No
+33	,	_	_	_	_	_	_	_	Shift=2366
+34	открытую	_	_	_	_	_	_	_	Shift=2368
+35	седую	_	_	_	_	_	_	_	Shift=2377
+36	голову	_	_	_	_	_	_	_	Shift=2383
+37	с	_	_	_	_	_	_	_	Shift=2390
+38	зачесанными	_	_	_	_	_	_	_	Shift=2392
+39	назад	_	_	_	_	_	_	_	Shift=2404
+40	волосами	_	_	_	_	_	_	_	Shift=2410|SpaceAfter=No
+41	,	_	_	_	_	_	_	_	Shift=2418
+42	в	_	_	_	_	_	_	_	Shift=2420
+43	виде	_	_	_	_	_	_	_	Shift=2422
+44	хвостика	_	_	_	_	_	_	_	Shift=2427|SpaceAfter=No
+45	,	_	_	_	_	_	_	_	Shift=2435
+46	и	_	_	_	_	_	_	_	Shift=2437
+47	приткнутыми	_	_	_	_	_	_	_	Shift=2439
+48	черепаховой	_	_	_	_	_	_	_	Shift=2451
+49	гребенкой	_	_	_	_	_	_	_	Shift=2463
+50	на	_	_	_	_	_	_	_	Shift=2473
+51	затылке	_	_	_	_	_	_	_	Shift=2476|SpaceAfter=No
+52	,	_	_	_	_	_	_	_	Shift=2483
+53	большие	_	_	_	_	_	_	_	Shift=2485|SpaceAfter=No
+54	,	_	_	_	_	_	_	_	Shift=2492
+55	подозрительно	_	_	_	_	_	_	_	Shift=2494
+56	беспокойные	_	_	_	_	_	_	_	Shift=2508
+57	серые	_	_	_	_	_	_	_	Shift=2520
+58	глаза	_	_	_	_	_	_	_	Shift=2526
+59	и	_	_	_	_	_	_	_	Shift=2532
+60	довольно	_	_	_	_	_	_	_	Shift=2534
+61	порядочные	_	_	_	_	_	_	_	Shift=2543
+62	седые	_	_	_	_	_	_	_	Shift=2554
+63	усы	_	_	_	_	_	_	_	Shift=2560|SpaceAfter=No
+64	.	_	_	_	_	_	_	_	Shift=2563
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p14-s2
+# text = Вошел лакей.
+1	Вошел	_	_	_	_	_	_	_	Shift=2565
+2	лакей	_	_	_	_	_	_	_	Shift=2571|SpaceAfter=No
+3	.	_	_	_	_	_	_	_	Shift=2576
+
+# newpar id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p15
+# par_text = - Скажи нянюшке, чтоб она привела княжну, - проговорила Наталья Николаевна. - Я надеюсь, Павел Ильич, - прибавила она, - вы позволите вашим птенцам - как вы их называете - покороче со мной познакомиться, если только они не будут скучать у меня.
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p15-s1
+# text = - Скажи нянюшке, чтоб она привела княжну, - проговорила Наталья Николаевна.
+1	-	_	_	_	_	_	_	_	Shift=2579
+2	Скажи	_	_	_	_	_	_	_	Shift=2581
+3	нянюшке	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=688|RuCor_group_id=410463|RuCor_link_id=0|Shift=2587|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2594
+5	чтоб	_	_	_	_	_	_	_	Shift=2596
+6	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=688|RuCor_group_id=410464|RuCor_link_id=410463|Shift=2601
+7	привела	_	_	_	_	_	_	_	Shift=2605
+8	княжну	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=687|RuCor_group_id=410466|RuCor_link_id=410465|Shift=2613|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=2619
+10	-	_	_	_	_	_	_	_	Shift=2621
+11	проговорила	_	_	_	_	_	_	_	Shift=2623
+12	Наталья	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410467|Shift=2635
+13	Николаевна	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410467|Shift=2643|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=2653
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p15-s2
+# text = - Я надеюсь, Павел Ильич, - прибавила она, - вы позволите вашим птенцам - как вы их называете - покороче со мной познакомиться, если только они не будут скучать у меня.
+1	-	_	_	_	_	_	_	_	Shift=2655
+2	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410468|RuCor_link_id=410467|Shift=2657
+3	надеюсь	_	_	_	_	_	_	_	Shift=2659|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2666
+5	Павел	_	_	_	_	_	_	_	RuCor_chain_id=699|RuCor_group_id=410469|Shift=2668
+6	Ильич	_	_	_	_	_	_	_	RuCor_chain_id=699|RuCor_group_id=410469|Shift=2674|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=2679
+8	-	_	_	_	_	_	_	_	Shift=2681
+9	прибавила	_	_	_	_	_	_	_	Shift=2683
+10	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410470|RuCor_link_id=410467|Shift=2693|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=2696
+12	-	_	_	_	_	_	_	_	Shift=2698
+13	вы	_	_	_	_	_	_	_	RuCor_chain_id=699|RuCor_group_id=410471|RuCor_link_id=410469|Shift=2700
+14	позволите	_	_	_	_	_	_	_	Shift=2703
+15	вашим	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=701|RuCor_group_id=410473|RuCor_link_id=410471|Shift=2713
+16	птенцам	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=701|RuCor_group_id=410473|RuCor_link_id=410437|Shift=2719
+17	-	_	_	_	_	_	_	_	Shift=2727
+18	как	_	_	_	_	_	_	_	Shift=2729
+19	вы	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=699|RuCor_group_id=410474|RuCor_link_id=410471|Shift=2733
+20	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=701|RuCor_group_id=410475|RuCor_link_id=410473|Shift=2736
+21	называете	_	_	_	_	_	_	_	Shift=2739
+22	-	_	_	_	_	_	_	_	Shift=2749
+23	покороче	_	_	_	_	_	_	_	Shift=2751
+24	со	_	_	_	_	_	_	_	Shift=2760
+25	мной	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410476|RuCor_link_id=410467|Shift=2763
+26	познакомиться	_	_	_	_	_	_	_	Shift=2768|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=2781
+28	если	_	_	_	_	_	_	_	Shift=2783
+29	только	_	_	_	_	_	_	_	Shift=2788
+30	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=701|RuCor_group_id=410477|RuCor_link_id=410475|Shift=2795
+31	не	_	_	_	_	_	_	_	Shift=2799
+32	будут	_	_	_	_	_	_	_	Shift=2802
+33	скучать	_	_	_	_	_	_	_	Shift=2808
+34	у	_	_	_	_	_	_	_	Shift=2816
+35	меня	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410478|RuCor_link_id=410476|Shift=2818|SpaceAfter=No
+36	.	_	_	_	_	_	_	_	Shift=2822
+
+# newpar id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p16
+# par_text = Дверь отворилась, и княжна, в сопровождении приземистой старушки, вошла в комнату. Это была премилая девочка лет восьми или девяти. Темно-каштановые волосы, подрезанные в кружок, окаймляли ее свежее, круглое личико. В больших голубых глазах сияла не только кротость, даже застенчивость.
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p16-s1
+# text = Дверь отворилась, и княжна, в сопровождении приземистой старушки, вошла в комнату.
+1	Дверь	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=686|RuCor_group_id=410479|RuCor_link_id=410480|Shift=2825
+2	отворилась	_	_	_	_	_	_	_	Shift=2831|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=2841
+4	и	_	_	_	_	_	_	_	Shift=2843
+5	княжна	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=687|RuCor_group_id=410481|RuCor_link_id=410466|Shift=2845|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=2851
+7	в	_	_	_	_	_	_	_	Shift=2853
+8	сопровождении	_	_	_	_	_	_	_	Shift=2855
+9	приземистой	_	_	_	_	_	_	_	RuCor_chain_id=688|RuCor_group_id=410482|Shift=2869
+10	старушки	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=688|RuCor_group_id=410482|RuCor_link_id=410463|Shift=2881|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=2889
+12	вошла	_	_	_	_	_	_	_	Shift=2891
+13	в	_	_	_	_	_	_	_	Shift=2897
+14	комнату	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=697|RuCor_group_id=410483|RuCor_link_id=410420|Shift=2899|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=2906
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p16-s2
+# text = Это была премилая девочка лет восьми или девяти.
+1	Это	_	_	_	_	_	_	_	Shift=2908
+2	была	_	_	_	_	_	_	_	Shift=2912
+3	премилая	_	_	_	_	_	_	_	RuCor_chain_id=687|RuCor_group_id=410484|Shift=2917
+4	девочка	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=687|RuCor_group_id=410484|RuCor_link_id=410481|Shift=2926
+5	лет	_	_	_	_	_	_	_	RuCor_chain_id=687|RuCor_group_id=410484|Shift=2934
+6	восьми	_	_	_	_	_	_	_	RuCor_chain_id=687|RuCor_group_id=410484|Shift=2938
+7	или	_	_	_	_	_	_	_	RuCor_chain_id=687|RuCor_group_id=410484|Shift=2945
+8	девяти	_	_	_	_	_	_	_	RuCor_chain_id=687|RuCor_group_id=410484|Shift=2949|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=2955
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p16-s3
+# text = Темно-каштановые волосы, подрезанные в кружок, окаймляли ее свежее, круглое личико.
+1	Темно-каштановые	_	_	_	_	_	_	_	Shift=2957
+2	волосы	_	_	_	_	_	_	_	Shift=2974|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=2980
+4	подрезанные	_	_	_	_	_	_	_	Shift=2982
+5	в	_	_	_	_	_	_	_	Shift=2994
+6	кружок	_	_	_	_	_	_	_	Shift=2996|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=3002
+8	окаймляли	_	_	_	_	_	_	_	Shift=3004
+9	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=687|RuCor_group_id=410485|RuCor_link_id=410484|Shift=3014
+10	свежее	_	_	_	_	_	_	_	Shift=3017|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=3023
+12	круглое	_	_	_	_	_	_	_	Shift=3025
+13	личико	_	_	_	_	_	_	_	Shift=3033|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=3039
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p16-s4
+# text = В больших голубых глазах сияла не только кротость, даже застенчивость.
+1	В	_	_	_	_	_	_	_	Shift=3041
+2	больших	_	_	_	_	_	_	_	Shift=3043
+3	голубых	_	_	_	_	_	_	_	Shift=3051
+4	глазах	_	_	_	_	_	_	_	Shift=3059
+5	сияла	_	_	_	_	_	_	_	Shift=3066
+6	не	_	_	_	_	_	_	_	Shift=3072
+7	только	_	_	_	_	_	_	_	Shift=3075
+8	кротость	_	_	_	_	_	_	_	Shift=3082|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=3090
+10	даже	_	_	_	_	_	_	_	Shift=3092
+11	застенчивость	_	_	_	_	_	_	_	Shift=3097|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=3110
+
+# newpar id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p17
+# par_text = - Рекомендую мою дочь. Сонечка, познакомься... Сонечка! отчего у тебя глаза такие красные?
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p17-s1
+# text = - Рекомендую мою дочь.
+1	-	_	_	_	_	_	_	_	Shift=3113
+2	Рекомендую	_	_	_	_	_	_	_	Shift=3115
+3	мою	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=687|RuCor_group_id=410487|RuCor_link_id=410478|Shift=3126
+4	дочь	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=687|RuCor_group_id=410487|RuCor_link_id=410485|Shift=3130|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=3134
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p17-s2
+# text = Сонечка, познакомься...
+1	Сонечка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=687|RuCor_group_id=410488|RuCor_link_id=410487|Shift=3136|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=3143
+3	познакомься	_	_	_	_	_	_	_	Shift=3145|SpaceAfter=No
+4	...	_	_	_	_	_	_	_	Shift=3156
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p17-s3
+# text = Сонечка!
+1	Сонечка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=687|RuCor_group_id=410489|RuCor_link_id=410488|Shift=3160|SpaceAfter=No
+2	!	_	_	_	_	_	_	_	Shift=3167
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p17-s4
+# text = отчего у тебя глаза такие красные?
+1	отчего	_	_	_	_	_	_	_	Shift=3169
+2	у	_	_	_	_	_	_	_	Shift=3176
+3	тебя	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=687|RuCor_group_id=410490|RuCor_link_id=410489|Shift=3178
+4	глаза	_	_	_	_	_	_	_	Shift=3183
+5	такие	_	_	_	_	_	_	_	Shift=3189
+6	красные	_	_	_	_	_	_	_	Shift=3195|SpaceAfter=No
+7	?	_	_	_	_	_	_	_	Shift=3202
+
+# newpar id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p18
+# par_text = Сонечка повернула головку к матери и ничего не отвечала.
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p18-s1
+# text = Сонечка повернула головку к матери и ничего не отвечала.
+1	Сонечка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=687|RuCor_group_id=410491|RuCor_link_id=410489|Shift=3205
+2	повернула	_	_	_	_	_	_	_	Shift=3213
+3	головку	_	_	_	_	_	_	_	Shift=3223
+4	к	_	_	_	_	_	_	_	Shift=3231
+5	матери	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410492|RuCor_link_id=410467|Shift=3233
+6	и	_	_	_	_	_	_	_	Shift=3240
+7	ничего	_	_	_	_	_	_	_	Shift=3242
+8	не	_	_	_	_	_	_	_	Shift=3249
+9	отвечала	_	_	_	_	_	_	_	Shift=3252|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=3260
+
+# newpar id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p19
+# par_text = - Отчего у нее красные глаза? - обратилась княгиня к няньке.
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p19-s1
+# text = - Отчего у нее красные глаза?
+1	-	_	_	_	_	_	_	_	Shift=3263
+2	Отчего	_	_	_	_	_	_	_	Shift=3265
+3	у	_	_	_	_	_	_	_	Shift=3272
+4	нее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=687|RuCor_group_id=410493|RuCor_link_id=410491|Shift=3274
+5	красные	_	_	_	_	_	_	_	Shift=3278
+6	глаза	_	_	_	_	_	_	_	Shift=3286|SpaceAfter=No
+7	?	_	_	_	_	_	_	_	Shift=3291
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p19-s2
+# text = - обратилась княгиня к няньке.
+1	-	_	_	_	_	_	_	_	Shift=3293
+2	обратилась	_	_	_	_	_	_	_	Shift=3295
+3	княгиня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410494|RuCor_link_id=410492|Shift=3306
+4	к	_	_	_	_	_	_	_	Shift=3314
+5	няньке	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=688|RuCor_group_id=410495|RuCor_link_id=410482|Shift=3316|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=3322
+
+# newpar id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p20
+# par_text = - Изволили плакать, - отвечала нянюшка полушепотом.
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p20-s1
+# text = - Изволили плакать, - отвечала нянюшка полушепотом.
+1	-	_	_	_	_	_	_	_	Shift=3325
+2	Изволили	_	_	_	_	_	_	_	Shift=3327
+3	плакать	_	_	_	_	_	_	_	Shift=3336|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=3343
+5	-	_	_	_	_	_	_	_	Shift=3345
+6	отвечала	_	_	_	_	_	_	_	Shift=3347
+7	нянюшка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=688|RuCor_group_id=410496|RuCor_link_id=410495|Shift=3356
+8	полушепотом	_	_	_	_	_	_	_	Shift=3364|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=3375
+
+# newpar id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p21
+# par_text = - Опять капризы! О чем это?
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p21-s1
+# text = - Опять капризы!
+1	-	_	_	_	_	_	_	_	Shift=3378
+2	Опять	_	_	_	_	_	_	_	Shift=3380
+3	капризы	_	_	_	_	_	_	_	Shift=3386|SpaceAfter=No
+4	!	_	_	_	_	_	_	_	Shift=3393
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p21-s2
+# text = О чем это?
+1	О	_	_	_	_	_	_	_	Shift=3395
+2	чем	_	_	_	_	_	_	_	Shift=3397
+3	это	_	_	_	_	_	_	_	Shift=3401|SpaceAfter=No
+4	?	_	_	_	_	_	_	_	Shift=3404
+
+# newpar id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p22
+# par_text = Нянюшка, немного замявшись, прошептала:
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p22-s1
+# text = Нянюшка, немного замявшись, прошептала:
+1	Нянюшка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=688|RuCor_group_id=410498|RuCor_link_id=410496|Shift=3407|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=3414
+3	немного	_	_	_	_	_	_	_	Shift=3416
+4	замявшись	_	_	_	_	_	_	_	Shift=3424|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=3433
+6	прошептала	_	_	_	_	_	_	_	Shift=3435|SpaceAfter=No
+7	:	_	_	_	_	_	_	_	Shift=3445
+
+# newpar id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p23
+# par_text = - О кукле.
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p23-s1
+# text = - О кукле.
+1	-	_	_	_	_	_	_	_	Shift=3448
+2	О	_	_	_	_	_	_	_	Shift=3450
+3	кукле	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=685|RuCor_group_id=410497|RuCor_link_id=0|Shift=3452|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=3457
+
+# newpar id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p24
+# par_text = - Вообраззи, мой дррук, - отозвалась безмолвствовавшая до сих пор вязальщица, - этто я сеегодня взялла у ннее куклу, потому что онна вчерра все с нней воззиллась. В ейе летта... (только подобным правописанием можно несколько подражать стоккато, которым говорила вязальщица).
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p24-s1
+# text = - Вообраззи, мой дррук, - отозвалась безмолвствовавшая до сих пор вязальщица, - этто я сеегодня взялла у ннее куклу, потому что онна вчерра все с нней воззиллась.
+1	-	_	_	_	_	_	_	_	Shift=3460
+2	Вообраззи	_	_	_	_	_	_	_	Shift=3462|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=3471
+4	мой	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=690|RuCor_group_id=410500|RuCor_link_id=410456|Shift=3473
+5	дррук	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410499|RuCor_link_id=410494|Shift=3477|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=3482
+7	-	_	_	_	_	_	_	_	Shift=3484
+8	отозвалась	_	_	_	_	_	_	_	Shift=3486
+9	безмолвствовавшая	_	_	_	_	_	_	_	RuCor_chain_id=690|RuCor_group_id=410501|Shift=3497
+10	до	_	_	_	_	_	_	_	RuCor_chain_id=690|RuCor_group_id=410501|Shift=3515
+11	сих	_	_	_	_	_	_	_	RuCor_chain_id=690|RuCor_group_id=410501|Shift=3518
+12	пор	_	_	_	_	_	_	_	RuCor_chain_id=690|RuCor_group_id=410501|Shift=3522
+13	вязальщица	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=690|RuCor_group_id=410501|RuCor_link_id=410500|Shift=3526|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=3536
+15	-	_	_	_	_	_	_	_	Shift=3538
+16	этто	_	_	_	_	_	_	_	Shift=3540
+17	я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=690|RuCor_group_id=410502|RuCor_link_id=410501|Shift=3545
+18	сеегодня	_	_	_	_	_	_	_	Shift=3547
+19	взялла	_	_	_	_	_	_	_	Shift=3556
+20	у	_	_	_	_	_	_	_	Shift=3563
+21	ннее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=687|RuCor_group_id=410503|RuCor_link_id=410493|Shift=3565
+22	куклу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=685|RuCor_group_id=410504|RuCor_link_id=410497|Shift=3570|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=3575
+24	потому	_	_	_	_	_	_	_	Shift=3577
+25	что	_	_	_	_	_	_	_	Shift=3584
+26	онна	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=687|RuCor_group_id=410505|RuCor_link_id=410503|Shift=3588
+27	вчерра	_	_	_	_	_	_	_	Shift=3593
+28	все	_	_	_	_	_	_	_	Shift=3600
+29	с	_	_	_	_	_	_	_	Shift=3604
+30	нней	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=685|RuCor_group_id=410506|RuCor_link_id=410504|Shift=3606
+31	воззиллась	_	_	_	_	_	_	_	Shift=3611|SpaceAfter=No
+32	.	_	_	_	_	_	_	_	Shift=3621
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p24-s2
+# text = В ейе летта... (только подобным правописанием можно несколько подражать стоккато, которым говорила вязальщица).
+1	В	_	_	_	_	_	_	_	Shift=3623
+2	ейе	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=687|RuCor_group_id=410507|RuCor_link_id=410505|Shift=3625
+3	летта	_	_	_	_	_	_	_	Shift=3629|SpaceAfter=No
+4	...	_	_	_	_	_	_	_	Shift=3634
+5	(	_	_	_	_	_	_	_	Shift=3638|SpaceAfter=No
+6	только	_	_	_	_	_	_	_	Shift=3639
+7	подобным	_	_	_	_	_	_	_	Shift=3646
+8	правописанием	_	_	_	_	_	_	_	Shift=3655
+9	можно	_	_	_	_	_	_	_	Shift=3669
+10	несколько	_	_	_	_	_	_	_	Shift=3675
+11	подражать	_	_	_	_	_	_	_	Shift=3685
+12	стоккато	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=684|RuCor_group_id=410508|RuCor_link_id=0|Shift=3695|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=3703
+14	которым	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=684|RuCor_group_id=410509|RuCor_link_id=410508|Shift=3705
+15	говорила	_	_	_	_	_	_	_	Shift=3713
+16	вязальщица	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=690|RuCor_group_id=410510|RuCor_link_id=410501|Shift=3722|SpaceAfter=No
+17	)	_	_	_	_	_	_	_	Shift=3732|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=3733
+
+# newpar id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p25
+# par_text = Девочка стояла неподвижно, глядя на мать, и две крупные слезы повисли на ее длинных ресницах. Княгиня приложила платок к носу, громко захлюпала с приметным наслаждением и махнула рукой.
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p25-s1
+# text = Девочка стояла неподвижно, глядя на мать, и две крупные слезы повисли на ее длинных ресницах.
+1	Девочка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=687|RuCor_group_id=410511|RuCor_link_id=410507|Shift=3736
+2	стояла	_	_	_	_	_	_	_	Shift=3744
+3	неподвижно	_	_	_	_	_	_	_	Shift=3751|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=3761
+5	глядя	_	_	_	_	_	_	_	Shift=3763
+6	на	_	_	_	_	_	_	_	Shift=3769
+7	мать	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410512|RuCor_link_id=410494|Shift=3772|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=3776
+9	и	_	_	_	_	_	_	_	Shift=3778
+10	две	_	_	_	_	_	_	_	Shift=3780
+11	крупные	_	_	_	_	_	_	_	Shift=3784
+12	слезы	_	_	_	_	_	_	_	Shift=3792
+13	повисли	_	_	_	_	_	_	_	Shift=3798
+14	на	_	_	_	_	_	_	_	Shift=3806
+15	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410513|RuCor_link_id=410512|Shift=3809
+16	длинных	_	_	_	_	_	_	_	Shift=3812
+17	ресницах	_	_	_	_	_	_	_	Shift=3820|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=3828
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p25-s2
+# text = Княгиня приложила платок к носу, громко захлюпала с приметным наслаждением и махнула рукой.
+1	Княгиня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410514|RuCor_link_id=410512|Shift=3830
+2	приложила	_	_	_	_	_	_	_	Shift=3838
+3	платок	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=694|RuCor_group_id=410515|RuCor_link_id=410432|Shift=3848
+4	к	_	_	_	_	_	_	_	Shift=3855
+5	носу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=695|RuCor_group_id=410517|RuCor_link_id=410516|Shift=3857|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=3861
+7	громко	_	_	_	_	_	_	_	Shift=3863
+8	захлюпала	_	_	_	_	_	_	_	Shift=3870
+9	с	_	_	_	_	_	_	_	Shift=3880
+10	приметным	_	_	_	_	_	_	_	Shift=3882
+11	наслаждением	_	_	_	_	_	_	_	Shift=3892
+12	и	_	_	_	_	_	_	_	Shift=3905
+13	махнула	_	_	_	_	_	_	_	Shift=3907
+14	рукой	_	_	_	_	_	_	_	Shift=3915|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=3920
+
+# newpar id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p26
+# par_text = - Няннюшка, - сказала вязальщица, - увведди отссюдда это непослушшное диття.
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p26-s1
+# text = - Няннюшка, - сказала вязальщица, - увведди отссюдда это непослушшное диття.
+1	-	_	_	_	_	_	_	_	Shift=3923
+2	Няннюшка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=688|RuCor_group_id=410518|RuCor_link_id=410498|Shift=3925|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=3933
+4	-	_	_	_	_	_	_	_	Shift=3935
+5	сказала	_	_	_	_	_	_	_	Shift=3937
+6	вязальщица	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=690|RuCor_group_id=410538|RuCor_link_id=410501|Shift=3945|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=3955
+8	-	_	_	_	_	_	_	_	Shift=3957
+9	увведди	_	_	_	_	_	_	_	Shift=3959
+10	отссюдда	_	_	_	_	_	_	_	Shift=3967
+11	это	_	_	_	_	_	_	_	RuCor_chain_id=687|RuCor_group_id=410519|Shift=3976
+12	непослушшное	_	_	_	_	_	_	_	RuCor_chain_id=687|RuCor_group_id=410519|Shift=3980
+13	диття	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=687|RuCor_group_id=410519|RuCor_link_id=410511|Shift=3993|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=3998
+
+# newpar id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p27
+# par_text = - Как трудно воспитывать детей! - сказала Наталья Николаевна. - У меня одна дочь, и то тяжело.
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p27-s1
+# text = - Как трудно воспитывать детей!
+1	-	_	_	_	_	_	_	_	Shift=4001
+2	Как	_	_	_	_	_	_	_	Shift=4003
+3	трудно	_	_	_	_	_	_	_	Shift=4007
+4	воспитывать	_	_	_	_	_	_	_	Shift=4014
+5	детей	_	_	_	_	_	_	_	Shift=4026|SpaceAfter=No
+6	!	_	_	_	_	_	_	_	Shift=4031
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p27-s2
+# text = - сказала Наталья Николаевна.
+1	-	_	_	_	_	_	_	_	Shift=4033
+2	сказала	_	_	_	_	_	_	_	Shift=4035
+3	Наталья	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410520|Shift=4043
+4	Николаевна	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410520|Shift=4051|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=4061
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p27-s3
+# text = - У меня одна дочь, и то тяжело.
+1	-	_	_	_	_	_	_	_	Shift=4063
+2	У	_	_	_	_	_	_	_	Shift=4065
+3	меня	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410521|RuCor_link_id=410520|Shift=4067
+4	одна	_	_	_	_	_	_	_	Shift=4072
+5	дочь	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=687|RuCor_group_id=410522|RuCor_link_id=410519|Shift=4077|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=4081
+7	и	_	_	_	_	_	_	_	Shift=4083
+8	то	_	_	_	_	_	_	_	Shift=4085
+9	тяжело	_	_	_	_	_	_	_	Shift=4088|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=4094
+
+# newpar id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p28
+# par_text = - Всякому свое, матушка Наталья Николавна. Однако ж мы у вас засиделись, - прибавил дядюшка, вставая.
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p28-s1
+# text = - Всякому свое, матушка Наталья Николавна.
+1	-	_	_	_	_	_	_	_	Shift=4097
+2	Всякому	_	_	_	_	_	_	_	Shift=4099
+3	свое	_	_	_	_	_	_	_	Shift=4107|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=4111
+5	матушка	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410523|Shift=4113
+6	Наталья	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410523|Shift=4121
+7	Николавна	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410523|Shift=4129|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=4138
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p28-s2
+# text = Однако ж мы у вас засиделись, - прибавил дядюшка, вставая.
+1	Однако	_	_	_	_	_	_	_	Shift=4140
+2	ж	_	_	_	_	_	_	_	Shift=4147
+3	мы	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=698|RuCor_group_id=410524|RuCor_link_id=410417|Shift=4149
+4	у	_	_	_	_	_	_	_	Shift=4152
+5	вас	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410525|RuCor_link_id=410523|Shift=4154
+6	засиделись	_	_	_	_	_	_	_	Shift=4158|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=4168
+8	-	_	_	_	_	_	_	_	Shift=4170
+9	прибавил	_	_	_	_	_	_	_	Shift=4172
+10	дядюшка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=699|RuCor_group_id=410526|RuCor_link_id=410452|Shift=4181|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=4188
+12	вставая	_	_	_	_	_	_	_	Shift=4190|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=4197
+
+# newpar id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p29
+# par_text = - Не забудьте своего обещания: присылайте детей ко мне, обедать или вечером. Вы знаете, вечером я почти всегда одна.
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p29-s1
+# text = - Не забудьте своего обещания: присылайте детей ко мне, обедать или вечером.
+1	-	_	_	_	_	_	_	_	Shift=4200
+2	Не	_	_	_	_	_	_	_	Shift=4202
+3	забудьте	_	_	_	_	_	_	_	Shift=4205
+4	своего	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=699|RuCor_group_id=410527|RuCor_link_id=410526|Shift=4214
+5	обещания	_	_	_	_	_	_	_	Shift=4221|SpaceAfter=No
+6	:	_	_	_	_	_	_	_	Shift=4229
+7	присылайте	_	_	_	_	_	_	_	Shift=4231
+8	детей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=701|RuCor_group_id=410528|RuCor_link_id=410473|Shift=4242
+9	ко	_	_	_	_	_	_	_	Shift=4248
+10	мне	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410529|RuCor_link_id=410523|Shift=4251|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=4254
+12	обедать	_	_	_	_	_	_	_	Shift=4256
+13	или	_	_	_	_	_	_	_	Shift=4264
+14	вечером	_	_	_	_	_	_	_	Shift=4268|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=4275
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p29-s2
+# text = Вы знаете, вечером я почти всегда одна.
+1	Вы	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=699|RuCor_group_id=410530|RuCor_link_id=410527|Shift=4277
+2	знаете	_	_	_	_	_	_	_	Shift=4280|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=4286
+4	вечером	_	_	_	_	_	_	_	Shift=4288
+5	я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410531|RuCor_link_id=410529|Shift=4296
+6	почти	_	_	_	_	_	_	_	Shift=4298
+7	всегда	_	_	_	_	_	_	_	Shift=4304
+8	одна	_	_	_	_	_	_	_	Shift=4311|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=4315
+
+# newpar id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p30
+# par_text = Так кончился наш первый визит у княгини Васильевой. Не скажу, чтоб на первый раз она произвела на меня приятное впечатление; особенно не понравилась мне вязальщица.
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p30-s1
+# text = Так кончился наш первый визит у княгини Васильевой.
+1	Так	_	_	_	_	_	_	_	Shift=4318
+2	кончился	_	_	_	_	_	_	_	Shift=4322
+3	наш	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=698|RuCor_group_id=410532|RuCor_link_id=410524|Shift=4331
+4	первый	_	_	_	_	_	_	_	Shift=4335
+5	визит	_	_	_	_	_	_	_	Shift=4342
+6	у	_	_	_	_	_	_	_	Shift=4348
+7	княгини	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410533|Shift=4350
+8	Васильевой	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410533|Shift=4358|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=4368
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p30-s2
+# text = Не скажу, чтоб на первый раз она произвела на меня приятное впечатление.
+1	Не	_	_	_	_	_	_	_	Shift=4370
+2	скажу	_	_	_	_	_	_	_	Shift=4373|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=4378
+4	чтоб	_	_	_	_	_	_	_	Shift=4380
+5	на	_	_	_	_	_	_	_	Shift=4385
+6	первый	_	_	_	_	_	_	_	Shift=4388
+7	раз	_	_	_	_	_	_	_	Shift=4395
+8	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410534|RuCor_link_id=410533|Shift=4399
+9	произвела	_	_	_	_	_	_	_	Shift=4403
+10	на	_	_	_	_	_	_	_	Shift=4413
+11	меня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=693|RuCor_group_id=410535|RuCor_link_id=410448|Shift=4416
+12	приятное	_	_	_	_	_	_	_	Shift=4421
+13	впечатление	_	_	_	_	_	_	_	Shift=4430|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=4441
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p30-s3
+# text = особенно не понравилась мне вязальщица.
+1	особенно	_	_	_	_	_	_	_	Shift=4443
+2	не	_	_	_	_	_	_	_	Shift=4452
+3	понравилась	_	_	_	_	_	_	_	Shift=4455
+4	мне	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=693|RuCor_group_id=410536|RuCor_link_id=410535|Shift=4467
+5	вязальщица	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=690|RuCor_group_id=410537|RuCor_link_id=410538|Shift=4471|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=4481
+
+# newpar id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p31
+# par_text = - Дядюшка, - спросил я, усевшись в карете, - кто эта дама, что вязала чулок и потом прогнала Сонечку?
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p31-s1
+# text = - Дядюшка, - спросил я, усевшись в карете, - кто эта дама, что вязала чулок и потом прогнала Сонечку?
+1	-	_	_	_	_	_	_	_	Shift=4484
+2	Дядюшка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=699|RuCor_group_id=410539|RuCor_link_id=410526|Shift=4486|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=4493
+4	-	_	_	_	_	_	_	_	Shift=4495
+5	спросил	_	_	_	_	_	_	_	Shift=4497
+6	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=693|RuCor_group_id=410540|RuCor_link_id=410536|Shift=4505|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=4506
+8	усевшись	_	_	_	_	_	_	_	Shift=4508
+9	в	_	_	_	_	_	_	_	Shift=4517
+10	карете	_	_	_	_	_	_	_	Shift=4519|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=4525
+12	-	_	_	_	_	_	_	_	Shift=4527
+13	кто	_	_	_	_	_	_	_	Shift=4529
+14	эта	_	_	_	_	_	_	_	RuCor_chain_id=690|RuCor_group_id=410541|Shift=4533
+15	дама	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=690|RuCor_group_id=410541|RuCor_link_id=410537|Shift=4537|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=4541
+17	что	_	_	_	_	_	_	_	Shift=4543
+18	вязала	_	_	_	_	_	_	_	Shift=4547
+19	чулок	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=683|RuCor_group_id=410543|RuCor_link_id=410542|Shift=4554
+20	и	_	_	_	_	_	_	_	Shift=4560
+21	потом	_	_	_	_	_	_	_	Shift=4562
+22	прогнала	_	_	_	_	_	_	_	Shift=4568
+23	Сонечку	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=687|RuCor_group_id=410544|RuCor_link_id=410519|Shift=4577|SpaceAfter=No
+24	?	_	_	_	_	_	_	_	Shift=4584
+
+# newpar id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p32
+# par_text = - Кто ее знает, мой друг! Я ее уж лет шесть вижу у княгини, знаю, что фамилия ее Лапоткина, что оне друг без друга дохнуть не могут, а кто она, откуда, девица или вдова - кажется, этого никто не знает.
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p32-s1
+# text = - Кто ее знает, мой друг!
+1	-	_	_	_	_	_	_	_	Shift=4587
+2	Кто	_	_	_	_	_	_	_	Shift=4589
+3	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=690|RuCor_group_id=410545|RuCor_link_id=410541|Shift=4593
+4	знает	_	_	_	_	_	_	_	Shift=4596|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=4601
+6	мой	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=693|RuCor_group_id=410547|RuCor_link_id=410539|Shift=4603
+7	друг	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=693|RuCor_group_id=410547|RuCor_link_id=410540|Shift=4607|SpaceAfter=No
+8	!	_	_	_	_	_	_	_	Shift=4611
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p32-s2
+# text = Я ее уж лет шесть вижу у княгини, знаю, что фамилия ее Лапоткина, что оне друг без друга дохнуть не могут, а кто она, откуда, девица или вдова - кажется, этого никто не знает.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=699|RuCor_group_id=410548|RuCor_link_id=410539|Shift=4613
+2	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=690|RuCor_group_id=410549|RuCor_link_id=410545|Shift=4615
+3	уж	_	_	_	_	_	_	_	Shift=4618
+4	лет	_	_	_	_	_	_	_	Shift=4621
+5	шесть	_	_	_	_	_	_	_	Shift=4625
+6	вижу	_	_	_	_	_	_	_	Shift=4631
+7	у	_	_	_	_	_	_	_	Shift=4636
+8	княгини	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410550|RuCor_link_id=410533|Shift=4638|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=4645
+10	знаю	_	_	_	_	_	_	_	Shift=4647|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=4651
+12	что	_	_	_	_	_	_	_	Shift=4653
+13	фамилия	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=682|RuCor_group_id=410552|RuCor_link_id=0|Shift=4657
+14	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=690|RuCor_group_id=410551|RuCor_link_id=410549|Shift=4665
+15	Лапоткина	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=682|RuCor_group_id=410553|RuCor_link_id=410552|Shift=4668|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=4677
+17	что	_	_	_	_	_	_	_	Shift=4679
+18	оне	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=674|RuCor_group_id=410603|RuCor_link_id=410602|Shift=4683
+19	друг	_	_	_	_	_	_	_	Shift=4687
+20	без	_	_	_	_	_	_	_	Shift=4692
+21	друга	_	_	_	_	_	_	_	Shift=4696
+22	дохнуть	_	_	_	_	_	_	_	Shift=4702
+23	не	_	_	_	_	_	_	_	Shift=4710
+24	могут	_	_	_	_	_	_	_	Shift=4713|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=4718
+26	а	_	_	_	_	_	_	_	Shift=4720
+27	кто	_	_	_	_	_	_	_	Shift=4722
+28	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=690|RuCor_group_id=410554|RuCor_link_id=410551|Shift=4726|SpaceAfter=No
+29	,	_	_	_	_	_	_	_	Shift=4729
+30	откуда	_	_	_	_	_	_	_	Shift=4731|SpaceAfter=No
+31	,	_	_	_	_	_	_	_	Shift=4737
+32	девица	_	_	_	_	_	_	_	Shift=4739
+33	или	_	_	_	_	_	_	_	Shift=4746
+34	вдова	_	_	_	_	_	_	_	Shift=4750
+35	-	_	_	_	_	_	_	_	Shift=4756
+36	кажется	_	_	_	_	_	_	_	Shift=4758|SpaceAfter=No
+37	,	_	_	_	_	_	_	_	Shift=4765
+38	этого	_	_	_	_	_	_	_	Shift=4767
+39	никто	_	_	_	_	_	_	_	Shift=4773
+40	не	_	_	_	_	_	_	_	Shift=4779
+41	знает	_	_	_	_	_	_	_	Shift=4782|SpaceAfter=No
+42	.	_	_	_	_	_	_	_	Shift=4787
+
+# newpar id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p33
+# par_text = Сереже в высшей степени понравилась Лапоткина. Он прозвал ее крокодилом и беспрестанно подбивал меня ехать к княгине. Аполлон редко, по крайней мере с нами, бывал по вечерам у Натальи Николаевны. Обижаясь ролью ребенка, он преимущественно искал общества девиц. Но зато мы с Сережей довольно часто проводили зимние вечера перед камином известного будуара. Оказалось, что Наталья Николаевна не всегда заливает нос одеколоном. Нередко она как-будто оживала, давая полную свободу своему тонкому, насмешливому уму. Когда она бывала в духе, нельзя было без смеха слушать ее рассказов. Нас с Сережей она, кажется, полюбила. Несмотря на ворчанье Лапоткиной, все собрание кипсеков и картинок поступило в наше распоряжение.
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p33-s1
+# text = Сереже в высшей степени понравилась Лапоткина.
+1	Сереже	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=691|RuCor_group_id=410555|RuCor_link_id=410451|Shift=4790
+2	в	_	_	_	_	_	_	_	Shift=4797
+3	высшей	_	_	_	_	_	_	_	Shift=4799
+4	степени	_	_	_	_	_	_	_	Shift=4806
+5	понравилась	_	_	_	_	_	_	_	Shift=4814
+6	Лапоткина	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=690|RuCor_group_id=410556|RuCor_link_id=410554|Shift=4826|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=4835
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p33-s2
+# text = Он прозвал ее крокодилом и беспрестанно подбивал меня ехать к княгине.
+1	Он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=691|RuCor_group_id=410557|RuCor_link_id=410555|Shift=4837
+2	прозвал	_	_	_	_	_	_	_	Shift=4840
+3	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=690|RuCor_group_id=410559|RuCor_link_id=410556|Shift=4848
+4	крокодилом	_	_	_	_	_	_	_	Shift=4851
+5	и	_	_	_	_	_	_	_	Shift=4862
+6	беспрестанно	_	_	_	_	_	_	_	Shift=4864
+7	подбивал	_	_	_	_	_	_	_	Shift=4877
+8	меня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=693|RuCor_group_id=410560|RuCor_link_id=410540|Shift=4886
+9	ехать	_	_	_	_	_	_	_	Shift=4891
+10	к	_	_	_	_	_	_	_	Shift=4897
+11	княгине	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410561|RuCor_link_id=410550|Shift=4899|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=4906
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p33-s3
+# text = Аполлон редко, по крайней мере с нами, бывал по вечерам у Натальи Николаевны.
+1	Аполлон	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=700|RuCor_group_id=410558|RuCor_link_id=410443|Shift=4908
+2	редко	_	_	_	_	_	_	_	Shift=4916|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=4921
+4	по	_	_	_	_	_	_	_	Shift=4923
+5	крайней	_	_	_	_	_	_	_	Shift=4926
+6	мере	_	_	_	_	_	_	_	Shift=4934
+7	с	_	_	_	_	_	_	_	Shift=4939
+8	нами	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=681|RuCor_group_id=410562|RuCor_link_id=0|Shift=4941|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=4945
+10	бывал	_	_	_	_	_	_	_	Shift=4947
+11	по	_	_	_	_	_	_	_	Shift=4953
+12	вечерам	_	_	_	_	_	_	_	Shift=4956
+13	у	_	_	_	_	_	_	_	Shift=4964
+14	Натальи	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410564|Shift=4966
+15	Николаевны	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410564|Shift=4974|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=4984
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p33-s4
+# text = Обижаясь ролью ребенка, он преимущественно искал общества девиц.
+1	Обижаясь	_	_	_	_	_	_	_	Shift=4986
+2	ролью	_	_	_	_	_	_	_	Shift=4995
+3	ребенка	_	_	_	_	_	_	_	Shift=5001|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=5008
+5	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=700|RuCor_group_id=410565|RuCor_link_id=410558|Shift=5010
+6	преимущественно	_	_	_	_	_	_	_	Shift=5013
+7	искал	_	_	_	_	_	_	_	Shift=5029
+8	общества	_	_	_	_	_	_	_	Shift=5035
+9	девиц	_	_	_	_	_	_	_	Shift=5044|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=5049
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p33-s5
+# text = Но зато мы с Сережей довольно часто проводили зимние вечера перед камином известного будуара.
+1	Но	_	_	_	_	_	_	_	Shift=5051
+2	зато	_	_	_	_	_	_	_	Shift=5054
+3	мы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=681|RuCor_group_id=410563|RuCor_link_id=410562|Shift=5059
+4	с	_	_	_	_	_	_	_	RuCor_chain_id=681|RuCor_group_id=410563|Shift=5062
+5	Сережей	_	_	_	_	_	_	_	RuCor_chain_id=681|RuCor_group_id=410563|Shift=5064
+6	довольно	_	_	_	_	_	_	_	Shift=5072
+7	часто	_	_	_	_	_	_	_	Shift=5081
+8	проводили	_	_	_	_	_	_	_	Shift=5087
+9	зимние	_	_	_	_	_	_	_	Shift=5097
+10	вечера	_	_	_	_	_	_	_	Shift=5104
+11	перед	_	_	_	_	_	_	_	Shift=5111
+12	камином	_	_	_	_	_	_	_	Shift=5117
+13	известного	_	_	_	_	_	_	_	RuCor_chain_id=697|RuCor_group_id=410566|Shift=5125
+14	будуара	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=697|RuCor_group_id=410566|RuCor_link_id=410483|Shift=5136|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=5143
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p33-s6
+# text = Оказалось, что Наталья Николаевна не всегда заливает нос одеколоном.
+1	Оказалось	_	_	_	_	_	_	_	Shift=5145|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=5154
+3	что	_	_	_	_	_	_	_	Shift=5156
+4	Наталья	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410567|Shift=5160
+5	Николаевна	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410567|Shift=5168
+6	не	_	_	_	_	_	_	_	Shift=5179
+7	всегда	_	_	_	_	_	_	_	Shift=5182
+8	заливает	_	_	_	_	_	_	_	Shift=5189
+9	нос	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=695|RuCor_group_id=410568|RuCor_link_id=410517|Shift=5198
+10	одеколоном	_	_	_	_	_	_	_	Shift=5202|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=5212
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p33-s7
+# text = Нередко она как - будто оживала, давая полную свободу своему тонкому, насмешливому уму.
+1	Нередко	_	_	_	_	_	_	_	Shift=5214
+2	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410569|RuCor_link_id=410567|Shift=5222
+3	как	_	_	_	_	_	_	_	Shift=5226
+4	-	_	_	_	_	_	_	_	Shift=5229
+5	будто	_	_	_	_	_	_	_	Shift=5230
+6	оживала	_	_	_	_	_	_	_	Shift=5236|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=5243
+8	давая	_	_	_	_	_	_	_	Shift=5245
+9	полную	_	_	_	_	_	_	_	Shift=5251
+10	свободу	_	_	_	_	_	_	_	Shift=5258
+11	своему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=670|RuCor_group_id=410653|RuCor_link_id=410567|Shift=5266
+12	тонкому	_	_	_	_	_	_	_	RuCor_chain_id=670|RuCor_group_id=410653|Shift=5273|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	RuCor_chain_id=670|RuCor_group_id=410653|Shift=5280
+14	насмешливому	_	_	_	_	_	_	_	RuCor_chain_id=670|RuCor_group_id=410653|Shift=5282
+15	уму	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=670|RuCor_group_id=410653|RuCor_link_id=0|Shift=5295|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=5298
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p33-s8
+# text = Когда она бывала в духе, нельзя было без смеха слушать ее рассказов.
+1	Когда	_	_	_	_	_	_	_	Shift=5300
+2	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410571|RuCor_link_id=410567|Shift=5306
+3	бывала	_	_	_	_	_	_	_	Shift=5310
+4	в	_	_	_	_	_	_	_	Shift=5317
+5	духе	_	_	_	_	_	_	_	Shift=5319|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=5323
+7	нельзя	_	_	_	_	_	_	_	Shift=5325
+8	было	_	_	_	_	_	_	_	Shift=5332
+9	без	_	_	_	_	_	_	_	Shift=5337
+10	смеха	_	_	_	_	_	_	_	Shift=5341
+11	слушать	_	_	_	_	_	_	_	Shift=5347
+12	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410572|RuCor_link_id=410571|Shift=5355
+13	рассказов	_	_	_	_	_	_	_	Shift=5358|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=5367
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p33-s9
+# text = Нас с Сережей она, кажется, полюбила.
+1	Нас	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=681|RuCor_group_id=410573|RuCor_link_id=410563|Shift=5369
+2	с	_	_	_	_	_	_	_	RuCor_chain_id=681|RuCor_group_id=410573|Shift=5373
+3	Сережей	_	_	_	_	_	_	_	RuCor_chain_id=681|RuCor_group_id=410573|Shift=5375
+4	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410574|RuCor_link_id=410571|Shift=5383|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=5386
+6	кажется	_	_	_	_	_	_	_	Shift=5388|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=5395
+8	полюбила	_	_	_	_	_	_	_	Shift=5397|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=5405
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p33-s10
+# text = Несмотря на ворчанье Лапоткиной, все собрание кипсеков и картинок поступило в наше распоряжение.
+1	Несмотря	_	_	_	_	_	_	_	Shift=5407
+2	на	_	_	_	_	_	_	_	Shift=5416
+3	ворчанье	_	_	_	_	_	_	_	Shift=5419
+4	Лапоткиной	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=690|RuCor_group_id=410575|RuCor_link_id=410556|Shift=5428|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=5438
+6	все	_	_	_	_	_	_	_	Shift=5440
+7	собрание	_	_	_	_	_	_	_	Shift=5444
+8	кипсеков	_	_	_	_	_	_	_	Shift=5453
+9	и	_	_	_	_	_	_	_	Shift=5462
+10	картинок	_	_	_	_	_	_	_	Shift=5464
+11	поступило	_	_	_	_	_	_	_	Shift=5473
+12	в	_	_	_	_	_	_	_	Shift=5483
+13	наше	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=681|RuCor_group_id=410576|RuCor_link_id=410573|Shift=5485
+14	распоряжение	_	_	_	_	_	_	_	Shift=5490|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=5502
+
+# newpar id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p34
+# par_text = Дом княгини был если не одним из самых больших, зато одним из самых заваленных разными предметами роскоши. Скупая на все, даже на стол, хотя держала прекрасных поваров, она. ничего не жалела на украшение комнат. Чего там не было! Бронза, на которой еще болтались миниатюрные ярлычки из магазинов, китайские вазы и уроды, сердоликовые гроты, малахитовые скалы, каскады из сибирских камней, серебро во всех возможных видах, органы, картины и даже ландшафт с башней, на которой часы каждый час били и играли, а стоящие в долине тирольцы, взявшись за руки, выделывали разные па. Коллекция диковинок с каждым годом увеличивалась. Кроме того, что Наталья Николаевна тратила на покупку их большие деньги, Лапоткина перед всяким рождением и именинами княгини искала по магазинам самой затейливой, самой дорогой вещи и потихоньку ставила ее на видное место так, чтоб когда в торжественный день дррук выйдет в парадные комнаты, то встретил бы приятный сюрприз. Странно, однако ж, что Сонечка почти никогда не сходила с верху, исключая дней, когда бывали гости. В подобные дни обычная тишина и расчет в доме сменялись шумом и хлебосольством. Обед бывал на славу, с самыми дорогими винами и плодами. Известный в то время Влас пек пирожки. Лапоткина надевала чепец и, явясь в полном блеске, старалась показать, что ее радует торжество в доме княгини даже более, чем хозяйку. В самых нежных излияниях друзья не стеснялись ничьим присутствием. Прибор Лапоткиной, как и всегда, ставился рядом с прибором Натальи Николаевны. Во время обеда Лапоткина, одаренная добрым аппетитом, отрежет, бывало, на своей тарелке лучшую частицу кушанья и, поваляв ее в приправе, собственной вилкой положит в рот княгини, примолвя: "Ммой дррук, скушай ввот эттот куссоччек". Ту же нежность оказывала Лапоткиной и княгиня. Шумно и весело бывало в подобные дни у Натальи Николаевны. Гостей бывало много. За столом я никогда не видал Сонечки, но зато, появляясь до и после обеда среди многочисленных посетителей, девочка, казалось, дышала свободней. Но и тут Лапоткина, следя своими стеклянными, подозрительными глазами за всем происходящим в доме, не упускала случая смутить и напугать бедного ребенка. Едва кто-нибудь из маленьких гостей приблизится к столику или этажерке, с намерением погладить кристальный каскад или измерить пальцем глубину сердоликового грота, Лапоткина уже кричит: "Соннечка! что этто зза прокказы? как этто мможжно все рукками троггать? Я тебя сейчасс отправвлю нна вверх к нняньке", - хотя бы бедная Сонечка была в десяти шагах от запретных предметов.
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p34-s1
+# text = Дом княгини был если не одним из самых больших, зато одним из самых заваленных разными предметами роскоши.
+1	Дом	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=675|RuCor_group_id=410595|RuCor_link_id=0|Shift=5505
+2	княгини	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410577|RuCor_link_id=410567|Shift=5509
+3	был	_	_	_	_	_	_	_	Shift=5517
+4	если	_	_	_	_	_	_	_	Shift=5521
+5	не	_	_	_	_	_	_	_	Shift=5526
+6	одним	_	_	_	_	_	_	_	Shift=5529
+7	из	_	_	_	_	_	_	_	Shift=5535
+8	самых	_	_	_	_	_	_	_	Shift=5538
+9	больших	_	_	_	_	_	_	_	Shift=5544|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=5551
+11	зато	_	_	_	_	_	_	_	Shift=5553
+12	одним	_	_	_	_	_	_	_	Shift=5558
+13	из	_	_	_	_	_	_	_	Shift=5564
+14	самых	_	_	_	_	_	_	_	Shift=5567
+15	заваленных	_	_	_	_	_	_	_	Shift=5573
+16	разными	_	_	_	_	_	_	_	Shift=5584
+17	предметами	_	_	_	_	_	_	_	Shift=5592
+18	роскоши	_	_	_	_	_	_	_	Shift=5603|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=5610
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p34-s2
+# text = Скупая на все, даже на стол, хотя держала прекрасных поваров, она.
+1	Скупая	_	_	_	_	_	_	_	Shift=5612
+2	на	_	_	_	_	_	_	_	Shift=5619
+3	все	_	_	_	_	_	_	_	Shift=5622|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=5625
+5	даже	_	_	_	_	_	_	_	Shift=5627
+6	на	_	_	_	_	_	_	_	Shift=5632
+7	стол	_	_	_	_	_	_	_	Shift=5635|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=5639
+9	хотя	_	_	_	_	_	_	_	Shift=5641
+10	держала	_	_	_	_	_	_	_	Shift=5646
+11	прекрасных	_	_	_	_	_	_	_	Shift=5654
+12	поваров	_	_	_	_	_	_	_	Shift=5665|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=5672
+14	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410578|RuCor_link_id=410577|Shift=5674|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=5677
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p34-s3
+# text = ничего не жалела на украшение комнат.
+1	ничего	_	_	_	_	_	_	_	Shift=5679
+2	не	_	_	_	_	_	_	_	Shift=5686
+3	жалела	_	_	_	_	_	_	_	Shift=5689
+4	на	_	_	_	_	_	_	_	Shift=5696
+5	украшение	_	_	_	_	_	_	_	Shift=5699
+6	комнат	_	_	_	_	_	_	_	Shift=5709|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=5715
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p34-s4
+# text = Чего там не было!
+1	Чего	_	_	_	_	_	_	_	Shift=5717
+2	там	_	_	_	_	_	_	_	Shift=5722
+3	не	_	_	_	_	_	_	_	Shift=5726
+4	было	_	_	_	_	_	_	_	Shift=5729|SpaceAfter=No
+5	!	_	_	_	_	_	_	_	Shift=5733
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p34-s5
+# text = Бронза, на которой еще болтались миниатюрные ярлычки из магазинов, китайские вазы и уроды, сердоликовые гроты, малахитовые скалы, каскады из сибирских камней, серебро во всех возможных видах, органы, картины и даже ландшафт с башней, на которой часы каждый час били и играли, а стоящие в долине тирольцы, взявшись за руки, выделывали разные па.
+1	Бронза	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=680|RuCor_group_id=410579|RuCor_link_id=0|Shift=5735|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=5741
+3	на	_	_	_	_	_	_	_	Shift=5743
+4	которой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=680|RuCor_group_id=410580|RuCor_link_id=410579|Shift=5746
+5	еще	_	_	_	_	_	_	_	Shift=5754
+6	болтались	_	_	_	_	_	_	_	Shift=5758
+7	миниатюрные	_	_	_	_	_	_	_	Shift=5768
+8	ярлычки	_	_	_	_	_	_	_	Shift=5780
+9	из	_	_	_	_	_	_	_	Shift=5788
+10	магазинов	_	_	_	_	_	_	_	Shift=5791|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=5800
+12	китайские	_	_	_	_	_	_	_	Shift=5802
+13	вазы	_	_	_	_	_	_	_	Shift=5812
+14	и	_	_	_	_	_	_	_	Shift=5817
+15	уроды	_	_	_	_	_	_	_	Shift=5819|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=5824
+17	сердоликовые	_	_	_	_	_	_	_	Shift=5826
+18	гроты	_	_	_	_	_	_	_	Shift=5839|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=5844
+20	малахитовые	_	_	_	_	_	_	_	Shift=5846
+21	скалы	_	_	_	_	_	_	_	Shift=5858|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=5863
+23	каскады	_	_	_	_	_	_	_	Shift=5865
+24	из	_	_	_	_	_	_	_	Shift=5873
+25	сибирских	_	_	_	_	_	_	_	Shift=5876
+26	камней	_	_	_	_	_	_	_	Shift=5886|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=5892
+28	серебро	_	_	_	_	_	_	_	Shift=5894
+29	во	_	_	_	_	_	_	_	Shift=5902
+30	всех	_	_	_	_	_	_	_	Shift=5905
+31	возможных	_	_	_	_	_	_	_	Shift=5910
+32	видах	_	_	_	_	_	_	_	Shift=5920|SpaceAfter=No
+33	,	_	_	_	_	_	_	_	Shift=5925
+34	органы	_	_	_	_	_	_	_	Shift=5927|SpaceAfter=No
+35	,	_	_	_	_	_	_	_	Shift=5933
+36	картины	_	_	_	_	_	_	_	Shift=5935
+37	и	_	_	_	_	_	_	_	Shift=5943
+38	даже	_	_	_	_	_	_	_	Shift=5945
+39	ландшафт	_	_	_	_	_	_	_	Shift=5950
+40	с	_	_	_	_	_	_	_	Shift=5959
+41	башней	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=679|RuCor_group_id=410581|RuCor_link_id=0|Shift=5961|SpaceAfter=No
+42	,	_	_	_	_	_	_	_	Shift=5967
+43	на	_	_	_	_	_	_	_	Shift=5969
+44	которой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=679|RuCor_group_id=410582|RuCor_link_id=410581|Shift=5972
+45	часы	_	_	_	_	_	_	_	Shift=5980
+46	каждый	_	_	_	_	_	_	_	Shift=5985
+47	час	_	_	_	_	_	_	_	Shift=5992
+48	били	_	_	_	_	_	_	_	Shift=5996
+49	и	_	_	_	_	_	_	_	Shift=6001
+50	играли	_	_	_	_	_	_	_	Shift=6003|SpaceAfter=No
+51	,	_	_	_	_	_	_	_	Shift=6009
+52	а	_	_	_	_	_	_	_	Shift=6011
+53	стоящие	_	_	_	_	_	_	_	Shift=6013
+54	в	_	_	_	_	_	_	_	Shift=6021
+55	долине	_	_	_	_	_	_	_	Shift=6023
+56	тирольцы	_	_	_	_	_	_	_	Shift=6030|SpaceAfter=No
+57	,	_	_	_	_	_	_	_	Shift=6038
+58	взявшись	_	_	_	_	_	_	_	Shift=6040
+59	за	_	_	_	_	_	_	_	Shift=6049
+60	руки	_	_	_	_	_	_	_	Shift=6052|SpaceAfter=No
+61	,	_	_	_	_	_	_	_	Shift=6056
+62	выделывали	_	_	_	_	_	_	_	Shift=6058
+63	разные	_	_	_	_	_	_	_	Shift=6069
+64	па	_	_	_	_	_	_	_	Shift=6076|SpaceAfter=No
+65	.	_	_	_	_	_	_	_	Shift=6078
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p34-s6
+# text = Коллекция диковинок с каждым годом увеличивалась.
+1	Коллекция	_	_	_	_	_	_	_	Shift=6080
+2	диковинок	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=678|RuCor_group_id=410584|RuCor_link_id=0|Shift=6090
+3	с	_	_	_	_	_	_	_	Shift=6100
+4	каждым	_	_	_	_	_	_	_	Shift=6102
+5	годом	_	_	_	_	_	_	_	Shift=6109
+6	увеличивалась	_	_	_	_	_	_	_	Shift=6115|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=6128
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p34-s7
+# text = Кроме того, что Наталья Николаевна тратила на покупку их большие деньги, Лапоткина перед всяким рождением и именинами княгини искала по магазинам самой затейливой, самой дорогой вещи и потихоньку ставила ее на видное место так, чтоб когда в торжественный день дррук выйдет в парадные комнаты, то встретил бы приятный сюрприз.
+1	Кроме	_	_	_	_	_	_	_	Shift=6130
+2	того	_	_	_	_	_	_	_	Shift=6136|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=6140
+4	что	_	_	_	_	_	_	_	Shift=6142
+5	Наталья	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410583|Shift=6146
+6	Николаевна	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410583|Shift=6154
+7	тратила	_	_	_	_	_	_	_	Shift=6165
+8	на	_	_	_	_	_	_	_	Shift=6173
+9	покупку	_	_	_	_	_	_	_	Shift=6176
+10	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=678|RuCor_group_id=410585|RuCor_link_id=410584|Shift=6184
+11	большие	_	_	_	_	_	_	_	Shift=6187
+12	деньги	_	_	_	_	_	_	_	Shift=6195|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=6201
+14	Лапоткина	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=690|RuCor_group_id=410586|RuCor_link_id=410556|Shift=6203
+15	перед	_	_	_	_	_	_	_	Shift=6213
+16	всяким	_	_	_	_	_	_	_	Shift=6219
+17	рождением	_	_	_	_	_	_	_	Shift=6226
+18	и	_	_	_	_	_	_	_	Shift=6236
+19	именинами	_	_	_	_	_	_	_	Shift=6238
+20	княгини	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410587|RuCor_link_id=410583|Shift=6248
+21	искала	_	_	_	_	_	_	_	Shift=6256
+22	по	_	_	_	_	_	_	_	Shift=6263
+23	магазинам	_	_	_	_	_	_	_	Shift=6266
+24	самой	_	_	_	_	_	_	_	RuCor_chain_id=677|RuCor_group_id=410588|Shift=6276
+25	затейливой	_	_	_	_	_	_	_	RuCor_chain_id=677|RuCor_group_id=410588|Shift=6282|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	RuCor_chain_id=677|RuCor_group_id=410588|Shift=6292
+27	самой	_	_	_	_	_	_	_	RuCor_chain_id=677|RuCor_group_id=410588|Shift=6294
+28	дорогой	_	_	_	_	_	_	_	RuCor_chain_id=677|RuCor_group_id=410588|Shift=6300
+29	вещи	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=677|RuCor_group_id=410588|RuCor_link_id=0|Shift=6308
+30	и	_	_	_	_	_	_	_	Shift=6313
+31	потихоньку	_	_	_	_	_	_	_	Shift=6315
+32	ставила	_	_	_	_	_	_	_	Shift=6326
+33	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=677|RuCor_group_id=410589|RuCor_link_id=410588|Shift=6334
+34	на	_	_	_	_	_	_	_	Shift=6337
+35	видное	_	_	_	_	_	_	_	Shift=6340
+36	место	_	_	_	_	_	_	_	Shift=6347
+37	так	_	_	_	_	_	_	_	Shift=6353|SpaceAfter=No
+38	,	_	_	_	_	_	_	_	Shift=6356
+39	чтоб	_	_	_	_	_	_	_	Shift=6358
+40	когда	_	_	_	_	_	_	_	Shift=6363
+41	в	_	_	_	_	_	_	_	Shift=6369
+42	торжественный	_	_	_	_	_	_	_	Shift=6371
+43	день	_	_	_	_	_	_	_	Shift=6385
+44	дррук	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410590|RuCor_link_id=410587|Shift=6390
+45	выйдет	_	_	_	_	_	_	_	Shift=6396
+46	в	_	_	_	_	_	_	_	Shift=6403
+47	парадные	_	_	_	_	_	_	_	Shift=6405
+48	комнаты	_	_	_	_	_	_	_	Shift=6414|SpaceAfter=No
+49	,	_	_	_	_	_	_	_	Shift=6421
+50	то	_	_	_	_	_	_	_	Shift=6423
+51	встретил	_	_	_	_	_	_	_	Shift=6426
+52	бы	_	_	_	_	_	_	_	Shift=6435
+53	приятный	_	_	_	_	_	_	_	RuCor_chain_id=677|RuCor_group_id=410591|Shift=6438
+54	сюрприз	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=677|RuCor_group_id=410591|RuCor_link_id=410589|Shift=6447|SpaceAfter=No
+55	.	_	_	_	_	_	_	_	Shift=6454
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p34-s8
+# text = Странно, однако ж, что Сонечка почти никогда не сходила с верху, исключая дней, когда бывали гости.
+1	Странно	_	_	_	_	_	_	_	Shift=6456|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=6463
+3	однако	_	_	_	_	_	_	_	Shift=6465
+4	ж	_	_	_	_	_	_	_	Shift=6472|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=6473
+6	что	_	_	_	_	_	_	_	Shift=6475
+7	Сонечка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=687|RuCor_group_id=410592|RuCor_link_id=410544|Shift=6479
+8	почти	_	_	_	_	_	_	_	Shift=6487
+9	никогда	_	_	_	_	_	_	_	Shift=6493
+10	не	_	_	_	_	_	_	_	Shift=6501
+11	сходила	_	_	_	_	_	_	_	Shift=6504
+12	с	_	_	_	_	_	_	_	Shift=6512
+13	верху	_	_	_	_	_	_	_	Shift=6514|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=6519
+15	исключая	_	_	_	_	_	_	_	Shift=6521
+16	дней	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=676|RuCor_group_id=410593|RuCor_link_id=0|Shift=6530|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=6534
+18	когда	_	_	_	_	_	_	_	Shift=6536
+19	бывали	_	_	_	_	_	_	_	Shift=6542
+20	гости	_	_	_	_	_	_	_	Shift=6549|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=6554
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p34-s9
+# text = В подобные дни обычная тишина и расчет в доме сменялись шумом и хлебосольством.
+1	В	_	_	_	_	_	_	_	Shift=6556
+2	подобные	_	_	_	_	_	_	_	RuCor_chain_id=676|RuCor_group_id=410594|Shift=6558
+3	дни	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=676|RuCor_group_id=410594|RuCor_link_id=410593|Shift=6567
+4	обычная	_	_	_	_	_	_	_	Shift=6571
+5	тишина	_	_	_	_	_	_	_	Shift=6579
+6	и	_	_	_	_	_	_	_	Shift=6586
+7	расчет	_	_	_	_	_	_	_	Shift=6588
+8	в	_	_	_	_	_	_	_	Shift=6595
+9	доме	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=675|RuCor_group_id=410596|RuCor_link_id=410595|Shift=6597
+10	сменялись	_	_	_	_	_	_	_	Shift=6602
+11	шумом	_	_	_	_	_	_	_	Shift=6612
+12	и	_	_	_	_	_	_	_	Shift=6618
+13	хлебосольством	_	_	_	_	_	_	_	Shift=6620|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=6634
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p34-s10
+# text = Обед бывал на славу, с самыми дорогими винами и плодами.
+1	Обед	_	_	_	_	_	_	_	Shift=6636
+2	бывал	_	_	_	_	_	_	_	Shift=6641
+3	на	_	_	_	_	_	_	_	Shift=6647
+4	славу	_	_	_	_	_	_	_	Shift=6650|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=6655
+6	с	_	_	_	_	_	_	_	Shift=6657
+7	самыми	_	_	_	_	_	_	_	Shift=6659
+8	дорогими	_	_	_	_	_	_	_	Shift=6666
+9	винами	_	_	_	_	_	_	_	Shift=6675
+10	и	_	_	_	_	_	_	_	Shift=6682
+11	плодами	_	_	_	_	_	_	_	Shift=6684|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=6691
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p34-s11
+# text = Известный в то время Влас пек пирожки.
+1	Известный	_	_	_	_	_	_	_	Shift=6693
+2	в	_	_	_	_	_	_	_	Shift=6703
+3	то	_	_	_	_	_	_	_	Shift=6705
+4	время	_	_	_	_	_	_	_	Shift=6708
+5	Влас	_	_	_	_	_	_	_	Shift=6714
+6	пек	_	_	_	_	_	_	_	Shift=6719
+7	пирожки	_	_	_	_	_	_	_	Shift=6723|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=6730
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p34-s12
+# text = Лапоткина надевала чепец и, явясь в полном блеске, старалась показать, что ее радует торжество в доме княгини даже более, чем хозяйку.
+1	Лапоткина	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=690|RuCor_group_id=410597|RuCor_link_id=410586|Shift=6732
+2	надевала	_	_	_	_	_	_	_	Shift=6742
+3	чепец	_	_	_	_	_	_	_	Shift=6751
+4	и	_	_	_	_	_	_	_	Shift=6757|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=6758
+6	явясь	_	_	_	_	_	_	_	Shift=6760
+7	в	_	_	_	_	_	_	_	Shift=6766
+8	полном	_	_	_	_	_	_	_	Shift=6768
+9	блеске	_	_	_	_	_	_	_	Shift=6775|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=6781
+11	старалась	_	_	_	_	_	_	_	Shift=6783
+12	показать	_	_	_	_	_	_	_	Shift=6793|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=6801
+14	что	_	_	_	_	_	_	_	Shift=6803
+15	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=690|RuCor_group_id=410598|RuCor_link_id=410597|Shift=6807
+16	радует	_	_	_	_	_	_	_	Shift=6810
+17	торжество	_	_	_	_	_	_	_	Shift=6817
+18	в	_	_	_	_	_	_	_	Shift=6827
+19	доме	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=675|RuCor_group_id=410599|RuCor_link_id=410595|Shift=6829
+20	княгини	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410600|RuCor_link_id=410587|Shift=6834
+21	даже	_	_	_	_	_	_	_	Shift=6842
+22	более	_	_	_	_	_	_	_	Shift=6847|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=6852
+24	чем	_	_	_	_	_	_	_	Shift=6854
+25	хозяйку	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410601|RuCor_link_id=410600|Shift=6858|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=6865
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p34-s13
+# text = В самых нежных излияниях друзья не стеснялись ничьим присутствием.
+1	В	_	_	_	_	_	_	_	Shift=6867
+2	самых	_	_	_	_	_	_	_	Shift=6869
+3	нежных	_	_	_	_	_	_	_	Shift=6875
+4	излияниях	_	_	_	_	_	_	_	Shift=6882
+5	друзья	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=674|RuCor_group_id=410602|RuCor_link_id=0|Shift=6892
+6	не	_	_	_	_	_	_	_	Shift=6899
+7	стеснялись	_	_	_	_	_	_	_	Shift=6902
+8	ничьим	_	_	_	_	_	_	_	Shift=6913
+9	присутствием	_	_	_	_	_	_	_	Shift=6920|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=6932
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p34-s14
+# text = Прибор Лапоткиной, как и всегда, ставился рядом с прибором Натальи Николаевны.
+1	Прибор	_	_	_	_	_	_	_	Shift=6934
+2	Лапоткиной	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=690|RuCor_group_id=410604|RuCor_link_id=410597|Shift=6941|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=6951
+4	как	_	_	_	_	_	_	_	Shift=6953
+5	и	_	_	_	_	_	_	_	Shift=6957
+6	всегда	_	_	_	_	_	_	_	Shift=6959|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=6965
+8	ставился	_	_	_	_	_	_	_	Shift=6967
+9	рядом	_	_	_	_	_	_	_	Shift=6976
+10	с	_	_	_	_	_	_	_	Shift=6982
+11	прибором	_	_	_	_	_	_	_	Shift=6984
+12	Натальи	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410605|Shift=6993
+13	Николаевны	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410605|Shift=7001|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=7011
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p34-s15
+# text = Во время обеда Лапоткина, одаренная добрым аппетитом, отрежет, бывало, на своей тарелке лучшую частицу кушанья и, поваляв ее в приправе, собственной вилкой положит в рот княгини, примолвя:'' Ммой дррук, скушай ввот эттот куссоччек''.
+1	Во	_	_	_	_	_	_	_	Shift=7013
+2	время	_	_	_	_	_	_	_	Shift=7016
+3	обеда	_	_	_	_	_	_	_	Shift=7022
+4	Лапоткина	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=690|RuCor_group_id=410606|RuCor_link_id=410604|Shift=7028|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=7037
+6	одаренная	_	_	_	_	_	_	_	Shift=7039
+7	добрым	_	_	_	_	_	_	_	Shift=7049
+8	аппетитом	_	_	_	_	_	_	_	Shift=7056|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=7065
+10	отрежет	_	_	_	_	_	_	_	Shift=7067|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=7074
+12	бывало	_	_	_	_	_	_	_	Shift=7076|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=7082
+14	на	_	_	_	_	_	_	_	Shift=7084
+15	своей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=690|RuCor_group_id=410607|RuCor_link_id=410606|Shift=7087
+16	тарелке	_	_	_	_	_	_	_	Shift=7093
+17	лучшую	_	_	_	_	_	_	_	RuCor_chain_id=673|RuCor_group_id=410608|Shift=7101
+18	частицу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=673|RuCor_group_id=410608|RuCor_link_id=0|Shift=7108
+19	кушанья	_	_	_	_	_	_	_	RuCor_chain_id=673|RuCor_group_id=410608|Shift=7116
+20	и	_	_	_	_	_	_	_	Shift=7124|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=7125
+22	поваляв	_	_	_	_	_	_	_	Shift=7127
+23	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=673|RuCor_group_id=410609|RuCor_link_id=410608|Shift=7135
+24	в	_	_	_	_	_	_	_	Shift=7138
+25	приправе	_	_	_	_	_	_	_	Shift=7140|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	Shift=7148
+27	собственной	_	_	_	_	_	_	_	Shift=7150
+28	вилкой	_	_	_	_	_	_	_	Shift=7162
+29	положит	_	_	_	_	_	_	_	Shift=7169
+30	в	_	_	_	_	_	_	_	Shift=7177
+31	рот	_	_	_	_	_	_	_	Shift=7179
+32	княгини	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410610|RuCor_link_id=410605|Shift=7183|SpaceAfter=No
+33	,	_	_	_	_	_	_	_	Shift=7190
+34	примолвя	_	_	_	_	_	_	_	Shift=7192|SpaceAfter=No
+35	:	_	_	_	_	_	_	_	Shift=7200|SpaceAfter=No
+36	''	_	_	_	_	_	_	_	Shift=7202
+37	Ммой	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=690|RuCor_group_id=410613|RuCor_link_id=410606|Shift=7203
+38	дррук	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410611|RuCor_link_id=410610|Shift=7208|SpaceAfter=No
+39	,	_	_	_	_	_	_	_	Shift=7213
+40	скушай	_	_	_	_	_	_	_	Shift=7215
+41	ввот	_	_	_	_	_	_	_	RuCor_chain_id=673|RuCor_group_id=410612|Shift=7222
+42	эттот	_	_	_	_	_	_	_	RuCor_chain_id=673|RuCor_group_id=410612|Shift=7227
+43	куссоччек	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=673|RuCor_group_id=410612|RuCor_link_id=410609|Shift=7233|SpaceAfter=No
+44	''	_	_	_	_	_	_	_	Shift=7242|SpaceAfter=No
+45	.	_	_	_	_	_	_	_	Shift=7243
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p34-s16
+# text = Ту же нежность оказывала Лапоткиной и княгиня.
+1	Ту	_	_	_	_	_	_	_	Shift=7245
+2	же	_	_	_	_	_	_	_	Shift=7248
+3	нежность	_	_	_	_	_	_	_	Shift=7251
+4	оказывала	_	_	_	_	_	_	_	Shift=7260
+5	Лапоткиной	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=690|RuCor_group_id=410614|RuCor_link_id=410613|Shift=7270
+6	и	_	_	_	_	_	_	_	Shift=7281
+7	княгиня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410615|RuCor_link_id=410610|Shift=7283|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=7290
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p34-s17
+# text = Шумно и весело бывало в подобные дни у Натальи Николаевны.
+1	Шумно	_	_	_	_	_	_	_	Shift=7292
+2	и	_	_	_	_	_	_	_	Shift=7298
+3	весело	_	_	_	_	_	_	_	Shift=7300
+4	бывало	_	_	_	_	_	_	_	Shift=7307
+5	в	_	_	_	_	_	_	_	Shift=7314
+6	подобные	_	_	_	_	_	_	_	RuCor_chain_id=676|RuCor_group_id=410616|Shift=7316
+7	дни	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=676|RuCor_group_id=410616|RuCor_link_id=410594|Shift=7325
+8	у	_	_	_	_	_	_	_	Shift=7329
+9	Натальи	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410617|Shift=7331
+10	Николаевны	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410617|Shift=7339|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=7349
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p34-s18
+# text = Гостей бывало много.
+1	Гостей	_	_	_	_	_	_	_	Shift=7351
+2	бывало	_	_	_	_	_	_	_	Shift=7358
+3	много	_	_	_	_	_	_	_	Shift=7365|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=7370
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p34-s19
+# text = За столом я никогда не видал Сонечки, но зато, появляясь до и после обеда среди многочисленных посетителей, девочка, казалось, дышала свободней.
+1	За	_	_	_	_	_	_	_	Shift=7372
+2	столом	_	_	_	_	_	_	_	Shift=7375
+3	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=693|RuCor_group_id=410618|RuCor_link_id=410560|Shift=7382
+4	никогда	_	_	_	_	_	_	_	Shift=7384
+5	не	_	_	_	_	_	_	_	Shift=7392
+6	видал	_	_	_	_	_	_	_	Shift=7395
+7	Сонечки	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=687|RuCor_group_id=410619|RuCor_link_id=410592|Shift=7401|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=7408
+9	но	_	_	_	_	_	_	_	Shift=7410
+10	зато	_	_	_	_	_	_	_	Shift=7413|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=7417
+12	появляясь	_	_	_	_	_	_	_	Shift=7419
+13	до	_	_	_	_	_	_	_	Shift=7429
+14	и	_	_	_	_	_	_	_	Shift=7432
+15	после	_	_	_	_	_	_	_	Shift=7434
+16	обеда	_	_	_	_	_	_	_	Shift=7440
+17	среди	_	_	_	_	_	_	_	Shift=7446
+18	многочисленных	_	_	_	_	_	_	_	Shift=7452
+19	посетителей	_	_	_	_	_	_	_	Shift=7467|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=7478
+21	девочка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=687|RuCor_group_id=410620|RuCor_link_id=410619|Shift=7480|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=7487
+23	казалось	_	_	_	_	_	_	_	Shift=7489|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=7497
+25	дышала	_	_	_	_	_	_	_	Shift=7499
+26	свободней	_	_	_	_	_	_	_	Shift=7506|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=7515
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p34-s20
+# text = Но и тут Лапоткина, следя своими стеклянными, подозрительными глазами за всем происходящим в доме, не упускала случая смутить и напугать бедного ребенка.
+1	Но	_	_	_	_	_	_	_	Shift=7517
+2	и	_	_	_	_	_	_	_	Shift=7520
+3	тут	_	_	_	_	_	_	_	Shift=7522
+4	Лапоткина	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=690|RuCor_group_id=410621|RuCor_link_id=410614|Shift=7526|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=7535
+6	следя	_	_	_	_	_	_	_	Shift=7537
+7	своими	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=690|RuCor_group_id=410622|RuCor_link_id=410621|Shift=7543
+8	стеклянными	_	_	_	_	_	_	_	Shift=7550|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=7561
+10	подозрительными	_	_	_	_	_	_	_	Shift=7563
+11	глазами	_	_	_	_	_	_	_	Shift=7579
+12	за	_	_	_	_	_	_	_	Shift=7587
+13	всем	_	_	_	_	_	_	_	Shift=7590
+14	происходящим	_	_	_	_	_	_	_	Shift=7595
+15	в	_	_	_	_	_	_	_	Shift=7608
+16	доме	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=675|RuCor_group_id=410623|RuCor_link_id=410599|Shift=7610|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=7614
+18	не	_	_	_	_	_	_	_	Shift=7616
+19	упускала	_	_	_	_	_	_	_	Shift=7619
+20	случая	_	_	_	_	_	_	_	Shift=7628
+21	смутить	_	_	_	_	_	_	_	Shift=7635
+22	и	_	_	_	_	_	_	_	Shift=7643
+23	напугать	_	_	_	_	_	_	_	Shift=7645
+24	бедного	_	_	_	_	_	_	_	RuCor_chain_id=687|RuCor_group_id=410624|Shift=7654
+25	ребенка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=687|RuCor_group_id=410624|RuCor_link_id=410619|Shift=7662|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=7669
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p34-s21
+# text = Едва кто-нибудь из маленьких гостей приблизится к столику или этажерке, с намерением погладить кристальный каскад или измерить пальцем глубину сердоликового грота, Лапоткина уже кричит:'' Соннечка!
+1	Едва	_	_	_	_	_	_	_	Shift=7671
+2	кто-нибудь	_	_	_	_	_	_	_	Shift=7676
+3	из	_	_	_	_	_	_	_	Shift=7687
+4	маленьких	_	_	_	_	_	_	_	Shift=7690
+5	гостей	_	_	_	_	_	_	_	Shift=7700
+6	приблизится	_	_	_	_	_	_	_	Shift=7707
+7	к	_	_	_	_	_	_	_	Shift=7719
+8	столику	_	_	_	_	_	_	_	Shift=7721
+9	или	_	_	_	_	_	_	_	Shift=7729
+10	этажерке	_	_	_	_	_	_	_	Shift=7733|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=7741
+12	с	_	_	_	_	_	_	_	Shift=7743
+13	намерением	_	_	_	_	_	_	_	Shift=7745
+14	погладить	_	_	_	_	_	_	_	Shift=7756
+15	кристальный	_	_	_	_	_	_	_	Shift=7766
+16	каскад	_	_	_	_	_	_	_	Shift=7778
+17	или	_	_	_	_	_	_	_	Shift=7785
+18	измерить	_	_	_	_	_	_	_	Shift=7789
+19	пальцем	_	_	_	_	_	_	_	Shift=7798
+20	глубину	_	_	_	_	_	_	_	Shift=7806
+21	сердоликового	_	_	_	_	_	_	_	Shift=7814
+22	грота	_	_	_	_	_	_	_	Shift=7828|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=7833
+24	Лапоткина	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=690|RuCor_group_id=410625|RuCor_link_id=410621|Shift=7835
+25	уже	_	_	_	_	_	_	_	Shift=7845
+26	кричит	_	_	_	_	_	_	_	Shift=7849|SpaceAfter=No
+27	:	_	_	_	_	_	_	_	Shift=7855|SpaceAfter=No
+28	''	_	_	_	_	_	_	_	Shift=7857
+29	Соннечка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=687|RuCor_group_id=410626|RuCor_link_id=410619|Shift=7858|SpaceAfter=No
+30	!	_	_	_	_	_	_	_	Shift=7866
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p34-s22
+# text = что этто зза прокказы?
+1	что	_	_	_	_	_	_	_	Shift=7868
+2	этто	_	_	_	_	_	_	_	Shift=7872
+3	зза	_	_	_	_	_	_	_	Shift=7877
+4	прокказы	_	_	_	_	_	_	_	Shift=7881|SpaceAfter=No
+5	?	_	_	_	_	_	_	_	Shift=7889
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p34-s23
+# text = как этто мможжно все рукками троггать?
+1	как	_	_	_	_	_	_	_	Shift=7891
+2	этто	_	_	_	_	_	_	_	Shift=7895
+3	мможжно	_	_	_	_	_	_	_	Shift=7900
+4	все	_	_	_	_	_	_	_	Shift=7908
+5	рукками	_	_	_	_	_	_	_	Shift=7912
+6	троггать	_	_	_	_	_	_	_	Shift=7920|SpaceAfter=No
+7	?	_	_	_	_	_	_	_	Shift=7928
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p34-s24
+# text = Я тебя сейчасс отправвлю нна вверх к нняньке'', - хотя бы бедная Сонечка была в десяти шагах от запретных предметов.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=690|RuCor_group_id=410627|RuCor_link_id=410625|Shift=7930
+2	тебя	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=687|RuCor_group_id=410628|RuCor_link_id=410626|Shift=7932
+3	сейчасс	_	_	_	_	_	_	_	Shift=7937
+4	отправвлю	_	_	_	_	_	_	_	Shift=7945
+5	нна	_	_	_	_	_	_	_	Shift=7955
+6	вверх	_	_	_	_	_	_	_	Shift=7959
+7	к	_	_	_	_	_	_	_	Shift=7965
+8	нняньке	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=688|RuCor_group_id=410629|RuCor_link_id=410498|Shift=7967|SpaceAfter=No
+9	''	_	_	_	_	_	_	_	Shift=7974|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=7975
+11	-	_	_	_	_	_	_	_	Shift=7977
+12	хотя	_	_	_	_	_	_	_	Shift=7979
+13	бы	_	_	_	_	_	_	_	Shift=7984
+14	бедная	_	_	_	_	_	_	_	RuCor_chain_id=687|RuCor_group_id=410683|Shift=7987
+15	Сонечка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=687|RuCor_group_id=410683|RuCor_link_id=410626|Shift=7994
+16	была	_	_	_	_	_	_	_	Shift=8002
+17	в	_	_	_	_	_	_	_	Shift=8007
+18	десяти	_	_	_	_	_	_	_	Shift=8009
+19	шагах	_	_	_	_	_	_	_	Shift=8016
+20	от	_	_	_	_	_	_	_	Shift=8022
+21	запретных	_	_	_	_	_	_	_	Shift=8025
+22	предметов	_	_	_	_	_	_	_	Shift=8035|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=8044
+
+# newpar id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p35
+# par_text = Однажды вечером, при мне, Лапоткина решила, что княгиня прежде всего должна поберечь свое драгоценное здоровье, что поблажать капризам неблагодарных детей пагубно, что характер Сонечки портится с каждым днем и поэтому надобно отдать ее в воспитательное заведение под самый строгий надзор. "Ах, это правда!" - со вздохом отвечала княгиня, протягивая руку за флаконом одеколона. Через месяц Сонечки уже не было в доме. Впрочем, и так ее почти никто не видал. Касательно прежней жизни княгини я слыхал следующее. Происходя из хорошего и богатого рода, она почти всю жизнь провела в Москве. Старики говорили, что она долгое время блистала красотой. Вполне уверенная в своем могуществе, Наталья Николаевна кокетничала, водила всех за нос и втайне смеялась над эксцентрическими глупостями своих обожателей, из которых многие только что не пошли по миру, по милости ее прихотей. Играя и шутя, Наталья Николаевна, при всем своем уме, едва не
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p35-s1
+# text = Однажды вечером, при мне, Лапоткина решила, что княгиня прежде всего должна поберечь свое драгоценное здоровье, что поблажать капризам неблагодарных детей пагубно, что характер Сонечки портится с каждым днем и поэтому надобно отдать ее в воспитательное заведение под самый строгий надзор.
+1	Однажды	_	_	_	_	_	_	_	Shift=8047
+2	вечером	_	_	_	_	_	_	_	Shift=8055|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=8062
+4	при	_	_	_	_	_	_	_	Shift=8064
+5	мне	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=693|RuCor_group_id=410631|RuCor_link_id=410618|Shift=8068|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=8071
+7	Лапоткина	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=690|RuCor_group_id=410632|RuCor_link_id=410621|Shift=8073
+8	решила	_	_	_	_	_	_	_	Shift=8083|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=8089
+10	что	_	_	_	_	_	_	_	Shift=8091
+11	княгиня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410633|RuCor_link_id=410615|Shift=8095
+12	прежде	_	_	_	_	_	_	_	Shift=8103
+13	всего	_	_	_	_	_	_	_	Shift=8110
+14	должна	_	_	_	_	_	_	_	Shift=8116
+15	поберечь	_	_	_	_	_	_	_	Shift=8123
+16	свое	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410634|RuCor_link_id=410633|Shift=8132
+17	драгоценное	_	_	_	_	_	_	_	Shift=8137
+18	здоровье	_	_	_	_	_	_	_	Shift=8149|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=8157
+20	что	_	_	_	_	_	_	_	Shift=8159
+21	поблажать	_	_	_	_	_	_	_	Shift=8163
+22	капризам	_	_	_	_	_	_	_	Shift=8173
+23	неблагодарных	_	_	_	_	_	_	_	Shift=8182
+24	детей	_	_	_	_	_	_	_	Shift=8196
+25	пагубно	_	_	_	_	_	_	_	Shift=8202|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	Shift=8209
+27	что	_	_	_	_	_	_	_	Shift=8211
+28	характер	_	_	_	_	_	_	_	Shift=8215
+29	Сонечки	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=687|RuCor_group_id=410635|RuCor_link_id=410626|Shift=8224
+30	портится	_	_	_	_	_	_	_	Shift=8232
+31	с	_	_	_	_	_	_	_	Shift=8241
+32	каждым	_	_	_	_	_	_	_	Shift=8243
+33	днем	_	_	_	_	_	_	_	Shift=8250
+34	и	_	_	_	_	_	_	_	Shift=8255
+35	поэтому	_	_	_	_	_	_	_	Shift=8257
+36	надобно	_	_	_	_	_	_	_	Shift=8265
+37	отдать	_	_	_	_	_	_	_	Shift=8273
+38	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=687|RuCor_group_id=410636|RuCor_link_id=410635|Shift=8280
+39	в	_	_	_	_	_	_	_	Shift=8283
+40	воспитательное	_	_	_	_	_	_	_	Shift=8285
+41	заведение	_	_	_	_	_	_	_	Shift=8300
+42	под	_	_	_	_	_	_	_	Shift=8310
+43	самый	_	_	_	_	_	_	_	Shift=8314
+44	строгий	_	_	_	_	_	_	_	Shift=8320
+45	надзор	_	_	_	_	_	_	_	Shift=8328|SpaceAfter=No
+46	.	_	_	_	_	_	_	_	Shift=8334
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p35-s2
+# text = " Ах, это правда! "
+1	``	_	_	_	_	_	_	_	QuotationStart="|Shift=8336
+2	Ах	_	_	_	_	_	_	_	Shift=8337|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=8339
+4	это	_	_	_	_	_	_	_	Shift=8341
+5	правда	_	_	_	_	_	_	_	Shift=8345|SpaceAfter=No
+6	!	_	_	_	_	_	_	_	Shift=8351
+7	''	_	_	_	_	_	_	_	QuotationEnd="|Shift=8352
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p35-s3
+# text = - со вздохом отвечала княгиня, протягивая руку за флаконом одеколона.
+1	-	_	_	_	_	_	_	_	Shift=8354
+2	со	_	_	_	_	_	_	_	Shift=8356
+3	вздохом	_	_	_	_	_	_	_	Shift=8359
+4	отвечала	_	_	_	_	_	_	_	Shift=8367
+5	княгиня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410637|RuCor_link_id=410633|Shift=8376|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=8383
+7	протягивая	_	_	_	_	_	_	_	Shift=8385
+8	руку	_	_	_	_	_	_	_	Shift=8396
+9	за	_	_	_	_	_	_	_	Shift=8401
+10	флаконом	_	_	_	_	_	_	_	Shift=8404
+11	одеколона	_	_	_	_	_	_	_	Shift=8413|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=8422
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p35-s4
+# text = Через месяц Сонечки уже не было в доме.
+1	Через	_	_	_	_	_	_	_	Shift=8424
+2	месяц	_	_	_	_	_	_	_	Shift=8430
+3	Сонечки	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=687|RuCor_group_id=410638|RuCor_link_id=410635|Shift=8436
+4	уже	_	_	_	_	_	_	_	Shift=8444
+5	не	_	_	_	_	_	_	_	Shift=8448
+6	было	_	_	_	_	_	_	_	Shift=8451
+7	в	_	_	_	_	_	_	_	Shift=8456
+8	доме	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=675|RuCor_group_id=410639|RuCor_link_id=410623|Shift=8458|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=8462
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p35-s5
+# text = Впрочем, и так ее почти никто не видал.
+1	Впрочем	_	_	_	_	_	_	_	Shift=8464|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=8471
+3	и	_	_	_	_	_	_	_	Shift=8473
+4	так	_	_	_	_	_	_	_	Shift=8475
+5	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=687|RuCor_group_id=410640|RuCor_link_id=410638|Shift=8479
+6	почти	_	_	_	_	_	_	_	Shift=8482
+7	никто	_	_	_	_	_	_	_	Shift=8488
+8	не	_	_	_	_	_	_	_	Shift=8494
+9	видал	_	_	_	_	_	_	_	Shift=8497|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=8502
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p35-s6
+# text = Касательно прежней жизни княгини я слыхал следующее.
+1	Касательно	_	_	_	_	_	_	_	Shift=8504
+2	прежней	_	_	_	_	_	_	_	Shift=8515
+3	жизни	_	_	_	_	_	_	_	Shift=8523
+4	княгини	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410641|RuCor_link_id=410637|Shift=8529
+5	я	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=693|RuCor_group_id=410642|RuCor_link_id=410631|Shift=8537
+6	слыхал	_	_	_	_	_	_	_	Shift=8539
+7	следующее	_	_	_	_	_	_	_	Shift=8546|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=8555
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p35-s7
+# text = Происходя из хорошего и богатого рода, она почти всю жизнь провела в Москве.
+1	Происходя	_	_	_	_	_	_	_	Shift=8557
+2	из	_	_	_	_	_	_	_	Shift=8567
+3	хорошего	_	_	_	_	_	_	_	Shift=8570
+4	и	_	_	_	_	_	_	_	Shift=8579
+5	богатого	_	_	_	_	_	_	_	Shift=8581
+6	рода	_	_	_	_	_	_	_	Shift=8590|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=8594
+8	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410643|RuCor_link_id=410641|Shift=8596
+9	почти	_	_	_	_	_	_	_	Shift=8600
+10	всю	_	_	_	_	_	_	_	Shift=8606
+11	жизнь	_	_	_	_	_	_	_	Shift=8610
+12	провела	_	_	_	_	_	_	_	Shift=8616
+13	в	_	_	_	_	_	_	_	Shift=8624
+14	Москве	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=672|RuCor_group_id=410630|RuCor_link_id=0|Shift=8626|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=8632
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p35-s8
+# text = Старики говорили, что она долгое время блистала красотой.
+1	Старики	_	_	_	_	_	_	_	Shift=8634
+2	говорили	_	_	_	_	_	_	_	Shift=8642|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=8650
+4	что	_	_	_	_	_	_	_	Shift=8652
+5	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410644|RuCor_link_id=410643|Shift=8656
+6	долгое	_	_	_	_	_	_	_	Shift=8660
+7	время	_	_	_	_	_	_	_	Shift=8667
+8	блистала	_	_	_	_	_	_	_	Shift=8673
+9	красотой	_	_	_	_	_	_	_	Shift=8682|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=8690
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p35-s9
+# text = Вполне уверенная в своем могуществе, Наталья Николаевна кокетничала, водила всех за нос и втайне смеялась над эксцентрическими глупостями своих обожателей, из которых многие только что не пошли по миру, по милости ее прихотей.
+1	Вполне	_	_	_	_	_	_	_	Shift=8692
+2	уверенная	_	_	_	_	_	_	_	Shift=8699
+3	в	_	_	_	_	_	_	_	Shift=8709
+4	своем	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410645|RuCor_link_id=410644|Shift=8711
+5	могуществе	_	_	_	_	_	_	_	Shift=8717|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=8727
+7	Наталья	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410646|Shift=8729
+8	Николаевна	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410646|Shift=8737
+9	кокетничала	_	_	_	_	_	_	_	Shift=8748|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=8759
+11	водила	_	_	_	_	_	_	_	Shift=8761
+12	всех	_	_	_	_	_	_	_	Shift=8768
+13	за	_	_	_	_	_	_	_	Shift=8773
+14	нос	_	_	_	_	_	_	_	Shift=8776
+15	и	_	_	_	_	_	_	_	Shift=8780
+16	втайне	_	_	_	_	_	_	_	Shift=8782
+17	смеялась	_	_	_	_	_	_	_	Shift=8789
+18	над	_	_	_	_	_	_	_	Shift=8798
+19	эксцентрическими	_	_	_	_	_	_	_	Shift=8802
+20	глупостями	_	_	_	_	_	_	_	Shift=8819
+21	своих	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410648|RuCor_link_id=410646|Shift=8830
+22	обожателей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=671|RuCor_group_id=410647|RuCor_link_id=0|Shift=8836|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=8846
+24	из	_	_	_	_	_	_	_	Shift=8848
+25	которых	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=671|RuCor_group_id=410649|RuCor_link_id=410647|Shift=8851
+26	многие	_	_	_	_	_	_	_	Shift=8859
+27	только	_	_	_	_	_	_	_	Shift=8866
+28	что	_	_	_	_	_	_	_	Shift=8873
+29	не	_	_	_	_	_	_	_	Shift=8877
+30	пошли	_	_	_	_	_	_	_	Shift=8880
+31	по	_	_	_	_	_	_	_	Shift=8886
+32	миру	_	_	_	_	_	_	_	Shift=8889|SpaceAfter=No
+33	,	_	_	_	_	_	_	_	Shift=8893
+34	по	_	_	_	_	_	_	_	Shift=8895
+35	милости	_	_	_	_	_	_	_	Shift=8898
+36	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410650|RuCor_link_id=410648|Shift=8906
+37	прихотей	_	_	_	_	_	_	_	Shift=8909|SpaceAfter=No
+38	.	_	_	_	_	_	_	_	Shift=8917
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p35-s10
+# text = Играя и шутя, Наталья Николаевна, при всем своем уме, едва не
+1	Играя	_	_	_	_	_	_	_	Shift=8919
+2	и	_	_	_	_	_	_	_	Shift=8925
+3	шутя	_	_	_	_	_	_	_	Shift=8927|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=8931
+5	Наталья	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410651|Shift=8933
+6	Николаевна	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410651|Shift=8941|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=8951
+8	при	_	_	_	_	_	_	_	Shift=8953
+9	всем	_	_	_	_	_	_	_	Shift=8957
+10	своем	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=670|RuCor_group_id=410654|RuCor_link_id=410651|Shift=8962
+11	уме	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=670|RuCor_group_id=410654|RuCor_link_id=410653|Shift=8968|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=8971
+13	едва	_	_	_	_	_	_	_	Shift=8973
+14	не	_	_	_	_	_	_	_	Shift=8978
+
+# newpar id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p36
+# par_text = перешла границу благоразумия. Хотя она все еще была очень хороша, но ей далеко перешло за тридцать, а по разделу из большого отцовского состояния следовала незначительная часть. Надо было подумать о будущности. Умная кокетка выбрала богатого старика, князя Васильева. Князь был каким-то чиновником и большую часть огромного состояния приобрел во время службы. Года три продолжалось счастье супругов. Княгиня блистала. Князь хворал и обожал жену. Удивительно ли, что она умела заставить его передать ей все состояние? За полгода до смерти старика у Натальи Николаевны родилась дочь Софья. Князь скончался. Неутешная вдова надела глубокий траур и, во всю жизнь вспоминая о муже, называла его незабвенным другом. Мало-помалу княгиня привыкла к своему новому положению и уединенной жизни. Близкие родственники и хорошие знакомые навещали ее, сама же она выезжала редко и умела заставить высоко ценить свои посещения. Не знаю, по слабости ли нервов или вследствие приключения, Наталья Николаевна боялась бойких лошадей, и потому, при блестящих экипажах и ливреях, лошади ее еще резче бросались каждому в глаза старостью, худобой и косматой шерстью.
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p36-s1
+# text = перешла границу благоразумия.
+1	перешла	_	_	_	_	_	_	_	Shift=8983
+2	границу	_	_	_	_	_	_	_	Shift=8991
+3	благоразумия	_	_	_	_	_	_	_	Shift=8999|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=9011
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p36-s2
+# text = Хотя она все еще была очень хороша, но ей далеко перешло за тридцать, а по разделу из большого отцовского состояния следовала незначительная часть.
+1	Хотя	_	_	_	_	_	_	_	Shift=9013
+2	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410655|RuCor_link_id=410651|Shift=9018
+3	все	_	_	_	_	_	_	_	Shift=9022
+4	еще	_	_	_	_	_	_	_	Shift=9026
+5	была	_	_	_	_	_	_	_	Shift=9030
+6	очень	_	_	_	_	_	_	_	Shift=9035
+7	хороша	_	_	_	_	_	_	_	Shift=9041|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=9047
+9	но	_	_	_	_	_	_	_	Shift=9049
+10	ей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410656|RuCor_link_id=410655|Shift=9052
+11	далеко	_	_	_	_	_	_	_	Shift=9055
+12	перешло	_	_	_	_	_	_	_	Shift=9062
+13	за	_	_	_	_	_	_	_	Shift=9070
+14	тридцать	_	_	_	_	_	_	_	Shift=9073|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=9081
+16	а	_	_	_	_	_	_	_	Shift=9083
+17	по	_	_	_	_	_	_	_	Shift=9085
+18	разделу	_	_	_	_	_	_	_	Shift=9088
+19	из	_	_	_	_	_	_	_	Shift=9096
+20	большого	_	_	_	_	_	_	_	Shift=9099
+21	отцовского	_	_	_	_	_	_	_	Shift=9108
+22	состояния	_	_	_	_	_	_	_	Shift=9119
+23	следовала	_	_	_	_	_	_	_	Shift=9129
+24	незначительная	_	_	_	_	_	_	_	Shift=9139
+25	часть	_	_	_	_	_	_	_	Shift=9154|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=9159
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p36-s3
+# text = Надо было подумать о будущности.
+1	Надо	_	_	_	_	_	_	_	Shift=9161
+2	было	_	_	_	_	_	_	_	Shift=9166
+3	подумать	_	_	_	_	_	_	_	Shift=9171
+4	о	_	_	_	_	_	_	_	Shift=9180
+5	будущности	_	_	_	_	_	_	_	Shift=9182|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=9192
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p36-s4
+# text = Умная кокетка выбрала богатого старика, князя Васильева.
+1	Умная	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410657|Shift=9194
+2	кокетка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410657|RuCor_link_id=410656|Shift=9200
+3	выбрала	_	_	_	_	_	_	_	Shift=9208
+4	богатого	_	_	_	_	_	_	_	RuCor_chain_id=669|RuCor_group_id=410658|Shift=9216
+5	старика	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=669|RuCor_group_id=410658|RuCor_link_id=0|Shift=9225|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=9232
+7	князя	_	_	_	_	_	_	_	RuCor_chain_id=669|RuCor_group_id=410659|Shift=9234
+8	Васильева	_	_	_	_	_	_	_	RuCor_chain_id=669|RuCor_group_id=410659|Shift=9240|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=9249
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p36-s5
+# text = Князь был каким-то чиновником и большую часть огромного состояния приобрел во время службы.
+1	Князь	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=669|RuCor_group_id=410660|RuCor_link_id=410659|Shift=9251
+2	был	_	_	_	_	_	_	_	Shift=9257
+3	каким-то	_	_	_	_	_	_	_	Shift=9261
+4	чиновником	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=669|RuCor_group_id=410661|RuCor_link_id=410660|Shift=9270
+5	и	_	_	_	_	_	_	_	Shift=9281
+6	большую	_	_	_	_	_	_	_	Shift=9283
+7	часть	_	_	_	_	_	_	_	Shift=9291
+8	огромного	_	_	_	_	_	_	_	Shift=9297
+9	состояния	_	_	_	_	_	_	_	Shift=9307
+10	приобрел	_	_	_	_	_	_	_	Shift=9317
+11	во	_	_	_	_	_	_	_	Shift=9326
+12	время	_	_	_	_	_	_	_	Shift=9329
+13	службы	_	_	_	_	_	_	_	Shift=9335|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=9341
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p36-s6
+# text = Года три продолжалось счастье супругов.
+1	Года	_	_	_	_	_	_	_	Shift=9343
+2	три	_	_	_	_	_	_	_	Shift=9348
+3	продолжалось	_	_	_	_	_	_	_	Shift=9352
+4	счастье	_	_	_	_	_	_	_	Shift=9365
+5	супругов	_	_	_	_	_	_	_	Shift=9373|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=9381
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p36-s7
+# text = Княгиня блистала.
+1	Княгиня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410662|RuCor_link_id=410657|Shift=9383
+2	блистала	_	_	_	_	_	_	_	Shift=9391|SpaceAfter=No
+3	.	_	_	_	_	_	_	_	Shift=9399
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p36-s8
+# text = Князь хворал и обожал жену.
+1	Князь	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=669|RuCor_group_id=410663|RuCor_link_id=410660|Shift=9401
+2	хворал	_	_	_	_	_	_	_	Shift=9407
+3	и	_	_	_	_	_	_	_	Shift=9414
+4	обожал	_	_	_	_	_	_	_	Shift=9416
+5	жену	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410664|RuCor_link_id=410662|Shift=9423|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=9427
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p36-s9
+# text = Удивительно ли, что она умела заставить его передать ей все состояние?
+1	Удивительно	_	_	_	_	_	_	_	Shift=9429
+2	ли	_	_	_	_	_	_	_	Shift=9441|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=9443
+4	что	_	_	_	_	_	_	_	Shift=9445
+5	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410665|RuCor_link_id=410664|Shift=9449
+6	умела	_	_	_	_	_	_	_	Shift=9453
+7	заставить	_	_	_	_	_	_	_	Shift=9459
+8	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=669|RuCor_group_id=410666|RuCor_link_id=410663|Shift=9469
+9	передать	_	_	_	_	_	_	_	Shift=9473
+10	ей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410667|RuCor_link_id=410665|Shift=9482
+11	все	_	_	_	_	_	_	_	Shift=9485
+12	состояние	_	_	_	_	_	_	_	Shift=9489|SpaceAfter=No
+13	?	_	_	_	_	_	_	_	Shift=9498
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p36-s10
+# text = За полгода до смерти старика у Натальи Николаевны родилась дочь Софья.
+1	За	_	_	_	_	_	_	_	Shift=9500
+2	полгода	_	_	_	_	_	_	_	Shift=9503
+3	до	_	_	_	_	_	_	_	Shift=9511
+4	смерти	_	_	_	_	_	_	_	Shift=9514
+5	старика	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=669|RuCor_group_id=410668|RuCor_link_id=410666|Shift=9521
+6	у	_	_	_	_	_	_	_	Shift=9529
+7	Натальи	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410669|Shift=9531
+8	Николаевны	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410669|Shift=9539
+9	родилась	_	_	_	_	_	_	_	Shift=9550
+10	дочь	_	_	_	_	_	_	_	RuCor_chain_id=687|RuCor_group_id=410670|Shift=9559
+11	Софья	_	_	_	_	_	_	_	RuCor_chain_id=687|RuCor_group_id=410670|Shift=9564|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=9569
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p36-s11
+# text = Князь скончался.
+1	Князь	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=669|RuCor_group_id=410671|RuCor_link_id=410668|Shift=9571
+2	скончался	_	_	_	_	_	_	_	Shift=9577|SpaceAfter=No
+3	.	_	_	_	_	_	_	_	Shift=9586
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p36-s12
+# text = Неутешная вдова надела глубокий траур и, во всю жизнь вспоминая о муже, называла его незабвенным другом.
+1	Неутешная	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410672|Shift=9588
+2	вдова	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410672|RuCor_link_id=410669|Shift=9598
+3	надела	_	_	_	_	_	_	_	Shift=9604
+4	глубокий	_	_	_	_	_	_	_	Shift=9611
+5	траур	_	_	_	_	_	_	_	Shift=9620
+6	и	_	_	_	_	_	_	_	Shift=9626|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=9627
+8	во	_	_	_	_	_	_	_	Shift=9629
+9	всю	_	_	_	_	_	_	_	Shift=9632
+10	жизнь	_	_	_	_	_	_	_	Shift=9636
+11	вспоминая	_	_	_	_	_	_	_	Shift=9642
+12	о	_	_	_	_	_	_	_	Shift=9652
+13	муже	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=669|RuCor_group_id=410673|RuCor_link_id=410671|Shift=9654|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=9658
+15	называла	_	_	_	_	_	_	_	Shift=9660
+16	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=669|RuCor_group_id=410674|RuCor_link_id=410673|Shift=9669
+17	незабвенным	_	_	_	_	_	_	_	RuCor_chain_id=669|RuCor_group_id=410675|Shift=9673
+18	другом	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=669|RuCor_group_id=410675|RuCor_link_id=410674|Shift=9685|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=9691
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p36-s13
+# text = Мало-помалу княгиня привыкла к своему новому положению и уединенной жизни.
+1	Мало-помалу	_	_	_	_	_	_	_	Shift=9693
+2	княгиня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410676|RuCor_link_id=410672|Shift=9705
+3	привыкла	_	_	_	_	_	_	_	Shift=9713
+4	к	_	_	_	_	_	_	_	Shift=9722
+5	своему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410677|RuCor_link_id=410676|Shift=9724
+6	новому	_	_	_	_	_	_	_	Shift=9731
+7	положению	_	_	_	_	_	_	_	Shift=9738
+8	и	_	_	_	_	_	_	_	Shift=9748
+9	уединенной	_	_	_	_	_	_	_	Shift=9750
+10	жизни	_	_	_	_	_	_	_	Shift=9761|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=9766
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p36-s14
+# text = Близкие родственники и хорошие знакомые навещали ее, сама же она выезжала редко и умела заставить высоко ценить свои посещения.
+1	Близкие	_	_	_	_	_	_	_	Shift=9768
+2	родственники	_	_	_	_	_	_	_	Shift=9776
+3	и	_	_	_	_	_	_	_	Shift=9789
+4	хорошие	_	_	_	_	_	_	_	Shift=9791
+5	знакомые	_	_	_	_	_	_	_	Shift=9799
+6	навещали	_	_	_	_	_	_	_	Shift=9808
+7	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410678|RuCor_link_id=410677|Shift=9817|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=9819
+9	сама	_	_	_	_	_	_	_	Shift=9821
+10	же	_	_	_	_	_	_	_	Shift=9826
+11	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410679|RuCor_link_id=410678|Shift=9829
+12	выезжала	_	_	_	_	_	_	_	Shift=9833
+13	редко	_	_	_	_	_	_	_	Shift=9842
+14	и	_	_	_	_	_	_	_	Shift=9848
+15	умела	_	_	_	_	_	_	_	Shift=9850
+16	заставить	_	_	_	_	_	_	_	Shift=9856
+17	высоко	_	_	_	_	_	_	_	Shift=9866
+18	ценить	_	_	_	_	_	_	_	Shift=9873
+19	свои	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410680|RuCor_link_id=410679|Shift=9880
+20	посещения	_	_	_	_	_	_	_	Shift=9885|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=9894
+
+# sent_id = 39d13d93-e994-4a44-b139-930a0eb5fad1-p36-s15
+# text = Не знаю, по слабости ли нервов или вследствие приключения, Наталья Николаевна боялась бойких лошадей, и потому, при блестящих экипажах и ливреях, лошади ее еще резче бросались каждому в глаза старостью, худобой и косматой шерстью.
+1	Не	_	_	_	_	_	_	_	Shift=9896
+2	знаю	_	_	_	_	_	_	_	Shift=9899|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=9903
+4	по	_	_	_	_	_	_	_	Shift=9905
+5	слабости	_	_	_	_	_	_	_	Shift=9908
+6	ли	_	_	_	_	_	_	_	Shift=9917
+7	нервов	_	_	_	_	_	_	_	Shift=9920
+8	или	_	_	_	_	_	_	_	Shift=9927
+9	вследствие	_	_	_	_	_	_	_	Shift=9931
+10	приключения	_	_	_	_	_	_	_	Shift=9942|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=9953
+12	Наталья	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410681|Shift=9955
+13	Николаевна	_	_	_	_	_	_	_	RuCor_chain_id=703|RuCor_group_id=410681|Shift=9963
+14	боялась	_	_	_	_	_	_	_	Shift=9974
+15	бойких	_	_	_	_	_	_	_	Shift=9982
+16	лошадей	_	_	_	_	_	_	_	Shift=9989|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=9996
+18	и	_	_	_	_	_	_	_	Shift=9998
+19	потому	_	_	_	_	_	_	_	Shift=10000|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=10006
+21	при	_	_	_	_	_	_	_	Shift=10008
+22	блестящих	_	_	_	_	_	_	_	Shift=10012
+23	экипажах	_	_	_	_	_	_	_	Shift=10022
+24	и	_	_	_	_	_	_	_	Shift=10031
+25	ливреях	_	_	_	_	_	_	_	Shift=10033|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	Shift=10040
+27	лошади	_	_	_	_	_	_	_	Shift=10042
+28	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=703|RuCor_group_id=410682|RuCor_link_id=410681|Shift=10049
+29	еще	_	_	_	_	_	_	_	Shift=10052
+30	резче	_	_	_	_	_	_	_	Shift=10056
+31	бросались	_	_	_	_	_	_	_	Shift=10062
+32	каждому	_	_	_	_	_	_	_	Shift=10072
+33	в	_	_	_	_	_	_	_	Shift=10080
+34	глаза	_	_	_	_	_	_	_	Shift=10082
+35	старостью	_	_	_	_	_	_	_	Shift=10088|SpaceAfter=No
+36	,	_	_	_	_	_	_	_	Shift=10097
+37	худобой	_	_	_	_	_	_	_	Shift=10099
+38	и	_	_	_	_	_	_	_	Shift=10107
+39	косматой	_	_	_	_	_	_	_	Shift=10109
+40	шерстью	_	_	_	_	_	_	_	Shift=10118|SpaceAfter=No
+41	.	_	_	_	_	_	_	_	_
+

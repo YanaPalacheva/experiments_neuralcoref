@@ -1,0 +1,104 @@
+# newdoc id = 2c589af0-d4f4-4a3e-a491-e763eac5fc4c
+# newpar id = 2c589af0-d4f4-4a3e-a491-e763eac5fc4c-p1
+# par_text = Среднерусский пейзаж. Лето. На переднем плане типичная ограда, которой ограждают пастбища скота, собранное из стволов молодых деревьев и плохо обработанных досок. За ней деревенская дорога, а дальше холм. На холме стоит церковь и ближе к нам и левее деревянный сарай. Церковь белокаменная, полностью отражает каноны, с достаточно чётко вынесенной, в сторону от куба церкви, колокольной башней, которая выглядит больше как пристройка к церкви, чем как часть её фасада.
+# sent_id = 2c589af0-d4f4-4a3e-a491-e763eac5fc4c-p1-s1
+# text = Среднерусский пейзаж.
+1	Среднерусский	_	_	_	_	_	_	_	Shift=0
+2	пейзаж	_	_	_	_	_	_	_	Shift=14|SpaceAfter=No
+3	.	_	_	_	_	_	_	_	Shift=20
+
+# sent_id = 2c589af0-d4f4-4a3e-a491-e763eac5fc4c-p1-s2
+# text = Лето.
+1	Лето	_	_	_	_	_	_	_	Shift=22|SpaceAfter=No
+2	.	_	_	_	_	_	_	_	Shift=26
+
+# sent_id = 2c589af0-d4f4-4a3e-a491-e763eac5fc4c-p1-s3
+# text = На переднем плане типичная ограда, которой ограждают пастбища скота, собранное из стволов молодых деревьев и плохо обработанных досок.
+1	На	_	_	_	_	_	_	_	Shift=28
+2	переднем	_	_	_	_	_	_	_	Shift=31
+3	плане	_	_	_	_	_	_	_	Shift=40
+4	типичная	_	_	_	_	_	_	_	RuCor_chain_id=1498|RuCor_group_id=415409|Shift=46
+5	ограда	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1498|RuCor_group_id=415409|RuCor_link_id=0|Shift=55|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=61
+7	которой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=1498|RuCor_group_id=415410|RuCor_link_id=415409|Shift=63
+8	ограждают	_	_	_	_	_	_	_	Shift=71
+9	пастбища	_	_	_	_	_	_	_	Shift=81
+10	скота	_	_	_	_	_	_	_	Shift=90|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=95
+12	собранное	_	_	_	_	_	_	_	Shift=97
+13	из	_	_	_	_	_	_	_	Shift=107
+14	стволов	_	_	_	_	_	_	_	Shift=110
+15	молодых	_	_	_	_	_	_	_	Shift=118
+16	деревьев	_	_	_	_	_	_	_	Shift=126
+17	и	_	_	_	_	_	_	_	Shift=135
+18	плохо	_	_	_	_	_	_	_	Shift=137
+19	обработанных	_	_	_	_	_	_	_	Shift=143
+20	досок	_	_	_	_	_	_	_	Shift=156|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=161
+
+# sent_id = 2c589af0-d4f4-4a3e-a491-e763eac5fc4c-p1-s4
+# text = За ней деревенская дорога, а дальше холм.
+1	За	_	_	_	_	_	_	_	Shift=163
+2	ней	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1498|RuCor_group_id=415411|RuCor_link_id=415410|Shift=166
+3	деревенская	_	_	_	_	_	_	_	Shift=170
+4	дорога	_	_	_	_	_	_	_	Shift=182|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=188
+6	а	_	_	_	_	_	_	_	Shift=190
+7	дальше	_	_	_	_	_	_	_	Shift=192
+8	холм	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1499|RuCor_group_id=415412|RuCor_link_id=0|Shift=199|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=203
+
+# sent_id = 2c589af0-d4f4-4a3e-a491-e763eac5fc4c-p1-s5
+# text = На холме стоит церковь и ближе к нам и левее деревянный сарай.
+1	На	_	_	_	_	_	_	_	Shift=205
+2	холме	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1499|RuCor_group_id=415413|RuCor_link_id=415412|Shift=208
+3	стоит	_	_	_	_	_	_	_	Shift=214
+4	церковь	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1500|RuCor_group_id=415414|RuCor_link_id=0|Shift=220
+5	и	_	_	_	_	_	_	_	Shift=228
+6	ближе	_	_	_	_	_	_	_	Shift=230
+7	к	_	_	_	_	_	_	_	Shift=236
+8	нам	_	_	_	_	_	_	_	Shift=238
+9	и	_	_	_	_	_	_	_	Shift=242
+10	левее	_	_	_	_	_	_	_	Shift=244
+11	деревянный	_	_	_	_	_	_	_	Shift=250
+12	сарай	_	_	_	_	_	_	_	Shift=261|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=266
+
+# sent_id = 2c589af0-d4f4-4a3e-a491-e763eac5fc4c-p1-s6
+# text = Церковь белокаменная, полностью отражает каноны, с достаточно чётко вынесенной, в сторону от куба церкви, колокольной башней, которая выглядит больше как пристройка к церкви, чем как часть её фасада.
+1	Церковь	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1500|RuCor_group_id=415415|RuCor_link_id=415414|Shift=268
+2	белокаменная	_	_	_	_	_	_	_	Shift=276|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=288
+4	полностью	_	_	_	_	_	_	_	Shift=290
+5	отражает	_	_	_	_	_	_	_	Shift=300
+6	каноны	_	_	_	_	_	_	_	Shift=309|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=315
+8	с	_	_	_	_	_	_	_	Shift=317
+9	достаточно	_	_	_	_	_	_	_	Shift=319
+10	чётко	_	_	_	_	_	_	_	Shift=330
+11	вынесенной	_	_	_	_	_	_	_	Shift=336|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=346
+13	в	_	_	_	_	_	_	_	Shift=348
+14	сторону	_	_	_	_	_	_	_	Shift=350
+15	от	_	_	_	_	_	_	_	Shift=358
+16	куба	_	_	_	_	_	_	_	Shift=361
+17	церкви	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1500|RuCor_group_id=415416|RuCor_link_id=415415|Shift=366|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=372
+19	колокольной	_	_	_	_	_	_	_	RuCor_chain_id=1501|RuCor_group_id=415417|Shift=374
+20	башней	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1501|RuCor_group_id=415417|RuCor_link_id=0|Shift=386|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=392
+22	которая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=1501|RuCor_group_id=415418|RuCor_link_id=415417|Shift=394
+23	выглядит	_	_	_	_	_	_	_	Shift=402
+24	больше	_	_	_	_	_	_	_	Shift=411
+25	как	_	_	_	_	_	_	_	Shift=418
+26	пристройка	_	_	_	_	_	_	_	Shift=422
+27	к	_	_	_	_	_	_	_	Shift=433
+28	церкви	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1500|RuCor_group_id=415419|RuCor_link_id=415416|Shift=435|SpaceAfter=No
+29	,	_	_	_	_	_	_	_	Shift=441
+30	чем	_	_	_	_	_	_	_	Shift=443
+31	как	_	_	_	_	_	_	_	Shift=447
+32	часть	_	_	_	_	_	_	_	Shift=451
+33	её	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1500|RuCor_group_id=415420|RuCor_link_id=415419|Shift=457
+34	фасада	_	_	_	_	_	_	_	Shift=460|SpaceAfter=No
+35	.	_	_	_	_	_	_	_	_
+

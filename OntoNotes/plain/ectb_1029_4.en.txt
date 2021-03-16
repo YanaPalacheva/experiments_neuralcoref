@@ -1,0 +1,14 @@
+A chip revolution
+However , the potential uses for biochips go far beyond the medical applications outlined above .
+Dr. Johnsee Lee , who as well as heading up the Biomedical Engineering Center is also general director of Union Chemical Laboratories , a research institute under the ITRI umbrella , says that due to biochips ' advantages of miniaturization , parallelism , speed and the ability to reveal the " big picture , " they have a very wide range of applications .
+They can not only be used as a research tool in biological , medical and pharmaceutical research and development , and as a clinical diagnostic tool for doing health checks , testing for infectious pathogens , screening blood and so on , but they can also find uses in such areas as defense applications , police forensic work , environmental testing and food testing .
+Biochips come in two main types : the microfluidics chip or " lab - on - a - chip , " and the microarray chip or " DNA chip . "
+Microfluidics chips bring together biotechnology , microelectronics , micromachining and other technologies to integrate the functions of multiple laboratory instruments onto a single chip in miniaturized form .
+Meanwhile on microarray chips , biological molecules such as gene segments , oligonucleotides , proteins or antibodies are bound to the chip surface in an array of tiny spots , and a single chip may carry many tens of thousands of such spots .
+BMEC researcher Pan Chao - chi uses the example of blood screening for a blood bank to illustrate the difference between the two kinds of chips .
+To test a blood sample using a microarray chip , the sample must first go through many preparatory steps such as purification , nucleotide extraction , copying , amplification and labeling before being put onto the chip where the " hybridization " reaction takes place .
+Finally , the results are analyzed using a detection system .
+Hence these chips are only suitable for use in the laboratory .
+In contrast , with a lab - on - a - chip system , all the laboratory preparation stages will be done on the chip itself , so that the user need only place a drop of blood directly onto the chip to obtain a result .
+At present , microfluidics technology is not yet mature , and no such chips have been launched as commercial products anywhere .
+But , says Pan Chao - chih : " This is the way future biochip development will go . "

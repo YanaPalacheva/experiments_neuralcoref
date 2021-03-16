@@ -1,0 +1,518 @@
+#begin document (ectb_1019_1); part 000
+ectb_1019	1	0	People	NNS	(TOP(S(NP(NP*)	people	-	1	-	-
+ectb_1019	1	1	who	WP	(SBAR(WHNP*)	-	-	-	-	-
+ectb_1019	1	2	know	VBP	(S(VP*	know	01	-	-	-
+ectb_1019	1	3	me	PRP	(NP*)))))	-	-	-	-	(2)
+ectb_1019	1	4	know	VBP	(VP*	know	01	-	-	-
+ectb_1019	1	5	that	IN	(SBAR*	-	-	-	-	-
+ectb_1019	1	6	there	EX	(S(NP*)	-	-	-	-	-
+ectb_1019	1	7	have	VBP	(VP*	have	01	-	-	-
+ectb_1019	1	8	always	RB	(ADVP*)	-	-	-	-	-
+ectb_1019	1	9	been	VBN	(VP*	be	02	3	-	-
+ectb_1019	1	10	two	CD	(NP(NP(NP*	-	-	-	-	-
+ectb_1019	1	11	great	JJ	*	-	-	-	-	-
+ectb_1019	1	12	loves	NNS	*)	love	01	2	-	-
+ectb_1019	1	13	in	IN	(PP*	-	-	-	-	-
+ectb_1019	1	14	my	PRP$	(NP*	-	-	-	-	(2)
+ectb_1019	1	15	life	NN	*)))	life	-	4	-	-
+ectb_1019	1	16	:	:	*	-	-	-	-	-
+ectb_1019	1	17	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1019	1	18	news	NN	*)	news	-	1	-	-
+ectb_1019	1	19	,	,	*	-	-	-	-	-
+ectb_1019	1	20	and	CC	*	-	-	-	-	-
+ectb_1019	1	21	women	NNS	(NP*))))))))	woman	-	1	-	-
+ectb_1019	1	22	.	.	*))	-	-	-	-	-
+
+ectb_1019	1	0	Now	RB	(TOP(S(ADVP*	-	-	-	-	*	*
+ectb_1019	1	1	that	IN	(SBAR*	-	-	-	-	*	*
+ectb_1019	1	2	I	PRP	(S(NP*)	-	-	-	-	*	*
+ectb_1019	1	3	'm	VBP	(VP*	be	01	1	-	*	*
+ectb_1019	1	4	in	IN	(PP*	-	-	-	-	*	*
+ectb_1019	1	5	my	PRP$	(NP*	-	-	-	-	*	*
+ectb_1019	1	6	80s	NNS	*))))))	-	-	-	-	*	*
+ectb_1019	1	7	,	,	*	-	-	-	-	*	*
+ectb_1019	1	8	looking	VBG	(S(VP*	look	01	1	-	*	*
+ectb_1019	1	9	back	RB	(ADVP*)))	-	-	-	-	*	*
+ectb_1019	1	10	I	PRP	(NP*)	-	-	-	-	*	*
+ectb_1019	1	11	think	VBP	(VP*	think	01	1	-	*	*
+ectb_1019	1	12	I	PRP	(SBAR(S(NP*)	-	-	-	-	*	*
+ectb_1019	1	13	can	MD	(VP*	-	-	-	-	*	*
+ectb_1019	1	14	say	VB	(VP*	say	01	1	-	*	*
+ectb_1019	1	15	I	PRP	(SBAR(S(S(NP*)	-	-	-	-	*	*
+ectb_1019	1	16	've	VBP	(VP*	have	01	12	-	*	*
+ectb_1019	1	17	done	VBN	(VP*	do	02	2	-	*	*
+ectb_1019	1	18	alright	RB	(ADVP*)	-	-	-	-	*	*
+ectb_1019	1	19	in	IN	(PP*	-	-	-	-	*	*
+ectb_1019	1	20	both	DT	(NP*	-	-	-	-	*	*
+ectb_1019	1	21	respects	NNS	*)))))	-	-	-	-	*	*
+ectb_1019	1	22	,	,	*	-	-	-	-	*	*
+ectb_1019	1	23	and	CC	*	-	-	-	-	*	*
+ectb_1019	1	24	I	PRP	(S(NP*)	-	-	-	-	*	*
+ectb_1019	1	25	've	VBP	(VP*	have	01	12	-	*	*
+ectb_1019	1	26	learnt	VBN	(VP*	learn	01	2	-	*	*
+ectb_1019	1	27	that	IN	(SBAR*	-	-	-	-	*	*
+ectb_1019	1	28	both	CC	(S(S*	-	-	-	-	*	*
+ectb_1019	1	29	reporting	VBG	(VP(VP*	report	01	-	-	*	*
+ectb_1019	1	30	the	DT	(NP*	-	-	-	-	*	*
+ectb_1019	1	31	news	NN	*)	news	-	1	-	*	*
+ectb_1019	1	32	well	RB	(ADVP*))	-	-	-	-	*	*
+ectb_1019	1	33	,	,	*	-	-	-	-	*	*
+ectb_1019	1	34	and	CC	*	-	-	-	-	*	*
+ectb_1019	1	35	finding	VBG	(VP*	find	01	1	-	(V*)	(V*)
+ectb_1019	1	36	favor	NN	(NP(NP*)	favor	-	3	-	(ARG1*	(ARG1*
+ectb_1019	1	37	with	IN	(PP*	-	-	-	-	*	*
+ectb_1019	1	38	women	NNS	(NP*))))))	woman	-	1	-	*)	*)
+ectb_1019	1	39	,	,	*	-	-	-	-	*	*
+ectb_1019	1	40	depend	VBP	(VP*	depend	01	1	-	*	*
+ectb_1019	1	41	on	IN	(PP*	-	-	-	-	*	*
+ectb_1019	1	42	your	PRP$	(NP*	-	-	-	-	*	*
+ectb_1019	1	43	character	NN	*	-	-	-	-	*	*
+ectb_1019	1	44	and	CC	*	-	-	-	-	*	*
+ectb_1019	1	45	conduct	NN	*)))))))))))))))	conduct	02	1	-	*	*
+ectb_1019	1	46	.	.	*))	-	-	-	-	*	*
+
+ectb_1019	1	0	Journalism	NN	(TOP(S(S(NP*)	-	-	-	-	(9)
+ectb_1019	1	1	is	VBZ	(VP(VP*	be	01	2	-	-
+ectb_1019	1	2	not	RB	*	-	-	-	-	-
+ectb_1019	1	3	just	RB	(NP*	-	-	-	-	-
+ectb_1019	1	4	a	DT	*	-	-	-	-	-
+ectb_1019	1	5	profession	NN	*))	profession	-	2	-	-
+ectb_1019	1	6	,	,	*	-	-	-	-	-
+ectb_1019	1	7	but	CC	*	-	-	-	-	-
+ectb_1019	1	8	should	MD	(VP*	-	-	-	-	-
+ectb_1019	1	9	also	RB	(ADVP*)	-	-	-	-	-
+ectb_1019	1	10	be	VB	(VP*	be	01	2	-	-
+ectb_1019	1	11	a	DT	(NP*	-	-	-	-	-
+ectb_1019	1	12	vocation	NN	*)))))	-	-	-	-	-
+ectb_1019	1	13	-	:	*	-	-	-	-	-
+ectb_1019	1	14	you	PRP	(S(NP*)	-	-	-	-	-
+ectb_1019	1	15	have	VBP	(VP*	have	02	12	-	-
+ectb_1019	1	16	to	TO	(S(VP*	-	-	-	-	-
+ectb_1019	1	17	throw	VB	(VP*	throw	01	1	-	-
+ectb_1019	1	18	yourself	PRP	(NP*)	-	-	-	-	-
+ectb_1019	1	19	fully	RB	(ADVP*)	-	-	-	-	-
+ectb_1019	1	20	into	IN	(PP*	-	-	-	-	-
+ectb_1019	1	21	this	DT	(NP(NP*	-	-	-	-	(9
+ectb_1019	1	22	infinitely	RB	(ADJP*	-	-	-	-	-
+ectb_1019	1	23	broad	JJ	*)	-	-	-	-	-
+ectb_1019	1	24	field	NN	*)	field	-	3	-	-
+ectb_1019	1	25	of	IN	(PP*	-	-	-	-	-
+ectb_1019	1	26	endeavor	NN	(NP*)))))))))	endeavor	-	2	-	9)
+ectb_1019	1	27	.	.	*))	-	-	-	-	-
+
+ectb_1019	1	0	Intellectually	RB	(TOP(S(ADVP*	-	-	-	-	-
+ectb_1019	1	1	and	CC	*	-	-	-	-	-
+ectb_1019	1	2	spiritually	RB	*)	-	-	-	-	-
+ectb_1019	1	3	,	,	*	-	-	-	-	-
+ectb_1019	1	4	in	IN	(PP(PP*	-	-	-	-	-
+ectb_1019	1	5	work	NN	(NP*))	work	-	3	-	-
+ectb_1019	1	6	and	CC	*	-	-	-	-	-
+ectb_1019	1	7	in	IN	(PP*	-	-	-	-	-
+ectb_1019	1	8	love	NN	(NP*)))	love	-	3	-	-
+ectb_1019	1	9	,	,	*	-	-	-	-	-
+ectb_1019	1	10	I	PRP	(NP*)	-	-	-	-	(2)
+ectb_1019	1	11	have	VBP	(VP*	have	01	-	-	-
+ectb_1019	1	12	gained	VBN	(VP*	gain	02	1	-	-
+ectb_1019	1	13	experience	NN	(NP*	experience	-	1	-	-
+ectb_1019	1	14	and	CC	*	-	-	-	-	-
+ectb_1019	1	15	fulfilment	NN	*)))	-	-	-	-	-
+ectb_1019	1	16	.	.	*))	-	-	-	-	-
+
+ectb_1019	1	0	I	PRP	(TOP(S(NP*)	-	-	-	-	(2)
+ectb_1019	1	1	have	VBP	(VP*	have	01	-	-	-
+ectb_1019	1	2	always	RB	(ADVP*)	-	-	-	-	-
+ectb_1019	1	3	remembered	VBN	(VP*	remember	01	1	-	-
+ectb_1019	1	4	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1019	1	5	encouragement	NN	*)	-	-	-	-	-
+ectb_1019	1	6	which	WDT	(SBAR(WHNP*)	-	-	-	-	-
+ectb_1019	1	7	Mr.	NNP	(S(NP*	-	-	-	-	(14
+ectb_1019	1	8	Yu	NNP	*	-	-	-	-	-
+ectb_1019	1	9	Youren	NNP	*)	-	-	-	-	14)
+ectb_1019	1	10	gave	VBD	(VP*	give	01	2	-	-
+ectb_1019	1	11	me	PRP	(NP*)	-	-	-	-	(2)
+ectb_1019	1	12	as	IN	(PP*	-	-	-	-	-
+ectb_1019	1	13	a	DT	(NP*	-	-	-	-	-
+ectb_1019	1	14	young	JJ	*	-	-	-	-	-
+ectb_1019	1	15	reporter	NN	*))))))))	-	-	-	-	-
+ectb_1019	1	16	.	.	*))	-	-	-	-	-
+
+ectb_1019	1	0	He	PRP	(TOP(S(NP*)	-	-	-	-	(14)
+ectb_1019	1	1	said	VBD	(VP*	say	01	1	-	-
+ectb_1019	1	2	that	IN	(SBAR*	-	-	-	-	-
+ectb_1019	1	3	to	TO	(S(S(VP*	-	-	-	-	-
+ectb_1019	1	4	be	VB	(VP*	be	01	1	-	-
+ectb_1019	1	5	a	DT	(NP(NP*	-	-	-	-	-
+ectb_1019	1	6	fearless	JJ	*	-	-	-	-	-
+ectb_1019	1	7	champion	NN	*)	champion	-	3	-	-
+ectb_1019	1	8	of	IN	(PP*	-	-	-	-	-
+ectb_1019	1	9	social	JJ	(NP*	-	-	-	-	-
+ectb_1019	1	10	justice	NN	*)))	-	-	-	-	-
+ectb_1019	1	11	,	,	*	-	-	-	-	-
+ectb_1019	1	12	as	IN	(SBAR*	-	-	-	-	-
+ectb_1019	1	13	is	VBZ	(S(VP*	be	03	-	-	-
+ectb_1019	1	14	expected	VBN	(VP*	expect	01	-	-	-
+ectb_1019	1	15	of	IN	(PP*	-	-	-	-	-
+ectb_1019	1	16	a	DT	(NP*	-	-	-	-	-
+ectb_1019	1	17	journalist	NN	*)))))))))	-	-	-	-	-
+ectb_1019	1	18	,	,	*	-	-	-	-	-
+ectb_1019	1	19	the	DT	(NP*	-	-	-	-	-
+ectb_1019	1	20	most	RBS	(ADJP*	-	-	-	-	-
+ectb_1019	1	21	important	JJ	*)	-	-	-	-	-
+ectb_1019	1	22	thing	NN	*)	thing	-	1	-	-
+ectb_1019	1	23	,	,	*	-	-	-	-	-
+ectb_1019	1	24	apart	RB	(ADVP*	-	-	-	-	-
+ectb_1019	1	25	from	IN	(PP*	-	-	-	-	-
+ectb_1019	1	26	energy	NN	(NP*	energy	-	2	-	-
+ectb_1019	1	27	and	CC	*	-	-	-	-	-
+ectb_1019	1	28	vitality	NN	*)))	-	-	-	-	-
+ectb_1019	1	29	,	,	*	-	-	-	-	-
+ectb_1019	1	30	is	VBZ	(VP*	be	01	2	-	-
+ectb_1019	1	31	modesty	NN	(NP*)))))	-	-	-	-	-
+ectb_1019	1	32	.	.	*))	-	-	-	-	-
+
+ectb_1019	1	0	You	PRP	(TOP(S(NP*)	-	-	-	-	-
+ectb_1019	1	1	have	VBP	(VP*	have	02	12	-	-
+ectb_1019	1	2	to	TO	(S(VP*	-	-	-	-	-
+ectb_1019	1	3	treat	VB	(VP(VP*	treat	01	1	-	-
+ectb_1019	1	4	everybody	NN	(NP*)	-	-	-	-	-
+ectb_1019	1	5	the	DT	(NP*	-	-	-	-	-
+ectb_1019	1	6	same	JJ	*))	-	-	-	-	-
+ectb_1019	1	7	,	,	*	-	-	-	-	-
+ectb_1019	1	8	and	CC	*	-	-	-	-	-
+ectb_1019	1	9	not	RB	(VP*	-	-	-	-	-
+ectb_1019	1	10	be	VB	*	be	03	-	-	-
+ectb_1019	1	11	overawed	VBN	(VP*	overawe	01	-	-	-
+ectb_1019	1	12	by	IN	(PP*	-	-	-	-	-
+ectb_1019	1	13	the	DT	(NP*	-	-	-	-	-
+ectb_1019	1	14	great	JJ	*	-	-	-	-	-
+ectb_1019	1	15	and	CC	*	-	-	-	-	-
+ectb_1019	1	16	powerful	JJ	*))))))))	-	-	-	-	-
+ectb_1019	1	17	.	.	*))	-	-	-	-	-
+
+ectb_1019	1	0	A	DT	(TOP(S(NP(NP*	-	-	-	-	-
+ectb_1019	1	1	president	NN	*)	president	-	2	-	-
+ectb_1019	1	2	or	CC	*	-	-	-	-	-
+ectb_1019	1	3	a	DT	(NP*	-	-	-	-	-
+ectb_1019	1	4	street	NN	*	-	-	-	-	-
+ectb_1019	1	5	sweeper	NN	*))	-	-	-	-	-
+ectb_1019	1	6	deserve	VBP	(VP(VP*	deserve	01	1	-	-
+ectb_1019	1	7	the	DT	(NP*	-	-	-	-	-
+ectb_1019	1	8	same	JJ	*	-	-	-	-	-
+ectb_1019	1	9	respect	NN	*)	respect	01	5	-	-
+ectb_1019	1	10	as	IN	(PP*	-	-	-	-	-
+ectb_1019	1	11	a	DT	(NP*	-	-	-	-	-
+ectb_1019	1	12	human	JJ	*	-	-	-	-	-
+ectb_1019	1	13	being	NN	*)))	being	-	2	-	-
+ectb_1019	1	14	,	,	*	-	-	-	-	-
+ectb_1019	1	15	and	CC	*	-	-	-	-	-
+ectb_1019	1	16	should	MD	(VP*	-	-	-	-	-
+ectb_1019	1	17	both	RB	*	-	-	-	-	-
+ectb_1019	1	18	be	VB	(VP*	be	03	-	-	-
+ectb_1019	1	19	treated	VBN	(VP*	treat	01	-	-	-
+ectb_1019	1	20	the	DT	(NP*	-	-	-	-	-
+ectb_1019	1	21	same	JJ	*	-	-	-	-	-
+ectb_1019	1	22	way	NN	*)))))	way	-	1	-	-
+ectb_1019	1	23	.	.	*))	-	-	-	-	-
+
+ectb_1019	1	0	Funnily	RB	(TOP(S(ADVP*	-	-	-	-	-
+ectb_1019	1	1	enough	RB	*)	-	-	-	-	-
+ectb_1019	1	2	,	,	*	-	-	-	-	-
+ectb_1019	1	3	an	DT	(NP*	-	-	-	-	-
+ectb_1019	1	4	unassuming	JJ	*	-	-	-	-	-
+ectb_1019	1	5	attitude	NN	*)	attitude	-	1	-	-
+ectb_1019	1	6	is	VBZ	(VP*	be	01	1	-	-
+ectb_1019	1	7	also	RB	(ADVP*)	-	-	-	-	-
+ectb_1019	1	8	advantageous	JJ	(ADJP*)	-	-	-	-	-
+ectb_1019	1	9	in	IN	(PP*	-	-	-	-	-
+ectb_1019	1	10	relations	NNS	(NP(NP*)	relation	-	5	-	-
+ectb_1019	1	11	with	IN	(PP*	-	-	-	-	-
+ectb_1019	1	12	the	DT	(NP*	-	-	-	-	-
+ectb_1019	1	13	opposite	JJ	*	-	-	-	-	-
+ectb_1019	1	14	sex	NN	*)))))	sex	-	2	-	-
+ectb_1019	1	15	.	.	*))	-	-	-	-	-
+
+ectb_1019	1	0	Chinese	JJ	(TOP(S(S(NP*	-	-	-	-	-
+ectb_1019	1	1	society	NN	*)	society	-	1	-	-
+ectb_1019	1	2	is	VBZ	(VP*	be	01	1	-	(3)
+ectb_1019	1	3	male	JJ	(ADJP*	-	-	-	-	-
+ectb_1019	1	4	dominated	JJ	*)))	-	-	-	-	-
+ectb_1019	1	5	,	,	*	-	-	-	-	-
+ectb_1019	1	6	and	CC	*	-	-	-	-	-
+ectb_1019	1	7	women	NNS	(S(NP*)	woman	-	1	-	-
+ectb_1019	1	8	are	VBP	(VP*	be	03	-	-	-
+ectb_1019	1	9	mostly	RB	(ADVP*)	-	-	-	-	-
+ectb_1019	1	10	regarded	VBN	(VP*	regard	01	-	-	-
+ectb_1019	1	11	as	IN	(PP*	-	-	-	-	-
+ectb_1019	1	12	having	VBG	(S(VP*	have	03	2	-	-
+ectb_1019	1	13	a	DT	(NP*	-	-	-	-	-
+ectb_1019	1	14	subsidiary	JJ	*	-	-	-	-	-
+ectb_1019	1	15	role	NN	*)))))))	role	-	1	-	-
+ectb_1019	1	16	.	.	*))	-	-	-	-	-
+
+ectb_1019	1	0	In	IN	(TOP(S(PP*	-	-	-	-	-
+ectb_1019	1	1	this	DT	(NP(NP*	-	-	-	-	(3
+ectb_1019	1	2	kind	NN	*)	-	-	-	-	-
+ectb_1019	1	3	of	IN	(PP*	-	-	-	-	-
+ectb_1019	1	4	unfair	JJ	(NP*	-	-	-	-	-
+ectb_1019	1	5	situation	NN	*))))	situation	-	1	-	3)
+ectb_1019	1	6	,	,	*	-	-	-	-	-
+ectb_1019	1	7	an	DT	(NP*	-	-	-	-	-
+ectb_1019	1	8	upstanding	JJ	*	-	-	-	-	-
+ectb_1019	1	9	man	NN	*)	man	-	8	-	-
+ectb_1019	1	10	should	MD	(VP*	-	-	-	-	-
+ectb_1019	1	11	cherish	VB	(VP*	cherish	01	-	-	-
+ectb_1019	1	12	and	CC	*	-	-	-	-	-
+ectb_1019	1	13	respect	VB	*	respect	01	1	-	-
+ectb_1019	1	14	women	NNS	(NP*)	woman	-	1	-	-
+ectb_1019	1	15	all	PDT	(NP*	-	-	-	-	-
+ectb_1019	1	16	the	DT	*	-	-	-	-	-
+ectb_1019	1	17	more	RBR	*)))	-	-	-	-	-
+ectb_1019	1	18	.	.	*))	-	-	-	-	-
+
+ectb_1019	1	0	A	DT	(TOP(S(NP*	-	-	-	-	-
+ectb_1019	1	1	considerate	JJ	*	-	-	-	-	-
+ectb_1019	1	2	attitude	NN	*)	attitude	-	1	-	-
+ectb_1019	1	3	can	MD	(VP*	-	-	-	-	-
+ectb_1019	1	4	be	VB	(VP*	be	03	-	-	-
+ectb_1019	1	5	expressed	VBN	(VP*	express	01	-	-	-
+ectb_1019	1	6	in	IN	(PP*	-	-	-	-	-
+ectb_1019	1	7	little	JJ	(NP*	-	-	-	-	-
+ectb_1019	1	8	things	NNS	*)))))	thing	-	1	-	-
+ectb_1019	1	9	.	.	*))	-	-	-	-	-
+
+ectb_1019	1	0	For	IN	(TOP(S(PP*	-	-	-	-	-
+ectb_1019	1	1	instance	NN	(NP*))	-	-	-	-	-
+ectb_1019	1	2	,	,	*	-	-	-	-	-
+ectb_1019	1	3	when	WRB	(SBAR(WHADVP*)	-	-	-	-	-
+ectb_1019	1	4	you	PRP	(S(NP*)	-	-	-	-	-
+ectb_1019	1	5	see	VBP	(VP*	see	01	1	-	-
+ectb_1019	1	6	that	IN	(SBAR*	-	-	-	-	-
+ectb_1019	1	7	a	DT	(S(NP*	-	-	-	-	(12
+ectb_1019	1	8	hair	NN	*)	-	-	-	-	12)
+ectb_1019	1	9	has	VBZ	(VP*	have	01	-	-	-
+ectb_1019	1	10	fallen	VBN	(VP*	fall	01	1	-	-
+ectb_1019	1	11	onto	IN	(PP*	-	-	-	-	-
+ectb_1019	1	12	a	DT	(NP(NP*	-	-	-	-	(13
+ectb_1019	1	13	female	JJ	*	-	-	-	-	-
+ectb_1019	1	14	friend	NN	*	-	-	-	-	-
+ectb_1019	1	15	's	POS	*)	-	-	-	-	13)
+ectb_1019	1	16	shoulder	NN	*)))))))))	shoulder	-	1	-	-
+ectb_1019	1	17	,	,	*	-	-	-	-	-
+ectb_1019	1	18	you	PRP	(NP*)	-	-	-	-	-
+ectb_1019	1	19	should	MD	(VP*	-	-	-	-	-
+ectb_1019	1	20	lightly	RB	(VP(VP(ADVP*)	-	-	-	-	-
+ectb_1019	1	21	pick	VB	*	pick	08	-	-	-
+ectb_1019	1	22	it	PRP	(NP*)	-	-	-	-	(12)
+ectb_1019	1	23	off	RP	(PRT*)	-	-	-	-	-
+ectb_1019	1	24	for	IN	(PP*	-	-	-	-	-
+ectb_1019	1	25	her	PRP$	(NP*)))	-	-	-	-	(13)
+ectb_1019	1	26	,	,	*	-	-	-	-	-
+ectb_1019	1	27	and	CC	*	-	-	-	-	-
+ectb_1019	1	28	throw	VB	(VP(VP*	throw	07	2	-	-
+ectb_1019	1	29	it	PRP	(NP*)	-	-	-	-	(12)
+ectb_1019	1	30	away	RP	(PRT*))	-	-	-	-	-
+ectb_1019	1	31	or	CC	*	-	-	-	-	-
+ectb_1019	1	32	put	VB	(VP*	put	01	1	-	-
+ectb_1019	1	33	it	PRP	(NP*)	-	-	-	-	(12)
+ectb_1019	1	34	in	IN	(PP*	-	-	-	-	-
+ectb_1019	1	35	your	PRP$	(NP*	-	-	-	-	-
+ectb_1019	1	36	pocket	NN	*))))))	-	-	-	-	-
+ectb_1019	1	37	.	.	*))	-	-	-	-	-
+
+ectb_1019	1	0	If	IN	(TOP(S(SBAR*	-	-	-	-	-
+ectb_1019	1	1	sincere	JJ	(FRAG(ADJP*)))	-	-	-	-	-
+ectb_1019	1	2	,	,	*	-	-	-	-	-
+ectb_1019	1	3	this	DT	(NP(NP*	-	-	-	-	-
+ectb_1019	1	4	kind	NN	*)	-	-	-	-	-
+ectb_1019	1	5	of	IN	(PP*	-	-	-	-	-
+ectb_1019	1	6	action	NN	(NP*)))	action	01	1	-	-
+ectb_1019	1	7	is	VBZ	(VP*	be	01	1	-	-
+ectb_1019	1	8	attractive	JJ	(ADJP*)	-	-	-	-	-
+ectb_1019	1	9	in	IN	(PP*	-	-	-	-	-
+ectb_1019	1	10	a	DT	(NP*	-	-	-	-	-
+ectb_1019	1	11	man	NN	*)))	man	-	1	-	-
+ectb_1019	1	12	.	.	*))	-	-	-	-	-
+
+ectb_1019	1	0	If	IN	(TOP(S(SBAR*	-	-	-	-	-
+ectb_1019	1	1	a	DT	(S(NP*	-	-	-	-	(0
+ectb_1019	1	2	woman	NN	*)	woman	-	1	-	0)
+ectb_1019	1	3	expresses	VBZ	(VP*	express	01	1	-	-
+ectb_1019	1	4	her	PRP$	(NP(NP*	-	-	-	-	(0)
+ectb_1019	1	5	liking	NN	*)	-	-	-	-	-
+ectb_1019	1	6	for	IN	(PP*	-	-	-	-	-
+ectb_1019	1	7	you	PRP	(NP*))))))	-	-	-	-	-
+ectb_1019	1	8	,	,	*	-	-	-	-	-
+ectb_1019	1	9	then	RB	(ADVP*)	-	-	-	-	-
+ectb_1019	1	10	no	RB	(ADVP*	-	-	-	-	-
+ectb_1019	1	11	matter	RB	*	-	-	-	-	-
+ectb_1019	1	12	whether	IN	(SBAR(SBAR*	-	-	-	-	-
+ectb_1019	1	13	she	PRP	(S(NP*)	-	-	-	-	(0)
+ectb_1019	1	14	is	VBZ	(VP*	be	01	1	-	-
+ectb_1019	1	15	pretty	JJ	(ADJP*))))	-	-	-	-	-
+ectb_1019	1	16	,	,	*	-	-	-	-	-
+ectb_1019	1	17	or	CC	*	-	-	-	-	-
+ectb_1019	1	18	whether	IN	(SBAR*	-	-	-	-	-
+ectb_1019	1	19	you	PRP	(S(NP*)	-	-	-	-	-
+ectb_1019	1	20	find	VBP	(VP*	find	02	3	-	-
+ectb_1019	1	21	her	PRP	(S(NP*)	-	-	-	-	(0)
+ectb_1019	1	22	attractive	JJ	(ADJP*)))))))	-	-	-	-	-
+ectb_1019	1	23	,	,	*	-	-	-	-	-
+ectb_1019	1	24	you	PRP	(NP*)	-	-	-	-	-
+ectb_1019	1	25	should	MD	(VP*	-	-	-	-	-
+ectb_1019	1	26	respond	VB	(VP*	respond	01	1	-	-
+ectb_1019	1	27	in	IN	(PP(PP*	-	-	-	-	-
+ectb_1019	1	28	the	DT	(NP*	-	-	-	-	-
+ectb_1019	1	29	same	JJ	*	-	-	-	-	-
+ectb_1019	1	30	way	NN	*))	way	-	1	-	-
+ectb_1019	1	31	,	,	*	-	-	-	-	-
+ectb_1019	1	32	and	CC	*	-	-	-	-	-
+ectb_1019	1	33	with	IN	(PP*	-	-	-	-	-
+ectb_1019	1	34	the	DT	(NP*	-	-	-	-	-
+ectb_1019	1	35	same	JJ	*	-	-	-	-	-
+ectb_1019	1	36	respect	NN	*)))))	respect	01	5	-	-
+ectb_1019	1	37	.	.	*))	-	-	-	-	-
+
+ectb_1019	1	0	When	WRB	(TOP(S(SBAR(WHADVP*)	-	-	-	-	-
+ectb_1019	1	1	I	PRP	(S(NP*)	-	-	-	-	(2)
+ectb_1019	1	2	was	VBD	(VP*	be	01	1	-	-
+ectb_1019	1	3	a	DT	(NP(NP*	-	-	-	-	-
+ectb_1019	1	4	young	JJ	*	-	-	-	-	-
+ectb_1019	1	5	reporter	NN	*)	-	-	-	-	-
+ectb_1019	1	6	stationed	VBN	(VP*	station	01	-	-	-
+ectb_1019	1	7	in	IN	(PP*	-	-	-	-	-
+ectb_1019	1	8	Europe	NNP	(NP*)))))))	-	-	-	-	-
+ectb_1019	1	9	,	,	*	-	-	-	-	-
+ectb_1019	1	10	there	EX	(NP*)	-	-	-	-	-
+ectb_1019	1	11	was	VBD	(VP*	be	02	1	-	-
+ectb_1019	1	12	a	DT	(NP(NP*	-	-	-	-	(6
+ectb_1019	1	13	British	JJ	*	-	-	-	-	-
+ectb_1019	1	14	woman	NN	*	woman	-	1	-	-
+ectb_1019	1	15	reporter	NN	*)	-	-	-	-	-
+ectb_1019	1	16	who	WP	(SBAR(WHNP*)	-	-	-	-	-
+ectb_1019	1	17	liked	VBD	(S(VP*	like	01	2	-	-
+ectb_1019	1	18	me	PRP	(NP*)	-	-	-	-	(2)
+ectb_1019	1	19	very	RB	(ADVP*	-	-	-	-	-
+ectb_1019	1	20	much	RB	*))))))	-	-	-	-	6)
+ectb_1019	1	21	.	.	*))	-	-	-	-	-
+
+ectb_1019	1	0	Once	RB	(TOP(S(ADVP*)	-	-	-	-	-
+ectb_1019	1	1	I	PRP	(NP*)	-	-	-	-	(2)
+ectb_1019	1	2	was	VBD	(VP*	be	03	-	-	-
+ectb_1019	1	3	driving	VBG	(VP*	drive	02	1	-	-
+ectb_1019	1	4	her	PRP	(NP*)	-	-	-	-	(6)
+ectb_1019	1	5	somewhere	RB	(ADVP*)	-	-	-	-	-
+ectb_1019	1	6	to	TO	(S(VP*	-	-	-	-	-
+ectb_1019	1	7	report	VB	(VP*	report	01	1	-	-
+ectb_1019	1	8	a	DT	(NP*	-	-	-	-	-
+ectb_1019	1	9	story	NN	*))))	story	-	1	-	-
+ectb_1019	1	10	when	WRB	(SBAR(WHADVP*)	-	-	-	-	-
+ectb_1019	1	11	we	PRP	(S(S(NP*)	-	-	-	-	-
+ectb_1019	1	12	had	VBD	(VP*	have	03	4	-	-
+ectb_1019	1	13	an	DT	(NP*	-	-	-	-	-
+ectb_1019	1	14	accident	NN	*)))	accident	-	1	-	-
+ectb_1019	1	15	,	,	*	-	-	-	-	-
+ectb_1019	1	16	and	CC	*	-	-	-	-	-
+ectb_1019	1	17	she	PRP	(S(NP*)	-	-	-	-	(6)
+ectb_1019	1	18	suffered	VBD	(VP*	suffer	01	1	-	-
+ectb_1019	1	19	some	DT	(NP*	-	-	-	-	-
+ectb_1019	1	20	badly	RB	(ADJP*	-	-	-	-	-
+ectb_1019	1	21	broken	VBN	*)	break	01	-	-	-
+ectb_1019	1	22	bones	NNS	*)))))))	-	-	-	-	-
+ectb_1019	1	23	.	.	*))	-	-	-	-	-
+
+ectb_1019	1	0	Although	IN	(TOP(S(S(SBAR*	-	-	-	-	-
+ectb_1019	1	1	I	PRP	(S(NP*)	-	-	-	-	(2)
+ectb_1019	1	2	was	VBD	(VP*	be	03	-	-	-
+ectb_1019	1	3	n't	RB	*	-	-	-	-	-
+ectb_1019	1	4	attracted	VBN	(VP*	attract	01	1	-	-
+ectb_1019	1	5	to	IN	(PP*	-	-	-	-	-
+ectb_1019	1	6	her	PRP	(NP*))	-	-	-	-	(6)
+ectb_1019	1	7	in	IN	(PP*	-	-	-	-	-
+ectb_1019	1	8	that	DT	(NP*	-	-	-	-	-
+ectb_1019	1	9	way	NN	*))))))	way	-	1	-	-
+ectb_1019	1	10	,	,	*	-	-	-	-	-
+ectb_1019	1	11	I	PRP	(NP*)	-	-	-	-	(2)
+ectb_1019	1	12	went	VBD	(VP*	go	02	1	-	(7)
+ectb_1019	1	13	to	TO	(S(VP*	-	-	-	-	-
+ectb_1019	1	14	see	VB	(VP*	see	01	6	-	-
+ectb_1019	1	15	her	PRP	(NP*)	-	-	-	-	(6)
+ectb_1019	1	16	every	DT	(NP*	-	-	-	-	-
+ectb_1019	1	17	day	NN	*)	day	-	3	-	-
+ectb_1019	1	18	in	IN	(PP*	-	-	-	-	-
+ectb_1019	1	19	hospital	NN	(NP*)))))))	-	-	-	-	-
+ectb_1019	1	20	,	,	*	-	-	-	-	-
+ectb_1019	1	21	and	CC	*	-	-	-	-	-
+ectb_1019	1	22	this	DT	(S(NP*)	-	-	-	-	(7)
+ectb_1019	1	23	left	VBD	(VP*	leave	02	3	-	-
+ectb_1019	1	24	a	DT	(NP(NP*	-	-	-	-	-
+ectb_1019	1	25	deep	JJ	*	-	-	-	-	-
+ectb_1019	1	26	impression	NN	*))	-	-	-	-	-
+ectb_1019	1	27	on	IN	(PP*	-	-	-	-	-
+ectb_1019	1	28	her	PRP	(NP*))	-	-	-	-	(6)
+ectb_1019	1	29	of	IN	(PP*	-	-	-	-	-
+ectb_1019	1	30	how	WRB	(SBAR(WHADJP*	-	-	-	-	-
+ectb_1019	1	31	considerate	JJ	*)	-	-	-	-	-
+ectb_1019	1	32	Chinese	JJ	(S(NP*	-	-	-	-	-
+ectb_1019	1	33	men	NNS	*)	man	-	2	-	-
+ectb_1019	1	34	can	MD	(VP*	-	-	-	-	-
+ectb_1019	1	35	be	VB	(VP*)))))))	be	01	1	-	-
+ectb_1019	1	36	.	.	*))	-	-	-	-	-
+
+ectb_1019	1	0	Looking	VBG	(TOP(S(S(S(VP*	look	01	1	-	-	-
+ectb_1019	1	1	back	RB	(ADVP*)	-	-	-	-	-	-
+ectb_1019	1	2	at	IN	(PP*	-	-	-	-	-	-
+ectb_1019	1	3	my	PRP$	(NP*	-	-	-	-	(2)	(2)
+ectb_1019	1	4	life	NN	*))))	life	-	4	-	-	-
+ectb_1019	1	5	,	,	*	-	-	-	-	-	-
+ectb_1019	1	6	I	PRP	(NP*)	-	-	-	-	(2)	(2)
+ectb_1019	1	7	've	VBP	(VP*	have	01	12	-	(10)	(10)
+ectb_1019	1	8	hardly	RB	(ADVP*)	-	-	-	-	-	-
+ectb_1019	1	9	had	VBN	(VP*	have	-	4	-	-	-
+ectb_1019	1	10	any	DT	(NP*	-	-	-	-	-	-
+ectb_1019	1	11	really	RB	(ADJP*	-	-	-	-	-	-
+ectb_1019	1	12	bad	JJ	*)	-	-	-	-	-	-
+ectb_1019	1	13	experiences	NNS	*)	experience	01	2	-	-	-
+ectb_1019	1	14	in	IN	(PP*	-	-	-	-	-	-
+ectb_1019	1	15	my	PRP$	(NP(NP*	-	-	-	-	(2)	(2)
+ectb_1019	1	16	relationships	NNS	*)	relationship	-	2	-	-	-
+ectb_1019	1	17	with	IN	(PP*	-	-	-	-	-	-
+ectb_1019	1	18	women	NNS	(NP*)))))))	woman	-	1	-	-	-
+ectb_1019	1	19	,	,	*	-	-	-	-	-	-
+ectb_1019	1	20	and	CC	*	-	-	-	-	-	-
+ectb_1019	1	21	this	DT	(S(NP*)	-	-	-	-	(10)	(10)
+ectb_1019	1	22	is	VBZ	(VP*	be	01	1	-	-	-
+ectb_1019	1	23	because	IN	(SBAR*	-	-	-	-	-	-
+ectb_1019	1	24	just	RB	(S(PP(ADVP*)	-	-	-	-	-	-
+ectb_1019	1	25	as	IN	*	-	-	-	-	-	-
+ectb_1019	1	26	in	IN	(PP*	-	-	-	-	-	-
+ectb_1019	1	27	my	PRP$	(NP*	-	-	-	-	(2)	(2)
+ectb_1019	1	28	professional	JJ	*	-	-	-	-	-	-
+ectb_1019	1	29	life	NN	*)))	life	-	1	-	-	-
+ectb_1019	1	30	,	,	*	-	-	-	-	-	-
+ectb_1019	1	31	I	PRP	(NP*)	-	-	-	-	(2)	(2)
+ectb_1019	1	32	've	VBP	(VP*	have	01	12	-	-	-
+ectb_1019	1	33	always	RB	(VP(VP(ADVP*)	-	-	-	-	-	-
+ectb_1019	1	34	maintained	VBD	*	maintain	01	2	-	-	-
+ectb_1019	1	35	a	DT	(NP(NP*	-	-	-	-	-	-
+ectb_1019	1	36	self	NN	(ADJP*	-	-	-	-	-	-
+ectb_1019	1	37	-	HYPH	*	-	-	-	-	-	-
+ectb_1019	1	38	critical	JJ	*)	-	-	-	-	-	-
+ectb_1019	1	39	attitude	NN	*)	attitude	-	1	-	-	-
+ectb_1019	1	40	towards	IN	(PP*	-	-	-	-	-	-
+ectb_1019	1	41	my	PRP$	(NP*	-	-	-	-	(2)	(2)
+ectb_1019	1	42	emotions	NNS	*))))	-	-	-	-	-	-
+ectb_1019	1	43	,	,	*	-	-	-	-	-	-
+ectb_1019	1	44	and	CC	*	-	-	-	-	-	-
+ectb_1019	1	45	always	RB	(VP(ADVP*)	-	-	-	-	-	-
+ectb_1019	1	46	tried	VBD	*	try	01	1	-	-	-
+ectb_1019	1	47	to	TO	(S(VP*	-	-	-	-	-	-
+ectb_1019	1	48	prevent	VB	(VP*	prevent	01	1	-	-	-
+ectb_1019	1	49	myself	PRP	(S(NP*)	-	-	-	-	(2)	(2)
+ectb_1019	1	50	acting	VBG	(VP*	act	01	2	-	-	-
+ectb_1019	1	51	like	IN	(PP*	-	-	-	-	-	-
+ectb_1019	1	52	a	DT	(NP*	-	-	-	-	-	-
+ectb_1019	1	53	male	JJ	*	-	-	-	-	-	-
+ectb_1019	1	54	chauvinist	NN	*))))))))))))))	-	-	-	-	-	-
+ectb_1019	1	55	.	.	*))	-	-	-	-	-	-
+
+#end document

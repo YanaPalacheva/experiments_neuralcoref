@@ -1,0 +1,63 @@
+#begin document (voa_0129_0); part 000
+voa_0129	0	0	In	IN	(TOP(S(PP*	-	-	-	-	-
+voa_0129	0	1	the	DT	(NP*	-	-	-	-	-
+voa_0129	0	2	Gaza	NNP	*	-	-	-	-	-
+voa_0129	0	3	Strip	NNP	*))	-	-	-	-	-
+voa_0129	0	4	,	,	*	-	-	-	-	-
+voa_0129	0	5	Wednesday	NNP	(NP*)	-	-	-	-	-
+voa_0129	0	6	,	,	*	-	-	-	-	-
+voa_0129	0	7	Israeli	JJ	(NP*	-	-	-	-	-
+voa_0129	0	8	soldiers	NNS	*)	-	-	-	-	-
+voa_0129	0	9	fired	VBD	(VP*	fire	01	1	-	-
+voa_0129	0	10	on	IN	(PP*	-	-	-	-	-
+voa_0129	0	11	armed	JJ	(NP(NP*	-	-	-	-	(1
+voa_0129	0	12	Palestinians	NNPS	*)	-	-	-	-	-
+voa_0129	0	13	trying	VBG	(VP*	try	01	1	-	-
+voa_0129	0	14	to	TO	(S(VP*	-	-	-	-	-
+voa_0129	0	15	cut	VB	(VP*	cut	01	1	-	-
+voa_0129	0	16	through	IN	(PP*	-	-	-	-	-
+voa_0129	0	17	a	DT	(NP*	-	-	-	-	-
+voa_0129	0	18	border	NN	*	border	-	1	-	-
+voa_0129	0	19	fence	NN	*)))))))))	-	-	-	-	1)
+voa_0129	0	20	.	.	*))	-	-	-	-	-
+
+voa_0129	0	0	The	DT	(TOP(S(NP*	-	-	-	-	(0
+voa_0129	0	1	Army	NNP	*)	-	-	-	-	0)
+voa_0129	0	2	says	VBZ	(VP*	say	01	1	-	-
+voa_0129	0	3	it	PRP	(SBAR(S(NP*)	-	-	-	-	(0)
+voa_0129	0	4	may	MD	(VP*	-	-	-	-	-
+voa_0129	0	5	have	VB	(VP*	have	01	-	-	-
+voa_0129	0	6	killed	VBN	(VP*	kill	01	1	-	-
+voa_0129	0	7	two	CD	(NP(NP*)	-	-	-	-	-
+voa_0129	0	8	of	IN	(PP*	-	-	-	-	-
+voa_0129	0	9	them	PRP	(NP*)))))))))	-	-	-	-	(1)
+voa_0129	0	10	.	.	*))	-	-	-	-	-
+
+voa_0129	0	0	ISRAELI	JJ	(TOP(S(S(NP*	-	-	-	-	-
+voa_0129	0	1	radio	NN	*)	-	-	-	-	-
+voa_0129	0	2	said	VBD	(VP*	say	01	1	-	-
+voa_0129	0	3	four	CD	(SBAR(S(NP*	-	-	-	-	-
+voa_0129	0	4	Palestinians	NNPS	*)	-	-	-	-	-
+voa_0129	0	5	were	VBD	(VP*	be	03	-	-	-
+voa_0129	0	6	killed	VBN	(VP*))))))	kill	01	1	-	-
+voa_0129	0	7	,	,	*	-	-	-	-	-
+voa_0129	0	8	but	CC	*	-	-	-	-	-
+voa_0129	0	9	Palestinian	JJ	(S(S(NP*	-	-	-	-	(2
+voa_0129	0	10	security	NN	*	security	-	4	-	-
+voa_0129	0	11	officials	NNS	*)	official	-	1	-	2)
+voa_0129	0	12	deny	VBP	(VP*	deny	01	1	-	-
+voa_0129	0	13	there	EX	(SBAR(S(NP*)	-	-	-	-	-
+voa_0129	0	14	were	VBD	(VP*	be	02	5	-	-
+voa_0129	0	15	any	DT	(NP*	-	-	-	-	-
+voa_0129	0	16	casualties	NNS	*))))))	-	-	-	-	-
+voa_0129	0	17	and	CC	*	-	-	-	-	-
+voa_0129	0	18	they	PRP	(S(NP*)	-	-	-	-	(2)
+voa_0129	0	19	say	VBP	(VP*	say	01	1	-	-
+voa_0129	0	20	no	DT	(SBAR(S(NP*	-	-	-	-	-
+voa_0129	0	21	such	JJ	*	-	-	-	-	-
+voa_0129	0	22	incident	NN	*)	incident	-	2	-	-
+voa_0129	0	23	took	VBD	(VP*	take	14	1	-	-
+voa_0129	0	24	place	NN	(NP*)))))))	place	-	3	-	-
+voa_0129	0	25	.	.	*))	-	-	-	-	-
+
+#end document

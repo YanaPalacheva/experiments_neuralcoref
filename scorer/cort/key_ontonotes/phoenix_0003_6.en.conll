@@ -1,0 +1,998 @@
+#begin document (phoenix_0003_6); part 000
+phoenix_0003	6	0	Judging	VBG	(TOP(SQ(S(VP*	judge	01	2	speaker#3	-
+phoenix_0003	6	1	from	IN	(PP*	-	-	-	speaker#3	-
+phoenix_0003	6	2	the	DT	(NP*	-	-	-	speaker#3	-
+phoenix_0003	6	3	surface	NN	*))))	-	-	-	speaker#3	-
+phoenix_0003	6	4	,	,	*	-	-	-	speaker#3	-
+phoenix_0003	6	5	is	VBZ	*	be	02	3	speaker#3	-
+phoenix_0003	6	6	there	EX	(NP*)	-	-	-	speaker#3	-
+phoenix_0003	6	7	any	DT	(NP(NP*	-	-	-	speaker#3	-
+phoenix_0003	6	8	obvious	JJ	*	-	-	-	speaker#3	-
+phoenix_0003	6	9	difference	NN	*)	-	-	-	speaker#3	-
+phoenix_0003	6	10	between	IN	(PP*	-	-	-	speaker#3	-
+phoenix_0003	6	11	the	DT	(NP(NP*	-	-	-	speaker#3	-
+phoenix_0003	6	12	character	NN	*)	-	-	-	speaker#3	-
+phoenix_0003	6	13	of	IN	(PP*	-	-	-	speaker#3	-
+phoenix_0003	6	14	these	DT	(NP(NP*	-	-	-	speaker#3	(124
+phoenix_0003	6	15	left	VBN	(ADJP*	-	-	-	speaker#3	-
+phoenix_0003	6	16	-	HYPH	*	-	-	-	speaker#3	-
+phoenix_0003	6	17	behind	RB	*)	-	-	-	speaker#3	-
+phoenix_0003	6	18	children	NNS	*)	-	-	-	speaker#3	124)
+phoenix_0003	6	19	and	CC	*	-	-	-	speaker#3	-
+phoenix_0003	6	20	non-left	JJ	(NP(ADJP*	-	-	-	speaker#3	-
+phoenix_0003	6	21	-	HYPH	*	-	-	-	speaker#3	-
+phoenix_0003	6	22	behind	JJ	*)	-	-	-	speaker#3	-
+phoenix_0003	6	23	children	NNS	*))))))	-	-	-	speaker#3	-
+phoenix_0003	6	24	?	.	*))	-	-	-	speaker#3	-
+
+phoenix_0003	6	0	It	PRP	(TOP(S(NP(NP*))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	1	is	VBZ	(VP*	be	01	1	Ye_jingzhong	-
+phoenix_0003	6	2	hard	JJ	(ADJP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	3	to	TO	(S(VP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	4	tell	VB	(VP*	tell	02	2	Ye_jingzhong	-
+phoenix_0003	6	5	from	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	6	the	DT	(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	7	surface	NN	*))))))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	8	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	Why	WRB	(TOP(SBARQ(WHADVP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	1	is	VBZ	(SQ*	be	01	1	Ye_jingzhong	-
+phoenix_0003	6	2	it	PRP	(NP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	3	so	RB	(ADVP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	4	?	.	*)))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	For	IN	(TOP(S(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	1	these	DT	(NP*	-	-	-	Ye_jingzhong	(124
+phoenix_0003	6	2	children	NNS	*))	-	-	-	Ye_jingzhong	124)
+phoenix_0003	6	3	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	4	it	PRP	(NP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	5	depends	VBZ	(VP*	depend	01	1	Ye_jingzhong	-
+phoenix_0003	6	6	on	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	7	how	WRB	(SBAR(WHADVP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	8	long	JJ	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	9	their	PRP$	(S(NP*	-	-	-	Ye_jingzhong	(124)
+phoenix_0003	6	10	parents	NNS	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	11	have	VBP	(VP*	have	01	-	Ye_jingzhong	-
+phoenix_0003	6	12	been	VBN	(VP*	be	03	-	Ye_jingzhong	-
+phoenix_0003	6	13	working	VBG	(VP*	work	01	1	Ye_jingzhong	-
+phoenix_0003	6	14	in	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	15	the	DT	(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	16	city	NN	*)))))))))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	17	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	For	IN	(TOP(S(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	1	example	NN	(NP*))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	2	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	3	some	DT	(NP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	4	have	VBP	(VP*	have	01	-	Ye_jingzhong	-
+phoenix_0003	6	5	just	RB	(ADVP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	6	gone	VBN	(VP*	go	02	1	Ye_jingzhong	-
+phoenix_0003	6	7	for	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	8	a	DT	(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	9	year	NN	*))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	10	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	11	while	IN	(SBAR*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	12	others	NNS	(S(NP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	13	have	VBP	(VP*	have	01	-	Ye_jingzhong	-
+phoenix_0003	6	14	gone	VBN	(VP*	go	02	1	Ye_jingzhong	-
+phoenix_0003	6	15	for	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	16	10	CD	(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	17	years	NNS	*))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	18	already	RB	(ADVP*)))))))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	19	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	In	IN	(TOP(S(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	1	this	DT	(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	2	case	NN	*))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	3	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	4	um	UH	(INTJ*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	5	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	6	generally	RB	(S(ADVP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	7	speaking	VBG	(VP*))	speak	01	1	Ye_jingzhong	-
+phoenix_0003	6	8	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	9	uh	UH	(INTJ*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	10	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	11	we	PRP	(NP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	12	did	VBD	(VP*	do	01	-	Ye_jingzhong	-
+phoenix_0003	6	13	not	RB	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	14	conduct	VB	(VP*	conduct	01	2	Ye_jingzhong	-
+phoenix_0003	6	15	any	DT	(NP(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	16	psychological	JJ	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	17	testing	NN	*	test	-	1	Ye_jingzhong	-
+phoenix_0003	6	18	or	CC	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	19	comparison	NN	*)	comparison	01	1	Ye_jingzhong	-
+phoenix_0003	6	20	in	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	21	this	DT	(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	22	psychological	JJ	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	23	aspect	NN	*)))))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	24	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	However	RB	(TOP(S(ADVP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	1	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	2	many	JJ	(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	3	schools	NNS	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	4	and	CC	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	5	custodians	NNS	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	6	reported	VBD	(VP*	report	01	1	Ye_jingzhong	-
+phoenix_0003	6	7	that	IN	(SBAR*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	8	many	JJ	(S(NP*	-	-	-	Ye_jingzhong	(90
+phoenix_0003	6	9	left	VBN	(ADJP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	10	-	HYPH	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	11	behind	RB	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	12	children	NNS	*)	-	-	-	Ye_jingzhong	90)
+phoenix_0003	6	13	had	VBD	(VP*	have	01	-	Ye_jingzhong	-
+phoenix_0003	6	14	become	VBN	(VP*	become	01	1	Ye_jingzhong	-
+phoenix_0003	6	15	very	RB	(ADJP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	16	withdrawn	JJ	*))))))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	17	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	They	PRP	(TOP(S(NP*)	-	-	-	Ye_jingzhong	(90)
+phoenix_0003	6	1	had	VBD	(VP*	have	03	2	Ye_jingzhong	-
+phoenix_0003	6	2	very	RB	(NP(ADJP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	3	strange	JJ	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	4	um	UH	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	5	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	6	um	UH	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	7	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	8	temperaments	NNS	*))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	9	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	They	PRP	(TOP(S(NP*)	-	-	-	Ye_jingzhong	(90)
+phoenix_0003	6	1	did	VBD	(VP*	do	01	-	Ye_jingzhong	-
+phoenix_0003	6	2	not	RB	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	3	like	VB	(VP*	like	01	1	Ye_jingzhong	-
+phoenix_0003	6	4	to	TO	(S(VP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	5	speak	VB	(VP*)))))	speak	01	1	Ye_jingzhong	-
+phoenix_0003	6	6	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	There	EX	(TOP(S(NP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	1	was	VBD	(VP*	be	02	3	Ye_jingzhong	-
+phoenix_0003	6	2	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	3	a	DT	(NP(NP*	-	-	-	Ye_jingzhong	(63
+phoenix_0003	6	4	child	NN	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	5	who	WP	(SBAR(WHNP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	6	was	VBD	(S(VP*	be	01	4	Ye_jingzhong	-
+phoenix_0003	6	7	in	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	8	the	DT	(NP(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	9	first	JJ	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	10	year	NN	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	11	of	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	12	junior	JJ	(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	13	high	JJ	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	14	school	NN	*)))))))))	-	-	-	Ye_jingzhong	63)
+phoenix_0003	6	15	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	Um	UH	(TOP(S(INTJ*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	1	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	2	um	UH	(INTJ*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	3	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	4	he	PRP	(NP*)	-	-	-	Ye_jingzhong	(63)
+phoenix_0003	6	5	told	VBD	(VP*	tell	01	1	Ye_jingzhong	-
+phoenix_0003	6	6	us	PRP	(NP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	7	himself	PRP	(NP*)	-	-	-	Ye_jingzhong	(63)
+phoenix_0003	6	8	that	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	9	he	PRP	(S(NP*)	-	-	-	Ye_jingzhong	(63)
+phoenix_0003	6	10	particularly	RB	(ADVP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	11	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	12	um	UH	(INTJ*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	13	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	14	um	UH	(INTJ*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	15	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	16	misses	VBZ	(VP*	miss	01	4	Ye_jingzhong	-
+phoenix_0003	6	17	his	PRP$	(NP*	-	-	-	Ye_jingzhong	(50|(63)
+phoenix_0003	6	18	father	NN	*)))))	-	-	-	Ye_jingzhong	50)
+phoenix_0003	6	19	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	He	PRP	(TOP(S(NP*)	-	-	-	Ye_jingzhong	(63)
+phoenix_0003	6	1	was	VBD	(VP*	be	01	1	Ye_jingzhong	-
+phoenix_0003	6	2	very	RB	(ADJP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	3	good	JJ	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	4	at	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	5	school	NN	(NP*))))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	6	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	However	RB	(TOP(S(ADVP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	1	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	2	one	CD	(NP(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	3	time	NN	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	4	we	PRP	(SBAR(S(NP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	5	visited	VBD	(VP*	visit	01	1	Ye_jingzhong	-
+phoenix_0003	6	6	him	PRP	(NP*)))))	-	-	-	Ye_jingzhong	(63)
+phoenix_0003	6	7	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	8	his	PRP$	(NP*	-	-	-	Ye_jingzhong	(63)
+phoenix_0003	6	9	um	UH	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	10	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	11	family	NN	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	12	told	VBD	(VP*	tell	01	1	Ye_jingzhong	-
+phoenix_0003	6	13	us	PRP	(NP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	14	that	IN	(SBAR*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	15	he	PRP	(S(NP*)	-	-	-	Ye_jingzhong	(63)
+phoenix_0003	6	16	was	VBD	(VP*	be	01	1	Ye_jingzhong	-
+phoenix_0003	6	17	second	JJ	(ADJP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	18	in	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	19	his	PRP$	(NP*	-	-	-	Ye_jingzhong	(63)
+phoenix_0003	6	20	class	NN	*)))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	21	in	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	22	his	PRP$	(NP*	-	-	-	Ye_jingzhong	(63)
+phoenix_0003	6	23	examination	NN	*))))))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	24	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	After	IN	(TOP(S(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	1	that	DT	(NP*))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	2	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	3	he	PRP	(NP*)	-	-	-	Ye_jingzhong	(63)
+phoenix_0003	6	4	became	VBD	(VP*	become	01	1	Ye_jingzhong	-
+phoenix_0003	6	5	extremely	RB	(ADJP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	6	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	7	extremely	RB	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	8	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	9	annoyed	JJ	*))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	10	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	Um	UH	(TOP(S(INTJ*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	1	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	2	um	UH	(INTJ*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	3	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	4	um	UH	(INTJ*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	5	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	6	his	PRP$	(NP(NP*	-	-	-	Ye_jingzhong	(63)
+phoenix_0003	6	7	language	NN	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	8	and	CC	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	9	other	JJ	(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	10	things	NNS	*))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	11	became	VBD	(VP*	become	01	1	Ye_jingzhong	-
+phoenix_0003	6	12	very	RB	(ADJP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	13	strange	JJ	*))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	14	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	Um	UH	(TOP(S(INTJ*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	1	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	2	um	UH	(INTJ*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	3	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	4	we	PRP	(NP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	5	also	RB	(ADVP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	6	asked	VBD	(VP*	ask	01	1	Ye_jingzhong	-
+phoenix_0003	6	7	his	PRP$	(NP(NP*	-	-	-	Ye_jingzhong	(120|(63)
+phoenix_0003	6	8	um	UH	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	9	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	10	um	UH	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	11	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	12	grandparents	NNS	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	13	who	WP	(SBAR(WHNP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	14	had	VBD	(S(VP*	have	03	2	Ye_jingzhong	-
+phoenix_0003	6	15	custody	NN	(NP(NP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	16	of	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	17	him	PRP	(NP*))))))))	-	-	-	Ye_jingzhong	(63)|120)
+phoenix_0003	6	18	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	They	PRP	(TOP(S(NP*)	-	-	-	Ye_jingzhong	(120)
+phoenix_0003	6	1	said	VBD	(VP*	say	01	1	Ye_jingzhong	-
+phoenix_0003	6	2	that	IN	(SBAR*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	3	when	WRB	(S(SBAR(WHADVP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	4	his	PRP$	(S(NP*	-	-	-	Ye_jingzhong	(50|(63)
+phoenix_0003	6	5	father	NN	*)	-	-	-	Ye_jingzhong	50)
+phoenix_0003	6	6	was	VBD	(VP*	be	01	4	Ye_jingzhong	-
+phoenix_0003	6	7	home	RB	(ADVP*))))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	8	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	9	he	PRP	(NP*)	-	-	-	Ye_jingzhong	(50)
+phoenix_0003	6	10	would	MD	(VP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	11	always	RB	(ADVP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	12	encourage	VB	(VP(VP*	encourage	01	2	Ye_jingzhong	-
+phoenix_0003	6	13	him	PRP	(NP*))	-	-	-	Ye_jingzhong	(63)
+phoenix_0003	6	14	and	CC	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	15	um	UH	(INTJ*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	16	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	17	exchange	VB	(VP*	exchange	01	1	Ye_jingzhong	-
+phoenix_0003	6	18	with	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	19	him	PRP	(NP*))))))))	-	-	-	Ye_jingzhong	(63)
+phoenix_0003	6	20	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	Um	UH	(TOP(S(INTJ*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	1	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	2	of	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	3	course	NN	(NP*))	course	-	13	Ye_jingzhong	-
+phoenix_0003	6	4	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	5	it	PRP	(NP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	6	was	VBD	(VP*	be	01	1	Ye_jingzhong	-
+phoenix_0003	6	7	not	RB	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	8	necessarily	RB	(ADVP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	9	because	IN	(SBAR*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	10	his	PRP$	(S(NP*	-	-	-	Ye_jingzhong	(63)
+phoenix_0003	6	11	parents	NNS	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	12	worked	VBD	(VP*	work	01	1	Ye_jingzhong	-
+phoenix_0003	6	13	in	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	14	the	DT	(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	15	city	NN	*))))))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	16	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	However	RB	(TOP(S(ADVP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	1	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	2	for	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	3	some	DT	(NP*	-	-	-	Ye_jingzhong	(26
+phoenix_0003	6	4	left	VBN	(ADJP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	5	-	HYPH	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	6	behind	RB	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	7	children	NNS	*))	-	-	-	Ye_jingzhong	26)
+phoenix_0003	6	8	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	9	their	PRP$	(NP(NP*	-	-	-	Ye_jingzhong	(26)
+phoenix_0003	6	10	parents	NNS	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	11	working	VBG	(VP*	work	01	1	Ye_jingzhong	-
+phoenix_0003	6	12	in	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	13	the	DT	(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	14	city	NN	*))))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	15	has	VBZ	(VP*	have	01	-	Ye_jingzhong	-
+phoenix_0003	6	16	caused	VBN	(VP*	cause	01	1	Ye_jingzhong	-
+phoenix_0003	6	17	some	DT	(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	18	psychological	JJ	(NML(NML*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	19	abnormalities	NNS	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	20	and	CC	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	21	unusual	JJ	(NML*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	22	development	NN	*)))))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	23	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	This	DT	(TOP(S(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	1	situation	NN	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	2	indeed	RB	(ADVP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	3	exists	VBZ	(VP*)	exist	01	1	Ye_jingzhong	-
+phoenix_0003	6	4	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	After	RB	(TOP(S(ADVP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	1	all	RB	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	2	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	3	these	DT	(NP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	4	are	VBP	(VP*	be	01	1	Ye_jingzhong	-
+phoenix_0003	6	5	families	NNS	(NP(NP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	6	whose	WP$	(SBAR(WHNP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	7	love	NN	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	8	is	VBZ	(S(VP*	be	01	1	Ye_jingzhong	-
+phoenix_0003	6	9	inadequate	JJ	(ADJP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	10	and	CC	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	11	incomplete	JJ	*))))))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	12	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	I	PRP	(TOP(S(NP*)	-	-	-	Ye_jingzhong	(103)
+phoenix_0003	6	1	believe	VBP	(VP*	believe	01	2	Ye_jingzhong	-
+phoenix_0003	6	2	love	NN	(SBAR(S(NP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	3	is	VBZ	(VP*	be	01	1	Ye_jingzhong	-
+phoenix_0003	6	4	especially	RB	(ADJP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	5	important	JJ	*)))))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	6	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	Children	NNS	(TOP(S(NP*)	-	-	-	Ye_jingzhong	(51)
+phoenix_0003	6	1	need	VBP	(VP*	need	-	1	Ye_jingzhong	-
+phoenix_0003	6	2	love	NN	(NP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	3	from	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	4	the	DT	(NP(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	5	time	NN	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	6	they	PRP	(SBAR(S(NP*)	-	-	-	Ye_jingzhong	(51)
+phoenix_0003	6	7	are	VBP	(VP*	be	01	1	Ye_jingzhong	-
+phoenix_0003	6	8	small	JJ	(ADJP*)))))))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	9	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	We	PRP	(TOP(S(NP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	1	have	VBP	(VP*	have	02	12	Ye_jingzhong	-
+phoenix_0003	6	2	to	TO	(S(VP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	3	understand	VB	(VP*	understand	01	1	Ye_jingzhong	-
+phoenix_0003	6	4	our	PRP$	(NP(NP*	-	-	-	Ye_jingzhong	(49
+phoenix_0003	6	5	Chinese	JJ	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	6	saying	NN	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	7	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	8	"	``	(S*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	9	The	DT	(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	10	child	NN	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	11	is	VBZ	(VP*	be	01	2	Ye_jingzhong	-
+phoenix_0003	6	12	father	NN	(NP(NP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	13	to	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	14	the	DT	(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	15	man	NN	*))))))))))	-	-	-	Ye_jingzhong	49)
+phoenix_0003	6	16	.	.	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	17	"	''	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	What	WP	(TOP(S(SBAR(WHNP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	1	it	PRP	(S(NP*)	-	-	-	Ye_jingzhong	(49)
+phoenix_0003	6	2	says	VBZ	(VP*)))	say	01	1	Ye_jingzhong	-
+phoenix_0003	6	3	is	VBZ	(VP*	be	01	2	Ye_jingzhong	-
+phoenix_0003	6	4	that	IN	(SBAR*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	5	the	DT	(S(NP(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	6	character	NN	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	7	that	WDT	(SBAR(WHNP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	8	children	NNS	(S(NP*)	-	-	-	Ye_jingzhong	(92)
+phoenix_0003	6	9	form	VBP	(VP*	form	01	5	Ye_jingzhong	-
+phoenix_0003	6	10	at	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	11	a	DT	(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	12	very	RB	(ADJP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	13	young	JJ	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	14	age	NN	*))))))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	15	will	MD	(VP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	16	affect	VB	(VP*	affect	01	1	Ye_jingzhong	-
+phoenix_0003	6	17	their	PRP$	(NP*	-	-	-	Ye_jingzhong	(92)
+phoenix_0003	6	18	entire	JJ	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	19	life	NN	*))))))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	20	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	Only	JJ	(TOP(S(NP(NP*	-	-	-	Ye_jingzhong	(70
+phoenix_0003	6	1	children	NNS	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	2	who	WP	(SBAR(SBAR(WHNP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	3	are	VBP	(S(VP*	be	03	-	Ye_jingzhong	-
+phoenix_0003	6	4	loved	VBN	(VP*))))	love	01	-	Ye_jingzhong	-
+phoenix_0003	6	5	and	CC	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	6	who	WP	(SBAR(WHNP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	7	realize	VBP	(S(VP*	realize	01	1	Ye_jingzhong	-
+phoenix_0003	6	8	the	DT	(NP(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	9	importance	NN	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	10	of	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	11	love	NN	(NP*)))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	12	since	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	13	they	PRP	(S(NP*)	-	-	-	Ye_jingzhong	(70)
+phoenix_0003	6	14	are	VBP	(VP*	be	01	1	Ye_jingzhong	-
+phoenix_0003	6	15	young	JJ	(ADJP*)))))))))	-	-	-	Ye_jingzhong	70)
+phoenix_0003	6	16	will	MD	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	17	be	VB	(VP*	be	01	1	Ye_jingzhong	-
+phoenix_0003	6	18	able	JJ	(ADJP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	19	to	TO	(S(VP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	20	love	VB	(VP*	love	01	1	Ye_jingzhong	-
+phoenix_0003	6	21	other	JJ	(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	22	people	NNS	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	23	in	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	24	the	DT	(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	25	future	NN	*)))))))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	26	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	This	DT	(TOP(S(NP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	1	is	VBZ	(VP*	be	01	2	Ye_jingzhong	-
+phoenix_0003	6	2	the	DT	(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	3	case	NN	*))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	4	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	Therefore	RB	(TOP(S(ADVP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	1	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	2	for	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	3	this	DT	(NP(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	4	type	NN	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	5	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	6	um	UH	(INTJ*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	7	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	8	um	UH	(INTJ*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	9	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	10	um	UH	(INTJ*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	11	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	12	this	DT	(NP(NP*	-	-	-	Ye_jingzhong	(132
+phoenix_0003	6	13	group	NN	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	14	of	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	15	left	VBN	(NP(ADJP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	16	-	HYPH	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	17	behind	RB	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	18	children	NNS	*)))))	-	-	-	Ye_jingzhong	132)
+phoenix_0003	6	19	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	20	psychologically	RB	(ADVP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	21	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	22	they	PRP	(NP*)	-	-	-	Ye_jingzhong	(132)
+phoenix_0003	6	23	do	VBP	(VP*	do	01	-	Ye_jingzhong	-
+phoenix_0003	6	24	not	RB	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	25	have	VB	(VP*	have	03	2	Ye_jingzhong	-
+phoenix_0003	6	26	family	NN	(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	27	love	NN	*)))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	28	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	Um	UH	(TOP(S(INTJ*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	1	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	2	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	3	if	IN	(SBAR*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	4	the	DT	(S(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	5	parents	NNS	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	6	work	VBP	(VP*	work	01	1	Ye_jingzhong	-
+phoenix_0003	6	7	in	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	8	the	DT	(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	9	city	NN	*)))))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	10	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	11	these	DT	(NP*	-	-	-	Ye_jingzhong	(132
+phoenix_0003	6	12	children	NNS	*)	-	-	-	Ye_jingzhong	132)
+phoenix_0003	6	13	perhaps	RB	(ADVP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	14	will	MD	(VP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	15	not	RB	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	16	receive	VB	(VP*	receive	01	1	Ye_jingzhong	-
+phoenix_0003	6	17	timely	JJ	(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	18	attention	NN	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	19	when	WRB	(SBAR(WHADVP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	20	they	PRP	(S(NP*)	-	-	-	Ye_jingzhong	(132)
+phoenix_0003	6	21	encounter	VBP	(VP*	encounter	01	2	Ye_jingzhong	-
+phoenix_0003	6	22	many	JJ	(NP(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	23	difficulties	NNS	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	24	at	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	25	home	NN	(NP*))))))))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	26	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	Perhaps	RB	(TOP(S(ADVP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	1	the	DT	(NP(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	2	neighbors	NNS	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	3	around	RB	(ADVP*))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	4	are	VBP	(VP(VP*	be	03	-	Ye_jingzhong	-
+phoenix_0003	6	5	all	DT	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	6	facing	VBG	(VP*	face	01	1	Ye_jingzhong	-
+phoenix_0003	6	7	different	JJ	(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	8	realities	NNS	*)))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	9	and	CC	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	10	can	MD	(VP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	11	not	RB	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	12	offer	VB	(VP*	offer	01	3	Ye_jingzhong	-
+phoenix_0003	6	13	them	PRP	(NP*)	-	-	-	Ye_jingzhong	(132)
+phoenix_0003	6	14	timely	JJ	(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	15	love	NN	*))))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	16	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	Under	IN	(TOP(S(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	1	this	DT	(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	2	situation	NN	*))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	3	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	4	I	PRP	(PRN(S(S(NP*)	-	-	-	Ye_jingzhong	(103)
+phoenix_0003	6	5	believe	VBP	(VP*))	believe	01	1	Ye_jingzhong	-
+phoenix_0003	6	6	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	7	I	PRP	(S(NP*)	-	-	-	Ye_jingzhong	(103)
+phoenix_0003	6	8	am	VBP	(VP*	be	01	1	Ye_jingzhong	-
+phoenix_0003	6	9	not	RB	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	10	sure	JJ	(ADJP*)))))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	11	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	12	um	UH	(INTJ*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	13	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	14	I	PRP	(NP*)	-	-	-	Ye_jingzhong	(103)
+phoenix_0003	6	15	am	VBP	(VP*	be	01	1	Ye_jingzhong	-
+phoenix_0003	6	16	unwilling	JJ	(ADJP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	17	to	TO	(S(VP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	18	imagine	VB	(VP*	imagine	01	2	Ye_jingzhong	-
+phoenix_0003	6	19	what	WDT	(SBAR(WHNP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	20	mentality	NN	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	21	and	CC	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	22	character	NN	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	23	these	DT	(S(NP*	-	-	-	Ye_jingzhong	(132
+phoenix_0003	6	24	children	NNS	*)	-	-	-	Ye_jingzhong	132)
+phoenix_0003	6	25	will	MD	(VP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	26	develop	VB	(VP*	develop	01	2	Ye_jingzhong	-
+phoenix_0003	6	27	when	WRB	(SBAR(WHADVP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	28	they	PRP	(S(NP*)	-	-	-	Ye_jingzhong	(132)
+phoenix_0003	6	29	grow	VBP	(VP*	grow	04	3	Ye_jingzhong	-
+phoenix_0003	6	30	up	RP	(PRT*)))))))))))))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	31	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	Will	MD	(TOP(SQ*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	1	they	PRP	(NP*)	-	-	-	Ye_jingzhong	(132)
+phoenix_0003	6	2	believe	VB	(VP*	believe	01	2	Ye_jingzhong	-
+phoenix_0003	6	3	there	EX	(SBAR(S(S(NP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	4	is	VBZ	(VP*	be	02	3	Ye_jingzhong	-
+phoenix_0003	6	5	love	NN	(NP(NP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	6	in	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	7	society	NN	(NP*)))))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	8	or	CC	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	9	not	RB	*)))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	10	?	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	Will	MD	(TOP(SQ*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	1	they	PRP	(NP*)	-	-	-	Ye_jingzhong	(132)
+phoenix_0003	6	2	think	VB	(VP*	think	01	1	Ye_jingzhong	-
+phoenix_0003	6	3	that	IN	(SBAR*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	4	love	NN	(S(S(NP*)	-	-	-	Ye_jingzhong	(73)
+phoenix_0003	6	5	is	VBZ	(VP*	be	01	1	Ye_jingzhong	-
+phoenix_0003	6	6	important	JJ	(ADJP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	7	in	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	8	society	NN	(NP*)))))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	9	or	CC	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	10	not	RB	*))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	11	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	12	because	IN	(SBAR*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	13	they	PRP	(S(NP*)	-	-	-	Ye_jingzhong	(132)
+phoenix_0003	6	14	have	VBP	(VP*	have	01	-	Ye_jingzhong	-
+phoenix_0003	6	15	never	RB	(ADVP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	16	experienced	VBN	(VP*	experience	01	1	Ye_jingzhong	-
+phoenix_0003	6	17	it	PRP	(NP*))))))	-	-	-	Ye_jingzhong	(73)
+phoenix_0003	6	18	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	They	PRP	(TOP(S(NP*)	-	-	-	Ye_jingzhong	(132)
+phoenix_0003	6	1	have	VBP	(VP*	have	01	-	Ye_jingzhong	-
+phoenix_0003	6	2	never	RB	(ADVP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	3	completely	RB	(ADVP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	4	experienced	VBN	(VP*	experience	01	1	Ye_jingzhong	-
+phoenix_0003	6	5	it	PRP	(NP*)))	-	-	-	Ye_jingzhong	(73)
+phoenix_0003	6	6	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	Thus	RB	(TOP(S(ADVP*)	-	-	-	Ye_jingzhong	*	*
+phoenix_0003	6	1	,	,	*	-	-	-	Ye_jingzhong	*	*
+phoenix_0003	6	2	if	IN	(SBAR*	-	-	-	Ye_jingzhong	*	*
+phoenix_0003	6	3	such	PDT	(S(NP(NP*	-	-	-	Ye_jingzhong	*	*
+phoenix_0003	6	4	a	DT	*	-	-	-	Ye_jingzhong	*	*
+phoenix_0003	6	5	large	JJ	*	-	-	-	Ye_jingzhong	*	*
+phoenix_0003	6	6	group	NN	*)	-	-	-	Ye_jingzhong	*	*
+phoenix_0003	6	7	in	IN	(PP*	-	-	-	Ye_jingzhong	*	*
+phoenix_0003	6	8	society	NN	(NP*)))	-	-	-	Ye_jingzhong	*	*
+phoenix_0003	6	9	does	VBZ	(VP*	do	01	-	Ye_jingzhong	*	*
+phoenix_0003	6	10	not	RB	*	-	-	-	Ye_jingzhong	*	*
+phoenix_0003	6	11	realize	VB	(VP*	realize	01	1	Ye_jingzhong	*	*
+phoenix_0003	6	12	that	IN	(SBAR*	-	-	-	Ye_jingzhong	*	*
+phoenix_0003	6	13	love	NN	(S(NP*)	-	-	-	Ye_jingzhong	*	*
+phoenix_0003	6	14	should	MD	(VP*	-	-	-	Ye_jingzhong	*	*
+phoenix_0003	6	15	be	VB	(VP*	be	03	-	Ye_jingzhong	*	*
+phoenix_0003	6	16	,	,	*	-	-	-	Ye_jingzhong	*	*
+phoenix_0003	6	17	um	UH	(INTJ*)	-	-	-	Ye_jingzhong	*	*
+phoenix_0003	6	18	,	,	*	-	-	-	Ye_jingzhong	*	*
+phoenix_0003	6	19	given	VBN	(VP*	give	01	-	Ye_jingzhong	*	*
+phoenix_0003	6	20	or	CC	*	-	-	-	Ye_jingzhong	*	*
+phoenix_0003	6	21	received	VBN	*	receive	01	-	Ye_jingzhong	*	*
+phoenix_0003	6	22	in	IN	(PP*	-	-	-	Ye_jingzhong	*	*
+phoenix_0003	6	23	society	NN	(NP*)))))))))))	-	-	-	Ye_jingzhong	*	*
+phoenix_0003	6	24	,	,	*	-	-	-	Ye_jingzhong	*	*
+phoenix_0003	6	25	I	PRP	(NP*)	-	-	-	Ye_jingzhong	*	*
+phoenix_0003	6	26	think	VBP	(VP*	think	01	1	Ye_jingzhong	*	*
+phoenix_0003	6	27	this	DT	(SBAR(S(NP*)	-	-	-	Ye_jingzhong	*	*
+phoenix_0003	6	28	is	VBZ	(VP*	be	01	1	Ye_jingzhong	*	*
+phoenix_0003	6	29	,	,	*	-	-	-	Ye_jingzhong	*	*
+phoenix_0003	6	30	something	NN	(NP(NP*)	-	-	-	Ye_jingzhong	(ARG1*)	(ARG1*)
+phoenix_0003	6	31	that	WDT	(SBAR(WHNP*)	-	-	-	Ye_jingzhong	(R-ARG1*)	(R-ARG1*)
+phoenix_0003	6	32	I	PRP	(S(NP*)	-	-	-	Ye_jingzhong	(ARG0*)	(ARG0*)
+phoenix_0003	6	33	do	VBP	(VP*	do	01	-	Ye_jingzhong	*	*
+phoenix_0003	6	34	not	RB	*	-	-	-	Ye_jingzhong	*	*
+phoenix_0003	6	35	want	VB	(VP*	want	01	1	Ye_jingzhong	*	*
+phoenix_0003	6	36	to	TO	(S(VP*	-	-	-	Ye_jingzhong	*	*
+phoenix_0003	6	37	imagine	VB	(VP*))))))))))))	imagine	01	1	Ye_jingzhong	(V*)	(V*)
+phoenix_0003	6	38	.	.	*))	-	-	-	Ye_jingzhong	*	*
+
+phoenix_0003	6	0	Despite	IN	(TOP(S(PP*	-	-	-	speaker#1	-
+phoenix_0003	6	1	the	DT	(NP(NP(NP*	-	-	-	speaker#1	-
+phoenix_0003	6	2	guarantee	NN	*)	-	-	-	speaker#1	-
+phoenix_0003	6	3	in	IN	(PP*	-	-	-	speaker#1	-
+phoenix_0003	6	4	food	NN	(NP*	-	-	-	speaker#1	-
+phoenix_0003	6	5	,	,	*	-	-	-	speaker#1	-
+phoenix_0003	6	6	clothing	NN	*	-	-	-	speaker#1	-
+phoenix_0003	6	7	,	,	*	-	-	-	speaker#1	-
+phoenix_0003	6	8	and	CC	*	-	-	-	speaker#1	-
+phoenix_0003	6	9	school	NN	*)))	-	-	-	speaker#1	-
+phoenix_0003	6	10	that	WDT	(SBAR(WHNP*)	-	-	-	speaker#1	-
+phoenix_0003	6	11	left	VBN	(S(NP(ADJP*	-	-	-	speaker#1	(65
+phoenix_0003	6	12	-	HYPH	*	-	-	-	speaker#1	-
+phoenix_0003	6	13	behind	RB	*)	-	-	-	speaker#1	-
+phoenix_0003	6	14	children	NNS	*)	-	-	-	speaker#1	65)
+phoenix_0003	6	15	get	VBP	(VP*	get	01	1	speaker#1	-
+phoenix_0003	6	16	because	IN	(SBAR*	-	-	-	speaker#1	-
+phoenix_0003	6	17	their	PRP$	(S(NP*	-	-	-	speaker#1	(65)
+phoenix_0003	6	18	parents	NNS	*)	-	-	-	speaker#1	-
+phoenix_0003	6	19	work	VBP	(VP*	work	01	1	speaker#1	-
+phoenix_0003	6	20	in	IN	(PP*	-	-	-	speaker#1	-
+phoenix_0003	6	21	the	DT	(NP*	-	-	-	speaker#1	-
+phoenix_0003	6	22	city	NN	*))	-	-	-	speaker#1	-
+phoenix_0003	6	23	to	TO	(S(VP*	-	-	-	speaker#1	-
+phoenix_0003	6	24	make	VB	(VP*	make	05	7	speaker#1	-
+phoenix_0003	6	25	money	NN	(NP*))))))))))))	-	-	-	speaker#1	-
+phoenix_0003	6	26	,	,	*	-	-	-	speaker#1	-
+phoenix_0003	6	27	they	PRP	(NP*)	-	-	-	speaker#1	(65)
+phoenix_0003	6	28	do	VBP	(VP*	do	01	-	speaker#1	-
+phoenix_0003	6	29	not	RB	*	-	-	-	speaker#1	-
+phoenix_0003	6	30	have	VB	(VP*	have	03	4	speaker#1	-
+phoenix_0003	6	31	the	DT	(NP(NP*	-	-	-	speaker#1	-
+phoenix_0003	6	32	psychological	JJ	(ADJP*	-	-	-	speaker#1	-
+phoenix_0003	6	33	and	CC	*	-	-	-	speaker#1	-
+phoenix_0003	6	34	physiological	JJ	*)	-	-	-	speaker#1	-
+phoenix_0003	6	35	satisfaction	NN	*)	-	-	-	speaker#1	-
+phoenix_0003	6	36	that	WDT	(SBAR(WHNP*)	-	-	-	speaker#1	-
+phoenix_0003	6	37	they	PRP	(S(NP*)	-	-	-	speaker#1	(65)
+phoenix_0003	6	38	require	VBP	(VP*))))))	require	01	1	speaker#1	-
+phoenix_0003	6	39	.	.	*))	-	-	-	speaker#1	-
+
+phoenix_0003	6	0	According	VBG	(TOP(S(PP*	-	-	-	speaker#1	-
+phoenix_0003	6	1	to	IN	(PP*	-	-	-	speaker#1	-
+phoenix_0003	6	2	the	DT	(NP*	-	-	-	speaker#1	-
+phoenix_0003	6	3	survey	NN	*)))	-	-	-	speaker#1	-
+phoenix_0003	6	4	,	,	*	-	-	-	speaker#1	-
+phoenix_0003	6	5	more	JJR	(NP(NP(QP*	-	-	-	speaker#1	(45
+phoenix_0003	6	6	than	IN	*	-	-	-	speaker#1	-
+phoenix_0003	6	7	half	PDT	*))	-	-	-	speaker#1	-
+phoenix_0003	6	8	of	IN	(PP*	-	-	-	speaker#1	-
+phoenix_0003	6	9	the	DT	(NP*	-	-	-	speaker#1	-
+phoenix_0003	6	10	left	VBN	(ADJP*	-	-	-	speaker#1	-
+phoenix_0003	6	11	-	HYPH	*	-	-	-	speaker#1	-
+phoenix_0003	6	12	behind	RB	*)	-	-	-	speaker#1	-
+phoenix_0003	6	13	children	NNS	*)))	-	-	-	speaker#1	45)
+phoenix_0003	6	14	were	VBD	(VP*	be	01	-	speaker#1	-
+phoenix_0003	6	15	dissatisfied	VBN	(VP*	dissatisfy	01	-	speaker#1	-
+phoenix_0003	6	16	with	IN	(PP*	-	-	-	speaker#1	-
+phoenix_0003	6	17	their	PRP$	(NP*	-	-	-	speaker#1	(45)
+phoenix_0003	6	18	current	JJ	*	-	-	-	speaker#1	-
+phoenix_0003	6	19	life	NN	*))))	-	-	-	speaker#1	-
+phoenix_0003	6	20	.	.	*))	-	-	-	speaker#1	-
+
+phoenix_0003	6	0	58	CD	(TOP(S(NP(NP*	-	-	-	speaker#1	(59
+phoenix_0003	6	1	percent	NN	*)	-	-	-	speaker#1	-
+phoenix_0003	6	2	of	IN	(PP*	-	-	-	speaker#1	-
+phoenix_0003	6	3	the	DT	(NP*	-	-	-	speaker#1	-
+phoenix_0003	6	4	left	VBN	(ADJP*	-	-	-	speaker#1	-
+phoenix_0003	6	5	-	HYPH	*	-	-	-	speaker#1	-
+phoenix_0003	6	6	behind	RB	*)	-	-	-	speaker#1	-
+phoenix_0003	6	7	children	NNS	*)))	-	-	-	speaker#1	59)
+phoenix_0003	6	8	believed	VBD	(VP*	believe	01	1	speaker#1	-
+phoenix_0003	6	9	that	IN	(SBAR*	-	-	-	speaker#1	-
+phoenix_0003	6	10	they	PRP	(S(NP*)	-	-	-	speaker#1	(59)
+phoenix_0003	6	11	were	VBD	(VP*	be	01	1	speaker#1	-
+phoenix_0003	6	12	unhappy	JJ	(ADJP*)))))	-	-	-	speaker#1	-
+phoenix_0003	6	13	.	.	*))	-	-	-	speaker#1	-
+
+phoenix_0003	6	0	Are	VBP	(TOP(SQ*	be	01	1	speaker#3	-
+phoenix_0003	6	1	the	DT	(NP*	-	-	-	speaker#3	(84
+phoenix_0003	6	2	parents	NNS	*)	-	-	-	speaker#3	84)
+phoenix_0003	6	3	worried	JJ	(ADJP*	-	-	-	speaker#3	-
+phoenix_0003	6	4	about	IN	(PP*	-	-	-	speaker#3	-
+phoenix_0003	6	5	leaving	VBG	(S(VP*	leave	01	2	speaker#3	-
+phoenix_0003	6	6	their	PRP$	(NP*	-	-	-	speaker#3	(101|(84)
+phoenix_0003	6	7	children	NNS	*)	-	-	-	speaker#3	101)
+phoenix_0003	6	8	at	IN	(PP*	-	-	-	speaker#3	-
+phoenix_0003	6	9	home	NN	(NP*))	-	-	-	speaker#3	-
+phoenix_0003	6	10	by	IN	(PP*	-	-	-	speaker#3	-
+phoenix_0003	6	11	themselves	PRP	(NP*))))))	-	-	-	speaker#3	(101)
+phoenix_0003	6	12	?	.	*))	-	-	-	speaker#3	-
+
+phoenix_0003	6	0	Do	VBP	(TOP(SQ*	do	01	-	speaker#3	-
+phoenix_0003	6	1	they	PRP	(NP*)	-	-	-	speaker#3	(84)
+phoenix_0003	6	2	understand	VB	(VP*	understand	01	1	speaker#3	-
+phoenix_0003	6	3	the	DT	(NP(NP*	-	-	-	speaker#3	-
+phoenix_0003	6	4	living	NN	*	-	-	-	speaker#3	-
+phoenix_0003	6	5	conditions	NNS	*)	-	-	-	speaker#3	-
+phoenix_0003	6	6	of	IN	(PP*	-	-	-	speaker#3	-
+phoenix_0003	6	7	their	PRP$	(NP(NP*	-	-	-	speaker#3	(101|(84)
+phoenix_0003	6	8	children	NNS	*)	-	-	-	speaker#3	101)
+phoenix_0003	6	9	at	IN	(PP*	-	-	-	speaker#3	-
+phoenix_0003	6	10	home	NN	(NP*))))))	-	-	-	speaker#3	-
+phoenix_0003	6	11	?	.	*))	-	-	-	speaker#3	-
+
+phoenix_0003	6	0	They	PRP	(TOP(S(NP*)	-	-	-	Ye_jingzhong	(84)
+phoenix_0003	6	1	thought	VBD	(VP*	think	01	1	Ye_jingzhong	-
+phoenix_0003	6	2	that	IN	(SBAR*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	3	this	DT	(S(NP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	4	was	VBD	(VP*	be	01	1	Ye_jingzhong	-
+phoenix_0003	6	5	a	DT	(NP(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	6	reality	NN	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	7	that	WDT	(SBAR(WHNP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	8	they	PRP	(S(NP*)	-	-	-	Ye_jingzhong	(84)
+phoenix_0003	6	9	could	MD	(VP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	10	not	RB	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	11	um	UH	(INTJ*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	12	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	13	um	UH	(INTJ*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	14	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	15	face	VB	(VP*)))))))))	face	01	1	Ye_jingzhong	-
+phoenix_0003	6	16	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	They	PRP	(TOP(S(NP*)	-	-	-	Ye_jingzhong	(84)
+phoenix_0003	6	1	were	VBD	(VP*	be	03	-	Ye_jingzhong	-
+phoenix_0003	6	2	condemned	VBN	(VP*	condemn	01	2	Ye_jingzhong	-
+phoenix_0003	6	3	to	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	4	this	DT	(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	5	reality	NN	*))))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	6	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	No	RB	(TOP(S(ADVP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	1	doubt	RB	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	2	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	3	I	PRP	(NP*)	-	-	-	Ye_jingzhong	(103)
+phoenix_0003	6	4	think	VBP	(VP*	think	01	1	Ye_jingzhong	-
+phoenix_0003	6	5	some	DT	(SBAR(S(NP*	-	-	-	Ye_jingzhong	(75
+phoenix_0003	6	6	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	7	um	UH	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	8	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	9	parents	NNS	*)	-	-	-	Ye_jingzhong	75)
+phoenix_0003	6	10	have	VBP	(VP*	have	01	-	Ye_jingzhong	-
+phoenix_0003	6	11	not	RB	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	12	had	VBN	(VP*	have	03	4	Ye_jingzhong	-
+phoenix_0003	6	13	such	JJ	(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	14	profound	JJ	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	15	consideration	NN	*))))))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	16	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	Why	WRB	(TOP(SBARQ(WHADVP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	1	do	VB	(SQ(VP*)	do	01	-	Ye_jingzhong	-
+phoenix_0003	6	2	n't	RB	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	3	they	PRP	(NP*))	-	-	-	Ye_jingzhong	(75)
+phoenix_0003	6	4	?	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	I	PRP	(TOP(S(NP*)	-	-	-	Ye_jingzhong	(103)
+phoenix_0003	6	1	believe	VBP	(VP*	believe	01	2	Ye_jingzhong	-
+phoenix_0003	6	2	people	NNS	(SBAR(S(NP*)	-	-	-	Ye_jingzhong	(125)
+phoenix_0003	6	3	are	VBP	(VP*	be	01	1	Ye_jingzhong	-
+phoenix_0003	6	4	all	DT	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	5	the	DT	(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	6	same	JJ	*)))))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	7	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	If	IN	(TOP(S(SBAR*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	1	they	PRP	(S(NP*)	-	-	-	Ye_jingzhong	(125)
+phoenix_0003	6	2	face	VBP	(VP*	face	01	1	Ye_jingzhong	-
+phoenix_0003	6	3	such	PDT	(NP(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	4	an	DT	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	5	urgent	JJ	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	6	need	NN	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	7	for	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	8	a	DT	(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	9	livelihood	NN	*))))))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	10	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	11	their	PRP$	(NP*	-	-	-	Ye_jingzhong	(125)
+phoenix_0003	6	12	first	JJ	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	13	consideration	NN	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	14	will	MD	(VP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	15	be	VB	(VP*	be	01	2	Ye_jingzhong	-
+phoenix_0003	6	16	the	DT	(NP(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	17	need	NN	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	18	for	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	19	a	DT	(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	20	livelihood	NN	*)))))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	21	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	They	PRP	(TOP(S(NP*)	-	-	-	Ye_jingzhong	(125)
+phoenix_0003	6	1	can	MD	(VP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	2	not	RB	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	3	consider	VB	(VP*	consider	01	4	Ye_jingzhong	-
+phoenix_0003	6	4	the	DT	(NP(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	5	deeper	JJR	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	6	issue	NN	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	7	of	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	8	children	NNS	(NP(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	9	's	POS	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	10	safety	NN	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	11	and	CC	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	12	psychology	NN	*)))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	13	when	WRB	(SBAR(WHADVP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	14	their	PRP$	(S(NP*	-	-	-	Ye_jingzhong	(125)
+phoenix_0003	6	15	livelihood	NN	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	16	has	VBZ	(VP*	have	01	-	Ye_jingzhong	-
+phoenix_0003	6	17	not	RB	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	18	been	VBN	(VP*	be	03	-	Ye_jingzhong	-
+phoenix_0003	6	19	solved	VBN	(VP*	solve	01	-	Ye_jingzhong	-
+phoenix_0003	6	20	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	21	satisfied	VBN	*	satisfy	01	1	Ye_jingzhong	-
+phoenix_0003	6	22	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	23	and	CC	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	24	guaranteed	VBN	*)))))))	guarantee	01	-	Ye_jingzhong	-
+phoenix_0003	6	25	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	For	IN	(TOP(S(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	1	example	NN	(NP*))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	2	,	,	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	3	there	EX	(NP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	4	were	VBD	(VP*	be	02	3	Ye_jingzhong	-
+phoenix_0003	6	5	two	CD	(NP(NP*	-	-	-	Ye_jingzhong	(54
+phoenix_0003	6	6	sisters	NNS	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	7	who	WP	(SBAR(WHNP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	8	lived	VBD	(S(VP*	live	01	2	Ye_jingzhong	-
+phoenix_0003	6	9	in	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	10	a	DT	(NP(NP*	-	-	-	Ye_jingzhong	(96
+phoenix_0003	6	11	cave	NN	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	12	dwelling	NN	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	13	in	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	14	Shaanxi	NNP	(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	15	province	NN	*)))))))))	-	-	-	Ye_jingzhong	96)|54)
+phoenix_0003	6	16	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	Many	JJ	(TOP(S(NP(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	1	people	NNS	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	2	whom	WP	(SBAR(WHNP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	3	we	PRP	(S(NP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	4	interviewed	VBD	(VP*))))	interview	01	1	Ye_jingzhong	-
+phoenix_0003	6	5	lived	VBD	(VP*	live	01	2	Ye_jingzhong	-
+phoenix_0003	6	6	in	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	7	cave	NN	(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	8	dwellings	NNS	*)))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	9	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	Once	RB	(TOP(S(ADVP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	1	there	EX	(NP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	2	was	VBD	(VP*	be	02	5	Ye_jingzhong	-
+phoenix_0003	6	3	a	DT	(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	4	flood	NN	*))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	5	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	,	,	(TOP(S*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	1	these	DT	(NP*	-	-	-	Ye_jingzhong	(54
+phoenix_0003	6	2	sisters	NNS	*)	-	-	-	Ye_jingzhong	54)
+phoenix_0003	6	3	stayed	VBD	(VP*	stay	01	1	Ye_jingzhong	(40)
+phoenix_0003	6	4	in	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	5	the	DT	(NP*	-	-	-	Ye_jingzhong	(96
+phoenix_0003	6	6	cave	NN	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	7	dwelling	NN	*))	-	-	-	Ye_jingzhong	96)
+phoenix_0003	6	8	to	TO	(S(VP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	9	look	VB	(VP*	look	07	4	Ye_jingzhong	-
+phoenix_0003	6	10	after	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	11	the	DT	(NP*	-	-	-	Ye_jingzhong	(96
+phoenix_0003	6	12	home	NN	*))))))	-	-	-	Ye_jingzhong	96)
+phoenix_0003	6	13	!	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	This	DT	(TOP(S(NP*)	-	-	-	Ye_jingzhong	(40)
+phoenix_0003	6	1	happened	VBD	(VP*	happen	01	1	Ye_jingzhong	-
+phoenix_0003	6	2	in	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	3	the	DT	(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	4	rural	JJ	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	5	area	NN	*)))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	6	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	These	DT	(TOP(S(NP*	-	-	-	Ye_jingzhong	(54
+phoenix_0003	6	1	two	CD	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	2	children	NNS	*)	-	-	-	Ye_jingzhong	54)
+phoenix_0003	6	3	were	VBD	(VP*	be	03	-	Ye_jingzhong	-
+phoenix_0003	6	4	looking	VBG	(VP*	look	07	4	Ye_jingzhong	-
+phoenix_0003	6	5	after	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	6	the	DT	(NP*	-	-	-	Ye_jingzhong	(96
+phoenix_0003	6	7	home	NN	*))))	-	-	-	Ye_jingzhong	96)
+phoenix_0003	6	8	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	Their	PRP$	(TOP(S(NP*	-	-	-	Ye_jingzhong	(54)
+phoenix_0003	6	1	uncle	NN	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	2	saved	VBD	(VP*	save	02	1	Ye_jingzhong	-
+phoenix_0003	6	3	them	PRP	(NP*)	-	-	-	Ye_jingzhong	(54)
+phoenix_0003	6	4	when	WRB	(SBAR(WHADVP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	5	the	DT	(S(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	6	flood	NN	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	7	was	VBD	(VP*	be	01	1	Ye_jingzhong	-
+phoenix_0003	6	8	almost	RB	(PP(ADVP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	9	past	IN	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	10	their	PRP$	(NP*	-	-	-	Ye_jingzhong	(54)
+phoenix_0003	6	11	bellies	NNS	*))))))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	12	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	Their	PRP$	(TOP(S(NP*	-	-	-	Ye_jingzhong	(0|(54)
+phoenix_0003	6	1	father	NN	*)	-	-	-	Ye_jingzhong	0)
+phoenix_0003	6	2	called	VBD	(VP*	call	02	4	Ye_jingzhong	-
+phoenix_0003	6	3	later	RB	(ADVP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	4	to	TO	(S(VP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	5	see	VB	(VP*	see	01	4	Ye_jingzhong	-
+phoenix_0003	6	6	if	IN	(SBAR*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	7	they	PRP	(S(NP*)	-	-	-	Ye_jingzhong	(54)
+phoenix_0003	6	8	were	VBD	(VP*	be	01	1	Ye_jingzhong	-
+phoenix_0003	6	9	fine	JJ	(ADJP*))))))))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	10	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	The	DT	(TOP(S(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	1	family	NN	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	2	told	VBD	(VP*	tell	01	1	Ye_jingzhong	(119)
+phoenix_0003	6	3	him	PRP	(NP*)	-	-	-	Ye_jingzhong	(0)
+phoenix_0003	6	4	that	IN	(SBAR*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	5	they	PRP	(S(NP*)	-	-	-	Ye_jingzhong	(54)
+phoenix_0003	6	6	were	VBD	(VP*	be	01	1	Ye_jingzhong	-
+phoenix_0003	6	7	fine	JJ	(ADJP*)))))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	8	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	He	PRP	(TOP(S(NP*)	-	-	-	Ye_jingzhong	(0)
+phoenix_0003	6	1	did	VBD	(VP*	do	01	-	Ye_jingzhong	-
+phoenix_0003	6	2	not	RB	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	3	come	VB	(VP*	come	01	1	Ye_jingzhong	-
+phoenix_0003	6	4	back	RB	(ADVP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	5	after	IN	(PP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	6	that	DT	(NP*))))	-	-	-	Ye_jingzhong	(119)
+phoenix_0003	6	7	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	He	PRP	(TOP(S(NP*)	-	-	-	Ye_jingzhong	(0)
+phoenix_0003	6	1	did	VBD	(VP*	do	01	-	Ye_jingzhong	-
+phoenix_0003	6	2	not	RB	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	3	come	VBN	(VP*	come	01	1	Ye_jingzhong	-
+phoenix_0003	6	4	back	RB	(ADVP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	5	to	TO	(S(VP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	6	check	VB	(VP*	check	01	1	Ye_jingzhong	-
+phoenix_0003	6	7	if	IN	(SBAR*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	8	everything	NN	(S(NP*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	9	was	VBD	(VP*	be	01	1	Ye_jingzhong	-
+phoenix_0003	6	10	fine	JJ	(ADJP*)))))))))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	11	.	.	*))	-	-	-	Ye_jingzhong	-
+
+phoenix_0003	6	0	I	PRP	(TOP(S(NP*)	-	-	-	Ye_jingzhong	(103)
+phoenix_0003	6	1	believe	VBP	(VP*	believe	01	1	Ye_jingzhong	-
+phoenix_0003	6	2	the	DT	(SBAR(S(NP(NP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	3	reason	NN	*)	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	4	he	PRP	(SBAR(S(NP*)	-	-	-	Ye_jingzhong	(0)
+phoenix_0003	6	5	did	VBD	(VP*	do	01	-	Ye_jingzhong	-
+phoenix_0003	6	6	not	RB	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	7	return	VB	(VP*)))))	return	01	1	Ye_jingzhong	-
+phoenix_0003	6	8	was	VBD	(VP*	be	01	1	Ye_jingzhong	-
+phoenix_0003	6	9	that	IN	(SBAR*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	10	he	PRP	(S(NP*)	-	-	-	Ye_jingzhong	(0)
+phoenix_0003	6	11	would	MD	(VP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	12	ponder	VB	(VP*	ponder	01	1	Ye_jingzhong	-
+phoenix_0003	6	13	whether	IN	(SBAR*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	14	he	PRP	(S(NP*)	-	-	-	Ye_jingzhong	(0)
+phoenix_0003	6	15	should	MD	(VP*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	16	return	VB	(VP*)))	return	01	1	Ye_jingzhong	-
+phoenix_0003	6	17	or	CC	*	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	18	not	RB	*)))))))))	-	-	-	Ye_jingzhong	-
+phoenix_0003	6	19	.	.	*))	-	-	-	Ye_jingzhong	-
+
+#end document

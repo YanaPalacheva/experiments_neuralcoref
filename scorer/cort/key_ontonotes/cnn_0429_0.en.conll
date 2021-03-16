@@ -1,0 +1,507 @@
+#begin document (cnn_0429_0); part 000
+cnn_0429	0	0	An	DT	(TOP(NP(NP*	-	-	-	-	-
+cnn_0429	0	1	occasion	NN	*)	occasion	-	1	-	-
+cnn_0429	0	2	that	WDT	(SBAR(WHNP*)	-	-	-	-	-
+cnn_0429	0	3	marked	VBD	(S(VP*	mark	01	3	-	-
+cnn_0429	0	4	the	DT	(NP(NP*	-	-	-	-	-
+cnn_0429	0	5	formal	JJ	*	-	-	-	-	-
+cnn_0429	0	6	establishment	NN	*)	establishment	01	1	-	-
+cnn_0429	0	7	between	IN	(PP*	-	-	-	-	-
+cnn_0429	0	8	our	PRP$	(NP*	-	-	-	-	(6
+cnn_0429	0	9	two	CD	*	-	-	-	-	-
+cnn_0429	0	10	countries	NNS	*))))))	country	-	3	-	6)
+cnn_0429	0	11	.	.	*))	-	-	-	-	-
+
+cnn_0429	0	0	Since	IN	(TOP(S(PP*	-	-	-	-	-
+cnn_0429	0	1	then	RB	(NP*))	-	-	-	-	-
+cnn_0429	0	2	this	DT	(NP*	-	-	-	-	(3
+cnn_0429	0	3	relationship	NN	*)	relationship	01	3	-	3)
+cnn_0429	0	4	has	VBZ	(VP*	have	01	-	-	-
+cnn_0429	0	5	grown	VBN	(VP*	grow	01	4	-	-
+cnn_0429	0	6	in	IN	(PP*	-	-	-	-	-
+cnn_0429	0	7	importance	NN	(NP(NP*)	importance	-	1	-	-
+cnn_0429	0	8	to	IN	(PP*	-	-	-	-	-
+cnn_0429	0	9	us	PRP	(NP(NP*)	-	-	-	-	(0
+cnn_0429	0	10	both	DT	(NP*)))))	-	-	-	-	(0)|0)
+cnn_0429	0	11	through	IN	(PP*	-	-	-	-	-
+cnn_0429	0	12	good	JJ	(NP(NP*	-	-	-	-	-
+cnn_0429	0	13	times	NNS	*)	time	-	12	-	-
+cnn_0429	0	14	and	CC	*	-	-	-	-	-
+cnn_0429	0	15	bad	JJ	(NP*)))))	-	-	-	-	-
+cnn_0429	0	16	.	.	*))	-	-	-	-	-
+
+cnn_0429	0	0	Both	DT	(TOP(S(NP(NP*)	-	-	-	-	-
+cnn_0429	0	1	of	IN	(PP*	-	-	-	-	-
+cnn_0429	0	2	my	PRP$	(NP(NP*	-	-	-	-	(2)
+cnn_0429	0	3	generation	NN	*)	generation	-	4	-	-
+cnn_0429	0	4	and	CC	*	-	-	-	-	-
+cnn_0429	0	5	Britain	NNP	(NP*))))	-	-	-	-	(8)
+cnn_0429	0	6	have	VBP	(VP*	have	03	2	-	-
+cnn_0429	0	7	special	JJ	(NP(NP*	-	-	-	-	-
+cnn_0429	0	8	pause	NN	*)	-	-	-	-	-
+cnn_0429	0	9	to	TO	(S(VP*	-	-	-	-	-
+cnn_0429	0	10	remember	VB	(VP*	remember	01	3	-	-
+cnn_0429	0	11	the	DT	(NP(NP*	-	-	-	-	-
+cnn_0429	0	12	unacceptable	JJ	*	-	-	-	-	-
+cnn_0429	0	13	sacrifice	NN	*)	sacrifice	-	1	-	-
+cnn_0429	0	14	the	DT	(SBAR(S(NP*	-	-	-	-	-
+cnn_0429	0	15	Russian	JJ	*	-	-	-	-	-
+cnn_0429	0	16	people	NNS	*)	people	-	2	-	-
+cnn_0429	0	17	made	VBD	(VP*	make	-	1	-	-
+cnn_0429	0	18	to	TO	(S(VP*	-	-	-	-	-
+cnn_0429	0	19	defeat	VB	(VP*	defeat	01	1	-	-
+cnn_0429	0	20	fascism	NN	(NP*)	-	-	-	-	-
+cnn_0429	0	21	in	IN	(PP*	-	-	-	-	-
+cnn_0429	0	22	the	DT	(NP*	-	-	-	-	(1
+cnn_0429	0	23	Second	NNP	*	-	-	-	-	-
+cnn_0429	0	24	World	NNP	*	-	-	-	-	-
+cnn_0429	0	25	War	NNP	*))))))))))))))	-	-	-	-	1)
+cnn_0429	0	26	.	.	*))	-	-	-	-	-
+
+cnn_0429	0	0	Nothing	NNP	(TOP(S(NP(NP*)	-	-	-	-	-
+cnn_0429	0	1	,	,	*	-	-	-	-	-
+cnn_0429	0	2	not	RB	(NP(ADVP*	-	-	-	-	-
+cnn_0429	0	3	even	RB	*)	-	-	-	-	-
+cnn_0429	0	4	the	DT	*	-	-	-	-	-
+cnn_0429	0	5	fact	NN	*	fact	-	2	-	-
+cnn_0429	0	6	that	IN	(SBAR*	-	-	-	-	-
+cnn_0429	0	7	our	PRP$	(S(NP*	-	-	-	-	(6|(0)
+cnn_0429	0	8	countries	NNS	*)	country	-	3	-	6)
+cnn_0429	0	9	became	VBD	(VP*	become	01	1	-	-
+cnn_0429	0	10	estranged	JJ	(ADJP*	-	-	-	-	-
+cnn_0429	0	11	in	IN	(PP*	-	-	-	-	-
+cnn_0429	0	12	the	DT	(NP(NP*	-	-	-	-	(1
+cnn_0429	0	13	war	NN	*	war	-	1	-	-
+cnn_0429	0	14	's	POS	*)	-	-	-	-	1)
+cnn_0429	0	15	aftermath	NN	*))))))))	-	-	-	-	-
+cnn_0429	0	16	,	,	*	-	-	-	-	-
+cnn_0429	0	17	has	VBZ	(VP*	have	01	-	-	-
+cnn_0429	0	18	ever	RB	(ADVP*)	-	-	-	-	-
+cnn_0429	0	19	dimmed	VBN	(VP*	dim	01	3	-	-
+cnn_0429	0	20	our	PRP$	(NP(NP*	-	-	-	-	(8)
+cnn_0429	0	21	memory	NN	*)	memory	-	1	-	-
+cnn_0429	0	22	of	IN	(PP*	-	-	-	-	-
+cnn_0429	0	23	the	DT	(NP(NP*	-	-	-	-	-
+cnn_0429	0	24	scale	NN	*)	scale	-	2	-	-
+cnn_0429	0	25	of	IN	(PP*	-	-	-	-	-
+cnn_0429	0	26	your	PRP$	(NP*	-	-	-	-	(7)
+cnn_0429	0	27	loss	NN	*)))))))	loss	02	5	-	-
+cnn_0429	0	28	.	.	*))	-	-	-	-	-
+
+cnn_0429	0	0	That	DT	(TOP(S(NP*	-	-	-	-	-
+cnn_0429	0	1	experience	NN	*)	experience	01	2	-	-
+cnn_0429	0	2	should	MD	(VP*	-	-	-	-	-
+cnn_0429	0	3	continue	VB	(VP*	continue	01	1	-	-
+cnn_0429	0	4	to	TO	(S(VP*	-	-	-	-	-
+cnn_0429	0	5	inspire	VB	(VP*	inspire	01	1	-	-
+cnn_0429	0	6	us	PRP	(NP*))))	-	-	-	-	(6)
+cnn_0429	0	7	,	,	*	-	-	-	-	-
+cnn_0429	0	8	as	IN	(SBAR*	-	-	-	-	-
+cnn_0429	0	9	we	PRP	(S(NP*)	-	-	-	-	(6)
+cnn_0429	0	10	seek	VBP	(VP*	seek	01	1	-	-
+cnn_0429	0	11	to	TO	(S(VP*	-	-	-	-	-
+cnn_0429	0	12	build	VB	(VP*	build	01	3	-	-
+cnn_0429	0	13	a	DT	(NP*	-	-	-	-	-
+cnn_0429	0	14	more	RBR	(ADJP*	-	-	-	-	-
+cnn_0429	0	15	peaceful	JJ	*	-	-	-	-	-
+cnn_0429	0	16	and	CC	*	-	-	-	-	-
+cnn_0429	0	17	secure	JJ	*)	-	-	-	-	-
+cnn_0429	0	18	world	NN	*)))))))))	world	-	4	-	-
+cnn_0429	0	19	.	.	*))	-	-	-	-	-
+
+cnn_0429	0	0	When	WRB	(TOP(S(SBAR(WHADVP*)	-	-	-	-	*	*
+cnn_0429	0	1	I	PRP	(S(NP*)	-	-	-	-	*	*
+cnn_0429	0	2	visited	VBD	(VP*	visit	01	1	-	*	*
+cnn_0429	0	3	your	PRP$	(NP*	-	-	-	-	*	*
+cnn_0429	0	4	country	NN	*)	country	-	3	-	*	*
+cnn_0429	0	5	in	IN	(PP*	-	-	-	-	*	*
+cnn_0429	0	6	1994	CD	(NP*)))))	-	-	-	-	*	*
+cnn_0429	0	7	,	,	*	-	-	-	-	*	*
+cnn_0429	0	8	I	PRP	(NP*)	-	-	-	-	*	*
+cnn_0429	0	9	recall	VBP	(VP*	recall	02	1	-	*	*
+cnn_0429	0	10	saying	VBG	(S(VP*	say	01	1	-	*	*
+cnn_0429	0	11	to	IN	(PP*	-	-	-	-	*	*
+cnn_0429	0	12	President	NNP	(NP*	-	-	-	-	*	*
+cnn_0429	0	13	Yeltsin	NNP	*))	-	-	-	-	*	*
+cnn_0429	0	14	that	IN	(SBAR(SBAR*	-	-	-	-	*	*
+cnn_0429	0	15	he	PRP	(S(NP*	-	-	-	-	*	*
+cnn_0429	0	16	and	CC	*	-	-	-	-	*	*
+cnn_0429	0	17	I	PRP	*)	-	-	-	-	*	*
+cnn_0429	0	18	spent	VBD	(VP*	spend	02	1	-	*	*
+cnn_0429	0	19	most	JJS	(NP(NP*)	-	-	-	-	*	*
+cnn_0429	0	20	of	IN	(PP*	-	-	-	-	*	*
+cnn_0429	0	21	our	PRP$	(NP*	-	-	-	-	*	*
+cnn_0429	0	22	lives	NNS	*)))	life	-	10	-	*	*
+cnn_0429	0	23	believing	VBG	(S(VP*	believe	01	1	-	*	*
+cnn_0429	0	24	such	PDT	(SBAR(S(NP*	-	-	-	-	*	*
+cnn_0429	0	25	a	DT	*	-	-	-	-	*	*
+cnn_0429	0	26	visit	NN	*)	visit	-	1	-	*	*
+cnn_0429	0	27	would	MD	(VP*	-	-	-	-	*	*
+cnn_0429	0	28	never	RB	(ADVP*)	-	-	-	-	*	*
+cnn_0429	0	29	happen	VB	(VP*)))))))))	happen	01	1	-	*	*
+cnn_0429	0	30	,	,	*	-	-	-	-	*	*
+cnn_0429	0	31	and	CC	*	-	-	-	-	*	*
+cnn_0429	0	32	that	IN	(SBAR*	-	-	-	-	*	*
+cnn_0429	0	33	I	PRP	(S(NP*)	-	-	-	-	*	*
+cnn_0429	0	34	hoped	VBD	(VP*	hope	01	1	-	*	*
+cnn_0429	0	35	he	PRP	(SBAR(S(NP*)	-	-	-	-	*	*
+cnn_0429	0	36	was	VBD	(VP*	be	01	1	-	*	*
+cnn_0429	0	37	as	RB	(ADJP(ADJP*	-	-	-	-	*	*
+cnn_0429	0	38	delighted	JJ	*)	-	-	-	-	*	*
+cnn_0429	0	39	as	IN	(SBAR*	-	-	-	-	*	*
+cnn_0429	0	40	I	PRP	(S(NP*)	-	-	-	-	*	*
+cnn_0429	0	41	was	VBD	(VP*)))	be	01	1	-	*	*
+cnn_0429	0	42	to	TO	(S(VP*	-	-	-	-	*	*
+cnn_0429	0	43	be	VB	(VP*	be	03	-	-	(V*)	(V*)
+cnn_0429	0	44	proved	VBN	(VP*	prove	01	1	-	*	*
+cnn_0429	0	45	wrong	JJ	(S(ADJP*)))))))))))))))))	-	-	-	-	*	*
+cnn_0429	0	46	.	.	*))	-	-	-	-	*	*
+
+cnn_0429	0	0	I	PRP	(TOP(S(NP*)	-	-	-	-	(2)
+cnn_0429	0	1	'm	VBP	(VP*	be	-	1	-	-
+cnn_0429	0	2	just	RB	(ADJP(ADVP*	-	-	-	-	-
+cnn_0429	0	3	as	RB	*)	-	-	-	-	-
+cnn_0429	0	4	delighted	JJ	*)	-	-	-	-	-
+cnn_0429	0	5	now	RB	(ADVP(ADVP*)	-	-	-	-	-
+cnn_0429	0	6	,	,	*	-	-	-	-	-
+cnn_0429	0	7	nine	CD	(ADVP(NP*	-	-	-	-	-
+cnn_0429	0	8	years	NNS	*)	-	-	-	-	-
+cnn_0429	0	9	later	RB	*))	-	-	-	-	-
+cnn_0429	0	10	,	,	*	-	-	-	-	-
+cnn_0429	0	11	to	TO	(S(VP(VP*	-	-	-	-	-
+cnn_0429	0	12	be	VB	(VP*	be	01	-	-	-
+cnn_0429	0	13	able	JJ	(ADJP*	-	-	-	-	-
+cnn_0429	0	14	to	TO	(S(VP*	-	-	-	-	-
+cnn_0429	0	15	welcome	VB	(VP*	welcome	01	2	-	-
+cnn_0429	0	16	you	PRP	(NP*)	-	-	-	-	(11)
+cnn_0429	0	17	here	RB	(ADVP*)))))))	-	-	-	-	-
+cnn_0429	0	18	and	CC	*	-	-	-	-	-
+cnn_0429	0	19	to	TO	(VP*	-	-	-	-	-
+cnn_0429	0	20	learn	VB	(VP*	learn	01	2	-	-
+cnn_0429	0	21	about	IN	(PP*	-	-	-	-	-
+cnn_0429	0	22	the	DT	(NP(NP*	-	-	-	-	-
+cnn_0429	0	23	great	JJ	*	-	-	-	-	-
+cnn_0429	0	24	changes	NNS	*)	change	-	1	-	-
+cnn_0429	0	25	which	WDT	(SBAR(WHNP*)	-	-	-	-	-
+cnn_0429	0	26	have	VBP	(S(VP*	have	01	-	-	-
+cnn_0429	0	27	occurred	VBN	(VP*	occur	01	1	-	-
+cnn_0429	0	28	in	IN	(PP*	-	-	-	-	-
+cnn_0429	0	29	your	PRP$	(NP*	-	-	-	-	(7|(11)
+cnn_0429	0	30	country	NN	*))	country	-	3	-	7)
+cnn_0429	0	31	since	IN	(SBAR*	-	-	-	-	-
+cnn_0429	0	32	I	PRP	(S(NP*)	-	-	-	-	(2)
+cnn_0429	0	33	was	VBD	(VP*	be	01	4	-	-
+cnn_0429	0	34	there	RB	(ADVP*)))))))))))))))	-	-	-	-	-
+cnn_0429	0	35	.	.	*))	-	-	-	-	-
+
+cnn_0429	0	0	Russia	NNP	(TOP(S(NP*)	-	-	-	-	(7)
+cnn_0429	0	1	has	VBZ	(VP*	have	01	-	-	-
+cnn_0429	0	2	established	VBN	(VP*	establish	01	2	-	-
+cnn_0429	0	3	itself	PRP	(NP*)	-	-	-	-	(7)
+cnn_0429	0	4	as	IN	(PP*	-	-	-	-	-
+cnn_0429	0	5	our	PRP$	(NP(NP*	-	-	-	-	(8)
+cnn_0429	0	6	partner	NN	*)	partner	-	2	-	-
+cnn_0429	0	7	and	CC	*	-	-	-	-	-
+cnn_0429	0	8	our	PRP$	(NP*	-	-	-	-	(8)
+cnn_0429	0	9	friend	NN	*)))))	-	-	-	-	-
+cnn_0429	0	10	.	.	*))	-	-	-	-	-
+
+cnn_0429	0	0	We	PRP	(TOP(S(S(NP*)	-	-	-	-	(6)
+cnn_0429	0	1	work	VBP	(VP*	work	01	1	-	-
+cnn_0429	0	2	together	RB	(ADVP*)	-	-	-	-	-
+cnn_0429	0	3	bilatarily	RB	(UCP(ADVP*)	-	-	-	-	-
+cnn_0429	0	4	and	CC	*	-	-	-	-	-
+cnn_0429	0	5	on	IN	(PP*	-	-	-	-	-
+cnn_0429	0	6	the	DT	(NP*	-	-	-	-	-
+cnn_0429	0	7	international	JJ	*	-	-	-	-	-
+cnn_0429	0	8	stage	NN	*)))))	stage	-	6	-	-
+cnn_0429	0	9	,	,	*	-	-	-	-	-
+cnn_0429	0	10	and	CC	*	-	-	-	-	-
+cnn_0429	0	11	we	PRP	(S(NP*)	-	-	-	-	(6)
+cnn_0429	0	12	are	VBP	(VP*	be	03	-	-	-
+cnn_0429	0	13	developing	VBG	(VP*	develop	02	1	-	-
+cnn_0429	0	14	new	JJ	(NP(NP*	-	-	-	-	-
+cnn_0429	0	15	links	NNS	*))	link	-	3	-	-
+cnn_0429	0	16	all	PDT	(NP*	-	-	-	-	-
+cnn_0429	0	17	the	DT	*	-	-	-	-	-
+cnn_0429	0	18	time	NN	*)	time	-	4	-	-
+cnn_0429	0	19	in	IN	(PP*	-	-	-	-	-
+cnn_0429	0	20	fields	NNS	(NP(NP*)	field	-	3	-	-
+cnn_0429	0	21	of	IN	(PP*	-	-	-	-	-
+cnn_0429	0	22	commerce	NN	(NP*	-	-	-	-	-
+cnn_0429	0	23	,	,	*	-	-	-	-	-
+cnn_0429	0	24	culture	NN	*	culture	-	1	-	-
+cnn_0429	0	25	,	,	*	-	-	-	-	-
+cnn_0429	0	26	counterterrorism	NN	*	-	-	-	-	-
+cnn_0429	0	27	,	,	*	-	-	-	-	-
+cnn_0429	0	28	energy	NN	*	energy	-	1	-	-
+cnn_0429	0	29	,	,	*	-	-	-	-	-
+cnn_0429	0	30	education	NN	*	education	-	1	-	-
+cnn_0429	0	31	environment	NN	*)))))))	environment	-	1	-	-
+cnn_0429	0	32	.	.	*))	-	-	-	-	-
+
+cnn_0429	0	0	I	PRP	(TOP(S(NP*)	-	-	-	-	(2)
+cnn_0429	0	1	know	VBP	(VP*	know	01	1	-	-
+cnn_0429	0	2	you	PRP	(SBAR(S(NP*)	-	-	-	-	(11)
+cnn_0429	0	3	will	MD	(VP*	-	-	-	-	-
+cnn_0429	0	4	be	VB	(VP*	be	03	-	-	-
+cnn_0429	0	5	seeing	VBG	(VP*	see	01	3	-	-
+cnn_0429	0	6	evidence	NN	(NP(NP*)	evidence	-	1	-	-
+cnn_0429	0	7	of	IN	(PP*	-	-	-	-	-
+cnn_0429	0	8	some	DT	(NP(NP*)	-	-	-	-	-
+cnn_0429	0	9	of	IN	(PP*	-	-	-	-	-
+cnn_0429	0	10	this	DT	(NP*)))))	-	-	-	-	-
+cnn_0429	0	11	during	IN	(PP*	-	-	-	-	-
+cnn_0429	0	12	your	PRP$	(NP*	-	-	-	-	(11)
+cnn_0429	0	13	visit	NN	*))))))))	visit	-	1	-	-
+cnn_0429	0	14	.	.	*))	-	-	-	-	-
+
+cnn_0429	0	0	Mr.	NNP	(TOP(S(NP*	-	-	-	-	(11
+cnn_0429	0	1	President	NNP	*)	-	-	-	-	11)
+cnn_0429	0	2	,	,	*	-	-	-	-	-
+cnn_0429	0	3	it	PRP	(NP(NP*))	-	-	-	-	-
+cnn_0429	0	4	is	VBZ	(VP*	be	01	1	-	-
+cnn_0429	0	5	,	,	*	-	-	-	-	-
+cnn_0429	0	6	I	PRP	(PRN(S(NP*)	-	-	-	-	(2)
+cnn_0429	0	7	believe	VBP	(VP*)))	believe	01	1	-	-
+cnn_0429	0	8	,	,	*	-	-	-	-	-
+cnn_0429	0	9	a	DT	(NP(NP*	-	-	-	-	-
+cnn_0429	0	10	sign	NN	*)	sign	-	2	-	-
+cnn_0429	0	11	of	IN	(PP*	-	-	-	-	-
+cnn_0429	0	12	genuine	JJ	(NP*	-	-	-	-	-
+cnn_0429	0	13	friendship	NN	*)))	-	-	-	-	-
+cnn_0429	0	14	that	IN	(SBAR*	-	-	-	-	-
+cnn_0429	0	15	we	PRP	(S(NP*)	-	-	-	-	(6)
+cnn_0429	0	16	are	VBP	(VP*	be	01	-	-	-
+cnn_0429	0	17	able	JJ	(ADJP*	-	-	-	-	-
+cnn_0429	0	18	to	TO	(S(VP*	-	-	-	-	-
+cnn_0429	0	19	have	VB	(VP(VP*	have	03	4	-	-
+cnn_0429	0	20	disagreements	NNS	(NP*))	-	-	-	-	-
+cnn_0429	0	21	,	,	*	-	-	-	-	-
+cnn_0429	0	22	but	CC	*	-	-	-	-	-
+cnn_0429	0	23	remain	VB	(VP*	remain	01	1	-	-
+cnn_0429	0	24	firm	JJ	(NP*	-	-	-	-	-
+cnn_0429	0	25	partners	NNS	*))))))))))	partner	-	2	-	-
+cnn_0429	0	26	.	.	*))	-	-	-	-	-
+
+cnn_0429	0	0	It	PRP	(TOP(S(S(NP(NP*))	-	-	-	-	-	-
+cnn_0429	0	1	is	VBZ	(VP*	be	01	1	-	-	-
+cnn_0429	0	2	no	DT	(NP*	-	-	-	-	-	-
+cnn_0429	0	3	secret	NN	*)	-	-	-	-	-	-
+cnn_0429	0	4	that	IN	(SBAR*	-	-	-	-	-	-
+cnn_0429	0	5	the	DT	(X(NP(NP*	-	-	-	-	-	-
+cnn_0429	0	6	significant	JJ	*	-	-	-	-	-	-
+cnn_0429	0	7	differences	NNS	*)	difference	-	3	-	-	-
+cnn_0429	0	8	between	IN	(PP*	-	-	-	-	-	-
+cnn_0429	0	9	our	PRP$	(NP*	-	-	-	-	(6|(0)	(6|(0)
+cnn_0429	0	10	two	CD	*	-	-	-	-	-	-
+cnn_0429	0	11	countries	NNS	*))	country	-	3	-	6)	6)
+cnn_0429	0	12	earlier	RBR	(NP(ADVP*)	-	-	-	-	-	-
+cnn_0429	0	13	this	DT	*	-	-	-	-	-	-
+cnn_0429	0	14	year	NN	*)	-	-	-	-	-	-
+cnn_0429	0	15	on	IN	(PP*	-	-	-	-	-	-
+cnn_0429	0	16	how	WRB	(SBAR(WHADVP*	-	-	-	-	-	-
+cnn_0429	0	17	best	RBS	*)	-	-	-	-	-	-
+cnn_0429	0	18	to	TO	(S(VP*	-	-	-	-	-	-
+cnn_0429	0	19	handle	VB	(VP*	handle	01	2	-	-	-
+cnn_0429	0	20	Iraq	NNP	(NP*)))))))))))	-	-	-	-	-	-
+cnn_0429	0	21	,	,	*	-	-	-	-	-	-
+cnn_0429	0	22	but	CC	*	-	-	-	-	-	-
+cnn_0429	0	23	we	PRP	(S(NP*)	-	-	-	-	(6)	(6)
+cnn_0429	0	24	are	VBP	(VP*	be	01	-	-	-	-
+cnn_0429	0	25	now	RB	(ADVP*)	-	-	-	-	-	-
+cnn_0429	0	26	able	JJ	(ADJP*	-	-	-	-	-	-
+cnn_0429	0	27	to	TO	(S(VP*	-	-	-	-	-	-
+cnn_0429	0	28	look	VB	(VP*	look	01	5	-	-	-
+cnn_0429	0	29	forward	RB	(ADVP*)	-	-	-	-	-	-
+cnn_0429	0	30	together	RB	(ADVP*)	-	-	-	-	-	-
+cnn_0429	0	31	firmly	RB	(PP(ADVP*)	-	-	-	-	-	-
+cnn_0429	0	32	in	IN	*	-	-	-	-	-	-
+cnn_0429	0	33	agreement	NN	(NP(NP*)	agreement	-	2	-	-	-
+cnn_0429	0	34	on	IN	(PP*	-	-	-	-	-	-
+cnn_0429	0	35	the	DT	(NP(NP*	-	-	-	-	-	-
+cnn_0429	0	36	route	NN	*)	route	-	4	-	-	-
+cnn_0429	0	37	we	PRP	(SBAR(S(NP*)	-	-	-	-	(6)	(6)
+cnn_0429	0	38	have	VBP	(VP*	have	01	-	-	-	-
+cnn_0429	0	39	decided	VBN	(VP*	decide	01	1	-	-	-
+cnn_0429	0	40	in	IN	(PP*	-	-	-	-	-	-
+cnn_0429	0	41	the	DT	(NP*	-	-	-	-	-	-
+cnn_0429	0	42	United	NNP	*	-	-	-	-	-	-
+cnn_0429	0	43	Nations	NNP	*))))))))))	-	-	-	-	-	-
+cnn_0429	0	44	,	,	*	-	-	-	-	-	-
+cnn_0429	0	45	although	IN	(SBAR*	-	-	-	-	-	-
+cnn_0429	0	46	,	,	*	-	-	-	-	-	-
+cnn_0429	0	47	the	DT	(S(NP(NP*	-	-	-	-	-	-
+cnn_0429	0	48	tragic	JJ	*	-	-	-	-	-	-
+cnn_0429	0	49	loss	NN	*)	loss	-	4	-	-	-
+cnn_0429	0	50	of	IN	(PP*	-	-	-	-	-	-
+cnn_0429	0	51	British	JJ	(NP*	-	-	-	-	-	-
+cnn_0429	0	52	lives	NNS	*))	life	-	3	-	-	-
+cnn_0429	0	53	today	NN	(NP*))	today	-	2	-	-	-
+cnn_0429	0	54	reminds	VBZ	(VP*	remind	01	1	-	-	-
+cnn_0429	0	55	us	PRP	(NP(NP*)	-	-	-	-	-	-
+cnn_0429	0	56	all	DT	(NP*))	-	-	-	-	-	-
+cnn_0429	0	57	of	IN	(PP*	-	-	-	-	-	-
+cnn_0429	0	58	the	DT	(NP(NP*	-	-	-	-	-	-
+cnn_0429	0	59	difficulties	NNS	*)	difficulty	-	2	-	-	-
+cnn_0429	0	60	to	TO	(SBAR(S(VP*	-	-	-	-	-	-
+cnn_0429	0	61	be	VB	(VP*	be	03	-	-	-	-
+cnn_0429	0	62	faced	VBN	(VP*))))))))))))))))	face	01	1	-	-	-
+cnn_0429	0	63	.	.	*))	-	-	-	-	-	-
+
+cnn_0429	0	0	But	CC	(TOP(S*	-	-	-	-	-
+cnn_0429	0	1	as	IN	(SBAR*	-	-	-	-	-
+cnn_0429	0	2	we	PRP	(S(NP*)	-	-	-	-	(6)
+cnn_0429	0	3	look	VBP	(VP*	look	01	1	-	-
+cnn_0429	0	4	ahead	RB	(ADVP*))))	-	-	-	-	-
+cnn_0429	0	5	,	,	*	-	-	-	-	-
+cnn_0429	0	6	we	PRP	(NP*)	-	-	-	-	(6)
+cnn_0429	0	7	know	VBP	(VP*	know	01	1	-	-
+cnn_0429	0	8	that	IN	(SBAR*	-	-	-	-	-
+cnn_0429	0	9	our	PRP$	(S(NP*	-	-	-	-	(3|(6)
+cnn_0429	0	10	long	JJ	(NML*	-	-	-	-	-
+cnn_0429	0	11	-	HYPH	*	-	-	-	-	-
+cnn_0429	0	12	term	NN	*)	term	-	2	-	-
+cnn_0429	0	13	partnership	NN	*)	partnership	-	2	-	3)
+cnn_0429	0	14	is	VBZ	(VP*	be	01	1	-	(9)
+cnn_0429	0	15	of	IN	(PP*	-	-	-	-	-
+cnn_0429	0	16	profound	JJ	(NP(NP*	-	-	-	-	-
+cnn_0429	0	17	importance	NN	*)	importance	-	1	-	-
+cnn_0429	0	18	to	IN	(PP*	-	-	-	-	-
+cnn_0429	0	19	both	DT	(NP(NP*)	-	-	-	-	(0
+cnn_0429	0	20	of	IN	(PP*	-	-	-	-	-
+cnn_0429	0	21	us	PRP	(NP*))))))))))	-	-	-	-	0)
+cnn_0429	0	22	.	.	*))	-	-	-	-	-
+
+cnn_0429	0	0	This	DT	(TOP(S(NP*)	-	-	-	-	(9)
+cnn_0429	0	1	is	VBZ	(VP*	be	01	1	-	-
+cnn_0429	0	2	clearly	RB	(ADJP*	-	-	-	-	-
+cnn_0429	0	3	evident	JJ	*)	-	-	-	-	-
+cnn_0429	0	4	,	,	*	-	-	-	-	-
+cnn_0429	0	5	if	IN	(SBAR*	-	-	-	-	-
+cnn_0429	0	6	we	PRP	(S(NP*)	-	-	-	-	(6)
+cnn_0429	0	7	look	VBP	(VP*	look	01	1	-	-
+cnn_0429	0	8	beyond	IN	(PP*	-	-	-	-	-
+cnn_0429	0	9	the	DT	(NP(NP*	-	-	-	-	-
+cnn_0429	0	10	challenges	NNS	*)	challenge	01	1	-	-
+cnn_0429	0	11	of	IN	(PP*	-	-	-	-	-
+cnn_0429	0	12	international	JJ	(NP*	-	-	-	-	-
+cnn_0429	0	13	politics	NNS	*))))))))	-	-	-	-	-
+cnn_0429	0	14	.	.	*))	-	-	-	-	-
+
+cnn_0429	0	0	In	IN	(TOP(S(PP*	-	-	-	-	-
+cnn_0429	0	1	the	DT	(NP(NP*	-	-	-	-	-
+cnn_0429	0	2	last	JJ	*	-	-	-	-	-
+cnn_0429	0	3	few	JJ	*	-	-	-	-	-
+cnn_0429	0	4	months	NNS	*)	month	-	1	-	-
+cnn_0429	0	5	alone	RB	(ADVP*)))	-	-	-	-	-
+cnn_0429	0	6	,	,	*	-	-	-	-	-
+cnn_0429	0	7	we	PRP	(NP*)	-	-	-	-	(6)
+cnn_0429	0	8	have	VBP	(VP*	have	01	-	-	-
+cnn_0429	0	9	heard	VBN	(VP*	hear	01	1	-	-
+cnn_0429	0	10	the	DT	(NP(NP*	-	-	-	-	-
+cnn_0429	0	11	announcements	NNS	*)	-	-	-	-	-
+cnn_0429	0	12	of	IN	(PP*	-	-	-	-	-
+cnn_0429	0	13	major	JJ	(NP(NP*	-	-	-	-	-
+cnn_0429	0	14	investments	NNS	*)	investment	01	3	-	-
+cnn_0429	0	15	in	IN	(PP*	-	-	-	-	-
+cnn_0429	0	16	Russia	NNP	(NP*))	-	-	-	-	(7)
+cnn_0429	0	17	by	IN	(PP*	-	-	-	-	-
+cnn_0429	0	18	British	JJ	(NP*	-	-	-	-	-
+cnn_0429	0	19	companies	NNS	*)))))))	company	-	1	-	-
+cnn_0429	0	20	.	.	*))	-	-	-	-	-
+
+cnn_0429	0	0	We	PRP	(TOP(S(S(NP*)	-	-	-	-	(6)
+cnn_0429	0	1	have	VBP	(VP*	have	01	-	-	-
+cnn_0429	0	2	also	RB	(ADVP*)	-	-	-	-	-
+cnn_0429	0	3	heard	VBN	(VP*	hear	01	1	-	-
+cnn_0429	0	4	a	DT	(NP(NP*	-	-	-	-	-
+cnn_0429	0	5	different	JJ	*	-	-	-	-	-
+cnn_0429	0	6	sign	NN	*)	sign	-	2	-	-
+cnn_0429	0	7	of	IN	(PP*	-	-	-	-	-
+cnn_0429	0	8	Sir	NNP	(S(NP*	-	-	-	-	-
+cnn_0429	0	9	Paul	NNP	*	-	-	-	-	-
+cnn_0429	0	10	McCartney	NNP	*)	-	-	-	-	-
+cnn_0429	0	11	playing	VBG	(VP*	play	01	4	-	-
+cnn_0429	0	12	to	IN	(PP*	-	-	-	-	-
+cnn_0429	0	13	enthusiastic	JJ	(NP*	-	-	-	-	-
+cnn_0429	0	14	crowds	NNS	*))	-	-	-	-	-
+cnn_0429	0	15	in	IN	(PP*	-	-	-	-	-
+cnn_0429	0	16	Red	NNP	(NP*	-	-	-	-	-
+cnn_0429	0	17	Square	NNP	*)))))))))	-	-	-	-	-
+cnn_0429	0	18	,	,	*	-	-	-	-	-
+cnn_0429	0	19	and	CC	*	-	-	-	-	-
+cnn_0429	0	20	we	PRP	(S(NP*)	-	-	-	-	(6)
+cnn_0429	0	21	,	,	*	-	-	-	-	-
+cnn_0429	0	22	in	IN	(PP*	-	-	-	-	-
+cnn_0429	0	23	turn	NN	(NP*))	-	-	-	-	-
+cnn_0429	0	24	,	,	*	-	-	-	-	-
+cnn_0429	0	25	have	VBP	(VP*	have	01	-	-	-
+cnn_0429	0	26	been	VBN	(VP*	be	03	-	-	-
+cnn_0429	0	27	enthralled	VBN	(VP*	enthrall	01	-	-	-
+cnn_0429	0	28	by	IN	(PP*	-	-	-	-	-
+cnn_0429	0	29	the	DT	(NP(NP*	-	-	-	-	-
+cnn_0429	0	30	celebrations	NNS	*)	-	-	-	-	-
+cnn_0429	0	31	of	IN	(PP*	-	-	-	-	-
+cnn_0429	0	32	your	PRP$	(NP*	-	-	-	-	(5|(11)
+cnn_0429	0	33	own	JJ	*	-	-	-	-	-
+cnn_0429	0	34	city	NN	*))	city	-	1	-	5)
+cnn_0429	0	35	in	IN	(PP*	-	-	-	-	-
+cnn_0429	0	36	Petersburg	NNP	(NP*))))))))	-	-	-	-	(5)
+cnn_0429	0	37	.	.	*))	-	-	-	-	-
+
+cnn_0429	0	0	At	IN	(TOP(S(PP*	-	-	-	-	-
+cnn_0429	0	1	the	DT	(NP*	-	-	-	-	-
+cnn_0429	0	2	same	JJ	*	-	-	-	-	-
+cnn_0429	0	3	time	NN	*))	time	-	12	-	-
+cnn_0429	0	4	,	,	*	-	-	-	-	-
+cnn_0429	0	5	work	NN	(NP*)	work	-	3	-	-
+cnn_0429	0	6	continues	VBZ	(VP*	continue	01	1	-	-
+cnn_0429	0	7	to	TO	(S(VP*	-	-	-	-	-
+cnn_0429	0	8	bring	VB	(VP*	bring	01	1	-	-
+cnn_0429	0	9	the	DT	(NP(NP*	-	-	-	-	-
+cnn_0429	0	10	young	JJ	*	-	-	-	-	-
+cnn_0429	0	11	people	NNS	*)	people	-	2	-	-
+cnn_0429	0	12	of	IN	(PP*	-	-	-	-	-
+cnn_0429	0	13	our	PRP$	(NP*	-	-	-	-	(6|(0)
+cnn_0429	0	14	countries	NNS	*)))	country	-	3	-	6)
+cnn_0429	0	15	closer	RBR	(ADVP*	-	-	-	-	-
+cnn_0429	0	16	together	RB	*)	-	-	-	-	-
+cnn_0429	0	17	through	IN	(PP*	-	-	-	-	-
+cnn_0429	0	18	language	NN	(NP(NP*)	-	-	-	-	-
+cnn_0429	0	19	,	,	*	-	-	-	-	-
+cnn_0429	0	20	teaching	NN	(NP*)	teaching	-	1	-	-
+cnn_0429	0	21	,	,	*	-	-	-	-	-
+cnn_0429	0	22	school	NN	(NP*	school	-	2	-	-
+cnn_0429	0	23	exchanges	NNS	*)	exchange	01	1	-	-
+cnn_0429	0	24	and	CC	*	-	-	-	-	-
+cnn_0429	0	25	university	NN	(NP*	-	-	-	-	-
+cnn_0429	0	26	programs	NNS	*)))))))	program	-	4	-	-
+cnn_0429	0	27	.	.	*))	-	-	-	-	-
+
+cnn_0429	0	0	We	PRP	(TOP(S(NP*)	-	-	-	-	(6)
+cnn_0429	0	1	have	VBP	(VP*	have	03	2	-	-
+cnn_0429	0	2	a	DT	(NP(NP*	-	-	-	-	(3
+cnn_0429	0	3	vibrant	JJ	(ADJP*	-	-	-	-	-
+cnn_0429	0	4	and	CC	*	-	-	-	-	-
+cnn_0429	0	5	exciting	JJ	*)	-	-	-	-	-
+cnn_0429	0	6	relationship	NN	*)	relationship	01	3	-	-
+cnn_0429	0	7	from	IN	(SBAR(WHPP*	-	-	-	-	-
+cnn_0429	0	8	which	WDT	(WHNP*))	-	-	-	-	-
+cnn_0429	0	9	we	PRP	(S(NP(NP*)	-	-	-	-	(6
+cnn_0429	0	10	both	DT	(NP*))	-	-	-	-	(0)|6)
+cnn_0429	0	11	derive	VBP	(VP*	derive	01	1	-	-
+cnn_0429	0	12	mass	JJ	(NP*	-	-	-	-	-
+cnn_0429	0	13	benefit	NN	*))))))	benefit	-	1	-	3)
+cnn_0429	0	14	.	.	*))	-	-	-	-	-
+
+cnn_0429	0	0	Mr.	NNP	(TOP(S(NP*	-	-	-	-	(11
+cnn_0429	0	1	President	NNP	*)	-	-	-	-	11)
+cnn_0429	0	2	,	,	*	-	-	-	-	-
+cnn_0429	0	3	your	PRP$	(NP*	-	-	-	-	(7|(11)
+cnn_0429	0	4	country	NN	*)	country	-	3	-	7)
+cnn_0429	0	5	is	VBZ	(VP*	be	01	1	-	-
+cnn_0429	0	6	rich	JJ	(ADJP*))	-	-	-	-	-
+cnn_0429	0	7	--	.	*))	-	-	-	-	-
+
+#end document

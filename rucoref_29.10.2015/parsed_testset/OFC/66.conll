@@ -1,0 +1,1154 @@
+# newdoc id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p1
+# par_text = В Сан-Франциско прошло технологическое шоу TechCrunch50 – конкурс - конференция , посвященная высокотехнологическим стартапам .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p1-s1
+# text = В Сан-Франциско прошло технологическое шоу TechCrunch50 - конкурс - конференция, посвященная высокотехнологическим стартапам.
+1	В	_	_	_	_	_	_	_	Shift=0
+2	Сан-Франциско	_	_	_	_	_	_	_	Shift=2
+3	прошло	_	_	_	_	_	_	_	Shift=16
+4	технологическое	_	_	_	_	_	_	_	RuCor_chain_id=2205|RuCor_group_id=469862|Shift=23
+5	шоу	_	_	_	_	_	_	_	RuCor_chain_id=2205|RuCor_group_id=469862|Shift=39
+6	TechCrunch50	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2205|RuCor_group_id=469862|RuCor_link_id=0|Shift=43
+7	-	_	_	_	_	_	_	_	_
+8	конкурс	_	_	_	_	_	_	_	RuCor_chain_id=2205|RuCor_group_id=469863|Shift=58
+9	-	_	_	_	_	_	_	_	RuCor_chain_id=2205|RuCor_group_id=469863|Shift=66
+10	конференция	_	_	_	_	_	_	_	RuCor_chain_id=2205|RuCor_group_id=469863|Shift=68|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=80
+12	посвященная	_	_	_	_	_	_	_	Shift=82
+13	высокотехнологическим	_	_	_	_	_	_	_	Shift=94
+14	стартапам	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2206|RuCor_group_id=469864|RuCor_link_id=0|Shift=116|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=126
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p2
+# par_text = Новинки сезона – микроблог для корпораций и Т9 для экранных клавиатур .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p2-s1
+# text = Новинки сезона - микроблог для корпораций и Т9 для экранных клавиатур.
+1	Новинки	_	_	_	_	_	_	_	Shift=128
+2	сезона	_	_	_	_	_	_	_	Shift=136
+3	-	_	_	_	_	_	_	_	_
+4	микроблог	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2207|RuCor_group_id=469865|RuCor_link_id=0|Shift=145
+5	для	_	_	_	_	_	_	_	RuCor_chain_id=2207|RuCor_group_id=469865|Shift=155
+6	корпораций	_	_	_	_	_	_	_	RuCor_chain_id=2207|RuCor_group_id=469865|Shift=159
+7	и	_	_	_	_	_	_	_	Shift=170
+8	Т9	_	_	_	_	_	_	_	Shift=172
+9	для	_	_	_	_	_	_	_	Shift=175
+10	экранных	_	_	_	_	_	_	_	Shift=179
+11	клавиатур	_	_	_	_	_	_	_	Shift=188|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=198
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p3
+# par_text = На прошлой неделе в Сан-Франциско в Design Center Concourse закончилась конференция , организованная TechCrunch , интернет-проектом , посвященным высоким технологиям и стартапам .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p3-s1
+# text = На прошлой неделе в Сан-Франциско в Design Center Concourse закончилась конференция, организованная TechCrunch, интернет-проектом, посвященным высоким технологиям и стартапам.
+1	На	_	_	_	_	_	_	_	Shift=200
+2	прошлой	_	_	_	_	_	_	_	Shift=203
+3	неделе	_	_	_	_	_	_	_	Shift=211
+4	в	_	_	_	_	_	_	_	Shift=218
+5	Сан-Франциско	_	_	_	_	_	_	_	Shift=220
+6	в	_	_	_	_	_	_	_	Shift=234
+7	Design	_	_	_	_	_	_	_	Shift=236
+8	Center	_	_	_	_	_	_	_	Shift=243
+9	Concourse	_	_	_	_	_	_	_	Shift=250
+10	закончилась	_	_	_	_	_	_	_	Shift=260
+11	конференция	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2205|RuCor_group_id=469867|RuCor_link_id=469863|Shift=272|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=284
+13	организованная	_	_	_	_	_	_	_	Shift=286
+14	TechCrunch	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2208|RuCor_group_id=469868|RuCor_link_id=0|Shift=301|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=312
+16	интернет-проектом	_	_	_	_	_	_	_	Shift=314|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=332
+18	посвященным	_	_	_	_	_	_	_	Shift=334
+19	высоким	_	_	_	_	_	_	_	Shift=346
+20	технологиям	_	_	_	_	_	_	_	Shift=354
+21	и	_	_	_	_	_	_	_	Shift=366
+22	стартапам	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2206|RuCor_group_id=469872|RuCor_link_id=469864|Shift=368|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=378
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p4
+# par_text = Всё прошло весьма солидно , с помпой .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p4-s1
+# text = Всё прошло весьма солидно, с помпой.
+1	Всё	_	_	_	_	_	_	_	Shift=380
+2	прошло	_	_	_	_	_	_	_	Shift=384
+3	весьма	_	_	_	_	_	_	_	Shift=391
+4	солидно	_	_	_	_	_	_	_	Shift=398|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=406
+6	с	_	_	_	_	_	_	_	Shift=408
+7	помпой	_	_	_	_	_	_	_	Shift=410|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=417
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p5
+# par_text = Несмотря на кризис , было продано 1700 билетов по цене от 2000 – 3000 долл . , много прессы .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p5-s1
+# text = Несмотря на кризис, было продано 1700 билетов по цене от 2000 - 3000 долл.
+1	Несмотря	_	_	_	_	_	_	_	Shift=419
+2	на	_	_	_	_	_	_	_	Shift=428
+3	кризис	_	_	_	_	_	_	_	Shift=431|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=438
+5	было	_	_	_	_	_	_	_	Shift=440
+6	продано	_	_	_	_	_	_	_	Shift=445
+7	1700	_	_	_	_	_	_	_	Shift=453
+8	билетов	_	_	_	_	_	_	_	Shift=458
+9	по	_	_	_	_	_	_	_	Shift=466
+10	цене	_	_	_	_	_	_	_	Shift=469
+11	от	_	_	_	_	_	_	_	Shift=474
+12	2000	_	_	_	_	_	_	_	Shift=477
+13	-	_	_	_	_	_	_	_	_
+14	3000	_	_	_	_	_	_	_	Shift=484
+15	долл	_	_	_	_	_	_	_	Shift=489|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=494
+
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p5-s2
+# text = много прессы.
+1	много	_	_	_	_	_	_	_	Shift=498
+2	прессы	_	_	_	_	_	_	_	Shift=504|SpaceAfter=No
+3	.	_	_	_	_	_	_	_	Shift=511
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p6
+# par_text = Мероприятие проводилось второй раз .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p6-s1
+# text = Мероприятие проводилось второй раз.
+1	Мероприятие	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2205|RuCor_group_id=469873|RuCor_link_id=469867|Shift=513
+2	проводилось	_	_	_	_	_	_	_	Shift=525
+3	второй	_	_	_	_	_	_	_	Shift=537
+4	раз	_	_	_	_	_	_	_	Shift=544|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=548
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p7
+# par_text = В прошлом году было 40 финалистов , а сейчас – 52 из тысячи претендентов .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p7-s1
+# text = В прошлом году было 40 финалистов, а сейчас - 52 из тысячи претендентов.
+1	В	_	_	_	_	_	_	_	Shift=550
+2	прошлом	_	_	_	_	_	_	_	Shift=552
+3	году	_	_	_	_	_	_	_	Shift=560
+4	было	_	_	_	_	_	_	_	Shift=565
+5	40	_	_	_	_	_	_	_	Shift=570
+6	финалистов	_	_	_	_	_	_	_	Shift=573|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=584
+8	а	_	_	_	_	_	_	_	Shift=586
+9	сейчас	_	_	_	_	_	_	_	Shift=588
+10	-	_	_	_	_	_	_	_	_
+11	52	_	_	_	_	_	_	_	Shift=597
+12	из	_	_	_	_	_	_	_	Shift=600
+13	тысячи	_	_	_	_	_	_	_	Shift=603
+14	претендентов	_	_	_	_	_	_	_	Shift=610|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=623
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p8
+# par_text = Конференция проходила три дня – каждый день работало по четыре секции ( пять выступающих и 8 минут на презентацию каждому ) .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p8-s1
+# text = Конференция проходила три дня - каждый день работало по четыре секции (пять выступающих и 8 минут на презентацию каждому).
+1	Конференция	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2205|RuCor_group_id=469874|RuCor_link_id=469867|Shift=625
+2	проходила	_	_	_	_	_	_	_	Shift=637
+3	три	_	_	_	_	_	_	_	Shift=647
+4	дня	_	_	_	_	_	_	_	Shift=651
+5	-	_	_	_	_	_	_	_	_
+6	каждый	_	_	_	_	_	_	_	Shift=657
+7	день	_	_	_	_	_	_	_	Shift=664
+8	работало	_	_	_	_	_	_	_	Shift=669
+9	по	_	_	_	_	_	_	_	Shift=678
+10	четыре	_	_	_	_	_	_	_	Shift=681
+11	секции	_	_	_	_	_	_	_	Shift=688
+12	(	_	_	_	_	_	_	_	Shift=695|SpaceAfter=No
+13	пять	_	_	_	_	_	_	_	Shift=697
+14	выступающих	_	_	_	_	_	_	_	Shift=702
+15	и	_	_	_	_	_	_	_	Shift=714
+16	8	_	_	_	_	_	_	_	Shift=716
+17	минут	_	_	_	_	_	_	_	Shift=718
+18	на	_	_	_	_	_	_	_	Shift=724
+19	презентацию	_	_	_	_	_	_	_	Shift=727
+20	каждому	_	_	_	_	_	_	_	Shift=739|SpaceAfter=No
+21	)	_	_	_	_	_	_	_	Shift=747|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=749
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p9
+# par_text = Победителем стал Yammer , получивший 50000 долл . .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p9-s1
+# text = Победителем стал Yammer, получивший 50000 долл...
+1	Победителем	_	_	_	_	_	_	_	Shift=751
+2	стал	_	_	_	_	_	_	_	Shift=763
+3	Yammer	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2210|RuCor_group_id=469875|RuCor_link_id=0|Shift=768|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=775
+5	получивший	_	_	_	_	_	_	_	Shift=777
+6	50000	_	_	_	_	_	_	_	Shift=788
+7	долл	_	_	_	_	_	_	_	Shift=794|SpaceAfter=No
+8	...	_	_	_	_	_	_	_	Shift=799
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p10
+# par_text = Компания Geni создала сервис ( в духе популярного микроблога Twitter ) для нужд бизнеса и межкорпоративных коммуникаций .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p10-s1
+# text = Компания Geni создала сервис (в духе популярного микроблога Twitter) для нужд бизнеса и межкорпоративных коммуникаций.
+1	Компания	_	_	_	_	_	_	_	RuCor_chain_id=2211|RuCor_group_id=469876|Shift=803
+2	Geni	_	_	_	_	_	_	_	RuCor_chain_id=2211|RuCor_group_id=469876|Shift=812
+3	создала	_	_	_	_	_	_	_	Shift=817
+4	сервис	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2212|RuCor_group_id=469877|RuCor_link_id=0|Shift=825
+5	(	_	_	_	_	_	_	_	RuCor_chain_id=2212|RuCor_group_id=469877|Shift=832|SpaceAfter=No
+6	в	_	_	_	_	_	_	_	RuCor_chain_id=2212|RuCor_group_id=469877|Shift=834
+7	духе	_	_	_	_	_	_	_	RuCor_chain_id=2212|RuCor_group_id=469877|Shift=836
+8	популярного	_	_	_	_	_	_	_	RuCor_chain_id=2212|RuCor_group_id=469877|Shift=841
+9	микроблога	_	_	_	_	_	_	_	RuCor_chain_id=2212|RuCor_group_id=469877|Shift=853
+10	Twitter	_	_	_	_	_	_	_	RuCor_chain_id=2212|RuCor_group_id=469877|Shift=864|SpaceAfter=No
+11	)	_	_	_	_	_	_	_	RuCor_chain_id=2212|RuCor_group_id=469877|Shift=872
+12	для	_	_	_	_	_	_	_	RuCor_chain_id=2212|RuCor_group_id=469877|Shift=874
+13	нужд	_	_	_	_	_	_	_	RuCor_chain_id=2212|RuCor_group_id=469877|Shift=878
+14	бизнеса	_	_	_	_	_	_	_	RuCor_chain_id=2212|RuCor_group_id=469877|Shift=883
+15	и	_	_	_	_	_	_	_	RuCor_chain_id=2212|RuCor_group_id=469877|Shift=891
+16	межкорпоративных	_	_	_	_	_	_	_	RuCor_chain_id=2212|RuCor_group_id=469877|Shift=893
+17	коммуникаций	_	_	_	_	_	_	_	RuCor_chain_id=2212|RuCor_group_id=469877|Shift=910|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=923
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p11
+# par_text = От 2 до 10 тыс . пользователей могут заниматься микроблогингом ( то есть отвечать на вопрос « что ты сейчас делаешь ? » и быстро обмениваться сообщениями ) .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p11-s1
+# text = От 2 до 10 тыс.
+1	От	_	_	_	_	_	_	_	Shift=925
+2	2	_	_	_	_	_	_	_	Shift=928
+3	до	_	_	_	_	_	_	_	Shift=930
+4	10	_	_	_	_	_	_	_	Shift=933
+5	тыс	_	_	_	_	_	_	_	Shift=936|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=940
+
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p11-s2
+# text = пользователей могут заниматься микроблогингом (то есть отвечать на вопрос ``что ты сейчас делаешь?''
+1	пользователей	_	_	_	_	_	_	_	Shift=942
+2	могут	_	_	_	_	_	_	_	Shift=956
+3	заниматься	_	_	_	_	_	_	_	Shift=962
+4	микроблогингом	_	_	_	_	_	_	_	Shift=973
+5	(	_	_	_	_	_	_	_	Shift=988|SpaceAfter=No
+6	то	_	_	_	_	_	_	_	Shift=990
+7	есть	_	_	_	_	_	_	_	Shift=993
+8	отвечать	_	_	_	_	_	_	_	Shift=998
+9	на	_	_	_	_	_	_	_	Shift=1007
+10	вопрос	_	_	_	_	_	_	_	Shift=1010
+11	``	_	_	_	_	_	_	_	Shift=1017|SpaceAfter=No
+12	что	_	_	_	_	_	_	_	Shift=1019
+13	ты	_	_	_	_	_	_	_	Shift=1023
+14	сейчас	_	_	_	_	_	_	_	Shift=1026
+15	делаешь	_	_	_	_	_	_	_	Shift=1033|SpaceAfter=No
+16	?	_	_	_	_	_	_	_	Shift=1041|SpaceAfter=No
+17	''	_	_	_	_	_	_	_	Shift=1043
+
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p11-s3
+# text = и быстро обмениваться сообщениями).
+1	и	_	_	_	_	_	_	_	Shift=1045
+2	быстро	_	_	_	_	_	_	_	Shift=1047
+3	обмениваться	_	_	_	_	_	_	_	Shift=1054
+4	сообщениями	_	_	_	_	_	_	_	Shift=1067|SpaceAfter=No
+5	)	_	_	_	_	_	_	_	Shift=1079|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=1081
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p12
+# par_text = Yammer позволяет формировать закрытые группы и работать как на сервере производителя , так и на сервере организации , которая им пользуется .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p12-s1
+# text = Yammer позволяет формировать закрытые группы и работать как на сервере производителя, так и на сервере организации, которая им пользуется.
+1	Yammer	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2212|RuCor_group_id=469879|RuCor_link_id=469877|Shift=1083
+2	позволяет	_	_	_	_	_	_	_	Shift=1090
+3	формировать	_	_	_	_	_	_	_	Shift=1100
+4	закрытые	_	_	_	_	_	_	_	Shift=1112
+5	группы	_	_	_	_	_	_	_	Shift=1121
+6	и	_	_	_	_	_	_	_	Shift=1128
+7	работать	_	_	_	_	_	_	_	Shift=1130
+8	как	_	_	_	_	_	_	_	Shift=1139
+9	на	_	_	_	_	_	_	_	Shift=1143
+10	сервере	_	_	_	_	_	_	_	Shift=1146
+11	производителя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2211|RuCor_group_id=469881|RuCor_link_id=469876|Shift=1154|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=1168
+13	так	_	_	_	_	_	_	_	Shift=1170
+14	и	_	_	_	_	_	_	_	Shift=1174
+15	на	_	_	_	_	_	_	_	Shift=1176
+16	сервере	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2213|RuCor_group_id=469882|RuCor_link_id=0|Shift=1179
+17	организации	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2214|RuCor_group_id=469883|RuCor_link_id=0|Shift=1187|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=1199
+19	которая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2214|RuCor_group_id=469884|RuCor_link_id=469883|Shift=1201
+20	им	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2213|RuCor_group_id=469885|RuCor_link_id=469882|Shift=1209
+21	пользуется	_	_	_	_	_	_	_	Shift=1212|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=1223
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p13
+# par_text = В этом случае вы платите по доллару в месяц за каждого участника сети ( три месяца , правда , бесплатно ) .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p13-s1
+# text = В этом случае вы платите по доллару в месяц за каждого участника сети (три месяца, правда, бесплатно).
+1	В	_	_	_	_	_	_	_	Shift=1225
+2	этом	_	_	_	_	_	_	_	Shift=1227
+3	случае	_	_	_	_	_	_	_	Shift=1232
+4	вы	_	_	_	_	_	_	_	Shift=1239
+5	платите	_	_	_	_	_	_	_	Shift=1242
+6	по	_	_	_	_	_	_	_	Shift=1250
+7	доллару	_	_	_	_	_	_	_	Shift=1253
+8	в	_	_	_	_	_	_	_	Shift=1261
+9	месяц	_	_	_	_	_	_	_	Shift=1263
+10	за	_	_	_	_	_	_	_	Shift=1269
+11	каждого	_	_	_	_	_	_	_	Shift=1272
+12	участника	_	_	_	_	_	_	_	Shift=1280
+13	сети	_	_	_	_	_	_	_	Shift=1290
+14	(	_	_	_	_	_	_	_	Shift=1295|SpaceAfter=No
+15	три	_	_	_	_	_	_	_	Shift=1297
+16	месяца	_	_	_	_	_	_	_	Shift=1301|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=1308
+18	правда	_	_	_	_	_	_	_	Shift=1310|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=1317
+20	бесплатно	_	_	_	_	_	_	_	Shift=1319|SpaceAfter=No
+21	)	_	_	_	_	_	_	_	Shift=1329|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=1331
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p14
+# par_text = Yammer , разумеется , доступен через iPhone , Blackberry , программы мгновенного обмена сообщениями , SMS и e-mail .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p14-s1
+# text = Yammer, разумеется, доступен через iPhone, Blackberry, программы мгновенного обмена сообщениями, SMS и e-mail.
+1	Yammer	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2210|RuCor_group_id=469886|RuCor_link_id=469880|Shift=1333|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=1340
+3	разумеется	_	_	_	_	_	_	_	Shift=1342|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1353
+5	доступен	_	_	_	_	_	_	_	Shift=1355
+6	через	_	_	_	_	_	_	_	Shift=1364
+7	iPhone	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2215|RuCor_group_id=469887|RuCor_link_id=0|Shift=1370|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1377
+9	Blackberry	_	_	_	_	_	_	_	Shift=1379|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=1390
+11	программы	_	_	_	_	_	_	_	Shift=1392
+12	мгновенного	_	_	_	_	_	_	_	Shift=1402
+13	обмена	_	_	_	_	_	_	_	Shift=1414
+14	сообщениями	_	_	_	_	_	_	_	Shift=1421|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=1433
+16	SMS	_	_	_	_	_	_	_	Shift=1435
+17	и	_	_	_	_	_	_	_	Shift=1439
+18	e-mail	_	_	_	_	_	_	_	Shift=1441|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=1448
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p15
+# par_text = В числе победителей были и другие стартапы .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p15-s1
+# text = В числе победителей были и другие стартапы.
+1	В	_	_	_	_	_	_	_	Shift=1450
+2	числе	_	_	_	_	_	_	_	Shift=1452
+3	победителей	_	_	_	_	_	_	_	Shift=1458
+4	были	_	_	_	_	_	_	_	Shift=1470
+5	и	_	_	_	_	_	_	_	Shift=1475
+6	другие	_	_	_	_	_	_	_	Shift=1477
+7	стартапы	_	_	_	_	_	_	_	Shift=1484|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=1493
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p16
+# par_text = Atmosphir – трехмерная игровая платформа , в которой можно собрать собственный игровой уровень , используя заданные элементы : мосты , открытые пространства , препятствия .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p16-s1
+# text = Atmosphir - трехмерная игровая платформа, в которой можно собрать собственный игровой уровень, используя заданные элементы: мосты, открытые пространства, препятствия.
+1	Atmosphir	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2216|RuCor_group_id=469888|RuCor_link_id=0|Shift=1495
+2	-	_	_	_	_	_	_	_	_
+3	трехмерная	_	_	_	_	_	_	_	RuCor_chain_id=2216|RuCor_group_id=469889|Shift=1507
+4	игровая	_	_	_	_	_	_	_	RuCor_chain_id=2216|RuCor_group_id=469889|Shift=1518
+5	платформа	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2216|RuCor_group_id=469889|RuCor_link_id=469888|Shift=1526|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1536
+7	в	_	_	_	_	_	_	_	Shift=1538
+8	которой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=2216|RuCor_group_id=469890|RuCor_link_id=469889|Shift=1540
+9	можно	_	_	_	_	_	_	_	Shift=1548
+10	собрать	_	_	_	_	_	_	_	Shift=1554
+11	собственный	_	_	_	_	_	_	_	Shift=1562
+12	игровой	_	_	_	_	_	_	_	Shift=1574
+13	уровень	_	_	_	_	_	_	_	Shift=1582|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=1590
+15	используя	_	_	_	_	_	_	_	Shift=1592
+16	заданные	_	_	_	_	_	_	_	Shift=1602
+17	элементы	_	_	_	_	_	_	_	Shift=1611|SpaceAfter=No
+18	:	_	_	_	_	_	_	_	Shift=1620
+19	мосты	_	_	_	_	_	_	_	Shift=1622|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=1628
+21	открытые	_	_	_	_	_	_	_	Shift=1630
+22	пространства	_	_	_	_	_	_	_	Shift=1639|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=1652
+24	препятствия	_	_	_	_	_	_	_	Shift=1654|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=1666
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p17
+# par_text = Довольно незамысловатый редактор .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p17-s1
+# text = Довольно незамысловатый редактор.
+1	Довольно	_	_	_	_	_	_	_	Shift=1668
+2	незамысловатый	_	_	_	_	_	_	_	Shift=1677
+3	редактор	_	_	_	_	_	_	_	Shift=1692|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=1701
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p18
+# par_text = Программа доступно на Маке , PC и на Linux .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p18-s1
+# text = Программа доступно на Маке, PC и на Linux.
+1	Программа	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2216|RuCor_group_id=469891|RuCor_link_id=469890|Shift=1703
+2	доступно	_	_	_	_	_	_	_	Shift=1713
+3	на	_	_	_	_	_	_	_	Shift=1722
+4	Маке	_	_	_	_	_	_	_	Shift=1725|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1730
+6	PC	_	_	_	_	_	_	_	Shift=1732
+7	и	_	_	_	_	_	_	_	Shift=1735
+8	на	_	_	_	_	_	_	_	Shift=1737
+9	Linux	_	_	_	_	_	_	_	Shift=1740|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=1746
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p19
+# par_text = Автор творения – Minor Studios .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p19-s1
+# text = Автор творения - Minor Studios.
+1	Автор	_	_	_	_	_	_	_	Shift=1748
+2	творения	_	_	_	_	_	_	_	Shift=1754
+3	-	_	_	_	_	_	_	_	_
+4	Minor	_	_	_	_	_	_	_	Shift=1765
+5	Studios	_	_	_	_	_	_	_	Shift=1771|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=1779
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p20
+# par_text = FitBit – гаджет в виде клипсы , похожий на hitech-прищепку для белья .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p20-s1
+# text = FitBit - гаджет в виде клипсы, похожий на hitech- прищепку для белья.
+1	FitBit	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2217|RuCor_group_id=469892|RuCor_link_id=0|Shift=1781
+2	-	_	_	_	_	_	_	_	_
+3	гаджет	_	_	_	_	_	_	_	Shift=1790
+4	в	_	_	_	_	_	_	_	Shift=1797
+5	виде	_	_	_	_	_	_	_	Shift=1799
+6	клипсы	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2217|RuCor_group_id=469893|RuCor_link_id=469892|Shift=1804|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=1811
+8	похожий	_	_	_	_	_	_	_	Shift=1813
+9	на	_	_	_	_	_	_	_	Shift=1821
+10	hitech-	_	_	_	_	_	_	_	Shift=1824
+11	прищепку	_	_	_	_	_	_	_	Shift=1831
+12	для	_	_	_	_	_	_	_	Shift=1840
+13	белья	_	_	_	_	_	_	_	Shift=1844|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=1850
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p21
+# par_text = Она фиксирует , сколько ты нашагал в день , и шлет отчеты в сеть .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p21-s1
+# text = Она фиксирует, сколько ты нашагал в день, и шлет отчеты в сеть.
+1	Она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2217|RuCor_group_id=469894|RuCor_link_id=469893|Shift=1852
+2	фиксирует	_	_	_	_	_	_	_	Shift=1856|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1866
+4	сколько	_	_	_	_	_	_	_	Shift=1868
+5	ты	_	_	_	_	_	_	_	Shift=1876
+6	нашагал	_	_	_	_	_	_	_	Shift=1879
+7	в	_	_	_	_	_	_	_	Shift=1887
+8	день	_	_	_	_	_	_	_	Shift=1889|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1894
+10	и	_	_	_	_	_	_	_	Shift=1896
+11	шлет	_	_	_	_	_	_	_	Shift=1898
+12	отчеты	_	_	_	_	_	_	_	Shift=1903
+13	в	_	_	_	_	_	_	_	Shift=1910
+14	сеть	_	_	_	_	_	_	_	Shift=1912|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=1917
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p22
+# par_text = Вы можете радоваться и сокрушаться количеству соженных калорий .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p22-s1
+# text = Вы можете радоваться и сокрушаться количеству соженных калорий.
+1	Вы	_	_	_	_	_	_	_	Shift=1919
+2	можете	_	_	_	_	_	_	_	Shift=1922
+3	радоваться	_	_	_	_	_	_	_	Shift=1929
+4	и	_	_	_	_	_	_	_	Shift=1940
+5	сокрушаться	_	_	_	_	_	_	_	Shift=1942
+6	количеству	_	_	_	_	_	_	_	Shift=1954
+7	соженных	_	_	_	_	_	_	_	Shift=1965
+8	калорий	_	_	_	_	_	_	_	Shift=1974|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=1982
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p23
+# par_text = Для нового iPod , кстати , тоже предусмотрена похожая примочка от Nike .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p23-s1
+# text = Для нового iPod, кстати, тоже предусмотрена похожая примочка от Nike.
+1	Для	_	_	_	_	_	_	_	Shift=1984
+2	нового	_	_	_	_	_	_	_	Shift=1988
+3	iPod	_	_	_	_	_	_	_	Shift=1995|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2000
+5	кстати	_	_	_	_	_	_	_	Shift=2002|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=2009
+7	тоже	_	_	_	_	_	_	_	Shift=2011
+8	предусмотрена	_	_	_	_	_	_	_	Shift=2016
+9	похожая	_	_	_	_	_	_	_	Shift=2030
+10	примочка	_	_	_	_	_	_	_	Shift=2038
+11	от	_	_	_	_	_	_	_	Shift=2047
+12	Nike	_	_	_	_	_	_	_	Shift=2050|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=2055
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p24
+# par_text = GoodGuide – это серьезный рекомендательный ресурс с постоянно расширяющимся ассортиметном товаров , о которых можно получить справку на предмет их соответствия разным критериям , от полезности для здоровья до « социальной приемлемости » .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p24-s1
+# text = GoodGuide - это серьезный рекомендательный ресурс с постоянно расширяющимся ассортиметном товаров, о которых можно получить справку на предмет их соответствия разным критериям, от полезности для здоровья до ``социальной приемлемости ``.
+1	GoodGuide	_	_	_	_	_	_	_	Shift=2057
+2	-	_	_	_	_	_	_	_	_
+3	это	_	_	_	_	_	_	_	Shift=2069
+4	серьезный	_	_	_	_	_	_	_	Shift=2073
+5	рекомендательный	_	_	_	_	_	_	_	Shift=2083
+6	ресурс	_	_	_	_	_	_	_	Shift=2100
+7	с	_	_	_	_	_	_	_	Shift=2107
+8	постоянно	_	_	_	_	_	_	_	Shift=2109
+9	расширяющимся	_	_	_	_	_	_	_	Shift=2119
+10	ассортиметном	_	_	_	_	_	_	_	Shift=2133
+11	товаров	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2218|RuCor_group_id=469895|RuCor_link_id=0|Shift=2147|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=2155
+13	о	_	_	_	_	_	_	_	Shift=2157
+14	которых	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2218|RuCor_group_id=469896|RuCor_link_id=469895|Shift=2159
+15	можно	_	_	_	_	_	_	_	Shift=2167
+16	получить	_	_	_	_	_	_	_	Shift=2173
+17	справку	_	_	_	_	_	_	_	Shift=2182
+18	на	_	_	_	_	_	_	_	Shift=2190
+19	предмет	_	_	_	_	_	_	_	Shift=2193
+20	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2218|RuCor_group_id=469897|RuCor_link_id=469896|Shift=2201
+21	соответствия	_	_	_	_	_	_	_	Shift=2204
+22	разным	_	_	_	_	_	_	_	Shift=2217
+23	критериям	_	_	_	_	_	_	_	Shift=2224|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=2234
+25	от	_	_	_	_	_	_	_	Shift=2236
+26	полезности	_	_	_	_	_	_	_	Shift=2239
+27	для	_	_	_	_	_	_	_	Shift=2250
+28	здоровья	_	_	_	_	_	_	_	Shift=2254
+29	до	_	_	_	_	_	_	_	Shift=2263
+30	``	_	_	_	_	_	_	_	Shift=2266|SpaceAfter=No
+31	социальной	_	_	_	_	_	_	_	Shift=2268
+32	приемлемости	_	_	_	_	_	_	_	Shift=2279
+33	``	_	_	_	_	_	_	_	Shift=2292|SpaceAfter=No
+34	.	_	_	_	_	_	_	_	Shift=2294
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p25
+# par_text = Голосуют не только пользователи , но и независимые эксперты .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p25-s1
+# text = Голосуют не только пользователи, но и независимые эксперты.
+1	Голосуют	_	_	_	_	_	_	_	Shift=2296
+2	не	_	_	_	_	_	_	_	Shift=2305
+3	только	_	_	_	_	_	_	_	Shift=2308
+4	пользователи	_	_	_	_	_	_	_	Shift=2315|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=2328
+6	но	_	_	_	_	_	_	_	Shift=2330
+7	и	_	_	_	_	_	_	_	Shift=2333
+8	независимые	_	_	_	_	_	_	_	Shift=2335
+9	эксперты	_	_	_	_	_	_	_	Shift=2347|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=2356
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p26
+# par_text = Онлайновый ресурс Grockit предназначен для самотестирования : предполагается , что суденты будут собираться вместе и отвечать на вопросы тестов , например , SAT .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p26-s1
+# text = Онлайновый ресурс Grockit предназначен для самотестирования: предполагается, что суденты будут собираться вместе и отвечать на вопросы тестов, например, SAT.
+1	Онлайновый	_	_	_	_	_	_	_	RuCor_chain_id=2219|RuCor_group_id=469898|Shift=2358
+2	ресурс	_	_	_	_	_	_	_	RuCor_chain_id=2219|RuCor_group_id=469898|Shift=2369
+3	Grockit	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2219|RuCor_group_id=469898|RuCor_link_id=0|Shift=2376
+4	предназначен	_	_	_	_	_	_	_	Shift=2384
+5	для	_	_	_	_	_	_	_	Shift=2397
+6	самотестирования	_	_	_	_	_	_	_	Shift=2401|SpaceAfter=No
+7	:	_	_	_	_	_	_	_	Shift=2418
+8	предполагается	_	_	_	_	_	_	_	Shift=2420|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=2435
+10	что	_	_	_	_	_	_	_	Shift=2437
+11	суденты	_	_	_	_	_	_	_	Shift=2441
+12	будут	_	_	_	_	_	_	_	Shift=2449
+13	собираться	_	_	_	_	_	_	_	Shift=2455
+14	вместе	_	_	_	_	_	_	_	Shift=2466
+15	и	_	_	_	_	_	_	_	Shift=2473
+16	отвечать	_	_	_	_	_	_	_	Shift=2475
+17	на	_	_	_	_	_	_	_	Shift=2484
+18	вопросы	_	_	_	_	_	_	_	Shift=2487
+19	тестов	_	_	_	_	_	_	_	Shift=2495|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=2502
+21	например	_	_	_	_	_	_	_	Shift=2504|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=2513
+23	SAT	_	_	_	_	_	_	_	Shift=2515|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=2519
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p27
+# par_text = Логика организации ресурса схожа с World of Warcraft .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p27-s1
+# text = Логика организации ресурса схожа с World of Warcraft.
+1	Логика	_	_	_	_	_	_	_	Shift=2521
+2	организации	_	_	_	_	_	_	_	Shift=2528
+3	ресурса	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2219|RuCor_group_id=469899|RuCor_link_id=469898|Shift=2540
+4	схожа	_	_	_	_	_	_	_	Shift=2548
+5	с	_	_	_	_	_	_	_	Shift=2554
+6	World	_	_	_	_	_	_	_	Shift=2556
+7	of	_	_	_	_	_	_	_	Shift=2562
+8	Warcraft	_	_	_	_	_	_	_	Shift=2565|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=2574
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p28
+# par_text = Есть чат , где можно обсуждать вопросы заданий .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p28-s1
+# text = Есть чат, где можно обсуждать вопросы заданий.
+1	Есть	_	_	_	_	_	_	_	Shift=2576
+2	чат	_	_	_	_	_	_	_	Shift=2581|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=2585
+4	где	_	_	_	_	_	_	_	Shift=2587
+5	можно	_	_	_	_	_	_	_	Shift=2591
+6	обсуждать	_	_	_	_	_	_	_	Shift=2597
+7	вопросы	_	_	_	_	_	_	_	Shift=2607
+8	заданий	_	_	_	_	_	_	_	Shift=2615|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=2623
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p29
+# par_text = Стартап уже освоил 10 млн долл .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p29-s1
+# text = Стартап уже освоил 10 млн долл.
+1	Стартап	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2219|RuCor_group_id=469900|RuCor_link_id=469899|Shift=2625
+2	уже	_	_	_	_	_	_	_	Shift=2633
+3	освоил	_	_	_	_	_	_	_	Shift=2637
+4	10	_	_	_	_	_	_	_	Shift=2644
+5	млн	_	_	_	_	_	_	_	Shift=2647
+6	долл	_	_	_	_	_	_	_	Shift=2651|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=2656
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p30
+# par_text = Swype – интересная программа для любых сенсорных дисплеев , которая позволяет вам без ошибок писать слова , просто соединяя движением пальца ( или стилусом ) буквы на виртуальной клавиатуре .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p30-s1
+# text = Swype - интересная программа для любых сенсорных дисплеев, которая позволяет вам без ошибок писать слова, просто соединяя движением пальца (или стилусом) буквы на виртуальной клавиатуре.
+1	Swype	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2220|RuCor_group_id=469901|RuCor_link_id=0|Shift=2658
+2	-	_	_	_	_	_	_	_	_
+3	интересная	_	_	_	_	_	_	_	RuCor_chain_id=2220|RuCor_group_id=469902|Shift=2666
+4	программа	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2220|RuCor_group_id=469902|RuCor_link_id=469901|Shift=2677
+5	для	_	_	_	_	_	_	_	RuCor_chain_id=2220|RuCor_group_id=469902|Shift=2687
+6	любых	_	_	_	_	_	_	_	RuCor_chain_id=2220|RuCor_group_id=469902|Shift=2691
+7	сенсорных	_	_	_	_	_	_	_	RuCor_chain_id=2220|RuCor_group_id=469902|Shift=2697
+8	дисплеев	_	_	_	_	_	_	_	RuCor_chain_id=2220|RuCor_group_id=469902|Shift=2707|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=2716
+10	которая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=2220|RuCor_group_id=469903|RuCor_link_id=469902|Shift=2718
+11	позволяет	_	_	_	_	_	_	_	Shift=2726
+12	вам	_	_	_	_	_	_	_	Shift=2736
+13	без	_	_	_	_	_	_	_	Shift=2740
+14	ошибок	_	_	_	_	_	_	_	Shift=2744
+15	писать	_	_	_	_	_	_	_	Shift=2751
+16	слова	_	_	_	_	_	_	_	Shift=2758|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=2764
+18	просто	_	_	_	_	_	_	_	Shift=2766
+19	соединяя	_	_	_	_	_	_	_	Shift=2773
+20	движением	_	_	_	_	_	_	_	Shift=2782
+21	пальца	_	_	_	_	_	_	_	Shift=2792
+22	(	_	_	_	_	_	_	_	Shift=2799|SpaceAfter=No
+23	или	_	_	_	_	_	_	_	Shift=2801
+24	стилусом	_	_	_	_	_	_	_	Shift=2805|SpaceAfter=No
+25	)	_	_	_	_	_	_	_	Shift=2814
+26	буквы	_	_	_	_	_	_	_	Shift=2816
+27	на	_	_	_	_	_	_	_	Shift=2822
+28	виртуальной	_	_	_	_	_	_	_	Shift=2825
+29	клавиатуре	_	_	_	_	_	_	_	Shift=2837|SpaceAfter=No
+30	.	_	_	_	_	_	_	_	Shift=2848
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p31
+# par_text = Создатели уверяют , что можно достичь скорости 50 слов в минуту .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p31-s1
+# text = Создатели уверяют, что можно достичь скорости 50 слов в минуту.
+1	Создатели	_	_	_	_	_	_	_	Shift=2850
+2	уверяют	_	_	_	_	_	_	_	Shift=2860|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=2868
+4	что	_	_	_	_	_	_	_	Shift=2870
+5	можно	_	_	_	_	_	_	_	Shift=2874
+6	достичь	_	_	_	_	_	_	_	Shift=2880
+7	скорости	_	_	_	_	_	_	_	Shift=2888
+8	50	_	_	_	_	_	_	_	Shift=2897
+9	слов	_	_	_	_	_	_	_	Shift=2900
+10	в	_	_	_	_	_	_	_	Shift=2905
+11	минуту	_	_	_	_	_	_	_	Shift=2907|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=2914
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p32
+# par_text = Автор программы Клиф Кашлер – соавтор T9 , программы , знакомой любому владельцу мобильного телефона , которая предсказывает печатаемое слово по мере набора , тем самым ускоряя и упрощая переписку .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p32-s1
+# text = Автор программы Клиф Кашлер - соавтор T9, программы, знакомой любому владельцу мобильного телефона, которая предсказывает печатаемое слово по мере набора, тем самым ускоряя и упрощая переписку.
+1	Автор	_	_	_	_	_	_	_	RuCor_chain_id=2221|RuCor_group_id=469904|Shift=2916
+2	программы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2220|RuCor_group_id=469905|RuCor_link_id=469902|Shift=2922
+3	Клиф	_	_	_	_	_	_	_	RuCor_chain_id=2221|RuCor_group_id=469904|Shift=2932
+4	Кашлер	_	_	_	_	_	_	_	RuCor_chain_id=2221|RuCor_group_id=469904|Shift=2937
+5	-	_	_	_	_	_	_	_	_
+6	соавтор	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2221|RuCor_group_id=469906|RuCor_link_id=0|Shift=2946
+7	T9	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2222|RuCor_group_id=469907|RuCor_link_id=0|Shift=2954|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=2957
+9	программы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2222|RuCor_group_id=469908|RuCor_link_id=469907|Shift=2959|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=2969
+11	знакомой	_	_	_	_	_	_	_	Shift=2971
+12	любому	_	_	_	_	_	_	_	Shift=2980
+13	владельцу	_	_	_	_	_	_	_	Shift=2987
+14	мобильного	_	_	_	_	_	_	_	Shift=2997
+15	телефона	_	_	_	_	_	_	_	Shift=3008|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=3017
+17	которая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=2222|RuCor_group_id=469909|RuCor_link_id=469908|Shift=3019
+18	предсказывает	_	_	_	_	_	_	_	Shift=3027
+19	печатаемое	_	_	_	_	_	_	_	Shift=3041
+20	слово	_	_	_	_	_	_	_	Shift=3052
+21	по	_	_	_	_	_	_	_	Shift=3058
+22	мере	_	_	_	_	_	_	_	Shift=3061
+23	набора	_	_	_	_	_	_	_	Shift=3066|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=3073
+25	тем	_	_	_	_	_	_	_	Shift=3075
+26	самым	_	_	_	_	_	_	_	Shift=3079
+27	ускоряя	_	_	_	_	_	_	_	Shift=3085
+28	и	_	_	_	_	_	_	_	Shift=3093
+29	упрощая	_	_	_	_	_	_	_	Shift=3095
+30	переписку	_	_	_	_	_	_	_	Shift=3103|SpaceAfter=No
+31	.	_	_	_	_	_	_	_	Shift=3113
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p33
+# par_text = На iPhone эта программа называется WrittingPad .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p33-s1
+# text = На iPhone эта программа называется WrittingPad.
+1	На	_	_	_	_	_	_	_	Shift=3115
+2	iPhone	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2215|RuCor_group_id=469910|RuCor_link_id=469887|Shift=3118
+3	эта	_	_	_	_	_	_	_	RuCor_chain_id=2220|RuCor_group_id=469911|Shift=3125
+4	программа	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2220|RuCor_group_id=469911|RuCor_link_id=469905|Shift=3129
+5	называется	_	_	_	_	_	_	_	Shift=3139
+6	WrittingPad	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2220|RuCor_group_id=469912|RuCor_link_id=469911|Shift=3150|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=3162
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p34
+# par_text = Но пока не для русского языка .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p34-s1
+# text = Но пока не для русского языка.
+1	Но	_	_	_	_	_	_	_	Shift=3164
+2	пока	_	_	_	_	_	_	_	Shift=3167
+3	не	_	_	_	_	_	_	_	Shift=3172
+4	для	_	_	_	_	_	_	_	Shift=3175
+5	русского	_	_	_	_	_	_	_	Shift=3179
+6	языка	_	_	_	_	_	_	_	Shift=3188|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=3194
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p35
+# par_text = Поскольку одни проекты находятся в стадии разработки не только « бета » , но даже « альфа » , а другие готовы прислать вам приглашение , но не сразу , а немного погодя , то в реальном доступе есть не так уж много участников конференции .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p35-s1
+# text = Поскольку одни проекты находятся в стадии разработки не только ``бета ``, но даже ``альфа ``, а другие готовы прислать вам приглашение, но не сразу, а немного погодя, то в реальном доступе есть не так уж много участников конференции.
+1	Поскольку	_	_	_	_	_	_	_	Shift=3196
+2	одни	_	_	_	_	_	_	_	Shift=3206
+3	проекты	_	_	_	_	_	_	_	Shift=3211
+4	находятся	_	_	_	_	_	_	_	Shift=3219
+5	в	_	_	_	_	_	_	_	Shift=3229
+6	стадии	_	_	_	_	_	_	_	Shift=3231
+7	разработки	_	_	_	_	_	_	_	Shift=3238
+8	не	_	_	_	_	_	_	_	Shift=3249
+9	только	_	_	_	_	_	_	_	Shift=3252
+10	``	_	_	_	_	_	_	_	Shift=3259|SpaceAfter=No
+11	бета	_	_	_	_	_	_	_	Shift=3261
+12	``	_	_	_	_	_	_	_	Shift=3266|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=3268
+14	но	_	_	_	_	_	_	_	Shift=3270
+15	даже	_	_	_	_	_	_	_	Shift=3273
+16	``	_	_	_	_	_	_	_	Shift=3278|SpaceAfter=No
+17	альфа	_	_	_	_	_	_	_	Shift=3280
+18	``	_	_	_	_	_	_	_	Shift=3286|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=3288
+20	а	_	_	_	_	_	_	_	Shift=3290
+21	другие	_	_	_	_	_	_	_	Shift=3292
+22	готовы	_	_	_	_	_	_	_	Shift=3299
+23	прислать	_	_	_	_	_	_	_	Shift=3306
+24	вам	_	_	_	_	_	_	_	Shift=3315
+25	приглашение	_	_	_	_	_	_	_	Shift=3319|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	Shift=3331
+27	но	_	_	_	_	_	_	_	Shift=3333
+28	не	_	_	_	_	_	_	_	Shift=3336
+29	сразу	_	_	_	_	_	_	_	Shift=3339|SpaceAfter=No
+30	,	_	_	_	_	_	_	_	Shift=3345
+31	а	_	_	_	_	_	_	_	Shift=3347
+32	немного	_	_	_	_	_	_	_	Shift=3349
+33	погодя	_	_	_	_	_	_	_	Shift=3357|SpaceAfter=No
+34	,	_	_	_	_	_	_	_	Shift=3364
+35	то	_	_	_	_	_	_	_	Shift=3366
+36	в	_	_	_	_	_	_	_	Shift=3369
+37	реальном	_	_	_	_	_	_	_	Shift=3371
+38	доступе	_	_	_	_	_	_	_	Shift=3380
+39	есть	_	_	_	_	_	_	_	Shift=3388
+40	не	_	_	_	_	_	_	_	Shift=3393
+41	так	_	_	_	_	_	_	_	Shift=3396
+42	уж	_	_	_	_	_	_	_	Shift=3400
+43	много	_	_	_	_	_	_	_	Shift=3403
+44	участников	_	_	_	_	_	_	_	Shift=3409
+45	конференции	_	_	_	_	_	_	_	Shift=3420|SpaceAfter=No
+46	.	_	_	_	_	_	_	_	Shift=3432
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p36
+# par_text = Из того , что удалось посмотреть автору , приглянулись два сервиса .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p36-s1
+# text = Из того, что удалось посмотреть автору, приглянулись два сервиса.
+1	Из	_	_	_	_	_	_	_	Shift=3434
+2	того	_	_	_	_	_	_	_	Shift=3437|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=3442
+4	что	_	_	_	_	_	_	_	Shift=3444
+5	удалось	_	_	_	_	_	_	_	Shift=3448
+6	посмотреть	_	_	_	_	_	_	_	Shift=3456
+7	автору	_	_	_	_	_	_	_	Shift=3467|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=3474
+9	приглянулись	_	_	_	_	_	_	_	Shift=3476
+10	два	_	_	_	_	_	_	_	Shift=3489
+11	сервиса	_	_	_	_	_	_	_	Shift=3493|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=3501
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p37
+# par_text = Первый – Dropbox – сервис для быстрой органиации совместного доступа к документам или для собственных нужд , или при работе в команде .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p37-s1
+# text = Первый - Dropbox - сервис для быстрой органиации совместного доступа к документам или для собственных нужд, или при работе в команде.
+1	Первый	_	_	_	_	_	_	_	Shift=3503
+2	-	_	_	_	_	_	_	_	_
+3	Dropbox	_	_	_	_	_	_	_	Shift=3512
+4	-	_	_	_	_	_	_	_	_
+5	сервис	_	_	_	_	_	_	_	Shift=3522
+6	для	_	_	_	_	_	_	_	Shift=3529
+7	быстрой	_	_	_	_	_	_	_	Shift=3533
+8	органиации	_	_	_	_	_	_	_	Shift=3541
+9	совместного	_	_	_	_	_	_	_	Shift=3552
+10	доступа	_	_	_	_	_	_	_	Shift=3564
+11	к	_	_	_	_	_	_	_	Shift=3572
+12	документам	_	_	_	_	_	_	_	Shift=3574
+13	или	_	_	_	_	_	_	_	Shift=3585
+14	для	_	_	_	_	_	_	_	Shift=3589
+15	собственных	_	_	_	_	_	_	_	Shift=3593
+16	нужд	_	_	_	_	_	_	_	Shift=3605|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=3610
+18	или	_	_	_	_	_	_	_	Shift=3612
+19	при	_	_	_	_	_	_	_	Shift=3616
+20	работе	_	_	_	_	_	_	_	Shift=3620
+21	в	_	_	_	_	_	_	_	Shift=3627
+22	команде	_	_	_	_	_	_	_	Shift=3629|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=3637
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p38
+# par_text = Второй любопытный сервис – TonchiDot – предназначен для « социального маркирования » для iPhone , разработанный в Токио : идешь по городу и видишь на экране информацию о тех местах , мимо которых проходишь ( магазины , рестораны , кино , выставки и прочие достопримечательности ) .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p38-s1
+# text = Второй любопытный сервис - TonchiDot - предназначен для ``социального маркирования ``для iPhone, разработанный в Токио: идешь по городу и видишь на экране информацию о тех местах, мимо которых проходишь (магазины, рестораны, кино, выставки и прочие достопримечательности).
+1	Второй	_	_	_	_	_	_	_	Shift=3639
+2	любопытный	_	_	_	_	_	_	_	Shift=3646
+3	сервис	_	_	_	_	_	_	_	Shift=3657
+4	-	_	_	_	_	_	_	_	_
+5	TonchiDot	_	_	_	_	_	_	_	Shift=3666
+6	-	_	_	_	_	_	_	_	_
+7	предназначен	_	_	_	_	_	_	_	Shift=3678
+8	для	_	_	_	_	_	_	_	Shift=3691
+9	``	_	_	_	_	_	_	_	Shift=3695|SpaceAfter=No
+10	социального	_	_	_	_	_	_	_	Shift=3697
+11	маркирования	_	_	_	_	_	_	_	Shift=3709
+12	``	_	_	_	_	_	_	_	Shift=3722|SpaceAfter=No
+13	для	_	_	_	_	_	_	_	Shift=3724
+14	iPhone	_	_	_	_	_	_	_	Shift=3728|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=3735
+16	разработанный	_	_	_	_	_	_	_	Shift=3737
+17	в	_	_	_	_	_	_	_	Shift=3751
+18	Токио	_	_	_	_	_	_	_	Shift=3753|SpaceAfter=No
+19	:	_	_	_	_	_	_	_	Shift=3759
+20	идешь	_	_	_	_	_	_	_	Shift=3761
+21	по	_	_	_	_	_	_	_	Shift=3767
+22	городу	_	_	_	_	_	_	_	Shift=3770
+23	и	_	_	_	_	_	_	_	Shift=3777
+24	видишь	_	_	_	_	_	_	_	Shift=3779
+25	на	_	_	_	_	_	_	_	Shift=3786
+26	экране	_	_	_	_	_	_	_	Shift=3789
+27	информацию	_	_	_	_	_	_	_	Shift=3796
+28	о	_	_	_	_	_	_	_	Shift=3807
+29	тех	_	_	_	_	_	_	_	RuCor_chain_id=2223|RuCor_group_id=469913|Shift=3809
+30	местах	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2223|RuCor_group_id=469913|RuCor_link_id=0|Shift=3813|SpaceAfter=No
+31	,	_	_	_	_	_	_	_	Shift=3820
+32	мимо	_	_	_	_	_	_	_	Shift=3822
+33	которых	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2223|RuCor_group_id=469914|RuCor_link_id=469913|Shift=3827
+34	проходишь	_	_	_	_	_	_	_	Shift=3835
+35	(	_	_	_	_	_	_	_	Shift=3845|SpaceAfter=No
+36	магазины	_	_	_	_	_	_	_	Shift=3847|SpaceAfter=No
+37	,	_	_	_	_	_	_	_	Shift=3856
+38	рестораны	_	_	_	_	_	_	_	Shift=3858|SpaceAfter=No
+39	,	_	_	_	_	_	_	_	Shift=3868
+40	кино	_	_	_	_	_	_	_	Shift=3870|SpaceAfter=No
+41	,	_	_	_	_	_	_	_	Shift=3875
+42	выставки	_	_	_	_	_	_	_	Shift=3877
+43	и	_	_	_	_	_	_	_	Shift=3886
+44	прочие	_	_	_	_	_	_	_	Shift=3888
+45	достопримечательности	_	_	_	_	_	_	_	Shift=3895|SpaceAfter=No
+46	)	_	_	_	_	_	_	_	Shift=3917|SpaceAfter=No
+47	.	_	_	_	_	_	_	_	Shift=3919
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p39
+# par_text = Так создается паралельный информационный мир или , как принято говорить в последнее время , « расширенная » реальность .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p39-s1
+# text = Так создается паралельный информационный мир или, как принято говорить в последнее время, ``расширенная ``реальность.
+1	Так	_	_	_	_	_	_	_	Shift=3921
+2	создается	_	_	_	_	_	_	_	Shift=3925
+3	паралельный	_	_	_	_	_	_	_	RuCor_chain_id=2224|RuCor_group_id=469915|Shift=3935
+4	информационный	_	_	_	_	_	_	_	RuCor_chain_id=2224|RuCor_group_id=469915|Shift=3947
+5	мир	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2224|RuCor_group_id=469915|RuCor_link_id=0|Shift=3962
+6	или	_	_	_	_	_	_	_	Shift=3966|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=3970
+8	как	_	_	_	_	_	_	_	Shift=3972
+9	принято	_	_	_	_	_	_	_	Shift=3976
+10	говорить	_	_	_	_	_	_	_	Shift=3984
+11	в	_	_	_	_	_	_	_	Shift=3993
+12	последнее	_	_	_	_	_	_	_	Shift=3995
+13	время	_	_	_	_	_	_	_	Shift=4005|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=4011
+15	``	_	_	_	_	_	_	_	RuCor_chain_id=2224|RuCor_group_id=469916|Shift=4013|SpaceAfter=No
+16	расширенная	_	_	_	_	_	_	_	RuCor_chain_id=2224|RuCor_group_id=469916|Shift=4015
+17	``	_	_	_	_	_	_	_	RuCor_chain_id=2224|RuCor_group_id=469916|Shift=4027|SpaceAfter=No
+18	реальность	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2224|RuCor_group_id=469916|RuCor_link_id=469915|Shift=4029|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=4040
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p40
+# par_text = А в свете экономического кризиса интересен подход StockMood .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p40-s1
+# text = А в свете экономического кризиса интересен подход StockMood.
+1	А	_	_	_	_	_	_	_	Shift=4042
+2	в	_	_	_	_	_	_	_	Shift=4044
+3	свете	_	_	_	_	_	_	_	Shift=4046
+4	экономического	_	_	_	_	_	_	_	Shift=4052
+5	кризиса	_	_	_	_	_	_	_	Shift=4067
+6	интересен	_	_	_	_	_	_	_	Shift=4075
+7	подход	_	_	_	_	_	_	_	Shift=4085
+8	StockMood	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2225|RuCor_group_id=469917|RuCor_link_id=0|Shift=4092|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=4102
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p41
+# par_text = Команда разработчиков предлагает некий алгоритм , позволяющий оценить реакцию рынка ценных бумаг на новости .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p41-s1
+# text = Команда разработчиков предлагает некий алгоритм, позволяющий оценить реакцию рынка ценных бумаг на новости.
+1	Команда	_	_	_	_	_	_	_	Shift=4104
+2	разработчиков	_	_	_	_	_	_	_	Shift=4112
+3	предлагает	_	_	_	_	_	_	_	Shift=4126
+4	некий	_	_	_	_	_	_	_	Shift=4137
+5	алгоритм	_	_	_	_	_	_	_	Shift=4143|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=4152
+7	позволяющий	_	_	_	_	_	_	_	Shift=4154
+8	оценить	_	_	_	_	_	_	_	Shift=4166
+9	реакцию	_	_	_	_	_	_	_	Shift=4174
+10	рынка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2226|RuCor_group_id=469918|RuCor_link_id=0|Shift=4182
+11	ценных	_	_	_	_	_	_	_	RuCor_chain_id=2226|RuCor_group_id=469918|Shift=4188
+12	бумаг	_	_	_	_	_	_	_	RuCor_chain_id=2226|RuCor_group_id=469918|Shift=4195
+13	на	_	_	_	_	_	_	_	Shift=4201
+14	новости	_	_	_	_	_	_	_	Shift=4204|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=4212
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p42
+# par_text = Гипотеза следующая : если рынок в « хорошем настроении » , то у него есть некоторая предвзятость как для хороших ( они преувеличиваются ) , так и не очень хороших новостей ( они преуменьшаются ) , если же , напротив , настроение рынка « плохое » , то все наоборот .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p42-s1
+# text = Гипотеза следующая: если рынок в ``хорошем настроении ``, то у него есть некоторая предвзятость как для хороших (они преувеличиваются), так и не очень хороших новостей (они преуменьшаются), если же, напротив, настроение рынка ``плохое ``, то все наоборот.
+1	Гипотеза	_	_	_	_	_	_	_	Shift=4214
+2	следующая	_	_	_	_	_	_	_	Shift=4223|SpaceAfter=No
+3	:	_	_	_	_	_	_	_	Shift=4233
+4	если	_	_	_	_	_	_	_	Shift=4235
+5	рынок	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2226|RuCor_group_id=469919|RuCor_link_id=469918|Shift=4240
+6	в	_	_	_	_	_	_	_	Shift=4246
+7	``	_	_	_	_	_	_	_	Shift=4248|SpaceAfter=No
+8	хорошем	_	_	_	_	_	_	_	Shift=4250
+9	настроении	_	_	_	_	_	_	_	Shift=4258
+10	``	_	_	_	_	_	_	_	Shift=4269|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=4271
+12	то	_	_	_	_	_	_	_	Shift=4273
+13	у	_	_	_	_	_	_	_	Shift=4276
+14	него	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2226|RuCor_group_id=469920|RuCor_link_id=469919|Shift=4278
+15	есть	_	_	_	_	_	_	_	Shift=4283
+16	некоторая	_	_	_	_	_	_	_	Shift=4288
+17	предвзятость	_	_	_	_	_	_	_	Shift=4298
+18	как	_	_	_	_	_	_	_	Shift=4311
+19	для	_	_	_	_	_	_	_	Shift=4315
+20	хороших	_	_	_	_	_	_	_	Shift=4319
+21	(	_	_	_	_	_	_	_	Shift=4327|SpaceAfter=No
+22	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2226|RuCor_group_id=469921|RuCor_link_id=469918|Shift=4329
+23	преувеличиваются	_	_	_	_	_	_	_	Shift=4333|SpaceAfter=No
+24	)	_	_	_	_	_	_	_	Shift=4350|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=4352
+26	так	_	_	_	_	_	_	_	Shift=4354
+27	и	_	_	_	_	_	_	_	Shift=4358
+28	не	_	_	_	_	_	_	_	Shift=4360
+29	очень	_	_	_	_	_	_	_	Shift=4363
+30	хороших	_	_	_	_	_	_	_	Shift=4369
+31	новостей	_	_	_	_	_	_	_	Shift=4377
+32	(	_	_	_	_	_	_	_	Shift=4386|SpaceAfter=No
+33	они	_	_	_	_	_	_	_	Shift=4388
+34	преуменьшаются	_	_	_	_	_	_	_	Shift=4392|SpaceAfter=No
+35	)	_	_	_	_	_	_	_	Shift=4407|SpaceAfter=No
+36	,	_	_	_	_	_	_	_	Shift=4409
+37	если	_	_	_	_	_	_	_	Shift=4411
+38	же	_	_	_	_	_	_	_	Shift=4416|SpaceAfter=No
+39	,	_	_	_	_	_	_	_	Shift=4419
+40	напротив	_	_	_	_	_	_	_	Shift=4421|SpaceAfter=No
+41	,	_	_	_	_	_	_	_	Shift=4430
+42	настроение	_	_	_	_	_	_	_	Shift=4432
+43	рынка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2226|RuCor_group_id=469922|RuCor_link_id=469920|Shift=4443
+44	``	_	_	_	_	_	_	_	Shift=4449|SpaceAfter=No
+45	плохое	_	_	_	_	_	_	_	Shift=4451
+46	``	_	_	_	_	_	_	_	Shift=4458|SpaceAfter=No
+47	,	_	_	_	_	_	_	_	Shift=4460
+48	то	_	_	_	_	_	_	_	Shift=4462
+49	все	_	_	_	_	_	_	_	Shift=4465
+50	наоборот	_	_	_	_	_	_	_	Shift=4469|SpaceAfter=No
+51	.	_	_	_	_	_	_	_	Shift=4478
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p43
+# par_text = StockMood.com позволяет проследить за « угрозами » повышенного оптимизма и пессимизма .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p43-s1
+# text = StockMood.com позволяет проследить за ``угрозами ``повышенного оптимизма и пессимизма.
+1	StockMood.com	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2225|RuCor_group_id=469923|RuCor_link_id=469917|Shift=4480
+2	позволяет	_	_	_	_	_	_	_	Shift=4494
+3	проследить	_	_	_	_	_	_	_	Shift=4504
+4	за	_	_	_	_	_	_	_	Shift=4515
+5	``	_	_	_	_	_	_	_	Shift=4518|SpaceAfter=No
+6	угрозами	_	_	_	_	_	_	_	Shift=4520
+7	``	_	_	_	_	_	_	_	Shift=4529|SpaceAfter=No
+8	повышенного	_	_	_	_	_	_	_	Shift=4531
+9	оптимизма	_	_	_	_	_	_	_	Shift=4543
+10	и	_	_	_	_	_	_	_	Shift=4553
+11	пессимизма	_	_	_	_	_	_	_	Shift=4555|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=4566
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p44
+# par_text = Так или иначе , внимательно знакомясь с творениями призеров и финалистов , появляется мысль :
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p44-s1
+# text = Так или иначе, внимательно знакомясь с творениями призеров и финалистов, появляется мысль:
+1	Так	_	_	_	_	_	_	_	Shift=4568
+2	или	_	_	_	_	_	_	_	Shift=4572
+3	иначе	_	_	_	_	_	_	_	Shift=4576|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=4582
+5	внимательно	_	_	_	_	_	_	_	Shift=4584
+6	знакомясь	_	_	_	_	_	_	_	Shift=4596
+7	с	_	_	_	_	_	_	_	Shift=4606
+8	творениями	_	_	_	_	_	_	_	Shift=4608
+9	призеров	_	_	_	_	_	_	_	Shift=4619
+10	и	_	_	_	_	_	_	_	Shift=4628
+11	финалистов	_	_	_	_	_	_	_	Shift=4630|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=4641
+13	появляется	_	_	_	_	_	_	_	Shift=4643
+14	мысль	_	_	_	_	_	_	_	Shift=4654|SpaceAfter=No
+15	:	_	_	_	_	_	_	_	Shift=4660
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p45
+# par_text = « Где-то я это видел » .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p45-s1
+# text = ``Где-то я это видел ``.
+1	``	_	_	_	_	_	_	_	Shift=4662|SpaceAfter=No
+2	Где-то	_	_	_	_	_	_	_	Shift=4664
+3	я	_	_	_	_	_	_	_	Shift=4671
+4	это	_	_	_	_	_	_	_	Shift=4673
+5	видел	_	_	_	_	_	_	_	Shift=4677
+6	``	_	_	_	_	_	_	_	Shift=4683|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=4685
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p46
+# par_text = Впрочем , как писал в свое время Дэвид Маллингс в журнале Fast company , « есть три типа предпринимателей .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p46-s1
+# text = Впрочем, как писал в свое время Дэвид Маллингс в журнале Fast company, ``есть три типа предпринимателей.
+1	Впрочем	_	_	_	_	_	_	_	Shift=4687|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=4695
+3	как	_	_	_	_	_	_	_	Shift=4697
+4	писал	_	_	_	_	_	_	_	Shift=4701
+5	в	_	_	_	_	_	_	_	Shift=4707
+6	свое	_	_	_	_	_	_	_	Shift=4709
+7	время	_	_	_	_	_	_	_	Shift=4714
+8	Дэвид	_	_	_	_	_	_	_	Shift=4720
+9	Маллингс	_	_	_	_	_	_	_	Shift=4726
+10	в	_	_	_	_	_	_	_	Shift=4735
+11	журнале	_	_	_	_	_	_	_	Shift=4737
+12	Fast	_	_	_	_	_	_	_	Shift=4745
+13	company	_	_	_	_	_	_	_	Shift=4750|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=4758
+15	``	_	_	_	_	_	_	_	Shift=4760|SpaceAfter=No
+16	есть	_	_	_	_	_	_	_	Shift=4762
+17	три	_	_	_	_	_	_	_	Shift=4767
+18	типа	_	_	_	_	_	_	_	Shift=4771
+19	предпринимателей	_	_	_	_	_	_	_	Shift=4776|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=4793
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p47
+# par_text = Изобретатель создает что-то новое и пытается на этом заработать .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p47-s1
+# text = Изобретатель создает что-то новое и пытается на этом заработать.
+1	Изобретатель	_	_	_	_	_	_	_	Shift=4795
+2	создает	_	_	_	_	_	_	_	Shift=4808
+3	что-то	_	_	_	_	_	_	_	Shift=4816
+4	новое	_	_	_	_	_	_	_	Shift=4823
+5	и	_	_	_	_	_	_	_	Shift=4829
+6	пытается	_	_	_	_	_	_	_	Shift=4831
+7	на	_	_	_	_	_	_	_	Shift=4840
+8	этом	_	_	_	_	_	_	_	Shift=4843
+9	заработать	_	_	_	_	_	_	_	Shift=4848|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=4859
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p48
+# par_text = Инноватор – адаптировать и модифицировать что-то для нового рынка .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p48-s1
+# text = Инноватор - адаптировать и модифицировать что-то для нового рынка.
+1	Инноватор	_	_	_	_	_	_	_	Shift=4861
+2	-	_	_	_	_	_	_	_	_
+3	адаптировать	_	_	_	_	_	_	_	Shift=4873
+4	и	_	_	_	_	_	_	_	Shift=4886
+5	модифицировать	_	_	_	_	_	_	_	Shift=4888
+6	что-то	_	_	_	_	_	_	_	Shift=4903
+7	для	_	_	_	_	_	_	_	Shift=4910
+8	нового	_	_	_	_	_	_	_	Shift=4914
+9	рынка	_	_	_	_	_	_	_	Shift=4921|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=4927
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p49
+# par_text = Инвестор – это только тот , кто инвестирует в идеи других .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p49-s1
+# text = Инвестор - это только тот, кто инвестирует в идеи других.
+1	Инвестор	_	_	_	_	_	_	_	Shift=4929
+2	-	_	_	_	_	_	_	_	_
+3	это	_	_	_	_	_	_	_	Shift=4940
+4	только	_	_	_	_	_	_	_	Shift=4944
+5	тот	_	_	_	_	_	_	_	Shift=4951|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=4955
+7	кто	_	_	_	_	_	_	_	Shift=4957
+8	инвестирует	_	_	_	_	_	_	_	Shift=4961
+9	в	_	_	_	_	_	_	_	Shift=4973
+10	идеи	_	_	_	_	_	_	_	Shift=4975
+11	других	_	_	_	_	_	_	_	Shift=4980|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=4987
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p50
+# par_text = Facebook и MySpace не оригинальны , но почему не вы их начали ?
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p50-s1
+# text = Facebook и MySpace не оригинальны, но почему не вы их начали?
+1	Facebook	_	_	_	_	_	_	_	Shift=4989
+2	и	_	_	_	_	_	_	_	Shift=4998
+3	MySpace	_	_	_	_	_	_	_	Shift=5000
+4	не	_	_	_	_	_	_	_	Shift=5008
+5	оригинальны	_	_	_	_	_	_	_	Shift=5011|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=5023
+7	но	_	_	_	_	_	_	_	Shift=5025
+8	почему	_	_	_	_	_	_	_	Shift=5028
+9	не	_	_	_	_	_	_	_	Shift=5035
+10	вы	_	_	_	_	_	_	_	Shift=5038
+11	их	_	_	_	_	_	_	_	Shift=5041
+12	начали	_	_	_	_	_	_	_	Shift=5044|SpaceAfter=No
+13	?	_	_	_	_	_	_	_	Shift=5051
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p51
+# par_text = Майкл Делл не изобрел компьютеры , но сейчас он мультимиллионер .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p51-s1
+# text = Майкл Делл не изобрел компьютеры, но сейчас он мультимиллионер.
+1	Майкл	_	_	_	_	_	_	_	RuCor_chain_id=2227|RuCor_group_id=469924|Shift=5053
+2	Делл	_	_	_	_	_	_	_	RuCor_chain_id=2227|RuCor_group_id=469924|Shift=5059
+3	не	_	_	_	_	_	_	_	Shift=5064
+4	изобрел	_	_	_	_	_	_	_	Shift=5067
+5	компьютеры	_	_	_	_	_	_	_	Shift=5075|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=5086
+7	но	_	_	_	_	_	_	_	Shift=5088
+8	сейчас	_	_	_	_	_	_	_	Shift=5091
+9	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2227|RuCor_group_id=469925|RuCor_link_id=469924|Shift=5098
+10	мультимиллионер	_	_	_	_	_	_	_	Shift=5101|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=5117
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p52
+# par_text = Уоррен Баффет покупает прибыльные компании и размещает капитал , но ничего не изобретает » .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p52-s1
+# text = Уоррен Баффет покупает прибыльные компании и размещает капитал, но ничего не изобретает ``.
+1	Уоррен	_	_	_	_	_	_	_	Shift=5119
+2	Баффет	_	_	_	_	_	_	_	Shift=5126
+3	покупает	_	_	_	_	_	_	_	Shift=5133
+4	прибыльные	_	_	_	_	_	_	_	Shift=5142
+5	компании	_	_	_	_	_	_	_	Shift=5153
+6	и	_	_	_	_	_	_	_	Shift=5162
+7	размещает	_	_	_	_	_	_	_	Shift=5164
+8	капитал	_	_	_	_	_	_	_	Shift=5174|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=5182
+10	но	_	_	_	_	_	_	_	Shift=5184
+11	ничего	_	_	_	_	_	_	_	Shift=5187
+12	не	_	_	_	_	_	_	_	Shift=5194
+13	изобретает	_	_	_	_	_	_	_	Shift=5197
+14	``	_	_	_	_	_	_	_	Shift=5208|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=5210
+
+# newpar id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p53
+# par_text = Так что заходите на TechCrunch50 и пользуйтесь , чем понравится .
+# sent_id = ff98c3b9-c1e3-40e7-a1a5-1ac1064f6787-p53-s1
+# text = Так что заходите на TechCrunch50 и пользуйтесь, чем понравится.
+1	Так	_	_	_	_	_	_	_	Shift=5212
+2	что	_	_	_	_	_	_	_	Shift=5216
+3	заходите	_	_	_	_	_	_	_	Shift=5220
+4	на	_	_	_	_	_	_	_	Shift=5229
+5	TechCrunch50	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2205|RuCor_group_id=469926|RuCor_link_id=469874|Shift=5232
+6	и	_	_	_	_	_	_	_	Shift=5245
+7	пользуйтесь	_	_	_	_	_	_	_	Shift=5247|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=5259
+9	чем	_	_	_	_	_	_	_	Shift=5261
+10	понравится	_	_	_	_	_	_	_	Shift=5265|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	_
+

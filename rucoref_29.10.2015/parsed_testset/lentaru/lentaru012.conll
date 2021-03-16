@@ -1,0 +1,393 @@
+# newdoc id = cf63e011-4b21-4364-b670-79b3ae28cad8
+# newpar id = cf63e011-4b21-4364-b670-79b3ae28cad8-p1
+# par_text = Основатель файлообменника Megaupload Ким Дотком (Kim Dotcom) объявил о запуске собственного музыкального сервиса под названием Baboom. Сообщение об этом 20 января появилось в твиттере Доткома.
+# sent_id = cf63e011-4b21-4364-b670-79b3ae28cad8-p1-s1
+# text = Основатель файлообменника Megaupload Ким Дотком (Kim Dotcom) объявил о запуске собственного музыкального сервиса под названием Baboom.
+1	Основатель	_	_	_	_	_	_	_	RuCor_chain_id=3445|RuCor_group_id=475038|Shift=0
+2	файлообменника	_	_	_	_	_	_	_	RuCor_chain_id=3445|RuCor_group_id=475038|Shift=11
+3	Megaupload	_	_	_	_	_	_	_	RuCor_chain_id=3445|RuCor_group_id=475038|Shift=26
+4	Ким	_	_	_	_	_	_	_	RuCor_chain_id=3445|RuCor_group_id=475038|Shift=37
+5	Дотком	_	_	_	_	_	_	_	RuCor_chain_id=3445|RuCor_group_id=475038|Shift=41
+6	(	_	_	_	_	_	_	_	Shift=48|SpaceAfter=No
+7	Kim	_	_	_	_	_	_	_	RuCor_chain_id=3445|RuCor_group_id=475039|Shift=49
+8	Dotcom	_	_	_	_	_	_	_	RuCor_chain_id=3445|RuCor_group_id=475039|Shift=53|SpaceAfter=No
+9	)	_	_	_	_	_	_	_	Shift=59
+10	объявил	_	_	_	_	_	_	_	Shift=61
+11	о	_	_	_	_	_	_	_	Shift=69
+12	запуске	_	_	_	_	_	_	_	Shift=71
+13	собственного	_	_	_	_	_	_	_	RuCor_chain_id=3446|RuCor_group_id=475040|Shift=79
+14	музыкального	_	_	_	_	_	_	_	RuCor_chain_id=3446|RuCor_group_id=475040|Shift=92
+15	сервиса	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3446|RuCor_group_id=475040|RuCor_link_id=0|Shift=105
+16	под	_	_	_	_	_	_	_	Shift=113
+17	названием	_	_	_	_	_	_	_	Shift=117
+18	Baboom	_	_	_	_	_	_	_	Shift=127|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=133
+
+# sent_id = cf63e011-4b21-4364-b670-79b3ae28cad8-p1-s2
+# text = Сообщение об этом 20 января появилось в твиттере Доткома.
+1	Сообщение	_	_	_	_	_	_	_	Shift=135
+2	об	_	_	_	_	_	_	_	Shift=145
+3	этом	_	_	_	_	_	_	_	Shift=148
+4	20	_	_	_	_	_	_	_	Shift=153
+5	января	_	_	_	_	_	_	_	Shift=156
+6	появилось	_	_	_	_	_	_	_	Shift=163
+7	в	_	_	_	_	_	_	_	Shift=173
+8	твиттере	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3447|RuCor_group_id=475041|RuCor_link_id=0|Shift=175
+9	Доткома	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3445|RuCor_group_id=475042|RuCor_link_id=475038|Shift=184|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=191
+
+# newpar id = cf63e011-4b21-4364-b670-79b3ae28cad8-p2
+# par_text = «Идет последняя синхронизация серверов. Почти готов нажать на кнопку запуска», — написал в микроблоге Ким Дотком. Ранее в опубликованном им на сайте Scoop.co.nz пресс-релизе, уточнялось, что сервис начнет работу в тестовом режиме — музыка появится на сайте только после запуска полной версии, появление которой ожидается через несколько месяцев.
+# sent_id = cf63e011-4b21-4364-b670-79b3ae28cad8-p2-s1
+# text = ``Идет последняя синхронизация серверов.
+1	``	_	_	_	_	_	_	_	Shift=193|SpaceAfter=No
+2	Идет	_	_	_	_	_	_	_	Shift=194
+3	последняя	_	_	_	_	_	_	_	Shift=199
+4	синхронизация	_	_	_	_	_	_	_	Shift=209
+5	серверов	_	_	_	_	_	_	_	Shift=223|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=231
+
+# sent_id = cf63e011-4b21-4364-b670-79b3ae28cad8-p2-s2
+# text = Почти готов нажать на кнопку запуска'', - написал в микроблоге Ким Дотком.
+1	Почти	_	_	_	_	_	_	_	Shift=233
+2	готов	_	_	_	_	_	_	_	Shift=239
+3	нажать	_	_	_	_	_	_	_	Shift=245
+4	на	_	_	_	_	_	_	_	Shift=252
+5	кнопку	_	_	_	_	_	_	_	Shift=255
+6	запуска	_	_	_	_	_	_	_	Shift=262|SpaceAfter=No
+7	''	_	_	_	_	_	_	_	Shift=269|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=270
+9	-	_	_	_	_	_	_	_	Shift=272
+10	написал	_	_	_	_	_	_	_	Shift=274
+11	в	_	_	_	_	_	_	_	Shift=282
+12	микроблоге	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3447|RuCor_group_id=475043|RuCor_link_id=475041|Shift=284
+13	Ким	_	_	_	_	_	_	_	RuCor_chain_id=3445|RuCor_group_id=475044|Shift=295
+14	Дотком	_	_	_	_	_	_	_	RuCor_chain_id=3445|RuCor_group_id=475044|Shift=299|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=305
+
+# sent_id = cf63e011-4b21-4364-b670-79b3ae28cad8-p2-s3
+# text = Ранее в опубликованном им на сайте Scoop.co.nz пресс-релизе, уточнялось, что сервис начнет работу в тестовом режиме - музыка появится на сайте только после запуска полной версии, появление которой ожидается через несколько месяцев.
+1	Ранее	_	_	_	_	_	_	_	Shift=307
+2	в	_	_	_	_	_	_	_	Shift=313
+3	опубликованном	_	_	_	_	_	_	_	Shift=315
+4	им	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3445|RuCor_group_id=475045|RuCor_link_id=475044|Shift=330
+5	на	_	_	_	_	_	_	_	Shift=333
+6	сайте	_	_	_	_	_	_	_	Shift=336
+7	адрес	_	_	_	_	_	_	_	EntityUri=Scoop.co.nz|Shift=342
+8	пресс-релизе	_	_	_	_	_	_	_	Shift=354|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=366
+10	уточнялось	_	_	_	_	_	_	_	Shift=368|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=378
+12	что	_	_	_	_	_	_	_	Shift=380
+13	сервис	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3446|RuCor_group_id=475046|RuCor_link_id=475040|Shift=384
+14	начнет	_	_	_	_	_	_	_	Shift=391
+15	работу	_	_	_	_	_	_	_	Shift=398
+16	в	_	_	_	_	_	_	_	Shift=405
+17	тестовом	_	_	_	_	_	_	_	Shift=407
+18	режиме	_	_	_	_	_	_	_	Shift=416
+19	-	_	_	_	_	_	_	_	Shift=423
+20	музыка	_	_	_	_	_	_	_	Shift=425
+21	появится	_	_	_	_	_	_	_	Shift=432
+22	на	_	_	_	_	_	_	_	Shift=441
+23	сайте	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3446|RuCor_group_id=475047|RuCor_link_id=475046|Shift=444
+24	только	_	_	_	_	_	_	_	Shift=450
+25	после	_	_	_	_	_	_	_	Shift=457
+26	запуска	_	_	_	_	_	_	_	Shift=463
+27	полной	_	_	_	_	_	_	_	RuCor_chain_id=3448|RuCor_group_id=475048|Shift=471
+28	версии	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3448|RuCor_group_id=475048|RuCor_link_id=0|Shift=478|SpaceAfter=No
+29	,	_	_	_	_	_	_	_	Shift=484
+30	появление	_	_	_	_	_	_	_	Shift=486
+31	которой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=3448|RuCor_group_id=475049|RuCor_link_id=475048|Shift=496
+32	ожидается	_	_	_	_	_	_	_	Shift=504
+33	через	_	_	_	_	_	_	_	Shift=514
+34	несколько	_	_	_	_	_	_	_	Shift=520
+35	месяцев	_	_	_	_	_	_	_	Shift=530|SpaceAfter=No
+36	.	_	_	_	_	_	_	_	Shift=537
+
+# newpar id = cf63e011-4b21-4364-b670-79b3ae28cad8-p3
+# par_text = По информации издания The National Business Review, в ближайшее время на baboom.com будет выложен альбом самого Доткома под названием «Good Times». «Это позволит пользователям понять, как устроен сервис, как можно находить и скачивать с его помощью музыку», — заявил Дотком. По его словам, Baboom станет своего рода «сочетанием iTunes и сервиса Spotify», однако будет использовать более справедливую модель распределения прибыли между музыкантами и правообладателями.
+# sent_id = cf63e011-4b21-4364-b670-79b3ae28cad8-p3-s1
+# text = По информации издания The National Business Review, в ближайшее время на baboom.com будет выложен альбом самого Доткома под названием ``Good Times''. ``Это позволит пользователям понять, как устроен сервис, как можно находить и скачивать с его помощью музыку'', - заявил Дотком.
+1	По	_	_	_	_	_	_	_	Shift=539
+2	информации	_	_	_	_	_	_	_	Shift=542
+3	издания	_	_	_	_	_	_	_	Shift=553
+4	The	_	_	_	_	_	_	_	Shift=561
+5	National	_	_	_	_	_	_	_	Shift=565
+6	Business	_	_	_	_	_	_	_	Shift=574
+7	Review	_	_	_	_	_	_	_	Shift=583|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=589
+9	в	_	_	_	_	_	_	_	Shift=591
+10	ближайшее	_	_	_	_	_	_	_	Shift=593
+11	время	_	_	_	_	_	_	_	Shift=603
+12	на	_	_	_	_	_	_	_	Shift=609
+13	baboom.com	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3446|RuCor_group_id=475050|RuCor_link_id=475046|Shift=612
+14	будет	_	_	_	_	_	_	_	Shift=623
+15	выложен	_	_	_	_	_	_	_	Shift=629
+16	альбом	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3449|RuCor_group_id=475051|RuCor_link_id=0|Shift=637
+17	самого	_	_	_	_	_	_	_	RuCor_chain_id=3449|RuCor_group_id=475051|Shift=644
+18	Доткома	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3445|RuCor_group_id=475052|RuCor_link_id=475044|Shift=651
+19	под	_	_	_	_	_	_	_	Shift=659
+20	названием	_	_	_	_	_	_	_	Shift=663
+21	``	_	_	_	_	_	_	_	Shift=673|SpaceAfter=No
+22	Good	_	_	_	_	_	_	_	Shift=674
+23	Times	_	_	_	_	_	_	_	Shift=679|SpaceAfter=No
+24	''	_	_	_	_	_	_	_	Shift=684|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=685
+26	``	_	_	_	_	_	_	_	Shift=687|SpaceAfter=No
+27	Это	_	_	_	_	_	_	_	Shift=688
+28	позволит	_	_	_	_	_	_	_	Shift=692
+29	пользователям	_	_	_	_	_	_	_	Shift=701
+30	понять	_	_	_	_	_	_	_	Shift=715|SpaceAfter=No
+31	,	_	_	_	_	_	_	_	Shift=721
+32	как	_	_	_	_	_	_	_	Shift=723
+33	устроен	_	_	_	_	_	_	_	Shift=727
+34	сервис	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3446|RuCor_group_id=475053|RuCor_link_id=475050|Shift=735|SpaceAfter=No
+35	,	_	_	_	_	_	_	_	Shift=741
+36	как	_	_	_	_	_	_	_	Shift=743
+37	можно	_	_	_	_	_	_	_	Shift=747
+38	находить	_	_	_	_	_	_	_	Shift=753
+39	и	_	_	_	_	_	_	_	Shift=762
+40	скачивать	_	_	_	_	_	_	_	Shift=764
+41	с	_	_	_	_	_	_	_	Shift=774
+42	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3446|RuCor_group_id=475054|RuCor_link_id=475053|Shift=776
+43	помощью	_	_	_	_	_	_	_	Shift=780
+44	музыку	_	_	_	_	_	_	_	Shift=788|SpaceAfter=No
+45	''	_	_	_	_	_	_	_	Shift=794|SpaceAfter=No
+46	,	_	_	_	_	_	_	_	Shift=795
+47	-	_	_	_	_	_	_	_	Shift=797
+48	заявил	_	_	_	_	_	_	_	Shift=799
+49	Дотком	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3445|RuCor_group_id=475055|RuCor_link_id=475052|Shift=806|SpaceAfter=No
+50	.	_	_	_	_	_	_	_	Shift=812
+
+# sent_id = cf63e011-4b21-4364-b670-79b3ae28cad8-p3-s2
+# text = По его словам, Baboom станет своего рода ``сочетанием iTunes и сервиса Spotify'', однако будет использовать более справедливую модель распределения прибыли между музыкантами и правообладателями.
+1	По	_	_	_	_	_	_	_	Shift=814
+2	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3445|RuCor_group_id=475056|RuCor_link_id=475055|Shift=817
+3	словам	_	_	_	_	_	_	_	Shift=821|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=827
+5	Baboom	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3446|RuCor_group_id=475057|RuCor_link_id=475053|Shift=829
+6	станет	_	_	_	_	_	_	_	Shift=836
+7	своего	_	_	_	_	_	_	_	Shift=843
+8	рода	_	_	_	_	_	_	_	Shift=850
+9	``	_	_	_	_	_	_	_	Shift=855|SpaceAfter=No
+10	сочетанием	_	_	_	_	_	_	_	Shift=856
+11	iTunes	_	_	_	_	_	_	_	Shift=867
+12	и	_	_	_	_	_	_	_	Shift=874
+13	сервиса	_	_	_	_	_	_	_	Shift=876
+14	Spotify	_	_	_	_	_	_	_	Shift=884|SpaceAfter=No
+15	''	_	_	_	_	_	_	_	Shift=891|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=892
+17	однако	_	_	_	_	_	_	_	Shift=894
+18	будет	_	_	_	_	_	_	_	Shift=901
+19	использовать	_	_	_	_	_	_	_	Shift=907
+20	более	_	_	_	_	_	_	_	Shift=920
+21	справедливую	_	_	_	_	_	_	_	Shift=926
+22	модель	_	_	_	_	_	_	_	Shift=939
+23	распределения	_	_	_	_	_	_	_	Shift=946
+24	прибыли	_	_	_	_	_	_	_	Shift=960
+25	между	_	_	_	_	_	_	_	Shift=968
+26	музыкантами	_	_	_	_	_	_	_	Shift=974
+27	и	_	_	_	_	_	_	_	Shift=986
+28	правообладателями	_	_	_	_	_	_	_	Shift=988|SpaceAfter=No
+29	.	_	_	_	_	_	_	_	Shift=1005
+
+# newpar id = cf63e011-4b21-4364-b670-79b3ae28cad8-p4
+# par_text = Ранее проживающий в Новой Зеландии Ким Дотком намеревался объявить о запуске Baboom во время презентации своего музыкального альбома на стадионе в Окленде. Презентация должна была пройти 20 января. В общей сложности ее планировало посетить около 25 тысяч человек. Однако из-за планов Доткома также объявить на концерте о создании собственной политической партии, мероприятие было отменено по требованию властей страны. Избирательная комиссия Новой Зеландии посчитала, что раздача бесплатной еды и презентация альбома могут использоваться Доткомом для незаконной политической агитации.
+# sent_id = cf63e011-4b21-4364-b670-79b3ae28cad8-p4-s1
+# text = Ранее проживающий в Новой Зеландии Ким Дотком намеревался объявить о запуске Baboom во время презентации своего музыкального альбома на стадионе в Окленде.
+1	Ранее	_	_	_	_	_	_	_	RuCor_chain_id=3445|RuCor_group_id=475058|Shift=1007
+2	проживающий	_	_	_	_	_	_	_	RuCor_chain_id=3445|RuCor_group_id=475058|Shift=1013
+3	в	_	_	_	_	_	_	_	RuCor_chain_id=3445|RuCor_group_id=475058|Shift=1025
+4	Новой	_	_	_	_	_	_	_	RuCor_chain_id=3450|RuCor_group_id=475059|Shift=1027
+5	Зеландии	_	_	_	_	_	_	_	RuCor_chain_id=3450|RuCor_group_id=475059|Shift=1033
+6	Ким	_	_	_	_	_	_	_	RuCor_chain_id=3445|RuCor_group_id=475058|Shift=1042
+7	Дотком	_	_	_	_	_	_	_	RuCor_chain_id=3445|RuCor_group_id=475058|Shift=1046
+8	намеревался	_	_	_	_	_	_	_	Shift=1053
+9	объявить	_	_	_	_	_	_	_	Shift=1065
+10	о	_	_	_	_	_	_	_	Shift=1074
+11	запуске	_	_	_	_	_	_	_	Shift=1076
+12	Baboom	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3446|RuCor_group_id=475060|RuCor_link_id=475057|Shift=1084
+13	во	_	_	_	_	_	_	_	Shift=1091
+14	время	_	_	_	_	_	_	_	Shift=1094
+15	презентации	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3451|RuCor_group_id=475061|RuCor_link_id=0|Shift=1100
+16	своего	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3445|RuCor_group_id=475063|RuCor_link_id=475058|Shift=1112
+17	музыкального	_	_	_	_	_	_	_	RuCor_chain_id=3449|RuCor_group_id=475062|Shift=1119
+18	альбома	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3449|RuCor_group_id=475062|RuCor_link_id=475051|Shift=1132
+19	на	_	_	_	_	_	_	_	Shift=1140
+20	стадионе	_	_	_	_	_	_	_	Shift=1143
+21	в	_	_	_	_	_	_	_	Shift=1152
+22	Окленде	_	_	_	_	_	_	_	Shift=1154|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=1161
+
+# sent_id = cf63e011-4b21-4364-b670-79b3ae28cad8-p4-s2
+# text = Презентация должна была пройти 20 января.
+1	Презентация	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3451|RuCor_group_id=475064|RuCor_link_id=475061|Shift=1163
+2	должна	_	_	_	_	_	_	_	Shift=1175
+3	была	_	_	_	_	_	_	_	Shift=1182
+4	пройти	_	_	_	_	_	_	_	Shift=1187
+5	20	_	_	_	_	_	_	_	Shift=1194
+6	января	_	_	_	_	_	_	_	Shift=1197|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=1203
+
+# sent_id = cf63e011-4b21-4364-b670-79b3ae28cad8-p4-s3
+# text = В общей сложности ее планировало посетить около 25 тысяч человек.
+1	В	_	_	_	_	_	_	_	Shift=1205
+2	общей	_	_	_	_	_	_	_	Shift=1207
+3	сложности	_	_	_	_	_	_	_	Shift=1213
+4	ее	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3451|RuCor_group_id=475065|RuCor_link_id=475064|Shift=1223
+5	планировало	_	_	_	_	_	_	_	Shift=1226
+6	посетить	_	_	_	_	_	_	_	Shift=1238
+7	около	_	_	_	_	_	_	_	Shift=1247
+8	25	_	_	_	_	_	_	_	Shift=1253
+9	тысяч	_	_	_	_	_	_	_	Shift=1256
+10	человек	_	_	_	_	_	_	_	Shift=1262|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=1269
+
+# sent_id = cf63e011-4b21-4364-b670-79b3ae28cad8-p4-s4
+# text = Однако из-за планов Доткома также объявить на концерте о создании собственной политической партии, мероприятие было отменено по требованию властей страны.
+1	Однако	_	_	_	_	_	_	_	Shift=1271
+2	из-за	_	_	_	_	_	_	_	Shift=1278
+3	планов	_	_	_	_	_	_	_	Shift=1284
+4	Доткома	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3445|RuCor_group_id=475066|RuCor_link_id=475058|Shift=1291
+5	также	_	_	_	_	_	_	_	Shift=1299
+6	объявить	_	_	_	_	_	_	_	Shift=1305
+7	на	_	_	_	_	_	_	_	Shift=1314
+8	концерте	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3451|RuCor_group_id=475067|RuCor_link_id=475064|Shift=1317
+9	о	_	_	_	_	_	_	_	Shift=1326
+10	создании	_	_	_	_	_	_	_	Shift=1328
+11	собственной	_	_	_	_	_	_	_	Shift=1337
+12	политической	_	_	_	_	_	_	_	Shift=1349
+13	партии	_	_	_	_	_	_	_	Shift=1362|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=1368
+15	мероприятие	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3451|RuCor_group_id=475068|RuCor_link_id=475064|Shift=1370
+16	было	_	_	_	_	_	_	_	Shift=1382
+17	отменено	_	_	_	_	_	_	_	Shift=1387
+18	по	_	_	_	_	_	_	_	Shift=1396
+19	требованию	_	_	_	_	_	_	_	Shift=1399
+20	властей	_	_	_	_	_	_	_	Shift=1410
+21	страны	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3450|RuCor_group_id=475069|RuCor_link_id=475059|Shift=1418|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=1424
+
+# sent_id = cf63e011-4b21-4364-b670-79b3ae28cad8-p4-s5
+# text = Избирательная комиссия Новой Зеландии посчитала, что раздача бесплатной еды и презентация альбома могут использоваться Доткомом для незаконной политической агитации.
+1	Избирательная	_	_	_	_	_	_	_	Shift=1426
+2	комиссия	_	_	_	_	_	_	_	Shift=1440
+3	Новой	_	_	_	_	_	_	_	RuCor_chain_id=3450|RuCor_group_id=475070|Shift=1449
+4	Зеландии	_	_	_	_	_	_	_	RuCor_chain_id=3450|RuCor_group_id=475070|Shift=1455
+5	посчитала	_	_	_	_	_	_	_	Shift=1464|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1473
+7	что	_	_	_	_	_	_	_	Shift=1475
+8	раздача	_	_	_	_	_	_	_	Shift=1479
+9	бесплатной	_	_	_	_	_	_	_	Shift=1487
+10	еды	_	_	_	_	_	_	_	Shift=1498
+11	и	_	_	_	_	_	_	_	Shift=1502
+12	презентация	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3451|RuCor_group_id=475071|RuCor_link_id=475061|Shift=1504
+13	альбома	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3449|RuCor_group_id=475072|RuCor_link_id=475062|Shift=1516
+14	могут	_	_	_	_	_	_	_	Shift=1524
+15	использоваться	_	_	_	_	_	_	_	Shift=1530
+16	Доткомом	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3445|RuCor_group_id=475073|RuCor_link_id=475066|Shift=1545
+17	для	_	_	_	_	_	_	_	Shift=1554
+18	незаконной	_	_	_	_	_	_	_	Shift=1558
+19	политической	_	_	_	_	_	_	_	Shift=1569
+20	агитации	_	_	_	_	_	_	_	Shift=1582|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=1590
+
+# newpar id = cf63e011-4b21-4364-b670-79b3ae28cad8-p5
+# par_text = Ким Дотком известен как создатель сервиса обмена файлами Megaupload. В 2012 году по запросу США Дотком был арестован новозеландской полицией. Сайт Megaupload был закрыт. Позже Дотком был выпущен под залог и занялся разработкой нового файлообменника — Mega. В настоящее время судом Новой Зеландии рассматривается вопрос об экстрадиции Кима Доткома в Америку, где его обвиняют в нарушении авторских прав и мошенничестве. Слушания по делу о его выдаче должны состояться в апреле 2014 года.
+# sent_id = cf63e011-4b21-4364-b670-79b3ae28cad8-p5-s1
+# text = Ким Дотком известен как создатель сервиса обмена файлами Megaupload.
+1	Ким	_	_	_	_	_	_	_	RuCor_chain_id=3445|RuCor_group_id=475074|Shift=1592
+2	Дотком	_	_	_	_	_	_	_	RuCor_chain_id=3445|RuCor_group_id=475074|Shift=1596
+3	известен	_	_	_	_	_	_	_	Shift=1603
+4	как	_	_	_	_	_	_	_	Shift=1612
+5	создатель	_	_	_	_	_	_	_	Shift=1616
+6	сервиса	_	_	_	_	_	_	_	RuCor_chain_id=3452|RuCor_group_id=475075|Shift=1626
+7	обмена	_	_	_	_	_	_	_	RuCor_chain_id=3452|RuCor_group_id=475075|Shift=1634
+8	файлами	_	_	_	_	_	_	_	RuCor_chain_id=3452|RuCor_group_id=475075|Shift=1641
+9	Megaupload	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3452|RuCor_group_id=475075|RuCor_link_id=0|Shift=1649|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=1659
+
+# sent_id = cf63e011-4b21-4364-b670-79b3ae28cad8-p5-s2
+# text = В 2012 году по запросу США Дотком был арестован новозеландской полицией.
+1	В	_	_	_	_	_	_	_	Shift=1661
+2	2012	_	_	_	_	_	_	_	Shift=1663
+3	году	_	_	_	_	_	_	_	Shift=1668
+4	по	_	_	_	_	_	_	_	Shift=1673
+5	запросу	_	_	_	_	_	_	_	Shift=1676
+6	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3453|RuCor_group_id=475076|RuCor_link_id=0|Shift=1684
+7	Дотком	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3445|RuCor_group_id=475077|RuCor_link_id=475074|Shift=1688
+8	был	_	_	_	_	_	_	_	Shift=1695
+9	арестован	_	_	_	_	_	_	_	Shift=1699
+10	новозеландской	_	_	_	_	_	_	_	Shift=1709
+11	полицией	_	_	_	_	_	_	_	Shift=1724|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=1732
+
+# sent_id = cf63e011-4b21-4364-b670-79b3ae28cad8-p5-s3
+# text = Сайт Megaupload был закрыт.
+1	Сайт	_	_	_	_	_	_	_	RuCor_chain_id=3452|RuCor_group_id=475078|Shift=1734
+2	Megaupload	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3452|RuCor_group_id=475078|RuCor_link_id=475075|Shift=1739
+3	был	_	_	_	_	_	_	_	Shift=1750
+4	закрыт	_	_	_	_	_	_	_	Shift=1754|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=1760
+
+# sent_id = cf63e011-4b21-4364-b670-79b3ae28cad8-p5-s4
+# text = Позже Дотком был выпущен под залог и занялся разработкой нового файлообменника - Mega.
+1	Позже	_	_	_	_	_	_	_	Shift=1762
+2	Дотком	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3445|RuCor_group_id=475079|RuCor_link_id=475077|Shift=1768
+3	был	_	_	_	_	_	_	_	Shift=1775
+4	выпущен	_	_	_	_	_	_	_	Shift=1779
+5	под	_	_	_	_	_	_	_	Shift=1787
+6	залог	_	_	_	_	_	_	_	Shift=1791
+7	и	_	_	_	_	_	_	_	Shift=1797
+8	занялся	_	_	_	_	_	_	_	Shift=1799
+9	разработкой	_	_	_	_	_	_	_	Shift=1807
+10	нового	_	_	_	_	_	_	_	Shift=1819
+11	файлообменника	_	_	_	_	_	_	_	Shift=1826
+12	-	_	_	_	_	_	_	_	Shift=1841
+13	Mega	_	_	_	_	_	_	_	Shift=1843|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=1847
+
+# sent_id = cf63e011-4b21-4364-b670-79b3ae28cad8-p5-s5
+# text = В настоящее время судом Новой Зеландии рассматривается вопрос об экстрадиции Кима Доткома в Америку, где его обвиняют в нарушении авторских прав и мошенничестве.
+1	В	_	_	_	_	_	_	_	Shift=1849
+2	настоящее	_	_	_	_	_	_	_	Shift=1851
+3	время	_	_	_	_	_	_	_	Shift=1861
+4	судом	_	_	_	_	_	_	_	Shift=1867
+5	Новой	_	_	_	_	_	_	_	RuCor_chain_id=3450|RuCor_group_id=475080|Shift=1873
+6	Зеландии	_	_	_	_	_	_	_	RuCor_chain_id=3450|RuCor_group_id=475080|Shift=1879
+7	рассматривается	_	_	_	_	_	_	_	Shift=1888
+8	вопрос	_	_	_	_	_	_	_	Shift=1904
+9	об	_	_	_	_	_	_	_	Shift=1911
+10	экстрадиции	_	_	_	_	_	_	_	Shift=1914
+11	Кима	_	_	_	_	_	_	_	RuCor_chain_id=3445|RuCor_group_id=475081|Shift=1926
+12	Доткома	_	_	_	_	_	_	_	RuCor_chain_id=3445|RuCor_group_id=475081|Shift=1931
+13	в	_	_	_	_	_	_	_	Shift=1939
+14	Америку	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3453|RuCor_group_id=475082|RuCor_link_id=475076|Shift=1941|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=1948
+16	где	_	_	_	_	_	_	_	Shift=1950
+17	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3445|RuCor_group_id=475083|RuCor_link_id=475081|Shift=1954
+18	обвиняют	_	_	_	_	_	_	_	Shift=1958
+19	в	_	_	_	_	_	_	_	Shift=1967
+20	нарушении	_	_	_	_	_	_	_	Shift=1969
+21	авторских	_	_	_	_	_	_	_	Shift=1979
+22	прав	_	_	_	_	_	_	_	Shift=1989
+23	и	_	_	_	_	_	_	_	Shift=1994
+24	мошенничестве	_	_	_	_	_	_	_	Shift=1996|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=2009
+
+# sent_id = cf63e011-4b21-4364-b670-79b3ae28cad8-p5-s6
+# text = Слушания по делу о его выдаче должны состояться в апреле 2014 года.
+1	Слушания	_	_	_	_	_	_	_	Shift=2011
+2	по	_	_	_	_	_	_	_	Shift=2020
+3	делу	_	_	_	_	_	_	_	Shift=2023
+4	о	_	_	_	_	_	_	_	Shift=2028
+5	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=3445|RuCor_group_id=475084|RuCor_link_id=475081|Shift=2030
+6	выдаче	_	_	_	_	_	_	_	Shift=2034
+7	должны	_	_	_	_	_	_	_	Shift=2041
+8	состояться	_	_	_	_	_	_	_	Shift=2048
+9	в	_	_	_	_	_	_	_	Shift=2059
+10	апреле	_	_	_	_	_	_	_	Shift=2061
+11	2014	_	_	_	_	_	_	_	Shift=2068
+12	года	_	_	_	_	_	_	_	Shift=2073|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	_
+

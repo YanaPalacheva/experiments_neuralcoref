@@ -1,0 +1,556 @@
+#begin document (chtb_0219_0); part 000
+chtb_0219	0	0	Xinhua	NNP	(TOP(FRAG(NP*	-	-	-	-	-
+chtb_0219	0	1	News	NNP	*	-	-	-	-	-
+chtb_0219	0	2	Agency	NNP	*)	-	-	-	-	-
+chtb_0219	0	3	,	,	*	-	-	-	-	-
+chtb_0219	0	4	Jinan	NNP	(NP*)	-	-	-	-	-
+chtb_0219	0	5	,	,	*	-	-	-	-	-
+chtb_0219	0	6	September	NNP	(NP*	-	-	-	-	-
+chtb_0219	0	7	2nd	NN	*)	-	-	-	-	-
+chtb_0219	0	8	,	,	*	-	-	-	-	-
+chtb_0219	0	9	by	IN	(PP*	-	-	-	-	-
+chtb_0219	0	10	reporter	NN	(NP*	-	-	-	-	(5
+chtb_0219	0	11	Baixin	NNP	*	-	-	-	-	-
+chtb_0219	0	12	Zhang	NNP	*))))	-	-	-	-	5)
+
+chtb_0219	0	0	Laiwu	NNP	(TOP(S(NP(NP*	-	-	-	-	(0
+chtb_0219	0	1	City	NNP	*)	-	-	-	-	-
+chtb_0219	0	2	of	IN	(PP*	-	-	-	-	-
+chtb_0219	0	3	Shandong	NNP	(NP*	-	-	-	-	(2
+chtb_0219	0	4	Province	NNP	*)))	-	-	-	-	2)|0)
+chtb_0219	0	5	has	VBZ	(VP*	have	01	-	-	-
+chtb_0219	0	6	established	VBN	(VP*	establish	01	1	-	-
+chtb_0219	0	7	a	DT	(NP(NP*	-	-	-	-	-
+chtb_0219	0	8	cell	NN	(NML*	cell	-	1	-	-
+chtb_0219	0	9	structure	NN	*)	structure	-	1	-	-
+chtb_0219	0	10	cultivation	NN	*	-	-	-	-	-
+chtb_0219	0	11	center	NN	*)	center	-	2	-	-
+chtb_0219	0	12	inside	IN	(PP*	-	-	-	-	-
+chtb_0219	0	13	the	DT	(NP*	-	-	-	-	-
+chtb_0219	0	14	agricultural	JJ	*	-	-	-	-	-
+chtb_0219	0	15	new	JJ	(NML*	-	-	-	-	-
+chtb_0219	0	16	high	JJ	(NML*	-	-	-	-	-
+chtb_0219	0	17	level	NN	*)	level	-	1	-	-
+chtb_0219	0	18	technology	NN	*)	-	-	-	-	-
+chtb_0219	0	19	development	NN	(NML*	-	-	-	-	-
+chtb_0219	0	20	and	CC	*	-	-	-	-	-
+chtb_0219	0	21	model	NN	*)	model	01	1	-	-
+chtb_0219	0	22	zones	NNS	*)))	zone	-	2	-	-
+chtb_0219	0	23	,	,	*	-	-	-	-	-
+chtb_0219	0	24	to	TO	(S(VP*	-	-	-	-	-
+chtb_0219	0	25	introduce	VB	(VP*	introduce	02	2	-	-
+chtb_0219	0	26	and	CC	*	-	-	-	-	-
+chtb_0219	0	27	tame	VB	*	tame	01	1	-	-
+chtb_0219	0	28	improved	JJ	(NP(NP*	-	-	-	-	-
+chtb_0219	0	29	breeds	NNS	*)	breed	-	1	-	-
+chtb_0219	0	30	of	IN	(PP*	-	-	-	-	-
+chtb_0219	0	31	nurseries	NNS	(NP*	-	-	-	-	-
+chtb_0219	0	32	,	,	*	-	-	-	-	-
+chtb_0219	0	33	flowers	NNS	*	flower	-	1	-	-
+chtb_0219	0	34	and	CC	*	-	-	-	-	-
+chtb_0219	0	35	vegetables	NNS	*))	-	-	-	-	-
+chtb_0219	0	36	from	IN	(PP*	-	-	-	-	-
+chtb_0219	0	37	home	RB	(ADVP*	-	-	-	-	-
+chtb_0219	0	38	and	CC	*	-	-	-	-	-
+chtb_0219	0	39	abroad	RB	*))))))))	-	-	-	-	-
+chtb_0219	0	40	.	.	*))	-	-	-	-	-
+
+chtb_0219	0	0	In	IN	(TOP(S(PP*	-	-	-	-	-
+chtb_0219	0	1	the	DT	(NP*	-	-	-	-	(3
+chtb_0219	0	2	past	JJ	*	-	-	-	-	-
+chtb_0219	0	3	two	CD	*	-	-	-	-	-
+chtb_0219	0	4	years	NNS	*))	-	-	-	-	3)
+chtb_0219	0	5	,	,	*	-	-	-	-	-
+chtb_0219	0	6	more	JJR	(NP(NP(QP*	-	-	-	-	-
+chtb_0219	0	7	than	IN	*	-	-	-	-	-
+chtb_0219	0	8	50	CD	*)	-	-	-	-	-
+chtb_0219	0	9	new	JJ	*	-	-	-	-	-
+chtb_0219	0	10	breeds	NNS	*)	breed	-	1	-	-
+chtb_0219	0	11	such	JJ	(PP*	-	-	-	-	-
+chtb_0219	0	12	as	IN	*	-	-	-	-	-
+chtb_0219	0	13	melons	NNS	(NP(NP*)	-	-	-	-	-
+chtb_0219	0	14	,	,	*	-	-	-	-	-
+chtb_0219	0	15	vegetables	NNS	(NP*)	-	-	-	-	-
+chtb_0219	0	16	,	,	*	-	-	-	-	-
+chtb_0219	0	17	flowers	NNS	(NP*)	flower	-	1	-	-
+chtb_0219	0	18	and	CC	*	-	-	-	-	-
+chtb_0219	0	19	fruit	NN	(NP*	-	-	-	-	-
+chtb_0219	0	20	trees	NNS	*)	-	-	-	-	-
+chtb_0219	0	21	,	,	*	-	-	-	-	-
+chtb_0219	0	22	etc.	FW	(ADVP*))))	-	-	-	-	-
+chtb_0219	0	23	have	VBP	(VP(VP*	have	01	-	-	-
+chtb_0219	0	24	successively	RB	(ADVP*)	-	-	-	-	-
+chtb_0219	0	25	been	VBN	(VP*	-	-	-	-	-
+chtb_0219	0	26	introduced	VBN	(VP*	introduce	02	2	-	-
+chtb_0219	0	27	from	IN	(PP*	-	-	-	-	-
+chtb_0219	0	28	countries	NNS	(NP(NP*)	country	-	3	-	-
+chtb_0219	0	29	such	JJ	(PP*	-	-	-	-	-
+chtb_0219	0	30	as	IN	*	-	-	-	-	-
+chtb_0219	0	31	US	NNP	(NP(NP*)	-	-	-	-	-
+chtb_0219	0	32	and	CC	*	-	-	-	-	-
+chtb_0219	0	33	Japan	NNP	(NP*)	-	-	-	-	-
+chtb_0219	0	34	,	,	*	-	-	-	-	-
+chtb_0219	0	35	etc.	FW	(ADVP*))))))))	-	-	-	-	-
+chtb_0219	0	36	and	CC	*	-	-	-	-	-
+chtb_0219	0	37	has	VBZ	(VP*	have	01	-	-	-
+chtb_0219	0	38	bred	VBN	(VP*	breed	01	2	-	-
+chtb_0219	0	39	3.5	CD	(NP(QP*	-	-	-	-	-
+chtb_0219	0	40	million	CD	*)	-	-	-	-	-
+chtb_0219	0	41	improved	JJ	*	-	-	-	-	-
+chtb_0219	0	42	nurseries	NNS	*))))	-	-	-	-	-
+chtb_0219	0	43	.	.	*))	-	-	-	-	-
+
+chtb_0219	0	0	According	VBG	(TOP(S(PP*	-	-	-	-	-
+chtb_0219	0	1	to	IN	(PP*	-	-	-	-	-
+chtb_0219	0	2	understanding	NN	(NP*)))	understanding	-	3	-	-
+chtb_0219	0	3	,	,	*	-	-	-	-	-
+chtb_0219	0	4	currently	RB	(ADVP*)	-	-	-	-	-
+chtb_0219	0	5	Shandong	NNP	(NP*)	-	-	-	-	(2)
+chtb_0219	0	6	has	VBZ	(VP*	have	01	-	-	-
+chtb_0219	0	7	established	VBN	(VP*	establish	01	1	-	-
+chtb_0219	0	8	ten	CD	(NP*	-	-	-	-	-
+chtb_0219	0	9	agricultural	JJ	*	-	-	-	-	-
+chtb_0219	0	10	new	JJ	*	-	-	-	-	-
+chtb_0219	0	11	high	JJ	(NML(NML*	-	-	-	-	-
+chtb_0219	0	12	level	NN	*)	level	-	6	-	-
+chtb_0219	0	13	technology	NN	*)	-	-	-	-	-
+chtb_0219	0	14	development	NN	(NML*	-	-	-	-	-
+chtb_0219	0	15	and	CC	*	-	-	-	-	-
+chtb_0219	0	16	model	NN	*)	model	01	1	-	-
+chtb_0219	0	17	zones	NNS	*)	zone	-	1	-	-
+chtb_0219	0	18	similar	JJ	(S(ADJP*	-	-	-	-	-
+chtb_0219	0	19	to	IN	(PP*	-	-	-	-	-
+chtb_0219	0	20	that	DT	(NP(NP*)	-	-	-	-	-
+chtb_0219	0	21	of	IN	(PP*	-	-	-	-	-
+chtb_0219	0	22	Laiwu	NNP	(NP*	-	-	-	-	(0
+chtb_0219	0	23	City	NNP	*))))))))	-	-	-	-	0)
+chtb_0219	0	24	.	.	*))	-	-	-	-	-
+
+chtb_0219	0	0	A	DT	(TOP(S(NP(NP*	-	-	-	-	*	*
+chtb_0219	0	1	government	NN	*	-	-	-	-	*	*
+chtb_0219	0	2	official	NN	*)	-	-	-	-	*	*
+chtb_0219	0	3	of	IN	(PP*	-	-	-	-	*	*
+chtb_0219	0	4	Shandong	NNP	(NP*	-	-	-	-	*	*
+chtb_0219	0	5	Province	NNP	*)))	-	-	-	-	*	*
+chtb_0219	0	6	told	VBD	(VP*	tell	01	1	-	*	*
+chtb_0219	0	7	this	DT	(NP*	-	-	-	-	*	*
+chtb_0219	0	8	reporter	NN	*)	-	-	-	-	*	*
+chtb_0219	0	9	that	IN	(SBAR*	-	-	-	-	*	*
+chtb_0219	0	10	this	DT	(S(NP*	-	-	-	-	*	*
+chtb_0219	0	11	province	NN	*)	province	-	1	-	*	*
+chtb_0219	0	12	established	VBD	(VP*	establish	01	1	-	*	*
+chtb_0219	0	13	agricultural	JJ	(NP(NP*	-	-	-	-	*	*
+chtb_0219	0	14	new	JJ	(NML*	-	-	-	-	*	*
+chtb_0219	0	15	high	JJ	(NML*	-	-	-	-	*	*
+chtb_0219	0	16	level	NN	*)	level	-	6	-	*	*
+chtb_0219	0	17	technology	NN	*)	-	-	-	-	*	*
+chtb_0219	0	18	development	NN	(NML*	-	-	-	-	*	*
+chtb_0219	0	19	and	CC	*	-	-	-	-	*	*
+chtb_0219	0	20	model	NN	*)	model	01	1	-	*	*
+chtb_0219	0	21	zones	NNS	*))	zone	-	2	-	*	*
+chtb_0219	0	22	beginning	VBG	(PP*	begin	01	1	-	*	*
+chtb_0219	0	23	in	IN	(PP*	-	-	-	-	*	*
+chtb_0219	0	24	1992	CD	(NP*)))	-	-	-	-	*	*
+chtb_0219	0	25	,	,	*	-	-	-	-	*	*
+chtb_0219	0	26	whose	WP$	(SBAR(WHNP*	-	-	-	-	*	*
+chtb_0219	0	27	main	JJ	*	-	-	-	-	*	*
+chtb_0219	0	28	purpose	NN	*)	purpose	-	1	-	*	*
+chtb_0219	0	29	is	VBZ	(S(VP*	be	-	1	-	*	*
+chtb_0219	0	30	to	TO	(S(VP*	-	-	-	-	*	*
+chtb_0219	0	31	accelerate	VB	(VP*	accelerate	01	1	-	*	*
+chtb_0219	0	32	the	DT	(NP(NP*	-	-	-	-	*	*
+chtb_0219	0	33	transformation	NN	*)	transformation	01	1	-	*	*
+chtb_0219	0	34	of	IN	(PP*	-	-	-	-	*	*
+chtb_0219	0	35	agricultural	JJ	(NP*	-	-	-	-	*	*
+chtb_0219	0	36	new	JJ	(NML*	-	-	-	-	*	*
+chtb_0219	0	37	high	JJ	(NML*	-	-	-	-	*	*
+chtb_0219	0	38	level	NN	*)	level	-	6	-	*	*
+chtb_0219	0	39	technology	NN	*)	technology	-	1	-	*	*
+chtb_0219	0	40	achievements	NNS	*)))	-	-	-	-	*	*
+chtb_0219	0	41	through	IN	(PP*	-	-	-	-	*	*
+chtb_0219	0	42	introducing	VBG	(S(VP*	introduce	02	-	-	*	*
+chtb_0219	0	43	agricultural	JJ	(NP(NP*	-	-	-	-	*	*
+chtb_0219	0	44	new	JJ	*	-	-	-	-	*	*
+chtb_0219	0	45	high	JJ	(NML*	-	-	-	-	*	*
+chtb_0219	0	46	level	NN	*)	level	-	6	-	*	*
+chtb_0219	0	47	technologies	NNS	*)	technology	-	1	-	*	*
+chtb_0219	0	48	from	IN	(PP*	-	-	-	-	*	*
+chtb_0219	0	49	home	RB	(ADVP*	-	-	-	-	*	*
+chtb_0219	0	50	and	CC	*	-	-	-	-	*	*
+chtb_0219	0	51	abroad	RB	*)))	-	-	-	-	*	*
+chtb_0219	0	52	to	TO	(S(VP*	-	-	-	-	*	*
+chtb_0219	0	53	carry	VB	(VP*	carry	03	8	-	*	*
+chtb_0219	0	54	out	RP	(PRT*)	-	-	-	-	*	*
+chtb_0219	0	55	development	NN	(NP*)	-	-	-	-	*	*
+chtb_0219	0	56	in	IN	(PP*	-	-	-	-	*	*
+chtb_0219	0	57	order	NN	(NP(NP*)	order	-	10	-	*	*
+chtb_0219	0	58	to	TO	(S(VP*	-	-	-	-	*	*
+chtb_0219	0	59	provide	VB	(VP*	provide	01	1	-	*	*
+chtb_0219	0	60	effective	JJ	(NP*	-	-	-	-	(ARGM-MNR*)	(ARGM-MNR*)
+chtb_0219	0	61	models	NNS	*)	model	01	1	-	(V*)	(V*)
+chtb_0219	0	62	for	IN	(PP*	-	-	-	-	*	*
+chtb_0219	0	63	agricultural	JJ	(NP(NP*	-	-	-	-	*	*
+chtb_0219	0	64	production	NN	*)	production	-	1	-	*	*
+chtb_0219	0	65	and	CC	*	-	-	-	-	*	*
+chtb_0219	0	66	rural	JJ	(NP*	-	-	-	-	*	*
+chtb_0219	0	67	economy	NN	*	economy	-	2	-	*	*
+chtb_0219	0	68	development	NN	*)))	-	-	-	-	*	*
+chtb_0219	0	69	to	TO	(S(VP*	-	-	-	-	*	*
+chtb_0219	0	70	promote	VB	(VP*	promote	02	1	-	*	*
+chtb_0219	0	71	the	DT	(NP(NP*	-	-	-	-	*	*
+chtb_0219	0	72	transformation	NN	*)	transformation	01	1	-	*	*
+chtb_0219	0	73	of	IN	(PP*	-	-	-	-	*	*
+chtb_0219	0	74	traditional	JJ	(NP*	-	-	-	-	*	*
+chtb_0219	0	75	agriculture	NN	*))	agriculture	-	1	-	*	*
+chtb_0219	0	76	into	IN	(PP*	-	-	-	-	*	*
+chtb_0219	0	77	modern	JJ	(NP*	-	-	-	-	*	*
+chtb_0219	0	78	agriculture	NN	*)))))))))))))))))))))))))))	agriculture	-	1	-	*	*
+chtb_0219	0	79	.	.	*))	-	-	-	-	*	*
+
+chtb_0219	0	0	Currently	RB	(TOP(S(ADVP*)	-	-	-	-	-
+chtb_0219	0	1	,	,	*	-	-	-	-	-
+chtb_0219	0	2	ten	CD	(NP*	-	-	-	-	(4
+chtb_0219	0	3	agricultural	JJ	*	-	-	-	-	-
+chtb_0219	0	4	new	JJ	(NML*	-	-	-	-	-
+chtb_0219	0	5	high	JJ	(NML*	-	-	-	-	-
+chtb_0219	0	6	level	NN	*)	level	-	6	-	-
+chtb_0219	0	7	technology	NN	*)	-	-	-	-	-
+chtb_0219	0	8	development	NN	(NML*	-	-	-	-	-
+chtb_0219	0	9	and	CC	*	-	-	-	-	-
+chtb_0219	0	10	model	NN	*)	model	01	1	-	-
+chtb_0219	0	11	zones	NNS	*)	zone	-	2	-	4)
+chtb_0219	0	12	have	VBP	(VP*	have	01	-	-	-
+chtb_0219	0	13	designated	VBN	(VP*	designate	01	2	-	-
+chtb_0219	0	14	180,000	CD	(NP(NP*	-	-	-	-	-
+chtb_0219	0	15	mu	NNS	*)	-	-	-	-	-
+chtb_0219	0	16	of	IN	(PP*	-	-	-	-	-
+chtb_0219	0	17	land	NN	(NP*)))	land	-	2	-	-
+chtb_0219	0	18	to	TO	(S(VP*	-	-	-	-	-
+chtb_0219	0	19	become	VB	(VP*	become	01	1	-	-
+chtb_0219	0	20	the	DT	(NP*	-	-	-	-	-
+chtb_0219	0	21	central	JJ	*	-	-	-	-	-
+chtb_0219	0	22	model	NN	*	model	-	1	-	-
+chtb_0219	0	23	zone	NN	*))))))	zone	-	2	-	-
+chtb_0219	0	24	.	.	*))	-	-	-	-	-
+
+chtb_0219	0	0	To	TO	(TOP(S(S(VP*	-	-	-	-	-
+chtb_0219	0	1	accelerate	VB	(VP*	accelerate	01	1	-	-
+chtb_0219	0	2	construction	NN	(NP(NP*)	construction	-	1	-	-
+chtb_0219	0	3	of	IN	(PP*	-	-	-	-	-
+chtb_0219	0	4	the	DT	(NP*	-	-	-	-	(4
+chtb_0219	0	5	model	NN	*	model	-	1	-	-
+chtb_0219	0	6	zones	NNS	*))))))	zone	-	2	-	4)
+chtb_0219	0	7	,	,	*	-	-	-	-	-
+chtb_0219	0	8	Shandong	NNP	(NP*	-	-	-	-	(2
+chtb_0219	0	9	Province	NNP	*)	-	-	-	-	2)
+chtb_0219	0	10	has	VBZ	(VP*	have	01	-	-	-
+chtb_0219	0	11	totally	RB	(ADVP*)	-	-	-	-	-
+chtb_0219	0	12	invested	VBN	(VP*	invest	01	-	-	-
+chtb_0219	0	13	capital	NN	(NP(NP*)	capital	-	1	-	-
+chtb_0219	0	14	of	IN	(PP*	-	-	-	-	-
+chtb_0219	0	15	more	JJR	(NP(QP*	-	-	-	-	-
+chtb_0219	0	16	than	IN	*	-	-	-	-	-
+chtb_0219	0	17	62	CD	*	-	-	-	-	-
+chtb_0219	0	18	million	CD	*)	-	-	-	-	-
+chtb_0219	0	19	yuan	NNS	*)))	yuan	-	1	-	-
+chtb_0219	0	20	,	,	*	-	-	-	-	-
+chtb_0219	0	21	with	IN	(PP*	-	-	-	-	-
+chtb_0219	0	22	a	DT	(NP(NP*	-	-	-	-	-
+chtb_0219	0	23	construction	NN	*	construction	-	1	-	-
+chtb_0219	0	24	area	NN	*)	area	-	1	-	-
+chtb_0219	0	25	reaching	VBG	(VP*	reach	03	1	-	-
+chtb_0219	0	26	218,000	CD	(NP*	-	-	-	-	-
+chtb_0219	0	27	square	JJ	*	-	-	-	-	-
+chtb_0219	0	28	meters	NNS	*))))))	meter	-	1	-	-
+chtb_0219	0	29	.	.	*))	-	-	-	-	-
+
+chtb_0219	0	0	The	DT	(TOP(S(NP*	-	-	-	-	(4
+chtb_0219	0	1	model	NN	*	model	-	1	-	-
+chtb_0219	0	2	zones	NNS	*)	zone	-	2	-	4)
+chtb_0219	0	3	have	VBP	(VP*	have	01	-	-	-
+chtb_0219	0	4	basically	RB	(ADVP*)	-	-	-	-	-
+chtb_0219	0	5	implemented	VBN	(VP*	implement	01	1	-	-
+chtb_0219	0	6	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0219	0	7	four	CD	*	-	-	-	-	-
+chtb_0219	0	8	conveniences	NNS	*)	-	-	-	-	-
+chtb_0219	0	9	of	IN	(PP*	-	-	-	-	-
+chtb_0219	0	10	water	NN	(NP*	water	-	2	-	-
+chtb_0219	0	11	,	,	*	-	-	-	-	-
+chtb_0219	0	12	electricity	NN	*	-	-	-	-	-
+chtb_0219	0	13	,	,	*	-	-	-	-	-
+chtb_0219	0	14	roads	NNS	*	road	-	1	-	-
+chtb_0219	0	15	and	CC	*	-	-	-	-	-
+chtb_0219	0	16	telecommunications	NNS	*)))))	-	-	-	-	-
+chtb_0219	0	17	.	.	*))	-	-	-	-	-
+
+chtb_0219	0	0	In	IN	(TOP(S(PP*	-	-	-	-	-
+chtb_0219	0	1	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0219	0	2	agricultural	JJ	*	-	-	-	-	-
+chtb_0219	0	3	new	JJ	(NML*	-	-	-	-	-
+chtb_0219	0	4	high	JJ	(NML*	-	-	-	-	-
+chtb_0219	0	5	level	NN	*)	level	-	6	-	-
+chtb_0219	0	6	technology	NN	*)	-	-	-	-	-
+chtb_0219	0	7	development	NN	(NML*	-	-	-	-	-
+chtb_0219	0	8	and	CC	*	-	-	-	-	-
+chtb_0219	0	9	model	NN	*)	model	01	1	-	-
+chtb_0219	0	10	zone	NN	*)	zone	-	2	-	-
+chtb_0219	0	11	of	IN	(PP*	-	-	-	-	-
+chtb_0219	0	12	Zibo	NNP	(NP*	-	-	-	-	-
+chtb_0219	0	13	City	NNP	*))	-	-	-	-	-
+chtb_0219	0	14	in	IN	(PP*	-	-	-	-	-
+chtb_0219	0	15	the	DT	(NP*	-	-	-	-	-
+chtb_0219	0	16	Zhangdian	NNP	*	-	-	-	-	-
+chtb_0219	0	17	District	NNP	*))))	-	-	-	-	-
+chtb_0219	0	18	,	,	*	-	-	-	-	-
+chtb_0219	0	19	plan	VB	(VP*	plan	01	-	-	-
+chtb_0219	0	20	to	TO	(S(VP*	-	-	-	-	-
+chtb_0219	0	21	establish	VB	(VP*	establish	01	1	-	-
+chtb_0219	0	22	a	DT	(NP(NP*	-	-	-	-	-
+chtb_0219	0	23	agricultural	JJ	*	-	-	-	-	-
+chtb_0219	0	24	scientific	JJ	(NML*	-	-	-	-	-
+chtb_0219	0	25	research	NN	*)	-	-	-	-	-
+chtb_0219	0	26	training	NN	*	training	-	1	-	-
+chtb_0219	0	27	institute	NN	*)	-	-	-	-	-
+chtb_0219	0	28	,	,	*	-	-	-	-	-
+chtb_0219	0	29	a	DT	(NP(NP*	-	-	-	-	-
+chtb_0219	0	30	breeding	VBG	*	breed	01	-	-	-
+chtb_0219	0	31	area	NN	*)	area	-	1	-	-
+chtb_0219	0	32	for	IN	(PP*	-	-	-	-	-
+chtb_0219	0	33	improved	JJ	(NP*	-	-	-	-	-
+chtb_0219	0	34	agricultural	JJ	*	-	-	-	-	-
+chtb_0219	0	35	varieties	NNS	*)))	variety	-	3	-	-
+chtb_0219	0	36	,	,	*	-	-	-	-	-
+chtb_0219	0	37	an	DT	(NP*	-	-	-	-	-
+chtb_0219	0	38	organic	JJ	*	-	-	-	-	-
+chtb_0219	0	39	vegetable	NN	*	-	-	-	-	-
+chtb_0219	0	40	area	NN	*)	area	-	1	-	-
+chtb_0219	0	41	,	,	*	-	-	-	-	-
+chtb_0219	0	42	a	DT	(NP*	-	-	-	-	-
+chtb_0219	0	43	quality	NN	*	quality	-	1	-	-
+chtb_0219	0	44	orchard	NN	*)	-	-	-	-	-
+chtb_0219	0	45	,	,	*	-	-	-	-	-
+chtb_0219	0	46	the	DT	(NP*	-	-	-	-	-
+chtb_0219	0	47	fine	JJ	*	-	-	-	-	-
+chtb_0219	0	48	stock	NN	*	stock	-	3	-	-
+chtb_0219	0	49	breeding	NN	*	-	-	-	-	-
+chtb_0219	0	50	farm	NN	*)	-	-	-	-	-
+chtb_0219	0	51	,	,	*	-	-	-	-	-
+chtb_0219	0	52	etc	FW	(ADVP*))))))	-	-	-	-	-
+chtb_0219	0	53	.	.	*))	-	-	-	-	-
+
+chtb_0219	0	0	Not	RB	(TOP(SINV(CONJP*	-	-	-	-	-
+chtb_0219	0	1	only	RB	*)	-	-	-	-	-
+chtb_0219	0	2	are	VBP	*	be	-	4	-	-
+chtb_0219	0	3	some	DT	(NP(NP(NP*)	-	-	-	-	-
+chtb_0219	0	4	of	IN	(PP*	-	-	-	-	-
+chtb_0219	0	5	the	DT	(NP*	-	-	-	-	-
+chtb_0219	0	6	most	RBS	(ADJP*	-	-	-	-	-
+chtb_0219	0	7	advanced	JJ	*)	-	-	-	-	-
+chtb_0219	0	8	domestic	JJ	*	-	-	-	-	-
+chtb_0219	0	9	agricultural	JJ	*	-	-	-	-	-
+chtb_0219	0	10	technologies	NNS	*))))	technology	-	1	-	-
+chtb_0219	0	11	here	RB	(ADVP*)	-	-	-	-	-
+chtb_0219	0	12	,	,	*	-	-	-	-	-
+chtb_0219	0	13	but	CC	(NAC(CONJP*	-	-	-	-	-
+chtb_0219	0	14	also	RB	*)	-	-	-	-	-
+chtb_0219	0	15	new	JJ	(NP(NP*	-	-	-	-	-
+chtb_0219	0	16	varieties	NNS	*)	variety	-	3	-	-
+chtb_0219	0	17	introduced	VBN	(VP*	introduce	02	-	-	-
+chtb_0219	0	18	from	IN	(PP*	-	-	-	-	-
+chtb_0219	0	19	foreign	JJ	(NP*	-	-	-	-	-
+chtb_0219	0	20	countries	NNS	*)))))	country	-	3	-	-
+chtb_0219	0	21	.	.	*))	-	-	-	-	-
+
+chtb_0219	0	0	In	IN	(TOP(S(PP*	-	-	-	-	-
+chtb_0219	0	1	the	DT	(NP*	-	-	-	-	(3
+chtb_0219	0	2	past	JJ	*	-	-	-	-	-
+chtb_0219	0	3	two	CD	*	-	-	-	-	-
+chtb_0219	0	4	years	NNS	*))	-	-	-	-	3)
+chtb_0219	0	5	,	,	*	-	-	-	-	-
+chtb_0219	0	6	the	DT	(NP*	-	-	-	-	(4
+chtb_0219	0	7	ten	CD	*	-	-	-	-	-
+chtb_0219	0	8	agricultural	JJ	*	-	-	-	-	-
+chtb_0219	0	9	new	JJ	(NML*	-	-	-	-	-
+chtb_0219	0	10	high	JJ	(NML*	-	-	-	-	-
+chtb_0219	0	11	level	NN	*)	level	-	6	-	-
+chtb_0219	0	12	technology	NN	*)	-	-	-	-	-
+chtb_0219	0	13	development	NN	(NML*	-	-	-	-	-
+chtb_0219	0	14	and	CC	*	-	-	-	-	-
+chtb_0219	0	15	model	NN	*)	model	01	1	-	-
+chtb_0219	0	16	zones	NNS	*)	zone	-	2	-	4)
+chtb_0219	0	17	have	VBP	(VP*	have	01	-	-	-
+chtb_0219	0	18	promoted	VBN	(VP(VP*	promote	02	1	-	-
+chtb_0219	0	19	more	JJR	(NP(QP*	-	-	-	-	-
+chtb_0219	0	20	than	IN	*	-	-	-	-	-
+chtb_0219	0	21	a	DT	*	-	-	-	-	-
+chtb_0219	0	22	hundred	CD	*)	-	-	-	-	-
+chtb_0219	0	23	new	JJ	*	-	-	-	-	-
+chtb_0219	0	24	agricultural	JJ	*	-	-	-	-	-
+chtb_0219	0	25	varieties	NNS	*))	variety	-	3	-	-
+chtb_0219	0	26	,	,	*	-	-	-	-	-
+chtb_0219	0	27	developed	VBN	(VP*	develop	02	1	-	-
+chtb_0219	0	28	23	CD	(NP(NP*	-	-	-	-	-
+chtb_0219	0	29	new	JJ	(NML*	-	-	-	-	-
+chtb_0219	0	30	high	JJ	(NML*	-	-	-	-	-
+chtb_0219	0	31	level	NN	*)	level	-	6	-	-
+chtb_0219	0	32	technology	NN	*)	technology	-	1	-	-
+chtb_0219	0	33	projects	NNS	*)	project	-	1	-	-
+chtb_0219	0	34	entering	VBG	(VP*	enter	01	1	-	-
+chtb_0219	0	35	the	DT	(NP*	-	-	-	-	-
+chtb_0219	0	36	zone	NN	*))))	zone	-	2	-	-
+chtb_0219	0	37	,	,	*	-	-	-	-	-
+chtb_0219	0	38	and	CC	*	-	-	-	-	-
+chtb_0219	0	39	reaped	VBN	(VP*	reap	01	2	-	-
+chtb_0219	0	40	better	JJR	(NP*	-	-	-	-	-
+chtb_0219	0	41	economic	JJ	(NML(NML*	-	-	-	-	-
+chtb_0219	0	42	benefits	NNS	*)	benefit	-	1	-	-
+chtb_0219	0	43	and	CC	*	-	-	-	-	-
+chtb_0219	0	44	social	JJ	(NML*	-	-	-	-	-
+chtb_0219	0	45	benefits	NNS	*))))))	benefit	-	1	-	-
+chtb_0219	0	46	.	.	*))	-	-	-	-	-
+
+chtb_0219	0	0	The	DT	(TOP(S(NP*	-	-	-	-	(6
+chtb_0219	0	1	Weihai	NNP	*	-	-	-	-	-
+chtb_0219	0	2	agricultural	JJ	*	-	-	-	-	-
+chtb_0219	0	3	new	JJ	(NML*	-	-	-	-	-
+chtb_0219	0	4	high	JJ	(NML*	-	-	-	-	-
+chtb_0219	0	5	level	NN	*)	level	-	6	-	-
+chtb_0219	0	6	technology	NN	*)	-	-	-	-	-
+chtb_0219	0	7	development	NN	(NML*	-	-	-	-	-
+chtb_0219	0	8	and	CC	*	-	-	-	-	-
+chtb_0219	0	9	model	NN	*)	model	01	1	-	-
+chtb_0219	0	10	zone	NN	*)	zone	-	2	-	6)
+chtb_0219	0	11	introduced	VBD	(VP(VP*	introduce	02	2	-	-
+chtb_0219	0	12	a	DT	(NP*	-	-	-	-	-
+chtb_0219	0	13	new	JJ	*	-	-	-	-	-
+chtb_0219	0	14	potato	NN	*	-	-	-	-	-
+chtb_0219	0	15	variety	NN	*))	variety	-	3	-	-
+chtb_0219	0	16	,	,	*	-	-	-	-	-
+chtb_0219	0	17	and	CC	*	-	-	-	-	-
+chtb_0219	0	18	after	IN	(VP(PP*	-	-	-	-	-
+chtb_0219	0	19	cultivation	NN	(NP*	-	-	-	-	-
+chtb_0219	0	20	and	CC	*	-	-	-	-	-
+chtb_0219	0	21	breeding	NN	*))	-	-	-	-	-
+chtb_0219	0	22	,	,	*	-	-	-	-	-
+chtb_0219	0	23	has	VBZ	*	have	01	-	-	-
+chtb_0219	0	24	provided	VBN	(VP*	provide	01	1	-	-
+chtb_0219	0	25	50,000	CD	(NP(NP*	-	-	-	-	-
+chtb_0219	0	26	kg	NNS	*)	-	-	-	-	-
+chtb_0219	0	27	of	IN	(PP*	-	-	-	-	-
+chtb_0219	0	28	potatoes	NNS	(NP*)))	-	-	-	-	-
+chtb_0219	0	29	to	IN	(PP*	-	-	-	-	-
+chtb_0219	0	30	society	NN	(NP*))	society	-	1	-	-
+chtb_0219	0	31	this	DT	(NP*	-	-	-	-	-
+chtb_0219	0	32	year	NN	*))))	-	-	-	-	-
+chtb_0219	0	33	.	.	*))	-	-	-	-	-
+
+chtb_0219	0	0	They	PRP	(TOP(S(NP*)	-	-	-	-	(6)
+chtb_0219	0	1	have	VBP	(VP*	have	01	-	-	-
+chtb_0219	0	2	also	RB	(ADVP*)	-	-	-	-	-
+chtb_0219	0	3	bred	VBN	(VP*	breed	01	2	-	-
+chtb_0219	0	4	200,000	CD	(NP*	-	-	-	-	-
+chtb_0219	0	5	toxin	NN	(ADJP*	-	-	-	-	-
+chtb_0219	0	6	-	HYPH	*	-	-	-	-	-
+chtb_0219	0	7	free	JJ	*)	-	-	-	-	-
+chtb_0219	0	8	fruit	NN	*	-	-	-	-	-
+chtb_0219	0	9	tree	NN	*	-	-	-	-	-
+chtb_0219	0	10	nurseries	NNS	*)))	-	-	-	-	-
+chtb_0219	0	11	.	.	*))	-	-	-	-	-
+
+chtb_0219	0	0	New	JJ	(TOP(S(NP(NML*	-	-	-	-	(1
+chtb_0219	0	1	high	JJ	(NML*	-	-	-	-	-
+chtb_0219	0	2	level	NN	*)	level	-	6	-	-
+chtb_0219	0	3	technology	NN	*)	-	-	-	-	-
+chtb_0219	0	4	development	NN	(NML*	-	-	-	-	-
+chtb_0219	0	5	and	CC	*	-	-	-	-	-
+chtb_0219	0	6	model	NN	*)	model	01	1	-	-
+chtb_0219	0	7	zones	NNS	*)	zone	-	2	-	1)
+chtb_0219	0	8	have	VBP	(VP*	have	01	-	-	-
+chtb_0219	0	9	become	VBN	(VP*	become	01	1	-	-
+chtb_0219	0	10	Shandong	NNP	(NP(NP*	-	-	-	-	(2
+chtb_0219	0	11	's	POS	*)	-	-	-	-	2)
+chtb_0219	0	12	agricultural	JJ	*	-	-	-	-	-
+chtb_0219	0	13	"	``	*	-	-	-	-	-
+chtb_0219	0	14	model	NN	*	model	-	4	-	-
+chtb_0219	0	15	gardens	NNS	*	garden	-	3	-	-
+chtb_0219	0	16	"	''	*)))	-	-	-	-	-
+chtb_0219	0	17	.	.	*))	-	-	-	-	-
+
+chtb_0219	0	0	Many	JJ	(TOP(S(NP*	-	-	-	-	-
+chtb_0219	0	1	peasants	NNS	*)	-	-	-	-	-
+chtb_0219	0	2	often	RB	(ADVP*)	-	-	-	-	-
+chtb_0219	0	3	come	VBP	(VP*	come	01	1	-	-
+chtb_0219	0	4	here	RB	(ADVP*)	-	-	-	-	-
+chtb_0219	0	5	to	TO	(S(VP*	-	-	-	-	-
+chtb_0219	0	6	learn	VB	(VP(VP*	learn	01	1	-	-
+chtb_0219	0	7	techniques	NNS	(NP*))	technique	-	3	-	-
+chtb_0219	0	8	and	CC	*	-	-	-	-	-
+chtb_0219	0	9	purchase	VB	(VP*	purchase	01	1	-	-
+chtb_0219	0	10	quality	NN	(NP*	quality	-	1	-	-
+chtb_0219	0	11	varieties	NNS	*))))))	variety	-	3	-	-
+chtb_0219	0	12	.	.	*))	-	-	-	-	-
+
+chtb_0219	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	-
+chtb_0219	0	1	modeling	NN	(NML*	-	-	-	-	-
+chtb_0219	0	2	and	CC	*	-	-	-	-	-
+chtb_0219	0	3	leading	NN	*)	-	-	-	-	-
+chtb_0219	0	4	effects	NNS	*)	effect	-	1	-	-
+chtb_0219	0	5	of	IN	(PP*	-	-	-	-	-
+chtb_0219	0	6	the	DT	(NP*	-	-	-	-	(1
+chtb_0219	0	7	model	NN	*	model	-	1	-	-
+chtb_0219	0	8	zones	NNS	*)))	zone	-	2	-	1)
+chtb_0219	0	9	have	VBP	(VP*	have	01	-	-	-
+chtb_0219	0	10	become	VBN	(VP*	become	01	1	-	-
+chtb_0219	0	11	larger	JJR	(ADJP*	-	-	-	-	-
+chtb_0219	0	12	and	CC	*	-	-	-	-	-
+chtb_0219	0	13	larger	JJR	*)))	-	-	-	-	-
+chtb_0219	0	14	.	.	*))	-	-	-	-	-
+
+chtb_0219	0	0	Laiwu	NNP	(TOP(S(S(NP*	-	-	-	-	(0
+chtb_0219	0	1	City	NNP	*)	-	-	-	-	0)
+chtb_0219	0	2	has	VBZ	(VP*	have	01	-	-	-
+chtb_0219	0	3	established	VBN	(VP*	establish	01	1	-	-
+chtb_0219	0	4	a	DT	(NP*	-	-	-	-	-
+chtb_0219	0	5	detoxification	NN	*	-	-	-	-	-
+chtb_0219	0	6	production	NN	*	-	-	-	-	-
+chtb_0219	0	7	base	NN	*)	-	-	-	-	-
+chtb_0219	0	8	to	TO	(S(VP*	-	-	-	-	-
+chtb_0219	0	9	carry	VB	(VP*	carry	03	8	-	-
+chtb_0219	0	10	out	RP	(PRT*)	-	-	-	-	-
+chtb_0219	0	11	nursery	NN	(NP*	-	-	-	-	-
+chtb_0219	0	12	detoxification	NN	*)	-	-	-	-	-
+chtb_0219	0	13	on	IN	(PP*	-	-	-	-	-
+chtb_0219	0	14	traditional	JJ	(NP(NP*	-	-	-	-	-
+chtb_0219	0	15	products	NNS	*)	product	-	1	-	-
+chtb_0219	0	16	such	JJ	(PP*	-	-	-	-	-
+chtb_0219	0	17	as	IN	*	-	-	-	-	-
+chtb_0219	0	18	shallot	NN	(NP*	-	-	-	-	-
+chtb_0219	0	19	,	,	*	-	-	-	-	-
+chtb_0219	0	20	ginger	NN	*	-	-	-	-	-
+chtb_0219	0	21	and	CC	*	-	-	-	-	-
+chtb_0219	0	22	garlic	NN	*))))))))))	-	-	-	-	-
+chtb_0219	0	23	,	,	*	-	-	-	-	-
+chtb_0219	0	24	and	CC	*	-	-	-	-	-
+chtb_0219	0	25	after	IN	(S(PP*	-	-	-	-	-
+chtb_0219	0	26	detoxification	NN	(NP*))	-	-	-	-	-
+chtb_0219	0	27	,	,	*	-	-	-	-	-
+chtb_0219	0	28	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0219	0	29	output	NN	*)	output	-	1	-	-
+chtb_0219	0	30	of	IN	(PP*	-	-	-	-	-
+chtb_0219	0	31	shallot	NN	(NP*	-	-	-	-	-
+chtb_0219	0	32	,	,	*	-	-	-	-	-
+chtb_0219	0	33	ginger	NN	*	-	-	-	-	-
+chtb_0219	0	34	and	CC	*	-	-	-	-	-
+chtb_0219	0	35	garlic	NN	*)))	-	-	-	-	-
+chtb_0219	0	36	has	VBZ	(VP*	have	01	-	-	-
+chtb_0219	0	37	increased	VBN	(VP*	increase	01	1	-	-
+chtb_0219	0	38	more	RBR	(ADVP(ADVP*)	-	-	-	-	-
+chtb_0219	0	39	than	IN	(PP*	-	-	-	-	-
+chtb_0219	0	40	doubled	RB	(ADVP*))))))	-	-	-	-	-
+chtb_0219	0	41	.	.	*))	-	-	-	-	-
+
+chtb_0219	0	0	-LRB-	-LRB-	(TOP(NP*	-	-	-	-	-
+chtb_0219	0	1	End	NN	*	end	-	4	-	-
+chtb_0219	0	2	-RRB-	-RRB-	*))	-	-	-	-	-
+
+#end document

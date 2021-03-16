@@ -1,0 +1,759 @@
+#begin document (msnbc_0007_4); part 000
+msnbc_0007	4	0	Here	RB	(TOP(SINV(ADVP*)	-	-	-	Tim_Russert	-
+msnbc_0007	4	1	's	VBZ	(VP*)	be	01	4	Tim_Russert	-
+msnbc_0007	4	2	the	DT	(NP(NP*	-	-	-	Tim_Russert	(116
+msnbc_0007	4	3	latest	JJS	*	-	-	-	Tim_Russert	-
+msnbc_0007	4	4	study	NN	*)	study	01	3	Tim_Russert	-
+msnbc_0007	4	5	from	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	6	the	DT	(NP(NP*	-	-	-	Tim_Russert	(79
+msnbc_0007	4	7	Institute	NNP	*)	-	-	-	Tim_Russert	-
+msnbc_0007	4	8	for	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	9	Science	NNP	(NP(NP*)	-	-	-	Tim_Russert	-
+msnbc_0007	4	10	and	CC	*	-	-	-	Tim_Russert	-
+msnbc_0007	4	11	International	NNP	(NP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	12	Security	NNP	*))))))	-	-	-	Tim_Russert	116)|79)
+msnbc_0007	4	13	/.	.	*))	-	-	-	Tim_Russert	-
+
+msnbc_0007	4	0	They	PRP	(TOP(S(NP*)	-	-	-	Tim_Russert	(79)
+msnbc_0007	4	1	estimated	VBD	(VP*	estimate	01	1	Tim_Russert	-
+msnbc_0007	4	2	a	DT	(NP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	3	report	NN	*	report	01	2	Tim_Russert	-
+msnbc_0007	4	4	that	IN	(SBAR*	-	-	-	Tim_Russert	-
+msnbc_0007	4	5	North	NNP	(S(NP*	-	-	-	Tim_Russert	(13
+msnbc_0007	4	6	Korea	NNP	*)	-	-	-	Tim_Russert	13)
+msnbc_0007	4	7	has	VBZ	(VP*	have	03	1	Tim_Russert	-
+msnbc_0007	4	8	enough	JJ	(NP(NP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	9	separated	VBN	*	separate	01	-	Tim_Russert	-
+msnbc_0007	4	10	plutonium	NN	*)	-	-	-	Tim_Russert	-
+msnbc_0007	4	11	to	TO	(S(VP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	12	develop	VB	(VP*	develop	02	1	Tim_Russert	-
+msnbc_0007	4	13	now	RB	(ADVP*)	-	-	-	Tim_Russert	-
+msnbc_0007	4	14	an	DT	(NP(NP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	15	arsenal	NN	*)	arsenal	-	1	Tim_Russert	-
+msnbc_0007	4	16	of	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	17	four	CD	(NP(QP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	18	to	TO	*	-	-	-	Tim_Russert	-
+msnbc_0007	4	19	thirteen	CD	*)	-	-	-	Tim_Russert	-
+msnbc_0007	4	20	nuclear	JJ	*	-	-	-	Tim_Russert	-
+msnbc_0007	4	21	weapons	NNS	*)))))))	weapon	-	1	Tim_Russert	-
+msnbc_0007	4	22	compared	VBN	(PP*	compare	01	-	Tim_Russert	-
+msnbc_0007	4	23	with	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	24	estimates	NNS	(NP(NP*)	estimate	-	1	Tim_Russert	-
+msnbc_0007	4	25	of	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	26	just	RB	(NP(QP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	27	one	CD	*	-	-	-	Tim_Russert	-
+msnbc_0007	4	28	or	CC	*	-	-	-	Tim_Russert	-
+msnbc_0007	4	29	two	CD	*)	-	-	-	Tim_Russert	-
+msnbc_0007	4	30	weapons	NNS	*))	weapon	-	1	Tim_Russert	-
+msnbc_0007	4	31	in	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	32	two	CD	(NP(NP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	33	thousand	CD	*)	-	-	-	Tim_Russert	-
+msnbc_0007	4	34	when	WRB	(SBAR(WHADVP*)	-	-	-	Tim_Russert	-
+msnbc_0007	4	35	George	NNP	(S(NP*	-	-	-	Tim_Russert	(173
+msnbc_0007	4	36	bush	NN	*)	-	-	-	Tim_Russert	173)
+msnbc_0007	4	37	became	VBD	(VP*	become	01	1	Tim_Russert	-
+msnbc_0007	4	38	president	NN	(NP*))))))))))))))	president	-	3	Tim_Russert	-
+msnbc_0007	4	39	/.	.	*))	-	-	-	Tim_Russert	-
+
+msnbc_0007	4	0	The	DT	(TOP(S(NP*	-	-	-	Tim_Russert	(79
+msnbc_0007	4	1	group	NN	*)	group	-	1	Tim_Russert	79)
+msnbc_0007	4	2	says	VBZ	(VP*	say	01	1	Tim_Russert	-
+msnbc_0007	4	3	that	IN	(SBAR*	-	-	-	Tim_Russert	-
+msnbc_0007	4	4	by	IN	(S(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	5	two	CD	(NP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	6	thousand	CD	*	-	-	-	Tim_Russert	-
+msnbc_0007	4	7	eight	CD	*))	-	-	-	Tim_Russert	-
+msnbc_0007	4	8	North	NNP	(NP*	-	-	-	Tim_Russert	(13
+msnbc_0007	4	9	Korea	NNP	*)	-	-	-	Tim_Russert	13)
+msnbc_0007	4	10	could	MD	(VP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	11	have	VB	(VP*	have	03	1	Tim_Russert	-
+msnbc_0007	4	12	enough	JJ	(NP(NP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	13	plutonium	NN	*)	-	-	-	Tim_Russert	-
+msnbc_0007	4	14	for	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	15	eight	CD	(NP(QP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	16	to	TO	*	-	-	-	Tim_Russert	-
+msnbc_0007	4	17	seventeen	CD	*)	-	-	-	Tim_Russert	-
+msnbc_0007	4	18	nuclear	JJ	*	-	-	-	Tim_Russert	-
+msnbc_0007	4	19	weapons	NNS	*))))))))	weapon	-	1	Tim_Russert	-
+msnbc_0007	4	20	/.	.	*))	-	-	-	Tim_Russert	-
+
+msnbc_0007	4	0	The	DT	(TOP(FRAG(NP(NP*	-	-	-	Tim_Russert	(79|(116
+msnbc_0007	4	1	group	NN	*	group	-	1	Tim_Russert	-
+msnbc_0007	4	2	's	POS	*)	-	-	-	Tim_Russert	79)
+msnbc_0007	4	3	assessment	NN	*)	assessment	01	1	Tim_Russert	116)
+msnbc_0007	4	4	based	VBN	(VP*	base	02	1	Tim_Russert	-
+msnbc_0007	4	5	on	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	6	analysis	NN	(NP(NP*)	analysis	01	1	Tim_Russert	-
+msnbc_0007	4	7	of	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	8	satellite	NN	(NP(NP(NP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	9	imagery	NN	*)	-	-	-	Tim_Russert	-
+msnbc_0007	4	10	media	NNS	(NP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	11	reports	NNS	*)	report	-	1	Tim_Russert	-
+msnbc_0007	4	12	and	CC	*	-	-	-	Tim_Russert	-
+msnbc_0007	4	13	statements	NNS	(NP(NP*)	statement	01	1	Tim_Russert	-
+msnbc_0007	4	14	by	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	15	North	JJ	(NP(ADJP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	16	Korean	JJ	*)	-	-	-	Tim_Russert	-
+msnbc_0007	4	17	officials	NNS	*))))	official	-	1	Tim_Russert	-
+msnbc_0007	4	18	which	WDT	(SBAR(WHNP*)	-	-	-	Tim_Russert	-
+msnbc_0007	4	19	lead	VBP	(S(VP*	lead	02	5	Tim_Russert	-
+msnbc_0007	4	20	Nick	NNP	(NP(NP*	-	-	-	Tim_Russert	(113
+msnbc_0007	4	21	Everstat	NNP	*)	-	-	-	Tim_Russert	-
+msnbc_0007	4	22	a	DT	(NP(NP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	23	conservative	JJ	*	-	-	-	Tim_Russert	-
+msnbc_0007	4	24	critic	NN	*)	critic	-	1	Tim_Russert	-
+msnbc_0007	4	25	from	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	26	the	DT	(NP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	27	American	NNP	*	-	-	-	Tim_Russert	-
+msnbc_0007	4	28	Enterprise	NNP	*	-	-	-	Tim_Russert	-
+msnbc_0007	4	29	Institute	NNP	*)))	-	-	-	Tim_Russert	-
+msnbc_0007	4	30	these	DT	(PRN(S(NP*)	-	-	-	Tim_Russert	-
+msnbc_0007	4	31	are	VBP	(VP*	be	01	1	Tim_Russert	-
+msnbc_0007	4	32	not	RB	*	-	-	-	Tim_Russert	-
+msnbc_0007	4	33	Democrats	NNPS	(NP*)))))))))))))	-	-	-	Tim_Russert	113)
+msnbc_0007	4	34	/-	.	*))	-	-	-	Tim_Russert	-
+
+msnbc_0007	4	0	he	PRP	(TOP(S(NP*)	-	-	-	Tim_Russert	(113)
+msnbc_0007	4	1	offered	VBD	(VP*	offer	01	3	Tim_Russert	-
+msnbc_0007	4	2	this	DT	(NP*))	-	-	-	Tim_Russert	-
+msnbc_0007	4	3	/.	.	*))	-	-	-	Tim_Russert	-
+
+msnbc_0007	4	0	although	IN	(TOP(S(SBAR*	-	-	-	Tim_Russert	*	*
+msnbc_0007	4	1	the	DT	(S(NP(NP(NP*	-	-	-	Tim_Russert	*	*
+msnbc_0007	4	2	Bush	NNP	*	-	-	-	Tim_Russert	*	*
+msnbc_0007	4	3	administration	NN	*	-	-	-	Tim_Russert	*	*
+msnbc_0007	4	4	's	POS	*)	-	-	-	Tim_Russert	*	*
+msnbc_0007	4	5	rhetoric	NN	*)	-	-	-	Tim_Russert	*	*
+msnbc_0007	4	6	about	IN	(PP*	-	-	-	Tim_Russert	*	*
+msnbc_0007	4	7	Kim	NNP	(NP(NP*	-	-	-	Tim_Russert	*	*
+msnbc_0007	4	8	Jong	NNP	*	-	-	-	Tim_Russert	*	*
+msnbc_0007	4	9	-	HYPH	*	-	-	-	Tim_Russert	*	*
+msnbc_0007	4	10	Il	NNP	*)	-	-	-	Tim_Russert	*	*
+msnbc_0007	4	11	and	CC	*	-	-	-	Tim_Russert	*	*
+msnbc_0007	4	12	his	PRP$	(NP*	-	-	-	Tim_Russert	*	*
+msnbc_0007	4	13	regime	NN	*))))	-	-	-	Tim_Russert	*	*
+msnbc_0007	4	14	has	VBZ	(VP*	have	01	-	Tim_Russert	*	*
+msnbc_0007	4	15	sometimes	RB	(ADVP*)	-	-	-	Tim_Russert	*	*
+msnbc_0007	4	16	seemed	VBN	(VP*	seem	01	1	Tim_Russert	*	*
+msnbc_0007	4	17	ferocious	JJ	(S(ADJP*))))))	-	-	-	Tim_Russert	*	*
+msnbc_0007	4	18	North	NNP	(NP(NP*	-	-	-	Tim_Russert	*	*
+msnbc_0007	4	19	Korea	NNP	*	-	-	-	Tim_Russert	*	*
+msnbc_0007	4	20	's	POS	*)	-	-	-	Tim_Russert	*	*
+msnbc_0007	4	21	leaders	NNS	*)	leader	-	1	Tim_Russert	*	*
+msnbc_0007	4	22	seem	VBP	(VP*	seem	01	1	Tim_Russert	*	*
+msnbc_0007	4	23	to	TO	(S(VP*	-	-	-	Tim_Russert	*	*
+msnbc_0007	4	24	have	VB	(VP*	have	01	-	Tim_Russert	*	*
+msnbc_0007	4	25	concluded	VBN	(VP*	conclude	01	3	Tim_Russert	*	*
+msnbc_0007	4	26	that	IN	(SBAR(SBAR*	-	-	-	Tim_Russert	*	*
+msnbc_0007	4	27	the	DT	(S(NP*	-	-	-	Tim_Russert	*	*
+msnbc_0007	4	28	Bush	NNP	*	-	-	-	Tim_Russert	*	*
+msnbc_0007	4	29	North	NNP	(NML*	-	-	-	Tim_Russert	*	*
+msnbc_0007	4	30	Korea	NNP	*)	-	-	-	Tim_Russert	*	*
+msnbc_0007	4	31	policy	NN	*)	policy	-	1	Tim_Russert	*	*
+msnbc_0007	4	32	consists	VBZ	(VP*	consist	01	1	Tim_Russert	*	*
+msnbc_0007	4	33	mainly	RB	(ADVP*)	-	-	-	Tim_Russert	*	*
+msnbc_0007	4	34	of	IN	(PP*	-	-	-	Tim_Russert	*	*
+msnbc_0007	4	35	empty	JJ	(NP*	-	-	-	Tim_Russert	*	*
+msnbc_0007	4	36	words	NNS	*)))))	word	-	2	Tim_Russert	*	*
+msnbc_0007	4	37	and	CC	*	-	-	-	Tim_Russert	*	*
+msnbc_0007	4	38	that	IN	(SBAR*	-	-	-	Tim_Russert	*	*
+msnbc_0007	4	39	oft	RB	(S(NP(ADJP*	-	-	-	Tim_Russert	(ARG1*	(ARG1*
+msnbc_0007	4	40	repeated	VBN	*)	repeat	01	-	Tim_Russert	*	*
+msnbc_0007	4	41	warning	NN	*)	warning	01	1	Tim_Russert	*)	*)
+msnbc_0007	4	42	need	MD	(VP*	-	-	-	Tim_Russert	(ARGM-MOD*)	(ARGM-MOD*)
+msnbc_0007	4	43	not	RB	*	-	-	-	Tim_Russert	(ARGM-NEG*)	(ARGM-NEG*)
+msnbc_0007	4	44	be	VB	(VP*	be	03	-	Tim_Russert	*	*
+msnbc_0007	4	45	taken	VBN	(VP*	take	01	-	Tim_Russert	(V*)	(V*)
+msnbc_0007	4	46	terribly	RB	(ADVP*	-	-	-	Tim_Russert	(ARGM-MNR*	(ARGM-MNR*
+msnbc_0007	4	47	seriously	RB	*))))))))))))	-	-	-	Tim_Russert	*)	*)
+msnbc_0007	4	48	/.	.	*))	-	-	-	Tim_Russert	*	*
+
+msnbc_0007	4	0	By	IN	(TOP(S(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	1	more	JJR	(NP(QP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	2	than	IN	*	-	-	-	Tim_Russert	-
+msnbc_0007	4	3	one	CD	*)	-	-	-	Tim_Russert	-
+msnbc_0007	4	4	criteria	NNS	*))	-	-	-	Tim_Russert	-
+msnbc_0007	4	5	indeed	RB	(ADVP*)	-	-	-	Tim_Russert	-
+msnbc_0007	4	6	strategic	JJ	(NP(NP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	7	successes	NNS	*)	success	01	2	Tim_Russert	-
+msnbc_0007	4	8	on	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	9	the	DT	(NP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	10	Bush	NNP	*	-	-	-	Tim_Russert	(173)
+msnbc_0007	4	11	watch	NN	*)))	watch	-	2	Tim_Russert	-
+msnbc_0007	4	12	outshine	VBP	(VP*	outshine	01	-	Tim_Russert	-
+msnbc_0007	4	13	those	DT	(NP(NP*)	-	-	-	Tim_Russert	-
+msnbc_0007	4	14	from	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	15	its	PRP$	(NP(NP*)	-	-	-	Tim_Russert	-
+msnbc_0007	4	16	during	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	17	the	DT	(NP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	18	Clinton	NNP	*	-	-	-	Tim_Russert	-
+msnbc_0007	4	19	years	NNS	*))))))	-	-	-	Tim_Russert	-
+msnbc_0007	4	20	/.	.	*))	-	-	-	Tim_Russert	-
+
+msnbc_0007	4	0	Would	MD	(TOP(SQ*	-	-	-	Tim_Russert	-
+msnbc_0007	4	1	you	PRP	(NP*)	-	-	-	Tim_Russert	(81)
+msnbc_0007	4	2	acknowledge	VB	(VP*	acknowledge	01	1	Tim_Russert	-
+msnbc_0007	4	3	a	DT	(NP(NP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	4	significant	JJ	*	-	-	-	Tim_Russert	-
+msnbc_0007	4	5	increase	NN	*)	increase	01	1	Tim_Russert	-
+msnbc_0007	4	6	in	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	7	the	DT	(NP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	8	nuclear	JJ	*	-	-	-	Tim_Russert	-
+msnbc_0007	4	9	capability	NN	*))	capability	-	2	Tim_Russert	-
+msnbc_0007	4	10	by	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	11	North	NNP	(NP*	-	-	-	Tim_Russert	(13
+msnbc_0007	4	12	Korea	NNP	*))	-	-	-	Tim_Russert	13)
+msnbc_0007	4	13	on	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	14	the	DT	(NP(NP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	15	watch	NN	*)	watch	-	2	Tim_Russert	-
+msnbc_0007	4	16	of	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	17	President	NNP	(NP*	-	-	-	Tim_Russert	(173
+msnbc_0007	4	18	Bush	NNP	*))))))	-	-	-	Tim_Russert	173)
+msnbc_0007	4	19	/?	.	*))	-	-	-	Tim_Russert	-
+
+msnbc_0007	4	0	Tim	NNP	(TOP(S(NP*)	-	-	-	Nicholas_Burns	(170)
+msnbc_0007	4	1	um	UH	(INTJ*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	2	obviously	RB	(ADVP*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	3	we	PRP	(NP*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	4	profoundly	RB	(ADVP*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	5	disagree	VBP	(VP*	disagree	01	1	Nicholas_Burns	-
+msnbc_0007	4	6	with	IN	(PP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	7	um	UH	(INTJ*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	8	some	DT	(NP(NP*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	9	of	IN	(PP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	10	the	DT	(NP(NP*	-	-	-	Nicholas_Burns	(4
+msnbc_0007	4	11	statements	NNS	*)	statement	01	1	Nicholas_Burns	-
+msnbc_0007	4	12	that	WDT	(SBAR(WHNP*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	13	we	PRP	(S(NP*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	14	've	VBP	(VP*	have	01	12	Nicholas_Burns	-
+msnbc_0007	4	15	just	RB	(ADVP*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	16	heard	VBN	(VP*)))))))))	hear	01	1	Nicholas_Burns	4)
+msnbc_0007	4	17	/.	.	*))	-	-	-	Nicholas_Burns	-
+
+msnbc_0007	4	0	Eh	UH	(TOP(S(INTJ*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	1	you	PRP	(PRN(S(NP*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	2	know	VBP	(VP*)))	know	01	1	Nicholas_Burns	-
+msnbc_0007	4	3	we	PRP	(NP*)	-	-	-	Nicholas_Burns	(209)
+msnbc_0007	4	4	've	VBP	(VP*	have	01	12	Nicholas_Burns	-
+msnbc_0007	4	5	got	VBD	(VP*	get	02	1	Nicholas_Burns	-
+msnbc_0007	4	6	a	DT	(NP*	-	-	-	Nicholas_Burns	(45
+msnbc_0007	4	7	very	RB	(ADJP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	8	strong	JJ	*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	9	military	JJ	(NML(NML*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	10	force	NN	*)	force	-	2	Nicholas_Burns	-
+msnbc_0007	4	11	and	CC	*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	12	deterrent	NN	(NML*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	13	force	NN	*)))	force	-	2	Nicholas_Burns	45)
+msnbc_0007	4	14	at	IN	(PP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	15	work	NN	(NP*))	work	04	1	Nicholas_Burns	-
+msnbc_0007	4	16	in	IN	(PP(PP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	17	Asia	NNP	(NP*))	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	18	and	CC	*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	19	particularly	RB	(PP(ADVP*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	20	on	IN	*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	21	the	DT	(NP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	22	Korean	JJ	*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	23	peninsula	NN	*)))))	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	24	/.	.	*))	-	-	-	Nicholas_Burns	-
+
+msnbc_0007	4	0	And	CC	(TOP(S*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	1	that	DT	(NP*	-	-	-	Nicholas_Burns	(45
+msnbc_0007	4	2	military	NN	*)	-	-	-	Nicholas_Burns	45)
+msnbc_0007	4	3	can	MD	(VP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	4	handle	VB	(VP*	handle	01	2	Nicholas_Burns	-
+msnbc_0007	4	5	any	DT	(NP(NP*	-	-	-	Nicholas_Burns	(114
+msnbc_0007	4	6	contingency	NN	*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	7	that	WDT	(SBAR(WHNP*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	8	should	MD	(S(VP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	9	arise	VB	(VP*)))))))	arise	01	1	Nicholas_Burns	114)
+msnbc_0007	4	10	/.	.	*))	-	-	-	Nicholas_Burns	-
+
+msnbc_0007	4	0	We	PRP	(TOP(S(NP*)	-	-	-	Nicholas_Burns	(209)
+msnbc_0007	4	1	also	RB	(ADVP*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	2	have	VBP	(VP*	have	03	2	Nicholas_Burns	-
+msnbc_0007	4	3	a	DT	(NP(NP(NP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	4	very	RB	(ADJP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	5	tough	JJ	*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	6	policy	NN	*)	policy	-	1	Nicholas_Burns	-
+msnbc_0007	4	7	and	CC	*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	8	I	PRP	(PRN(S(NP*)	-	-	-	Nicholas_Burns	(81)
+msnbc_0007	4	9	think	VBP	(VP*)))	think	01	1	Nicholas_Burns	-
+msnbc_0007	4	10	forward	RB	(NP(ADJP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	11	looking	VBG	*)	look	01	-	Nicholas_Burns	-
+msnbc_0007	4	12	policy	NN	*))	policy	-	1	Nicholas_Burns	-
+msnbc_0007	4	13	to	TO	(S(VP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	14	develop	VB	(VP*	develop	02	1	Nicholas_Burns	-
+msnbc_0007	4	15	missile	NN	(NP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	16	defense	NN	*)	defense	-	5	Nicholas_Burns	-
+msnbc_0007	4	17	to	TO	(S(VP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	18	handle	VB	(VP*	handle	01	2	Nicholas_Burns	-
+msnbc_0007	4	19	those	DT	(NP*	-	-	-	Nicholas_Burns	(114
+msnbc_0007	4	20	contingencies	NNS	*)))))))))	-	-	-	Nicholas_Burns	114)
+msnbc_0007	4	21	/.	.	*))	-	-	-	Nicholas_Burns	-
+
+msnbc_0007	4	0	But	CC	(TOP(S*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	1	you	PRP	(NP*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	2	've	VBP	(VP*	have	01	12	Nicholas_Burns	-
+msnbc_0007	4	3	got	VBN	(VP*	get	06	-	Nicholas_Burns	-
+msnbc_0007	4	4	to	TO	(S(VP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	5	combine	VB	(VP*	combine	01	1	Nicholas_Burns	-
+msnbc_0007	4	6	military	JJ	(NP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	7	measures	NNS	*)	measure	02	4	Nicholas_Burns	-
+msnbc_0007	4	8	with	IN	(PP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	9	diplomacy	NN	(NP*))	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	10	to	TO	(S(VP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	11	be	VB	(VP*	be	01	1	Nicholas_Burns	-
+msnbc_0007	4	12	effective	JJ	(ADJP*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	13	in	IN	(PP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	14	a	DT	(NP(NP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	15	situation	NN	*)	situation	-	1	Nicholas_Burns	-
+msnbc_0007	4	16	like	IN	(PP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	17	this	DT	(NP*))))))))))))	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	18	/.	.	*))	-	-	-	Nicholas_Burns	-
+
+msnbc_0007	4	0	The	DT	(TOP(S(NP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	1	fact	NN	*)	fact	-	2	Nicholas_Burns	-
+msnbc_0007	4	2	is	VBZ	(VP*	be	01	1	Nicholas_Burns	-
+msnbc_0007	4	3	that	IN	(SBAR*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	4	a	DT	(S(NP(NP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	5	lot	NN	*)	lot	-	1	Nicholas_Burns	-
+msnbc_0007	4	6	of	IN	(PP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	7	this	DT	(NP*	-	-	-	Nicholas_Burns	(4
+msnbc_0007	4	8	criticism	NN	*)))	criticism	-	1	Nicholas_Burns	4)
+msnbc_0007	4	9	seems	VBZ	(VP*	seem	01	1	Nicholas_Burns	-
+msnbc_0007	4	10	to	TO	(S(VP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	11	direct	VB	(VP*	direct	01	2	Nicholas_Burns	-
+msnbc_0007	4	12	the	DT	(NP*	-	-	-	Nicholas_Burns	(209
+msnbc_0007	4	13	United	NNP	*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	14	States	NNP	*)	-	-	-	Nicholas_Burns	209)
+msnbc_0007	4	15	back	RB	(ADVP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	16	to	IN	(PP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	17	a	DT	(NP(NP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	18	test	NN	*)	test	-	2	Nicholas_Burns	-
+msnbc_0007	4	19	of	IN	(PP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	20	wills	NNS	(NP*))	will	-	1	Nicholas_Burns	-
+msnbc_0007	4	21	bilaterally	RB	(ADVP*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	22	between	IN	(PP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	23	North	NNP	(NP(NP*	-	-	-	Nicholas_Burns	(13
+msnbc_0007	4	24	Korea	NNP	*)	-	-	-	Nicholas_Burns	13)
+msnbc_0007	4	25	and	CC	*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	26	the	DT	(NP*	-	-	-	Nicholas_Burns	(209
+msnbc_0007	4	27	United	NNP	*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	28	States	NNP	*)))))))))))))	-	-	-	Nicholas_Burns	209)
+msnbc_0007	4	29	/.	.	*))	-	-	-	Nicholas_Burns	-
+
+msnbc_0007	4	0	What	WP	(TOP(S(SBAR(WHNP*)	-	-	-	Nicholas_Burns	*	*
+msnbc_0007	4	1	we	PRP	(S(NP*)	-	-	-	Nicholas_Burns	*	*
+msnbc_0007	4	2	want	VBP	(VP*	want	01	1	Nicholas_Burns	*	*
+msnbc_0007	4	3	to	TO	(S(VP*	-	-	-	Nicholas_Burns	*	*
+msnbc_0007	4	4	do	VB	(VP*))))))	do	02	1	Nicholas_Burns	*	*
+msnbc_0007	4	5	is	VBZ	(VP*	be	01	2	Nicholas_Burns	*	*
+msnbc_0007	4	6	we	PRP	(S(NP*)	-	-	-	Nicholas_Burns	*	*
+msnbc_0007	4	7	want	VBP	(VP*	want	01	1	Nicholas_Burns	*	*
+msnbc_0007	4	8	to	TO	(S(VP*	-	-	-	Nicholas_Burns	*	*
+msnbc_0007	4	9	ask	VB	(VP*	ask	02	2	Nicholas_Burns	*	*
+msnbc_0007	4	10	countries	NNS	(NP(NP*)	country	-	3	Nicholas_Burns	(ARG0*	(ARG0*
+msnbc_0007	4	11	that	WDT	(SBAR(WHNP*)	-	-	-	Nicholas_Burns	*	*
+msnbc_0007	4	12	do	VBP	(S(VP*	do	01	-	Nicholas_Burns	*	*
+msnbc_0007	4	13	have	VB	(VP*	have	03	2	Nicholas_Burns	*	*
+msnbc_0007	4	14	a	DT	(NP(NP(NP*	-	-	-	Nicholas_Burns	*	*
+msnbc_0007	4	15	great	JJ	*	-	-	-	Nicholas_Burns	*	*
+msnbc_0007	4	16	deal	NN	*)	deal	-	2	Nicholas_Burns	*	*
+msnbc_0007	4	17	of	IN	(PP*	-	-	-	Nicholas_Burns	*	*
+msnbc_0007	4	18	influence	NN	(NP(NP*)	influence	01	1	Nicholas_Burns	*	*
+msnbc_0007	4	19	on	IN	(PP*	-	-	-	Nicholas_Burns	*	*
+msnbc_0007	4	20	North	NNP	(NP*	-	-	-	Nicholas_Burns	*	*
+msnbc_0007	4	21	Korea	NNP	*)))))	-	-	-	Nicholas_Burns	*	*
+msnbc_0007	4	22	certainly	RB	(NP(ADVP*)	-	-	-	Nicholas_Burns	*	*
+msnbc_0007	4	23	more	JJR	(NP*)	-	-	-	Nicholas_Burns	*	*
+msnbc_0007	4	24	than	IN	(SBAR*	-	-	-	Nicholas_Burns	*	*
+msnbc_0007	4	25	we	PRP	(S(NP*)	-	-	-	Nicholas_Burns	*	*
+msnbc_0007	4	26	have	VBP	(VP*))))))))))	have	03	12	Nicholas_Burns	*)	*)
+msnbc_0007	4	27	to	TO	(S(VP*	-	-	-	Nicholas_Burns	*	*
+msnbc_0007	4	28	use	VB	(VP*	use	01	1	Nicholas_Burns	(V*)	(V*)
+msnbc_0007	4	29	that	DT	(NP*	-	-	-	Nicholas_Burns	(ARG1*	(ARG1*
+msnbc_0007	4	30	influence	NN	*))))))))))	influence	01	1	Nicholas_Burns	*)	*)
+msnbc_0007	4	31	/.	.	*))	-	-	-	Nicholas_Burns	*	*
+
+msnbc_0007	4	0	We	PRP	(TOP(S(NP*)	-	-	-	Nicholas_Burns	(209)
+msnbc_0007	4	1	can	MD	(VP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	2	do	VB	(VP*	do	02	1	Nicholas_Burns	-
+msnbc_0007	4	3	that	DT	(NP*)	-	-	-	Nicholas_Burns	(142)
+msnbc_0007	4	4	by	IN	(PP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	5	channeling	VBG	(S(VP*	channel	01	1	Nicholas_Burns	-
+msnbc_0007	4	6	those	DT	(NP*	-	-	-	Nicholas_Burns	(14
+msnbc_0007	4	7	efforts	NNS	*)	effort	-	1	Nicholas_Burns	14)
+msnbc_0007	4	8	through	IN	(PP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	9	the	DT	(NP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	10	six	CD	(NML*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	11	party	NN	*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	12	framework	NN	*)))))))	framework	-	1	Nicholas_Burns	-
+msnbc_0007	4	13	/.	.	*))	-	-	-	Nicholas_Burns	-
+
+msnbc_0007	4	0	And	CC	(TOP(S*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	1	you	PRP	(PRN(S(NP*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	2	know	VBP	(VP*)))	know	01	1	Nicholas_Burns	-
+msnbc_0007	4	3	diplomacy	NN	(NP*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	4	sometimes	RB	(ADVP*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	5	ca	MD	(VP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	6	n't	RB	*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	7	succeed	VB	(VP*	succeed	01	1	Nicholas_Burns	-
+msnbc_0007	4	8	in	IN	(PP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	9	a	DT	(NP(NP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	10	day	NN	*	day	-	2	Nicholas_Burns	-
+msnbc_0007	4	11	or	CC	(QP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	12	two	CD	*))	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	13	or	CC	*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	14	a	DT	(NP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	15	week	NN	*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	16	or	CC	(QP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	17	two	CD	*))))))	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	18	/.	.	*))	-	-	-	Nicholas_Burns	-
+
+msnbc_0007	4	0	Sometimes	RB	(TOP(S(ADVP*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	1	it	PRP	(NP(NP*))	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	2	takes	VBZ	(VP*	take	10	3	Nicholas_Burns	-
+msnbc_0007	4	3	many	JJ	(NP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	4	months	NNS	*	month	-	1	Nicholas_Burns	-
+msnbc_0007	4	5	or	CC	*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	6	even	RB	*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	7	years	NNS	*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	8	to	TO	(S(VP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	9	succeed	VB	(VP*))))	succeed	01	1	Nicholas_Burns	-
+msnbc_0007	4	10	/.	.	*))	-	-	-	Nicholas_Burns	-
+
+msnbc_0007	4	0	But	CC	(TOP(S*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	1	if	IN	(SBAR(SBAR*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	2	you	PRP	(S(NP*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	3	have	VBP	(VP*	have	03	2	Nicholas_Burns	-
+msnbc_0007	4	4	the	DT	(NP*	-	-	-	Nicholas_Burns	(70
+msnbc_0007	4	5	right	JJ	*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	6	policy	NN	*)	policy	-	1	Nicholas_Burns	70)
+msnbc_0007	4	7	in	IN	(PP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	8	place	NN	(NP*)))))	place	-	9	Nicholas_Burns	-
+msnbc_0007	4	9	,	,	*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	10	if	IN	(SBAR*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	11	you	PRP	(S(NP*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	12	know	VBP	(VP*	know	01	1	Nicholas_Burns	-
+msnbc_0007	4	13	what	WP	(SBAR(WHNP*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	14	you	PRP	(S(NP*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	15	're	VBP	(VP*	be	03	-	Nicholas_Burns	-
+msnbc_0007	4	16	trying	VBG	(VP*	try	01	1	Nicholas_Burns	-
+msnbc_0007	4	17	to	TO	(S(VP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	18	accomplish	VB	(VP*))))))))))	accomplish	01	1	Nicholas_Burns	-
+msnbc_0007	4	19	and	CC	*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	20	if	IN	(SBAR*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	21	you	PRP	(S(NP*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	22	're	VBP	(VP*	be	01	1	Nicholas_Burns	-
+msnbc_0007	4	23	very	RB	(ADJP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	24	tough	RB	*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	25	-	HYPH	*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	26	minded	JJ	*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	27	about	IN	(PP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	28	applying	VBG	(S(VP*	apply	02	1	Nicholas_Burns	-
+msnbc_0007	4	29	that	DT	(NP*	-	-	-	Nicholas_Burns	(70
+msnbc_0007	4	30	policy	NN	*)))))))))	policy	-	1	Nicholas_Burns	70)
+msnbc_0007	4	31	we	PRP	(NP*)	-	-	-	Nicholas_Burns	(198)
+msnbc_0007	4	32	can	MD	(VP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	33	be	VB	(VP*	be	01	1	Nicholas_Burns	-
+msnbc_0007	4	34	successful	JJ	(ADJP*)))	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	35	/.	.	*))	-	-	-	Nicholas_Burns	-
+
+msnbc_0007	4	0	So	RB	(TOP(S(ADVP*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	1	we	PRP	(NP*)	-	-	-	Nicholas_Burns	(198)
+msnbc_0007	4	2	have	VBP	(VP*	have	01	-	Nicholas_Burns	-
+msnbc_0007	4	3	not	RB	*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	4	given	VBN	(VP*	give	07	5	Nicholas_Burns	-
+msnbc_0007	4	5	up	RP	(PRT*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	6	hope	NN	(NP*	hope	-	1	Nicholas_Burns	-
+msnbc_0007	4	7	that	IN	(SBAR*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	8	we	PRP	(S(NP*)	-	-	-	Nicholas_Burns	(198)
+msnbc_0007	4	9	can	MD	(VP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	10	engineer	VB	(VP*	engineer	01	2	Nicholas_Burns	-
+msnbc_0007	4	11	a	DT	(NP(NP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	12	policy	NN	*)	policy	-	1	Nicholas_Burns	-
+msnbc_0007	4	13	that	WDT	(SBAR(WHNP*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	14	will	MD	(S(VP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	15	effectively	RB	(ADVP*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	16	put	VB	(VP(VP*	put	01	1	Nicholas_Burns	-
+msnbc_0007	4	17	the	DT	(NP*	-	-	-	Nicholas_Burns	(13
+msnbc_0007	4	18	North	NNP	*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	19	Koreans	NNPS	*)	-	-	-	Nicholas_Burns	13)
+msnbc_0007	4	20	back	RB	(ADVP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	21	in	IN	(PP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	22	the	DT	(NP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	23	box	NN	*))))	box	-	4	Nicholas_Burns	-
+msnbc_0007	4	24	take	VB	(VP*	take	05	11	Nicholas_Burns	-
+msnbc_0007	4	25	away	RP	(PRT*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	26	their	PRP$	(NP*	-	-	-	Nicholas_Burns	(13)
+msnbc_0007	4	27	nuclear	JJ	*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	28	programs	NNS	*))	program	-	1	Nicholas_Burns	-
+msnbc_0007	4	29	and	CC	*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	30	take	VB	(VP*	take	05	11	Nicholas_Burns	-
+msnbc_0007	4	31	away	RP	(PRT*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	32	their	PRP$	(NP*	-	-	-	Nicholas_Burns	(13)
+msnbc_0007	4	33	ability	NN	*	ability	-	1	Nicholas_Burns	-
+msnbc_0007	4	34	to	TO	(S(VP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	35	inflict	VB	(VP*	inflict	01	1	Nicholas_Burns	-
+msnbc_0007	4	36	threats	NNS	(NP*	threat	-	1	Nicholas_Burns	-
+msnbc_0007	4	37	and	CC	*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	38	damage	NN	*)	damage	-	1	Nicholas_Burns	-
+msnbc_0007	4	39	on	IN	(PP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	40	their	PRP$	(NP*	-	-	-	Nicholas_Burns	(13)
+msnbc_0007	4	41	neighbors	NNS	*)))))))))))))))))))	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	42	/.	.	*))	-	-	-	Nicholas_Burns	-
+
+msnbc_0007	4	0	We	PRP	(TOP(S(NP*)	-	-	-	Nicholas_Burns	(209)
+msnbc_0007	4	1	have	VBP	(VP*	have	01	-	Nicholas_Burns	-
+msnbc_0007	4	2	got	VBN	(VP*	get	06	-	Nicholas_Burns	-
+msnbc_0007	4	3	to	TO	(S(VP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	4	be	VB	(VP*	be	01	1	Nicholas_Burns	-
+msnbc_0007	4	5	single	RB	(ADJP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	6	-	HYPH	*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	7	minded	JJ	*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	8	about	IN	(PP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	9	this	DT	(NP*))))))))	-	-	-	Nicholas_Burns	(66)
+msnbc_0007	4	10	/.	.	*))	-	-	-	Nicholas_Burns	-
+
+msnbc_0007	4	0	we	PRP	(TOP(S(NP*)	-	-	-	Nicholas_Burns	(209)
+msnbc_0007	4	1	certainly	RB	(ADVP*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	2	understand	VBP	(VP*	understand	01	1	Nicholas_Burns	-
+msnbc_0007	4	3	the	DT	(NP(NP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	4	gravity	NN	*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	5	of	IN	(PP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	6	a	DT	(NP(NP*	-	-	-	Nicholas_Burns	(66
+msnbc_0007	4	7	challenge	NN	*)	challenge	01	1	Nicholas_Burns	-
+msnbc_0007	4	8	posed	VBN	(VP*	pose	02	1	Nicholas_Burns	-
+msnbc_0007	4	9	by	IN	(PP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	10	North	NNP	(NP*	-	-	-	Nicholas_Burns	(13
+msnbc_0007	4	11	Korea	NNP	*)))))))	-	-	-	Nicholas_Burns	66)|13)
+msnbc_0007	4	12	/.	.	*))	-	-	-	Nicholas_Burns	-
+
+msnbc_0007	4	0	but	CC	(TOP(S*	-	-	-	Nicholas_Burns	-	-
+msnbc_0007	4	1	frankly	RB	(ADVP*)	-	-	-	Nicholas_Burns	-	-
+msnbc_0007	4	2	I	PRP	(NP*)	-	-	-	Nicholas_Burns	(81)	(81)
+msnbc_0007	4	3	do	VBP	(VP*	do	01	-	Nicholas_Burns	-	-
+msnbc_0007	4	4	n't	RB	*	-	-	-	Nicholas_Burns	-	-
+msnbc_0007	4	5	think	VB	(VP*	think	01	1	Nicholas_Burns	-	-
+msnbc_0007	4	6	these	DT	(SBAR(S(NP*	-	-	-	Nicholas_Burns	(3	(3
+msnbc_0007	4	7	critics	NNS	*)	-	-	-	Nicholas_Burns	3)	3)
+msnbc_0007	4	8	have	VBP	(VP*	have	01	-	Nicholas_Burns	-	-
+msnbc_0007	4	9	offered	VBN	(VP*	offer	01	1	Nicholas_Burns	-	-
+msnbc_0007	4	10	any	DT	(NP(NP*	-	-	-	Nicholas_Burns	-	-
+msnbc_0007	4	11	alternative	NN	*)	-	-	-	Nicholas_Burns	-	-
+msnbc_0007	4	12	that	WDT	(SBAR(WHNP*)	-	-	-	Nicholas_Burns	-	-
+msnbc_0007	4	13	would	MD	(S(VP*	-	-	-	Nicholas_Burns	-	-
+msnbc_0007	4	14	have	VB	(VP(VP*	have	03	2	Nicholas_Burns	-	-
+msnbc_0007	4	15	a	DT	(NP(NP*	-	-	-	Nicholas_Burns	-	-
+msnbc_0007	4	16	reasonable	JJ	*	-	-	-	Nicholas_Burns	-	-
+msnbc_0007	4	17	prospect	NN	*)	prospect	-	1	Nicholas_Burns	-	-
+msnbc_0007	4	18	of	IN	(PP*	-	-	-	Nicholas_Burns	-	-
+msnbc_0007	4	19	success	NN	(NP*))))	success	-	3	Nicholas_Burns	-	-
+msnbc_0007	4	20	or	CC	*	-	-	-	Nicholas_Burns	-	-
+msnbc_0007	4	21	lead	VBP	(VP*	lead	03	1	Nicholas_Burns	-	-
+msnbc_0007	4	22	us	PRP	(NP*)	-	-	-	Nicholas_Burns	(209)	(209)
+msnbc_0007	4	23	to	IN	(PP*	-	-	-	Nicholas_Burns	-	-
+msnbc_0007	4	24	unintended	JJ	(NP*	-	-	-	Nicholas_Burns	-	-
+msnbc_0007	4	25	consequences	NNS	*))	consequence	-	1	Nicholas_Burns	-	-
+msnbc_0007	4	26	uh	UH	(INTJ*)	-	-	-	Nicholas_Burns	-	-
+msnbc_0007	4	27	if	IN	(SBAR*	-	-	-	Nicholas_Burns	-	-
+msnbc_0007	4	28	you	PRP	(S(NP*)	-	-	-	Nicholas_Burns	-	-
+msnbc_0007	4	29	went	VBD	(VP*	go	02	1	Nicholas_Burns	-	-
+msnbc_0007	4	30	down	IN	(PP*	-	-	-	Nicholas_Burns	-	-
+msnbc_0007	4	31	the	DT	(NP(NP*	-	-	-	Nicholas_Burns	-	-
+msnbc_0007	4	32	road	NN	*)	road	-	2	Nicholas_Burns	-	-
+msnbc_0007	4	33	that	WDT	(SBAR(WHNP*)	-	-	-	Nicholas_Burns	-	-
+msnbc_0007	4	34	some	DT	(S(NP(NP*)	-	-	-	Nicholas_Burns	-	-
+msnbc_0007	4	35	of	IN	(PP*	-	-	-	Nicholas_Burns	-	-
+msnbc_0007	4	36	them	PRP	(NP*)))	-	-	-	Nicholas_Burns	(3)	(3)
+msnbc_0007	4	37	are	VBP	(VP*	be	03	-	Nicholas_Burns	-	-
+msnbc_0007	4	38	suggesting	VBG	(VP*)))))))))))))))))))))	suggest	01	1	Nicholas_Burns	-	-
+msnbc_0007	4	39	/.	.	*))	-	-	-	Nicholas_Burns	-	-
+
+msnbc_0007	4	0	And	CC	(TOP(S*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	1	we	PRP	(NP*)	-	-	-	Nicholas_Burns	(209)
+msnbc_0007	4	2	think	VBP	(VP*	think	01	1	Nicholas_Burns	-
+msnbc_0007	4	3	we	PRP	(SBAR(S(NP*)	-	-	-	Nicholas_Burns	(209)
+msnbc_0007	4	4	've	VBP	(VP*	have	01	12	Nicholas_Burns	-
+msnbc_0007	4	5	got	VBN	(VP*	get	02	1	Nicholas_Burns	-
+msnbc_0007	4	6	the	DT	(NP*	-	-	-	Nicholas_Burns	(140
+msnbc_0007	4	7	right	JJ	*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	8	policy	NN	*)	policy	-	1	Nicholas_Burns	140)
+msnbc_0007	4	9	in	IN	(PP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	10	place	NN	(NP*)))))))	place	-	9	Nicholas_Burns	-
+msnbc_0007	4	11	/.	.	*))	-	-	-	Nicholas_Burns	-
+
+msnbc_0007	4	0	and	CC	(TOP(S*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	1	I	PRP	(NP*)	-	-	-	Nicholas_Burns	(81)
+msnbc_0007	4	2	can	MD	(VP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	3	assure	VB	(VP*	assure	01	1	Nicholas_Burns	-
+msnbc_0007	4	4	you	PRP	(NP*)	-	-	-	Nicholas_Burns	(170)
+msnbc_0007	4	5	we	PRP	(SBAR(S(NP*)	-	-	-	Nicholas_Burns	(209)
+msnbc_0007	4	6	're	VBP	(VP*	be	03	-	Nicholas_Burns	-
+msnbc_0007	4	7	going	VBG	(VP*	go	04	7	Nicholas_Burns	-
+msnbc_0007	4	8	to	TO	(S(VP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	9	drive	VB	(VP*	drive	01	3	Nicholas_Burns	-
+msnbc_0007	4	10	with	IN	(PP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	11	a	DT	(NP(NP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	12	great	JJ	*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	13	deal	NN	*)	deal	-	2	Nicholas_Burns	-
+msnbc_0007	4	14	of	IN	(PP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	15	energy	NN	(NP*	energy	-	2	Nicholas_Burns	-
+msnbc_0007	4	16	and	CC	*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	17	determination	NN	*)))))))))))))	determination	-	2	Nicholas_Burns	-
+msnbc_0007	4	18	/.	.	*))	-	-	-	Nicholas_Burns	-
+
+msnbc_0007	4	0	But	CC	(TOP(S*	-	-	-	Tim_Russert	-
+msnbc_0007	4	1	you	PRP	(NP*)	-	-	-	Tim_Russert	(81)
+msnbc_0007	4	2	do	VBP	(VP*	do	01	-	Tim_Russert	-
+msnbc_0007	4	3	not	RB	*	-	-	-	Tim_Russert	-
+msnbc_0007	4	4	deny	VB	(VP*	deny	01	1	Tim_Russert	-
+msnbc_0007	4	5	that	IN	(SBAR*	-	-	-	Tim_Russert	-
+msnbc_0007	4	6	North	NNP	(S(NP(NP*	-	-	-	Tim_Russert	(13
+msnbc_0007	4	7	Korea	NNP	*	-	-	-	Tim_Russert	-
+msnbc_0007	4	8	's	POS	*)	-	-	-	Tim_Russert	13)
+msnbc_0007	4	9	nuclear	JJ	*	-	-	-	Tim_Russert	-
+msnbc_0007	4	10	capability	NN	*)	capability	-	1	Tim_Russert	-
+msnbc_0007	4	11	has	VBZ	(VP*	have	01	-	Tim_Russert	-
+msnbc_0007	4	12	increased	VBN	(VP*	increase	01	1	Tim_Russert	-
+msnbc_0007	4	13	during	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	14	the	DT	(NP(NP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	15	presidency	NN	*)	-	-	-	Tim_Russert	-
+msnbc_0007	4	16	of	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	4	17	George	NNP	(NP*	-	-	-	Tim_Russert	(173
+msnbc_0007	4	18	Bush	NNP	*))))))))))	-	-	-	Tim_Russert	173)
+msnbc_0007	4	19	/?	.	*))	-	-	-	Tim_Russert	-
+
+msnbc_0007	4	0	Well	UH	(TOP(S(INTJ*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	1	North	NNP	(NP*	-	-	-	Nicholas_Burns	(13
+msnbc_0007	4	2	Korea	NNP	*)	-	-	-	Nicholas_Burns	13)
+msnbc_0007	4	3	says	VBZ	(VP*	say	01	1	Nicholas_Burns	-
+msnbc_0007	4	4	that	IN	(SBAR*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	5	it	PRP	(S(NP*)	-	-	-	Nicholas_Burns	(13)
+msnbc_0007	4	6	has	VBZ	(VP*	have	03	2	Nicholas_Burns	-
+msnbc_0007	4	7	a	DT	(NP*	-	-	-	Nicholas_Burns	(179
+msnbc_0007	4	8	nuclear	JJ	(NML*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	9	weapons	NNS	*)	weapon	-	1	Nicholas_Burns	-
+msnbc_0007	4	10	capability	NN	*)))))	capability	-	1	Nicholas_Burns	179)
+msnbc_0007	4	11	/.	.	*))	-	-	-	Nicholas_Burns	-
+
+msnbc_0007	4	0	and	CC	(TOP(S*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	1	we	PRP	(NP*)	-	-	-	Nicholas_Burns	(209)
+msnbc_0007	4	2	believe	VBP	(VP*	believe	01	1	Nicholas_Burns	-
+msnbc_0007	4	3	that	IN	(SBAR*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	4	it	PRP	(S(NP*)	-	-	-	Nicholas_Burns	(13)
+msnbc_0007	4	5	has	VBZ	(VP*	have	01	-	Nicholas_Burns	-
+msnbc_0007	4	6	produced	VBN	(VP*	produce	01	1	Nicholas_Burns	(78)
+msnbc_0007	4	7	that	DT	(NP*)	-	-	-	Nicholas_Burns	(179)
+msnbc_0007	4	8	over	IN	(PP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	9	the	DT	(NP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	10	last	JJ	*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	11	several	JJ	*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	12	years	NNS	*)))))))	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	13	/.	.	*))	-	-	-	Nicholas_Burns	-
+
+msnbc_0007	4	0	and	CC	(TOP(S*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	1	that	DT	(NP*)	-	-	-	Nicholas_Burns	(78)
+msnbc_0007	4	2	's	VBZ	(VP*	be	01	1	Nicholas_Burns	-
+msnbc_0007	4	3	why	WRB	(SBAR(WHADVP*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	4	we	PRP	(S(NP*)	-	-	-	Nicholas_Burns	(209)
+msnbc_0007	4	5	've	VBP	(VP*	have	01	12	Nicholas_Burns	-
+msnbc_0007	4	6	put	VBD	(VP*	put	01	1	Nicholas_Burns	-
+msnbc_0007	4	7	in	IN	(PP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	8	place	NN	(NP*))	place	-	9	Nicholas_Burns	-
+msnbc_0007	4	9	this	DT	(NP(NP*	-	-	-	Nicholas_Burns	(140
+msnbc_0007	4	10	policy	NN	*)	policy	-	1	Nicholas_Burns	-
+msnbc_0007	4	11	designed	VBN	(VP*	design	01	-	Nicholas_Burns	-
+msnbc_0007	4	12	to	TO	(S(VP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	13	take	VB	(VP*	take	05	11	Nicholas_Burns	(185)
+msnbc_0007	4	14	it	PRP	(NP*)	-	-	-	Nicholas_Burns	(179)
+msnbc_0007	4	15	away	RP	(PRT*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	16	from	IN	(PP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	17	them	PRP	(NP*))))))))))))	-	-	-	Nicholas_Burns	(13)|140)
+msnbc_0007	4	18	/.	.	*))	-	-	-	Nicholas_Burns	-
+
+msnbc_0007	4	0	And	CC	(TOP(S*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	1	if	IN	(SBAR*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	2	we	PRP	(S(NP*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	3	can	MD	(VP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	4	have	VB	(VP*	have	04	6	Nicholas_Burns	-
+msnbc_0007	4	5	the	DT	(S(NP*	-	-	-	Nicholas_Burns	(100
+msnbc_0007	4	6	September	NNP	(NML(NML*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	7	nineteenth	NN	*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	8	two	CD	(NML*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	9	thousand	CD	*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	10	five	CD	*))	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	11	agreement	NN	*)	agreement	-	1	Nicholas_Burns	100)
+msnbc_0007	4	12	implemented	VBN	(VP*))))))	implement	01	1	Nicholas_Burns	(201)
+msnbc_0007	4	13	it	PRP	(NP*)	-	-	-	Nicholas_Burns	(100)
+msnbc_0007	4	14	will	MD	(VP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	15	do	VB	(VP*	do	02	1	Nicholas_Burns	-
+msnbc_0007	4	16	just	RB	(NP*	-	-	-	Nicholas_Burns	(185
+msnbc_0007	4	17	that	DT	*)))	-	-	-	Nicholas_Burns	185)
+msnbc_0007	4	18	/.	.	*))	-	-	-	Nicholas_Burns	-
+
+msnbc_0007	4	0	It	PRP	(TOP(S(NP*)	-	-	-	Nicholas_Burns	(100)
+msnbc_0007	4	1	will	MD	(VP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	2	effectively	RB	(ADVP*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	3	de-nuclearize	VB	(VP*	de-nuclearize	01	-	Nicholas_Burns	(35)
+msnbc_0007	4	4	North	NNP	(NP*	-	-	-	Nicholas_Burns	(13
+msnbc_0007	4	5	Korea	NNP	*)))	-	-	-	Nicholas_Burns	13)
+msnbc_0007	4	6	/.	.	*))	-	-	-	Nicholas_Burns	-
+
+msnbc_0007	4	0	And	CC	(TOP(S*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	1	so	RB	(ADVP*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	2	that	DT	(NP*)	-	-	-	Nicholas_Burns	(201)
+msnbc_0007	4	3	is	VBZ	(VP*	be	01	1	Nicholas_Burns	-
+msnbc_0007	4	4	a	DT	(NP(NP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	5	good	JJ	*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	6	bet	NN	*)	bet	-	3	Nicholas_Burns	-
+msnbc_0007	4	7	for	IN	(PP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	8	the	DT	(NP*	-	-	-	Nicholas_Burns	(209
+msnbc_0007	4	9	United	NNP	*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	10	States	NNP	*))))	-	-	-	Nicholas_Burns	209)
+msnbc_0007	4	11	/.	.	*))	-	-	-	Nicholas_Burns	-
+
+msnbc_0007	4	0	It	PRP	(TOP(S(NP*)	-	-	-	Nicholas_Burns	(35)
+msnbc_0007	4	1	's	VBZ	(VP*	be	01	1	Nicholas_Burns	-
+msnbc_0007	4	2	obviously	RB	(ADVP*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	3	the	DT	(NP(NP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	4	goal	NN	*)	goal	-	1	Nicholas_Burns	-
+msnbc_0007	4	5	that	WDT	(SBAR(WHNP*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	6	I	PRP	(S(NP*)	-	-	-	Nicholas_Burns	(81)
+msnbc_0007	4	7	think	VBP	(VP*	think	01	1	Nicholas_Burns	-
+msnbc_0007	4	8	all	PDT	(SBAR(S(NP(NP*	-	-	-	Nicholas_Burns	(3
+msnbc_0007	4	9	these	DT	*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	10	critics	NNS	*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	11	that	WDT	(SBAR(WHNP*)	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	12	you	PRP	(S(NP*)	-	-	-	Nicholas_Burns	(170)
+msnbc_0007	4	13	cite	VBP	(VP*))))	cite	01	2	Nicholas_Burns	3)
+msnbc_0007	4	14	would	MD	(VP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	15	share	VB	(VP*)))))))))	share	01	1	Nicholas_Burns	-
+msnbc_0007	4	16	/.	.	*))	-	-	-	Nicholas_Burns	-
+
+msnbc_0007	4	0	But	CC	(TOP(S*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	1	we	PRP	(NP*)	-	-	-	Nicholas_Burns	(209)
+msnbc_0007	4	2	think	VBP	(VP*	think	01	1	Nicholas_Burns	-
+msnbc_0007	4	3	we	PRP	(SBAR(S(NP*)	-	-	-	Nicholas_Burns	(209)
+msnbc_0007	4	4	've	VBP	(VP*	have	01	12	Nicholas_Burns	-
+msnbc_0007	4	5	got	VBN	(VP*	get	02	1	Nicholas_Burns	-
+msnbc_0007	4	6	a	DT	(NP(NP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	7	much	RB	(ADJP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	8	more	RBR	*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	9	realistic	JJ	*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	10	in	IN	(PP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	11	the	DT	(NP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	12	real	JJ	*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	13	world	NN	*)))	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	14	strategy	NN	*)	strategy	-	1	Nicholas_Burns	-
+msnbc_0007	4	15	put	VBN	(VP*	put	01	1	Nicholas_Burns	-
+msnbc_0007	4	16	in	IN	(PP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	17	place	NN	(NP*))))	place	-	9	Nicholas_Burns	-
+msnbc_0007	4	18	to	TO	(S(VP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	19	deal	VB	(VP*	deal	01	1	Nicholas_Burns	-
+msnbc_0007	4	20	with	IN	(PP*	-	-	-	Nicholas_Burns	-
+msnbc_0007	4	21	that	DT	(NP*	-	-	-	Nicholas_Burns	(66
+msnbc_0007	4	22	problem	NN	*))))))))))	problem	-	1	Nicholas_Burns	66)
+msnbc_0007	4	23	/.	.	*))	-	-	-	Nicholas_Burns	-
+
+#end document

@@ -1,0 +1,756 @@
+#begin document (msnbc_0007_10); part 000
+msnbc_0007	10	0	Ambassador	NNP	(TOP(S(NP*	-	-	-	Tim_Russert	(138
+msnbc_0007	10	1	Gallucci	NNP	*)	-	-	-	Tim_Russert	138)
+msnbc_0007	10	2	you	PRP	(NP*)	-	-	-	Tim_Russert	(138)
+msnbc_0007	10	3	negotiated	VBD	(VP*	negotiate	01	1	Tim_Russert	-
+msnbc_0007	10	4	that	DT	(NP*	-	-	-	Tim_Russert	(121
+msnbc_0007	10	5	ninety	CD	(NML*	-	-	-	Tim_Russert	-
+msnbc_0007	10	6	four	CD	*)	-	-	-	Tim_Russert	-
+msnbc_0007	10	7	agreement	NN	*))	agreement	-	1	Tim_Russert	121)
+msnbc_0007	10	8	/.	.	*))	-	-	-	Tim_Russert	-
+
+msnbc_0007	10	0	The	DT	(TOP(S(NP*	-	-	-	Tim_Russert	(79
+msnbc_0007	10	1	North	NNPS	*	-	-	-	Tim_Russert	-
+msnbc_0007	10	2	Koreans	NNPS	*)	-	-	-	Tim_Russert	79)
+msnbc_0007	10	3	stopped	VBD	(VP*	stop	01	1	Tim_Russert	-
+msnbc_0007	10	4	processing	VBG	(S(VP*	process	01	-	Tim_Russert	-
+msnbc_0007	10	5	in	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	10	6	one	CD	(NP*	-	-	-	Tim_Russert	-
+msnbc_0007	10	7	plant	NN	*))	plant	-	1	Tim_Russert	-
+msnbc_0007	10	8	if	IN	(SBAR*	-	-	-	Tim_Russert	-
+msnbc_0007	10	9	you	PRP	(S(NP*)	-	-	-	Tim_Russert	-
+msnbc_0007	10	10	will	MD	(VP*))))))	-	-	-	Tim_Russert	-
+msnbc_0007	10	11	/.	.	*))	-	-	-	Tim_Russert	-
+
+msnbc_0007	10	0	but	CC	(TOP(S*	-	-	-	Tim_Russert	-
+msnbc_0007	10	1	we	PRP	(NP*)	-	-	-	Tim_Russert	(127)
+msnbc_0007	10	2	later	RB	(ADVP*)	-	-	-	Tim_Russert	-
+msnbc_0007	10	3	found	VBD	(VP*	find	03	1	Tim_Russert	-
+msnbc_0007	10	4	out	RP	(PRT*)	-	-	-	Tim_Russert	-
+msnbc_0007	10	5	that	IN	(SBAR*	-	-	-	Tim_Russert	-
+msnbc_0007	10	6	at	IN	(S(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	10	7	the	DT	(NP*	-	-	-	Tim_Russert	-
+msnbc_0007	10	8	same	JJ	*	-	-	-	Tim_Russert	-
+msnbc_0007	10	9	time	NN	*))	time	-	1	Tim_Russert	-
+msnbc_0007	10	10	they	PRP	(NP*)	-	-	-	Tim_Russert	(79)
+msnbc_0007	10	11	were	VBD	(VP*	be	03	-	Tim_Russert	-
+msnbc_0007	10	12	making	VBG	(VP*	make	01	2	Tim_Russert	(64)
+msnbc_0007	10	13	uranium	NN	(NP*)	-	-	-	Tim_Russert	-
+msnbc_0007	10	14	in	IN	(PP*	-	-	-	Tim_Russert	-
+msnbc_0007	10	15	another	DT	(NP*	-	-	-	Tim_Russert	-
+msnbc_0007	10	16	plant	NN	*)))))))	plant	-	1	Tim_Russert	-
+msnbc_0007	10	17	/.	.	*))	-	-	-	Tim_Russert	-
+
+msnbc_0007	10	0	Not	RB	(TOP(ADVP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	1	actually	RB	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	2	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	No	UH	(TOP(S(INTJ*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	1	that	DT	(NP*)	-	-	-	Robert_Gallucci	(64)
+msnbc_0007	10	2	's	VBZ	(VP*	be	01	2	Robert_Gallucci	-
+msnbc_0007	10	3	not	RB	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	4	what	WP	(SBAR(WHNP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	5	we	PRP	(S(NP*)	-	-	-	Robert_Gallucci	(127)
+msnbc_0007	10	6	found	VBD	(VP*	find	03	1	Robert_Gallucci	-
+msnbc_0007	10	7	out	RP	(PP*)))))	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	8	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	What	WP	(TOP(S(SBAR(WHNP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	1	happened	VBD	(S(VP*)))	happen	01	1	Robert_Gallucci	-
+msnbc_0007	10	2	was	VBD	(VP*	be	01	2	Robert_Gallucci	-
+msnbc_0007	10	3	we	PRP	(SBAR(S(NP*)	-	-	-	Robert_Gallucci	(127)
+msnbc_0007	10	4	did	VBD	(VP*	do	01	-	Robert_Gallucci	-
+msnbc_0007	10	5	do	VB	(VP*	do	-	1	Robert_Gallucci	-
+msnbc_0007	10	6	a	DT	(NP*	-	-	-	Robert_Gallucci	(121
+msnbc_0007	10	7	deal	NN	*))))))	deal	01	1	Robert_Gallucci	121)
+msnbc_0007	10	8	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	We	PRP	(TOP(S(NP*)	-	-	-	Robert_Gallucci	(127)
+msnbc_0007	10	1	did	VBD	(VP*	do	01	-	Robert_Gallucci	-
+msnbc_0007	10	2	stop	VB	(VP*	stop	01	2	Robert_Gallucci	-
+msnbc_0007	10	3	a	DT	(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	4	uh	UH	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	5	plutonium	NN	(NML(ADJP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	6	based	VBN	*)	base	02	-	Robert_Gallucci	-
+msnbc_0007	10	7	pro-nuclear	JJ	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	8	weapons	NNS	*)	weapon	-	1	Robert_Gallucci	-
+msnbc_0007	10	9	program	NN	*)))	program	-	1	Robert_Gallucci	-
+msnbc_0007	10	10	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	We	PRP	(TOP(S(NP*)	-	-	-	Robert_Gallucci	(127)
+msnbc_0007	10	1	made	VBD	(VP*	make	02	16	Robert_Gallucci	-
+msnbc_0007	10	2	sure	JJ	(S(ADJP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	3	that	IN	(SBAR*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	4	eight	CD	(S(NP(NP(QP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	5	thousand	CD	*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	6	fuel	NN	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	7	rods	NNS	*)	rod	-	1	Robert_Gallucci	-
+msnbc_0007	10	8	containing	VBG	(VP*	contain	01	1	Robert_Gallucci	-
+msnbc_0007	10	9	around	RB	(NP(NP(QP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	10	thirty	CD	*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	11	kilograms	NNS	*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	12	enough	JJ	(ADJP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	13	for	IN	(PP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	14	five	CD	(NP(NP(NP*	-	-	-	Robert_Gallucci	(114
+msnbc_0007	10	15	nuclear	JJ	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	16	weapons	NNS	*)	weapon	-	1	Robert_Gallucci	-
+msnbc_0007	10	17	worth	NN	*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	18	of	IN	(PP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	19	plutonium	NN	(NP*))))))))	-	-	-	Robert_Gallucci	114)
+msnbc_0007	10	20	stayed	VBD	(VP*	stay	01	1	Robert_Gallucci	-
+msnbc_0007	10	21	in	IN	(PP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	22	a	DT	(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	23	storage	NN	*	storage	-	1	Robert_Gallucci	-
+msnbc_0007	10	24	pond	NN	*)))))))	pond	-	1	Robert_Gallucci	-
+msnbc_0007	10	25	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	And	CC	(TOP(S*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	1	the	DT	(NP*	-	-	-	Robert_Gallucci	(121
+msnbc_0007	10	2	deal	NN	*)	deal	01	1	Robert_Gallucci	121)
+msnbc_0007	10	3	would	MD	(VP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	4	have	VB	(VP*	have	01	-	Robert_Gallucci	-
+msnbc_0007	10	5	had	VBN	(VP*	have	04	6	Robert_Gallucci	-
+msnbc_0007	10	6	the	DT	(S(NP*	-	-	-	Robert_Gallucci	(79
+msnbc_0007	10	7	North	NNPS	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	8	Koreans	NNPS	*)	-	-	-	Robert_Gallucci	79)
+msnbc_0007	10	9	end	VB	(VP*	end	01	2	Robert_Gallucci	-
+msnbc_0007	10	10	their	PRP$	(NP*	-	-	-	Robert_Gallucci	(98|(79)
+msnbc_0007	10	11	nuclear	JJ	(NML*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	12	weapons	NNS	*)	weapon	-	1	Robert_Gallucci	-
+msnbc_0007	10	13	program	NN	*))))))	program	-	1	Robert_Gallucci	98)
+msnbc_0007	10	14	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	We	PRP	(TOP(S(NP*)	-	-	-	Robert_Gallucci	(127)
+msnbc_0007	10	1	think	VBP	(VP*	think	01	1	Robert_Gallucci	-
+msnbc_0007	10	2	they	PRP	(SBAR(S(NP*)	-	-	-	Robert_Gallucci	(79)
+msnbc_0007	10	3	started	VBD	(VP*	start	01	2	Robert_Gallucci	-
+msnbc_0007	10	4	cheating	VBG	(S(VP*	cheat	02	2	Robert_Gallucci	-
+msnbc_0007	10	5	in	IN	(PP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	6	the	DT	(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	7	late	JJ	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	8	nineties	NNS	*))	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	9	by	IN	(PP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	10	getting	VBG	(S(VP*	get	01	1	Robert_Gallucci	(25)
+msnbc_0007	10	11	some	DT	(NP*	-	-	-	Robert_Gallucci	(193
+msnbc_0007	10	12	gas	NN	(NML*	gas	-	5	Robert_Gallucci	-
+msnbc_0007	10	13	centrifuge	NN	*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	14	equipment	NN	*)	equipment	-	1	Robert_Gallucci	193)
+msnbc_0007	10	15	from	IN	(PP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	16	Pakistan	NNP	(NP*)))))))))))	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	17	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	We	PRP	(TOP(S(NP*)	-	-	-	Robert_Gallucci	(127)
+msnbc_0007	10	1	do	VBP	(VP*	do	01	-	Robert_Gallucci	-
+msnbc_0007	10	2	n't	RB	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	3	know	VB	(VP*	know	01	1	Robert_Gallucci	-
+msnbc_0007	10	4	a	DT	(UCP(NP(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	5	lot	NN	*)	lot	-	1	Robert_Gallucci	-
+msnbc_0007	10	6	about	IN	(PP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	7	that	DT	(NP*)))	-	-	-	Robert_Gallucci	(25)
+msnbc_0007	10	8	where	WRB	(SBAR(WHADVP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	9	it	PRP	(S(NP*)	-	-	-	Robert_Gallucci	(193)
+msnbc_0007	10	10	is	VBZ	(VP*)))	be	01	4	Robert_Gallucci	-
+msnbc_0007	10	11	whether	IN	(SBAR*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	12	the	DT	(S(NP*	-	-	-	Robert_Gallucci	(193
+msnbc_0007	10	13	equipment	NN	*)	equipment	-	1	Robert_Gallucci	193)
+msnbc_0007	10	14	has	VBZ	(VP*	have	01	-	Robert_Gallucci	-
+msnbc_0007	10	15	been	VBN	(VP*	be	03	-	Robert_Gallucci	-
+msnbc_0007	10	16	put	VBN	(VP*	put	03	-	Robert_Gallucci	-
+msnbc_0007	10	17	together	RP	(PRT*)))))))))	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	18	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	We	PRP	(TOP(S(NP*)	-	-	-	Robert_Gallucci	(127)
+msnbc_0007	10	1	think	VBP	(VP*	think	01	1	Robert_Gallucci	-
+msnbc_0007	10	2	over	IN	(SBAR(S(PP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	3	a	DT	(NP(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	4	period	NN	*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	5	of	IN	(PP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	6	time	NN	(NP*))))	time	-	2	Robert_Gallucci	-
+msnbc_0007	10	7	they	PRP	(NP*)	-	-	-	Robert_Gallucci	(79)
+msnbc_0007	10	8	'll	MD	(VP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	9	do	VB	(VP(VP*	do	02	1	Robert_Gallucci	-
+msnbc_0007	10	10	what	WP	(SBAR(SBAR(WHNP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	11	the	DT	(S(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	12	Pakistanis	NNPS	*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	13	did	VBD	(VP*)))	do	02	1	Robert_Gallucci	-
+msnbc_0007	10	14	,	,	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	15	what	WP	(SBAR(WHNP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	16	the	DT	(S(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	17	Iranians	NNPS	*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	18	appear	VBP	(VP*	appear	02	1	Robert_Gallucci	-
+msnbc_0007	10	19	to	TO	(S(VP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	20	be	VB	(VP*	be	03	-	Robert_Gallucci	-
+msnbc_0007	10	21	wanting	VBG	(VP*	want	01	1	Robert_Gallucci	-
+msnbc_0007	10	22	to	TO	(S(VP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	23	do	VB	(VP*))))))))))))	do	02	1	Robert_Gallucci	-
+msnbc_0007	10	24	and	CC	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	25	put	VB	(VP*	put	03	7.28	Robert_Gallucci	-
+msnbc_0007	10	26	together	RP	(PRT*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	27	this	DT	(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	28	gas	NN	*	gas	-	5	Robert_Gallucci	-
+msnbc_0007	10	29	centrifuge	NN	*)))))))	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	30	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	But	CC	(TOP(S*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	1	they	PRP	(NP*)	-	-	-	Robert_Gallucci	(79)
+msnbc_0007	10	2	never	RB	(ADVP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	3	got	VBD	(VP*	get	05	4	Robert_Gallucci	-
+msnbc_0007	10	4	there	RB	(ADVP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	5	yet	RB	(ADVP*))	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	6	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	Or	CC	(TOP(S*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	1	we	PRP	(NP*)	-	-	-	Robert_Gallucci	(127)
+msnbc_0007	10	2	do	VBP	(VP*	do	01	-	Robert_Gallucci	-
+msnbc_0007	10	3	n't	RB	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	4	think	VB	(VP*	think	01	1	Robert_Gallucci	-
+msnbc_0007	10	5	they	PRP	(SBAR(S(NP*)	-	-	-	Robert_Gallucci	(79)
+msnbc_0007	10	6	've	VBP	(VP*	have	01	12	Robert_Gallucci	-
+msnbc_0007	10	7	gotten	VBN	(VP*	get	05	4	Robert_Gallucci	-
+msnbc_0007	10	8	there	RB	(ADVP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	9	yet	RB	(ADVP*)))))))	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	10	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	But	CC	(TOP(S*	-	-	-	Tim_Russert	-
+msnbc_0007	10	1	they	PRP	(NP*)	-	-	-	Tim_Russert	(79)
+msnbc_0007	10	2	broke	VBD	(VP*	break	01	4	Tim_Russert	-
+msnbc_0007	10	3	their	PRP$	(NP*	-	-	-	Tim_Russert	(79)
+msnbc_0007	10	4	word	NN	*))	word	-	4	Tim_Russert	-
+msnbc_0007	10	5	/.	.	*))	-	-	-	Tim_Russert	-
+
+msnbc_0007	10	0	They	PRP	(TOP(S(NP*)	-	-	-	Robert_Gallucci	(79)
+msnbc_0007	10	1	absolutely	RB	(ADVP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	2	cheated	VBD	(VP*)	cheat	02	2	Robert_Gallucci	(157)
+msnbc_0007	10	3	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	There	EX	(TOP(S(NP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	1	's	VBZ	(VP*	be	02	3	Robert_Gallucci	-
+msnbc_0007	10	2	no	DT	(NP(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	3	question	NN	*)	question	-	3	Robert_Gallucci	-
+msnbc_0007	10	4	about	IN	(PP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	5	that	DT	(NP*))))	-	-	-	Robert_Gallucci	(157)
+msnbc_0007	10	6	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	But	CC	(TOP(S*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	1	really	RB	(ADVP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	2	you	PRP	(NP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	3	ought	MD	(VP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	4	to	TO	(S(VP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	5	be	VB	(VP*	be	01	1	Robert_Gallucci	-
+msnbc_0007	10	6	clear	JJ	(ADJP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	7	here	RB	(ADVP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	8	what	WP	(SBAR(WHNP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	9	's	VBZ	(S(VP*	be	03	-	Robert_Gallucci	-
+msnbc_0007	10	10	happened	VBN	(VP*))))))))	happen	01	1	Robert_Gallucci	-
+msnbc_0007	10	11	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	There	EX	(TOP(S(NP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	1	was	VBD	(VP*	be	02	3	Robert_Gallucci	-
+msnbc_0007	10	2	a	DT	(NP(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	3	nuclear	JJ	(NML*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	4	weapons	NNS	*)	weapon	-	1	Robert_Gallucci	-
+msnbc_0007	10	5	program	NN	*)	program	-	1	Robert_Gallucci	-
+msnbc_0007	10	6	that	WDT	(SBAR(WHNP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	7	was	VBD	(S(VP*	be	03	-	Robert_Gallucci	-
+msnbc_0007	10	8	stopped	VBN	(VP*))))))	stop	01	1	Robert_Gallucci	-
+msnbc_0007	10	9	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	Plutonium	NN	(TOP(S(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	1	production	NN	*)	production	01	6	Robert_Gallucci	-
+msnbc_0007	10	2	was	VBD	(VP*	be	03	-	Robert_Gallucci	-
+msnbc_0007	10	3	stopped	VBN	(VP*))	stop	01	1	Robert_Gallucci	-
+msnbc_0007	10	4	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	Right	UH	(TOP(INTJ*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	1	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	And	CC	(TOP(S*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	1	afterwards	RB	(ADVP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	2	tragically	RB	(PRN(S(ADVP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	3	I	PRP	(NP*)	-	-	-	Robert_Gallucci	(138)
+msnbc_0007	10	4	believe	VBP	(VP*)))	believe	01	1	Robert_Gallucci	-
+msnbc_0007	10	5	that	DT	(NP(NP*	-	-	-	Robert_Gallucci	(121
+msnbc_0007	10	6	agreement	NN	*)	agreement	-	1	Robert_Gallucci	-
+msnbc_0007	10	7	which	WDT	(SBAR(WHNP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	8	locked	VBD	(S(VP*	lock	04	3	Robert_Gallucci	-
+msnbc_0007	10	9	them	PRP	(NP*)	-	-	-	Robert_Gallucci	(79)
+msnbc_0007	10	10	up	RP	(PRT*)))))	-	-	-	Robert_Gallucci	121)
+msnbc_0007	10	11	was	VBD	(VP*	be	03	-	Robert_Gallucci	-
+msnbc_0007	10	12	allowed	VBN	(VP*	allow	01	1	Robert_Gallucci	-
+msnbc_0007	10	13	to	TO	(S(VP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	14	collapse	VB	(VP*)))))	collapse	01	2	Robert_Gallucci	-
+msnbc_0007	10	15	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	And	CC	(TOP(S*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	1	we	PRP	(NP*)	-	-	-	Robert_Gallucci	(127)
+msnbc_0007	10	2	find	VBP	(VP*	find	01	1	Robert_Gallucci	-
+msnbc_0007	10	3	ourselves	PRP	(NP*)	-	-	-	Robert_Gallucci	(127)
+msnbc_0007	10	4	now	RB	(ADVP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	5	with	IN	(SBAR*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	6	the	DT	(S(NP*	-	-	-	Robert_Gallucci	(79
+msnbc_0007	10	7	North	NNPS	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	8	Koreans	NNPS	*)	-	-	-	Robert_Gallucci	79)
+msnbc_0007	10	9	accumulating	VBG	(VP*	accumulate	01	-	Robert_Gallucci	-
+msnbc_0007	10	10	plutonium	NN	(NP(NP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	11	a	DT	(NP(NP(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	12	bomb	NN	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	13	's	POS	*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	14	worth	NN	*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	15	a	DT	(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	16	year	NN	*)))))))	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	17	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	And	CC	(TOP(S*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	1	freed	VBD	(VP*	free	02	3	Robert_Gallucci	-
+msnbc_0007	10	2	up	RP	(PRT*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	3	that	DT	(NP(NP*	-	-	-	Robert_Gallucci	(114
+msnbc_0007	10	4	plutonium	NN	*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	5	that	WDT	(SBAR(WHNP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	6	was	VBD	(S(VP*	be	03	1	Robert_Gallucci	-
+msnbc_0007	10	7	um	UH	(INTJ*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	8	controlled	VBN	(VP*	control	01	-	Robert_Gallucci	-
+msnbc_0007	10	9	for	IN	(PP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	10	that	DT	(NP(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	11	period	NN	*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	12	of	IN	(PP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	13	time	NN	(NP*))))))))))	time	-	2	Robert_Gallucci	114)
+msnbc_0007	10	14	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	And	CC	(TOP(S*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	1	they	PRP	(NP*)	-	-	-	Robert_Gallucci	(79)
+msnbc_0007	10	2	say	VBP	(VP*	say	01	1	Robert_Gallucci	-
+msnbc_0007	10	3	they	PRP	(SBAR(S(NP*)	-	-	-	Robert_Gallucci	(79)
+msnbc_0007	10	4	've	VBP	(VP*	have	01	12	Robert_Gallucci	-
+msnbc_0007	10	5	used	VBN	(VP*	use	01	1	Robert_Gallucci	-
+msnbc_0007	10	6	it	PRP	(NP*)	-	-	-	Robert_Gallucci	(114)
+msnbc_0007	10	7	to	TO	(S(VP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	8	make	VB	(VP*	make	01	2	Robert_Gallucci	-
+msnbc_0007	10	9	bombs	NNS	(NP*)))))))))	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	10	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	we	PRP	(TOP(S(NP*)	-	-	-	Robert_Gallucci	(127)
+msnbc_0007	10	1	'd	MD	(VP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	2	have	VB	(VP*	have	02	12	Robert_Gallucci	-
+msnbc_0007	10	3	to	TO	(S(VP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	4	estimate	VB	(VP*	estimate	01	1	Robert_Gallucci	-
+msnbc_0007	10	5	about	RB	(NP(QP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	6	five	CD	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	7	more	JJR	*)))))))	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	8	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	And	CC	(TOP(S*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	1	with	IN	(PP*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	2	each	DT	(NP*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	3	passing	VBG	*	pass	03	-	Robert_Gallucci	*	*
+msnbc_0007	10	4	day	NN	*))	day	-	2	Robert_Gallucci	*	*
+msnbc_0007	10	5	I	PRP	(NP*)	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	6	would	MD	(VP*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	7	argue	VB	(VP*	argue	-	2	Robert_Gallucci	*	*
+msnbc_0007	10	8	to	IN	(PP*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	9	you	PRP	(NP*))	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	10	more	RBR	(SBAR(S(S(ADJP*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	11	important	JJ	*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	12	than	IN	(PP*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	13	that	DT	(NP(NP*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	14	missile	NN	*)	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	15	that	WDT	(SBAR(WHNP*)	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	16	Ash	NNP	(S(NP*)	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	17	would	MD	(VP*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	18	take	VB	(VP*	take	11	11	Robert_Gallucci	*	*
+msnbc_0007	10	19	out	RP	(PRT*)	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	20	on	IN	(PP*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	21	the	DT	(NP*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	22	gantry	NN	*))	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	23	if	IN	(SBAR*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	24	it	PRP	(S(NP*)	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	25	turns	VBZ	(VP*	turn	11	7	Robert_Gallucci	*	*
+msnbc_0007	10	26	up	RP	(PRT*)	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	27	again	RB	(ADVP*))))))))))))	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	28	with	IN	(PP*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	29	each	DT	(NP*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	30	passing	VBG	*	pass	03	-	Robert_Gallucci	*	*
+msnbc_0007	10	31	day	NN	*))	day	-	2	Robert_Gallucci	*	*
+msnbc_0007	10	32	we	PRP	(NP*)	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	33	're	VBP	(VP*	be	03	-	Robert_Gallucci	*	*
+msnbc_0007	10	34	going	VBG	(VP*	go	04	7	Robert_Gallucci	*	*
+msnbc_0007	10	35	to	TO	(S(VP*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	36	find	VB	(VP*	find	-	1	Robert_Gallucci	*	*
+msnbc_0007	10	37	ourselves	PRP	(S(NP*)	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	38	more	RBR	(ADJP(ADJP(ADVP*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	39	and	CC	*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	40	more	RBR	*)	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	41	closer	JJR	*)	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	42	than	IN	(SBAR*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	43	we	PRP	(S(NP*)	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	44	were	VBD	(VP*	be	01	1	Robert_Gallucci	*	*
+msnbc_0007	10	45	before	RB	(ADVP*))))	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	46	to	IN	(PP*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	47	the	DT	(NP(NP*	-	-	-	Robert_Gallucci	(ARGM-TMP*	(ARGM-TMP*
+msnbc_0007	10	48	day	NN	*)	day	-	3	Robert_Gallucci	*)	*)
+msnbc_0007	10	49	where	WRB	(SBAR(WHADVP*)	-	-	-	Robert_Gallucci	(R-ARGM-TMP*)	(R-ARGM-TMP*)
+msnbc_0007	10	50	that	DT	(S(NP*	-	-	-	Robert_Gallucci	(ARG1*	(ARG1*
+msnbc_0007	10	51	material	NN	*)	material	-	2	Robert_Gallucci	*)	*)
+msnbc_0007	10	52	could	MD	(VP*	-	-	-	Robert_Gallucci	(ARGM-MOD*)	(ARGM-MOD*)
+msnbc_0007	10	53	be	VB	(VP*	be	03	-	Robert_Gallucci	*	*
+msnbc_0007	10	54	transferred	VBN	(VP*	transfer	01	1	Robert_Gallucci	*	*
+msnbc_0007	10	55	or	CC	*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	56	sold	VBN	*	sell	01	1	Robert_Gallucci	(V*)	(V*)
+msnbc_0007	10	57	to	IN	(PP*	-	-	-	Robert_Gallucci	(ARG2*	(ARG2*
+msnbc_0007	10	58	Al	NNP	(NP*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	59	-	HYPH	*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	60	Queda	NNP	*))	-	-	-	Robert_Gallucci	*)	*)
+msnbc_0007	10	61	Presenting	VBG	(S(VP*	present	01	4	Robert_Gallucci	(ARGM-PRD*	(ARGM-PRD*
+msnbc_0007	10	62	a	DT	(NP(NP*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	63	threat	NN	*)	threat	-	1	Robert_Gallucci	*	*
+msnbc_0007	10	64	far	RB	(ADJP(ADJP*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	65	greater	JJR	*)	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	66	than	IN	(PP*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	67	the	DT	(NP(NP*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	68	threat	NN	*)	threat	-	1	Robert_Gallucci	*	*
+msnbc_0007	10	69	that	WDT	(SBAR(WHNP*)	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	70	is	VBZ	(S(VP*	be	03	-	Robert_Gallucci	*	*
+msnbc_0007	10	71	posed	VBN	(VP*	pose	02	1	Robert_Gallucci	*	*
+msnbc_0007	10	72	to	IN	(PP*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	73	us	PRP	(NP*))	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	74	by	IN	(PP*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	75	nuclear	JJ	(NP(NP*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	76	weapons	NNS	*)	weapon	-	1	Robert_Gallucci	*	*
+msnbc_0007	10	77	aboard	IN	(PP*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	78	ballistic	JJ	(NP*	-	-	-	Robert_Gallucci	*	*
+msnbc_0007	10	79	missiles	NNS	*))))))))))))))))))))))))))))))))	-	-	-	Robert_Gallucci	*)	*)
+msnbc_0007	10	80	/.	.	*))	-	-	-	Robert_Gallucci	*	*
+
+msnbc_0007	10	0	We	PRP	(TOP(S(NP*)	-	-	-	Robert_Gallucci	(127)
+msnbc_0007	10	1	can	MD	(VP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	2	deter	VB	(VP*	deter	01	1	Robert_Gallucci	-
+msnbc_0007	10	3	a	DT	(NP(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	4	country	NN	*)	country	-	3	Robert_Gallucci	-
+msnbc_0007	10	5	with	IN	(PP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	6	ballistic	JJ	(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	7	missiles	NNS	*)))))	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	8	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	We	PRP	(TOP(S(NP*)	-	-	-	Tim_Russert	(127)
+msnbc_0007	10	1	know	VBP	(VP*	know	01	2	Tim_Russert	-
+msnbc_0007	10	2	the	DT	(NP*	-	-	-	Tim_Russert	-
+msnbc_0007	10	3	return	NN	*	return	-	2	Tim_Russert	-
+msnbc_0007	10	4	address	NN	*))	address	-	7	Tim_Russert	-
+msnbc_0007	10	5	/.	.	*))	-	-	-	Tim_Russert	-
+
+msnbc_0007	10	0	We	PRP	(TOP(S(NP*)	-	-	-	Robert_Gallucci	(127)
+msnbc_0007	10	1	do	VBP	(VP*)	do	01	-	Robert_Gallucci	-
+msnbc_0007	10	2	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	But	CC	(TOP(S*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	1	with	IN	(PP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	2	a	DT	(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	3	terrorist	JJ	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	4	unconventional	JJ	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	5	delivery	NN	*))	delivery	01	1	Robert_Gallucci	-
+msnbc_0007	10	6	your	PRP$	(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	7	national	JJ	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	8	missile	NN	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	9	defense	NN	*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	10	will	MD	(VP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	11	not	RB	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	12	be	VB	(VP*	be	01	1	Robert_Gallucci	-
+msnbc_0007	10	13	very	RB	(ADJP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	14	good	JJ	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	15	against	IN	(PP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	16	United	NNP	(NP(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	17	Airlines	NNP	*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	18	or	CC	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	19	American	NNP	(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	20	Airlines	NNP	*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	21	Or	CC	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	22	a	DT	(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	23	bus	NN	*)	bus	-	1	Robert_Gallucci	-
+msnbc_0007	10	24	or	CC	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	25	a	DT	(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	26	truck	NN	*))))))	truck	-	1	Robert_Gallucci	-
+msnbc_0007	10	27	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	And	CC	(TOP(S*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	1	deterrents	NNS	(NP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	2	does	VBZ	(VP*	do	01	-	Robert_Gallucci	-
+msnbc_0007	10	3	n't	RB	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	4	work	VB	(VP*	work	09	2	Robert_Gallucci	-
+msnbc_0007	10	5	terribly	RB	(ADVP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	6	well	RB	*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	7	when	WRB	(SBAR(WHADVP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	8	an	DT	(S(NP*	-	-	-	Robert_Gallucci	(54
+msnbc_0007	10	9	enemy	NN	*)	enemy	-	1	Robert_Gallucci	54)
+msnbc_0007	10	10	values	VBZ	(VP*	value	01	2	Robert_Gallucci	-
+msnbc_0007	10	11	your	PRP$	(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	12	death	NN	*)	death	-	1	Robert_Gallucci	-
+msnbc_0007	10	13	more	RBR	(ADVP(ADVP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	14	than	IN	(PP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	15	his	PRP$	(NP*	-	-	-	Robert_Gallucci	(54)
+msnbc_0007	10	16	life	NN	*))))))))	life	-	3	Robert_Gallucci	-
+msnbc_0007	10	17	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	So	RB	(TOP(FRAG(ADVP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	1	no	DT	(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	2	defense	NN	*)	defense	-	2	Robert_Gallucci	-
+msnbc_0007	10	3	no	DT	(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	4	deterrents	NNS	*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	5	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	we	PRP	(TOP(S(NP*)	-	-	-	Robert_Gallucci	(127)
+msnbc_0007	10	1	need	VBP	(VP*	need	01	2	Robert_Gallucci	-
+msnbc_0007	10	2	to	TO	(S(VP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	3	lock	VB	(VP*	lock	04	3	Robert_Gallucci	-
+msnbc_0007	10	4	up	RP	(PRT*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	5	the	DT	(NP*	-	-	-	Robert_Gallucci	(98
+msnbc_0007	10	6	nuclear	JJ	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	7	program	NN	*)))))	program	-	1	Robert_Gallucci	98)
+msnbc_0007	10	8	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	You	PRP	(TOP(S(NP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	1	would	MD	(VP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	2	not	RB	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	3	care	VB	(VP*	care	01	1	Robert_Gallucci	-
+msnbc_0007	10	4	about	IN	(PP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	5	the	DT	(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	6	ballistic	JJ	(NML*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	7	missile	NN	*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	8	program	NN	*))	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	9	if	IN	(SBAR*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	10	they	PRP	(S(NP*)	-	-	-	Robert_Gallucci	(79)
+msnbc_0007	10	11	did	VBD	(VP*	do	01	-	Robert_Gallucci	-
+msnbc_0007	10	12	not	RB	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	13	have	VB	(VP*	have	03	2	Robert_Gallucci	-
+msnbc_0007	10	14	the	DT	(NP*	-	-	-	Robert_Gallucci	(98
+msnbc_0007	10	15	nuclear	JJ	(NML*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	16	weapons	NNS	*)	weapon	-	1	Robert_Gallucci	-
+msnbc_0007	10	17	program	NN	*)))))))	program	-	1	Robert_Gallucci	98)
+msnbc_0007	10	18	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	But	CC	(TOP(S*	-	-	-	Tim_Russert	-
+msnbc_0007	10	1	you	PRP	(NP*)	-	-	-	Tim_Russert	-
+msnbc_0007	10	2	can	MD	(VP*	-	-	-	Tim_Russert	-
+msnbc_0007	10	3	have	VB	(VP*	have	03	2	Tim_Russert	-
+msnbc_0007	10	4	all	PDT	(NP(NP*	-	-	-	Tim_Russert	(147
+msnbc_0007	10	5	the	DT	*	-	-	-	Tim_Russert	-
+msnbc_0007	10	6	agreements	NNS	*)	agreement	-	1	Tim_Russert	-
+msnbc_0007	10	7	you	PRP	(SBAR(S(NP*)	-	-	-	Tim_Russert	-
+msnbc_0007	10	8	want	VBP	(VP*))))))	want	01	1	Tim_Russert	147)
+msnbc_0007	10	9	/.	.	*))	-	-	-	Tim_Russert	-
+
+msnbc_0007	10	0	if	IN	(TOP(SBARQ(SBAR*	-	-	-	Tim_Russert	-
+msnbc_0007	10	1	they	PRP	(S(NP*)	-	-	-	Tim_Russert	(79)
+msnbc_0007	10	2	're	VBP	(VP*	be	03	-	Tim_Russert	-
+msnbc_0007	10	3	going	VBG	(VP*	go	04	7	Tim_Russert	-
+msnbc_0007	10	4	to	TO	(S(VP*	-	-	-	Tim_Russert	-
+msnbc_0007	10	5	cheat	VB	(VP*)))))))	cheat	02	2	Tim_Russert	-
+msnbc_0007	10	6	what	WP	(WHADJP*	-	-	-	Tim_Russert	-
+msnbc_0007	10	7	good	JJ	*)	-	-	-	Tim_Russert	-
+msnbc_0007	10	8	are	VBP	(SQ*	be	01	1	Tim_Russert	-
+msnbc_0007	10	9	they	PRP	(NP*))	-	-	-	Tim_Russert	(147)
+msnbc_0007	10	10	/?	.	*))	-	-	-	Tim_Russert	-
+
+msnbc_0007	10	0	Madeline	NNP	(TOP(S(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	1	Albright	NNP	*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	2	essentially	RB	(ADVP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	3	had	VBD	(VP*	have	03	11	Robert_Gallucci	-
+msnbc_0007	10	4	it	PRP	(S(NP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	5	correct	JJ	(ADJP*))	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	6	in	IN	(PP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	7	my	PRP$	(NP*	-	-	-	Robert_Gallucci	(138)
+msnbc_0007	10	8	view	NN	*)))	view	-	4	Robert_Gallucci	-
+msnbc_0007	10	9	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	You	PRP	(TOP(S(NP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	1	make	VBP	(VP*	make	-	1	Robert_Gallucci	-
+msnbc_0007	10	2	a	DT	(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	3	deal	NN	*))	deal	01	1	Robert_Gallucci	-
+msnbc_0007	10	4	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	Nobody	NN	(TOP(S(NP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	1	did	VBD	(VP*	do	-	1	Robert_Gallucci	-
+msnbc_0007	10	2	that	DT	(NP*	-	-	-	Robert_Gallucci	(121
+msnbc_0007	10	3	deal	NN	*)	deal	01	1	Robert_Gallucci	121)
+msnbc_0007	10	4	in	IN	(PP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	5	ninety	NN	(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	6	four	CD	*))	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	7	thinking	VBG	(S(VP*	think	01	1	Robert_Gallucci	-
+msnbc_0007	10	8	we	PRP	(SBAR(S(NP*)	-	-	-	Robert_Gallucci	(127)
+msnbc_0007	10	9	were	VBD	(VP*	be	03	-	Robert_Gallucci	-
+msnbc_0007	10	10	trusting	VBG	(VP*	trust	02	1	Robert_Gallucci	-
+msnbc_0007	10	11	North	NNPS	(NP*	-	-	-	Robert_Gallucci	(79
+msnbc_0007	10	12	Koreans	NNPS	*))))))))	-	-	-	Robert_Gallucci	79)
+msnbc_0007	10	13	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	We	PRP	(TOP(S(NP*)	-	-	-	Robert_Gallucci	(127)
+msnbc_0007	10	1	had	VBD	(VP*	have	03	2	Robert_Gallucci	-
+msnbc_0007	10	2	some	DT	(NP(NP*	-	-	-	Robert_Gallucci	(210
+msnbc_0007	10	3	transparency	NN	*)	-	-	-	Robert_Gallucci	210)
+msnbc_0007	10	4	a	DT	(NP(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	5	measure	NN	*)	measure	-	3	Robert_Gallucci	-
+msnbc_0007	10	6	of	IN	(PP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	7	it	PRP	(NP*)))))	-	-	-	Robert_Gallucci	(210)
+msnbc_0007	10	8	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	and	CC	(TOP(S*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	1	you	PRP	(NP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	2	verify	VBP	(VP*)	verify	01	1	Robert_Gallucci	-
+msnbc_0007	10	3	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	We	PRP	(TOP(S(NP*)	-	-	-	Robert_Gallucci	(127)
+msnbc_0007	10	1	caught	VBD	(VP*	catch	02	2	Robert_Gallucci	-
+msnbc_0007	10	2	them	PRP	(NP*)	-	-	-	Robert_Gallucci	(79)
+msnbc_0007	10	3	cheating	VBG	(S(VP*)))	cheat	02	2	Robert_Gallucci	-
+msnbc_0007	10	4	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	You	PRP	(TOP(S(NP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	1	might	MD	(VP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	2	make	VB	(VP*	make	-	1	Robert_Gallucci	-
+msnbc_0007	10	3	another	DT	(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	4	deal	NN	*)))	deal	01	1	Robert_Gallucci	-
+msnbc_0007	10	5	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	I	PRP	(TOP(S(NP*)	-	-	-	Robert_Gallucci	(138)
+msnbc_0007	10	1	think	VBP	(VP*	think	01	1	Robert_Gallucci	-
+msnbc_0007	10	2	you	PRP	(SBAR(S(NP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	3	should	MD	(VP*))))	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	4	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	You	PRP	(TOP(S(NP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	1	ask	VBP	(VP*	ask	01	1	Robert_Gallucci	-
+msnbc_0007	10	2	the	DT	(NP(NP*	-	-	-	Robert_Gallucci	(152
+msnbc_0007	10	3	question	NN	*)	question	01	1	Robert_Gallucci	-
+msnbc_0007	10	4	you	PRP	(SQ(S(NP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	5	make	VB	(VP*	make	-	1	Robert_Gallucci	-
+msnbc_0007	10	6	another	DT	(NP*	-	-	-	Robert_Gallucci	(154
+msnbc_0007	10	7	deal	NN	*)))	deal	01	1	Robert_Gallucci	154)
+msnbc_0007	10	8	are	VBP	*	be	01	1	Robert_Gallucci	-
+msnbc_0007	10	9	you	PRP	(NP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	10	better	RBR	(ADJP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	11	off	JJ	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	12	with	IN	(PP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	13	the	DT	(NP*	-	-	-	Robert_Gallucci	(154
+msnbc_0007	10	14	deal	NN	*))))))	deal	01	1	Robert_Gallucci	154)|152)
+msnbc_0007	10	15	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	or	CC	(TOP(SQ*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	1	are	VBP	*	be	01	1	Robert_Gallucci	-
+msnbc_0007	10	2	you	PRP	(NP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	3	better	RBR	(ADJP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	4	off	JJ	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	5	without	IN	(PP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	6	it	PRP	(NP*)))	-	-	-	Robert_Gallucci	(154)
+msnbc_0007	10	7	/?	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	If	IN	(TOP(S(SBAR*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	1	the	DT	(S(NP(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	2	answer	NN	*)	answer	01	1	Robert_Gallucci	-
+msnbc_0007	10	3	to	IN	(PP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	4	the	DT	(NP*	-	-	-	Robert_Gallucci	(152
+msnbc_0007	10	5	former	JJ	*)))	-	-	-	Robert_Gallucci	152)
+msnbc_0007	10	6	is	VBZ	(VP*	be	01	1	Robert_Gallucci	-
+msnbc_0007	10	7	yes	UH	(INTJ*))))	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	8	you	PRP	(NP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	9	do	VBP	(VP*	do	-	1	Robert_Gallucci	-
+msnbc_0007	10	10	the	DT	(NP*	-	-	-	Robert_Gallucci	(154
+msnbc_0007	10	11	deal	NN	*))	deal	01	1	Robert_Gallucci	154)
+msnbc_0007	10	12	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	You	PRP	(TOP(S(NP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	1	do	VBP	(VP*	do	01	-	Robert_Gallucci	-
+msnbc_0007	10	2	n't	RB	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	3	+ask	VB	(VP*	ask	01	-	Robert_Gallucci	-
+msnbc_0007	10	4	I	PRP	(PRN(S(NP*)	-	-	-	Robert_Gallucci	(138)
+msnbc_0007	10	5	think	VBP	(VP*)))	think	01	1	Robert_Gallucci	-
+msnbc_0007	10	6	the	DT	(NP(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	7	simple	JJ	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	8	question	NN	*)	question	01	1	Robert_Gallucci	-
+msnbc_0007	10	9	have	VBP	(SQ*	have	01	12	Robert_Gallucci	-
+msnbc_0007	10	10	they	PRP	(NP*)	-	-	-	Robert_Gallucci	(79)
+msnbc_0007	10	11	fooled	VBN	(VP*	fool	01	-	Robert_Gallucci	-
+msnbc_0007	10	12	us	PRP	(NP*)	-	-	-	Robert_Gallucci	(127)
+msnbc_0007	10	13	before	RB	(ADVP*))))))	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	14	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	then	RB	(TOP(S(ADVP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	1	do	VB	(VP*	do	01	-	Robert_Gallucci	-
+msnbc_0007	10	2	n't	RB	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	3	let	VB	(VP*	let	01	1	Robert_Gallucci	-
+msnbc_0007	10	4	them	PRP	(S(NP*)	-	-	-	Robert_Gallucci	(79)
+msnbc_0007	10	5	fool	VB	(VP*	fool	01	-	Robert_Gallucci	-
+msnbc_0007	10	6	us	PRP	(NP*)	-	-	-	Robert_Gallucci	(127)
+msnbc_0007	10	7	again	RB	(ADVP*)))))	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	8	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	I	PRP	(TOP(S(NP*)	-	-	-	Robert_Gallucci	(138)
+msnbc_0007	10	1	do	VBP	(VP*	do	01	-	Robert_Gallucci	-
+msnbc_0007	10	2	n't	RB	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	3	believe	VB	(VP*	believe	01	1	Robert_Gallucci	-
+msnbc_0007	10	4	that	DT	(SBAR(S(NP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	5	's	VBZ	(VP*	be	01	1	Robert_Gallucci	-
+msnbc_0007	10	6	the	DT	(NP(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	7	way	NN	*)	way	-	5	Robert_Gallucci	-
+msnbc_0007	10	8	you	PRP	(SBAR(S(NP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	9	proceed	VBP	(VP*	proceed	01	3	Robert_Gallucci	-
+msnbc_0007	10	10	in	IN	(PP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	11	international	JJ	(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	12	affairs	NNS	*)))))))))))	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	13	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	It	PRP	(TOP(S(NP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	1	asks	VBZ	(VP*	ask	01	1	Robert_Gallucci	-
+msnbc_0007	10	2	a	DT	(NP(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	3	very	RB	(ADJP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	4	tough	JJ	*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	5	question	NN	*)	question	-	2	Robert_Gallucci	-
+msnbc_0007	10	6	about	IN	(PP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	7	the	DT	(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	8	national	JJ	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	9	security	NN	*))))	security	-	3	Robert_Gallucci	-
+msnbc_0007	10	10	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	should	MD	(TOP(SQ*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	1	we	PRP	(NP*)	-	-	-	Robert_Gallucci	(127)
+msnbc_0007	10	2	do	VB	(VP*	do	02	1	Robert_Gallucci	-
+msnbc_0007	10	3	this	DT	(NP*))	-	-	-	Robert_Gallucci	(166)
+msnbc_0007	10	4	/?	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	Is	VBZ	(TOP(SQ*	be	01	1	Robert_Gallucci	-
+msnbc_0007	10	1	it	PRP	(NP*)	-	-	-	Robert_Gallucci	(166)
+msnbc_0007	10	2	better	JJR	(ADJP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	3	for	IN	(PP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	4	us	PRP	(NP*)))	-	-	-	Robert_Gallucci	(127)
+msnbc_0007	10	5	/?	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	Ask	VB	(TOP(S(VP*	ask	02	2	Robert_Gallucci	-
+msnbc_0007	10	1	for	IN	(PP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	2	more	JJR	(NP*	-	-	-	Robert_Gallucci	(2
+msnbc_0007	10	3	transparency	NN	*)))	-	-	-	Robert_Gallucci	2)
+msnbc_0007	10	4	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	Insist	VB	(TOP(S(VP*	insist	01	1	Robert_Gallucci	-
+msnbc_0007	10	1	on	IN	(PP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	2	it	PRP	(NP*)))	-	-	-	Robert_Gallucci	(2)
+msnbc_0007	10	3	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+msnbc_0007	10	0	Be	VB	(TOP(S(VP*	be	01	1	Robert_Gallucci	-
+msnbc_0007	10	1	tough	JJ	(ADJP*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	2	in	IN	(PP(PP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	3	the	DT	(NP*	-	-	-	Robert_Gallucci	(15
+msnbc_0007	10	4	negotiations	NNS	*))	negotiation	01	1	Robert_Gallucci	15)
+msnbc_0007	10	5	Not	RB	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	6	in	IN	(PP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	7	the	DT	(NP(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	8	formality	NN	*)	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	9	of	IN	(PP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	10	whether	IN	(SBAR*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	11	it	PRP	(S(S(NP*)	-	-	-	Robert_Gallucci	(15)
+msnbc_0007	10	12	's	VBZ	(VP*	be	01	1	Robert_Gallucci	-
+msnbc_0007	10	13	six	CD	(NP*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	14	parties	NNS	*)))	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	15	or	CC	*	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	16	it	PRP	(S(NP*)	-	-	-	Robert_Gallucci	(15)
+msnbc_0007	10	17	's	VBZ	(VP*	be	01	1	Robert_Gallucci	-
+msnbc_0007	10	18	bilateral	JJ	(ADJP*))))))))))	-	-	-	Robert_Gallucci	-
+msnbc_0007	10	19	/.	.	*))	-	-	-	Robert_Gallucci	-
+
+#end document

@@ -1,0 +1,129 @@
+# newdoc id = 75f1f364-bf0a-4c3b-adbb-baf0a967ebca
+# newpar id = 75f1f364-bf0a-4c3b-adbb-baf0a967ebca-p1
+# par_text = Старая мечеть. Благородная заброшенность соединилась с  романтическим ореолом прошлого этого великолепного здания. Каждый, кто взглянет на эту заброшенную мечеть, может задуматься что же с ней случилось, почему люди покинули её, куда они ушли, на этот вопрос фотография ответа дать, увы, не может. Хочется вспомнить строки “вокзалы хороши, когда они вокзалы”, только лишь аисты, чьё гнездо мы видим на минарете, нарушают покой мечети. Всё в прошлом яркие краски изразцов потускнели от времени, муэдзин больше не зовет на молитву. Остались только воспоминания, да и те скоро канут в лету.
+# sent_id = 75f1f364-bf0a-4c3b-adbb-baf0a967ebca-p1-s1
+# text = Старая мечеть.
+1	Старая	_	_	_	_	_	_	_	RuCor_chain_id=1487|RuCor_group_id=415375|Shift=0
+2	мечеть	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1487|RuCor_group_id=415375|RuCor_link_id=0|Shift=7|SpaceAfter=No
+3	.	_	_	_	_	_	_	_	Shift=13
+
+# sent_id = 75f1f364-bf0a-4c3b-adbb-baf0a967ebca-p1-s2
+# text = Благородная заброшенность соединилась с романтическим ореолом прошлого этого великолепного здания.
+1	Благородная	_	_	_	_	_	_	_	Shift=15
+2	заброшенность	_	_	_	_	_	_	_	Shift=27
+3	соединилась	_	_	_	_	_	_	_	Shift=41
+4	с	_	_	_	_	_	_	_	Shift=53
+5	романтическим	_	_	_	_	_	_	_	Shift=56
+6	ореолом	_	_	_	_	_	_	_	Shift=70
+7	прошлого	_	_	_	_	_	_	_	Shift=78
+8	этого	_	_	_	_	_	_	_	RuCor_chain_id=1487|RuCor_group_id=415376|Shift=87
+9	великолепного	_	_	_	_	_	_	_	RuCor_chain_id=1487|RuCor_group_id=415376|Shift=93
+10	здания	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1487|RuCor_group_id=415376|RuCor_link_id=415375|Shift=107|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=113
+
+# sent_id = 75f1f364-bf0a-4c3b-adbb-baf0a967ebca-p1-s3
+# text = Каждый, кто взглянет на эту заброшенную мечеть, может задуматься что же с ней случилось, почему люди покинули её, куда они ушли, на этот вопрос фотография ответа дать, увы, не может.
+1	Каждый	_	_	_	_	_	_	_	Shift=115|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=121
+3	кто	_	_	_	_	_	_	_	Shift=123
+4	взглянет	_	_	_	_	_	_	_	Shift=127
+5	на	_	_	_	_	_	_	_	Shift=136
+6	эту	_	_	_	_	_	_	_	RuCor_chain_id=1487|RuCor_group_id=415377|Shift=139
+7	заброшенную	_	_	_	_	_	_	_	RuCor_chain_id=1487|RuCor_group_id=415377|Shift=143
+8	мечеть	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1487|RuCor_group_id=415377|RuCor_link_id=415376|Shift=155|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=161
+10	может	_	_	_	_	_	_	_	Shift=163
+11	задуматься	_	_	_	_	_	_	_	Shift=169
+12	что	_	_	_	_	_	_	_	Shift=180
+13	же	_	_	_	_	_	_	_	Shift=184
+14	с	_	_	_	_	_	_	_	Shift=187
+15	ней	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1487|RuCor_group_id=415378|RuCor_link_id=415377|Shift=189
+16	случилось	_	_	_	_	_	_	_	Shift=193|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=202
+18	почему	_	_	_	_	_	_	_	Shift=204
+19	люди	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1488|RuCor_group_id=415380|RuCor_link_id=0|Shift=211
+20	покинули	_	_	_	_	_	_	_	Shift=216
+21	её	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1487|RuCor_group_id=415379|RuCor_link_id=415378|Shift=225|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=227
+23	куда	_	_	_	_	_	_	_	Shift=229
+24	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1488|RuCor_group_id=415381|RuCor_link_id=415380|Shift=234
+25	ушли	_	_	_	_	_	_	_	Shift=238|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	Shift=242
+27	на	_	_	_	_	_	_	_	Shift=244
+28	этот	_	_	_	_	_	_	_	Shift=247
+29	вопрос	_	_	_	_	_	_	_	Shift=252
+30	фотография	_	_	_	_	_	_	_	Shift=259
+31	ответа	_	_	_	_	_	_	_	Shift=270
+32	дать	_	_	_	_	_	_	_	Shift=277|SpaceAfter=No
+33	,	_	_	_	_	_	_	_	Shift=281
+34	увы	_	_	_	_	_	_	_	Shift=283|SpaceAfter=No
+35	,	_	_	_	_	_	_	_	Shift=286
+36	не	_	_	_	_	_	_	_	Shift=288
+37	может	_	_	_	_	_	_	_	Shift=291|SpaceAfter=No
+38	.	_	_	_	_	_	_	_	Shift=296
+
+# sent_id = 75f1f364-bf0a-4c3b-adbb-baf0a967ebca-p1-s4
+# text = Хочется вспомнить строки ``вокзалы хороши, когда они вокзалы'', только лишь аисты, чьё гнездо мы видим на минарете, нарушают покой мечети.
+1	Хочется	_	_	_	_	_	_	_	Shift=298
+2	вспомнить	_	_	_	_	_	_	_	Shift=306
+3	строки	_	_	_	_	_	_	_	Shift=316
+4	``	_	_	_	_	_	_	_	Shift=323|SpaceAfter=No
+5	вокзалы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1489|RuCor_group_id=415382|RuCor_link_id=0|Shift=324
+6	хороши	_	_	_	_	_	_	_	Shift=332|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=338
+8	когда	_	_	_	_	_	_	_	Shift=340
+9	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1489|RuCor_group_id=415383|RuCor_link_id=415382|Shift=346
+10	вокзалы	_	_	_	_	_	_	_	Shift=350|SpaceAfter=No
+11	''	_	_	_	_	_	_	_	SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=358
+13	только	_	_	_	_	_	_	_	Shift=360
+14	лишь	_	_	_	_	_	_	_	Shift=367
+15	аисты	_	_	_	_	_	_	_	Shift=372|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=377
+17	чьё	_	_	_	_	_	_	_	Shift=379
+18	гнездо	_	_	_	_	_	_	_	Shift=383
+19	мы	_	_	_	_	_	_	_	Shift=390
+20	видим	_	_	_	_	_	_	_	Shift=393
+21	на	_	_	_	_	_	_	_	Shift=399
+22	минарете	_	_	_	_	_	_	_	Shift=402|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=410
+24	нарушают	_	_	_	_	_	_	_	Shift=412
+25	покой	_	_	_	_	_	_	_	Shift=421
+26	мечети	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1487|RuCor_group_id=415386|RuCor_link_id=415379|Shift=427|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=433
+
+# sent_id = 75f1f364-bf0a-4c3b-adbb-baf0a967ebca-p1-s5
+# text = Всё в прошлом яркие краски изразцов потускнели от времени, муэдзин больше не зовет на молитву.
+1	Всё	_	_	_	_	_	_	_	Shift=435
+2	в	_	_	_	_	_	_	_	Shift=439
+3	прошлом	_	_	_	_	_	_	_	Shift=441
+4	яркие	_	_	_	_	_	_	_	Shift=449
+5	краски	_	_	_	_	_	_	_	Shift=455
+6	изразцов	_	_	_	_	_	_	_	Shift=462
+7	потускнели	_	_	_	_	_	_	_	Shift=471
+8	от	_	_	_	_	_	_	_	Shift=482
+9	времени	_	_	_	_	_	_	_	Shift=485|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=492
+11	муэдзин	_	_	_	_	_	_	_	Shift=494
+12	больше	_	_	_	_	_	_	_	Shift=502
+13	не	_	_	_	_	_	_	_	Shift=509
+14	зовет	_	_	_	_	_	_	_	Shift=512
+15	на	_	_	_	_	_	_	_	Shift=518
+16	молитву	_	_	_	_	_	_	_	Shift=521|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=528
+
+# sent_id = 75f1f364-bf0a-4c3b-adbb-baf0a967ebca-p1-s6
+# text = Остались только воспоминания, да и те скоро канут в лету.
+1	Остались	_	_	_	_	_	_	_	Shift=530
+2	только	_	_	_	_	_	_	_	Shift=539
+3	воспоминания	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1490|RuCor_group_id=415384|RuCor_link_id=0|Shift=546|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=558
+5	да	_	_	_	_	_	_	_	Shift=560
+6	и	_	_	_	_	_	_	_	Shift=563
+7	те	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1490|RuCor_group_id=415385|RuCor_link_id=415384|Shift=565
+8	скоро	_	_	_	_	_	_	_	Shift=568
+9	канут	_	_	_	_	_	_	_	Shift=574
+10	в	_	_	_	_	_	_	_	Shift=580
+11	лету	_	_	_	_	_	_	_	Shift=582|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	_
+

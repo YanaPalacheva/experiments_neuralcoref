@@ -1,0 +1,1892 @@
+# newdoc id = ca5d92cc-6dec-485e-8c69-7525873fd1db
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p1
+# par_text = Солнце зашло. Быстро слиняли блеклые краски мартовского заката. Снега за окном вагона набирались вечерней синевы. Ранняя звезда засквозила в небе над далекими, уже плохо разглядимыми холмами. В вагоне густел сумрак. Света в поезде ещо не давали, и дремотное оцепенение овладевало пассажирами. Обо всем уже успели поговорить за день, и каждый знал, куда и зачем едет сосед, и уже были выяснены цены на картошку, сало шпиг во всех ближних и дальних районах, перечислены все случаи вагонных краж и происшествий. В пошатывающемся сонном сумраке вагона бесконечно отстукивали колеса; в дальнем углу все еще слышался монотонный говорок какой-то старушки, еще с утра начавшей рассказывать о своем внуке Порфишке, от которого с первого года и весточки не слышалось, а потом он сам обнаружился... Поезд недолго постоял у маленькой станции и пошел дальше. И тут проводница подвела к одной из полок вагона нового пассажира и сказала:
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p1-s1
+# text = Солнце зашло.
+1	Солнце	_	_	_	_	_	_	_	Shift=1
+2	зашло	_	_	_	_	_	_	_	Shift=8|SpaceAfter=No
+3	.	_	_	_	_	_	_	_	Shift=13
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p1-s2
+# text = Быстро слиняли блеклые краски мартовского заката.
+1	Быстро	_	_	_	_	_	_	_	Shift=15
+2	слиняли	_	_	_	_	_	_	_	Shift=22
+3	блеклые	_	_	_	_	_	_	_	Shift=30
+4	краски	_	_	_	_	_	_	_	Shift=38
+5	мартовского	_	_	_	_	_	_	_	Shift=45
+6	заката	_	_	_	_	_	_	_	Shift=57|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=63
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p1-s3
+# text = Снега за окном вагона набирались вечерней синевы.
+1	Снега	_	_	_	_	_	_	_	Shift=65
+2	за	_	_	_	_	_	_	_	Shift=71
+3	окном	_	_	_	_	_	_	_	Shift=74
+4	вагона	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=962|RuCor_group_id=408604|RuCor_link_id=0|Shift=80
+5	набирались	_	_	_	_	_	_	_	Shift=87
+6	вечерней	_	_	_	_	_	_	_	Shift=98
+7	синевы	_	_	_	_	_	_	_	Shift=107|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=113
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p1-s4
+# text = Ранняя звезда засквозила в небе над далекими, уже плохо разглядимыми холмами.
+1	Ранняя	_	_	_	_	_	_	_	Shift=115
+2	звезда	_	_	_	_	_	_	_	Shift=122
+3	засквозила	_	_	_	_	_	_	_	Shift=129
+4	в	_	_	_	_	_	_	_	Shift=140
+5	небе	_	_	_	_	_	_	_	Shift=142
+6	над	_	_	_	_	_	_	_	Shift=147
+7	далекими	_	_	_	_	_	_	_	Shift=151|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=159
+9	уже	_	_	_	_	_	_	_	Shift=161
+10	плохо	_	_	_	_	_	_	_	Shift=165
+11	разглядимыми	_	_	_	_	_	_	_	Shift=171
+12	холмами	_	_	_	_	_	_	_	Shift=184|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=191
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p1-s5
+# text = В вагоне густел сумрак.
+1	В	_	_	_	_	_	_	_	Shift=193
+2	вагоне	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=962|RuCor_group_id=408605|RuCor_link_id=408604|Shift=195
+3	густел	_	_	_	_	_	_	_	Shift=202
+4	сумрак	_	_	_	_	_	_	_	Shift=209|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=215
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p1-s6
+# text = Света в поезде ещо не давали, и дремотное оцепенение овладевало пассажирами.
+1	Света	_	_	_	_	_	_	_	Shift=217
+2	в	_	_	_	_	_	_	_	Shift=223
+3	поезде	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=961|RuCor_group_id=408606|RuCor_link_id=0|Shift=225
+4	ещо	_	_	_	_	_	_	_	Shift=232
+5	не	_	_	_	_	_	_	_	Shift=236
+6	давали	_	_	_	_	_	_	_	Shift=239|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=245
+8	и	_	_	_	_	_	_	_	Shift=247
+9	дремотное	_	_	_	_	_	_	_	Shift=249
+10	оцепенение	_	_	_	_	_	_	_	Shift=259
+11	овладевало	_	_	_	_	_	_	_	Shift=270
+12	пассажирами	_	_	_	_	_	_	_	Shift=281|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=292
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p1-s7
+# text = Обо всем уже успели поговорить за день, и каждый знал, куда и зачем едет сосед, и уже были выяснены цены на картошку, сало шпиг во всех ближних и дальних районах, перечислены все случаи вагонных краж и происшествий.
+1	Обо	_	_	_	_	_	_	_	Shift=294
+2	всем	_	_	_	_	_	_	_	Shift=298
+3	уже	_	_	_	_	_	_	_	Shift=303
+4	успели	_	_	_	_	_	_	_	Shift=307
+5	поговорить	_	_	_	_	_	_	_	Shift=314
+6	за	_	_	_	_	_	_	_	Shift=325
+7	день	_	_	_	_	_	_	_	Shift=328|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=332
+9	и	_	_	_	_	_	_	_	Shift=334
+10	каждый	_	_	_	_	_	_	_	Shift=336
+11	знал	_	_	_	_	_	_	_	Shift=343|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=347
+13	куда	_	_	_	_	_	_	_	Shift=349
+14	и	_	_	_	_	_	_	_	Shift=354
+15	зачем	_	_	_	_	_	_	_	Shift=356
+16	едет	_	_	_	_	_	_	_	Shift=362
+17	сосед	_	_	_	_	_	_	_	Shift=367|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=372
+19	и	_	_	_	_	_	_	_	Shift=374
+20	уже	_	_	_	_	_	_	_	Shift=376
+21	были	_	_	_	_	_	_	_	Shift=380
+22	выяснены	_	_	_	_	_	_	_	Shift=385
+23	цены	_	_	_	_	_	_	_	Shift=394
+24	на	_	_	_	_	_	_	_	Shift=399
+25	картошку	_	_	_	_	_	_	_	Shift=402|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	Shift=410
+27	сало	_	_	_	_	_	_	_	Shift=412
+28	шпиг	_	_	_	_	_	_	_	Shift=417
+29	во	_	_	_	_	_	_	_	Shift=422
+30	всех	_	_	_	_	_	_	_	Shift=425
+31	ближних	_	_	_	_	_	_	_	Shift=430
+32	и	_	_	_	_	_	_	_	Shift=438
+33	дальних	_	_	_	_	_	_	_	Shift=440
+34	районах	_	_	_	_	_	_	_	Shift=448|SpaceAfter=No
+35	,	_	_	_	_	_	_	_	Shift=455
+36	перечислены	_	_	_	_	_	_	_	Shift=457
+37	все	_	_	_	_	_	_	_	Shift=469
+38	случаи	_	_	_	_	_	_	_	Shift=473
+39	вагонных	_	_	_	_	_	_	_	Shift=480
+40	краж	_	_	_	_	_	_	_	Shift=489
+41	и	_	_	_	_	_	_	_	Shift=494
+42	происшествий	_	_	_	_	_	_	_	Shift=496|SpaceAfter=No
+43	.	_	_	_	_	_	_	_	Shift=508
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p1-s8
+# text = В пошатывающемся сонном сумраке вагона бесконечно отстукивали колеса.
+1	В	_	_	_	_	_	_	_	Shift=510
+2	пошатывающемся	_	_	_	_	_	_	_	Shift=512
+3	сонном	_	_	_	_	_	_	_	Shift=527
+4	сумраке	_	_	_	_	_	_	_	Shift=534
+5	вагона	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=962|RuCor_group_id=408769|RuCor_link_id=408604|Shift=542
+6	бесконечно	_	_	_	_	_	_	_	Shift=549
+7	отстукивали	_	_	_	_	_	_	_	Shift=560
+8	колеса	_	_	_	_	_	_	_	Shift=572|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=578
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p1-s9
+# text = в дальнем углу все еще слышался монотонный говорок какой-то старушки, еще с утра начавшей рассказывать о своем внуке Порфишке, от которого с первого года и весточки не слышалось, а потом он сам обнаружился...
+1	в	_	_	_	_	_	_	_	Shift=580
+2	дальнем	_	_	_	_	_	_	_	Shift=582
+3	углу	_	_	_	_	_	_	_	Shift=590
+4	все	_	_	_	_	_	_	_	Shift=595
+5	еще	_	_	_	_	_	_	_	Shift=599
+6	слышался	_	_	_	_	_	_	_	Shift=603
+7	монотонный	_	_	_	_	_	_	_	Shift=612
+8	говорок	_	_	_	_	_	_	_	Shift=623
+9	какой-то	_	_	_	_	_	_	_	Shift=631
+10	старушки	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=960|RuCor_group_id=408609|RuCor_link_id=0|Shift=640|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=648
+12	еще	_	_	_	_	_	_	_	Shift=650
+13	с	_	_	_	_	_	_	_	Shift=654
+14	утра	_	_	_	_	_	_	_	Shift=656
+15	начавшей	_	_	_	_	_	_	_	Shift=661
+16	рассказывать	_	_	_	_	_	_	_	Shift=670
+17	о	_	_	_	_	_	_	_	Shift=683
+18	своем	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=959|RuCor_group_id=408611|RuCor_link_id=408609|Shift=685
+19	внуке	_	_	_	_	_	_	_	RuCor_chain_id=959|RuCor_group_id=408611|Shift=691
+20	Порфишке	_	_	_	_	_	_	_	RuCor_chain_id=959|RuCor_group_id=408611|Shift=697|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=705
+22	от	_	_	_	_	_	_	_	Shift=707
+23	которого	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=959|RuCor_group_id=408612|RuCor_link_id=408611|Shift=710
+24	с	_	_	_	_	_	_	_	Shift=719
+25	первого	_	_	_	_	_	_	_	Shift=721
+26	года	_	_	_	_	_	_	_	Shift=729
+27	и	_	_	_	_	_	_	_	Shift=734
+28	весточки	_	_	_	_	_	_	_	Shift=736
+29	не	_	_	_	_	_	_	_	Shift=745
+30	слышалось	_	_	_	_	_	_	_	Shift=748|SpaceAfter=No
+31	,	_	_	_	_	_	_	_	Shift=757
+32	а	_	_	_	_	_	_	_	Shift=759
+33	потом	_	_	_	_	_	_	_	Shift=761
+34	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=959|RuCor_group_id=408613|RuCor_link_id=408612|Shift=767
+35	сам	_	_	_	_	_	_	_	Shift=770
+36	обнаружился	_	_	_	_	_	_	_	Shift=774|SpaceAfter=No
+37	...	_	_	_	_	_	_	_	Shift=785
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p1-s10
+# text = Поезд недолго постоял у маленькой станции и пошел дальше.
+1	Поезд	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=961|RuCor_group_id=408607|RuCor_link_id=408606|Shift=789
+2	недолго	_	_	_	_	_	_	_	Shift=795
+3	постоял	_	_	_	_	_	_	_	Shift=803
+4	у	_	_	_	_	_	_	_	Shift=811
+5	маленькой	_	_	_	_	_	_	_	Shift=813
+6	станции	_	_	_	_	_	_	_	Shift=823
+7	и	_	_	_	_	_	_	_	Shift=831
+8	пошел	_	_	_	_	_	_	_	Shift=833
+9	дальше	_	_	_	_	_	_	_	Shift=839|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=845
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p1-s11
+# text = И тут проводница подвела к одной из полок вагона нового пассажира и сказала:
+1	И	_	_	_	_	_	_	_	Shift=847
+2	тут	_	_	_	_	_	_	_	Shift=849
+3	проводница	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=957|RuCor_group_id=408619|RuCor_link_id=0|Shift=853
+4	подвела	_	_	_	_	_	_	_	Shift=864
+5	к	_	_	_	_	_	_	_	Shift=872
+6	одной	_	_	_	_	_	_	_	Shift=874
+7	из	_	_	_	_	_	_	_	Shift=880
+8	полок	_	_	_	_	_	_	_	Shift=883
+9	вагона	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=962|RuCor_group_id=408614|RuCor_link_id=408605|Shift=889
+10	нового	_	_	_	_	_	_	_	RuCor_chain_id=958|RuCor_group_id=408615|Shift=896
+11	пассажира	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408615|RuCor_link_id=0|Shift=903
+12	и	_	_	_	_	_	_	_	Shift=913
+13	сказала	_	_	_	_	_	_	_	Shift=915|SpaceAfter=No
+14	:	_	_	_	_	_	_	_	Shift=922
+
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p2
+# par_text = - А ну, граждане командированные, сядьте маленько уместительней, дайте место человеку.
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p2-s1
+# text = - А ну, граждане командированные, сядьте маленько уместительней, дайте место человеку.
+1	-	_	_	_	_	_	_	_	Shift=927
+2	А	_	_	_	_	_	_	_	Shift=929
+3	ну	_	_	_	_	_	_	_	Shift=931|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=933
+5	граждане	_	_	_	_	_	_	_	RuCor_chain_id=948|RuCor_group_id=408720|Shift=935
+6	командированные	_	_	_	_	_	_	_	RuCor_chain_id=948|RuCor_group_id=408720|Shift=944|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=959
+8	сядьте	_	_	_	_	_	_	_	Shift=961
+9	маленько	_	_	_	_	_	_	_	Shift=968
+10	уместительней	_	_	_	_	_	_	_	Shift=977|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=990
+12	дайте	_	_	_	_	_	_	_	Shift=992
+13	место	_	_	_	_	_	_	_	Shift=998
+14	человеку	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408616|RuCor_link_id=408615|Shift=1004|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=1012
+
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p3
+# par_text = Новый пассажир уверенно и легко прошел за ней к указанному месту. В темноте трудно было разглядеть его лицо. Но заметно было, что человек этот сильный, молодой. Был он плечист и точен в движениях. Кубанка и короткий, ладно пошитый тулупчик ловко сидели на нем.
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p3-s1
+# text = Новый пассажир уверенно и легко прошел за ней к указанному месту.
+1	Новый	_	_	_	_	_	_	_	RuCor_chain_id=958|RuCor_group_id=408617|Shift=1017
+2	пассажир	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408617|RuCor_link_id=408616|Shift=1023
+3	уверенно	_	_	_	_	_	_	_	Shift=1032
+4	и	_	_	_	_	_	_	_	Shift=1041
+5	легко	_	_	_	_	_	_	_	Shift=1043
+6	прошел	_	_	_	_	_	_	_	Shift=1049
+7	за	_	_	_	_	_	_	_	Shift=1056
+8	ней	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=957|RuCor_group_id=408618|RuCor_link_id=408619|Shift=1059
+9	к	_	_	_	_	_	_	_	Shift=1063
+10	указанному	_	_	_	_	_	_	_	Shift=1065
+11	месту	_	_	_	_	_	_	_	Shift=1076|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=1081
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p3-s2
+# text = В темноте трудно было разглядеть его лицо.
+1	В	_	_	_	_	_	_	_	Shift=1083
+2	темноте	_	_	_	_	_	_	_	Shift=1085
+3	трудно	_	_	_	_	_	_	_	Shift=1093
+4	было	_	_	_	_	_	_	_	Shift=1100
+5	разглядеть	_	_	_	_	_	_	_	Shift=1105
+6	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408620|RuCor_link_id=408617|Shift=1116
+7	лицо	_	_	_	_	_	_	_	Shift=1120|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=1124
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p3-s3
+# text = Но заметно было, что человек этот сильный, молодой.
+1	Но	_	_	_	_	_	_	_	Shift=1126
+2	заметно	_	_	_	_	_	_	_	Shift=1129
+3	было	_	_	_	_	_	_	_	Shift=1137|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1141
+5	что	_	_	_	_	_	_	_	Shift=1143
+6	человек	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408621|RuCor_link_id=408620|Shift=1147
+7	этот	_	_	_	_	_	_	_	RuCor_chain_id=958|RuCor_group_id=408621|Shift=1155
+8	сильный	_	_	_	_	_	_	_	Shift=1160|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1167
+10	молодой	_	_	_	_	_	_	_	Shift=1169|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=1176
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p3-s4
+# text = Был он плечист и точен в движениях.
+1	Был	_	_	_	_	_	_	_	Shift=1178
+2	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408622|RuCor_link_id=408621|Shift=1182
+3	плечист	_	_	_	_	_	_	_	Shift=1185
+4	и	_	_	_	_	_	_	_	Shift=1193
+5	точен	_	_	_	_	_	_	_	Shift=1195
+6	в	_	_	_	_	_	_	_	Shift=1201
+7	движениях	_	_	_	_	_	_	_	Shift=1203|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=1212
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p3-s5
+# text = Кубанка и короткий, ладно пошитый тулупчик ловко сидели на нем.
+1	Кубанка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=955|RuCor_group_id=408641|RuCor_link_id=0|Shift=1214
+2	и	_	_	_	_	_	_	_	Shift=1222
+3	короткий	_	_	_	_	_	_	_	RuCor_chain_id=954|RuCor_group_id=408642|Shift=1224|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	RuCor_chain_id=954|RuCor_group_id=408642|Shift=1232
+5	ладно	_	_	_	_	_	_	_	RuCor_chain_id=954|RuCor_group_id=408642|Shift=1234
+6	пошитый	_	_	_	_	_	_	_	RuCor_chain_id=954|RuCor_group_id=408642|Shift=1240
+7	тулупчик	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=954|RuCor_group_id=408642|RuCor_link_id=0|Shift=1248
+8	ловко	_	_	_	_	_	_	_	Shift=1257
+9	сидели	_	_	_	_	_	_	_	Shift=1263
+10	на	_	_	_	_	_	_	_	Shift=1270
+11	нем	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408623|RuCor_link_id=408621|Shift=1273|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=1276
+
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p4
+# par_text = - Виноват, как бы не потревожить вас,- сказал он приятным тенорком,- разрешите, я вот свой багаж сюда пристрою.
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p4-s1
+# text = - Виноват, как бы не потревожить вас, - сказал он приятным тенорком, - разрешите, я вот свой багаж сюда пристрою.
+1	-	_	_	_	_	_	_	_	Shift=1281
+2	Виноват	_	_	_	_	_	_	_	Shift=1283|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1290
+4	как	_	_	_	_	_	_	_	Shift=1292
+5	бы	_	_	_	_	_	_	_	Shift=1296
+6	не	_	_	_	_	_	_	_	Shift=1299
+7	потревожить	_	_	_	_	_	_	_	Shift=1302
+8	вас	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=948|RuCor_group_id=408719|RuCor_link_id=408720|Shift=1314|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1317
+10	-	_	_	_	_	_	_	_	Shift=1318
+11	сказал	_	_	_	_	_	_	_	Shift=1320
+12	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408624|RuCor_link_id=408623|Shift=1327
+13	приятным	_	_	_	_	_	_	_	Shift=1330
+14	тенорком	_	_	_	_	_	_	_	Shift=1339|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=1347
+16	-	_	_	_	_	_	_	_	Shift=1348
+17	разрешите	_	_	_	_	_	_	_	Shift=1350|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=1359
+19	я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408625|RuCor_link_id=408624|Shift=1361
+20	вот	_	_	_	_	_	_	_	Shift=1363
+21	свой	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408626|RuCor_link_id=408625|Shift=1367
+22	багаж	_	_	_	_	_	_	_	Shift=1372
+23	сюда	_	_	_	_	_	_	_	Shift=1378
+24	пристрою	_	_	_	_	_	_	_	Shift=1383|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=1391
+
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p5
+# par_text = В вагоне к тому времени уже совсем стемнело, но вошедший пассажир с удивительной свободой двигался в тесноте, среди мешков, баулов. Он никого не задел, когда рукой проверял, есть ли свободное местечко на багажной полке, - для этого он одним рывком легко подтянул свое ладное большое тело, взявшись за скобки, упруго вспрыгнул, без натуги подхватил объемистый чемодан, забросил его наверх, кинул туда свой вещевой мешок.
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p5-s1
+# text = В вагоне к тому времени уже совсем стемнело, но вошедший пассажир с удивительной свободой двигался в тесноте, среди мешков, баулов.
+1	В	_	_	_	_	_	_	_	Shift=1396
+2	вагоне	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=962|RuCor_group_id=408627|RuCor_link_id=408614|Shift=1398
+3	к	_	_	_	_	_	_	_	Shift=1405
+4	тому	_	_	_	_	_	_	_	Shift=1407
+5	времени	_	_	_	_	_	_	_	Shift=1412
+6	уже	_	_	_	_	_	_	_	Shift=1420
+7	совсем	_	_	_	_	_	_	_	Shift=1424
+8	стемнело	_	_	_	_	_	_	_	Shift=1431|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1439
+10	но	_	_	_	_	_	_	_	Shift=1441
+11	вошедший	_	_	_	_	_	_	_	RuCor_chain_id=958|RuCor_group_id=408628|Shift=1444
+12	пассажир	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408628|RuCor_link_id=408624|Shift=1453
+13	с	_	_	_	_	_	_	_	Shift=1462
+14	удивительной	_	_	_	_	_	_	_	Shift=1464
+15	свободой	_	_	_	_	_	_	_	Shift=1477
+16	двигался	_	_	_	_	_	_	_	Shift=1486
+17	в	_	_	_	_	_	_	_	Shift=1495
+18	тесноте	_	_	_	_	_	_	_	Shift=1497|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=1504
+20	среди	_	_	_	_	_	_	_	Shift=1506
+21	мешков	_	_	_	_	_	_	_	Shift=1512|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=1518
+23	баулов	_	_	_	_	_	_	_	Shift=1520|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=1526
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p5-s2
+# text = Он никого не задел, когда рукой проверял, есть ли свободное местечко на багажной полке, - для этого он одним рывком легко подтянул свое ладное большое тело, взявшись за скобки, упруго вспрыгнул, без натуги подхватил объемистый чемодан, забросил его наверх, кинул туда свой вещевой мешок.
+1	Он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408629|RuCor_link_id=408628|Shift=1528
+2	никого	_	_	_	_	_	_	_	Shift=1531
+3	не	_	_	_	_	_	_	_	Shift=1538
+4	задел	_	_	_	_	_	_	_	Shift=1541|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1546
+6	когда	_	_	_	_	_	_	_	Shift=1548
+7	рукой	_	_	_	_	_	_	_	Shift=1554
+8	проверял	_	_	_	_	_	_	_	Shift=1560|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1568
+10	есть	_	_	_	_	_	_	_	Shift=1570
+11	ли	_	_	_	_	_	_	_	Shift=1575
+12	свободное	_	_	_	_	_	_	_	Shift=1578
+13	местечко	_	_	_	_	_	_	_	Shift=1588
+14	на	_	_	_	_	_	_	_	Shift=1597
+15	багажной	_	_	_	_	_	_	_	Shift=1600
+16	полке	_	_	_	_	_	_	_	Shift=1609|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=1614
+18	-	_	_	_	_	_	_	_	Shift=1616
+19	для	_	_	_	_	_	_	_	Shift=1618
+20	этого	_	_	_	_	_	_	_	Shift=1622
+21	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408630|RuCor_link_id=408629|Shift=1628
+22	одним	_	_	_	_	_	_	_	Shift=1631
+23	рывком	_	_	_	_	_	_	_	Shift=1637
+24	легко	_	_	_	_	_	_	_	Shift=1644
+25	подтянул	_	_	_	_	_	_	_	Shift=1650
+26	свое	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408631|RuCor_link_id=408630|Shift=1659
+27	ладное	_	_	_	_	_	_	_	Shift=1664
+28	большое	_	_	_	_	_	_	_	Shift=1671
+29	тело	_	_	_	_	_	_	_	Shift=1679|SpaceAfter=No
+30	,	_	_	_	_	_	_	_	Shift=1683
+31	взявшись	_	_	_	_	_	_	_	Shift=1685
+32	за	_	_	_	_	_	_	_	Shift=1694
+33	скобки	_	_	_	_	_	_	_	Shift=1697|SpaceAfter=No
+34	,	_	_	_	_	_	_	_	Shift=1703
+35	упруго	_	_	_	_	_	_	_	Shift=1705
+36	вспрыгнул	_	_	_	_	_	_	_	Shift=1712|SpaceAfter=No
+37	,	_	_	_	_	_	_	_	Shift=1721
+38	без	_	_	_	_	_	_	_	Shift=1723
+39	натуги	_	_	_	_	_	_	_	Shift=1727
+40	подхватил	_	_	_	_	_	_	_	Shift=1734
+41	объемистый	_	_	_	_	_	_	_	RuCor_chain_id=956|RuCor_group_id=408632|Shift=1744
+42	чемодан	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=956|RuCor_group_id=408632|RuCor_link_id=0|Shift=1755|SpaceAfter=No
+43	,	_	_	_	_	_	_	_	Shift=1762
+44	забросил	_	_	_	_	_	_	_	Shift=1764
+45	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=956|RuCor_group_id=408633|RuCor_link_id=408632|Shift=1773
+46	наверх	_	_	_	_	_	_	_	Shift=1777|SpaceAfter=No
+47	,	_	_	_	_	_	_	_	Shift=1783
+48	кинул	_	_	_	_	_	_	_	Shift=1785
+49	туда	_	_	_	_	_	_	_	Shift=1791
+50	свой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=958|RuCor_group_id=408634|RuCor_link_id=408631|Shift=1796
+51	вещевой	_	_	_	_	_	_	_	Shift=1801
+52	мешок	_	_	_	_	_	_	_	Shift=1809|SpaceAfter=No
+53	.	_	_	_	_	_	_	_	Shift=1814
+
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p6
+# par_text = - Вы бы у себя поближе вещички-то попридержали, - сказал кто-то из темноты, - озорства нынче много по дороге, и глянуть не успеешь, чуть моргнешь - и поминай как звали.
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p6-s1
+# text = - Вы бы у себя поближе вещички - то попридержали, - сказал кто-то из темноты, - озорства нынче много по дороге, и глянуть не успеешь, чуть моргнешь - и поминай как звали.
+1	-	_	_	_	_	_	_	_	Shift=1819
+2	Вы	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408635|RuCor_link_id=408630|Shift=1821
+3	бы	_	_	_	_	_	_	_	Shift=1824
+4	у	_	_	_	_	_	_	_	Shift=1827
+5	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408636|RuCor_link_id=408635|Shift=1829
+6	поближе	_	_	_	_	_	_	_	Shift=1834
+7	вещички	_	_	_	_	_	_	_	Shift=1842
+8	-	_	_	_	_	_	_	_	Shift=1849
+9	то	_	_	_	_	_	_	_	Shift=1850
+10	попридержали	_	_	_	_	_	_	_	Shift=1853|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=1865
+12	-	_	_	_	_	_	_	_	Shift=1867
+13	сказал	_	_	_	_	_	_	_	Shift=1869
+14	кто-то	_	_	_	_	_	_	_	Shift=1876
+15	из	_	_	_	_	_	_	_	Shift=1883
+16	темноты	_	_	_	_	_	_	_	Shift=1886|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=1893
+18	-	_	_	_	_	_	_	_	Shift=1895
+19	озорства	_	_	_	_	_	_	_	Shift=1897
+20	нынче	_	_	_	_	_	_	_	Shift=1906
+21	много	_	_	_	_	_	_	_	Shift=1912
+22	по	_	_	_	_	_	_	_	Shift=1918
+23	дороге	_	_	_	_	_	_	_	Shift=1921|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=1927
+25	и	_	_	_	_	_	_	_	Shift=1929
+26	глянуть	_	_	_	_	_	_	_	Shift=1931
+27	не	_	_	_	_	_	_	_	Shift=1939
+28	успеешь	_	_	_	_	_	_	_	Shift=1942|SpaceAfter=No
+29	,	_	_	_	_	_	_	_	Shift=1949
+30	чуть	_	_	_	_	_	_	_	Shift=1951
+31	моргнешь	_	_	_	_	_	_	_	Shift=1956
+32	-	_	_	_	_	_	_	_	Shift=1965
+33	и	_	_	_	_	_	_	_	Shift=1967
+34	поминай	_	_	_	_	_	_	_	Shift=1969
+35	как	_	_	_	_	_	_	_	Shift=1977
+36	звали	_	_	_	_	_	_	_	Shift=1981|SpaceAfter=No
+37	.	_	_	_	_	_	_	_	Shift=1986
+
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p7
+# par_text = - А зачем нам моргать? - весело отозвался новый пассажир. - Я и так услышу, ежели кто подберется.
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p7-s1
+# text = - А зачем нам моргать?
+1	-	_	_	_	_	_	_	_	Shift=1991
+2	А	_	_	_	_	_	_	_	Shift=1993
+3	зачем	_	_	_	_	_	_	_	Shift=1995
+4	нам	_	_	_	_	_	_	_	Shift=2001
+5	моргать	_	_	_	_	_	_	_	Shift=2005|SpaceAfter=No
+6	?	_	_	_	_	_	_	_	Shift=2012
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p7-s2
+# text = - весело отозвался новый пассажир.
+1	-	_	_	_	_	_	_	_	Shift=2014
+2	весело	_	_	_	_	_	_	_	Shift=2016
+3	отозвался	_	_	_	_	_	_	_	Shift=2023
+4	новый	_	_	_	_	_	_	_	RuCor_chain_id=958|RuCor_group_id=408638|Shift=2033
+5	пассажир	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408638|RuCor_link_id=408635|Shift=2039|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=2047
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p7-s3
+# text = - Я и так услышу, ежели кто подберется.
+1	-	_	_	_	_	_	_	_	Shift=2049
+2	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408637|RuCor_link_id=408638|Shift=2051
+3	и	_	_	_	_	_	_	_	Shift=2053
+4	так	_	_	_	_	_	_	_	Shift=2055
+5	услышу	_	_	_	_	_	_	_	Shift=2059|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=2065
+7	ежели	_	_	_	_	_	_	_	Shift=2067
+8	кто	_	_	_	_	_	_	_	Shift=2073
+9	подберется	_	_	_	_	_	_	_	Shift=2077|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=2087
+
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p8
+# par_text = - В такой-то темноте не углядишь, - сказала со второй полки пожилая колхозница, - хоть бы уж свет скорее дали.
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p8-s1
+# text = - В такой-то темноте не углядишь, - сказала со второй полки пожилая колхозница, - хоть бы уж свет скорее дали.
+1	-	_	_	_	_	_	_	_	Shift=2092
+2	В	_	_	_	_	_	_	_	Shift=2094
+3	такой-то	_	_	_	_	_	_	_	Shift=2096
+4	темноте	_	_	_	_	_	_	_	Shift=2105
+5	не	_	_	_	_	_	_	_	Shift=2113
+6	углядишь	_	_	_	_	_	_	_	Shift=2116|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=2124
+8	-	_	_	_	_	_	_	_	Shift=2126
+9	сказала	_	_	_	_	_	_	_	Shift=2128
+10	со	_	_	_	_	_	_	_	Shift=2136
+11	второй	_	_	_	_	_	_	_	Shift=2139
+12	полки	_	_	_	_	_	_	_	Shift=2146
+13	пожилая	_	_	_	_	_	_	_	RuCor_chain_id=950|RuCor_group_id=408678|Shift=2152
+14	колхозница	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=950|RuCor_group_id=408678|RuCor_link_id=0|Shift=2160|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=2170
+16	-	_	_	_	_	_	_	_	Shift=2172
+17	хоть	_	_	_	_	_	_	_	Shift=2174
+18	бы	_	_	_	_	_	_	_	Shift=2179
+19	уж	_	_	_	_	_	_	_	Shift=2182
+20	свет	_	_	_	_	_	_	_	Shift=2185
+21	скорее	_	_	_	_	_	_	_	Shift=2190
+22	дали	_	_	_	_	_	_	_	Shift=2197|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=2201
+
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p9
+# par_text = - Ничего, мамаша, в темноте, да не в обиде, - отшутился новый.
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p9-s1
+# text = - Ничего, мамаша, в темноте, да не в обиде, - отшутился новый.
+1	-	_	_	_	_	_	_	_	Shift=2206
+2	Ничего	_	_	_	_	_	_	_	Shift=2208|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=2214
+4	мамаша	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=950|RuCor_group_id=408679|RuCor_link_id=408678|Shift=2216|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=2222
+6	в	_	_	_	_	_	_	_	Shift=2224
+7	темноте	_	_	_	_	_	_	_	Shift=2226|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=2233
+9	да	_	_	_	_	_	_	_	Shift=2235
+10	не	_	_	_	_	_	_	_	Shift=2238
+11	в	_	_	_	_	_	_	_	Shift=2241
+12	обиде	_	_	_	_	_	_	_	Shift=2243|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=2248
+14	-	_	_	_	_	_	_	_	Shift=2250
+15	отшутился	_	_	_	_	_	_	_	Shift=2252
+16	новый	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408639|RuCor_link_id=408638|Shift=2262|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=2267
+
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p10
+# par_text = Он сиял тулупчик, вывернул его, аккуратно сложил в уголке, нащупал крючок на стенке и ловким, точным движением издали набросил на него свою кубанку. Слышно было, как легонько и сыпуче потрескивали под расческой его, вероятно, очень сухие волосы: очевидно, пассажир причесывался.
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p10-s1
+# text = Он сиял тулупчик, вывернул его, аккуратно сложил в уголке, нащупал крючок на стенке и ловким, точным движением издали набросил на него свою кубанку.
+1	Он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408640|RuCor_link_id=408639|Shift=2272
+2	сиял	_	_	_	_	_	_	_	Shift=2275
+3	тулупчик	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=954|RuCor_group_id=408643|RuCor_link_id=408642|Shift=2280|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2288
+5	вывернул	_	_	_	_	_	_	_	Shift=2290
+6	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=954|RuCor_group_id=408644|RuCor_link_id=408643|Shift=2299|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=2302
+8	аккуратно	_	_	_	_	_	_	_	Shift=2304
+9	сложил	_	_	_	_	_	_	_	Shift=2314
+10	в	_	_	_	_	_	_	_	Shift=2321
+11	уголке	_	_	_	_	_	_	_	Shift=2323|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=2329
+13	нащупал	_	_	_	_	_	_	_	Shift=2331
+14	крючок	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=954|RuCor_group_id=408770|RuCor_link_id=408645|Shift=2339
+15	на	_	_	_	_	_	_	_	RuCor_chain_id=954|RuCor_group_id=408770|Shift=2346
+16	стенке	_	_	_	_	_	_	_	RuCor_chain_id=954|RuCor_group_id=408770|Shift=2349
+17	и	_	_	_	_	_	_	_	Shift=2356
+18	ловким	_	_	_	_	_	_	_	Shift=2358|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=2364
+20	точным	_	_	_	_	_	_	_	Shift=2366
+21	движением	_	_	_	_	_	_	_	Shift=2373
+22	издали	_	_	_	_	_	_	_	Shift=2383
+23	набросил	_	_	_	_	_	_	_	Shift=2390
+24	на	_	_	_	_	_	_	_	Shift=2399
+25	него	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=954|RuCor_group_id=408645|RuCor_link_id=408644|Shift=2402
+26	свою	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=955|RuCor_group_id=408771|RuCor_link_id=408640|Shift=2407
+27	кубанку	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=955|RuCor_group_id=408771|RuCor_link_id=408641|Shift=2412|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=2419
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p10-s2
+# text = Слышно было, как легонько и сыпуче потрескивали под расческой его, вероятно, очень сухие волосы: очевидно, пассажир причесывался.
+1	Слышно	_	_	_	_	_	_	_	Shift=2421
+2	было	_	_	_	_	_	_	_	Shift=2428|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=2432
+4	как	_	_	_	_	_	_	_	Shift=2434
+5	легонько	_	_	_	_	_	_	_	Shift=2438
+6	и	_	_	_	_	_	_	_	Shift=2447
+7	сыпуче	_	_	_	_	_	_	_	Shift=2449
+8	потрескивали	_	_	_	_	_	_	_	Shift=2456
+9	под	_	_	_	_	_	_	_	Shift=2469
+10	расческой	_	_	_	_	_	_	_	Shift=2473
+11	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408648|RuCor_link_id=408646|Shift=2483|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=2486
+13	вероятно	_	_	_	_	_	_	_	Shift=2488|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=2496
+15	очень	_	_	_	_	_	_	_	Shift=2498
+16	сухие	_	_	_	_	_	_	_	Shift=2504
+17	волосы	_	_	_	_	_	_	_	Shift=2510|SpaceAfter=No
+18	:	_	_	_	_	_	_	_	Shift=2516
+19	очевидно	_	_	_	_	_	_	_	Shift=2518|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=2526
+21	пассажир	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408649|RuCor_link_id=408640|Shift=2528
+22	причесывался	_	_	_	_	_	_	_	Shift=2537|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=2549
+
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p11
+# par_text = - Ну вот,- сказал он,- все нормально, порядок и красоту навел. Правильно, граждане?
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p11-s1
+# text = - Ну вот, - сказал он, - все нормально, порядок и красоту навел.
+1	-	_	_	_	_	_	_	_	Shift=2554
+2	Ну	_	_	_	_	_	_	_	Shift=2556
+3	вот	_	_	_	_	_	_	_	Shift=2559|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2562
+5	-	_	_	_	_	_	_	_	Shift=2563
+6	сказал	_	_	_	_	_	_	_	Shift=2565
+7	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408650|RuCor_link_id=408640|Shift=2572|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=2574
+9	-	_	_	_	_	_	_	_	Shift=2575
+10	все	_	_	_	_	_	_	_	Shift=2577
+11	нормально	_	_	_	_	_	_	_	Shift=2581|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=2590
+13	порядок	_	_	_	_	_	_	_	Shift=2592
+14	и	_	_	_	_	_	_	_	Shift=2600
+15	красоту	_	_	_	_	_	_	_	Shift=2602
+16	навел	_	_	_	_	_	_	_	Shift=2610|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=2615
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p11-s2
+# text = Правильно, граждане?
+1	Правильно	_	_	_	_	_	_	_	Shift=2617|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=2626
+3	граждане	_	_	_	_	_	_	_	Shift=2628|SpaceAfter=No
+4	?	_	_	_	_	_	_	_	Shift=2636
+
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p12
+# par_text = - В такой темнотище красоты от нас уж не спрашивают, - ворчливо отозвался с противоположной верхней полки один из пассажиров.
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p12-s1
+# text = - В такой темнотище красоты от нас уж не спрашивают, - ворчливо отозвался с противоположной верхней полки один из пассажиров.
+1	-	_	_	_	_	_	_	_	Shift=2641
+2	В	_	_	_	_	_	_	_	Shift=2643
+3	такой	_	_	_	_	_	_	_	Shift=2645
+4	темнотище	_	_	_	_	_	_	_	Shift=2651
+5	красоты	_	_	_	_	_	_	_	Shift=2661
+6	от	_	_	_	_	_	_	_	Shift=2669
+7	нас	_	_	_	_	_	_	_	Shift=2672
+8	уж	_	_	_	_	_	_	_	Shift=2676
+9	не	_	_	_	_	_	_	_	Shift=2679
+10	спрашивают	_	_	_	_	_	_	_	Shift=2682|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=2692
+12	-	_	_	_	_	_	_	_	Shift=2694
+13	ворчливо	_	_	_	_	_	_	_	Shift=2696
+14	отозвался	_	_	_	_	_	_	_	Shift=2705
+15	с	_	_	_	_	_	_	_	Shift=2715
+16	противоположной	_	_	_	_	_	_	_	Shift=2717
+17	верхней	_	_	_	_	_	_	_	Shift=2733
+18	полки	_	_	_	_	_	_	_	Shift=2741
+19	один	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=951|RuCor_group_id=408657|RuCor_link_id=0|Shift=2747
+20	из	_	_	_	_	_	_	_	RuCor_chain_id=951|RuCor_group_id=408657|Shift=2752
+21	пассажиров	_	_	_	_	_	_	_	RuCor_chain_id=951|RuCor_group_id=408657|Shift=2755|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=2765
+
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p13
+# par_text = - Красоту человек сам с себя спрашивает,- возразил новый пассажир,- красота у человека, я считаю, больше не для посторонней видимости, а для собственного уважения, чтобы соблюдал себя в порядке, по полной форме... А вот вы, извините, лежите в верхней одежде да еще воротник поставили, и от этого вам на душе тесно...
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p13-s1
+# text = - Красоту человек сам с себя спрашивает, - возразил новый пассажир, - красота у человека, я считаю, больше не для посторонней видимости, а для собственного уважения, чтобы соблюдал себя в порядке, по полной форме...
+1	-	_	_	_	_	_	_	_	Shift=2770
+2	Красоту	_	_	_	_	_	_	_	Shift=2772
+3	человек	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=953|RuCor_group_id=408651|RuCor_link_id=0|Shift=2780
+4	сам	_	_	_	_	_	_	_	RuCor_chain_id=953|RuCor_group_id=408651|Shift=2788
+5	с	_	_	_	_	_	_	_	Shift=2792
+6	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=953|RuCor_group_id=408652|RuCor_link_id=408651|Shift=2794
+7	спрашивает	_	_	_	_	_	_	_	Shift=2799|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=2809
+9	-	_	_	_	_	_	_	_	Shift=2810
+10	возразил	_	_	_	_	_	_	_	Shift=2812
+11	новый	_	_	_	_	_	_	_	RuCor_chain_id=958|RuCor_group_id=408653|Shift=2821
+12	пассажир	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408653|RuCor_link_id=408649|Shift=2827|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=2835
+14	-	_	_	_	_	_	_	_	Shift=2836
+15	красота	_	_	_	_	_	_	_	Shift=2838
+16	у	_	_	_	_	_	_	_	Shift=2846
+17	человека	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=952|RuCor_group_id=408656|RuCor_link_id=408655|Shift=2848|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=2856
+19	я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408654|RuCor_link_id=408653|Shift=2858
+20	считаю	_	_	_	_	_	_	_	Shift=2860|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=2866
+22	больше	_	_	_	_	_	_	_	Shift=2868
+23	не	_	_	_	_	_	_	_	Shift=2875
+24	для	_	_	_	_	_	_	_	Shift=2878
+25	посторонней	_	_	_	_	_	_	_	Shift=2882
+26	видимости	_	_	_	_	_	_	_	Shift=2894|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=2903
+28	а	_	_	_	_	_	_	_	Shift=2905
+29	для	_	_	_	_	_	_	_	Shift=2907
+30	собственного	_	_	_	_	_	_	_	Shift=2911
+31	уважения	_	_	_	_	_	_	_	Shift=2924|SpaceAfter=No
+32	,	_	_	_	_	_	_	_	Shift=2932
+33	чтобы	_	_	_	_	_	_	_	Shift=2934
+34	соблюдал	_	_	_	_	_	_	_	Shift=2940
+35	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=952|RuCor_group_id=408655|RuCor_link_id=0|Shift=2949
+36	в	_	_	_	_	_	_	_	Shift=2954
+37	порядке	_	_	_	_	_	_	_	Shift=2956|SpaceAfter=No
+38	,	_	_	_	_	_	_	_	Shift=2963
+39	по	_	_	_	_	_	_	_	Shift=2965
+40	полной	_	_	_	_	_	_	_	Shift=2968
+41	форме	_	_	_	_	_	_	_	Shift=2975|SpaceAfter=No
+42	...	_	_	_	_	_	_	_	Shift=2980
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p13-s2
+# text = А вот вы, извините, лежите в верхней одежде да еще воротник поставили, и от этого вам на душе тесно...
+1	А	_	_	_	_	_	_	_	Shift=2984
+2	вот	_	_	_	_	_	_	_	Shift=2986
+3	вы	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=951|RuCor_group_id=408658|RuCor_link_id=408657|Shift=2990|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2992
+5	извините	_	_	_	_	_	_	_	Shift=2994|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=3002
+7	лежите	_	_	_	_	_	_	_	Shift=3004
+8	в	_	_	_	_	_	_	_	Shift=3011
+9	верхней	_	_	_	_	_	_	_	Shift=3013
+10	одежде	_	_	_	_	_	_	_	Shift=3021
+11	да	_	_	_	_	_	_	_	Shift=3028
+12	еще	_	_	_	_	_	_	_	Shift=3031
+13	воротник	_	_	_	_	_	_	_	Shift=3035
+14	поставили	_	_	_	_	_	_	_	Shift=3044|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=3053
+16	и	_	_	_	_	_	_	_	Shift=3055
+17	от	_	_	_	_	_	_	_	Shift=3057
+18	этого	_	_	_	_	_	_	_	Shift=3060
+19	вам	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=951|RuCor_group_id=408659|RuCor_link_id=408657|Shift=3066
+20	на	_	_	_	_	_	_	_	Shift=3070
+21	душе	_	_	_	_	_	_	_	Shift=3073
+22	тесно	_	_	_	_	_	_	_	Shift=3078|SpaceAfter=No
+23	...	_	_	_	_	_	_	_	Shift=3083
+
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p14
+# par_text = - А тебе на душе просторно? - обиделся верхний пассажир.- И каким же это тебе манером известно в такой темноте, в чем я одетый лежу и насчет воротника... Ты что, мне пуговицы проверял, что ли?
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p14-s1
+# text = - А тебе на душе просторно?
+1	-	_	_	_	_	_	_	_	Shift=3090
+2	А	_	_	_	_	_	_	_	Shift=3092
+3	тебе	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408660|RuCor_link_id=408653|Shift=3094
+4	на	_	_	_	_	_	_	_	Shift=3099
+5	душе	_	_	_	_	_	_	_	Shift=3102
+6	просторно	_	_	_	_	_	_	_	Shift=3107|SpaceAfter=No
+7	?	_	_	_	_	_	_	_	Shift=3116
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p14-s2
+# text = - обиделся верхний пассажир.
+1	-	_	_	_	_	_	_	_	Shift=3118
+2	обиделся	_	_	_	_	_	_	_	Shift=3120
+3	верхний	_	_	_	_	_	_	_	RuCor_chain_id=951|RuCor_group_id=408661|Shift=3129
+4	пассажир	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=951|RuCor_group_id=408661|RuCor_link_id=408657|Shift=3137|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=3145
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p14-s3
+# text = - И каким же это тебе манером известно в такой темноте, в чем я одетый лежу и насчет воротника...
+1	-	_	_	_	_	_	_	_	Shift=3146
+2	И	_	_	_	_	_	_	_	Shift=3148
+3	каким	_	_	_	_	_	_	_	Shift=3150
+4	же	_	_	_	_	_	_	_	Shift=3156
+5	это	_	_	_	_	_	_	_	Shift=3159
+6	тебе	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408662|RuCor_link_id=408660|Shift=3163
+7	манером	_	_	_	_	_	_	_	Shift=3168
+8	известно	_	_	_	_	_	_	_	Shift=3176
+9	в	_	_	_	_	_	_	_	Shift=3185
+10	такой	_	_	_	_	_	_	_	Shift=3187
+11	темноте	_	_	_	_	_	_	_	Shift=3193|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=3200
+13	в	_	_	_	_	_	_	_	Shift=3202
+14	чем	_	_	_	_	_	_	_	Shift=3204
+15	я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=951|RuCor_group_id=408663|RuCor_link_id=408661|Shift=3208
+16	одетый	_	_	_	_	_	_	_	Shift=3210
+17	лежу	_	_	_	_	_	_	_	Shift=3217
+18	и	_	_	_	_	_	_	_	Shift=3222
+19	насчет	_	_	_	_	_	_	_	Shift=3224
+20	воротника	_	_	_	_	_	_	_	Shift=3231|SpaceAfter=No
+21	...	_	_	_	_	_	_	_	Shift=3240
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p14-s4
+# text = Ты что, мне пуговицы проверял, что ли?
+1	Ты	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408664|RuCor_link_id=408662|Shift=3244
+2	что	_	_	_	_	_	_	_	Shift=3247|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=3250
+4	мне	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=951|RuCor_group_id=408665|RuCor_link_id=408663|Shift=3252
+5	пуговицы	_	_	_	_	_	_	_	Shift=3256
+6	проверял	_	_	_	_	_	_	_	Shift=3265|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=3273
+8	что	_	_	_	_	_	_	_	Shift=3275
+9	ли	_	_	_	_	_	_	_	Shift=3279|SpaceAfter=No
+10	?	_	_	_	_	_	_	_	Shift=3281
+
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p15
+# par_text = - Зачем мне ваши пуговицы считать? - негромким, приветливым голосом ответил парень.- Я и так по голосу чую, какой у вас вид красивый, до горла на замке.
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p15-s1
+# text = - Зачем мне ваши пуговицы считать?
+1	-	_	_	_	_	_	_	_	Shift=3286
+2	Зачем	_	_	_	_	_	_	_	Shift=3288
+3	мне	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408666|RuCor_link_id=408660|Shift=3294
+4	ваши	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=951|RuCor_group_id=408667|RuCor_link_id=408661|Shift=3298
+5	пуговицы	_	_	_	_	_	_	_	Shift=3303
+6	считать	_	_	_	_	_	_	_	Shift=3312|SpaceAfter=No
+7	?	_	_	_	_	_	_	_	Shift=3319
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p15-s2
+# text = - негромким, приветливым голосом ответил парень.
+1	-	_	_	_	_	_	_	_	Shift=3321
+2	негромким	_	_	_	_	_	_	_	Shift=3323|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=3332
+4	приветливым	_	_	_	_	_	_	_	Shift=3334
+5	голосом	_	_	_	_	_	_	_	Shift=3346
+6	ответил	_	_	_	_	_	_	_	Shift=3354
+7	парень	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408672|RuCor_link_id=408666|Shift=3362|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=3368
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p15-s3
+# text = - Я и так по голосу чую, какой у вас вид красивый, до горла на замке.
+1	-	_	_	_	_	_	_	_	Shift=3369
+2	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408668|RuCor_link_id=408664|Shift=3371
+3	и	_	_	_	_	_	_	_	Shift=3373
+4	так	_	_	_	_	_	_	_	Shift=3375
+5	по	_	_	_	_	_	_	_	Shift=3379
+6	голосу	_	_	_	_	_	_	_	Shift=3382
+7	чую	_	_	_	_	_	_	_	Shift=3389|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=3392
+9	какой	_	_	_	_	_	_	_	Shift=3394
+10	у	_	_	_	_	_	_	_	Shift=3400
+11	вас	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=951|RuCor_group_id=408669|RuCor_link_id=408665|Shift=3402
+12	вид	_	_	_	_	_	_	_	Shift=3406
+13	красивый	_	_	_	_	_	_	_	Shift=3410|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=3418
+15	до	_	_	_	_	_	_	_	Shift=3420
+16	горла	_	_	_	_	_	_	_	Shift=3423
+17	на	_	_	_	_	_	_	_	Shift=3429
+18	замке	_	_	_	_	_	_	_	Shift=3432|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=3437
+
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p16
+# par_text = Все в вагоне засмеялись, дивясь догадливости парня, потому что верхний пассажир действительно весь день лежал в наглухо застегнутой шубе с поднятым воротником, хотя в вагоне было достаточно тепло. Новый пассажир тем временем загремел в темноте кружкой.
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p16-s1
+# text = Все в вагоне засмеялись, дивясь догадливости парня, потому что верхний пассажир действительно весь день лежал в наглухо застегнутой шубе с поднятым воротником, хотя в вагоне было достаточно тепло.
+1	Все	_	_	_	_	_	_	_	Shift=3442
+2	в	_	_	_	_	_	_	_	Shift=3446
+3	вагоне	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=962|RuCor_group_id=408647|RuCor_link_id=408627|Shift=3448
+4	засмеялись	_	_	_	_	_	_	_	Shift=3455|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=3465
+6	дивясь	_	_	_	_	_	_	_	Shift=3467
+7	догадливости	_	_	_	_	_	_	_	Shift=3474
+8	парня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408671|RuCor_link_id=408672|Shift=3487|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=3492
+10	потому	_	_	_	_	_	_	_	Shift=3494
+11	что	_	_	_	_	_	_	_	Shift=3501
+12	верхний	_	_	_	_	_	_	_	RuCor_chain_id=951|RuCor_group_id=408670|Shift=3505
+13	пассажир	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=951|RuCor_group_id=408670|RuCor_link_id=408661|Shift=3513
+14	действительно	_	_	_	_	_	_	_	Shift=3522
+15	весь	_	_	_	_	_	_	_	Shift=3536
+16	день	_	_	_	_	_	_	_	Shift=3541
+17	лежал	_	_	_	_	_	_	_	Shift=3546
+18	в	_	_	_	_	_	_	_	Shift=3552
+19	наглухо	_	_	_	_	_	_	_	Shift=3554
+20	застегнутой	_	_	_	_	_	_	_	Shift=3562
+21	шубе	_	_	_	_	_	_	_	Shift=3574
+22	с	_	_	_	_	_	_	_	Shift=3579
+23	поднятым	_	_	_	_	_	_	_	Shift=3581
+24	воротником	_	_	_	_	_	_	_	Shift=3590|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=3600
+26	хотя	_	_	_	_	_	_	_	Shift=3602
+27	в	_	_	_	_	_	_	_	Shift=3607
+28	вагоне	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=962|RuCor_group_id=408772|RuCor_link_id=408647|Shift=3609
+29	было	_	_	_	_	_	_	_	Shift=3616
+30	достаточно	_	_	_	_	_	_	_	Shift=3621
+31	тепло	_	_	_	_	_	_	_	Shift=3632|SpaceAfter=No
+32	.	_	_	_	_	_	_	_	Shift=3637
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p16-s2
+# text = Новый пассажир тем временем загремел в темноте кружкой.
+1	Новый	_	_	_	_	_	_	_	RuCor_chain_id=958|RuCor_group_id=408673|Shift=3639
+2	пассажир	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408673|RuCor_link_id=408671|Shift=3645
+3	тем	_	_	_	_	_	_	_	Shift=3654
+4	временем	_	_	_	_	_	_	_	Shift=3658
+5	загремел	_	_	_	_	_	_	_	Shift=3667
+6	в	_	_	_	_	_	_	_	Shift=3676
+7	темноте	_	_	_	_	_	_	_	Shift=3678
+8	кружкой	_	_	_	_	_	_	_	Shift=3686|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=3693
+
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p17
+# par_text = - Пойти у проводницы кипяточку взять, - проговорил он.
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p17-s1
+# text = - Пойти у проводницы кипяточку взять, - проговорил он.
+1	-	_	_	_	_	_	_	_	Shift=3698
+2	Пойти	_	_	_	_	_	_	_	Shift=3700
+3	у	_	_	_	_	_	_	_	Shift=3706
+4	проводницы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=957|RuCor_group_id=408675|RuCor_link_id=408619|Shift=3708
+5	кипяточку	_	_	_	_	_	_	_	Shift=3719
+6	взять	_	_	_	_	_	_	_	Shift=3729|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=3734
+8	-	_	_	_	_	_	_	_	Shift=3736
+9	проговорил	_	_	_	_	_	_	_	Shift=3738
+10	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408674|RuCor_link_id=408671|Shift=3749|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=3751
+
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p18
+# par_text = - Погоди, сейчас свет дадут, а то кругом вещи наложены - и ноги переломаешь, и людей ошпаришь.
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p18-s1
+# text = - Погоди, сейчас свет дадут, а то кругом вещи наложены - и ноги переломаешь, и людей ошпаришь.
+1	-	_	_	_	_	_	_	_	Shift=3756
+2	Погоди	_	_	_	_	_	_	_	Shift=3758|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=3764
+4	сейчас	_	_	_	_	_	_	_	Shift=3766
+5	свет	_	_	_	_	_	_	_	Shift=3773
+6	дадут	_	_	_	_	_	_	_	Shift=3778|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=3783
+8	а	_	_	_	_	_	_	_	Shift=3785
+9	то	_	_	_	_	_	_	_	Shift=3787
+10	кругом	_	_	_	_	_	_	_	Shift=3790
+11	вещи	_	_	_	_	_	_	_	Shift=3797
+12	наложены	_	_	_	_	_	_	_	Shift=3802
+13	-	_	_	_	_	_	_	_	Shift=3811
+14	и	_	_	_	_	_	_	_	Shift=3813
+15	ноги	_	_	_	_	_	_	_	Shift=3815
+16	переломаешь	_	_	_	_	_	_	_	Shift=3820|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=3831
+18	и	_	_	_	_	_	_	_	Shift=3833
+19	людей	_	_	_	_	_	_	_	Shift=3835
+20	ошпаришь	_	_	_	_	_	_	_	Shift=3841|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=3849
+
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p19
+# par_text = - Без паники, мамаша. Не будьте в сомнении, - откликнулся парень, - проводница в том, что ль, конце вагона? Точка. Красота и порядок. Вам, мамаша, не прихватить кипяточку? Давайте чайничек ваш.
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p19-s1
+# text = - Без паники, мамаша.
+1	-	_	_	_	_	_	_	_	Shift=3854
+2	Без	_	_	_	_	_	_	_	Shift=3856
+3	паники	_	_	_	_	_	_	_	Shift=3860|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=3866
+5	мамаша	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=950|RuCor_group_id=408680|RuCor_link_id=408679|Shift=3868|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=3874
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p19-s2
+# text = Не будьте в сомнении, - откликнулся парень, - проводница в том, что ль, конце вагона?
+1	Не	_	_	_	_	_	_	_	Shift=3876
+2	будьте	_	_	_	_	_	_	_	Shift=3879
+3	в	_	_	_	_	_	_	_	Shift=3886
+4	сомнении	_	_	_	_	_	_	_	Shift=3888|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=3896
+6	-	_	_	_	_	_	_	_	Shift=3898
+7	откликнулся	_	_	_	_	_	_	_	Shift=3900
+8	парень	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408676|RuCor_link_id=408674|Shift=3912|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=3918
+10	-	_	_	_	_	_	_	_	Shift=3920
+11	проводница	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=957|RuCor_group_id=408677|RuCor_link_id=408675|Shift=3922
+12	в	_	_	_	_	_	_	_	Shift=3933
+13	том	_	_	_	_	_	_	_	Shift=3935|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=3938
+15	что	_	_	_	_	_	_	_	Shift=3940
+16	ль	_	_	_	_	_	_	_	Shift=3944|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=3946
+18	конце	_	_	_	_	_	_	_	Shift=3948
+19	вагона	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=962|RuCor_group_id=408773|RuCor_link_id=408647|Shift=3954|SpaceAfter=No
+20	?	_	_	_	_	_	_	_	Shift=3960
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p19-s3
+# text = Точка.
+1	Точка	_	_	_	_	_	_	_	Shift=3962|SpaceAfter=No
+2	.	_	_	_	_	_	_	_	Shift=3967
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p19-s4
+# text = Красота и порядок.
+1	Красота	_	_	_	_	_	_	_	Shift=3969
+2	и	_	_	_	_	_	_	_	Shift=3977
+3	порядок	_	_	_	_	_	_	_	Shift=3979|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=3986
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p19-s5
+# text = Вам, мамаша, не прихватить кипяточку?
+1	Вам	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=950|RuCor_group_id=408683|RuCor_link_id=408680|Shift=3988|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=3991
+3	мамаша	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=appo|RuCor_attrs_type=coref|RuCor_chain_id=950|RuCor_group_id=408684|RuCor_link_id=408683|Shift=3993|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=3999
+5	не	_	_	_	_	_	_	_	Shift=4001
+6	прихватить	_	_	_	_	_	_	_	Shift=4004
+7	кипяточку	_	_	_	_	_	_	_	Shift=4015|SpaceAfter=No
+8	?	_	_	_	_	_	_	_	Shift=4024
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p19-s6
+# text = Давайте чайничек ваш.
+1	Давайте	_	_	_	_	_	_	_	Shift=4026
+2	чайничек	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=949|RuCor_group_id=408686|RuCor_link_id=0|Shift=4034
+3	ваш	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=950|RuCor_group_id=408685|RuCor_link_id=408683|Shift=4043|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=4046
+
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p20
+# par_text = - Ишь ты, - удивилась колхозница,- гляди пожалуйста... Да ты кошка, что ли? В темноте все видишь... Да ведь чайник у меня в мешке спрятан. Как же это ты прознал?
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p20-s1
+# text = - Ишь ты, - удивилась колхозница, - гляди пожалуйста...
+1	-	_	_	_	_	_	_	_	Shift=4051
+2	Ишь	_	_	_	_	_	_	_	Shift=4053
+3	ты	_	_	_	_	_	_	_	Shift=4057|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=4059
+5	-	_	_	_	_	_	_	_	Shift=4061
+6	удивилась	_	_	_	_	_	_	_	Shift=4063
+7	колхозница	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=950|RuCor_group_id=408681|RuCor_link_id=408680|Shift=4073|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=4083
+9	-	_	_	_	_	_	_	_	Shift=4084
+10	гляди	_	_	_	_	_	_	_	Shift=4086
+11	пожалуйста	_	_	_	_	_	_	_	Shift=4092|SpaceAfter=No
+12	...	_	_	_	_	_	_	_	Shift=4102
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p20-s2
+# text = Да ты кошка, что ли?
+1	Да	_	_	_	_	_	_	_	Shift=4106
+2	ты	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408682|RuCor_link_id=408676|Shift=4109
+3	кошка	_	_	_	_	_	_	_	Shift=4112|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=4117
+5	что	_	_	_	_	_	_	_	Shift=4119
+6	ли	_	_	_	_	_	_	_	Shift=4123|SpaceAfter=No
+7	?	_	_	_	_	_	_	_	Shift=4125
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p20-s3
+# text = В темноте все видишь...
+1	В	_	_	_	_	_	_	_	Shift=4127
+2	темноте	_	_	_	_	_	_	_	Shift=4129
+3	все	_	_	_	_	_	_	_	Shift=4137
+4	видишь	_	_	_	_	_	_	_	Shift=4141|SpaceAfter=No
+5	...	_	_	_	_	_	_	_	Shift=4147
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p20-s4
+# text = Да ведь чайник у меня в мешке спрятан.
+1	Да	_	_	_	_	_	_	_	Shift=4151
+2	ведь	_	_	_	_	_	_	_	Shift=4154
+3	чайник	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=949|RuCor_group_id=408689|RuCor_link_id=408686|Shift=4159
+4	у	_	_	_	_	_	_	_	RuCor_chain_id=949|RuCor_group_id=408689|Shift=4166
+5	меня	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=950|RuCor_group_id=408687|RuCor_link_id=408681|Shift=4168
+6	в	_	_	_	_	_	_	_	Shift=4173
+7	мешке	_	_	_	_	_	_	_	Shift=4175
+8	спрятан	_	_	_	_	_	_	_	Shift=4181|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=4188
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p20-s5
+# text = Как же это ты прознал?
+1	Как	_	_	_	_	_	_	_	Shift=4190
+2	же	_	_	_	_	_	_	_	Shift=4194
+3	это	_	_	_	_	_	_	_	Shift=4197
+4	ты	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408688|RuCor_link_id=408676|Shift=4201
+5	прознал	_	_	_	_	_	_	_	Shift=4204|SpaceAfter=No
+6	?	_	_	_	_	_	_	_	Shift=4211
+
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p21
+# par_text = - А чайник ваш мне свой секрет из мешка брякнул, он у вас, поди, под головой, - спокойно отвечал парень.
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p21-s1
+# text = - А чайник ваш мне свой секрет из мешка брякнул, он у вас, поди, под головой, - спокойно отвечал парень.
+1	-	_	_	_	_	_	_	_	Shift=4216
+2	А	_	_	_	_	_	_	_	Shift=4218
+3	чайник	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=949|RuCor_group_id=408691|RuCor_link_id=408689|Shift=4220
+4	ваш	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=950|RuCor_group_id=408690|RuCor_link_id=408687|Shift=4227
+5	мне	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408692|RuCor_link_id=408682|Shift=4231
+6	свой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=949|RuCor_group_id=408693|RuCor_link_id=408691|Shift=4235
+7	секрет	_	_	_	_	_	_	_	Shift=4240
+8	из	_	_	_	_	_	_	_	Shift=4247
+9	мешка	_	_	_	_	_	_	_	Shift=4250
+10	брякнул	_	_	_	_	_	_	_	Shift=4256|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=4263
+12	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=949|RuCor_group_id=408694|RuCor_link_id=408693|Shift=4265
+13	у	_	_	_	_	_	_	_	Shift=4268
+14	вас	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=950|RuCor_group_id=408695|RuCor_link_id=408690|Shift=4270|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=4273
+16	поди	_	_	_	_	_	_	_	Shift=4275|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=4279
+18	под	_	_	_	_	_	_	_	Shift=4281
+19	головой	_	_	_	_	_	_	_	Shift=4285|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=4292
+21	-	_	_	_	_	_	_	_	Shift=4294
+22	спокойно	_	_	_	_	_	_	_	Shift=4296
+23	отвечал	_	_	_	_	_	_	_	Shift=4305
+24	парень	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408696|RuCor_link_id=408682|Shift=4313|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=4319
+
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p22
+# par_text = - Ну и ловкай! - восхитилась колхозница и загремела в темноте чайником.
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p22-s1
+# text = - Ну и ловкай!
+1	-	_	_	_	_	_	_	_	Shift=4324
+2	Ну	_	_	_	_	_	_	_	Shift=4326
+3	и	_	_	_	_	_	_	_	Shift=4329
+4	ловкай	_	_	_	_	_	_	_	Shift=4331|SpaceAfter=No
+5	!	_	_	_	_	_	_	_	Shift=4337
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p22-s2
+# text = - восхитилась колхозница и загремела в темноте чайником.
+1	-	_	_	_	_	_	_	_	Shift=4339
+2	восхитилась	_	_	_	_	_	_	_	Shift=4341
+3	колхозница	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=950|RuCor_group_id=408697|RuCor_link_id=408695|Shift=4353
+4	и	_	_	_	_	_	_	_	Shift=4364
+5	загремела	_	_	_	_	_	_	_	Shift=4366
+6	в	_	_	_	_	_	_	_	Shift=4376
+7	темноте	_	_	_	_	_	_	_	Shift=4378
+8	чайником	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=949|RuCor_group_id=408698|RuCor_link_id=408694|Shift=4386|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=4394
+
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p23
+# par_text = Парень, взяв чайник, уверенно пробираясь среди вещей в узком коридоре между полками, отправился к проводнице.
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p23-s1
+# text = Парень, взяв чайник, уверенно пробираясь среди вещей в узком коридоре между полками, отправился к проводнице.
+1	Парень	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408699|RuCor_link_id=408696|Shift=4399|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=4405
+3	взяв	_	_	_	_	_	_	_	Shift=4407
+4	чайник	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=949|RuCor_group_id=408700|RuCor_link_id=408698|Shift=4412|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=4418
+6	уверенно	_	_	_	_	_	_	_	Shift=4420
+7	пробираясь	_	_	_	_	_	_	_	Shift=4429
+8	среди	_	_	_	_	_	_	_	Shift=4440
+9	вещей	_	_	_	_	_	_	_	Shift=4446
+10	в	_	_	_	_	_	_	_	Shift=4452
+11	узком	_	_	_	_	_	_	_	Shift=4454
+12	коридоре	_	_	_	_	_	_	_	Shift=4460
+13	между	_	_	_	_	_	_	_	Shift=4469
+14	полками	_	_	_	_	_	_	_	Shift=4475|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=4482
+16	отправился	_	_	_	_	_	_	_	Shift=4484
+17	к	_	_	_	_	_	_	_	Shift=4495
+18	проводнице	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=957|RuCor_group_id=408701|RuCor_link_id=408675|Shift=4497|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=4507
+
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p24
+# par_text = - Что-то уж больно расторопный,- опасливо проговорил себе в воротник человек, занимавший верхнюю полку. - За такими ловкачами глаз да глаз нужен, а то раз - и будь здоров!
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p24-s1
+# text = - Что-то уж больно расторопный, - опасливо проговорил себе в воротник человек, занимавший верхнюю полку.
+1	-	_	_	_	_	_	_	_	Shift=4512
+2	Что-то	_	_	_	_	_	_	_	Shift=4514
+3	уж	_	_	_	_	_	_	_	Shift=4521
+4	больно	_	_	_	_	_	_	_	Shift=4524
+5	расторопный	_	_	_	_	_	_	_	Shift=4531|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=4542
+7	-	_	_	_	_	_	_	_	Shift=4543
+8	опасливо	_	_	_	_	_	_	_	Shift=4545
+9	проговорил	_	_	_	_	_	_	_	Shift=4554
+10	себе	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=951|RuCor_group_id=408702|RuCor_link_id=408703|Shift=4565
+11	в	_	_	_	_	_	_	_	Shift=4570
+12	воротник	_	_	_	_	_	_	_	Shift=4572
+13	человек	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=951|RuCor_group_id=408703|RuCor_link_id=408670|Shift=4581|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=4588
+15	занимавший	_	_	_	_	_	_	_	Shift=4590
+16	верхнюю	_	_	_	_	_	_	_	Shift=4601
+17	полку	_	_	_	_	_	_	_	Shift=4609|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=4614
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p24-s2
+# text = - За такими ловкачами глаз да глаз нужен, а то раз - и будь здоров!
+1	-	_	_	_	_	_	_	_	Shift=4616
+2	За	_	_	_	_	_	_	_	Shift=4618
+3	такими	_	_	_	_	_	_	_	Shift=4621
+4	ловкачами	_	_	_	_	_	_	_	Shift=4628
+5	глаз	_	_	_	_	_	_	_	Shift=4638
+6	да	_	_	_	_	_	_	_	Shift=4643
+7	глаз	_	_	_	_	_	_	_	Shift=4646
+8	нужен	_	_	_	_	_	_	_	Shift=4651|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=4656
+10	а	_	_	_	_	_	_	_	Shift=4658
+11	то	_	_	_	_	_	_	_	Shift=4660
+12	раз	_	_	_	_	_	_	_	Shift=4663
+13	-	_	_	_	_	_	_	_	Shift=4667
+14	и	_	_	_	_	_	_	_	Shift=4669
+15	будь	_	_	_	_	_	_	_	Shift=4671
+16	здоров	_	_	_	_	_	_	_	Shift=4676|SpaceAfter=No
+17	!	_	_	_	_	_	_	_	Shift=4682
+
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p25
+# par_text = Парень быстро вернулся.
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p25-s1
+# text = Парень быстро вернулся.
+1	Парень	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408704|RuCor_link_id=408699|Shift=4687
+2	быстро	_	_	_	_	_	_	_	Shift=4694
+3	вернулся	_	_	_	_	_	_	_	Shift=4701|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=4709
+
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p26
+# par_text = - Виноват маленечко, как бы не сварить вас. Стоп, машина. Кажется, тут я на временное жительство прописан. Так, с обратным прибытием! Подставляйте, мамаша, кружечку. Красота и порядок.
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p26-s1
+# text = - Виноват маленечко, как бы не сварить вас.
+1	-	_	_	_	_	_	_	_	Shift=4714
+2	Виноват	_	_	_	_	_	_	_	Shift=4716
+3	маленечко	_	_	_	_	_	_	_	Shift=4724|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=4733
+5	как	_	_	_	_	_	_	_	Shift=4735
+6	бы	_	_	_	_	_	_	_	Shift=4739
+7	не	_	_	_	_	_	_	_	Shift=4742
+8	сварить	_	_	_	_	_	_	_	Shift=4745
+9	вас	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=948|RuCor_group_id=408718|RuCor_link_id=408719|Shift=4753|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=4756
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p26-s2
+# text = Стоп, машина.
+1	Стоп	_	_	_	_	_	_	_	Shift=4758|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=4762
+3	машина	_	_	_	_	_	_	_	Shift=4764|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=4770
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p26-s3
+# text = Кажется, тут я на временное жительство прописан.
+1	Кажется	_	_	_	_	_	_	_	Shift=4772|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=4779
+3	тут	_	_	_	_	_	_	_	Shift=4781
+4	я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408705|RuCor_link_id=408704|Shift=4785
+5	на	_	_	_	_	_	_	_	Shift=4787
+6	временное	_	_	_	_	_	_	_	Shift=4790
+7	жительство	_	_	_	_	_	_	_	Shift=4800
+8	прописан	_	_	_	_	_	_	_	Shift=4811|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=4819
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p26-s4
+# text = Так, с обратным прибытием!
+1	Так	_	_	_	_	_	_	_	Shift=4821|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=4824
+3	с	_	_	_	_	_	_	_	Shift=4826
+4	обратным	_	_	_	_	_	_	_	Shift=4828
+5	прибытием	_	_	_	_	_	_	_	Shift=4837|SpaceAfter=No
+6	!	_	_	_	_	_	_	_	Shift=4846
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p26-s5
+# text = Подставляйте, мамаша, кружечку.
+1	Подставляйте	_	_	_	_	_	_	_	Shift=4848|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=4860
+3	мамаша	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=950|RuCor_group_id=408706|RuCor_link_id=408697|Shift=4862|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=4868
+5	кружечку	_	_	_	_	_	_	_	Shift=4870|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=4878
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p26-s6
+# text = Красота и порядок.
+1	Красота	_	_	_	_	_	_	_	Shift=4880
+2	и	_	_	_	_	_	_	_	Shift=4888
+3	порядок	_	_	_	_	_	_	_	Shift=4890|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=4897
+
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p27
+# par_text = Он в темноте налил кипятку в подставленные кружки, не пролив при этом ни капли.
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p27-s1
+# text = Он в темноте налил кипятку в подставленные кружки, не пролив при этом ни капли.
+1	Он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408707|RuCor_link_id=408705|Shift=4902
+2	в	_	_	_	_	_	_	_	Shift=4905
+3	темноте	_	_	_	_	_	_	_	Shift=4907
+4	налил	_	_	_	_	_	_	_	Shift=4915
+5	кипятку	_	_	_	_	_	_	_	Shift=4921
+6	в	_	_	_	_	_	_	_	Shift=4929
+7	подставленные	_	_	_	_	_	_	_	Shift=4931
+8	кружки	_	_	_	_	_	_	_	Shift=4945|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=4951
+10	не	_	_	_	_	_	_	_	Shift=4953
+11	пролив	_	_	_	_	_	_	_	Shift=4956
+12	при	_	_	_	_	_	_	_	Shift=4963
+13	этом	_	_	_	_	_	_	_	Shift=4967
+14	ни	_	_	_	_	_	_	_	Shift=4972
+15	капли	_	_	_	_	_	_	_	Shift=4975|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=4980
+
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p28
+# par_text = - Спасибо, сынок, - поблагодарила его колхозница, - ишь какой ты управистый, с тобой и свечки не нужно.
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p28-s1
+# text = - Спасибо, сынок, - поблагодарила его колхозница, - ишь какой ты управистый, с тобой и свечки не нужно.
+1	-	_	_	_	_	_	_	_	Shift=4985
+2	Спасибо	_	_	_	_	_	_	_	Shift=4987|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=4994
+4	сынок	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408708|RuCor_link_id=408707|Shift=4996|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=5001
+6	-	_	_	_	_	_	_	_	Shift=5003
+7	поблагодарила	_	_	_	_	_	_	_	Shift=5005
+8	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408709|RuCor_link_id=408708|Shift=5019
+9	колхозница	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=950|RuCor_group_id=408710|RuCor_link_id=408706|Shift=5023|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=5033
+11	-	_	_	_	_	_	_	_	Shift=5035
+12	ишь	_	_	_	_	_	_	_	Shift=5037
+13	какой	_	_	_	_	_	_	_	Shift=5041
+14	ты	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408711|RuCor_link_id=408708|Shift=5047
+15	управистый	_	_	_	_	_	_	_	Shift=5050|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=5060
+17	с	_	_	_	_	_	_	_	Shift=5062
+18	тобой	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408712|RuCor_link_id=408711|Shift=5064
+19	и	_	_	_	_	_	_	_	Shift=5070
+20	свечки	_	_	_	_	_	_	_	Shift=5072
+21	не	_	_	_	_	_	_	_	Shift=5079
+22	нужно	_	_	_	_	_	_	_	Shift=5082|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=5087
+
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p29
+# par_text = Но тут как раз проводница вставила свечу в вагонный фонарь; робкий, качающийся свет и глубокие, вздрагивающие тени заходили по стенам и полкам вагона. И все пассажиры, даже тот, наглухо застегнутый, что недвижимо лежал на своей полке, с любопытством и внимательно оглядели парня. Всем понравился он, красивый, приветливый, с чистым и каким-то очень светлым лицом, с большими спокойными глазами и ровными, приятно выгнутыми бровями, между которыми залегла неожиданная глубокая морщина, несколько омрачавшая это приветливое, ясное лицо. Парень вынул кисет, ловкими пальцами быстро свернул самокрутку, насыпал махорки с ладони, предложил закурить верхнему пассажиру, на что тот ответил отказом: "Не приучился к этому и другим отсоветовал бы..." И все в нем привлекало: и неназойливая словоохотливость, и веселый казачий говорок, и то, как он делал все - быстро, аккуратно, точно, - ни крошки табаку не просыпал он, закуривая...
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p29-s1
+# text = Но тут как раз проводница вставила свечу в вагонный фонарь.
+1	Но	_	_	_	_	_	_	_	Shift=5092
+2	тут	_	_	_	_	_	_	_	Shift=5095
+3	как	_	_	_	_	_	_	_	Shift=5099
+4	раз	_	_	_	_	_	_	_	Shift=5103
+5	проводница	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=957|RuCor_group_id=408713|RuCor_link_id=408701|Shift=5107
+6	вставила	_	_	_	_	_	_	_	Shift=5118
+7	свечу	_	_	_	_	_	_	_	Shift=5127
+8	в	_	_	_	_	_	_	_	Shift=5133
+9	вагонный	_	_	_	_	_	_	_	Shift=5135
+10	фонарь	_	_	_	_	_	_	_	Shift=5144|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=5150
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p29-s2
+# text = робкий, качающийся свет и глубокие, вздрагивающие тени заходили по стенам и полкам вагона.
+1	робкий	_	_	_	_	_	_	_	Shift=5152|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=5158
+3	качающийся	_	_	_	_	_	_	_	Shift=5160
+4	свет	_	_	_	_	_	_	_	Shift=5171
+5	и	_	_	_	_	_	_	_	Shift=5176
+6	глубокие	_	_	_	_	_	_	_	Shift=5178|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=5186
+8	вздрагивающие	_	_	_	_	_	_	_	Shift=5188
+9	тени	_	_	_	_	_	_	_	Shift=5202
+10	заходили	_	_	_	_	_	_	_	Shift=5207
+11	по	_	_	_	_	_	_	_	Shift=5216
+12	стенам	_	_	_	_	_	_	_	Shift=5219
+13	и	_	_	_	_	_	_	_	Shift=5226
+14	полкам	_	_	_	_	_	_	_	Shift=5228
+15	вагона	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=962|RuCor_group_id=408774|RuCor_link_id=408647|Shift=5235|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=5241
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p29-s3
+# text = И все пассажиры, даже тот, наглухо застегнутый, что недвижимо лежал на своей полке, с любопытством и внимательно оглядели парня.
+1	И	_	_	_	_	_	_	_	Shift=5243
+2	все	_	_	_	_	_	_	_	Shift=5245
+3	пассажиры	_	_	_	_	_	_	_	Shift=5249|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=5258
+5	даже	_	_	_	_	_	_	_	Shift=5260
+6	тот	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=dem|RuCor_attrs_type=coref|RuCor_chain_id=951|RuCor_group_id=408714|RuCor_link_id=408703|Shift=5265|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=5268
+8	наглухо	_	_	_	_	_	_	_	RuCor_chain_id=951|RuCor_group_id=408715|Shift=5270
+9	застегнутый	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=appo|RuCor_attrs_type=coref|RuCor_chain_id=951|RuCor_group_id=408715|RuCor_link_id=408714|Shift=5278|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=5289
+11	что	_	_	_	_	_	_	_	Shift=5291
+12	недвижимо	_	_	_	_	_	_	_	Shift=5295
+13	лежал	_	_	_	_	_	_	_	Shift=5305
+14	на	_	_	_	_	_	_	_	Shift=5311
+15	своей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=951|RuCor_group_id=408716|RuCor_link_id=408715|Shift=5314
+16	полке	_	_	_	_	_	_	_	Shift=5320|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=5325
+18	с	_	_	_	_	_	_	_	Shift=5327
+19	любопытством	_	_	_	_	_	_	_	Shift=5329
+20	и	_	_	_	_	_	_	_	Shift=5342
+21	внимательно	_	_	_	_	_	_	_	Shift=5344
+22	оглядели	_	_	_	_	_	_	_	Shift=5356
+23	парня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408717|RuCor_link_id=408709|Shift=5365|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=5370
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p29-s4
+# text = Всем понравился он, красивый, приветливый, с чистым и каким-то очень светлым лицом, с большими спокойными глазами и ровными, приятно выгнутыми бровями, между которыми залегла неожиданная глубокая морщина, несколько омрачавшая это приветливое, ясное лицо.
+1	Всем	_	_	_	_	_	_	_	Shift=5372
+2	понравился	_	_	_	_	_	_	_	Shift=5377
+3	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408721|RuCor_link_id=408717|Shift=5388|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=5390
+5	красивый	_	_	_	_	_	_	_	Shift=5392|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=5400
+7	приветливый	_	_	_	_	_	_	_	Shift=5402|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=5413
+9	с	_	_	_	_	_	_	_	Shift=5415
+10	чистым	_	_	_	_	_	_	_	Shift=5417
+11	и	_	_	_	_	_	_	_	Shift=5424
+12	каким-то	_	_	_	_	_	_	_	Shift=5426
+13	очень	_	_	_	_	_	_	_	Shift=5435
+14	светлым	_	_	_	_	_	_	_	Shift=5441
+15	лицом	_	_	_	_	_	_	_	Shift=5449|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=5454
+17	с	_	_	_	_	_	_	_	Shift=5456
+18	большими	_	_	_	_	_	_	_	Shift=5458
+19	спокойными	_	_	_	_	_	_	_	Shift=5467
+20	глазами	_	_	_	_	_	_	_	Shift=5478
+21	и	_	_	_	_	_	_	_	Shift=5486
+22	ровными	_	_	_	_	_	_	_	RuCor_chain_id=947|RuCor_group_id=408722|Shift=5488|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	RuCor_chain_id=947|RuCor_group_id=408722|Shift=5495
+24	приятно	_	_	_	_	_	_	_	RuCor_chain_id=947|RuCor_group_id=408722|Shift=5497
+25	выгнутыми	_	_	_	_	_	_	_	RuCor_chain_id=947|RuCor_group_id=408722|Shift=5505
+26	бровями	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=947|RuCor_group_id=408722|RuCor_link_id=0|Shift=5515|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=5522
+28	между	_	_	_	_	_	_	_	Shift=5524
+29	которыми	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=947|RuCor_group_id=408723|RuCor_link_id=408722|Shift=5530
+30	залегла	_	_	_	_	_	_	_	Shift=5539
+31	неожиданная	_	_	_	_	_	_	_	Shift=5547
+32	глубокая	_	_	_	_	_	_	_	Shift=5559
+33	морщина	_	_	_	_	_	_	_	Shift=5568|SpaceAfter=No
+34	,	_	_	_	_	_	_	_	Shift=5575
+35	несколько	_	_	_	_	_	_	_	Shift=5577
+36	омрачавшая	_	_	_	_	_	_	_	Shift=5587
+37	это	_	_	_	_	_	_	_	Shift=5598
+38	приветливое	_	_	_	_	_	_	_	Shift=5602|SpaceAfter=No
+39	,	_	_	_	_	_	_	_	Shift=5613
+40	ясное	_	_	_	_	_	_	_	Shift=5615
+41	лицо	_	_	_	_	_	_	_	Shift=5621|SpaceAfter=No
+42	.	_	_	_	_	_	_	_	Shift=5625
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p29-s5
+# text = Парень вынул кисет, ловкими пальцами быстро свернул самокрутку, насыпал махорки с ладони, предложил закурить верхнему пассажиру, на что тот ответил отказом: " Не приучился к этому и другим отсоветовал бы...
+1	Парень	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408724|RuCor_link_id=408721|Shift=5627
+2	вынул	_	_	_	_	_	_	_	Shift=5634
+3	кисет	_	_	_	_	_	_	_	Shift=5640|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=5645
+5	ловкими	_	_	_	_	_	_	_	Shift=5647
+6	пальцами	_	_	_	_	_	_	_	Shift=5655
+7	быстро	_	_	_	_	_	_	_	Shift=5664
+8	свернул	_	_	_	_	_	_	_	Shift=5671
+9	самокрутку	_	_	_	_	_	_	_	Shift=5679|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=5689
+11	насыпал	_	_	_	_	_	_	_	Shift=5691
+12	махорки	_	_	_	_	_	_	_	Shift=5699
+13	с	_	_	_	_	_	_	_	Shift=5707
+14	ладони	_	_	_	_	_	_	_	Shift=5709|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=5715
+16	предложил	_	_	_	_	_	_	_	Shift=5717
+17	закурить	_	_	_	_	_	_	_	Shift=5727
+18	верхнему	_	_	_	_	_	_	_	RuCor_chain_id=951|RuCor_group_id=408725|Shift=5736
+19	пассажиру	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=951|RuCor_group_id=408725|RuCor_link_id=408714|Shift=5745|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=5754
+21	на	_	_	_	_	_	_	_	Shift=5756
+22	что	_	_	_	_	_	_	_	Shift=5759
+23	тот	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=dem|RuCor_attrs_type=coref|RuCor_chain_id=951|RuCor_group_id=408726|RuCor_link_id=408725|Shift=5763
+24	ответил	_	_	_	_	_	_	_	Shift=5767
+25	отказом	_	_	_	_	_	_	_	Shift=5775|SpaceAfter=No
+26	:	_	_	_	_	_	_	_	Shift=5782
+27	``	_	_	_	_	_	_	_	QuotationStart="|Shift=5784
+28	Не	_	_	_	_	_	_	_	Shift=5785
+29	приучился	_	_	_	_	_	_	_	Shift=5788
+30	к	_	_	_	_	_	_	_	Shift=5798
+31	этому	_	_	_	_	_	_	_	Shift=5800
+32	и	_	_	_	_	_	_	_	Shift=5806
+33	другим	_	_	_	_	_	_	_	Shift=5808
+34	отсоветовал	_	_	_	_	_	_	_	Shift=5815
+35	бы	_	_	_	_	_	_	_	Shift=5827|SpaceAfter=No
+36	...	_	_	_	_	_	_	_	Shift=5829
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p29-s6
+# text = " И все в нем привлекало: и неназойливая словоохотливость, и веселый казачий говорок, и то, как он делал все - быстро, аккуратно, точно, - ни крошки табаку не просыпал он, закуривая...
+1	''	_	_	_	_	_	_	_	QuotationEnd="|Shift=5832
+2	И	_	_	_	_	_	_	_	Shift=5834
+3	все	_	_	_	_	_	_	_	Shift=5836
+4	в	_	_	_	_	_	_	_	Shift=5840
+5	нем	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408727|RuCor_link_id=408724|Shift=5842
+6	привлекало	_	_	_	_	_	_	_	Shift=5846|SpaceAfter=No
+7	:	_	_	_	_	_	_	_	Shift=5856
+8	и	_	_	_	_	_	_	_	Shift=5858
+9	неназойливая	_	_	_	_	_	_	_	Shift=5860
+10	словоохотливость	_	_	_	_	_	_	_	Shift=5873|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=5889
+12	и	_	_	_	_	_	_	_	Shift=5891
+13	веселый	_	_	_	_	_	_	_	Shift=5893
+14	казачий	_	_	_	_	_	_	_	Shift=5901
+15	говорок	_	_	_	_	_	_	_	Shift=5909|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=5916
+17	и	_	_	_	_	_	_	_	Shift=5918
+18	то	_	_	_	_	_	_	_	Shift=5920|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=5922
+20	как	_	_	_	_	_	_	_	Shift=5924
+21	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408728|RuCor_link_id=408727|Shift=5928
+22	делал	_	_	_	_	_	_	_	Shift=5931
+23	все	_	_	_	_	_	_	_	Shift=5937
+24	-	_	_	_	_	_	_	_	Shift=5941
+25	быстро	_	_	_	_	_	_	_	Shift=5943|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	Shift=5949
+27	аккуратно	_	_	_	_	_	_	_	Shift=5951|SpaceAfter=No
+28	,	_	_	_	_	_	_	_	Shift=5960
+29	точно	_	_	_	_	_	_	_	Shift=5962|SpaceAfter=No
+30	,	_	_	_	_	_	_	_	Shift=5967
+31	-	_	_	_	_	_	_	_	Shift=5969
+32	ни	_	_	_	_	_	_	_	Shift=5971
+33	крошки	_	_	_	_	_	_	_	Shift=5974
+34	табаку	_	_	_	_	_	_	_	Shift=5981
+35	не	_	_	_	_	_	_	_	Shift=5988
+36	просыпал	_	_	_	_	_	_	_	Shift=5991
+37	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408729|RuCor_link_id=408728|Shift=6000|SpaceAfter=No
+38	,	_	_	_	_	_	_	_	Shift=6002
+39	закуривая	_	_	_	_	_	_	_	Shift=6004|SpaceAfter=No
+40	...	_	_	_	_	_	_	_	Shift=6013
+
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p30
+# par_text = Поезд тем временем остановился у полустанка, погудел, громыхнул буферами и сцепками, двинулся дальше.
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p30-s1
+# text = Поезд тем временем остановился у полустанка, погудел, громыхнул буферами и сцепками, двинулся дальше.
+1	Поезд	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=961|RuCor_group_id=408608|RuCor_link_id=408607|Shift=6020
+2	тем	_	_	_	_	_	_	_	Shift=6026
+3	временем	_	_	_	_	_	_	_	Shift=6030
+4	остановился	_	_	_	_	_	_	_	Shift=6039
+5	у	_	_	_	_	_	_	_	Shift=6051
+6	полустанка	_	_	_	_	_	_	_	Shift=6053|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=6063
+8	погудел	_	_	_	_	_	_	_	Shift=6065|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=6072
+10	громыхнул	_	_	_	_	_	_	_	Shift=6074
+11	буферами	_	_	_	_	_	_	_	Shift=6084
+12	и	_	_	_	_	_	_	_	Shift=6093
+13	сцепками	_	_	_	_	_	_	_	Shift=6095|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=6103
+15	двинулся	_	_	_	_	_	_	_	Shift=6105
+16	дальше	_	_	_	_	_	_	_	Shift=6114|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=6120
+
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p31
+# par_text = - Кормильцы родимые, будьте достойны вашего сожаления, не откажите в милостыньке вашей, кто сколько может, несчастному, горькому инвалиду, - раздался сиплый голос в вагоне.
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p31-s1
+# text = - Кормильцы родимые, будьте достойны вашего сожаления, не откажите в милостыньке вашей, кто сколько может, несчастному, горькому инвалиду, - раздался сиплый голос в вагоне.
+1	-	_	_	_	_	_	_	_	Shift=6125
+2	Кормильцы	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=946|RuCor_group_id=408730|RuCor_link_id=0|Shift=6127
+3	родимые	_	_	_	_	_	_	_	RuCor_chain_id=946|RuCor_group_id=408730|Shift=6137|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=6144
+5	будьте	_	_	_	_	_	_	_	Shift=6146
+6	достойны	_	_	_	_	_	_	_	Shift=6153
+7	вашего	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=946|RuCor_group_id=408731|RuCor_link_id=408730|Shift=6162
+8	сожаления	_	_	_	_	_	_	_	Shift=6169|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=6178
+10	не	_	_	_	_	_	_	_	Shift=6180
+11	откажите	_	_	_	_	_	_	_	Shift=6183
+12	в	_	_	_	_	_	_	_	Shift=6192
+13	милостыньке	_	_	_	_	_	_	_	Shift=6194
+14	вашей	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=946|RuCor_group_id=408732|RuCor_link_id=408731|Shift=6206|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=6211
+16	кто	_	_	_	_	_	_	_	Shift=6213
+17	сколько	_	_	_	_	_	_	_	Shift=6217
+18	может	_	_	_	_	_	_	_	Shift=6225|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=6230
+20	несчастному	_	_	_	_	_	_	_	Shift=6232|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=6243
+22	горькому	_	_	_	_	_	_	_	Shift=6245
+23	инвалиду	_	_	_	_	_	_	_	Shift=6254|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=6262
+25	-	_	_	_	_	_	_	_	Shift=6264
+26	раздался	_	_	_	_	_	_	_	Shift=6266
+27	сиплый	_	_	_	_	_	_	_	Shift=6275
+28	голос	_	_	_	_	_	_	_	Shift=6282
+29	в	_	_	_	_	_	_	_	Shift=6288
+30	вагоне	_	_	_	_	_	_	_	Shift=6290|SpaceAfter=No
+31	.	_	_	_	_	_	_	_	Shift=6296
+
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p32
+# par_text = По проходу двигался грязный, согнутый человек в лохмотьях. Он боком пробирался между пассажирами, кланялся налево и направо.
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p32-s1
+# text = По проходу двигался грязный, согнутый человек в лохмотьях.
+1	По	_	_	_	_	_	_	_	Shift=6301
+2	проходу	_	_	_	_	_	_	_	Shift=6304
+3	двигался	_	_	_	_	_	_	_	Shift=6312
+4	грязный	_	_	_	_	_	_	_	RuCor_chain_id=945|RuCor_group_id=408733|Shift=6321|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	RuCor_chain_id=945|RuCor_group_id=408733|Shift=6328
+6	согнутый	_	_	_	_	_	_	_	RuCor_chain_id=945|RuCor_group_id=408733|Shift=6330
+7	человек	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=945|RuCor_group_id=408733|RuCor_link_id=0|Shift=6339
+8	в	_	_	_	_	_	_	_	RuCor_chain_id=945|RuCor_group_id=408733|Shift=6347
+9	лохмотьях	_	_	_	_	_	_	_	RuCor_chain_id=945|RuCor_group_id=408733|Shift=6349|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=6358
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p32-s2
+# text = Он боком пробирался между пассажирами, кланялся налево и направо.
+1	Он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=945|RuCor_group_id=408734|RuCor_link_id=408733|Shift=6360
+2	боком	_	_	_	_	_	_	_	Shift=6363
+3	пробирался	_	_	_	_	_	_	_	Shift=6369
+4	между	_	_	_	_	_	_	_	Shift=6380
+5	пассажирами	_	_	_	_	_	_	_	Shift=6386|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=6397
+7	кланялся	_	_	_	_	_	_	_	Shift=6399
+8	налево	_	_	_	_	_	_	_	Shift=6408
+9	и	_	_	_	_	_	_	_	Shift=6415
+10	направо	_	_	_	_	_	_	_	Shift=6417|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=6424
+
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p33
+# par_text = - Подайте, сколько можете вашей милостью, не обидьте пострадавшего, войдите в мое горькое положение, дорогие граждане, кормильцы наши...
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p33-s1
+# text = - Подайте, сколько можете вашей милостью, не обидьте пострадавшего, войдите в мое горькое положение, дорогие граждане, кормильцы наши...
+1	-	_	_	_	_	_	_	_	Shift=6429
+2	Подайте	_	_	_	_	_	_	_	Shift=6431|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=6438
+4	сколько	_	_	_	_	_	_	_	Shift=6440
+5	можете	_	_	_	_	_	_	_	Shift=6448
+6	вашей	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=944|RuCor_group_id=408735|RuCor_link_id=0|Shift=6455
+7	милостью	_	_	_	_	_	_	_	Shift=6461|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=6469
+9	не	_	_	_	_	_	_	_	Shift=6471
+10	обидьте	_	_	_	_	_	_	_	Shift=6474
+11	пострадавшего	_	_	_	_	_	_	_	Shift=6482|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=6495
+13	войдите	_	_	_	_	_	_	_	Shift=6497
+14	в	_	_	_	_	_	_	_	Shift=6505
+15	мое	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=945|RuCor_group_id=408736|RuCor_link_id=408734|Shift=6507
+16	горькое	_	_	_	_	_	_	_	Shift=6511
+17	положение	_	_	_	_	_	_	_	Shift=6519|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=6528
+19	дорогие	_	_	_	_	_	_	_	Shift=6530
+20	граждане	_	_	_	_	_	_	_	Shift=6538|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=6546
+22	кормильцы	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=944|RuCor_group_id=408737|RuCor_link_id=408735|Shift=6548
+23	наши	_	_	_	_	_	_	_	RuCor_chain_id=944|RuCor_group_id=408737|Shift=6558|SpaceAfter=No
+24	...	_	_	_	_	_	_	_	Shift=6562
+
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p34
+# par_text = Ему протягивали скомканные рублевки, трешки, куски хлеба, которые он быстро совал в замусоленную котомку дрожащей, скрюченной рукой. Все с болезненным сочувствием глядели на это страшное, оборванное и смрадное существо, и женщины скорбно вздыхали, а нищий ковылял по проходу, кланяясь, припадая на одну ногу и бубня себе под нос свою заученную унылую мольбу. И вдруг веселый парень, прислушавшись, с внезапно изменившимся лицом громко сказал:
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p34-s1
+# text = Ему протягивали скомканные рублевки, трешки, куски хлеба, которые он быстро совал в замусоленную котомку дрожащей, скрюченной рукой.
+1	Ему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=945|RuCor_group_id=408738|RuCor_link_id=408736|Shift=6569
+2	протягивали	_	_	_	_	_	_	_	Shift=6573
+3	скомканные	_	_	_	_	_	_	_	RuCor_chain_id=943|RuCor_group_id=408739|Shift=6585
+4	рублевки	_	_	_	_	_	_	_	RuCor_chain_id=943|RuCor_group_id=408739|Shift=6596|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	RuCor_chain_id=943|RuCor_group_id=408739|Shift=6604
+6	трешки	_	_	_	_	_	_	_	RuCor_chain_id=943|RuCor_group_id=408739|Shift=6606|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	RuCor_chain_id=943|RuCor_group_id=408739|Shift=6612
+8	куски	_	_	_	_	_	_	_	RuCor_chain_id=943|RuCor_group_id=408739|Shift=6614
+9	хлеба	_	_	_	_	_	_	_	RuCor_chain_id=943|RuCor_group_id=408739|Shift=6620|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=6625
+11	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=943|RuCor_group_id=408740|RuCor_link_id=408739|Shift=6627
+12	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=945|RuCor_group_id=408741|RuCor_link_id=408738|Shift=6635
+13	быстро	_	_	_	_	_	_	_	Shift=6638
+14	совал	_	_	_	_	_	_	_	Shift=6645
+15	в	_	_	_	_	_	_	_	Shift=6651
+16	замусоленную	_	_	_	_	_	_	_	Shift=6653
+17	котомку	_	_	_	_	_	_	_	Shift=6666
+18	дрожащей	_	_	_	_	_	_	_	Shift=6674|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=6682
+20	скрюченной	_	_	_	_	_	_	_	Shift=6684
+21	рукой	_	_	_	_	_	_	_	Shift=6695|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=6700
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p34-s2
+# text = Все с болезненным сочувствием глядели на это страшное, оборванное и смрадное существо, и женщины скорбно вздыхали, а нищий ковылял по проходу, кланяясь, припадая на одну ногу и бубня себе под нос свою заученную унылую мольбу.
+1	Все	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=942|RuCor_group_id=408747|RuCor_link_id=0|Shift=6702
+2	с	_	_	_	_	_	_	_	Shift=6706
+3	болезненным	_	_	_	_	_	_	_	Shift=6708
+4	сочувствием	_	_	_	_	_	_	_	Shift=6720
+5	глядели	_	_	_	_	_	_	_	Shift=6732
+6	на	_	_	_	_	_	_	_	Shift=6740
+7	это	_	_	_	_	_	_	_	RuCor_chain_id=945|RuCor_group_id=408742|Shift=6743
+8	страшное	_	_	_	_	_	_	_	RuCor_chain_id=945|RuCor_group_id=408742|Shift=6747|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	RuCor_chain_id=945|RuCor_group_id=408742|Shift=6755
+10	оборванное	_	_	_	_	_	_	_	RuCor_chain_id=945|RuCor_group_id=408742|Shift=6757
+11	и	_	_	_	_	_	_	_	RuCor_chain_id=945|RuCor_group_id=408742|Shift=6768
+12	смрадное	_	_	_	_	_	_	_	RuCor_chain_id=945|RuCor_group_id=408742|Shift=6770
+13	существо	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=945|RuCor_group_id=408742|RuCor_link_id=408741|Shift=6779|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=6787
+15	и	_	_	_	_	_	_	_	Shift=6789
+16	женщины	_	_	_	_	_	_	_	Shift=6791
+17	скорбно	_	_	_	_	_	_	_	Shift=6799
+18	вздыхали	_	_	_	_	_	_	_	Shift=6807|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=6815
+20	а	_	_	_	_	_	_	_	Shift=6817
+21	нищий	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=945|RuCor_group_id=408743|RuCor_link_id=408742|Shift=6819
+22	ковылял	_	_	_	_	_	_	_	Shift=6825
+23	по	_	_	_	_	_	_	_	Shift=6833
+24	проходу	_	_	_	_	_	_	_	Shift=6836|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=6843
+26	кланяясь	_	_	_	_	_	_	_	Shift=6845|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=6853
+28	припадая	_	_	_	_	_	_	_	Shift=6855
+29	на	_	_	_	_	_	_	_	Shift=6864
+30	одну	_	_	_	_	_	_	_	Shift=6867
+31	ногу	_	_	_	_	_	_	_	Shift=6872
+32	и	_	_	_	_	_	_	_	Shift=6877
+33	бубня	_	_	_	_	_	_	_	Shift=6879
+34	себе	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=945|RuCor_group_id=408744|RuCor_link_id=408743|Shift=6885
+35	под	_	_	_	_	_	_	_	Shift=6890
+36	нос	_	_	_	_	_	_	_	Shift=6894
+37	свою	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=945|RuCor_group_id=408745|RuCor_link_id=408744|Shift=6898
+38	заученную	_	_	_	_	_	_	_	Shift=6903
+39	унылую	_	_	_	_	_	_	_	Shift=6913
+40	мольбу	_	_	_	_	_	_	_	Shift=6920|SpaceAfter=No
+41	.	_	_	_	_	_	_	_	Shift=6926
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p34-s3
+# text = И вдруг веселый парень, прислушавшись, с внезапно изменившимся лицом громко сказал:
+1	И	_	_	_	_	_	_	_	Shift=6928
+2	вдруг	_	_	_	_	_	_	_	Shift=6930
+3	веселый	_	_	_	_	_	_	_	RuCor_chain_id=958|RuCor_group_id=408748|Shift=6936
+4	парень	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408748|RuCor_link_id=408712|Shift=6944|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=6950
+6	прислушавшись	_	_	_	_	_	_	_	Shift=6952|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=6965
+8	с	_	_	_	_	_	_	_	Shift=6967
+9	внезапно	_	_	_	_	_	_	_	Shift=6969
+10	изменившимся	_	_	_	_	_	_	_	Shift=6978
+11	лицом	_	_	_	_	_	_	_	Shift=6991
+12	громко	_	_	_	_	_	_	_	Shift=6997
+13	сказал	_	_	_	_	_	_	_	Shift=7004|SpaceAfter=No
+14	:	_	_	_	_	_	_	_	Shift=7010
+
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p35
+# par_text = - И не совестно вам, гражданин, эдак по вагонам попрошайничать, толкаться, жалким своим словом людей проводить? Слушать вас - так с души воротит. Некрасивое это дело.
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p35-s1
+# text = - И не совестно вам, гражданин, эдак по вагонам попрошайничать, толкаться, жалким своим словом людей проводить?
+1	-	_	_	_	_	_	_	_	Shift=7015
+2	И	_	_	_	_	_	_	_	Shift=7017
+3	не	_	_	_	_	_	_	_	Shift=7019
+4	совестно	_	_	_	_	_	_	_	Shift=7022
+5	вам	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=945|RuCor_group_id=408749|RuCor_link_id=408745|Shift=7031|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=7034
+7	гражданин	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=appo|RuCor_attrs_type=coref|RuCor_chain_id=945|RuCor_group_id=408750|RuCor_link_id=408749|Shift=7036|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=7045
+9	эдак	_	_	_	_	_	_	_	Shift=7047
+10	по	_	_	_	_	_	_	_	Shift=7052
+11	вагонам	_	_	_	_	_	_	_	Shift=7055
+12	попрошайничать	_	_	_	_	_	_	_	Shift=7063|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=7077
+14	толкаться	_	_	_	_	_	_	_	Shift=7079|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=7088
+16	жалким	_	_	_	_	_	_	_	Shift=7090
+17	своим	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=945|RuCor_group_id=408751|RuCor_link_id=408750|Shift=7097
+18	словом	_	_	_	_	_	_	_	Shift=7103
+19	людей	_	_	_	_	_	_	_	Shift=7110
+20	проводить	_	_	_	_	_	_	_	Shift=7116|SpaceAfter=No
+21	?	_	_	_	_	_	_	_	Shift=7125
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p35-s2
+# text = Слушать вас - так с души воротит.
+1	Слушать	_	_	_	_	_	_	_	Shift=7127
+2	вас	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=945|RuCor_group_id=408752|RuCor_link_id=408751|Shift=7135
+3	-	_	_	_	_	_	_	_	Shift=7139
+4	так	_	_	_	_	_	_	_	Shift=7141
+5	с	_	_	_	_	_	_	_	Shift=7145
+6	души	_	_	_	_	_	_	_	Shift=7147
+7	воротит	_	_	_	_	_	_	_	Shift=7152|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=7159
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p35-s3
+# text = Некрасивое это дело.
+1	Некрасивое	_	_	_	_	_	_	_	Shift=7161
+2	это	_	_	_	_	_	_	_	Shift=7172
+3	дело	_	_	_	_	_	_	_	Shift=7176|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=7180
+
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p36
+# par_text = Все неприязненно посмотрели на него. Неожиданной показалась эта жестокая выходка со стороны такого общительного и приветливого человека.
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p36-s1
+# text = Все неприязненно посмотрели на него.
+1	Все	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=942|RuCor_group_id=408753|RuCor_link_id=408747|Shift=7185
+2	неприязненно	_	_	_	_	_	_	_	Shift=7189
+3	посмотрели	_	_	_	_	_	_	_	Shift=7202
+4	на	_	_	_	_	_	_	_	Shift=7213
+5	него	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408754|RuCor_link_id=408748|Shift=7216|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=7220
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p36-s2
+# text = Неожиданной показалась эта жестокая выходка со стороны такого общительного и приветливого человека.
+1	Неожиданной	_	_	_	_	_	_	_	Shift=7222
+2	показалась	_	_	_	_	_	_	_	Shift=7234
+3	эта	_	_	_	_	_	_	_	Shift=7245
+4	жестокая	_	_	_	_	_	_	_	Shift=7249
+5	выходка	_	_	_	_	_	_	_	Shift=7258
+6	со	_	_	_	_	_	_	_	Shift=7266
+7	стороны	_	_	_	_	_	_	_	Shift=7269
+8	такого	_	_	_	_	_	_	_	Shift=7277
+9	общительного	_	_	_	_	_	_	_	Shift=7284
+10	и	_	_	_	_	_	_	_	Shift=7297
+11	приветливого	_	_	_	_	_	_	_	Shift=7299
+12	человека	_	_	_	_	_	_	_	Shift=7312|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=7320
+
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p37
+# par_text = - А тебе что? - визгливо закричал нищий. - Шут окаянный! У тебя никто не просит. Никто не неволит. Что ты к больному человеку привязываешься? Я с фронта инвалид. За тебя, толсторожего, кровь на фронте оставил. Ты что, не видишь, что ли, выслепило тебя?
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p37-s1
+# text = - А тебе что?
+1	-	_	_	_	_	_	_	_	Shift=7325
+2	А	_	_	_	_	_	_	_	Shift=7327
+3	тебе	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408755|RuCor_link_id=408754|Shift=7329
+4	что	_	_	_	_	_	_	_	Shift=7334|SpaceAfter=No
+5	?	_	_	_	_	_	_	_	Shift=7337
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p37-s2
+# text = - визгливо закричал нищий.
+1	-	_	_	_	_	_	_	_	Shift=7339
+2	визгливо	_	_	_	_	_	_	_	Shift=7341
+3	закричал	_	_	_	_	_	_	_	Shift=7350
+4	нищий	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=945|RuCor_group_id=408756|RuCor_link_id=408749|Shift=7359|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=7364
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p37-s3
+# text = - Шут окаянный!
+1	-	_	_	_	_	_	_	_	Shift=7366
+2	Шут	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408758|RuCor_link_id=408755|Shift=7368
+3	окаянный	_	_	_	_	_	_	_	RuCor_chain_id=958|RuCor_group_id=408758|Shift=7372|SpaceAfter=No
+4	!	_	_	_	_	_	_	_	Shift=7380
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p37-s4
+# text = У тебя никто не просит.
+1	У	_	_	_	_	_	_	_	Shift=7382
+2	тебя	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408757|RuCor_link_id=408755|Shift=7384
+3	никто	_	_	_	_	_	_	_	Shift=7389
+4	не	_	_	_	_	_	_	_	Shift=7395
+5	просит	_	_	_	_	_	_	_	Shift=7398|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=7404
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p37-s5
+# text = Никто не неволит.
+1	Никто	_	_	_	_	_	_	_	Shift=7406
+2	не	_	_	_	_	_	_	_	Shift=7412
+3	неволит	_	_	_	_	_	_	_	Shift=7415|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=7422
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p37-s6
+# text = Что ты к больному человеку привязываешься?
+1	Что	_	_	_	_	_	_	_	Shift=7424
+2	ты	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408759|RuCor_link_id=408757|Shift=7428
+3	к	_	_	_	_	_	_	_	Shift=7431
+4	больному	_	_	_	_	_	_	_	Shift=7433
+5	человеку	_	_	_	_	_	_	_	Shift=7442
+6	привязываешься	_	_	_	_	_	_	_	Shift=7451|SpaceAfter=No
+7	?	_	_	_	_	_	_	_	Shift=7465
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p37-s7
+# text = Я с фронта инвалид.
+1	Я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=945|RuCor_group_id=408760|RuCor_link_id=408756|Shift=7467
+2	с	_	_	_	_	_	_	_	Shift=7469
+3	фронта	_	_	_	_	_	_	_	Shift=7471
+4	инвалид	_	_	_	_	_	_	_	Shift=7478|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=7485
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p37-s8
+# text = За тебя, толсторожего, кровь на фронте оставил.
+1	За	_	_	_	_	_	_	_	Shift=7487
+2	тебя	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408761|RuCor_link_id=408759|Shift=7490|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=7494
+4	толсторожего	_	_	_	_	_	_	_	Shift=7496|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=7508
+6	кровь	_	_	_	_	_	_	_	Shift=7510
+7	на	_	_	_	_	_	_	_	Shift=7516
+8	фронте	_	_	_	_	_	_	_	Shift=7519
+9	оставил	_	_	_	_	_	_	_	Shift=7526|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=7533
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p37-s9
+# text = Ты что, не видишь, что ли, выслепило тебя?
+1	Ты	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408762|RuCor_link_id=408761|Shift=7535
+2	что	_	_	_	_	_	_	_	Shift=7538|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=7541
+4	не	_	_	_	_	_	_	_	Shift=7543
+5	видишь	_	_	_	_	_	_	_	Shift=7546|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=7552
+7	что	_	_	_	_	_	_	_	Shift=7554
+8	ли	_	_	_	_	_	_	_	Shift=7558|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=7560
+10	выслепило	_	_	_	_	_	_	_	Shift=7562
+11	тебя	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408763|RuCor_link_id=408762|Shift=7572|SpaceAfter=No
+12	?	_	_	_	_	_	_	_	Shift=7576
+
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p38
+# par_text = Все поглядели на парня. И тогда очень просто и негромко он сказал:
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p38-s1
+# text = Все поглядели на парня.
+1	Все	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=942|RuCor_group_id=408764|RuCor_link_id=408753|Shift=7581
+2	поглядели	_	_	_	_	_	_	_	Shift=7585
+3	на	_	_	_	_	_	_	_	Shift=7595
+4	парня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408746|RuCor_link_id=408763|Shift=7598|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=7603
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p38-s2
+# text = И тогда очень просто и негромко он сказал:
+1	И	_	_	_	_	_	_	_	Shift=7605
+2	тогда	_	_	_	_	_	_	_	Shift=7607
+3	очень	_	_	_	_	_	_	_	Shift=7613
+4	просто	_	_	_	_	_	_	_	Shift=7619
+5	и	_	_	_	_	_	_	_	Shift=7626
+6	негромко	_	_	_	_	_	_	_	Shift=7628
+7	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408765|RuCor_link_id=408763|Shift=7637
+8	сказал	_	_	_	_	_	_	_	Shift=7640|SpaceAfter=No
+9	:	_	_	_	_	_	_	_	Shift=7646
+
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p39
+# par_text = - Выслепить-то меня давно выслепило... Только по миру таскаться да у людей клянчить я вовек не пойду.
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p39-s1
+# text = - Выслепить-то меня давно выслепило...
+1	-	_	_	_	_	_	_	_	Shift=7651
+2	Выслепить-то	_	_	_	_	_	_	_	Shift=7653
+3	меня	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408766|RuCor_link_id=408765|Shift=7666
+4	давно	_	_	_	_	_	_	_	Shift=7671
+5	выслепило	_	_	_	_	_	_	_	Shift=7677|SpaceAfter=No
+6	...	_	_	_	_	_	_	_	Shift=7686
+
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p39-s2
+# text = Только по миру таскаться да у людей клянчить я вовек не пойду.
+1	Только	_	_	_	_	_	_	_	Shift=7690
+2	по	_	_	_	_	_	_	_	Shift=7697
+3	миру	_	_	_	_	_	_	_	Shift=7700
+4	таскаться	_	_	_	_	_	_	_	Shift=7705
+5	да	_	_	_	_	_	_	_	Shift=7715
+6	у	_	_	_	_	_	_	_	Shift=7718
+7	людей	_	_	_	_	_	_	_	Shift=7720
+8	клянчить	_	_	_	_	_	_	_	Shift=7726
+9	я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=958|RuCor_group_id=408767|RuCor_link_id=408766|Shift=7735
+10	вовек	_	_	_	_	_	_	_	Shift=7737
+11	не	_	_	_	_	_	_	_	Shift=7743
+12	пойду	_	_	_	_	_	_	_	Shift=7746|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=7751
+
+# newpar id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p40
+# par_text = Только тут все увидели, как неподвижны и безучастны на этом молодом, ясном, полном жизни лице блеклосерые, остановившиеся навсегда глаза.
+# sent_id = ca5d92cc-6dec-485e-8c69-7525873fd1db-p40-s1
+# text = Только тут все увидели, как неподвижны и безучастны на этом молодом, ясном, полном жизни лице блеклосерые, остановившиеся навсегда глаза.
+1	Только	_	_	_	_	_	_	_	Shift=7756
+2	тут	_	_	_	_	_	_	_	Shift=7763
+3	все	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=942|RuCor_group_id=408768|RuCor_link_id=408764|Shift=7767
+4	увидели	_	_	_	_	_	_	_	Shift=7771|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=7778
+6	как	_	_	_	_	_	_	_	Shift=7780
+7	неподвижны	_	_	_	_	_	_	_	Shift=7784
+8	и	_	_	_	_	_	_	_	Shift=7795
+9	безучастны	_	_	_	_	_	_	_	Shift=7797
+10	на	_	_	_	_	_	_	_	Shift=7808
+11	этом	_	_	_	_	_	_	_	Shift=7811
+12	молодом	_	_	_	_	_	_	_	Shift=7816|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=7823
+14	ясном	_	_	_	_	_	_	_	Shift=7825|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=7830
+16	полном	_	_	_	_	_	_	_	Shift=7832
+17	жизни	_	_	_	_	_	_	_	Shift=7839
+18	лице	_	_	_	_	_	_	_	Shift=7845
+19	блеклосерые	_	_	_	_	_	_	_	Shift=7850|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=7861
+21	остановившиеся	_	_	_	_	_	_	_	Shift=7863
+22	навсегда	_	_	_	_	_	_	_	Shift=7878
+23	глаза	_	_	_	_	_	_	_	Shift=7887|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	_
+

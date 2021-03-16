@@ -1,0 +1,574 @@
+# newdoc id = 4ae354ed-e2c6-4a99-a850-3d72a8e8e1ee
+# newpar id = 4ae354ed-e2c6-4a99-a850-3d72a8e8e1ee-p1
+# par_text = Хакеры из России попытались «подставить» специалиста по информационной безопасности Брайана Кребса (Brian Krebs), заказав на его адрес доставку героина. Об этом в своем блоге рассказал сам Кребс.
+# sent_id = 4ae354ed-e2c6-4a99-a850-3d72a8e8e1ee-p1-s1
+# text = Хакеры из России попытались ``подставить'' специалиста по информационной безопасности Брайана Кребса (Brian Krebs), заказав на его адрес доставку героина.
+1	Хакеры	_	_	_	_	_	_	_	Shift=0
+2	из	_	_	_	_	_	_	_	Shift=7
+3	России	_	_	_	_	_	_	_	Shift=10
+4	попытались	_	_	_	_	_	_	_	Shift=17
+5	``	_	_	_	_	_	_	_	Shift=28|SpaceAfter=No
+6	подставить	_	_	_	_	_	_	_	Shift=29|SpaceAfter=No
+7	''	_	_	_	_	_	_	_	Shift=39
+8	специалиста	_	_	_	_	_	_	_	RuCor_chain_id=557|RuCor_group_id=411360|Shift=41
+9	по	_	_	_	_	_	_	_	RuCor_chain_id=557|RuCor_group_id=411360|Shift=53
+10	информационной	_	_	_	_	_	_	_	RuCor_chain_id=557|RuCor_group_id=411360|Shift=56
+11	безопасности	_	_	_	_	_	_	_	RuCor_chain_id=557|RuCor_group_id=411360|Shift=71
+12	Брайана	_	_	_	_	_	_	_	RuCor_chain_id=557|RuCor_group_id=411360|Shift=84
+13	Кребса	_	_	_	_	_	_	_	RuCor_chain_id=557|RuCor_group_id=411360|Shift=92
+14	(	_	_	_	_	_	_	_	Shift=99|SpaceAfter=No
+15	Brian	_	_	_	_	_	_	_	Shift=100
+16	Krebs	_	_	_	_	_	_	_	Shift=106|SpaceAfter=No
+17	)	_	_	_	_	_	_	_	Shift=111|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=112
+19	заказав	_	_	_	_	_	_	_	Shift=114
+20	на	_	_	_	_	_	_	_	Shift=122
+21	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=557|RuCor_group_id=411361|RuCor_link_id=411360|Shift=125
+22	адрес	_	_	_	_	_	_	_	Shift=129
+23	доставку	_	_	_	_	_	_	_	Shift=135
+24	героина	_	_	_	_	_	_	_	Shift=144|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=151
+
+# sent_id = 4ae354ed-e2c6-4a99-a850-3d72a8e8e1ee-p1-s2
+# text = Об этом в своем блоге рассказал сам Кребс.
+1	Об	_	_	_	_	_	_	_	Shift=153
+2	этом	_	_	_	_	_	_	_	Shift=156
+3	в	_	_	_	_	_	_	_	Shift=161
+4	своем	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=557|RuCor_group_id=411362|RuCor_link_id=411361|Shift=163
+5	блоге	_	_	_	_	_	_	_	Shift=169
+6	рассказал	_	_	_	_	_	_	_	Shift=175
+7	сам	_	_	_	_	_	_	_	RuCor_chain_id=557|RuCor_group_id=411363|Shift=185
+8	Кребс	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=557|RuCor_group_id=411363|RuCor_link_id=411362|Shift=189|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=194
+
+# newpar id = 4ae354ed-e2c6-4a99-a850-3d72a8e8e1ee-p2
+# par_text = По словам Кребса, идея с героином исходила от администратора русскоязычного форума thecc.bz, который скрывается под псевдонимами Flycracker, Fly и MUXACC1 (от русского «муха»). Сам форум предназначен для лиц, занимающихся мошенничеством и кражей данных граждан. Flycracker 14 июля предложил пользователям пожертвовать деньги в фонд «Кребсу на наркотики». Сбор средств осуществлялся через «биткоины» — криптовалюту, позволяющую анонимно хранить и передавать деньги.
+# sent_id = 4ae354ed-e2c6-4a99-a850-3d72a8e8e1ee-p2-s1
+# text = По словам Кребса, идея с героином исходила от администратора русскоязычного форума thecc.bz, который скрывается под псевдонимами Flycracker, Fly и MUXACC1 (от русского ``муха'').
+1	По	_	_	_	_	_	_	_	Shift=196
+2	словам	_	_	_	_	_	_	_	Shift=199
+3	Кребса	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=557|RuCor_group_id=411364|RuCor_link_id=411363|Shift=206|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=212
+5	идея	_	_	_	_	_	_	_	Shift=214
+6	с	_	_	_	_	_	_	_	Shift=219
+7	героином	_	_	_	_	_	_	_	Shift=221
+8	исходила	_	_	_	_	_	_	_	Shift=230
+9	от	_	_	_	_	_	_	_	Shift=239
+10	администратора	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=556|RuCor_group_id=411365|RuCor_link_id=0|Shift=242
+11	русскоязычного	_	_	_	_	_	_	_	RuCor_chain_id=555|RuCor_group_id=411367|Shift=257
+12	форума	_	_	_	_	_	_	_	RuCor_chain_id=555|RuCor_group_id=411367|Shift=272
+13	thecc.bz	_	_	_	_	_	_	_	RuCor_chain_id=555|RuCor_group_id=411367|Shift=279|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=287
+15	который	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=556|RuCor_group_id=411366|RuCor_link_id=411365|Shift=289
+16	скрывается	_	_	_	_	_	_	_	Shift=297
+17	под	_	_	_	_	_	_	_	Shift=308
+18	псевдонимами	_	_	_	_	_	_	_	Shift=312
+19	Flycracker	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=556|RuCor_group_id=411370|RuCor_link_id=411366|Shift=325|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=335
+21	Fly	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=556|RuCor_group_id=411371|RuCor_link_id=411370|Shift=337
+22	и	_	_	_	_	_	_	_	Shift=341
+23	MUXACC1	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=556|RuCor_group_id=411372|RuCor_link_id=411371|Shift=343
+24	(	_	_	_	_	_	_	_	Shift=351|SpaceAfter=No
+25	от	_	_	_	_	_	_	_	Shift=352
+26	русского	_	_	_	_	_	_	_	Shift=355
+27	``	_	_	_	_	_	_	_	Shift=364|SpaceAfter=No
+28	муха	_	_	_	_	_	_	_	Shift=365|SpaceAfter=No
+29	''	_	_	_	_	_	_	_	Shift=369|SpaceAfter=No
+30	)	_	_	_	_	_	_	_	Shift=370|SpaceAfter=No
+31	.	_	_	_	_	_	_	_	Shift=371
+
+# sent_id = 4ae354ed-e2c6-4a99-a850-3d72a8e8e1ee-p2-s2
+# text = Сам форум предназначен для лиц, занимающихся мошенничеством и кражей данных граждан.
+1	Сам	_	_	_	_	_	_	_	RuCor_chain_id=555|RuCor_group_id=411368|Shift=373
+2	форум	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=555|RuCor_group_id=411368|RuCor_link_id=411367|Shift=377
+3	предназначен	_	_	_	_	_	_	_	Shift=383
+4	для	_	_	_	_	_	_	_	Shift=396
+5	лиц	_	_	_	_	_	_	_	Shift=400|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=403
+7	занимающихся	_	_	_	_	_	_	_	Shift=405
+8	мошенничеством	_	_	_	_	_	_	_	Shift=418
+9	и	_	_	_	_	_	_	_	Shift=433
+10	кражей	_	_	_	_	_	_	_	Shift=435
+11	данных	_	_	_	_	_	_	_	Shift=442
+12	граждан	_	_	_	_	_	_	_	Shift=449|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=456
+
+# sent_id = 4ae354ed-e2c6-4a99-a850-3d72a8e8e1ee-p2-s3
+# text = Flycracker 14 июля предложил пользователям пожертвовать деньги в фонд ``Кребсу на наркотики''.
+1	Flycracker	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=556|RuCor_group_id=411369|RuCor_link_id=411372|Shift=458
+2	14	_	_	_	_	_	_	_	Shift=469
+3	июля	_	_	_	_	_	_	_	Shift=472
+4	предложил	_	_	_	_	_	_	_	Shift=477
+5	пользователям	_	_	_	_	_	_	_	Shift=487
+6	пожертвовать	_	_	_	_	_	_	_	Shift=501
+7	деньги	_	_	_	_	_	_	_	Shift=514
+8	в	_	_	_	_	_	_	_	Shift=521
+9	фонд	_	_	_	_	_	_	_	Shift=523
+10	``	_	_	_	_	_	_	_	Shift=528|SpaceAfter=No
+11	Кребсу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=557|RuCor_group_id=411373|RuCor_link_id=411364|Shift=529
+12	на	_	_	_	_	_	_	_	Shift=536
+13	наркотики	_	_	_	_	_	_	_	Shift=539|SpaceAfter=No
+14	''	_	_	_	_	_	_	_	Shift=548|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=549
+
+# sent_id = 4ae354ed-e2c6-4a99-a850-3d72a8e8e1ee-p2-s4
+# text = Сбор средств осуществлялся через ``биткоины'' - криптовалюту, позволяющую анонимно хранить и передавать деньги.
+1	Сбор	_	_	_	_	_	_	_	Shift=551
+2	средств	_	_	_	_	_	_	_	Shift=556
+3	осуществлялся	_	_	_	_	_	_	_	Shift=564
+4	через	_	_	_	_	_	_	_	Shift=578
+5	``	_	_	_	_	_	_	_	Shift=584|SpaceAfter=No
+6	биткоины	_	_	_	_	_	_	_	Shift=585|SpaceAfter=No
+7	''	_	_	_	_	_	_	_	Shift=593
+8	-	_	_	_	_	_	_	_	Shift=595
+9	криптовалюту	_	_	_	_	_	_	_	Shift=597|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=609
+11	позволяющую	_	_	_	_	_	_	_	Shift=611
+12	анонимно	_	_	_	_	_	_	_	Shift=623
+13	хранить	_	_	_	_	_	_	_	Shift=632
+14	и	_	_	_	_	_	_	_	Shift=640
+15	передавать	_	_	_	_	_	_	_	Shift=642
+16	деньги	_	_	_	_	_	_	_	Shift=653|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=659
+
+# newpar id = 4ae354ed-e2c6-4a99-a850-3d72a8e8e1ee-p3
+# par_text = Пользователи форума собрали два «биткоина» (около двухсот долларов). На эти деньги в анонимном магазине Silk Road было заказано 12 пакетиков с героином (продавец бесплатно прилагал два дополнительных пакетика при покупке десяти). После этого администратор форума написал остальным пользователям, что «во вторник в 3 дня будет доставлено по назначению». Он попросил кого-нибудь из пользователей позвонить в полицию от лица соседей и предупредить, что Кребс получит посылку с наркотиками.
+# sent_id = 4ae354ed-e2c6-4a99-a850-3d72a8e8e1ee-p3-s1
+# text = Пользователи форума собрали два ``биткоина'' (около двухсот долларов).
+1	Пользователи	_	_	_	_	_	_	_	Shift=661
+2	форума	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=555|RuCor_group_id=411374|RuCor_link_id=411368|Shift=674
+3	собрали	_	_	_	_	_	_	_	Shift=681
+4	два	_	_	_	_	_	_	_	RuCor_chain_id=554|RuCor_group_id=411375|Shift=689
+5	``	_	_	_	_	_	_	_	RuCor_chain_id=554|RuCor_group_id=411375|Shift=693|SpaceAfter=No
+6	биткоина	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=554|RuCor_group_id=411375|RuCor_link_id=0|Shift=694|SpaceAfter=No
+7	''	_	_	_	_	_	_	_	RuCor_chain_id=554|RuCor_group_id=411375|Shift=702
+8	(	_	_	_	_	_	_	_	Shift=704|SpaceAfter=No
+9	около	_	_	_	_	_	_	_	Shift=705
+10	двухсот	_	_	_	_	_	_	_	RuCor_chain_id=554|RuCor_group_id=411376|Shift=711
+11	долларов	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=554|RuCor_group_id=411376|RuCor_link_id=411375|Shift=719|SpaceAfter=No
+12	)	_	_	_	_	_	_	_	Shift=727|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=728
+
+# sent_id = 4ae354ed-e2c6-4a99-a850-3d72a8e8e1ee-p3-s2
+# text = На эти деньги в анонимном магазине Silk Road было заказано 12 пакетиков с героином (продавец бесплатно прилагал два дополнительных пакетика при покупке десяти).
+1	На	_	_	_	_	_	_	_	Shift=730
+2	эти	_	_	_	_	_	_	_	RuCor_chain_id=554|RuCor_group_id=411377|Shift=733
+3	деньги	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=554|RuCor_group_id=411377|RuCor_link_id=411376|Shift=737
+4	в	_	_	_	_	_	_	_	Shift=744
+5	анонимном	_	_	_	_	_	_	_	Shift=746
+6	магазине	_	_	_	_	_	_	_	Shift=756
+7	Silk	_	_	_	_	_	_	_	Shift=765
+8	Road	_	_	_	_	_	_	_	Shift=770
+9	было	_	_	_	_	_	_	_	Shift=775
+10	заказано	_	_	_	_	_	_	_	Shift=780
+11	12	_	_	_	_	_	_	_	Shift=789
+12	пакетиков	_	_	_	_	_	_	_	Shift=792
+13	с	_	_	_	_	_	_	_	Shift=802
+14	героином	_	_	_	_	_	_	_	Shift=804
+15	(	_	_	_	_	_	_	_	Shift=813|SpaceAfter=No
+16	продавец	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=551|RuCor_group_id=411394|RuCor_link_id=0|Shift=814
+17	бесплатно	_	_	_	_	_	_	_	Shift=823
+18	прилагал	_	_	_	_	_	_	_	Shift=833
+19	два	_	_	_	_	_	_	_	Shift=842
+20	дополнительных	_	_	_	_	_	_	_	Shift=846
+21	пакетика	_	_	_	_	_	_	_	Shift=861
+22	при	_	_	_	_	_	_	_	Shift=870
+23	покупке	_	_	_	_	_	_	_	Shift=874
+24	десяти	_	_	_	_	_	_	_	Shift=882|SpaceAfter=No
+25	)	_	_	_	_	_	_	_	Shift=888|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=889
+
+# sent_id = 4ae354ed-e2c6-4a99-a850-3d72a8e8e1ee-p3-s3
+# text = После этого администратор форума написал остальным пользователям, что ``во вторник в 3 дня будет доставлено по назначению''.
+1	После	_	_	_	_	_	_	_	Shift=891
+2	этого	_	_	_	_	_	_	_	Shift=897
+3	администратор	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=556|RuCor_group_id=411378|RuCor_link_id=411369|Shift=903
+4	форума	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=555|RuCor_group_id=411379|RuCor_link_id=411374|Shift=917
+5	написал	_	_	_	_	_	_	_	Shift=924
+6	остальным	_	_	_	_	_	_	_	Shift=932
+7	пользователям	_	_	_	_	_	_	_	Shift=942|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=955
+9	что	_	_	_	_	_	_	_	Shift=957
+10	``	_	_	_	_	_	_	_	Shift=961|SpaceAfter=No
+11	во	_	_	_	_	_	_	_	Shift=962
+12	вторник	_	_	_	_	_	_	_	Shift=965
+13	в	_	_	_	_	_	_	_	Shift=973
+14	3	_	_	_	_	_	_	_	Shift=975
+15	дня	_	_	_	_	_	_	_	Shift=977
+16	будет	_	_	_	_	_	_	_	Shift=981
+17	доставлено	_	_	_	_	_	_	_	Shift=987
+18	по	_	_	_	_	_	_	_	Shift=998
+19	назначению	_	_	_	_	_	_	_	Shift=1001|SpaceAfter=No
+20	''	_	_	_	_	_	_	_	Shift=1011|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=1012
+
+# sent_id = 4ae354ed-e2c6-4a99-a850-3d72a8e8e1ee-p3-s4
+# text = Он попросил кого-нибудь из пользователей позвонить в полицию от лица соседей и предупредить, что Кребс получит посылку с наркотиками.
+1	Он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=556|RuCor_group_id=411380|RuCor_link_id=411378|Shift=1014
+2	попросил	_	_	_	_	_	_	_	Shift=1017
+3	кого-нибудь	_	_	_	_	_	_	_	Shift=1026
+4	из	_	_	_	_	_	_	_	Shift=1038
+5	пользователей	_	_	_	_	_	_	_	Shift=1041
+6	позвонить	_	_	_	_	_	_	_	Shift=1055
+7	в	_	_	_	_	_	_	_	Shift=1065
+8	полицию	_	_	_	_	_	_	_	Shift=1067
+9	от	_	_	_	_	_	_	_	Shift=1075
+10	лица	_	_	_	_	_	_	_	Shift=1078
+11	соседей	_	_	_	_	_	_	_	Shift=1083
+12	и	_	_	_	_	_	_	_	Shift=1091
+13	предупредить	_	_	_	_	_	_	_	Shift=1093|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=1105
+15	что	_	_	_	_	_	_	_	Shift=1107
+16	Кребс	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=557|RuCor_group_id=411381|RuCor_link_id=411373|Shift=1111
+17	получит	_	_	_	_	_	_	_	Shift=1117
+18	посылку	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=553|RuCor_group_id=411386|RuCor_link_id=0|Shift=1125
+19	с	_	_	_	_	_	_	_	RuCor_chain_id=553|RuCor_group_id=411386|Shift=1133
+20	наркотиками	_	_	_	_	_	_	_	RuCor_chain_id=553|RuCor_group_id=411386|Shift=1135|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=1146
+
+# newpar id = 4ae354ed-e2c6-4a99-a850-3d72a8e8e1ee-p4
+# par_text = Сам Кребс, однако, присутствовал на форуме и следил за тем, как пользователи пытаются «подставить» его. Он сам обратился в правоохранительные органы и рассказал об этой схеме. Сама посылка, по его словам, пришла 29 июля, на день раньше заявленного Flycracker. В ней оказался майский номер журнала Chicago Confidential, к задней обложке которого были прикреплены пакетики с белым веществом. Кребс пишет, что продавец расфасовал купленный героин в 13 пакетиков вместо 12. Специалист решил изучить содержимое одного из них, но у него не было инструментов, позволяющих точно сказать, что там был героин.
+# sent_id = 4ae354ed-e2c6-4a99-a850-3d72a8e8e1ee-p4-s1
+# text = Сам Кребс, однако, присутствовал на форуме и следил за тем, как пользователи пытаются ``подставить'' его.
+1	Сам	_	_	_	_	_	_	_	RuCor_chain_id=557|RuCor_group_id=411382|Shift=1148
+2	Кребс	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=557|RuCor_group_id=411382|RuCor_link_id=411381|Shift=1152|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1157
+4	однако	_	_	_	_	_	_	_	Shift=1159|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1165
+6	присутствовал	_	_	_	_	_	_	_	Shift=1167
+7	на	_	_	_	_	_	_	_	Shift=1181
+8	форуме	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=555|RuCor_group_id=411383|RuCor_link_id=411379|Shift=1184
+9	и	_	_	_	_	_	_	_	Shift=1191
+10	следил	_	_	_	_	_	_	_	Shift=1193
+11	за	_	_	_	_	_	_	_	Shift=1200
+12	тем	_	_	_	_	_	_	_	Shift=1203|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=1206
+14	как	_	_	_	_	_	_	_	Shift=1208
+15	пользователи	_	_	_	_	_	_	_	Shift=1212
+16	пытаются	_	_	_	_	_	_	_	Shift=1225
+17	``	_	_	_	_	_	_	_	Shift=1234|SpaceAfter=No
+18	подставить	_	_	_	_	_	_	_	Shift=1235|SpaceAfter=No
+19	''	_	_	_	_	_	_	_	Shift=1245
+20	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=557|RuCor_group_id=411384|RuCor_link_id=411382|Shift=1247|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=1250
+
+# sent_id = 4ae354ed-e2c6-4a99-a850-3d72a8e8e1ee-p4-s2
+# text = Он сам обратился в правоохранительные органы и рассказал об этой схеме.
+1	Он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=557|RuCor_group_id=411385|RuCor_link_id=411384|Shift=1252
+2	сам	_	_	_	_	_	_	_	Shift=1255
+3	обратился	_	_	_	_	_	_	_	Shift=1259
+4	в	_	_	_	_	_	_	_	Shift=1269
+5	правоохранительные	_	_	_	_	_	_	_	Shift=1271
+6	органы	_	_	_	_	_	_	_	Shift=1290
+7	и	_	_	_	_	_	_	_	Shift=1297
+8	рассказал	_	_	_	_	_	_	_	Shift=1299
+9	об	_	_	_	_	_	_	_	Shift=1309
+10	этой	_	_	_	_	_	_	_	Shift=1312
+11	схеме	_	_	_	_	_	_	_	Shift=1317|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=1322
+
+# sent_id = 4ae354ed-e2c6-4a99-a850-3d72a8e8e1ee-p4-s3
+# text = Сама посылка, по его словам, пришла 29 июля, на день раньше заявленного Flycracker.
+1	Сама	_	_	_	_	_	_	_	RuCor_chain_id=553|RuCor_group_id=411387|Shift=1324
+2	посылка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=553|RuCor_group_id=411387|RuCor_link_id=411386|Shift=1329|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1336
+4	по	_	_	_	_	_	_	_	Shift=1338
+5	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=557|RuCor_group_id=411388|RuCor_link_id=411385|Shift=1341
+6	словам	_	_	_	_	_	_	_	Shift=1345|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=1351
+8	пришла	_	_	_	_	_	_	_	Shift=1353
+9	29	_	_	_	_	_	_	_	Shift=1360
+10	июля	_	_	_	_	_	_	_	Shift=1363|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=1367
+12	на	_	_	_	_	_	_	_	Shift=1369
+13	день	_	_	_	_	_	_	_	Shift=1372
+14	раньше	_	_	_	_	_	_	_	Shift=1377
+15	заявленного	_	_	_	_	_	_	_	Shift=1384
+16	Flycracker	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=556|RuCor_group_id=411389|RuCor_link_id=411378|Shift=1396|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=1406
+
+# sent_id = 4ae354ed-e2c6-4a99-a850-3d72a8e8e1ee-p4-s4
+# text = В ней оказался майский номер журнала Chicago Confidential, к задней обложке которого были прикреплены пакетики с белым веществом.
+1	В	_	_	_	_	_	_	_	Shift=1408
+2	ней	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=553|RuCor_group_id=411390|RuCor_link_id=411387|Shift=1410
+3	оказался	_	_	_	_	_	_	_	Shift=1414
+4	майский	_	_	_	_	_	_	_	RuCor_chain_id=552|RuCor_group_id=411391|Shift=1423
+5	номер	_	_	_	_	_	_	_	RuCor_chain_id=552|RuCor_group_id=411391|Shift=1431
+6	журнала	_	_	_	_	_	_	_	RuCor_chain_id=552|RuCor_group_id=411391|Shift=1437
+7	Chicago	_	_	_	_	_	_	_	RuCor_chain_id=552|RuCor_group_id=411391|Shift=1445
+8	Confidential	_	_	_	_	_	_	_	RuCor_chain_id=552|RuCor_group_id=411391|Shift=1453|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1465
+10	к	_	_	_	_	_	_	_	Shift=1467
+11	задней	_	_	_	_	_	_	_	Shift=1469
+12	обложке	_	_	_	_	_	_	_	Shift=1476
+13	которого	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=552|RuCor_group_id=411392|RuCor_link_id=411391|Shift=1484
+14	были	_	_	_	_	_	_	_	Shift=1493
+15	прикреплены	_	_	_	_	_	_	_	Shift=1498
+16	пакетики	_	_	_	_	_	_	_	Shift=1510
+17	с	_	_	_	_	_	_	_	Shift=1519
+18	белым	_	_	_	_	_	_	_	Shift=1521
+19	веществом	_	_	_	_	_	_	_	Shift=1527|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=1536
+
+# sent_id = 4ae354ed-e2c6-4a99-a850-3d72a8e8e1ee-p4-s5
+# text = Кребс пишет, что продавец расфасовал купленный героин в 13 пакетиков вместо 12.
+1	Кребс	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=557|RuCor_group_id=411393|RuCor_link_id=411388|Shift=1538
+2	пишет	_	_	_	_	_	_	_	Shift=1544|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1549
+4	что	_	_	_	_	_	_	_	Shift=1551
+5	продавец	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=551|RuCor_group_id=411395|RuCor_link_id=411394|Shift=1555
+6	расфасовал	_	_	_	_	_	_	_	Shift=1564
+7	купленный	_	_	_	_	_	_	_	Shift=1575
+8	героин	_	_	_	_	_	_	_	Shift=1585
+9	в	_	_	_	_	_	_	_	Shift=1592
+10	13	_	_	_	_	_	_	_	RuCor_chain_id=550|RuCor_group_id=411397|Shift=1594
+11	пакетиков	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=550|RuCor_group_id=411397|RuCor_link_id=0|Shift=1597
+12	вместо	_	_	_	_	_	_	_	Shift=1607
+13	12	_	_	_	_	_	_	_	Shift=1614|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=1616
+
+# sent_id = 4ae354ed-e2c6-4a99-a850-3d72a8e8e1ee-p4-s6
+# text = Специалист решил изучить содержимое одного из них, но у него не было инструментов, позволяющих точно сказать, что там был героин.
+1	Специалист	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=557|RuCor_group_id=411396|RuCor_link_id=411393|Shift=1618
+2	решил	_	_	_	_	_	_	_	Shift=1629
+3	изучить	_	_	_	_	_	_	_	Shift=1635
+4	содержимое	_	_	_	_	_	_	_	Shift=1643
+5	одного	_	_	_	_	_	_	_	Shift=1654
+6	из	_	_	_	_	_	_	_	Shift=1661
+7	них	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=550|RuCor_group_id=411398|RuCor_link_id=411397|Shift=1664|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1667
+9	но	_	_	_	_	_	_	_	Shift=1669
+10	у	_	_	_	_	_	_	_	Shift=1672
+11	него	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=557|RuCor_group_id=411399|RuCor_link_id=411396|Shift=1674
+12	не	_	_	_	_	_	_	_	Shift=1679
+13	было	_	_	_	_	_	_	_	Shift=1682
+14	инструментов	_	_	_	_	_	_	_	Shift=1687|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=1699
+16	позволяющих	_	_	_	_	_	_	_	Shift=1701
+17	точно	_	_	_	_	_	_	_	Shift=1713
+18	сказать	_	_	_	_	_	_	_	Shift=1719|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=1726
+20	что	_	_	_	_	_	_	_	Shift=1728
+21	там	_	_	_	_	_	_	_	Shift=1732
+22	был	_	_	_	_	_	_	_	Shift=1736
+23	героин	_	_	_	_	_	_	_	Shift=1740|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=1746
+
+# newpar id = 4ae354ed-e2c6-4a99-a850-3d72a8e8e1ee-p5
+# par_text = Вызванный им полицейский также не смог установить содержимое пакетиков, так как в его наборе тестов на наркотики не оказалось теста на героин. Кребс пообещал позднее уточнить, что именно ему прислали.
+# sent_id = 4ae354ed-e2c6-4a99-a850-3d72a8e8e1ee-p5-s1
+# text = Вызванный им полицейский также не смог установить содержимое пакетиков, так как в его наборе тестов на наркотики не оказалось теста на героин.
+1	Вызванный	_	_	_	_	_	_	_	RuCor_chain_id=549|RuCor_group_id=411402|Shift=1748
+2	им	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=557|RuCor_group_id=411400|RuCor_link_id=411399|Shift=1758
+3	полицейский	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=549|RuCor_group_id=411402|RuCor_link_id=0|Shift=1761
+4	также	_	_	_	_	_	_	_	Shift=1773
+5	не	_	_	_	_	_	_	_	Shift=1779
+6	смог	_	_	_	_	_	_	_	Shift=1782
+7	установить	_	_	_	_	_	_	_	Shift=1787
+8	содержимое	_	_	_	_	_	_	_	Shift=1798
+9	пакетиков	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=550|RuCor_group_id=411401|RuCor_link_id=411398|Shift=1809|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=1818
+11	так	_	_	_	_	_	_	_	Shift=1820
+12	как	_	_	_	_	_	_	_	Shift=1824
+13	в	_	_	_	_	_	_	_	Shift=1828
+14	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=549|RuCor_group_id=411403|RuCor_link_id=411402|Shift=1830
+15	наборе	_	_	_	_	_	_	_	Shift=1834
+16	тестов	_	_	_	_	_	_	_	Shift=1841
+17	на	_	_	_	_	_	_	_	Shift=1848
+18	наркотики	_	_	_	_	_	_	_	Shift=1851
+19	не	_	_	_	_	_	_	_	Shift=1861
+20	оказалось	_	_	_	_	_	_	_	Shift=1864
+21	теста	_	_	_	_	_	_	_	Shift=1874
+22	на	_	_	_	_	_	_	_	Shift=1880
+23	героин	_	_	_	_	_	_	_	Shift=1883|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=1889
+
+# sent_id = 4ae354ed-e2c6-4a99-a850-3d72a8e8e1ee-p5-s2
+# text = Кребс пообещал позднее уточнить, что именно ему прислали.
+1	Кребс	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=557|RuCor_group_id=411404|RuCor_link_id=411399|Shift=1891
+2	пообещал	_	_	_	_	_	_	_	Shift=1897
+3	позднее	_	_	_	_	_	_	_	Shift=1906
+4	уточнить	_	_	_	_	_	_	_	Shift=1914|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1922
+6	что	_	_	_	_	_	_	_	Shift=1924
+7	именно	_	_	_	_	_	_	_	Shift=1928
+8	ему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=557|RuCor_group_id=411405|RuCor_link_id=411404|Shift=1935
+9	прислали	_	_	_	_	_	_	_	Shift=1939|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=1947
+
+# newpar id = 4ae354ed-e2c6-4a99-a850-3d72a8e8e1ee-p6
+# par_text = Брайан Кребс — популярный эксперт, рассказывающий в своем блоге о сетевых угрозах и действиях хакеров. Он посвятил несколько постов владельцу платежной системы Chronopay Павлу Врублевскому, которого обвиняли в организации атаки на сайт конкурента, компании Assist (из-за этой атаки пострадал «Аэрофлот»). Кребс, в частности, анализировал утекшую переписку Врублевского с партнерами, в которой, предположительно, обсуждались хакерские атаки.
+# sent_id = 4ae354ed-e2c6-4a99-a850-3d72a8e8e1ee-p6-s1
+# text = Брайан Кребс - популярный эксперт, рассказывающий в своем блоге о сетевых угрозах и действиях хакеров.
+1	Брайан	_	_	_	_	_	_	_	RuCor_chain_id=548|RuCor_group_id=411406|Shift=1949
+2	Кребс	_	_	_	_	_	_	_	RuCor_chain_id=548|RuCor_group_id=411406|Shift=1956
+3	-	_	_	_	_	_	_	_	Shift=1962
+4	популярный	_	_	_	_	_	_	_	RuCor_chain_id=547|RuCor_group_id=411407|Shift=1964
+5	эксперт	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=547|RuCor_group_id=411407|RuCor_link_id=0|Shift=1975|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1982
+7	рассказывающий	_	_	_	_	_	_	_	Shift=1984
+8	в	_	_	_	_	_	_	_	Shift=1999
+9	своем	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=547|RuCor_group_id=411408|RuCor_link_id=411407|Shift=2001
+10	блоге	_	_	_	_	_	_	_	Shift=2007
+11	о	_	_	_	_	_	_	_	Shift=2013
+12	сетевых	_	_	_	_	_	_	_	Shift=2015
+13	угрозах	_	_	_	_	_	_	_	Shift=2023
+14	и	_	_	_	_	_	_	_	Shift=2031
+15	действиях	_	_	_	_	_	_	_	Shift=2033
+16	хакеров	_	_	_	_	_	_	_	Shift=2043|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=2050
+
+# sent_id = 4ae354ed-e2c6-4a99-a850-3d72a8e8e1ee-p6-s2
+# text = Он посвятил несколько постов владельцу платежной системы Chronopay Павлу Врублевскому, которого обвиняли в организации атаки на сайт конкурента, компании Assist (из-за этой атаки пострадал ``Аэрофлот'').
+1	Он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=547|RuCor_group_id=411409|RuCor_link_id=411408|Shift=2052
+2	посвятил	_	_	_	_	_	_	_	Shift=2055
+3	несколько	_	_	_	_	_	_	_	Shift=2064
+4	постов	_	_	_	_	_	_	_	Shift=2074
+5	владельцу	_	_	_	_	_	_	_	RuCor_chain_id=546|RuCor_group_id=411410|Shift=2081
+6	платежной	_	_	_	_	_	_	_	RuCor_chain_id=546|RuCor_group_id=411410|Shift=2091
+7	системы	_	_	_	_	_	_	_	RuCor_chain_id=546|RuCor_group_id=411410|Shift=2101
+8	Chronopay	_	_	_	_	_	_	_	RuCor_chain_id=546|RuCor_group_id=411410|Shift=2109
+9	Павлу	_	_	_	_	_	_	_	RuCor_chain_id=546|RuCor_group_id=411410|Shift=2119
+10	Врублевскому	_	_	_	_	_	_	_	RuCor_chain_id=546|RuCor_group_id=411410|Shift=2125|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=2137
+12	которого	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=546|RuCor_group_id=411411|RuCor_link_id=411410|Shift=2139
+13	обвиняли	_	_	_	_	_	_	_	Shift=2148
+14	в	_	_	_	_	_	_	_	Shift=2157
+15	организации	_	_	_	_	_	_	_	Shift=2159
+16	атаки	_	_	_	_	_	_	_	Shift=2171
+17	на	_	_	_	_	_	_	_	Shift=2177
+18	сайт	_	_	_	_	_	_	_	Shift=2180
+19	конкурента	_	_	_	_	_	_	_	Shift=2185|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=2195
+21	компании	_	_	_	_	_	_	_	Shift=2197
+22	Assist	_	_	_	_	_	_	_	Shift=2206
+23	(	_	_	_	_	_	_	_	Shift=2213|SpaceAfter=No
+24	из-за	_	_	_	_	_	_	_	Shift=2214
+25	этой	_	_	_	_	_	_	_	Shift=2220
+26	атаки	_	_	_	_	_	_	_	Shift=2225
+27	пострадал	_	_	_	_	_	_	_	Shift=2231
+28	``	_	_	_	_	_	_	_	Shift=2241|SpaceAfter=No
+29	Аэрофлот	_	_	_	_	_	_	_	Shift=2242|SpaceAfter=No
+30	''	_	_	_	_	_	_	_	Shift=2250|SpaceAfter=No
+31	)	_	_	_	_	_	_	_	Shift=2251|SpaceAfter=No
+32	.	_	_	_	_	_	_	_	Shift=2252
+
+# sent_id = 4ae354ed-e2c6-4a99-a850-3d72a8e8e1ee-p6-s3
+# text = Кребс, в частности, анализировал утекшую переписку Врублевского с партнерами, в которой, предположительно, обсуждались хакерские атаки.
+1	Кребс	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=547|RuCor_group_id=411412|RuCor_link_id=411409|Shift=2254|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=2259
+3	в	_	_	_	_	_	_	_	Shift=2261
+4	частности	_	_	_	_	_	_	_	Shift=2263|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=2272
+6	анализировал	_	_	_	_	_	_	_	Shift=2274
+7	утекшую	_	_	_	_	_	_	_	RuCor_chain_id=545|RuCor_group_id=411414|Shift=2287
+8	переписку	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=545|RuCor_group_id=411414|RuCor_link_id=0|Shift=2295
+9	Врублевского	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=546|RuCor_group_id=411413|RuCor_link_id=411410|Shift=2305
+10	с	_	_	_	_	_	_	_	RuCor_chain_id=545|RuCor_group_id=411414|Shift=2318
+11	партнерами	_	_	_	_	_	_	_	RuCor_chain_id=545|RuCor_group_id=411414|Shift=2320|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=2330
+13	в	_	_	_	_	_	_	_	Shift=2332
+14	которой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=545|RuCor_group_id=411415|RuCor_link_id=411414|Shift=2334|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=2341
+16	предположительно	_	_	_	_	_	_	_	Shift=2343|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=2359
+18	обсуждались	_	_	_	_	_	_	_	Shift=2361
+19	хакерские	_	_	_	_	_	_	_	Shift=2373
+20	атаки	_	_	_	_	_	_	_	Shift=2383|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=2388
+
+# newpar id = 4ae354ed-e2c6-4a99-a850-3d72a8e8e1ee-p7
+# par_text = «Биткоины», благодаря независимости и анонимности использования, зачастую применяются при купле-продаже наркотиков и других запрещенных товаров. Долгое время за один «биткоин» давали не больше доллара, но затем курс валюты стал резко расти. В марте 2013 года одна денежная единица стоила уже 40 долларов, а в апреле достигла отметки в 266 долларов. Впоследствии последовал обвал курса. Сейчас один «биткоин» стоит около 100 долларов.
+# sent_id = 4ae354ed-e2c6-4a99-a850-3d72a8e8e1ee-p7-s1
+# text = ``Биткоины'', благодаря независимости и анонимности использования, зачастую применяются при купле - продаже наркотиков и других запрещенных товаров.
+1	``	_	_	_	_	_	_	_	Shift=2390|SpaceAfter=No
+2	Биткоины	_	_	_	_	_	_	_	Shift=2391|SpaceAfter=No
+3	''	_	_	_	_	_	_	_	Shift=2399|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2400
+5	благодаря	_	_	_	_	_	_	_	Shift=2402
+6	независимости	_	_	_	_	_	_	_	Shift=2412
+7	и	_	_	_	_	_	_	_	Shift=2426
+8	анонимности	_	_	_	_	_	_	_	Shift=2428
+9	использования	_	_	_	_	_	_	_	Shift=2440|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=2453
+11	зачастую	_	_	_	_	_	_	_	Shift=2455
+12	применяются	_	_	_	_	_	_	_	Shift=2464
+13	при	_	_	_	_	_	_	_	Shift=2476
+14	купле	_	_	_	_	_	_	_	Shift=2480
+15	-	_	_	_	_	_	_	_	Shift=2485
+16	продаже	_	_	_	_	_	_	_	Shift=2486
+17	наркотиков	_	_	_	_	_	_	_	Shift=2494
+18	и	_	_	_	_	_	_	_	Shift=2505
+19	других	_	_	_	_	_	_	_	Shift=2507
+20	запрещенных	_	_	_	_	_	_	_	Shift=2514
+21	товаров	_	_	_	_	_	_	_	Shift=2526|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=2533
+
+# sent_id = 4ae354ed-e2c6-4a99-a850-3d72a8e8e1ee-p7-s2
+# text = Долгое время за один ``биткоин'' давали не больше доллара, но затем курс валюты стал резко расти.
+1	Долгое	_	_	_	_	_	_	_	Shift=2535
+2	время	_	_	_	_	_	_	_	Shift=2542
+3	за	_	_	_	_	_	_	_	Shift=2548
+4	один	_	_	_	_	_	_	_	Shift=2551
+5	``	_	_	_	_	_	_	_	Shift=2556|SpaceAfter=No
+6	биткоин	_	_	_	_	_	_	_	Shift=2557|SpaceAfter=No
+7	''	_	_	_	_	_	_	_	Shift=2564
+8	давали	_	_	_	_	_	_	_	Shift=2566
+9	не	_	_	_	_	_	_	_	Shift=2573
+10	больше	_	_	_	_	_	_	_	Shift=2576
+11	доллара	_	_	_	_	_	_	_	Shift=2583|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=2590
+13	но	_	_	_	_	_	_	_	Shift=2592
+14	затем	_	_	_	_	_	_	_	Shift=2595
+15	курс	_	_	_	_	_	_	_	Shift=2601
+16	валюты	_	_	_	_	_	_	_	Shift=2606
+17	стал	_	_	_	_	_	_	_	Shift=2613
+18	резко	_	_	_	_	_	_	_	Shift=2618
+19	расти	_	_	_	_	_	_	_	Shift=2624|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=2629
+
+# sent_id = 4ae354ed-e2c6-4a99-a850-3d72a8e8e1ee-p7-s3
+# text = В марте 2013 года одна денежная единица стоила уже 40 долларов, а в апреле достигла отметки в 266 долларов.
+1	В	_	_	_	_	_	_	_	Shift=2631
+2	марте	_	_	_	_	_	_	_	Shift=2633
+3	2013	_	_	_	_	_	_	_	Shift=2639
+4	года	_	_	_	_	_	_	_	Shift=2644
+5	одна	_	_	_	_	_	_	_	Shift=2649
+6	денежная	_	_	_	_	_	_	_	Shift=2654
+7	единица	_	_	_	_	_	_	_	Shift=2663
+8	стоила	_	_	_	_	_	_	_	Shift=2671
+9	уже	_	_	_	_	_	_	_	Shift=2678
+10	40	_	_	_	_	_	_	_	Shift=2682
+11	долларов	_	_	_	_	_	_	_	Shift=2685|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=2693
+13	а	_	_	_	_	_	_	_	Shift=2695
+14	в	_	_	_	_	_	_	_	Shift=2697
+15	апреле	_	_	_	_	_	_	_	Shift=2699
+16	достигла	_	_	_	_	_	_	_	Shift=2706
+17	отметки	_	_	_	_	_	_	_	Shift=2715
+18	в	_	_	_	_	_	_	_	Shift=2723
+19	266	_	_	_	_	_	_	_	Shift=2725
+20	долларов	_	_	_	_	_	_	_	Shift=2729|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=2737
+
+# sent_id = 4ae354ed-e2c6-4a99-a850-3d72a8e8e1ee-p7-s4
+# text = Впоследствии последовал обвал курса.
+1	Впоследствии	_	_	_	_	_	_	_	Shift=2739
+2	последовал	_	_	_	_	_	_	_	Shift=2752
+3	обвал	_	_	_	_	_	_	_	Shift=2763
+4	курса	_	_	_	_	_	_	_	Shift=2769|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=2774
+
+# sent_id = 4ae354ed-e2c6-4a99-a850-3d72a8e8e1ee-p7-s5
+# text = Сейчас один ``биткоин'' стоит около 100 долларов.
+1	Сейчас	_	_	_	_	_	_	_	Shift=2776
+2	один	_	_	_	_	_	_	_	Shift=2783
+3	``	_	_	_	_	_	_	_	Shift=2788|SpaceAfter=No
+4	биткоин	_	_	_	_	_	_	_	Shift=2789|SpaceAfter=No
+5	''	_	_	_	_	_	_	_	Shift=2796
+6	стоит	_	_	_	_	_	_	_	Shift=2798
+7	около	_	_	_	_	_	_	_	Shift=2804
+8	100	_	_	_	_	_	_	_	Shift=2810
+9	долларов	_	_	_	_	_	_	_	Shift=2814|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	_
+

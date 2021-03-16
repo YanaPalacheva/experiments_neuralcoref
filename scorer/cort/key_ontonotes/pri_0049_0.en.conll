@@ -1,0 +1,855 @@
+#begin document (pri_0049_0); part 000
+pri_0049	0	0	This	DT	(TOP(S(S(NP*)	-	-	-	-	(2)
+pri_0049	0	1	is	VBZ	(VP*	be	01	1	-	-
+pri_0049	0	2	The	DT	(NP*	-	-	-	-	-
+pri_0049	0	3	World	NNP	*)))	-	-	-	-	-
+pri_0049	0	4	,	,	*	-	-	-	-	-
+pri_0049	0	5	I	PRP	(S(NP*)	-	-	-	-	-
+pri_0049	0	6	am	VBP	(VP*	be	01	1	-	-
+pri_0049	0	7	Lisa	NNP	(NP*	-	-	-	-	-
+pri_0049	0	8	Mullins	NNP	*)))	-	-	-	-	-
+pri_0049	0	9	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	Up	RP	(TOP(FRAG(PRT*)	-	-	-	-	-
+pri_0049	0	1	next	RB	(ADVP*)	-	-	-	-	-
+pri_0049	0	2	a	DT	(NP(NP*	-	-	-	-	-
+pri_0049	0	3	global	JJ	*	-	-	-	-	-
+pri_0049	0	4	hip	NN	(NML*	-	-	-	-	-
+pri_0049	0	5	-	HYPH	*	-	-	-	-	-
+pri_0049	0	6	hop	NN	*)	-	-	-	-	-
+pri_0049	0	7	beat	NN	*)	beat	-	3	-	-
+pri_0049	0	8	laid	VBN	(VP(VP*	lay	01	5.2	-	-
+pri_0049	0	9	down	RP	(PRT*)	-	-	-	-	-
+pri_0049	0	10	in	IN	(PP*	-	-	-	-	-
+pri_0049	0	11	New	NNP	(NP*	-	-	-	-	(20
+pri_0049	0	12	York	NNP	*)))	-	-	-	-	20)
+pri_0049	0	13	and	CC	*	-	-	-	-	-
+pri_0049	0	14	danced	VBD	(VP*	dance	01	-	-	-
+pri_0049	0	15	to	IN	(PP*)	-	-	-	-	-
+pri_0049	0	16	in	IN	(PP*	-	-	-	-	-
+pri_0049	0	17	the	DT	(NP(NP*	-	-	-	-	(12
+pri_0049	0	18	West	JJ	(ADJP*	-	-	-	-	-
+pri_0049	0	19	African	JJ	*)	-	-	-	-	-
+pri_0049	0	20	nation	NN	*)	nation	-	1	-	-
+pri_0049	0	21	of	IN	(PP*	-	-	-	-	-
+pri_0049	0	22	Senegal	NNP	(NP*)))))))	-	-	-	-	12)
+pri_0049	0	23	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	(2|(10
+pri_0049	0	1	World	NNP	*	-	-	-	-	-
+pri_0049	0	2	's	POS	*)	-	-	-	-	2)
+pri_0049	0	3	Marco	NNP	*	-	-	-	-	-
+pri_0049	0	4	Warman	NNP	*)	-	-	-	-	10)
+pri_0049	0	5	has	VBZ	(VP*	have	03	2	-	-
+pri_0049	0	6	today	NN	(NP(NP*	today	-	2	-	(21
+pri_0049	0	7	's	POS	*)	-	-	-	-	21)
+pri_0049	0	8	musical	JJ	*	-	-	-	-	-
+pri_0049	0	9	finale	NN	*))	-	-	-	-	-
+pri_0049	0	10	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	Imagine	VB	(TOP(S(VP*	imagine	01	1	-	-
+pri_0049	0	1	trying	VBG	(S(VP*	try	01	1	-	-
+pri_0049	0	2	to	TO	(S(VP*	-	-	-	-	-
+pri_0049	0	3	translate	VB	(VP*	translate	01	1	-	-
+pri_0049	0	4	the	DT	(NP(NP*	-	-	-	-	-
+pri_0049	0	5	lyrics	NNS	*)	-	-	-	-	-
+pri_0049	0	6	of	IN	(PP*	-	-	-	-	-
+pri_0049	0	7	the	DT	(NP(NP(NP*	-	-	-	-	-
+pri_0049	0	8	Sugar	NNP	*	-	-	-	-	-
+pri_0049	0	9	Hill	NNP	*	-	-	-	-	-
+pri_0049	0	10	Gang	NNP	*	-	-	-	-	-
+pri_0049	0	11	's	POS	*)	-	-	-	-	-
+pri_0049	0	12	notorious	JJ	*	-	-	-	-	-
+pri_0049	0	13	rap	NN	*	-	-	-	-	-
+pri_0049	0	14	classic	NN	*)	-	-	-	-	-
+pri_0049	0	15	,	,	*	-	-	-	-	-
+pri_0049	0	16	Rapper	NNP	(NP(NP*	-	-	-	-	-
+pri_0049	0	17	's	POS	*)	-	-	-	-	-
+pri_0049	0	18	Delight	NNP	*))))))))))	-	-	-	-	-
+pri_0049	0	19	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	Fortunately	RB	(TOP(S(ADVP*	-	-	-	-	-
+pri_0049	0	1	for	IN	(PP*	-	-	-	-	-
+pri_0049	0	2	rap	NN	(NP(NP*	-	-	-	-	-
+pri_0049	0	3	fans	NNS	*)	fan	-	1	-	-
+pri_0049	0	4	in	IN	(PP*	-	-	-	-	-
+pri_0049	0	5	the	DT	(NP(NP*	-	-	-	-	(24
+pri_0049	0	6	Senegalese	JJ	*	-	-	-	-	-
+pri_0049	0	7	capital	NN	*)	capital	-	2	-	-
+pri_0049	0	8	,	,	*	-	-	-	-	-
+pri_0049	0	9	Dakar	NNP	(NP*))))))	-	-	-	-	24)
+pri_0049	0	10	translating	VBG	(S(VP*	translate	01	1	-	-
+pri_0049	0	11	these	DT	(NP*	-	-	-	-	-
+pri_0049	0	12	tunes	NNS	*)))	tune	-	1	-	-
+pri_0049	0	13	is	VBZ	(VP*	be	01	1	-	-
+pri_0049	0	14	n't	RB	*	-	-	-	-	-
+pri_0049	0	15	necessary	JJ	(ADJP*))	-	-	-	-	-
+pri_0049	0	16	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	The	DT	(TOP(S(NP*	-	-	-	-	(24
+pri_0049	0	1	city	NN	*)	city	-	1	-	24)
+pri_0049	0	2	has	VBZ	(VP*	have	03	2	-	-
+pri_0049	0	3	its	PRP$	(NP*	-	-	-	-	(1|(24)
+pri_0049	0	4	own	JJ	*	-	-	-	-	-
+pri_0049	0	5	homegrown	JJ	*	-	-	-	-	-
+pri_0049	0	6	hip	NN	(NML*	-	-	-	-	-
+pri_0049	0	7	-	HYPH	*	-	-	-	-	-
+pri_0049	0	8	hop	NN	*)	-	-	-	-	-
+pri_0049	0	9	scene	NN	*))	-	-	-	-	1)
+pri_0049	0	10	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	It	PRP	(TOP(S(NP*)	-	-	-	-	-
+pri_0049	0	1	is	VBZ	(VP*	be	01	1	-	-
+pri_0049	0	2	a	DT	(NP(NP(NP*	-	-	-	-	-
+pri_0049	0	3	hip	NN	*	-	-	-	-	-
+pri_0049	0	4	-	HYPH	*	-	-	-	-	-
+pri_0049	0	5	hop	NN	*)	-	-	-	-	-
+pri_0049	0	6	but	CC	*	-	-	-	-	-
+pri_0049	0	7	African	JJ	(NP*	-	-	-	-	-
+pri_0049	0	8	hip	NN	*	-	-	-	-	-
+pri_0049	0	9	-	HYPH	*	-	-	-	-	-
+pri_0049	0	10	hop	NN	*))	-	-	-	-	-
+pri_0049	0	11	with	IN	(PP*	-	-	-	-	-
+pri_0049	0	12	African	JJ	(NP(NP*	-	-	-	-	-
+pri_0049	0	13	instruments	NNS	*)	-	-	-	-	-
+pri_0049	0	14	,	,	*	-	-	-	-	-
+pri_0049	0	15	you	PRP	(PRN(S(NP*)	-	-	-	-	-
+pri_0049	0	16	know	VBP	(VP*)))	know	01	1	-	-
+pri_0049	0	17	,	,	*	-	-	-	-	-
+pri_0049	0	18	African	JJ	(NP*	-	-	-	-	-
+pri_0049	0	19	chant	NN	*)	-	-	-	-	-
+pri_0049	0	20	,	,	*	-	-	-	-	-
+pri_0049	0	21	traditional	JJ	(NP*	-	-	-	-	-
+pri_0049	0	22	sounds	NNS	*)))))	sound	-	7	-	-
+pri_0049	0	23	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	That	DT	(TOP(S(NP*)	-	-	-	-	(17)
+pri_0049	0	1	is	VBZ	(VP*	be	01	1	-	-
+pri_0049	0	2	Amidu	NNP	(NP(NP*	-	-	-	-	-
+pri_0049	0	3	Barry	NNP	*)	-	-	-	-	-
+pri_0049	0	4	,	,	*	-	-	-	-	-
+pri_0049	0	5	one	CD	(NP(NP*	-	-	-	-	-
+pri_0049	0	6	half	NN	*)	half	-	1	-	-
+pri_0049	0	7	of	IN	(PP*	-	-	-	-	-
+pri_0049	0	8	the	DT	(NP(NP*	-	-	-	-	(5
+pri_0049	0	9	duo	NN	*)	-	-	-	-	-
+pri_0049	0	10	Positive	NNP	(NP(NP*	-	-	-	-	-
+pri_0049	0	11	Black	NNP	*	-	-	-	-	-
+pri_0049	0	12	Soul	NNP	*)	-	-	-	-	-
+pri_0049	0	13	or	CC	*	-	-	-	-	-
+pri_0049	0	14	PBS	NNP	(NP*)))))))	-	-	-	-	5)
+pri_0049	0	15	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	They	PRP	(TOP(S(NP*)	-	-	-	-	(5)
+pri_0049	0	1	are	VBP	(VP*	be	01	1	-	-
+pri_0049	0	2	the	DT	(NP(NP(NP*	-	-	-	-	-
+pri_0049	0	3	doyens	NNS	*)	-	-	-	-	-
+pri_0049	0	4	of	IN	(PP*	-	-	-	-	-
+pri_0049	0	5	Dakar	NNP	(NP(NP*	-	-	-	-	(1|(24
+pri_0049	0	6	's	POS	*)	-	-	-	-	24)
+pri_0049	0	7	hip	NN	(NML*	-	-	-	-	-
+pri_0049	0	8	-	HYPH	*	-	-	-	-	-
+pri_0049	0	9	hop	NN	*)	-	-	-	-	-
+pri_0049	0	10	scene	NN	*)))	-	-	-	-	1)
+pri_0049	0	11	,	,	*	-	-	-	-	-
+pri_0049	0	12	the	DT	(NP(NP*	-	-	-	-	-
+pri_0049	0	13	Sugar	NNP	*	-	-	-	-	-
+pri_0049	0	14	Hill	NNP	*	-	-	-	-	-
+pri_0049	0	15	Gang	NNP	*)	-	-	-	-	-
+pri_0049	0	16	of	IN	(PP*	-	-	-	-	-
+pri_0049	0	17	Senegal	NNP	(NP*))	-	-	-	-	(12)
+pri_0049	0	18	if	IN	(SBAR*	-	-	-	-	-
+pri_0049	0	19	you	PRP	(S(NP*)	-	-	-	-	-
+pri_0049	0	20	will	MD	(VP*))))))	-	-	-	-	-
+pri_0049	0	21	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	Positive	NNP	(TOP(S(S(NP*	-	-	-	-	(5
+pri_0049	0	1	Black	NNP	*	-	-	-	-	-
+pri_0049	0	2	Soul	NNP	*)	-	-	-	-	5)
+pri_0049	0	3	sings	VBZ	(VP*	sing	01	1	-	-
+pri_0049	0	4	in	IN	(PP*	-	-	-	-	-
+pri_0049	0	5	Senegal	NNP	(NP(NP(NP*	-	-	-	-	(12
+pri_0049	0	6	's	POS	*)	-	-	-	-	12)
+pri_0049	0	7	main	JJ	*	-	-	-	-	-
+pri_0049	0	8	language	NN	*)	-	-	-	-	-
+pri_0049	0	9	Wolof	NNP	*))))	-	-	-	-	-
+pri_0049	0	10	but	CC	*	-	-	-	-	-
+pri_0049	0	11	if	IN	(S(SBAR*	-	-	-	-	-
+pri_0049	0	12	the	DT	(S(NP*	-	-	-	-	(25
+pri_0049	0	13	music	NN	*)	-	-	-	-	25)
+pri_0049	0	14	sounds	VBZ	(VP*	sound	01	1	-	-
+pri_0049	0	15	like	IN	(SBAR*	-	-	-	-	-
+pri_0049	0	16	it	PRP	(S(NP*)	-	-	-	-	(25)
+pri_0049	0	17	comes	VBZ	(VP*	come	03	5	-	-
+pri_0049	0	18	straight	RB	(PP(ADVP*)	-	-	-	-	-
+pri_0049	0	19	out	IN	*	-	-	-	-	-
+pri_0049	0	20	of	IN	(PP*	-	-	-	-	-
+pri_0049	0	21	the	DT	(NP*	-	-	-	-	-
+pri_0049	0	22	Bronx	NNP	*)))))))))	-	-	-	-	-
+pri_0049	0	23	,	,	*	-	-	-	-	-
+pri_0049	0	24	well	UH	(INTJ*)	-	-	-	-	-
+pri_0049	0	25	,	,	*	-	-	-	-	-
+pri_0049	0	26	you	PRP	(NP*)	-	-	-	-	-
+pri_0049	0	27	are	VBP	(VP*	be	01	1	-	-
+pri_0049	0	28	not	RB	*	-	-	-	-	-
+pri_0049	0	29	far	RB	(ADVP*	-	-	-	-	-
+pri_0049	0	30	off	RB	*)))	-	-	-	-	-
+pri_0049	0	31	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	PBS	NNP	(TOP(S(NP*)	-	-	-	-	(5)
+pri_0049	0	1	produce	VBP	(VP*	produce	01	2	-	-
+pri_0049	0	2	their	PRP$	(NP*	-	-	-	-	(5)
+pri_0049	0	3	albums	NNS	*)	-	-	-	-	-
+pri_0049	0	4	in	IN	(PP*	-	-	-	-	-
+pri_0049	0	5	New	NNP	(NP*	-	-	-	-	(20
+pri_0049	0	6	York	NNP	*)))	-	-	-	-	20)
+pri_0049	0	7	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	Lead	JJ	(TOP(S(NP(NML*	-	-	-	-	(17
+pri_0049	0	1	singer	NN	*)	-	-	-	-	-
+pri_0049	0	2	Amidu	NNP	*	-	-	-	-	-
+pri_0049	0	3	Berry	NNP	*)	-	-	-	-	17)
+pri_0049	0	4	says	VBZ	(VP*	say	01	1	-	-
+pri_0049	0	5	New	NNP	(SBAR(S(NP(NML*	-	-	-	-	(0|(20
+pri_0049	0	6	York	NNP	*)	-	-	-	-	20)
+pri_0049	0	7	producers	NNS	*)	producer	-	2	-	0)
+pri_0049	0	8	make	VBP	(VP*	make	02	4	-	-
+pri_0049	0	9	hip	NN	(S(NP(NP*	-	-	-	-	-
+pri_0049	0	10	-	HYPH	*	-	-	-	-	-
+pri_0049	0	11	hop	NN	*)	-	-	-	-	-
+pri_0049	0	12	in	IN	(PP*	-	-	-	-	-
+pri_0049	0	13	any	DT	(NP*	-	-	-	-	-
+pri_0049	0	14	language	NN	*)))	-	-	-	-	-
+pri_0049	0	15	come	VB	(VP*	come	09	3	-	-
+pri_0049	0	16	out	RP	(PRT*)	-	-	-	-	-
+pri_0049	0	17	sounding	VBG	(S(VP*	sound	01	1	-	-
+pri_0049	0	18	right	JJ	(ADJP*)))))))))	-	-	-	-	-
+pri_0049	0	19	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	They	PRP	(TOP(S(NP*)	-	-	-	-	(0)
+pri_0049	0	1	know	VBP	(VP*	know	01	3	-	-
+pri_0049	0	2	how	WRB	(SBAR(WHADVP*)	-	-	-	-	-
+pri_0049	0	3	to	TO	(S(VP*	-	-	-	-	-
+pri_0049	0	4	make	VB	(VP*	make	02	4	-	-
+pri_0049	0	5	a	DT	(S(NP*	-	-	-	-	-
+pri_0049	0	6	hip	NN	(NML*	-	-	-	-	-
+pri_0049	0	7	-	HYPH	*	-	-	-	-	-
+pri_0049	0	8	hop	NN	*)	-	-	-	-	-
+pri_0049	0	9	record	NN	*)	record	-	3	-	-
+pri_0049	0	10	sound	VB	(VP*	sound	01	1	-	-
+pri_0049	0	11	good	JJ	(ADJP*))))))))	-	-	-	-	-
+pri_0049	0	12	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	They	PRP	(TOP(S(S(NP*)	-	-	-	-	(0)
+pri_0049	0	1	know	VBP	(VP*	know	01	2	-	-
+pri_0049	0	2	the	DT	(NP(NP*	-	-	-	-	-
+pri_0049	0	3	sound	NN	*)	sound	-	7	-	-
+pri_0049	0	4	of	IN	(PP*	-	-	-	-	-
+pri_0049	0	5	hip	NN	(NP*	-	-	-	-	-
+pri_0049	0	6	-	HYPH	*	-	-	-	-	-
+pri_0049	0	7	hop	NN	*)))	-	-	-	-	-
+pri_0049	0	8	,	,	*	-	-	-	-	-
+pri_0049	0	9	you	PRP	(PRN(S(NP*)	-	-	-	-	-
+pri_0049	0	10	know	VBP	(VP*)))))	know	01	1	-	-
+pri_0049	0	11	,	,	*	-	-	-	-	-
+pri_0049	0	12	and	CC	*	-	-	-	-	-
+pri_0049	0	13	they	PRP	(S(NP*)	-	-	-	-	(0)
+pri_0049	0	14	have	VBP	(VP*	have	01	-	-	-
+pri_0049	0	15	got	VBN	(VP*	get	02	1	-	-
+pri_0049	0	16	the	DT	(NP(NP*	-	-	-	-	-
+pri_0049	0	17	equipment	NN	*)	-	-	-	-	-
+pri_0049	0	18	and	CC	*	-	-	-	-	-
+pri_0049	0	19	the	DT	(NP*	-	-	-	-	-
+pri_0049	0	20	engineers	NNS	*)))))	-	-	-	-	-
+pri_0049	0	21	and	CC	*	-	-	-	-	-
+pri_0049	0	22	they	PRP	(S(NP*)	-	-	-	-	(0)
+pri_0049	0	23	know	VBP	(VP*	know	01	3	-	-
+pri_0049	0	24	how	WRB	(SBAR(WHADVP*)	-	-	-	-	-
+pri_0049	0	25	to	TO	(S(VP*	-	-	-	-	-
+pri_0049	0	26	handle	VB	(VP*	handle	01	2	-	-
+pri_0049	0	27	it	PRP	(NP*)))))))	-	-	-	-	-
+pri_0049	0	28	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	But	CC	(TOP(S*	-	-	-	-	-
+pri_0049	0	1	Positive	NNP	(NP(NP*	-	-	-	-	(5
+pri_0049	0	2	Black	NNP	*	-	-	-	-	-
+pri_0049	0	3	Soul	NNP	*	-	-	-	-	-
+pri_0049	0	4	's	POS	*)	-	-	-	-	5)
+pri_0049	0	5	music	NN	*)	-	-	-	-	-
+pri_0049	0	6	is	VBZ	(VP*	be	01	1	-	-
+pri_0049	0	7	first	RB	(ADVP*	-	-	-	-	-
+pri_0049	0	8	and	CC	*	-	-	-	-	-
+pri_0049	0	9	foremost	RB	*)	-	-	-	-	-
+pri_0049	0	10	Senegalese	JJ	(NP*	-	-	-	-	-
+pri_0049	0	11	music	NN	*))	-	-	-	-	-
+pri_0049	0	12	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	When	WRB	(TOP(S(SBAR(WHADVP*)	-	-	-	-	-
+pri_0049	0	1	American	JJ	(S(NP(NML*	-	-	-	-	(23
+pri_0049	0	2	saxophonist	NN	*)	-	-	-	-	-
+pri_0049	0	3	David	NNP	*	-	-	-	-	-
+pri_0049	0	4	Murray	NNP	*)	-	-	-	-	23)
+pri_0049	0	5	recorded	VBD	(VP*	record	01	1	-	-
+pri_0049	0	6	his	PRP$	(NP(NP*	-	-	-	-	(23)
+pri_0049	0	7	acclaimed	JJ	*	-	-	-	-	-
+pri_0049	0	8	afrocentric	JJ	*	-	-	-	-	-
+pri_0049	0	9	jazz	NN	*	-	-	-	-	-
+pri_0049	0	10	album	NN	*)	-	-	-	-	-
+pri_0049	0	11	,	,	*	-	-	-	-	-
+pri_0049	0	12	Fo	NNP	(NP*	-	-	-	-	-
+pri_0049	0	13	Juke	NNP	*	-	-	-	-	-
+pri_0049	0	14	Review	NNP	*))	-	-	-	-	-
+pri_0049	0	15	in	IN	(PP*	-	-	-	-	-
+pri_0049	0	16	Dakar	NNP	(NP*)))))	-	-	-	-	(24)
+pri_0049	0	17	,	,	*	-	-	-	-	-
+pri_0049	0	18	he	PRP	(NP*)	-	-	-	-	(23)
+pri_0049	0	19	recruited	VBD	(VP*	recruit	01	1	-	-
+pri_0049	0	20	Amidu	NNP	(NP(NP(NP*	-	-	-	-	(9|(17
+pri_0049	0	21	Berry	NNP	*)	-	-	-	-	17)
+pri_0049	0	22	and	CC	*	-	-	-	-	-
+pri_0049	0	23	DJ	NNP	(NP*	-	-	-	-	(15
+pri_0049	0	24	Awadi	NNP	*))	-	-	-	-	15)
+pri_0049	0	25	from	IN	(PP*	-	-	-	-	-
+pri_0049	0	26	PBS	NNP	(NP*)))	-	-	-	-	(5)|9)
+pri_0049	0	27	to	TO	(S(VP*	-	-	-	-	-
+pri_0049	0	28	show	VB	(VP*	show	01	1	-	-
+pri_0049	0	29	what	WP	(SBAR(WHNP*	-	-	-	-	-
+pri_0049	0	30	an	DT	*	-	-	-	-	-
+pri_0049	0	31	edge	NN	*)	edge	-	4	-	-
+pri_0049	0	32	West	JJ	(S(NP(ADJP*	-	-	-	-	-
+pri_0049	0	33	African	JJ	*)	-	-	-	-	-
+pri_0049	0	34	music	NN	*)	-	-	-	-	-
+pri_0049	0	35	can	MD	(VP*	-	-	-	-	-
+pri_0049	0	36	really	RB	(ADVP*)	-	-	-	-	-
+pri_0049	0	37	have	VB	(VP*))))))))	have	03	2	-	-
+pri_0049	0	38	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	When	WRB	(TOP(S(SBAR(WHADVP*)	-	-	-	-	-
+pri_0049	0	1	Awadi	NNP	(S(NP*	-	-	-	-	(9|(15)
+pri_0049	0	2	and	CC	*	-	-	-	-	-
+pri_0049	0	3	Barry	NNP	*)	-	-	-	-	(17)|9)
+pri_0049	0	4	performed	VBD	(VP*)))	perform	01	2	-	-
+pri_0049	0	5	,	,	*	-	-	-	-	-
+pri_0049	0	6	they	PRP	(S(NP*)	-	-	-	-	(9)
+pri_0049	0	7	managed	VBD	(VP*	manage	02	1	-	-
+pri_0049	0	8	simultaneously	RB	(ADVP*)	-	-	-	-	-
+pri_0049	0	9	to	TO	(S(VP*	-	-	-	-	-
+pri_0049	0	10	bathe	VB	(VP*	bathe	01	2	-	-
+pri_0049	0	11	in	IN	(PP*	-	-	-	-	-
+pri_0049	0	12	the	DT	(NP(NP*	-	-	-	-	-
+pri_0049	0	13	group	NN	*)	group	-	1	-	-
+pri_0049	0	14	of	IN	(PP*	-	-	-	-	-
+pri_0049	0	15	American	JJ	(NP*	-	-	-	-	-
+pri_0049	0	16	hip	NN	*	-	-	-	-	-
+pri_0049	0	17	-	HYPH	*	-	-	-	-	-
+pri_0049	0	18	hop	NN	*)))))))))	-	-	-	-	-
+pri_0049	0	19	and	CC	*	-	-	-	-	-
+pri_0049	0	20	they	PRP	(S(NP*)	-	-	-	-	(9)
+pri_0049	0	21	keep	VBP	(VP*	keep	01	1	-	-
+pri_0049	0	22	a	DT	(NP*	-	-	-	-	-
+pri_0049	0	23	clear	JJ	*	-	-	-	-	-
+pri_0049	0	24	sense	NN	*	sense	-	4	-	-
+pri_0049	0	25	that	IN	(SBAR*	-	-	-	-	-
+pri_0049	0	26	they	PRP	(S(NP*)	-	-	-	-	(9)
+pri_0049	0	27	are	VBP	(VP*	be	01	1	-	-
+pri_0049	0	28	from	IN	(PP*	-	-	-	-	-
+pri_0049	0	29	Senegal	NNP	(NP*))))))))	-	-	-	-	(12)
+pri_0049	0	30	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	This	DT	(TOP(S(SBAR(S(NP(NP*	-	-	-	-	-
+pri_0049	0	1	connection	NN	*)	connection	01	1	-	-
+pri_0049	0	2	to	IN	(PP*	-	-	-	-	-
+pri_0049	0	3	national	JJ	(NP(ADJP*	-	-	-	-	-
+pri_0049	0	4	and	CC	*	-	-	-	-	-
+pri_0049	0	5	musical	JJ	*)	-	-	-	-	-
+pri_0049	0	6	identities	NNS	*)))	-	-	-	-	-
+pri_0049	0	7	results	VBZ	(VP*	result	01	1	-	-
+pri_0049	0	8	partly	RB	(PP(ADVP*)	-	-	-	-	-
+pri_0049	0	9	from	IN	*	-	-	-	-	-
+pri_0049	0	10	the	DT	(NP*	-	-	-	-	-
+pri_0049	0	11	fact	NN	*	fact	-	2	-	-
+pri_0049	0	12	that	IN	(SBAR*	-	-	-	-	-
+pri_0049	0	13	many	JJ	(S(NP*	-	-	-	-	(16
+pri_0049	0	14	Senegalese	JJ	*	-	-	-	-	-
+pri_0049	0	15	artists	NNS	*)	-	-	-	-	16)
+pri_0049	0	16	want	VBP	(VP*	want	01	1	-	(8)
+pri_0049	0	17	to	TO	(S(VP*	-	-	-	-	-
+pri_0049	0	18	stay	VB	(VP*	stay	01	1	-	-
+pri_0049	0	19	in	IN	(PP*	-	-	-	-	-
+pri_0049	0	20	Senegal	NNP	(NP*))	-	-	-	-	(12)
+pri_0049	0	21	to	TO	(S(VP*	-	-	-	-	-
+pri_0049	0	22	live	VB	(VP*	live	01	2	-	-
+pri_0049	0	23	and	CC	*	-	-	-	-	-
+pri_0049	0	24	work	VB	*))))))))))))))	work	01	1	-	-
+pri_0049	0	25	says	VBZ	(VP*)	say	01	1	-	-
+pri_0049	0	26	PBS	NNP	(NP(NML*	-	-	-	-	(22|(5)
+pri_0049	0	27	singer	NN	*)	-	-	-	-	-
+pri_0049	0	28	Tidia	NNP	*	-	-	-	-	-
+pri_0049	0	29	Awadi	NNP	*)	-	-	-	-	22)
+pri_0049	0	30	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	It	PRP	(TOP(S(NP*)	-	-	-	-	(8)
+pri_0049	0	1	is	VBZ	(VP*	be	01	1	-	-
+pri_0049	0	2	because	IN	(SBAR*	-	-	-	-	-
+pri_0049	0	3	they	PRP	(S(NP*)	-	-	-	-	(16)
+pri_0049	0	4	know	VBP	(VP*	know	01	1	-	-
+pri_0049	0	5	they	PRP	(SBAR(S(NP*)	-	-	-	-	(16)
+pri_0049	0	6	have	VBP	(VP*	have	03	2	-	-
+pri_0049	0	7	the	DT	(NP(NP*	-	-	-	-	-
+pri_0049	0	8	inspiration	NN	*)	-	-	-	-	-
+pri_0049	0	9	in	IN	(PP*	-	-	-	-	-
+pri_0049	0	10	their	PRP$	(NP*	-	-	-	-	(12|(16)
+pri_0049	0	11	country	NN	*))))))))))	country	-	3	-	12)
+pri_0049	0	12	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	I	PRP	(TOP(S(NP*)	-	-	-	-	(22)
+pri_0049	0	1	think	VBP	(VP*	think	01	1	-	-
+pri_0049	0	2	everybody	NN	(SBAR(S(NP*)	-	-	-	-	(11)
+pri_0049	0	3	want	VBP	(VP(VP*	want	01	1	-	-
+pri_0049	0	4	to	TO	(S(VP*	-	-	-	-	-
+pri_0049	0	5	stay	VB	(VP*	stay	01	1	-	-
+pri_0049	0	6	in	IN	(PP*	-	-	-	-	-
+pri_0049	0	7	his	PRP$	(NP*	-	-	-	-	(4|(11)
+pri_0049	0	8	country	NN	*))))))	country	-	3	-	4)
+pri_0049	0	9	,	,	*	-	-	-	-	-
+pri_0049	0	10	want	VBP	(VP*	want	01	1	-	-
+pri_0049	0	11	to	TO	(S(VP*	-	-	-	-	-
+pri_0049	0	12	die	VB	(VP*	die	01	1	-	-
+pri_0049	0	13	in	IN	(PP*	-	-	-	-	-
+pri_0049	0	14	his	PRP$	(NP*	-	-	-	-	(4|(11)
+pri_0049	0	15	country	NN	*))))))))))	country	-	3	-	4)
+pri_0049	0	16	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	If	IN	(TOP(S(SBAR*	-	-	-	-	-
+pri_0049	0	1	you	PRP	(S(NP*)	-	-	-	-	-
+pri_0049	0	2	can	MD	(VP*	-	-	-	-	-
+pri_0049	0	3	stay	VB	(VP(VP*)	stay	01	1	-	-
+pri_0049	0	4	and	CC	*	-	-	-	-	-
+pri_0049	0	5	make	VB	(VP*	make	02	4	-	-
+pri_0049	0	6	it	PRP	(S(NP*)	-	-	-	-	-
+pri_0049	0	7	happen	VB	(VP*)))	happen	01	1	-	-
+pri_0049	0	8	,	,	*	-	-	-	-	-
+pri_0049	0	9	the	DT	(NP(NP*	-	-	-	-	-
+pri_0049	0	10	place	NN	*)	place	-	1	-	-
+pri_0049	0	11	where	WRB	(SBAR(SBAR(WHADVP*)	-	-	-	-	-
+pri_0049	0	12	you	PRP	(S(NP*)	-	-	-	-	-
+pri_0049	0	13	was	VBD	(VP*	be	03	-	-	-
+pri_0049	0	14	born	VBN	(VP*))))	bear	02	-	-	-
+pri_0049	0	15	,	,	*	-	-	-	-	-
+pri_0049	0	16	where	WRB	(SBAR(WHADVP*)	-	-	-	-	-
+pri_0049	0	17	you	PRP	(S(NP*)	-	-	-	-	-
+pri_0049	0	18	grew	VBD	(VP*	grow	04	5	-	-
+pri_0049	0	19	up	RP	(PRT*))))))))))	-	-	-	-	-
+pri_0049	0	20	then	RB	(ADVP*)	-	-	-	-	-
+pri_0049	0	21	try	VB	(VP*	try	01	1	-	-
+pri_0049	0	22	to	TO	(S(VP*	-	-	-	-	-
+pri_0049	0	23	make	VB	(VP*	make	14	8	-	-
+pri_0049	0	24	it	PRP	(NP*)	-	-	-	-	-
+pri_0049	0	25	there	RB	(ADVP*)))))	-	-	-	-	-
+pri_0049	0	26	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	It	PRP	(TOP(S(NP*)	-	-	-	-	-
+pri_0049	0	1	's	VBZ	(VP*	be	-	1	-	-
+pri_0049	0	2	possible	JJ	(ADJP*))	-	-	-	-	-
+pri_0049	0	3	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	Senegalese	JJ	(TOP(S(NP*	-	-	-	-	(13
+pri_0049	0	1	rappers	NNS	*)	-	-	-	-	13)
+pri_0049	0	2	are	VBP	(VP*	be	03	-	-	-
+pri_0049	0	3	also	RB	(ADVP*)	-	-	-	-	-
+pri_0049	0	4	identified	VBN	(VP*	identify	01	1	-	-
+pri_0049	0	5	by	IN	(PP*	-	-	-	-	-
+pri_0049	0	6	what	WP	(SBAR(WHNP*)	-	-	-	-	-
+pri_0049	0	7	they	PRP	(S(NP*)	-	-	-	-	(13)
+pri_0049	0	8	say	VBP	(VP*	say	01	1	-	-
+pri_0049	0	9	in	IN	(PP*	-	-	-	-	-
+pri_0049	0	10	their	PRP$	(NP*	-	-	-	-	(13)
+pri_0049	0	11	tracks	NNS	*))))))))	track	-	5	-	-
+pri_0049	0	12	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	Western	JJ	(TOP(S(NP*	-	-	-	-	-
+pri_0049	0	1	hip	NN	(NML*	-	-	-	-	-
+pri_0049	0	2	-	HYPH	*	-	-	-	-	-
+pri_0049	0	3	hop	NN	*)	-	-	-	-	-
+pri_0049	0	4	lyrics	NNS	*)	-	-	-	-	-
+pri_0049	0	5	often	RB	(ADVP*)	-	-	-	-	-
+pri_0049	0	6	revolve	VB	(VP*	revolve	01	2	-	-
+pri_0049	0	7	around	IN	(PP*	-	-	-	-	-
+pri_0049	0	8	the	DT	(NP(NP(NP*	-	-	-	-	-
+pri_0049	0	9	accumulation	NN	*)	accumulation	-	2	-	-
+pri_0049	0	10	of	IN	(PP*	-	-	-	-	-
+pri_0049	0	11	material	JJ	(NP*	-	-	-	-	-
+pri_0049	0	12	wealth	NN	*)))	wealth	-	3	-	-
+pri_0049	0	13	and	CC	*	-	-	-	-	-
+pri_0049	0	14	throwing	VBG	(S(VP*	throw	03	6	-	-
+pri_0049	0	15	parties	NNS	(NP*))))))	-	-	-	-	-
+pri_0049	0	16	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	PBS	NNP	(TOP(S(NP(NP*)	-	-	-	-	(5)
+pri_0049	0	1	and	CC	*	-	-	-	-	-
+pri_0049	0	2	other	JJ	(NP*	-	-	-	-	-
+pri_0049	0	3	Senegalese	JJ	*	-	-	-	-	-
+pri_0049	0	4	rap	NN	*	-	-	-	-	-
+pri_0049	0	5	groups	NNS	*))	group	-	1	-	-
+pri_0049	0	6	have	VBP	(VP*	have	03	2	-	-
+pri_0049	0	7	different	JJ	(NP*	-	-	-	-	-
+pri_0049	0	8	concerns	NNS	*))	concern	-	1	-	-
+pri_0049	0	9	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	In	IN	(TOP(S(PP*	-	-	-	-	-
+pri_0049	0	1	the	DT	(NP(NP*	-	-	-	-	-
+pri_0049	0	2	grim	JJ	*	-	-	-	-	-
+pri_0049	0	3	lyrics	NNS	*)	-	-	-	-	-
+pri_0049	0	4	to	IN	(PP*	-	-	-	-	-
+pri_0049	0	5	Leboho	NNP	(NP*	-	-	-	-	-
+pri_0049	0	6	Inwa	NNP	*))))	-	-	-	-	-
+pri_0049	0	7	,	,	*	-	-	-	-	-
+pri_0049	0	8	the	DT	(NP*	-	-	-	-	-
+pri_0049	0	9	executioner	NN	*)	-	-	-	-	-
+pri_0049	0	10	is	VBZ	(VP*	be	01	1	-	-
+pri_0049	0	11	black	JJ	(ADJP*))	-	-	-	-	-
+pri_0049	0	12	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	PBS	NNP	(TOP(S(NP*)	-	-	-	-	(5)
+pri_0049	0	1	raps	VBP	(VP*	rap	01	3	-	-
+pri_0049	0	2	that	IN	(SBAR*	-	-	-	-	-
+pri_0049	0	3	Africans	NNPS	(S(NP*)	-	-	-	-	(19)
+pri_0049	0	4	are	VBP	(VP*	be	01	1	-	-
+pri_0049	0	5	their	PRP$	(NP*	-	-	-	-	(19)
+pri_0049	0	6	worst	JJS	*	-	-	-	-	-
+pri_0049	0	7	enemies	NNS	*)))))	enemy	-	2	-	-
+pri_0049	0	8	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	Front	NN	(TOP(S(S(NP(NML*	front	-	9	-	(17
+pri_0049	0	1	man	NN	*)	man	-	2	-	-
+pri_0049	0	2	Amidu	NNP	*	-	-	-	-	-
+pri_0049	0	3	Barry	NNP	*)	-	-	-	-	17)
+pri_0049	0	4	may	MD	(VP*	-	-	-	-	-
+pri_0049	0	5	look	VB	(VP*	look	02	2	-	-
+pri_0049	0	6	like	IN	(SBAR*	-	-	-	-	-
+pri_0049	0	7	he	PRP	(S(NP*)	-	-	-	-	(17)
+pri_0049	0	8	got	VBD	(VP*	get	01	1	-	-
+pri_0049	0	9	his	PRP$	(NP*	-	-	-	-	(17)
+pri_0049	0	10	moves	NNS	*)	move	01	2	-	-
+pri_0049	0	11	on	IN	(PP*	-	-	-	-	-
+pri_0049	0	12	the	DT	(NP(NP*	-	-	-	-	-
+pri_0049	0	13	streets	NNS	*)	-	-	-	-	-
+pri_0049	0	14	of	IN	(PP*	-	-	-	-	-
+pri_0049	0	15	Brooklyn	NNP	(NP*))))))))))	-	-	-	-	-
+pri_0049	0	16	but	CC	*	-	-	-	-	-
+pri_0049	0	17	his	PRP$	(S(NP(NP*	-	-	-	-	(17)
+pri_0049	0	18	critique	NN	*)	-	-	-	-	-
+pri_0049	0	19	of	IN	(PP*	-	-	-	-	-
+pri_0049	0	20	post-colonial	JJ	(NP(NP*	-	-	-	-	-
+pri_0049	0	21	finger	NN	*	-	-	-	-	-
+pri_0049	0	22	pointing	NN	*)	-	-	-	-	-
+pri_0049	0	23	in	IN	(PP*	-	-	-	-	-
+pri_0049	0	24	Africa	NNP	(NP*)))))	-	-	-	-	(18)
+pri_0049	0	25	tells	VBZ	(VP*	tell	01	1	-	-
+pri_0049	0	26	a	DT	(NP*	-	-	-	-	-
+pri_0049	0	27	different	JJ	*	-	-	-	-	-
+pri_0049	0	28	story	NN	*)))	story	-	4	-	-
+pri_0049	0	29	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	You	PRP	(TOP(S(PRN(S(NP*)	-	-	-	-	-
+pri_0049	0	1	know	VBP	(VP*)))	know	01	1	-	-
+pri_0049	0	2	,	,	*	-	-	-	-	-
+pri_0049	0	3	in	IN	(PP*	-	-	-	-	-
+pri_0049	0	4	Africa	NNP	(NP*))	-	-	-	-	(18)
+pri_0049	0	5	every	DT	(NP(NP*	-	-	-	-	-
+pri_0049	0	6	time	NN	*)	time	-	1	-	-
+pri_0049	0	7	you	PRP	(PRN(S(NP*)	-	-	-	-	-
+pri_0049	0	8	know	VBP	(VP*)))	know	01	1	-	-
+pri_0049	0	9	something	NN	(SBAR(S(NP(NP*)	something	-	1	-	-
+pri_0049	0	10	bad	JJ	(ADJP*))	-	-	-	-	-
+pri_0049	0	11	happens	VBZ	(VP*))))	happen	01	1	-	-
+pri_0049	0	12	,	,	*	-	-	-	-	-
+pri_0049	0	13	everybody	NN	(NP*)	-	-	-	-	(3)
+pri_0049	0	14	like	UH	(INTJ*)	-	-	-	-	-
+pri_0049	0	15	you	PRP	(PRN(S(NP*)	-	-	-	-	-
+pri_0049	0	16	know	VBP	(VP*)))	know	01	1	-	-
+pri_0049	0	17	is	VBZ	(VP*	be	01	1	-	-
+pri_0049	0	18	because	IN	(PP*	-	-	-	-	-
+pri_0049	0	19	of	IN	*	-	-	-	-	-
+pri_0049	0	20	the	DT	(NP(NP*	-	-	-	-	-
+pri_0049	0	21	white	JJ	*	-	-	-	-	-
+pri_0049	0	22	man	NN	*)	man	-	2	-	-
+pri_0049	0	23	,	,	*	-	-	-	-	-
+pri_0049	0	24	you	PRP	(PRN(S(NP*)	-	-	-	-	-
+pri_0049	0	25	know	VBP	(VP*)))	know	01	2	-	-
+pri_0049	0	26	the	DT	(NP*	-	-	-	-	-
+pri_0049	0	27	colonization	NN	*)	-	-	-	-	-
+pri_0049	0	28	,	,	*	-	-	-	-	-
+pri_0049	0	29	the	DT	(NP*	-	-	-	-	-
+pri_0049	0	30	slavery	NN	*))))	-	-	-	-	-
+pri_0049	0	31	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	They	PRP	(TOP(S(NP*)	-	-	-	-	(3)
+pri_0049	0	1	do	VBP	(VP*	do	01	-	-	-
+pri_0049	0	2	n't	RB	*	-	-	-	-	-
+pri_0049	0	3	realize	VB	(VP*	realize	01	1	-	-
+pri_0049	0	4	that	IN	(SBAR*	-	-	-	-	-
+pri_0049	0	5	you	PRP	(S(PRN(S(NP*))	-	-	-	-	-
+pri_0049	0	6	know	VBP	(VP*))	know	01	1	-	-
+pri_0049	0	7	the	DT	(NP*	-	-	-	-	-
+pri_0049	0	8	real	JJ	*	-	-	-	-	-
+pri_0049	0	9	execution	NN	*)	execution	02	2	-	-
+pri_0049	0	10	is	VBZ	(VP(VP*	be	01	1	-	-
+pri_0049	0	11	really	RB	(ADVP*)	-	-	-	-	-
+pri_0049	0	12	black	JJ	(ADJP*))	-	-	-	-	-
+pri_0049	0	13	's	VBZ	(VP*	-	-	-	-	-
+pri_0049	0	14	black	JJ	(ADJP*	-	-	-	-	-
+pri_0049	0	15	like	IN	(PP*	-	-	-	-	-
+pri_0049	0	16	them	PRP	(NP*)))))))))	-	-	-	-	(3)
+pri_0049	0	17	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	So	RB	(TOP(S(ADVP*)	-	-	-	-	*	*
+pri_0049	0	1	before	IN	(SBAR*	-	-	-	-	*	*
+pri_0049	0	2	they	PRP	(S(NP*)	-	-	-	-	*	*
+pri_0049	0	3	say	VBP	(VP*	say	01	1	-	*	*
+pri_0049	0	4	it	PRP	(SBAR(S(S(NP*)	-	-	-	-	*	*
+pri_0049	0	5	is	VBZ	(VP*	be	01	1	-	*	*
+pri_0049	0	6	a	DT	(NP*	-	-	-	-	*	*
+pri_0049	0	7	white	JJ	(NML*	-	-	-	-	*	*
+pri_0049	0	8	man	NN	*)	man	-	3	-	*	*
+pri_0049	0	9	tangle	NN	*)	tangle	01	3	-	*	*
+pri_0049	0	10	you	PRP	(PRN(S(NP*)	-	-	-	-	*	*
+pri_0049	0	11	know	VBP	(VP*)))))	know	01	1	-	*	*
+pri_0049	0	12	it	PRP	(S(NP(NP*))	-	-	-	-	*	*
+pri_0049	0	13	's	VBZ	(VP*	be	-	1	-	*	*
+pri_0049	0	14	because	IN	(PP*	-	-	-	-	*	*
+pri_0049	0	15	of	IN	*	-	-	-	-	*	*
+pri_0049	0	16	a	DT	(NP*	-	-	-	-	*	*
+pri_0049	0	17	white	JJ	*	-	-	-	-	*	*
+pri_0049	0	18	man	NN	*))	man	-	3	-	*	*
+pri_0049	0	19	that	IN	(SBAR*	-	-	-	-	*	*
+pri_0049	0	20	this	DT	(S(NP*)	-	-	-	-	*	*
+pri_0049	0	21	happens	VBZ	(VP*))))))))))	happen	01	1	-	*	*
+pri_0049	0	22	and	CC	*	-	-	-	-	*	*
+pri_0049	0	23	they	PRP	(NP*)	-	-	-	-	*	*
+pri_0049	0	24	got	VBP	(VP*	get	06	12	-	*	*
+pri_0049	0	25	to	TO	(S(VP*	-	-	-	-	*	*
+pri_0049	0	26	,	,	*	-	-	-	-	*	*
+pri_0049	0	27	you	PRP	(PRN(S(NP*)	-	-	-	-	*	*
+pri_0049	0	28	know	VBP	(VP*)))	know	01	1	-	*	*
+pri_0049	0	29	,	,	*	-	-	-	-	*	*
+pri_0049	0	30	check	VB	(VP*	check	01	1	-	*	*
+pri_0049	0	31	around	RB	(ADVP*)))))	-	-	-	-	*	*
+pri_0049	0	32	and	CC	*	-	-	-	-	*	*
+pri_0049	0	33	they	PRP	(S(NP*)	-	-	-	-	*	*
+pri_0049	0	34	say	VBP	(VP*	say	01	1	-	*	*
+pri_0049	0	35	who	WP	(SBAR(WHNP*)	-	-	-	-	(ARG1*)	(ARG1*)
+pri_0049	0	36	is	VBZ	(S(VP*	be	01	1	-	(V*)	(V*)
+pri_0049	0	37	the	DT	(NP*	-	-	-	-	(ARG2*	(ARG2*
+pri_0049	0	38	real	JJ	*	-	-	-	-	*	*
+pri_0049	0	39	guilty	JJ	*))))))	-	-	-	-	*)	*)
+pri_0049	0	40	.	.	*))	-	-	-	-	*	*
+
+pri_0049	0	0	We	PRP	(TOP(S(NP*)	-	-	-	-	-
+pri_0049	0	1	got	VBP	(VP(VP*	get	06	12	-	-
+pri_0049	0	2	to	TO	(S(VP*	-	-	-	-	-
+pri_0049	0	3	accept	VB	(VP*	accept	01	2	-	-
+pri_0049	0	4	it	PRP	(NP*)))))	-	-	-	-	(6)
+pri_0049	0	5	and	CC	*	-	-	-	-	-
+pri_0049	0	6	try	VBP	(VP*	try	01	1	-	-
+pri_0049	0	7	to	TO	(S(VP*	-	-	-	-	-
+pri_0049	0	8	,	,	*	-	-	-	-	-
+pri_0049	0	9	you	PRP	(PRN(S(NP*)	-	-	-	-	-
+pri_0049	0	10	know	VBP	(VP*)))	know	01	1	-	-
+pri_0049	0	11	,	,	*	-	-	-	-	-
+pri_0049	0	12	change	VB	(VP*	change	01	1	-	-
+pri_0049	0	13	the	DT	(NP*	-	-	-	-	-
+pri_0049	0	14	things	NNS	*))	thing	-	1	-	-
+pri_0049	0	15	,	,	*	-	-	-	-	-
+pri_0049	0	16	make	VB	(VP*	make	02	3	-	-
+pri_0049	0	17	the	DT	(S(NP*	-	-	-	-	-
+pri_0049	0	18	things	NNS	*)	thing	-	1	-	-
+pri_0049	0	19	better	JJR	(ADJP*)))))))	-	-	-	-	-
+pri_0049	0	20	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	Positive	NNP	(TOP(S(S(NP*	-	-	-	-	(5
+pri_0049	0	1	Black	NNP	*	-	-	-	-	-
+pri_0049	0	2	Soul	NNP	*)	-	-	-	-	5)
+pri_0049	0	3	are	VBP	(VP*	be	01	1	-	-
+pri_0049	0	4	now	RB	(ADVP*)	-	-	-	-	-
+pri_0049	0	5	the	DT	(NP(NP*	-	-	-	-	-
+pri_0049	0	6	oldsters	NNS	*)	-	-	-	-	-
+pri_0049	0	7	of	IN	(PP*	-	-	-	-	-
+pri_0049	0	8	Dakar	NNP	(NP(NP*	-	-	-	-	(1|(24
+pri_0049	0	9	's	POS	*)	-	-	-	-	24)
+pri_0049	0	10	hip	NN	(NML*	-	-	-	-	-
+pri_0049	0	11	-	HYPH	*	-	-	-	-	-
+pri_0049	0	12	hop	NN	*)	-	-	-	-	-
+pri_0049	0	13	scene	NN	*)))))	-	-	-	-	1)
+pri_0049	0	14	and	CC	*	-	-	-	-	-
+pri_0049	0	15	they	PRP	(S(NP*)	-	-	-	-	(5)
+pri_0049	0	16	have	VBP	(VP*	have	01	-	-	-
+pri_0049	0	17	established	VBN	(VP*	establish	01	1	-	-
+pri_0049	0	18	the	DT	(NP(NP(NP*	-	-	-	-	-
+pri_0049	0	19	template	NN	*)	-	-	-	-	-
+pri_0049	0	20	of	IN	(PP*	-	-	-	-	-
+pri_0049	0	21	social	JJ	(NP*	-	-	-	-	-
+pri_0049	0	22	consciousness	NN	*)))	-	-	-	-	-
+pri_0049	0	23	that	WDT	(SBAR(WHNP*)	-	-	-	-	-
+pri_0049	0	24	many	JJ	(S(NP(NP*	-	-	-	-	-
+pri_0049	0	25	Senegalese	JJ	*	-	-	-	-	-
+pri_0049	0	26	hip	NN	(NML*	-	-	-	-	-
+pri_0049	0	27	-	HYPH	*	-	-	-	-	-
+pri_0049	0	28	hop	NN	*)	-	-	-	-	-
+pri_0049	0	29	groups	NNS	*))	group	-	1	-	-
+pri_0049	0	30	follow	VBP	(VP*	follow	02	3	-	-
+pri_0049	0	31	like	IN	(PP*	-	-	-	-	-
+pri_0049	0	32	Bootin	NNP	(NP(NP*	-	-	-	-	-
+pri_0049	0	33	Bye	NNP	*)	-	-	-	-	-
+pri_0049	0	34	,	,	*	-	-	-	-	-
+pri_0049	0	35	which	WDT	(SBAR(WHNP*)	-	-	-	-	-
+pri_0049	0	36	recently	RB	(S(ADVP*)	-	-	-	-	-
+pri_0049	0	37	scored	VBD	(VP*	score	01	8	-	-
+pri_0049	0	38	this	DT	(NP(NP*	-	-	-	-	-
+pri_0049	0	39	hit	NN	*)	hit	-	3	-	-
+pri_0049	0	40	about	IN	(PP*	-	-	-	-	-
+pri_0049	0	41	AIDS	NNP	(NP*	-	-	-	-	-
+pri_0049	0	42	prevention	NN	*)))))))))))))))	-	-	-	-	-
+pri_0049	0	43	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	Again	RB	(TOP(FRAG(ADVP*)	-	-	-	-	-
+pri_0049	0	1	Amidu	NNP	(NP(NP*	-	-	-	-	(17
+pri_0049	0	2	Barry	NNP	*)	-	-	-	-	-
+pri_0049	0	3	from	IN	(PP*	-	-	-	-	-
+pri_0049	0	4	Postive	NNP	(NP*	-	-	-	-	(5
+pri_0049	0	5	Black	NNP	*	-	-	-	-	-
+pri_0049	0	6	Soul	NNP	*)))	-	-	-	-	17)|5)
+pri_0049	0	7	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	When	WRB	(TOP(S(S(SBAR(WHADVP*)	-	-	-	-	-
+pri_0049	0	1	we	PRP	(S(NP*)	-	-	-	-	(5)
+pri_0049	0	2	started	VBD	(VP*)))	start	01	2	-	-
+pri_0049	0	3	there	EX	(NP*)	-	-	-	-	-
+pri_0049	0	4	were	VBD	(VP*	be	02	3	-	-
+pri_0049	0	5	maybe	RB	(NP(NP(QP*	-	-	-	-	-
+pri_0049	0	6	two	CD	*	-	-	-	-	-
+pri_0049	0	7	or	CC	*	-	-	-	-	-
+pri_0049	0	8	three	CD	*)	-	-	-	-	-
+pri_0049	0	9	hip	NN	(NML*	-	-	-	-	-
+pri_0049	0	10	-	HYPH	*	-	-	-	-	-
+pri_0049	0	11	hop	NN	*)	-	-	-	-	-
+pri_0049	0	12	groups	NNS	*)	group	-	1	-	-
+pri_0049	0	13	in	IN	(PP*	-	-	-	-	-
+pri_0049	0	14	Dakar	NNP	(NP*)))))	-	-	-	-	(24)
+pri_0049	0	15	and	CC	*	-	-	-	-	-
+pri_0049	0	16	now	RB	(S(ADVP*)	-	-	-	-	-
+pri_0049	0	17	today	NN	(NP*)	today	-	1	-	(21)
+pri_0049	0	18	we	PRP	(NP*)	-	-	-	-	-
+pri_0049	0	19	got	VBP	(VP*	get	02	1	-	-
+pri_0049	0	20	more	JJR	(NP(NP(QP*	-	-	-	-	-
+pri_0049	0	21	than	IN	*	-	-	-	-	-
+pri_0049	0	22	2000	CD	*)	-	-	-	-	-
+pri_0049	0	23	groups	NNS	*)	group	-	1	-	-
+pri_0049	0	24	only	RB	(PP(ADVP*)	-	-	-	-	-
+pri_0049	0	25	in	IN	*	-	-	-	-	-
+pri_0049	0	26	Dakar	NNP	(NP(NP*)	-	-	-	-	(24
+pri_0049	0	27	,	,	*	-	-	-	-	-
+pri_0049	0	28	let	VBD	(S(VP*	let	01	1	-	-
+pri_0049	0	29	's	PRP	(S(NP*)	-	-	-	-	-
+pri_0049	0	30	say	VB	(VP*	say	01	1	-	-
+pri_0049	0	31	in	IN	(PP*	-	-	-	-	-
+pri_0049	0	32	Senegal	NNP	(NP*)))))))))))	-	-	-	-	(12)|24)
+pri_0049	0	33	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	Two	CD	(TOP(NP(QP*	-	-	-	-	-
+pri_0049	0	1	thousand	CD	*)	-	-	-	-	-
+pri_0049	0	2	hip	NN	(NML*	-	-	-	-	-
+pri_0049	0	3	-	HYPH	*	-	-	-	-	-
+pri_0049	0	4	hop	NN	*)	-	-	-	-	-
+pri_0049	0	5	bands	NNS	*	-	-	-	-	-
+pri_0049	0	6	?	.	*))	-	-	-	-	-
+
+pri_0049	0	0	Hip	NN	(TOP(NP(NP(NP(NML*	-	-	-	-	-
+pri_0049	0	1	-	HYPH	*	-	-	-	-	-
+pri_0049	0	2	hop	NN	*)	-	-	-	-	-
+pri_0049	0	3	bands	NNS	*)	-	-	-	-	-
+pri_0049	0	4	only	RB	(PP(ADVP*)	-	-	-	-	-
+pri_0049	0	5	in	IN	*	-	-	-	-	-
+pri_0049	0	6	Dakar	NNP	(NP*)))	-	-	-	-	(24)
+pri_0049	0	7	,	,	*	-	-	-	-	-
+pri_0049	0	8	not	RB	*	-	-	-	-	-
+pri_0049	0	9	the	DT	(NP*	-	-	-	-	(12
+pri_0049	0	10	whole	JJ	*	-	-	-	-	-
+pri_0049	0	11	Senegal	NNP	*)	-	-	-	-	12)
+pri_0049	0	12	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	So	RB	(TOP(S(ADVP*)	-	-	-	-	-
+pri_0049	0	1	you	PRP	(PRN(S(NP*)	-	-	-	-	-
+pri_0049	0	2	know	VBP	(VP*)))	know	01	1	-	-
+pri_0049	0	3	it	PRP	(NP*)	-	-	-	-	(7)
+pri_0049	0	4	is	VBZ	(VP*	be	01	1	-	-
+pri_0049	0	5	amazing	JJ	(ADJP*))	-	-	-	-	-
+pri_0049	0	6	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	It	PRP	(TOP(S(NP*)	-	-	-	-	(7)
+pri_0049	0	1	's	VBZ	(VP*	be	-	1	-	-
+pri_0049	0	2	fantastic	JJ	(ADJP(ADJP*)	-	-	-	-	-
+pri_0049	0	3	,	,	*	-	-	-	-	-
+pri_0049	0	4	extraordinary	JJ	(ADJP*)))	-	-	-	-	-
+pri_0049	0	5	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	Just	RB	(TOP(S(SBAR(WHADJP*	-	-	-	-	-
+pri_0049	0	1	how	WRB	*	-	-	-	-	-
+pri_0049	0	2	extraordinary	JJ	*))	-	-	-	-	-
+pri_0049	0	3	can	MD	(VP*	-	-	-	-	-
+pri_0049	0	4	be	VB	(VP*	be	03	-	-	-
+pri_0049	0	5	heard	VBN	(VP*	hear	01	1	-	-
+pri_0049	0	6	on	IN	(PP*	-	-	-	-	-
+pri_0049	0	7	a	DT	(NP*	-	-	-	-	(14
+pri_0049	0	8	recent	JJ	*	-	-	-	-	-
+pri_0049	0	9	French	JJ	*	-	-	-	-	-
+pri_0049	0	10	recording	NN	*)))))	recording	-	1	-	14)
+pri_0049	0	11	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	The	DT	(TOP(S(NP*	-	-	-	-	(14
+pri_0049	0	1	Hop	NNP	*)	-	-	-	-	14)
+pri_0049	0	2	is	VBZ	(VP*	be	01	1	-	-
+pri_0049	0	3	a	DT	(NP(NP*	-	-	-	-	-
+pri_0049	0	4	compilation	NN	*)	-	-	-	-	-
+pri_0049	0	5	featuring	VBG	(VP*	feature	01	1	-	-
+pri_0049	0	6	Dakar	NNP	(NP(NP(NP*	-	-	-	-	(24
+pri_0049	0	7	's	POS	*)	-	-	-	-	24)
+pri_0049	0	8	biggest	JJS	*	-	-	-	-	-
+pri_0049	0	9	rap	NN	*	-	-	-	-	-
+pri_0049	0	10	stars	NNS	*)	star	-	4	-	-
+pri_0049	0	11	from	IN	(PP(PP*	-	-	-	-	-
+pri_0049	0	12	Bidu	NNP	(NP*	-	-	-	-	-
+pri_0049	0	13	Bubes	NNP	*))	-	-	-	-	-
+pri_0049	0	14	to	IN	(PP*	-	-	-	-	-
+pri_0049	0	15	the	DT	(NP(NP(NP*	-	-	-	-	-
+pri_0049	0	16	current	JJ	*	-	-	-	-	-
+pri_0049	0	17	kings	NNS	*)	-	-	-	-	-
+pri_0049	0	18	of	IN	(PP*	-	-	-	-	-
+pri_0049	0	19	Senegalese	JJ	(NP*	-	-	-	-	-
+pri_0049	0	20	hip	NN	*	-	-	-	-	-
+pri_0049	0	21	-	HYPH	*	-	-	-	-	-
+pri_0049	0	22	hop	NN	*)))	-	-	-	-	-
+pri_0049	0	23	Daura	NNP	(NP*	-	-	-	-	-
+pri_0049	0	24	G	NNP	*))))))))	-	-	-	-	-
+pri_0049	0	25	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	That	DT	(TOP(S(NP(NP*	-	-	-	-	-
+pri_0049	0	1	kind	NN	*)	-	-	-	-	-
+pri_0049	0	2	of	IN	(PP*	-	-	-	-	-
+pri_0049	0	3	success	NN	(NP*)))	success	01	2	-	-
+pri_0049	0	4	needs	VBZ	(VP*	need	01	1	-	-
+pri_0049	0	5	no	DT	(NP*	-	-	-	-	-
+pri_0049	0	6	translation	NN	*))	-	-	-	-	-
+pri_0049	0	7	.	.	*))	-	-	-	-	-
+
+pri_0049	0	0	For	IN	(TOP(S(PP*	-	-	-	-	-
+pri_0049	0	1	The	DT	(NP*	-	-	-	-	(2
+pri_0049	0	2	World	NNP	*))	-	-	-	-	2)
+pri_0049	0	3	,	,	*	-	-	-	-	-
+pri_0049	0	4	I	PRP	(NP*)	-	-	-	-	(10)
+pri_0049	0	5	am	VBP	(VP*	be	01	2	-	-
+pri_0049	0	6	Mark	NNP	(NP*	-	-	-	-	-
+pri_0049	0	7	Warmen	NNP	*))	-	-	-	-	-
+pri_0049	0	8	.	.	*))	-	-	-	-	-
+
+#end document

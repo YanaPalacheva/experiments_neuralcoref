@@ -1,0 +1,338 @@
+#begin document (chtb_0149_0); part 000
+chtb_0149	0	0	Xinhua	NNP	(TOP(FRAG(NP*	-	-	-	-	-
+chtb_0149	0	1	News	NNP	*	-	-	-	-	-
+chtb_0149	0	2	Agency	NNP	*)	-	-	-	-	-
+chtb_0149	0	3	,	,	*	-	-	-	-	-
+chtb_0149	0	4	Beijing	NNP	(NP*)	-	-	-	-	-
+chtb_0149	0	5	,	,	*	-	-	-	-	-
+chtb_0149	0	6	March	NNP	(NP*	-	-	-	-	-
+chtb_0149	0	7	9th	NN	*)))	-	-	-	-	-
+
+chtb_0149	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	-
+chtb_0149	0	1	statistics	NNS	*)	-	-	-	-	-
+chtb_0149	0	2	from	IN	(PP*	-	-	-	-	-
+chtb_0149	0	3	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0149	0	4	General	NNP	*	-	-	-	-	-
+chtb_0149	0	5	Administration	NNP	*)	-	-	-	-	-
+chtb_0149	0	6	of	IN	(PP*	-	-	-	-	-
+chtb_0149	0	7	Customs	NNP	(NP*)))))	-	-	-	-	-
+chtb_0149	0	8	show	VBP	(VP*	show	01	1	-	-
+chtb_0149	0	9	that	IN	(SBAR*	-	-	-	-	-
+chtb_0149	0	10	,	,	*	-	-	-	-	-
+chtb_0149	0	11	last	JJ	(S(S(NP*	-	-	-	-	(2
+chtb_0149	0	12	year	NN	*)	-	-	-	-	2)
+chtb_0149	0	13	,	,	*	-	-	-	-	-
+chtb_0149	0	14	China	NNP	(NP(NP(NP*	-	-	-	-	(1
+chtb_0149	0	15	's	POS	*)	-	-	-	-	1)
+chtb_0149	0	16	trade	NN	*)	trade	01	1	-	-
+chtb_0149	0	17	with	IN	(PP*	-	-	-	-	-
+chtb_0149	0	18	Japan	NNP	(NP*)))	-	-	-	-	(0)
+chtb_0149	0	19	continued	VBD	(VP*	continue	01	1	-	-
+chtb_0149	0	20	increasing	VBG	(S(VP*))))	increase	01	1	-	-
+chtb_0149	0	21	,	,	*	-	-	-	-	-
+chtb_0149	0	22	the	DT	(S(NP(NP*	-	-	-	-	-
+chtb_0149	0	23	gross	JJ	*	-	-	-	-	-
+chtb_0149	0	24	value	NN	*)	value	-	2	-	-
+chtb_0149	0	25	of	IN	(PP*	-	-	-	-	-
+chtb_0149	0	26	imports	NNS	(NP*	import	-	1	-	-
+chtb_0149	0	27	and	CC	*	-	-	-	-	-
+chtb_0149	0	28	exports	NNS	*)))	export	-	1	-	-
+chtb_0149	0	29	reached	VBD	(VP(VP*	reach	01	1	-	-
+chtb_0149	0	30	60.06	CD	(NP(NP(QP*	-	-	-	-	-
+chtb_0149	0	31	billion	CD	*)	-	-	-	-	-
+chtb_0149	0	32	US	NNP	*	-	-	-	-	-
+chtb_0149	0	33	dollars	NNS	*)	-	-	-	-	-
+chtb_0149	0	34	,	,	*	-	-	-	-	-
+chtb_0149	0	35	4.5	CD	(ADJP(ADJP(NP*	-	-	-	-	-
+chtb_0149	0	36	%	NN	*)	-	-	-	-	-
+chtb_0149	0	37	higher	RBR	*)	-	-	-	-	-
+chtb_0149	0	38	than	IN	(PP*	-	-	-	-	-
+chtb_0149	0	39	that	DT	(NP(NP*)	-	-	-	-	-
+chtb_0149	0	40	of	IN	(PP*	-	-	-	-	-
+chtb_0149	0	41	last	JJ	(NP*	-	-	-	-	(2
+chtb_0149	0	42	year	NN	*)))))))	-	-	-	-	2)
+chtb_0149	0	43	,	,	*	-	-	-	-	-
+chtb_0149	0	44	and	CC	*	-	-	-	-	-
+chtb_0149	0	45	accounted	VBD	(VP*	account	01	2	-	-
+chtb_0149	0	46	for	IN	(PP*	-	-	-	-	-
+chtb_0149	0	47	20.7	CD	(NP(NP*	-	-	-	-	-
+chtb_0149	0	48	%	NN	*)	-	-	-	-	-
+chtb_0149	0	49	of	IN	(PP*	-	-	-	-	-
+chtb_0149	0	50	China	NNP	(NP(NP(NP*	-	-	-	-	(1
+chtb_0149	0	51	's	POS	*)	-	-	-	-	1)
+chtb_0149	0	52	gross	JJ	*	-	-	-	-	-
+chtb_0149	0	53	value	NN	*)	value	-	2	-	-
+chtb_0149	0	54	of	IN	(PP*	-	-	-	-	-
+chtb_0149	0	55	foreign	JJ	(NP*	-	-	-	-	-
+chtb_0149	0	56	trade	NN	*))))))))))))	trade	01	1	-	-
+chtb_0149	0	57	.	.	*))	-	-	-	-	-
+
+chtb_0149	0	0	Of	IN	(TOP(SBAR(WHPP*	-	-	-	-	-
+chtb_0149	0	1	which	WDT	(WHNP*))	-	-	-	-	-
+chtb_0149	0	2	,	,	(S(S*	-	-	-	-	-
+chtb_0149	0	3	exports	NNS	(NP(NP*))	export	-	1	-	-
+chtb_0149	0	4	were	VBD	(VP*	be	-	1	-	-
+chtb_0149	0	5	30.88	CD	(NP(QP*	-	-	-	-	-
+chtb_0149	0	6	billion	CD	*)	-	-	-	-	-
+chtb_0149	0	7	US	NNP	*	-	-	-	-	-
+chtb_0149	0	8	dollars	NNS	*)))	-	-	-	-	-
+chtb_0149	0	9	,	,	*	-	-	-	-	-
+chtb_0149	0	10	and	CC	*	-	-	-	-	-
+chtb_0149	0	11	imports	NNS	(S(NP(NP*))	import	-	1	-	-
+chtb_0149	0	12	were	VBD	(VP*	be	-	1	-	-
+chtb_0149	0	13	29.18	CD	(NP(QP*	-	-	-	-	-
+chtb_0149	0	14	billion	CD	*)	-	-	-	-	-
+chtb_0149	0	15	US	NNP	*	-	-	-	-	-
+chtb_0149	0	16	dollars	NNS	*)))	-	-	-	-	-
+chtb_0149	0	17	.	.	*)))	-	-	-	-	-
+
+chtb_0149	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	-
+chtb_0149	0	1	trade	NN	*	trade	-	1	-	-
+chtb_0149	0	2	surplus	NN	*)	-	-	-	-	-
+chtb_0149	0	3	against	IN	(PP*	-	-	-	-	-
+chtb_0149	0	4	Japan	NNP	(NP*)))	-	-	-	-	(0)
+chtb_0149	0	5	was	VBD	(VP*	be	-	1	-	-
+chtb_0149	0	6	1.7	CD	(NP(QP*	-	-	-	-	-
+chtb_0149	0	7	billion	CD	*)	-	-	-	-	-
+chtb_0149	0	8	US	NNP	*	-	-	-	-	-
+chtb_0149	0	9	dollars	NNS	*))	-	-	-	-	-
+chtb_0149	0	10	.	.	*))	-	-	-	-	-
+
+chtb_0149	0	0	Japan	NNP	(TOP(S(S(NP*)	-	-	-	-	(0)
+chtb_0149	0	1	has	VBZ	(VP*	have	01	12	-	-
+chtb_0149	0	2	,	,	(PP*	-	-	-	-	-
+chtb_0149	0	3	for	IN	*	-	-	-	-	-
+chtb_0149	0	4	four	CD	(NP*	-	-	-	-	-
+chtb_0149	0	5	years	NNS	*)	-	-	-	-	-
+chtb_0149	0	6	,	,	*)	-	-	-	-	-
+chtb_0149	0	7	successively	RB	(ADVP*)	-	-	-	-	-
+chtb_0149	0	8	ranked	VBN	(VP*	rank	01	1	-	-
+chtb_0149	0	9	first	JJ	(NP*	-	-	-	-	-
+chtb_0149	0	10	place	NN	*)	place	-	6	-	-
+chtb_0149	0	11	among	IN	(PP*	-	-	-	-	-
+chtb_0149	0	12	China	NNP	(NP(NP*	-	-	-	-	(1
+chtb_0149	0	13	's	POS	*)	-	-	-	-	1)
+chtb_0149	0	14	foreign	JJ	(NML*	-	-	-	-	-
+chtb_0149	0	15	trade	NN	*)	trade	01	1	-	-
+chtb_0149	0	16	partners	NNS	*)))))	partner	-	3	-	-
+chtb_0149	0	17	,	,	*	-	-	-	-	-
+chtb_0149	0	18	and	CC	*	-	-	-	-	-
+chtb_0149	0	19	the	DT	(S(NP*	-	-	-	-	-
+chtb_0149	0	20	bilateral	JJ	(NML*	-	-	-	-	-
+chtb_0149	0	21	trade	NN	*)	-	-	-	-	-
+chtb_0149	0	22	volume	NN	*)	-	-	-	-	-
+chtb_0149	0	23	last	JJ	(NP*	-	-	-	-	(2
+chtb_0149	0	24	year	NN	*)	-	-	-	-	2)
+chtb_0149	0	25	was	VBD	(VP*	be	-	1	-	-
+chtb_0149	0	26	17.22	CD	(ADJP(ADJP(NP(QP*	-	-	-	-	-
+chtb_0149	0	27	billion	CD	*)	-	-	-	-	-
+chtb_0149	0	28	US	NNP	*	-	-	-	-	-
+chtb_0149	0	29	dollars	NNS	*)	-	-	-	-	-
+chtb_0149	0	30	higher	JJR	*)	-	-	-	-	-
+chtb_0149	0	31	than	IN	(PP*	-	-	-	-	-
+chtb_0149	0	32	that	DT	(NP(NP*)	-	-	-	-	-
+chtb_0149	0	33	of	IN	(PP*	-	-	-	-	-
+chtb_0149	0	34	China	NNP	(NP(NP*)	-	-	-	-	(1)
+chtb_0149	0	35	and	CC	*	-	-	-	-	-
+chtb_0149	0	36	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0149	0	37	US	NNP	*)	-	-	-	-	-
+chtb_0149	0	38	,	,	*	-	-	-	-	-
+chtb_0149	0	39	China	NNP	(NP(NP*	-	-	-	-	(1
+chtb_0149	0	40	's	POS	*)	-	-	-	-	1)
+chtb_0149	0	41	second	RB	(ADJP*	-	-	-	-	-
+chtb_0149	0	42	largest	JJS	*)	-	-	-	-	-
+chtb_0149	0	43	trade	NN	*	trade	-	1	-	-
+chtb_0149	0	44	partner	NN	*)))))))))	partner	-	3	-	-
+chtb_0149	0	45	.	.	*))	-	-	-	-	-
+
+chtb_0149	0	0	According	VBG	(TOP(S(S(PP*	-	-	-	-	*	*
+chtb_0149	0	1	to	IN	*	-	-	-	-	*	*
+chtb_0149	0	2	presentations	NNS	(NP*))	presentation	01	2	-	*	*
+chtb_0149	0	3	,	,	*	-	-	-	-	*	*
+chtb_0149	0	4	the	DT	(NP(NP*	-	-	-	-	*	*
+chtb_0149	0	5	dependency	NN	*)	-	-	-	-	*	*
+chtb_0149	0	6	of	IN	(PP*	-	-	-	-	*	*
+chtb_0149	0	7	China	NNP	(NP(NP*	-	-	-	-	*	*
+chtb_0149	0	8	's	POS	*)	-	-	-	-	*	*
+chtb_0149	0	9	exported	VBG	*	export	01	-	-	*	*
+chtb_0149	0	10	products	NNS	*))	product	-	1	-	*	*
+chtb_0149	0	11	on	IN	(PP*	-	-	-	-	*	*
+chtb_0149	0	12	the	DT	(NP*	-	-	-	-	*	*
+chtb_0149	0	13	Japanese	JJ	*	-	-	-	-	*	*
+chtb_0149	0	14	market	NN	*)))	market	-	1	-	*	*
+chtb_0149	0	15	has	VBZ	(VP*	have	01	-	-	*	*
+chtb_0149	0	16	been	VBN	(VP*	-	-	-	-	*	*
+chtb_0149	0	17	increasing	VBG	(VP*	increase	01	1	-	*	*
+chtb_0149	0	18	annually	RB	(ADVP*)))))	-	-	-	-	*	*
+chtb_0149	0	19	,	,	*	-	-	-	-	*	*
+chtb_0149	0	20	but	CC	*	-	-	-	-	*	*
+chtb_0149	0	21	the	DT	(S(S(NP(NP*	-	-	-	-	*	*
+chtb_0149	0	22	proportion	NN	*)	proportion	-	3	-	*	*
+chtb_0149	0	23	of	IN	(PP*	-	-	-	-	*	*
+chtb_0149	0	24	imported	VBN	(NP*	import	01	1	-	*	*
+chtb_0149	0	25	products	NNS	*))	product	-	1	-	*	*
+chtb_0149	0	26	in	IN	(PP*	-	-	-	-	*	*
+chtb_0149	0	27	the	DT	(NP(NP*	-	-	-	-	*	*
+chtb_0149	0	28	total	JJ	*	-	-	-	-	*	*
+chtb_0149	0	29	import	NN	*	-	-	-	-	*	*
+chtb_0149	0	30	volume	NN	*)	-	-	-	-	*	*
+chtb_0149	0	31	from	IN	(PP*	-	-	-	-	*	*
+chtb_0149	0	32	Japan	NNP	(NP*)))))	-	-	-	-	*	*
+chtb_0149	0	33	has	VBZ	(VP*	have	01	-	-	*	*
+chtb_0149	0	34	fluctuated	VBN	(VP*	fluctuate	01	1	-	*	*
+chtb_0149	0	35	irregularly	RB	(ADVP*))))	-	-	-	-	*	*
+chtb_0149	0	36	;	,	*	-	-	-	-	*	*
+chtb_0149	0	37	the	DT	(S(NP(NP*	-	-	-	-	*	*
+chtb_0149	0	38	development	NN	*)	-	-	-	-	*	*
+chtb_0149	0	39	of	IN	(PP*	-	-	-	-	*	*
+chtb_0149	0	40	various	JJ	(NP*	-	-	-	-	*	*
+chtb_0149	0	41	trade	NN	*	trade	-	1	-	*	*
+chtb_0149	0	42	methods	NNS	*)))	-	-	-	-	*	*
+chtb_0149	0	43	was	VBD	(VP*	be	-	1	-	*	*
+chtb_0149	0	44	not	RB	*	-	-	-	-	*	*
+chtb_0149	0	45	balanced	JJ	(ADJP*)))	-	-	-	-	*	*
+chtb_0149	0	46	,	,	*	-	-	-	-	*	*
+chtb_0149	0	47	general	JJ	(S(NP*	-	-	-	-	(ARG1*	(ARG1*
+chtb_0149	0	48	trade	NN	*)	trade	01	1	-	*)	*)
+chtb_0149	0	49	has	VBZ	(VP*	have	01	-	-	*	*
+chtb_0149	0	50	decreased	VBN	(VP*)))	decrease	01	1	-	(V*)	(V*)
+chtb_0149	0	51	,	,	*	-	-	-	-	*	*
+chtb_0149	0	52	processing	NN	(S(NP*	-	-	-	-	*	*
+chtb_0149	0	53	trade	NN	*)	trade	01	1	-	*	*
+chtb_0149	0	54	has	VBZ	(VP*	have	01	-	-	*	*
+chtb_0149	0	55	increased	VBN	(VP*)))	increase	01	1	-	*	*
+chtb_0149	0	56	;	,	*	-	-	-	-	*	*
+chtb_0149	0	57	while	IN	(SBAR*	-	-	-	-	*	*
+chtb_0149	0	58	the	DT	(S(NP(NP*	-	-	-	-	*	*
+chtb_0149	0	59	growth	NN	*)	growth	-	1	-	*	*
+chtb_0149	0	60	of	IN	(PP*	-	-	-	-	*	*
+chtb_0149	0	61	primary	JJ	(NP(NML*	-	-	-	-	*	*
+chtb_0149	0	62	product	NN	*)	product	-	1	-	*	*
+chtb_0149	0	63	trade	NN	*)))	trade	01	1	-	*	*
+chtb_0149	0	64	was	VBD	(VP*	be	-	1	-	*	*
+chtb_0149	0	65	considerably	RB	(ADJP*	-	-	-	-	*	*
+chtb_0149	0	66	fast	JJ	*)))))	-	-	-	-	*	*
+chtb_0149	0	67	.	.	*))	-	-	-	-	*	*
+
+chtb_0149	0	0	Last	JJ	(TOP(S(S(NP*	-	-	-	-	(2
+chtb_0149	0	1	year	NN	*)	-	-	-	-	2)
+chtb_0149	0	2	,	,	*	-	-	-	-	-
+chtb_0149	0	3	exports	NNS	(NP(NP*)	export	-	1	-	-
+chtb_0149	0	4	of	IN	(PP*	-	-	-	-	-
+chtb_0149	0	5	primary	JJ	(NP*	-	-	-	-	-
+chtb_0149	0	6	products	NNS	*))	product	-	1	-	-
+chtb_0149	0	7	to	IN	(PP*	-	-	-	-	-
+chtb_0149	0	8	Japan	NNP	(NP*)))	-	-	-	-	(0)
+chtb_0149	0	9	were	VBD	(VP*	be	-	1	-	-
+chtb_0149	0	10	8	CD	(NP(QP*	-	-	-	-	-
+chtb_0149	0	11	billion	CD	*)	-	-	-	-	-
+chtb_0149	0	12	US	NNP	*	-	-	-	-	-
+chtb_0149	0	13	dollars	NNS	*)	-	-	-	-	-
+chtb_0149	0	14	,	,	*	-	-	-	-	-
+chtb_0149	0	15	10.9	CD	(S(ADJP(ADJP(NP*	-	-	-	-	-
+chtb_0149	0	16	%	NN	*)	-	-	-	-	-
+chtb_0149	0	17	higher	JJR	*)	-	-	-	-	-
+chtb_0149	0	18	than	IN	(PP*	-	-	-	-	-
+chtb_0149	0	19	that	DT	(NP(NP*)	-	-	-	-	-
+chtb_0149	0	20	of	IN	(PP*	-	-	-	-	-
+chtb_0149	0	21	the	DT	(NP*	-	-	-	-	-
+chtb_0149	0	22	previous	JJ	*	-	-	-	-	-
+chtb_0149	0	23	year	NN	*))))))))	-	-	-	-	-
+chtb_0149	0	24	,	,	*	-	-	-	-	-
+chtb_0149	0	25	and	CC	*	-	-	-	-	-
+chtb_0149	0	26	imports	NNS	(S(NP(NP*)	import	-	1	-	-
+chtb_0149	0	27	of	IN	(PP*	-	-	-	-	-
+chtb_0149	0	28	primary	JJ	(NP*	-	-	-	-	-
+chtb_0149	0	29	products	NNS	*))	product	-	1	-	-
+chtb_0149	0	30	from	IN	(PP*	-	-	-	-	-
+chtb_0149	0	31	Japan	NNP	(NP*)))	-	-	-	-	(0)
+chtb_0149	0	32	were	VBD	(VP*	be	-	1	-	-
+chtb_0149	0	33	1	CD	(NP(QP*	-	-	-	-	-
+chtb_0149	0	34	billion	CD	*)	-	-	-	-	-
+chtb_0149	0	35	US	NNP	*	-	-	-	-	-
+chtb_0149	0	36	dollars	NNS	*)	-	-	-	-	-
+chtb_0149	0	37	,	,	*	-	-	-	-	-
+chtb_0149	0	38	a	DT	(NP*	-	-	-	-	-
+chtb_0149	0	39	4.4	CD	*	-	-	-	-	-
+chtb_0149	0	40	%	NN	*	-	-	-	-	-
+chtb_0149	0	41	growth	NN	*)))	growth	-	1	-	-
+chtb_0149	0	42	.	.	*))	-	-	-	-	-
+
+chtb_0149	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	-
+chtb_0149	0	1	trade	NN	*)	trade	01	1	-	-
+chtb_0149	0	2	of	IN	(PP*	-	-	-	-	-
+chtb_0149	0	3	foreign	JJ	(NP(ADJP*	-	-	-	-	-
+chtb_0149	0	4	-	HYPH	*	-	-	-	-	-
+chtb_0149	0	5	invested	VBN	*)	invest	01	-	-	-
+chtb_0149	0	6	enterprises	NNS	*))	-	-	-	-	-
+chtb_0149	0	7	with	IN	(PP*	-	-	-	-	-
+chtb_0149	0	8	Japan	NNP	(NP*)))	-	-	-	-	(0)
+chtb_0149	0	9	increased	VBD	(VP*	increase	01	1	-	-
+chtb_0149	0	10	rapidly	RB	(ADVP*))	-	-	-	-	-
+chtb_0149	0	11	.	.	*))	-	-	-	-	-
+
+chtb_0149	0	0	Last	JJ	(TOP(S(S(NP*	-	-	-	-	(2
+chtb_0149	0	1	year	NN	*)	-	-	-	-	2)
+chtb_0149	0	2	,	,	*	-	-	-	-	-
+chtb_0149	0	3	the	DT	(NP(NP*	-	-	-	-	-
+chtb_0149	0	4	exports	NNS	*)	export	-	2	-	-
+chtb_0149	0	5	of	IN	(PP*	-	-	-	-	-
+chtb_0149	0	6	foreign	JJ	(NP(ADJP*	-	-	-	-	-
+chtb_0149	0	7	-	HYPH	*	-	-	-	-	-
+chtb_0149	0	8	invested	VBN	*)	invest	01	-	-	-
+chtb_0149	0	9	enterprises	NNS	*))	-	-	-	-	-
+chtb_0149	0	10	to	IN	(PP*	-	-	-	-	-
+chtb_0149	0	11	Japan	NNP	(NP*)))	-	-	-	-	(0)
+chtb_0149	0	12	were	VBD	(VP(VP*	be	-	1	-	-
+chtb_0149	0	13	14.9	CD	(NP(QP*	-	-	-	-	-
+chtb_0149	0	14	billion	CD	*)	-	-	-	-	-
+chtb_0149	0	15	US	NNP	*	-	-	-	-	-
+chtb_0149	0	16	dollars	NNS	*)	-	-	-	-	-
+chtb_0149	0	17	,	,	*	-	-	-	-	-
+chtb_0149	0	18	up	RB	(ADVP*	-	-	-	-	-
+chtb_0149	0	19	35.4	CD	(NP*	-	-	-	-	-
+chtb_0149	0	20	%	NN	*)))	-	-	-	-	-
+chtb_0149	0	21	,	,	*	-	-	-	-	-
+chtb_0149	0	22	and	CC	*	-	-	-	-	-
+chtb_0149	0	23	accounted	VBD	(VP*	account	01	2	-	-
+chtb_0149	0	24	for	IN	(PP*	-	-	-	-	-
+chtb_0149	0	25	48	CD	(NP(NP*	-	-	-	-	-
+chtb_0149	0	26	%	NN	*)	-	-	-	-	-
+chtb_0149	0	27	of	IN	(PP*	-	-	-	-	-
+chtb_0149	0	28	China	NNP	(NP(NP(NP*	-	-	-	-	(1
+chtb_0149	0	29	's	POS	*)	-	-	-	-	1)
+chtb_0149	0	30	exports	NNS	*)	export	-	1	-	-
+chtb_0149	0	31	to	IN	(PP*	-	-	-	-	-
+chtb_0149	0	32	Japan	NNP	(NP*)))))))))	-	-	-	-	(0)
+chtb_0149	0	33	;	,	*	-	-	-	-	-
+chtb_0149	0	34	imports	NNS	(S(NP*)	import	-	1	-	-
+chtb_0149	0	35	were	VBD	(VP*	be	-	1	-	-
+chtb_0149	0	36	19.5	CD	(NP(QP*	-	-	-	-	-
+chtb_0149	0	37	billion	CD	*)	-	-	-	-	-
+chtb_0149	0	38	US	NNP	*	-	-	-	-	-
+chtb_0149	0	39	dollars	NNS	*)	-	-	-	-	-
+chtb_0149	0	40	,	,	*	-	-	-	-	-
+chtb_0149	0	41	up	RB	(ADVP*	-	-	-	-	-
+chtb_0149	0	42	14.7	CD	(NP*	-	-	-	-	-
+chtb_0149	0	43	%	NN	*))	-	-	-	-	-
+chtb_0149	0	44	,	,	*	-	-	-	-	-
+chtb_0149	0	45	and	CC	*	-	-	-	-	-
+chtb_0149	0	46	accounted	VBD	(VP*	account	01	2	-	-
+chtb_0149	0	47	for	IN	(PP*	-	-	-	-	-
+chtb_0149	0	48	67	CD	(NP(NP*	-	-	-	-	-
+chtb_0149	0	49	%	NN	*)	-	-	-	-	-
+chtb_0149	0	50	of	IN	(PP*	-	-	-	-	-
+chtb_0149	0	51	China	NNP	(NP(NP(NP*	-	-	-	-	(1
+chtb_0149	0	52	's	POS	*)	-	-	-	-	1)
+chtb_0149	0	53	total	JJ	*	-	-	-	-	-
+chtb_0149	0	54	import	NN	*	-	-	-	-	-
+chtb_0149	0	55	value	NN	*)	-	-	-	-	-
+chtb_0149	0	56	from	IN	(PP*	-	-	-	-	-
+chtb_0149	0	57	Japan	NNP	(NP*)))))))))	-	-	-	-	(0)
+chtb_0149	0	58	.	.	*))	-	-	-	-	-
+
+chtb_0149	0	0	-LRB-	-LRB-	(TOP(NP*	-	-	-	-	-
+chtb_0149	0	1	End	NN	*	end	-	4	-	-
+chtb_0149	0	2	-RRB-	-RRB-	*))	-	-	-	-	-
+
+#end document

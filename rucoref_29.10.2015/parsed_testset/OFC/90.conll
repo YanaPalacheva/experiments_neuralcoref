@@ -1,0 +1,770 @@
+# newdoc id = 094b5ae9-e1b2-4e64-bc03-3303895d5338
+# newpar id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p1
+# par_text = Департамент собственной безопасности (ДСБ) МВД РФ проводит проверку в отношении подполковника милиции Артема Кузнецова, который является фигурантом обнародованного на минувшей неделе видеоролика об обстоятельствах смерти в СИЗО юриста Сергея Магнитского, сообщает «Эхо Москвы».
+# sent_id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p1-s1
+# text = Департамент собственной безопасности (ДСБ) МВД РФ проводит проверку в отношении подполковника милиции Артема Кузнецова, который является фигурантом обнародованного на минувшей неделе видеоролика об обстоятельствах смерти в СИЗО юриста Сергея Магнитского, сообщает ``Эхо Москвы''.
+1	Департамент	_	_	_	_	_	_	_	RuCor_chain_id=2615|RuCor_group_id=471571|Shift=0
+2	собственной	_	_	_	_	_	_	_	RuCor_chain_id=2615|RuCor_group_id=471571|Shift=12
+3	безопасности	_	_	_	_	_	_	_	RuCor_chain_id=2615|RuCor_group_id=471571|Shift=24
+4	(	_	_	_	_	_	_	_	Shift=37|SpaceAfter=No
+5	ДСБ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2615|RuCor_group_id=471572|RuCor_link_id=471571|Shift=38|SpaceAfter=No
+6	)	_	_	_	_	_	_	_	Shift=41
+7	МВД	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2616|RuCor_group_id=471573|RuCor_link_id=0|Shift=43
+8	РФ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2617|RuCor_group_id=471574|RuCor_link_id=0|Shift=47
+9	проводит	_	_	_	_	_	_	_	Shift=50
+10	проверку	_	_	_	_	_	_	_	Shift=59
+11	в	_	_	_	_	_	_	_	Shift=68
+12	отношении	_	_	_	_	_	_	_	Shift=70
+13	подполковника	_	_	_	_	_	_	_	RuCor_chain_id=2618|RuCor_group_id=471575|Shift=80
+14	милиции	_	_	_	_	_	_	_	RuCor_chain_id=2618|RuCor_group_id=471575|Shift=94
+15	Артема	_	_	_	_	_	_	_	RuCor_chain_id=2618|RuCor_group_id=471575|Shift=102
+16	Кузнецова	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2618|RuCor_group_id=471575|RuCor_link_id=0|Shift=109|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=118
+18	который	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2618|RuCor_group_id=471577|RuCor_link_id=471575|Shift=120
+19	является	_	_	_	_	_	_	_	Shift=128
+20	фигурантом	_	_	_	_	_	_	_	Shift=137
+21	обнародованного	_	_	_	_	_	_	_	RuCor_chain_id=2620|RuCor_group_id=471579|Shift=148
+22	на	_	_	_	_	_	_	_	RuCor_chain_id=2620|RuCor_group_id=471579|Shift=164
+23	минувшей	_	_	_	_	_	_	_	RuCor_chain_id=2620|RuCor_group_id=471579|Shift=167
+24	неделе	_	_	_	_	_	_	_	RuCor_chain_id=2620|RuCor_group_id=471579|Shift=176
+25	видеоролика	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2620|RuCor_group_id=471579|RuCor_link_id=0|Shift=183
+26	об	_	_	_	_	_	_	_	RuCor_chain_id=2620|RuCor_group_id=471579|Shift=195
+27	обстоятельствах	_	_	_	_	_	_	_	RuCor_chain_id=2620|RuCor_group_id=471579|Shift=198
+28	смерти	_	_	_	_	_	_	_	RuCor_chain_id=2620|RuCor_group_id=471579|Shift=214
+29	в	_	_	_	_	_	_	_	RuCor_chain_id=2620|RuCor_group_id=471579|Shift=221
+30	СИЗО	_	_	_	_	_	_	_	RuCor_chain_id=2620|RuCor_group_id=471579|Shift=223
+31	юриста	_	_	_	_	_	_	_	RuCor_chain_id=2621|RuCor_group_id=471580|Shift=228
+32	Сергея	_	_	_	_	_	_	_	RuCor_chain_id=2621|RuCor_group_id=471580|Shift=235
+33	Магнитского	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2621|RuCor_group_id=471580|RuCor_link_id=0|Shift=242|SpaceAfter=No
+34	,	_	_	_	_	_	_	_	Shift=253
+35	сообщает	_	_	_	_	_	_	_	Shift=255
+36	``	_	_	_	_	_	_	_	Shift=264|SpaceAfter=No
+37	Эхо	_	_	_	_	_	_	_	Shift=265
+38	Москвы	_	_	_	_	_	_	_	Shift=269|SpaceAfter=No
+39	''	_	_	_	_	_	_	_	Shift=275|SpaceAfter=No
+40	.	_	_	_	_	_	_	_	Shift=276
+
+# newpar id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p2
+# par_text = Видеоролик является частью информационной кампании на двуязычном сайте «Остановить неприкасаемых!» (russian-untouchables.com), где публикуются материалы о деле Магнитского, и в среду 23 июня появление ролика вызвало большой общественный резонанс в русскоязычных блогах, стало причиной публикаций в СМИ.
+# sent_id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p2-s1
+# text = Видеоролик является частью информационной кампании на двуязычном сайте « Остановить неприкасаемых! »
+1	Видеоролик	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2620|RuCor_group_id=471581|RuCor_link_id=471579|Shift=278
+2	является	_	_	_	_	_	_	_	Shift=289
+3	частью	_	_	_	_	_	_	_	Shift=298
+4	информационной	_	_	_	_	_	_	_	Shift=305
+5	кампании	_	_	_	_	_	_	_	Shift=320
+6	на	_	_	_	_	_	_	_	Shift=329
+7	двуязычном	_	_	_	_	_	_	_	RuCor_chain_id=2622|RuCor_group_id=471582|Shift=332
+8	сайте	_	_	_	_	_	_	_	RuCor_chain_id=2622|RuCor_group_id=471582|Shift=343
+9	``	_	_	_	_	_	_	_	QuotationStart=«|RuCor_chain_id=2622|RuCor_group_id=471582|Shift=349
+10	Остановить	_	_	_	_	_	_	_	RuCor_chain_id=2622|RuCor_group_id=471582|Shift=350
+11	неприкасаемых	_	_	_	_	_	_	_	RuCor_chain_id=2622|RuCor_group_id=471582|Shift=361|SpaceAfter=No
+12	!	_	_	_	_	_	_	_	RuCor_chain_id=2622|RuCor_group_id=471582|Shift=374
+13	''	_	_	_	_	_	_	_	QuotationEnd=»|RuCor_chain_id=2622|RuCor_group_id=471582|Shift=375
+
+# sent_id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p2-s2
+# text = (russian-untouchables .com), где публикуются материалы о деле Магнитского, и в среду 23 июня появление ролика вызвало большой общественный резонанс в русскоязычных блогах, стало причиной публикаций в СМИ.
+1	(	_	_	_	_	_	_	_	Shift=377|SpaceAfter=No
+2	russian-untouchables	_	_	_	_	_	_	_	Shift=378
+3	.com	_	_	_	_	_	_	_	Shift=399|SpaceAfter=No
+4	)	_	_	_	_	_	_	_	Shift=402|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=403
+6	где	_	_	_	_	_	_	_	Shift=405
+7	публикуются	_	_	_	_	_	_	_	Shift=409
+8	материалы	_	_	_	_	_	_	_	Shift=421
+9	о	_	_	_	_	_	_	_	Shift=431
+10	деле	_	_	_	_	_	_	_	Shift=433
+11	Магнитского	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2621|RuCor_group_id=471584|RuCor_link_id=471580|Shift=438|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=449
+13	и	_	_	_	_	_	_	_	Shift=451
+14	в	_	_	_	_	_	_	_	Shift=453
+15	среду	_	_	_	_	_	_	_	Shift=455
+16	23	_	_	_	_	_	_	_	Shift=461
+17	июня	_	_	_	_	_	_	_	Shift=464
+18	появление	_	_	_	_	_	_	_	Shift=469
+19	ролика	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2620|RuCor_group_id=471585|RuCor_link_id=471581|Shift=479
+20	вызвало	_	_	_	_	_	_	_	Shift=486
+21	большой	_	_	_	_	_	_	_	Shift=494
+22	общественный	_	_	_	_	_	_	_	Shift=502
+23	резонанс	_	_	_	_	_	_	_	Shift=515
+24	в	_	_	_	_	_	_	_	Shift=524
+25	русскоязычных	_	_	_	_	_	_	_	Shift=526
+26	блогах	_	_	_	_	_	_	_	Shift=540|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=546
+28	стало	_	_	_	_	_	_	_	Shift=548
+29	причиной	_	_	_	_	_	_	_	Shift=554
+30	публикаций	_	_	_	_	_	_	_	Shift=563
+31	в	_	_	_	_	_	_	_	Shift=574
+32	СМИ	_	_	_	_	_	_	_	Shift=576|SpaceAfter=No
+33	.	_	_	_	_	_	_	_	Shift=579
+
+# newpar id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p3
+# par_text = В частности, интенсивное обсуждение ролика происходило в блоге известного общественного активиста Алексея Навального.
+# sent_id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p3-s1
+# text = В частности, интенсивное обсуждение ролика происходило в блоге известного общественного активиста Алексея Навального.
+1	В	_	_	_	_	_	_	_	Shift=581
+2	частности	_	_	_	_	_	_	_	Shift=583|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=592
+4	интенсивное	_	_	_	_	_	_	_	Shift=594
+5	обсуждение	_	_	_	_	_	_	_	Shift=606
+6	ролика	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2620|RuCor_group_id=471586|RuCor_link_id=471585|Shift=617
+7	происходило	_	_	_	_	_	_	_	Shift=624
+8	в	_	_	_	_	_	_	_	Shift=636
+9	блоге	_	_	_	_	_	_	_	Shift=638
+10	известного	_	_	_	_	_	_	_	RuCor_chain_id=2623|RuCor_group_id=471587|Shift=644
+11	общественного	_	_	_	_	_	_	_	RuCor_chain_id=2623|RuCor_group_id=471587|Shift=655
+12	активиста	_	_	_	_	_	_	_	RuCor_chain_id=2623|RuCor_group_id=471587|Shift=669
+13	Алексея	_	_	_	_	_	_	_	RuCor_chain_id=2623|RuCor_group_id=471587|Shift=679
+14	Навального	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2623|RuCor_group_id=471587|RuCor_link_id=0|Shift=687|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=697
+
+# newpar id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p4
+# par_text = В ролике сообщается, что американские юристы, связанные с инвестиционным фондом Hermitage Capital Management, с которым сотрудничал Магнитский, предоставили российским властям документы, подтверждающие факты крупных денежных расходов членов семьи Артема Кузнецова в России и других странах, несопоставимых с уровнем официально получаемых ими доходов.
+# sent_id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p4-s1
+# text = В ролике сообщается, что американские юристы, связанные с инвестиционным фондом Hermitage Capital Management, с которым сотрудничал Магнитский, предоставили российским властям документы, подтверждающие факты крупных денежных расходов членов семьи Артема Кузнецова в России и других странах, несопоставимых с уровнем официально получаемых ими доходов.
+1	В	_	_	_	_	_	_	_	Shift=699
+2	ролике	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2620|RuCor_group_id=471588|RuCor_link_id=471586|Shift=701
+3	сообщается	_	_	_	_	_	_	_	Shift=708|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=718
+5	что	_	_	_	_	_	_	_	Shift=720
+6	американские	_	_	_	_	_	_	_	Shift=724
+7	юристы	_	_	_	_	_	_	_	Shift=737|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=743
+9	связанные	_	_	_	_	_	_	_	Shift=745
+10	с	_	_	_	_	_	_	_	Shift=755
+11	инвестиционным	_	_	_	_	_	_	_	RuCor_chain_id=2625|RuCor_group_id=471590|Shift=757
+12	фондом	_	_	_	_	_	_	_	RuCor_chain_id=2625|RuCor_group_id=471590|Shift=772
+13	Hermitage	_	_	_	_	_	_	_	RuCor_chain_id=2625|RuCor_group_id=471590|Shift=779
+14	Capital	_	_	_	_	_	_	_	RuCor_chain_id=2625|RuCor_group_id=471590|Shift=789
+15	Management	_	_	_	_	_	_	_	RuCor_chain_id=2625|RuCor_group_id=471590|Shift=797|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=807
+17	с	_	_	_	_	_	_	_	Shift=809
+18	которым	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2625|RuCor_group_id=471591|RuCor_link_id=471590|Shift=811
+19	сотрудничал	_	_	_	_	_	_	_	Shift=819
+20	Магнитский	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2621|RuCor_group_id=471593|RuCor_link_id=471584|Shift=831|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=841
+22	предоставили	_	_	_	_	_	_	_	Shift=843
+23	российским	_	_	_	_	_	_	_	Shift=856
+24	властям	_	_	_	_	_	_	_	Shift=867
+25	документы	_	_	_	_	_	_	_	Shift=875|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	Shift=884
+27	подтверждающие	_	_	_	_	_	_	_	Shift=886
+28	факты	_	_	_	_	_	_	_	Shift=901
+29	крупных	_	_	_	_	_	_	_	Shift=907
+30	денежных	_	_	_	_	_	_	_	Shift=915
+31	расходов	_	_	_	_	_	_	_	Shift=924
+32	членов	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2626|RuCor_group_id=471594|RuCor_link_id=0|Shift=933
+33	семьи	_	_	_	_	_	_	_	RuCor_chain_id=2626|RuCor_group_id=471594|Shift=940
+34	Артема	_	_	_	_	_	_	_	RuCor_chain_id=2619|RuCor_group_id=471595|Shift=946
+35	Кузнецова	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2619|RuCor_group_id=471595|RuCor_link_id=471578|Shift=953
+36	в	_	_	_	_	_	_	_	Shift=963
+37	России	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2617|RuCor_group_id=471596|RuCor_link_id=471574|Shift=965
+38	и	_	_	_	_	_	_	_	Shift=972
+39	других	_	_	_	_	_	_	_	Shift=974
+40	странах	_	_	_	_	_	_	_	Shift=981|SpaceAfter=No
+41	,	_	_	_	_	_	_	_	Shift=988
+42	несопоставимых	_	_	_	_	_	_	_	Shift=990
+43	с	_	_	_	_	_	_	_	Shift=1005
+44	уровнем	_	_	_	_	_	_	_	Shift=1007
+45	официально	_	_	_	_	_	_	_	Shift=1015
+46	получаемых	_	_	_	_	_	_	_	Shift=1026
+47	ими	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2626|RuCor_group_id=471597|RuCor_link_id=471594|Shift=1037
+48	доходов	_	_	_	_	_	_	_	Shift=1041|SpaceAfter=No
+49	.	_	_	_	_	_	_	_	Shift=1048
+
+# newpar id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p5
+# par_text = Авторы ролика, ссылаясь на руководителей фонда, увязывают это с причастностью Кузнецова с крупным хищениям из российского госбюджета.
+# sent_id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p5-s1
+# text = Авторы ролика, ссылаясь на руководителей фонда, увязывают это с причастностью Кузнецова с крупным хищениям из российского госбюджета.
+1	Авторы	_	_	_	_	_	_	_	Shift=1050
+2	ролика	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2620|RuCor_group_id=471598|RuCor_link_id=471588|Shift=1057|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1063
+4	ссылаясь	_	_	_	_	_	_	_	Shift=1065
+5	на	_	_	_	_	_	_	_	Shift=1074
+6	руководителей	_	_	_	_	_	_	_	Shift=1077
+7	фонда	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2624|RuCor_group_id=471599|RuCor_link_id=471592|Shift=1091|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1096
+9	увязывают	_	_	_	_	_	_	_	Shift=1098
+10	это	_	_	_	_	_	_	_	Shift=1108
+11	с	_	_	_	_	_	_	_	Shift=1112
+12	причастностью	_	_	_	_	_	_	_	Shift=1114
+13	Кузнецова	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2619|RuCor_group_id=471600|RuCor_link_id=471595|Shift=1128
+14	с	_	_	_	_	_	_	_	Shift=1138
+15	крупным	_	_	_	_	_	_	_	Shift=1140
+16	хищениям	_	_	_	_	_	_	_	Shift=1148
+17	из	_	_	_	_	_	_	_	Shift=1157
+18	российского	_	_	_	_	_	_	_	Shift=1160
+19	госбюджета	_	_	_	_	_	_	_	Shift=1172|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=1182
+
+# newpar id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p6
+# par_text = В частности, в ролике указывается, что при официальной зарплате Кузнецова 850 долларов США в месяц в рублевом эквиваленте ему бы потребовалось работать 322 года, чтобы заработать на имущество, записанное на его семью в течение последних нескольких лет.
+# sent_id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p6-s1
+# text = В частности, в ролике указывается, что при официальной зарплате Кузнецова 850 долларов США в месяц в рублевом эквиваленте ему бы потребовалось работать 322 года, чтобы заработать на имущество, записанное на его семью в течение последних нескольких лет.
+1	В	_	_	_	_	_	_	_	Shift=1184
+2	частности	_	_	_	_	_	_	_	Shift=1186|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1195
+4	в	_	_	_	_	_	_	_	Shift=1197
+5	ролике	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2620|RuCor_group_id=471601|RuCor_link_id=471598|Shift=1199
+6	указывается	_	_	_	_	_	_	_	Shift=1206|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=1217
+8	что	_	_	_	_	_	_	_	Shift=1219
+9	при	_	_	_	_	_	_	_	Shift=1223
+10	официальной	_	_	_	_	_	_	_	Shift=1227
+11	зарплате	_	_	_	_	_	_	_	Shift=1239
+12	Кузнецова	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2619|RuCor_group_id=471602|RuCor_link_id=471600|Shift=1248
+13	850	_	_	_	_	_	_	_	Shift=1258
+14	долларов	_	_	_	_	_	_	_	Shift=1262
+15	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2627|RuCor_group_id=471603|RuCor_link_id=0|Shift=1271
+16	в	_	_	_	_	_	_	_	Shift=1275
+17	месяц	_	_	_	_	_	_	_	Shift=1277
+18	в	_	_	_	_	_	_	_	Shift=1283
+19	рублевом	_	_	_	_	_	_	_	Shift=1285
+20	эквиваленте	_	_	_	_	_	_	_	Shift=1294
+21	ему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2619|RuCor_group_id=471604|RuCor_link_id=471602|Shift=1306
+22	бы	_	_	_	_	_	_	_	Shift=1310
+23	потребовалось	_	_	_	_	_	_	_	Shift=1313
+24	работать	_	_	_	_	_	_	_	Shift=1327
+25	322	_	_	_	_	_	_	_	Shift=1336
+26	года	_	_	_	_	_	_	_	Shift=1340|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=1344
+28	чтобы	_	_	_	_	_	_	_	Shift=1346
+29	заработать	_	_	_	_	_	_	_	Shift=1352
+30	на	_	_	_	_	_	_	_	Shift=1363
+31	имущество	_	_	_	_	_	_	_	Shift=1366|SpaceAfter=No
+32	,	_	_	_	_	_	_	_	Shift=1375
+33	записанное	_	_	_	_	_	_	_	Shift=1377
+34	на	_	_	_	_	_	_	_	Shift=1388
+35	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2619|RuCor_group_id=471605|RuCor_link_id=471604|Shift=1391
+36	семью	_	_	_	_	_	_	_	Shift=1395
+37	в	_	_	_	_	_	_	_	Shift=1401
+38	течение	_	_	_	_	_	_	_	Shift=1403
+39	последних	_	_	_	_	_	_	_	Shift=1411
+40	нескольких	_	_	_	_	_	_	_	Shift=1421
+41	лет	_	_	_	_	_	_	_	Shift=1432|SpaceAfter=No
+42	.	_	_	_	_	_	_	_	Shift=1435
+
+# newpar id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p7
+# par_text = Работавший с Магнитским юрист Джемисон Файрстоун подготовил обращения с просьбой проверить источники обогащения семьи подполковника Кузнецова к президенту РФ, генпрокурору Юрию Чайке, а также в ДСБ и Управление организации профилактики коррупционных и иных правонарушений Департамента кадрового обеспечения МВД.
+# sent_id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p7-s1
+# text = Работавший с Магнитским юрист Джемисон Файрстоун подготовил обращения с просьбой проверить источники обогащения семьи подполковника Кузнецова к президенту РФ, генпрокурору Юрию Чайке, а также в ДСБ и Управление организации профилактики коррупционных и иных правонарушений Департамента кадрового обеспечения МВД.
+1	Работавший	_	_	_	_	_	_	_	Shift=1437
+2	с	_	_	_	_	_	_	_	Shift=1448
+3	Магнитским	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2621|RuCor_group_id=471606|RuCor_link_id=471593|Shift=1450
+4	юрист	_	_	_	_	_	_	_	Shift=1461
+5	Джемисон	_	_	_	_	_	_	_	Shift=1467
+6	Файрстоун	_	_	_	_	_	_	_	Shift=1476
+7	подготовил	_	_	_	_	_	_	_	Shift=1486
+8	обращения	_	_	_	_	_	_	_	Shift=1497
+9	с	_	_	_	_	_	_	_	Shift=1507
+10	просьбой	_	_	_	_	_	_	_	Shift=1509
+11	проверить	_	_	_	_	_	_	_	Shift=1518
+12	источники	_	_	_	_	_	_	_	Shift=1528
+13	обогащения	_	_	_	_	_	_	_	Shift=1538
+14	семьи	_	_	_	_	_	_	_	Shift=1549
+15	подполковника	_	_	_	_	_	_	_	RuCor_chain_id=2619|RuCor_group_id=471607|Shift=1555
+16	Кузнецова	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2619|RuCor_group_id=471607|RuCor_link_id=471602|Shift=1569
+17	к	_	_	_	_	_	_	_	Shift=1579
+18	президенту	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2628|RuCor_group_id=471608|RuCor_link_id=0|Shift=1581
+19	РФ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2617|RuCor_group_id=471609|RuCor_link_id=471596|Shift=1592|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=1594
+21	генпрокурору	_	_	_	_	_	_	_	Shift=1596
+22	Юрию	_	_	_	_	_	_	_	Shift=1609
+23	Чайке	_	_	_	_	_	_	_	Shift=1614|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=1619
+25	а	_	_	_	_	_	_	_	Shift=1621
+26	также	_	_	_	_	_	_	_	Shift=1623
+27	в	_	_	_	_	_	_	_	Shift=1629
+28	ДСБ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2615|RuCor_group_id=471610|RuCor_link_id=471572|Shift=1631
+29	и	_	_	_	_	_	_	_	Shift=1635
+30	Управление	_	_	_	_	_	_	_	Shift=1637
+31	организации	_	_	_	_	_	_	_	Shift=1648
+32	профилактики	_	_	_	_	_	_	_	Shift=1660
+33	коррупционных	_	_	_	_	_	_	_	Shift=1673
+34	и	_	_	_	_	_	_	_	Shift=1687
+35	иных	_	_	_	_	_	_	_	Shift=1689
+36	правонарушений	_	_	_	_	_	_	_	Shift=1694
+37	Департамента	_	_	_	_	_	_	_	Shift=1709
+38	кадрового	_	_	_	_	_	_	_	Shift=1722
+39	обеспечения	_	_	_	_	_	_	_	Shift=1732
+40	МВД	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2616|RuCor_group_id=471611|RuCor_link_id=471573|Shift=1744|SpaceAfter=No
+41	.	_	_	_	_	_	_	_	Shift=1747
+
+# newpar id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p8
+# par_text = Как пишет «Лента.ру», жалобы были направлены 21 мая, ответов на них пока не поступало.
+# sent_id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p8-s1
+# text = Как пишет ``Лента.
+1	Как	_	_	_	_	_	_	_	Shift=1749
+2	пишет	_	_	_	_	_	_	_	Shift=1753
+3	``	_	_	_	_	_	_	_	Shift=1759|SpaceAfter=No
+4	Лента	_	_	_	_	_	_	_	Shift=1760|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=1765
+
+# sent_id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p8-s2
+# text = ру'', жалобы были направлены 21 мая, ответов на них пока не поступало.
+1	ру	_	_	_	_	_	_	_	Shift=1766|SpaceAfter=No
+2	''	_	_	_	_	_	_	_	Shift=1768|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1769
+4	жалобы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2629|RuCor_group_id=471612|RuCor_link_id=0|Shift=1771
+5	были	_	_	_	_	_	_	_	Shift=1778
+6	направлены	_	_	_	_	_	_	_	Shift=1783
+7	21	_	_	_	_	_	_	_	Shift=1794
+8	мая	_	_	_	_	_	_	_	Shift=1797|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1800
+10	ответов	_	_	_	_	_	_	_	Shift=1802
+11	на	_	_	_	_	_	_	_	Shift=1810
+12	них	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2629|RuCor_group_id=471613|RuCor_link_id=471612|Shift=1813
+13	пока	_	_	_	_	_	_	_	Shift=1817
+14	не	_	_	_	_	_	_	_	Shift=1822
+15	поступало	_	_	_	_	_	_	_	Shift=1825|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=1834
+
+# newpar id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p9
+# par_text = В апреле 2010 года американский сенатор Бен Кардин выступил с предложением аннулировать вьездные визы в США для 60 российских чиновников, связанных со смертью Магнитского.
+# sent_id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p9-s1
+# text = В апреле 2010 года американский сенатор Бен Кардин выступил с предложением аннулировать вьездные визы в США для 60 российских чиновников, связанных со смертью Магнитского.
+1	В	_	_	_	_	_	_	_	Shift=1836
+2	апреле	_	_	_	_	_	_	_	Shift=1838
+3	2010	_	_	_	_	_	_	_	Shift=1845
+4	года	_	_	_	_	_	_	_	Shift=1850
+5	американский	_	_	_	_	_	_	_	Shift=1855
+6	сенатор	_	_	_	_	_	_	_	Shift=1868
+7	Бен	_	_	_	_	_	_	_	Shift=1876
+8	Кардин	_	_	_	_	_	_	_	Shift=1880
+9	выступил	_	_	_	_	_	_	_	Shift=1887
+10	с	_	_	_	_	_	_	_	Shift=1896
+11	предложением	_	_	_	_	_	_	_	Shift=1898
+12	аннулировать	_	_	_	_	_	_	_	Shift=1911
+13	вьездные	_	_	_	_	_	_	_	Shift=1924
+14	визы	_	_	_	_	_	_	_	Shift=1933
+15	в	_	_	_	_	_	_	_	Shift=1938
+16	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2627|RuCor_group_id=471614|RuCor_link_id=471603|Shift=1940
+17	для	_	_	_	_	_	_	_	Shift=1944
+18	60	_	_	_	_	_	_	_	Shift=1948
+19	российских	_	_	_	_	_	_	_	Shift=1951
+20	чиновников	_	_	_	_	_	_	_	Shift=1962|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=1972
+22	связанных	_	_	_	_	_	_	_	Shift=1974
+23	со	_	_	_	_	_	_	_	Shift=1984
+24	смертью	_	_	_	_	_	_	_	Shift=1987
+25	Магнитского	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2621|RuCor_group_id=471615|RuCor_link_id=471606|Shift=1995|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=2006
+
+# newpar id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p10
+# par_text = Соответствующий запрос был подан госсекретарю США Хиллари Клинтон.
+# sent_id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p10-s1
+# text = Соответствующий запрос был подан госсекретарю США Хиллари Клинтон.
+1	Соответствующий	_	_	_	_	_	_	_	Shift=2008
+2	запрос	_	_	_	_	_	_	_	Shift=2024
+3	был	_	_	_	_	_	_	_	Shift=2031
+4	подан	_	_	_	_	_	_	_	Shift=2035
+5	госсекретарю	_	_	_	_	_	_	_	RuCor_chain_id=2630|RuCor_group_id=471616|Shift=2041
+6	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2627|RuCor_group_id=471617|RuCor_link_id=471614|Shift=2054
+7	Хиллари	_	_	_	_	_	_	_	RuCor_chain_id=2630|RuCor_group_id=471616|Shift=2058
+8	Клинтон	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2630|RuCor_group_id=471616|RuCor_link_id=0|Shift=2066|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=2073
+
+# newpar id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p11
+# par_text = Решение об этом пока не принято, но 24 июня Клинтон, выступая в Вашингтоне на российско-американском форуме «Гражданское общество — гражданскому обществу», что администрация Барака Обамы «глубоко озабочена» ситуацией вокруг дела Магнитского, пишет газета Telegraph.
+# sent_id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p11-s1
+# text = Решение об этом пока не принято, но 24 июня Клинтон, выступая в Вашингтоне на российско-американском форуме ``Гражданское общество - гражданскому обществу'', что администрация Барака Обамы ``глубоко озабочена'' ситуацией вокруг дела Магнитского, пишет газета Telegraph.
+1	Решение	_	_	_	_	_	_	_	Shift=2075
+2	об	_	_	_	_	_	_	_	Shift=2083
+3	этом	_	_	_	_	_	_	_	Shift=2086
+4	пока	_	_	_	_	_	_	_	Shift=2091
+5	не	_	_	_	_	_	_	_	Shift=2096
+6	принято	_	_	_	_	_	_	_	Shift=2099|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=2106
+8	но	_	_	_	_	_	_	_	Shift=2108
+9	24	_	_	_	_	_	_	_	Shift=2111
+10	июня	_	_	_	_	_	_	_	Shift=2114
+11	Клинтон	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2630|RuCor_group_id=471618|RuCor_link_id=471616|Shift=2119|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=2126
+13	выступая	_	_	_	_	_	_	_	Shift=2128
+14	в	_	_	_	_	_	_	_	Shift=2137
+15	Вашингтоне	_	_	_	_	_	_	_	Shift=2139
+16	на	_	_	_	_	_	_	_	Shift=2150
+17	российско-американском	_	_	_	_	_	_	_	Shift=2153
+18	форуме	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2631|RuCor_group_id=471619|RuCor_link_id=0|Shift=2176
+19	``	_	_	_	_	_	_	_	RuCor_chain_id=2631|RuCor_group_id=471619|Shift=2183|SpaceAfter=No
+20	Гражданское	_	_	_	_	_	_	_	RuCor_chain_id=2631|RuCor_group_id=471619|Shift=2184
+21	общество	_	_	_	_	_	_	_	RuCor_chain_id=2631|RuCor_group_id=471619|Shift=2196
+22	-	_	_	_	_	_	_	_	RuCor_chain_id=2631|RuCor_group_id=471619|Shift=2205
+23	гражданскому	_	_	_	_	_	_	_	RuCor_chain_id=2631|RuCor_group_id=471619|Shift=2207
+24	обществу	_	_	_	_	_	_	_	RuCor_chain_id=2631|RuCor_group_id=471619|Shift=2220|SpaceAfter=No
+25	''	_	_	_	_	_	_	_	RuCor_chain_id=2631|RuCor_group_id=471619|Shift=2228|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	Shift=2229
+27	что	_	_	_	_	_	_	_	Shift=2231
+28	администрация	_	_	_	_	_	_	_	Shift=2235
+29	Барака	_	_	_	_	_	_	_	Shift=2249
+30	Обамы	_	_	_	_	_	_	_	Shift=2256
+31	``	_	_	_	_	_	_	_	Shift=2262|SpaceAfter=No
+32	глубоко	_	_	_	_	_	_	_	Shift=2263
+33	озабочена	_	_	_	_	_	_	_	Shift=2271|SpaceAfter=No
+34	''	_	_	_	_	_	_	_	Shift=2280
+35	ситуацией	_	_	_	_	_	_	_	Shift=2282
+36	вокруг	_	_	_	_	_	_	_	Shift=2292
+37	дела	_	_	_	_	_	_	_	Shift=2299
+38	Магнитского	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2621|RuCor_group_id=471620|RuCor_link_id=471615|Shift=2304|SpaceAfter=No
+39	,	_	_	_	_	_	_	_	Shift=2315
+40	пишет	_	_	_	_	_	_	_	Shift=2317
+41	газета	_	_	_	_	_	_	_	Shift=2323
+42	Telegraph	_	_	_	_	_	_	_	Shift=2330|SpaceAfter=No
+43	.	_	_	_	_	_	_	_	Shift=2339
+
+# newpar id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p12
+# par_text = Форум был приурочен к визиту в США российского президента Дмитрия Медведева, но сам Медведев на нём не присутствовал.
+# sent_id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p12-s1
+# text = Форум был приурочен к визиту в США российского президента Дмитрия Медведева, но сам Медведев на нём не присутствовал.
+1	Форум	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2631|RuCor_group_id=471621|RuCor_link_id=471619|Shift=2341
+2	был	_	_	_	_	_	_	_	Shift=2347
+3	приурочен	_	_	_	_	_	_	_	Shift=2351
+4	к	_	_	_	_	_	_	_	Shift=2361
+5	визиту	_	_	_	_	_	_	_	Shift=2363
+6	в	_	_	_	_	_	_	_	Shift=2370
+7	США	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2627|RuCor_group_id=471622|RuCor_link_id=471617|Shift=2372
+8	российского	_	_	_	_	_	_	_	RuCor_chain_id=2628|RuCor_group_id=471623|Shift=2376
+9	президента	_	_	_	_	_	_	_	RuCor_chain_id=2628|RuCor_group_id=471623|Shift=2388
+10	Дмитрия	_	_	_	_	_	_	_	RuCor_chain_id=2628|RuCor_group_id=471623|Shift=2399
+11	Медведева	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2628|RuCor_group_id=471623|RuCor_link_id=471608|Shift=2407|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=2416
+13	но	_	_	_	_	_	_	_	Shift=2418
+14	сам	_	_	_	_	_	_	_	Shift=2421
+15	Медведев	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2628|RuCor_group_id=471624|RuCor_link_id=471623|Shift=2425
+16	на	_	_	_	_	_	_	_	Shift=2434
+17	нём	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2631|RuCor_group_id=471625|RuCor_link_id=471621|Shift=2437
+18	не	_	_	_	_	_	_	_	Shift=2441
+19	присутствовал	_	_	_	_	_	_	_	Shift=2444|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=2457
+
+# newpar id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p13
+# par_text = Сторонники Магнитского отмечают, что Артём Кузнецов со времени совершения приписываемых ему преступлений пошёл на повышение: ранее он служил в Управлении по налоговым преступлениям ГУВД Москвы, а с начала 2010 года перешел в Департамент экономической безопасности (ДЭБ) МВД.
+# sent_id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p13-s1
+# text = Сторонники Магнитского отмечают, что Артём Кузнецов со времени совершения приписываемых ему преступлений пошёл на повышение: ранее он служил в Управлении по налоговым преступлениям ГУВД Москвы, а с начала 2010 года перешел в Департамент экономической безопасности (ДЭБ) МВД.
+1	Сторонники	_	_	_	_	_	_	_	Shift=2459
+2	Магнитского	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2621|RuCor_group_id=471626|RuCor_link_id=471620|Shift=2470
+3	отмечают	_	_	_	_	_	_	_	Shift=2482|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2490
+5	что	_	_	_	_	_	_	_	Shift=2492
+6	Артём	_	_	_	_	_	_	_	RuCor_chain_id=2619|RuCor_group_id=471627|Shift=2496
+7	Кузнецов	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2619|RuCor_group_id=471627|RuCor_link_id=471607|Shift=2502
+8	со	_	_	_	_	_	_	_	Shift=2511
+9	времени	_	_	_	_	_	_	_	Shift=2514
+10	совершения	_	_	_	_	_	_	_	Shift=2522
+11	приписываемых	_	_	_	_	_	_	_	Shift=2533
+12	ему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2619|RuCor_group_id=471628|RuCor_link_id=471627|Shift=2547
+13	преступлений	_	_	_	_	_	_	_	Shift=2551
+14	пошёл	_	_	_	_	_	_	_	Shift=2564
+15	на	_	_	_	_	_	_	_	Shift=2570
+16	повышение	_	_	_	_	_	_	_	Shift=2573|SpaceAfter=No
+17	:	_	_	_	_	_	_	_	Shift=2582
+18	ранее	_	_	_	_	_	_	_	Shift=2584
+19	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2619|RuCor_group_id=471629|RuCor_link_id=471628|Shift=2590
+20	служил	_	_	_	_	_	_	_	Shift=2593
+21	в	_	_	_	_	_	_	_	Shift=2600
+22	Управлении	_	_	_	_	_	_	_	Shift=2602
+23	по	_	_	_	_	_	_	_	Shift=2613
+24	налоговым	_	_	_	_	_	_	_	Shift=2616
+25	преступлениям	_	_	_	_	_	_	_	Shift=2626
+26	ГУВД	_	_	_	_	_	_	_	Shift=2640
+27	Москвы	_	_	_	_	_	_	_	Shift=2645|SpaceAfter=No
+28	,	_	_	_	_	_	_	_	Shift=2651
+29	а	_	_	_	_	_	_	_	Shift=2653
+30	с	_	_	_	_	_	_	_	Shift=2655
+31	начала	_	_	_	_	_	_	_	Shift=2657
+32	2010	_	_	_	_	_	_	_	Shift=2664
+33	года	_	_	_	_	_	_	_	Shift=2669
+34	перешел	_	_	_	_	_	_	_	Shift=2674
+35	в	_	_	_	_	_	_	_	Shift=2682
+36	Департамент	_	_	_	_	_	_	_	RuCor_chain_id=2632|RuCor_group_id=471630|Shift=2684
+37	экономической	_	_	_	_	_	_	_	RuCor_chain_id=2632|RuCor_group_id=471630|Shift=2696
+38	безопасности	_	_	_	_	_	_	_	RuCor_chain_id=2632|RuCor_group_id=471630|Shift=2710
+39	(	_	_	_	_	_	_	_	Shift=2723|SpaceAfter=No
+40	ДЭБ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2632|RuCor_group_id=471631|RuCor_link_id=471630|Shift=2724|SpaceAfter=No
+41	)	_	_	_	_	_	_	_	Shift=2727
+42	МВД	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2616|RuCor_group_id=471632|RuCor_link_id=471611|Shift=2729|SpaceAfter=No
+43	.	_	_	_	_	_	_	_	Shift=2732
+
+# newpar id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p14
+# par_text = За последние месяцы было несколько громких случаев, когда частные лица или инициативные группы российских граждан публично сообщали о крупномасштабных фактах коррупции в органах российской власти с упоминанием конкретных эпизодов и называнием фамилий предполагаемых коррупционеров.
+# sent_id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p14-s1
+# text = За последние месяцы было несколько громких случаев, когда частные лица или инициативные группы российских граждан публично сообщали о крупномасштабных фактах коррупции в органах российской власти с упоминанием конкретных эпизодов и называнием фамилий предполагаемых коррупционеров.
+1	За	_	_	_	_	_	_	_	Shift=2734
+2	последние	_	_	_	_	_	_	_	Shift=2737
+3	месяцы	_	_	_	_	_	_	_	Shift=2747
+4	было	_	_	_	_	_	_	_	Shift=2754
+5	несколько	_	_	_	_	_	_	_	Shift=2759
+6	громких	_	_	_	_	_	_	_	Shift=2769
+7	случаев	_	_	_	_	_	_	_	Shift=2777|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=2784
+9	когда	_	_	_	_	_	_	_	Shift=2786
+10	частные	_	_	_	_	_	_	_	Shift=2792
+11	лица	_	_	_	_	_	_	_	Shift=2800
+12	или	_	_	_	_	_	_	_	Shift=2805
+13	инициативные	_	_	_	_	_	_	_	Shift=2809
+14	группы	_	_	_	_	_	_	_	Shift=2822
+15	российских	_	_	_	_	_	_	_	Shift=2829
+16	граждан	_	_	_	_	_	_	_	Shift=2840
+17	публично	_	_	_	_	_	_	_	Shift=2848
+18	сообщали	_	_	_	_	_	_	_	Shift=2857
+19	о	_	_	_	_	_	_	_	Shift=2866
+20	крупномасштабных	_	_	_	_	_	_	_	Shift=2868
+21	фактах	_	_	_	_	_	_	_	Shift=2885
+22	коррупции	_	_	_	_	_	_	_	Shift=2892
+23	в	_	_	_	_	_	_	_	Shift=2902
+24	органах	_	_	_	_	_	_	_	Shift=2904
+25	российской	_	_	_	_	_	_	_	Shift=2912
+26	власти	_	_	_	_	_	_	_	Shift=2923
+27	с	_	_	_	_	_	_	_	Shift=2930
+28	упоминанием	_	_	_	_	_	_	_	Shift=2932
+29	конкретных	_	_	_	_	_	_	_	Shift=2944
+30	эпизодов	_	_	_	_	_	_	_	Shift=2955
+31	и	_	_	_	_	_	_	_	Shift=2964
+32	называнием	_	_	_	_	_	_	_	Shift=2966
+33	фамилий	_	_	_	_	_	_	_	Shift=2977
+34	предполагаемых	_	_	_	_	_	_	_	Shift=2985
+35	коррупционеров	_	_	_	_	_	_	_	Shift=3000|SpaceAfter=No
+36	.	_	_	_	_	_	_	_	Shift=3014
+
+# newpar id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p15
+# par_text = В частности, особый резонанс имело дело о коррупции в банке ВТБ, инициированное Алексеем Навальным.
+# sent_id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p15-s1
+# text = В частности, особый резонанс имело дело о коррупции в банке ВТБ, инициированное Алексеем Навальным.
+1	В	_	_	_	_	_	_	_	Shift=3016
+2	частности	_	_	_	_	_	_	_	Shift=3018|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=3027
+4	особый	_	_	_	_	_	_	_	Shift=3029
+5	резонанс	_	_	_	_	_	_	_	Shift=3036
+6	имело	_	_	_	_	_	_	_	Shift=3045
+7	дело	_	_	_	_	_	_	_	Shift=3051
+8	о	_	_	_	_	_	_	_	Shift=3056
+9	коррупции	_	_	_	_	_	_	_	Shift=3058
+10	в	_	_	_	_	_	_	_	Shift=3068
+11	банке	_	_	_	_	_	_	_	Shift=3070
+12	ВТБ	_	_	_	_	_	_	_	Shift=3076|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=3079
+14	инициированное	_	_	_	_	_	_	_	Shift=3081
+15	Алексеем	_	_	_	_	_	_	_	RuCor_chain_id=2623|RuCor_group_id=471633|Shift=3096
+16	Навальным	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2623|RuCor_group_id=471633|RuCor_link_id=471587|Shift=3105|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=3114
+
+# newpar id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p16
+# par_text = Кроме того, фамилии предполагаемых правоохранителей-коррупционеров называл сбежавший из России бизнесмен Евгений Чичваркин.
+# sent_id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p16-s1
+# text = Кроме того, фамилии предполагаемых правоохранителей - коррупционеров называл сбежавший из России бизнесмен Евгений Чичваркин.
+1	Кроме	_	_	_	_	_	_	_	Shift=3116
+2	того	_	_	_	_	_	_	_	Shift=3122|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=3126
+4	фамилии	_	_	_	_	_	_	_	Shift=3128
+5	предполагаемых	_	_	_	_	_	_	_	Shift=3136
+6	правоохранителей	_	_	_	_	_	_	_	Shift=3151
+7	-	_	_	_	_	_	_	_	Shift=3167
+8	коррупционеров	_	_	_	_	_	_	_	Shift=3168
+9	называл	_	_	_	_	_	_	_	Shift=3183
+10	сбежавший	_	_	_	_	_	_	_	Shift=3191
+11	из	_	_	_	_	_	_	_	Shift=3201
+12	России	_	_	_	_	_	_	_	Shift=3204
+13	бизнесмен	_	_	_	_	_	_	_	Shift=3211
+14	Евгений	_	_	_	_	_	_	_	Shift=3221
+15	Чичваркин	_	_	_	_	_	_	_	Shift=3229|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=3238
+
+# newpar id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p17
+# par_text = Комментаторы-активисты в блоге Навального сообщают о том, что они направляют многочисленные запросы, связанные с озвучиваемыми случаями, в блог президента РФ Медеведева, но такие комментарии не пропускаются модераторами блога.
+# sent_id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p17-s1
+# text = Комментаторы - активисты в блоге Навального сообщают о том, что они направляют многочисленные запросы, связанные с озвучиваемыми случаями, в блог президента РФ Медеведева, но такие комментарии не пропускаются модераторами блога.
+1	Комментаторы	_	_	_	_	_	_	_	RuCor_chain_id=2633|RuCor_group_id=471634|Shift=3240
+2	-	_	_	_	_	_	_	_	RuCor_chain_id=2633|RuCor_group_id=471634|Shift=3252
+3	активисты	_	_	_	_	_	_	_	RuCor_chain_id=2633|RuCor_group_id=471634|Shift=3253
+4	в	_	_	_	_	_	_	_	Shift=3263
+5	блоге	_	_	_	_	_	_	_	Shift=3265
+6	Навального	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2623|RuCor_group_id=471635|RuCor_link_id=471633|Shift=3271
+7	сообщают	_	_	_	_	_	_	_	Shift=3282
+8	о	_	_	_	_	_	_	_	Shift=3291
+9	том	_	_	_	_	_	_	_	Shift=3293|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=3296
+11	что	_	_	_	_	_	_	_	Shift=3298
+12	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2633|RuCor_group_id=471636|RuCor_link_id=471634|Shift=3302
+13	направляют	_	_	_	_	_	_	_	Shift=3306
+14	многочисленные	_	_	_	_	_	_	_	Shift=3317
+15	запросы	_	_	_	_	_	_	_	Shift=3332|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=3339
+17	связанные	_	_	_	_	_	_	_	Shift=3341
+18	с	_	_	_	_	_	_	_	Shift=3351
+19	озвучиваемыми	_	_	_	_	_	_	_	Shift=3353
+20	случаями	_	_	_	_	_	_	_	Shift=3367|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=3375
+22	в	_	_	_	_	_	_	_	Shift=3377
+23	блог	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2634|RuCor_group_id=471637|RuCor_link_id=0|Shift=3379
+24	президента	_	_	_	_	_	_	_	RuCor_chain_id=2628|RuCor_group_id=471638|Shift=3384
+25	РФ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2617|RuCor_group_id=471639|RuCor_link_id=471574|Shift=3395
+26	Медеведева	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2628|RuCor_group_id=471638|RuCor_link_id=471624|Shift=3398|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=3408
+28	но	_	_	_	_	_	_	_	Shift=3410
+29	такие	_	_	_	_	_	_	_	Shift=3413
+30	комментарии	_	_	_	_	_	_	_	Shift=3419
+31	не	_	_	_	_	_	_	_	Shift=3431
+32	пропускаются	_	_	_	_	_	_	_	Shift=3434
+33	модераторами	_	_	_	_	_	_	_	Shift=3447
+34	блога	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2634|RuCor_group_id=471640|RuCor_link_id=471637|Shift=3460|SpaceAfter=No
+35	.	_	_	_	_	_	_	_	Shift=3465
+
+# newpar id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p18
+# par_text = Они также пишут обращения по Интернету и в письменном виде в надзорные органы власти, но оттуда, как правило, либо не приходит ответов, либо приходят формальные ответы характера «ваше сообщение принято к сведению».
+# sent_id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p18-s1
+# text = Они также пишут обращения по Интернету и в письменном виде в надзорные органы власти, но оттуда, как правило, либо не приходит ответов, либо приходят формальные ответы характера ``ваше сообщение принято к сведению''.
+1	Они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2633|RuCor_group_id=471641|RuCor_link_id=471636|Shift=3467
+2	также	_	_	_	_	_	_	_	Shift=3471
+3	пишут	_	_	_	_	_	_	_	Shift=3477
+4	обращения	_	_	_	_	_	_	_	Shift=3483
+5	по	_	_	_	_	_	_	_	Shift=3493
+6	Интернету	_	_	_	_	_	_	_	Shift=3496
+7	и	_	_	_	_	_	_	_	Shift=3506
+8	в	_	_	_	_	_	_	_	Shift=3508
+9	письменном	_	_	_	_	_	_	_	Shift=3510
+10	виде	_	_	_	_	_	_	_	Shift=3521
+11	в	_	_	_	_	_	_	_	Shift=3526
+12	надзорные	_	_	_	_	_	_	_	Shift=3528
+13	органы	_	_	_	_	_	_	_	Shift=3538
+14	власти	_	_	_	_	_	_	_	Shift=3545|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=3551
+16	но	_	_	_	_	_	_	_	Shift=3553
+17	оттуда	_	_	_	_	_	_	_	Shift=3556|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=3562
+19	как	_	_	_	_	_	_	_	Shift=3564
+20	правило	_	_	_	_	_	_	_	Shift=3568|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=3575
+22	либо	_	_	_	_	_	_	_	Shift=3577
+23	не	_	_	_	_	_	_	_	Shift=3582
+24	приходит	_	_	_	_	_	_	_	Shift=3585
+25	ответов	_	_	_	_	_	_	_	Shift=3594|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	Shift=3601
+27	либо	_	_	_	_	_	_	_	Shift=3603
+28	приходят	_	_	_	_	_	_	_	Shift=3608
+29	формальные	_	_	_	_	_	_	_	Shift=3617
+30	ответы	_	_	_	_	_	_	_	Shift=3628
+31	характера	_	_	_	_	_	_	_	Shift=3635
+32	``	_	_	_	_	_	_	_	Shift=3645|SpaceAfter=No
+33	ваше	_	_	_	_	_	_	_	Shift=3646
+34	сообщение	_	_	_	_	_	_	_	Shift=3651
+35	принято	_	_	_	_	_	_	_	Shift=3661
+36	к	_	_	_	_	_	_	_	Shift=3669
+37	сведению	_	_	_	_	_	_	_	Shift=3671|SpaceAfter=No
+38	''	_	_	_	_	_	_	_	Shift=3679|SpaceAfter=No
+39	.	_	_	_	_	_	_	_	Shift=3680
+
+# newpar id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p19
+# par_text = Сам Навальный регулярно публикует в своём блоге приходящие ему письменные ответы властей на его запросы о случаях коррупции среди высокопоставленных чиновников: ответы в общем случае можно охарактеризовать как попытки избежать проведения следственных действий.
+# sent_id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p19-s1
+# text = Сам Навальный регулярно публикует в своём блоге приходящие ему письменные ответы властей на его запросы о случаях коррупции среди высокопоставленных чиновников: ответы в общем случае можно охарактеризовать как попытки избежать проведения следственных действий.
+1	Сам	_	_	_	_	_	_	_	RuCor_chain_id=2623|RuCor_group_id=471642|Shift=3682
+2	Навальный	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2623|RuCor_group_id=471642|RuCor_link_id=471635|Shift=3686
+3	регулярно	_	_	_	_	_	_	_	Shift=3696
+4	публикует	_	_	_	_	_	_	_	Shift=3706
+5	в	_	_	_	_	_	_	_	Shift=3716
+6	своём	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2623|RuCor_group_id=471643|RuCor_link_id=471642|Shift=3718
+7	блоге	_	_	_	_	_	_	_	Shift=3724
+8	приходящие	_	_	_	_	_	_	_	Shift=3730
+9	ему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2623|RuCor_group_id=471644|RuCor_link_id=471643|Shift=3741
+10	письменные	_	_	_	_	_	_	_	Shift=3745
+11	ответы	_	_	_	_	_	_	_	Shift=3756
+12	властей	_	_	_	_	_	_	_	Shift=3763
+13	на	_	_	_	_	_	_	_	Shift=3771
+14	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2623|RuCor_group_id=471645|RuCor_link_id=471644|Shift=3774
+15	запросы	_	_	_	_	_	_	_	Shift=3778
+16	о	_	_	_	_	_	_	_	Shift=3786
+17	случаях	_	_	_	_	_	_	_	Shift=3788
+18	коррупции	_	_	_	_	_	_	_	Shift=3796
+19	среди	_	_	_	_	_	_	_	Shift=3806
+20	высокопоставленных	_	_	_	_	_	_	_	Shift=3812
+21	чиновников	_	_	_	_	_	_	_	Shift=3831|SpaceAfter=No
+22	:	_	_	_	_	_	_	_	Shift=3841
+23	ответы	_	_	_	_	_	_	_	Shift=3843
+24	в	_	_	_	_	_	_	_	Shift=3850
+25	общем	_	_	_	_	_	_	_	Shift=3852
+26	случае	_	_	_	_	_	_	_	Shift=3858
+27	можно	_	_	_	_	_	_	_	Shift=3865
+28	охарактеризовать	_	_	_	_	_	_	_	Shift=3871
+29	как	_	_	_	_	_	_	_	Shift=3888
+30	попытки	_	_	_	_	_	_	_	Shift=3892
+31	избежать	_	_	_	_	_	_	_	Shift=3900
+32	проведения	_	_	_	_	_	_	_	Shift=3909
+33	следственных	_	_	_	_	_	_	_	Shift=3920
+34	действий	_	_	_	_	_	_	_	Shift=3933|SpaceAfter=No
+35	.	_	_	_	_	_	_	_	Shift=3941
+
+# newpar id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p20
+# par_text = В частности, подобное происходит с обращениями, связанными с делом фирмы Daimler, которая сама призналась в подкупе российских чиновников, хотя о «взятии дела на контроль» заявлял президент Медевдев.
+# sent_id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p20-s1
+# text = В частности, подобное происходит с обращениями, связанными с делом фирмы Daimler, которая сама призналась в подкупе российских чиновников, хотя о ``взятии дела на контроль'' заявлял президент Медевдев.
+1	В	_	_	_	_	_	_	_	Shift=3943
+2	частности	_	_	_	_	_	_	_	Shift=3945|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=3954
+4	подобное	_	_	_	_	_	_	_	Shift=3956
+5	происходит	_	_	_	_	_	_	_	Shift=3965
+6	с	_	_	_	_	_	_	_	Shift=3976
+7	обращениями	_	_	_	_	_	_	_	Shift=3978|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=3989
+9	связанными	_	_	_	_	_	_	_	Shift=3991
+10	с	_	_	_	_	_	_	_	Shift=4002
+11	делом	_	_	_	_	_	_	_	Shift=4004
+12	фирмы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2635|RuCor_group_id=471646|RuCor_link_id=0|Shift=4010
+13	Daimler	_	_	_	_	_	_	_	RuCor_chain_id=2635|RuCor_group_id=471646|Shift=4016|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=4023
+15	которая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=2635|RuCor_group_id=471647|RuCor_link_id=471646|Shift=4025
+16	сама	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=2635|RuCor_group_id=471648|RuCor_link_id=471647|Shift=4033
+17	призналась	_	_	_	_	_	_	_	Shift=4038
+18	в	_	_	_	_	_	_	_	Shift=4049
+19	подкупе	_	_	_	_	_	_	_	Shift=4051
+20	российских	_	_	_	_	_	_	_	Shift=4059
+21	чиновников	_	_	_	_	_	_	_	Shift=4070|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=4080
+23	хотя	_	_	_	_	_	_	_	Shift=4082
+24	о	_	_	_	_	_	_	_	Shift=4087
+25	``	_	_	_	_	_	_	_	Shift=4089|SpaceAfter=No
+26	взятии	_	_	_	_	_	_	_	Shift=4090
+27	дела	_	_	_	_	_	_	_	Shift=4097
+28	на	_	_	_	_	_	_	_	Shift=4102
+29	контроль	_	_	_	_	_	_	_	Shift=4105|SpaceAfter=No
+30	''	_	_	_	_	_	_	_	Shift=4113
+31	заявлял	_	_	_	_	_	_	_	Shift=4115
+32	президент	_	_	_	_	_	_	_	RuCor_chain_id=2628|RuCor_group_id=471649|Shift=4123
+33	Медевдев	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2628|RuCor_group_id=471649|RuCor_link_id=471638|Shift=4133|SpaceAfter=No
+34	.	_	_	_	_	_	_	_	Shift=4141
+
+# newpar id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p21
+# par_text = Представители власти несколько раз обещали через СМИ «провести проверки» в связи с громкими коррупционными делами, но конкретные действия пока свелись к увольнению или понижению нескольких милицейских чиновников.
+# sent_id = 094b5ae9-e1b2-4e64-bc03-3303895d5338-p21-s1
+# text = Представители власти несколько раз обещали через СМИ ``провести проверки'' в связи с громкими коррупционными делами, но конкретные действия пока свелись к увольнению или понижению нескольких милицейских чиновников.
+1	Представители	_	_	_	_	_	_	_	Shift=4143
+2	власти	_	_	_	_	_	_	_	Shift=4157
+3	несколько	_	_	_	_	_	_	_	Shift=4164
+4	раз	_	_	_	_	_	_	_	Shift=4174
+5	обещали	_	_	_	_	_	_	_	Shift=4178
+6	через	_	_	_	_	_	_	_	Shift=4186
+7	СМИ	_	_	_	_	_	_	_	Shift=4192
+8	``	_	_	_	_	_	_	_	Shift=4196|SpaceAfter=No
+9	провести	_	_	_	_	_	_	_	Shift=4197
+10	проверки	_	_	_	_	_	_	_	Shift=4206|SpaceAfter=No
+11	''	_	_	_	_	_	_	_	Shift=4214
+12	в	_	_	_	_	_	_	_	Shift=4216
+13	связи	_	_	_	_	_	_	_	Shift=4218
+14	с	_	_	_	_	_	_	_	Shift=4224
+15	громкими	_	_	_	_	_	_	_	Shift=4226
+16	коррупционными	_	_	_	_	_	_	_	Shift=4235
+17	делами	_	_	_	_	_	_	_	Shift=4250|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=4256
+19	но	_	_	_	_	_	_	_	Shift=4258
+20	конкретные	_	_	_	_	_	_	_	Shift=4261
+21	действия	_	_	_	_	_	_	_	Shift=4272
+22	пока	_	_	_	_	_	_	_	Shift=4281
+23	свелись	_	_	_	_	_	_	_	Shift=4286
+24	к	_	_	_	_	_	_	_	Shift=4294
+25	увольнению	_	_	_	_	_	_	_	Shift=4296
+26	или	_	_	_	_	_	_	_	Shift=4307
+27	понижению	_	_	_	_	_	_	_	Shift=4311
+28	нескольких	_	_	_	_	_	_	_	Shift=4321
+29	милицейских	_	_	_	_	_	_	_	Shift=4332
+30	чиновников	_	_	_	_	_	_	_	Shift=4344|SpaceAfter=No
+31	.	_	_	_	_	_	_	_	_
+

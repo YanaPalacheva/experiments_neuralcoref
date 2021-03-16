@@ -1,0 +1,1923 @@
+# newdoc id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p1
+# par_text = Эдгар По был из расы причудливых изобретателей нового.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p1-s1
+# text = Эдгар По был из расы причудливых изобретателей нового.
+1	Эдгар	_	_	_	_	_	_	_	RuCor_chain_id=2733|RuCor_group_id=471962|Shift=0
+2	По	_	_	_	_	_	_	_	RuCor_chain_id=2733|RuCor_group_id=471962|Shift=6
+3	был	_	_	_	_	_	_	_	Shift=9
+4	из	_	_	_	_	_	_	_	Shift=13
+5	расы	_	_	_	_	_	_	_	Shift=16
+6	причудливых	_	_	_	_	_	_	_	Shift=21
+7	изобретателей	_	_	_	_	_	_	_	Shift=33
+8	нового	_	_	_	_	_	_	_	Shift=47|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=53
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p2
+# par_text = Идя по дороге, которую мы как будто уже давно знаем, он вдруг заставляет нас обратиться к каким-то неожиданным поворотам и открывает не только уголки, но и огромные равнины, которых раньше не касался наш взгляд, заставляет нас дышать запахом трав, до тех пор никогда нами не виданных и, однако же, странно напоминающих нашей душе о чём-то бывшем очень давно, случившемся с нами где-то не здесь.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p2-s1
+# text = Идя по дороге, которую мы как будто уже давно знаем, он вдруг заставляет нас обратиться к каким-то неожиданным поворотам и открывает не только уголки, но и огромные равнины, которых раньше не касался наш взгляд, заставляет нас дышать запахом трав, до тех пор никогда нами не виданных и, однако же, странно напоминающих нашей душе о чём-то бывшем очень давно, случившемся с нами где-то не здесь.
+1	Идя	_	_	_	_	_	_	_	Shift=55
+2	по	_	_	_	_	_	_	_	Shift=59
+3	дороге	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2734|RuCor_group_id=471963|RuCor_link_id=0|Shift=62|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=68
+5	которую	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2734|RuCor_group_id=471964|RuCor_link_id=471963|Shift=70
+6	мы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2735|RuCor_group_id=471965|RuCor_link_id=0|Shift=78
+7	как	_	_	_	_	_	_	_	Shift=81
+8	будто	_	_	_	_	_	_	_	Shift=85
+9	уже	_	_	_	_	_	_	_	Shift=91
+10	давно	_	_	_	_	_	_	_	Shift=95
+11	знаем	_	_	_	_	_	_	_	Shift=101|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=106
+13	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2733|RuCor_group_id=471966|RuCor_link_id=471962|Shift=108
+14	вдруг	_	_	_	_	_	_	_	Shift=111
+15	заставляет	_	_	_	_	_	_	_	Shift=117
+16	нас	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2735|RuCor_group_id=471967|RuCor_link_id=471965|Shift=128
+17	обратиться	_	_	_	_	_	_	_	Shift=132
+18	к	_	_	_	_	_	_	_	Shift=143
+19	каким-то	_	_	_	_	_	_	_	Shift=145
+20	неожиданным	_	_	_	_	_	_	_	Shift=154
+21	поворотам	_	_	_	_	_	_	_	Shift=166
+22	и	_	_	_	_	_	_	_	Shift=176
+23	открывает	_	_	_	_	_	_	_	Shift=178
+24	не	_	_	_	_	_	_	_	Shift=188
+25	только	_	_	_	_	_	_	_	Shift=191
+26	уголки	_	_	_	_	_	_	_	Shift=198|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=204
+28	но	_	_	_	_	_	_	_	Shift=206
+29	и	_	_	_	_	_	_	_	Shift=209
+30	огромные	_	_	_	_	_	_	_	Shift=211
+31	равнины	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2736|RuCor_group_id=471968|RuCor_link_id=0|Shift=220|SpaceAfter=No
+32	,	_	_	_	_	_	_	_	Shift=227
+33	которых	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2736|RuCor_group_id=471969|RuCor_link_id=471968|Shift=229
+34	раньше	_	_	_	_	_	_	_	Shift=237
+35	не	_	_	_	_	_	_	_	Shift=244
+36	касался	_	_	_	_	_	_	_	Shift=247
+37	наш	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2735|RuCor_group_id=471970|RuCor_link_id=471967|Shift=255
+38	взгляд	_	_	_	_	_	_	_	Shift=259|SpaceAfter=No
+39	,	_	_	_	_	_	_	_	Shift=265
+40	заставляет	_	_	_	_	_	_	_	Shift=267
+41	нас	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2735|RuCor_group_id=471971|RuCor_link_id=471965|Shift=278
+42	дышать	_	_	_	_	_	_	_	Shift=282
+43	запахом	_	_	_	_	_	_	_	Shift=289
+44	трав	_	_	_	_	_	_	_	Shift=297|SpaceAfter=No
+45	,	_	_	_	_	_	_	_	Shift=301
+46	до	_	_	_	_	_	_	_	Shift=303
+47	тех	_	_	_	_	_	_	_	Shift=306
+48	пор	_	_	_	_	_	_	_	Shift=310
+49	никогда	_	_	_	_	_	_	_	Shift=314
+50	нами	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2735|RuCor_group_id=471972|RuCor_link_id=471965|Shift=322
+51	не	_	_	_	_	_	_	_	Shift=327
+52	виданных	_	_	_	_	_	_	_	Shift=330
+53	и	_	_	_	_	_	_	_	Shift=339|SpaceAfter=No
+54	,	_	_	_	_	_	_	_	Shift=340
+55	однако	_	_	_	_	_	_	_	Shift=342
+56	же	_	_	_	_	_	_	_	Shift=349|SpaceAfter=No
+57	,	_	_	_	_	_	_	_	Shift=351
+58	странно	_	_	_	_	_	_	_	Shift=353
+59	напоминающих	_	_	_	_	_	_	_	Shift=361
+60	нашей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2735|RuCor_group_id=471973|RuCor_link_id=471972|Shift=374
+61	душе	_	_	_	_	_	_	_	Shift=380
+62	о	_	_	_	_	_	_	_	Shift=385
+63	чём-то	_	_	_	_	_	_	_	Shift=387
+64	бывшем	_	_	_	_	_	_	_	Shift=394
+65	очень	_	_	_	_	_	_	_	Shift=401
+66	давно	_	_	_	_	_	_	_	Shift=407|SpaceAfter=No
+67	,	_	_	_	_	_	_	_	Shift=412
+68	случившемся	_	_	_	_	_	_	_	Shift=414
+69	с	_	_	_	_	_	_	_	Shift=426
+70	нами	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2735|RuCor_group_id=471974|RuCor_link_id=471973|Shift=428
+71	где-то	_	_	_	_	_	_	_	Shift=433
+72	не	_	_	_	_	_	_	_	Shift=440
+73	здесь	_	_	_	_	_	_	_	Shift=443|SpaceAfter=No
+74	.	_	_	_	_	_	_	_	Shift=448
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p3
+# par_text = Есть удивительное напряжённое состояние ума, когда человек сильнее, умнее, красивее самого себя.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p3-s1
+# text = Есть удивительное напряжённое состояние ума, когда человек сильнее, умнее, красивее самого себя.
+1	Есть	_	_	_	_	_	_	_	Shift=450
+2	удивительное	_	_	_	_	_	_	_	RuCor_chain_id=2737|RuCor_group_id=471975|Shift=455
+3	напряжённое	_	_	_	_	_	_	_	RuCor_chain_id=2737|RuCor_group_id=471975|Shift=468
+4	состояние	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2737|RuCor_group_id=471975|RuCor_link_id=0|Shift=480
+5	ума	_	_	_	_	_	_	_	RuCor_chain_id=2737|RuCor_group_id=471975|Shift=490|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=493
+7	когда	_	_	_	_	_	_	_	Shift=495
+8	человек	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2738|RuCor_group_id=471976|RuCor_link_id=0|Shift=501
+9	сильнее	_	_	_	_	_	_	_	Shift=509|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=516
+11	умнее	_	_	_	_	_	_	_	Shift=518|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=523
+13	красивее	_	_	_	_	_	_	_	Shift=525
+14	самого	_	_	_	_	_	_	_	RuCor_chain_id=2738|RuCor_group_id=471977|Shift=534
+15	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=2738|RuCor_group_id=471977|RuCor_link_id=471976|Shift=541|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=545
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p4
+# par_text = Это состояние можно назвать праздником умственной жизни.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p4-s1
+# text = Это состояние можно назвать праздником умственной жизни.
+1	Это	_	_	_	_	_	_	_	RuCor_chain_id=2737|RuCor_group_id=471978|Shift=547
+2	состояние	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2737|RuCor_group_id=471978|RuCor_link_id=471975|Shift=551
+3	можно	_	_	_	_	_	_	_	Shift=561
+4	назвать	_	_	_	_	_	_	_	Shift=567
+5	праздником	_	_	_	_	_	_	_	Shift=575
+6	умственной	_	_	_	_	_	_	_	Shift=586
+7	жизни	_	_	_	_	_	_	_	Shift=597|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=602
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p5
+# par_text = Мысль воспринимает тогда всё в необычных очертаниях, открываются неожиданные перспективы, возникают поразительные сочетания, обострённые чувства во всём улавливают новизну, предчувствие и воспоминание усиливают личность двойным внушением, и крылатая душа видит себя в мире расширенном и углублённом.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p5-s1
+# text = Мысль воспринимает тогда всё в необычных очертаниях, открываются неожиданные перспективы, возникают поразительные сочетания, обострённые чувства во всём улавливают новизну, предчувствие и воспоминание усиливают личность двойным внушением, и крылатая душа видит себя в мире расширенном и углублённом.
+1	Мысль	_	_	_	_	_	_	_	Shift=604
+2	воспринимает	_	_	_	_	_	_	_	Shift=610
+3	тогда	_	_	_	_	_	_	_	Shift=623
+4	всё	_	_	_	_	_	_	_	Shift=629
+5	в	_	_	_	_	_	_	_	Shift=633
+6	необычных	_	_	_	_	_	_	_	Shift=635
+7	очертаниях	_	_	_	_	_	_	_	Shift=645|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=655
+9	открываются	_	_	_	_	_	_	_	Shift=657
+10	неожиданные	_	_	_	_	_	_	_	Shift=669
+11	перспективы	_	_	_	_	_	_	_	Shift=681|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=692
+13	возникают	_	_	_	_	_	_	_	Shift=694
+14	поразительные	_	_	_	_	_	_	_	Shift=704
+15	сочетания	_	_	_	_	_	_	_	Shift=718|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=727
+17	обострённые	_	_	_	_	_	_	_	Shift=729
+18	чувства	_	_	_	_	_	_	_	Shift=741
+19	во	_	_	_	_	_	_	_	Shift=749
+20	всём	_	_	_	_	_	_	_	Shift=752
+21	улавливают	_	_	_	_	_	_	_	Shift=757
+22	новизну	_	_	_	_	_	_	_	Shift=768|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=775
+24	предчувствие	_	_	_	_	_	_	_	Shift=777
+25	и	_	_	_	_	_	_	_	Shift=790
+26	воспоминание	_	_	_	_	_	_	_	Shift=792
+27	усиливают	_	_	_	_	_	_	_	Shift=805
+28	личность	_	_	_	_	_	_	_	Shift=815
+29	двойным	_	_	_	_	_	_	_	Shift=824
+30	внушением	_	_	_	_	_	_	_	Shift=832|SpaceAfter=No
+31	,	_	_	_	_	_	_	_	Shift=841
+32	и	_	_	_	_	_	_	_	Shift=843
+33	крылатая	_	_	_	_	_	_	_	RuCor_chain_id=2739|RuCor_group_id=471979|Shift=845
+34	душа	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2739|RuCor_group_id=471979|RuCor_link_id=0|Shift=854
+35	видит	_	_	_	_	_	_	_	Shift=859
+36	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=2739|RuCor_group_id=471980|RuCor_link_id=471979|Shift=865
+37	в	_	_	_	_	_	_	_	Shift=870
+38	мире	_	_	_	_	_	_	_	Shift=872
+39	расширенном	_	_	_	_	_	_	_	Shift=877
+40	и	_	_	_	_	_	_	_	Shift=889
+41	углублённом	_	_	_	_	_	_	_	Shift=891|SpaceAfter=No
+42	.	_	_	_	_	_	_	_	Shift=902
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p6
+# par_text = Такие состояния, приближающие нас к мирам запредельным, бывают у каждого, как бы в подтверждение великого принципа конечной равноправности всех душ.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p6-s1
+# text = Такие состояния, приближающие нас к мирам запредельным, бывают у каждого, как бы в подтверждение великого принципа конечной равноправности всех душ.
+1	Такие	_	_	_	_	_	_	_	RuCor_chain_id=2737|RuCor_group_id=471981|Shift=904
+2	состояния	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2737|RuCor_group_id=471981|RuCor_link_id=471978|Shift=910|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=919
+4	приближающие	_	_	_	_	_	_	_	Shift=921
+5	нас	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2735|RuCor_group_id=471982|RuCor_link_id=471973|Shift=934
+6	к	_	_	_	_	_	_	_	Shift=938
+7	мирам	_	_	_	_	_	_	_	Shift=940
+8	запредельным	_	_	_	_	_	_	_	Shift=946|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=958
+10	бывают	_	_	_	_	_	_	_	Shift=960
+11	у	_	_	_	_	_	_	_	Shift=967
+12	каждого	_	_	_	_	_	_	_	Shift=969|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=976
+14	как	_	_	_	_	_	_	_	Shift=978
+15	бы	_	_	_	_	_	_	_	Shift=982
+16	в	_	_	_	_	_	_	_	Shift=985
+17	подтверждение	_	_	_	_	_	_	_	Shift=987
+18	великого	_	_	_	_	_	_	_	Shift=1001
+19	принципа	_	_	_	_	_	_	_	Shift=1010
+20	конечной	_	_	_	_	_	_	_	Shift=1019
+21	равноправности	_	_	_	_	_	_	_	Shift=1028
+22	всех	_	_	_	_	_	_	_	Shift=1043
+23	душ	_	_	_	_	_	_	_	Shift=1048|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=1051
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p7
+# par_text = Но одних они посещают, быть может, только раз в жизни, над другими, то сильнее, то слабее, они простирают почти беспрерывное влияние, и есть избранники, которым дано в каждую полночь видеть привидения и с каждым рассветом слышать биение новых жизней.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p7-s1
+# text = Но одних они посещают, быть может, только раз в жизни, над другими, то сильнее, то слабее, они простирают почти беспрерывное влияние, и есть избранники, которым дано в каждую полночь видеть привидения и с каждым рассветом слышать биение новых жизней.
+1	Но	_	_	_	_	_	_	_	Shift=1053
+2	одних	_	_	_	_	_	_	_	Shift=1056
+3	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2737|RuCor_group_id=471983|RuCor_link_id=471981|Shift=1062
+4	посещают	_	_	_	_	_	_	_	Shift=1066|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1074
+6	быть	_	_	_	_	_	_	_	Shift=1076
+7	может	_	_	_	_	_	_	_	Shift=1081|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1086
+9	только	_	_	_	_	_	_	_	Shift=1088
+10	раз	_	_	_	_	_	_	_	Shift=1095
+11	в	_	_	_	_	_	_	_	Shift=1099
+12	жизни	_	_	_	_	_	_	_	Shift=1101|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=1106
+14	над	_	_	_	_	_	_	_	Shift=1108
+15	другими	_	_	_	_	_	_	_	Shift=1112|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=1119
+17	то	_	_	_	_	_	_	_	Shift=1121
+18	сильнее	_	_	_	_	_	_	_	Shift=1124|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=1131
+20	то	_	_	_	_	_	_	_	Shift=1133
+21	слабее	_	_	_	_	_	_	_	Shift=1136|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=1142
+23	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2737|RuCor_group_id=471984|RuCor_link_id=471983|Shift=1144
+24	простирают	_	_	_	_	_	_	_	Shift=1148
+25	почти	_	_	_	_	_	_	_	Shift=1159
+26	беспрерывное	_	_	_	_	_	_	_	Shift=1165
+27	влияние	_	_	_	_	_	_	_	Shift=1178|SpaceAfter=No
+28	,	_	_	_	_	_	_	_	Shift=1185
+29	и	_	_	_	_	_	_	_	Shift=1187
+30	есть	_	_	_	_	_	_	_	Shift=1189
+31	избранники	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2740|RuCor_group_id=471985|RuCor_link_id=0|Shift=1194|SpaceAfter=No
+32	,	_	_	_	_	_	_	_	Shift=1204
+33	которым	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2740|RuCor_group_id=471986|RuCor_link_id=471985|Shift=1206
+34	дано	_	_	_	_	_	_	_	Shift=1214
+35	в	_	_	_	_	_	_	_	Shift=1219
+36	каждую	_	_	_	_	_	_	_	Shift=1221
+37	полночь	_	_	_	_	_	_	_	Shift=1228
+38	видеть	_	_	_	_	_	_	_	Shift=1236
+39	привидения	_	_	_	_	_	_	_	Shift=1243
+40	и	_	_	_	_	_	_	_	Shift=1254
+41	с	_	_	_	_	_	_	_	Shift=1256
+42	каждым	_	_	_	_	_	_	_	Shift=1258
+43	рассветом	_	_	_	_	_	_	_	Shift=1265
+44	слышать	_	_	_	_	_	_	_	Shift=1275
+45	биение	_	_	_	_	_	_	_	Shift=1283
+46	новых	_	_	_	_	_	_	_	Shift=1290
+47	жизней	_	_	_	_	_	_	_	Shift=1296|SpaceAfter=No
+48	.	_	_	_	_	_	_	_	Shift=1302
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p8
+# par_text = К числу таких немногих избранников принадлежал величайший из поэтов-символистов Эдгар По.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p8-s1
+# text = К числу таких немногих избранников принадлежал величайший из поэтов - символистов Эдгар По.
+1	К	_	_	_	_	_	_	_	Shift=1304
+2	числу	_	_	_	_	_	_	_	Shift=1306
+3	таких	_	_	_	_	_	_	_	Shift=1312
+4	немногих	_	_	_	_	_	_	_	Shift=1318
+5	избранников	_	_	_	_	_	_	_	Shift=1327
+6	принадлежал	_	_	_	_	_	_	_	Shift=1339
+7	величайший	_	_	_	_	_	_	_	RuCor_chain_id=2741|RuCor_group_id=471987|Shift=1351
+8	из	_	_	_	_	_	_	_	RuCor_chain_id=2741|RuCor_group_id=471987|Shift=1362
+9	поэтов	_	_	_	_	_	_	_	RuCor_chain_id=2741|RuCor_group_id=471987|Shift=1365
+10	-	_	_	_	_	_	_	_	RuCor_chain_id=2741|RuCor_group_id=471987|Shift=1371
+11	символистов	_	_	_	_	_	_	_	RuCor_chain_id=2741|RuCor_group_id=471987|Shift=1372
+12	Эдгар	_	_	_	_	_	_	_	RuCor_chain_id=2741|RuCor_group_id=471987|Shift=1384
+13	По	_	_	_	_	_	_	_	RuCor_chain_id=2741|RuCor_group_id=471987|Shift=1390|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=1392
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p9
+# par_text = Это — сама напряжённость, это — воплощённый экстаз — сдержанная ярость вулкана, выбрасывающего лаву из недр земли в вышний воздух — полная зноя котельная могучей фабрики, охваченная шумами огня, который, приводя в движение множество станков, ежеминутно заставляет опасаться взрыва.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p9-s1
+# text = Это - сама напряжённость, это - воплощённый экстаз - сдержанная ярость вулкана, выбрасывающего лаву из недр земли в вышний воздух - полная зноя котельная могучей фабрики, охваченная шумами огня, который, приводя в движение множество станков, ежеминутно заставляет опасаться взрыва.
+1	Это	_	_	_	_	_	_	_	Shift=1394
+2	-	_	_	_	_	_	_	_	Shift=1398
+3	сама	_	_	_	_	_	_	_	Shift=1400
+4	напряжённость	_	_	_	_	_	_	_	Shift=1405|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1418
+6	это	_	_	_	_	_	_	_	Shift=1420
+7	-	_	_	_	_	_	_	_	Shift=1424
+8	воплощённый	_	_	_	_	_	_	_	Shift=1426
+9	экстаз	_	_	_	_	_	_	_	Shift=1438
+10	-	_	_	_	_	_	_	_	Shift=1445
+11	сдержанная	_	_	_	_	_	_	_	Shift=1447
+12	ярость	_	_	_	_	_	_	_	Shift=1458
+13	вулкана	_	_	_	_	_	_	_	Shift=1465|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=1472
+15	выбрасывающего	_	_	_	_	_	_	_	Shift=1474
+16	лаву	_	_	_	_	_	_	_	Shift=1489
+17	из	_	_	_	_	_	_	_	Shift=1494
+18	недр	_	_	_	_	_	_	_	Shift=1497
+19	земли	_	_	_	_	_	_	_	Shift=1502
+20	в	_	_	_	_	_	_	_	Shift=1508
+21	вышний	_	_	_	_	_	_	_	Shift=1510
+22	воздух	_	_	_	_	_	_	_	Shift=1517
+23	-	_	_	_	_	_	_	_	Shift=1524
+24	полная	_	_	_	_	_	_	_	Shift=1526
+25	зноя	_	_	_	_	_	_	_	Shift=1533
+26	котельная	_	_	_	_	_	_	_	Shift=1538
+27	могучей	_	_	_	_	_	_	_	Shift=1548
+28	фабрики	_	_	_	_	_	_	_	Shift=1556|SpaceAfter=No
+29	,	_	_	_	_	_	_	_	Shift=1563
+30	охваченная	_	_	_	_	_	_	_	Shift=1565
+31	шумами	_	_	_	_	_	_	_	Shift=1576
+32	огня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2742|RuCor_group_id=471988|RuCor_link_id=0|Shift=1583|SpaceAfter=No
+33	,	_	_	_	_	_	_	_	Shift=1587
+34	который	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=2742|RuCor_group_id=471989|RuCor_link_id=471988|Shift=1589|SpaceAfter=No
+35	,	_	_	_	_	_	_	_	Shift=1596
+36	приводя	_	_	_	_	_	_	_	Shift=1598
+37	в	_	_	_	_	_	_	_	Shift=1606
+38	движение	_	_	_	_	_	_	_	Shift=1608
+39	множество	_	_	_	_	_	_	_	Shift=1617
+40	станков	_	_	_	_	_	_	_	Shift=1627|SpaceAfter=No
+41	,	_	_	_	_	_	_	_	Shift=1634
+42	ежеминутно	_	_	_	_	_	_	_	Shift=1636
+43	заставляет	_	_	_	_	_	_	_	Shift=1647
+44	опасаться	_	_	_	_	_	_	_	Shift=1658
+45	взрыва	_	_	_	_	_	_	_	Shift=1668|SpaceAfter=No
+46	.	_	_	_	_	_	_	_	Shift=1674
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p10
+# par_text = В одном из своих наиболее таинственных рассказов, «Человек толпы», Эдгар По описывает загадочного старика, лицо которого напоминало ему образ Дьявола.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p10-s1
+# text = В одном из своих наиболее таинственных рассказов, ``Человек толпы'', Эдгар По описывает загадочного старика, лицо которого напоминало ему образ Дьявола.
+1	В	_	_	_	_	_	_	_	Shift=1676
+2	одном	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2743|RuCor_group_id=471990|RuCor_link_id=0|Shift=1678
+3	из	_	_	_	_	_	_	_	RuCor_chain_id=2743|RuCor_group_id=471990|Shift=1684
+4	своих	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=471991|RuCor_link_id=471987|Shift=1687
+5	наиболее	_	_	_	_	_	_	_	RuCor_chain_id=2743|RuCor_group_id=471990|Shift=1693
+6	таинственных	_	_	_	_	_	_	_	RuCor_chain_id=2743|RuCor_group_id=471990|Shift=1702
+7	рассказов	_	_	_	_	_	_	_	RuCor_chain_id=2743|RuCor_group_id=471990|Shift=1715|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1724
+9	``	_	_	_	_	_	_	_	RuCor_chain_id=2743|RuCor_group_id=471992|Shift=1726|SpaceAfter=No
+10	Человек	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2743|RuCor_group_id=471992|RuCor_link_id=471990|Shift=1727
+11	толпы	_	_	_	_	_	_	_	RuCor_chain_id=2743|RuCor_group_id=471992|Shift=1735|SpaceAfter=No
+12	''	_	_	_	_	_	_	_	RuCor_chain_id=2743|RuCor_group_id=471992|Shift=1740|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=1741
+14	Эдгар	_	_	_	_	_	_	_	RuCor_chain_id=2741|RuCor_group_id=471993|Shift=1743
+15	По	_	_	_	_	_	_	_	RuCor_chain_id=2741|RuCor_group_id=471993|Shift=1749
+16	описывает	_	_	_	_	_	_	_	Shift=1752
+17	загадочного	_	_	_	_	_	_	_	RuCor_chain_id=2744|RuCor_group_id=471994|Shift=1762
+18	старика	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2744|RuCor_group_id=471994|RuCor_link_id=0|Shift=1774|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=1781
+20	лицо	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2745|RuCor_group_id=471995|RuCor_link_id=0|Shift=1783
+21	которого	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=2744|RuCor_group_id=471996|RuCor_link_id=471994|Shift=1788
+22	напоминало	_	_	_	_	_	_	_	Shift=1797
+23	ему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=471997|RuCor_link_id=471993|Shift=1808
+24	образ	_	_	_	_	_	_	_	Shift=1812
+25	Дьявола	_	_	_	_	_	_	_	Shift=1818|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=1825
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p11
+# par_text = «Бросив беглый взгляд на лицо этого бродяги, затаившего какую-то страшную тайну, я получил, — говорит он, — представление о громадной умственной силе, об осторожности, скаредности, алчности, хладнокровии, коварстве, кровожадности, о торжестве, весёлости, о крайнем ужасе, о напряжённом и бесконечном отчаянии».
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p11-s1
+# text = ``Бросив беглый взгляд на лицо этого бродяги, затаившего какую-то страшную тайну, я получил, - говорит он, - представление о громадной умственной силе, об осторожности, скаредности, алчности, хладнокровии, коварстве, кровожадности, о торжестве, весёлости, о крайнем ужасе, о напряжённом и бесконечном отчаянии''.
+1	``	_	_	_	_	_	_	_	Shift=1827|SpaceAfter=No
+2	Бросив	_	_	_	_	_	_	_	Shift=1828
+3	беглый	_	_	_	_	_	_	_	Shift=1835
+4	взгляд	_	_	_	_	_	_	_	Shift=1842
+5	на	_	_	_	_	_	_	_	Shift=1849
+6	лицо	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2745|RuCor_group_id=471998|RuCor_link_id=471995|Shift=1852
+7	этого	_	_	_	_	_	_	_	RuCor_chain_id=2744|RuCor_group_id=471999|Shift=1857
+8	бродяги	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2744|RuCor_group_id=471999|RuCor_link_id=471994|Shift=1863|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1870
+10	затаившего	_	_	_	_	_	_	_	Shift=1872
+11	какую-то	_	_	_	_	_	_	_	Shift=1883
+12	страшную	_	_	_	_	_	_	_	Shift=1892
+13	тайну	_	_	_	_	_	_	_	Shift=1901|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=1906
+15	я	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2746|RuCor_group_id=472001|RuCor_link_id=472002|Shift=1908
+16	получил	_	_	_	_	_	_	_	Shift=1910|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=1917
+18	-	_	_	_	_	_	_	_	Shift=1919
+19	говорит	_	_	_	_	_	_	_	Shift=1921
+20	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2746|RuCor_group_id=472002|RuCor_link_id=0|Shift=1929|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=1931
+22	-	_	_	_	_	_	_	_	Shift=1933
+23	представление	_	_	_	_	_	_	_	Shift=1935
+24	о	_	_	_	_	_	_	_	Shift=1949
+25	громадной	_	_	_	_	_	_	_	Shift=1951
+26	умственной	_	_	_	_	_	_	_	Shift=1961
+27	силе	_	_	_	_	_	_	_	Shift=1972|SpaceAfter=No
+28	,	_	_	_	_	_	_	_	Shift=1976
+29	об	_	_	_	_	_	_	_	Shift=1978
+30	осторожности	_	_	_	_	_	_	_	Shift=1981|SpaceAfter=No
+31	,	_	_	_	_	_	_	_	Shift=1993
+32	скаредности	_	_	_	_	_	_	_	Shift=1995|SpaceAfter=No
+33	,	_	_	_	_	_	_	_	Shift=2006
+34	алчности	_	_	_	_	_	_	_	Shift=2008|SpaceAfter=No
+35	,	_	_	_	_	_	_	_	Shift=2016
+36	хладнокровии	_	_	_	_	_	_	_	Shift=2018|SpaceAfter=No
+37	,	_	_	_	_	_	_	_	Shift=2030
+38	коварстве	_	_	_	_	_	_	_	Shift=2032|SpaceAfter=No
+39	,	_	_	_	_	_	_	_	Shift=2041
+40	кровожадности	_	_	_	_	_	_	_	Shift=2043|SpaceAfter=No
+41	,	_	_	_	_	_	_	_	Shift=2056
+42	о	_	_	_	_	_	_	_	Shift=2058
+43	торжестве	_	_	_	_	_	_	_	Shift=2060|SpaceAfter=No
+44	,	_	_	_	_	_	_	_	Shift=2069
+45	весёлости	_	_	_	_	_	_	_	Shift=2071|SpaceAfter=No
+46	,	_	_	_	_	_	_	_	Shift=2080
+47	о	_	_	_	_	_	_	_	Shift=2082
+48	крайнем	_	_	_	_	_	_	_	Shift=2084
+49	ужасе	_	_	_	_	_	_	_	Shift=2092|SpaceAfter=No
+50	,	_	_	_	_	_	_	_	Shift=2097
+51	о	_	_	_	_	_	_	_	Shift=2099
+52	напряжённом	_	_	_	_	_	_	_	Shift=2101
+53	и	_	_	_	_	_	_	_	Shift=2113
+54	бесконечном	_	_	_	_	_	_	_	Shift=2115
+55	отчаянии	_	_	_	_	_	_	_	Shift=2127|SpaceAfter=No
+56	''	_	_	_	_	_	_	_	Shift=2135|SpaceAfter=No
+57	.	_	_	_	_	_	_	_	Shift=2136
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p12
+# par_text = Если несколько изменить слова этой сложной характеристики, мы получим точный портрет самого поэта.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p12-s1
+# text = Если несколько изменить слова этой сложной характеристики, мы получим точный портрет самого поэта.
+1	Если	_	_	_	_	_	_	_	Shift=2138
+2	несколько	_	_	_	_	_	_	_	Shift=2143
+3	изменить	_	_	_	_	_	_	_	Shift=2153
+4	слова	_	_	_	_	_	_	_	Shift=2162
+5	этой	_	_	_	_	_	_	_	Shift=2168
+6	сложной	_	_	_	_	_	_	_	Shift=2173
+7	характеристики	_	_	_	_	_	_	_	Shift=2181|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=2195
+9	мы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2735|RuCor_group_id=472004|RuCor_link_id=471973|Shift=2197
+10	получим	_	_	_	_	_	_	_	Shift=2200
+11	точный	_	_	_	_	_	_	_	Shift=2208
+12	портрет	_	_	_	_	_	_	_	Shift=2215
+13	самого	_	_	_	_	_	_	_	RuCor_chain_id=2741|RuCor_group_id=472005|Shift=2223
+14	поэта	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472005|RuCor_link_id=472003|Shift=2230|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=2235
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p13
+# par_text = Смотря на лицо Эдгара По и читая его произведения, получаешь представление о громадной умственной силе, о крайней осторожности в выборе художественных эффектов, об утончённой скупости в пользовании словами, указывающей на великую любовь к слову, о ненасытимой алчности души, о мудром хладнокровии избранника, дерзающего на то, перед чем отступают другие, о торжестве законченного художника, о безумной весёлости безысходного ужаса, являющегося неизбежностью для такой души, о напряжённом и бесконечном отчаянии.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p13-s1
+# text = Смотря на лицо Эдгара По и читая его произведения, получаешь представление о громадной умственной силе, о крайней осторожности в выборе художественных эффектов, об утончённой скупости в пользовании словами, указывающей на великую любовь к слову, о ненасытимой алчности души, о мудром хладнокровии избранника, дерзающего на то, перед чем отступают другие, о торжестве законченного художника, о безумной весёлости безысходного ужаса, являющегося неизбежностью для такой души, о напряжённом и бесконечном отчаянии.
+1	Смотря	_	_	_	_	_	_	_	Shift=2237
+2	на	_	_	_	_	_	_	_	Shift=2244
+3	лицо	_	_	_	_	_	_	_	Shift=2247
+4	Эдгара	_	_	_	_	_	_	_	RuCor_chain_id=2741|RuCor_group_id=472006|Shift=2252
+5	По	_	_	_	_	_	_	_	RuCor_chain_id=2741|RuCor_group_id=472006|Shift=2259
+6	и	_	_	_	_	_	_	_	Shift=2262
+7	читая	_	_	_	_	_	_	_	Shift=2264
+8	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472007|RuCor_link_id=472006|Shift=2270
+9	произведения	_	_	_	_	_	_	_	Shift=2274|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=2286
+11	получаешь	_	_	_	_	_	_	_	Shift=2288
+12	представление	_	_	_	_	_	_	_	Shift=2298
+13	о	_	_	_	_	_	_	_	Shift=2312
+14	громадной	_	_	_	_	_	_	_	Shift=2314
+15	умственной	_	_	_	_	_	_	_	Shift=2324
+16	силе	_	_	_	_	_	_	_	Shift=2335|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=2339
+18	о	_	_	_	_	_	_	_	Shift=2341
+19	крайней	_	_	_	_	_	_	_	Shift=2343
+20	осторожности	_	_	_	_	_	_	_	Shift=2351
+21	в	_	_	_	_	_	_	_	Shift=2364
+22	выборе	_	_	_	_	_	_	_	Shift=2366
+23	художественных	_	_	_	_	_	_	_	Shift=2373
+24	эффектов	_	_	_	_	_	_	_	Shift=2388|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=2396
+26	об	_	_	_	_	_	_	_	Shift=2398
+27	утончённой	_	_	_	_	_	_	_	Shift=2401
+28	скупости	_	_	_	_	_	_	_	Shift=2412
+29	в	_	_	_	_	_	_	_	Shift=2421
+30	пользовании	_	_	_	_	_	_	_	Shift=2423
+31	словами	_	_	_	_	_	_	_	Shift=2435|SpaceAfter=No
+32	,	_	_	_	_	_	_	_	Shift=2442
+33	указывающей	_	_	_	_	_	_	_	Shift=2444
+34	на	_	_	_	_	_	_	_	Shift=2456
+35	великую	_	_	_	_	_	_	_	Shift=2459
+36	любовь	_	_	_	_	_	_	_	Shift=2467
+37	к	_	_	_	_	_	_	_	Shift=2474
+38	слову	_	_	_	_	_	_	_	Shift=2476|SpaceAfter=No
+39	,	_	_	_	_	_	_	_	Shift=2481
+40	о	_	_	_	_	_	_	_	Shift=2483
+41	ненасытимой	_	_	_	_	_	_	_	Shift=2485
+42	алчности	_	_	_	_	_	_	_	Shift=2497
+43	души	_	_	_	_	_	_	_	Shift=2506|SpaceAfter=No
+44	,	_	_	_	_	_	_	_	Shift=2510
+45	о	_	_	_	_	_	_	_	Shift=2512
+46	мудром	_	_	_	_	_	_	_	Shift=2514
+47	хладнокровии	_	_	_	_	_	_	_	Shift=2521
+48	избранника	_	_	_	_	_	_	_	Shift=2534|SpaceAfter=No
+49	,	_	_	_	_	_	_	_	Shift=2544
+50	дерзающего	_	_	_	_	_	_	_	Shift=2546
+51	на	_	_	_	_	_	_	_	Shift=2557
+52	то	_	_	_	_	_	_	_	Shift=2560|SpaceAfter=No
+53	,	_	_	_	_	_	_	_	Shift=2562
+54	перед	_	_	_	_	_	_	_	Shift=2564
+55	чем	_	_	_	_	_	_	_	Shift=2570
+56	отступают	_	_	_	_	_	_	_	Shift=2574
+57	другие	_	_	_	_	_	_	_	Shift=2584|SpaceAfter=No
+58	,	_	_	_	_	_	_	_	Shift=2590
+59	о	_	_	_	_	_	_	_	Shift=2592
+60	торжестве	_	_	_	_	_	_	_	Shift=2594
+61	законченного	_	_	_	_	_	_	_	Shift=2604
+62	художника	_	_	_	_	_	_	_	Shift=2617|SpaceAfter=No
+63	,	_	_	_	_	_	_	_	Shift=2626
+64	о	_	_	_	_	_	_	_	Shift=2628
+65	безумной	_	_	_	_	_	_	_	Shift=2630
+66	весёлости	_	_	_	_	_	_	_	Shift=2639
+67	безысходного	_	_	_	_	_	_	_	Shift=2649
+68	ужаса	_	_	_	_	_	_	_	Shift=2662|SpaceAfter=No
+69	,	_	_	_	_	_	_	_	Shift=2667
+70	являющегося	_	_	_	_	_	_	_	Shift=2669
+71	неизбежностью	_	_	_	_	_	_	_	Shift=2681
+72	для	_	_	_	_	_	_	_	Shift=2695
+73	такой	_	_	_	_	_	_	_	Shift=2699
+74	души	_	_	_	_	_	_	_	Shift=2705|SpaceAfter=No
+75	,	_	_	_	_	_	_	_	Shift=2709
+76	о	_	_	_	_	_	_	_	Shift=2711
+77	напряжённом	_	_	_	_	_	_	_	Shift=2713
+78	и	_	_	_	_	_	_	_	Shift=2725
+79	бесконечном	_	_	_	_	_	_	_	Shift=2727
+80	отчаянии	_	_	_	_	_	_	_	Shift=2739|SpaceAfter=No
+81	.	_	_	_	_	_	_	_	Shift=2747
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p14
+# par_text = Загадочный старик, чтобы не остаться наедине с своей страшной тайной, без устали скитается в людской толпе; как Вечный Жид, он бежит с одного места на другое, и когда пустеют нарядные кварталы города, он, как отверженный, спешит в нищенские закоулки, где омерзительная нечисть гноится в застоявшихся каналах.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p14-s1
+# text = Загадочный старик, чтобы не остаться наедине с своей страшной тайной, без устали скитается в людской толпе.
+1	Загадочный	_	_	_	_	_	_	_	RuCor_chain_id=2744|RuCor_group_id=472008|Shift=2749
+2	старик	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2744|RuCor_group_id=472008|RuCor_link_id=471999|Shift=2760|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=2766
+4	чтобы	_	_	_	_	_	_	_	Shift=2768
+5	не	_	_	_	_	_	_	_	Shift=2774
+6	остаться	_	_	_	_	_	_	_	Shift=2777
+7	наедине	_	_	_	_	_	_	_	Shift=2786
+8	с	_	_	_	_	_	_	_	Shift=2794
+9	своей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=2744|RuCor_group_id=472009|RuCor_link_id=472008|Shift=2796
+10	страшной	_	_	_	_	_	_	_	Shift=2802
+11	тайной	_	_	_	_	_	_	_	Shift=2811|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=2817
+13	без	_	_	_	_	_	_	_	Shift=2819
+14	устали	_	_	_	_	_	_	_	Shift=2823
+15	скитается	_	_	_	_	_	_	_	Shift=2830
+16	в	_	_	_	_	_	_	_	Shift=2840
+17	людской	_	_	_	_	_	_	_	Shift=2842
+18	толпе	_	_	_	_	_	_	_	Shift=2850|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=2855
+
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p14-s2
+# text = как Вечный Жид, он бежит с одного места на другое, и когда пустеют нарядные кварталы города, он, как отверженный, спешит в нищенские закоулки, где омерзительная нечисть гноится в застоявшихся каналах.
+1	как	_	_	_	_	_	_	_	Shift=2857
+2	Вечный	_	_	_	_	_	_	_	Shift=2861
+3	Жид	_	_	_	_	_	_	_	Shift=2868|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2871
+5	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2744|RuCor_group_id=472010|RuCor_link_id=472009|Shift=2873
+6	бежит	_	_	_	_	_	_	_	Shift=2876
+7	с	_	_	_	_	_	_	_	Shift=2882
+8	одного	_	_	_	_	_	_	_	Shift=2884
+9	места	_	_	_	_	_	_	_	Shift=2891
+10	на	_	_	_	_	_	_	_	Shift=2897
+11	другое	_	_	_	_	_	_	_	Shift=2900|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=2906
+13	и	_	_	_	_	_	_	_	Shift=2908
+14	когда	_	_	_	_	_	_	_	Shift=2910
+15	пустеют	_	_	_	_	_	_	_	Shift=2916
+16	нарядные	_	_	_	_	_	_	_	Shift=2924
+17	кварталы	_	_	_	_	_	_	_	Shift=2933
+18	города	_	_	_	_	_	_	_	Shift=2942|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=2948
+20	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2744|RuCor_group_id=472011|RuCor_link_id=472010|Shift=2950|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=2952
+22	как	_	_	_	_	_	_	_	Shift=2954
+23	отверженный	_	_	_	_	_	_	_	Shift=2958|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=2969
+25	спешит	_	_	_	_	_	_	_	Shift=2971
+26	в	_	_	_	_	_	_	_	Shift=2978
+27	нищенские	_	_	_	_	_	_	_	Shift=2980
+28	закоулки	_	_	_	_	_	_	_	Shift=2990|SpaceAfter=No
+29	,	_	_	_	_	_	_	_	Shift=2998
+30	где	_	_	_	_	_	_	_	Shift=3000
+31	омерзительная	_	_	_	_	_	_	_	Shift=3004
+32	нечисть	_	_	_	_	_	_	_	Shift=3018
+33	гноится	_	_	_	_	_	_	_	Shift=3026
+34	в	_	_	_	_	_	_	_	Shift=3034
+35	застоявшихся	_	_	_	_	_	_	_	Shift=3036
+36	каналах	_	_	_	_	_	_	_	Shift=3049|SpaceAfter=No
+37	.	_	_	_	_	_	_	_	Shift=3056
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p15
+# par_text = Так точно Эдгар По, проникнувшись философским отчаяньем, затаив в себе тайну понимания мировой жизни, как кошмарной игры большего в меньшем, всю жизнь был под властью демона скитания и от самых воздушных гимнов серафима переходил к самым чудовищным ямам нашей жизни, чтобы через остроту ощущения соприкоснуться с иным миром, чтобы и здесь, в провалах уродства, увидеть хотя серное сияние.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p15-s1
+# text = Так точно Эдгар По, проникнувшись философским отчаяньем, затаив в себе тайну понимания мировой жизни, как кошмарной игры большего в меньшем, всю жизнь был под властью демона скитания и от самых воздушных гимнов серафима переходил к самым чудовищным ямам нашей жизни, чтобы через остроту ощущения соприкоснуться с иным миром, чтобы и здесь, в провалах уродства, увидеть хотя серное сияние.
+1	Так	_	_	_	_	_	_	_	Shift=3058
+2	точно	_	_	_	_	_	_	_	Shift=3062
+3	Эдгар	_	_	_	_	_	_	_	RuCor_chain_id=2741|RuCor_group_id=472012|Shift=3068
+4	По	_	_	_	_	_	_	_	RuCor_chain_id=2741|RuCor_group_id=472012|Shift=3074|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=3076
+6	проникнувшись	_	_	_	_	_	_	_	Shift=3078
+7	философским	_	_	_	_	_	_	_	Shift=3092
+8	отчаяньем	_	_	_	_	_	_	_	Shift=3104|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=3113
+10	затаив	_	_	_	_	_	_	_	Shift=3115
+11	в	_	_	_	_	_	_	_	Shift=3122
+12	себе	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472013|RuCor_link_id=472012|Shift=3124
+13	тайну	_	_	_	_	_	_	_	Shift=3129
+14	понимания	_	_	_	_	_	_	_	Shift=3135
+15	мировой	_	_	_	_	_	_	_	Shift=3145
+16	жизни	_	_	_	_	_	_	_	Shift=3153|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=3158
+18	как	_	_	_	_	_	_	_	Shift=3160
+19	кошмарной	_	_	_	_	_	_	_	Shift=3164
+20	игры	_	_	_	_	_	_	_	Shift=3174
+21	большего	_	_	_	_	_	_	_	Shift=3179
+22	в	_	_	_	_	_	_	_	Shift=3188
+23	меньшем	_	_	_	_	_	_	_	Shift=3190|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=3197
+25	всю	_	_	_	_	_	_	_	Shift=3199
+26	жизнь	_	_	_	_	_	_	_	Shift=3203
+27	был	_	_	_	_	_	_	_	Shift=3209
+28	под	_	_	_	_	_	_	_	Shift=3213
+29	властью	_	_	_	_	_	_	_	Shift=3217
+30	демона	_	_	_	_	_	_	_	Shift=3225
+31	скитания	_	_	_	_	_	_	_	Shift=3232
+32	и	_	_	_	_	_	_	_	Shift=3241
+33	от	_	_	_	_	_	_	_	Shift=3243
+34	самых	_	_	_	_	_	_	_	Shift=3246
+35	воздушных	_	_	_	_	_	_	_	Shift=3252
+36	гимнов	_	_	_	_	_	_	_	Shift=3262
+37	серафима	_	_	_	_	_	_	_	Shift=3269
+38	переходил	_	_	_	_	_	_	_	Shift=3278
+39	к	_	_	_	_	_	_	_	Shift=3288
+40	самым	_	_	_	_	_	_	_	Shift=3290
+41	чудовищным	_	_	_	_	_	_	_	Shift=3296
+42	ямам	_	_	_	_	_	_	_	Shift=3307
+43	нашей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2735|RuCor_group_id=472014|RuCor_link_id=472004|Shift=3312
+44	жизни	_	_	_	_	_	_	_	Shift=3318|SpaceAfter=No
+45	,	_	_	_	_	_	_	_	Shift=3323
+46	чтобы	_	_	_	_	_	_	_	Shift=3325
+47	через	_	_	_	_	_	_	_	Shift=3331
+48	остроту	_	_	_	_	_	_	_	Shift=3337
+49	ощущения	_	_	_	_	_	_	_	Shift=3345
+50	соприкоснуться	_	_	_	_	_	_	_	Shift=3354
+51	с	_	_	_	_	_	_	_	Shift=3369
+52	иным	_	_	_	_	_	_	_	Shift=3371
+53	миром	_	_	_	_	_	_	_	Shift=3376|SpaceAfter=No
+54	,	_	_	_	_	_	_	_	Shift=3381
+55	чтобы	_	_	_	_	_	_	_	Shift=3383
+56	и	_	_	_	_	_	_	_	Shift=3389
+57	здесь	_	_	_	_	_	_	_	Shift=3391|SpaceAfter=No
+58	,	_	_	_	_	_	_	_	Shift=3396
+59	в	_	_	_	_	_	_	_	Shift=3398
+60	провалах	_	_	_	_	_	_	_	Shift=3400
+61	уродства	_	_	_	_	_	_	_	Shift=3409|SpaceAfter=No
+62	,	_	_	_	_	_	_	_	Shift=3417
+63	увидеть	_	_	_	_	_	_	_	Shift=3419
+64	хотя	_	_	_	_	_	_	_	Shift=3427
+65	серное	_	_	_	_	_	_	_	Shift=3432
+66	сияние	_	_	_	_	_	_	_	Shift=3439|SpaceAfter=No
+67	.	_	_	_	_	_	_	_	Shift=3445
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p16
+# par_text = И как загадочный старик был одет в затасканное бельё хорошего качества, а под тщательно застёгнутым плащом скрывал что-то блестящее, бриллианты и кинжал, так Эдгар По в своей искажённой жизни всегда оставался прекрасным демоном, и над его творчеством никогда не погаснет изумрудное сияние Люцифера.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p16-s1
+# text = И как загадочный старик был одет в затасканное бельё хорошего качества, а под тщательно застёгнутым плащом скрывал что-то блестящее, бриллианты и кинжал, так Эдгар По в своей искажённой жизни всегда оставался прекрасным демоном, и над его творчеством никогда не погаснет изумрудное сияние Люцифера.
+1	И	_	_	_	_	_	_	_	Shift=3447
+2	как	_	_	_	_	_	_	_	Shift=3449
+3	загадочный	_	_	_	_	_	_	_	RuCor_chain_id=2744|RuCor_group_id=472015|Shift=3453
+4	старик	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2744|RuCor_group_id=472015|RuCor_link_id=472009|Shift=3464
+5	был	_	_	_	_	_	_	_	Shift=3471
+6	одет	_	_	_	_	_	_	_	Shift=3475
+7	в	_	_	_	_	_	_	_	Shift=3480
+8	затасканное	_	_	_	_	_	_	_	Shift=3482
+9	бельё	_	_	_	_	_	_	_	Shift=3494
+10	хорошего	_	_	_	_	_	_	_	Shift=3500
+11	качества	_	_	_	_	_	_	_	Shift=3509|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=3517
+13	а	_	_	_	_	_	_	_	Shift=3519
+14	под	_	_	_	_	_	_	_	Shift=3521
+15	тщательно	_	_	_	_	_	_	_	Shift=3525
+16	застёгнутым	_	_	_	_	_	_	_	Shift=3535
+17	плащом	_	_	_	_	_	_	_	Shift=3547
+18	скрывал	_	_	_	_	_	_	_	Shift=3554
+19	что-то	_	_	_	_	_	_	_	Shift=3562
+20	блестящее	_	_	_	_	_	_	_	Shift=3569|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=3578
+22	бриллианты	_	_	_	_	_	_	_	Shift=3580
+23	и	_	_	_	_	_	_	_	Shift=3591
+24	кинжал	_	_	_	_	_	_	_	Shift=3593|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=3599
+26	так	_	_	_	_	_	_	_	Shift=3601
+27	Эдгар	_	_	_	_	_	_	_	RuCor_chain_id=2741|RuCor_group_id=472016|Shift=3605
+28	По	_	_	_	_	_	_	_	RuCor_chain_id=2741|RuCor_group_id=472016|Shift=3611
+29	в	_	_	_	_	_	_	_	Shift=3614
+30	своей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472017|RuCor_link_id=472016|Shift=3616
+31	искажённой	_	_	_	_	_	_	_	Shift=3622
+32	жизни	_	_	_	_	_	_	_	Shift=3633
+33	всегда	_	_	_	_	_	_	_	Shift=3639
+34	оставался	_	_	_	_	_	_	_	Shift=3646
+35	прекрасным	_	_	_	_	_	_	_	Shift=3656
+36	демоном	_	_	_	_	_	_	_	Shift=3667|SpaceAfter=No
+37	,	_	_	_	_	_	_	_	Shift=3674
+38	и	_	_	_	_	_	_	_	Shift=3676
+39	над	_	_	_	_	_	_	_	Shift=3678
+40	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472018|RuCor_link_id=472016|Shift=3682
+41	творчеством	_	_	_	_	_	_	_	Shift=3686
+42	никогда	_	_	_	_	_	_	_	Shift=3698
+43	не	_	_	_	_	_	_	_	Shift=3706
+44	погаснет	_	_	_	_	_	_	_	Shift=3709
+45	изумрудное	_	_	_	_	_	_	_	Shift=3718
+46	сияние	_	_	_	_	_	_	_	Shift=3729
+47	Люцифера	_	_	_	_	_	_	_	Shift=3736|SpaceAfter=No
+48	.	_	_	_	_	_	_	_	Shift=3744
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p17
+# par_text = Это была планета без орбиты, как его назвали враги, думая унизить поэта, которого они возвеличили таким названием, сразу указывающим, что это — душа исключительная, следующая в мире своими необычными путями и горящая не бледным сияньем полуспящих звёзд, а ярким, особым блеском кометы.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p17-s1
+# text = Это была планета без орбиты, как его назвали враги, думая унизить поэта, которого они возвеличили таким названием, сразу указывающим, что это - душа исключительная, следующая в мире своими необычными путями и горящая не бледным сияньем полуспящих звёзд, а ярким, особым блеском кометы.
+1	Это	_	_	_	_	_	_	_	Shift=3746
+2	была	_	_	_	_	_	_	_	Shift=3750
+3	планета	_	_	_	_	_	_	_	Shift=3755
+4	без	_	_	_	_	_	_	_	Shift=3763
+5	орбиты	_	_	_	_	_	_	_	Shift=3767|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=3773
+7	как	_	_	_	_	_	_	_	Shift=3775
+8	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472019|RuCor_link_id=472018|Shift=3779
+9	назвали	_	_	_	_	_	_	_	Shift=3783
+10	враги	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2747|RuCor_group_id=472020|RuCor_link_id=0|Shift=3791|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=3796
+12	думая	_	_	_	_	_	_	_	Shift=3798
+13	унизить	_	_	_	_	_	_	_	Shift=3804
+14	поэта	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472021|RuCor_link_id=472019|Shift=3812|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=3817
+16	которого	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472022|RuCor_link_id=472021|Shift=3819
+17	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2747|RuCor_group_id=472023|RuCor_link_id=472020|Shift=3828
+18	возвеличили	_	_	_	_	_	_	_	Shift=3832
+19	таким	_	_	_	_	_	_	_	Shift=3844
+20	названием	_	_	_	_	_	_	_	Shift=3850|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=3859
+22	сразу	_	_	_	_	_	_	_	Shift=3861
+23	указывающим	_	_	_	_	_	_	_	Shift=3867|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=3878
+25	что	_	_	_	_	_	_	_	Shift=3880
+26	это	_	_	_	_	_	_	_	Shift=3884
+27	-	_	_	_	_	_	_	_	Shift=3888
+28	душа	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2748|RuCor_group_id=472024|RuCor_link_id=472025|Shift=3890
+29	исключительная	_	_	_	_	_	_	_	RuCor_chain_id=2748|RuCor_group_id=472024|Shift=3895|SpaceAfter=No
+30	,	_	_	_	_	_	_	_	Shift=3909
+31	следующая	_	_	_	_	_	_	_	Shift=3911
+32	в	_	_	_	_	_	_	_	Shift=3921
+33	мире	_	_	_	_	_	_	_	Shift=3923
+34	своими	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=2748|RuCor_group_id=472025|RuCor_link_id=0|Shift=3928
+35	необычными	_	_	_	_	_	_	_	Shift=3935
+36	путями	_	_	_	_	_	_	_	Shift=3946
+37	и	_	_	_	_	_	_	_	Shift=3953
+38	горящая	_	_	_	_	_	_	_	Shift=3955
+39	не	_	_	_	_	_	_	_	Shift=3963
+40	бледным	_	_	_	_	_	_	_	Shift=3966
+41	сияньем	_	_	_	_	_	_	_	Shift=3974
+42	полуспящих	_	_	_	_	_	_	_	Shift=3982
+43	звёзд	_	_	_	_	_	_	_	Shift=3993|SpaceAfter=No
+44	,	_	_	_	_	_	_	_	Shift=3998
+45	а	_	_	_	_	_	_	_	Shift=4000
+46	ярким	_	_	_	_	_	_	_	Shift=4002|SpaceAfter=No
+47	,	_	_	_	_	_	_	_	Shift=4007
+48	особым	_	_	_	_	_	_	_	Shift=4009
+49	блеском	_	_	_	_	_	_	_	Shift=4016
+50	кометы	_	_	_	_	_	_	_	Shift=4024|SpaceAfter=No
+51	.	_	_	_	_	_	_	_	Shift=4030
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p18
+# par_text = Эдгар По был из расы причудливых изобретателей нового.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p18-s1
+# text = Эдгар По был из расы причудливых изобретателей нового.
+1	Эдгар	_	_	_	_	_	_	_	RuCor_chain_id=2741|RuCor_group_id=472026|Shift=4032
+2	По	_	_	_	_	_	_	_	RuCor_chain_id=2741|RuCor_group_id=472026|Shift=4038
+3	был	_	_	_	_	_	_	_	Shift=4041
+4	из	_	_	_	_	_	_	_	Shift=4045
+5	расы	_	_	_	_	_	_	_	Shift=4048
+6	причудливых	_	_	_	_	_	_	_	Shift=4053
+7	изобретателей	_	_	_	_	_	_	_	Shift=4065
+8	нового	_	_	_	_	_	_	_	Shift=4079|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=4085
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p19
+# par_text = Идя по дороге, которую мы как будто уже давно знаем, он вдруг заставляет нас обратиться к каким-то неожиданным поворотам и открывает не только уголки, но и огромные равнины, которых раньше не касался наш взгляд, заставляет нас дышать запахом трав, до тех пор никогда нами не виданных и, однако же, странно напоминающих нашей душе о чём-то бывшем очень давно, случившемся с нами где-то не здесь.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p19-s1
+# text = Идя по дороге, которую мы как будто уже давно знаем, он вдруг заставляет нас обратиться к каким-то неожиданным поворотам и открывает не только уголки, но и огромные равнины, которых раньше не касался наш взгляд, заставляет нас дышать запахом трав, до тех пор никогда нами не виданных и, однако же, странно напоминающих нашей душе о чём-то бывшем очень давно, случившемся с нами где-то не здесь.
+1	Идя	_	_	_	_	_	_	_	Shift=4087
+2	по	_	_	_	_	_	_	_	Shift=4091
+3	дороге	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2749|RuCor_group_id=472027|RuCor_link_id=0|Shift=4094|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=4100
+5	которую	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2749|RuCor_group_id=472028|RuCor_link_id=472027|Shift=4102
+6	мы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2735|RuCor_group_id=472029|RuCor_link_id=472014|Shift=4110
+7	как	_	_	_	_	_	_	_	Shift=4113
+8	будто	_	_	_	_	_	_	_	Shift=4117
+9	уже	_	_	_	_	_	_	_	Shift=4123
+10	давно	_	_	_	_	_	_	_	Shift=4127
+11	знаем	_	_	_	_	_	_	_	Shift=4133|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=4138
+13	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472030|RuCor_link_id=472026|Shift=4140
+14	вдруг	_	_	_	_	_	_	_	Shift=4143
+15	заставляет	_	_	_	_	_	_	_	Shift=4149
+16	нас	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2735|RuCor_group_id=472031|RuCor_link_id=472029|Shift=4160
+17	обратиться	_	_	_	_	_	_	_	Shift=4164
+18	к	_	_	_	_	_	_	_	Shift=4175
+19	каким-то	_	_	_	_	_	_	_	Shift=4177
+20	неожиданным	_	_	_	_	_	_	_	Shift=4186
+21	поворотам	_	_	_	_	_	_	_	Shift=4198
+22	и	_	_	_	_	_	_	_	Shift=4208
+23	открывает	_	_	_	_	_	_	_	Shift=4210
+24	не	_	_	_	_	_	_	_	Shift=4220
+25	только	_	_	_	_	_	_	_	Shift=4223
+26	уголки	_	_	_	_	_	_	_	Shift=4230|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=4236
+28	но	_	_	_	_	_	_	_	Shift=4238
+29	и	_	_	_	_	_	_	_	Shift=4241
+30	огромные	_	_	_	_	_	_	_	Shift=4243
+31	равнины	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2750|RuCor_group_id=472032|RuCor_link_id=0|Shift=4252|SpaceAfter=No
+32	,	_	_	_	_	_	_	_	Shift=4259
+33	которых	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2750|RuCor_group_id=472033|RuCor_link_id=472032|Shift=4261
+34	раньше	_	_	_	_	_	_	_	Shift=4269
+35	не	_	_	_	_	_	_	_	Shift=4276
+36	касался	_	_	_	_	_	_	_	Shift=4279
+37	наш	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2735|RuCor_group_id=472034|RuCor_link_id=472031|Shift=4287
+38	взгляд	_	_	_	_	_	_	_	Shift=4291|SpaceAfter=No
+39	,	_	_	_	_	_	_	_	Shift=4297
+40	заставляет	_	_	_	_	_	_	_	Shift=4299
+41	нас	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2735|RuCor_group_id=472035|RuCor_link_id=472034|Shift=4310
+42	дышать	_	_	_	_	_	_	_	Shift=4314
+43	запахом	_	_	_	_	_	_	_	Shift=4321
+44	трав	_	_	_	_	_	_	_	Shift=4329|SpaceAfter=No
+45	,	_	_	_	_	_	_	_	Shift=4333
+46	до	_	_	_	_	_	_	_	Shift=4335
+47	тех	_	_	_	_	_	_	_	Shift=4338
+48	пор	_	_	_	_	_	_	_	Shift=4342
+49	никогда	_	_	_	_	_	_	_	Shift=4346
+50	нами	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2735|RuCor_group_id=472036|RuCor_link_id=472035|Shift=4354
+51	не	_	_	_	_	_	_	_	Shift=4359
+52	виданных	_	_	_	_	_	_	_	Shift=4362
+53	и	_	_	_	_	_	_	_	Shift=4371|SpaceAfter=No
+54	,	_	_	_	_	_	_	_	Shift=4372
+55	однако	_	_	_	_	_	_	_	Shift=4374
+56	же	_	_	_	_	_	_	_	Shift=4381|SpaceAfter=No
+57	,	_	_	_	_	_	_	_	Shift=4383
+58	странно	_	_	_	_	_	_	_	Shift=4385
+59	напоминающих	_	_	_	_	_	_	_	Shift=4393
+60	нашей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2735|RuCor_group_id=472037|RuCor_link_id=472036|Shift=4406
+61	душе	_	_	_	_	_	_	_	Shift=4412
+62	о	_	_	_	_	_	_	_	Shift=4417
+63	чём-то	_	_	_	_	_	_	_	Shift=4419
+64	бывшем	_	_	_	_	_	_	_	Shift=4426
+65	очень	_	_	_	_	_	_	_	Shift=4433
+66	давно	_	_	_	_	_	_	_	Shift=4439|SpaceAfter=No
+67	,	_	_	_	_	_	_	_	Shift=4444
+68	случившемся	_	_	_	_	_	_	_	Shift=4446
+69	с	_	_	_	_	_	_	_	Shift=4458
+70	нами	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2735|RuCor_group_id=472038|RuCor_link_id=472037|Shift=4460
+71	где-то	_	_	_	_	_	_	_	Shift=4465
+72	не	_	_	_	_	_	_	_	Shift=4472
+73	здесь	_	_	_	_	_	_	_	Shift=4475|SpaceAfter=No
+74	.	_	_	_	_	_	_	_	Shift=4480
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p20
+# par_text = И след от такого чувства остаётся в душе надолго, пробуждая или пересоздавая в ней какие-то скрытые способности, так что после прочтения той или другой необыкновенной страницы, написанной безумным Эдгаром, мы смотрим на самые повседневные предметы иным, проникновенным взглядом.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p20-s1
+# text = И след от такого чувства остаётся в душе надолго, пробуждая или пересоздавая в ней какие-то скрытые способности, так что после прочтения той или другой необыкновенной страницы, написанной безумным Эдгаром, мы смотрим на самые повседневные предметы иным, проникновенным взглядом.
+1	И	_	_	_	_	_	_	_	Shift=4482
+2	след	_	_	_	_	_	_	_	Shift=4484
+3	от	_	_	_	_	_	_	_	Shift=4489
+4	такого	_	_	_	_	_	_	_	Shift=4492
+5	чувства	_	_	_	_	_	_	_	Shift=4499
+6	остаётся	_	_	_	_	_	_	_	Shift=4507
+7	в	_	_	_	_	_	_	_	Shift=4516
+8	душе	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2751|RuCor_group_id=472039|RuCor_link_id=0|Shift=4518
+9	надолго	_	_	_	_	_	_	_	Shift=4523|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=4530
+11	пробуждая	_	_	_	_	_	_	_	Shift=4532
+12	или	_	_	_	_	_	_	_	Shift=4542
+13	пересоздавая	_	_	_	_	_	_	_	Shift=4546
+14	в	_	_	_	_	_	_	_	Shift=4559
+15	ней	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2751|RuCor_group_id=472040|RuCor_link_id=472039|Shift=4561
+16	какие-то	_	_	_	_	_	_	_	Shift=4565
+17	скрытые	_	_	_	_	_	_	_	Shift=4574
+18	способности	_	_	_	_	_	_	_	Shift=4582|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=4593
+20	так	_	_	_	_	_	_	_	Shift=4595
+21	что	_	_	_	_	_	_	_	Shift=4599
+22	после	_	_	_	_	_	_	_	Shift=4603
+23	прочтения	_	_	_	_	_	_	_	Shift=4609
+24	той	_	_	_	_	_	_	_	Shift=4619
+25	или	_	_	_	_	_	_	_	Shift=4623
+26	другой	_	_	_	_	_	_	_	Shift=4627
+27	необыкновенной	_	_	_	_	_	_	_	Shift=4634
+28	страницы	_	_	_	_	_	_	_	Shift=4649|SpaceAfter=No
+29	,	_	_	_	_	_	_	_	Shift=4657
+30	написанной	_	_	_	_	_	_	_	Shift=4659
+31	безумным	_	_	_	_	_	_	_	RuCor_chain_id=2741|RuCor_group_id=472041|Shift=4670
+32	Эдгаром	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472041|RuCor_link_id=472030|Shift=4679|SpaceAfter=No
+33	,	_	_	_	_	_	_	_	Shift=4686
+34	мы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2735|RuCor_group_id=472042|RuCor_link_id=472034|Shift=4688
+35	смотрим	_	_	_	_	_	_	_	Shift=4691
+36	на	_	_	_	_	_	_	_	Shift=4699
+37	самые	_	_	_	_	_	_	_	Shift=4702
+38	повседневные	_	_	_	_	_	_	_	Shift=4708
+39	предметы	_	_	_	_	_	_	_	Shift=4721
+40	иным	_	_	_	_	_	_	_	Shift=4730|SpaceAfter=No
+41	,	_	_	_	_	_	_	_	Shift=4734
+42	проникновенным	_	_	_	_	_	_	_	Shift=4736
+43	взглядом	_	_	_	_	_	_	_	Shift=4751|SpaceAfter=No
+44	.	_	_	_	_	_	_	_	Shift=4759
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p21
+# par_text = События, которые он описывает, все проходят в замкнутой душе самого поэта; страшно похожие на жизнь, они совершаются где-то вне жизни, out of space — out of time, вне времени — вне пространства, их видишь сквозь какое-то окно и, лихорадочно следя за ними, дрожишь, оттого что не можешь с ними соединиться.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p21-s1
+# text = События, которые он описывает, все проходят в замкнутой душе самого поэта.
+1	События	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2752|RuCor_group_id=472043|RuCor_link_id=0|Shift=4761|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=4768
+3	которые	_	_	_	_	_	_	_	Shift=4770
+4	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472044|RuCor_link_id=472026|Shift=4778
+5	описывает	_	_	_	_	_	_	_	Shift=4781|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=4790
+7	все	_	_	_	_	_	_	_	Shift=4792
+8	проходят	_	_	_	_	_	_	_	Shift=4796
+9	в	_	_	_	_	_	_	_	Shift=4805
+10	замкнутой	_	_	_	_	_	_	_	Shift=4807
+11	душе	_	_	_	_	_	_	_	Shift=4817
+12	самого	_	_	_	_	_	_	_	RuCor_chain_id=2741|RuCor_group_id=472045|Shift=4822
+13	поэта	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472045|RuCor_link_id=472044|Shift=4829|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=4834
+
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p21-s2
+# text = страшно похожие на жизнь, они совершаются где-то вне жизни, out of space - out of time, вне времени - вне пространства, их видишь сквозь какое-то окно и, лихорадочно следя за ними, дрожишь, оттого что не можешь с ними соединиться.
+1	страшно	_	_	_	_	_	_	_	Shift=4836
+2	похожие	_	_	_	_	_	_	_	Shift=4844
+3	на	_	_	_	_	_	_	_	Shift=4852
+4	жизнь	_	_	_	_	_	_	_	Shift=4855|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=4860
+6	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2752|RuCor_group_id=472046|RuCor_link_id=472043|Shift=4862
+7	совершаются	_	_	_	_	_	_	_	Shift=4866
+8	где-то	_	_	_	_	_	_	_	Shift=4878
+9	вне	_	_	_	_	_	_	_	Shift=4885
+10	жизни	_	_	_	_	_	_	_	Shift=4889|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=4894
+12	out	_	_	_	_	_	_	_	Shift=4896
+13	of	_	_	_	_	_	_	_	Shift=4900
+14	space	_	_	_	_	_	_	_	Shift=4903
+15	-	_	_	_	_	_	_	_	Shift=4909
+16	out	_	_	_	_	_	_	_	Shift=4911
+17	of	_	_	_	_	_	_	_	Shift=4915
+18	time	_	_	_	_	_	_	_	Shift=4918|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=4922
+20	вне	_	_	_	_	_	_	_	Shift=4924
+21	времени	_	_	_	_	_	_	_	Shift=4928
+22	-	_	_	_	_	_	_	_	Shift=4936
+23	вне	_	_	_	_	_	_	_	Shift=4938
+24	пространства	_	_	_	_	_	_	_	Shift=4942|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=4954
+26	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2752|RuCor_group_id=472047|RuCor_link_id=472046|Shift=4956
+27	видишь	_	_	_	_	_	_	_	Shift=4959
+28	сквозь	_	_	_	_	_	_	_	Shift=4966
+29	какое-то	_	_	_	_	_	_	_	Shift=4973
+30	окно	_	_	_	_	_	_	_	Shift=4982
+31	и	_	_	_	_	_	_	_	Shift=4987|SpaceAfter=No
+32	,	_	_	_	_	_	_	_	Shift=4988
+33	лихорадочно	_	_	_	_	_	_	_	Shift=4990
+34	следя	_	_	_	_	_	_	_	Shift=5002
+35	за	_	_	_	_	_	_	_	Shift=5008
+36	ними	_	_	_	_	_	_	_	Shift=5011|SpaceAfter=No
+37	,	_	_	_	_	_	_	_	Shift=5015
+38	дрожишь	_	_	_	_	_	_	_	Shift=5017|SpaceAfter=No
+39	,	_	_	_	_	_	_	_	Shift=5024
+40	оттого	_	_	_	_	_	_	_	Shift=5026
+41	что	_	_	_	_	_	_	_	Shift=5033
+42	не	_	_	_	_	_	_	_	Shift=5037
+43	можешь	_	_	_	_	_	_	_	Shift=5040
+44	с	_	_	_	_	_	_	_	Shift=5047
+45	ними	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2752|RuCor_group_id=472048|RuCor_link_id=472043|Shift=5049
+46	соединиться	_	_	_	_	_	_	_	Shift=5054|SpaceAfter=No
+47	.	_	_	_	_	_	_	_	Shift=5065
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p22
+# par_text = Язык, замыслы, художественная манера — всё отмечено в Эдгаре По яркою печатью новизны.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p22-s1
+# text = Язык, замыслы, художественная манера - всё отмечено в Эдгаре По яркою печатью новизны.
+1	Язык	_	_	_	_	_	_	_	Shift=5067|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=5071
+3	замыслы	_	_	_	_	_	_	_	Shift=5073|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=5080
+5	художественная	_	_	_	_	_	_	_	Shift=5082
+6	манера	_	_	_	_	_	_	_	Shift=5097
+7	-	_	_	_	_	_	_	_	Shift=5104
+8	всё	_	_	_	_	_	_	_	Shift=5106
+9	отмечено	_	_	_	_	_	_	_	Shift=5110
+10	в	_	_	_	_	_	_	_	Shift=5119
+11	Эдгаре	_	_	_	_	_	_	_	RuCor_chain_id=2741|RuCor_group_id=472049|Shift=5121
+12	По	_	_	_	_	_	_	_	RuCor_chain_id=2741|RuCor_group_id=472049|Shift=5128
+13	яркою	_	_	_	_	_	_	_	Shift=5131
+14	печатью	_	_	_	_	_	_	_	Shift=5137
+15	новизны	_	_	_	_	_	_	_	Shift=5145|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=5152
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p23
+# par_text = Никто из английских или американских поэтов не знал до него, что можно сделать с английским стихом — прихотливым сопоставлением известных звуковых сочетаний.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p23-s1
+# text = Никто из английских или американских поэтов не знал до него, что можно сделать с английским стихом - прихотливым сопоставлением известных звуковых сочетаний.
+1	Никто	_	_	_	_	_	_	_	Shift=5154
+2	из	_	_	_	_	_	_	_	Shift=5160
+3	английских	_	_	_	_	_	_	_	Shift=5163
+4	или	_	_	_	_	_	_	_	Shift=5174
+5	американских	_	_	_	_	_	_	_	Shift=5178
+6	поэтов	_	_	_	_	_	_	_	Shift=5191
+7	не	_	_	_	_	_	_	_	Shift=5198
+8	знал	_	_	_	_	_	_	_	Shift=5201
+9	до	_	_	_	_	_	_	_	Shift=5206
+10	него	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472050|RuCor_link_id=472049|Shift=5209|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=5213
+12	что	_	_	_	_	_	_	_	Shift=5215
+13	можно	_	_	_	_	_	_	_	Shift=5219
+14	сделать	_	_	_	_	_	_	_	Shift=5225
+15	с	_	_	_	_	_	_	_	Shift=5233
+16	английским	_	_	_	_	_	_	_	Shift=5235
+17	стихом	_	_	_	_	_	_	_	Shift=5246
+18	-	_	_	_	_	_	_	_	Shift=5253
+19	прихотливым	_	_	_	_	_	_	_	Shift=5255
+20	сопоставлением	_	_	_	_	_	_	_	Shift=5267
+21	известных	_	_	_	_	_	_	_	Shift=5282
+22	звуковых	_	_	_	_	_	_	_	Shift=5292
+23	сочетаний	_	_	_	_	_	_	_	Shift=5301|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=5310
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p24
+# par_text = Эдгар По взял лютню, натянул струны, они выпрямились, блеснули и вдруг запели всею скрытою силой серебряных перезвонов.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p24-s1
+# text = Эдгар По взял лютню, натянул струны, они выпрямились, блеснули и вдруг запели всею скрытою силой серебряных перезвонов.
+1	Эдгар	_	_	_	_	_	_	_	RuCor_chain_id=2741|RuCor_group_id=472051|Shift=5312
+2	По	_	_	_	_	_	_	_	RuCor_chain_id=2741|RuCor_group_id=472051|Shift=5318
+3	взял	_	_	_	_	_	_	_	Shift=5321
+4	лютню	_	_	_	_	_	_	_	Shift=5326|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=5331
+6	натянул	_	_	_	_	_	_	_	Shift=5333
+7	струны	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2753|RuCor_group_id=472052|RuCor_link_id=472053|Shift=5341|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=5347
+9	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2753|RuCor_group_id=472053|RuCor_link_id=0|Shift=5349
+10	выпрямились	_	_	_	_	_	_	_	Shift=5353|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=5364
+12	блеснули	_	_	_	_	_	_	_	Shift=5366
+13	и	_	_	_	_	_	_	_	Shift=5375
+14	вдруг	_	_	_	_	_	_	_	Shift=5377
+15	запели	_	_	_	_	_	_	_	Shift=5383
+16	всею	_	_	_	_	_	_	_	Shift=5390
+17	скрытою	_	_	_	_	_	_	_	Shift=5395
+18	силой	_	_	_	_	_	_	_	Shift=5403
+19	серебряных	_	_	_	_	_	_	_	Shift=5409
+20	перезвонов	_	_	_	_	_	_	_	Shift=5420|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=5430
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p25
+# par_text = Никто не знал до него, что сказки можно соединять с философией, он слил в органически-цельное единство художественные настроения и логические результаты высших умозрений, сочетал две краски в одну и создал новую литературную форму, философские сказки, гипнотизирующие одновременно и наше чувство, и наш ум.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p25-s1
+# text = Никто не знал до него, что сказки можно соединять с философией, он слил в органически - цельное единство художественные настроения и логические результаты высших умозрений, сочетал две краски в одну и создал новую литературную форму, философские сказки, гипнотизирующие одновременно и наше чувство, и наш ум.
+1	Никто	_	_	_	_	_	_	_	Shift=5432
+2	не	_	_	_	_	_	_	_	Shift=5438
+3	знал	_	_	_	_	_	_	_	Shift=5441
+4	до	_	_	_	_	_	_	_	Shift=5446
+5	него	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472054|RuCor_link_id=472051|Shift=5449|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=5453
+7	что	_	_	_	_	_	_	_	Shift=5455
+8	сказки	_	_	_	_	_	_	_	Shift=5459
+9	можно	_	_	_	_	_	_	_	Shift=5466
+10	соединять	_	_	_	_	_	_	_	Shift=5472
+11	с	_	_	_	_	_	_	_	Shift=5482
+12	философией	_	_	_	_	_	_	_	Shift=5484|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=5494
+14	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472055|RuCor_link_id=472054|Shift=5496
+15	слил	_	_	_	_	_	_	_	Shift=5499
+16	в	_	_	_	_	_	_	_	Shift=5504
+17	органически	_	_	_	_	_	_	_	Shift=5506
+18	-	_	_	_	_	_	_	_	Shift=5517
+19	цельное	_	_	_	_	_	_	_	Shift=5518
+20	единство	_	_	_	_	_	_	_	Shift=5526
+21	художественные	_	_	_	_	_	_	_	Shift=5535
+22	настроения	_	_	_	_	_	_	_	Shift=5550
+23	и	_	_	_	_	_	_	_	Shift=5561
+24	логические	_	_	_	_	_	_	_	Shift=5563
+25	результаты	_	_	_	_	_	_	_	Shift=5574
+26	высших	_	_	_	_	_	_	_	Shift=5585
+27	умозрений	_	_	_	_	_	_	_	Shift=5592|SpaceAfter=No
+28	,	_	_	_	_	_	_	_	Shift=5601
+29	сочетал	_	_	_	_	_	_	_	Shift=5603
+30	две	_	_	_	_	_	_	_	Shift=5611
+31	краски	_	_	_	_	_	_	_	Shift=5615
+32	в	_	_	_	_	_	_	_	Shift=5622
+33	одну	_	_	_	_	_	_	_	Shift=5624
+34	и	_	_	_	_	_	_	_	Shift=5629
+35	создал	_	_	_	_	_	_	_	Shift=5631
+36	новую	_	_	_	_	_	_	_	Shift=5638
+37	литературную	_	_	_	_	_	_	_	Shift=5644
+38	форму	_	_	_	_	_	_	_	Shift=5657|SpaceAfter=No
+39	,	_	_	_	_	_	_	_	Shift=5662
+40	философские	_	_	_	_	_	_	_	Shift=5664
+41	сказки	_	_	_	_	_	_	_	Shift=5676|SpaceAfter=No
+42	,	_	_	_	_	_	_	_	Shift=5682
+43	гипнотизирующие	_	_	_	_	_	_	_	Shift=5684
+44	одновременно	_	_	_	_	_	_	_	Shift=5700
+45	и	_	_	_	_	_	_	_	Shift=5713
+46	наше	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2735|RuCor_group_id=472056|RuCor_link_id=472036|Shift=5715
+47	чувство	_	_	_	_	_	_	_	Shift=5720|SpaceAfter=No
+48	,	_	_	_	_	_	_	_	Shift=5727
+49	и	_	_	_	_	_	_	_	Shift=5729
+50	наш	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2735|RuCor_group_id=472057|RuCor_link_id=472056|Shift=5731
+51	ум	_	_	_	_	_	_	_	Shift=5735|SpaceAfter=No
+52	.	_	_	_	_	_	_	_	Shift=5737
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p26
+# par_text = Метко определив, что происхождение поэзии кроется в жажде более безумной красоты, чем та, которую нам может дать земля, Эдгар По стремился утолить эту жажду созданием неземных образов.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p26-s1
+# text = Метко определив, что происхождение поэзии кроется в жажде более безумной красоты, чем та, которую нам может дать земля, Эдгар По стремился утолить эту жажду созданием неземных образов.
+1	Метко	_	_	_	_	_	_	_	Shift=5739
+2	определив	_	_	_	_	_	_	_	Shift=5745|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=5754
+4	что	_	_	_	_	_	_	_	Shift=5756
+5	происхождение	_	_	_	_	_	_	_	Shift=5760
+6	поэзии	_	_	_	_	_	_	_	Shift=5774
+7	кроется	_	_	_	_	_	_	_	Shift=5781
+8	в	_	_	_	_	_	_	_	Shift=5789
+9	жажде	_	_	_	_	_	_	_	Shift=5791
+10	более	_	_	_	_	_	_	_	Shift=5797
+11	безумной	_	_	_	_	_	_	_	Shift=5803
+12	красоты	_	_	_	_	_	_	_	Shift=5812|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=5819
+14	чем	_	_	_	_	_	_	_	Shift=5821
+15	та	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2754|RuCor_group_id=472058|RuCor_link_id=0|Shift=5825|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=5827
+17	которую	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2754|RuCor_group_id=472059|RuCor_link_id=472058|Shift=5829
+18	нам	_	_	_	_	_	_	_	Shift=5837
+19	может	_	_	_	_	_	_	_	Shift=5841
+20	дать	_	_	_	_	_	_	_	Shift=5847
+21	земля	_	_	_	_	_	_	_	Shift=5852|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=5857
+23	Эдгар	_	_	_	_	_	_	_	RuCor_chain_id=2741|RuCor_group_id=472060|Shift=5859
+24	По	_	_	_	_	_	_	_	RuCor_chain_id=2741|RuCor_group_id=472060|Shift=5865
+25	стремился	_	_	_	_	_	_	_	Shift=5868
+26	утолить	_	_	_	_	_	_	_	Shift=5878
+27	эту	_	_	_	_	_	_	_	Shift=5886
+28	жажду	_	_	_	_	_	_	_	Shift=5890
+29	созданием	_	_	_	_	_	_	_	Shift=5896
+30	неземных	_	_	_	_	_	_	_	Shift=5906
+31	образов	_	_	_	_	_	_	_	Shift=5915|SpaceAfter=No
+32	.	_	_	_	_	_	_	_	Shift=5922
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p27
+# par_text = Его пейзажи изменены, как в сновидениях, где те же предметы кажутся другими.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p27-s1
+# text = Его пейзажи изменены, как в сновидениях, где те же предметы кажутся другими.
+1	Его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472061|RuCor_link_id=472060|Shift=5924
+2	пейзажи	_	_	_	_	_	_	_	Shift=5928
+3	изменены	_	_	_	_	_	_	_	Shift=5936|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=5944
+5	как	_	_	_	_	_	_	_	Shift=5946
+6	в	_	_	_	_	_	_	_	Shift=5950
+7	сновидениях	_	_	_	_	_	_	_	Shift=5952|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=5963
+9	где	_	_	_	_	_	_	_	Shift=5965
+10	те	_	_	_	_	_	_	_	Shift=5969
+11	же	_	_	_	_	_	_	_	Shift=5972
+12	предметы	_	_	_	_	_	_	_	Shift=5975
+13	кажутся	_	_	_	_	_	_	_	Shift=5984
+14	другими	_	_	_	_	_	_	_	Shift=5992|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=5999
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p28
+# par_text = Его водовороты затягивают в себя и в то же время заставляют думать о боге, будучи пронизаны до самой глубины призрачным блеском месяца.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p28-s1
+# text = Его водовороты затягивают в себя и в то же время заставляют думать о боге, будучи пронизаны до самой глубины призрачным блеском месяца.
+1	Его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472063|RuCor_link_id=472061|Shift=6001
+2	водовороты	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2755|RuCor_group_id=472062|RuCor_link_id=0|Shift=6005
+3	затягивают	_	_	_	_	_	_	_	Shift=6016
+4	в	_	_	_	_	_	_	_	Shift=6027
+5	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=2755|RuCor_group_id=472064|RuCor_link_id=472062|Shift=6029
+6	и	_	_	_	_	_	_	_	Shift=6034
+7	в	_	_	_	_	_	_	_	Shift=6036
+8	то	_	_	_	_	_	_	_	Shift=6038
+9	же	_	_	_	_	_	_	_	Shift=6041
+10	время	_	_	_	_	_	_	_	Shift=6044
+11	заставляют	_	_	_	_	_	_	_	Shift=6050
+12	думать	_	_	_	_	_	_	_	Shift=6061
+13	о	_	_	_	_	_	_	_	Shift=6068
+14	боге	_	_	_	_	_	_	_	Shift=6070|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=6074
+16	будучи	_	_	_	_	_	_	_	Shift=6076
+17	пронизаны	_	_	_	_	_	_	_	Shift=6083
+18	до	_	_	_	_	_	_	_	Shift=6093
+19	самой	_	_	_	_	_	_	_	Shift=6096
+20	глубины	_	_	_	_	_	_	_	Shift=6102
+21	призрачным	_	_	_	_	_	_	_	Shift=6110
+22	блеском	_	_	_	_	_	_	_	Shift=6121
+23	месяца	_	_	_	_	_	_	_	Shift=6129|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=6135
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p29
+# par_text = Его женщины должны умирать преждевременно, и, как верно говорит Бодлер, их лица окружены тем золотым сиянием, которое неотлучно соединено с лицами святых.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p29-s1
+# text = Его женщины должны умирать преждевременно, и, как верно говорит Бодлер, их лица окружены тем золотым сиянием, которое неотлучно соединено с лицами святых.
+1	Его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2756|RuCor_group_id=472066|RuCor_link_id=472063|Shift=6137
+2	женщины	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2756|RuCor_group_id=472066|RuCor_link_id=0|Shift=6141
+3	должны	_	_	_	_	_	_	_	Shift=6149
+4	умирать	_	_	_	_	_	_	_	Shift=6156
+5	преждевременно	_	_	_	_	_	_	_	Shift=6164|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=6178
+7	и	_	_	_	_	_	_	_	Shift=6180|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=6181
+9	как	_	_	_	_	_	_	_	Shift=6183
+10	верно	_	_	_	_	_	_	_	Shift=6187
+11	говорит	_	_	_	_	_	_	_	Shift=6193
+12	Бодлер	_	_	_	_	_	_	_	Shift=6201|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=6207
+14	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=2756|RuCor_group_id=472067|RuCor_link_id=472066|Shift=6209
+15	лица	_	_	_	_	_	_	_	Shift=6212
+16	окружены	_	_	_	_	_	_	_	Shift=6217
+17	тем	_	_	_	_	_	_	_	RuCor_chain_id=2757|RuCor_group_id=472068|Shift=6226
+18	золотым	_	_	_	_	_	_	_	RuCor_chain_id=2757|RuCor_group_id=472068|Shift=6230
+19	сиянием	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2757|RuCor_group_id=472068|RuCor_link_id=0|Shift=6238|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=6245
+21	которое	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2757|RuCor_group_id=472069|RuCor_link_id=472068|Shift=6247
+22	неотлучно	_	_	_	_	_	_	_	Shift=6255
+23	соединено	_	_	_	_	_	_	_	Shift=6265
+24	с	_	_	_	_	_	_	_	Shift=6275
+25	лицами	_	_	_	_	_	_	_	Shift=6277
+26	святых	_	_	_	_	_	_	_	Shift=6284|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=6290
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p30
+# par_text = Колумб новых областей в человеческой душе, он первый сознательно задался мыслью ввести уродство в область красоты и, с лукавством мудрого мага, создал поэзию ужаса.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p30-s1
+# text = Колумб новых областей в человеческой душе, он первый сознательно задался мыслью ввести уродство в область красоты и, с лукавством мудрого мага, создал поэзию ужаса.
+1	Колумб	_	_	_	_	_	_	_	Shift=6292
+2	новых	_	_	_	_	_	_	_	Shift=6299
+3	областей	_	_	_	_	_	_	_	Shift=6305
+4	в	_	_	_	_	_	_	_	Shift=6314
+5	человеческой	_	_	_	_	_	_	_	Shift=6316
+6	душе	_	_	_	_	_	_	_	Shift=6329|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=6333
+8	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472070|RuCor_link_id=472065|Shift=6335
+9	первый	_	_	_	_	_	_	_	Shift=6338
+10	сознательно	_	_	_	_	_	_	_	Shift=6345
+11	задался	_	_	_	_	_	_	_	Shift=6357
+12	мыслью	_	_	_	_	_	_	_	Shift=6365
+13	ввести	_	_	_	_	_	_	_	Shift=6372
+14	уродство	_	_	_	_	_	_	_	Shift=6379
+15	в	_	_	_	_	_	_	_	Shift=6388
+16	область	_	_	_	_	_	_	_	Shift=6390
+17	красоты	_	_	_	_	_	_	_	Shift=6398
+18	и	_	_	_	_	_	_	_	Shift=6406|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=6407
+20	с	_	_	_	_	_	_	_	Shift=6409
+21	лукавством	_	_	_	_	_	_	_	Shift=6411
+22	мудрого	_	_	_	_	_	_	_	Shift=6422
+23	мага	_	_	_	_	_	_	_	Shift=6430|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=6434
+25	создал	_	_	_	_	_	_	_	Shift=6436
+26	поэзию	_	_	_	_	_	_	_	Shift=6443
+27	ужаса	_	_	_	_	_	_	_	Shift=6450|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=6455
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p31
+# par_text = Он первый угадал поэзию распадающихся величественных зданий, угадал жизнь корабля как одухотворённого существа, уловил великий символизм явлений моря, установил художественную, полную волнующих намёков связь между человеческой душой и неодушевлёнными предметами, пророчески почувствовал настроение наших дней и в подавляющих мрачностью красок картинах изобразил чудовищные — неизбежные для души — последствия механического миросозерцания.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p31-s1
+# text = Он первый угадал поэзию распадающихся величественных зданий, угадал жизнь корабля как одухотворённого существа, уловил великий символизм явлений моря, установил художественную, полную волнующих намёков связь между человеческой душой и неодушевлёнными предметами, пророчески почувствовал настроение наших дней и в подавляющих мрачностью красок картинах изобразил чудовищные - неизбежные для души - последствия механического миросозерцания.
+1	Он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472071|RuCor_link_id=472070|Shift=6457
+2	первый	_	_	_	_	_	_	_	Shift=6460
+3	угадал	_	_	_	_	_	_	_	Shift=6467
+4	поэзию	_	_	_	_	_	_	_	Shift=6474
+5	распадающихся	_	_	_	_	_	_	_	Shift=6481
+6	величественных	_	_	_	_	_	_	_	Shift=6495
+7	зданий	_	_	_	_	_	_	_	Shift=6510|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=6516
+9	угадал	_	_	_	_	_	_	_	Shift=6518
+10	жизнь	_	_	_	_	_	_	_	Shift=6525
+11	корабля	_	_	_	_	_	_	_	Shift=6531
+12	как	_	_	_	_	_	_	_	Shift=6539
+13	одухотворённого	_	_	_	_	_	_	_	Shift=6543
+14	существа	_	_	_	_	_	_	_	Shift=6559|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=6567
+16	уловил	_	_	_	_	_	_	_	Shift=6569
+17	великий	_	_	_	_	_	_	_	Shift=6576
+18	символизм	_	_	_	_	_	_	_	Shift=6584
+19	явлений	_	_	_	_	_	_	_	Shift=6594
+20	моря	_	_	_	_	_	_	_	Shift=6602|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=6606
+22	установил	_	_	_	_	_	_	_	Shift=6608
+23	художественную	_	_	_	_	_	_	_	Shift=6618|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=6632
+25	полную	_	_	_	_	_	_	_	Shift=6634
+26	волнующих	_	_	_	_	_	_	_	Shift=6641
+27	намёков	_	_	_	_	_	_	_	Shift=6651
+28	связь	_	_	_	_	_	_	_	Shift=6659
+29	между	_	_	_	_	_	_	_	Shift=6665
+30	человеческой	_	_	_	_	_	_	_	Shift=6671
+31	душой	_	_	_	_	_	_	_	Shift=6684
+32	и	_	_	_	_	_	_	_	Shift=6690
+33	неодушевлёнными	_	_	_	_	_	_	_	Shift=6692
+34	предметами	_	_	_	_	_	_	_	Shift=6708|SpaceAfter=No
+35	,	_	_	_	_	_	_	_	Shift=6718
+36	пророчески	_	_	_	_	_	_	_	Shift=6720
+37	почувствовал	_	_	_	_	_	_	_	Shift=6731
+38	настроение	_	_	_	_	_	_	_	Shift=6744
+39	наших	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2735|RuCor_group_id=472072|RuCor_link_id=472057|Shift=6755
+40	дней	_	_	_	_	_	_	_	Shift=6761
+41	и	_	_	_	_	_	_	_	Shift=6766
+42	в	_	_	_	_	_	_	_	Shift=6768
+43	подавляющих	_	_	_	_	_	_	_	Shift=6770
+44	мрачностью	_	_	_	_	_	_	_	Shift=6782
+45	красок	_	_	_	_	_	_	_	Shift=6793
+46	картинах	_	_	_	_	_	_	_	Shift=6800
+47	изобразил	_	_	_	_	_	_	_	Shift=6809
+48	чудовищные	_	_	_	_	_	_	_	Shift=6819
+49	-	_	_	_	_	_	_	_	Shift=6830
+50	неизбежные	_	_	_	_	_	_	_	Shift=6832
+51	для	_	_	_	_	_	_	_	Shift=6843
+52	души	_	_	_	_	_	_	_	Shift=6847
+53	-	_	_	_	_	_	_	_	Shift=6852
+54	последствия	_	_	_	_	_	_	_	Shift=6854
+55	механического	_	_	_	_	_	_	_	Shift=6866
+56	миросозерцания	_	_	_	_	_	_	_	Shift=6880|SpaceAfter=No
+57	.	_	_	_	_	_	_	_	Shift=6894
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p32
+# par_text = В «Падении дома Эшер» он для будущих времён нарисовал душевное распадение личности, гибнущей из-за своей утончённости.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p32-s1
+# text = В ``Падении дома Эшер'' он для будущих времён нарисовал душевное распадение личности, гибнущей из-за своей утончённости.
+1	В	_	_	_	_	_	_	_	Shift=6896
+2	``	_	_	_	_	_	_	_	Shift=6898|SpaceAfter=No
+3	Падении	_	_	_	_	_	_	_	Shift=6899
+4	дома	_	_	_	_	_	_	_	Shift=6907
+5	Эшер	_	_	_	_	_	_	_	Shift=6912|SpaceAfter=No
+6	''	_	_	_	_	_	_	_	Shift=6916
+7	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472073|RuCor_link_id=472071|Shift=6918
+8	для	_	_	_	_	_	_	_	Shift=6921
+9	будущих	_	_	_	_	_	_	_	Shift=6925
+10	времён	_	_	_	_	_	_	_	Shift=6933
+11	нарисовал	_	_	_	_	_	_	_	Shift=6940
+12	душевное	_	_	_	_	_	_	_	Shift=6950
+13	распадение	_	_	_	_	_	_	_	Shift=6959
+14	личности	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2758|RuCor_group_id=472074|RuCor_link_id=0|Shift=6970|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=6978
+16	гибнущей	_	_	_	_	_	_	_	Shift=6980
+17	из-за	_	_	_	_	_	_	_	Shift=6989
+18	своей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=2758|RuCor_group_id=472075|RuCor_link_id=472074|Shift=6995
+19	утончённости	_	_	_	_	_	_	_	Shift=7001|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=7013
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p33
+# par_text = В «Овальном портрете» он показал невозможность любви, потому что Душа, исходя из созерцания земного любимого образа, возводит его РОКОВЫМ восходящим путём к идеальной мечте, к запредельному первообразу, и как только этот путь пройден, земной образ лишается своих красок, отпадает, умирает, и остаётся только мечта, прекрасная, как создание искусства, но — из иного мира, чем мир земного счастья.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p33-s1
+# text = В ``Овальном портрете'' он показал невозможность любви, потому что Душа, исходя из созерцания земного любимого образа, возводит его РОКОВЫМ восходящим путём к идеальной мечте, к запредельному первообразу, и как только этот путь пройден, земной образ лишается своих красок, отпадает, умирает, и остаётся только мечта, прекрасная, как создание искусства, но - из иного мира, чем мир земного счастья.
+1	В	_	_	_	_	_	_	_	Shift=7015
+2	``	_	_	_	_	_	_	_	Shift=7017|SpaceAfter=No
+3	Овальном	_	_	_	_	_	_	_	Shift=7018
+4	портрете	_	_	_	_	_	_	_	Shift=7027|SpaceAfter=No
+5	''	_	_	_	_	_	_	_	Shift=7035
+6	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472076|RuCor_link_id=472073|Shift=7037
+7	показал	_	_	_	_	_	_	_	Shift=7040
+8	невозможность	_	_	_	_	_	_	_	Shift=7048
+9	любви	_	_	_	_	_	_	_	Shift=7062|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=7067
+11	потому	_	_	_	_	_	_	_	Shift=7069
+12	что	_	_	_	_	_	_	_	Shift=7076
+13	Душа	_	_	_	_	_	_	_	Shift=7080|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=7084
+15	исходя	_	_	_	_	_	_	_	Shift=7086
+16	из	_	_	_	_	_	_	_	Shift=7093
+17	созерцания	_	_	_	_	_	_	_	Shift=7096
+18	земного	_	_	_	_	_	_	_	Shift=7107
+19	любимого	_	_	_	_	_	_	_	Shift=7115
+20	образа	_	_	_	_	_	_	_	Shift=7124|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=7130
+22	возводит	_	_	_	_	_	_	_	Shift=7132
+23	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472077|RuCor_link_id=472076|Shift=7141
+24	РОКОВЫМ	_	_	_	_	_	_	_	Shift=7145
+25	восходящим	_	_	_	_	_	_	_	Shift=7153
+26	путём	_	_	_	_	_	_	_	Shift=7164
+27	к	_	_	_	_	_	_	_	Shift=7170
+28	идеальной	_	_	_	_	_	_	_	Shift=7172
+29	мечте	_	_	_	_	_	_	_	Shift=7182|SpaceAfter=No
+30	,	_	_	_	_	_	_	_	Shift=7187
+31	к	_	_	_	_	_	_	_	Shift=7189
+32	запредельному	_	_	_	_	_	_	_	Shift=7191
+33	первообразу	_	_	_	_	_	_	_	Shift=7205|SpaceAfter=No
+34	,	_	_	_	_	_	_	_	Shift=7216
+35	и	_	_	_	_	_	_	_	Shift=7218
+36	как	_	_	_	_	_	_	_	Shift=7220
+37	только	_	_	_	_	_	_	_	Shift=7224
+38	этот	_	_	_	_	_	_	_	Shift=7231
+39	путь	_	_	_	_	_	_	_	Shift=7236
+40	пройден	_	_	_	_	_	_	_	Shift=7241|SpaceAfter=No
+41	,	_	_	_	_	_	_	_	Shift=7248
+42	земной	_	_	_	_	_	_	_	RuCor_chain_id=2759|RuCor_group_id=472078|Shift=7250
+43	образ	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2759|RuCor_group_id=472078|RuCor_link_id=0|Shift=7257
+44	лишается	_	_	_	_	_	_	_	Shift=7263
+45	своих	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=2759|RuCor_group_id=472079|RuCor_link_id=472078|Shift=7272
+46	красок	_	_	_	_	_	_	_	Shift=7278|SpaceAfter=No
+47	,	_	_	_	_	_	_	_	Shift=7284
+48	отпадает	_	_	_	_	_	_	_	Shift=7286|SpaceAfter=No
+49	,	_	_	_	_	_	_	_	Shift=7294
+50	умирает	_	_	_	_	_	_	_	Shift=7296|SpaceAfter=No
+51	,	_	_	_	_	_	_	_	Shift=7303
+52	и	_	_	_	_	_	_	_	Shift=7305
+53	остаётся	_	_	_	_	_	_	_	Shift=7307
+54	только	_	_	_	_	_	_	_	Shift=7316
+55	мечта	_	_	_	_	_	_	_	Shift=7323|SpaceAfter=No
+56	,	_	_	_	_	_	_	_	Shift=7328
+57	прекрасная	_	_	_	_	_	_	_	Shift=7330|SpaceAfter=No
+58	,	_	_	_	_	_	_	_	Shift=7340
+59	как	_	_	_	_	_	_	_	Shift=7342
+60	создание	_	_	_	_	_	_	_	Shift=7346
+61	искусства	_	_	_	_	_	_	_	Shift=7355|SpaceAfter=No
+62	,	_	_	_	_	_	_	_	Shift=7364
+63	но	_	_	_	_	_	_	_	Shift=7366
+64	-	_	_	_	_	_	_	_	Shift=7369
+65	из	_	_	_	_	_	_	_	Shift=7371
+66	иного	_	_	_	_	_	_	_	Shift=7374
+67	мира	_	_	_	_	_	_	_	Shift=7380|SpaceAfter=No
+68	,	_	_	_	_	_	_	_	Shift=7384
+69	чем	_	_	_	_	_	_	_	Shift=7386
+70	мир	_	_	_	_	_	_	_	Shift=7390
+71	земного	_	_	_	_	_	_	_	Shift=7394
+72	счастья	_	_	_	_	_	_	_	Shift=7402|SpaceAfter=No
+73	.	_	_	_	_	_	_	_	Shift=7409
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p34
+# par_text = В «Демоне извращённости», в «Вильяме Вильсоне», в сказке «Чёрный кот» он изобразил непобедимую стихийность совести, как её не изображал до него ещё никто.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p34-s1
+# text = В ``Демоне извращённости'', в ``Вильяме Вильсоне'', в сказке ``Чёрный кот'' он изобразил непобедимую стихийность совести, как её не изображал до него ещё никто.
+1	В	_	_	_	_	_	_	_	Shift=7411
+2	``	_	_	_	_	_	_	_	Shift=7413|SpaceAfter=No
+3	Демоне	_	_	_	_	_	_	_	Shift=7414
+4	извращённости	_	_	_	_	_	_	_	Shift=7421|SpaceAfter=No
+5	''	_	_	_	_	_	_	_	Shift=7434|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=7435
+7	в	_	_	_	_	_	_	_	Shift=7437
+8	``	_	_	_	_	_	_	_	Shift=7439|SpaceAfter=No
+9	Вильяме	_	_	_	_	_	_	_	Shift=7440
+10	Вильсоне	_	_	_	_	_	_	_	Shift=7448|SpaceAfter=No
+11	''	_	_	_	_	_	_	_	Shift=7456|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=7457
+13	в	_	_	_	_	_	_	_	Shift=7459
+14	сказке	_	_	_	_	_	_	_	Shift=7461
+15	``	_	_	_	_	_	_	_	Shift=7468|SpaceAfter=No
+16	Чёрный	_	_	_	_	_	_	_	Shift=7469
+17	кот	_	_	_	_	_	_	_	Shift=7476|SpaceAfter=No
+18	''	_	_	_	_	_	_	_	Shift=7479
+19	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472080|RuCor_link_id=472076|Shift=7481
+20	изобразил	_	_	_	_	_	_	_	Shift=7484
+21	непобедимую	_	_	_	_	_	_	_	RuCor_chain_id=2760|RuCor_group_id=472081|Shift=7494
+22	стихийность	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2760|RuCor_group_id=472081|RuCor_link_id=0|Shift=7506
+23	совести	_	_	_	_	_	_	_	RuCor_chain_id=2760|RuCor_group_id=472081|Shift=7518|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=7525
+25	как	_	_	_	_	_	_	_	Shift=7527
+26	её	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2760|RuCor_group_id=472082|RuCor_link_id=472081|Shift=7531
+27	не	_	_	_	_	_	_	_	Shift=7534
+28	изображал	_	_	_	_	_	_	_	Shift=7537
+29	до	_	_	_	_	_	_	_	Shift=7547
+30	него	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472083|RuCor_link_id=472080|Shift=7550
+31	ещё	_	_	_	_	_	_	_	Shift=7555
+32	никто	_	_	_	_	_	_	_	Shift=7559|SpaceAfter=No
+33	.	_	_	_	_	_	_	_	Shift=7564
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p35
+# par_text = В таких произведениях, как «Нисхождение в Мальстрем», «Манускрипт, найденный в бутылке» и «Повествования Артура Гордона Мима», он символически представил безнадёжность наших душевных исканий, логические стены, вырастающие перед нами, когда мы идём по путям познания.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p35-s1
+# text = В таких произведениях, как ``Нисхождение в Мальстрем'', ``Манускрипт, найденный в бутылке'' и ``Повествования Артура Гордона Мима'', он символически представил безнадёжность наших душевных исканий, логические стены, вырастающие перед нами, когда мы идём по путям познания.
+1	В	_	_	_	_	_	_	_	Shift=7566
+2	таких	_	_	_	_	_	_	_	Shift=7568
+3	произведениях	_	_	_	_	_	_	_	Shift=7574|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=7587
+5	как	_	_	_	_	_	_	_	Shift=7589
+6	``	_	_	_	_	_	_	_	Shift=7593|SpaceAfter=No
+7	Нисхождение	_	_	_	_	_	_	_	Shift=7594
+8	в	_	_	_	_	_	_	_	Shift=7606
+9	Мальстрем	_	_	_	_	_	_	_	Shift=7608|SpaceAfter=No
+10	''	_	_	_	_	_	_	_	Shift=7617|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=7618
+12	``	_	_	_	_	_	_	_	Shift=7620|SpaceAfter=No
+13	Манускрипт	_	_	_	_	_	_	_	Shift=7621|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=7631
+15	найденный	_	_	_	_	_	_	_	Shift=7633
+16	в	_	_	_	_	_	_	_	Shift=7643
+17	бутылке	_	_	_	_	_	_	_	Shift=7645|SpaceAfter=No
+18	''	_	_	_	_	_	_	_	Shift=7652
+19	и	_	_	_	_	_	_	_	Shift=7654
+20	``	_	_	_	_	_	_	_	Shift=7656|SpaceAfter=No
+21	Повествования	_	_	_	_	_	_	_	Shift=7657
+22	Артура	_	_	_	_	_	_	_	Shift=7671
+23	Гордона	_	_	_	_	_	_	_	Shift=7678
+24	Мима	_	_	_	_	_	_	_	Shift=7686|SpaceAfter=No
+25	''	_	_	_	_	_	_	_	Shift=7690|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	Shift=7691
+27	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472084|RuCor_link_id=472083|Shift=7693
+28	символически	_	_	_	_	_	_	_	Shift=7696
+29	представил	_	_	_	_	_	_	_	Shift=7709
+30	безнадёжность	_	_	_	_	_	_	_	Shift=7720
+31	наших	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2735|RuCor_group_id=472085|RuCor_link_id=472072|Shift=7734
+32	душевных	_	_	_	_	_	_	_	Shift=7740
+33	исканий	_	_	_	_	_	_	_	Shift=7749|SpaceAfter=No
+34	,	_	_	_	_	_	_	_	Shift=7756
+35	логические	_	_	_	_	_	_	_	Shift=7758
+36	стены	_	_	_	_	_	_	_	Shift=7769|SpaceAfter=No
+37	,	_	_	_	_	_	_	_	Shift=7774
+38	вырастающие	_	_	_	_	_	_	_	Shift=7776
+39	перед	_	_	_	_	_	_	_	Shift=7788
+40	нами	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2735|RuCor_group_id=472086|RuCor_link_id=472085|Shift=7794|SpaceAfter=No
+41	,	_	_	_	_	_	_	_	Shift=7798
+42	когда	_	_	_	_	_	_	_	Shift=7800
+43	мы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2735|RuCor_group_id=472087|RuCor_link_id=472086|Shift=7806
+44	идём	_	_	_	_	_	_	_	Shift=7809
+45	по	_	_	_	_	_	_	_	Shift=7814
+46	путям	_	_	_	_	_	_	_	Shift=7817
+47	познания	_	_	_	_	_	_	_	Shift=7823|SpaceAfter=No
+48	.	_	_	_	_	_	_	_	Shift=7831
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p36
+# par_text = В лучшей своей сказке, «Молчание», он изобразил проистекающий отсюда ужас, нестерпимую пытку, более острую, чем отчаяние, возникающую от сознанья того молчания, которым окружены мы навсегда.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p36-s1
+# text = В лучшей своей сказке, ``Молчание'', он изобразил проистекающий отсюда ужас, нестерпимую пытку, более острую, чем отчаяние, возникающую от сознанья того молчания, которым окружены мы навсегда.
+1	В	_	_	_	_	_	_	_	Shift=7833
+2	лучшей	_	_	_	_	_	_	_	Shift=7835
+3	своей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472088|RuCor_link_id=472080|Shift=7842
+4	сказке	_	_	_	_	_	_	_	Shift=7848|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=7854
+6	``	_	_	_	_	_	_	_	Shift=7856|SpaceAfter=No
+7	Молчание	_	_	_	_	_	_	_	Shift=7857|SpaceAfter=No
+8	''	_	_	_	_	_	_	_	Shift=7865|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=7866
+10	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472089|RuCor_link_id=472088|Shift=7868
+11	изобразил	_	_	_	_	_	_	_	Shift=7871
+12	проистекающий	_	_	_	_	_	_	_	Shift=7881
+13	отсюда	_	_	_	_	_	_	_	Shift=7895
+14	ужас	_	_	_	_	_	_	_	Shift=7902|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=7906
+16	нестерпимую	_	_	_	_	_	_	_	Shift=7908
+17	пытку	_	_	_	_	_	_	_	Shift=7920|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=7925
+19	более	_	_	_	_	_	_	_	Shift=7927
+20	острую	_	_	_	_	_	_	_	Shift=7933|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=7939
+22	чем	_	_	_	_	_	_	_	Shift=7941
+23	отчаяние	_	_	_	_	_	_	_	Shift=7945|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=7953
+25	возникающую	_	_	_	_	_	_	_	Shift=7955
+26	от	_	_	_	_	_	_	_	Shift=7967
+27	сознанья	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2762|RuCor_group_id=472090|RuCor_link_id=472094|Shift=7970
+28	того	_	_	_	_	_	_	_	RuCor_chain_id=2761|RuCor_group_id=472091|Shift=7979
+29	молчания	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2761|RuCor_group_id=472091|RuCor_link_id=472092|Shift=7984|SpaceAfter=No
+30	,	_	_	_	_	_	_	_	Shift=7992
+31	которым	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2761|RuCor_group_id=472092|RuCor_link_id=0|Shift=7994
+32	окружены	_	_	_	_	_	_	_	Shift=8002
+33	мы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2735|RuCor_group_id=472093|RuCor_link_id=472085|Shift=8011
+34	навсегда	_	_	_	_	_	_	_	Shift=8014|SpaceAfter=No
+35	.	_	_	_	_	_	_	_	Shift=8022
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p37
+# par_text = Дальше, за ним, за этим сознанием, начинается беспредельное царство смерти, фосфорический блеск разложения, ярость смерча, самумы, бешенство бурь, которые, свирепствуя извне, проникают и в людские обиталища, заставляя драпри шевелиться и двигаться змеиными движениями, — царство, полное сплина, страха и ужаса, искажённых призраков, глаз, расширенных от нестерпимости испуга, чудовищной бледности, чумных дыханий, кровавых пятен и белых цветов, застывших и ещё более страшных, чем кровь.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p37-s1
+# text = Дальше, за ним, за этим сознанием, начинается беспредельное царство смерти, фосфорический блеск разложения, ярость смерча, самумы, бешенство бурь, которые, свирепствуя извне, проникают и в людские обиталища, заставляя драпри шевелиться и двигаться змеиными движениями, - царство, полное сплина, страха и ужаса, искажённых призраков, глаз, расширенных от нестерпимости испуга, чудовищной бледности, чумных дыханий, кровавых пятен и белых цветов, застывших и ещё более страшных, чем кровь.
+1	Дальше	_	_	_	_	_	_	_	Shift=8024|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=8030
+3	за	_	_	_	_	_	_	_	Shift=8032
+4	ним	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2762|RuCor_group_id=472094|RuCor_link_id=0|Shift=8035|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=8038
+6	за	_	_	_	_	_	_	_	Shift=8040
+7	этим	_	_	_	_	_	_	_	Shift=8043
+8	сознанием	_	_	_	_	_	_	_	Shift=8048|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=8057
+10	начинается	_	_	_	_	_	_	_	Shift=8059
+11	беспредельное	_	_	_	_	_	_	_	Shift=8070
+12	царство	_	_	_	_	_	_	_	Shift=8084
+13	смерти	_	_	_	_	_	_	_	Shift=8092|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=8098
+15	фосфорический	_	_	_	_	_	_	_	Shift=8100
+16	блеск	_	_	_	_	_	_	_	Shift=8114
+17	разложения	_	_	_	_	_	_	_	Shift=8120|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=8130
+19	ярость	_	_	_	_	_	_	_	Shift=8132
+20	смерча	_	_	_	_	_	_	_	Shift=8139|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=8145
+22	самумы	_	_	_	_	_	_	_	Shift=8147|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=8153
+24	бешенство	_	_	_	_	_	_	_	Shift=8155
+25	бурь	_	_	_	_	_	_	_	Shift=8165|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	Shift=8169
+27	которые	_	_	_	_	_	_	_	Shift=8171|SpaceAfter=No
+28	,	_	_	_	_	_	_	_	Shift=8178
+29	свирепствуя	_	_	_	_	_	_	_	Shift=8180
+30	извне	_	_	_	_	_	_	_	Shift=8192|SpaceAfter=No
+31	,	_	_	_	_	_	_	_	Shift=8197
+32	проникают	_	_	_	_	_	_	_	Shift=8199
+33	и	_	_	_	_	_	_	_	Shift=8209
+34	в	_	_	_	_	_	_	_	Shift=8211
+35	людские	_	_	_	_	_	_	_	Shift=8213
+36	обиталища	_	_	_	_	_	_	_	Shift=8221|SpaceAfter=No
+37	,	_	_	_	_	_	_	_	Shift=8230
+38	заставляя	_	_	_	_	_	_	_	Shift=8232
+39	драпри	_	_	_	_	_	_	_	Shift=8242
+40	шевелиться	_	_	_	_	_	_	_	Shift=8249
+41	и	_	_	_	_	_	_	_	Shift=8260
+42	двигаться	_	_	_	_	_	_	_	Shift=8262
+43	змеиными	_	_	_	_	_	_	_	Shift=8272
+44	движениями	_	_	_	_	_	_	_	Shift=8281|SpaceAfter=No
+45	,	_	_	_	_	_	_	_	Shift=8291
+46	-	_	_	_	_	_	_	_	Shift=8293
+47	царство	_	_	_	_	_	_	_	Shift=8295|SpaceAfter=No
+48	,	_	_	_	_	_	_	_	Shift=8302
+49	полное	_	_	_	_	_	_	_	Shift=8304
+50	сплина	_	_	_	_	_	_	_	Shift=8311|SpaceAfter=No
+51	,	_	_	_	_	_	_	_	Shift=8317
+52	страха	_	_	_	_	_	_	_	Shift=8319
+53	и	_	_	_	_	_	_	_	Shift=8326
+54	ужаса	_	_	_	_	_	_	_	Shift=8328|SpaceAfter=No
+55	,	_	_	_	_	_	_	_	Shift=8333
+56	искажённых	_	_	_	_	_	_	_	Shift=8335
+57	призраков	_	_	_	_	_	_	_	Shift=8346|SpaceAfter=No
+58	,	_	_	_	_	_	_	_	Shift=8355
+59	глаз	_	_	_	_	_	_	_	Shift=8357|SpaceAfter=No
+60	,	_	_	_	_	_	_	_	Shift=8361
+61	расширенных	_	_	_	_	_	_	_	Shift=8363
+62	от	_	_	_	_	_	_	_	Shift=8375
+63	нестерпимости	_	_	_	_	_	_	_	Shift=8378
+64	испуга	_	_	_	_	_	_	_	Shift=8392|SpaceAfter=No
+65	,	_	_	_	_	_	_	_	Shift=8398
+66	чудовищной	_	_	_	_	_	_	_	Shift=8400
+67	бледности	_	_	_	_	_	_	_	Shift=8411|SpaceAfter=No
+68	,	_	_	_	_	_	_	_	Shift=8420
+69	чумных	_	_	_	_	_	_	_	Shift=8422
+70	дыханий	_	_	_	_	_	_	_	Shift=8429|SpaceAfter=No
+71	,	_	_	_	_	_	_	_	Shift=8436
+72	кровавых	_	_	_	_	_	_	_	Shift=8438
+73	пятен	_	_	_	_	_	_	_	Shift=8447
+74	и	_	_	_	_	_	_	_	Shift=8453
+75	белых	_	_	_	_	_	_	_	Shift=8455
+76	цветов	_	_	_	_	_	_	_	Shift=8461|SpaceAfter=No
+77	,	_	_	_	_	_	_	_	Shift=8467
+78	застывших	_	_	_	_	_	_	_	Shift=8469
+79	и	_	_	_	_	_	_	_	Shift=8479
+80	ещё	_	_	_	_	_	_	_	Shift=8481
+81	более	_	_	_	_	_	_	_	Shift=8485
+82	страшных	_	_	_	_	_	_	_	Shift=8491|SpaceAfter=No
+83	,	_	_	_	_	_	_	_	Shift=8499
+84	чем	_	_	_	_	_	_	_	Shift=8501
+85	кровь	_	_	_	_	_	_	_	Shift=8505|SpaceAfter=No
+86	.	_	_	_	_	_	_	_	Shift=8510
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p38
+# par_text = Человек, носивший в своём сердце такую остроту и сложность, неизбежно должен был страдать глубоко и погибнуть трагически, как это и случилось в действительности.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p38-s1
+# text = Человек, носивший в своём сердце такую остроту и сложность, неизбежно должен был страдать глубоко и погибнуть трагически, как это и случилось в действительности.
+1	Человек	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2763|RuCor_group_id=472095|RuCor_link_id=0|Shift=8512|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=8519
+3	носивший	_	_	_	_	_	_	_	Shift=8521
+4	в	_	_	_	_	_	_	_	Shift=8530
+5	своём	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=2763|RuCor_group_id=472096|RuCor_link_id=472095|Shift=8532
+6	сердце	_	_	_	_	_	_	_	Shift=8538
+7	такую	_	_	_	_	_	_	_	Shift=8545
+8	остроту	_	_	_	_	_	_	_	Shift=8551
+9	и	_	_	_	_	_	_	_	Shift=8559
+10	сложность	_	_	_	_	_	_	_	Shift=8561|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=8570
+12	неизбежно	_	_	_	_	_	_	_	Shift=8572
+13	должен	_	_	_	_	_	_	_	Shift=8582
+14	был	_	_	_	_	_	_	_	Shift=8589
+15	страдать	_	_	_	_	_	_	_	Shift=8593
+16	глубоко	_	_	_	_	_	_	_	Shift=8602
+17	и	_	_	_	_	_	_	_	Shift=8610
+18	погибнуть	_	_	_	_	_	_	_	Shift=8612
+19	трагически	_	_	_	_	_	_	_	Shift=8622|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=8632
+21	как	_	_	_	_	_	_	_	Shift=8634
+22	это	_	_	_	_	_	_	_	Shift=8638
+23	и	_	_	_	_	_	_	_	Shift=8642
+24	случилось	_	_	_	_	_	_	_	Shift=8644
+25	в	_	_	_	_	_	_	_	Shift=8654
+26	действительности	_	_	_	_	_	_	_	Shift=8656|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=8672
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p39
+# par_text = Отдельные слова людей, соприкасавшихся с этим великим поэтом, характеризующие его как человека, находятся в полной гармонии с его поэзией.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p39-s1
+# text = Отдельные слова людей, соприкасавшихся с этим великим поэтом, характеризующие его как человека, находятся в полной гармонии с его поэзией.
+1	Отдельные	_	_	_	_	_	_	_	Shift=8674
+2	слова	_	_	_	_	_	_	_	Shift=8684
+3	людей	_	_	_	_	_	_	_	Shift=8690|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=8695
+5	соприкасавшихся	_	_	_	_	_	_	_	Shift=8697
+6	с	_	_	_	_	_	_	_	Shift=8713
+7	этим	_	_	_	_	_	_	_	RuCor_chain_id=2741|RuCor_group_id=472097|Shift=8715
+8	великим	_	_	_	_	_	_	_	RuCor_chain_id=2741|RuCor_group_id=472097|Shift=8720
+9	поэтом	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472097|RuCor_link_id=472089|Shift=8728|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=8734
+11	характеризующие	_	_	_	_	_	_	_	Shift=8736
+12	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472098|RuCor_link_id=472097|Shift=8752
+13	как	_	_	_	_	_	_	_	Shift=8756
+14	человека	_	_	_	_	_	_	_	Shift=8760|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=8768
+16	находятся	_	_	_	_	_	_	_	Shift=8770
+17	в	_	_	_	_	_	_	_	Shift=8780
+18	полной	_	_	_	_	_	_	_	Shift=8782
+19	гармонии	_	_	_	_	_	_	_	Shift=8789
+20	с	_	_	_	_	_	_	_	Shift=8798
+21	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472099|RuCor_link_id=472098|Shift=8800
+22	поэзией	_	_	_	_	_	_	_	Shift=8804|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=8811
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p40
+# par_text = Он говорил тихим, сдержанным голосом.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p40-s1
+# text = Он говорил тихим, сдержанным голосом.
+1	Он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472100|RuCor_link_id=472099|Shift=8813
+2	говорил	_	_	_	_	_	_	_	Shift=8816
+3	тихим	_	_	_	_	_	_	_	Shift=8824|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=8829
+5	сдержанным	_	_	_	_	_	_	_	Shift=8831
+6	голосом	_	_	_	_	_	_	_	Shift=8842|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=8849
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p41
+# par_text = У него были женственные, но не изнеженные манеры.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p41-s1
+# text = У него были женственные, но не изнеженные манеры.
+1	У	_	_	_	_	_	_	_	Shift=8851
+2	него	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472101|RuCor_link_id=472100|Shift=8853
+3	были	_	_	_	_	_	_	_	Shift=8858
+4	женственные	_	_	_	_	_	_	_	Shift=8863|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=8874
+6	но	_	_	_	_	_	_	_	Shift=8876
+7	не	_	_	_	_	_	_	_	Shift=8879
+8	изнеженные	_	_	_	_	_	_	_	Shift=8882
+9	манеры	_	_	_	_	_	_	_	Shift=8893|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=8899
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p42
+# par_text = У него были изящные маленькие руки и красивый рот, искажённый горьким выражением.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p42-s1
+# text = У него были изящные маленькие руки и красивый рот, искажённый горьким выражением.
+1	У	_	_	_	_	_	_	_	Shift=8901
+2	него	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472102|RuCor_link_id=472101|Shift=8903
+3	были	_	_	_	_	_	_	_	Shift=8908
+4	изящные	_	_	_	_	_	_	_	Shift=8913
+5	маленькие	_	_	_	_	_	_	_	Shift=8921
+6	руки	_	_	_	_	_	_	_	Shift=8931
+7	и	_	_	_	_	_	_	_	Shift=8936
+8	красивый	_	_	_	_	_	_	_	Shift=8938
+9	рот	_	_	_	_	_	_	_	Shift=8947|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=8950
+11	искажённый	_	_	_	_	_	_	_	Shift=8952
+12	горьким	_	_	_	_	_	_	_	Shift=8963
+13	выражением	_	_	_	_	_	_	_	Shift=8971|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=8981
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p43
+# par_text = Его глаза пугали и приковывали, их окраска была изменчивой, то цвета морской волны, то цвета ночной фиалки.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p43-s1
+# text = Его глаза пугали и приковывали, их окраска была изменчивой, то цвета морской волны, то цвета ночной фиалки.
+1	Его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2764|RuCor_group_id=472104|RuCor_link_id=472102|Shift=8983
+2	глаза	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2764|RuCor_group_id=472104|RuCor_link_id=0|Shift=8987
+3	пугали	_	_	_	_	_	_	_	Shift=8993
+4	и	_	_	_	_	_	_	_	Shift=9000
+5	приковывали	_	_	_	_	_	_	_	Shift=9002|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=9013
+7	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=2764|RuCor_group_id=472105|RuCor_link_id=472104|Shift=9015
+8	окраска	_	_	_	_	_	_	_	Shift=9018
+9	была	_	_	_	_	_	_	_	Shift=9026
+10	изменчивой	_	_	_	_	_	_	_	Shift=9031|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=9041
+12	то	_	_	_	_	_	_	_	Shift=9043
+13	цвета	_	_	_	_	_	_	_	Shift=9046
+14	морской	_	_	_	_	_	_	_	Shift=9052
+15	волны	_	_	_	_	_	_	_	Shift=9060|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=9065
+17	то	_	_	_	_	_	_	_	Shift=9067
+18	цвета	_	_	_	_	_	_	_	Shift=9070
+19	ночной	_	_	_	_	_	_	_	Shift=9076
+20	фиалки	_	_	_	_	_	_	_	Shift=9083|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=9089
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p44
+# par_text = Он редко улыбался и не смеялся никогда.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p44-s1
+# text = Он редко улыбался и не смеялся никогда.
+1	Он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472106|RuCor_link_id=472103|Shift=9091
+2	редко	_	_	_	_	_	_	_	Shift=9094
+3	улыбался	_	_	_	_	_	_	_	Shift=9100
+4	и	_	_	_	_	_	_	_	Shift=9109
+5	не	_	_	_	_	_	_	_	Shift=9111
+6	смеялся	_	_	_	_	_	_	_	Shift=9114
+7	никогда	_	_	_	_	_	_	_	Shift=9122|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=9129
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p45
+# par_text = Он не мог смеяться, для него не было обманов.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p45-s1
+# text = Он не мог смеяться, для него не было обманов.
+1	Он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472107|RuCor_link_id=472106|Shift=9131
+2	не	_	_	_	_	_	_	_	Shift=9134
+3	мог	_	_	_	_	_	_	_	Shift=9137
+4	смеяться	_	_	_	_	_	_	_	Shift=9141|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=9149
+6	для	_	_	_	_	_	_	_	Shift=9151
+7	него	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472108|RuCor_link_id=472107|Shift=9155
+8	не	_	_	_	_	_	_	_	Shift=9160
+9	было	_	_	_	_	_	_	_	Shift=9163
+10	обманов	_	_	_	_	_	_	_	Shift=9168|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=9175
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p46
+# par_text = Как родственный ему Де уинси, он никогда не предполагал — он всегда знал.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p46-s1
+# text = Как родственный ему Де уинси, он никогда не предполагал - он всегда знал.
+1	Как	_	_	_	_	_	_	_	Shift=9177
+2	родственный	_	_	_	_	_	_	_	Shift=9181
+3	ему	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472109|RuCor_link_id=472110|Shift=9193
+4	Де	_	_	_	_	_	_	_	Shift=9197
+5	уинси	_	_	_	_	_	_	_	Shift=9200|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=9205
+7	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472110|RuCor_link_id=472108|Shift=9207
+8	никогда	_	_	_	_	_	_	_	Shift=9210
+9	не	_	_	_	_	_	_	_	Shift=9218
+10	предполагал	_	_	_	_	_	_	_	Shift=9221
+11	-	_	_	_	_	_	_	_	Shift=9233
+12	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472111|RuCor_link_id=472110|Shift=9235
+13	всегда	_	_	_	_	_	_	_	Shift=9238
+14	знал	_	_	_	_	_	_	_	Shift=9245|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=9249
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p47
+# par_text = Как его собственный герой, капитан фантастического корабля, бегущего в полосе скрытого течения к Южному полюсу, он во имя открытия спешил к гибели, и хотя на лице у него было мало морщин, на нём лежала печать, указывающая на мириады лет.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p47-s1
+# text = Как его собственный герой, капитан фантастического корабля, бегущего в полосе скрытого течения к Южному полюсу, он во имя открытия спешил к гибели, и хотя на лице у него было мало морщин, на нём лежала печать, указывающая на мириады лет.
+1	Как	_	_	_	_	_	_	_	Shift=9251
+2	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472112|RuCor_link_id=472115|Shift=9255
+3	собственный	_	_	_	_	_	_	_	Shift=9259
+4	герой	_	_	_	_	_	_	_	Shift=9271|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=9276
+6	капитан	_	_	_	_	_	_	_	Shift=9278
+7	фантастического	_	_	_	_	_	_	_	Shift=9286
+8	корабля	_	_	_	_	_	_	_	Shift=9302|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=9309
+10	бегущего	_	_	_	_	_	_	_	Shift=9311
+11	в	_	_	_	_	_	_	_	Shift=9320
+12	полосе	_	_	_	_	_	_	_	Shift=9322
+13	скрытого	_	_	_	_	_	_	_	Shift=9329
+14	течения	_	_	_	_	_	_	_	Shift=9338
+15	к	_	_	_	_	_	_	_	Shift=9346
+16	Южному	_	_	_	_	_	_	_	Shift=9348
+17	полюсу	_	_	_	_	_	_	_	Shift=9355|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=9361
+19	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472113|RuCor_link_id=472111|Shift=9363
+20	во	_	_	_	_	_	_	_	Shift=9366
+21	имя	_	_	_	_	_	_	_	Shift=9369
+22	открытия	_	_	_	_	_	_	_	Shift=9373
+23	спешил	_	_	_	_	_	_	_	Shift=9382
+24	к	_	_	_	_	_	_	_	Shift=9389
+25	гибели	_	_	_	_	_	_	_	Shift=9391|SpaceAfter=No
+26	,	_	_	_	_	_	_	_	Shift=9397
+27	и	_	_	_	_	_	_	_	Shift=9399
+28	хотя	_	_	_	_	_	_	_	Shift=9401
+29	на	_	_	_	_	_	_	_	Shift=9406
+30	лице	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2765|RuCor_group_id=472114|RuCor_link_id=472116|Shift=9409
+31	у	_	_	_	_	_	_	_	RuCor_chain_id=2765|RuCor_group_id=472114|Shift=9414
+32	него	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472115|RuCor_link_id=472113|Shift=9416
+33	было	_	_	_	_	_	_	_	Shift=9421
+34	мало	_	_	_	_	_	_	_	Shift=9426
+35	морщин	_	_	_	_	_	_	_	Shift=9431|SpaceAfter=No
+36	,	_	_	_	_	_	_	_	Shift=9437
+37	на	_	_	_	_	_	_	_	Shift=9439
+38	нём	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2765|RuCor_group_id=472116|RuCor_link_id=0|Shift=9442
+39	лежала	_	_	_	_	_	_	_	Shift=9446
+40	печать	_	_	_	_	_	_	_	Shift=9453|SpaceAfter=No
+41	,	_	_	_	_	_	_	_	Shift=9459
+42	указывающая	_	_	_	_	_	_	_	Shift=9461
+43	на	_	_	_	_	_	_	_	Shift=9473
+44	мириады	_	_	_	_	_	_	_	Shift=9476
+45	лет	_	_	_	_	_	_	_	Shift=9484|SpaceAfter=No
+46	.	_	_	_	_	_	_	_	Shift=9487
+
+# newpar id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p48
+# par_text = Его поэзия, ближе всех других стоящая к нашей сложной и больной душе, есть воплощение царственного сознания, которое с ужасом глядит на обступившую его со всех сторон неизбежность дикого хаоса.
+# sent_id = 70c7ebd4-46f7-48c9-b2a2-7e2ef1dc1fe7-p48-s1
+# text = Его поэзия, ближе всех других стоящая к нашей сложной и больной душе, есть воплощение царственного сознания, которое с ужасом глядит на обступившую его со всех сторон неизбежность дикого хаоса.
+1	Его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=2741|RuCor_group_id=472117|RuCor_link_id=472112|Shift=9489
+2	поэзия	_	_	_	_	_	_	_	Shift=9493|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=9499
+4	ближе	_	_	_	_	_	_	_	Shift=9501
+5	всех	_	_	_	_	_	_	_	Shift=9507
+6	других	_	_	_	_	_	_	_	Shift=9512
+7	стоящая	_	_	_	_	_	_	_	Shift=9519
+8	к	_	_	_	_	_	_	_	Shift=9527
+9	нашей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=2735|RuCor_group_id=472118|RuCor_link_id=472093|Shift=9529
+10	сложной	_	_	_	_	_	_	_	Shift=9535
+11	и	_	_	_	_	_	_	_	Shift=9543
+12	больной	_	_	_	_	_	_	_	Shift=9545
+13	душе	_	_	_	_	_	_	_	Shift=9553|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=9557
+15	есть	_	_	_	_	_	_	_	Shift=9559
+16	воплощение	_	_	_	_	_	_	_	Shift=9564
+17	царственного	_	_	_	_	_	_	_	RuCor_chain_id=2766|RuCor_group_id=472119|Shift=9575
+18	сознания	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=2766|RuCor_group_id=472119|RuCor_link_id=0|Shift=9588|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=9596
+20	которое	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=2766|RuCor_group_id=472120|RuCor_link_id=472119|Shift=9598
+21	с	_	_	_	_	_	_	_	Shift=9606
+22	ужасом	_	_	_	_	_	_	_	Shift=9608
+23	глядит	_	_	_	_	_	_	_	Shift=9615
+24	на	_	_	_	_	_	_	_	Shift=9622
+25	обступившую	_	_	_	_	_	_	_	Shift=9625
+26	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=2766|RuCor_group_id=472121|RuCor_link_id=472119|Shift=9637
+27	со	_	_	_	_	_	_	_	Shift=9641
+28	всех	_	_	_	_	_	_	_	Shift=9644
+29	сторон	_	_	_	_	_	_	_	Shift=9649
+30	неизбежность	_	_	_	_	_	_	_	Shift=9656
+31	дикого	_	_	_	_	_	_	_	Shift=9669
+32	хаоса	_	_	_	_	_	_	_	Shift=9676|SpaceAfter=No
+33	.	_	_	_	_	_	_	_	_
+

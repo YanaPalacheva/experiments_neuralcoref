@@ -1,0 +1,5 @@
+Companies #Gen:ACT listed #Cor:PAT below reported #Gen:ADDR quarterly profit substantially different from the average of analysts' estimates.
+The companies are followed by at least three analysts, and had #PersPron:ACT a minimum five-cent change in actual earnings per share.
+Estimated and actual results #Cor:ACT involving losses are #Gen:ACT omitted .
+The percent difference compares actual profit with the 30-day estimate where at least three analysts have issues forecasts in the past 30 days.
+Otherwise, actual profit is compared #Gen:ACT with the 300-day estimate.

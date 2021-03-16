@@ -1,0 +1,399 @@
+# newdoc id = e3eb13e9-1918-45cb-8367-5a0cd9401f9d
+# newpar id = e3eb13e9-1918-45cb-8367-5a0cd9401f9d-p1
+# par_text = На улице Грушевского в Киеве, где в воскресенье начались беспорядки, группа активистов занялась строительством катапульты. Об этом сообщает «Сегодня». Пока что они заняты изучением чертежей.
+# sent_id = e3eb13e9-1918-45cb-8367-5a0cd9401f9d-p1-s1
+# text = На улице Грушевского в Киеве, где в воскресенье начались беспорядки, группа активистов занялась строительством катапульты.
+1	На	_	_	_	_	_	_	_	Shift=0
+2	улице	_	_	_	_	_	_	_	RuCor_chain_id=3386|RuCor_group_id=474768|Shift=3
+3	Грушевского	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3386|RuCor_group_id=474768|RuCor_link_id=0|Shift=9
+4	в	_	_	_	_	_	_	_	Shift=21
+5	Киеве	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3387|RuCor_group_id=474769|RuCor_link_id=0|Shift=23|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=28
+7	где	_	_	_	_	_	_	_	Shift=30
+8	в	_	_	_	_	_	_	_	Shift=34
+9	воскресенье	_	_	_	_	_	_	_	Shift=36
+10	начались	_	_	_	_	_	_	_	Shift=48
+11	беспорядки	_	_	_	_	_	_	_	Shift=57|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=67
+13	группа	_	_	_	_	_	_	_	RuCor_chain_id=3388|RuCor_group_id=474770|Shift=69
+14	активистов	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3388|RuCor_group_id=474770|RuCor_link_id=0|Shift=76
+15	занялась	_	_	_	_	_	_	_	Shift=87
+16	строительством	_	_	_	_	_	_	_	Shift=96
+17	катапульты	_	_	_	_	_	_	_	Shift=111|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=121
+
+# sent_id = e3eb13e9-1918-45cb-8367-5a0cd9401f9d-p1-s2
+# text = Об этом сообщает ``Сегодня''.
+1	Об	_	_	_	_	_	_	_	Shift=123
+2	этом	_	_	_	_	_	_	_	Shift=126
+3	сообщает	_	_	_	_	_	_	_	Shift=131
+4	``	_	_	_	_	_	_	_	RuCor_chain_id=3389|RuCor_group_id=474771|Shift=140|SpaceAfter=No
+5	Сегодня	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3389|RuCor_group_id=474771|RuCor_link_id=0|Shift=141|SpaceAfter=No
+6	''	_	_	_	_	_	_	_	RuCor_chain_id=3389|RuCor_group_id=474771|Shift=148|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=149
+
+# sent_id = e3eb13e9-1918-45cb-8367-5a0cd9401f9d-p1-s3
+# text = Пока что они заняты изучением чертежей.
+1	Пока	_	_	_	_	_	_	_	Shift=151
+2	что	_	_	_	_	_	_	_	Shift=156
+3	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3388|RuCor_group_id=474772|RuCor_link_id=474770|Shift=160
+4	заняты	_	_	_	_	_	_	_	Shift=164
+5	изучением	_	_	_	_	_	_	_	Shift=171
+6	чертежей	_	_	_	_	_	_	_	Shift=181|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=189
+
+# newpar id = e3eb13e9-1918-45cb-8367-5a0cd9401f9d-p2
+# par_text = «Четверо активистов, которые принесли длинные — почти двухметровые — бруски, — описывает происходящее издание. — И, развернув план построения метательной машины, они живо стали обсуждать распечатанные образцы». Один из них подтвердил, что «это будет катапульта».
+# sent_id = e3eb13e9-1918-45cb-8367-5a0cd9401f9d-p2-s1
+# text = ``Четверо активистов, которые принесли длинные - почти двухметровые - бруски, - описывает происходящее издание.
+1	``	_	_	_	_	_	_	_	Shift=191|SpaceAfter=No
+2	Четверо	_	_	_	_	_	_	_	RuCor_chain_id=3388|RuCor_group_id=474773|Shift=192
+3	активистов	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3388|RuCor_group_id=474773|RuCor_link_id=474772|Shift=200|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=210
+5	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=3388|RuCor_group_id=474774|RuCor_link_id=474773|Shift=212
+6	принесли	_	_	_	_	_	_	_	Shift=220
+7	длинные	_	_	_	_	_	_	_	Shift=229
+8	-	_	_	_	_	_	_	_	Shift=237
+9	почти	_	_	_	_	_	_	_	Shift=239
+10	двухметровые	_	_	_	_	_	_	_	Shift=245
+11	-	_	_	_	_	_	_	_	Shift=258
+12	бруски	_	_	_	_	_	_	_	Shift=260|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=266
+14	-	_	_	_	_	_	_	_	Shift=268
+15	описывает	_	_	_	_	_	_	_	Shift=270
+16	происходящее	_	_	_	_	_	_	_	Shift=280
+17	издание	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3389|RuCor_group_id=474775|RuCor_link_id=474771|Shift=293|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=300
+
+# sent_id = e3eb13e9-1918-45cb-8367-5a0cd9401f9d-p2-s2
+# text = - И, развернув план построения метательной машины, они живо стали обсуждать распечатанные образцы''.
+1	-	_	_	_	_	_	_	_	Shift=302
+2	И	_	_	_	_	_	_	_	Shift=304|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=305
+4	развернув	_	_	_	_	_	_	_	Shift=307
+5	план	_	_	_	_	_	_	_	Shift=317
+6	построения	_	_	_	_	_	_	_	Shift=322
+7	метательной	_	_	_	_	_	_	_	Shift=333
+8	машины	_	_	_	_	_	_	_	Shift=345|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=351
+10	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3388|RuCor_group_id=474776|RuCor_link_id=474774|Shift=353
+11	живо	_	_	_	_	_	_	_	Shift=357
+12	стали	_	_	_	_	_	_	_	Shift=362
+13	обсуждать	_	_	_	_	_	_	_	Shift=368
+14	распечатанные	_	_	_	_	_	_	_	Shift=378
+15	образцы	_	_	_	_	_	_	_	Shift=392|SpaceAfter=No
+16	''	_	_	_	_	_	_	_	Shift=399|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=400
+
+# sent_id = e3eb13e9-1918-45cb-8367-5a0cd9401f9d-p2-s3
+# text = Один из них подтвердил, что ``это будет катапульта''.
+1	Один	_	_	_	_	_	_	_	Shift=402
+2	из	_	_	_	_	_	_	_	Shift=407
+3	них	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=3388|RuCor_group_id=474777|RuCor_link_id=474776|Shift=410
+4	подтвердил	_	_	_	_	_	_	_	Shift=414|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=424
+6	что	_	_	_	_	_	_	_	Shift=426
+7	``	_	_	_	_	_	_	_	Shift=430|SpaceAfter=No
+8	это	_	_	_	_	_	_	_	Shift=431
+9	будет	_	_	_	_	_	_	_	Shift=435
+10	катапульта	_	_	_	_	_	_	_	Shift=441|SpaceAfter=No
+11	''	_	_	_	_	_	_	_	Shift=451|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=452
+
+# newpar id = e3eb13e9-1918-45cb-8367-5a0cd9401f9d-p3
+# par_text = Ранее УНН сообщало, что противостояние на улице Грушевского активизировалось. «Митингующие активно бьют в барабаны и бросают камни, — передавал с места происшествия корреспондент агентства. — Активисты под прикрытием тентов и крышек от биотуалетов пытаются подобраться ближе к внутренним войскам».
+# sent_id = e3eb13e9-1918-45cb-8367-5a0cd9401f9d-p3-s1
+# text = Ранее УНН сообщало, что противостояние на улице Грушевского активизировалось.
+1	Ранее	_	_	_	_	_	_	_	Shift=454
+2	УНН	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3390|RuCor_group_id=474778|RuCor_link_id=0|Shift=460
+3	сообщало	_	_	_	_	_	_	_	Shift=464|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=472
+5	что	_	_	_	_	_	_	_	Shift=474
+6	противостояние	_	_	_	_	_	_	_	Shift=478
+7	на	_	_	_	_	_	_	_	Shift=493
+8	улице	_	_	_	_	_	_	_	RuCor_chain_id=3386|RuCor_group_id=474779|Shift=496
+9	Грушевского	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3386|RuCor_group_id=474779|RuCor_link_id=474768|Shift=502
+10	активизировалось	_	_	_	_	_	_	_	Shift=514|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=530
+
+# sent_id = e3eb13e9-1918-45cb-8367-5a0cd9401f9d-p3-s2
+# text = ``Митингующие активно бьют в барабаны и бросают камни, - передавал с места происшествия корреспондент агентства.
+1	``	_	_	_	_	_	_	_	Shift=532|SpaceAfter=No
+2	Митингующие	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3391|RuCor_group_id=474780|RuCor_link_id=0|Shift=533
+3	активно	_	_	_	_	_	_	_	Shift=545
+4	бьют	_	_	_	_	_	_	_	Shift=553
+5	в	_	_	_	_	_	_	_	Shift=558
+6	барабаны	_	_	_	_	_	_	_	Shift=560
+7	и	_	_	_	_	_	_	_	Shift=569
+8	бросают	_	_	_	_	_	_	_	Shift=571
+9	камни	_	_	_	_	_	_	_	Shift=579|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=584
+11	-	_	_	_	_	_	_	_	Shift=586
+12	передавал	_	_	_	_	_	_	_	Shift=588
+13	с	_	_	_	_	_	_	_	Shift=598
+14	места	_	_	_	_	_	_	_	Shift=600
+15	происшествия	_	_	_	_	_	_	_	Shift=606
+16	корреспондент	_	_	_	_	_	_	_	Shift=619
+17	агентства	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3390|RuCor_group_id=474781|RuCor_link_id=474778|Shift=633|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=642
+
+# sent_id = e3eb13e9-1918-45cb-8367-5a0cd9401f9d-p3-s3
+# text = - Активисты под прикрытием тентов и крышек от биотуалетов пытаются подобраться ближе к внутренним войскам''.
+1	-	_	_	_	_	_	_	_	Shift=644
+2	Активисты	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3391|RuCor_group_id=474782|RuCor_link_id=474780|Shift=646
+3	под	_	_	_	_	_	_	_	Shift=656
+4	прикрытием	_	_	_	_	_	_	_	Shift=660
+5	тентов	_	_	_	_	_	_	_	Shift=671
+6	и	_	_	_	_	_	_	_	Shift=678
+7	крышек	_	_	_	_	_	_	_	Shift=680
+8	от	_	_	_	_	_	_	_	Shift=687
+9	биотуалетов	_	_	_	_	_	_	_	Shift=690
+10	пытаются	_	_	_	_	_	_	_	Shift=702
+11	подобраться	_	_	_	_	_	_	_	Shift=711
+12	ближе	_	_	_	_	_	_	_	Shift=723
+13	к	_	_	_	_	_	_	_	Shift=729
+14	внутренним	_	_	_	_	_	_	_	Shift=731
+15	войскам	_	_	_	_	_	_	_	Shift=742|SpaceAfter=No
+16	''	_	_	_	_	_	_	_	Shift=749|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=750
+
+# newpar id = e3eb13e9-1918-45cb-8367-5a0cd9401f9d-p4
+# par_text = По данным Gazeta.ua, сторонники оппозиции продолжают возводить на улице Грушевского баррикады, там же изготавливают «коктейли Молотова». Число протестующих там, как сообщает «РБК-Украина», составляет около двух тысяч человек.
+# sent_id = e3eb13e9-1918-45cb-8367-5a0cd9401f9d-p4-s1
+# text = По данным Gazeta.ua, сторонники оппозиции продолжают возводить на улице Грушевского баррикады, там же изготавливают ``коктейли Молотова''.
+1	По	_	_	_	_	_	_	_	Shift=752
+2	данным	_	_	_	_	_	_	_	Shift=755
+3	Gazeta.ua	_	_	_	_	_	_	_	Shift=762|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=771
+5	сторонники	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3391|RuCor_group_id=474783|RuCor_link_id=474780|Shift=773
+6	оппозиции	_	_	_	_	_	_	_	RuCor_chain_id=3391|RuCor_group_id=474783|Shift=784
+7	продолжают	_	_	_	_	_	_	_	Shift=794
+8	возводить	_	_	_	_	_	_	_	Shift=805
+9	на	_	_	_	_	_	_	_	Shift=815
+10	улице	_	_	_	_	_	_	_	RuCor_chain_id=3386|RuCor_group_id=474784|Shift=818
+11	Грушевского	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3386|RuCor_group_id=474784|RuCor_link_id=474779|Shift=824
+12	баррикады	_	_	_	_	_	_	_	Shift=836|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=845
+14	там	_	_	_	_	_	_	_	Shift=847
+15	же	_	_	_	_	_	_	_	Shift=851
+16	изготавливают	_	_	_	_	_	_	_	Shift=854
+17	``	_	_	_	_	_	_	_	Shift=868|SpaceAfter=No
+18	коктейли	_	_	_	_	_	_	_	Shift=869
+19	Молотова	_	_	_	_	_	_	_	Shift=878|SpaceAfter=No
+20	''	_	_	_	_	_	_	_	Shift=886|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=887
+
+# sent_id = e3eb13e9-1918-45cb-8367-5a0cd9401f9d-p4-s2
+# text = Число протестующих там, как сообщает ``РБК - Украина ``, составляет около двух тысяч человек.
+1	Число	_	_	_	_	_	_	_	Shift=889
+2	протестующих	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3391|RuCor_group_id=474785|RuCor_link_id=474783|Shift=895
+3	там	_	_	_	_	_	_	_	Shift=908|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=911
+5	как	_	_	_	_	_	_	_	Shift=913
+6	сообщает	_	_	_	_	_	_	_	Shift=917
+7	``	_	_	_	_	_	_	_	Shift=926|SpaceAfter=No
+8	РБК	_	_	_	_	_	_	_	Shift=927
+9	-	_	_	_	_	_	_	_	Shift=930
+10	Украина	_	_	_	_	_	_	_	Shift=931
+11	``	_	_	_	_	_	_	_	Shift=938|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=939
+13	составляет	_	_	_	_	_	_	_	Shift=941
+14	около	_	_	_	_	_	_	_	Shift=952
+15	двух	_	_	_	_	_	_	_	Shift=958
+16	тысяч	_	_	_	_	_	_	_	Shift=963
+17	человек	_	_	_	_	_	_	_	Shift=969|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=976
+
+# newpar id = e3eb13e9-1918-45cb-8367-5a0cd9401f9d-p5
+# par_text = Против тех, кто атакует милицейские кордоны, правоохранители используют слезоточивый газ.
+# sent_id = e3eb13e9-1918-45cb-8367-5a0cd9401f9d-p5-s1
+# text = Против тех, кто атакует милицейские кордоны, правоохранители используют слезоточивый газ.
+1	Против	_	_	_	_	_	_	_	Shift=978
+2	тех	_	_	_	_	_	_	_	Shift=985|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=988
+4	кто	_	_	_	_	_	_	_	Shift=990
+5	атакует	_	_	_	_	_	_	_	Shift=994
+6	милицейские	_	_	_	_	_	_	_	Shift=1002
+7	кордоны	_	_	_	_	_	_	_	Shift=1014|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1021
+9	правоохранители	_	_	_	_	_	_	_	Shift=1023
+10	используют	_	_	_	_	_	_	_	Shift=1039
+11	слезоточивый	_	_	_	_	_	_	_	Shift=1050
+12	газ	_	_	_	_	_	_	_	Shift=1063|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=1066
+
+# newpar id = e3eb13e9-1918-45cb-8367-5a0cd9401f9d-p6
+# par_text = Беспорядки в центре Киева начались после «народного вече» — массового митинга оппозиции, состоявшегося в воскресенье, 19 января. На митинге лидеры оппозиции объявили о том, что в стране якобы пройдут досрочные выборы, а также предложили приступить к созданию «народных органов власти». Часть протестующих пыталась пройти к правительственному кварталу, но была остановлена милицейскими кордонами. Начались столкновения, в котором радикально настроенные противники власти использовали палки, булыжники и бутылки с зажигательной смесью. Правоохранители, в свою очередь, применяли водометы, слезоточивый газ, шумовые гранаты и резиновые пули.
+# sent_id = e3eb13e9-1918-45cb-8367-5a0cd9401f9d-p6-s1
+# text = Беспорядки в центре Киева начались после ``народного вече'' - массового митинга оппозиции, состоявшегося в воскресенье, 19 января.
+1	Беспорядки	_	_	_	_	_	_	_	Shift=1068
+2	в	_	_	_	_	_	_	_	Shift=1079
+3	центре	_	_	_	_	_	_	_	Shift=1081
+4	Киева	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3387|RuCor_group_id=474786|RuCor_link_id=474769|Shift=1088
+5	начались	_	_	_	_	_	_	_	Shift=1094
+6	после	_	_	_	_	_	_	_	Shift=1103
+7	``	_	_	_	_	_	_	_	RuCor_chain_id=3392|RuCor_group_id=474787|Shift=1109|SpaceAfter=No
+8	народного	_	_	_	_	_	_	_	RuCor_chain_id=3392|RuCor_group_id=474787|Shift=1110
+9	вече	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3392|RuCor_group_id=474787|RuCor_link_id=0|Shift=1120|SpaceAfter=No
+10	''	_	_	_	_	_	_	_	RuCor_chain_id=3392|RuCor_group_id=474787|Shift=1124
+11	-	_	_	_	_	_	_	_	Shift=1126
+12	массового	_	_	_	_	_	_	_	RuCor_chain_id=3392|RuCor_group_id=474788|Shift=1128
+13	митинга	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3392|RuCor_group_id=474788|RuCor_link_id=474787|Shift=1138
+14	оппозиции	_	_	_	_	_	_	_	RuCor_chain_id=3392|RuCor_group_id=474788|Shift=1146|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=1155
+16	состоявшегося	_	_	_	_	_	_	_	Shift=1157
+17	в	_	_	_	_	_	_	_	Shift=1171
+18	воскресенье	_	_	_	_	_	_	_	Shift=1173|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=1184
+20	19	_	_	_	_	_	_	_	Shift=1186
+21	января	_	_	_	_	_	_	_	Shift=1189|SpaceAfter=No
+22	.	_	_	_	_	_	_	_	Shift=1195
+
+# sent_id = e3eb13e9-1918-45cb-8367-5a0cd9401f9d-p6-s2
+# text = На митинге лидеры оппозиции объявили о том, что в стране якобы пройдут досрочные выборы, а также предложили приступить к созданию ``народных органов власти''.
+1	На	_	_	_	_	_	_	_	Shift=1197
+2	митинге	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3392|RuCor_group_id=474789|RuCor_link_id=474788|Shift=1200
+3	лидеры	_	_	_	_	_	_	_	Shift=1208
+4	оппозиции	_	_	_	_	_	_	_	Shift=1215
+5	объявили	_	_	_	_	_	_	_	Shift=1225
+6	о	_	_	_	_	_	_	_	Shift=1234
+7	том	_	_	_	_	_	_	_	Shift=1236|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1239
+9	что	_	_	_	_	_	_	_	Shift=1241
+10	в	_	_	_	_	_	_	_	Shift=1245
+11	стране	_	_	_	_	_	_	_	Shift=1247
+12	якобы	_	_	_	_	_	_	_	Shift=1254
+13	пройдут	_	_	_	_	_	_	_	Shift=1260
+14	досрочные	_	_	_	_	_	_	_	Shift=1268
+15	выборы	_	_	_	_	_	_	_	Shift=1278|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=1284
+17	а	_	_	_	_	_	_	_	Shift=1286
+18	также	_	_	_	_	_	_	_	Shift=1288
+19	предложили	_	_	_	_	_	_	_	Shift=1294
+20	приступить	_	_	_	_	_	_	_	Shift=1305
+21	к	_	_	_	_	_	_	_	Shift=1316
+22	созданию	_	_	_	_	_	_	_	Shift=1318
+23	``	_	_	_	_	_	_	_	Shift=1327|SpaceAfter=No
+24	народных	_	_	_	_	_	_	_	Shift=1328
+25	органов	_	_	_	_	_	_	_	Shift=1337
+26	власти	_	_	_	_	_	_	_	Shift=1345|SpaceAfter=No
+27	''	_	_	_	_	_	_	_	Shift=1351|SpaceAfter=No
+28	.	_	_	_	_	_	_	_	Shift=1352
+
+# sent_id = e3eb13e9-1918-45cb-8367-5a0cd9401f9d-p6-s3
+# text = Часть протестующих пыталась пройти к правительственному кварталу, но была остановлена милицейскими кордонами.
+1	Часть	_	_	_	_	_	_	_	RuCor_chain_id=3393|RuCor_group_id=474790|Shift=1354
+2	протестующих	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3393|RuCor_group_id=474790|RuCor_link_id=0|Shift=1360
+3	пыталась	_	_	_	_	_	_	_	Shift=1373
+4	пройти	_	_	_	_	_	_	_	Shift=1382
+5	к	_	_	_	_	_	_	_	Shift=1389
+6	правительственному	_	_	_	_	_	_	_	Shift=1391
+7	кварталу	_	_	_	_	_	_	_	Shift=1410|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1418
+9	но	_	_	_	_	_	_	_	Shift=1420
+10	была	_	_	_	_	_	_	_	Shift=1423
+11	остановлена	_	_	_	_	_	_	_	Shift=1428
+12	милицейскими	_	_	_	_	_	_	_	RuCor_chain_id=3394|RuCor_group_id=474791|Shift=1440
+13	кордонами	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3394|RuCor_group_id=474791|RuCor_link_id=0|Shift=1453|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=1462
+
+# sent_id = e3eb13e9-1918-45cb-8367-5a0cd9401f9d-p6-s4
+# text = Начались столкновения, в котором радикально настроенные противники власти использовали палки, булыжники и бутылки с зажигательной смесью.
+1	Начались	_	_	_	_	_	_	_	Shift=1464
+2	столкновения	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3395|RuCor_group_id=474792|RuCor_link_id=0|Shift=1473|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=1485
+4	в	_	_	_	_	_	_	_	Shift=1487
+5	котором	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=3395|RuCor_group_id=474793|RuCor_link_id=474792|Shift=1489
+6	радикально	_	_	_	_	_	_	_	RuCor_chain_id=3393|RuCor_group_id=474794|Shift=1497
+7	настроенные	_	_	_	_	_	_	_	RuCor_chain_id=3393|RuCor_group_id=474794|Shift=1508
+8	противники	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3393|RuCor_group_id=474794|RuCor_link_id=474790|Shift=1520
+9	власти	_	_	_	_	_	_	_	RuCor_chain_id=3393|RuCor_group_id=474794|Shift=1531
+10	использовали	_	_	_	_	_	_	_	Shift=1538
+11	палки	_	_	_	_	_	_	_	Shift=1551|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=1556
+13	булыжники	_	_	_	_	_	_	_	Shift=1558
+14	и	_	_	_	_	_	_	_	Shift=1568
+15	бутылки	_	_	_	_	_	_	_	Shift=1570
+16	с	_	_	_	_	_	_	_	Shift=1578
+17	зажигательной	_	_	_	_	_	_	_	Shift=1580
+18	смесью	_	_	_	_	_	_	_	Shift=1594|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=1600
+
+# sent_id = e3eb13e9-1918-45cb-8367-5a0cd9401f9d-p6-s5
+# text = Правоохранители, в свою очередь, применяли водометы, слезоточивый газ, шумовые гранаты и резиновые пули.
+1	Правоохранители	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3394|RuCor_group_id=474795|RuCor_link_id=474791|Shift=1602|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=1617
+3	в	_	_	_	_	_	_	_	Shift=1619
+4	свою	_	_	_	_	_	_	_	Shift=1621
+5	очередь	_	_	_	_	_	_	_	Shift=1626|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1633
+7	применяли	_	_	_	_	_	_	_	Shift=1635
+8	водометы	_	_	_	_	_	_	_	Shift=1645|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1653
+10	слезоточивый	_	_	_	_	_	_	_	Shift=1655
+11	газ	_	_	_	_	_	_	_	Shift=1668|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=1671
+13	шумовые	_	_	_	_	_	_	_	Shift=1673
+14	гранаты	_	_	_	_	_	_	_	Shift=1681
+15	и	_	_	_	_	_	_	_	Shift=1689
+16	резиновые	_	_	_	_	_	_	_	Shift=1691
+17	пули	_	_	_	_	_	_	_	Shift=1701|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=1705
+
+# newpar id = e3eb13e9-1918-45cb-8367-5a0cd9401f9d-p7
+# par_text = По данным на утро понедельника, число пострадавших с обеих сторон составило около 200 человек. В связи с событиями в Киеве было начато уголовное производство. В то же время власти согласились создать рабочую группу с участием оппозиции, которая займется урегулированием политического кризиса.
+# sent_id = e3eb13e9-1918-45cb-8367-5a0cd9401f9d-p7-s1
+# text = По данным на утро понедельника, число пострадавших с обеих сторон составило около 200 человек.
+1	По	_	_	_	_	_	_	_	Shift=1707
+2	данным	_	_	_	_	_	_	_	Shift=1710
+3	на	_	_	_	_	_	_	_	Shift=1717
+4	утро	_	_	_	_	_	_	_	Shift=1720
+5	понедельника	_	_	_	_	_	_	_	Shift=1725|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1737
+7	число	_	_	_	_	_	_	_	Shift=1739
+8	пострадавших	_	_	_	_	_	_	_	Shift=1745
+9	с	_	_	_	_	_	_	_	Shift=1758
+10	обеих	_	_	_	_	_	_	_	Shift=1760
+11	сторон	_	_	_	_	_	_	_	Shift=1766
+12	составило	_	_	_	_	_	_	_	Shift=1773
+13	около	_	_	_	_	_	_	_	Shift=1783
+14	200	_	_	_	_	_	_	_	Shift=1789
+15	человек	_	_	_	_	_	_	_	Shift=1793|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=1800
+
+# sent_id = e3eb13e9-1918-45cb-8367-5a0cd9401f9d-p7-s2
+# text = В связи с событиями в Киеве было начато уголовное производство.
+1	В	_	_	_	_	_	_	_	Shift=1802
+2	связи	_	_	_	_	_	_	_	Shift=1804
+3	с	_	_	_	_	_	_	_	Shift=1810
+4	событиями	_	_	_	_	_	_	_	Shift=1812
+5	в	_	_	_	_	_	_	_	Shift=1822
+6	Киеве	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=3387|RuCor_group_id=474796|RuCor_link_id=474786|Shift=1824
+7	было	_	_	_	_	_	_	_	Shift=1830
+8	начато	_	_	_	_	_	_	_	Shift=1835
+9	уголовное	_	_	_	_	_	_	_	Shift=1842
+10	производство	_	_	_	_	_	_	_	Shift=1852|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=1864
+
+# sent_id = e3eb13e9-1918-45cb-8367-5a0cd9401f9d-p7-s3
+# text = В то же время власти согласились создать рабочую группу с участием оппозиции, которая займется урегулированием политического кризиса.
+1	В	_	_	_	_	_	_	_	Shift=1866
+2	то	_	_	_	_	_	_	_	Shift=1868
+3	же	_	_	_	_	_	_	_	Shift=1871
+4	время	_	_	_	_	_	_	_	Shift=1874
+5	власти	_	_	_	_	_	_	_	Shift=1880
+6	согласились	_	_	_	_	_	_	_	Shift=1887
+7	создать	_	_	_	_	_	_	_	Shift=1899
+8	рабочую	_	_	_	_	_	_	_	RuCor_chain_id=3396|RuCor_group_id=474797|Shift=1907
+9	группу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=3396|RuCor_group_id=474797|RuCor_link_id=0|Shift=1915
+10	с	_	_	_	_	_	_	_	RuCor_chain_id=3396|RuCor_group_id=474797|Shift=1922
+11	участием	_	_	_	_	_	_	_	RuCor_chain_id=3396|RuCor_group_id=474797|Shift=1924
+12	оппозиции	_	_	_	_	_	_	_	RuCor_chain_id=3396|RuCor_group_id=474797|Shift=1933|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=1942
+14	которая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=3396|RuCor_group_id=474798|RuCor_link_id=474797|Shift=1944
+15	займется	_	_	_	_	_	_	_	Shift=1952
+16	урегулированием	_	_	_	_	_	_	_	Shift=1961
+17	политического	_	_	_	_	_	_	_	Shift=1977
+18	кризиса	_	_	_	_	_	_	_	Shift=1991|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	_
+

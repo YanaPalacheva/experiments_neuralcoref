@@ -1,0 +1,599 @@
+# newdoc id = 12ed8b6d-cd99-4755-ac02-81f4daaf2a6c
+# newpar id = 12ed8b6d-cd99-4755-ac02-81f4daaf2a6c-p1
+# par_text = В современном мире образ марионетки, приводимой в движение чьей-то невидимой рукой, не может не быть актуальным. Слишком уж часто идеология сегодняшнего капиталистического общества предлагает видеть в человеке не самоцель, но управляемую вещь. А потому наш современник зачастую и сам готов признать себя куклой, которую кто-то дёргает за ниточки. Конечно, с большим или меньшим успехом от таких состояний избавляет психотерапия, но, возможно, иногда будет нелишним и разобраться в том, что же это, собственно говоря, такое — живая кукла в истории и культуре.
+# sent_id = 12ed8b6d-cd99-4755-ac02-81f4daaf2a6c-p1-s1
+# text = В современном мире образ марионетки, приводимой в движение чьей-то невидимой рукой, не может не быть актуальным.
+1	В	_	_	_	_	_	_	_	Shift=0
+2	современном	_	_	_	_	_	_	_	Shift=2
+3	мире	_	_	_	_	_	_	_	Shift=14
+4	образ	_	_	_	_	_	_	_	Shift=19
+5	марионетки	_	_	_	_	_	_	_	Shift=25|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=35
+7	приводимой	_	_	_	_	_	_	_	Shift=37
+8	в	_	_	_	_	_	_	_	Shift=48
+9	движение	_	_	_	_	_	_	_	Shift=50
+10	чьей-то	_	_	_	_	_	_	_	Shift=59
+11	невидимой	_	_	_	_	_	_	_	Shift=67
+12	рукой	_	_	_	_	_	_	_	Shift=77|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=82
+14	не	_	_	_	_	_	_	_	Shift=84
+15	может	_	_	_	_	_	_	_	Shift=87
+16	не	_	_	_	_	_	_	_	Shift=93
+17	быть	_	_	_	_	_	_	_	Shift=96
+18	актуальным	_	_	_	_	_	_	_	Shift=101|SpaceAfter=No
+19	.	_	_	_	_	_	_	_	Shift=111
+
+# sent_id = 12ed8b6d-cd99-4755-ac02-81f4daaf2a6c-p1-s2
+# text = Слишком уж часто идеология сегодняшнего капиталистического общества предлагает видеть в человеке не самоцель, но управляемую вещь.
+1	Слишком	_	_	_	_	_	_	_	Shift=113
+2	уж	_	_	_	_	_	_	_	Shift=121
+3	часто	_	_	_	_	_	_	_	Shift=124
+4	идеология	_	_	_	_	_	_	_	Shift=130
+5	сегодняшнего	_	_	_	_	_	_	_	Shift=140
+6	капиталистического	_	_	_	_	_	_	_	Shift=153
+7	общества	_	_	_	_	_	_	_	Shift=172
+8	предлагает	_	_	_	_	_	_	_	Shift=181
+9	видеть	_	_	_	_	_	_	_	Shift=192
+10	в	_	_	_	_	_	_	_	Shift=199
+11	человеке	_	_	_	_	_	_	_	Shift=201
+12	не	_	_	_	_	_	_	_	Shift=210
+13	самоцель	_	_	_	_	_	_	_	Shift=213|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=221
+15	но	_	_	_	_	_	_	_	Shift=223
+16	управляемую	_	_	_	_	_	_	_	Shift=226
+17	вещь	_	_	_	_	_	_	_	Shift=238|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=242
+
+# sent_id = 12ed8b6d-cd99-4755-ac02-81f4daaf2a6c-p1-s3
+# text = А потому наш современник зачастую и сам готов признать себя куклой, которую кто-то дёргает за ниточки.
+1	А	_	_	_	_	_	_	_	Shift=244
+2	потому	_	_	_	_	_	_	_	Shift=246
+3	наш	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=1398|RuCor_group_id=415052|RuCor_link_id=0|Shift=253
+4	современник	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1395|RuCor_group_id=415043|RuCor_link_id=0|Shift=257
+5	зачастую	_	_	_	_	_	_	_	Shift=269
+6	и	_	_	_	_	_	_	_	Shift=278
+7	сам	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1395|RuCor_group_id=415044|RuCor_link_id=415043|Shift=280
+8	готов	_	_	_	_	_	_	_	Shift=284
+9	признать	_	_	_	_	_	_	_	Shift=290
+10	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=1395|RuCor_group_id=415045|RuCor_link_id=415044|Shift=299
+11	куклой	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1395|RuCor_group_id=415046|RuCor_link_id=415045|Shift=304|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=310
+13	которую	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=1395|RuCor_group_id=415047|RuCor_link_id=415046|Shift=312
+14	кто-то	_	_	_	_	_	_	_	Shift=320
+15	дёргает	_	_	_	_	_	_	_	Shift=327
+16	за	_	_	_	_	_	_	_	Shift=335
+17	ниточки	_	_	_	_	_	_	_	Shift=338|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=345
+
+# sent_id = 12ed8b6d-cd99-4755-ac02-81f4daaf2a6c-p1-s4
+# text = Конечно, с большим или меньшим успехом от таких состояний избавляет психотерапия, но, возможно, иногда будет нелишним и разобраться в том, что же это, собственно говоря, такое - живая кукла в истории и культуре.
+1	Конечно	_	_	_	_	_	_	_	Shift=347|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=354
+3	с	_	_	_	_	_	_	_	Shift=356
+4	большим	_	_	_	_	_	_	_	Shift=358
+5	или	_	_	_	_	_	_	_	Shift=366
+6	меньшим	_	_	_	_	_	_	_	Shift=370
+7	успехом	_	_	_	_	_	_	_	Shift=378
+8	от	_	_	_	_	_	_	_	Shift=386
+9	таких	_	_	_	_	_	_	_	Shift=389
+10	состояний	_	_	_	_	_	_	_	Shift=395
+11	избавляет	_	_	_	_	_	_	_	Shift=405
+12	психотерапия	_	_	_	_	_	_	_	Shift=415|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=427
+14	но	_	_	_	_	_	_	_	Shift=429|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=431
+16	возможно	_	_	_	_	_	_	_	Shift=433|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=441
+18	иногда	_	_	_	_	_	_	_	Shift=443
+19	будет	_	_	_	_	_	_	_	Shift=450
+20	нелишним	_	_	_	_	_	_	_	Shift=456
+21	и	_	_	_	_	_	_	_	Shift=465
+22	разобраться	_	_	_	_	_	_	_	Shift=467
+23	в	_	_	_	_	_	_	_	Shift=479
+24	том	_	_	_	_	_	_	_	Shift=481|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=484
+26	что	_	_	_	_	_	_	_	Shift=486
+27	же	_	_	_	_	_	_	_	Shift=490
+28	это	_	_	_	_	_	_	_	Shift=493|SpaceAfter=No
+29	,	_	_	_	_	_	_	_	Shift=496
+30	собственно	_	_	_	_	_	_	_	Shift=498
+31	говоря	_	_	_	_	_	_	_	Shift=509|SpaceAfter=No
+32	,	_	_	_	_	_	_	_	Shift=515
+33	такое	_	_	_	_	_	_	_	Shift=517
+34	-	_	_	_	_	_	_	_	Shift=523
+35	живая	_	_	_	_	_	_	_	Shift=525
+36	кукла	_	_	_	_	_	_	_	Shift=531
+37	в	_	_	_	_	_	_	_	Shift=537
+38	истории	_	_	_	_	_	_	_	Shift=539
+39	и	_	_	_	_	_	_	_	Shift=547
+40	культуре	_	_	_	_	_	_	_	Shift=549|SpaceAfter=No
+41	.	_	_	_	_	_	_	_	Shift=557
+
+# newpar id = 12ed8b6d-cd99-4755-ac02-81f4daaf2a6c-p2
+# par_text = Сборник с таким названием составлен по результатам научной конференции, которая прошла в 2002 году в Институте высших гуманитарных исследований РГГУ с участием антропологов, фольклористов и самих кукольников. Из него мы узнаем, что роль марионетки далеко не единственно возможный жизненный сценарий даже для куклы. Ведь, кроме театра, она способна оживать ещё и в повествовании (фольклорном или литературном) и, конечно же, в детской игре.
+# sent_id = 12ed8b6d-cd99-4755-ac02-81f4daaf2a6c-p2-s1
+# text = Сборник с таким названием составлен по результатам научной конференции, которая прошла в 2002 году в Институте высших гуманитарных исследований РГГУ с участием антропологов, фольклористов и самих кукольников.
+1	Сборник	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1397|RuCor_group_id=415050|RuCor_link_id=0|Shift=559
+2	с	_	_	_	_	_	_	_	RuCor_chain_id=1397|RuCor_group_id=415050|Shift=567
+3	таким	_	_	_	_	_	_	_	RuCor_chain_id=1397|RuCor_group_id=415050|Shift=569
+4	названием	_	_	_	_	_	_	_	RuCor_chain_id=1397|RuCor_group_id=415050|Shift=575
+5	составлен	_	_	_	_	_	_	_	Shift=585
+6	по	_	_	_	_	_	_	_	Shift=595
+7	результатам	_	_	_	_	_	_	_	Shift=598
+8	научной	_	_	_	_	_	_	_	RuCor_chain_id=1396|RuCor_group_id=415048|Shift=610
+9	конференции	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=1396|RuCor_group_id=415048|RuCor_link_id=0|Shift=618|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=629
+11	которая	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=1396|RuCor_group_id=415049|RuCor_link_id=415048|Shift=631
+12	прошла	_	_	_	_	_	_	_	Shift=639
+13	в	_	_	_	_	_	_	_	Shift=646
+14	2002	_	_	_	_	_	_	_	Shift=648
+15	году	_	_	_	_	_	_	_	Shift=653
+16	в	_	_	_	_	_	_	_	Shift=658
+17	Институте	_	_	_	_	_	_	_	Shift=660
+18	высших	_	_	_	_	_	_	_	Shift=670
+19	гуманитарных	_	_	_	_	_	_	_	Shift=677
+20	исследований	_	_	_	_	_	_	_	Shift=690
+21	РГГУ	_	_	_	_	_	_	_	Shift=703
+22	с	_	_	_	_	_	_	_	Shift=708
+23	участием	_	_	_	_	_	_	_	Shift=710
+24	антропологов	_	_	_	_	_	_	_	Shift=719|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=731
+26	фольклористов	_	_	_	_	_	_	_	Shift=733
+27	и	_	_	_	_	_	_	_	Shift=747
+28	самих	_	_	_	_	_	_	_	Shift=749
+29	кукольников	_	_	_	_	_	_	_	Shift=755|SpaceAfter=No
+30	.	_	_	_	_	_	_	_	Shift=766
+
+# sent_id = 12ed8b6d-cd99-4755-ac02-81f4daaf2a6c-p2-s2
+# text = Из него мы узнаем, что роль марионетки далеко не единственно возможный жизненный сценарий даже для куклы.
+1	Из	_	_	_	_	_	_	_	Shift=768
+2	него	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1397|RuCor_group_id=415051|RuCor_link_id=415050|Shift=771
+3	мы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1398|RuCor_group_id=415053|RuCor_link_id=415052|Shift=776
+4	узнаем	_	_	_	_	_	_	_	Shift=779|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=785
+6	что	_	_	_	_	_	_	_	Shift=787
+7	роль	_	_	_	_	_	_	_	Shift=791
+8	марионетки	_	_	_	_	_	_	_	Shift=796
+9	далеко	_	_	_	_	_	_	_	Shift=807
+10	не	_	_	_	_	_	_	_	Shift=814
+11	единственно	_	_	_	_	_	_	_	Shift=817
+12	возможный	_	_	_	_	_	_	_	Shift=829
+13	жизненный	_	_	_	_	_	_	_	Shift=839
+14	сценарий	_	_	_	_	_	_	_	Shift=849
+15	даже	_	_	_	_	_	_	_	Shift=858
+16	для	_	_	_	_	_	_	_	Shift=863
+17	куклы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1399|RuCor_group_id=415054|RuCor_link_id=0|Shift=867|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=872
+
+# sent_id = 12ed8b6d-cd99-4755-ac02-81f4daaf2a6c-p2-s3
+# text = Ведь, кроме театра, она способна оживать ещё и в повествовании (фольклорном или литературном) и, конечно же, в детской игре.
+1	Ведь	_	_	_	_	_	_	_	Shift=874|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=878
+3	кроме	_	_	_	_	_	_	_	Shift=880
+4	театра	_	_	_	_	_	_	_	Shift=886|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=892
+6	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1399|RuCor_group_id=415055|RuCor_link_id=415054|Shift=894
+7	способна	_	_	_	_	_	_	_	Shift=898
+8	оживать	_	_	_	_	_	_	_	Shift=907
+9	ещё	_	_	_	_	_	_	_	Shift=915
+10	и	_	_	_	_	_	_	_	Shift=919
+11	в	_	_	_	_	_	_	_	Shift=921
+12	повествовании	_	_	_	_	_	_	_	Shift=923
+13	(	_	_	_	_	_	_	_	Shift=937|SpaceAfter=No
+14	фольклорном	_	_	_	_	_	_	_	Shift=938
+15	или	_	_	_	_	_	_	_	Shift=950
+16	литературном	_	_	_	_	_	_	_	Shift=954|SpaceAfter=No
+17	)	_	_	_	_	_	_	_	Shift=966
+18	и	_	_	_	_	_	_	_	Shift=968|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=969
+20	конечно	_	_	_	_	_	_	_	Shift=971
+21	же	_	_	_	_	_	_	_	Shift=979|SpaceAfter=No
+22	,	_	_	_	_	_	_	_	Shift=981
+23	в	_	_	_	_	_	_	_	Shift=983
+24	детской	_	_	_	_	_	_	_	Shift=985
+25	игре	_	_	_	_	_	_	_	Shift=993|SpaceAfter=No
+26	.	_	_	_	_	_	_	_	Shift=997
+
+# newpar id = 12ed8b6d-cd99-4755-ac02-81f4daaf2a6c-p3
+# par_text = Как показывает в своей статье «Куклы в играх современных детей» М.П. Чередникова, русские девочки отыгрывают на куклах все социальные роли, о которых им становится известно, — начиная с матери в многодетной семье и кончая посетительницей крутой дискотеки. Особенно впечатляют интервью нынешних учительниц, которые в детстве писали за своих кукол диктанты с ошибками и ставили им оценки. «Сам способ организации журнала у меня и сейчас такой же, — со смехом признаётся одна из них, — доигралась!»
+# sent_id = 12ed8b6d-cd99-4755-ac02-81f4daaf2a6c-p3-s1
+# text = Как показывает в своей статье ``Куклы в играх современных детей'' М. П. Чередникова, русские девочки отыгрывают на куклах все социальные роли, о которых им становится известно, - начиная с матери в многодетной семье и кончая посетительницей крутой дискотеки.
+1	Как	_	_	_	_	_	_	_	Shift=999
+2	показывает	_	_	_	_	_	_	_	Shift=1003
+3	в	_	_	_	_	_	_	_	Shift=1014
+4	своей	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=1400|RuCor_group_id=415056|RuCor_link_id=415057|Shift=1016
+5	статье	_	_	_	_	_	_	_	Shift=1022
+6	``	_	_	_	_	_	_	_	Shift=1029|SpaceAfter=No
+7	Куклы	_	_	_	_	_	_	_	Shift=1030
+8	в	_	_	_	_	_	_	_	Shift=1036
+9	играх	_	_	_	_	_	_	_	Shift=1038
+10	современных	_	_	_	_	_	_	_	Shift=1044
+11	детей	_	_	_	_	_	_	_	Shift=1056|SpaceAfter=No
+12	''	_	_	_	_	_	_	_	Shift=1061
+13	М.	_	_	_	_	_	_	_	Shift=1063
+14	П.	_	_	_	_	_	_	_	Shift=1065
+15	Чередникова	_	_	_	_	_	_	_	RuCor_chain_id=1400|RuCor_group_id=415057|Shift=1068|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=1079
+17	русские	_	_	_	_	_	_	_	RuCor_chain_id=1401|RuCor_group_id=415058|Shift=1081
+18	девочки	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1401|RuCor_group_id=415058|RuCor_link_id=0|Shift=1089
+19	отыгрывают	_	_	_	_	_	_	_	Shift=1097
+20	на	_	_	_	_	_	_	_	Shift=1108
+21	куклах	_	_	_	_	_	_	_	Shift=1111
+22	все	_	_	_	_	_	_	_	RuCor_chain_id=1402|RuCor_group_id=415059|Shift=1118
+23	социальные	_	_	_	_	_	_	_	RuCor_chain_id=1402|RuCor_group_id=415059|Shift=1122
+24	роли	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1402|RuCor_group_id=415059|RuCor_link_id=0|Shift=1133|SpaceAfter=No
+25	,	_	_	_	_	_	_	_	Shift=1137
+26	о	_	_	_	_	_	_	_	Shift=1139
+27	которых	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=1402|RuCor_group_id=415060|RuCor_link_id=415059|Shift=1141
+28	им	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1401|RuCor_group_id=415061|RuCor_link_id=415058|Shift=1149
+29	становится	_	_	_	_	_	_	_	Shift=1152
+30	известно	_	_	_	_	_	_	_	Shift=1163|SpaceAfter=No
+31	,	_	_	_	_	_	_	_	Shift=1171
+32	-	_	_	_	_	_	_	_	Shift=1173
+33	начиная	_	_	_	_	_	_	_	Shift=1175
+34	с	_	_	_	_	_	_	_	Shift=1183
+35	матери	_	_	_	_	_	_	_	Shift=1185
+36	в	_	_	_	_	_	_	_	Shift=1192
+37	многодетной	_	_	_	_	_	_	_	Shift=1194
+38	семье	_	_	_	_	_	_	_	Shift=1206
+39	и	_	_	_	_	_	_	_	Shift=1212
+40	кончая	_	_	_	_	_	_	_	Shift=1214
+41	посетительницей	_	_	_	_	_	_	_	Shift=1221
+42	крутой	_	_	_	_	_	_	_	Shift=1237
+43	дискотеки	_	_	_	_	_	_	_	Shift=1244|SpaceAfter=No
+44	.	_	_	_	_	_	_	_	Shift=1253
+
+# sent_id = 12ed8b6d-cd99-4755-ac02-81f4daaf2a6c-p3-s2
+# text = Особенно впечатляют интервью нынешних учительниц, которые в детстве писали за своих кукол диктанты с ошибками и ставили им оценки.
+1	Особенно	_	_	_	_	_	_	_	Shift=1255
+2	впечатляют	_	_	_	_	_	_	_	Shift=1264
+3	интервью	_	_	_	_	_	_	_	Shift=1275
+4	нынешних	_	_	_	_	_	_	_	RuCor_chain_id=1403|RuCor_group_id=415062|Shift=1284
+5	учительниц	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1403|RuCor_group_id=415062|RuCor_link_id=0|Shift=1293|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=1303
+7	которые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=1403|RuCor_group_id=415063|RuCor_link_id=415062|Shift=1305
+8	в	_	_	_	_	_	_	_	Shift=1313
+9	детстве	_	_	_	_	_	_	_	Shift=1315
+10	писали	_	_	_	_	_	_	_	Shift=1323
+11	за	_	_	_	_	_	_	_	Shift=1330
+12	своих	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=1404|RuCor_group_id=415065|RuCor_link_id=415063|Shift=1333
+13	кукол	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1404|RuCor_group_id=415065|RuCor_link_id=0|Shift=1339
+14	диктанты	_	_	_	_	_	_	_	Shift=1345
+15	с	_	_	_	_	_	_	_	Shift=1354
+16	ошибками	_	_	_	_	_	_	_	Shift=1356
+17	и	_	_	_	_	_	_	_	Shift=1365
+18	ставили	_	_	_	_	_	_	_	Shift=1367
+19	им	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1404|RuCor_group_id=415066|RuCor_link_id=415065|Shift=1375
+20	оценки	_	_	_	_	_	_	_	Shift=1378|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=1384
+
+# sent_id = 12ed8b6d-cd99-4755-ac02-81f4daaf2a6c-p3-s3
+# text = « Сам способ организации журнала у меня и сейчас такой же, - со смехом признаётся одна из них, - доигралась! »
+1	``	_	_	_	_	_	_	_	QuotationStart=«|Shift=1386
+2	Сам	_	_	_	_	_	_	_	Shift=1387
+3	способ	_	_	_	_	_	_	_	Shift=1391
+4	организации	_	_	_	_	_	_	_	Shift=1398
+5	журнала	_	_	_	_	_	_	_	Shift=1410
+6	у	_	_	_	_	_	_	_	Shift=1418
+7	меня	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1405|RuCor_group_id=415067|RuCor_link_id=0|Shift=1420
+8	и	_	_	_	_	_	_	_	Shift=1425
+9	сейчас	_	_	_	_	_	_	_	Shift=1427
+10	такой	_	_	_	_	_	_	_	Shift=1434
+11	же	_	_	_	_	_	_	_	Shift=1440|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=1442
+13	-	_	_	_	_	_	_	_	Shift=1444
+14	со	_	_	_	_	_	_	_	Shift=1446
+15	смехом	_	_	_	_	_	_	_	Shift=1449
+16	признаётся	_	_	_	_	_	_	_	Shift=1456
+17	одна	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1405|RuCor_group_id=415068|RuCor_link_id=415067|Shift=1467
+18	из	_	_	_	_	_	_	_	RuCor_chain_id=1405|RuCor_group_id=415068|Shift=1472
+19	них	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1403|RuCor_group_id=415069|RuCor_link_id=415064|Shift=1475|SpaceAfter=No
+20	,	_	_	_	_	_	_	_	Shift=1478
+21	-	_	_	_	_	_	_	_	Shift=1480
+22	доигралась	_	_	_	_	_	_	_	Shift=1482|SpaceAfter=No
+23	!	_	_	_	_	_	_	_	Shift=1492
+24	''	_	_	_	_	_	_	_	QuotationEnd=»|Shift=1493
+
+# newpar id = 12ed8b6d-cd99-4755-ac02-81f4daaf2a6c-p4
+# par_text = Совершенно иные функции у персонажей-кукол в детских страшных историях (В.А. Шевцов, «Антропоморфные предметы в страшном детском повествовательном фольклоре»). Здесь они оживают не в руках ребёнка, а сами по себе и зачастую из-за того, что их маленькие хозяева нарушили какой-то запрет — например, не играть с куклой в отсутствие родителей, не одевать её в голубое платье и т.п.
+# sent_id = 12ed8b6d-cd99-4755-ac02-81f4daaf2a6c-p4-s1
+# text = Совершенно иные функции у персонажей - кукол в детских страшных историях (В. А. Шевцов, ``Антропоморфные предметы в страшном детском повествовательном фольклоре'').
+1	Совершенно	_	_	_	_	_	_	_	Shift=1495
+2	иные	_	_	_	_	_	_	_	Shift=1506
+3	функции	_	_	_	_	_	_	_	Shift=1511
+4	у	_	_	_	_	_	_	_	Shift=1519
+5	персонажей	_	_	_	_	_	_	_	RuCor_chain_id=1406|RuCor_group_id=415070|Shift=1521
+6	-	_	_	_	_	_	_	_	RuCor_chain_id=1406|RuCor_group_id=415070|Shift=1531
+7	кукол	_	_	_	_	_	_	_	RuCor_chain_id=1406|RuCor_group_id=415070|Shift=1532
+8	в	_	_	_	_	_	_	_	RuCor_chain_id=1406|RuCor_group_id=415070|Shift=1538
+9	детских	_	_	_	_	_	_	_	RuCor_chain_id=1406|RuCor_group_id=415070|Shift=1540
+10	страшных	_	_	_	_	_	_	_	RuCor_chain_id=1406|RuCor_group_id=415070|Shift=1548
+11	историях	_	_	_	_	_	_	_	RuCor_chain_id=1406|RuCor_group_id=415070|Shift=1557
+12	(	_	_	_	_	_	_	_	Shift=1566|SpaceAfter=No
+13	В.	_	_	_	_	_	_	_	Shift=1567
+14	А.	_	_	_	_	_	_	_	Shift=1569
+15	Шевцов	_	_	_	_	_	_	_	Shift=1572|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=1578
+17	``	_	_	_	_	_	_	_	Shift=1580|SpaceAfter=No
+18	Антропоморфные	_	_	_	_	_	_	_	Shift=1581
+19	предметы	_	_	_	_	_	_	_	Shift=1596
+20	в	_	_	_	_	_	_	_	Shift=1605
+21	страшном	_	_	_	_	_	_	_	Shift=1607
+22	детском	_	_	_	_	_	_	_	Shift=1616
+23	повествовательном	_	_	_	_	_	_	_	Shift=1624
+24	фольклоре	_	_	_	_	_	_	_	Shift=1642|SpaceAfter=No
+25	''	_	_	_	_	_	_	_	Shift=1651|SpaceAfter=No
+26	)	_	_	_	_	_	_	_	Shift=1652|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=1653
+
+# sent_id = 12ed8b6d-cd99-4755-ac02-81f4daaf2a6c-p4-s2
+# text = Здесь они оживают не в руках ребёнка, а сами по себе и зачастую из-за того, что их маленькие хозяева нарушили какой-то запрет - например, не играть с куклой в отсутствие родителей, не одевать её в голубое платье и т. п.
+1	Здесь	_	_	_	_	_	_	_	Shift=1655
+2	они	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1406|RuCor_group_id=415071|RuCor_link_id=415070|Shift=1661
+3	оживают	_	_	_	_	_	_	_	Shift=1665
+4	не	_	_	_	_	_	_	_	Shift=1673
+5	в	_	_	_	_	_	_	_	Shift=1676
+6	руках	_	_	_	_	_	_	_	Shift=1678
+7	ребёнка	_	_	_	_	_	_	_	Shift=1684|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1691
+9	а	_	_	_	_	_	_	_	Shift=1693
+10	сами	_	_	_	_	_	_	_	Shift=1695
+11	по	_	_	_	_	_	_	_	Shift=1700
+12	себе	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=1406|RuCor_group_id=415072|RuCor_link_id=415071|Shift=1703
+13	и	_	_	_	_	_	_	_	Shift=1708
+14	зачастую	_	_	_	_	_	_	_	Shift=1710
+15	из-за	_	_	_	_	_	_	_	Shift=1719
+16	того	_	_	_	_	_	_	_	Shift=1725|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=1729
+18	что	_	_	_	_	_	_	_	Shift=1731
+19	их	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=anaph|RuCor_chain_id=1406|RuCor_group_id=415073|RuCor_link_id=415072|Shift=1735
+20	маленькие	_	_	_	_	_	_	_	Shift=1738
+21	хозяева	_	_	_	_	_	_	_	Shift=1748
+22	нарушили	_	_	_	_	_	_	_	Shift=1756
+23	какой-то	_	_	_	_	_	_	_	Shift=1765
+24	запрет	_	_	_	_	_	_	_	Shift=1774
+25	-	_	_	_	_	_	_	_	Shift=1781
+26	например	_	_	_	_	_	_	_	Shift=1783|SpaceAfter=No
+27	,	_	_	_	_	_	_	_	Shift=1791
+28	не	_	_	_	_	_	_	_	Shift=1793
+29	играть	_	_	_	_	_	_	_	Shift=1796
+30	с	_	_	_	_	_	_	_	Shift=1803
+31	куклой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1407|RuCor_group_id=415074|RuCor_link_id=0|Shift=1805
+32	в	_	_	_	_	_	_	_	Shift=1812
+33	отсутствие	_	_	_	_	_	_	_	Shift=1814
+34	родителей	_	_	_	_	_	_	_	Shift=1825|SpaceAfter=No
+35	,	_	_	_	_	_	_	_	Shift=1834
+36	не	_	_	_	_	_	_	_	Shift=1836
+37	одевать	_	_	_	_	_	_	_	Shift=1839
+38	её	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1407|RuCor_group_id=415075|RuCor_link_id=415074|Shift=1847
+39	в	_	_	_	_	_	_	_	Shift=1850
+40	голубое	_	_	_	_	_	_	_	Shift=1852
+41	платье	_	_	_	_	_	_	_	Shift=1860
+42	и	_	_	_	_	_	_	_	Shift=1867
+43	т.	_	_	_	_	_	_	_	Shift=1869
+44	п	_	_	_	_	_	_	_	Shift=1871|SpaceAfter=No
+45	.	_	_	_	_	_	_	_	Shift=1872
+
+# newpar id = 12ed8b6d-cd99-4755-ac02-81f4daaf2a6c-p5
+# par_text = По мере чтения книги власть человека над куклой кажется всё более эфемерной. Причём наиболее радикально она сдаёт свои позиции именно… в кукольном театре. Так, по убеждению актёров-кукольников Нигерии, активно использующих пищик (приспособление для изменения голоса), кукла всё равно говорит сама по себе (А.Э. Греф, «Голос куклы в традиционном театре кукол»). А в кукольном театре китайских даосов марионетка — временное вместилище духа, которого кукловод специально вызывает для заказчика представления. (И.Н. Соломоник, «Невидимое в зримом»). Казалось бы, такие верования нормальны для стран экзотических, но похожее отношение к кукле обнаруживают и свои в доску ярославские актёры-кукольники (Е.С. Ефимова, «Взаимоотношения «земного» и «потустороннего» в современной устной словесности»). Некоторые из них до смерти боятся не то чтобы повредить, а хоть как-то обидеть своих подопечных.
+# sent_id = 12ed8b6d-cd99-4755-ac02-81f4daaf2a6c-p5-s1
+# text = По мере чтения книги власть человека над куклой кажется всё более эфемерной.
+1	По	_	_	_	_	_	_	_	Shift=1874
+2	мере	_	_	_	_	_	_	_	Shift=1877
+3	чтения	_	_	_	_	_	_	_	Shift=1882
+4	книги	_	_	_	_	_	_	_	Shift=1889
+5	власть	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1408|RuCor_group_id=415076|RuCor_link_id=0|Shift=1895
+6	человека	_	_	_	_	_	_	_	RuCor_chain_id=1408|RuCor_group_id=415076|Shift=1902
+7	над	_	_	_	_	_	_	_	RuCor_chain_id=1408|RuCor_group_id=415076|Shift=1911
+8	куклой	_	_	_	_	_	_	_	RuCor_chain_id=1408|RuCor_group_id=415076|Shift=1915
+9	кажется	_	_	_	_	_	_	_	Shift=1922
+10	всё	_	_	_	_	_	_	_	Shift=1930
+11	более	_	_	_	_	_	_	_	Shift=1934
+12	эфемерной	_	_	_	_	_	_	_	Shift=1940|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=1949
+
+# sent_id = 12ed8b6d-cd99-4755-ac02-81f4daaf2a6c-p5-s2
+# text = Причём наиболее радикально она сдаёт свои позиции именно... в кукольном театре.
+1	Причём	_	_	_	_	_	_	_	Shift=1951
+2	наиболее	_	_	_	_	_	_	_	Shift=1958
+3	радикально	_	_	_	_	_	_	_	Shift=1967
+4	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1408|RuCor_group_id=415077|RuCor_link_id=415076|Shift=1978
+5	сдаёт	_	_	_	_	_	_	_	Shift=1982
+6	свои	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=1408|RuCor_group_id=415078|RuCor_link_id=415077|Shift=1988
+7	позиции	_	_	_	_	_	_	_	Shift=1993
+8	именно	_	_	_	_	_	_	_	Shift=2001|SpaceAfter=No
+9	...	_	_	_	_	_	_	_	Shift=2007
+10	в	_	_	_	_	_	_	_	Shift=2009
+11	кукольном	_	_	_	_	_	_	_	Shift=2011
+12	театре	_	_	_	_	_	_	_	Shift=2021|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=2027
+
+# sent_id = 12ed8b6d-cd99-4755-ac02-81f4daaf2a6c-p5-s3
+# text = Так, по убеждению актёров - кукольников Нигерии, активно использующих пищик (приспособление для изменения голоса), кукла всё равно говорит сама по себе (А. Э. Греф, ``Голос куклы в традиционном театре кукол'').
+1	Так	_	_	_	_	_	_	_	Shift=2029|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=2032
+3	по	_	_	_	_	_	_	_	Shift=2034
+4	убеждению	_	_	_	_	_	_	_	Shift=2037
+5	актёров	_	_	_	_	_	_	_	Shift=2047
+6	-	_	_	_	_	_	_	_	Shift=2054
+7	кукольников	_	_	_	_	_	_	_	Shift=2055
+8	Нигерии	_	_	_	_	_	_	_	Shift=2067|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=2074
+10	активно	_	_	_	_	_	_	_	Shift=2076
+11	использующих	_	_	_	_	_	_	_	Shift=2084
+12	пищик	_	_	_	_	_	_	_	Shift=2097
+13	(	_	_	_	_	_	_	_	Shift=2103|SpaceAfter=No
+14	приспособление	_	_	_	_	_	_	_	Shift=2104
+15	для	_	_	_	_	_	_	_	Shift=2119
+16	изменения	_	_	_	_	_	_	_	Shift=2123
+17	голоса	_	_	_	_	_	_	_	Shift=2133|SpaceAfter=No
+18	)	_	_	_	_	_	_	_	Shift=2139|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=2140
+20	кукла	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1409|RuCor_group_id=415079|RuCor_link_id=0|Shift=2142
+21	всё	_	_	_	_	_	_	_	Shift=2148
+22	равно	_	_	_	_	_	_	_	Shift=2152
+23	говорит	_	_	_	_	_	_	_	Shift=2158
+24	сама	_	_	_	_	_	_	_	Shift=2166
+25	по	_	_	_	_	_	_	_	Shift=2171
+26	себе	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=1409|RuCor_group_id=415080|RuCor_link_id=415079|Shift=2174
+27	(	_	_	_	_	_	_	_	Shift=2179|SpaceAfter=No
+28	А.	_	_	_	_	_	_	_	Shift=2180
+29	Э.	_	_	_	_	_	_	_	Shift=2182
+30	Греф	_	_	_	_	_	_	_	Shift=2185|SpaceAfter=No
+31	,	_	_	_	_	_	_	_	Shift=2189
+32	``	_	_	_	_	_	_	_	Shift=2191|SpaceAfter=No
+33	Голос	_	_	_	_	_	_	_	Shift=2192
+34	куклы	_	_	_	_	_	_	_	Shift=2198
+35	в	_	_	_	_	_	_	_	Shift=2204
+36	традиционном	_	_	_	_	_	_	_	Shift=2206
+37	театре	_	_	_	_	_	_	_	Shift=2219
+38	кукол	_	_	_	_	_	_	_	Shift=2226|SpaceAfter=No
+39	''	_	_	_	_	_	_	_	Shift=2231|SpaceAfter=No
+40	)	_	_	_	_	_	_	_	Shift=2232|SpaceAfter=No
+41	.	_	_	_	_	_	_	_	Shift=2233
+
+# sent_id = 12ed8b6d-cd99-4755-ac02-81f4daaf2a6c-p5-s4
+# text = А в кукольном театре китайских даосов марионетка - временное вместилище духа, которого кукловод специально вызывает для заказчика представления.
+1	А	_	_	_	_	_	_	_	Shift=2235
+2	в	_	_	_	_	_	_	_	Shift=2237
+3	кукольном	_	_	_	_	_	_	_	Shift=2239
+4	театре	_	_	_	_	_	_	_	Shift=2249
+5	китайских	_	_	_	_	_	_	_	Shift=2256
+6	даосов	_	_	_	_	_	_	_	Shift=2266
+7	марионетка	_	_	_	_	_	_	_	Shift=2273
+8	-	_	_	_	_	_	_	_	Shift=2284
+9	временное	_	_	_	_	_	_	_	Shift=2286
+10	вместилище	_	_	_	_	_	_	_	Shift=2296
+11	духа	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1410|RuCor_group_id=415081|RuCor_link_id=0|Shift=2307|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=2311
+13	которого	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=anaph|RuCor_chain_id=1410|RuCor_group_id=415082|RuCor_link_id=415081|Shift=2313
+14	кукловод	_	_	_	_	_	_	_	Shift=2322
+15	специально	_	_	_	_	_	_	_	Shift=2331
+16	вызывает	_	_	_	_	_	_	_	Shift=2342
+17	для	_	_	_	_	_	_	_	Shift=2351
+18	заказчика	_	_	_	_	_	_	_	Shift=2355
+19	представления	_	_	_	_	_	_	_	Shift=2365|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=2378
+
+# sent_id = 12ed8b6d-cd99-4755-ac02-81f4daaf2a6c-p5-s5
+# text = (И. Н. Соломоник, ``Невидимое в зримом'').
+1	(	_	_	_	_	_	_	_	Shift=2380|SpaceAfter=No
+2	И.	_	_	_	_	_	_	_	Shift=2381
+3	Н.	_	_	_	_	_	_	_	Shift=2383
+4	Соломоник	_	_	_	_	_	_	_	Shift=2386|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=2395
+6	``	_	_	_	_	_	_	_	Shift=2397|SpaceAfter=No
+7	Невидимое	_	_	_	_	_	_	_	Shift=2398
+8	в	_	_	_	_	_	_	_	Shift=2408
+9	зримом	_	_	_	_	_	_	_	Shift=2410|SpaceAfter=No
+10	''	_	_	_	_	_	_	_	Shift=2416|SpaceAfter=No
+11	)	_	_	_	_	_	_	_	Shift=2417|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=2418
+
+# sent_id = 12ed8b6d-cd99-4755-ac02-81f4daaf2a6c-p5-s6
+# text = Казалось бы, такие верования нормальны для стран экзотических, но похожее отношение к кукле обнаруживают и свои в доску ярославские актёры - кукольники (Е. С. Ефимова, ``Взаимоотношения ``земного'' и ``потустороннего'' в современной устной словесности'').
+1	Казалось	_	_	_	_	_	_	_	Shift=2420
+2	бы	_	_	_	_	_	_	_	Shift=2429|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=2431
+4	такие	_	_	_	_	_	_	_	Shift=2433
+5	верования	_	_	_	_	_	_	_	Shift=2439
+6	нормальны	_	_	_	_	_	_	_	Shift=2449
+7	для	_	_	_	_	_	_	_	Shift=2459
+8	стран	_	_	_	_	_	_	_	Shift=2463
+9	экзотических	_	_	_	_	_	_	_	Shift=2469|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=2481
+11	но	_	_	_	_	_	_	_	Shift=2483
+12	похожее	_	_	_	_	_	_	_	Shift=2486
+13	отношение	_	_	_	_	_	_	_	Shift=2494
+14	к	_	_	_	_	_	_	_	Shift=2504
+15	кукле	_	_	_	_	_	_	_	Shift=2506
+16	обнаруживают	_	_	_	_	_	_	_	Shift=2512
+17	и	_	_	_	_	_	_	_	Shift=2525
+18	свои	_	_	_	_	_	_	_	RuCor_chain_id=1411|RuCor_group_id=415083|Shift=2527
+19	в	_	_	_	_	_	_	_	RuCor_chain_id=1411|RuCor_group_id=415083|Shift=2532
+20	доску	_	_	_	_	_	_	_	RuCor_chain_id=1411|RuCor_group_id=415083|Shift=2534
+21	ярославские	_	_	_	_	_	_	_	RuCor_chain_id=1411|RuCor_group_id=415083|Shift=2540
+22	актёры	_	_	_	_	_	_	_	RuCor_chain_id=1411|RuCor_group_id=415083|Shift=2552
+23	-	_	_	_	_	_	_	_	RuCor_chain_id=1411|RuCor_group_id=415083|Shift=2558
+24	кукольники	_	_	_	_	_	_	_	RuCor_chain_id=1411|RuCor_group_id=415083|Shift=2559
+25	(	_	_	_	_	_	_	_	Shift=2570|SpaceAfter=No
+26	Е.	_	_	_	_	_	_	_	Shift=2571
+27	С.	_	_	_	_	_	_	_	Shift=2573
+28	Ефимова	_	_	_	_	_	_	_	Shift=2576|SpaceAfter=No
+29	,	_	_	_	_	_	_	_	Shift=2583
+30	``	_	_	_	_	_	_	_	Shift=2585|SpaceAfter=No
+31	Взаимоотношения	_	_	_	_	_	_	_	Shift=2586
+32	``	_	_	_	_	_	_	_	Shift=2602|SpaceAfter=No
+33	земного	_	_	_	_	_	_	_	Shift=2603|SpaceAfter=No
+34	''	_	_	_	_	_	_	_	Shift=2610
+35	и	_	_	_	_	_	_	_	Shift=2612
+36	``	_	_	_	_	_	_	_	Shift=2614|SpaceAfter=No
+37	потустороннего	_	_	_	_	_	_	_	Shift=2615|SpaceAfter=No
+38	''	_	_	_	_	_	_	_	Shift=2629
+39	в	_	_	_	_	_	_	_	Shift=2631
+40	современной	_	_	_	_	_	_	_	Shift=2633
+41	устной	_	_	_	_	_	_	_	Shift=2645
+42	словесности	_	_	_	_	_	_	_	Shift=2652|SpaceAfter=No
+43	''	_	_	_	_	_	_	_	Shift=2663|SpaceAfter=No
+44	)	_	_	_	_	_	_	_	Shift=2664|SpaceAfter=No
+45	.	_	_	_	_	_	_	_	Shift=2665
+
+# sent_id = 12ed8b6d-cd99-4755-ac02-81f4daaf2a6c-p5-s7
+# text = Некоторые из них до смерти боятся не то чтобы повредить, а хоть как-то обидеть своих подопечных.
+1	Некоторые	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=1412|RuCor_group_id=415086|RuCor_link_id=0|Shift=2667
+2	из	_	_	_	_	_	_	_	RuCor_chain_id=1412|RuCor_group_id=415086|Shift=2677
+3	них	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=1411|RuCor_group_id=415084|RuCor_link_id=415083|Shift=2680
+4	до	_	_	_	_	_	_	_	Shift=2684
+5	смерти	_	_	_	_	_	_	_	Shift=2687
+6	боятся	_	_	_	_	_	_	_	Shift=2694
+7	не	_	_	_	_	_	_	_	Shift=2701
+8	то	_	_	_	_	_	_	_	Shift=2704
+9	чтобы	_	_	_	_	_	_	_	Shift=2707
+10	повредить	_	_	_	_	_	_	_	Shift=2713|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=2722
+12	а	_	_	_	_	_	_	_	Shift=2724
+13	хоть	_	_	_	_	_	_	_	Shift=2726
+14	как-то	_	_	_	_	_	_	_	Shift=2731
+15	обидеть	_	_	_	_	_	_	_	Shift=2738
+16	своих	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=1412|RuCor_group_id=415085|RuCor_link_id=415086|Shift=2746
+17	подопечных	_	_	_	_	_	_	_	Shift=2752|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=2762
+
+# newpar id = 12ed8b6d-cd99-4755-ac02-81f4daaf2a6c-p6
+# par_text = Так что проклинать участь «жалкой марионетки», наверное, не только бессмысленно, но и опасно: ведь так мы рискуем не на шутку обидеть какое-нибудь древнее и могущественное божество.
+# sent_id = 12ed8b6d-cd99-4755-ac02-81f4daaf2a6c-p6-s1
+# text = Так что проклинать участь ``жалкой марионетки'', наверное, не только бессмысленно, но и опасно: ведь так мы рискуем не на шутку обидеть какое-нибудь древнее и могущественное божество.
+1	Так	_	_	_	_	_	_	_	Shift=2764
+2	что	_	_	_	_	_	_	_	Shift=2768
+3	проклинать	_	_	_	_	_	_	_	Shift=2772
+4	участь	_	_	_	_	_	_	_	Shift=2783
+5	``	_	_	_	_	_	_	_	Shift=2790|SpaceAfter=No
+6	жалкой	_	_	_	_	_	_	_	Shift=2791
+7	марионетки	_	_	_	_	_	_	_	Shift=2798|SpaceAfter=No
+8	''	_	_	_	_	_	_	_	Shift=2808|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=2809
+10	наверное	_	_	_	_	_	_	_	Shift=2811|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=2819
+12	не	_	_	_	_	_	_	_	Shift=2821
+13	только	_	_	_	_	_	_	_	Shift=2824
+14	бессмысленно	_	_	_	_	_	_	_	Shift=2831|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=2843
+16	но	_	_	_	_	_	_	_	Shift=2845
+17	и	_	_	_	_	_	_	_	Shift=2848
+18	опасно	_	_	_	_	_	_	_	Shift=2850|SpaceAfter=No
+19	:	_	_	_	_	_	_	_	Shift=2856
+20	ведь	_	_	_	_	_	_	_	Shift=2858
+21	так	_	_	_	_	_	_	_	Shift=2863
+22	мы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=1398|RuCor_group_id=415087|RuCor_link_id=415053|Shift=2867
+23	рискуем	_	_	_	_	_	_	_	Shift=2870
+24	не	_	_	_	_	_	_	_	Shift=2878
+25	на	_	_	_	_	_	_	_	Shift=2881
+26	шутку	_	_	_	_	_	_	_	Shift=2884
+27	обидеть	_	_	_	_	_	_	_	Shift=2890
+28	какое-нибудь	_	_	_	_	_	_	_	Shift=2898
+29	древнее	_	_	_	_	_	_	_	Shift=2911
+30	и	_	_	_	_	_	_	_	Shift=2919
+31	могущественное	_	_	_	_	_	_	_	Shift=2921
+32	божество	_	_	_	_	_	_	_	Shift=2936|SpaceAfter=No
+33	.	_	_	_	_	_	_	_	_
+

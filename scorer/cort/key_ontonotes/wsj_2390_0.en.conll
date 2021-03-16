@@ -1,0 +1,50 @@
+#begin document (wsj_2390_0); part 000
+wsj_2390	0	0	Japan	NNP	(TOP(S(S(NP(NP*	-	-	-	-	-
+wsj_2390	0	1	's	POS	*)	-	-	-	-	-
+wsj_2390	0	2	wholesale	JJ	*	-	-	-	-	-
+wsj_2390	0	3	prices	NNS	*)	price	-	1	-	-
+wsj_2390	0	4	in	IN	(PP*	-	-	-	-	-
+wsj_2390	0	5	September	NNP	(NP*))	-	-	-	-	-
+wsj_2390	0	6	rose	VBD	(VP(VP*	rise	01	2	-	-
+wsj_2390	0	7	3.3	CD	(NP*	-	-	-	-	-
+wsj_2390	0	8	%	NN	*)	-	-	-	-	-
+wsj_2390	0	9	from	IN	(PP*	-	-	-	-	-
+wsj_2390	0	10	a	DT	(ADVP(NP*	-	-	-	-	-
+wsj_2390	0	11	year	NN	*)	-	-	-	-	-
+wsj_2390	0	12	earlier	RBR	*)))	-	-	-	-	-
+wsj_2390	0	13	and	CC	*	-	-	-	-	-
+wsj_2390	0	14	were	VBD	(VP*	be	01	1	-	-
+wsj_2390	0	15	up	RB	(ADVP*	-	-	-	-	-
+wsj_2390	0	16	0.4	CD	(NP*	-	-	-	-	-
+wsj_2390	0	17	%	NN	*)	-	-	-	-	-
+wsj_2390	0	18	from	IN	(PP*	-	-	-	-	-
+wsj_2390	0	19	the	DT	(NP*	-	-	-	-	-
+wsj_2390	0	20	previous	JJ	*	-	-	-	-	-
+wsj_2390	0	21	month	NN	*))))))	month	-	2	-	-
+wsj_2390	0	22	,	,	*	-	-	-	-	-
+wsj_2390	0	23	the	DT	(NP(NP*	-	-	-	-	-
+wsj_2390	0	24	Bank	NNP	*)	-	-	-	-	-
+wsj_2390	0	25	of	IN	(PP*	-	-	-	-	-
+wsj_2390	0	26	Japan	NNP	(NP*)))	-	-	-	-	-
+wsj_2390	0	27	announced	VBD	(VP*	announce	01	1	-	-
+wsj_2390	0	28	Friday	NNP	(NP*))	-	-	-	-	-
+wsj_2390	0	29	.	.	*))	-	-	-	-	-
+
+wsj_2390	0	0	The	DT	(TOP(S(NP*	-	-	-	-	-
+wsj_2390	0	1	wholesale	JJ	(NML*	-	-	-	-	-
+wsj_2390	0	2	price	NN	*)	price	-	1	-	-
+wsj_2390	0	3	index	NN	*)	index	-	2	-	-
+wsj_2390	0	4	stood	VBD	(VP*	stand	04	2	-	-
+wsj_2390	0	5	at	IN	(PP*	-	-	-	-	-
+wsj_2390	0	6	90.1	CD	(NP*))	-	-	-	-	-
+wsj_2390	0	7	,	,	*	-	-	-	-	-
+wsj_2390	0	8	compared	VBN	(PP*	compare	-	1	-	-
+wsj_2390	0	9	with	IN	(PP*	-	-	-	-	-
+wsj_2390	0	10	a	DT	(NP(NP*	-	-	-	-	-
+wsj_2390	0	11	1985	CD	*	-	-	-	-	-
+wsj_2390	0	12	base	NN	*)	base	-	1	-	-
+wsj_2390	0	13	of	IN	(PP*	-	-	-	-	-
+wsj_2390	0	14	100	CD	(NP*))))))	-	-	-	-	-
+wsj_2390	0	15	.	.	*))	-	-	-	-	-
+
+#end document

@@ -1,0 +1,913 @@
+# newdoc id = d0f07dce-1a9f-4251-8244-8477ce179265
+# newpar id = d0f07dce-1a9f-4251-8244-8477ce179265-p1
+# par_text = «У одной женщины умер муж. А, думает, ерунда. А потом видит, нет, не ерунда». Это из Зощенко.
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p1-s1
+# text = ``У одной женщины умер муж. А, думает, ерунда.
+1	``	_	_	_	_	_	_	_	Shift=0|SpaceAfter=No
+2	У	_	_	_	_	_	_	_	Shift=1
+3	одной	_	_	_	_	_	_	_	Shift=3
+4	женщины	_	_	_	_	_	_	_	Shift=9
+5	умер	_	_	_	_	_	_	_	Shift=17
+6	муж.	_	_	_	_	_	_	_	Shift=22
+7	А	_	_	_	_	_	_	_	Shift=27|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=28
+9	думает	_	_	_	_	_	_	_	Shift=30|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=36
+11	ерунда	_	_	_	_	_	_	_	Shift=38|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=44
+
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p1-s2
+# text = А потом видит, нет, не ерунда''.
+1	А	_	_	_	_	_	_	_	Shift=46
+2	потом	_	_	_	_	_	_	_	Shift=48
+3	видит	_	_	_	_	_	_	_	Shift=54|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=59
+5	нет	_	_	_	_	_	_	_	Shift=61|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=64
+7	не	_	_	_	_	_	_	_	Shift=66
+8	ерунда	_	_	_	_	_	_	_	Shift=69|SpaceAfter=No
+9	''	_	_	_	_	_	_	_	Shift=75|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=76
+
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p1-s3
+# text = Это из Зощенко.
+1	Это	_	_	_	_	_	_	_	Shift=78
+2	из	_	_	_	_	_	_	_	Shift=82
+3	Зощенко	_	_	_	_	_	_	_	Shift=85|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=92
+
+# newpar id = d0f07dce-1a9f-4251-8244-8477ce179265-p2
+# par_text = У Кроммелинка примерно так же. У красавицы Леоны внезапно умирает муж. На сцене он не появляется, и зрителю известно лишь то, что он достойный человек, но совершеннейший тюфяк. Во всяком случае, вокруг жены вечно крутятся трое любовников, двое бывших и один настоящий.
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p2-s1
+# text = У Кроммелинка примерно так же.
+1	У	_	_	_	_	_	_	_	Shift=94
+2	Кроммелинка	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=238|RuCor_group_id=412751|RuCor_link_id=0|Shift=96
+3	примерно	_	_	_	_	_	_	_	Shift=108
+4	так	_	_	_	_	_	_	_	Shift=117
+5	же	_	_	_	_	_	_	_	Shift=121|SpaceAfter=No
+6	.	_	_	_	_	_	_	_	Shift=123
+
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p2-s2
+# text = У красавицы Леоны внезапно умирает муж. На сцене он не появляется, и зрителю известно лишь то, что он достойный человек, но совершеннейший тюфяк.
+1	У	_	_	_	_	_	_	_	Shift=125
+2	красавицы	_	_	_	_	_	_	_	RuCor_chain_id=243|RuCor_group_id=412712|Shift=127
+3	Леоны	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=243|RuCor_group_id=412712|RuCor_link_id=0|Shift=137
+4	внезапно	_	_	_	_	_	_	_	Shift=143
+5	умирает	_	_	_	_	_	_	_	Shift=152
+6	муж.	_	_	_	_	_	_	_	Shift=160
+7	На	_	_	_	_	_	_	_	Shift=165
+8	сцене	_	_	_	_	_	_	_	Shift=168
+9	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=244|RuCor_group_id=412710|RuCor_link_id=412709|Shift=174
+10	не	_	_	_	_	_	_	_	Shift=177
+11	появляется	_	_	_	_	_	_	_	Shift=180|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=190
+13	и	_	_	_	_	_	_	_	Shift=192
+14	зрителю	_	_	_	_	_	_	_	Shift=194
+15	известно	_	_	_	_	_	_	_	Shift=202
+16	лишь	_	_	_	_	_	_	_	Shift=211
+17	то	_	_	_	_	_	_	_	Shift=216|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=218
+19	что	_	_	_	_	_	_	_	Shift=220
+20	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=244|RuCor_group_id=412711|RuCor_link_id=412710|Shift=224
+21	достойный	_	_	_	_	_	_	_	Shift=227
+22	человек	_	_	_	_	_	_	_	Shift=237|SpaceAfter=No
+23	,	_	_	_	_	_	_	_	Shift=244
+24	но	_	_	_	_	_	_	_	Shift=246
+25	совершеннейший	_	_	_	_	_	_	_	Shift=249
+26	тюфяк	_	_	_	_	_	_	_	Shift=264|SpaceAfter=No
+27	.	_	_	_	_	_	_	_	Shift=269
+
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p2-s3
+# text = Во всяком случае, вокруг жены вечно крутятся трое любовников, двое бывших и один настоящий.
+1	Во	_	_	_	_	_	_	_	Shift=271
+2	всяком	_	_	_	_	_	_	_	Shift=274
+3	случае	_	_	_	_	_	_	_	Shift=281|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=287
+5	вокруг	_	_	_	_	_	_	_	Shift=289
+6	жены	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=243|RuCor_group_id=412713|RuCor_link_id=412712|Shift=296
+7	вечно	_	_	_	_	_	_	_	Shift=301
+8	крутятся	_	_	_	_	_	_	_	Shift=307
+9	трое	_	_	_	_	_	_	_	Shift=316
+10	любовников	_	_	_	_	_	_	_	Shift=321|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=331
+12	двое	_	_	_	_	_	_	_	Shift=333
+13	бывших	_	_	_	_	_	_	_	Shift=338
+14	и	_	_	_	_	_	_	_	Shift=345
+15	один	_	_	_	_	_	_	_	Shift=347
+16	настоящий	_	_	_	_	_	_	_	Shift=352|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=361
+
+# newpar id = d0f07dce-1a9f-4251-8244-8477ce179265-p3
+# par_text = Среди прочих прощаться с покойным приходит молодая женщина. Вероятно, родственница. Но нет, как выясняется, не родственница. Хуже. Много хуже. Фели — любовница мужа, с которой тот, оказывается, был близок на протяжении десяти лет.
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p3-s1
+# text = Среди прочих прощаться с покойным приходит молодая женщина.
+1	Среди	_	_	_	_	_	_	_	Shift=363
+2	прочих	_	_	_	_	_	_	_	Shift=369
+3	прощаться	_	_	_	_	_	_	_	Shift=376
+4	с	_	_	_	_	_	_	_	Shift=386
+5	покойным	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=244|RuCor_group_id=412714|RuCor_link_id=412709|Shift=388
+6	приходит	_	_	_	_	_	_	_	Shift=397
+7	молодая	_	_	_	_	_	_	_	RuCor_chain_id=242|RuCor_group_id=412717|Shift=406
+8	женщина	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=242|RuCor_group_id=412717|RuCor_link_id=0|Shift=414|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=421
+
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p3-s2
+# text = Вероятно, родственница.
+1	Вероятно	_	_	_	_	_	_	_	Shift=423|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=431
+3	родственница	_	_	_	_	_	_	_	Shift=433|SpaceAfter=No
+4	.	_	_	_	_	_	_	_	Shift=445
+
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p3-s3
+# text = Но нет, как выясняется, не родственница.
+1	Но	_	_	_	_	_	_	_	Shift=447
+2	нет	_	_	_	_	_	_	_	Shift=450|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=453
+4	как	_	_	_	_	_	_	_	Shift=455
+5	выясняется	_	_	_	_	_	_	_	Shift=459|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=469
+7	не	_	_	_	_	_	_	_	Shift=471
+8	родственница	_	_	_	_	_	_	_	Shift=474|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=486
+
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p3-s4
+# text = Хуже.
+1	Хуже	_	_	_	_	_	_	_	Shift=488|SpaceAfter=No
+2	.	_	_	_	_	_	_	_	Shift=492
+
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p3-s5
+# text = Много хуже.
+1	Много	_	_	_	_	_	_	_	Shift=494
+2	хуже	_	_	_	_	_	_	_	Shift=500|SpaceAfter=No
+3	.	_	_	_	_	_	_	_	Shift=504
+
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p3-s6
+# text = Фели - любовница мужа, с которой тот, оказывается, был близок на протяжении десяти лет.
+1	Фели	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=242|RuCor_group_id=412718|RuCor_link_id=412717|Shift=506
+2	-	_	_	_	_	_	_	_	Shift=511
+3	любовница	_	_	_	_	_	_	_	RuCor_attrs_ref=pred|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=242|RuCor_group_id=412719|RuCor_link_id=412718|Shift=513
+4	мужа	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=244|RuCor_group_id=412715|RuCor_link_id=412709|Shift=523|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=527
+6	с	_	_	_	_	_	_	_	Shift=529
+7	которой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=rel|RuCor_attrs_type=coref|RuCor_chain_id=242|RuCor_group_id=412720|RuCor_link_id=412719|Shift=531
+8	тот	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=244|RuCor_group_id=412716|RuCor_link_id=412715|Shift=539|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=542
+10	оказывается	_	_	_	_	_	_	_	Shift=544|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=555
+12	был	_	_	_	_	_	_	_	Shift=557
+13	близок	_	_	_	_	_	_	_	Shift=561
+14	на	_	_	_	_	_	_	_	Shift=568
+15	протяжении	_	_	_	_	_	_	_	Shift=571
+16	десяти	_	_	_	_	_	_	_	Shift=582
+17	лет	_	_	_	_	_	_	_	Shift=589|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=592
+
+# newpar id = d0f07dce-1a9f-4251-8244-8477ce179265-p4
+# par_text = Вначале Леона не может поверить, что он вообще был способен любить. Потом тому, как его, скучного и, по-видимому, неопрятного немолодого человека, могла полюбить юная женщина.
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p4-s1
+# text = Вначале Леона не может поверить, что он вообще был способен любить.
+1	Вначале	_	_	_	_	_	_	_	Shift=594
+2	Леона	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=243|RuCor_group_id=412721|RuCor_link_id=412712|Shift=602
+3	не	_	_	_	_	_	_	_	Shift=608
+4	может	_	_	_	_	_	_	_	Shift=611
+5	поверить	_	_	_	_	_	_	_	Shift=617|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=625
+7	что	_	_	_	_	_	_	_	Shift=627
+8	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=244|RuCor_group_id=412722|RuCor_link_id=412709|Shift=631
+9	вообще	_	_	_	_	_	_	_	Shift=634
+10	был	_	_	_	_	_	_	_	Shift=641
+11	способен	_	_	_	_	_	_	_	Shift=645
+12	любить	_	_	_	_	_	_	_	Shift=654|SpaceAfter=No
+13	.	_	_	_	_	_	_	_	Shift=660
+
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p4-s2
+# text = Потом тому, как его, скучного и, по-видимому, неопрятного немолодого человека, могла полюбить юная женщина.
+1	Потом	_	_	_	_	_	_	_	Shift=662
+2	тому	_	_	_	_	_	_	_	Shift=668|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=672
+4	как	_	_	_	_	_	_	_	Shift=674
+5	его	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=244|RuCor_group_id=412723|RuCor_link_id=412722|Shift=678|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=681
+7	скучного	_	_	_	_	_	_	_	RuCor_chain_id=244|RuCor_group_id=412724|Shift=683
+8	и	_	_	_	_	_	_	_	RuCor_chain_id=244|RuCor_group_id=412724|Shift=692|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	RuCor_chain_id=244|RuCor_group_id=412724|Shift=693
+10	по-видимому	_	_	_	_	_	_	_	Shift=695|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	RuCor_chain_id=244|RuCor_group_id=412724|Shift=706
+12	неопрятного	_	_	_	_	_	_	_	RuCor_chain_id=244|RuCor_group_id=412724|Shift=708
+13	немолодого	_	_	_	_	_	_	_	RuCor_chain_id=244|RuCor_group_id=412724|Shift=720
+14	человека	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=appo|RuCor_attrs_type=coref|RuCor_chain_id=244|RuCor_group_id=412724|RuCor_link_id=412723|Shift=731|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=739
+16	могла	_	_	_	_	_	_	_	Shift=741
+17	полюбить	_	_	_	_	_	_	_	Shift=747
+18	юная	_	_	_	_	_	_	_	Shift=756
+19	женщина	_	_	_	_	_	_	_	Shift=761|SpaceAfter=No
+20	.	_	_	_	_	_	_	_	Shift=768
+
+# newpar id = d0f07dce-1a9f-4251-8244-8477ce179265-p5
+# par_text = «Ты видела когда-нибудь, как он ест?» — множество раз вопрошает Леона соперницу. Но та не слышит, видно замечала в нём нечто другое, для неё более важное.
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p5-s1
+# text = « Ты видела когда-нибудь, как он ест? »
+1	``	_	_	_	_	_	_	_	QuotationStart=«|Shift=770
+2	Ты	_	_	_	_	_	_	_	RuCor_attrs_ref=ds|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=242|RuCor_group_id=412728|RuCor_link_id=412727|Shift=771
+3	видела	_	_	_	_	_	_	_	Shift=774
+4	когда-нибудь	_	_	_	_	_	_	_	Shift=781|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=793
+6	как	_	_	_	_	_	_	_	Shift=795
+7	он	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=244|RuCor_group_id=412725|RuCor_link_id=412722|Shift=799
+8	ест	_	_	_	_	_	_	_	Shift=802|SpaceAfter=No
+9	?	_	_	_	_	_	_	_	Shift=805
+10	''	_	_	_	_	_	_	_	QuotationEnd=»|Shift=806
+
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p5-s2
+# text = - множество раз вопрошает Леона соперницу.
+1	-	_	_	_	_	_	_	_	Shift=808
+2	множество	_	_	_	_	_	_	_	Shift=810
+3	раз	_	_	_	_	_	_	_	Shift=820
+4	вопрошает	_	_	_	_	_	_	_	Shift=824
+5	Леона	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=243|RuCor_group_id=412726|RuCor_link_id=412712|Shift=834
+6	соперницу	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=242|RuCor_group_id=412727|RuCor_link_id=412717|Shift=840|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=849
+
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p5-s3
+# text = Но та не слышит, видно замечала в нём нечто другое, для неё более важное.
+1	Но	_	_	_	_	_	_	_	Shift=851
+2	та	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=242|RuCor_group_id=412729|RuCor_link_id=412727|Shift=854
+3	не	_	_	_	_	_	_	_	Shift=857
+4	слышит	_	_	_	_	_	_	_	Shift=860|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=866
+6	видно	_	_	_	_	_	_	_	Shift=868
+7	замечала	_	_	_	_	_	_	_	Shift=874
+8	в	_	_	_	_	_	_	_	Shift=883
+9	нём	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=244|RuCor_group_id=412730|RuCor_link_id=412723|Shift=885
+10	нечто	_	_	_	_	_	_	_	Shift=889
+11	другое	_	_	_	_	_	_	_	Shift=895|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=901
+13	для	_	_	_	_	_	_	_	Shift=903
+14	неё	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=242|RuCor_group_id=412731|RuCor_link_id=412729|Shift=907
+15	более	_	_	_	_	_	_	_	Shift=911
+16	важное	_	_	_	_	_	_	_	Shift=917|SpaceAfter=No
+17	.	_	_	_	_	_	_	_	Shift=923
+
+# newpar id = d0f07dce-1a9f-4251-8244-8477ce179265-p6
+# par_text = К тому же покойный всё имущество оставил в наследство жене, а Фели — лишь место в склепе, завещав похоронить в назначенный час вместе с ним не жену, а её.
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p6-s1
+# text = К тому же покойный всё имущество оставил в наследство жене, а Фели - лишь место в склепе, завещав похоронить в назначенный час вместе с ним не жену, а её.
+1	К	_	_	_	_	_	_	_	Shift=925
+2	тому	_	_	_	_	_	_	_	Shift=927
+3	же	_	_	_	_	_	_	_	Shift=932
+4	покойный	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=244|RuCor_group_id=412732|RuCor_link_id=412725|Shift=935
+5	всё	_	_	_	_	_	_	_	Shift=944
+6	имущество	_	_	_	_	_	_	_	Shift=948
+7	оставил	_	_	_	_	_	_	_	Shift=958
+8	в	_	_	_	_	_	_	_	Shift=966
+9	наследство	_	_	_	_	_	_	_	Shift=968
+10	жене	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=243|RuCor_group_id=412733|RuCor_link_id=412726|Shift=979|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=983
+12	а	_	_	_	_	_	_	_	Shift=985
+13	Фели	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=242|RuCor_group_id=412734|RuCor_link_id=412727|Shift=987
+14	-	_	_	_	_	_	_	_	Shift=992
+15	лишь	_	_	_	_	_	_	_	Shift=994
+16	место	_	_	_	_	_	_	_	Shift=999
+17	в	_	_	_	_	_	_	_	Shift=1005
+18	склепе	_	_	_	_	_	_	_	Shift=1007|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=1013
+20	завещав	_	_	_	_	_	_	_	Shift=1015
+21	похоронить	_	_	_	_	_	_	_	Shift=1023
+22	в	_	_	_	_	_	_	_	Shift=1034
+23	назначенный	_	_	_	_	_	_	_	Shift=1036
+24	час	_	_	_	_	_	_	_	Shift=1048
+25	вместе	_	_	_	_	_	_	_	Shift=1052
+26	с	_	_	_	_	_	_	_	Shift=1059
+27	ним	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=244|RuCor_group_id=412735|RuCor_link_id=412730|Shift=1061
+28	не	_	_	_	_	_	_	_	Shift=1065
+29	жену	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=243|RuCor_group_id=412736|RuCor_link_id=412733|Shift=1068|SpaceAfter=No
+30	,	_	_	_	_	_	_	_	Shift=1072
+31	а	_	_	_	_	_	_	_	Shift=1074
+32	её	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=242|RuCor_group_id=412737|RuCor_link_id=412734|Shift=1076|SpaceAfter=No
+33	.	_	_	_	_	_	_	_	Shift=1078
+
+# newpar id = d0f07dce-1a9f-4251-8244-8477ce179265-p7
+# par_text = Уж это Леона не в состоянии перенести. И неудивительно — оскорбление глубже чувствует тот, кто сам оскорблял, и не раз.
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p7-s1
+# text = Уж это Леона не в состоянии перенести.
+1	Уж	_	_	_	_	_	_	_	Shift=1080
+2	это	_	_	_	_	_	_	_	Shift=1083
+3	Леона	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=243|RuCor_group_id=412738|RuCor_link_id=412712|Shift=1087
+4	не	_	_	_	_	_	_	_	Shift=1093
+5	в	_	_	_	_	_	_	_	Shift=1096
+6	состоянии	_	_	_	_	_	_	_	Shift=1098
+7	перенести	_	_	_	_	_	_	_	Shift=1108|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=1117
+
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p7-s2
+# text = И неудивительно - оскорбление глубже чувствует тот, кто сам оскорблял, и не раз.
+1	И	_	_	_	_	_	_	_	Shift=1119
+2	неудивительно	_	_	_	_	_	_	_	Shift=1121
+3	-	_	_	_	_	_	_	_	Shift=1135
+4	оскорбление	_	_	_	_	_	_	_	Shift=1137
+5	глубже	_	_	_	_	_	_	_	Shift=1149
+6	чувствует	_	_	_	_	_	_	_	Shift=1156
+7	тот	_	_	_	_	_	_	_	Shift=1166|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1169
+9	кто	_	_	_	_	_	_	_	Shift=1171
+10	сам	_	_	_	_	_	_	_	Shift=1175
+11	оскорблял	_	_	_	_	_	_	_	Shift=1179|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=1188
+13	и	_	_	_	_	_	_	_	Shift=1190
+14	не	_	_	_	_	_	_	_	Shift=1192
+15	раз	_	_	_	_	_	_	_	Shift=1195|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=1198
+
+# newpar id = d0f07dce-1a9f-4251-8244-8477ce179265-p8
+# par_text = Когда же оказывается, что Фели сейчас готова, подобно Джульетте, разделить с любимым смертное ложе, Леона противится этому как только может.
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p8-s1
+# text = Когда же оказывается, что Фели сейчас готова, подобно Джульетте, разделить с любимым смертное ложе, Леона противится этому как только может.
+1	Когда	_	_	_	_	_	_	_	Shift=1200
+2	же	_	_	_	_	_	_	_	Shift=1206
+3	оказывается	_	_	_	_	_	_	_	Shift=1209|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=1220
+5	что	_	_	_	_	_	_	_	Shift=1222
+6	Фели	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=242|RuCor_group_id=412739|RuCor_link_id=412734|Shift=1226
+7	сейчас	_	_	_	_	_	_	_	Shift=1231
+8	готова	_	_	_	_	_	_	_	Shift=1238|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=1244
+10	подобно	_	_	_	_	_	_	_	Shift=1246
+11	Джульетте	_	_	_	_	_	_	_	Shift=1254|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=1263
+13	разделить	_	_	_	_	_	_	_	Shift=1265
+14	с	_	_	_	_	_	_	_	Shift=1275
+15	любимым	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=244|RuCor_group_id=412740|RuCor_link_id=412732|Shift=1277
+16	смертное	_	_	_	_	_	_	_	Shift=1285
+17	ложе	_	_	_	_	_	_	_	Shift=1294|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=1298
+19	Леона	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=243|RuCor_group_id=412741|RuCor_link_id=412738|Shift=1300
+20	противится	_	_	_	_	_	_	_	Shift=1306
+21	этому	_	_	_	_	_	_	_	Shift=1317
+22	как	_	_	_	_	_	_	_	Shift=1323
+23	только	_	_	_	_	_	_	_	Shift=1327
+24	может	_	_	_	_	_	_	_	Shift=1334|SpaceAfter=No
+25	.	_	_	_	_	_	_	_	Shift=1339
+
+# newpar id = d0f07dce-1a9f-4251-8244-8477ce179265-p9
+# par_text = …Думаю, не у одного меня во время спектакля возник вопрос: а зачем, собственно, перед нами «ломают комедию», к тому же из какой-то далёкой прошлой жизни? Или это не комедия, а мелодрама, не поймёшь.
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p9-s1
+# text = Думаю, не у одного меня во время спектакля возник вопрос: а зачем, собственно, перед нами ``ломают комедию'', к тому же из какой-то далёкой прошлой жизни?
+1	Думаю	_	_	_	_	_	_	_	Shift=1342|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=1347
+3	не	_	_	_	_	_	_	_	Shift=1349
+4	у	_	_	_	_	_	_	_	Shift=1352
+5	одного	_	_	_	_	_	_	_	Shift=1354
+6	меня	_	_	_	_	_	_	_	Shift=1361
+7	во	_	_	_	_	_	_	_	Shift=1366
+8	время	_	_	_	_	_	_	_	Shift=1369
+9	спектакля	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=241|RuCor_group_id=412742|RuCor_link_id=0|Shift=1375
+10	возник	_	_	_	_	_	_	_	Shift=1385
+11	вопрос	_	_	_	_	_	_	_	Shift=1392|SpaceAfter=No
+12	:	_	_	_	_	_	_	_	Shift=1398
+13	а	_	_	_	_	_	_	_	Shift=1400
+14	зачем	_	_	_	_	_	_	_	Shift=1402|SpaceAfter=No
+15	,	_	_	_	_	_	_	_	Shift=1407
+16	собственно	_	_	_	_	_	_	_	Shift=1409|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=1419
+18	перед	_	_	_	_	_	_	_	Shift=1421
+19	нами	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=240|RuCor_group_id=412744|RuCor_link_id=0|Shift=1427
+20	``	_	_	_	_	_	_	_	Shift=1432|SpaceAfter=No
+21	ломают	_	_	_	_	_	_	_	Shift=1433
+22	комедию	_	_	_	_	_	_	_	Shift=1440|SpaceAfter=No
+23	''	_	_	_	_	_	_	_	Shift=1447|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=1448
+25	к	_	_	_	_	_	_	_	Shift=1450
+26	тому	_	_	_	_	_	_	_	Shift=1452
+27	же	_	_	_	_	_	_	_	Shift=1457
+28	из	_	_	_	_	_	_	_	Shift=1460
+29	какой-то	_	_	_	_	_	_	_	Shift=1463
+30	далёкой	_	_	_	_	_	_	_	Shift=1472
+31	прошлой	_	_	_	_	_	_	_	Shift=1480
+32	жизни	_	_	_	_	_	_	_	Shift=1488|SpaceAfter=No
+33	?	_	_	_	_	_	_	_	Shift=1493
+
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p9-s2
+# text = Или это не комедия, а мелодрама, не поймёшь.
+1	Или	_	_	_	_	_	_	_	Shift=1495
+2	это	_	_	_	_	_	_	_	Shift=1499
+3	не	_	_	_	_	_	_	_	Shift=1503
+4	комедия	_	_	_	_	_	_	_	Shift=1506|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1513
+6	а	_	_	_	_	_	_	_	Shift=1515
+7	мелодрама	_	_	_	_	_	_	_	Shift=1517|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1526
+9	не	_	_	_	_	_	_	_	Shift=1528
+10	поймёшь	_	_	_	_	_	_	_	Shift=1531|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=1538
+
+# newpar id = d0f07dce-1a9f-4251-8244-8477ce179265-p10
+# par_text = В буржуазном интерьере двухэтажного дома (художник Сергей Бархин) устраивают едва ли не цирк с клоунадой, потом актёры, а точнее актрисы (Виктория Верберг, Татьяна Рыбинец, Екатерина Александрушкина и Наталья Мотева) уходят от эксцентрики к психологизму. Мужчины как-то менее заметны в этом спектакле, главного персонажа, повторяю, мы вообще не увидим. А вот женщины азартно носятся по сцене, дурачат мужчин и дурачатся сами.
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p10-s1
+# text = В буржуазном интерьере двухэтажного дома (художник Сергей Бархин) устраивают едва ли не цирк с клоунадой, потом актёры, а точнее актрисы (Виктория Верберг, Татьяна Рыбинец, Екатерина Александрушкина и Наталья Мотева) уходят от эксцентрики к психологизму.
+1	В	_	_	_	_	_	_	_	Shift=1540
+2	буржуазном	_	_	_	_	_	_	_	Shift=1542
+3	интерьере	_	_	_	_	_	_	_	Shift=1553
+4	двухэтажного	_	_	_	_	_	_	_	Shift=1563
+5	дома	_	_	_	_	_	_	_	Shift=1576
+6	(	_	_	_	_	_	_	_	Shift=1581|SpaceAfter=No
+7	художник	_	_	_	_	_	_	_	Shift=1582
+8	Сергей	_	_	_	_	_	_	_	Shift=1591
+9	Бархин	_	_	_	_	_	_	_	Shift=1598|SpaceAfter=No
+10	)	_	_	_	_	_	_	_	Shift=1604
+11	устраивают	_	_	_	_	_	_	_	Shift=1606
+12	едва	_	_	_	_	_	_	_	Shift=1617
+13	ли	_	_	_	_	_	_	_	Shift=1622
+14	не	_	_	_	_	_	_	_	Shift=1625
+15	цирк	_	_	_	_	_	_	_	Shift=1628
+16	с	_	_	_	_	_	_	_	Shift=1633
+17	клоунадой	_	_	_	_	_	_	_	Shift=1635|SpaceAfter=No
+18	,	_	_	_	_	_	_	_	Shift=1644
+19	потом	_	_	_	_	_	_	_	Shift=1646
+20	актёры	_	_	_	_	_	_	_	Shift=1652|SpaceAfter=No
+21	,	_	_	_	_	_	_	_	Shift=1658
+22	а	_	_	_	_	_	_	_	Shift=1660
+23	точнее	_	_	_	_	_	_	_	Shift=1662
+24	актрисы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=245|RuCor_group_id=412708|RuCor_link_id=0|Shift=1669
+25	(	_	_	_	_	_	_	_	Shift=1677|SpaceAfter=No
+26	Виктория	_	_	_	_	_	_	_	RuCor_chain_id=245|RuCor_group_id=412764|Shift=1678
+27	Верберг	_	_	_	_	_	_	_	RuCor_chain_id=245|RuCor_group_id=412764|Shift=1687|SpaceAfter=No
+28	,	_	_	_	_	_	_	_	RuCor_chain_id=245|RuCor_group_id=412764|Shift=1694
+29	Татьяна	_	_	_	_	_	_	_	RuCor_chain_id=245|RuCor_group_id=412764|Shift=1696
+30	Рыбинец	_	_	_	_	_	_	_	RuCor_chain_id=245|RuCor_group_id=412764|Shift=1704|SpaceAfter=No
+31	,	_	_	_	_	_	_	_	RuCor_chain_id=245|RuCor_group_id=412764|Shift=1711
+32	Екатерина	_	_	_	_	_	_	_	RuCor_chain_id=245|RuCor_group_id=412764|Shift=1713
+33	Александрушкина	_	_	_	_	_	_	_	RuCor_chain_id=245|RuCor_group_id=412764|Shift=1723
+34	и	_	_	_	_	_	_	_	RuCor_chain_id=245|RuCor_group_id=412764|Shift=1739
+35	Наталья	_	_	_	_	_	_	_	RuCor_chain_id=245|RuCor_group_id=412764|Shift=1741
+36	Мотева	_	_	_	_	_	_	_	RuCor_chain_id=245|RuCor_group_id=412764|Shift=1749|SpaceAfter=No
+37	)	_	_	_	_	_	_	_	Shift=1755
+38	уходят	_	_	_	_	_	_	_	Shift=1757
+39	от	_	_	_	_	_	_	_	Shift=1764
+40	эксцентрики	_	_	_	_	_	_	_	Shift=1767
+41	к	_	_	_	_	_	_	_	Shift=1779
+42	психологизму	_	_	_	_	_	_	_	Shift=1781|SpaceAfter=No
+43	.	_	_	_	_	_	_	_	Shift=1793
+
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p10-s2
+# text = Мужчины как-то менее заметны в этом спектакле, главного персонажа, повторяю, мы вообще не увидим.
+1	Мужчины	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=239|RuCor_group_id=412747|RuCor_link_id=0|Shift=1795
+2	как-то	_	_	_	_	_	_	_	Shift=1803
+3	менее	_	_	_	_	_	_	_	Shift=1810
+4	заметны	_	_	_	_	_	_	_	Shift=1816
+5	в	_	_	_	_	_	_	_	Shift=1824
+6	этом	_	_	_	_	_	_	_	RuCor_chain_id=241|RuCor_group_id=412743|Shift=1826
+7	спектакле	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=241|RuCor_group_id=412743|RuCor_link_id=412742|Shift=1831|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1840
+9	главного	_	_	_	_	_	_	_	Shift=1842
+10	персонажа	_	_	_	_	_	_	_	Shift=1851|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=1860
+12	повторяю	_	_	_	_	_	_	_	Shift=1862|SpaceAfter=No
+13	,	_	_	_	_	_	_	_	Shift=1870
+14	мы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=240|RuCor_group_id=412745|RuCor_link_id=412744|Shift=1872
+15	вообще	_	_	_	_	_	_	_	Shift=1875
+16	не	_	_	_	_	_	_	_	Shift=1882
+17	увидим	_	_	_	_	_	_	_	Shift=1885|SpaceAfter=No
+18	.	_	_	_	_	_	_	_	Shift=1891
+
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p10-s3
+# text = А вот женщины азартно носятся по сцене, дурачат мужчин и дурачатся сами.
+1	А	_	_	_	_	_	_	_	Shift=1893
+2	вот	_	_	_	_	_	_	_	Shift=1895
+3	женщины	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=245|RuCor_group_id=412746|RuCor_link_id=412708|Shift=1899
+4	азартно	_	_	_	_	_	_	_	Shift=1907
+5	носятся	_	_	_	_	_	_	_	Shift=1915
+6	по	_	_	_	_	_	_	_	Shift=1923
+7	сцене	_	_	_	_	_	_	_	Shift=1926|SpaceAfter=No
+8	,	_	_	_	_	_	_	_	Shift=1931
+9	дурачат	_	_	_	_	_	_	_	Shift=1933
+10	мужчин	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=239|RuCor_group_id=412748|RuCor_link_id=412747|Shift=1941
+11	и	_	_	_	_	_	_	_	Shift=1948
+12	дурачатся	_	_	_	_	_	_	_	Shift=1950
+13	сами	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=245|RuCor_group_id=412749|RuCor_link_id=412746|Shift=1960|SpaceAfter=No
+14	.	_	_	_	_	_	_	_	Shift=1964
+
+# newpar id = d0f07dce-1a9f-4251-8244-8477ce179265-p11
+# par_text = Смотреть в общем интересно, а так — нет. В смысле «Гиви, ты помидоры любишь?» — «Кушать люблю, а так — нет».
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p11-s1
+# text = Смотреть в общем интересно, а так - нет.
+1	Смотреть	_	_	_	_	_	_	_	Shift=1966
+2	в	_	_	_	_	_	_	_	Shift=1975
+3	общем	_	_	_	_	_	_	_	Shift=1977
+4	интересно	_	_	_	_	_	_	_	Shift=1983|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=1992
+6	а	_	_	_	_	_	_	_	Shift=1994
+7	так	_	_	_	_	_	_	_	Shift=1996
+8	-	_	_	_	_	_	_	_	Shift=2000
+9	нет	_	_	_	_	_	_	_	Shift=2002|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=2005
+
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p11-s2
+# text = В смысле « Гиви, ты помидоры любишь? »
+1	В	_	_	_	_	_	_	_	Shift=2007
+2	смысле	_	_	_	_	_	_	_	Shift=2009
+3	``	_	_	_	_	_	_	_	QuotationStart=«|Shift=2016
+4	Гиви	_	_	_	_	_	_	_	Shift=2017|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=2021
+6	ты	_	_	_	_	_	_	_	Shift=2023
+7	помидоры	_	_	_	_	_	_	_	Shift=2026
+8	любишь	_	_	_	_	_	_	_	Shift=2035|SpaceAfter=No
+9	?	_	_	_	_	_	_	_	Shift=2041
+10	''	_	_	_	_	_	_	_	QuotationEnd=»|Shift=2042
+
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p11-s3
+# text = - ``Кушать люблю, а так - нет''.
+1	-	_	_	_	_	_	_	_	Shift=2044
+2	``	_	_	_	_	_	_	_	Shift=2046|SpaceAfter=No
+3	Кушать	_	_	_	_	_	_	_	Shift=2047
+4	люблю	_	_	_	_	_	_	_	Shift=2054|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=2059
+6	а	_	_	_	_	_	_	_	Shift=2061
+7	так	_	_	_	_	_	_	_	Shift=2063
+8	-	_	_	_	_	_	_	_	Shift=2067
+9	нет	_	_	_	_	_	_	_	Shift=2069|SpaceAfter=No
+10	''	_	_	_	_	_	_	_	Shift=2072|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=2073
+
+# newpar id = d0f07dce-1a9f-4251-8244-8477ce179265-p12
+# par_text = «Так — нет» продолжается до тех пор, покуда не понимаешь, чего ради вспомнила Генриетта Яновская забытую пьесу Фернана Кроммелинка, известного русской сцене по мейерхольдовскому и позже фоменковскому «Великодушному рогоносцу». По её собственному признанию, спектакль адресован женщинам. Попытаюсь угадать, что же она имела в виду.
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p12-s1
+# text = ``Так - нет'' продолжается до тех пор, покуда не понимаешь, чего ради вспомнила Генриетта Яновская забытую пьесу Фернана Кроммелинка, известного русской сцене по мейерхольдовскому и позже фоменковскому ``Великодушному рогоносцу''.
+1	``	_	_	_	_	_	_	_	Shift=2075|SpaceAfter=No
+2	Так	_	_	_	_	_	_	_	Shift=2076
+3	-	_	_	_	_	_	_	_	Shift=2080
+4	нет	_	_	_	_	_	_	_	Shift=2082|SpaceAfter=No
+5	''	_	_	_	_	_	_	_	Shift=2085
+6	продолжается	_	_	_	_	_	_	_	Shift=2087
+7	до	_	_	_	_	_	_	_	Shift=2100
+8	тех	_	_	_	_	_	_	_	Shift=2103
+9	пор	_	_	_	_	_	_	_	Shift=2107|SpaceAfter=No
+10	,	_	_	_	_	_	_	_	Shift=2110
+11	покуда	_	_	_	_	_	_	_	Shift=2112
+12	не	_	_	_	_	_	_	_	Shift=2119
+13	понимаешь	_	_	_	_	_	_	_	Shift=2122|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=2131
+15	чего	_	_	_	_	_	_	_	Shift=2133
+16	ради	_	_	_	_	_	_	_	Shift=2138
+17	вспомнила	_	_	_	_	_	_	_	Shift=2143
+18	Генриетта	_	_	_	_	_	_	_	RuCor_chain_id=237|RuCor_group_id=412752|Shift=2153
+19	Яновская	_	_	_	_	_	_	_	RuCor_chain_id=237|RuCor_group_id=412752|Shift=2163
+20	забытую	_	_	_	_	_	_	_	Shift=2172
+21	пьесу	_	_	_	_	_	_	_	Shift=2180
+22	Фернана	_	_	_	_	_	_	_	RuCor_chain_id=238|RuCor_group_id=412750|Shift=2186
+23	Кроммелинка	_	_	_	_	_	_	_	RuCor_chain_id=238|RuCor_group_id=412750|Shift=2194|SpaceAfter=No
+24	,	_	_	_	_	_	_	_	Shift=2205
+25	известного	_	_	_	_	_	_	_	Shift=2207
+26	русской	_	_	_	_	_	_	_	Shift=2218
+27	сцене	_	_	_	_	_	_	_	Shift=2226
+28	по	_	_	_	_	_	_	_	Shift=2232
+29	мейерхольдовскому	_	_	_	_	_	_	_	Shift=2235
+30	и	_	_	_	_	_	_	_	Shift=2253
+31	позже	_	_	_	_	_	_	_	Shift=2255
+32	фоменковскому	_	_	_	_	_	_	_	Shift=2261
+33	``	_	_	_	_	_	_	_	Shift=2275|SpaceAfter=No
+34	Великодушному	_	_	_	_	_	_	_	Shift=2276
+35	рогоносцу	_	_	_	_	_	_	_	Shift=2290|SpaceAfter=No
+36	''	_	_	_	_	_	_	_	Shift=2299|SpaceAfter=No
+37	.	_	_	_	_	_	_	_	Shift=2300
+
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p12-s2
+# text = По её собственному признанию, спектакль адресован женщинам.
+1	По	_	_	_	_	_	_	_	Shift=2302
+2	её	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=poss|RuCor_attrs_type=coref|RuCor_chain_id=237|RuCor_group_id=412753|RuCor_link_id=412752|Shift=2305
+3	собственному	_	_	_	_	_	_	_	Shift=2308
+4	признанию	_	_	_	_	_	_	_	Shift=2321|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=2330
+6	спектакль	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=241|RuCor_group_id=412755|RuCor_link_id=412743|Shift=2332
+7	адресован	_	_	_	_	_	_	_	Shift=2342
+8	женщинам	_	_	_	_	_	_	_	Shift=2352|SpaceAfter=No
+9	.	_	_	_	_	_	_	_	Shift=2360
+
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p12-s3
+# text = Попытаюсь угадать, что же она имела в виду.
+1	Попытаюсь	_	_	_	_	_	_	_	Shift=2362
+2	угадать	_	_	_	_	_	_	_	Shift=2372|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=2379
+4	что	_	_	_	_	_	_	_	Shift=2381
+5	же	_	_	_	_	_	_	_	Shift=2385
+6	она	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=237|RuCor_group_id=412754|RuCor_link_id=412752|Shift=2388
+7	имела	_	_	_	_	_	_	_	Shift=2392
+8	в	_	_	_	_	_	_	_	Shift=2398
+9	виду	_	_	_	_	_	_	_	Shift=2400|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=2404
+
+# newpar id = d0f07dce-1a9f-4251-8244-8477ce179265-p13
+# par_text = Думаю, женщины, даже те, кто не обманывают мужей, вечно ведут себя с мужчинами как взрослые с детьми-недоумками. Так вот, не следует нас недооценивать. Иначе может последовать «мне отмщение, и аз воздам».
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p13-s1
+# text = Думаю, женщины, даже те, кто не обманывают мужей, вечно ведут себя с мужчинами как взрослые с детьми - недоумками.
+1	Думаю	_	_	_	_	_	_	_	Shift=2406|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=2411
+3	женщины	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=anaph|RuCor_chain_id=236|RuCor_group_id=412761|RuCor_link_id=0|Shift=2413|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2420
+5	даже	_	_	_	_	_	_	_	Shift=2422
+6	те	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=anaph|RuCor_chain_id=236|RuCor_group_id=412762|RuCor_link_id=412761|Shift=2427|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=2429
+8	кто	_	_	_	_	_	_	_	Shift=2431
+9	не	_	_	_	_	_	_	_	Shift=2435
+10	обманывают	_	_	_	_	_	_	_	Shift=2438
+11	мужей	_	_	_	_	_	_	_	Shift=2449|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=2454
+13	вечно	_	_	_	_	_	_	_	Shift=2456
+14	ведут	_	_	_	_	_	_	_	Shift=2462
+15	себя	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=anaph|RuCor_chain_id=236|RuCor_group_id=412763|RuCor_link_id=412762|Shift=2468
+16	с	_	_	_	_	_	_	_	Shift=2473
+17	мужчинами	_	_	_	_	_	_	_	Shift=2475
+18	как	_	_	_	_	_	_	_	Shift=2485
+19	взрослые	_	_	_	_	_	_	_	Shift=2489
+20	с	_	_	_	_	_	_	_	Shift=2498
+21	детьми	_	_	_	_	_	_	_	Shift=2500
+22	-	_	_	_	_	_	_	_	Shift=2506
+23	недоумками	_	_	_	_	_	_	_	Shift=2507|SpaceAfter=No
+24	.	_	_	_	_	_	_	_	Shift=2517
+
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p13-s2
+# text = Так вот, не следует нас недооценивать.
+1	Так	_	_	_	_	_	_	_	Shift=2519
+2	вот	_	_	_	_	_	_	_	Shift=2523|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=2526
+4	не	_	_	_	_	_	_	_	Shift=2528
+5	следует	_	_	_	_	_	_	_	Shift=2531
+6	нас	_	_	_	_	_	_	_	Shift=2539
+7	недооценивать	_	_	_	_	_	_	_	Shift=2543|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=2556
+
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p13-s3
+# text = Иначе может последовать ``мне отмщение, и аз воздам''.
+1	Иначе	_	_	_	_	_	_	_	Shift=2558
+2	может	_	_	_	_	_	_	_	Shift=2564
+3	последовать	_	_	_	_	_	_	_	Shift=2570
+4	``	_	_	_	_	_	_	_	Shift=2582|SpaceAfter=No
+5	мне	_	_	_	_	_	_	_	Shift=2583
+6	отмщение	_	_	_	_	_	_	_	Shift=2587|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=2595
+8	и	_	_	_	_	_	_	_	Shift=2597
+9	аз	_	_	_	_	_	_	_	Shift=2599
+10	воздам	_	_	_	_	_	_	_	Shift=2602|SpaceAfter=No
+11	''	_	_	_	_	_	_	_	Shift=2608|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=2609
+
+# newpar id = d0f07dce-1a9f-4251-8244-8477ce179265-p14
+# par_text = Едва ли не любая мужская измена — месть жене. Не только за бл…во, бывает, за нелюбовь, пренебрежение, невнимание. Просто уйти способен не каждый, мешает множество причин — от экономических до просто привычки, слабость человеческая, наконец.
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p14-s1
+# text = Едва ли не любая мужская измена - месть жене.
+1	Едва	_	_	_	_	_	_	_	Shift=2611
+2	ли	_	_	_	_	_	_	_	Shift=2616
+3	не	_	_	_	_	_	_	_	Shift=2619
+4	любая	_	_	_	_	_	_	_	Shift=2622
+5	мужская	_	_	_	_	_	_	_	Shift=2628
+6	измена	_	_	_	_	_	_	_	Shift=2636
+7	-	_	_	_	_	_	_	_	Shift=2643
+8	месть	_	_	_	_	_	_	_	Shift=2645
+9	жене	_	_	_	_	_	_	_	Shift=2651|SpaceAfter=No
+10	.	_	_	_	_	_	_	_	Shift=2655
+
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p14-s2
+# text = Не только за бл... во, бывает, за нелюбовь, пренебрежение, невнимание.
+1	Не	_	_	_	_	_	_	_	Shift=2657
+2	только	_	_	_	_	_	_	_	Shift=2660
+3	за	_	_	_	_	_	_	_	Shift=2667
+4	бл	_	_	_	_	_	_	_	Shift=2670|SpaceAfter=No
+5	...	_	_	_	_	_	_	_	Shift=2672
+6	во	_	_	_	_	_	_	_	Shift=2673|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=2675
+8	бывает	_	_	_	_	_	_	_	Shift=2677|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=2683
+10	за	_	_	_	_	_	_	_	Shift=2685
+11	нелюбовь	_	_	_	_	_	_	_	Shift=2688|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=2696
+13	пренебрежение	_	_	_	_	_	_	_	Shift=2698|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=2711
+15	невнимание	_	_	_	_	_	_	_	Shift=2713|SpaceAfter=No
+16	.	_	_	_	_	_	_	_	Shift=2723
+
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p14-s3
+# text = Просто уйти способен не каждый, мешает множество причин - от экономических до просто привычки, слабость человеческая, наконец.
+1	Просто	_	_	_	_	_	_	_	Shift=2725
+2	уйти	_	_	_	_	_	_	_	Shift=2732
+3	способен	_	_	_	_	_	_	_	Shift=2737
+4	не	_	_	_	_	_	_	_	Shift=2746
+5	каждый	_	_	_	_	_	_	_	Shift=2749|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=2755
+7	мешает	_	_	_	_	_	_	_	Shift=2757
+8	множество	_	_	_	_	_	_	_	Shift=2764
+9	причин	_	_	_	_	_	_	_	Shift=2774
+10	-	_	_	_	_	_	_	_	Shift=2781
+11	от	_	_	_	_	_	_	_	Shift=2783
+12	экономических	_	_	_	_	_	_	_	Shift=2786
+13	до	_	_	_	_	_	_	_	Shift=2800
+14	просто	_	_	_	_	_	_	_	Shift=2803
+15	привычки	_	_	_	_	_	_	_	Shift=2810|SpaceAfter=No
+16	,	_	_	_	_	_	_	_	Shift=2818
+17	слабость	_	_	_	_	_	_	_	Shift=2820
+18	человеческая	_	_	_	_	_	_	_	Shift=2829|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=2841
+20	наконец	_	_	_	_	_	_	_	Shift=2843|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=2850
+
+# newpar id = d0f07dce-1a9f-4251-8244-8477ce179265-p15
+# par_text = Мужчину-мстителя охватывает сложное чувство. С одной стороны, жена не должна ни о чём догадываться. С другой — втайне мечтается, чтобы когда-нибудь, лучше на смертном одре, когда терять уже нечего, всё вышло наружу. Пусть узнает, а потом увидит. Или, наоборот, сначала увидит, а потом узнает. Узнает и что-то поймёт.
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p15-s1
+# text = Мужчину - мстителя охватывает сложное чувство.
+1	Мужчину	_	_	_	_	_	_	_	Shift=2852
+2	-	_	_	_	_	_	_	_	Shift=2859
+3	мстителя	_	_	_	_	_	_	_	Shift=2860
+4	охватывает	_	_	_	_	_	_	_	Shift=2869
+5	сложное	_	_	_	_	_	_	_	Shift=2880
+6	чувство	_	_	_	_	_	_	_	Shift=2888|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=2895
+
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p15-s2
+# text = С одной стороны, жена не должна ни о чём догадываться.
+1	С	_	_	_	_	_	_	_	Shift=2897
+2	одной	_	_	_	_	_	_	_	Shift=2899
+3	стороны	_	_	_	_	_	_	_	Shift=2905|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=2912
+5	жена	_	_	_	_	_	_	_	Shift=2914
+6	не	_	_	_	_	_	_	_	Shift=2919
+7	должна	_	_	_	_	_	_	_	Shift=2922
+8	ни	_	_	_	_	_	_	_	Shift=2929
+9	о	_	_	_	_	_	_	_	Shift=2932
+10	чём	_	_	_	_	_	_	_	Shift=2934
+11	догадываться	_	_	_	_	_	_	_	Shift=2938|SpaceAfter=No
+12	.	_	_	_	_	_	_	_	Shift=2950
+
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p15-s3
+# text = С другой - втайне мечтается, чтобы когда-нибудь, лучше на смертном одре, когда терять уже нечего, всё вышло наружу.
+1	С	_	_	_	_	_	_	_	Shift=2952
+2	другой	_	_	_	_	_	_	_	Shift=2954
+3	-	_	_	_	_	_	_	_	Shift=2961
+4	втайне	_	_	_	_	_	_	_	Shift=2963
+5	мечтается	_	_	_	_	_	_	_	Shift=2970|SpaceAfter=No
+6	,	_	_	_	_	_	_	_	Shift=2979
+7	чтобы	_	_	_	_	_	_	_	Shift=2981
+8	когда-нибудь	_	_	_	_	_	_	_	Shift=2987|SpaceAfter=No
+9	,	_	_	_	_	_	_	_	Shift=2999
+10	лучше	_	_	_	_	_	_	_	Shift=3001
+11	на	_	_	_	_	_	_	_	Shift=3007
+12	смертном	_	_	_	_	_	_	_	Shift=3010
+13	одре	_	_	_	_	_	_	_	Shift=3019|SpaceAfter=No
+14	,	_	_	_	_	_	_	_	Shift=3023
+15	когда	_	_	_	_	_	_	_	Shift=3025
+16	терять	_	_	_	_	_	_	_	Shift=3031
+17	уже	_	_	_	_	_	_	_	Shift=3038
+18	нечего	_	_	_	_	_	_	_	Shift=3042|SpaceAfter=No
+19	,	_	_	_	_	_	_	_	Shift=3048
+20	всё	_	_	_	_	_	_	_	Shift=3050
+21	вышло	_	_	_	_	_	_	_	Shift=3054
+22	наружу	_	_	_	_	_	_	_	Shift=3060|SpaceAfter=No
+23	.	_	_	_	_	_	_	_	Shift=3066
+
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p15-s4
+# text = Пусть узнает, а потом увидит.
+1	Пусть	_	_	_	_	_	_	_	Shift=3068
+2	узнает	_	_	_	_	_	_	_	Shift=3074|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=3080
+4	а	_	_	_	_	_	_	_	Shift=3082
+5	потом	_	_	_	_	_	_	_	Shift=3084
+6	увидит	_	_	_	_	_	_	_	Shift=3090|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=3096
+
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p15-s5
+# text = Или, наоборот, сначала увидит, а потом узнает.
+1	Или	_	_	_	_	_	_	_	Shift=3098|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=3101
+3	наоборот	_	_	_	_	_	_	_	Shift=3103|SpaceAfter=No
+4	,	_	_	_	_	_	_	_	Shift=3111
+5	сначала	_	_	_	_	_	_	_	Shift=3113
+6	увидит	_	_	_	_	_	_	_	Shift=3121|SpaceAfter=No
+7	,	_	_	_	_	_	_	_	Shift=3127
+8	а	_	_	_	_	_	_	_	Shift=3129
+9	потом	_	_	_	_	_	_	_	Shift=3131
+10	узнает	_	_	_	_	_	_	_	Shift=3137|SpaceAfter=No
+11	.	_	_	_	_	_	_	_	Shift=3143
+
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p15-s6
+# text = Узнает и что-то поймёт.
+1	Узнает	_	_	_	_	_	_	_	Shift=3145
+2	и	_	_	_	_	_	_	_	Shift=3152
+3	что-то	_	_	_	_	_	_	_	Shift=3154
+4	поймёт	_	_	_	_	_	_	_	Shift=3161|SpaceAfter=No
+5	.	_	_	_	_	_	_	_	Shift=3167
+
+# newpar id = d0f07dce-1a9f-4251-8244-8477ce179265-p16
+# par_text = С Леоной так оно и получается. Узнала. Увидела. Поняла, что случившееся вовсе не ерунда.
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p16-s1
+# text = С Леоной так оно и получается.
+1	С	_	_	_	_	_	_	_	Shift=3169
+2	Леоной	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=243|RuCor_group_id=412756|RuCor_link_id=412738|Shift=3171
+3	так	_	_	_	_	_	_	_	Shift=3178
+4	оно	_	_	_	_	_	_	_	Shift=3182
+5	и	_	_	_	_	_	_	_	Shift=3186
+6	получается	_	_	_	_	_	_	_	Shift=3188|SpaceAfter=No
+7	.	_	_	_	_	_	_	_	Shift=3198
+
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p16-s2
+# text = Узнала.
+1	Узнала	_	_	_	_	_	_	_	Shift=3200|SpaceAfter=No
+2	.	_	_	_	_	_	_	_	Shift=3206
+
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p16-s3
+# text = Увидела.
+1	Увидела	_	_	_	_	_	_	_	Shift=3208|SpaceAfter=No
+2	.	_	_	_	_	_	_	_	Shift=3215
+
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p16-s4
+# text = Поняла, что случившееся вовсе не ерунда.
+1	Поняла	_	_	_	_	_	_	_	Shift=3217|SpaceAfter=No
+2	,	_	_	_	_	_	_	_	Shift=3223
+3	что	_	_	_	_	_	_	_	Shift=3225
+4	случившееся	_	_	_	_	_	_	_	Shift=3229
+5	вовсе	_	_	_	_	_	_	_	Shift=3241
+6	не	_	_	_	_	_	_	_	Shift=3247
+7	ерунда	_	_	_	_	_	_	_	Shift=3250|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=3256
+
+# newpar id = d0f07dce-1a9f-4251-8244-8477ce179265-p17
+# par_text = И что дальше? В жизни на том всё обычно заканчивается. На сцене обманутая вдова замысливает интригу и отправляет последнего оставшегося любовника, самого молодого и лучшего, в объятья разлучницы. И та, представьте, вмиг забывает о своём недавнем намерении покончить с собой. Что в очередной раз подтверждает правоту широко известного исторического деятеля, однажды заметившего: «Любовь побеждает смерть».
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p17-s1
+# text = И что дальше?
+1	И	_	_	_	_	_	_	_	Shift=3258
+2	что	_	_	_	_	_	_	_	Shift=3260
+3	дальше	_	_	_	_	_	_	_	Shift=3264|SpaceAfter=No
+4	?	_	_	_	_	_	_	_	Shift=3270
+
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p17-s2
+# text = В жизни на том всё обычно заканчивается.
+1	В	_	_	_	_	_	_	_	Shift=3272
+2	жизни	_	_	_	_	_	_	_	Shift=3274
+3	на	_	_	_	_	_	_	_	Shift=3280
+4	том	_	_	_	_	_	_	_	Shift=3283
+5	всё	_	_	_	_	_	_	_	Shift=3287
+6	обычно	_	_	_	_	_	_	_	Shift=3291
+7	заканчивается	_	_	_	_	_	_	_	Shift=3298|SpaceAfter=No
+8	.	_	_	_	_	_	_	_	Shift=3311
+
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p17-s3
+# text = На сцене обманутая вдова замысливает интригу и отправляет последнего оставшегося любовника, самого молодого и лучшего, в объятья разлучницы.
+1	На	_	_	_	_	_	_	_	Shift=3313
+2	сцене	_	_	_	_	_	_	_	Shift=3316
+3	обманутая	_	_	_	_	_	_	_	RuCor_chain_id=243|RuCor_group_id=412757|Shift=3322
+4	вдова	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=243|RuCor_group_id=412757|RuCor_link_id=412756|Shift=3332
+5	замысливает	_	_	_	_	_	_	_	Shift=3338
+6	интригу	_	_	_	_	_	_	_	Shift=3350
+7	и	_	_	_	_	_	_	_	Shift=3358
+8	отправляет	_	_	_	_	_	_	_	Shift=3360
+9	последнего	_	_	_	_	_	_	_	Shift=3371
+10	оставшегося	_	_	_	_	_	_	_	Shift=3382
+11	любовника	_	_	_	_	_	_	_	Shift=3394|SpaceAfter=No
+12	,	_	_	_	_	_	_	_	Shift=3403
+13	самого	_	_	_	_	_	_	_	Shift=3405
+14	молодого	_	_	_	_	_	_	_	Shift=3412
+15	и	_	_	_	_	_	_	_	Shift=3421
+16	лучшего	_	_	_	_	_	_	_	Shift=3423|SpaceAfter=No
+17	,	_	_	_	_	_	_	_	Shift=3430
+18	в	_	_	_	_	_	_	_	Shift=3432
+19	объятья	_	_	_	_	_	_	_	Shift=3434
+20	разлучницы	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=noun|RuCor_attrs_type=coref|RuCor_chain_id=242|RuCor_group_id=412759|RuCor_link_id=412739|Shift=3442|SpaceAfter=No
+21	.	_	_	_	_	_	_	_	Shift=3452
+
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p17-s4
+# text = И та, представьте, вмиг забывает о своём недавнем намерении покончить с собой.
+1	И	_	_	_	_	_	_	_	Shift=3454
+2	та	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=pron|RuCor_attrs_type=coref|RuCor_chain_id=242|RuCor_group_id=412760|RuCor_link_id=412759|Shift=3456|SpaceAfter=No
+3	,	_	_	_	_	_	_	_	Shift=3458
+4	представьте	_	_	_	_	_	_	_	Shift=3460|SpaceAfter=No
+5	,	_	_	_	_	_	_	_	Shift=3471
+6	вмиг	_	_	_	_	_	_	_	Shift=3473
+7	забывает	_	_	_	_	_	_	_	Shift=3478
+8	о	_	_	_	_	_	_	_	Shift=3487
+9	своём	_	_	_	_	_	_	_	Shift=3489
+10	недавнем	_	_	_	_	_	_	_	Shift=3495
+11	намерении	_	_	_	_	_	_	_	Shift=3504
+12	покончить	_	_	_	_	_	_	_	Shift=3514
+13	с	_	_	_	_	_	_	_	Shift=3524
+14	собой	_	_	_	_	_	_	_	RuCor_attrs_ref=def|RuCor_attrs_str=refl|RuCor_attrs_type=coref|RuCor_chain_id=242|RuCor_group_id=412758|RuCor_link_id=412760|Shift=3526|SpaceAfter=No
+15	.	_	_	_	_	_	_	_	Shift=3531
+
+# sent_id = d0f07dce-1a9f-4251-8244-8477ce179265-p17-s5
+# text = Что в очередной раз подтверждает правоту широко известного исторического деятеля, однажды заметившего: ``Любовь побеждает смерть''.
+1	Что	_	_	_	_	_	_	_	Shift=3533
+2	в	_	_	_	_	_	_	_	Shift=3537
+3	очередной	_	_	_	_	_	_	_	Shift=3539
+4	раз	_	_	_	_	_	_	_	Shift=3549
+5	подтверждает	_	_	_	_	_	_	_	Shift=3553
+6	правоту	_	_	_	_	_	_	_	Shift=3566
+7	широко	_	_	_	_	_	_	_	Shift=3574
+8	известного	_	_	_	_	_	_	_	Shift=3581
+9	исторического	_	_	_	_	_	_	_	Shift=3592
+10	деятеля	_	_	_	_	_	_	_	Shift=3606|SpaceAfter=No
+11	,	_	_	_	_	_	_	_	Shift=3613
+12	однажды	_	_	_	_	_	_	_	Shift=3615
+13	заметившего	_	_	_	_	_	_	_	Shift=3623|SpaceAfter=No
+14	:	_	_	_	_	_	_	_	Shift=3634
+15	``	_	_	_	_	_	_	_	Shift=3636|SpaceAfter=No
+16	Любовь	_	_	_	_	_	_	_	Shift=3637
+17	побеждает	_	_	_	_	_	_	_	Shift=3644
+18	смерть	_	_	_	_	_	_	_	Shift=3654|SpaceAfter=No
+19	''	_	_	_	_	_	_	_	SpaceAfter=No
+20	.	_	_	_	_	_	_	_	_
+

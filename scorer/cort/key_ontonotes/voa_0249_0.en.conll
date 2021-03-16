@@ -1,0 +1,38 @@
+#begin document (voa_0249_0); part 000
+voa_0249	0	0	Reports	NNS	(TOP(S(NP(NP*)	report	01	2	-	-
+voa_0249	0	1	from	IN	(PP*	-	-	-	-	-
+voa_0249	0	2	China	NNP	(NP*)))	-	-	-	-	-
+voa_0249	0	3	say	VBP	(VP*	say	01	4	-	-
+voa_0249	0	4	North	JJ	(SBAR(S(NP(NML(ADJP*	-	-	-	-	(0
+voa_0249	0	5	Korean	JJ	*)	-	-	-	-	-
+voa_0249	0	6	President	NNP	*)	-	-	-	-	-
+voa_0249	0	7	Kim	NNP	*	-	-	-	-	-
+voa_0249	0	8	Jong	NNP	*	-	-	-	-	-
+voa_0249	0	9	Il	NNP	*)	-	-	-	-	0)
+voa_0249	0	10	is	VBZ	(VP*	be	03	-	-	-
+voa_0249	0	11	planning	VBG	(VP*	plan	01	1	-	-
+voa_0249	0	12	to	TO	(S(VP*	-	-	-	-	-
+voa_0249	0	13	announce	VB	(VP*	announce	01	1	-	-
+voa_0249	0	14	economic	JJ	(NP(NP*	-	-	-	-	-
+voa_0249	0	15	reforms	NNS	*)	reform	-	1	-	-
+voa_0249	0	16	for	IN	(PP*	-	-	-	-	-
+voa_0249	0	17	his	PRP$	(NP*	-	-	-	-	(0)
+voa_0249	0	18	country	NN	*)))))))))))	country	-	3	-	-
+voa_0249	0	19	.	.	*))	-	-	-	-	-
+
+voa_0249	0	0	Mr.	NNP	(TOP(S(NP*	-	-	-	-	(0
+voa_0249	0	1	Kim	NNP	*)	-	-	-	-	0)
+voa_0249	0	2	visited	VBD	(VP*	visit	01	1	-	-
+voa_0249	0	3	a	DT	(NP(NP*	-	-	-	-	-
+voa_0249	0	4	center	NN	*)	center	-	2	-	-
+voa_0249	0	5	for	IN	(PP*	-	-	-	-	-
+voa_0249	0	6	high	JJ	(NP(NML*	-	-	-	-	-
+voa_0249	0	7	technology	NN	*)	technology	-	1	-	-
+voa_0249	0	8	business	NN	*))	business	-	1	-	-
+voa_0249	0	9	in	IN	(PP*	-	-	-	-	-
+voa_0249	0	10	Shanghai	NNP	(NP*)))	-	-	-	-	-
+voa_0249	0	11	on	IN	(PP*	-	-	-	-	-
+voa_0249	0	12	Friday	NNP	(NP*)))	-	-	-	-	-
+voa_0249	0	13	.	.	*))	-	-	-	-	-
+
+#end document

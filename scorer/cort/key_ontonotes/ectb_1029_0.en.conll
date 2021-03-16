@@ -1,0 +1,406 @@
+#begin document (ectb_1029_0); part 000
+ectb_1029	0	0	Powerful	JJ	(TOP(NP(NP(NP*	-	-	-	-	-
+ectb_1029	0	1	Tools	NNS	*)	-	-	-	-	-
+ectb_1029	0	2	for	IN	(PP*	-	-	-	-	-
+ectb_1029	0	3	Biotechnology	NN	(NP*)))	-	-	-	-	-
+ectb_1029	0	4	-	:	*	-	-	-	-	-
+ectb_1029	0	5	Biochips	NNS	(NP*)))	-	-	-	-	-
+
+ectb_1029	0	0	-LRB-	-LRB-	(TOP(FRAG*	-	-	-	-	-
+ectb_1029	0	1	Chang	NNP	(NP*	-	-	-	-	-
+ectb_1029	0	2	Chiung	NNP	*	-	-	-	-	-
+ectb_1029	0	3	-	HYPH	*	-	-	-	-	-
+ectb_1029	0	4	fang	NNP	*)	-	-	-	-	-
+ectb_1029	0	5	/	:	*	-	-	-	-	-
+ectb_1029	0	6	photos	NNS	(NP(NP*)	-	-	-	-	-
+ectb_1029	0	7	by	IN	(PP*	-	-	-	-	-
+ectb_1029	0	8	Hsueh	NNP	(NP*	-	-	-	-	-
+ectb_1029	0	9	Chi	NNP	*	-	-	-	-	-
+ectb_1029	0	10	-	HYPH	*	-	-	-	-	-
+ectb_1029	0	11	kuang	NNP	*)))	-	-	-	-	-
+ectb_1029	0	12	/	,	*	-	-	-	-	-
+ectb_1029	0	13	tr.	VBN	(VP*	translate	01	-	-	-
+ectb_1029	0	14	by	IN	(PP*	-	-	-	-	-
+ectb_1029	0	15	Robert	NNP	(NP*	-	-	-	-	-
+ectb_1029	0	16	Taylor	NNP	*)))	-	-	-	-	-
+ectb_1029	0	17	-RRB-	-RRB-	*))	-	-	-	-	-
+
+ectb_1029	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	-
+ectb_1029	0	1	enterovirus	NN	(NML*	-	-	-	-	-
+ectb_1029	0	2	detection	NN	*)	-	-	-	-	-
+ectb_1029	0	3	biochip	NN	*)	-	-	-	-	-
+ectb_1029	0	4	developed	VBN	(VP*	develop	02	1	-	-
+ectb_1029	0	5	by	IN	(PP*	-	-	-	-	-
+ectb_1029	0	6	DR.	NNP	(NP*	-	-	-	-	-
+ectb_1029	0	7	Chip	NNP	*	-	-	-	-	-
+ectb_1029	0	8	Biotechnology	NNP	*))))	-	-	-	-	-
+ectb_1029	0	9	takes	VBZ	(VP*	take	10	3	-	-
+ectb_1029	0	10	only	RB	(NP*	-	-	-	-	-
+ectb_1029	0	11	six	CD	*	-	-	-	-	-
+ectb_1029	0	12	hours	NNS	*)	hour	-	1	-	-
+ectb_1029	0	13	to	TO	(S(VP*	-	-	-	-	-
+ectb_1029	0	14	give	VB	(VP*	give	01	2	-	-
+ectb_1029	0	15	hospitals	NNS	(NP*)	-	-	-	-	-
+ectb_1029	0	16	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1029	0	17	answer	NN	*)	answer	01	1	-	-
+ectb_1029	0	18	to	IN	(PP*	-	-	-	-	-
+ectb_1029	0	19	whether	IN	(SBAR(SBAR*	-	-	-	-	-
+ectb_1029	0	20	a	DT	(S(NP*	-	-	-	-	-
+ectb_1029	0	21	sample	NN	*)	sample	-	2	-	-
+ectb_1029	0	22	contains	VBZ	(VP*	contain	01	1	-	-
+ectb_1029	0	23	enterovirus	NN	(NP*))))	-	-	-	-	(6)
+ectb_1029	0	24	,	,	*	-	-	-	-	-
+ectb_1029	0	25	and	CC	*	-	-	-	-	-
+ectb_1029	0	26	if	IN	(SBAR*	-	-	-	-	-
+ectb_1029	0	27	it	PRP	(S(NP*)	-	-	-	-	(6)
+ectb_1029	0	28	is	VBZ	(VP*	be	01	1	-	-
+ectb_1029	0	29	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1029	0	30	deadly	JJ	*	-	-	-	-	-
+ectb_1029	0	31	strain	NN	*)	-	-	-	-	-
+ectb_1029	0	32	Entero	NNP	(NP*	-	-	-	-	-
+ectb_1029	0	33	71	NNP	*))))))))))))	-	-	-	-	-
+ectb_1029	0	34	.	.	*))	-	-	-	-	-
+
+ectb_1029	0	0	Worldwide	RB	(TOP(S(ADVP*)	-	-	-	-	-
+ectb_1029	0	1	,	,	*	-	-	-	-	-
+ectb_1029	0	2	biotechnology	NN	(NP*)	-	-	-	-	-
+ectb_1029	0	3	is	VBZ	(VP*	be	01	1	-	-
+ectb_1029	0	4	a	DT	(NP(NP*	-	-	-	-	-
+ectb_1029	0	5	rising	VBG	*	rise	01	-	-	-
+ectb_1029	0	6	star	NN	*)	star	-	2	-	-
+ectb_1029	0	7	of	IN	(PP*	-	-	-	-	-
+ectb_1029	0	8	the	DT	(NP*	-	-	-	-	-
+ectb_1029	0	9	industrial	JJ	*	-	-	-	-	-
+ectb_1029	0	10	stage	NN	*))))	stage	-	6	-	-
+ectb_1029	0	11	.	.	*))	-	-	-	-	-
+
+ectb_1029	0	0	In	IN	(TOP(S(PP*	-	-	-	-	-
+ectb_1029	0	1	Taiwan	NNP	(NP*))	-	-	-	-	(21)
+ectb_1029	0	2	,	,	*	-	-	-	-	-
+ectb_1029	0	3	in	IN	(PP*	-	-	-	-	-
+ectb_1029	0	4	recent	JJ	(NP*	-	-	-	-	-
+ectb_1029	0	5	years	NNS	*))	-	-	-	-	-
+ectb_1029	0	6	the	DT	(NP(NP(NP*	-	-	-	-	-
+ectb_1029	0	7	Ministry	NNP	*)	-	-	-	-	-
+ectb_1029	0	8	of	IN	(PP*	-	-	-	-	-
+ectb_1029	0	9	Economic	NNP	(NP*	-	-	-	-	-
+ectb_1029	0	10	Affairs	NNPS	*)))	-	-	-	-	-
+ectb_1029	0	11	,	,	*	-	-	-	-	-
+ectb_1029	0	12	the	DT	(NP*	-	-	-	-	-
+ectb_1029	0	13	National	NNP	*	-	-	-	-	-
+ectb_1029	0	14	Science	NNP	*	-	-	-	-	-
+ectb_1029	0	15	Council	NNP	*)	-	-	-	-	-
+ectb_1029	0	16	and	CC	*	-	-	-	-	-
+ectb_1029	0	17	the	DT	(NP*	-	-	-	-	-
+ectb_1029	0	18	National	NNP	*	-	-	-	-	-
+ectb_1029	0	19	Health	NNP	*	-	-	-	-	-
+ectb_1029	0	20	Research	NNP	*	-	-	-	-	-
+ectb_1029	0	21	Institutes	NNPS	*))	-	-	-	-	-
+ectb_1029	0	22	have	VBP	(VP*	have	01	-	-	-
+ectb_1029	0	23	been	VBN	(VP*	be	03	-	-	-
+ectb_1029	0	24	strongly	RB	(ADVP*)	-	-	-	-	-
+ectb_1029	0	25	pursuing	VBG	(VP*	pursue	01	1	-	-
+ectb_1029	0	26	"	``	(NP*	-	-	-	-	-
+ectb_1029	0	27	biochip	NN	*	-	-	-	-	-
+ectb_1029	0	28	"	''	*	-	-	-	-	-
+ectb_1029	0	29	research	NN	*	-	-	-	-	-
+ectb_1029	0	30	programs	NNS	*))))	program	-	3	-	-
+ectb_1029	0	31	.	.	*))	-	-	-	-	-
+
+ectb_1029	0	0	In	IN	(TOP(S(PP*	-	-	-	-	-
+ectb_1029	0	1	the	DT	(NP*	-	-	-	-	-
+ectb_1029	0	2	last	JJ	*	-	-	-	-	-
+ectb_1029	0	3	two	CD	*	-	-	-	-	-
+ectb_1029	0	4	years	NNS	*))	-	-	-	-	-
+ectb_1029	0	5	,	,	*	-	-	-	-	-
+ectb_1029	0	6	three	CD	(NP*	-	-	-	-	-
+ectb_1029	0	7	biochip	NN	*	-	-	-	-	-
+ectb_1029	0	8	companies	NNS	*)	company	-	1	-	-
+ectb_1029	0	9	have	VBP	(VP*	have	01	-	-	-
+ectb_1029	0	10	also	RB	(ADVP*)	-	-	-	-	-
+ectb_1029	0	11	been	VBN	(VP*	be	03	-	-	-
+ectb_1029	0	12	set	VBN	(VP*	set	03	-	-	-
+ectb_1029	0	13	up	RP	(PRT*)	-	-	-	-	-
+ectb_1029	0	14	in	IN	(PP*	-	-	-	-	-
+ectb_1029	0	15	Taiwan	NNP	(NP*)))))	-	-	-	-	(21)
+ectb_1029	0	16	.	.	*))	-	-	-	-	-
+
+ectb_1029	0	0	Just	RB	(TOP(SBARQ(WHNP*	-	-	-	-	-
+ectb_1029	0	1	what	WP	*)	-	-	-	-	-
+ectb_1029	0	2	are	VBP	(SQ*	be	01	2	-	-
+ectb_1029	0	3	biochips	NNS	(NP*))	-	-	-	-	(23)
+ectb_1029	0	4	?	.	*))	-	-	-	-	-
+
+ectb_1029	0	0	What	WDT	(TOP(SBARQ(WHNP*	-	-	-	-	-
+ectb_1029	0	1	use	NN	*)	use	-	3	-	-
+ectb_1029	0	2	are	VBP	(SQ*	be	01	1	-	-
+ectb_1029	0	3	they	PRP	(NP*)	-	-	-	-	(23)
+ectb_1029	0	4	to	IN	(PP*	-	-	-	-	-
+ectb_1029	0	5	mankind	NN	(NP*)))	-	-	-	-	-
+ectb_1029	0	6	?	.	*))	-	-	-	-	-
+
+ectb_1029	0	0	Why	WRB	(TOP(SBARQ(WHADVP*)	-	-	-	-	-
+ectb_1029	0	1	do	VBP	(SQ*	do	01	-	-	-
+ectb_1029	0	2	so	RB	(NP(ADJP*	-	-	-	-	-
+ectb_1029	0	3	many	JJ	*)	-	-	-	-	-
+ectb_1029	0	4	people	NNS	*)	people	-	1	-	-
+ectb_1029	0	5	have	VB	(VP*	have	03	2	-	-
+ectb_1029	0	6	such	DT	(NP(NP*	-	-	-	-	-
+ectb_1029	0	7	confidence	NN	*)	-	-	-	-	-
+ectb_1029	0	8	in	IN	(PP*	-	-	-	-	-
+ectb_1029	0	9	their	PRP$	(NP*	-	-	-	-	(23)
+ectb_1029	0	10	future	NN	*)))))	future	-	4	-	-
+ectb_1029	0	11	?	.	*))	-	-	-	-	-
+
+ectb_1029	0	0	What	WP	(TOP(SBARQ(WHNP*)	-	-	-	-	-
+ectb_1029	0	1	is	VBZ	(SQ*	be	01	2	-	-
+ectb_1029	0	2	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1029	0	3	current	JJ	*	-	-	-	-	-
+ectb_1029	0	4	state	NN	*)	state	-	2	-	-
+ectb_1029	0	5	of	IN	(PP*	-	-	-	-	-
+ectb_1029	0	6	this	DT	(NP*	-	-	-	-	-
+ectb_1029	0	7	field	NN	*))	field	-	3	-	-
+ectb_1029	0	8	in	IN	(PP*	-	-	-	-	-
+ectb_1029	0	9	Taiwan	NNP	(NP*))))	-	-	-	-	(21)
+ectb_1029	0	10	?	.	*))	-	-	-	-	-
+
+ectb_1029	0	0	And	CC	(TOP(SBARQ*	-	-	-	-	-
+ectb_1029	0	1	what	WP	(WHNP*)	-	-	-	-	-
+ectb_1029	0	2	are	VBP	(SQ*	be	01	2	-	-
+ectb_1029	0	3	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1029	0	4	prospects	NNS	*)	-	-	-	-	-
+ectb_1029	0	5	for	IN	(PP*	-	-	-	-	-
+ectb_1029	0	6	future	JJ	(NP*	-	-	-	-	-
+ectb_1029	0	7	development	NN	*))))	-	-	-	-	-
+ectb_1029	0	8	?	.	*))	-	-	-	-	-
+
+ectb_1029	0	0	Let	VB	(TOP(S(VP*	let	01	1	-	-
+ectb_1029	0	1	's	PRP	(S(NP*)	-	-	-	-	-
+ectb_1029	0	2	take	VB	(VP*	take	-	2	-	-
+ectb_1029	0	3	a	DT	(NP*	-	-	-	-	-
+ectb_1029	0	4	closer	JJR	*	-	-	-	-	-
+ectb_1029	0	5	look	NN	*))))	look	01	2	-	-
+ectb_1029	0	6	.	.	*))	-	-	-	-	-
+
+ectb_1029	0	0	In	IN	(TOP(S(PP*	-	-	-	-	-
+ectb_1029	0	1	just	RB	(NP*	-	-	-	-	-
+ectb_1029	0	2	a	DT	(NP(NP*	-	-	-	-	-
+ectb_1029	0	3	few	JJ	*	-	-	-	-	-
+ectb_1029	0	4	years	NNS	*	-	-	-	-	-
+ectb_1029	0	5	'	POS	*)	-	-	-	-	-
+ectb_1029	0	6	time	NN	*)	time	-	2	-	-
+ectb_1029	0	7	,	,	*	-	-	-	-	-
+ectb_1029	0	8	or	CC	*	-	-	-	-	-
+ectb_1029	0	9	a	DT	(NP*	-	-	-	-	-
+ectb_1029	0	10	few	JJ	*	-	-	-	-	-
+ectb_1029	0	11	decades	NNS	*)))	decade	-	1	-	-
+ectb_1029	0	12	,	,	*	-	-	-	-	-
+ectb_1029	0	13	the	DT	(NP*	-	-	-	-	-
+ectb_1029	0	14	following	VBG	*	follow	01	-	-	-
+ectb_1029	0	15	scenario	NN	*)	-	-	-	-	-
+ectb_1029	0	16	could	MD	(VP*	-	-	-	-	-
+ectb_1029	0	17	become	VB	(VP*	become	01	1	-	-
+ectb_1029	0	18	a	DT	(NP*	-	-	-	-	-
+ectb_1029	0	19	reality	NN	*)))	reality	-	2	-	-
+ectb_1029	0	20	:	:	*))	-	-	-	-	-
+
+ectb_1029	0	0	When	WRB	(TOP(S(S(SBAR(WHADVP*)	-	-	-	-	*	*
+ectb_1029	0	1	you	PRP	(S(NP*)	-	-	-	-	*	*
+ectb_1029	0	2	're	VBP	(VP*	be	03	-	-	*	*
+ectb_1029	0	3	feeling	VBG	(VP*	feel	01	1	-	*	*
+ectb_1029	0	4	under	IN	(PP*	-	-	-	-	*	*
+ectb_1029	0	5	the	DT	(NP*	-	-	-	-	*	*
+ectb_1029	0	6	weather	NN	*))))))	-	-	-	-	*	*
+ectb_1029	0	7	,	,	*	-	-	-	-	*	*
+ectb_1029	0	8	all	DT	(NP(NP*)	-	-	-	-	*	*
+ectb_1029	0	9	you	PRP	(SBAR(S(NP*)	-	-	-	-	*	*
+ectb_1029	0	10	need	VBP	(VP*	need	01	2	-	*	*
+ectb_1029	0	11	to	TO	(S(VP*	-	-	-	-	*	*
+ectb_1029	0	12	do	VB	(VP*)))))))	do	02	1	-	*	*
+ectb_1029	0	13	is	VBZ	(VP*	be	01	-	-	*	*
+ectb_1029	0	14	buy	VB	(S(S(VP(VP*	buy	01	1	-	*	*
+ectb_1029	0	15	a	DT	(NP*	-	-	-	-	*	*
+ectb_1029	0	16	diagnostic	JJ	*	-	-	-	-	*	*
+ectb_1029	0	17	biochip	NN	*)	-	-	-	-	*	*
+ectb_1029	0	18	from	IN	(PP*	-	-	-	-	*	*
+ectb_1029	0	19	the	DT	(NP(NP*	-	-	-	-	*	*
+ectb_1029	0	20	chemist	NN	*	-	-	-	-	*	*
+ectb_1029	0	21	's	POS	*)	-	-	-	-	*	*
+ectb_1029	0	22	shop	NN	*)))	shop	-	1	-	*	*
+ectb_1029	0	23	,	,	*	-	-	-	-	*	*
+ectb_1029	0	24	put	VB	(VP*	put	01	1	-	*	*
+ectb_1029	0	25	a	DT	(NP(NP*	-	-	-	-	*	*
+ectb_1029	0	26	drop	NN	*)	drop	-	3	-	*	*
+ectb_1029	0	27	of	IN	(PP*	-	-	-	-	*	*
+ectb_1029	0	28	urine	NN	(NP*)))	-	-	-	-	*	*
+ectb_1029	0	29	onto	IN	(PP*	-	-	-	-	*	*
+ectb_1029	0	30	it	PRP	(NP*)))))	-	-	-	-	*	*
+ectb_1029	0	31	,	,	*	-	-	-	-	*	*
+ectb_1029	0	32	and	CC	*	-	-	-	-	*	*
+ectb_1029	0	33	you	PRP	(S(NP*)	-	-	-	-	*	*
+ectb_1029	0	34	will	MD	(VP*	-	-	-	-	*	*
+ectb_1029	0	35	find	VB	(VP*	find	03	1	-	*	*
+ectb_1029	0	36	out	RP	(PRT*)	-	-	-	-	*	*
+ectb_1029	0	37	what	WP	(SBAR(WHNP*)	-	-	-	-	*	*
+ectb_1029	0	38	is	VBZ	(S(VP*	be	01	1	-	*	*
+ectb_1029	0	39	wrong	JJ	(ADJP*	-	-	-	-	*	*
+ectb_1029	0	40	with	IN	(PP*	-	-	-	-	*	*
+ectb_1029	0	41	you	PRP	(NP*))))))))))))	-	-	-	-	*	*
+ectb_1029	0	42	-	,	*	-	-	-	-	*	*
+ectb_1029	0	43	a	DT	(S(NP*	-	-	-	-	*	*
+ectb_1029	0	44	health	NN	*	health	-	1	-	(ARG1*)	(ARG1*)
+ectb_1029	0	45	check	NN	*)	check	01	2	-	(V*)	(V*)
+ectb_1029	0	46	will	MD	(VP*	-	-	-	-	*	*
+ectb_1029	0	47	be	VB	(VP*	be	01	1	-	*	*
+ectb_1029	0	48	as	RB	(ADJP(ADJP*	-	-	-	-	*	*
+ectb_1029	0	49	easy	JJ	*)	-	-	-	-	*	*
+ectb_1029	0	50	as	IN	(PP*	-	-	-	-	*	*
+ectb_1029	0	51	a	DT	(NP(NP*	-	-	-	-	*	*
+ectb_1029	0	52	pregnancy	NN	*	-	-	-	-	*	*
+ectb_1029	0	53	test	NN	*)	test	-	1	-	*	*
+ectb_1029	0	54	today	NN	(NP*)))))))	today	-	2	-	*	*
+ectb_1029	0	55	.	.	*))	-	-	-	-	*	*
+
+ectb_1029	0	0	Everyone	NN	(TOP(S(NP*)	-	-	-	-	(30)
+ectb_1029	0	1	will	MD	(VP*	-	-	-	-	-
+ectb_1029	0	2	carry	VB	(VP*	carry	01	1	-	-
+ectb_1029	0	3	with	IN	(PP*	-	-	-	-	-
+ectb_1029	0	4	them	PRP	(NP*))	-	-	-	-	(30)
+ectb_1029	0	5	a	DT	(NP(NP*	-	-	-	-	(45
+ectb_1029	0	6	biochip	NN	*)	-	-	-	-	-
+ectb_1029	0	7	bearing	VBG	(VP*	bear	01	4	-	-
+ectb_1029	0	8	a	DT	(NP(NP*	-	-	-	-	-
+ectb_1029	0	9	record	NN	*	record	-	1	-	-
+ectb_1029	0	10	and	CC	*	-	-	-	-	-
+ectb_1029	0	11	analysis	NN	*)	analysis	01	1	-	-
+ectb_1029	0	12	of	IN	(PP*	-	-	-	-	-
+ectb_1029	0	13	their	PRP$	(NP*	-	-	-	-	(30)
+ectb_1029	0	14	own	JJ	*	-	-	-	-	-
+ectb_1029	0	15	DNA	NNP	*)))))))	-	-	-	-	45)
+ectb_1029	0	16	.	.	*))	-	-	-	-	-
+
+ectb_1029	0	0	From	IN	(TOP(S(PP*	-	-	-	-	-
+ectb_1029	0	1	it	PRP	(NP*))	-	-	-	-	(45)
+ectb_1029	0	2	one	PRP	(NP*)	-	-	-	-	-
+ectb_1029	0	3	will	MD	(VP*	-	-	-	-	-
+ectb_1029	0	4	not	RB	(CONJP*	-	-	-	-	-
+ectb_1029	0	5	only	RB	*)	-	-	-	-	-
+ectb_1029	0	6	be	VB	(VP*	be	01	1	-	-
+ectb_1029	0	7	able	JJ	(ADJP*	-	-	-	-	-
+ectb_1029	0	8	to	TO	(S(VP(VP*	-	-	-	-	-
+ectb_1029	0	9	see	VB	(VP*	see	01	2	-	-
+ectb_1029	0	10	one	PRP	(NP(NP*	-	-	-	-	-
+ectb_1029	0	11	's	POS	*)	-	-	-	-	-
+ectb_1029	0	12	own	JJ	*	-	-	-	-	-
+ectb_1029	0	13	physical	JJ	*	-	-	-	-	-
+ectb_1029	0	14	condition	NN	*)))	condition	-	1	-	-
+ectb_1029	0	15	,	,	*	-	-	-	-	-
+ectb_1029	0	16	but	CC	*	-	-	-	-	-
+ectb_1029	0	17	even	RB	(VP(ADVP*)	-	-	-	-	-
+ectb_1029	0	18	to	TO	*	-	-	-	-	-
+ectb_1029	0	19	predict	VB	(VP*	predict	01	1	-	-
+ectb_1029	0	20	what	WDT	(SBAR(WHNP*	-	-	-	-	-
+ectb_1029	0	21	diseases	NNS	*)	-	-	-	-	-
+ectb_1029	0	22	one	PRP	(S(NP*)	-	-	-	-	-
+ectb_1029	0	23	will	MD	(VP*	-	-	-	-	-
+ectb_1029	0	24	have	VB	(VP*	have	03	4	-	-
+ectb_1029	0	25	in	IN	(PP*	-	-	-	-	-
+ectb_1029	0	26	the	DT	(NP*	-	-	-	-	-
+ectb_1029	0	27	future	NN	*)))))))))))))	future	-	1	-	-
+ectb_1029	0	28	.	.	*))	-	-	-	-	-
+
+ectb_1029	0	0	It	PRP	(TOP(S(NP*)	-	-	-	-	(45)
+ectb_1029	0	1	will	MD	(VP*	-	-	-	-	-
+ectb_1029	0	2	be	VB	(VP*	be	01	1	-	-
+ectb_1029	0	3	like	IN	(PP*	-	-	-	-	-
+ectb_1029	0	4	an	DT	(NP(NP*	-	-	-	-	-
+ectb_1029	0	5	ID	NN	*	-	-	-	-	-
+ectb_1029	0	6	card	NN	*)	-	-	-	-	-
+ectb_1029	0	7	,	,	*	-	-	-	-	-
+ectb_1029	0	8	needed	VBN	(VP*	need	01	-	-	-
+ectb_1029	0	9	when	WRB	(SBAR(WHADVP*)	-	-	-	-	-
+ectb_1029	0	10	looking	VBG	(S(VP(VP*	look	01	1	-	-
+ectb_1029	0	11	for	IN	(PP*	-	-	-	-	-
+ectb_1029	0	12	work	NN	(NP*)))	work	-	4	-	-
+ectb_1029	0	13	,	,	*	-	-	-	-	-
+ectb_1029	0	14	buying	VBG	(VP*	buy	01	1	-	-
+ectb_1029	0	15	insurance	NN	(NP*))	insurance	-	1	-	-
+ectb_1029	0	16	or	CC	*	-	-	-	-	-
+ectb_1029	0	17	even	RB	(VP(ADVP*)	-	-	-	-	-
+ectb_1029	0	18	seeking	VBG	*	seek	01	1	-	-
+ectb_1029	0	19	a	DT	(NP(NP*	-	-	-	-	-
+ectb_1029	0	20	partner	NN	*)	partner	-	1	-	-
+ectb_1029	0	21	for	IN	(PP*	-	-	-	-	-
+ectb_1029	0	22	love	NN	(NP*	love	-	3	-	-
+ectb_1029	0	23	and	CC	*	-	-	-	-	-
+ectb_1029	0	24	marriage	NN	*))))))))))))	marriage	-	1	-	-
+ectb_1029	0	25	.	.	*))	-	-	-	-	-
+
+ectb_1029	0	0	Laboratories	NNS	(TOP(S(NP*)	-	-	-	-	(41)
+ectb_1029	0	1	will	MD	(VP*	-	-	-	-	-
+ectb_1029	0	2	no	RB	(ADVP*	-	-	-	-	-
+ectb_1029	0	3	longer	RBR	*)	-	-	-	-	-
+ectb_1029	0	4	need	VB	(VP*	need	01	1	-	-
+ectb_1029	0	5	all	DT	(NP(NP*	-	-	-	-	-
+ectb_1029	0	6	kinds	NNS	*)	-	-	-	-	-
+ectb_1029	0	7	of	IN	(PP*	-	-	-	-	-
+ectb_1029	0	8	large	JJ	(NP*	-	-	-	-	-
+ectb_1029	0	9	instruments	NNS	*)))	-	-	-	-	-
+ectb_1029	0	10	,	,	*	-	-	-	-	-
+ectb_1029	0	11	for	IN	(SBAR*	-	-	-	-	-
+ectb_1029	0	12	all	DT	(S(NP(NP*	-	-	-	-	-
+ectb_1029	0	13	stages	NNS	*)	stage	-	2	-	-
+ectb_1029	0	14	of	IN	(PP*	-	-	-	-	-
+ectb_1029	0	15	their	PRP$	(NP*	-	-	-	-	(41)
+ectb_1029	0	16	experiments	NNS	*)))	experiment	01	1	-	-
+ectb_1029	0	17	will	MD	(VP*	-	-	-	-	-
+ectb_1029	0	18	be	VB	(VP*	be	03	-	-	-
+ectb_1029	0	19	carried	VBN	(VP*	carry	03	-	-	-
+ectb_1029	0	20	out	RP	(PRT*)	-	-	-	-	-
+ectb_1029	0	21	on	IN	(PP*	-	-	-	-	-
+ectb_1029	0	22	little	JJ	(NP*	-	-	-	-	-
+ectb_1029	0	23	biochips	NNS	*))	-	-	-	-	-
+ectb_1029	0	24	,	,	*	-	-	-	-	-
+ectb_1029	0	25	saving	VBG	(S(VP*	save	01	3	-	-
+ectb_1029	0	26	time	NN	(NP*	time	-	3	-	-
+ectb_1029	0	27	,	,	*	-	-	-	-	-
+ectb_1029	0	28	effort	NN	*	effort	-	1	-	-
+ectb_1029	0	29	and	CC	*	-	-	-	-	-
+ectb_1029	0	30	money	NN	*))))))))))	money	-	2	-	-
+ectb_1029	0	31	.	.	*))	-	-	-	-	-
+
+ectb_1029	0	0	Today	NN	(TOP(S(NP*)	today	-	1	-	-
+ectb_1029	0	1	,	,	*	-	-	-	-	-
+ectb_1029	0	2	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1029	0	3	scenes	NNS	*)	-	-	-	-	-
+ectb_1029	0	4	outlined	VBN	(VP*	outline	01	-	-	-
+ectb_1029	0	5	above	RB	(ADVP*)))	-	-	-	-	-
+ectb_1029	0	6	may	MD	(VP*	-	-	-	-	-
+ectb_1029	0	7	just	RB	(ADVP*)	-	-	-	-	-
+ectb_1029	0	8	seem	VB	(VP*	seem	01	1	-	-
+ectb_1029	0	9	like	IN	(PP*	-	-	-	-	-
+ectb_1029	0	10	pipe	NN	(NP*	pipe	-	1	-	(50
+ectb_1029	0	11	dreams	NNS	*))))	dream	-	2	-	50)
+ectb_1029	0	12	.	.	*))	-	-	-	-	-
+
+ectb_1029	0	0	But	CC	(TOP(S(S*	-	-	-	-	-
+ectb_1029	0	1	these	DT	(NP*	-	-	-	-	(50
+ectb_1029	0	2	dreams	NNS	*)	dream	-	2	-	50)
+ectb_1029	0	3	could	MD	(VP*	-	-	-	-	-
+ectb_1029	0	4	yet	RB	(ADVP*)	-	-	-	-	-
+ectb_1029	0	5	come	VB	(VP*	come	04	3	-	(47)
+ectb_1029	0	6	true	JJ	(ADJP*))))	-	-	-	-	-
+ectb_1029	0	7	,	,	*	-	-	-	-	-
+ectb_1029	0	8	and	CC	*	-	-	-	-	-
+ectb_1029	0	9	the	DT	(S(NP(NP*	-	-	-	-	-
+ectb_1029	0	10	key	NN	*)	-	-	-	-	-
+ectb_1029	0	11	to	IN	(PP*	-	-	-	-	-
+ectb_1029	0	12	that	DT	(NP*	-	-	-	-	(47
+ectb_1029	0	13	happening	VBG	*)))	happen	01	-	-	47)
+ectb_1029	0	14	is	VBZ	(VP*	be	01	2	-	-
+ectb_1029	0	15	those	DT	(NP*	-	-	-	-	-
+ectb_1029	0	16	little	JJ	*	-	-	-	-	-
+ectb_1029	0	17	biochips	NNS	*)))	-	-	-	-	-
+ectb_1029	0	18	.	.	*))	-	-	-	-	-
+
+#end document

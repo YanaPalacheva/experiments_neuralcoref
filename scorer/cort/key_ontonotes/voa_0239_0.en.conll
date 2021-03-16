@@ -1,0 +1,66 @@
+#begin document (voa_0239_0); part 000
+voa_0239	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	(1
+voa_0239	0	1	head	NN	*)	-	-	-	-	-
+voa_0239	0	2	of	IN	(PP*	-	-	-	-	-
+voa_0239	0	3	official	JJ	(NP*	-	-	-	-	(0
+voa_0239	0	4	Palestinian	JJ	*	-	-	-	-	-
+voa_0239	0	5	television	NN	*)))	television	-	3	-	1)|0)
+voa_0239	0	6	has	VBZ	(VP*	have	01	-	-	-
+voa_0239	0	7	been	VBN	(VP*	be	03	-	-	-
+voa_0239	0	8	assassinated	VBN	(VP*)))	assassinate	01	1	-	-
+voa_0239	0	9	.	.	*))	-	-	-	-	-
+
+voa_0239	0	0	Hooded	JJ	(TOP(S(NP*	-	-	-	-	-
+voa_0239	0	1	men	NNS	*)	man	-	2	-	-
+voa_0239	0	2	gunned	VBD	(VP*	gun	01	-	-	-
+voa_0239	0	3	down	RP	(PRT*)	-	-	-	-	-
+voa_0239	0	4	Hisha	NNP	(NP*	-	-	-	-	(1
+voa_0239	0	5	Mickey	NNP	*)	-	-	-	-	1)
+voa_0239	0	6	at	IN	(PP*	-	-	-	-	-
+voa_0239	0	7	a	DT	(NP(NP*	-	-	-	-	-
+voa_0239	0	8	hotel	NN	*)	-	-	-	-	-
+voa_0239	0	9	in	IN	(PP*	-	-	-	-	-
+voa_0239	0	10	Gaza	NNP	(NP*	-	-	-	-	-
+voa_0239	0	11	City	NNP	*)))))	-	-	-	-	-
+voa_0239	0	12	.	.	*))	-	-	-	-	-
+
+voa_0239	0	0	The	DT	(TOP(S(NP*	-	-	-	-	-
+voa_0239	0	1	Palestinian	JJ	*	-	-	-	-	-
+voa_0239	0	2	leadership	NN	*)	leadership	-	2	-	-
+voa_0239	0	3	accused	VBD	(VP*	accuse	01	1	-	-
+voa_0239	0	4	the	DT	(NP(NP*	-	-	-	-	-
+voa_0239	0	5	collaborators	NNS	*)	-	-	-	-	-
+voa_0239	0	6	with	IN	(PP*	-	-	-	-	-
+voa_0239	0	7	Israel	NNP	(NP*)))	-	-	-	-	(2)
+voa_0239	0	8	for	IN	(PP*	-	-	-	-	-
+voa_0239	0	9	killing	VBG	(S(VP*	kill	01	1	-	-
+voa_0239	0	10	Mr.	NNP	(NP*	-	-	-	-	(1
+voa_0239	0	11	Mickey	NNP	*)))))	-	-	-	-	1)
+voa_0239	0	12	.	.	*))	-	-	-	-	-
+
+voa_0239	0	0	Israel	NNP	(TOP(S(NP*)	-	-	-	-	(2)
+voa_0239	0	1	says	VBZ	(VP*	say	01	1	-	-
+voa_0239	0	2	its	PRP$	(SBAR(S(NP*	-	-	-	-	(2)
+voa_0239	0	3	security	NN	*	security	-	4	-	-
+voa_0239	0	4	forces	NNS	*)	force	-	2	-	-
+voa_0239	0	5	were	VBD	(VP*	be	03	-	-	-
+voa_0239	0	6	not	RB	*	-	-	-	-	-
+voa_0239	0	7	involved	VBN	(VP*)))))	involve	01	1	-	-
+voa_0239	0	8	.	.	*))	-	-	-	-	-
+
+voa_0239	0	0	Mr.	NNP	(TOP(S(NP*	-	-	-	-	(1
+voa_0239	0	1	Mickey	NNP	*)	-	-	-	-	1)
+voa_0239	0	2	was	VBD	(VP*	be	01	1	-	-
+voa_0239	0	3	in	IN	(PP*	-	-	-	-	-
+voa_0239	0	4	charge	NN	(NP(NP*)	charge	-	8	-	-
+voa_0239	0	5	of	IN	(PP*	-	-	-	-	-
+voa_0239	0	6	Palestinian	JJ	(NP(NP*	-	-	-	-	(0
+voa_0239	0	7	television	NN	*)	television	-	3	-	-
+voa_0239	0	8	and	CC	*	-	-	-	-	-
+voa_0239	0	9	the	DT	(NP*	-	-	-	-	-
+voa_0239	0	10	Palestinian	JJ	*	-	-	-	-	-
+voa_0239	0	11	satellite	NN	*	-	-	-	-	-
+voa_0239	0	12	channel	NN	*))))))	channel	-	1	-	0)
+voa_0239	0	13	.	.	*))	-	-	-	-	-
+
+#end document

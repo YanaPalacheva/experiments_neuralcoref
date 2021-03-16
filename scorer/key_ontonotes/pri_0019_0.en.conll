@@ -1,0 +1,939 @@
+#begin document (pri_0019_0); part 000
+pri_0019	0	0	In	-
+pri_0019	0	1	what	-
+pri_0019	0	2	may	-
+pri_0019	0	3	have	-
+pri_0019	0	4	been	-
+pri_0019	0	5	a	-
+pri_0019	0	6	ripple	-
+pri_0019	0	7	effect	-
+pri_0019	0	8	of	-
+pri_0019	0	9	the	-
+pri_0019	0	10	Middle	(17
+pri_0019	0	11	East	17)
+pri_0019	0	12	crisis	-
+pri_0019	0	13	,	-
+pri_0019	0	14	an	(18
+pri_0019	0	15	explosion	18)
+pri_0019	0	16	today	(21)
+pri_0019	0	17	killed	-
+pri_0019	0	18	at	-
+pri_0019	0	19	least	-
+pri_0019	0	20	four	-
+pri_0019	0	21	sailors	-
+pri_0019	0	22	on	-
+pri_0019	0	23	a	(2
+pri_0019	0	24	US	-
+pri_0019	0	25	Navy	-
+pri_0019	0	26	destroyer	2)
+pri_0019	0	27	in	-
+pri_0019	0	28	the	(7
+pri_0019	0	29	Yemeni	-
+pri_0019	0	30	port	-
+pri_0019	0	31	of	-
+pri_0019	0	32	Aden	7)
+pri_0019	0	33	.	-
+
+pri_0019	0	0	American	-
+pri_0019	0	1	investigators	-
+pri_0019	0	2	are	-
+pri_0019	0	3	going	-
+pri_0019	0	4	to	-
+pri_0019	0	5	the	(1
+pri_0019	0	6	scene	1)
+pri_0019	0	7	but	-
+pri_0019	0	8	in	-
+pri_0019	0	9	Washington	(13)
+pri_0019	0	10	at	-
+pri_0019	0	11	the	-
+pri_0019	0	12	White	-
+pri_0019	0	13	House	-
+pri_0019	0	14	,	-
+pri_0019	0	15	the	(25
+pri_0019	0	16	Pentagon	25)
+pri_0019	0	17	and	-
+pri_0019	0	18	the	-
+pri_0019	0	19	State	-
+pri_0019	0	20	Department	-
+pri_0019	0	21	,	-
+pri_0019	0	22	US	-
+pri_0019	0	23	officials	-
+pri_0019	0	24	are	-
+pri_0019	0	25	already	-
+pri_0019	0	26	expressing	-
+pri_0019	0	27	suspicions	-
+pri_0019	0	28	that	-
+pri_0019	0	29	today	(18|(21
+pri_0019	0	30	's	21)
+pri_0019	0	31	explosion	18)
+pri_0019	0	32	was	-
+pri_0019	0	33	an	-
+pri_0019	0	34	act	-
+pri_0019	0	35	of	-
+pri_0019	0	36	terrorism	-
+pri_0019	0	37	.	-
+
+pri_0019	0	0	The	(9|(15
+pri_0019	0	1	World	-
+pri_0019	0	2	's	9)
+pri_0019	0	3	Clark	-
+pri_0019	0	4	Boyd	15)
+pri_0019	0	5	reports	-
+pri_0019	0	6	.	-
+
+pri_0019	0	0	The	(18
+pri_0019	0	1	blast	-
+pri_0019	0	2	,	-
+pri_0019	0	3	which	-
+pri_0019	0	4	occurred	-
+pri_0019	0	5	just	-
+pri_0019	0	6	after	-
+pri_0019	0	7	noon	-
+pri_0019	0	8	local	-
+pri_0019	0	9	time	-
+pri_0019	0	10	in	-
+pri_0019	0	11	Yemen	(11)|18)
+pri_0019	0	12	,	-
+pri_0019	0	13	ripped	-
+pri_0019	0	14	a	-
+pri_0019	0	15	20	-
+pri_0019	0	16	x	-
+pri_0019	0	17	40	-
+pri_0019	0	18	foot	-
+pri_0019	0	19	gash	-
+pri_0019	0	20	in	-
+pri_0019	0	21	the	(2
+pri_0019	0	22	USS	-
+pri_0019	0	23	Cole	-
+pri_0019	0	24	,	-
+pri_0019	0	25	a	-
+pri_0019	0	26	state	-
+pri_0019	0	27	-	-
+pri_0019	0	28	of	-
+pri_0019	0	29	-	-
+pri_0019	0	30	the	-
+pri_0019	0	31	-	-
+pri_0019	0	32	art	-
+pri_0019	0	33	destroyer	-
+pri_0019	0	34	that	-
+pri_0019	0	35	had	-
+pri_0019	0	36	stopped	-
+pri_0019	0	37	in	-
+pri_0019	0	38	Aden	(7)
+pri_0019	0	39	to	-
+pri_0019	0	40	refuel	-
+pri_0019	0	41	before	-
+pri_0019	0	42	joining	-
+pri_0019	0	43	the	-
+pri_0019	0	44	carrier	-
+pri_0019	0	45	George	-
+pri_0019	0	46	Washington	-
+pri_0019	0	47	in	-
+pri_0019	0	48	the	-
+pri_0019	0	49	Persian	-
+pri_0019	0	50	Gulf	2)
+pri_0019	0	51	.	-
+
+pri_0019	0	0	Speaking	-
+pri_0019	0	1	at	-
+pri_0019	0	2	the	(2
+pri_0019	0	3	Cole	-
+pri_0019	0	4	's	2)
+pri_0019	0	5	home	-
+pri_0019	0	6	base	-
+pri_0019	0	7	in	-
+pri_0019	0	8	Norfolk	-
+pri_0019	0	9	,	-
+pri_0019	0	10	Virginia	-
+pri_0019	0	11	,	-
+pri_0019	0	12	Admiral	(26
+pri_0019	0	13	John	-
+pri_0019	0	14	Foley	26)
+pri_0019	0	15	said	-
+pri_0019	0	16	that	-
+pri_0019	0	17	the	(19
+pri_0019	0	18	Navy	19)
+pri_0019	0	19	is	-
+pri_0019	0	20	investigating	-
+pri_0019	0	21	the	(18
+pri_0019	0	22	incident	18)
+pri_0019	0	23	.	-
+
+pri_0019	0	0	I	(26)
+pri_0019	0	1	do	-
+pri_0019	0	2	n't	-
+pri_0019	0	3	know	-
+pri_0019	0	4	whether	-
+pri_0019	0	5	it	(18)
+pri_0019	0	6	was	-
+pri_0019	0	7	terrorism	-
+pri_0019	0	8	or	-
+pri_0019	0	9	not	-
+pri_0019	0	10	.	-
+
+pri_0019	0	0	It	(18)
+pri_0019	0	1	was	-
+pri_0019	0	2	an	-
+pri_0019	0	3	act	-
+pri_0019	0	4	of	-
+pri_0019	0	5	certainly	-
+pri_0019	0	6	a	-
+pri_0019	0	7	severe	-
+pri_0019	0	8	belligerence	-
+pri_0019	0	9	but	-
+pri_0019	0	10	we	(19)
+pri_0019	0	11	do	-
+pri_0019	0	12	n't	-
+pri_0019	0	13	know	-
+pri_0019	0	14	the	-
+pri_0019	0	15	source	-
+pri_0019	0	16	,	-
+pri_0019	0	17	nor	-
+pri_0019	0	18	can	-
+pri_0019	0	19	I	(26)
+pri_0019	0	20	comment	-
+pri_0019	0	21	any	-
+pri_0019	0	22	further	-
+pri_0019	0	23	on	-
+pri_0019	0	24	that	-
+pri_0019	0	25	.	-
+
+pri_0019	0	0	But	-
+pri_0019	0	1	in	-
+pri_0019	0	2	Washington	(13)
+pri_0019	0	3	,	-
+pri_0019	0	4	Pentagon	(27|(25)
+pri_0019	0	5	officials	27)
+pri_0019	0	6	went	-
+pri_0019	0	7	further	-
+pri_0019	0	8	saying	-
+pri_0019	0	9	that	-
+pri_0019	0	10	they	(27)
+pri_0019	0	11	had	-
+pri_0019	0	12	every	-
+pri_0019	0	13	reason	-
+pri_0019	0	14	to	-
+pri_0019	0	15	suspect	-
+pri_0019	0	16	that	-
+pri_0019	0	17	the	(18
+pri_0019	0	18	blast	18)
+pri_0019	0	19	was	-
+pri_0019	0	20	caused	-
+pri_0019	0	21	by	-
+pri_0019	0	22	terrorists	-
+pri_0019	0	23	.	-
+
+pri_0019	0	0	The	*	*
+pri_0019	0	1	officials	*	*
+pri_0019	0	2	said	*	*
+pri_0019	0	3	that	*	*
+pri_0019	0	4	reports	*	*
+pri_0019	0	5	from	*	*
+pri_0019	0	6	the	*	*
+pri_0019	0	7	scene	*	*
+pri_0019	0	8	,	*	*
+pri_0019	0	9	including	*	*
+pri_0019	0	10	one	*	*
+pri_0019	0	11	from	*	*
+pri_0019	0	12	an	*	*
+pri_0019	0	13	Army	*	*
+pri_0019	0	14	officer	*	*
+pri_0019	0	15	working	*	*
+pri_0019	0	16	in	*	*
+pri_0019	0	17	Aden	*	*
+pri_0019	0	18	Harbor	*	*
+pri_0019	0	19	,	*	*
+pri_0019	0	20	suggested	*	*
+pri_0019	0	21	that	*	*
+pri_0019	0	22	a	(ARG0*	(ARG0*
+pri_0019	0	23	small	*	*
+pri_0019	0	24	rubber	*	*
+pri_0019	0	25	craft	*	*
+pri_0019	0	26	that	*	*
+pri_0019	0	27	was	*	*
+pri_0019	0	28	helping	*	*
+pri_0019	0	29	the	*	*
+pri_0019	0	30	Cole	*	*
+pri_0019	0	31	dock	*)	*)
+pri_0019	0	32	came	*	*
+pri_0019	0	33	alongside	*	*
+pri_0019	0	34	the	*	*
+pri_0019	0	35	destroyer	*	*
+pri_0019	0	36	and	*	*
+pri_0019	0	37	caused	(V*)	(V*)
+pri_0019	0	38	the	(ARG1*	(ARG1*
+pri_0019	0	39	blast	*)	*)
+pri_0019	0	40	.	*	*
+
+pri_0019	0	0	Many	-
+pri_0019	0	1	,	-
+pri_0019	0	2	including	-
+pri_0019	0	3	retired	-
+pri_0019	0	4	Admiral	-
+pri_0019	0	5	Eugene	-
+pri_0019	0	6	Carroll	-
+pri_0019	0	7	,	-
+pri_0019	0	8	are	-
+pri_0019	0	9	suspicious	-
+pri_0019	0	10	that	-
+pri_0019	0	11	the	(23
+pri_0019	0	12	small	-
+pri_0019	0	13	boat	23)
+pri_0019	0	14	may	-
+pri_0019	0	15	have	-
+pri_0019	0	16	been	-
+pri_0019	0	17	loaded	-
+pri_0019	0	18	with	-
+pri_0019	0	19	high	-
+pri_0019	0	20	-	-
+pri_0019	0	21	power	-
+pri_0019	0	22	explosives	-
+pri_0019	0	23	and	-
+pri_0019	0	24	that	-
+pri_0019	0	25	the	(18
+pri_0019	0	26	attack	18)
+pri_0019	0	27	was	-
+pri_0019	0	28	planned	-
+pri_0019	0	29	.	-
+
+pri_0019	0	0	That	*	*
+pri_0019	0	1	craft	*	*
+pri_0019	0	2	that	*	*
+pri_0019	0	3	approached	*	*
+pri_0019	0	4	the	*	*
+pri_0019	0	5	Cole	*	*
+pri_0019	0	6	is	*	*
+pri_0019	0	7	a	*	*
+pri_0019	0	8	rubber	*	*
+pri_0019	0	9	boat	*	*
+pri_0019	0	10	,	*	*
+pri_0019	0	11	not	*	*
+pri_0019	0	12	a	*	*
+pri_0019	0	13	big	*	*
+pri_0019	0	14	craft	*	*
+pri_0019	0	15	,	*	*
+pri_0019	0	16	but	*	*
+pri_0019	0	17	they	*	*
+pri_0019	0	18	would	*	*
+pri_0019	0	19	have	*	*
+pri_0019	0	20	had	*	*
+pri_0019	0	21	to	*	*
+pri_0019	0	22	pack	*	*
+pri_0019	0	23	it	*	*
+pri_0019	0	24	fully	*	*
+pri_0019	0	25	with	*	*
+pri_0019	0	26	explosives	*	*
+pri_0019	0	27	to	*	*
+pri_0019	0	28	do	*	*
+pri_0019	0	29	the	*	*
+pri_0019	0	30	amount	*	*
+pri_0019	0	31	of	*	*
+pri_0019	0	32	damage	*	*
+pri_0019	0	33	that	*	*
+pri_0019	0	34	they	*	*
+pri_0019	0	35	did	*	*
+pri_0019	0	36	to	*	*
+pri_0019	0	37	the	*	*
+pri_0019	0	38	Cole	*	*
+pri_0019	0	39	and	*	*
+pri_0019	0	40	that	*	*
+pri_0019	0	41	certainly	*	*
+pri_0019	0	42	would	*	*
+pri_0019	0	43	have	*	*
+pri_0019	0	44	taken	*	*
+pri_0019	0	45	time	*	*
+pri_0019	0	46	to	*	*
+pri_0019	0	47	get	(V*)	(V*)
+pri_0019	0	48	that	(ARG1*	(ARG1*
+pri_0019	0	49	put	*	*
+pri_0019	0	50	together	*)	*)
+pri_0019	0	51	.	*	*
+
+pri_0019	0	0	While	-
+pri_0019	0	1	both	-
+pri_0019	0	2	the	(25
+pri_0019	0	3	Pentagon	25)
+pri_0019	0	4	and	-
+pri_0019	0	5	the	-
+pri_0019	0	6	Justice	-
+pri_0019	0	7	Department	-
+pri_0019	0	8	today	(21)
+pri_0019	0	9	dispatched	-
+pri_0019	0	10	teams	-
+pri_0019	0	11	of	-
+pri_0019	0	12	experts	-
+pri_0019	0	13	to	-
+pri_0019	0	14	Yemen	(11)
+pri_0019	0	15	to	-
+pri_0019	0	16	investigate	-
+pri_0019	0	17	the	(18
+pri_0019	0	18	explosion	18)
+pri_0019	0	19	,	-
+pri_0019	0	20	Secretary	(0
+pri_0019	0	21	of	-
+pri_0019	0	22	State	-
+pri_0019	0	23	Madeleine	-
+pri_0019	0	24	Albright	0)
+pri_0019	0	25	urged	-
+pri_0019	0	26	caution	-
+pri_0019	0	27	saying	-
+pri_0019	0	28	it	-
+pri_0019	0	29	was	-
+pri_0019	0	30	too	-
+pri_0019	0	31	early	-
+pri_0019	0	32	to	-
+pri_0019	0	33	jump	-
+pri_0019	0	34	to	-
+pri_0019	0	35	any	-
+pri_0019	0	36	conclusions	-
+pri_0019	0	37	.	-
+
+pri_0019	0	0	Still	-
+pri_0019	0	1	,	-
+pri_0019	0	2	she	(0)
+pri_0019	0	3	promised	-
+pri_0019	0	4	that	-
+pri_0019	0	5	the	(6
+pri_0019	0	6	United	-
+pri_0019	0	7	States	6)
+pri_0019	0	8	would	-
+pri_0019	0	9	take	(16)
+pri_0019	0	10	appropriate	-
+pri_0019	0	11	action	-
+pri_0019	0	12	if	-
+pri_0019	0	13	terrorists	-
+pri_0019	0	14	were	-
+pri_0019	0	15	found	-
+pri_0019	0	16	to	-
+pri_0019	0	17	be	-
+pri_0019	0	18	behind	-
+pri_0019	0	19	the	(18
+pri_0019	0	20	blast	18)
+pri_0019	0	21	,	-
+pri_0019	0	22	a	(16
+pri_0019	0	23	sentiment	-
+pri_0019	0	24	echoed	-
+pri_0019	0	25	later	-
+pri_0019	0	26	in	-
+pri_0019	0	27	the	-
+pri_0019	0	28	day	-
+pri_0019	0	29	by	-
+pri_0019	0	30	President	-
+pri_0019	0	31	Clinton	16)
+pri_0019	0	32	.	-
+
+pri_0019	0	0	If	-
+pri_0019	0	1	,	-
+pri_0019	0	2	as	-
+pri_0019	0	3	it	-
+pri_0019	0	4	now	-
+pri_0019	0	5	appears	-
+pri_0019	0	6	,	-
+pri_0019	0	7	this	(18)
+pri_0019	0	8	was	-
+pri_0019	0	9	an	-
+pri_0019	0	10	act	-
+pri_0019	0	11	of	-
+pri_0019	0	12	terrorism	-
+pri_0019	0	13	,	-
+pri_0019	0	14	it	(18)
+pri_0019	0	15	was	-
+pri_0019	0	16	a	-
+pri_0019	0	17	despicable	-
+pri_0019	0	18	and	-
+pri_0019	0	19	cowardly	-
+pri_0019	0	20	act	-
+pri_0019	0	21	.	-
+
+pri_0019	0	0	We	(6)
+pri_0019	0	1	will	-
+pri_0019	0	2	find	-
+pri_0019	0	3	out	-
+pri_0019	0	4	who	-
+pri_0019	0	5	is	-
+pri_0019	0	6	responsible	-
+pri_0019	0	7	and	-
+pri_0019	0	8	hold	-
+pri_0019	0	9	them	(14)
+pri_0019	0	10	accountable	-
+pri_0019	0	11	.	-
+
+pri_0019	0	0	If	-
+pri_0019	0	1	their	(14)
+pri_0019	0	2	intention	-
+pri_0019	0	3	was	-
+pri_0019	0	4	to	-
+pri_0019	0	5	deter	-
+pri_0019	0	6	us	(6)
+pri_0019	0	7	from	-
+pri_0019	0	8	our	(6)
+pri_0019	0	9	mission	-
+pri_0019	0	10	of	-
+pri_0019	0	11	promoting	-
+pri_0019	0	12	peace	-
+pri_0019	0	13	and	-
+pri_0019	0	14	security	-
+pri_0019	0	15	in	-
+pri_0019	0	16	the	(17
+pri_0019	0	17	Middle	-
+pri_0019	0	18	East	17)
+pri_0019	0	19	,	-
+pri_0019	0	20	they	(14)
+pri_0019	0	21	will	-
+pri_0019	0	22	fail	-
+pri_0019	0	23	utterly	-
+pri_0019	0	24	.	-
+
+pri_0019	0	0	For	-
+pri_0019	0	1	some	-
+pri_0019	0	2	terrorism	-
+pri_0019	0	3	experts	-
+pri_0019	0	4	today	(18|(21
+pri_0019	0	5	's	21)
+pri_0019	0	6	attack	-
+pri_0019	0	7	,	-
+pri_0019	0	8	which	-
+pri_0019	0	9	occurred	-
+pri_0019	0	10	against	-
+pri_0019	0	11	the	-
+pri_0019	0	12	backdrop	-
+pri_0019	0	13	of	-
+pri_0019	0	14	intense	-
+pri_0019	0	15	clashes	-
+pri_0019	0	16	between	-
+pri_0019	0	17	Palestinians	-
+pri_0019	0	18	and	-
+pri_0019	0	19	Israelis	-
+pri_0019	0	20	in	-
+pri_0019	0	21	the	(17
+pri_0019	0	22	Middle	-
+pri_0019	0	23	East	18)|17)
+pri_0019	0	24	,	-
+pri_0019	0	25	has	-
+pri_0019	0	26	an	-
+pri_0019	0	27	eerily	-
+pri_0019	0	28	familiar	-
+pri_0019	0	29	ring	-
+pri_0019	0	30	to	-
+pri_0019	0	31	it	-
+pri_0019	0	32	.	-
+
+pri_0019	0	0	Bruce	(8
+pri_0019	0	1	Hoffman	8)
+pri_0019	0	2	is	-
+pri_0019	0	3	the	-
+pri_0019	0	4	director	-
+pri_0019	0	5	of	-
+pri_0019	0	6	the	-
+pri_0019	0	7	Rand	-
+pri_0019	0	8	Corporation	-
+pri_0019	0	9	's	-
+pri_0019	0	10	Washington	(13)
+pri_0019	0	11	office	-
+pri_0019	0	12	.	-
+
+pri_0019	0	0	We	-
+pri_0019	0	1	have	-
+pri_0019	0	2	seen	-
+pri_0019	0	3	often	-
+pri_0019	0	4	in	-
+pri_0019	0	5	the	-
+pri_0019	0	6	past	-
+pri_0019	0	7	how	-
+pri_0019	0	8	violence	-
+pri_0019	0	9	and	-
+pri_0019	0	10	conflict	-
+pri_0019	0	11	and	-
+pri_0019	0	12	tensions	-
+pri_0019	0	13	in	-
+pri_0019	0	14	the	(17
+pri_0019	0	15	Middle	-
+pri_0019	0	16	East	17)
+pri_0019	0	17	often	-
+pri_0019	0	18	embroil	-
+pri_0019	0	19	the	(6
+pri_0019	0	20	United	-
+pri_0019	0	21	States	6)
+pri_0019	0	22	.	-
+
+pri_0019	0	0	One	*	*
+pri_0019	0	1	only	*	*
+pri_0019	0	2	has	*	*
+pri_0019	0	3	to	*	*
+pri_0019	0	4	recall	*	*
+pri_0019	0	5	the	*	*
+pri_0019	0	6	bombing	*	*
+pri_0019	0	7	of	*	*
+pri_0019	0	8	the	*	*
+pri_0019	0	9	US	*	*
+pri_0019	0	10	Marine	*	*
+pri_0019	0	11	barracks	*	*
+pri_0019	0	12	in	*	*
+pri_0019	0	13	Lebanon	*	*
+pri_0019	0	14	in	*	*
+pri_0019	0	15	1983	*	*
+pri_0019	0	16	,	*	*
+pri_0019	0	17	also	*	*
+pri_0019	0	18	a	*	*
+pri_0019	0	19	month	*	*
+pri_0019	0	20	before	*	*
+pri_0019	0	21	presidential	*	*
+pri_0019	0	22	election	*	*
+pri_0019	0	23	,	*	*
+pri_0019	0	24	also	*	*
+pri_0019	0	25	at	*	*
+pri_0019	0	26	a	*	*
+pri_0019	0	27	time	*	*
+pri_0019	0	28	when	*	*
+pri_0019	0	29	Israel	*	*
+pri_0019	0	30	was	*	*
+pri_0019	0	31	involving	*	*
+pri_0019	0	32	suitable	*	*
+pri_0019	0	33	ferment	*	*
+pri_0019	0	34	at	*	*
+pri_0019	0	35	that	*	*
+pri_0019	0	36	point	*	*
+pri_0019	0	37	in	*	*
+pri_0019	0	38	Lebanon	*	*
+pri_0019	0	39	now	*	*
+pri_0019	0	40	with	*	*
+pri_0019	0	41	the	*	*
+pri_0019	0	42	Palestinians	*	*
+pri_0019	0	43	,	*	*
+pri_0019	0	44	where	(ARGM-LOC*)	(ARGM-LOC*)
+pri_0019	0	45	the	(ARG1*	(ARG1*
+pri_0019	0	46	United	*	*
+pri_0019	0	47	States	*)	*)
+pri_0019	0	48	was	*	*
+pri_0019	0	49	also	*	*
+pri_0019	0	50	attempting	*	*
+pri_0019	0	51	actively	*	*
+pri_0019	0	52	to	*	*
+pri_0019	0	53	provide	*	*
+pri_0019	0	54	some	*	*
+pri_0019	0	55	stabilizing	*	*
+pri_0019	0	56	influence	*	*
+pri_0019	0	57	and	*	*
+pri_0019	0	58	unfortunately	(ARGM-MNR*	(ARGM-MNR*
+pri_0019	0	59	and	*	*
+pri_0019	0	60	tragically	*)	*)
+pri_0019	0	61	got	(V*)	(V*)
+pri_0019	0	62	caught	(ARG2*	(ARG2*
+pri_0019	0	63	up	*	*
+pri_0019	0	64	in	*	*
+pri_0019	0	65	the	*	*
+pri_0019	0	66	maelstrom	*)	*)
+pri_0019	0	67	and	*	*
+pri_0019	0	68	that	*	*
+pri_0019	0	69	seems	*	*
+pri_0019	0	70	to	*	*
+pri_0019	0	71	be	*	*
+pri_0019	0	72	the	*	*
+pri_0019	0	73	salient	*	*
+pri_0019	0	74	fact	*	*
+pri_0019	0	75	of	*	*
+pri_0019	0	76	this	*	*
+pri_0019	0	77	attack	*	*
+pri_0019	0	78	.	*	*
+
+pri_0019	0	0	And	-
+pri_0019	0	1	if	-
+pri_0019	0	2	this	(18
+pri_0019	0	3	attack	18)
+pri_0019	0	4	turns	-
+pri_0019	0	5	out	-
+pri_0019	0	6	to	-
+pri_0019	0	7	be	-
+pri_0019	0	8	the	-
+pri_0019	0	9	work	-
+pri_0019	0	10	of	-
+pri_0019	0	11	terrorists	-
+pri_0019	0	12	,	-
+pri_0019	0	13	Hoffman	(8)
+pri_0019	0	14	says	-
+pri_0019	0	15	it	(18)
+pri_0019	0	16	would	-
+pri_0019	0	17	signal	-
+pri_0019	0	18	a	-
+pri_0019	0	19	dangerous	-
+pri_0019	0	20	new	-
+pri_0019	0	21	trend	-
+pri_0019	0	22	.	-
+
+pri_0019	0	0	Maritime	-
+pri_0019	0	1	or	-
+pri_0019	0	2	marine	-
+pri_0019	0	3	-	-
+pri_0019	0	4	borne	-
+pri_0019	0	5	terrorist	-
+pri_0019	0	6	attacks	-
+pri_0019	0	7	are	(12)
+pri_0019	0	8	actually	-
+pri_0019	0	9	quite	-
+pri_0019	0	10	rare	-
+pri_0019	0	11	.	-
+
+pri_0019	0	0	That	(12)
+pri_0019	0	1	being	-
+pri_0019	0	2	said	-
+pri_0019	0	3	it	(18)
+pri_0019	0	4	could	-
+pri_0019	0	5	well	-
+pri_0019	0	6	be	-
+pri_0019	0	7	the	-
+pri_0019	0	8	beginning	-
+pri_0019	0	9	of	-
+pri_0019	0	10	a	-
+pri_0019	0	11	new	-
+pri_0019	0	12	pattern	-
+pri_0019	0	13	.	-
+
+pri_0019	0	0	We	(6)
+pri_0019	0	1	have	-
+pri_0019	0	2	made	-
+pri_0019	0	3	it	-
+pri_0019	0	4	far	-
+pri_0019	0	5	more	-
+pri_0019	0	6	difficult	-
+pri_0019	0	7	,	-
+pri_0019	0	8	appropriately	-
+pri_0019	0	9	so	-
+pri_0019	0	10	,	-
+pri_0019	0	11	for	-
+pri_0019	0	12	terrorists	-
+pri_0019	0	13	to	-
+pri_0019	0	14	attack	-
+pri_0019	0	15	our	(6)
+pri_0019	0	16	ground	-
+pri_0019	0	17	forces	-
+pri_0019	0	18	in	-
+pri_0019	0	19	the	-
+pri_0019	0	20	Arabian	-
+pri_0019	0	21	Peninsula	-
+pri_0019	0	22	.	-
+
+pri_0019	0	0	So	-
+pri_0019	0	1	,	-
+pri_0019	0	2	I	(8)
+pri_0019	0	3	think	-
+pri_0019	0	4	terrorists	(24
+pri_0019	0	5	prevented	-
+pri_0019	0	6	from	-
+pri_0019	0	7	attacking	-
+pri_0019	0	8	their	(24)
+pri_0019	0	9	targets	-
+pri_0019	0	10	using	-
+pri_0019	0	11	their	(24)
+pri_0019	0	12	more	-
+pri_0019	0	13	conventional	-
+pri_0019	0	14	means	-
+pri_0019	0	15	`	-
+pri_0019	0	16	truck	-
+pri_0019	0	17	bombs	-
+pri_0019	0	18	'	24)
+pri_0019	0	19	have	-
+pri_0019	0	20	merely	-
+pri_0019	0	21	adjusted	(3)
+pri_0019	0	22	their	(24)
+pri_0019	0	23	tactics	-
+pri_0019	0	24	slightly	-
+pri_0019	0	25	and	-
+pri_0019	0	26	obviously	-
+pri_0019	0	27	they	(24)
+pri_0019	0	28	have	-
+pri_0019	0	29	been	-
+pri_0019	0	30	successful	-
+pri_0019	0	31	with	-
+pri_0019	0	32	it	(3)
+pri_0019	0	33	today	(21)
+pri_0019	0	34	.	-
+
+pri_0019	0	0	On	*	*
+pri_0019	0	1	Yemeni	*	*
+pri_0019	0	2	TV	*	*
+pri_0019	0	3	today	*	*
+pri_0019	0	4	the	*	*
+pri_0019	0	5	country	*	*
+pri_0019	0	6	's	*	*
+pri_0019	0	7	President	*	*
+pri_0019	0	8	expressed	*	*
+pri_0019	0	9	his	*	*
+pri_0019	0	10	heart	*	*
+pri_0019	0	11	-	*	*
+pri_0019	0	12	felt	*	*
+pri_0019	0	13	condolences	*	*
+pri_0019	0	14	to	*	*
+pri_0019	0	15	those	*	*
+pri_0019	0	16	who	*	*
+pri_0019	0	17	were	*	*
+pri_0019	0	18	killed	*	*
+pri_0019	0	19	and	*	*
+pri_0019	0	20	injured	*	*
+pri_0019	0	21	,	*	*
+pri_0019	0	22	but	*	*
+pri_0019	0	23	denied	*	*
+pri_0019	0	24	that	*	*
+pri_0019	0	25	the	*	*
+pri_0019	0	26	explosion	*	*
+pri_0019	0	27	on	*	*
+pri_0019	0	28	board	*	*
+pri_0019	0	29	the	*	*
+pri_0019	0	30	cole	*	*
+pri_0019	0	31	was	*	*
+pri_0019	0	32	caused	*	*
+pri_0019	0	33	by	*	*
+pri_0019	0	34	terrorists	*	*
+pri_0019	0	35	,	*	*
+pri_0019	0	36	although	*	*
+pri_0019	0	37	,	*	*
+pri_0019	0	38	admits	(V*)	(V*)
+pri_0019	0	39	Mohammed	(ARG0*	(ARG0*
+pri_0019	0	40	Al	*	*
+pri_0019	0	41	-	*	*
+pri_0019	0	42	Qadhi	*	*
+pri_0019	0	43	,	*	*
+pri_0019	0	44	editor	*	*
+pri_0019	0	45	of	*	*
+pri_0019	0	46	the	*	*
+pri_0019	0	47	Yemen	*	*
+pri_0019	0	48	Observer	*	*
+pri_0019	0	49	newspaper	*	*
+pri_0019	0	50	in	*	*
+pri_0019	0	51	the	*	*
+pri_0019	0	52	capital	*	*
+pri_0019	0	53	Sana	*)	*)
+pri_0019	0	54	,	*	*
+pri_0019	0	55	anti-American	*	*
+pri_0019	0	56	sentiment	*	*
+pri_0019	0	57	has	*	*
+pri_0019	0	58	been	*	*
+pri_0019	0	59	running	*	*
+pri_0019	0	60	high	*	*
+pri_0019	0	61	in	*	*
+pri_0019	0	62	Yemen	*	*
+pri_0019	0	63	because	*	*
+pri_0019	0	64	of	*	*
+pri_0019	0	65	events	*	*
+pri_0019	0	66	in	*	*
+pri_0019	0	67	the	*	*
+pri_0019	0	68	Middle	*	*
+pri_0019	0	69	East	*	*
+pri_0019	0	70	.	*	*
+
+pri_0019	0	0	The	(5
+pri_0019	0	1	people	-
+pri_0019	0	2	now	-
+pri_0019	0	3	in	-
+pri_0019	0	4	the	-
+pri_0019	0	5	streets	5)
+pri_0019	0	6	are	-
+pri_0019	0	7	gathering	-
+pri_0019	0	8	because	-
+pri_0019	0	9	they	(5)
+pri_0019	0	10	feel	-
+pri_0019	0	11	that	-
+pri_0019	0	12	not	-
+pri_0019	0	13	just	-
+pri_0019	0	14	as	-
+pri_0019	0	15	Arabs	-
+pri_0019	0	16	,	-
+pri_0019	0	17	as	-
+pri_0019	0	18	human	-
+pri_0019	0	19	beings	-
+pri_0019	0	20	,	-
+pri_0019	0	21	that	-
+pri_0019	0	22	what	-
+pri_0019	0	23	is	-
+pri_0019	0	24	happening	-
+pri_0019	0	25	in	-
+pri_0019	0	26	Palestine	-
+pri_0019	0	27	is	-
+pri_0019	0	28	not	-
+pri_0019	0	29	humanitarian	-
+pri_0019	0	30	.	-
+
+pri_0019	0	0	Regarding	-
+pri_0019	0	1	the	(6
+pri_0019	0	2	United	-
+pri_0019	0	3	States	-
+pri_0019	0	4	'	6)
+pri_0019	0	5	attitude	-
+pri_0019	0	6	in	-
+pri_0019	0	7	this	-
+pri_0019	0	8	regard	-
+pri_0019	0	9	,	-
+pri_0019	0	10	we	-
+pri_0019	0	11	find	-
+pri_0019	0	12	that	-
+pri_0019	0	13	the	(6
+pri_0019	0	14	United	-
+pri_0019	0	15	States	6)
+pri_0019	0	16	until	-
+pri_0019	0	17	now	-
+pri_0019	0	18	are	-
+pri_0019	0	19	supporting	-
+pri_0019	0	20	Israel	(22)
+pri_0019	0	21	.	-
+
+pri_0019	0	0	The	-
+pri_0019	0	1	people	-
+pri_0019	0	2	here	-
+pri_0019	0	3	feel	-
+pri_0019	0	4	that	-
+pri_0019	0	5	United	(6
+pri_0019	0	6	States	6)
+pri_0019	0	7	should	-
+pri_0019	0	8	do	-
+pri_0019	0	9	something	-
+pri_0019	0	10	.	-
+
+pri_0019	0	0	With	-
+pri_0019	0	1	tensions	-
+pri_0019	0	2	running	-
+pri_0019	0	3	high	-
+pri_0019	0	4	throughout	-
+pri_0019	0	5	the	(17
+pri_0019	0	6	Middle	-
+pri_0019	0	7	East	17)
+pri_0019	0	8	,	-
+pri_0019	0	9	today	(18|(21
+pri_0019	0	10	's	21)
+pri_0019	0	11	incident	-
+pri_0019	0	12	off	-
+pri_0019	0	13	the	-
+pri_0019	0	14	coast	-
+pri_0019	0	15	of	-
+pri_0019	0	16	Yemen	(11)|18)
+pri_0019	0	17	serves	-
+pri_0019	0	18	as	-
+pri_0019	0	19	a	-
+pri_0019	0	20	warning	-
+pri_0019	0	21	.	-
+
+pri_0019	0	0	US	-
+pri_0019	0	1	armed	-
+pri_0019	0	2	forces	-
+pri_0019	0	3	and	-
+pri_0019	0	4	diplomatic	-
+pri_0019	0	5	personnel	-
+pri_0019	0	6	might	-
+pri_0019	0	7	be	-
+pri_0019	0	8	on	-
+pri_0019	0	9	high	-
+pri_0019	0	10	alert	-
+pri_0019	0	11	for	-
+pri_0019	0	12	sometime	-
+pri_0019	0	13	to	-
+pri_0019	0	14	come	-
+pri_0019	0	15	.	-
+
+pri_0019	0	0	For	-
+pri_0019	0	1	The	(9
+pri_0019	0	2	World	9)
+pri_0019	0	3	this	(15)
+pri_0019	0	4	is	-
+pri_0019	0	5	Clark	-
+pri_0019	0	6	Boyd	-
+pri_0019	0	7	.	-
+
+#end document

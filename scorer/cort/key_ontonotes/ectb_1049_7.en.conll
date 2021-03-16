@@ -1,0 +1,137 @@
+#begin document (ectb_1049_7); part 000
+ectb_1049	7	0	p.	NN	(TOP(NP*	-	-	-	-	-
+ectb_1049	7	1	094	CD	*))	-	-	-	-	-
+
+ectb_1049	7	0	High	JJ	(TOP(S(S(NP*	-	-	-	-	(6
+ectb_1049	7	1	-	HYPH	*	-	-	-	-	-
+ectb_1049	7	2	rises	NNS	*)	-	-	-	-	6)
+ectb_1049	7	3	are	VBP	(VP*	be	03	-	-	-
+ectb_1049	7	4	thought	VBN	(VP*	think	01	1	-	-
+ectb_1049	7	5	by	IN	(PP*	-	-	-	-	-
+ectb_1049	7	6	many	JJ	(NP*))	-	-	-	-	-
+ectb_1049	7	7	to	TO	(S(VP*	-	-	-	-	-
+ectb_1049	7	8	represent	VB	(VP*	represent	01	1	-	-
+ectb_1049	7	9	development	NN	(NP*)))))))	-	-	-	-	-
+ectb_1049	7	10	,	,	*	-	-	-	-	-
+ectb_1049	7	11	but	CC	*	-	-	-	-	-
+ectb_1049	7	12	in	IN	(S(PP*	-	-	-	-	-
+ectb_1049	7	13	Tanshui	NNP	(NP*))	-	-	-	-	(42)
+ectb_1049	7	14	they	PRP	(NP*)	-	-	-	-	(6)
+ectb_1049	7	15	are	VBP	(VP*	be	03	-	-	-
+ectb_1049	7	16	ruining	VBG	(VP*	ruin	01	1	-	-
+ectb_1049	7	17	the	DT	(NP(NP(NP*	-	-	-	-	-
+ectb_1049	7	18	skyline	NN	*)	-	-	-	-	-
+ectb_1049	7	19	and	CC	*	-	-	-	-	-
+ectb_1049	7	20	the	DT	(NP*	-	-	-	-	-
+ectb_1049	7	21	historic	JJ	*	-	-	-	-	-
+ectb_1049	7	22	ambience	NN	*))	-	-	-	-	-
+ectb_1049	7	23	of	IN	(PP*	-	-	-	-	-
+ectb_1049	7	24	the	DT	(NP*	-	-	-	-	(42
+ectb_1049	7	25	town	NN	*))))))	town	-	1	-	42)
+ectb_1049	7	26	.	.	*))	-	-	-	-	-
+
+ectb_1049	7	0	p.	NN	(TOP(NP*	-	-	-	-	-
+ectb_1049	7	1	095	CD	*))	-	-	-	-	-
+
+ectb_1049	7	0	An	DT	(TOP(S(NP*	-	-	-	-	-
+ectb_1049	7	1	old	JJ	*	-	-	-	-	-
+ectb_1049	7	2	Tanshui	NNP	*	-	-	-	-	(42)
+ectb_1049	7	3	resident	NN	*)	-	-	-	-	-
+ectb_1049	7	4	sits	VBZ	(VP*	sit	01	1	-	-
+ectb_1049	7	5	with	IN	(SBAR*	-	-	-	-	-
+ectb_1049	7	6	legs	NNS	(S(NP*)	-	-	-	-	-
+ectb_1049	7	7	crossed	VBN	(VP*)))	cross	01	4	-	-
+ectb_1049	7	8	reading	VBG	(S(VP*	read	01	1	-	-
+ectb_1049	7	9	the	DT	(NP*	-	-	-	-	-
+ectb_1049	7	10	paper	NN	*)))	paper	-	2	-	-
+ectb_1049	7	11	,	,	*	-	-	-	-	-
+ectb_1049	7	12	as	IN	(SBAR*	-	-	-	-	-
+ectb_1049	7	13	the	DT	(S(NP(NP(NP*	-	-	-	-	-
+ectb_1049	7	14	passage	NN	*)	passage	02	1	-	-
+ectb_1049	7	15	of	IN	(PP*	-	-	-	-	-
+ectb_1049	7	16	time	NN	(NP*)))	time	-	2	-	-
+ectb_1049	7	17	,	,	*	-	-	-	-	-
+ectb_1049	7	18	marked	VBN	(VP*	mark	01	1	-	-
+ectb_1049	7	19	on	IN	(PP*	-	-	-	-	-
+ectb_1049	7	20	the	DT	(NP(NP*	-	-	-	-	-
+ectb_1049	7	21	calendar	NN	*)	calendar	-	2	-	-
+ectb_1049	7	22	on	IN	(PP*	-	-	-	-	-
+ectb_1049	7	23	the	DT	(NP*	-	-	-	-	-
+ectb_1049	7	24	wall	NN	*))))))	-	-	-	-	-
+ectb_1049	7	25	,	,	*	-	-	-	-	-
+ectb_1049	7	26	adds	VBZ	(VP*	add	02	1	-	-
+ectb_1049	7	27	a	DT	(NP*	-	-	-	-	-
+ectb_1049	7	28	gloss	NN	*)	-	-	-	-	-
+ectb_1049	7	29	to	IN	(PP*	-	-	-	-	-
+ectb_1049	7	30	the	DT	(NP*	-	-	-	-	-
+ectb_1049	7	31	antiques	NNS	*))))))	-	-	-	-	-
+ectb_1049	7	32	.	.	*))	-	-	-	-	-
+
+ectb_1049	7	0	p.	NN	(TOP(NP*	-	-	-	-	-
+ectb_1049	7	1	096	CD	*))	-	-	-	-	-
+
+ectb_1049	7	0	-LRB-	-LRB-	(TOP(NP*	-	-	-	-	-
+ectb_1049	7	1	facing	VBG	*	face	01	-	-	-
+ectb_1049	7	2	page	NN	*	page	-	1	-	-
+ectb_1049	7	3	-RRB-	-RRB-	*))	-	-	-	-	-
+
+ectb_1049	7	0	These	DT	(TOP(S(S(NP*	-	-	-	-	(8
+ectb_1049	7	1	lovers	NNS	*)	-	-	-	-	8)
+ectb_1049	7	2	may	MD	(VP*	-	-	-	-	-
+ectb_1049	7	3	be	VB	(VP*	be	03	-	-	-
+ectb_1049	7	4	gazing	VBG	(VP*	gaze	01	-	-	-
+ectb_1049	7	5	at	IN	(PP*	-	-	-	-	-
+ectb_1049	7	6	Tanshui	NNP	(NP*))	-	-	-	-	(42)
+ectb_1049	7	7	with	IN	(PP*	-	-	-	-	-
+ectb_1049	7	8	their	PRP$	(NP*	-	-	-	-	(8)
+ectb_1049	7	9	eyes	NNS	*))))))	-	-	-	-	-
+ectb_1049	7	10	,	,	*	-	-	-	-	-
+ectb_1049	7	11	but	CC	*	-	-	-	-	-
+ectb_1049	7	12	their	PRP$	(S(NP*	-	-	-	-	(8)
+ectb_1049	7	13	hearts	NNS	*)	heart	-	6	-	-
+ectb_1049	7	14	have	VBP	(VP*	have	03	11	-	-
+ectb_1049	7	15	eyes	NNS	(NP(NP*)	-	-	-	-	-
+ectb_1049	7	16	only	RB	(PP(ADVP*)	-	-	-	-	-
+ectb_1049	7	17	for	IN	*	-	-	-	-	-
+ectb_1049	7	18	one	CD	(NP*	-	-	-	-	-
+ectb_1049	7	19	another	DT	*)))))	-	-	-	-	-
+ectb_1049	7	20	.	.	*))	-	-	-	-	-
+
+ectb_1049	7	0	Tranquil	JJ	(TOP(S(NP(ADJP*	-	-	-	-	(42
+ectb_1049	7	1	and	CC	*	-	-	-	-	-
+ectb_1049	7	2	romantic	JJ	*)	-	-	-	-	-
+ectb_1049	7	3	Tanshui	NNP	*)	-	-	-	-	42)
+ectb_1049	7	4	is	VBZ	(VP*	be	01	1	-	-
+ectb_1049	7	5	a	DT	(NP(NP*	-	-	-	-	-
+ectb_1049	7	6	great	JJ	*	-	-	-	-	-
+ectb_1049	7	7	place	NN	*)	place	-	1	-	-
+ectb_1049	7	8	for	IN	(PP*	-	-	-	-	-
+ectb_1049	7	9	wedding	NN	(NP*	-	-	-	-	-
+ectb_1049	7	10	photos	NNS	*))))	-	-	-	-	-
+ectb_1049	7	11	.	.	*))	-	-	-	-	-
+
+ectb_1049	7	0	p.	NN	(TOP(NP*	-	-	-	-	-
+ectb_1049	7	1	097	CD	*))	-	-	-	-	-
+
+ectb_1049	7	0	As	IN	(TOP(S(SBAR*	-	-	-	-	-
+ectb_1049	7	1	the	DT	(S(NP*	-	-	-	-	-
+ectb_1049	7	2	lazy	JJ	*	-	-	-	-	-
+ectb_1049	7	3	sun	NN	*)	-	-	-	-	-
+ectb_1049	7	4	displays	VBZ	(VP*	display	01	1	-	-
+ectb_1049	7	5	an	DT	(NP*	-	-	-	-	-
+ectb_1049	7	6	extraordinary	JJ	*	-	-	-	-	-
+ectb_1049	7	7	beauty	NN	*))))	-	-	-	-	-
+ectb_1049	7	8	,	,	*	-	-	-	-	-
+ectb_1049	7	9	a	DT	(NP*	-	-	-	-	-
+ectb_1049	7	10	fishing	NN	*	-	-	-	-	-
+ectb_1049	7	11	boat	NN	*)	-	-	-	-	-
+ectb_1049	7	12	drifts	VBZ	(VP*	drift	01	1	-	-
+ectb_1049	7	13	toward	IN	(PP*	-	-	-	-	-
+ectb_1049	7	14	shore	NN	(NP*))	shore	-	1	-	-
+ectb_1049	7	15	over	IN	(PP*	-	-	-	-	-
+ectb_1049	7	16	the	DT	(NP*	-	-	-	-	-
+ectb_1049	7	17	golden	JJ	*	-	-	-	-	-
+ectb_1049	7	18	water	NN	*)))	water	-	3	-	-
+ectb_1049	7	19	.	.	*))	-	-	-	-	-
+
+#end document
